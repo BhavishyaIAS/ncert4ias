@@ -5,7 +5,7 @@
 -- ===========================================================================
 
 -- ---------------------------------------------------------------------------
--- Helpers: updated_at, is_admin (SECURITY DEFINER avoids RLS recursion)
+-- Helper: updated_at (no table dependency, safe to define first)
 -- ---------------------------------------------------------------------------
 create or replace function public.set_updated_at()
 returns trigger language plpgsql as $$
@@ -13,19 +13,6 @@ begin
   new.updated_at = now();
   return new;
 end;
-$$;
-
-create or replace function public.is_admin()
-returns boolean
-language sql
-security definer
-set search_path = public
-stable
-as $$
-  select exists (
-    select 1 from public.profiles
-    where id = auth.uid() and role = 'admin'
-  );
 $$;
 
 -- ---------------------------------------------------------------------------
@@ -38,6 +25,22 @@ create table if not exists public.profiles (
   created_at timestamptz not null default now(),
   updated_at timestamptz not null default now()
 );
+
+-- is_admin() must be defined AFTER profiles exists: it's a SQL-language
+-- function, so its body is validated against public.profiles at creation.
+-- SECURITY DEFINER lets it read profiles without tripping RLS recursion.
+create or replace function public.is_admin()
+returns boolean
+language sql
+security definer
+set search_path = public
+stable
+as $$
+  select exists (
+    select 1 from public.profiles
+    where id = auth.uid() and role = 'admin'
+  );
+$$;
 
 -- Auto-create a profile whenever a new auth user signs up.
 create or replace function public.handle_new_user()
