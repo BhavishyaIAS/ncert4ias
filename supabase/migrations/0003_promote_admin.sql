@@ -8,7 +8,7 @@ update public.profiles
 set role = 'admin'
 where id = (
   select id from auth.users
-  where email = 'CHANGE_ME@example.com'
+  where email = 'girishvenky007@gmail.com'
 );
 
 -- Verify:
