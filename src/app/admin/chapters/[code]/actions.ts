@@ -123,3 +123,71 @@ export async function deleteMcq(formData: FormData): Promise<void> {
   await supabase.from("mcqs").delete().eq("id", id);
   revalidateChapter(chapterCode);
 }
+
+// ── Mains questions ──────────────────────────────────────────────────────────
+
+const GS_PAPERS = ["GS-I", "GS-II", "GS-III", "GS-IV", "Essay"] as const;
+type GsPaper = (typeof GS_PAPERS)[number];
+
+function readMains(formData: FormData) {
+  const gsRaw = str(formData.get("gs_paper"));
+  const wl = parseInt(str(formData.get("word_limit")), 10);
+  return {
+    question: str(formData.get("question")),
+    model_answer_html: str(formData.get("model_answer_html")) || null,
+    directive_word: str(formData.get("directive_word")) || null,
+    word_limit: Number.isFinite(wl) ? wl : null,
+    gs_paper: GS_PAPERS.includes(gsRaw as GsPaper) ? (gsRaw as GsPaper) : null,
+    status: (str(formData.get("status")) === "published"
+      ? "published"
+      : "draft") as ContentStatus,
+  };
+}
+
+export async function createMains(
+  _prev: ActionState,
+  formData: FormData,
+): Promise<ActionState> {
+  const profile = await requireAdmin();
+  const chapterId = str(formData.get("chapter_id"));
+  const chapterCode = str(formData.get("chapter_code"));
+  const m = readMains(formData);
+  if (!m.question) return { error: "The question is required." };
+
+  const supabase = await createClient();
+  const { error } = await supabase
+    .from("mains_questions")
+    .insert({ chapter_id: chapterId, author_id: profile.id, ...m });
+  if (error) return { error: error.message };
+
+  revalidateChapter(chapterCode);
+  return {};
+}
+
+export async function updateMains(
+  _prev: ActionState,
+  formData: FormData,
+): Promise<ActionState> {
+  await requireAdmin();
+  const id = str(formData.get("id"));
+  const chapterCode = str(formData.get("chapter_code"));
+  const m = readMains(formData);
+  if (!m.question) return { error: "The question is required." };
+
+  const supabase = await createClient();
+  const { error } = await supabase.from("mains_questions").update(m).eq("id", id);
+  if (error) return { error: error.message };
+
+  revalidateChapter(chapterCode);
+  return {};
+}
+
+export async function deleteMains(formData: FormData): Promise<void> {
+  await requireAdmin();
+  const id = str(formData.get("id"));
+  const chapterCode = str(formData.get("chapter_code"));
+  if (!id) return;
+  const supabase = await createClient();
+  await supabase.from("mains_questions").delete().eq("id", id);
+  revalidateChapter(chapterCode);
+}

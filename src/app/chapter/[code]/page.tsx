@@ -1,13 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getChapterByCode, getGist, getMcqs } from "@/lib/queries";
+import { getChapterByCode, getGist, getMcqs, getMains } from "@/lib/queries";
 import { LADDER_RUNGS } from "@/lib/config/taxonomy";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { GistView } from "@/components/gist-view";
 import { PrelimsPractice } from "@/components/prelims-practice";
+import { MainsPractice } from "@/components/mains-practice";
 
 export async function generateMetadata({
   params,
@@ -39,9 +40,10 @@ export default async function ChapterPage({
   const chapter = await getChapterByCode(code);
   if (!chapter) notFound();
 
-  const [gist, mcqs] = await Promise.all([
+  const [gist, mcqs, mains] = await Promise.all([
     getGist(chapter.id),
     getMcqs(chapter.id),
+    getMains(chapter.id),
   ]);
   const { book } = chapter;
   const n = book.class.number;
@@ -140,7 +142,11 @@ export default async function ChapterPage({
           )}
         </TabsContent>
         <TabsContent value="mains" className="mt-6">
-          <RungComingSoon rung="Mains" />
+          {mains.length > 0 ? (
+            <MainsPractice items={mains} />
+          ) : (
+            <RungComingSoon rung="Mains" />
+          )}
         </TabsContent>
         <TabsContent value="pyqs" className="mt-6">
           <RungComingSoon rung="PYQs" />

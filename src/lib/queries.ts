@@ -174,6 +174,18 @@ export async function getMcqs(chapterId: string) {
   return data ?? [];
 }
 
+/** Mains questions for a chapter, RLS-scoped (students: published only). */
+export async function getMains(chapterId: string) {
+  const s = await createClient();
+  const { data } = await s
+    .from("mains_questions")
+    .select("*")
+    .eq("chapter_id", chapterId)
+    .order("order")
+    .order("created_at");
+  return data ?? [];
+}
+
 /** A single chapter by its permanent chapter_code, with class/subject context. */
 export async function getChapterByCode(
   code: string,
