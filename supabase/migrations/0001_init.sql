@@ -63,6 +63,9 @@ create trigger on_auth_user_created
   for each row execute function public.handle_new_user();
 
 -- Prevent non-admins from escalating their own role.
+-- Only guards changes made by an authenticated *end-user* who is not an admin.
+-- When auth.uid() is null (trusted server/superuser context — e.g. the initial
+-- admin bootstrap, or the service-role key), the change is allowed.
 create or replace function public.protect_profile_role()
 returns trigger
 language plpgsql
@@ -70,7 +73,9 @@ security definer
 set search_path = public
 as $$
 begin
-  if new.role is distinct from old.role and not public.is_admin() then
+  if new.role is distinct from old.role
+     and auth.uid() is not null
+     and not public.is_admin() then
     raise exception 'Only admins can change roles';
   end if;
   return new;
