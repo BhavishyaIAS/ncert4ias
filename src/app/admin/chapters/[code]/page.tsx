@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getChapterByCode, getGist } from "@/lib/queries";
+import { getChapterByCode, getGist, getMcqs } from "@/lib/queries";
 import { GistEditor } from "@/components/editor/gist-editor";
+import { McqManager } from "./_components/McqManager";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 
@@ -17,7 +18,10 @@ export default async function ChapterWorkspace({
   const chapter = await getChapterByCode(code);
   if (!chapter) notFound();
 
-  const gist = await getGist(chapter.id);
+  const [gist, mcqs] = await Promise.all([
+    getGist(chapter.id),
+    getMcqs(chapter.id),
+  ]);
   const { book } = chapter;
 
   return (
@@ -62,8 +66,19 @@ export default async function ChapterWorkspace({
         />
       </section>
 
+      <section className="space-y-3">
+        <h2 className="text-sm font-medium uppercase tracking-wide text-muted-foreground">
+          Prelims · MCQs
+        </h2>
+        <McqManager
+          chapterId={chapter.id}
+          chapterCode={chapter.chapter_code}
+          mcqs={mcqs}
+        />
+      </section>
+
       <p className="text-xs text-muted-foreground">
-        Prelims (MCQs) and Mains authoring arrive in the next milestones.
+        Mains authoring arrives in the next milestone.
       </p>
     </div>
   );

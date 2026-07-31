@@ -159,6 +159,21 @@ export async function getGist(chapterId: string) {
   return data;
 }
 
+/**
+ * MCQs for a chapter, RLS-scoped (students: published only; admins: all),
+ * ordered for stable display.
+ */
+export async function getMcqs(chapterId: string) {
+  const s = await createClient();
+  const { data } = await s
+    .from("mcqs")
+    .select("*")
+    .eq("chapter_id", chapterId)
+    .order("order")
+    .order("created_at");
+  return data ?? [];
+}
+
 /** A single chapter by its permanent chapter_code, with class/subject context. */
 export async function getChapterByCode(
   code: string,
