@@ -186,6 +186,119 @@ export async function getMains(chapterId: string) {
   return data ?? [];
 }
 
+// ---------------------------------------------------------------------------
+// GS lens
+// ---------------------------------------------------------------------------
+
+export async function getGsTags() {
+  const s = await createClient();
+  const { data } = await s.from("gs_tags").select("*").order("order");
+  return data ?? [];
+}
+
+export async function getChapterGsTagIds(chapterId: string): Promise<string[]> {
+  const s = await createClient();
+  const { data } = await s
+    .from("chapter_gs_tags")
+    .select("gs_tag_id")
+    .eq("chapter_id", chapterId);
+  return (data ?? []).map((r) => r.gs_tag_id);
+}
+
+export type GsChapter = ChapterRow & {
+  book: BookRow & { class: ClassRow; subject: SubjectRow };
+};
+
+/** Published chapters mapped to a GS tag (by code), with context. */
+export async function getChaptersForGsTag(code: string): Promise<{
+  tag: Tables<"gs_tags"> | null;
+  chapters: GsChapter[];
+}> {
+  const s = await createClient();
+  const { data: tag } = await s
+    .from("gs_tags")
+    .select("*")
+    .eq("code", code)
+    .maybeSingle();
+  if (!tag) return { tag: null, chapters: [] };
+
+  const { data } = await s
+    .from("chapters")
+    .select(
+      "*, book:books(*, class:classes(*), subject:subjects(*)), chapter_gs_tags!inner(gs_tag_id)",
+    )
+    .eq("chapter_gs_tags.gs_tag_id", tag.id);
+
+  const chapters = (data ?? []) as unknown as GsChapter[];
+  chapters.sort(
+    (a, b) =>
+      a.book.class.number - b.book.class.number ||
+      a.book.subject.order - b.book.subject.order ||
+      a.order - b.order,
+  );
+  return { tag, chapters };
+}
+
+// ---------------------------------------------------------------------------
+// Global search (RLS-scoped: students match only published content)
+// ---------------------------------------------------------------------------
+
+export async function search(q: string) {
+  const term = q.trim();
+  if (!term) {
+    return { chapters: [], gists: [], mcqs: [], pyqs: [] };
+  }
+  const like = `%${term}%`;
+  const s = await createClient();
+
+  const [chapters, gists, mcqs, pyqs] = await Promise.all([
+    s
+      .from("chapters")
+      .select("chapter_code, title, book:books(title, subject:subjects(name))")
+      .or(`title.ilike.${like},chapter_code.ilike.${like}`)
+      .limit(20),
+    s
+      .from("gists")
+      .select("chapter:chapters(chapter_code, title)")
+      .ilike("content_html", like)
+      .limit(20),
+    s
+      .from("mcqs")
+      .select("stem, chapter:chapters(chapter_code, title)")
+      .ilike("stem", like)
+      .limit(20),
+    s
+      .from("pyqs")
+      .select(
+        "year, paper, question_text, pyq_chapters(chapter:chapters(chapter_code, title))",
+      )
+      .ilike("question_text", like)
+      .limit(20),
+  ]);
+
+  return {
+    chapters: (chapters.data ?? []) as unknown as SearchChapter[],
+    gists: (gists.data ?? []) as unknown as SearchGist[],
+    mcqs: (mcqs.data ?? []) as unknown as SearchMcq[],
+    pyqs: (pyqs.data ?? []) as unknown as SearchPyq[],
+  };
+}
+
+type ChapterRef = { chapter_code: string; title: string } | null;
+export type SearchChapter = {
+  chapter_code: string;
+  title: string;
+  book: { title: string; subject: { name: string } | null } | null;
+};
+export type SearchGist = { chapter: ChapterRef };
+export type SearchMcq = { stem: string; chapter: ChapterRef };
+export type SearchPyq = {
+  year: number;
+  paper: string;
+  question_text: string;
+  pyq_chapters: { chapter: ChapterRef }[];
+};
+
 /** Published PYQs tagged to a chapter, newest first (RLS-scoped). */
 export async function getPyqsForChapter(chapterId: string) {
   const s = await createClient();

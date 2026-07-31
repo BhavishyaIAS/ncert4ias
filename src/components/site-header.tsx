@@ -19,6 +19,18 @@ export async function SiteHeader() {
           >
             Browse
           </Link>
+          <Link
+            href="/gs"
+            className="text-sm text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
+          >
+            GS
+          </Link>
+          <Link
+            href="/search"
+            className="text-sm text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
+          >
+            Search
+          </Link>
         </div>
 
         <nav className="flex items-center gap-2 text-sm">

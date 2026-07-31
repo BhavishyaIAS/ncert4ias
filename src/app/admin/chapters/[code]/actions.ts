@@ -191,3 +191,33 @@ export async function deleteMains(formData: FormData): Promise<void> {
   await supabase.from("mains_questions").delete().eq("id", id);
   revalidateChapter(chapterCode);
 }
+
+// ── GS-tag mapping ───────────────────────────────────────────────────────────
+
+export async function setChapterGsTags(input: {
+  chapterId: string;
+  chapterCode: string;
+  gsTagIds: string[];
+}): Promise<{ error?: string }> {
+  await requireAdmin();
+  const supabase = await createClient();
+
+  const { error: delErr } = await supabase
+    .from("chapter_gs_tags")
+    .delete()
+    .eq("chapter_id", input.chapterId);
+  if (delErr) return { error: delErr.message };
+
+  if (input.gsTagIds.length > 0) {
+    const { error: insErr } = await supabase.from("chapter_gs_tags").insert(
+      input.gsTagIds.map((gs_tag_id) => ({
+        chapter_id: input.chapterId,
+        gs_tag_id,
+      })),
+    );
+    if (insErr) return { error: insErr.message };
+  }
+
+  revalidateChapter(input.chapterCode);
+  return {};
+}

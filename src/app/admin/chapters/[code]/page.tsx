@@ -1,10 +1,18 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getChapterByCode, getGist, getMcqs, getMains } from "@/lib/queries";
+import {
+  getChapterByCode,
+  getGist,
+  getMcqs,
+  getMains,
+  getGsTags,
+  getChapterGsTagIds,
+} from "@/lib/queries";
 import { GistEditor } from "@/components/editor/gist-editor";
 import { McqManager } from "./_components/McqManager";
 import { MainsManager } from "./_components/MainsManager";
+import { GsTagPicker } from "./_components/GsTagPicker";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 
@@ -19,10 +27,12 @@ export default async function ChapterWorkspace({
   const chapter = await getChapterByCode(code);
   if (!chapter) notFound();
 
-  const [gist, mcqs, mains] = await Promise.all([
+  const [gist, mcqs, mains, gsTags, chapterGsIds] = await Promise.all([
     getGist(chapter.id),
     getMcqs(chapter.id),
     getMains(chapter.id),
+    getGsTags(),
+    getChapterGsTagIds(chapter.id),
   ]);
   const { book } = chapter;
 
@@ -47,6 +57,18 @@ export default async function ChapterWorkspace({
           {book.class.label} · {book.subject.name}
         </p>
       </div>
+
+      <section className="space-y-3">
+        <h2 className="text-sm font-medium uppercase tracking-wide text-muted-foreground">
+          GS lens · Tags
+        </h2>
+        <GsTagPicker
+          chapterId={chapter.id}
+          chapterCode={chapter.chapter_code}
+          gsTags={gsTags}
+          selectedIds={chapterGsIds}
+        />
+      </section>
 
       <section className="space-y-3">
         <div className="flex items-center justify-between">
