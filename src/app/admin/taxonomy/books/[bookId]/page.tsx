@@ -87,6 +87,12 @@ export default async function BookWorkspace({
                     )}
                     <span className="ml-auto flex items-center gap-3">
                       <Link
+                        href={`/admin/chapters/${ch.chapter_code}`}
+                        className="text-xs font-medium underline-offset-4 hover:underline"
+                      >
+                        Author
+                      </Link>
+                      <Link
                         href={`/chapter/${ch.chapter_code}`}
                         className="text-xs text-muted-foreground underline-offset-4 hover:underline"
                       >

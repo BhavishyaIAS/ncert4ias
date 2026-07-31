@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getChapterByCode } from "@/lib/queries";
+import { getChapterByCode, getGist } from "@/lib/queries";
 import { LADDER_RUNGS } from "@/lib/config/taxonomy";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { GistView } from "@/components/gist-view";
 
 export async function generateMetadata({
   params,
@@ -37,6 +38,7 @@ export default async function ChapterPage({
   const chapter = await getChapterByCode(code);
   if (!chapter) notFound();
 
+  const gist = await getGist(chapter.id);
   const { book } = chapter;
   const n = book.class.number;
 
@@ -120,7 +122,11 @@ export default async function ChapterPage({
 
         {/* Rungs 2–5 — arrive in later milestones */}
         <TabsContent value="revise" className="mt-6">
-          <RungComingSoon rung="Revise" />
+          {gist?.content_html ? (
+            <GistView html={gist.content_html} />
+          ) : (
+            <RungComingSoon rung="Revise" />
+          )}
         </TabsContent>
         <TabsContent value="prelims" className="mt-6">
           <RungComingSoon rung="Prelims" />

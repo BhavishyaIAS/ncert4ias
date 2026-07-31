@@ -145,6 +145,20 @@ export async function getClassesAndSubjects(): Promise<{
   return { classes: classes.data ?? [], subjects: subjects.data ?? [] };
 }
 
+/**
+ * The gist for a chapter, RLS-scoped: students get it only when published,
+ * admins get it in any state. Returns null when none exists (or hidden).
+ */
+export async function getGist(chapterId: string) {
+  const s = await createClient();
+  const { data } = await s
+    .from("gists")
+    .select("*")
+    .eq("chapter_id", chapterId)
+    .maybeSingle();
+  return data;
+}
+
 /** A single chapter by its permanent chapter_code, with class/subject context. */
 export async function getChapterByCode(
   code: string,
