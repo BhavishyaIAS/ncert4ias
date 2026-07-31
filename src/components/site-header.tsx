@@ -8,7 +8,7 @@ export async function SiteHeader() {
 
   return (
     <header className="border-b">
-      <div className="mx-auto flex h-14 max-w-5xl items-center justify-between px-6">
+      <div className="mx-auto flex min-h-14 max-w-5xl flex-wrap items-center justify-between gap-y-2 px-4 py-2 sm:px-6">
         <div className="flex items-center gap-4">
           <Link href="/" className="font-semibold tracking-tight">
             NCERT<span className="text-muted-foreground">4</span>IAS

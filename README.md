@@ -109,11 +109,22 @@ src/
 ## Roadmap (milestones)
 
 - **M0 — Scaffold** ✅ Next.js + TS + Tailwind + shadcn/ui, structure, env, README
-- **M1 — Data & auth** — Supabase schema + RLS + student/admin auth + taxonomy seed
-- **M2 — Chapters + Read** — taxonomy manager, browse, embedded official-PDF Read tab
-- **M3 — Revise** — gist model, TipTap editor, "Draft with AI", publish, student view
-- **M4 — Prelims** — MCQ authoring + AI-assist, answer-reveal practice
-- **M5 — Mains** — Mains Q + model-answer authoring + AI-assist, student view
-- **M6 — PYQs** — SheetJS bulk upload keyed to `chapter_code`, upload log, payoff stat
-- **M7 — GS lens + search** — GS-tag mapping, browse-by-GS, global search
-- **M8 — Polish + deploy** — empty/loading/error states, mobile, deploy to Vercel
+- **M1 — Data & auth** ✅ Supabase schema + RLS + student/admin auth + taxonomy seed
+- **M2 — Chapters + Read** ✅ taxonomy manager, browse, embedded official-PDF Read tab
+- **M3 — Revise** ✅ gist model, TipTap editor, "Draft with AI", publish, student view
+- **M4 — Prelims** ✅ MCQ authoring + AI-assist, answer-reveal practice
+- **M5 — Mains** ✅ Mains Q + model-answer authoring + AI-assist, student view
+- **M6 — PYQs** ✅ SheetJS bulk upload keyed to `chapter_code`, upload log, payoff stat
+- **M7 — GS lens + search** ✅ GS-tag mapping, browse-by-GS, global search
+- **M8 — Polish + deploy** ✅ empty/loading/error states, mobile responsiveness (deploy pending confirmation)
+
+## Deploying to Vercel
+
+1. Push this branch and import the repo at [vercel.com/new](https://vercel.com/new).
+2. Framework preset: **Next.js** (auto-detected) — no build overrides needed.
+3. Add **Environment Variables** (Production + Preview), same set as `.env.local`:
+   - `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`
+   - `SUPABASE_SERVICE_ROLE_KEY` (secret), `ANTHROPIC_API_KEY` (secret), `ANTHROPIC_MODEL`
+   - `NEXT_PUBLIC_SITE_URL` = the deployed URL
+4. Deploy, then in **Supabase → Authentication → URL Configuration** add the
+   Vercel URL to Site URL / Redirect URLs so email-confirmation links resolve.
