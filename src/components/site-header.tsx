@@ -9,9 +9,17 @@ export async function SiteHeader() {
   return (
     <header className="border-b">
       <div className="mx-auto flex h-14 max-w-5xl items-center justify-between px-6">
-        <Link href="/" className="font-semibold tracking-tight">
-          NCERT<span className="text-muted-foreground">4</span>IAS
-        </Link>
+        <div className="flex items-center gap-4">
+          <Link href="/" className="font-semibold tracking-tight">
+            NCERT<span className="text-muted-foreground">4</span>IAS
+          </Link>
+          <Link
+            href="/browse"
+            className="text-sm text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
+          >
+            Browse
+          </Link>
+        </div>
 
         <nav className="flex items-center gap-2 text-sm">
           {profile?.role === "admin" && (

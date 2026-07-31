@@ -1,4 +1,6 @@
+import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { LADDER_RUNGS } from "@/lib/config/taxonomy";
 import { ENABLED_SUBJECTS } from "@/lib/config/subjects";
@@ -20,6 +22,11 @@ export default function Home() {
             five-rung ladder — from reading the source, to seeing the actual UPSC
             questions that came from it.
           </p>
+          <div className="mt-8">
+            <Button render={<Link href="/browse" />} size="lg">
+              Browse chapters
+            </Button>
+          </div>
         </div>
       </section>
 

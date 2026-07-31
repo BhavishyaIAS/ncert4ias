@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 
 export const metadata: Metadata = { title: "Admin" };
 
@@ -22,12 +24,16 @@ export default async function AdminDashboard() {
 
   return (
     <div className="space-y-8">
-      <div>
-        <h1 className="text-2xl font-semibold tracking-tight">Admin</h1>
-        <p className="text-sm text-muted-foreground">
-          Content control room. Taxonomy manager and chapter workspaces arrive
-          in M2.
-        </p>
+      <div className="flex items-center justify-between">
+        <div>
+          <h1 className="text-2xl font-semibold tracking-tight">Admin</h1>
+          <p className="text-sm text-muted-foreground">
+            Content control room.
+          </p>
+        </div>
+        <Button render={<Link href="/admin/taxonomy" />} size="sm">
+          Manage taxonomy
+        </Button>
       </div>
 
       <div className="grid gap-4 sm:grid-cols-3">
