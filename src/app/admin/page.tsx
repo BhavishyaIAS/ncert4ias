@@ -31,9 +31,14 @@ export default async function AdminDashboard() {
             Content control room.
           </p>
         </div>
-        <Button render={<Link href="/admin/taxonomy" />} size="sm">
-          Manage taxonomy
-        </Button>
+        <div className="flex gap-2">
+          <Button render={<Link href="/admin/pyqs" />} variant="outline" size="sm">
+            Upload PYQs
+          </Button>
+          <Button render={<Link href="/admin/taxonomy" />} size="sm">
+            Manage taxonomy
+          </Button>
+        </div>
       </div>
 
       <div className="grid gap-4 sm:grid-cols-3">

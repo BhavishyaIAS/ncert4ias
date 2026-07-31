@@ -186,6 +186,17 @@ export async function getMains(chapterId: string) {
   return data ?? [];
 }
 
+/** Published PYQs tagged to a chapter, newest first (RLS-scoped). */
+export async function getPyqsForChapter(chapterId: string) {
+  const s = await createClient();
+  const { data } = await s
+    .from("pyqs")
+    .select("*, pyq_chapters!inner(chapter_id)")
+    .eq("pyq_chapters.chapter_id", chapterId)
+    .order("year", { ascending: false });
+  return (data ?? []) as unknown as Tables<"pyqs">[];
+}
+
 /** A single chapter by its permanent chapter_code, with class/subject context. */
 export async function getChapterByCode(
   code: string,

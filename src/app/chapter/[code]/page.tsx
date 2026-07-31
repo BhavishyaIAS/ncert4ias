@@ -1,7 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getChapterByCode, getGist, getMcqs, getMains } from "@/lib/queries";
+import {
+  getChapterByCode,
+  getGist,
+  getMcqs,
+  getMains,
+  getPyqsForChapter,
+} from "@/lib/queries";
 import { LADDER_RUNGS } from "@/lib/config/taxonomy";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Badge } from "@/components/ui/badge";
@@ -40,10 +46,11 @@ export default async function ChapterPage({
   const chapter = await getChapterByCode(code);
   if (!chapter) notFound();
 
-  const [gist, mcqs, mains] = await Promise.all([
+  const [gist, mcqs, mains, pyqs] = await Promise.all([
     getGist(chapter.id),
     getMcqs(chapter.id),
     getMains(chapter.id),
+    getPyqsForChapter(chapter.id),
   ]);
   const { book } = chapter;
   const n = book.class.number;
@@ -78,6 +85,12 @@ export default async function ChapterPage({
         </Badge>
       </div>
       <p className="mt-1 text-sm text-muted-foreground">{book.title}</p>
+      {pyqs.length > 0 && (
+        <p className="mt-3 inline-flex rounded-full bg-primary/10 px-3 py-1 text-sm font-medium text-primary">
+          {pyqs.length} UPSC question{pyqs.length === 1 ? " has" : "s have"} come
+          from this chapter
+        </p>
+      )}
 
       {/* The five-rung ladder — fixed order */}
       <Tabs defaultValue="read" className="mt-8">
@@ -149,7 +162,30 @@ export default async function ChapterPage({
           )}
         </TabsContent>
         <TabsContent value="pyqs" className="mt-6">
-          <RungComingSoon rung="PYQs" />
+          {pyqs.length > 0 ? (
+            <div className="space-y-4">
+              <p className="text-sm text-muted-foreground">
+                Actual UPSC previous-year questions tagged to this chapter — proof
+                that NCERTs matter.
+              </p>
+              <ul className="space-y-3">
+                {pyqs.map((q) => (
+                  <li key={q.id} className="rounded-lg border p-4">
+                    <div className="mb-2 flex flex-wrap items-center gap-2">
+                      <Badge variant="secondary">{q.year}</Badge>
+                      <Badge variant="outline">{q.paper}</Badge>
+                    </div>
+                    <p className="text-sm">{q.question_text}</p>
+                    {q.notes && (
+                      <p className="mt-2 text-xs text-muted-foreground">{q.notes}</p>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : (
+            <RungComingSoon rung="PYQs" />
+          )}
         </TabsContent>
       </Tabs>
     </main>
