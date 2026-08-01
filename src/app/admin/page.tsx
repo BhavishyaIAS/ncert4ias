@@ -32,6 +32,9 @@ export default async function AdminDashboard() {
           </p>
         </div>
         <div className="flex gap-2">
+          <Button render={<Link href="/admin/import" />} variant="outline" size="sm">
+            Import chapters
+          </Button>
           <Button render={<Link href="/admin/pyqs" />} variant="outline" size="sm">
             Upload PYQs
           </Button>
