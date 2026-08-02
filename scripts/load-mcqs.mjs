@@ -74,9 +74,18 @@ async function progressReport() {
   const { data: chapters } = await supabase
     .from("chapters")
     .select("id, chapter_code, book:books(class:classes(number), subject:subjects(slug))");
-  const { data: counts } = await supabase.from("mcqs").select("chapter_id");
+  // Page through all mcqs rows — PostgREST caps a single select at 1000 rows,
+  // so counting in one go under-reports once the table grows past 1000.
   const tally = new Map();
-  for (const m of counts ?? []) tally.set(m.chapter_id, (tally.get(m.chapter_id) ?? 0) + 1);
+  const PAGE = 1000;
+  for (let from = 0; ; from += PAGE) {
+    const { data: counts } = await supabase
+      .from("mcqs")
+      .select("chapter_id")
+      .range(from, from + PAGE - 1);
+    for (const m of counts ?? []) tally.set(m.chapter_id, (tally.get(m.chapter_id) ?? 0) + 1);
+    if (!counts || counts.length < PAGE) break;
+  }
   const rows = (chapters ?? [])
     .filter((c) => c.book)
     .map((c) => ({
