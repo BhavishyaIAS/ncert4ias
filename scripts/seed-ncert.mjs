@@ -97,15 +97,25 @@ async function main() {
     }
     books++;
 
-    // Upsert chapters.
-    const rows = book.chapters.map((title, i) => {
+    // Upsert chapters. A chapter is either a string (title; PDF derived from the
+    // book code + its position) or an object { title, pdf } giving an explicit
+    // PDF file basename — used when a book's chapters map to non-contiguous PDF
+    // files (e.g. Class 6's integrated book split by subject).
+    const rows = book.chapters.map((ch, i) => {
       const n = i + 1;
+      const title = typeof ch === "string" ? ch : ch.title;
+      const officialUrl =
+        typeof ch === "object" && ch.pdf
+          ? `${NCERT_PDF_BASE}/${ch.pdf.toLowerCase()}.pdf`
+          : book.code
+            ? pdfUrl(book.code, n)
+            : null;
       return {
         book_id: bookId,
         chapter_code: `${subject.code_prefix}-${classSeg}-${n}`,
         chapter_number: n,
         title,
-        official_pdf_url: pdfUrl(book.code, n),
+        official_pdf_url: officialUrl,
         order: n,
         status: "published",
       };
