@@ -84,7 +84,8 @@ Cover the whole chapter's themes, concepts, dates, terms and takeaways an aspira
   const message = await withRetry(() =>
     anthropic.messages.create({
       model,
-      max_tokens: 6000,
+      // Headroom for Opus adaptive thinking (on by default) + a full gist.
+      max_tokens: 8000,
       system: SYSTEM,
       messages: [{ role: "user", content: prompt }],
     }),
