@@ -42,12 +42,8 @@ async function main() {
   const classByNum = new Map(classes.map((c) => [c.number, c.id]));
   const subjectBySlug = new Map(subjects.map((s) => [s.slug, s]));
 
-  // Book letters for (class, subject) groups with more than one book.
-  const groupCounts = new Map();
-  for (const b of catalogue.books) {
-    const k = `${b.class}:${b.subject}`;
-    groupCounts.set(k, (groupCounts.get(k) ?? 0) + 1);
-  }
+  // Tracks how many books of each (class, subject) group we've seen, so the
+  // second and later books get a distinguishing suffix in their chapter codes.
   const groupSeen = new Map();
 
   let books = 0;
@@ -64,8 +60,12 @@ async function main() {
     const k = `${book.class}:${book.subject}`;
     const idx = groupSeen.get(k) ?? 0;
     groupSeen.set(k, idx + 1);
-    const multi = groupCounts.get(k) > 1;
-    const letter = multi ? String.fromCharCode(65 + idx) : "";
+    // The first book in a (class, subject) group keeps the bare class number in
+    // its chapter codes (e.g. H-8-5); additional books get a suffix (B, C, …).
+    // This keeps existing codes stable when a second book is added later — so a
+    // subject that gains the new integrated edition alongside the old one does
+    // not renumber the already-seeded book.
+    const letter = idx === 0 ? "" : String.fromCharCode(65 + idx);
     const classSeg = `${book.class}${letter}`;
 
     // Find or create the book.
@@ -129,13 +129,17 @@ async function main() {
       continue;
     }
 
-    // Remove any chapters beyond the current count (e.g. from an earlier,
-    // over-counted run) so the catalogue stays the source of truth.
-    await supabase
-      .from("chapters")
-      .delete()
-      .eq("book_id", bookId)
-      .gt("chapter_number", rows.length);
+    // Remove any chapters under this book whose code is no longer current, so
+    // the catalogue stays the source of truth. This handles both an earlier,
+    // over-counted run (extra chapter numbers) and a chapter-code scheme change
+    // (e.g. a book that gained a suffix when a second edition was added).
+    if (rows.length > 0) {
+      await supabase
+        .from("chapters")
+        .delete()
+        .eq("book_id", bookId)
+        .not("chapter_code", "in", `(${rows.map((r) => r.chapter_code).join(",")})`);
+    }
 
     chapters += rows.length;
     console.log(
