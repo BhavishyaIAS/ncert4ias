@@ -1,52 +1,1166 @@
 [
-  { "stem": "The method of mass non-violent protest developed by Mahatma Gandhi was called:", "options": ["Satyagraha", "Swadeshi", "Khilafat", "Purna Swaraj"], "correct_index": 0, "solution": "Satyagraha was Gandhi's technique of non-violent resistance based on the power of truth and the need to search for truth.", "difficulty": "medium" },
-  { "stem": "Gandhi's first satyagraha in India (1917) was launched at Champaran in support of:", "options": ["Indigo cultivators", "Textile workers", "Coal miners", "Railway workers"], "correct_index": 0, "solution": "The Champaran satyagraha (1917) supported the peasants oppressed under the indigo plantation system in Bihar.", "difficulty": "medium" },
-  { "stem": "The repressive law of 1919 that allowed detention without trial was the:", "options": ["Rowlatt Act", "Vernacular Press Act", "Ilbert Bill", "Government of India Act"], "correct_index": 0, "solution": "The Rowlatt Act (1919) allowed the government to imprison people without trial, provoking widespread protest.", "difficulty": "medium" },
-  { "stem": "The Jallianwala Bagh massacre took place on 13 April 1919 at Amritsar under the orders of:", "options": ["General Dyer", "Lord Curzon", "General Harris", "Lord Irwin"], "correct_index": 0, "solution": "General Dyer ordered troops to fire on an unarmed crowd at Jallianwala Bagh, Amritsar, killing hundreds.", "difficulty": "medium" },
-  { "stem": "The Non-Cooperation Movement was launched by Gandhi in:", "options": ["1920", "1919", "1930", "1942"], "correct_index": 0, "solution": "Gandhi launched the Non-Cooperation Movement in 1920, urging Indians to withdraw cooperation from the colonial government.", "difficulty": "medium" },
-  { "stem": "The Non-Cooperation Movement was launched together with which other movement?", "options": ["The Khilafat Movement", "The Swadeshi Movement", "The Home Rule Movement", "The Quit India Movement"], "correct_index": 0, "solution": "Non-Cooperation (1920) was combined with the Khilafat Movement, uniting Hindus and Muslims against British rule.", "difficulty": "medium" },
-  { "stem": "The Khilafat Movement was led by the:", "options": ["Ali brothers (Muhammad Ali and Shaukat Ali)", "Nehru brothers", "Tagore family", "Bose brothers"], "correct_index": 0, "solution": "The Khilafat Movement was led by Muhammad Ali and Shaukat Ali (the Ali brothers), in defence of the Ottoman Caliph.", "difficulty": "hard" },
-  { "stem": "Gandhi called off the Non-Cooperation Movement in 1922 after the violent incident at:", "options": ["Chauri Chaura", "Jallianwala Bagh", "Dandi", "Champaran"], "correct_index": 0, "solution": "After a mob burnt a police station at Chauri Chaura (1922), Gandhi withdrew the Non-Cooperation Movement, opposing violence.", "difficulty": "medium" },
-  { "stem": "During the Non-Cooperation Movement, people were urged to boycott:", "options": ["Foreign goods, government schools, courts and titles", "Indian goods", "Village markets", "Local festivals"], "correct_index": 0, "solution": "The movement urged the boycott of foreign cloth, government schools, law courts, councils and British-conferred titles.", "difficulty": "medium" },
-  { "stem": "The Civil Disobedience Movement began in 1930 with the:", "options": ["Salt March (Dandi March)", "Quit India resolution", "Non-Cooperation Movement", "Champaran satyagraha"], "correct_index": 0, "solution": "The Civil Disobedience Movement began with the Salt March (Dandi March) of 1930, breaking the salt law.", "difficulty": "medium" },
-  { "stem": "The Dandi March (Salt March) began from:", "options": ["Sabarmati Ashram", "Wardha", "Chauri Chaura", "Lahore"], "correct_index": 0, "solution": "Gandhi began the Salt March on 12 March 1930 from the Sabarmati Ashram near Ahmedabad, reaching Dandi on 6 April.", "difficulty": "medium" },
-  { "stem": "By making salt at Dandi, Gandhi violated the:", "options": ["Salt Law (government monopoly on salt)", "Rowlatt Act", "Vernacular Press Act", "Doctrine of Lapse"], "correct_index": 0, "solution": "Gandhi defied the salt law, which gave the government a monopoly over the production and sale of salt.", "difficulty": "medium" },
-  { "stem": "Salt was chosen as the symbol of protest because:", "options": ["It was consumed by everyone (rich and poor) and taxed by the state", "It was very rare", "Only the rich used it", "It had no importance"], "correct_index": 0, "solution": "Salt was a powerful symbol because it was used by all Indians, rich and poor, yet the state held a monopoly and taxed it.", "difficulty": "medium" },
-  { "stem": "At the 1929 Lahore session, the Congress adopted the demand for:", "options": ["Purna Swaraj (complete independence)", "Dominion status only", "Home Rule", "Partition of India"], "correct_index": 0, "solution": "The 1929 Lahore session, presided over by Jawaharlal Nehru, adopted the goal of Purna Swaraj (complete independence).", "difficulty": "medium" },
-  { "stem": "The first 'Independence Day' was observed on:", "options": ["26 January 1930", "15 August 1947", "26 November 1949", "13 April 1919"], "correct_index": 0, "solution": "Following the Purna Swaraj resolution, 26 January 1930 was observed as the first Independence Day.", "difficulty": "hard" },
-  { "stem": "The Simon Commission (1928) was boycotted mainly because it:", "options": ["Had no Indian members", "Was pro-Indian", "Granted independence", "Abolished the Congress"], "correct_index": 0, "solution": "The Simon Commission was boycotted with the slogan 'Simon Go Back' because it was an all-British body with no Indian members.", "difficulty": "medium" },
-  { "stem": "The peasant movement in Awadh during the Non-Cooperation period was led by:", "options": ["Baba Ramchandra", "Alluri Sitaram Raju", "G. D. Birla", "C. R. Das"], "correct_index": 0, "solution": "Baba Ramchandra led the peasant movement in Awadh against oppressive landlords (talukdars) during the Non-Cooperation period.", "difficulty": "hard" },
-  { "stem": "The militant guerrilla movement of tribal peasants in the Gudem Hills of Andhra Pradesh was led by:", "options": ["Alluri Sitaram Raju", "Baba Ramchandra", "Bhagat Singh", "Subhas Chandra Bose"], "correct_index": 0, "solution": "Alluri Sitaram Raju led the militant tribal movement in the Gudem Hills against forest restrictions during the 1920s.", "difficulty": "hard" },
-  { "stem": "Gandhi's message reached ordinary peasants partly because they saw him as:", "options": ["A 'Mahatma' with special powers who could relieve their suffering", "A British officer", "A landlord", "A moneylender"], "correct_index": 0, "solution": "Many peasants regarded Gandhi as a 'Mahatma' with saintly power who would free them from oppression, drawing them into the movement.", "difficulty": "medium" },
-  { "stem": "The 1931 agreement between Gandhi and the Viceroy that suspended Civil Disobedience was the:", "options": ["Gandhi-Irwin Pact", "Lucknow Pact", "Poona Pact", "Lahore Pact"], "correct_index": 0, "solution": "The Gandhi-Irwin Pact (1931) led to the temporary suspension of Civil Disobedience and Gandhi's participation in the Second Round Table Conference.", "difficulty": "hard" },
-  { "stem": "The Poona Pact of 1932 was signed between Mahatma Gandhi and:", "options": ["Dr B. R. Ambedkar", "Muhammad Ali Jinnah", "Lord Irwin", "Subhas Chandra Bose"], "correct_index": 0, "solution": "The Poona Pact (1932) between Gandhi and Ambedkar gave the Depressed Classes reserved seats within the general electorate.", "difficulty": "hard" },
-  { "stem": "The image of 'Bharat Mata' (Mother India) was first painted by:", "options": ["Abanindranath Tagore", "Rabindranath Tagore", "Raja Ravi Varma", "Nandalal Bose"], "correct_index": 0, "solution": "Abanindranath Tagore painted the famous image of Bharat Mata, personifying the nation.", "difficulty": "hard" },
-  { "stem": "The song 'Vande Mataram', a rallying cry of nationalism, was written by:", "options": ["Bankim Chandra Chattopadhyay", "Rabindranath Tagore", "Mahatma Gandhi", "Subhas Chandra Bose"], "correct_index": 0, "solution": "'Vande Mataram' was written by Bankim Chandra Chattopadhyay and became a powerful nationalist song.", "difficulty": "hard" },
-  { "stem": "The business class supported the national movement because they wanted:", "options": ["Protection from imports and freedom to expand business", "More foreign goods", "British monopoly", "Higher colonial taxes"], "correct_index": 0, "solution": "Indian industrialists supported the movement to gain protection against imports and freedom from colonial restrictions on their business.", "difficulty": "medium" },
-  { "stem": "The industrialists formed which organisation to promote their collective interests?", "options": ["FICCI (Federation of Indian Chambers of Commerce and Industry)", "The Muslim League", "The Home Rule League", "The Khilafat Committee"], "correct_index": 0, "solution": "Indian industrialists formed the Federation of Indian Chambers of Commerce and Industry (FICCI) in 1927 to promote their interests.", "difficulty": "hard" },
-  { "stem": "During the Civil Disobedience Movement, women participated by:", "options": ["Marching, making salt, picketing shops and courting arrest", "Staying entirely at home", "Opposing the movement", "Supporting the British"], "correct_index": 0, "solution": "Women took an active part in the Civil Disobedience Movement, marching, making salt, picketing liquor and foreign-cloth shops, and going to jail.", "difficulty": "medium" },
-  { "stem": "A sense of collective belonging (nationalism) among Indians was fostered through:", "options": ["Symbols, songs, folklore, flags and reinterpretation of history", "Only laws", "Only wars", "Only trade"], "correct_index": 0, "solution": "A sense of collective national belonging was built through symbols like Bharat Mata, songs, folklore, flags and the reinterpretation of history.", "difficulty": "medium" },
-  { "stem": "The Swaraj flag designed during the movement featured:", "options": ["Red, green and white with a spinning wheel (charkha)", "The Union Jack", "A plain white cloth", "A tiger"], "correct_index": 0, "solution": "The Swaraj flag (designed by 1921) had red, green and white colours with a spinning wheel (charkha) at the centre, symbolising self-reliance.", "difficulty": "hard" },
-  { "stem": "The spinning wheel (charkha) became a symbol of the national movement because it represented:", "options": ["Self-reliance and the boycott of foreign cloth", "British power", "Modern industry", "Foreign trade"], "correct_index": 0, "solution": "The charkha symbolised self-reliance (swadeshi) and the rejection of foreign mill-cloth, central to Gandhi's economic vision.", "difficulty": "medium" },
-  { "stem": "Plantation workers understood swaraj partly as:", "options": ["The right to move freely in and out of the enclosed plantation space", "Higher taxes", "British rule", "Restrictions on movement"], "correct_index": 0, "solution": "For plantation workers, swaraj meant the freedom to move freely in and out of the confined space of the plantation, a right denied to them.", "difficulty": "hard" },
-  { "stem": "Different social groups joined the national movement with:", "options": ["Their own understandings and aspirations of swaraj", "Identical aims", "No interest", "Opposition to Gandhi"], "correct_index": 0, "solution": "Peasants, tribals, workers, women and businessmen joined the movement with their own particular understandings and aspirations of what swaraj would mean.", "difficulty": "medium" },
-  { "stem": "The Rowlatt Satyagraha (1919) was launched by Gandhi against:", "options": ["The Rowlatt Act", "The Salt Law", "The Simon Commission", "The Doctrine of Lapse"], "correct_index": 0, "solution": "Gandhi launched a nationwide satyagraha against the repressive Rowlatt Act in 1919.", "difficulty": "medium" },
-  { "stem": "One reason the Non-Cooperation Movement slowed down in cities was that:", "options": ["Boycotting foreign cloth was costly and khadi was expensive", "Everyone became rich", "There were no British goods", "The movement had no support"], "correct_index": 0, "solution": "In cities the movement slowed as boycotting foreign cloth and institutions proved costly, and Indian (khadi) cloth was expensive.", "difficulty": "hard" },
-  { "stem": "The participation of the peasants and tribals shows that the national movement:", "options": ["Became a broad mass movement involving many social groups", "Was limited to the elite", "Had no rural support", "Was led by the British"], "correct_index": 0, "solution": "The participation of peasants, tribals and workers shows that the national movement became a broad-based mass movement.", "difficulty": "medium" },
-  { "stem": "Gandhi's idea of swaraj included:", "options": ["Self-rule and self-reliance for India", "Continued British rule", "Rule by industrialists", "Foreign control"], "correct_index": 0, "solution": "Gandhi's swaraj meant self-rule and self-reliance for India, socially and economically as well as politically.", "difficulty": "medium" },
-  { "stem": "The image of Bharat Mata and the song Vande Mataram helped to:", "options": ["Inspire devotion and a sense of unity towards the nation", "Divide Indians", "Support British rule", "End the movement"], "correct_index": 0, "solution": "Cultural symbols like Bharat Mata and Vande Mataram inspired devotion and a sense of unity and belonging towards the nation.", "difficulty": "medium" },
-  { "stem": "Which of the following was a limitation of the sense of national unity?", "options": ["Differences and tensions among communities and classes", "Complete agreement among all", "The absence of any groups", "Total harmony"], "correct_index": 0, "solution": "National unity was limited by tensions and differences among communities, classes and interests, which sometimes surfaced during the movement.", "difficulty": "medium" },
-  { "stem": "The reinterpretation of Indian history to glorify ancient achievements was used to:", "options": ["Build national pride and a sense of a glorious shared past", "Support the British", "Divide Indians", "Discourage nationalism"], "correct_index": 0, "solution": "Nationalists reinterpreted history to celebrate India's ancient achievements, building pride and a sense of a glorious shared past.", "difficulty": "medium" },
-  { "stem": "The Civil Disobedience Movement differed from Non-Cooperation in that people now:", "options": ["Broke colonial laws, not just refused cooperation", "Only refused to cooperate", "Supported British laws", "Did nothing"], "correct_index": 0, "solution": "In Civil Disobedience, people actively broke colonial laws (like the salt law), going beyond the mere non-cooperation of the earlier movement.", "difficulty": "medium" },
-  { "stem": "The dandi/salt satyagraha drew worldwide attention because it:", "options": ["Was a dramatic, non-violent challenge to an unjust law", "Was violent", "Failed immediately", "Supported the British"], "correct_index": 0, "solution": "The Salt March was a dramatic and powerful non-violent challenge to an unjust law, drawing worldwide attention to India's struggle.", "difficulty": "medium" },
-  { "stem": "The talukdars and landlords were the target of peasant anger in Awadh because they:", "options": ["Demanded exorbitant rents and forced labour (begar)", "Gave land free to peasants", "Reduced rents", "Supported peasants"], "correct_index": 0, "solution": "In Awadh, peasants rose against the talukdars/landlords who demanded very high rents, cesses and forced labour (begar).", "difficulty": "hard" },
-  { "stem": "Which of the following pairs (leader — movement/region) is correctly matched?", "options": ["Alluri Sitaram Raju — Gudem tribal movement", "Baba Ramchandra — Gudem Hills", "Ali brothers — Salt March", "G. D. Birla — peasant movement"], "correct_index": 0, "solution": "Alluri Sitaram Raju led the Gudem tribal movement. Baba Ramchandra led Awadh peasants; the Ali brothers led Khilafat; G. D. Birla was an industrialist.", "difficulty": "medium" },
-  { "stem": "The national movement gained momentum because Gandhi:", "options": ["Connected with the masses and used simple, powerful symbols", "Kept it limited to the elite", "Avoided the public", "Supported British rule"], "correct_index": 0, "solution": "Gandhi's ability to connect with ordinary people and use simple, powerful symbols (salt, charkha, khadi) gave the movement mass appeal.", "difficulty": "medium" },
-  { "stem": "The boycott of foreign cloth during the movements promoted:", "options": ["Indian handspun and handwoven cloth (khadi)", "British mill cloth", "Foreign luxury goods", "The colonial economy"], "correct_index": 0, "solution": "The boycott of foreign cloth promoted the use of khadi (Indian handspun and handwoven cloth), strengthening self-reliance.", "difficulty": "medium" },
-  { "stem": "Nationalism in India grew as different groups came together against:", "options": ["Colonial (British) rule and its injustices", "Each other", "The Congress", "Their own interests"], "correct_index": 0, "solution": "Indian nationalism grew as diverse social groups united in opposition to colonial rule and its economic and political injustices.", "difficulty": "medium" },
-  { "stem": "The participation of women, peasants, workers and tribals shows that the freedom struggle was:", "options": ["A broad-based movement, not confined to one class", "Limited to the elite", "Led by the British", "Without popular support"], "correct_index": 0, "solution": "The involvement of women, peasants, workers and tribals shows the freedom struggle was a broad-based mass movement.", "difficulty": "medium" },
-  { "stem": "The idea of India as a nation was strengthened by:", "options": ["Shared symbols, culture, history and the common struggle against colonialism", "Regional divisions", "British encouragement", "The absence of any movement"], "correct_index": 0, "solution": "The idea of India as a nation was strengthened by shared symbols, culture, history and the common anti-colonial struggle.", "difficulty": "medium" },
-  { "stem": "The withdrawal of the Non-Cooperation Movement after Chauri Chaura showed Gandhi's commitment to:", "options": ["Non-violence", "Violence", "British rule", "Ending the freedom struggle"], "correct_index": 0, "solution": "Gandhi's withdrawal of the movement after the violence at Chauri Chaura reflected his firm commitment to non-violence.", "difficulty": "medium" },
-  { "stem": "The 'no-tax' peasant satyagraha at Bardoli (1928), which earned its leader the title 'Sardar', was led by:", "options": ["Vallabhbhai Patel", "Jawaharlal Nehru", "Alluri Sitaram Raju", "C. R. Das"], "correct_index": 0, "solution": "The Bardoli Satyagraha (1928), a no-tax campaign by peasants against a revenue hike, was led by Vallabhbhai Patel, who earned the title 'Sardar'.", "difficulty": "hard" },
-  { "stem": "The overall theme of 'Nationalism in India' is how:", "options": ["Diverse social groups came together, especially under Gandhi, in a mass struggle against colonial rule", "India remained divided", "Only the elite led the struggle", "Colonial rule was welcomed"], "correct_index": 0, "solution": "The chapter explains how diverse social groups came together, especially under Gandhi's leadership, in a mass national struggle against colonial rule.", "difficulty": "easy" }
+  {
+    "stem": "The method of mass non-violent protest developed by Mahatma Gandhi was called:",
+    "options": [
+      "Satyagraha",
+      "Swadeshi",
+      "Khilafat",
+      "Purna Swaraj"
+    ],
+    "correct_index": 0,
+    "solution": "Satyagraha was Gandhi's technique of non-violent resistance based on the power of truth and the need to search for truth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Gandhi's first satyagraha in India (1917) was launched at Champaran in support of:",
+    "options": [
+      "Indigo cultivators",
+      "Textile workers",
+      "Coal miners",
+      "Railway workers"
+    ],
+    "correct_index": 0,
+    "solution": "The Champaran satyagraha (1917) supported the peasants oppressed under the indigo plantation system in Bihar.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The repressive law of 1919 that allowed detention without trial was the:",
+    "options": [
+      "Rowlatt Act",
+      "Vernacular Press Act",
+      "Ilbert Bill",
+      "Government of India Act"
+    ],
+    "correct_index": 0,
+    "solution": "The Rowlatt Act (1919) allowed the government to imprison people without trial, provoking widespread protest.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Jallianwala Bagh massacre took place on 13 April 1919 at Amritsar under the orders of:",
+    "options": [
+      "General Dyer",
+      "Lord Curzon",
+      "General Harris",
+      "Lord Irwin"
+    ],
+    "correct_index": 0,
+    "solution": "General Dyer ordered troops to fire on an unarmed crowd at Jallianwala Bagh, Amritsar, killing hundreds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Non-Cooperation Movement was launched by Gandhi in:",
+    "options": [
+      "1920",
+      "1919",
+      "1930",
+      "1942"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi launched the Non-Cooperation Movement in 1920, urging Indians to withdraw cooperation from the colonial government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Non-Cooperation Movement was launched together with which other movement?",
+    "options": [
+      "The Khilafat Movement",
+      "The Swadeshi Movement",
+      "The Home Rule Movement",
+      "The Quit India Movement"
+    ],
+    "correct_index": 0,
+    "solution": "Non-Cooperation (1920) was combined with the Khilafat Movement, uniting Hindus and Muslims against British rule.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Khilafat Movement was led by the:",
+    "options": [
+      "Ali brothers (Muhammad Ali and Shaukat Ali)",
+      "Nehru brothers",
+      "Tagore family",
+      "Bose brothers"
+    ],
+    "correct_index": 0,
+    "solution": "The Khilafat Movement was led by Muhammad Ali and Shaukat Ali (the Ali brothers), in defence of the Ottoman Caliph.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Gandhi called off the Non-Cooperation Movement in 1922 after the violent incident at:",
+    "options": [
+      "Chauri Chaura",
+      "Jallianwala Bagh",
+      "Dandi",
+      "Champaran"
+    ],
+    "correct_index": 0,
+    "solution": "After a mob burnt a police station at Chauri Chaura (1922), Gandhi withdrew the Non-Cooperation Movement, opposing violence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During the Non-Cooperation Movement, people were urged to boycott:",
+    "options": [
+      "Foreign goods, government schools, courts and titles",
+      "Indian goods",
+      "Village markets",
+      "Local festivals"
+    ],
+    "correct_index": 0,
+    "solution": "The movement urged the boycott of foreign cloth, government schools, law courts, councils and British-conferred titles.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Civil Disobedience Movement began in 1930 with the:",
+    "options": [
+      "Salt March (Dandi March)",
+      "Quit India resolution",
+      "Non-Cooperation Movement",
+      "Champaran satyagraha"
+    ],
+    "correct_index": 0,
+    "solution": "The Civil Disobedience Movement began with the Salt March (Dandi March) of 1930, breaking the salt law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Dandi March (Salt March) began from:",
+    "options": [
+      "Sabarmati Ashram",
+      "Wardha",
+      "Chauri Chaura",
+      "Lahore"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi began the Salt March on 12 March 1930 from the Sabarmati Ashram near Ahmedabad, reaching Dandi on 6 April.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "By making salt at Dandi, Gandhi violated the:",
+    "options": [
+      "Salt Law (government monopoly on salt)",
+      "Rowlatt Act",
+      "Vernacular Press Act",
+      "Doctrine of Lapse"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi defied the salt law, which gave the government a monopoly over the production and sale of salt.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Salt was chosen as the symbol of protest because:",
+    "options": [
+      "It was consumed by everyone (rich and poor) and taxed by the state",
+      "It was very rare",
+      "Only the rich used it",
+      "It had no importance"
+    ],
+    "correct_index": 0,
+    "solution": "Salt was a powerful symbol because it was used by all Indians, rich and poor, yet the state held a monopoly and taxed it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "At the 1929 Lahore session, the Congress adopted the demand for:",
+    "options": [
+      "Purna Swaraj (complete independence)",
+      "Dominion status only",
+      "Home Rule",
+      "Partition of India"
+    ],
+    "correct_index": 0,
+    "solution": "The 1929 Lahore session, presided over by Jawaharlal Nehru, adopted the goal of Purna Swaraj (complete independence).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first 'Independence Day' was observed on:",
+    "options": [
+      "26 January 1930",
+      "15 August 1947",
+      "26 November 1949",
+      "13 April 1919"
+    ],
+    "correct_index": 0,
+    "solution": "Following the Purna Swaraj resolution, 26 January 1930 was observed as the first Independence Day.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Simon Commission (1928) was boycotted mainly because it:",
+    "options": [
+      "Had no Indian members",
+      "Was pro-Indian",
+      "Granted independence",
+      "Abolished the Congress"
+    ],
+    "correct_index": 0,
+    "solution": "The Simon Commission was boycotted with the slogan 'Simon Go Back' because it was an all-British body with no Indian members.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The peasant movement in Awadh during the Non-Cooperation period was led by:",
+    "options": [
+      "Baba Ramchandra",
+      "Alluri Sitaram Raju",
+      "G. D. Birla",
+      "C. R. Das"
+    ],
+    "correct_index": 0,
+    "solution": "Baba Ramchandra led the peasant movement in Awadh against oppressive landlords (talukdars) during the Non-Cooperation period.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The militant guerrilla movement of tribal peasants in the Gudem Hills of Andhra Pradesh was led by:",
+    "options": [
+      "Alluri Sitaram Raju",
+      "Baba Ramchandra",
+      "Bhagat Singh",
+      "Subhas Chandra Bose"
+    ],
+    "correct_index": 0,
+    "solution": "Alluri Sitaram Raju led the militant tribal movement in the Gudem Hills against forest restrictions during the 1920s.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Gandhi's message reached ordinary peasants partly because they saw him as:",
+    "options": [
+      "A 'Mahatma' with special powers who could relieve their suffering",
+      "A British officer",
+      "A landlord",
+      "A moneylender"
+    ],
+    "correct_index": 0,
+    "solution": "Many peasants regarded Gandhi as a 'Mahatma' with saintly power who would free them from oppression, drawing them into the movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 1931 agreement between Gandhi and the Viceroy that suspended Civil Disobedience was the:",
+    "options": [
+      "Gandhi-Irwin Pact",
+      "Lucknow Pact",
+      "Poona Pact",
+      "Lahore Pact"
+    ],
+    "correct_index": 0,
+    "solution": "The Gandhi-Irwin Pact (1931) led to the temporary suspension of Civil Disobedience and Gandhi's participation in the Second Round Table Conference.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Poona Pact of 1932 was signed between Mahatma Gandhi and:",
+    "options": [
+      "Dr B. R. Ambedkar",
+      "Muhammad Ali Jinnah",
+      "Lord Irwin",
+      "Subhas Chandra Bose"
+    ],
+    "correct_index": 0,
+    "solution": "The Poona Pact (1932) between Gandhi and Ambedkar gave the Depressed Classes reserved seats within the general electorate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The image of 'Bharat Mata' (Mother India) was first painted by:",
+    "options": [
+      "Abanindranath Tagore",
+      "Rabindranath Tagore",
+      "Raja Ravi Varma",
+      "Nandalal Bose"
+    ],
+    "correct_index": 0,
+    "solution": "Abanindranath Tagore painted the famous image of Bharat Mata, personifying the nation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The song 'Vande Mataram', a rallying cry of nationalism, was written by:",
+    "options": [
+      "Bankim Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose"
+    ],
+    "correct_index": 0,
+    "solution": "'Vande Mataram' was written by Bankim Chandra Chattopadhyay and became a powerful nationalist song.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The business class supported the national movement because they wanted:",
+    "options": [
+      "Protection from imports and freedom to expand business",
+      "More foreign goods",
+      "British monopoly",
+      "Higher colonial taxes"
+    ],
+    "correct_index": 0,
+    "solution": "Indian industrialists supported the movement to gain protection against imports and freedom from colonial restrictions on their business.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The industrialists formed which organisation to promote their collective interests?",
+    "options": [
+      "FICCI (Federation of Indian Chambers of Commerce and Industry)",
+      "The Muslim League",
+      "The Home Rule League",
+      "The Khilafat Committee"
+    ],
+    "correct_index": 0,
+    "solution": "Indian industrialists formed the Federation of Indian Chambers of Commerce and Industry (FICCI) in 1927 to promote their interests.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During the Civil Disobedience Movement, women participated by:",
+    "options": [
+      "Marching, making salt, picketing shops and courting arrest",
+      "Staying entirely at home",
+      "Opposing the movement",
+      "Supporting the British"
+    ],
+    "correct_index": 0,
+    "solution": "Women took an active part in the Civil Disobedience Movement, marching, making salt, picketing liquor and foreign-cloth shops, and going to jail.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A sense of collective belonging (nationalism) among Indians was fostered through:",
+    "options": [
+      "Symbols, songs, folklore, flags and reinterpretation of history",
+      "Only laws",
+      "Only wars",
+      "Only trade"
+    ],
+    "correct_index": 0,
+    "solution": "A sense of collective national belonging was built through symbols like Bharat Mata, songs, folklore, flags and the reinterpretation of history.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Swaraj flag designed during the movement featured:",
+    "options": [
+      "Red, green and white with a spinning wheel (charkha)",
+      "The Union Jack",
+      "A plain white cloth",
+      "A tiger"
+    ],
+    "correct_index": 0,
+    "solution": "The Swaraj flag (designed by 1921) had red, green and white colours with a spinning wheel (charkha) at the centre, symbolising self-reliance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The spinning wheel (charkha) became a symbol of the national movement because it represented:",
+    "options": [
+      "Self-reliance and the boycott of foreign cloth",
+      "British power",
+      "Modern industry",
+      "Foreign trade"
+    ],
+    "correct_index": 0,
+    "solution": "The charkha symbolised self-reliance (swadeshi) and the rejection of foreign mill-cloth, central to Gandhi's economic vision.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Plantation workers understood swaraj partly as:",
+    "options": [
+      "The right to move freely in and out of the enclosed plantation space",
+      "Higher taxes",
+      "British rule",
+      "Restrictions on movement"
+    ],
+    "correct_index": 0,
+    "solution": "For plantation workers, swaraj meant the freedom to move freely in and out of the confined space of the plantation, a right denied to them.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Different social groups joined the national movement with:",
+    "options": [
+      "Their own understandings and aspirations of swaraj",
+      "Identical aims",
+      "No interest",
+      "Opposition to Gandhi"
+    ],
+    "correct_index": 0,
+    "solution": "Peasants, tribals, workers, women and businessmen joined the movement with their own particular understandings and aspirations of what swaraj would mean.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rowlatt Satyagraha (1919) was launched by Gandhi against:",
+    "options": [
+      "The Rowlatt Act",
+      "The Salt Law",
+      "The Simon Commission",
+      "The Doctrine of Lapse"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi launched a nationwide satyagraha against the repressive Rowlatt Act in 1919.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One reason the Non-Cooperation Movement slowed down in cities was that:",
+    "options": [
+      "Boycotting foreign cloth was costly and khadi was expensive",
+      "Everyone became rich",
+      "There were no British goods",
+      "The movement had no support"
+    ],
+    "correct_index": 0,
+    "solution": "In cities the movement slowed as boycotting foreign cloth and institutions proved costly, and Indian (khadi) cloth was expensive.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The participation of the peasants and tribals shows that the national movement:",
+    "options": [
+      "Became a broad mass movement involving many social groups",
+      "Was limited to the elite",
+      "Had no rural support",
+      "Was led by the British"
+    ],
+    "correct_index": 0,
+    "solution": "The participation of peasants, tribals and workers shows that the national movement became a broad-based mass movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Gandhi's idea of swaraj included:",
+    "options": [
+      "Self-rule and self-reliance for India",
+      "Continued British rule",
+      "Rule by industrialists",
+      "Foreign control"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi's swaraj meant self-rule and self-reliance for India, socially and economically as well as politically.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The image of Bharat Mata and the song Vande Mataram helped to:",
+    "options": [
+      "Inspire devotion and a sense of unity towards the nation",
+      "Divide Indians",
+      "Support British rule",
+      "End the movement"
+    ],
+    "correct_index": 0,
+    "solution": "Cultural symbols like Bharat Mata and Vande Mataram inspired devotion and a sense of unity and belonging towards the nation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following was a limitation of the sense of national unity?",
+    "options": [
+      "Differences and tensions among communities and classes",
+      "Complete agreement among all",
+      "The absence of any groups",
+      "Total harmony"
+    ],
+    "correct_index": 0,
+    "solution": "National unity was limited by tensions and differences among communities, classes and interests, which sometimes surfaced during the movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reinterpretation of Indian history to glorify ancient achievements was used to:",
+    "options": [
+      "Build national pride and a sense of a glorious shared past",
+      "Support the British",
+      "Divide Indians",
+      "Discourage nationalism"
+    ],
+    "correct_index": 0,
+    "solution": "Nationalists reinterpreted history to celebrate India's ancient achievements, building pride and a sense of a glorious shared past.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Civil Disobedience Movement differed from Non-Cooperation in that people now:",
+    "options": [
+      "Broke colonial laws, not just refused cooperation",
+      "Only refused to cooperate",
+      "Supported British laws",
+      "Did nothing"
+    ],
+    "correct_index": 0,
+    "solution": "In Civil Disobedience, people actively broke colonial laws (like the salt law), going beyond the mere non-cooperation of the earlier movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dandi/salt satyagraha drew worldwide attention because it:",
+    "options": [
+      "Was a dramatic, non-violent challenge to an unjust law",
+      "Was violent",
+      "Failed immediately",
+      "Supported the British"
+    ],
+    "correct_index": 0,
+    "solution": "The Salt March was a dramatic and powerful non-violent challenge to an unjust law, drawing worldwide attention to India's struggle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The talukdars and landlords were the target of peasant anger in Awadh because they:",
+    "options": [
+      "Demanded exorbitant rents and forced labour (begar)",
+      "Gave land free to peasants",
+      "Reduced rents",
+      "Supported peasants"
+    ],
+    "correct_index": 0,
+    "solution": "In Awadh, peasants rose against the talukdars/landlords who demanded very high rents, cesses and forced labour (begar).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following pairs (leader — movement/region) is correctly matched?",
+    "options": [
+      "Alluri Sitaram Raju — Gudem tribal movement",
+      "Baba Ramchandra — Gudem Hills",
+      "Ali brothers — Salt March",
+      "G. D. Birla — peasant movement"
+    ],
+    "correct_index": 0,
+    "solution": "Alluri Sitaram Raju led the Gudem tribal movement. Baba Ramchandra led Awadh peasants; the Ali brothers led Khilafat; G. D. Birla was an industrialist.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The national movement gained momentum because Gandhi:",
+    "options": [
+      "Connected with the masses and used simple, powerful symbols",
+      "Kept it limited to the elite",
+      "Avoided the public",
+      "Supported British rule"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi's ability to connect with ordinary people and use simple, powerful symbols (salt, charkha, khadi) gave the movement mass appeal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The boycott of foreign cloth during the movements promoted:",
+    "options": [
+      "Indian handspun and handwoven cloth (khadi)",
+      "British mill cloth",
+      "Foreign luxury goods",
+      "The colonial economy"
+    ],
+    "correct_index": 0,
+    "solution": "The boycott of foreign cloth promoted the use of khadi (Indian handspun and handwoven cloth), strengthening self-reliance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nationalism in India grew as different groups came together against:",
+    "options": [
+      "Colonial (British) rule and its injustices",
+      "Each other",
+      "The Congress",
+      "Their own interests"
+    ],
+    "correct_index": 0,
+    "solution": "Indian nationalism grew as diverse social groups united in opposition to colonial rule and its economic and political injustices.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The participation of women, peasants, workers and tribals shows that the freedom struggle was:",
+    "options": [
+      "A broad-based movement, not confined to one class",
+      "Limited to the elite",
+      "Led by the British",
+      "Without popular support"
+    ],
+    "correct_index": 0,
+    "solution": "The involvement of women, peasants, workers and tribals shows the freedom struggle was a broad-based mass movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea of India as a nation was strengthened by:",
+    "options": [
+      "Shared symbols, culture, history and the common struggle against colonialism",
+      "Regional divisions",
+      "British encouragement",
+      "The absence of any movement"
+    ],
+    "correct_index": 0,
+    "solution": "The idea of India as a nation was strengthened by shared symbols, culture, history and the common anti-colonial struggle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The withdrawal of the Non-Cooperation Movement after Chauri Chaura showed Gandhi's commitment to:",
+    "options": [
+      "Non-violence",
+      "Violence",
+      "British rule",
+      "Ending the freedom struggle"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi's withdrawal of the movement after the violence at Chauri Chaura reflected his firm commitment to non-violence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'no-tax' peasant satyagraha at Bardoli (1928), which earned its leader the title 'Sardar', was led by:",
+    "options": [
+      "Vallabhbhai Patel",
+      "Jawaharlal Nehru",
+      "Alluri Sitaram Raju",
+      "C. R. Das"
+    ],
+    "correct_index": 0,
+    "solution": "The Bardoli Satyagraha (1928), a no-tax campaign by peasants against a revenue hike, was led by Vallabhbhai Patel, who earned the title 'Sardar'.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Gandhi's Champaran satyagraha of 1917 was directed against the oppressive plantation system in Bihar that forced peasants to grow:",
+    "options": [
+      "Indigo",
+      "Cotton",
+      "Tea",
+      "Jute"
+    ],
+    "correct_index": 0,
+    "solution": "In 1917 Gandhi travelled to Champaran in Bihar to inspire the peasants to struggle against the oppressive indigo plantation system under the 'tinkathia' arrangement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In 1918 Gandhi organised a satyagraha to support peasants demanding relaxation of revenue collection in the district of:",
+    "options": [
+      "Kheda",
+      "Champaran",
+      "Bardoli",
+      "Guntur"
+    ],
+    "correct_index": 0,
+    "solution": "In 1918 Gandhi organised a satyagraha in Kheda district of Gujarat, where peasants affected by crop failure and plague could not pay the revenue and demanded relaxation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In 1918 Gandhi went to Ahmedabad to organise a satyagraha movement among the:",
+    "options": [
+      "Cotton mill workers",
+      "Railway workers",
+      "Indigo peasants",
+      "Plantation workers"
+    ],
+    "correct_index": 0,
+    "solution": "In 1918 Gandhi went to Ahmedabad to organise a satyagraha among cotton mill workers, demanding better wages.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rowlatt Act (1919) was passed despite united Indian opposition and is popularly remembered as the:",
+    "options": [
+      "Black Act",
+      "Salt Law",
+      "Vernacular Act",
+      "Charter Act"
+    ],
+    "correct_index": 0,
+    "solution": "The Rowlatt Act (1919), which authorised detention of political prisoners without trial, was hated as the 'Black Act' and provoked Gandhi's first all-India satyagraha.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The officer who ordered the firing at Jallianwala Bagh on 13 April 1919 was:",
+    "options": [
+      "General Dyer",
+      "General Simon",
+      "Lord Irwin",
+      "Lord Chelmsford"
+    ],
+    "correct_index": 0,
+    "solution": "General Reginald Dyer ordered troops to fire on an unarmed crowd gathered at Jallianwala Bagh in Amritsar, killing hundreds, in one of the most brutal episodes of colonial rule.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Jallianwala Bagh massacre took place in the city of:",
+    "options": [
+      "Amritsar",
+      "Lahore",
+      "Delhi",
+      "Kanpur"
+    ],
+    "correct_index": 0,
+    "solution": "The massacre occurred at Jallianwala Bagh, an enclosed ground in Amritsar, where people had gathered on Baisakhi day, some to protest and some for the fair.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In protest against the Jallianwala Bagh massacre, the poet who renounced his knighthood was:",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chattopadhyay",
+      "Muhammad Iqbal",
+      "Subramania Bharati"
+    ],
+    "correct_index": 0,
+    "solution": "Rabindranath Tagore renounced his knighthood in protest against the brutality of the Jallianwala Bagh massacre.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Khilafat Movement was launched to defend the temporal powers of the Ottoman Sultan (Caliph) and was led by:",
+    "options": [
+      "Muhammad Ali and Shaukat Ali",
+      "Motilal and Jawaharlal Nehru",
+      "C.R. Das and B.R. Ambedkar",
+      "Bhagat Singh and Rajguru"
+    ],
+    "correct_index": 0,
+    "solution": "The Khilafat Committee, led by the brothers Muhammad Ali and Shaukat Ali, sought to defend the position of the Ottoman Caliph, and Gandhi took it up to bring Hindus and Muslims together.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Non-Cooperation Movement was formally adopted at the Congress session held in December 1920 at:",
+    "options": [
+      "Nagpur",
+      "Lahore",
+      "Calcutta",
+      "Lucknow"
+    ],
+    "correct_index": 0,
+    "solution": "At the Nagpur session of the Congress in December 1920, the Non-Cooperation programme was adopted, launching the movement in January 1921.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Gandhi called off the Non-Cooperation Movement in February 1922 following a violent incident at:",
+    "options": [
+      "Chauri Chaura",
+      "Dandi",
+      "Bardoli",
+      "Kheda"
+    ],
+    "correct_index": 0,
+    "solution": "When a crowd at Chauri Chaura (Gorakhpur) set fire to a police station killing policemen, Gandhi, disturbed by the violence, called off the Non-Cooperation Movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "After the withdrawal of Non-Cooperation, C.R. Das and Motilal Nehru formed the __________ to argue for a return to council politics.",
+    "options": [
+      "Swaraj Party",
+      "Ghadar Party",
+      "Forward Bloc",
+      "Justice Party"
+    ],
+    "correct_index": 0,
+    "solution": "C.R. Das and Motilal Nehru formed the Swaraj Party within the Congress to argue for a return to council politics and contest elections to the provincial councils.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The militant guerrilla movement of the tribal peasants in the Gudem Hills of Andhra Pradesh was led by:",
+    "options": [
+      "Alluri Sitaram Raju",
+      "Baba Ramchandra",
+      "Birsa Munda",
+      "Sidhu Murmu"
+    ],
+    "correct_index": 0,
+    "solution": "In the Gudem Hills of Andhra Pradesh, Alluri Sitaram Raju led a militant guerrilla movement of tribal peasants against the colonial forest laws.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The peasant movement in Awadh during the Non-Cooperation period was led by a sanyasi named:",
+    "options": [
+      "Baba Ramchandra",
+      "Alluri Sitaram Raju",
+      "Sardar Vallabhbhai Patel",
+      "C. Rajagopalachari"
+    ],
+    "correct_index": 0,
+    "solution": "The Awadh peasant movement against talukdars and landlords was led by Baba Ramchandra, a sanyasi who had earlier been to Fiji as an indentured labourer.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Simon Commission was boycotted with the slogan:",
+    "options": [
+      "'Go back Simon'",
+      "'Do or Die'",
+      "'Quit India'",
+      "'Inquilab Zindabad'"
+    ],
+    "correct_index": 0,
+    "solution": "When the Simon Commission arrived in India in 1928 it was greeted with the slogan 'Go back Simon', because it had no Indian members.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The nationalist leader who died from a lathi charge during the anti-Simon Commission protest at Lahore was:",
+    "options": [
+      "Lala Lajpat Rai",
+      "Bal Gangadhar Tilak",
+      "Bipin Chandra Pal",
+      "Gopal Krishna Gokhale"
+    ],
+    "correct_index": 0,
+    "solution": "Lala Lajpat Rai was injured in a lathi charge while leading a protest against the Simon Commission at Lahore, and later died of his injuries.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "At the Lahore session of December 1929, the Congress, presided over by Jawaharlal Nehru, adopted the demand for:",
+    "options": [
+      "Purna Swaraj (complete independence)",
+      "Dominion status",
+      "Provincial autonomy",
+      "Separate electorates"
+    ],
+    "correct_index": 0,
+    "solution": "The Lahore Congress of December 1929, under the presidency of Jawaharlal Nehru, formalised the demand of 'Purna Swaraj' or complete independence for India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first 'Independence Day' was observed, following the Lahore resolution, on:",
+    "options": [
+      "26 January 1930",
+      "15 August 1930",
+      "2 October 1929",
+      "13 April 1930"
+    ],
+    "correct_index": 0,
+    "solution": "26 January 1930 was celebrated as the first Independence Day, when people took a pledge to struggle for complete independence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Dandi Salt March began on 12 March 1930 from Gandhi's ashram at:",
+    "options": [
+      "Sabarmati",
+      "Wardha",
+      "Champaran",
+      "Bardoli"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi began the Salt March on 12 March 1930 from his Sabarmati Ashram, walking to the coastal village of Dandi to make salt.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Salt March covered a distance of about 240 miles to Dandi and lasted approximately:",
+    "options": [
+      "24 days",
+      "10 days",
+      "2 months",
+      "1 week"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi and his followers walked over 240 miles from Sabarmati to Dandi in about 24 days (12 March to 6 April 1930), where he ceremonially broke the salt law.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "On reaching Dandi on 6 April 1930, Gandhi broke the salt law by:",
+    "options": [
+      "Boiling sea water to make salt",
+      "Burning foreign cloth",
+      "Refusing to pay taxes",
+      "Boycotting schools"
+    ],
+    "correct_index": 0,
+    "solution": "On 6 April 1930 Gandhi reached Dandi and violated the salt law by manufacturing salt from sea water, launching the Civil Disobedience Movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the North-West Frontier Province, the Civil Disobedience Movement was led by the 'Frontier Gandhi':",
+    "options": [
+      "Khan Abdul Ghaffar Khan",
+      "Muhammad Ali Jinnah",
+      "Abul Kalam Azad",
+      "Muhammad Iqbal"
+    ],
+    "correct_index": 0,
+    "solution": "Khan Abdul Ghaffar Khan, known as the 'Frontier Gandhi', led the movement in the North-West Frontier Province through his Khudai Khidmatgar organisation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Gandhi-Irwin Pact was signed in March 1931, by which Gandhi agreed to:",
+    "options": [
+      "Participate in the Second Round Table Conference in London",
+      "Launch the Quit India Movement",
+      "Accept Partition",
+      "Give up Congress presidency"
+    ],
+    "correct_index": 0,
+    "solution": "By the Gandhi-Irwin Pact (March 1931), Gandhi consented to participate in the Second Round Table Conference in London, and the government agreed to release political prisoners.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Poona Pact of 1932 was signed between Gandhi and B.R. Ambedkar over the issue of:",
+    "options": [
+      "Reserved seats for the Depressed Classes in provincial councils",
+      "Separate homeland for Muslims",
+      "Salt tax",
+      "Land revenue"
+    ],
+    "correct_index": 0,
+    "solution": "The Poona Pact (September 1932) gave the Depressed Classes (later Scheduled Castes) reserved seats in the provincial and central legislative councils, but they were to be voted in by the general electorate, resolving the dispute over separate electorates.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The song 'Vande Mataram', which became a rallying cry of nationalism, was written by:",
+    "options": [
+      "Bankim Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Muhammad Iqbal",
+      "Subramania Bharati"
+    ],
+    "correct_index": 0,
+    "solution": "'Vande Mataram' was written by Bankim Chandra Chattopadhyay and was included in his novel Anandamath; it became a rallying song for nationalists.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The industrialists formed which organisation in 1927 to promote their collective business interests?",
+    "options": [
+      "FICCI (Federation of Indian Chambers of Commerce and Industries)",
+      "AITUC",
+      "Muslim League",
+      "Swaraj Party"
+    ],
+    "correct_index": 0,
+    "solution": "The Indian industrialists formed the Federation of Indian Chambers of Commerce and Industries (FICCI) in 1927 to organise business interests and support the national movement.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Swaraj flag designed by Gandhi in 1921 was a tricolour (red, green and white) with a __________ at the centre.",
+    "options": [
+      "Spinning wheel (charkha)",
+      "Lion",
+      "Wheel of Ashoka",
+      "Lotus"
+    ],
+    "correct_index": 0,
+    "solution": "By 1921 Gandhi had designed the Swaraj flag — a tricolour of red, green and white — with a spinning wheel in the centre, representing the Gandhian ideal of self-help.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During the Civil Disobedience Movement, the poet-activist Sarojini Naidu led the famous raid on the:",
+    "options": [
+      "Dharasana Salt Works",
+      "Chauri Chaura police station",
+      "Lahore Fort",
+      "Sabarmati Ashram"
+    ],
+    "correct_index": 0,
+    "solution": "Sarojini Naidu led a non-violent raid on the Dharasana Salt Works, where satyagrahis were brutally beaten by the police during the Civil Disobedience Movement.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The novel by Bankim Chandra Chattopadhyay in which the song Vande Mataram appeared was:",
+    "options": [
+      "Anandamath",
+      "Gora",
+      "Godan",
+      "Devdas"
+    ],
+    "correct_index": 0,
+    "solution": "Vande Mataram was part of Bankim Chandra Chattopadhyay's novel Anandamath, written in the 1870s.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Non-Cooperation Movement urged Indians to boycott British institutions such as:",
+    "options": [
+      "Government schools, courts, titles and foreign goods",
+      "Only railways",
+      "Only newspapers",
+      "Only the postal service"
+    ],
+    "correct_index": 0,
+    "solution": "Under Non-Cooperation, Indians were asked to surrender government titles, boycott civil services, army, police, courts, legislative councils, schools and foreign goods.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Salt was chosen as the symbol of protest in 1930 because:",
+    "options": [
+      "It was consumed by rich and poor alike, and the tax on it affected everyone",
+      "It was rare and expensive",
+      "Only the rich used it",
+      "It was not taxed"
+    ],
+    "correct_index": 0,
+    "solution": "Salt was a powerful symbol because it was one of the most essential items of food consumed by all Indians; the state monopoly and tax on salt oppressed rich and poor alike.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Gandhi called off the Non-Cooperation Movement in 1922. Reason (R): The movement had turned violent at Chauri Chaura, against his principle of non-violence.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi withdrew the movement because the Chauri Chaura violence contradicted his firm belief in non-violent satyagraha — R correctly explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): The Simon Commission was boycotted by Indians. Reason (R): It was an all-British commission with no Indian members.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "The Simon Commission, set up to look into the constitutional system, had no Indian members, which is why Indians of all parties boycotted it — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the leader with the movement/region: (i) Alluri Sitaram Raju (ii) Baba Ramchandra (iii) Abdul Ghaffar Khan — (a) Awadh peasants (b) NWFP (c) Gudem Hills:",
+    "options": [
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-c, (ii)-b, (iii)-a"
+    ],
+    "correct_index": 0,
+    "solution": "Alluri Sitaram Raju led the Gudem Hills tribal revolt, Baba Ramchandra led the Awadh peasant movement, and Abdul Ghaffar Khan led the movement in the North-West Frontier Province.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During the Civil Disobedience Movement, women participated actively by:",
+    "options": [
+      "Taking part in salt marches, picketing shops and courting arrest",
+      "Only cooking for the marchers",
+      "Staying entirely at home",
+      "Joining the British army"
+    ],
+    "correct_index": 0,
+    "solution": "Women participated in large numbers in the Civil Disobedience Movement — marching, making salt, picketing liquor and foreign cloth shops, and going to jail.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Awadh peasants' movement demanded, among other things, the abolition of 'begar', which meant:",
+    "options": [
+      "Forced labour without payment",
+      "Extra land revenue",
+      "Foreign cloth",
+      "Salt tax"
+    ],
+    "correct_index": 0,
+    "solution": "The Awadh peasants demanded reduction of revenue, abolition of begar (forced unpaid labour), and social boycott of oppressive landlords.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Plantation workers in Assam understood swaraj partly as the right to:",
+    "options": [
+      "Move freely in and out of the enclosed tea gardens",
+      "Own factories",
+      "Vote in elections",
+      "Stop growing tea"
+    ],
+    "correct_index": 0,
+    "solution": "For plantation workers in Assam, freedom (swaraj) meant the right to move freely in and out of the confined space in which they were enclosed, and to retain a link with their villages, under the Inland Emigration Act of 1859.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The colonial law of 1859 that restricted the movement of plantation workers out of the tea gardens was the:",
+    "options": [
+      "Inland Emigration Act",
+      "Rowlatt Act",
+      "Vernacular Press Act",
+      "Arms Act"
+    ],
+    "correct_index": 0,
+    "solution": "Under the Inland Emigration Act of 1859, plantation workers in Assam were not permitted to leave the tea gardens without permission, which they rarely got.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Civil Disobedience Movement differed from Non-Cooperation in that people were now asked to:",
+    "options": [
+      "Break colonial laws actively, not merely refuse cooperation",
+      "Only boycott schools",
+      "Support the British in the war",
+      "Pay all taxes"
+    ],
+    "correct_index": 0,
+    "solution": "Unlike Non-Cooperation, which merely refused cooperation with the government, Civil Disobedience asked people to break colonial laws, such as the salt law, and to actively defy the state.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Muslim League leader who at first attended the Round Table Conferences and later demanded Pakistan was:",
+    "options": [
+      "Muhammad Ali Jinnah",
+      "Muhammad Ali",
+      "Shaukat Ali",
+      "Abdul Ghaffar Khan"
+    ],
+    "correct_index": 0,
+    "solution": "Muhammad Ali Jinnah, leader of the Muslim League, participated in constitutional negotiations and later, in 1940, the League moved a resolution demanding a separate state, Pakistan.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The businessman and industrialist who was a prominent supporter of Gandhi and the national movement was:",
+    "options": [
+      "G.D. Birla",
+      "J.R.D. Tata only",
+      "Jamnalal Bajaj and G.D. Birla",
+      "Dorabji Tata"
+    ],
+    "correct_index": 0,
+    "solution": "Industrialists like G.D. Birla and Jamnalal Bajaj gave financial and moral support to the national movement, seeing swaraj as an opportunity for the growth of Indian business.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The business class supported the national movement mainly because they wanted:",
+    "options": [
+      "Protection against imports and freedom to expand their business",
+      "Higher taxes",
+      "British rule to continue",
+      "A ban on Indian industry"
+    ],
+    "correct_index": 0,
+    "solution": "Indian industrialists supported the movement because they were opposed to colonial policies that restricted business, and wanted protection against imports and a rupee-sterling exchange favourable to them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One limitation of the sense of national unity was that:",
+    "options": [
+      "Some groups such as the Muslim League and Dalits felt their interests were not fully represented",
+      "No one participated",
+      "Only peasants joined",
+      "There were no leaders"
+    ],
+    "correct_index": 0,
+    "solution": "Despite growing unity, differences remained: Muslims felt alienated from the Congress, and some Dalit leaders like Ambedkar wanted separate political safeguards, showing the movement's internal tensions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The spinning wheel (charkha) became a powerful symbol of the national movement because it represented:",
+    "options": [
+      "Self-reliance and the dignity of manual labour",
+      "Modern machinery",
+      "Foreign trade",
+      "Military strength"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi popularised the charkha as a symbol of self-reliance (swadeshi) and the dignity of labour; spinning khadi was seen as a means to make Indians self-sufficient and undermine British textile imports.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea of India as a nation was strengthened during the freedom struggle by:",
+    "options": [
+      "Folklore, songs, symbols like Bharat Mata, and reinterpretation of history",
+      "Foreign rule",
+      "British education alone",
+      "The salt tax"
+    ],
+    "correct_index": 0,
+    "solution": "Nationalism spread through cultural processes: figures like Bharat Mata, songs like Vande Mataram, the collection of folklore, and the reinterpretation of history helped create a shared sense of belonging.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Second Round Table Conference, which Gandhi attended in 1931, was held in:",
+    "options": [
+      "London",
+      "Delhi",
+      "Karachi",
+      "Lahore"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi attended the Second Round Table Conference in London in late 1931, but returned disappointed as his demands were not met, and Civil Disobedience was resumed.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The withdrawal of the Non-Cooperation Movement after Chauri Chaura showed that Gandhi believed:",
+    "options": [
+      "Non-violence was essential and the people were not yet ready for mass struggle",
+      "Violence was acceptable",
+      "The movement should continue at any cost",
+      "Only leaders should protest"
+    ],
+    "correct_index": 0,
+    "solution": "By withdrawing the movement, Gandhi reaffirmed that satyagraha must remain strictly non-violent and felt that the masses had not yet been properly trained for a disciplined non-violent struggle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tricolour flag used by the Swaraj movement (Gandhi's design) had three colours representing the communities and the charkha; its colours were:",
+    "options": [
+      "Red, green and white",
+      "Saffron, white and green",
+      "Blue, white and red",
+      "Black, red and gold"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi's 1921 Swaraj flag was a tricolour of red, green and white with a spinning wheel at the centre, symbolising self-reliance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall theme of 'Nationalism in India' is how:",
+    "options": [
+      "Diverse social groups came together, especially under Gandhi, in a mass struggle against colonial rule",
+      "India remained divided",
+      "Only the elite led the struggle",
+      "Colonial rule was welcomed"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains how diverse social groups came together, especially under Gandhi's leadership, in a mass national struggle against colonial rule.",
+    "difficulty": "easy"
+  }
 ]
