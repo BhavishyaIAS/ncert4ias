@@ -1,52 +1,1082 @@
 [
-  { "stem": "Elections are essential to a democracy because they:", "options": ["Allow people to choose their representatives", "Are decorative rituals", "Give power to the army", "Are held only once ever"], "correct_index": 0, "solution": "Elections are the mechanism by which people regularly choose (and can change) their representatives in a democracy.", "difficulty": "medium" },
-  { "stem": "The right of all adult citizens to vote is called:", "options": ["Universal adult franchise", "Limited franchise", "Property franchise", "Hereditary franchise"], "correct_index": 0, "solution": "Universal adult franchise gives every adult citizen the right to vote, regardless of caste, religion, gender or wealth.", "difficulty": "medium" },
-  { "stem": "Elections in India are conducted by the:", "options": ["Election Commission of India", "Supreme Court", "Parliament", "Prime Minister"], "correct_index": 0, "solution": "The Election Commission of India, an independent constitutional body, conducts and supervises elections.", "difficulty": "medium" },
-  { "stem": "The Election Commission of India is:", "options": ["An independent and powerful body", "Controlled by the ruling party", "A part of the Cabinet", "Run by the courts"], "correct_index": 0, "solution": "The Election Commission is an independent and powerful body that enjoys autonomy to ensure free and fair elections.", "difficulty": "medium" },
-  { "stem": "The area from which a candidate is elected to the Lok Sabha is called a:", "options": ["Constituency", "Ward", "State", "District"], "correct_index": 0, "solution": "A constituency is the area whose voters elect one representative (MP) to the Lok Sabha.", "difficulty": "medium" },
-  { "stem": "Some constituencies are 'reserved' for candidates belonging to:", "options": ["Scheduled Castes and Scheduled Tribes", "The wealthy", "One religion", "Government officials"], "correct_index": 0, "solution": "Reserved constituencies ensure the representation of Scheduled Castes and Scheduled Tribes in legislatures.", "difficulty": "medium" },
-  { "stem": "The official list of those eligible to vote in a constituency is the:", "options": ["Electoral roll (voters' list)", "Census", "Gazette", "Ration card list"], "correct_index": 0, "solution": "The electoral roll (voters' list) contains the names of all citizens eligible to vote in a constituency.", "difficulty": "medium" },
-  { "stem": "The card issued to help identify voters at the polling booth is the:", "options": ["Voter ID (EPIC) card", "PAN card only", "Passport only", "Ration card only"], "correct_index": 0, "solution": "The Election Commission issues a Voter ID card (Electoral Photo Identity Card) to help identify voters.", "difficulty": "medium" },
-  { "stem": "The set of norms and guidelines that parties and candidates must follow during elections is the:", "options": ["Model Code of Conduct", "Directive Principles", "Preamble", "Fundamental Duties"], "correct_index": 0, "solution": "The Model Code of Conduct sets out rules of behaviour for parties and candidates to keep elections free and fair.", "difficulty": "hard" },
-  { "stem": "Votes in Indian elections are now recorded using:", "options": ["Electronic Voting Machines (EVMs)", "Show of hands", "Voice votes", "Postcards only"], "correct_index": 0, "solution": "Electronic Voting Machines (EVMs) are used to record and count votes in Indian elections.", "difficulty": "easy" },
-  { "stem": "The Indian electoral system generally follows the __________ method.", "options": ["first-past-the-post", "proportional representation", "single transferable vote", "cumulative voting"], "correct_index": 0, "solution": "India mainly uses the first-past-the-post system: the candidate with the most votes in a constituency wins.", "difficulty": "hard" },
-  { "stem": "In the first-past-the-post system, the winning candidate is the one who:", "options": ["Gets more votes than any other candidate", "Gets more than half of all votes only", "Is chosen by the party", "Is the oldest"], "correct_index": 0, "solution": "Under first-past-the-post, the candidate with the highest number of votes wins, even without an absolute majority.", "difficulty": "medium" },
-  { "stem": "For an election to be democratic, it must offer voters:", "options": ["A genuine choice among candidates and parties", "A single candidate", "A pre-decided result", "Only rich candidates"], "correct_index": 0, "solution": "A democratic election must give voters a genuine choice among candidates and parties.", "difficulty": "medium" },
-  { "stem": "A challenge to free and fair elections is:", "options": ["Rigging, use of money and muscle power", "Universal franchise", "A secret ballot", "An independent Election Commission"], "correct_index": 0, "solution": "Rigging, booth-capturing, and the misuse of money and muscle power are challenges to free and fair elections.", "difficulty": "medium" },
-  { "stem": "The secret ballot protects voters by ensuring that:", "options": ["Their choice remains private and free from pressure", "Everyone knows how they voted", "The rich control the outcome", "Voters can be intimidated"], "correct_index": 0, "solution": "The secret ballot keeps a voter's choice private, protecting them from intimidation and pressure.", "difficulty": "medium" },
-  { "stem": "The purpose of the Model Code of Conduct is to:", "options": ["Ensure a level playing field and prevent misuse of power during elections", "Help the ruling party", "Restrict the Opposition only", "Cancel elections"], "correct_index": 0, "solution": "The Model Code of Conduct ensures a level playing field and prevents the ruling party from misusing government power during elections.", "difficulty": "medium" },
-  { "stem": "The candidates who contest elections must file a:", "options": ["Nomination and a declaration (affidavit) of their details", "Weather report", "Trade licence only", "Ration card only"], "correct_index": 0, "solution": "Candidates must file a nomination and a declaration/affidavit giving details such as their assets, education and criminal record.", "difficulty": "hard" },
-  { "stem": "The main purpose of holding elections at regular intervals is to:", "options": ["Let people renew or change their mandate to rulers", "Keep the same rulers forever", "Avoid public participation", "Weaken democracy"], "correct_index": 0, "solution": "Regular elections let people renew their support for, or change, their rulers at fixed intervals.", "difficulty": "medium" },
-  { "stem": "The independence of the Election Commission is important so that it can:", "options": ["Conduct impartial elections free from government pressure", "Favour the ruling party", "Cancel elections at will", "Restrict voting"], "correct_index": 0, "solution": "An independent Election Commission can conduct impartial elections without being pressured by the government of the day.", "difficulty": "medium" },
-  { "stem": "The election campaign period allows candidates and parties to:", "options": ["Present their policies and win voters' support", "Bribe voters legally", "Avoid the public", "Control the Election Commission"], "correct_index": 0, "solution": "During the campaign, candidates and parties present their programmes and try to win the support of voters.", "difficulty": "medium" },
-  { "stem": "Which of the following makes an election democratic?", "options": ["Everyone can vote, all can contest, the choice is real, and it is free and fair", "Only one party contests", "The result is decided in advance", "Only officials vote"], "correct_index": 0, "solution": "A democratic election requires universal franchise, open competition, a genuine choice, and free and fair conduct.", "difficulty": "medium" },
-  { "stem": "Reserved constituencies were created to ensure that:", "options": ["Weaker sections (SCs and STs) get fair representation", "Only the rich get elected", "Minorities are excluded", "No one from these groups is elected"], "correct_index": 0, "solution": "Reserved constituencies ensure that historically disadvantaged groups (SCs and STs) get fair representation in legislatures.", "difficulty": "medium" },
-  { "stem": "The counting of votes and declaration of results is supervised by the:", "options": ["Election Commission", "Ruling party", "Army", "Supreme Court"], "correct_index": 0, "solution": "The Election Commission supervises the counting of votes and the declaration of results.", "difficulty": "medium" },
-  { "stem": "A 'by-election' is held to:", "options": ["Fill a seat that has fallen vacant between general elections", "Elect the whole legislature", "Choose the Election Commission", "Amend the Constitution"], "correct_index": 0, "solution": "A by-election is held to fill a single seat that becomes vacant (e.g. due to death or resignation) between general elections.", "difficulty": "hard" },
-  { "stem": "The people's ability to vote out a non-performing government shows that elections make rulers:", "options": ["Accountable to the people", "Free from accountability", "Permanent", "Independent of the people"], "correct_index": 0, "solution": "Because voters can remove a non-performing government at the polls, elections keep rulers accountable to the people.", "difficulty": "medium" },
-  { "stem": "The independence of voters is protected by:", "options": ["The secret ballot and rules against intimidation", "Open voting", "Control by the ruling party", "The absence of rules"], "correct_index": 0, "solution": "The secret ballot and rules against intimidation and bribery protect the independence and free choice of voters.", "difficulty": "medium" },
-  { "stem": "Money power is a threat to elections because it:", "options": ["Gives wealthy candidates and parties an unfair advantage", "Helps the poor", "Ensures fairness", "Has no effect"], "correct_index": 0, "solution": "The excessive use of money gives rich candidates and parties an unfair advantage, undermining fair elections.", "difficulty": "medium" },
-  { "stem": "The Election Commission can order a re-poll or countermand an election if:", "options": ["Serious malpractices such as rigging occur", "The ruling party loses", "Turnout is high", "The weather is bad"], "correct_index": 0, "solution": "The Election Commission has the power to order a re-poll or cancel an election where serious malpractices like rigging occur.", "difficulty": "hard" },
-  { "stem": "A large voter turnout in Indian elections indicates that:", "options": ["People value their right to vote and participate actively", "People are indifferent", "Elections are unnecessary", "Only the rich vote"], "correct_index": 0, "solution": "High voter turnout shows that people, including the poor and disadvantaged, value and actively use their right to vote.", "difficulty": "medium" },
-  { "stem": "The purpose of the electoral roll is to:", "options": ["Ensure that only eligible citizens vote, and each votes once", "List candidates", "Record election results", "Fix candidates' expenses"], "correct_index": 0, "solution": "The electoral roll ensures that only eligible citizens vote and that each of them votes only once.", "difficulty": "medium" },
-  { "stem": "The conduct of free and fair elections in India, despite challenges, is a sign of its:", "options": ["Robust democracy", "Failed democracy", "Absence of democracy", "Military rule"], "correct_index": 0, "solution": "Regular, largely free and fair elections, despite challenges, are a sign of the strength of Indian democracy.", "difficulty": "medium" },
-  { "stem": "Political parties contest elections in order to:", "options": ["Win seats and form the government or opposition", "Conduct the elections", "Count the votes", "Draw constituency boundaries"], "correct_index": 0, "solution": "Political parties contest elections to win seats and, based on the results, form the government or the opposition.", "difficulty": "medium" },
-  { "stem": "The candidate or party with a majority of seats in the legislature usually:", "options": ["Forms the government", "Becomes the Opposition", "Runs the courts", "Conducts elections"], "correct_index": 0, "solution": "The party or coalition that wins a majority of seats forms the government.", "difficulty": "medium" },
-  { "stem": "The demarcation of constituency boundaries so that each has roughly equal population is called:", "options": ["Delimitation", "Reservation", "Nomination", "Coalition"], "correct_index": 0, "solution": "Delimitation is the process of drawing constituency boundaries so that each has roughly equal population.", "difficulty": "hard" },
-  { "stem": "Which of the following would make an election NOT free and fair?", "options": ["Rigging and preventing some people from voting", "Universal franchise", "A secret ballot", "Independent supervision"], "correct_index": 0, "solution": "Rigging, booth-capturing and preventing certain people from voting make elections neither free nor fair.", "difficulty": "medium" },
-  { "stem": "The election machinery (officials on election duty) is expected to be:", "options": ["Neutral and impartial", "Loyal to the ruling party", "Biased towards the rich", "Under military control"], "correct_index": 0, "solution": "Officials on election duty are placed under the Election Commission and are expected to be neutral and impartial.", "difficulty": "medium" },
-  { "stem": "The value of elections lies in the fact that they:", "options": ["Give ordinary people the power to choose and control their rulers", "Serve only the powerful", "Are meaningless rituals", "Exclude the poor"], "correct_index": 0, "solution": "Elections give ordinary citizens the power to choose their rulers and to hold them accountable.", "difficulty": "medium" },
-  { "stem": "Which of the following strengthens the fairness of elections?", "options": ["An independent Election Commission and the Model Code of Conduct", "Control by the ruling party", "Open (non-secret) voting", "The use of muscle power"], "correct_index": 0, "solution": "An independent Election Commission and the Model Code of Conduct strengthen the fairness of elections.", "difficulty": "medium" },
-  { "stem": "The fact that even a powerful ruling party sometimes loses elections in India shows that:", "options": ["Elections in India are largely genuine and competitive", "Elections are fixed", "There is no democracy", "Only one party ever wins"], "correct_index": 0, "solution": "That ruling parties do lose elections shows Indian elections are largely genuine, free and competitive.", "difficulty": "medium" },
-  { "stem": "The right of every adult to vote, regardless of status, reflects the principle of:", "options": ["Political equality", "Hierarchy", "Privilege", "Discrimination"], "correct_index": 0, "solution": "Universal adult franchise reflects political equality — every adult has an equal vote.", "difficulty": "medium" },
-  { "stem": "A candidate's declaration of assets and criminal record (affidavit) helps voters to:", "options": ["Make an informed choice", "Be misled", "Avoid voting", "Support the rich only"], "correct_index": 0, "solution": "The affidavit gives voters information about candidates, helping them make an informed choice.", "difficulty": "medium" },
-  { "stem": "The Election Commission's role in enforcing rules shows that in a democracy, even __________ must follow the law.", "options": ["the government and ruling party", "only citizens", "only the Opposition", "foreigners"], "correct_index": 0, "solution": "The Election Commission enforces rules on all, showing that even the government and ruling party must follow the law during elections.", "difficulty": "medium" },
-  { "stem": "The overall aim of the electoral process is to:", "options": ["Translate the people's choice into a representative government", "Keep power with the rich", "Avoid representation", "Serve the ruling party only"], "correct_index": 0, "solution": "The electoral process translates the people's choice into a representative government accountable to them.", "difficulty": "medium" },
-  { "stem": "A key strength of Indian elections is the participation of:", "options": ["People from all sections of society, including the poor and marginalised", "Only the rich", "Only urban voters", "Only officials"], "correct_index": 0, "solution": "A notable strength of Indian elections is the wide participation of all sections of society, including the poor and marginalised.", "difficulty": "medium" },
-  { "stem": "Which of the following is essential for voters to exercise a free choice?", "options": ["Absence of fear, fraud and undue pressure", "Open declaration of votes", "Bribery", "Intimidation"], "correct_index": 0, "solution": "A free choice requires that voters can vote without fear, fraud or undue pressure.", "difficulty": "medium" },
-  { "stem": "The powers of the Election Commission include:", "options": ["Superintending, directing and controlling elections", "Making all laws", "Deciding court cases", "Running the economy"], "correct_index": 0, "solution": "The Election Commission superintends, directs and controls the entire process of elections.", "difficulty": "medium" },
-  { "stem": "The regular holding of elections at fixed intervals ensures:", "options": ["Periodic accountability of rulers to the people", "Permanent rule by one party", "The end of democracy", "Rule without the people"], "correct_index": 0, "solution": "Elections at fixed intervals ensure that rulers are periodically accountable to the people.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about Indian elections is correct?", "options": ["They are based on universal franchise and conducted by an independent Election Commission", "Only the rich can vote", "They are run by the ruling party", "Voting is not secret"], "correct_index": 0, "solution": "Indian elections rest on universal adult franchise and are conducted by an independent Election Commission through secret ballot.", "difficulty": "medium" },
-  { "stem": "A general election to the Lok Sabha involves filling how many elected seats (constituencies)?", "options": ["543", "250", "100", "1000"], "correct_index": 0, "solution": "There are 543 elected Lok Sabha constituencies, from each of which one Member of Parliament is elected.", "difficulty": "hard" },
-  { "stem": "The overall theme of 'Electoral Politics' is that:", "options": ["Free and fair elections are central to democracy, letting people choose and control their rulers", "Elections are unnecessary", "Only the rich should vote", "The ruling party should run elections"], "correct_index": 0, "solution": "The chapter explains how free and fair elections are central to democracy, enabling people to choose and hold accountable their rulers.", "difficulty": "easy" }
+  {
+    "stem": "Elections are essential to a democracy because they:",
+    "options": [
+      "Allow people to choose their representatives",
+      "Are decorative rituals",
+      "Give power to the army",
+      "Are held only once ever"
+    ],
+    "correct_index": 0,
+    "solution": "Elections are the mechanism by which people regularly choose (and can change) their representatives in a democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The right of all adult citizens to vote is called:",
+    "options": [
+      "Universal adult franchise",
+      "Limited franchise",
+      "Property franchise",
+      "Hereditary franchise"
+    ],
+    "correct_index": 0,
+    "solution": "Universal adult franchise gives every adult citizen the right to vote, regardless of caste, religion, gender or wealth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Elections in India are conducted by the:",
+    "options": [
+      "Election Commission of India",
+      "Supreme Court",
+      "Parliament",
+      "Prime Minister"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission of India, an independent constitutional body, conducts and supervises elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Election Commission of India is:",
+    "options": [
+      "An independent and powerful body",
+      "Controlled by the ruling party",
+      "A part of the Cabinet",
+      "Run by the courts"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission is an independent and powerful body that enjoys autonomy to ensure free and fair elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The area from which a candidate is elected to the Lok Sabha is called a:",
+    "options": [
+      "Constituency",
+      "Ward",
+      "State",
+      "District"
+    ],
+    "correct_index": 0,
+    "solution": "A constituency is the area whose voters elect one representative (MP) to the Lok Sabha.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Some constituencies are 'reserved' for candidates belonging to:",
+    "options": [
+      "Scheduled Castes and Scheduled Tribes",
+      "The wealthy",
+      "One religion",
+      "Government officials"
+    ],
+    "correct_index": 0,
+    "solution": "Reserved constituencies ensure the representation of Scheduled Castes and Scheduled Tribes in legislatures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The official list of those eligible to vote in a constituency is the:",
+    "options": [
+      "Electoral roll (voters' list)",
+      "Census",
+      "Gazette",
+      "Ration card list"
+    ],
+    "correct_index": 0,
+    "solution": "The electoral roll (voters' list) contains the names of all citizens eligible to vote in a constituency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The card issued to help identify voters at the polling booth is the:",
+    "options": [
+      "Voter ID (EPIC) card",
+      "PAN card only",
+      "Passport only",
+      "Ration card only"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission issues a Voter ID card (Electoral Photo Identity Card) to help identify voters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The set of norms and guidelines that parties and candidates must follow during elections is the:",
+    "options": [
+      "Model Code of Conduct",
+      "Directive Principles",
+      "Preamble",
+      "Fundamental Duties"
+    ],
+    "correct_index": 0,
+    "solution": "The Model Code of Conduct sets out rules of behaviour for parties and candidates to keep elections free and fair.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Votes in Indian elections are now recorded using:",
+    "options": [
+      "Electronic Voting Machines (EVMs)",
+      "Show of hands",
+      "Voice votes",
+      "Postcards only"
+    ],
+    "correct_index": 0,
+    "solution": "Electronic Voting Machines (EVMs) are used to record and count votes in Indian elections.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Indian electoral system generally follows the __________ method.",
+    "options": [
+      "first-past-the-post",
+      "proportional representation",
+      "single transferable vote",
+      "cumulative voting"
+    ],
+    "correct_index": 0,
+    "solution": "India mainly uses the first-past-the-post system: the candidate with the most votes in a constituency wins.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In the first-past-the-post system, the winning candidate is the one who:",
+    "options": [
+      "Gets more votes than any other candidate",
+      "Gets more than half of all votes only",
+      "Is chosen by the party",
+      "Is the oldest"
+    ],
+    "correct_index": 0,
+    "solution": "Under first-past-the-post, the candidate with the highest number of votes wins, even without an absolute majority.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For an election to be democratic, it must offer voters:",
+    "options": [
+      "A genuine choice among candidates and parties",
+      "A single candidate",
+      "A pre-decided result",
+      "Only rich candidates"
+    ],
+    "correct_index": 0,
+    "solution": "A democratic election must give voters a genuine choice among candidates and parties.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A challenge to free and fair elections is:",
+    "options": [
+      "Rigging, use of money and muscle power",
+      "Universal franchise",
+      "A secret ballot",
+      "An independent Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "Rigging, booth-capturing, and the misuse of money and muscle power are challenges to free and fair elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The secret ballot protects voters by ensuring that:",
+    "options": [
+      "Their choice remains private and free from pressure",
+      "Everyone knows how they voted",
+      "The rich control the outcome",
+      "Voters can be intimidated"
+    ],
+    "correct_index": 0,
+    "solution": "The secret ballot keeps a voter's choice private, protecting them from intimidation and pressure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The purpose of the Model Code of Conduct is to:",
+    "options": [
+      "Ensure a level playing field and prevent misuse of power during elections",
+      "Help the ruling party",
+      "Restrict the Opposition only",
+      "Cancel elections"
+    ],
+    "correct_index": 0,
+    "solution": "The Model Code of Conduct ensures a level playing field and prevents the ruling party from misusing government power during elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The candidates who contest elections must file a:",
+    "options": [
+      "Nomination and a declaration (affidavit) of their details",
+      "Weather report",
+      "Trade licence only",
+      "Ration card only"
+    ],
+    "correct_index": 0,
+    "solution": "Candidates must file a nomination and a declaration/affidavit giving details such as their assets, education and criminal record.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main purpose of holding elections at regular intervals is to:",
+    "options": [
+      "Let people renew or change their mandate to rulers",
+      "Keep the same rulers forever",
+      "Avoid public participation",
+      "Weaken democracy"
+    ],
+    "correct_index": 0,
+    "solution": "Regular elections let people renew their support for, or change, their rulers at fixed intervals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The independence of the Election Commission is important so that it can:",
+    "options": [
+      "Conduct impartial elections free from government pressure",
+      "Favour the ruling party",
+      "Cancel elections at will",
+      "Restrict voting"
+    ],
+    "correct_index": 0,
+    "solution": "An independent Election Commission can conduct impartial elections without being pressured by the government of the day.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The election campaign period allows candidates and parties to:",
+    "options": [
+      "Present their policies and win voters' support",
+      "Bribe voters legally",
+      "Avoid the public",
+      "Control the Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "During the campaign, candidates and parties present their programmes and try to win the support of voters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following makes an election democratic?",
+    "options": [
+      "Everyone can vote, all can contest, the choice is real, and it is free and fair",
+      "Only one party contests",
+      "The result is decided in advance",
+      "Only officials vote"
+    ],
+    "correct_index": 0,
+    "solution": "A democratic election requires universal franchise, open competition, a genuine choice, and free and fair conduct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Reserved constituencies were created to ensure that:",
+    "options": [
+      "Weaker sections (SCs and STs) get fair representation",
+      "Only the rich get elected",
+      "Minorities are excluded",
+      "No one from these groups is elected"
+    ],
+    "correct_index": 0,
+    "solution": "Reserved constituencies ensure that historically disadvantaged groups (SCs and STs) get fair representation in legislatures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The counting of votes and declaration of results is supervised by the:",
+    "options": [
+      "Election Commission",
+      "Ruling party",
+      "Army",
+      "Supreme Court"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission supervises the counting of votes and the declaration of results.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'by-election' is held to:",
+    "options": [
+      "Fill a seat that has fallen vacant between general elections",
+      "Elect the whole legislature",
+      "Choose the Election Commission",
+      "Amend the Constitution"
+    ],
+    "correct_index": 0,
+    "solution": "A by-election is held to fill a single seat that becomes vacant (e.g. due to death or resignation) between general elections.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The people's ability to vote out a non-performing government shows that elections make rulers:",
+    "options": [
+      "Accountable to the people",
+      "Free from accountability",
+      "Permanent",
+      "Independent of the people"
+    ],
+    "correct_index": 0,
+    "solution": "Because voters can remove a non-performing government at the polls, elections keep rulers accountable to the people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The independence of voters is protected by:",
+    "options": [
+      "The secret ballot and rules against intimidation",
+      "Open voting",
+      "Control by the ruling party",
+      "The absence of rules"
+    ],
+    "correct_index": 0,
+    "solution": "The secret ballot and rules against intimidation and bribery protect the independence and free choice of voters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Money power is a threat to elections because it:",
+    "options": [
+      "Gives wealthy candidates and parties an unfair advantage",
+      "Helps the poor",
+      "Ensures fairness",
+      "Has no effect"
+    ],
+    "correct_index": 0,
+    "solution": "The excessive use of money gives rich candidates and parties an unfair advantage, undermining fair elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Election Commission can order a re-poll or countermand an election if:",
+    "options": [
+      "Serious malpractices such as rigging occur",
+      "The ruling party loses",
+      "Turnout is high",
+      "The weather is bad"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission has the power to order a re-poll or cancel an election where serious malpractices like rigging occur.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A large voter turnout in Indian elections indicates that:",
+    "options": [
+      "People value their right to vote and participate actively",
+      "People are indifferent",
+      "Elections are unnecessary",
+      "Only the rich vote"
+    ],
+    "correct_index": 0,
+    "solution": "High voter turnout shows that people, including the poor and disadvantaged, value and actively use their right to vote.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The purpose of the electoral roll is to:",
+    "options": [
+      "Ensure that only eligible citizens vote, and each votes once",
+      "List candidates",
+      "Record election results",
+      "Fix candidates' expenses"
+    ],
+    "correct_index": 0,
+    "solution": "The electoral roll ensures that only eligible citizens vote and that each of them votes only once.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The conduct of free and fair elections in India, despite challenges, is a sign of its:",
+    "options": [
+      "Robust democracy",
+      "Failed democracy",
+      "Absence of democracy",
+      "Military rule"
+    ],
+    "correct_index": 0,
+    "solution": "Regular, largely free and fair elections, despite challenges, are a sign of the strength of Indian democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Political parties contest elections in order to:",
+    "options": [
+      "Win seats and form the government or opposition",
+      "Conduct the elections",
+      "Count the votes",
+      "Draw constituency boundaries"
+    ],
+    "correct_index": 0,
+    "solution": "Political parties contest elections to win seats and, based on the results, form the government or the opposition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The candidate or party with a majority of seats in the legislature usually:",
+    "options": [
+      "Forms the government",
+      "Becomes the Opposition",
+      "Runs the courts",
+      "Conducts elections"
+    ],
+    "correct_index": 0,
+    "solution": "The party or coalition that wins a majority of seats forms the government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The demarcation of constituency boundaries so that each has roughly equal population is called:",
+    "options": [
+      "Delimitation",
+      "Reservation",
+      "Nomination",
+      "Coalition"
+    ],
+    "correct_index": 0,
+    "solution": "Delimitation is the process of drawing constituency boundaries so that each has roughly equal population.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following would make an election NOT free and fair?",
+    "options": [
+      "Rigging and preventing some people from voting",
+      "Universal franchise",
+      "A secret ballot",
+      "Independent supervision"
+    ],
+    "correct_index": 0,
+    "solution": "Rigging, booth-capturing and preventing certain people from voting make elections neither free nor fair.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The election machinery (officials on election duty) is expected to be:",
+    "options": [
+      "Neutral and impartial",
+      "Loyal to the ruling party",
+      "Biased towards the rich",
+      "Under military control"
+    ],
+    "correct_index": 0,
+    "solution": "Officials on election duty are placed under the Election Commission and are expected to be neutral and impartial.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The value of elections lies in the fact that they:",
+    "options": [
+      "Give ordinary people the power to choose and control their rulers",
+      "Serve only the powerful",
+      "Are meaningless rituals",
+      "Exclude the poor"
+    ],
+    "correct_index": 0,
+    "solution": "Elections give ordinary citizens the power to choose their rulers and to hold them accountable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following strengthens the fairness of elections?",
+    "options": [
+      "An independent Election Commission and the Model Code of Conduct",
+      "Control by the ruling party",
+      "Open (non-secret) voting",
+      "The use of muscle power"
+    ],
+    "correct_index": 0,
+    "solution": "An independent Election Commission and the Model Code of Conduct strengthen the fairness of elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The fact that even a powerful ruling party sometimes loses elections in India shows that:",
+    "options": [
+      "Elections in India are largely genuine and competitive",
+      "Elections are fixed",
+      "There is no democracy",
+      "Only one party ever wins"
+    ],
+    "correct_index": 0,
+    "solution": "That ruling parties do lose elections shows Indian elections are largely genuine, free and competitive.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The right of every adult to vote, regardless of status, reflects the principle of:",
+    "options": [
+      "Political equality",
+      "Hierarchy",
+      "Privilege",
+      "Discrimination"
+    ],
+    "correct_index": 0,
+    "solution": "Universal adult franchise reflects political equality — every adult has an equal vote.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A candidate's declaration of assets and criminal record (affidavit) helps voters to:",
+    "options": [
+      "Make an informed choice",
+      "Be misled",
+      "Avoid voting",
+      "Support the rich only"
+    ],
+    "correct_index": 0,
+    "solution": "The affidavit gives voters information about candidates, helping them make an informed choice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Election Commission's role in enforcing rules shows that in a democracy, even __________ must follow the law.",
+    "options": [
+      "the government and ruling party",
+      "only citizens",
+      "only the Opposition",
+      "foreigners"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission enforces rules on all, showing that even the government and ruling party must follow the law during elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall aim of the electoral process is to:",
+    "options": [
+      "Translate the people's choice into a representative government",
+      "Keep power with the rich",
+      "Avoid representation",
+      "Serve the ruling party only"
+    ],
+    "correct_index": 0,
+    "solution": "The electoral process translates the people's choice into a representative government accountable to them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key strength of Indian elections is the participation of:",
+    "options": [
+      "People from all sections of society, including the poor and marginalised",
+      "Only the rich",
+      "Only urban voters",
+      "Only officials"
+    ],
+    "correct_index": 0,
+    "solution": "A notable strength of Indian elections is the wide participation of all sections of society, including the poor and marginalised.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is essential for voters to exercise a free choice?",
+    "options": [
+      "Absence of fear, fraud and undue pressure",
+      "Open declaration of votes",
+      "Bribery",
+      "Intimidation"
+    ],
+    "correct_index": 0,
+    "solution": "A free choice requires that voters can vote without fear, fraud or undue pressure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The powers of the Election Commission include:",
+    "options": [
+      "Superintending, directing and controlling elections",
+      "Making all laws",
+      "Deciding court cases",
+      "Running the economy"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission superintends, directs and controls the entire process of elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The regular holding of elections at fixed intervals ensures:",
+    "options": [
+      "Periodic accountability of rulers to the people",
+      "Permanent rule by one party",
+      "The end of democracy",
+      "Rule without the people"
+    ],
+    "correct_index": 0,
+    "solution": "Elections at fixed intervals ensure that rulers are periodically accountable to the people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about Indian elections is correct?",
+    "options": [
+      "They are based on universal franchise and conducted by an independent Election Commission",
+      "Only the rich can vote",
+      "They are run by the ruling party",
+      "Voting is not secret"
+    ],
+    "correct_index": 0,
+    "solution": "Indian elections rest on universal adult franchise and are conducted by an independent Election Commission through secret ballot.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A general election to the Lok Sabha involves filling how many elected seats (constituencies)?",
+    "options": [
+      "543",
+      "250",
+      "100",
+      "1000"
+    ],
+    "correct_index": 0,
+    "solution": "There are 543 elected Lok Sabha constituencies, from each of which one Member of Parliament is elected.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In India, general elections to the Lok Sabha are normally held once every:",
+    "options": [
+      "Five years",
+      "Four years",
+      "Six years",
+      "Three years"
+    ],
+    "correct_index": 0,
+    "solution": "India follows a system of regular elections; a general election to the Lok Sabha is held once every five years, when the term of the House ends.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The total number of elected seats in the Lok Sabha for which a general election is held is:",
+    "options": [
+      "543",
+      "250",
+      "272",
+      "500"
+    ],
+    "correct_index": 0,
+    "solution": "A general election involves filling 543 elected seats in the Lok Sabha, each representing one parliamentary constituency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The minimum age at which a citizen of India is entitled to vote is:",
+    "options": [
+      "18 years",
+      "21 years",
+      "25 years",
+      "16 years"
+    ],
+    "correct_index": 0,
+    "solution": "Every citizen aged 18 years and above has the right to vote, regardless of caste, religion or gender — the principle of universal adult franchise.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The voting age in India was lowered from 21 to 18 years by which constitutional amendment?",
+    "options": [
+      "61st Amendment (1988)",
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "correct_index": 0,
+    "solution": "The 61st Constitutional Amendment Act, 1988 lowered the voting age from 21 to 18 years, enfranchising a large number of young citizens.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Election Commission of India is headed by the:",
+    "options": [
+      "Chief Election Commissioner",
+      "Prime Minister",
+      "President",
+      "Chief Justice"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission is headed by the Chief Election Commissioner (CEC), who, along with other Election Commissioners, supervises elections in the country.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Chief Election Commissioner of India is appointed by the:",
+    "options": [
+      "President of India",
+      "Prime Minister",
+      "Lok Sabha Speaker",
+      "Chief Justice of India"
+    ],
+    "correct_index": 0,
+    "solution": "The Chief Election Commissioner is appointed by the President of India; once appointed, the CEC is not answerable to the government of the day, ensuring independence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Election Commission of India enjoys independence because the CEC:",
+    "options": [
+      "Is not removable at the wish of the ruling party and does not report to the government",
+      "Is appointed by the ruling party for one year",
+      "Must obey the Prime Minister",
+      "Can be dismissed by any minister"
+    ],
+    "correct_index": 0,
+    "solution": "The CEC is appointed by the President but is not answerable to the government; removal is difficult and requires a process similar to impeaching a judge, ensuring the Commission's independence.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The option that allows a voter to reject all candidates on the ballot, introduced in 2013, is:",
+    "options": [
+      "NOTA (None Of The Above)",
+      "VVPAT",
+      "EPIC",
+      "FPTP"
+    ],
+    "correct_index": 0,
+    "solution": "NOTA (None Of The Above) is an option on the EVM introduced in 2013 that lets voters register a vote of rejection against all contesting candidates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For a state assembly, the area from which a candidate is elected is called a:",
+    "options": [
+      "Assembly constituency",
+      "Parliamentary constituency",
+      "Panchayat",
+      "Municipality"
+    ],
+    "correct_index": 0,
+    "solution": "Each state is divided into a number of Assembly constituencies; the elected representative is called a Member of the Legislative Assembly (MLA).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Constituencies reserved for the Scheduled Castes and Scheduled Tribes were created so that:",
+    "options": [
+      "Weaker sections get fair representation and are not disadvantaged in general contests",
+      "Only they can vote",
+      "They pay lower taxes",
+      "They can avoid elections"
+    ],
+    "correct_index": 0,
+    "solution": "Reserved constituencies ensure that the Scheduled Castes and Scheduled Tribes get a fair share of representation, since they might not have the resources to win in general constituencies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a reserved constituency for Scheduled Castes:",
+    "options": [
+      "Only a candidate from the SC community can contest, but all voters vote",
+      "Only SC voters can vote",
+      "No election is held",
+      "Candidates from any community can contest"
+    ],
+    "correct_index": 0,
+    "solution": "In an SC-reserved constituency, only a candidate belonging to the Scheduled Castes can stand for election, but all the voters of that constituency cast their votes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The system used in Indian elections, where the candidate securing the most votes in a constituency wins, is called:",
+    "options": [
+      "First-Past-The-Post (FPTP)",
+      "Proportional Representation",
+      "Single Transferable Vote",
+      "Two-round system"
+    ],
+    "correct_index": 0,
+    "solution": "India uses the First-Past-The-Post system: the candidate who gets the highest number of votes in a constituency is declared elected, even without a majority.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the First-Past-The-Post system, the winning candidate:",
+    "options": [
+      "Need not secure a majority (more than half) of votes, only the most votes",
+      "Must get more than 50% of votes",
+      "Must be from the largest party",
+      "Is chosen by the Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "Under FPTP the candidate with more votes than any other wins, even if that is less than half the total votes cast; a majority of votes is not required.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "According to the Model Code of Conduct, once elections are announced, ministers and parties CANNOT:",
+    "options": [
+      "Use government resources or announce new projects to influence voters",
+      "Hold public meetings",
+      "Print manifestos",
+      "Contest elections"
+    ],
+    "correct_index": 0,
+    "solution": "The Model Code bars parties and candidates from using government vehicles/officials for campaigns, making promises that use public money, or announcing new schemes/projects once elections are declared.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The official list of persons eligible to vote in a constituency is called the:",
+    "options": [
+      "Electoral Roll (Voters' List)",
+      "Muster Roll",
+      "Ration list",
+      "Delimitation Order"
+    ],
+    "correct_index": 0,
+    "solution": "The Electoral Roll, or Voters' List, is the official list of all those who are eligible to vote in a constituency; it is revised before every election.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The card issued by the Election Commission to help identify voters and prevent fraud is the:",
+    "options": [
+      "Electoral Photo Identity Card (EPIC)",
+      "Aadhaar card only",
+      "PAN card",
+      "Ration card"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission issues an Electoral Photo Identity Card (EPIC) to registered voters to help establish identity at the polling booth and reduce fraud.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the NCERT example, the Congress party, which had dominated Indian elections, was defeated at the centre for the first time in:",
+    "options": [
+      "1977",
+      "1952",
+      "1962",
+      "1989"
+    ],
+    "correct_index": 0,
+    "solution": "In the 1977 Lok Sabha elections, held after the Emergency, the ruling Congress party was defeated for the first time, showing that Indian elections can bring real change.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 1977 election result is cited in the chapter to demonstrate that:",
+    "options": [
+      "Even the ruling party can be voted out, proving elections are free and fair",
+      "Elections in India are fixed",
+      "The ruling party always wins",
+      "Elections are unnecessary"
+    ],
+    "correct_index": 0,
+    "solution": "The defeat of the powerful Congress in 1977 shows that Indian elections offer a genuine choice and that voters can throw out a government they are unhappy with.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the 1987 Haryana example given in the chapter, Devi Lal led an opposition campaign called the:",
+    "options": [
+      "Nyaya Yuddha (Struggle for Justice)",
+      "Quit India",
+      "Green Revolution",
+      "Chipko Movement"
+    ],
+    "correct_index": 0,
+    "solution": "In Haryana in 1987, Chaudhary Devi Lal led an opposition alliance under the banner of 'Nyaya Yuddha' (Struggle for Justice) and defeated the ruling party, illustrating that elections allow people to change governments.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 'mid-term election' occurs when:",
+    "options": [
+      "The legislature is dissolved before completing its full term and fresh elections are held",
+      "One seat falls vacant",
+      "The President resigns",
+      "The Election Commission is changed"
+    ],
+    "correct_index": 0,
+    "solution": "A mid-term election is held when the Lok Sabha or an assembly is dissolved before its five-year term is over, requiring fresh general elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The demarcation of constituency boundaries so that each has roughly equal population is done by the:",
+    "options": [
+      "Delimitation Commission",
+      "Finance Commission",
+      "Planning Commission",
+      "Union Public Service Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The Delimitation Commission fixes the boundaries of constituencies so that each has roughly the same population, maintaining the value of every vote.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The secret ballot is important because it ensures that:",
+    "options": [
+      "No one can find out how a person voted, protecting voters from pressure",
+      "Everyone knows how each person voted",
+      "Only party members can vote",
+      "Votes are counted publicly by candidates"
+    ],
+    "correct_index": 0,
+    "solution": "The secret ballot allows voters to cast their votes freely and without fear, since no one — including employers or powerful people — can find out how they voted.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Election Commission has the power to:",
+    "options": [
+      "Order a re-poll or countermand an election if malpractice is found",
+      "Change the Constitution",
+      "Appoint the Prime Minister",
+      "Declare war"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission can postpone or cancel an election, order a re-poll in a constituency or booth where malpractices occur, and take action against those who violate the code of conduct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During elections, government officers and staff on election duty work under the control of the:",
+    "options": [
+      "Election Commission, not the government",
+      "Prime Minister",
+      "Ruling party",
+      "Local MLA"
+    ],
+    "correct_index": 0,
+    "solution": "From the announcement of elections until the results, the vast government machinery deployed for election work comes under the control and supervision of the Election Commission, not the government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Every candidate contesting an election is now required to file an affidavit declaring their:",
+    "options": [
+      "Assets and any criminal cases pending against them",
+      "Caste and religion",
+      "Educational marks only",
+      "Family history"
+    ],
+    "correct_index": 0,
+    "solution": "Following Supreme Court directions, candidates must file an affidavit giving details of their property, income and any criminal cases, so voters can make an informed choice.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Money power is considered a threat to free and fair elections because it:",
+    "options": [
+      "Gives wealthy candidates and parties an unfair advantage over others",
+      "Makes voting compulsory",
+      "Increases voter turnout fairly",
+      "Helps poorer candidates win"
+    ],
+    "correct_index": 0,
+    "solution": "The use of large amounts of money by rich candidates and big parties can create an uneven playing field and undermine the fairness of elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Universal adult franchise means that:",
+    "options": [
+      "Every adult citizen has one vote of equal value, without discrimination",
+      "Only literate people vote",
+      "Only property owners vote",
+      "Votes are weighted by wealth"
+    ],
+    "correct_index": 0,
+    "solution": "Universal adult franchise gives every adult citizen the right to one vote of equal value, irrespective of caste, religion, gender, education or wealth.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Assertion (A): The Election Commission of India is independent of the government. Reason (R): The Chief Election Commissioner, once appointed, is not answerable to the ruling party.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "The EC's independence rests on the fact that the CEC, though appointed by the President, is not removable at the ruling party's will and does not report to the government — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Indian elections are considered largely free and fair. Reason (R): Ruling parties have frequently lost elections and there is high voter participation, especially among the poor.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Evidence such as ruling parties losing (e.g., 1977) and enthusiastic participation of ordinary and poorer voters supports the conclusion that Indian elections are broadly free and fair.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In India, the participation of the poor and less-educated in elections compared with the rich is:",
+    "options": [
+      "Often higher — the poor vote in larger proportion than the rich",
+      "Much lower",
+      "Exactly equal always",
+      "Non-existent"
+    ],
+    "correct_index": 0,
+    "solution": "Unlike in many countries, in India the poor and the less educated vote in larger proportion than the rich and privileged, showing deep faith in the electoral process.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The stage where parties and candidates try to focus public attention on major issues is the:",
+    "options": [
+      "Election campaign",
+      "Counting of votes",
+      "Delimitation",
+      "Filing of nomination"
+    ],
+    "correct_index": 0,
+    "solution": "During the election campaign, which lasts about two weeks between announcement of final candidates and polling day, parties contact voters and highlight big issues.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The election campaign in India officially lasts for a period of about:",
+    "options": [
+      "Two weeks between final list of candidates and polling day",
+      "One day",
+      "Six months",
+      "One year"
+    ],
+    "correct_index": 0,
+    "solution": "The official campaign period runs for a fortnight, from the publication of the final list of candidates up to 48 hours before polling closes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Campaigning must stop how many hours before the close of polling?",
+    "options": [
+      "48 hours",
+      "24 hours",
+      "12 hours",
+      "72 hours"
+    ],
+    "correct_index": 0,
+    "solution": "Under the rules, election campaigning must stop 48 hours before the polling closes, giving voters a quiet period to make up their minds.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A candidate who wishes to contest an election must first:",
+    "options": [
+      "File a nomination paper along with a security deposit",
+      "Win a court case",
+      "Be appointed by the President",
+      "Get approval from the ruling party"
+    ],
+    "correct_index": 0,
+    "solution": "Anyone who wishes to contest an election has to fill a nomination form and pay a security deposit, subject to the eligibility conditions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main purpose of holding elections at regular fixed intervals is to:",
+    "options": [
+      "Let people choose and change their representatives and hold them accountable",
+      "Keep the same rulers forever",
+      "Avoid public participation",
+      "Strengthen the bureaucracy"
+    ],
+    "correct_index": 0,
+    "solution": "Regular elections allow people to choose their representatives, judge their performance, and change them if dissatisfied, keeping rulers accountable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match the term with its meaning: (i) By-election (ii) Mid-term election (iii) General election — (a) whole House at end of term (b) single vacant seat (c) House dissolved early:",
+    "options": [
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-a, (iii)-c"
+    ],
+    "correct_index": 0,
+    "solution": "A by-election fills a single vacant seat, a mid-term election follows the early dissolution of the House, and a general election is held for the whole House at the end of its term.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The independence and powers of the Election Commission show that in a democracy:",
+    "options": [
+      "Elections must be conducted by a neutral, powerful authority beyond the government's control",
+      "The ruling party runs elections",
+      "Elections need no supervision",
+      "Only the courts run elections"
+    ],
+    "correct_index": 0,
+    "solution": "The autonomy and wide powers of the Election Commission ensure that elections are conducted impartially, free from the influence of the party in power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The people's ability to vote out a non-performing government demonstrates that in a democracy:",
+    "options": [
+      "The ultimate power rests with the voters",
+      "The ruler is permanent",
+      "The bureaucracy decides everything",
+      "Elections are symbolic only"
+    ],
+    "correct_index": 0,
+    "solution": "When voters can and do replace governments they are unhappy with, it shows that in a democracy the final authority rests with the people through their vote.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reservation of seats for SCs and STs in legislatures is meant to be:",
+    "options": [
+      "In proportion to their share in the population",
+      "Permanent regardless of population",
+      "Larger than their population",
+      "Decided by the ruling party"
+    ],
+    "correct_index": 0,
+    "solution": "Seats are reserved for SCs and STs roughly in proportion to their share in the total population, so their representation reflects their numbers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chapter concludes that despite challenges, Indian elections are largely democratic because:",
+    "options": [
+      "The outcomes reflect the free choice of the people and the process is supervised independently",
+      "The ruling party controls everything",
+      "Only a few people vote",
+      "Results are predetermined"
+    ],
+    "correct_index": 0,
+    "solution": "India's elections are held regularly, results are accepted by all, ruling parties do lose, and an independent Election Commission supervises the process — features that make them broadly free and fair.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall theme of 'Electoral Politics' is that:",
+    "options": [
+      "Free and fair elections are central to democracy, letting people choose and control their rulers",
+      "Elections are unnecessary",
+      "Only the rich should vote",
+      "The ruling party should run elections"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains how free and fair elections are central to democracy, enabling people to choose and hold accountable their rulers.",
+    "difficulty": "easy"
+  }
 ]
