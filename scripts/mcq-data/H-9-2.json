@@ -1,52 +1,794 @@
 [
-  { "stem": "The political philosophy that argues for social/collective control over property and production is called:", "options": ["Socialism", "Capitalism", "Feudalism", "Fascism"], "correct_index": 0, "solution": "Socialism argues that property and the means of production should be controlled by society as a whole rather than by private individuals.", "difficulty": "medium" },
-  { "stem": "The thinker most associated with modern socialism/communism, who wrote 'Das Kapital', was:", "options": ["Karl Marx", "Adam Smith", "Tsar Nicholas II", "Vladimir Lenin"], "correct_index": 0, "solution": "Karl Marx, author of 'Das Kapital', developed the theory of socialism/communism.", "difficulty": "medium" },
-  { "stem": "The 'Communist Manifesto' (1848) was written by Karl Marx and:", "options": ["Friedrich Engels", "Lenin", "Stalin", "Trotsky"], "correct_index": 0, "solution": "The Communist Manifesto (1848) was co-authored by Karl Marx and Friedrich Engels.", "difficulty": "hard" },
-  { "stem": "According to Marx, the class that owns capital and the means of production is the:", "options": ["Bourgeoisie (capitalists)", "Proletariat", "Peasantry", "Clergy"], "correct_index": 0, "solution": "Marx called the capitalist class that owns the means of production the 'bourgeoisie', in conflict with the working class (proletariat).", "difficulty": "hard" },
-  { "stem": "The working class, according to Marx, was the:", "options": ["Proletariat", "Bourgeoisie", "Nobility", "Aristocracy"], "correct_index": 0, "solution": "The 'proletariat' (workers) is the class that, in Marx's view, would overthrow capitalism and build a socialist society.", "difficulty": "medium" },
-  { "stem": "Before 1917, Russia was ruled by an autocratic Tsar named:", "options": ["Nicholas II", "Lenin", "Stalin", "Kerensky"], "correct_index": 0, "solution": "Tsar Nicholas II of the Romanov dynasty ruled Russia autocratically before the 1917 revolution.", "difficulty": "medium" },
-  { "stem": "The Russian economy before the revolution was overwhelmingly:", "options": ["Agrarian, with most people being peasants", "Industrial", "Based on services", "Fully socialist"], "correct_index": 0, "solution": "Russia was a largely agrarian society, with the vast majority of the population being peasants.", "difficulty": "medium" },
-  { "stem": "The event of January 1905, when peaceful protesters were fired upon in St Petersburg, is called:", "options": ["Bloody Sunday", "The October Revolution", "The February Revolution", "The Reign of Terror"], "correct_index": 0, "solution": "On 'Bloody Sunday' (January 1905), troops fired on a peaceful workers' procession, sparking the Revolution of 1905.", "difficulty": "hard" },
-  { "stem": "The elected consultative parliament that the Tsar was forced to allow after the 1905 Revolution was the:", "options": ["Duma", "Soviet", "Convention", "Directory"], "correct_index": 0, "solution": "After 1905, the Tsar allowed an elected consultative body called the Duma, though he retained autocratic control.", "difficulty": "hard" },
-  { "stem": "The radical faction of the Russian Social Democratic Workers Party, led by Lenin, was the:", "options": ["Bolsheviks", "Mensheviks", "Kadets", "Whites"], "correct_index": 0, "solution": "The Bolsheviks, led by Lenin, were the radical faction favouring a tightly-organised party and revolution; the Mensheviks were the more moderate faction.", "difficulty": "hard" },
-  { "stem": "The leader of the Bolsheviks was:", "options": ["Vladimir Lenin", "Tsar Nicholas II", "Karl Marx", "Kerensky"], "correct_index": 0, "solution": "Vladimir Lenin led the Bolsheviks and the October Revolution of 1917.", "difficulty": "medium" },
-  { "stem": "The February Revolution of 1917 resulted in the:", "options": ["Abdication of the Tsar and formation of a Provisional Government", "Bolshevik seizure of power", "Rise of Stalin", "Formation of the USSR"], "correct_index": 0, "solution": "The February Revolution (1917) led to the abdication of Tsar Nicholas II and the setting up of a Provisional Government.", "difficulty": "hard" },
-  { "stem": "The capital of Russia during the 1917 revolution was:", "options": ["Petrograd", "Moscow", "Kiev", "Odessa"], "correct_index": 0, "solution": "Petrograd (later Leningrad, now St Petersburg) was the centre of the revolutionary events of 1917.", "difficulty": "hard" },
-  { "stem": "The councils of workers and soldiers that emerged during the Russian Revolution were called:", "options": ["Soviets", "Dumas", "Estates", "Directories"], "correct_index": 0, "solution": "'Soviets' were councils of workers and soldiers that became key organs of revolutionary power.", "difficulty": "hard" },
-  { "stem": "The Bolsheviks seized power in the:", "options": ["October Revolution of 1917", "February Revolution of 1917", "Revolution of 1905", "French Revolution"], "correct_index": 0, "solution": "In the October Revolution of 1917, the Bolsheviks under Lenin overthrew the Provisional Government and seized power.", "difficulty": "medium" },
-  { "stem": "Lenin's programme demanding peace, land and bread, and 'all power to the soviets', was outlined in his:", "options": ["April Theses", "Communist Manifesto", "Das Kapital", "Mein Kampf"], "correct_index": 0, "solution": "In his April Theses, Lenin called for peace, transfer of land to peasants, and 'all power to the soviets'.", "difficulty": "hard" },
-  { "stem": "After the October Revolution, the Bolsheviks nationalised:", "options": ["Land, banks and industries", "Only churches", "Only foreign trade", "Nothing"], "correct_index": 0, "solution": "The Bolsheviks nationalised land, banks and major industries, abolishing private property in the means of production.", "difficulty": "medium" },
-  { "stem": "The Bolshevik party was later renamed the:", "options": ["Russian Communist Party", "Menshevik Party", "Social Revolutionary Party", "Nazi Party"], "correct_index": 0, "solution": "After the revolution, the Bolshevik Party was renamed the Russian Communist Party (Bolshevik).", "difficulty": "medium" },
-  { "stem": "The civil war (1918-1920) in Russia was fought between the Bolshevik 'Reds' and the anti-Bolshevik:", "options": ["'Whites'", "'Greens' only", "Mensheviks only", "Nazis"], "correct_index": 0, "solution": "The Russian Civil War was fought between the Bolshevik Reds and the anti-Bolshevik Whites (and Greens), with the Reds emerging victorious.", "difficulty": "hard" },
-  { "stem": "The Union of Soviet Socialist Republics (USSR) was formed in:", "options": ["1922", "1917", "1905", "1936"], "correct_index": 0, "solution": "The USSR (Soviet Union) was established in 1922.", "difficulty": "hard" },
-  { "stem": "After Lenin's death, the leader who rose to dominate the USSR was:", "options": ["Joseph Stalin", "Trotsky", "Kerensky", "Nicholas II"], "correct_index": 0, "solution": "Joseph Stalin rose to power after Lenin's death and dominated the Soviet Union.", "difficulty": "medium" },
-  { "stem": "Stalin's policy of combining small landholdings into large state-run collective farms was called:", "options": ["Collectivisation", "Privatisation", "Liberalisation", "Nationalisation of trade"], "correct_index": 0, "solution": "Collectivisation combined peasant holdings into large collective farms (kolkhoz), a central feature of Stalin's economic policy.", "difficulty": "hard" },
-  { "stem": "The Soviet Union's centrally-planned industrialisation was carried out through:", "options": ["Five Year Plans", "Free market policies", "Colonial expansion", "The Directory"], "correct_index": 0, "solution": "The USSR industrialised through a series of centrally-planned Five Year Plans setting production targets.", "difficulty": "hard" },
-  { "stem": "The prosperous peasants whom Stalin's collectivisation targeted were called:", "options": ["Kulaks", "Bourgeoisie", "Proletariat", "Serfs"], "correct_index": 0, "solution": "The kulaks were well-to-do peasants whom Stalin blamed for grain shortages and targeted during collectivisation.", "difficulty": "hard" },
-  { "stem": "Socialists were divided from liberals and conservatives on the question of:", "options": ["Private property and how society should be organised", "The colour of flags", "Sports", "Language"], "correct_index": 0, "solution": "Socialists differed from liberals and conservatives especially over private property and the reorganisation of society along collective lines.", "difficulty": "medium" },
-  { "stem": "Liberals in 19th-century Europe generally wanted:", "options": ["A government based on individual rights and elected parliaments (but limited franchise)", "Absolute monarchy", "Collective ownership of all property", "No government at all"], "correct_index": 0, "solution": "Liberals favoured individual rights, representative government and elected parliaments, though many supported only a limited (property-based) franchise.", "difficulty": "hard" },
-  { "stem": "Radicals in 19th-century Europe wanted:", "options": ["Government based on the majority of a nation's population", "Rule by a few nobles", "The restoration of feudalism", "Absolute royal power"], "correct_index": 0, "solution": "Radicals wanted a government based on the will of the majority of the population, favouring wider voting rights.", "difficulty": "hard" },
-  { "stem": "Conservatives in the 19th century believed in:", "options": ["Preserving traditional institutions with gradual change", "Rapid revolution", "Abolishing all monarchy immediately", "Collective ownership"], "correct_index": 0, "solution": "Conservatives wished to preserve established institutions like the monarchy and church, accepting only slow, gradual change.", "difficulty": "hard" },
-  { "stem": "A major cause of discontent in Russia was Russia's involvement in:", "options": ["The First World War, which caused huge losses and hardship", "The French Revolution", "The American Civil War", "The Napoleonic wars only"], "correct_index": 0, "solution": "Russia's costly participation in the First World War caused massive military losses, food shortages and hardship, fuelling revolution.", "difficulty": "medium" },
-  { "stem": "The Provisional Government of 1917 lost support partly because it:", "options": ["Continued the unpopular war and delayed reforms", "Ended the war immediately", "Gave land to all peasants at once", "Abolished itself"], "correct_index": 0, "solution": "The Provisional Government's decision to continue the war and its delay in land reform cost it popular support, aiding the Bolsheviks.", "difficulty": "medium" },
-  { "stem": "The organisation set up by the USSR to promote world socialist revolution was the:", "options": ["Comintern (Communist International)", "League of Nations", "United Nations", "Warsaw Pact"], "correct_index": 0, "solution": "The Comintern (Communist International) was set up to encourage and coordinate socialist/communist movements worldwide.", "difficulty": "hard" },
-  { "stem": "The Russian Revolution had a global impact because it:", "options": ["Inspired socialist and anti-colonial movements around the world", "Ended all revolutions", "Strengthened monarchies", "Had no influence abroad"], "correct_index": 0, "solution": "The Russian Revolution inspired socialist parties and anti-colonial movements across the world, including in India.", "difficulty": "medium" },
-  { "stem": "Under socialism, decisions about production were to be made:", "options": ["Collectively, for the benefit of society", "By private capitalists for profit", "By the Church", "By foreign powers"], "correct_index": 0, "solution": "Socialism envisaged collective, planned decisions about production for the benefit of society rather than private profit.", "difficulty": "medium" },
-  { "stem": "The February and October Revolutions of 1917 together are known as the:", "options": ["Russian Revolution", "French Revolution", "Glorious Revolution", "Industrial Revolution"], "correct_index": 0, "solution": "The two upheavals of 1917 — February and October — together constitute the Russian Revolution.", "difficulty": "medium" },
-  { "stem": "The dates of the Russian revolutions differ (February/October vs March/November) because Russia used the:", "options": ["Old Julian calendar", "Chinese calendar", "Islamic calendar", "Revolutionary calendar"], "correct_index": 0, "solution": "Russia followed the old Julian calendar until 1918, so the revolutions dated February and October there fell in March and November by the Gregorian calendar.", "difficulty": "hard" },
-  { "stem": "Which of the following was a Bolshevik measure after 1917?", "options": ["Abolition of private ownership of factories and land", "Restoration of the Tsar", "Expansion of feudalism", "Handing factories to nobles"], "correct_index": 0, "solution": "The Bolsheviks abolished private ownership of factories and land, placing them under state/collective control.", "difficulty": "medium" },
-  { "stem": "The military leader who organised the Red Army during the civil war was:", "options": ["Leon Trotsky", "Tsar Nicholas II", "Kerensky", "Stalin"], "correct_index": 0, "solution": "Leon Trotsky organised and led the Red Army to victory during the Russian Civil War.", "difficulty": "hard" },
-  { "stem": "One negative feature of Stalin's rule was:", "options": ["Repression, purges and forced collectivisation causing famine", "Complete freedom of speech", "The absence of any planning", "The restoration of the Tsar"], "correct_index": 0, "solution": "Stalin's rule involved harsh repression, political purges and forced collectivisation that led to famine and millions of deaths.", "difficulty": "medium" },
-  { "stem": "The Bolsheviks made peace and withdrew from the First World War through the:", "options": ["Treaty of Brest-Litovsk", "Treaty of Versailles", "Treaty of Allahabad", "Treaty of Paris"], "correct_index": 0, "solution": "The Bolsheviks signed the Treaty of Brest-Litovsk (1918) with Germany to withdraw Russia from the First World War.", "difficulty": "hard" },
-  { "stem": "The socialist idea that appealed to workers was that it promised:", "options": ["A more equal society without exploitation", "More power to kings", "Greater privileges for nobles", "The strengthening of capitalism"], "correct_index": 0, "solution": "Socialism appealed to workers by promising a society free of exploitation, with collective ownership and greater equality.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs is correctly matched?", "options": ["Lenin — Bolsheviks", "Stalin — Provisional Government", "Nicholas II — October Revolution", "Marx — Nazi Party"], "correct_index": 0, "solution": "Lenin led the Bolsheviks. Stalin succeeded Lenin (not the Provisional Government); Nicholas II was the Tsar overthrown; Marx was unrelated to the Nazi Party.", "difficulty": "medium" },
-  { "stem": "The main demand of the Russian peasants before the revolution was:", "options": ["Land", "More factories", "Foreign colonies", "A stronger Tsar"], "correct_index": 0, "solution": "The peasants, who formed the majority, mainly demanded land, which the Bolsheviks promised to give them.", "difficulty": "medium" },
-  { "stem": "The Russian Revolution established the world's first:", "options": ["Socialist/communist state", "Democracy", "Constitutional monarchy", "Fascist state"], "correct_index": 0, "solution": "The Russian Revolution created the world's first socialist (communist) state.", "difficulty": "medium" },
-  { "stem": "The term 'collectivisation' is most closely associated with:", "options": ["Joseph Stalin", "Tsar Nicholas II", "Kerensky", "Trotsky"], "correct_index": 0, "solution": "Collectivisation of agriculture is closely associated with Joseph Stalin's economic policy.", "difficulty": "medium" },
-  { "stem": "The centrally planned Soviet economy aimed to:", "options": ["Rapidly industrialise the country under state control", "Promote free markets", "Restore private property", "Expand colonies"], "correct_index": 0, "solution": "The Soviet planned economy aimed to rapidly industrialise the USSR under state control through the Five Year Plans.", "difficulty": "medium" },
-  { "stem": "The 1905 Revolution is sometimes called the 'dress rehearsal' for:", "options": ["The 1917 Revolution", "The French Revolution", "The Industrial Revolution", "World War I"], "correct_index": 0, "solution": "The 1905 Revolution is often called the 'dress rehearsal' for the successful revolution of 1917.", "difficulty": "hard" },
-  { "stem": "The socialists believed private property was the root cause of:", "options": ["Social inequality and the exploitation of workers", "Prosperity for all", "Political freedom", "Peace"], "correct_index": 0, "solution": "Socialists argued that private property led to inequality and the exploitation of workers, and should be replaced by collective ownership.", "difficulty": "medium" },
-  { "stem": "The impact of the Russian Revolution on India included:", "options": ["Inspiring some nationalists and the growth of socialist and communist ideas", "Ending the freedom struggle", "Strengthening British rule", "The restoration of the Mughals"], "correct_index": 0, "solution": "The Russian Revolution inspired socialist and communist ideas in India and influenced sections of the national movement.", "difficulty": "medium" },
-  { "stem": "A key difference between the February and October revolutions was that:", "options": ["February overthrew the Tsar; October brought the Bolsheviks to power", "Both restored the Tsar", "February was Bolshevik; October was Tsarist", "Neither changed the government"], "correct_index": 0, "solution": "The February Revolution overthrew the Tsar and set up the Provisional Government; the October Revolution brought the Bolsheviks to power.", "difficulty": "medium" },
-  { "stem": "The overall theme of the chapter is how:", "options": ["Socialist ideas grew in Europe and led to the Russian Revolution and the first socialist state", "Monarchy triumphed in Russia", "Capitalism ended in Europe by 1900", "Feudalism was restored"], "correct_index": 0, "solution": "The chapter traces the growth of socialism in Europe and how it culminated in the Russian Revolution and the creation of the world's first socialist state.", "difficulty": "easy" }
+  {
+    "stem": "The political philosophy that argues for social/collective control over property and production is called:",
+    "options": [
+      "Socialism",
+      "Capitalism",
+      "Feudalism",
+      "Fascism"
+    ],
+    "correct_index": 0,
+    "solution": "Socialism argues that property and the means of production should be controlled by society as a whole rather than by private individuals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The thinker most associated with modern socialism/communism, who wrote 'Das Kapital', was:",
+    "options": [
+      "Karl Marx",
+      "Adam Smith",
+      "Tsar Nicholas II",
+      "Vladimir Lenin"
+    ],
+    "correct_index": 0,
+    "solution": "Karl Marx, author of 'Das Kapital', developed the theory of socialism/communism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Communist Manifesto' (1848) was written by Karl Marx and:",
+    "options": [
+      "Friedrich Engels",
+      "Lenin",
+      "Stalin",
+      "Trotsky"
+    ],
+    "correct_index": 0,
+    "solution": "The Communist Manifesto (1848) was co-authored by Karl Marx and Friedrich Engels.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "According to Marx, the class that owns capital and the means of production is the:",
+    "options": [
+      "Bourgeoisie (capitalists)",
+      "Proletariat",
+      "Peasantry",
+      "Clergy"
+    ],
+    "correct_index": 0,
+    "solution": "Marx called the capitalist class that owns the means of production the 'bourgeoisie', in conflict with the working class (proletariat).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The working class, according to Marx, was the:",
+    "options": [
+      "Proletariat",
+      "Bourgeoisie",
+      "Nobility",
+      "Aristocracy"
+    ],
+    "correct_index": 0,
+    "solution": "The 'proletariat' (workers) is the class that, in Marx's view, would overthrow capitalism and build a socialist society.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Before 1917, Russia was ruled by an autocratic Tsar named:",
+    "options": [
+      "Nicholas II",
+      "Lenin",
+      "Stalin",
+      "Kerensky"
+    ],
+    "correct_index": 0,
+    "solution": "Tsar Nicholas II of the Romanov dynasty ruled Russia autocratically before the 1917 revolution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Russian economy before the revolution was overwhelmingly:",
+    "options": [
+      "Agrarian, with most people being peasants",
+      "Industrial",
+      "Based on services",
+      "Fully socialist"
+    ],
+    "correct_index": 0,
+    "solution": "Russia was a largely agrarian society, with the vast majority of the population being peasants.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The event of January 1905, when peaceful protesters were fired upon in St Petersburg, is called:",
+    "options": [
+      "Bloody Sunday",
+      "The October Revolution",
+      "The February Revolution",
+      "The Reign of Terror"
+    ],
+    "correct_index": 0,
+    "solution": "On 'Bloody Sunday' (January 1905), troops fired on a peaceful workers' procession, sparking the Revolution of 1905.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The elected consultative parliament that the Tsar was forced to allow after the 1905 Revolution was the:",
+    "options": [
+      "Duma",
+      "Soviet",
+      "Convention",
+      "Directory"
+    ],
+    "correct_index": 0,
+    "solution": "After 1905, the Tsar allowed an elected consultative body called the Duma, though he retained autocratic control.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The radical faction of the Russian Social Democratic Workers Party, led by Lenin, was the:",
+    "options": [
+      "Bolsheviks",
+      "Mensheviks",
+      "Kadets",
+      "Whites"
+    ],
+    "correct_index": 0,
+    "solution": "The Bolsheviks, led by Lenin, were the radical faction favouring a tightly-organised party and revolution; the Mensheviks were the more moderate faction.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The leader of the Bolsheviks was:",
+    "options": [
+      "Vladimir Lenin",
+      "Tsar Nicholas II",
+      "Karl Marx",
+      "Kerensky"
+    ],
+    "correct_index": 0,
+    "solution": "Vladimir Lenin led the Bolsheviks and the October Revolution of 1917.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The February Revolution of 1917 resulted in the:",
+    "options": [
+      "Abdication of the Tsar and formation of a Provisional Government",
+      "Bolshevik seizure of power",
+      "Rise of Stalin",
+      "Formation of the USSR"
+    ],
+    "correct_index": 0,
+    "solution": "The February Revolution (1917) led to the abdication of Tsar Nicholas II and the setting up of a Provisional Government.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The capital of Russia during the 1917 revolution was:",
+    "options": [
+      "Petrograd",
+      "Moscow",
+      "Kiev",
+      "Odessa"
+    ],
+    "correct_index": 0,
+    "solution": "Petrograd (later Leningrad, now St Petersburg) was the centre of the revolutionary events of 1917.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The councils of workers and soldiers that emerged during the Russian Revolution were called:",
+    "options": [
+      "Soviets",
+      "Dumas",
+      "Estates",
+      "Directories"
+    ],
+    "correct_index": 0,
+    "solution": "'Soviets' were councils of workers and soldiers that became key organs of revolutionary power.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bolsheviks seized power in the:",
+    "options": [
+      "October Revolution of 1917",
+      "February Revolution of 1917",
+      "Revolution of 1905",
+      "French Revolution"
+    ],
+    "correct_index": 0,
+    "solution": "In the October Revolution of 1917, the Bolsheviks under Lenin overthrew the Provisional Government and seized power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Lenin's programme demanding peace, land and bread, and 'all power to the soviets', was outlined in his:",
+    "options": [
+      "April Theses",
+      "Communist Manifesto",
+      "Das Kapital",
+      "Mein Kampf"
+    ],
+    "correct_index": 0,
+    "solution": "In his April Theses, Lenin called for peace, transfer of land to peasants, and 'all power to the soviets'.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "After the October Revolution, the Bolsheviks nationalised:",
+    "options": [
+      "Land, banks and industries",
+      "Only churches",
+      "Only foreign trade",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The Bolsheviks nationalised land, banks and major industries, abolishing private property in the means of production.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bolshevik party was later renamed the:",
+    "options": [
+      "Russian Communist Party",
+      "Menshevik Party",
+      "Social Revolutionary Party",
+      "Nazi Party"
+    ],
+    "correct_index": 0,
+    "solution": "After the revolution, the Bolshevik Party was renamed the Russian Communist Party (Bolshevik).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The civil war (1918-1920) in Russia was fought between the Bolshevik 'Reds' and the anti-Bolshevik:",
+    "options": [
+      "'Whites'",
+      "'Greens' only",
+      "Mensheviks only",
+      "Nazis"
+    ],
+    "correct_index": 0,
+    "solution": "The Russian Civil War was fought between the Bolshevik Reds and the anti-Bolshevik Whites (and Greens), with the Reds emerging victorious.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Union of Soviet Socialist Republics (USSR) was formed in:",
+    "options": [
+      "1922",
+      "1917",
+      "1905",
+      "1936"
+    ],
+    "correct_index": 0,
+    "solution": "The USSR (Soviet Union) was established in 1922.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "After Lenin's death, the leader who rose to dominate the USSR was:",
+    "options": [
+      "Joseph Stalin",
+      "Trotsky",
+      "Kerensky",
+      "Nicholas II"
+    ],
+    "correct_index": 0,
+    "solution": "Joseph Stalin rose to power after Lenin's death and dominated the Soviet Union.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Stalin's policy of combining small landholdings into large state-run collective farms was called:",
+    "options": [
+      "Collectivisation",
+      "Privatisation",
+      "Liberalisation",
+      "Nationalisation of trade"
+    ],
+    "correct_index": 0,
+    "solution": "Collectivisation combined peasant holdings into large collective farms (kolkhoz), a central feature of Stalin's economic policy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Soviet Union's centrally-planned industrialisation was carried out through:",
+    "options": [
+      "Five Year Plans",
+      "Free market policies",
+      "Colonial expansion",
+      "The Directory"
+    ],
+    "correct_index": 0,
+    "solution": "The USSR industrialised through a series of centrally-planned Five Year Plans setting production targets.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The prosperous peasants whom Stalin's collectivisation targeted were called:",
+    "options": [
+      "Kulaks",
+      "Bourgeoisie",
+      "Proletariat",
+      "Serfs"
+    ],
+    "correct_index": 0,
+    "solution": "The kulaks were well-to-do peasants whom Stalin blamed for grain shortages and targeted during collectivisation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Socialists were divided from liberals and conservatives on the question of:",
+    "options": [
+      "Private property and how society should be organised",
+      "The colour of flags",
+      "Sports",
+      "Language"
+    ],
+    "correct_index": 0,
+    "solution": "Socialists differed from liberals and conservatives especially over private property and the reorganisation of society along collective lines.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Liberals in 19th-century Europe generally wanted:",
+    "options": [
+      "A government based on individual rights and elected parliaments (but limited franchise)",
+      "Absolute monarchy",
+      "Collective ownership of all property",
+      "No government at all"
+    ],
+    "correct_index": 0,
+    "solution": "Liberals favoured individual rights, representative government and elected parliaments, though many supported only a limited (property-based) franchise.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Radicals in 19th-century Europe wanted:",
+    "options": [
+      "Government based on the majority of a nation's population",
+      "Rule by a few nobles",
+      "The restoration of feudalism",
+      "Absolute royal power"
+    ],
+    "correct_index": 0,
+    "solution": "Radicals wanted a government based on the will of the majority of the population, favouring wider voting rights.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Conservatives in the 19th century believed in:",
+    "options": [
+      "Preserving traditional institutions with gradual change",
+      "Rapid revolution",
+      "Abolishing all monarchy immediately",
+      "Collective ownership"
+    ],
+    "correct_index": 0,
+    "solution": "Conservatives wished to preserve established institutions like the monarchy and church, accepting only slow, gradual change.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A major cause of discontent in Russia was Russia's involvement in:",
+    "options": [
+      "The First World War, which caused huge losses and hardship",
+      "The French Revolution",
+      "The American Civil War",
+      "The Napoleonic wars only"
+    ],
+    "correct_index": 0,
+    "solution": "Russia's costly participation in the First World War caused massive military losses, food shortages and hardship, fuelling revolution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Provisional Government of 1917 lost support partly because it:",
+    "options": [
+      "Continued the unpopular war and delayed reforms",
+      "Ended the war immediately",
+      "Gave land to all peasants at once",
+      "Abolished itself"
+    ],
+    "correct_index": 0,
+    "solution": "The Provisional Government's decision to continue the war and its delay in land reform cost it popular support, aiding the Bolsheviks.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The organisation set up by the USSR to promote world socialist revolution was the:",
+    "options": [
+      "Comintern (Communist International)",
+      "League of Nations",
+      "United Nations",
+      "Warsaw Pact"
+    ],
+    "correct_index": 0,
+    "solution": "The Comintern (Communist International) was set up to encourage and coordinate socialist/communist movements worldwide.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Russian Revolution had a global impact because it:",
+    "options": [
+      "Inspired socialist and anti-colonial movements around the world",
+      "Ended all revolutions",
+      "Strengthened monarchies",
+      "Had no influence abroad"
+    ],
+    "correct_index": 0,
+    "solution": "The Russian Revolution inspired socialist parties and anti-colonial movements across the world, including in India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under socialism, decisions about production were to be made:",
+    "options": [
+      "Collectively, for the benefit of society",
+      "By private capitalists for profit",
+      "By the Church",
+      "By foreign powers"
+    ],
+    "correct_index": 0,
+    "solution": "Socialism envisaged collective, planned decisions about production for the benefit of society rather than private profit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The February and October Revolutions of 1917 together are known as the:",
+    "options": [
+      "Russian Revolution",
+      "French Revolution",
+      "Glorious Revolution",
+      "Industrial Revolution"
+    ],
+    "correct_index": 0,
+    "solution": "The two upheavals of 1917 — February and October — together constitute the Russian Revolution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dates of the Russian revolutions differ (February/October vs March/November) because Russia used the:",
+    "options": [
+      "Old Julian calendar",
+      "Chinese calendar",
+      "Islamic calendar",
+      "Revolutionary calendar"
+    ],
+    "correct_index": 0,
+    "solution": "Russia followed the old Julian calendar until 1918, so the revolutions dated February and October there fell in March and November by the Gregorian calendar.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following was a Bolshevik measure after 1917?",
+    "options": [
+      "Abolition of private ownership of factories and land",
+      "Restoration of the Tsar",
+      "Expansion of feudalism",
+      "Handing factories to nobles"
+    ],
+    "correct_index": 0,
+    "solution": "The Bolsheviks abolished private ownership of factories and land, placing them under state/collective control.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The military leader who organised the Red Army during the civil war was:",
+    "options": [
+      "Leon Trotsky",
+      "Tsar Nicholas II",
+      "Kerensky",
+      "Stalin"
+    ],
+    "correct_index": 0,
+    "solution": "Leon Trotsky organised and led the Red Army to victory during the Russian Civil War.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "One negative feature of Stalin's rule was:",
+    "options": [
+      "Repression, purges and forced collectivisation causing famine",
+      "Complete freedom of speech",
+      "The absence of any planning",
+      "The restoration of the Tsar"
+    ],
+    "correct_index": 0,
+    "solution": "Stalin's rule involved harsh repression, political purges and forced collectivisation that led to famine and millions of deaths.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bolsheviks made peace and withdrew from the First World War through the:",
+    "options": [
+      "Treaty of Brest-Litovsk",
+      "Treaty of Versailles",
+      "Treaty of Allahabad",
+      "Treaty of Paris"
+    ],
+    "correct_index": 0,
+    "solution": "The Bolsheviks signed the Treaty of Brest-Litovsk (1918) with Germany to withdraw Russia from the First World War.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The socialist idea that appealed to workers was that it promised:",
+    "options": [
+      "A more equal society without exploitation",
+      "More power to kings",
+      "Greater privileges for nobles",
+      "The strengthening of capitalism"
+    ],
+    "correct_index": 0,
+    "solution": "Socialism appealed to workers by promising a society free of exploitation, with collective ownership and greater equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Lenin — Bolsheviks",
+      "Stalin — Provisional Government",
+      "Nicholas II — October Revolution",
+      "Marx — Nazi Party"
+    ],
+    "correct_index": 0,
+    "solution": "Lenin led the Bolsheviks. Stalin succeeded Lenin (not the Provisional Government); Nicholas II was the Tsar overthrown; Marx was unrelated to the Nazi Party.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main demand of the Russian peasants before the revolution was:",
+    "options": [
+      "Land",
+      "More factories",
+      "Foreign colonies",
+      "A stronger Tsar"
+    ],
+    "correct_index": 0,
+    "solution": "The peasants, who formed the majority, mainly demanded land, which the Bolsheviks promised to give them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Russian Revolution established the world's first:",
+    "options": [
+      "Socialist/communist state",
+      "Democracy",
+      "Constitutional monarchy",
+      "Fascist state"
+    ],
+    "correct_index": 0,
+    "solution": "The Russian Revolution created the world's first socialist (communist) state.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'collectivisation' is most closely associated with:",
+    "options": [
+      "Joseph Stalin",
+      "Tsar Nicholas II",
+      "Kerensky",
+      "Trotsky"
+    ],
+    "correct_index": 0,
+    "solution": "Collectivisation of agriculture is closely associated with Joseph Stalin's economic policy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The centrally planned Soviet economy aimed to:",
+    "options": [
+      "Rapidly industrialise the country under state control",
+      "Promote free markets",
+      "Restore private property",
+      "Expand colonies"
+    ],
+    "correct_index": 0,
+    "solution": "The Soviet planned economy aimed to rapidly industrialise the USSR under state control through the Five Year Plans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 1905 Revolution is sometimes called the 'dress rehearsal' for:",
+    "options": [
+      "The 1917 Revolution",
+      "The French Revolution",
+      "The Industrial Revolution",
+      "World War I"
+    ],
+    "correct_index": 0,
+    "solution": "The 1905 Revolution is often called the 'dress rehearsal' for the successful revolution of 1917.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The socialists believed private property was the root cause of:",
+    "options": [
+      "Social inequality and the exploitation of workers",
+      "Prosperity for all",
+      "Political freedom",
+      "Peace"
+    ],
+    "correct_index": 0,
+    "solution": "Socialists argued that private property led to inequality and the exploitation of workers, and should be replaced by collective ownership.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The impact of the Russian Revolution on India included:",
+    "options": [
+      "Inspiring some nationalists and the growth of socialist and communist ideas",
+      "Ending the freedom struggle",
+      "Strengthening British rule",
+      "The restoration of the Mughals"
+    ],
+    "correct_index": 0,
+    "solution": "The Russian Revolution inspired socialist and communist ideas in India and influenced sections of the national movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key difference between the February and October revolutions was that:",
+    "options": [
+      "February overthrew the Tsar; October brought the Bolsheviks to power",
+      "Both restored the Tsar",
+      "February was Bolshevik; October was Tsarist",
+      "Neither changed the government"
+    ],
+    "correct_index": 0,
+    "solution": "The February Revolution overthrew the Tsar and set up the Provisional Government; the October Revolution brought the Bolsheviks to power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The working class, according to Marx, is the:",
+    "options": [
+      "Proletariat",
+      "Bourgeoisie",
+      "Nobility",
+      "Clergy"
+    ],
+    "correct_index": 0,
+    "solution": "The WORKING CLASS is the PROLETARIAT, according to Marx. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The event of January 1905, when peaceful protesters were fired upon in St Petersburg, is known as:",
+    "options": [
+      "Bloody Sunday",
+      "The October Revolution",
+      "The February Revolution",
+      "The Reign of Terror"
+    ],
+    "correct_index": 0,
+    "solution": "The January 1905 firing on protesters is known as BLOODY SUNDAY. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The elected consultative parliament the Tsar was forced to allow after 1905 was the:",
+    "options": [
+      "Duma",
+      "Soviet",
+      "Politburo",
+      "Comintern"
+    ],
+    "correct_index": 0,
+    "solution": "The Tsar allowed the DUMA (a consultative parliament) after 1905. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The radical faction of the Russian Social Democratic Labour Party, led by Lenin, was the:",
+    "options": [
+      "Bolsheviks",
+      "Mensheviks",
+      "Cadets",
+      "Whites"
+    ],
+    "correct_index": 0,
+    "solution": "The RADICAL faction led by Lenin was the BOLSHEVIKS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The moderate faction opposed to the Bolsheviks was the:",
+    "options": [
+      "Mensheviks",
+      "Bolsheviks",
+      "Reds",
+      "Comintern"
+    ],
+    "correct_index": 0,
+    "solution": "The MODERATE faction was the MENSHEVIKS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Lenin's programme demanding 'Peace, Land and Bread' was outlined in his:",
+    "options": [
+      "April Theses",
+      "Communist Manifesto",
+      "Das Kapital",
+      "October Manifesto"
+    ],
+    "correct_index": 0,
+    "solution": "Lenin's 'PEACE, LAND and BREAD' programme was in his APRIL THESES. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The councils of workers and soldiers that emerged during the revolution were called:",
+    "options": [
+      "Soviets",
+      "Dumas",
+      "Estates",
+      "Communes"
+    ],
+    "correct_index": 0,
+    "solution": "The councils of workers and soldiers were SOVIETS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match List-I with List-II: P. Communist Manifesto Q. Bolsheviks R. October Revolution S. USSR formed | 1. 1917 2. 1848 3. Lenin's party 4. 1922",
+    "options": [
+      "P-2, Q-3, R-1, S-4",
+      "P-1, Q-2, R-3, S-4",
+      "P-3, Q-4, R-1, S-2",
+      "P-4, Q-3, R-2, S-1"
+    ],
+    "correct_index": 0,
+    "solution": "Communist Manifesto → 1848 (P-2); Bolsheviks → Lenin's party (Q-3); October Revolution → 1917 (R-1); USSR formed → 1922 (S-4). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The civil war (1918-1920) in Russia was fought between the Reds (Bolsheviks) and the:",
+    "options": [
+      "Whites (anti-Bolsheviks)",
+      "French",
+      "Germans only",
+      "British only"
+    ],
+    "correct_index": 0,
+    "solution": "The CIVIL WAR was between the REDS (Bolsheviks) and the WHITES (anti-Bolsheviks). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The organisation set up by the USSR to promote world revolution was the:",
+    "options": [
+      "Comintern (Communist International)",
+      "League of Nations",
+      "United Nations",
+      "NATO"
+    ],
+    "correct_index": 0,
+    "solution": "The USSR set up the COMINTERN (Communist International) to promote world revolution. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): The Provisional Government of 1917 lost support. Reason (R): It continued the unpopular war and delayed land reforms. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — the Provisional Government lost support. R is TRUE and EXPLAINS A: it CONTINUED the unpopular WAR and DELAYED LAND REFORMS. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The socialist idea that appealed to workers was that:",
+    "options": [
+      "Property should be collectively owned and workers should control production",
+      "The rich should own everything",
+      "Workers should have no rights",
+      "Kings should rule forever"
+    ],
+    "correct_index": 0,
+    "solution": "SOCIALISM appealed to workers with the idea of COLLECTIVE OWNERSHIP and WORKER CONTROL of production. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Socialists believed private property was the root of:",
+    "options": [
+      "Social ills and inequality",
+      "Prosperity for all",
+      "Equality",
+      "Freedom"
+    ],
+    "correct_index": 0,
+    "solution": "SOCIALISTS saw PRIVATE PROPERTY as the ROOT of SOCIAL ILLS and INEQUALITY. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dates of the Russian revolutions differ (February/October) because Russia then used the:",
+    "options": [
+      "Julian calendar (older, behind the Gregorian)",
+      "Gregorian calendar",
+      "Islamic calendar",
+      "Chinese calendar"
+    ],
+    "correct_index": 0,
+    "solution": "Russia then used the JULIAN CALENDAR (behind the Gregorian), so dates differ. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The political philosophy that argues for social/collective ownership of the means of production is:",
+    "options": [
+      "Socialism",
+      "Capitalism",
+      "Feudalism",
+      "Monarchism"
+    ],
+    "correct_index": 0,
+    "solution": "SOCIALISM argues for SOCIAL/COLLECTIVE ownership of the means of production. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. 1905 — Bloody Sunday 2. 1917 — Russian Revolution 3. 1922 — USSR formed. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE match: 1905 → Bloody Sunday; 1917 → Russian Revolution; 1922 → USSR formed. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall theme of the chapter is how:",
+    "options": [
+      "Socialist ideas grew in Europe and led to the Russian Revolution and the first socialist state",
+      "Monarchy triumphed in Russia",
+      "Capitalism ended in Europe by 1900",
+      "Feudalism was restored"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter traces the growth of socialism in Europe and how it culminated in the Russian Revolution and the creation of the world's first socialist state.",
+    "difficulty": "easy"
+  }
 ]
