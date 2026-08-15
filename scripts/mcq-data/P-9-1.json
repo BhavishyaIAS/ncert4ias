@@ -1,52 +1,1142 @@
 [
-  { "stem": "Democracy is a form of government in which:", "options": ["The rulers are elected by the people", "A king rules by birthright", "The army controls the country", "Only the rich rule"], "correct_index": 0, "solution": "Democracy is a form of government in which the rulers are elected by the people.", "difficulty": "easy" },
-  { "stem": "The famous definition of democracy as 'government of the people, by the people, for the people' was given by:", "options": ["Abraham Lincoln", "Nelson Mandela", "Jawaharlal Nehru", "B. R. Ambedkar"], "correct_index": 0, "solution": "Abraham Lincoln defined democracy as 'government of the people, by the people, for the people'.", "difficulty": "medium" },
-  { "stem": "The word 'democracy' comes from the Greek word 'demos', meaning:", "options": ["People", "King", "Wealth", "Army"], "correct_index": 0, "solution": "'Democracy' comes from the Greek 'demos' (people) and 'kratia' (rule) — rule by the people.", "difficulty": "medium" },
-  { "stem": "Which of the following is an essential feature of a democracy?", "options": ["Free and fair elections", "Rule by one family", "No elections", "Voting only by the rich"], "correct_index": 0, "solution": "A key feature of democracy is that rulers are chosen through regular, free and fair elections.", "difficulty": "medium" },
-  { "stem": "The principle 'one person, one vote, one value' means:", "options": ["Each adult has one vote of equal worth", "The rich get more votes", "Only leaders vote", "Some votes count more than others"], "correct_index": 0, "solution": "'One person, one vote, one value' ensures political equality — every adult has one vote of equal value.", "difficulty": "medium" },
-  { "stem": "In a democracy, the final decision-making power must rest with those:", "options": ["Elected by the people", "Who inherited power", "In the army", "Who are the wealthiest"], "correct_index": 0, "solution": "In a democracy, the final decision-making power must rest with the elected representatives of the people.", "difficulty": "medium" },
-  { "stem": "A democratic election must offer the people a:", "options": ["Genuine choice and fair opportunity to change the rulers", "Single candidate only", "Pre-decided result", "Choice only among the ruling family"], "correct_index": 0, "solution": "A democratic election must give voters a real choice and a fair chance to change their rulers.", "difficulty": "medium" },
-  { "stem": "A form of democracy in which people rule directly by participating in decisions is called:", "options": ["Direct democracy", "Representative democracy", "Monarchy", "Oligarchy"], "correct_index": 0, "solution": "In a direct democracy, citizens themselves take part in making decisions rather than through representatives.", "difficulty": "medium" },
-  { "stem": "The form of democracy practised in large countries like India, where people elect representatives, is called:", "options": ["Representative democracy", "Direct democracy", "Absolute monarchy", "Dictatorship"], "correct_index": 0, "solution": "Representative democracy, where people rule through elected representatives, is practised in large modern states.", "difficulty": "medium" },
-  { "stem": "Which of the following would NOT be considered a democracy?", "options": ["A country where the army chief rules without elections", "A country with free and fair elections", "A country where people elect their leaders", "A country with universal adult franchise"], "correct_index": 0, "solution": "A country ruled by an unelected army chief, without free elections, is not a democracy.", "difficulty": "medium" },
-  { "stem": "For elections to be democratic, they must be held:", "options": ["Regularly and be free and fair", "Once in fifty years", "Only when the rulers wish", "With a single candidate"], "correct_index": 0, "solution": "Democratic elections must be held regularly at fixed intervals and be conducted freely and fairly.", "difficulty": "medium" },
-  { "stem": "A major argument in favour of democracy is that it:", "options": ["Is more accountable and responsive to the people", "Is faster than dictatorship always", "Never makes mistakes", "Removes the need for elections"], "correct_index": 0, "solution": "Democracy is more accountable and responsive because rulers must answer to the people who elect them.", "difficulty": "medium" },
-  { "stem": "Democracy improves the quality of decision-making because it:", "options": ["Is based on discussion, deliberation and consultation", "Relies on one person's whim", "Avoids all debate", "Ignores the people"], "correct_index": 0, "solution": "Democratic decisions are based on discussion and consultation, which improves their quality and acceptance.", "difficulty": "medium" },
-  { "stem": "Democracy provides a method to deal with differences and conflicts by:", "options": ["Peaceful means and negotiation", "Force and violence", "Ignoring conflicts", "Rule of the strongest"], "correct_index": 0, "solution": "Democracy offers a peaceful way to resolve differences and conflicts through negotiation and accommodation.", "difficulty": "medium" },
-  { "stem": "A distinctive strength of democracy is that it:", "options": ["Allows citizens to correct its own mistakes through elections and debate", "Never allows any change", "Hides its mistakes", "Cannot be reformed"], "correct_index": 0, "solution": "Democracy allows for the correction of mistakes, as citizens can debate, protest and vote out non-performing rulers.", "difficulty": "medium" },
-  { "stem": "Democracy enhances the __________ of the individual.", "options": ["dignity", "poverty", "isolation", "ignorance"], "correct_index": 0, "solution": "Democracy enhances the dignity of the individual by treating citizens as equals with rights.", "difficulty": "medium" },
-  { "stem": "A common criticism (demerit) of democracy is that it:", "options": ["Can be unstable and slow in decision-making", "Never allows discussion", "Has no elections", "Cannot resolve conflicts"], "correct_index": 0, "solution": "Critics point out that democracy can lead to instability and delays because decisions involve many people and much deliberation.", "difficulty": "medium" },
-  { "stem": "Democracy is based on the idea of political equality, which means:", "options": ["All citizens have equal political rights, regardless of status", "The rich have more rights", "Only leaders have rights", "Rights depend on caste"], "correct_index": 0, "solution": "Political equality means all citizens have equal political rights (like the vote), regardless of wealth, caste, religion or gender.", "difficulty": "medium" },
-  { "stem": "Rulers elected in a democracy must rule within limits set by:", "options": ["The constitution and citizens' rights", "Their own wishes only", "The army", "Foreign powers"], "correct_index": 0, "solution": "In a democracy, elected rulers must function within constitutional limits and respect citizens' rights and laws.", "difficulty": "medium" },
-  { "stem": "The people's right to choose and change their rulers makes the government:", "options": ["Accountable to the people", "Free from accountability", "Permanent and unchangeable", "Independent of the people"], "correct_index": 0, "solution": "Because citizens can choose and remove rulers through elections, the government is made accountable to the people.", "difficulty": "medium" },
-  { "stem": "A democracy is better than other forms of government mainly because it:", "options": ["Respects citizens' freedom, dignity and rights and is accountable", "Is always the richest", "Never has problems", "Rules without the people"], "correct_index": 0, "solution": "Democracy is preferred because it respects freedom, dignity and rights and remains accountable to the people, even if imperfect.", "difficulty": "medium" },
-  { "stem": "Which of the following ensures that elections in a democracy give people real power?", "options": ["Universal adult franchise and genuine competition", "A single ruling party only", "Voting restricted to the rich", "No competition"], "correct_index": 0, "solution": "Universal adult franchise and genuine competition among parties ensure elections give people real power.", "difficulty": "medium" },
-  { "stem": "A government that holds elections but does not allow a fair choice or free voting is:", "options": ["Not a true democracy", "A perfect democracy", "A direct democracy", "A representative democracy"], "correct_index": 0, "solution": "Merely holding elections is not enough; without a fair choice and free voting, it is not a true democracy.", "difficulty": "medium" },
-  { "stem": "One reason people accept democratic decisions even when they disagree is that:", "options": ["The decisions are made through a legitimate, participatory process", "They are forced by the army", "They have no choice ever", "The rich decide everything"], "correct_index": 0, "solution": "Because democratic decisions come from a legitimate, participatory process, people accept them even when they disagree.", "difficulty": "medium" },
-  { "stem": "The rule of the majority in a democracy should not mean:", "options": ["The domination or oppression of minorities", "Respect for minority rights", "Equality of all", "Protection of rights"], "correct_index": 0, "solution": "Majority rule in a democracy must not become the tyranny of the majority; the rights of minorities must be protected.", "difficulty": "hard" },
-  { "stem": "Democracy accommodates social diversity by:", "options": ["Providing ways for different groups to live together and share power", "Suppressing all differences", "Favouring one group", "Ignoring minorities"], "correct_index": 0, "solution": "Democracy is better able to accommodate social diversity by giving different groups a share in power and a peaceful way to coexist.", "difficulty": "medium" },
-  { "stem": "The 'legitimacy' of a democratic government comes from:", "options": ["Being chosen by the people through fair elections", "Military force", "Inheritance", "Wealth"], "correct_index": 0, "solution": "A democratic government's legitimacy comes from being freely chosen by the people, making it people's own government.", "difficulty": "medium" },
-  { "stem": "Even a poorly-functioning democracy is considered better than a dictatorship because it:", "options": ["Respects rights and allows citizens to demand improvement", "Is always efficient", "Never has corruption", "Rules without accountability"], "correct_index": 0, "solution": "Even flawed democracies allow citizens rights and the means to demand accountability and improvement, unlike dictatorships.", "difficulty": "medium" },
-  { "stem": "Which of the following is NOT a feature of democracy?", "options": ["Rule by an unelected few", "Free and fair elections", "Rule of law", "Respect for rights"], "correct_index": 0, "solution": "Rule by an unelected few (oligarchy) is not a feature of democracy, which requires elected rulers, fair elections, rule of law and rights.", "difficulty": "medium" },
-  { "stem": "In a democracy, the government is expected to be:", "options": ["Responsive to the needs and expectations of citizens", "Indifferent to citizens", "Answerable only to itself", "Controlled by the army"], "correct_index": 0, "solution": "A democratic government is expected to be responsive to the needs, wishes and expectations of its citizens.", "difficulty": "medium" },
-  { "stem": "The example of countries where one party always wins or elections are not free shows that:", "options": ["Holding elections alone does not make a country democratic", "All elections are democratic", "Elections are unnecessary", "Democracy is impossible"], "correct_index": 0, "solution": "Examples of manipulated or one-party 'elections' show that the mere holding of elections does not make a country democratic.", "difficulty": "medium" },
-  { "stem": "Democracy is founded on the principle that:", "options": ["People are the ultimate source of political power", "Rulers are the source of power", "Power comes from wealth", "Power is inherited"], "correct_index": 0, "solution": "In a democracy, the people are the ultimate source of all political power.", "difficulty": "medium" },
-  { "stem": "The transparency of democracy means that citizens have the:", "options": ["Right to know and examine how decisions are made", "No right to information", "Right to ignore government", "Duty to obey without question"], "correct_index": 0, "solution": "Democracy is transparent — citizens have the right and means to examine how and why decisions are taken.", "difficulty": "medium" },
-  { "stem": "Which of the following best captures why democracy is valued despite its flaws?", "options": ["It is accountable, respects rights and allows peaceful change", "It is the fastest form of rule", "It never makes errors", "It concentrates power in one hand"], "correct_index": 0, "solution": "Democracy is valued because it is accountable, respects citizens' rights and dignity, and allows peaceful, orderly change.", "difficulty": "medium" },
-  { "stem": "The rulers in a democracy are chosen by the people and can be:", "options": ["Voted out in the next election if they perform poorly", "Never removed", "Removed only by the army", "Chosen for life"], "correct_index": 0, "solution": "Democratic rulers can be voted out by the people in the next election if they fail to perform, ensuring accountability.", "difficulty": "medium" },
-  { "stem": "Which of the following would strengthen democracy?", "options": ["Active participation and awareness of citizens", "Ignorance of citizens", "Restricting voting rights", "Suppressing free speech"], "correct_index": 0, "solution": "Active, aware and participating citizens strengthen democracy by holding the government accountable.", "difficulty": "medium" },
-  { "stem": "Democracy is described as a form of government that promotes:", "options": ["Equality, freedom and the dignity of citizens", "Hierarchy and privilege", "Rule by force", "Inequality"], "correct_index": 0, "solution": "Democracy promotes the equality, freedom and dignity of all citizens.", "difficulty": "easy" },
-  { "stem": "A government that is elected but rules against the constitution and citizens' rights is:", "options": ["A threat to democracy", "A model democracy", "A direct democracy", "A representative democracy"], "correct_index": 0, "solution": "An elected government that violates the constitution and citizens' rights undermines and threatens democracy.", "difficulty": "medium" },
-  { "stem": "Democracy allows the expression of different views because it guarantees:", "options": ["Freedom of speech and expression", "Censorship", "One official opinion", "Silence of citizens"], "correct_index": 0, "solution": "Democracy guarantees freedom of speech and expression, allowing citizens to voice different views.", "difficulty": "medium" },
-  { "stem": "The idea that democracy is 'rule by the people' distinguishes it from:", "options": ["Monarchy, dictatorship and oligarchy", "Republics", "Federations", "Elections"], "correct_index": 0, "solution": "Democracy (rule by the people) is distinct from monarchy (rule by a king), dictatorship (rule by one) and oligarchy (rule by a few).", "difficulty": "medium" },
-  { "stem": "A democracy ensures that the powerful cannot do as they please because:", "options": ["They are bound by law and answerable to the people", "They control everything", "They are above the law", "They are never questioned"], "correct_index": 0, "solution": "In a democracy, even the powerful are bound by law and answerable to the people, limiting arbitrary power.", "difficulty": "medium" },
-  { "stem": "Democracy is a better form of government because it is more likely to:", "options": ["Take into account the interests and views of all sections of society", "Serve only the ruler", "Ignore the majority", "Favour foreigners"], "correct_index": 0, "solution": "Democracy is more likely to take into account the diverse interests and views of all sections of society.", "difficulty": "medium" },
-  { "stem": "Which of the following is a necessary condition for a democratic election?", "options": ["Everyone should be able to choose and the choice should be real", "The result should be pre-decided", "Only one party can contest", "Only officials can vote"], "correct_index": 0, "solution": "A democratic election requires that everyone has a vote, all can contest, the choice is genuine, and it is conducted freely and fairly.", "difficulty": "medium" },
-  { "stem": "The rulers elected in a democracy work for a fixed:", "options": ["Term, after which fresh elections are held", "Lifetime with no elections", "Number of victories", "Amount of wealth"], "correct_index": 0, "solution": "Democratic rulers are elected for a fixed term, after which fresh elections are held to renew or change the mandate.", "difficulty": "medium" },
-  { "stem": "Which of the following statements is true of a democracy?", "options": ["It is a rule of the people, for the people and by the people", "It is a rule by one family", "It rejects elections", "It denies citizens' rights"], "correct_index": 0, "solution": "Democracy is rule of, by and for the people, based on elections, rights and accountability.", "difficulty": "easy" },
-  { "stem": "The claim that democracy leads to a more just society rests on the idea that it:", "options": ["Gives everyone a say and protects rights", "Serves only the ruling class", "Ignores the poor", "Increases inequality"], "correct_index": 0, "solution": "Democracy is seen as more just because it gives every citizen a say and protects their rights and dignity.", "difficulty": "medium" },
-  { "stem": "The most basic outcome of democracy is that it produces a government that is:", "options": ["Accountable to citizens and responsive to their needs", "Free from all responsibility", "Controlled by one person", "Unaccountable"], "correct_index": 0, "solution": "The most basic outcome of democracy is an accountable and responsive government, chosen by and answerable to the people.", "difficulty": "medium" },
-  { "stem": "Which of the following helps citizens hold a democratic government accountable?", "options": ["Elections, free press and the right to information", "Censorship", "The absence of elections", "Suppression of protest"], "correct_index": 0, "solution": "Elections, a free press, the right to information and the freedom to protest help citizens hold the government accountable.", "difficulty": "medium" },
-  { "stem": "The example of a country where the ruler wins repeated 'elections' by intimidating opponents (like Zimbabwe under Mugabe) shows that:", "options": ["Elections without real competition and fairness do not make a country democratic", "All elections are democratic", "Elections are always fair", "Democracy needs no fairness"], "correct_index": 0, "solution": "Such examples show that even where elections are held, the lack of genuine competition, free choice and fairness means the country is not truly democratic.", "difficulty": "medium" },
-  { "stem": "The overall message of 'What is Democracy? Why Democracy?' is that:", "options": ["Democracy, though imperfect, is the most accountable and preferred form of government", "Dictatorship is best", "Elections are unnecessary", "Democracy has no value"], "correct_index": 0, "solution": "The chapter explains the meaning and features of democracy and argues that, despite its imperfections, it is the most accountable and preferred form of government.", "difficulty": "easy" }
+  {
+    "stem": "Democracy is a form of government in which:",
+    "options": [
+      "The rulers are elected by the people",
+      "A king rules by birthright",
+      "The army controls the country",
+      "Only the rich rule"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is a form of government in which the rulers are elected by the people.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The famous definition of democracy as 'government of the people, by the people, for the people' was given by:",
+    "options": [
+      "Abraham Lincoln",
+      "Nelson Mandela",
+      "Jawaharlal Nehru",
+      "B. R. Ambedkar"
+    ],
+    "correct_index": 0,
+    "solution": "Abraham Lincoln defined democracy as 'government of the people, by the people, for the people'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The word 'democracy' comes from the Greek word 'demos', meaning:",
+    "options": [
+      "People",
+      "King",
+      "Wealth",
+      "Army"
+    ],
+    "correct_index": 0,
+    "solution": "'Democracy' comes from the Greek 'demos' (people) and 'kratia' (rule) — rule by the people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an essential feature of a democracy?",
+    "options": [
+      "Free and fair elections",
+      "Rule by one family",
+      "No elections",
+      "Voting only by the rich"
+    ],
+    "correct_index": 0,
+    "solution": "A key feature of democracy is that rulers are chosen through regular, free and fair elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The principle 'one person, one vote, one value' means:",
+    "options": [
+      "Each adult has one vote of equal worth",
+      "The rich get more votes",
+      "Only leaders vote",
+      "Some votes count more than others"
+    ],
+    "correct_index": 0,
+    "solution": "'One person, one vote, one value' ensures political equality — every adult has one vote of equal value.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a democracy, the final decision-making power must rest with those:",
+    "options": [
+      "Elected by the people",
+      "Who inherited power",
+      "In the army",
+      "Who are the wealthiest"
+    ],
+    "correct_index": 0,
+    "solution": "In a democracy, the final decision-making power must rest with the elected representatives of the people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A democratic election must offer the people a:",
+    "options": [
+      "Genuine choice and fair opportunity to change the rulers",
+      "Single candidate only",
+      "Pre-decided result",
+      "Choice only among the ruling family"
+    ],
+    "correct_index": 0,
+    "solution": "A democratic election must give voters a real choice and a fair chance to change their rulers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A form of democracy in which people rule directly by participating in decisions is called:",
+    "options": [
+      "Direct democracy",
+      "Representative democracy",
+      "Monarchy",
+      "Oligarchy"
+    ],
+    "correct_index": 0,
+    "solution": "In a direct democracy, citizens themselves take part in making decisions rather than through representatives.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The form of democracy practised in large countries like India, where people elect representatives, is called:",
+    "options": [
+      "Representative democracy",
+      "Direct democracy",
+      "Absolute monarchy",
+      "Dictatorship"
+    ],
+    "correct_index": 0,
+    "solution": "Representative democracy, where people rule through elected representatives, is practised in large modern states.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following would NOT be considered a democracy?",
+    "options": [
+      "A country where the army chief rules without elections",
+      "A country with free and fair elections",
+      "A country where people elect their leaders",
+      "A country with universal adult franchise"
+    ],
+    "correct_index": 0,
+    "solution": "A country ruled by an unelected army chief, without free elections, is not a democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For elections to be democratic, they must be held:",
+    "options": [
+      "Regularly and be free and fair",
+      "Once in fifty years",
+      "Only when the rulers wish",
+      "With a single candidate"
+    ],
+    "correct_index": 0,
+    "solution": "Democratic elections must be held regularly at fixed intervals and be conducted freely and fairly.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A major argument in favour of democracy is that it:",
+    "options": [
+      "Is more accountable and responsive to the people",
+      "Is faster than dictatorship always",
+      "Never makes mistakes",
+      "Removes the need for elections"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is more accountable and responsive because rulers must answer to the people who elect them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy improves the quality of decision-making because it:",
+    "options": [
+      "Is based on discussion, deliberation and consultation",
+      "Relies on one person's whim",
+      "Avoids all debate",
+      "Ignores the people"
+    ],
+    "correct_index": 0,
+    "solution": "Democratic decisions are based on discussion and consultation, which improves their quality and acceptance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy provides a method to deal with differences and conflicts by:",
+    "options": [
+      "Peaceful means and negotiation",
+      "Force and violence",
+      "Ignoring conflicts",
+      "Rule of the strongest"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy offers a peaceful way to resolve differences and conflicts through negotiation and accommodation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A distinctive strength of democracy is that it:",
+    "options": [
+      "Allows citizens to correct its own mistakes through elections and debate",
+      "Never allows any change",
+      "Hides its mistakes",
+      "Cannot be reformed"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy allows for the correction of mistakes, as citizens can debate, protest and vote out non-performing rulers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy enhances the __________ of the individual.",
+    "options": [
+      "dignity",
+      "poverty",
+      "isolation",
+      "ignorance"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy enhances the dignity of the individual by treating citizens as equals with rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A common criticism (demerit) of democracy is that it:",
+    "options": [
+      "Can be unstable and slow in decision-making",
+      "Never allows discussion",
+      "Has no elections",
+      "Cannot resolve conflicts"
+    ],
+    "correct_index": 0,
+    "solution": "Critics point out that democracy can lead to instability and delays because decisions involve many people and much deliberation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy is based on the idea of political equality, which means:",
+    "options": [
+      "All citizens have equal political rights, regardless of status",
+      "The rich have more rights",
+      "Only leaders have rights",
+      "Rights depend on caste"
+    ],
+    "correct_index": 0,
+    "solution": "Political equality means all citizens have equal political rights (like the vote), regardless of wealth, caste, religion or gender.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rulers elected in a democracy must rule within limits set by:",
+    "options": [
+      "The constitution and citizens' rights",
+      "Their own wishes only",
+      "The army",
+      "Foreign powers"
+    ],
+    "correct_index": 0,
+    "solution": "In a democracy, elected rulers must function within constitutional limits and respect citizens' rights and laws.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The people's right to choose and change their rulers makes the government:",
+    "options": [
+      "Accountable to the people",
+      "Free from accountability",
+      "Permanent and unchangeable",
+      "Independent of the people"
+    ],
+    "correct_index": 0,
+    "solution": "Because citizens can choose and remove rulers through elections, the government is made accountable to the people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A democracy is better than other forms of government mainly because it:",
+    "options": [
+      "Respects citizens' freedom, dignity and rights and is accountable",
+      "Is always the richest",
+      "Never has problems",
+      "Rules without the people"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is preferred because it respects freedom, dignity and rights and remains accountable to the people, even if imperfect.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following ensures that elections in a democracy give people real power?",
+    "options": [
+      "Universal adult franchise and genuine competition",
+      "A single ruling party only",
+      "Voting restricted to the rich",
+      "No competition"
+    ],
+    "correct_index": 0,
+    "solution": "Universal adult franchise and genuine competition among parties ensure elections give people real power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A government that holds elections but does not allow a fair choice or free voting is:",
+    "options": [
+      "Not a true democracy",
+      "A perfect democracy",
+      "A direct democracy",
+      "A representative democracy"
+    ],
+    "correct_index": 0,
+    "solution": "Merely holding elections is not enough; without a fair choice and free voting, it is not a true democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One reason people accept democratic decisions even when they disagree is that:",
+    "options": [
+      "The decisions are made through a legitimate, participatory process",
+      "They are forced by the army",
+      "They have no choice ever",
+      "The rich decide everything"
+    ],
+    "correct_index": 0,
+    "solution": "Because democratic decisions come from a legitimate, participatory process, people accept them even when they disagree.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rule of the majority in a democracy should not mean:",
+    "options": [
+      "The domination or oppression of minorities",
+      "Respect for minority rights",
+      "Equality of all",
+      "Protection of rights"
+    ],
+    "correct_index": 0,
+    "solution": "Majority rule in a democracy must not become the tyranny of the majority; the rights of minorities must be protected.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Democracy accommodates social diversity by:",
+    "options": [
+      "Providing ways for different groups to live together and share power",
+      "Suppressing all differences",
+      "Favouring one group",
+      "Ignoring minorities"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is better able to accommodate social diversity by giving different groups a share in power and a peaceful way to coexist.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'legitimacy' of a democratic government comes from:",
+    "options": [
+      "Being chosen by the people through fair elections",
+      "Military force",
+      "Inheritance",
+      "Wealth"
+    ],
+    "correct_index": 0,
+    "solution": "A democratic government's legitimacy comes from being freely chosen by the people, making it people's own government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Even a poorly-functioning democracy is considered better than a dictatorship because it:",
+    "options": [
+      "Respects rights and allows citizens to demand improvement",
+      "Is always efficient",
+      "Never has corruption",
+      "Rules without accountability"
+    ],
+    "correct_index": 0,
+    "solution": "Even flawed democracies allow citizens rights and the means to demand accountability and improvement, unlike dictatorships.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is NOT a feature of democracy?",
+    "options": [
+      "Rule by an unelected few",
+      "Free and fair elections",
+      "Rule of law",
+      "Respect for rights"
+    ],
+    "correct_index": 0,
+    "solution": "Rule by an unelected few (oligarchy) is not a feature of democracy, which requires elected rulers, fair elections, rule of law and rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a democracy, the government is expected to be:",
+    "options": [
+      "Responsive to the needs and expectations of citizens",
+      "Indifferent to citizens",
+      "Answerable only to itself",
+      "Controlled by the army"
+    ],
+    "correct_index": 0,
+    "solution": "A democratic government is expected to be responsive to the needs, wishes and expectations of its citizens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The example of countries where one party always wins or elections are not free shows that:",
+    "options": [
+      "Holding elections alone does not make a country democratic",
+      "All elections are democratic",
+      "Elections are unnecessary",
+      "Democracy is impossible"
+    ],
+    "correct_index": 0,
+    "solution": "Examples of manipulated or one-party 'elections' show that the mere holding of elections does not make a country democratic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy is founded on the principle that:",
+    "options": [
+      "People are the ultimate source of political power",
+      "Rulers are the source of power",
+      "Power comes from wealth",
+      "Power is inherited"
+    ],
+    "correct_index": 0,
+    "solution": "In a democracy, the people are the ultimate source of all political power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The transparency of democracy means that citizens have the:",
+    "options": [
+      "Right to know and examine how decisions are made",
+      "No right to information",
+      "Right to ignore government",
+      "Duty to obey without question"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is transparent — citizens have the right and means to examine how and why decisions are taken.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best captures why democracy is valued despite its flaws?",
+    "options": [
+      "It is accountable, respects rights and allows peaceful change",
+      "It is the fastest form of rule",
+      "It never makes errors",
+      "It concentrates power in one hand"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is valued because it is accountable, respects citizens' rights and dignity, and allows peaceful, orderly change.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rulers in a democracy are chosen by the people and can be:",
+    "options": [
+      "Voted out in the next election if they perform poorly",
+      "Never removed",
+      "Removed only by the army",
+      "Chosen for life"
+    ],
+    "correct_index": 0,
+    "solution": "Democratic rulers can be voted out by the people in the next election if they fail to perform, ensuring accountability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following would strengthen democracy?",
+    "options": [
+      "Active participation and awareness of citizens",
+      "Ignorance of citizens",
+      "Restricting voting rights",
+      "Suppressing free speech"
+    ],
+    "correct_index": 0,
+    "solution": "Active, aware and participating citizens strengthen democracy by holding the government accountable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy is described as a form of government that promotes:",
+    "options": [
+      "Equality, freedom and the dignity of citizens",
+      "Hierarchy and privilege",
+      "Rule by force",
+      "Inequality"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy promotes the equality, freedom and dignity of all citizens.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A government that is elected but rules against the constitution and citizens' rights is:",
+    "options": [
+      "A threat to democracy",
+      "A model democracy",
+      "A direct democracy",
+      "A representative democracy"
+    ],
+    "correct_index": 0,
+    "solution": "An elected government that violates the constitution and citizens' rights undermines and threatens democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy allows the expression of different views because it guarantees:",
+    "options": [
+      "Freedom of speech and expression",
+      "Censorship",
+      "One official opinion",
+      "Silence of citizens"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy guarantees freedom of speech and expression, allowing citizens to voice different views.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that democracy is 'rule by the people' distinguishes it from:",
+    "options": [
+      "Monarchy, dictatorship and oligarchy",
+      "Republics",
+      "Federations",
+      "Elections"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy (rule by the people) is distinct from monarchy (rule by a king), dictatorship (rule by one) and oligarchy (rule by a few).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A democracy ensures that the powerful cannot do as they please because:",
+    "options": [
+      "They are bound by law and answerable to the people",
+      "They control everything",
+      "They are above the law",
+      "They are never questioned"
+    ],
+    "correct_index": 0,
+    "solution": "In a democracy, even the powerful are bound by law and answerable to the people, limiting arbitrary power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy is a better form of government because it is more likely to:",
+    "options": [
+      "Take into account the interests and views of all sections of society",
+      "Serve only the ruler",
+      "Ignore the majority",
+      "Favour foreigners"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is more likely to take into account the diverse interests and views of all sections of society.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a necessary condition for a democratic election?",
+    "options": [
+      "Everyone should be able to choose and the choice should be real",
+      "The result should be pre-decided",
+      "Only one party can contest",
+      "Only officials can vote"
+    ],
+    "correct_index": 0,
+    "solution": "A democratic election requires that everyone has a vote, all can contest, the choice is genuine, and it is conducted freely and fairly.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rulers elected in a democracy work for a fixed:",
+    "options": [
+      "Term, after which fresh elections are held",
+      "Lifetime with no elections",
+      "Number of victories",
+      "Amount of wealth"
+    ],
+    "correct_index": 0,
+    "solution": "Democratic rulers are elected for a fixed term, after which fresh elections are held to renew or change the mandate.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements is true of a democracy?",
+    "options": [
+      "It is a rule of the people, for the people and by the people",
+      "It is a rule by one family",
+      "It rejects elections",
+      "It denies citizens' rights"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is rule of, by and for the people, based on elections, rights and accountability.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The claim that democracy leads to a more just society rests on the idea that it:",
+    "options": [
+      "Gives everyone a say and protects rights",
+      "Serves only the ruling class",
+      "Ignores the poor",
+      "Increases inequality"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is seen as more just because it gives every citizen a say and protects their rights and dignity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most basic outcome of democracy is that it produces a government that is:",
+    "options": [
+      "Accountable to citizens and responsive to their needs",
+      "Free from all responsibility",
+      "Controlled by one person",
+      "Unaccountable"
+    ],
+    "correct_index": 0,
+    "solution": "The most basic outcome of democracy is an accountable and responsive government, chosen by and answerable to the people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following helps citizens hold a democratic government accountable?",
+    "options": [
+      "Elections, free press and the right to information",
+      "Censorship",
+      "The absence of elections",
+      "Suppression of protest"
+    ],
+    "correct_index": 0,
+    "solution": "Elections, a free press, the right to information and the freedom to protest help citizens hold the government accountable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The example of a country where the ruler wins repeated 'elections' by intimidating opponents (like Zimbabwe under Mugabe) shows that:",
+    "options": [
+      "Elections without real competition and fairness do not make a country democratic",
+      "All elections are democratic",
+      "Elections are always fair",
+      "Democracy needs no fairness"
+    ],
+    "correct_index": 0,
+    "solution": "Such examples show that even where elections are held, the lack of genuine competition, free choice and fairness means the country is not truly democratic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the NCERT example, the military coup of October 1999 in Pakistan was led by:",
+    "options": [
+      "General Pervez Musharraf",
+      "Zulfikar Ali Bhutto",
+      "Nawaz Sharif",
+      "Zia-ul-Haq"
+    ],
+    "correct_index": 0,
+    "solution": "In August 1999, General Pervez Musharraf overthrew the elected government of Nawaz Sharif in a coup and declared himself the country's Chief Executive.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "After seizing power in Pakistan, General Pervez Musharraf initially called himself the country's:",
+    "options": [
+      "Chief Executive",
+      "Prime Minister",
+      "Sultan",
+      "Chief Justice"
+    ],
+    "correct_index": 0,
+    "solution": "After the 1999 coup Musharraf first called himself Chief Executive of Pakistan, later changing his designation to President.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In Pakistan under Musharraf, a 'Legal Framework Order' allowed the President to:",
+    "options": [
+      "Dismiss national and provincial assemblies",
+      "Abolish the army",
+      "Grant women the vote",
+      "Nationalise all banks"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter notes that a Legal Framework Order amended the Constitution so that the President could dismiss the national and provincial assemblies, showing that final power did not rest with elected representatives.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Pakistan example is used in the chapter to show that a country is not a democracy if:",
+    "options": [
+      "Final decision-making power rests with those not elected by the people",
+      "It holds a referendum",
+      "It has a written constitution",
+      "It has more than one province"
+    ],
+    "correct_index": 0,
+    "solution": "Though Pakistan had elections, real power lay with army officials and General Musharraf, not with elected representatives — so it did not meet the condition that final power rest with elected leaders.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In China, elections are regularly held for the parliament called the:",
+    "options": [
+      "National People's Congress",
+      "House of Commons",
+      "Politburo",
+      "Senate"
+    ],
+    "correct_index": 0,
+    "solution": "In China elections are held every five years for electing the country's parliament, called the National People's Congress (Quanguo Renmin Daibiao Dahui).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Elections in China are not considered democratic because before contesting, candidates need the approval of the:",
+    "options": [
+      "Chinese Communist Party",
+      "United Nations",
+      "Village councils",
+      "Army generals"
+    ],
+    "correct_index": 0,
+    "solution": "In China, before contesting elections a candidate needs the approval of the Chinese Communist Party; only those who are members of the CCP or its eight allied parties are allowed to contest.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "How often are elections to the National People's Congress held in China?",
+    "options": [
+      "Every five years",
+      "Every year",
+      "Every ten years",
+      "Every six years"
+    ],
+    "correct_index": 0,
+    "solution": "Elections in China are held every five years to elect the National People's Congress.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In Mexico, elections were held regularly but the same party won every election from 1930 to 2000; that party was the:",
+    "options": [
+      "Institutional Revolutionary Party (PRI)",
+      "Communist Party",
+      "National Action Party",
+      "Democratic Front"
+    ],
+    "correct_index": 0,
+    "solution": "Until 2000, every election in Mexico was won by a party called the PRI (Institutional Revolutionary Party); it used many dirty tricks to win.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mexico held presidential elections once every:",
+    "options": [
+      "Six years",
+      "Four years",
+      "Five years",
+      "Ten years"
+    ],
+    "correct_index": 0,
+    "solution": "Mexico held elections every six years to elect its President; the PRI won all of them until 2000.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following unfair practices was used by the PRI in Mexican elections?",
+    "options": [
+      "Government employees, including teachers, were forced to vote for the PRI",
+      "Only the PRI was legally allowed to exist",
+      "Foreigners cast most votes",
+      "Voting was made compulsory for children"
+    ],
+    "correct_index": 0,
+    "solution": "The PRI was known to use dirty tricks: sometimes the government employees like teachers were pressured to vote for it and polling booths were shifted at the last minute — the elections were not fair and free.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mexican example (PRI winning every election till 2000) illustrates that democracy requires elections that:",
+    "options": [
+      "Offer a real choice and a fair chance to defeat the ruling party",
+      "Are held only once",
+      "Are supervised by the ruling party",
+      "Use expensive machines"
+    ],
+    "correct_index": 0,
+    "solution": "Mexico had elections but they were neither free nor fair; genuine democracy requires that the election offer a real choice and a fair opportunity to change the rulers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the NCERT example, which African country's ruling ZANU-PF party held power continuously since independence in 1980?",
+    "options": [
+      "Zimbabwe",
+      "Nigeria",
+      "Kenya",
+      "Ghana"
+    ],
+    "correct_index": 0,
+    "solution": "Zimbabwe attained independence from white minority rule in 1980; since then the country has been ruled by ZANU-PF, the party that led the freedom struggle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The President of Zimbabwe in the chapter's example, who won every election through unfair means, was:",
+    "options": [
+      "Robert Mugabe",
+      "Nelson Mandela",
+      "Kofi Annan",
+      "Kenneth Kaunda"
+    ],
+    "correct_index": 0,
+    "solution": "Robert Mugabe, leader of ZANU-PF, was popular but also used unfair practices; over the years elections were manipulated to keep him in power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Zimbabwe attained independence from white minority rule in the year:",
+    "options": [
+      "1980",
+      "1947",
+      "1960",
+      "1994"
+    ],
+    "correct_index": 0,
+    "solution": "Zimbabwe attained independence from white minority rule in 1980 and has since been ruled by ZANU-PF.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Zimbabwe example shows that a country is not fully democratic when:",
+    "options": [
+      "The ruling party uses unfair means and harasses opponents to win elections",
+      "It has a written constitution",
+      "It holds regular elections",
+      "It has an independent judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "Though Zimbabwe held regular elections and had a constitution, the ruling party curbed the opposition, controlled the media, and manipulated elections — so it lacked genuine democracy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In Saudi Arabia (as described in the chapter), the ruler is:",
+    "options": [
+      "A king who is not elected and cannot be changed by the people",
+      "A president chosen every five years",
+      "A prime minister from parliament",
+      "An elected chief executive"
+    ],
+    "correct_index": 0,
+    "solution": "In Saudi Arabia the king is not elected by the people and cannot be changed by them; there is no democracy because the rulers are not chosen by the citizens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following was true of Saudi Arabia in the NCERT example?",
+    "options": [
+      "Women did not have the right to vote",
+      "Elections were held every year",
+      "There were many political parties",
+      "The king was elected by the people"
+    ],
+    "correct_index": 0,
+    "solution": "In Saudi Arabia women did not have the right to vote, citizens could not form political parties, and the king was not elected — so it was not a democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chapter uses the example of Estonia's citizenship rules to show a limitation of some democracies; the rule disadvantaged people from the:",
+    "options": [
+      "Russian-speaking minority",
+      "Chinese community",
+      "English-speaking group",
+      "Indigenous majority"
+    ],
+    "correct_index": 0,
+    "solution": "Estonia had a citizenship rule that a person must be able to speak the Estonian language; this made it difficult for the sizeable Russian minority to acquire citizenship and vote.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In the Fiji example, the electoral system gave a higher value to the vote of:",
+    "options": [
+      "An indigenous Fijian compared to an Indian-Fijian",
+      "An Indian-Fijian compared to an indigenous Fijian",
+      "Foreign residents",
+      "Government officials"
+    ],
+    "correct_index": 0,
+    "solution": "In Fiji, the electoral system was such that the vote of an indigenous Fijian had more value than that of an Indian-Fijian, violating the principle of 'one person, one vote, one value'.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The examples of Estonia and Fiji show that a challenge for democracies is to ensure:",
+    "options": [
+      "Political equality — one person, one vote, one value for all citizens",
+      "Only citizens who speak the majority language may vote",
+      "That elections are held frequently",
+      "That the ruling party always wins"
+    ],
+    "correct_index": 0,
+    "solution": "The cases of Estonia and Fiji illustrate that even democracies can violate political equality; a true democracy must give every adult one vote of equal value.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy is based on the idea that even a foolish or wrong decision, if taken democratically, is better because:",
+    "options": [
+      "People can discuss, learn from mistakes and correct the decision",
+      "The majority is always right",
+      "Decisions can never be changed",
+      "Rulers cannot be questioned"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy allows room to correct mistakes: since decisions are open to public discussion and rulers can be changed, errors can be recognised and corrected — an advantage no other form of government offers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The chapter argues that democracy is better than dictatorship at handling conflicts because it:",
+    "options": [
+      "Provides peaceful and open methods to resolve differences and evolve consensus",
+      "Suppresses all differences by force",
+      "Avoids all disputes",
+      "Bans political parties"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy provides a method to deal with differences and conflicts through negotiation, discussion and accommodation, evolving a peaceful resolution rather than crushing dissent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the correct sequence in the meaning of democracy: rule by (i) the people through (ii) elected representatives who are (iii) accountable to citizens?",
+    "options": [
+      "All three together define modern representative democracy",
+      "Only (i)",
+      "Only (ii)",
+      "Only (iii)"
+    ],
+    "correct_index": 0,
+    "solution": "Modern democracy combines rule by the people, exercised through freely elected representatives who remain accountable to and can be changed by the citizens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chapter distinguishes democracy from monarchy chiefly on the ground that in a democracy:",
+    "options": [
+      "Rulers are chosen by the people and can be removed by them",
+      "Rulers inherit power by birth",
+      "Power passes within one family",
+      "Rulers rule for life"
+    ],
+    "correct_index": 0,
+    "solution": "Unlike a monarchy, where power is inherited, in a democracy the people choose their rulers and have the power to change them through elections.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "An argument AGAINST democracy mentioned in the chapter is that:",
+    "options": [
+      "Leaders keep changing, which can lead to instability",
+      "Rulers can never be changed",
+      "There is no discussion",
+      "Citizens have no rights"
+    ],
+    "correct_index": 0,
+    "solution": "Critics argue that in a democracy leaders keep changing, which leads to instability, and that electoral competition and moral considerations may lead to corruption and delay.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chapter says democracy's outcomes may be criticised as slow because:",
+    "options": [
+      "Consultation and discussion take time before decisions are made",
+      "Elections are never held",
+      "There are no institutions",
+      "Rulers act instantly without consulting anyone"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is about deliberation and negotiation, so some delay is bound to take place; this is a criticism, but the delay is the price of arriving at decisions acceptable to all.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'One person, one vote, one value' was violated in which pair of examples given in the chapter?",
+    "options": [
+      "Fiji and Estonia",
+      "China and Mexico",
+      "Zimbabwe and Pakistan",
+      "Saudi Arabia and India"
+    ],
+    "correct_index": 0,
+    "solution": "The Fiji electoral system (unequal value of votes) and the Estonian citizenship rule (excluding Russian speakers) both violated the principle of one person, one vote, one value.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In the Pakistan example, elections were later held and assemblies formed, yet it was still not a democracy because:",
+    "options": [
+      "Elected representatives could be dismissed and real power lay with the army",
+      "No elections were ever held",
+      "The people had no army",
+      "Pakistan had no constitution"
+    ],
+    "correct_index": 0,
+    "solution": "Even after elections, the assemblies had little power; the President (from the army) could dismiss them, so final authority did not rest with the people's representatives.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of these features must ALL be present for a country to be called a democracy, according to the chapter?",
+    "options": [
+      "Rulers elected by people, fair choice, adult franchise, and rule within limits of law and rights",
+      "Only regular elections",
+      "Only a written constitution",
+      "Only a large population"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter lists four features: rulers are elected by the people, elections offer a genuine choice and fair chance, every adult has one vote of equal value, and the elected government rules within limits set by the constitution and citizens' rights.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The chapter concludes that democracy is a better form of government because it is more:",
+    "options": [
+      "Accountable, responsive, legitimate and able to correct its mistakes",
+      "Efficient at all times",
+      "Fast in every decision",
+      "Free from all corruption"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is better because it is more accountable and responsive, enhances the dignity of citizens, allows correction of mistakes, and is legitimate — even if it is sometimes slow or messy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): China holds regular elections but is not a democracy. Reason (R): Candidates in China need the approval of the Chinese Communist Party to contest.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "China holds elections every five years, but candidates must be approved by the Communist Party, so voters lack a genuine choice — which is why it is not a democracy; R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Mexico was not a genuine democracy before 2000. Reason (R): The PRI won every election using unfair means, so people had no real chance to change the rulers.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Mexico held elections but the PRI won each one through dirty tricks until 2000; without a fair chance to defeat the ruling party, elections were not democratic — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The core condition that distinguishes a democratic election is that it must:",
+    "options": [
+      "Give the ruling party a fair chance of losing",
+      "Guarantee the ruling party a win",
+      "Exclude opposition parties",
+      "Be decided by the army"
+    ],
+    "correct_index": 0,
+    "solution": "In a democracy the ruling party must face a real possibility of defeat; if the outcome is predetermined in favour of the rulers, the election is not democratic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match the country with its NCERT description: (i) China (ii) Saudi Arabia (iii) Mexico — (a) king not elected (b) PRI won till 2000 (c) one-party approval to contest:",
+    "options": [
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-c, (ii)-b, (iii)-a"
+    ],
+    "correct_index": 0,
+    "solution": "China required Communist Party approval to contest (c), Saudi Arabia's king was unelected (a), and Mexico's PRI won every election until 2000 (b).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The chapter's discussion of 'quality of decision-making' argues democracy is better because decisions are:",
+    "options": [
+      "Taken after consultation and discussion, reducing rash choices",
+      "Taken by one ruler alone",
+      "Never questioned",
+      "Made in secret"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy improves the quality of decision-making because it is based on consultation and discussion; a number of people put their heads together, reducing the chances of rash or irresponsible decisions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Democracy enhances the dignity of citizens because it is based on the principle of:",
+    "options": [
+      "Political equality — recognising every person as equal",
+      "Rule by the wealthy",
+      "Rule by the educated only",
+      "Hereditary authority"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is based on political equality; it recognises that the poorest and least educated has the same status as the rich and educated, thereby enhancing the dignity of the individual.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that democracy allows citizens to remove a government they do not like, without violence, is called:",
+    "options": [
+      "A peaceful and orderly transfer of power",
+      "A coup d'etat",
+      "A referendum",
+      "Direct rule"
+    ],
+    "correct_index": 0,
+    "solution": "A key merit of democracy is that rulers can be changed peacefully through regular elections, allowing an orderly transfer of power without bloodshed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "According to the chapter, the biggest reason to prefer democracy despite its flaws is that it:",
+    "options": [
+      "Allows people to correct its own mistakes",
+      "Never makes mistakes",
+      "Is always the fastest system",
+      "Requires no elections"
+    ],
+    "correct_index": 0,
+    "solution": "No form of government is perfect, but democracy alone provides a way to correct its own mistakes, since there is space for public debate and the rulers can be changed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'referendum' held by Musharraf in 2002 is cited to show that:",
+    "options": [
+      "Even a vote can be manipulated to legitimise undemocratic rule",
+      "Referendums are always democratic",
+      "Pakistan became a democracy",
+      "The army gave up power"
+    ],
+    "correct_index": 0,
+    "solution": "Holding a referendum or election does not by itself make a country democratic; power in Pakistan continued to rest with the army, not the people's representatives.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The chapter argues democracy accommodates social diversity by:",
+    "options": [
+      "Providing a way to work out conflicts among different groups",
+      "Forcing everyone to think alike",
+      "Banning minority groups",
+      "Ignoring differences"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is best suited to produce this outcome: nations with a great deal of internal social division and conflict use democratic methods to accommodate these differences peacefully.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The demand that rulers rule within limits, respecting rights and the constitution, is captured by the idea that democracy is:",
+    "options": [
+      "A rule-based, accountable government",
+      "An unlimited rule of the majority",
+      "A government above the law",
+      "Rule by a single leader"
+    ],
+    "correct_index": 0,
+    "solution": "In a democracy, the elected rulers must rule within limits set by the constitution and the rights of citizens; majority rule does not mean the majority can do whatever it likes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following countries in the chapter had NO political parties and did not allow citizens to form them?",
+    "options": [
+      "Saudi Arabia",
+      "Mexico",
+      "Zimbabwe",
+      "China"
+    ],
+    "correct_index": 0,
+    "solution": "In Saudi Arabia citizens could not form political parties and the king was not elected — key reasons it was not a democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The definition of democracy as government 'of the people, by the people, for the people' is credited to:",
+    "options": [
+      "Abraham Lincoln",
+      "Aristotle",
+      "Jawaharlal Nehru",
+      "Winston Churchill"
+    ],
+    "correct_index": 0,
+    "solution": "The most common and popular definition of democracy, given by Abraham Lincoln, is 'government of the people, by the people, and for the people'.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Democracy differs from a dictatorship most fundamentally because in a dictatorship:",
+    "options": [
+      "Rulers are not chosen by the people and cannot be removed by them",
+      "Regular fair elections are held",
+      "Citizens' rights are fully protected",
+      "Power is limited by a constitution"
+    ],
+    "correct_index": 0,
+    "solution": "In a dictatorship the rulers are not elected by and answerable to the people; democracy, by contrast, gives people the power to choose and change their rulers.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The chapter's overall argument about democracy's outcomes is that democracy is a better form of government because it:",
+    "options": [
+      "Promotes equality, enhances dignity, improves decisions and allows correction of mistakes",
+      "Guarantees rapid economic growth",
+      "Ends all conflicts",
+      "Removes the need for a constitution"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter argues democracy is better because it is more accountable, promotes political equality and dignity, produces better decisions through discussion, accommodates diversity, and provides a way to correct mistakes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of 'What is Democracy? Why Democracy?' is that:",
+    "options": [
+      "Democracy, though imperfect, is the most accountable and preferred form of government",
+      "Dictatorship is best",
+      "Elections are unnecessary",
+      "Democracy has no value"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains the meaning and features of democracy and argues that, despite its imperfections, it is the most accountable and preferred form of government.",
+    "difficulty": "easy"
+  }
 ]
