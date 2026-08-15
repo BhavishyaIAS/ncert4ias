@@ -1,52 +1,1094 @@
 [
-  { "stem": "Manufacturing refers to the production of goods in large quantities from:", "options": ["Raw materials", "Nothing", "Only services", "Only minerals in the ground"], "correct_index": 0, "solution": "Manufacturing is the production of goods in large quantities from raw materials, a secondary economic activity.", "difficulty": "easy" },
-  { "stem": "Manufacturing belongs to which sector of the economy?", "options": ["Secondary sector", "Primary sector", "Tertiary sector", "Quaternary sector"], "correct_index": 0, "solution": "Manufacturing is a secondary economic activity, transforming raw materials into finished goods.", "difficulty": "medium" },
-  { "stem": "Industries that use agricultural products as raw materials are called:", "options": ["Agro-based industries", "Mineral-based industries", "Marine-based industries", "Forest-based industries"], "correct_index": 0, "solution": "Agro-based industries (e.g. cotton textiles, sugar) use agricultural products as raw materials.", "difficulty": "medium" },
-  { "stem": "Which of the following is a mineral-based industry?", "options": ["Iron and steel industry", "Cotton textile industry", "Sugar industry", "Paper industry"], "correct_index": 0, "solution": "The iron and steel industry uses minerals (iron ore, coal) as raw materials, making it a mineral-based industry.", "difficulty": "medium" },
-  { "stem": "The industry regarded as a 'basic' or 'key' industry because its products are used by many other industries is the:", "options": ["Iron and steel industry", "Sugar industry", "Toy industry", "Paper industry"], "correct_index": 0, "solution": "The iron and steel industry is a basic (key) industry, as its output (steel) is a raw material for machinery, transport and construction.", "difficulty": "medium" },
-  { "stem": "The first successful cotton textile mill in India was established in 1854 in:", "options": ["Mumbai (Bombay)", "Ahmedabad", "Kanpur", "Kolkata"], "correct_index": 0, "solution": "India's first cotton textile mill was set up in Mumbai in 1854.", "difficulty": "hard" },
-  { "stem": "Ahmedabad, a major cotton textile centre, is nicknamed the:", "options": ["Manchester of India", "Detroit of India", "Silicon Valley of India", "Ruhr of India"], "correct_index": 0, "solution": "Ahmedabad is called the 'Manchester of India' because of its cotton textile industry.", "difficulty": "medium" },
-  { "stem": "The jute industry in India is concentrated mainly along the:", "options": ["Hooghly river in West Bengal", "Yamuna in Delhi", "Godavari in Andhra", "Narmada in Gujarat"], "correct_index": 0, "solution": "The jute industry is concentrated along the Hooghly river in West Bengal, close to the jute-growing areas.", "difficulty": "hard" },
-  { "stem": "The Tata Iron and Steel Company (TISCO) was set up in 1907 at:", "options": ["Jamshedpur", "Bhilai", "Rourkela", "Durgapur"], "correct_index": 0, "solution": "TISCO was established at Jamshedpur in 1907, the first major integrated steel plant in India.", "difficulty": "hard" },
-  { "stem": "Most of India's iron and steel plants are located in and around the mineral-rich:", "options": ["Chota Nagpur plateau", "Thar Desert", "Western Ghats", "Ganga delta"], "correct_index": 0, "solution": "Most iron and steel plants (Jamshedpur, Bokaro, Rourkela, Durgapur, Bhilai) lie in or near the mineral-rich Chota Nagpur plateau region.", "difficulty": "hard" },
-  { "stem": "The public sector steel plants of India are managed by:", "options": ["SAIL (Steel Authority of India Limited)", "TISCO only", "NTPC", "ONGC"], "correct_index": 0, "solution": "The public sector integrated steel plants are managed by the Steel Authority of India Limited (SAIL).", "difficulty": "hard" },
-  { "stem": "The aluminium smelting industry uses which raw material?", "options": ["Bauxite", "Iron ore", "Coal", "Limestone"], "correct_index": 0, "solution": "The aluminium smelting industry uses bauxite as its raw material to produce aluminium.", "difficulty": "medium" },
-  { "stem": "Chennai is sometimes called the '__________ of India' for its automobile industry.", "options": ["Detroit", "Manchester", "Silicon Valley", "Ruhr"], "correct_index": 0, "solution": "Chennai is called the 'Detroit of India' because of its large automobile manufacturing industry.", "difficulty": "hard" },
-  { "stem": "The information technology (IT) and software hub of India is:", "options": ["Bengaluru", "Kanpur", "Patna", "Jaipur"], "correct_index": 0, "solution": "Bengaluru is the leading IT and software hub of India, often called the 'Silicon Valley of India'.", "difficulty": "medium" },
-  { "stem": "Industries are classified on the basis of ownership into public, private, joint and:", "options": ["Cooperative sector", "Foreign sector", "Rural sector", "Agricultural sector"], "correct_index": 0, "solution": "By ownership, industries are classified as public sector, private sector, joint sector and cooperative sector.", "difficulty": "medium" },
-  { "stem": "The location of an industry is influenced by factors such as:", "options": ["Raw materials, power, labour, capital, market and transport", "The number of festivals", "The local dialect", "The colour of soil only"], "correct_index": 0, "solution": "Industrial location depends on the availability of raw materials, power, labour, capital, transport and access to markets.", "difficulty": "medium" },
-  { "stem": "The concentration of industries in a particular area forms an:", "options": ["Industrial region", "Agricultural belt", "Wildlife sanctuary", "Coral reef"], "correct_index": 0, "solution": "Where many industries cluster together, an industrial region is formed (e.g. Mumbai-Pune, Chota Nagpur).", "difficulty": "medium" },
-  { "stem": "The manufacturing sector is important for the economy because it:", "options": ["Adds value to raw materials, creates jobs and boosts development", "Only causes pollution", "Has no economic role", "Reduces employment"], "correct_index": 0, "solution": "Manufacturing adds value to raw materials, generates employment, and drives economic development and modernisation.", "difficulty": "medium" },
-  { "stem": "The cotton textile industry is an example of which type of industry (by raw material)?", "options": ["Agro-based", "Mineral-based", "Marine-based", "Forest-based"], "correct_index": 0, "solution": "The cotton textile industry uses cotton (an agricultural product), so it is an agro-based industry.", "difficulty": "medium" },
-  { "stem": "A major cause of industrial pollution is:", "options": ["Discharge of untreated waste and emissions into air and water", "Tree planting", "Recycling", "Waste treatment"], "correct_index": 0, "solution": "Industries cause air, water, thermal and noise pollution by discharging untreated waste and emissions into the environment.", "difficulty": "medium" },
-  { "stem": "Industrial water pollution is caused by:", "options": ["Dumping untreated industrial effluents into rivers", "Treating effluents", "Recycling water", "Planting trees"], "correct_index": 0, "solution": "Water pollution results from dumping untreated industrial effluents (organic and inorganic wastes) into rivers and water bodies.", "difficulty": "medium" },
-  { "stem": "Thermal pollution of water occurs when:", "options": ["Hot water from factories/plants is released into rivers", "Cold water is added", "Water is recycled", "Trees are planted"], "correct_index": 0, "solution": "Thermal pollution occurs when hot water discharged from factories and power plants raises the temperature of rivers, harming aquatic life.", "difficulty": "hard" },
-  { "stem": "Industrial pollution can be controlled by:", "options": ["Treating effluents, using cleaner technology and recycling water", "Dumping all waste in rivers", "Increasing emissions", "Ignoring waste"], "correct_index": 0, "solution": "Industrial pollution is controlled by treating effluents, adopting cleaner technology, recycling water and minimising waste.", "difficulty": "medium" },
-  { "stem": "The National Thermal Power Corporation (NTPC) has taken steps to:", "options": ["Reduce pollution and use resources efficiently", "Increase pollution", "Waste resources", "Avoid all environmental care"], "correct_index": 0, "solution": "NTPC has adopted measures to reduce pollution and conserve resources (water, ash use) in its power plants.", "difficulty": "hard" },
-  { "stem": "Which of the following is an example of a heavy industry?", "options": ["Iron and steel industry", "Toy-making", "Handloom weaving", "Pottery"], "correct_index": 0, "solution": "The iron and steel industry, using bulky raw materials and heavy machinery, is a heavy industry.", "difficulty": "medium" },
-  { "stem": "The sugar industry is an agro-based industry located mainly in:", "options": ["Uttar Pradesh and Maharashtra", "Rajasthan and Punjab", "Kerala and Goa", "Assam and Meghalaya"], "correct_index": 0, "solution": "The sugar industry, based on sugarcane, is concentrated mainly in Uttar Pradesh and Maharashtra.", "difficulty": "hard" },
-  { "stem": "Industries classified by their capital investment are:", "options": ["Small-scale and large-scale industries", "Hot and cold industries", "Fast and slow industries", "Old and new industries"], "correct_index": 0, "solution": "By capital investment, industries are classified as small-scale and large-scale.", "difficulty": "medium" },
-  { "stem": "The output of one industry can be the input of another, showing that industries are:", "options": ["Interdependent", "Isolated", "Unrelated", "Independent"], "correct_index": 0, "solution": "Industries are interdependent — for example, steel from the steel industry is an input for the automobile and machine industries.", "difficulty": "medium" },
-  { "stem": "The jute industry in India faces competition from:", "options": ["Bangladesh and synthetic substitutes", "The USA only", "China's IT sector", "European coal"], "correct_index": 0, "solution": "The Indian jute industry faces competition from Bangladesh and from cheaper synthetic (plastic) substitutes.", "difficulty": "hard" },
-  { "stem": "The manufacturing sector contributes to the economy by:", "options": ["Increasing the share of secondary activities and reducing dependence on agriculture", "Only harming farmers", "Ending agriculture", "Reducing GDP"], "correct_index": 0, "solution": "A strong manufacturing sector raises the share of secondary activities, reduces over-dependence on agriculture and boosts GDP and employment.", "difficulty": "medium" },
-  { "stem": "The location of the iron and steel industry near coalfields and iron-ore areas is because:", "options": ["The raw materials are heavy and bulky, so transport costs are cut", "The raw materials are light", "There is no need for raw materials", "It avoids all costs"], "correct_index": 0, "solution": "Since iron ore and coal are heavy and lose weight in processing, steel plants are located near the raw materials to reduce transport costs.", "difficulty": "hard" },
-  { "stem": "The 'Golden Fibre' industry refers to which manufacturing industry?", "options": ["Jute", "Cotton", "Silk", "Wool"], "correct_index": 0, "solution": "The jute industry, based on the 'golden fibre' jute, is concentrated in West Bengal along the Hooghly.", "difficulty": "medium" },
-  { "stem": "The main advantage of industries located near markets is:", "options": ["Lower transport costs and quicker access to consumers", "Higher costs", "No consumers", "Distance from buyers"], "correct_index": 0, "solution": "Industries located near markets have lower transport costs for finished goods and quicker access to consumers.", "difficulty": "medium" },
-  { "stem": "The main raw material of the cement industry is:", "options": ["Limestone", "Iron ore", "Cotton", "Bauxite"], "correct_index": 0, "solution": "Limestone is the chief raw material for the cement industry.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs (industry — type) is correctly matched?", "options": ["Cotton textiles — agro-based", "Iron and steel — agro-based", "Sugar — mineral-based", "Cement — marine-based"], "correct_index": 0, "solution": "Cotton textiles are agro-based. Iron & steel and cement are mineral-based, and sugar is agro-based.", "difficulty": "medium" },
-  { "stem": "The manufacturing sector is often called the 'backbone of development' because it:", "options": ["Modernises agriculture, provides jobs and reduces poverty and imports", "Harms the economy", "Has no role", "Increases imports only"], "correct_index": 0, "solution": "Manufacturing is called the backbone of development as it modernises agriculture, generates employment, reduces poverty and cuts dependence on imports.", "difficulty": "medium" },
-  { "stem": "Industrial pollution damages the environment through:", "options": ["Air, water, land, thermal and noise pollution", "Only air pollution", "No pollution", "Cleaner surroundings"], "correct_index": 0, "solution": "Industries cause air, water, land, thermal and noise pollution, damaging the environment and human health.", "difficulty": "medium" },
-  { "stem": "The information technology industry mainly requires:", "options": ["Skilled human resources and connectivity", "Heavy raw materials", "Large coal deposits", "Fertile farmland"], "correct_index": 0, "solution": "The IT industry depends chiefly on skilled human resources, knowledge and connectivity rather than bulky raw materials.", "difficulty": "medium" },
-  { "stem": "The measures to reduce water pollution from industries include:", "options": ["Treating hot and toxic effluents before discharge and recycling water", "Dumping waste directly into rivers", "Ignoring effluents", "Increasing discharge"], "correct_index": 0, "solution": "Water pollution can be reduced by treating effluents (cooling hot water, neutralising toxins) before discharge and by recycling water in stages.", "difficulty": "medium" },
-  { "stem": "The public sector industries are owned and operated by:", "options": ["The government", "Private individuals only", "Foreign firms only", "Cooperatives only"], "correct_index": 0, "solution": "Public sector industries are owned and operated by the government (e.g. SAIL, BHEL).", "difficulty": "medium" },
-  { "stem": "A joint sector industry is owned by:", "options": ["The government and private individuals/companies together", "Only the government", "Only private firms", "Only cooperatives"], "correct_index": 0, "solution": "A joint sector industry is owned and run jointly by the state and private individuals or companies.", "difficulty": "medium" },
-  { "stem": "The growth of industries in India has been aided by:", "options": ["Availability of raw materials, capital, labour and government policy", "The absence of resources", "No policy", "A ban on industry"], "correct_index": 0, "solution": "Industrial growth in India has been aided by raw materials, capital, labour, markets and supportive government policy.", "difficulty": "medium" },
-  { "stem": "The over-concentration of industries in some regions can lead to:", "options": ["Regional imbalance and pollution", "Balanced development", "No problems", "Cleaner regions"], "correct_index": 0, "solution": "The over-concentration of industries in a few regions can cause regional imbalances and heavy local pollution.", "difficulty": "medium" },
-  { "stem": "Sustainable industrialisation requires:", "options": ["Balancing industrial growth with environmental protection", "Ignoring the environment", "Maximising pollution", "Ending all industry"], "correct_index": 0, "solution": "Sustainable industrialisation balances industrial growth with the protection of the environment and the wise use of resources.", "difficulty": "medium" },
-  { "stem": "Cotton textile mills grew in Mumbai and Ahmedabad because of:", "options": ["Raw cotton, humid climate, ports, capital and labour", "Cold, dry climate", "No ports", "The absence of cotton"], "correct_index": 0, "solution": "Mumbai and Ahmedabad had raw cotton nearby, a humid climate (good for spinning), ports, capital and labour, favouring the cotton textile industry.", "difficulty": "hard" },
-  { "stem": "The iron and steel industry is central to development because its product (steel) is used in:", "options": ["Machinery, transport, construction and defence", "Only jewellery", "Only cloth", "Only food"], "correct_index": 0, "solution": "Steel is used in machinery, transport, construction, defence and countless products, making the iron and steel industry central to development.", "difficulty": "medium" },
-  { "stem": "The classification of industries into small-scale and large-scale is based on:", "options": ["Capital investment and number of workers", "The colour of products", "Distance from the sea", "The language of workers"], "correct_index": 0, "solution": "This classification is based on the amount of capital invested and the number of workers employed.", "difficulty": "medium" },
-  { "stem": "Which of the following steps helps control air pollution from industries?", "options": ["Using smokestacks with filters and cleaner fuels", "Increasing emissions", "Burning more coal openly", "Ignoring smoke"], "correct_index": 0, "solution": "Air pollution can be controlled by fitting smokestacks with filters/scrubbers, using cleaner fuels and adopting better technology.", "difficulty": "medium" },
-  { "stem": "The National Manufacturing Policy aims to increase the share of manufacturing in India's:", "options": ["GDP and employment", "Rainfall", "Population", "Land area"], "correct_index": 0, "solution": "The National Manufacturing Policy aims to raise the share of manufacturing in India's GDP and to create more employment.", "difficulty": "hard" },
-  { "stem": "The overall theme of 'Manufacturing Industries' is that:", "options": ["Manufacturing drives development but must be managed to control pollution", "Manufacturing has no importance", "Industries never pollute", "Industry harms only the rich"], "correct_index": 0, "solution": "The chapter explains the types, location and importance of manufacturing industries and the need to control the pollution they cause.", "difficulty": "easy" }
+  {
+    "stem": "Manufacturing refers to the production of goods in large quantities from:",
+    "options": [
+      "Raw materials",
+      "Nothing",
+      "Only services",
+      "Only minerals in the ground"
+    ],
+    "correct_index": 0,
+    "solution": "Manufacturing is the production of goods in large quantities from raw materials, a secondary economic activity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Manufacturing belongs to which sector of the economy?",
+    "options": [
+      "Secondary sector",
+      "Primary sector",
+      "Tertiary sector",
+      "Quaternary sector"
+    ],
+    "correct_index": 0,
+    "solution": "Manufacturing is a secondary economic activity, transforming raw materials into finished goods.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Industries that use agricultural products as raw materials are called:",
+    "options": [
+      "Agro-based industries",
+      "Mineral-based industries",
+      "Marine-based industries",
+      "Forest-based industries"
+    ],
+    "correct_index": 0,
+    "solution": "Agro-based industries (e.g. cotton textiles, sugar) use agricultural products as raw materials.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a mineral-based industry?",
+    "options": [
+      "Iron and steel industry",
+      "Cotton textile industry",
+      "Sugar industry",
+      "Paper industry"
+    ],
+    "correct_index": 0,
+    "solution": "The iron and steel industry uses minerals (iron ore, coal) as raw materials, making it a mineral-based industry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The industry regarded as a 'basic' or 'key' industry because its products are used by many other industries is the:",
+    "options": [
+      "Iron and steel industry",
+      "Sugar industry",
+      "Toy industry",
+      "Paper industry"
+    ],
+    "correct_index": 0,
+    "solution": "The iron and steel industry is a basic (key) industry, as its output (steel) is a raw material for machinery, transport and construction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first successful cotton textile mill in India was established in 1854 in:",
+    "options": [
+      "Mumbai (Bombay)",
+      "Ahmedabad",
+      "Kanpur",
+      "Kolkata"
+    ],
+    "correct_index": 0,
+    "solution": "India's first cotton textile mill was set up in Mumbai in 1854.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Ahmedabad, a major cotton textile centre, is nicknamed the:",
+    "options": [
+      "Manchester of India",
+      "Detroit of India",
+      "Silicon Valley of India",
+      "Ruhr of India"
+    ],
+    "correct_index": 0,
+    "solution": "Ahmedabad is called the 'Manchester of India' because of its cotton textile industry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The jute industry in India is concentrated mainly along the:",
+    "options": [
+      "Hooghly river in West Bengal",
+      "Yamuna in Delhi",
+      "Godavari in Andhra",
+      "Narmada in Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "The jute industry is concentrated along the Hooghly river in West Bengal, close to the jute-growing areas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Tata Iron and Steel Company (TISCO) was set up in 1907 at:",
+    "options": [
+      "Jamshedpur",
+      "Bhilai",
+      "Rourkela",
+      "Durgapur"
+    ],
+    "correct_index": 0,
+    "solution": "TISCO was established at Jamshedpur in 1907, the first major integrated steel plant in India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Most of India's iron and steel plants are located in and around the mineral-rich:",
+    "options": [
+      "Chota Nagpur plateau",
+      "Thar Desert",
+      "Western Ghats",
+      "Ganga delta"
+    ],
+    "correct_index": 0,
+    "solution": "Most iron and steel plants (Jamshedpur, Bokaro, Rourkela, Durgapur, Bhilai) lie in or near the mineral-rich Chota Nagpur plateau region.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The public sector steel plants of India are managed by:",
+    "options": [
+      "SAIL (Steel Authority of India Limited)",
+      "TISCO only",
+      "NTPC",
+      "ONGC"
+    ],
+    "correct_index": 0,
+    "solution": "The public sector integrated steel plants are managed by the Steel Authority of India Limited (SAIL).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The aluminium smelting industry uses which raw material?",
+    "options": [
+      "Bauxite",
+      "Iron ore",
+      "Coal",
+      "Limestone"
+    ],
+    "correct_index": 0,
+    "solution": "The aluminium smelting industry uses bauxite as its raw material to produce aluminium.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Chennai is sometimes called the '__________ of India' for its automobile industry.",
+    "options": [
+      "Detroit",
+      "Manchester",
+      "Silicon Valley",
+      "Ruhr"
+    ],
+    "correct_index": 0,
+    "solution": "Chennai is called the 'Detroit of India' because of its large automobile manufacturing industry.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The information technology (IT) and software hub of India is:",
+    "options": [
+      "Bengaluru",
+      "Kanpur",
+      "Patna",
+      "Jaipur"
+    ],
+    "correct_index": 0,
+    "solution": "Bengaluru is the leading IT and software hub of India, often called the 'Silicon Valley of India'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Industries are classified on the basis of ownership into public, private, joint and:",
+    "options": [
+      "Cooperative sector",
+      "Foreign sector",
+      "Rural sector",
+      "Agricultural sector"
+    ],
+    "correct_index": 0,
+    "solution": "By ownership, industries are classified as public sector, private sector, joint sector and cooperative sector.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The location of an industry is influenced by factors such as:",
+    "options": [
+      "Raw materials, power, labour, capital, market and transport",
+      "The number of festivals",
+      "The local dialect",
+      "The colour of soil only"
+    ],
+    "correct_index": 0,
+    "solution": "Industrial location depends on the availability of raw materials, power, labour, capital, transport and access to markets.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concentration of industries in a particular area forms an:",
+    "options": [
+      "Industrial region",
+      "Agricultural belt",
+      "Wildlife sanctuary",
+      "Coral reef"
+    ],
+    "correct_index": 0,
+    "solution": "Where many industries cluster together, an industrial region is formed (e.g. Mumbai-Pune, Chota Nagpur).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The manufacturing sector is important for the economy because it:",
+    "options": [
+      "Adds value to raw materials, creates jobs and boosts development",
+      "Only causes pollution",
+      "Has no economic role",
+      "Reduces employment"
+    ],
+    "correct_index": 0,
+    "solution": "Manufacturing adds value to raw materials, generates employment, and drives economic development and modernisation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The cotton textile industry is an example of which type of industry (by raw material)?",
+    "options": [
+      "Agro-based",
+      "Mineral-based",
+      "Marine-based",
+      "Forest-based"
+    ],
+    "correct_index": 0,
+    "solution": "The cotton textile industry uses cotton (an agricultural product), so it is an agro-based industry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A major cause of industrial pollution is:",
+    "options": [
+      "Discharge of untreated waste and emissions into air and water",
+      "Tree planting",
+      "Recycling",
+      "Waste treatment"
+    ],
+    "correct_index": 0,
+    "solution": "Industries cause air, water, thermal and noise pollution by discharging untreated waste and emissions into the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Industrial water pollution is caused by:",
+    "options": [
+      "Dumping untreated industrial effluents into rivers",
+      "Treating effluents",
+      "Recycling water",
+      "Planting trees"
+    ],
+    "correct_index": 0,
+    "solution": "Water pollution results from dumping untreated industrial effluents (organic and inorganic wastes) into rivers and water bodies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Thermal pollution of water occurs when:",
+    "options": [
+      "Hot water from factories/plants is released into rivers",
+      "Cold water is added",
+      "Water is recycled",
+      "Trees are planted"
+    ],
+    "correct_index": 0,
+    "solution": "Thermal pollution occurs when hot water discharged from factories and power plants raises the temperature of rivers, harming aquatic life.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Industrial pollution can be controlled by:",
+    "options": [
+      "Treating effluents, using cleaner technology and recycling water",
+      "Dumping all waste in rivers",
+      "Increasing emissions",
+      "Ignoring waste"
+    ],
+    "correct_index": 0,
+    "solution": "Industrial pollution is controlled by treating effluents, adopting cleaner technology, recycling water and minimising waste.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The National Thermal Power Corporation (NTPC) has taken steps to:",
+    "options": [
+      "Reduce pollution and use resources efficiently",
+      "Increase pollution",
+      "Waste resources",
+      "Avoid all environmental care"
+    ],
+    "correct_index": 0,
+    "solution": "NTPC has adopted measures to reduce pollution and conserve resources (water, ash use) in its power plants.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is an example of a heavy industry?",
+    "options": [
+      "Iron and steel industry",
+      "Toy-making",
+      "Handloom weaving",
+      "Pottery"
+    ],
+    "correct_index": 0,
+    "solution": "The iron and steel industry, using bulky raw materials and heavy machinery, is a heavy industry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sugar industry is an agro-based industry located mainly in:",
+    "options": [
+      "Uttar Pradesh and Maharashtra",
+      "Rajasthan and Punjab",
+      "Kerala and Goa",
+      "Assam and Meghalaya"
+    ],
+    "correct_index": 0,
+    "solution": "The sugar industry, based on sugarcane, is concentrated mainly in Uttar Pradesh and Maharashtra.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Industries classified by their capital investment are:",
+    "options": [
+      "Small-scale and large-scale industries",
+      "Hot and cold industries",
+      "Fast and slow industries",
+      "Old and new industries"
+    ],
+    "correct_index": 0,
+    "solution": "By capital investment, industries are classified as small-scale and large-scale.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The output of one industry can be the input of another, showing that industries are:",
+    "options": [
+      "Interdependent",
+      "Isolated",
+      "Unrelated",
+      "Independent"
+    ],
+    "correct_index": 0,
+    "solution": "Industries are interdependent — for example, steel from the steel industry is an input for the automobile and machine industries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The jute industry in India faces competition from:",
+    "options": [
+      "Bangladesh and synthetic substitutes",
+      "The USA only",
+      "China's IT sector",
+      "European coal"
+    ],
+    "correct_index": 0,
+    "solution": "The Indian jute industry faces competition from Bangladesh and from cheaper synthetic (plastic) substitutes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The manufacturing sector contributes to the economy by:",
+    "options": [
+      "Increasing the share of secondary activities and reducing dependence on agriculture",
+      "Only harming farmers",
+      "Ending agriculture",
+      "Reducing GDP"
+    ],
+    "correct_index": 0,
+    "solution": "A strong manufacturing sector raises the share of secondary activities, reduces over-dependence on agriculture and boosts GDP and employment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The location of the iron and steel industry near coalfields and iron-ore areas is because:",
+    "options": [
+      "The raw materials are heavy and bulky, so transport costs are cut",
+      "The raw materials are light",
+      "There is no need for raw materials",
+      "It avoids all costs"
+    ],
+    "correct_index": 0,
+    "solution": "Since iron ore and coal are heavy and lose weight in processing, steel plants are located near the raw materials to reduce transport costs.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Golden Fibre' industry refers to which manufacturing industry?",
+    "options": [
+      "Jute",
+      "Cotton",
+      "Silk",
+      "Wool"
+    ],
+    "correct_index": 0,
+    "solution": "The jute industry, based on the 'golden fibre' jute, is concentrated in West Bengal along the Hooghly.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main advantage of industries located near markets is:",
+    "options": [
+      "Lower transport costs and quicker access to consumers",
+      "Higher costs",
+      "No consumers",
+      "Distance from buyers"
+    ],
+    "correct_index": 0,
+    "solution": "Industries located near markets have lower transport costs for finished goods and quicker access to consumers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main raw material of the cement industry is:",
+    "options": [
+      "Limestone",
+      "Iron ore",
+      "Cotton",
+      "Bauxite"
+    ],
+    "correct_index": 0,
+    "solution": "Limestone is the chief raw material for the cement industry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs (industry — type) is correctly matched?",
+    "options": [
+      "Cotton textiles — agro-based",
+      "Iron and steel — agro-based",
+      "Sugar — mineral-based",
+      "Cement — marine-based"
+    ],
+    "correct_index": 0,
+    "solution": "Cotton textiles are agro-based. Iron & steel and cement are mineral-based, and sugar is agro-based.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The manufacturing sector is often called the 'backbone of development' because it:",
+    "options": [
+      "Modernises agriculture, provides jobs and reduces poverty and imports",
+      "Harms the economy",
+      "Has no role",
+      "Increases imports only"
+    ],
+    "correct_index": 0,
+    "solution": "Manufacturing is called the backbone of development as it modernises agriculture, generates employment, reduces poverty and cuts dependence on imports.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Industrial pollution damages the environment through:",
+    "options": [
+      "Air, water, land, thermal and noise pollution",
+      "Only air pollution",
+      "No pollution",
+      "Cleaner surroundings"
+    ],
+    "correct_index": 0,
+    "solution": "Industries cause air, water, land, thermal and noise pollution, damaging the environment and human health.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The information technology industry mainly requires:",
+    "options": [
+      "Skilled human resources and connectivity",
+      "Heavy raw materials",
+      "Large coal deposits",
+      "Fertile farmland"
+    ],
+    "correct_index": 0,
+    "solution": "The IT industry depends chiefly on skilled human resources, knowledge and connectivity rather than bulky raw materials.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The measures to reduce water pollution from industries include:",
+    "options": [
+      "Treating hot and toxic effluents before discharge and recycling water",
+      "Dumping waste directly into rivers",
+      "Ignoring effluents",
+      "Increasing discharge"
+    ],
+    "correct_index": 0,
+    "solution": "Water pollution can be reduced by treating effluents (cooling hot water, neutralising toxins) before discharge and by recycling water in stages.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The public sector industries are owned and operated by:",
+    "options": [
+      "The government",
+      "Private individuals only",
+      "Foreign firms only",
+      "Cooperatives only"
+    ],
+    "correct_index": 0,
+    "solution": "Public sector industries are owned and operated by the government (e.g. SAIL, BHEL).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A joint sector industry is owned by:",
+    "options": [
+      "The government and private individuals/companies together",
+      "Only the government",
+      "Only private firms",
+      "Only cooperatives"
+    ],
+    "correct_index": 0,
+    "solution": "A joint sector industry is owned and run jointly by the state and private individuals or companies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The growth of industries in India has been aided by:",
+    "options": [
+      "Availability of raw materials, capital, labour and government policy",
+      "The absence of resources",
+      "No policy",
+      "A ban on industry"
+    ],
+    "correct_index": 0,
+    "solution": "Industrial growth in India has been aided by raw materials, capital, labour, markets and supportive government policy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The over-concentration of industries in some regions can lead to:",
+    "options": [
+      "Regional imbalance and pollution",
+      "Balanced development",
+      "No problems",
+      "Cleaner regions"
+    ],
+    "correct_index": 0,
+    "solution": "The over-concentration of industries in a few regions can cause regional imbalances and heavy local pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sustainable industrialisation requires:",
+    "options": [
+      "Balancing industrial growth with environmental protection",
+      "Ignoring the environment",
+      "Maximising pollution",
+      "Ending all industry"
+    ],
+    "correct_index": 0,
+    "solution": "Sustainable industrialisation balances industrial growth with the protection of the environment and the wise use of resources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Cotton textile mills grew in Mumbai and Ahmedabad because of:",
+    "options": [
+      "Raw cotton, humid climate, ports, capital and labour",
+      "Cold, dry climate",
+      "No ports",
+      "The absence of cotton"
+    ],
+    "correct_index": 0,
+    "solution": "Mumbai and Ahmedabad had raw cotton nearby, a humid climate (good for spinning), ports, capital and labour, favouring the cotton textile industry.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The iron and steel industry is central to development because its product (steel) is used in:",
+    "options": [
+      "Machinery, transport, construction and defence",
+      "Only jewellery",
+      "Only cloth",
+      "Only food"
+    ],
+    "correct_index": 0,
+    "solution": "Steel is used in machinery, transport, construction, defence and countless products, making the iron and steel industry central to development.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The classification of industries into small-scale and large-scale is based on:",
+    "options": [
+      "Capital investment and number of workers",
+      "The colour of products",
+      "Distance from the sea",
+      "The language of workers"
+    ],
+    "correct_index": 0,
+    "solution": "This classification is based on the amount of capital invested and the number of workers employed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following steps helps control air pollution from industries?",
+    "options": [
+      "Using smokestacks with filters and cleaner fuels",
+      "Increasing emissions",
+      "Burning more coal openly",
+      "Ignoring smoke"
+    ],
+    "correct_index": 0,
+    "solution": "Air pollution can be controlled by fitting smokestacks with filters/scrubbers, using cleaner fuels and adopting better technology.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The National Manufacturing Policy aims to increase the share of manufacturing in India's:",
+    "options": [
+      "GDP and employment",
+      "Rainfall",
+      "Population",
+      "Land area"
+    ],
+    "correct_index": 0,
+    "solution": "The National Manufacturing Policy aims to raise the share of manufacturing in India's GDP and to create more employment.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Ahmedabad, a major cotton textile centre, is often nicknamed the:",
+    "options": [
+      "'Manchester of India'",
+      "'Detroit of India'",
+      "'Silicon Valley of India'",
+      "'Sheffield of India'"
+    ],
+    "correct_index": 0,
+    "solution": "Ahmedabad is called the 'Manchester of India' because of its large number of cotton textile mills, resembling the textile city of Manchester in England.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The jute industry in India is concentrated mainly along the banks of the:",
+    "options": [
+      "Hugli river in West Bengal",
+      "Yamuna river",
+      "Godavari river",
+      "Narmada river"
+    ],
+    "correct_index": 0,
+    "solution": "Most of the jute mills are located in West Bengal, mainly along the banks of the Hugli river, in a narrow belt; the first jute mill was set up in 1859 at Rishra.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Tata Iron and Steel Company (TISCO) was established in 1907 at:",
+    "options": [
+      "Jamshedpur",
+      "Bhilai",
+      "Rourkela",
+      "Durgapur"
+    ],
+    "correct_index": 0,
+    "solution": "TISCO was set up in 1907 at Sakchi (later Jamshedpur) near the confluence of the Subarnarekha and Kharkai rivers, close to coal and iron ore sources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The public sector iron and steel plants in India are managed by the:",
+    "options": [
+      "Steel Authority of India Limited (SAIL)",
+      "ONGC",
+      "NTPC",
+      "Coal India"
+    ],
+    "correct_index": 0,
+    "solution": "Public sector steel plants such as Bhilai, Durgapur, Rourkela and Bokaro are managed by the Steel Authority of India Limited (SAIL).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bhilai Steel Plant was set up with the collaboration of:",
+    "options": [
+      "Russia (former USSR)",
+      "Germany",
+      "the United Kingdom",
+      "the USA"
+    ],
+    "correct_index": 0,
+    "solution": "The Bhilai (Chhattisgarh) and Bokaro steel plants were set up with Russian collaboration, while Rourkela was set up with German and Durgapur with British collaboration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rourkela Steel Plant in Odisha was established with the collaboration of:",
+    "options": [
+      "Germany",
+      "Russia",
+      "Britain",
+      "Japan"
+    ],
+    "correct_index": 0,
+    "solution": "The Rourkela Steel Plant was set up in 1959 in Odisha in collaboration with Germany; Durgapur was set up with British collaboration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India is the largest producer and consumer of steel in the developing world; iron and steel is called a __________ industry.",
+    "options": [
+      "Basic (heavy)",
+      "Light",
+      "Agro-based",
+      "Cottage"
+    ],
+    "correct_index": 0,
+    "solution": "The iron and steel industry is a basic (heavy) industry because all other industries — heavy, medium and light — depend on it for their machinery; it is also called a 'key' industry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main raw materials required by the iron and steel industry are iron ore, coking coal and:",
+    "options": [
+      "Limestone",
+      "Bauxite",
+      "Mica",
+      "Cotton"
+    ],
+    "correct_index": 0,
+    "solution": "The iron and steel industry uses iron ore, coking coal and limestone in the ratio of roughly 4:2:1, along with manganese and labour, power and capital.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Chennai and its surroundings are sometimes called the '__________ of India' for their automobile industry.",
+    "options": [
+      "'Detroit'",
+      "'Manchester'",
+      "'Silicon Valley'",
+      "'Sheffield'"
+    ],
+    "correct_index": 0,
+    "solution": "Chennai is sometimes referred to as the 'Detroit of India' because of the large concentration of automobile manufacturing units around the city.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The information technology (IT) and electronics 'Silicon Valley' hub of India is:",
+    "options": [
+      "Bengaluru",
+      "Kolkata",
+      "Kanpur",
+      "Surat"
+    ],
+    "correct_index": 0,
+    "solution": "Bengaluru is regarded as the electronics and IT capital of India, often called the 'Silicon Valley of India' for its concentration of software and electronics industries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "On the basis of the main role they play, industries are classified as basic (key) industries and:",
+    "options": [
+      "Consumer industries",
+      "Public industries",
+      "Small-scale industries",
+      "Agro industries"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of their role, industries are classified as basic or key industries (which supply raw materials to others, e.g. iron and steel) and consumer industries (which produce goods for direct use, e.g. sugar, toothpaste).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "On the basis of ownership, an industry owned by the government is a __________ industry.",
+    "options": [
+      "Public sector",
+      "Private sector",
+      "Joint sector",
+      "Cooperative"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of ownership, industries are classified as public sector (owned by government agencies like SAIL, BHEL), private sector (owned by individuals or firms like TISCO, Reliance), joint sector, and cooperative sector.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A joint sector industry is owned and operated by:",
+    "options": [
+      "The state and private individuals or companies together",
+      "The government alone",
+      "Private individuals alone",
+      "Foreign companies only"
+    ],
+    "correct_index": 0,
+    "solution": "Joint sector industries are jointly run by the state and individuals or a group of individuals, for example Oil India Limited (OIL).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Amul dairy and sugar cooperatives are examples of the __________ sector.",
+    "options": [
+      "Cooperative",
+      "Public",
+      "Private",
+      "Joint"
+    ],
+    "correct_index": 0,
+    "solution": "Cooperative sector industries are owned and operated by the producers or suppliers of raw materials, workers or both; examples include the sugar industry in Maharashtra and the Amul (dairy) cooperative in Gujarat.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "On the basis of the bulk and weight of raw materials and finished goods, industries are classified as heavy and:",
+    "options": [
+      "Light industries",
+      "Agro industries",
+      "Public industries",
+      "Small industries"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of the bulk and weight of raw material and finished goods, industries are classified as heavy industries (like iron and steel) and light industries (like electronics), which use lighter raw materials and produce lighter goods.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concentration of a number of industries in a particular area is called an:",
+    "options": [
+      "Industrial region/agglomeration",
+      "Export zone",
+      "Green belt",
+      "Watershed"
+    ],
+    "correct_index": 0,
+    "solution": "The tendency of industries to concentrate in particular locations to reap the benefits of common infrastructure and services forms industrial regions or agglomerations, such as the Mumbai-Pune cluster.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Many iron and steel plants are located in the Chota Nagpur plateau region. Reason (R): The region has coal, iron ore and other raw materials close together.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Most iron and steel plants are located in the Chota Nagpur plateau because it has the raw materials — iron ore, coking coal and limestone — as well as cheap labour and transport, close together — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): India promotes the growth of the manufacturing sector. Reason (R): Manufacturing reduces dependence on agriculture and provides jobs and exports.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Manufacturing is promoted because it modernises agriculture, reduces the heavy dependence on agricultural income by providing jobs in secondary and tertiary sectors, and brings in foreign exchange through exports — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the industry with its type: (i) Cotton textile (ii) Cement (iii) Aluminium — (a) mineral-based (b) agro-based (c) mineral-based:",
+    "options": [
+      "(i)-b, (ii)-a, (iii)-c",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-c, (iii)-a"
+    ],
+    "correct_index": 0,
+    "solution": "Cotton textile is agro-based, while cement and aluminium are mineral-based industries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Industrial water pollution is caused by the discharge of:",
+    "options": [
+      "Organic and inorganic industrial wastes and effluents into water bodies",
+      "Clean water",
+      "Rainwater",
+      "Fresh air"
+    ],
+    "correct_index": 0,
+    "solution": "Water pollution is caused by organic and inorganic industrial wastes and effluents discharged into rivers; the main culprits are paper, pulp, chemical, textile, dyeing, tanneries and other industries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Air pollution from industries is caused mainly by the presence of high proportions of gases such as:",
+    "options": [
+      "Sulphur dioxide and carbon monoxide",
+      "Oxygen and nitrogen only",
+      "Water vapour",
+      "Helium"
+    ],
+    "correct_index": 0,
+    "solution": "Air pollution is caused by the presence of a high proportion of undesirable gases such as sulphur dioxide and carbon monoxide, along with airborne particulate materials like dust and smoke from industries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Industrial water pollution can be minimised by treating hot water and effluents through:",
+    "options": [
+      "Recycling and treatment in several stages before release",
+      "Direct dumping into rivers",
+      "Burning them",
+      "Storing them underground untreated"
+    ],
+    "correct_index": 0,
+    "solution": "Industrial water pollution can be minimised by treating effluents in three phases (mechanical, biological and chemical), reusing and recycling water, and harvesting rainwater to meet water requirements.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The National Thermal Power Corporation (NTPC) is cited as an example of an organisation that has taken measures to:",
+    "options": [
+      "Preserve the environment and minimise waste and pollution",
+      "Increase pollution",
+      "Cut down forests",
+      "Dump waste in rivers"
+    ],
+    "correct_index": 0,
+    "solution": "NTPC, a major power provider, has an environmental protection policy — using ash ponds, adopting ash disposal and utilisation, and using low-ash coal and clean technologies to reduce pollution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Chhattisgarh, Bhilai and Bokaro belt shows that the iron and steel industry tends to locate near:",
+    "options": [
+      "Sources of raw materials to reduce transport costs",
+      "Coastal beaches",
+      "Deserts",
+      "Hill stations"
+    ],
+    "correct_index": 0,
+    "solution": "Because iron ore and coal are bulky and weight-losing, iron and steel plants are located close to raw material sources (coalfields and iron-ore mines) to minimise the cost of transport.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Indian jute industry faces stiff competition in the international market from:",
+    "options": [
+      "Synthetic substitutes and other producers like Bangladesh",
+      "Cotton",
+      "Wool",
+      "Iron"
+    ],
+    "correct_index": 0,
+    "solution": "The jute industry faces competition from synthetic (man-made) substitutes and from other jute-producing countries such as Bangladesh, Brazil, the Philippines and Egypt.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sugar industry, an agro-based industry, is a seasonal industry located mainly in the sugarcane-growing states of:",
+    "options": [
+      "Uttar Pradesh and Maharashtra",
+      "Rajasthan and Gujarat",
+      "Kerala and Goa",
+      "Punjab and Haryana"
+    ],
+    "correct_index": 0,
+    "solution": "The sugar industry is concentrated in the sugarcane-growing regions, chiefly Uttar Pradesh, Bihar, Maharashtra, Karnataka and Tamil Nadu; it is a seasonal industry located near the source of raw material.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sugar industry tends to be located near cane fields because sugarcane is a:",
+    "options": [
+      "Weight-losing, perishable crop whose sucrose content falls with delay",
+      "Non-perishable mineral",
+      "Light raw material",
+      "Fibre crop"
+    ],
+    "correct_index": 0,
+    "solution": "Sugar mills are located close to the cane fields because sugarcane is bulky and weight-losing, and its sucrose content dries up if there is a delay in crushing, making transport over long distances uneconomical.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The location of an industry is influenced by factors such as raw materials, power, capital, labour and:",
+    "options": [
+      "Market and transport",
+      "Rainfall only",
+      "Soil type only",
+      "Wildlife"
+    ],
+    "correct_index": 0,
+    "solution": "Industries are located where some or all of these factors are available or can be arranged at low cost: raw material, land, water, labour, power, capital, transport, market and government policy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The output of one industry often becomes the input of another, showing that industries are:",
+    "options": [
+      "Interdependent",
+      "Completely independent",
+      "Unnecessary",
+      "Isolated"
+    ],
+    "correct_index": 0,
+    "solution": "Agriculture and industry, and different industries, are interdependent; for example, the steel produced by one industry becomes the raw material for the automobile and machine tool industries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Information Technology (IT) industry requires mainly:",
+    "options": [
+      "A highly skilled workforce and good communication infrastructure",
+      "Large amounts of coal",
+      "Iron ore",
+      "Heavy machinery"
+    ],
+    "correct_index": 0,
+    "solution": "The IT and software industry depends mainly on a large pool of skilled professionals and good telecommunication and internet infrastructure rather than heavy raw materials; it has generated large employment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Manufacturing is regarded as the 'backbone of development' because it:",
+    "options": [
+      "Provides employment, modernises agriculture and reduces poverty",
+      "Only produces food",
+      "Reduces jobs",
+      "Uses no resources"
+    ],
+    "correct_index": 0,
+    "solution": "Manufacturing is considered the backbone of development because it creates jobs, provides goods, modernises agriculture, reduces dependence on farm income, brings prosperity and reduces poverty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The National Manufacturing Policy aims to increase the share of manufacturing in India's GDP to about:",
+    "options": [
+      "25 per cent",
+      "5 per cent",
+      "50 per cent",
+      "70 per cent"
+    ],
+    "correct_index": 0,
+    "solution": "The National Manufacturing Policy aims to increase the share of manufacturing in GDP to 25 per cent and to create additional jobs over a decade, to accelerate economic growth.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Cotton textile mills grew in Mumbai and Ahmedabad partly because of the availability of:",
+    "options": [
+      "Raw cotton, moist climate, port facilities and skilled labour",
+      "Coal and iron ore",
+      "Snow and cold",
+      "Desert land"
+    ],
+    "correct_index": 0,
+    "solution": "The cotton textile industry flourished in Maharashtra and Gujarat because of the availability of raw cotton (black cotton soil region nearby), moist climate, port facilities, capital, skilled labour and a good market.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Air pollution from industries can be controlled by fitting factories with:",
+    "options": [
+      "Smokestacks with electrostatic precipitators and scrubbers",
+      "Larger chimneys releasing more smoke",
+      "Open furnaces",
+      "No control equipment"
+    ],
+    "correct_index": 0,
+    "solution": "Air pollution can be reduced by fitting smokestacks with electrostatic precipitators, fabric filters, scrubbers, and inertial separators, and by using oil or gas instead of coal in factories.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Industrial noise pollution can be reduced by using:",
+    "options": [
+      "Machinery designed to run quietly and personal ear protection",
+      "Louder machines",
+      "Open workshops",
+      "No measures"
+    ],
+    "correct_index": 0,
+    "solution": "Noise pollution can be reduced by using generators of lower noise, redesigning machinery to reduce noise, and providing workers with earplugs and earphones for protection.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Manufacturing refers to the production of goods in large quantities after processing:",
+    "options": [
+      "Raw materials into more valuable products",
+      "Only food into meals",
+      "Only ideas into books",
+      "Only water into ice"
+    ],
+    "correct_index": 0,
+    "solution": "Manufacturing involves the production of goods in large quantities after processing raw materials into more valuable products, e.g. converting cotton fibre into cloth or iron ore into steel.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The petrochemical industry, producing plastics and synthetic fibres, is based on the raw material derived from:",
+    "options": [
+      "Petroleum (crude oil) refining",
+      "Cotton",
+      "Limestone",
+      "Iron ore"
+    ],
+    "correct_index": 0,
+    "solution": "The petrochemical industry uses products from the refining of crude oil (petroleum) to make plastics, synthetic fibres, synthetic rubber, drugs and many other goods; refineries are its 'nodal' base.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sustainable industrialisation requires that industries:",
+    "options": [
+      "Minimise pollution, use resources efficiently and treat their wastes",
+      "Ignore the environment",
+      "Use maximum water",
+      "Dump waste freely"
+    ],
+    "correct_index": 0,
+    "solution": "Sustainable industrial development requires reducing the use of water and energy, treating and recycling wastes, minimising pollution, and balancing economic growth with environmental protection.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The classification of industries into small-scale and large-scale is based on the:",
+    "options": [
+      "Amount of capital invested and number of workers",
+      "Colour of the products",
+      "Location alone",
+      "Age of the factory"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of capital investment, an industry is classified as small-scale or large-scale depending on the amount of capital invested, the number of people employed and the volume of production.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main advantage of locating an industry near its market is that it:",
+    "options": [
+      "Reduces the cost of transporting finished goods to consumers",
+      "Increases raw material cost",
+      "Requires no labour",
+      "Avoids all taxes"
+    ],
+    "correct_index": 0,
+    "solution": "Industries producing perishable or bulky finished goods are located near the market to reduce the cost and time of transporting the finished products to consumers, and to respond quickly to demand.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The growth of industries in India has been aided by government measures such as:",
+    "options": [
+      "Establishing public sector units and providing infrastructure and policy support",
+      "Banning all industry",
+      "Removing all roads",
+      "Discouraging investment"
+    ],
+    "correct_index": 0,
+    "solution": "Industrial growth in India has been supported by the government through the setting up of public sector units, provision of infrastructure (power, transport), financial institutions, and favourable industrial policies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall theme of 'Manufacturing Industries' is that:",
+    "options": [
+      "Manufacturing drives development but must be managed to control pollution",
+      "Manufacturing has no importance",
+      "Industries never pollute",
+      "Industry harms only the rich"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains the types, location and importance of manufacturing industries and the need to control the pollution they cause.",
+    "difficulty": "easy"
+  }
 ]
