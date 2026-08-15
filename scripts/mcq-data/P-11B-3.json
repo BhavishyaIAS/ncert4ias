@@ -1,52 +1,1022 @@
 [
-  { "stem": "Equality is a powerful moral and political ideal that has inspired many struggles. Its basic idea is that:", "options": ["All people should be identical", "All human beings are of equal worth and are entitled to equal consideration and equal rights, regardless of their differences", "Only some people matter", "Wealth should be distributed unequally"], "correct_index": 1, "solution": "The basic idea of equality is that all human beings are of equal worth and dignity, and are therefore entitled to equal consideration, equal treatment, and equal rights, regardless of their differences of birth, caste, religion, race, gender, or wealth. Equality does not mean that all people are identical, but that they deserve equal respect and equal opportunity.", "difficulty": "medium" },
-  { "stem": "Equality does NOT mean that all people are the same or should be treated identically in every respect; rather, it means:", "options": ["Everyone must have identical talents", "That all people should be given equal rights, equal respect, and equal opportunities, and that relevant differences may justify some differences in treatment while irrelevant differences (like caste or race) should not", "That differences should be ignored entirely", "That the strong should rule"], "correct_index": 1, "solution": "Equality does not require that all people be exactly the same or be treated identically in every respect. It means that all people should enjoy equal rights, equal respect, and equal opportunities; that no one should be discriminated against on the basis of irrelevant characteristics (like caste, race, religion, gender, or birth); and that relevant differences (like differences in need or effort) may justify some differences in treatment, while morally irrelevant ones should not affect people's basic rights and opportunities.", "difficulty": "medium" },
-  { "stem": "'Political equality' in a democracy is expressed through provisions such as:", "options": ["Reserving political power for the rich", "Universal adult franchise (one person, one vote of equal value), equality before the law, and equal access to public office", "Voting rights only for property owners", "Hereditary political privileges"], "correct_index": 1, "solution": "Political equality in a democracy is expressed through provisions such as universal adult franchise (one person, one vote, each vote of equal value), equality before the law and equal protection of the laws, and equal access to public office and participation in the political process, regardless of caste, religion, gender, or wealth. It guarantees to all citizens equal political rights and an equal say in the governance of the community.", "difficulty": "medium" },
-  { "stem": "'Social equality' requires:", "options": ["The preservation of social hierarchies", "The absence of discrimination and the abolition of social hierarchies and barriers (like caste and untouchability) that deny people equal status and dignity", "Rule by the upper classes", "Special privileges for some groups by birth"], "correct_index": 1, "solution": "Social equality requires the absence of discrimination and the abolition of social hierarchies, barriers, and practices (like the caste system, untouchability, and racial or gender discrimination) that deny people equal social status, dignity, and opportunity. It means that all members of society should be treated with equal respect and should have equal access to social goods and opportunities, regardless of their social background.", "difficulty": "medium" },
-  { "stem": "'Economic equality' is concerned with:", "options": ["Making everyone identically rich", "Reducing the great disparities of wealth and income, and ensuring that everyone has access to at least the basic necessities and opportunities for a decent life", "Concentrating wealth in a few hands", "Ignoring poverty"], "correct_index": 1, "solution": "Economic equality is concerned with reducing the great disparities of wealth, income, and property between people, and ensuring that everyone has access to at least the basic necessities of life (food, shelter, health, education) and to opportunities for a decent standard of living. It does not necessarily mean making everyone identically rich (absolute equality of income), but rather reducing extreme and unjust inequalities and guaranteeing a minimum standard of living and opportunity for all.", "difficulty": "medium" },
-  { "stem": "Complete or absolute equality of all conditions (everyone having exactly the same) is generally not sought because:", "options": ["It is easy to achieve", "It is neither practical nor perhaps desirable, since people differ in their needs, talents, and efforts; the aim is usually equality of rights, respect, and opportunity, and the removal of unjust inequalities", "Equality is unimportant", "It benefits the rich"], "correct_index": 1, "solution": "Complete or absolute equality — everyone having exactly the same in every respect — is generally not sought because it is neither practical nor necessarily desirable: people differ in their needs, talents, efforts, and choices, and treating everyone identically regardless of these differences could itself be unfair. Instead, the ideal of equality usually aims at equality of rights, equal respect and dignity, equality of opportunity, and the removal of unjust, arbitrary, and extreme inequalities (like those based on birth or discrimination), rather than at making everyone's condition absolutely identical.", "difficulty": "medium" },
-  { "stem": "'Equality of opportunity' means:", "options": ["Everyone gets identical outcomes", "That everyone should have an equal chance to develop their talents and pursue their goals, without facing discrimination or artificial barriers based on irrelevant factors like caste, gender, or birth", "Only the privileged get opportunities", "Opportunities are distributed by birth"], "correct_index": 1, "solution": "Equality of opportunity means that everyone should have an equal chance to develop their talents, capabilities, and potential, and to pursue their goals and compete for positions and rewards, without facing discrimination or artificial barriers based on morally irrelevant factors like caste, gender, religion, race, or family background. It requires that opportunities (in education, employment, etc.) be open to all on the basis of merit and effort, rather than being restricted by birth or social status. It focuses on fair chances rather than identical outcomes.", "difficulty": "medium" },
-  { "stem": "Some argue that equality of opportunity alone is not enough, because:", "options": ["Opportunities are unimportant", "People start from very unequal conditions (of wealth, education, and social advantage), so formal equality of opportunity may not give everyone a genuinely fair chance unless underlying disadvantages are also addressed", "Everyone starts equal", "Opportunity should be denied to the poor"], "correct_index": 1, "solution": "Some argue that equality of opportunity alone is not enough because people start from very unequal conditions — differences in wealth, education, family background, and social advantage. If two people start from vastly unequal positions, merely giving them the same formal opportunity (like the same right to compete) may not give them a genuinely fair or equal chance, since the disadvantaged person faces obstacles the privileged one does not. Hence, achieving real equality of opportunity may require addressing the underlying disadvantages (through measures like free education, and support for the disadvantaged), so that everyone has a genuinely fair chance to succeed.", "difficulty": "hard" },
-  { "stem": "The practice of making special provisions or preferential treatment for disadvantaged groups (like reservations for SCs, STs, and OBCs) is known as:", "options": ["Discrimination", "Affirmative action (or protective discrimination / positive discrimination)", "Untouchability", "Segregation"], "correct_index": 1, "solution": "The practice of making special provisions or preferential treatment for historically disadvantaged and marginalised groups (like reservations for Scheduled Castes, Scheduled Tribes, and Other Backward Classes in India) is known as affirmative action, also called 'protective discrimination' or 'positive discrimination'. Its aim is to compensate for past and present disadvantages and discrimination, and to help these groups achieve genuine equality of opportunity and status.", "difficulty": "medium" },
-  { "stem": "The justification for affirmative action (like reservations) is that:", "options": ["It creates new inequalities for their own sake", "Formal equality is not enough to overcome deep-rooted, historical disadvantages, so special measures are needed to help disadvantaged groups achieve real equality of opportunity and status", "It benefits the already privileged", "It is unfair to the disadvantaged"], "correct_index": 1, "solution": "The justification for affirmative action (such as reservations) is that formal or legal equality (treating everyone identically) is not sufficient to overcome the deep-rooted, cumulative, and historical disadvantages faced by certain groups (like those subjected to caste discrimination for centuries). Special measures — such as reservations in education, employment, and legislatures — are needed to compensate for past and continuing disadvantages, to 'level the playing field', and to help these groups achieve genuine equality of opportunity, status, and participation. Affirmative action thus treats people differently (temporarily and for a purpose) in order to achieve real, substantive equality.", "difficulty": "medium" },
-  { "stem": "A criticism sometimes made of affirmative action is that:", "options": ["It helps too few people", "It may amount to reverse discrimination against others, or that benefits may not reach the most needy within the group; supporters respond that such measures are necessary to correct historical injustice", "It is never justified", "It creates perfect equality instantly"], "correct_index": 1, "solution": "A criticism sometimes made of affirmative action is that it may amount to 'reverse discrimination' against individuals who are not from the disadvantaged groups (by giving preferential treatment to others), or that its benefits may not always reach the most needy within the beneficiary group (the 'creamy layer' concern). Supporters respond that such measures are a necessary and justified means to correct deep historical injustices and disadvantages, to promote genuine equality, and that they are meant to be temporary measures aimed at eventually achieving a more equal society. The debate over affirmative action reflects genuine tensions in balancing formal equality with substantive equality and social justice.", "difficulty": "medium" },
-  { "stem": "The relationship between equality and liberty (freedom) is that:", "options": ["They are always in complete opposition", "They are both fundamental values that can sometimes be in tension but are also deeply connected; a just society seeks to reconcile and secure both freedom and equality for all", "Equality always destroys liberty", "Liberty is unimportant"], "correct_index": 1, "solution": "The relationship between equality and liberty (freedom) is that they are two fundamental values that can sometimes appear to be in tension (for example, unrestricted economic liberty may lead to great inequality, and some measures to promote equality may restrict certain liberties), but they are also deeply connected and complementary: genuine freedom for all requires a measure of equality (since extreme inequality leaves many without the means to be truly free), and equality without freedom would be undesirable. A just society, rather than sacrificing one for the other, seeks to reconcile and secure both liberty and equality for all its members, balancing them appropriately.", "difficulty": "medium" },
-  { "stem": "The 'Marxist' or socialist tradition emphasises which kind of equality as fundamental?", "options": ["Only formal legal equality", "Economic equality — the abolition of class divisions and the great inequalities of wealth and property that arise from private ownership of the means of production", "Only political equality", "Inequality of wealth"], "correct_index": 1, "solution": "The Marxist or socialist tradition emphasises economic equality as fundamental. Marxists argue that formal legal and political equality is not enough, and can even be hollow, if there are great underlying economic inequalities and class divisions. They trace these inequalities to the private ownership of the means of production, which allows one class (the owners) to dominate and exploit another (the workers). The socialist ideal aims at abolishing such class divisions and drastically reducing economic inequalities, often through collective or state ownership of major resources, to achieve genuine equality and end exploitation.", "difficulty": "hard" },
-  { "stem": "Liberals typically believe that some degree of economic inequality is acceptable, provided that:", "options": ["The poor are ignored", "It results from fair competition and equality of opportunity, rewards effort and talent, and there is a basic minimum standard of living for all", "Inequality is unlimited", "Only birth determines wealth"], "correct_index": 1, "solution": "Liberals typically believe that some degree of economic inequality is acceptable and even necessary, provided that it results from fair competition under conditions of genuine equality of opportunity, that it rewards effort, talent, and contribution (thereby providing incentives), and that a basic minimum standard of living and essential opportunities are guaranteed to everyone. In this view, inequalities that arise from fair processes and that benefit society (or at least do not leave anyone destitute) can be justified, whereas inequalities based on discrimination, birth, or the denial of basic opportunities are unjust. Liberals thus emphasise equality of opportunity and a social minimum rather than absolute economic equality.", "difficulty": "hard" },
-  { "stem": "A major source of inequality in the world, according to the chapter, is:", "options": ["Only natural talent", "Socially created inequalities — such as those based on caste, race, gender, and class, as well as unequal access to resources and opportunities", "Only the weather", "Nothing man-made"], "correct_index": 1, "solution": "A major source of inequality in the world is socially created inequalities — those arising not from natural differences but from social structures, practices, and institutions, such as inequalities based on caste, race, gender, religion, and class, as well as unequal access to resources, education, and opportunities. Because these inequalities are socially created and often unjust (based on morally irrelevant factors or on domination and discrimination), they can and should be addressed and reduced through social reform, just laws, and appropriate policies — unlike differences that are purely natural.", "difficulty": "medium" },
-  { "stem": "The struggle against gender inequality (patriarchy) aims to:", "options": ["Reinforce male dominance", "End the discrimination, subordination, and unequal treatment of women, and secure for women equal rights, opportunities, dignity, and status with men", "Exclude women from public life", "Preserve traditional hierarchies"], "correct_index": 1, "solution": "The struggle against gender inequality (patriarchy — the system of male dominance) aims to end the discrimination, subordination, and unequal treatment that women have historically faced, and to secure for women equal rights, opportunities, dignity, respect, and status with men in all spheres — political, social, economic, and personal. This includes ensuring women's equal access to education, employment, property, political participation, and freedom from violence and discrimination. Gender equality is an important dimension of the broader ideal of equality, recognising that women, who form half of humanity, are entitled to full equality with men.", "difficulty": "medium" },
-  { "stem": "The abolition of untouchability by the Indian Constitution (Article 17) is an important step towards:", "options": ["Preserving caste inequality", "Social equality — ending one of the most oppressive forms of caste-based discrimination and affirming the equal dignity of all human beings", "Increasing discrimination", "Rewarding the upper castes"], "correct_index": 1, "solution": "The abolition of untouchability by the Indian Constitution (Article 17) is an important step towards social equality; untouchability was one of the most oppressive, degrading, and dehumanising forms of caste-based discrimination, denying millions of people basic dignity, rights, and access to public spaces and resources. By abolishing untouchability and making its practice a punishable offence, the Constitution affirmed the equal dignity and worth of all human beings and struck a blow against the caste hierarchy — reflecting the deep commitment to social equality and the eradication of caste-based injustice that lies at the heart of the constitutional vision.", "difficulty": "medium" },
-  { "stem": "The three main ways of promoting equality identified in political theory include establishing formal (legal) equality, and:", "options": ["Ignoring differences", "Differential treatment of some groups (affirmative action) to address disadvantage, and measures to reduce inequalities of resources and opportunity", "Preserving privileges", "Increasing discrimination"], "correct_index": 1, "solution": "The main ways of promoting equality include: (1) establishing formal or legal equality — ending legally sanctioned inequalities and discrimination, and treating all people equally before the law; (2) differential treatment of some groups (affirmative action / protective discrimination) — treating disadvantaged groups differently and giving them special provisions to compensate for and overcome their disadvantages; and (3) measures to reduce underlying inequalities of resources, wealth, and opportunity (like land reforms, welfare measures, and universal education) — so that everyone has genuine access to the conditions of a decent life. Together, these approaches address the different dimensions and sources of inequality.", "difficulty": "hard" },
-  { "stem": "Formal equality (equality before the law) is important but insufficient by itself because:", "options": ["Laws are unimportant", "Legal equality alone does not remove the deep social and economic inequalities and disadvantages that prevent people from enjoying genuine, substantive equality in practice", "It creates too much equality", "It benefits only the poor"], "correct_index": 1, "solution": "Formal equality (equality before the law — the principle that all are equal in the eyes of the law and subject to the same laws) is important as a foundation, but it is insufficient by itself because legal equality alone does not remove the deep social and economic inequalities, disadvantages, and discrimination that exist in society and that prevent people from enjoying genuine, substantive equality in practice. For example, two people may be formally equal before the law, but if one is rich and educated and the other poor and illiterate, their real chances in life are very unequal. Hence, achieving substantive equality requires going beyond formal legal equality to address the underlying social and economic disadvantages, through affirmative action and measures to reduce inequality.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Equality' is that:", "options": ["Equality means making everyone identical", "Equality is a fundamental value affirming the equal worth and dignity of all human beings and their entitlement to equal rights, respect, and opportunities; it has political, social, and economic dimensions, and achieving genuine (substantive) equality requires not just formal legal equality but also the removal of social and economic disadvantages, including through affirmative action", "Equality is unimportant", "Inequality should be preserved"], "correct_index": 1, "solution": "The chapter concludes that equality is a fundamental political and moral value, affirming the equal worth and dignity of all human beings and their entitlement to equal rights, equal respect, and equal opportunities, regardless of morally irrelevant differences like caste, race, gender, religion, or birth. Equality has several dimensions — political (equal political rights and participation), social (absence of discrimination and social hierarchies), and economic (reduction of gross disparities of wealth and access to a decent life). Equality does not mean making everyone identical, but securing equal rights and fair opportunities for all. Achieving genuine or substantive equality requires more than formal legal equality; it requires actively removing the deep-rooted social and economic disadvantages and discrimination that many face — including, where necessary, through affirmative action (special provisions for disadvantaged groups) — so that everyone truly has a fair and equal chance to live a life of dignity and to develop their potential.", "difficulty": "medium" },
-  { "stem": "The idea of 'equal respect for all persons' is grounded in the belief that:", "options": ["Some people are naturally superior", "Every human being, regardless of their differences, possesses an inherent worth and dignity that entitles them to be treated with equal respect and consideration", "Only the wealthy deserve respect", "Respect is earned by birth"], "correct_index": 1, "solution": "The idea of 'equal respect for all persons' is grounded in the belief that every human being, regardless of their differences of birth, caste, race, gender, religion, wealth, or ability, possesses an inherent and equal worth and dignity simply by virtue of being human. This inherent worth entitles every person to be treated with equal respect, consideration, and concern, and forbids treating anyone as inferior, or as a mere means to others' ends. This fundamental moral belief in the equal dignity of all persons is the deepest foundation of the ideal of equality.", "difficulty": "medium" },
-  { "stem": "Natural inequalities (differences in talent, ability, or effort) are distinguished from socially produced inequalities in that:", "options": ["Both are equally unjust", "Natural differences arise from the varied capacities of individuals, whereas socially produced inequalities arise from unjust social structures and practices (like discrimination) and are the main concern of the ideal of equality", "Social inequalities are natural", "Neither can be changed"], "correct_index": 1, "solution": "Natural inequalities are distinguished from socially produced inequalities: natural inequalities arise from the varied natural capacities, talents, and abilities of different individuals (some are more gifted in certain respects than others), whereas socially produced inequalities arise from unjust social structures, institutions, and practices — such as caste and gender discrimination, unequal access to resources and opportunities, and exploitation. The ideal of equality is primarily concerned with the socially produced inequalities, which are often unjust (based on morally irrelevant factors or on domination) and can and should be addressed through social reform and just policies. Even regarding natural differences, a just society tries to ensure they do not translate into gross inequalities of basic rights, dignity, and opportunity.", "difficulty": "hard" },
-  { "stem": "The feminist movement's demand for equality is based on the recognition that:", "options": ["Women are inferior to men", "Women have historically been subjected to discrimination and subordination in a patriarchal society, and are entitled to full equality of rights, opportunities, and dignity with men", "Only men have rights", "Gender roles are natural and unchangeable"], "correct_index": 1, "solution": "The feminist movement's demand for equality is based on the recognition that women have historically been subjected to systematic discrimination, subordination, and unequal treatment in a male-dominated (patriarchal) society — denied equal rights, opportunities, and dignity in political, economic, social, and personal spheres. Feminists argue that these inequalities are not natural or justified, but are socially constructed and unjust, and that women, as equal human beings, are entitled to full equality of rights, opportunities, and dignity with men. The movement seeks to end gender-based discrimination and to transform the social structures and attitudes that sustain women's subordination.", "difficulty": "medium" },
-  { "stem": "The provision of free and compulsory education for all children can be seen as a means of promoting equality because:", "options": ["It benefits only the rich", "Education is a key means of developing individuals' capabilities and giving disadvantaged children a fairer chance in life, thereby promoting genuine equality of opportunity", "It has no effect on equality", "It preserves existing inequalities"], "correct_index": 1, "solution": "The provision of free and compulsory education for all children can be seen as an important means of promoting equality because education is a key means of developing individuals' knowledge, skills, and capabilities, and of giving children from disadvantaged backgrounds a fairer chance to improve their lives and compete on more equal terms. By ensuring that all children — regardless of their family's wealth or social status — have access to education, a society can help level the playing field, reduce the transmission of disadvantage across generations, and promote genuine equality of opportunity. This is why universal education is regarded as one of the most powerful instruments for advancing substantive equality.", "difficulty": "medium" },
-  { "stem": "The concept of 'equal citizenship' means that:", "options": ["Only some residents are citizens", "All citizens, regardless of their differences, enjoy the same fundamental rights, equal legal and political status, and equal membership in the political community", "Citizenship is based on wealth", "Citizens have unequal rights"], "correct_index": 1, "solution": "The concept of 'equal citizenship' means that all citizens of a country, regardless of their differences of caste, religion, race, gender, language, or wealth, enjoy the same fundamental rights, the same equal legal and political status, and equal membership in the political community. Every citizen is entitled to the same basic rights and freedoms, the same protection of the law, and the same opportunity to participate in public life. Equal citizenship is a core expression of the ideal of equality in the political sphere; it rejects any system of graded or unequal citizenship (where some are 'first-class' and others 'second-class' citizens) and affirms the equal standing of all members of the political community.", "difficulty": "medium" },
-  { "stem": "The idea that gross economic inequalities can undermine political equality is based on the observation that:", "options": ["Wealth has no effect on politics", "Those with great wealth may have far greater influence over political decisions, media, and access to power than ordinary citizens, thereby undermining the principle of equal political voice", "The poor control politics", "Money is irrelevant to power"], "correct_index": 1, "solution": "The idea that gross economic inequalities can undermine political equality is based on the observation that those with great wealth and economic power may be able to exercise far greater influence over political decisions, elections, the media, and access to power than ordinary citizens — through campaign funding, lobbying, control of media, and other means. This means that, in practice, formal political equality (one person, one vote) can be undermined by economic inequality, as the wealthy gain disproportionate political voice and influence. This is one reason why concerns about equality often extend to economic inequality — because extreme economic disparities can threaten the genuine political equality of citizens and the health of democracy itself.", "difficulty": "hard" },
-  { "stem": "Which of the following best captures the difference between 'equality of opportunity' and 'equality of outcome'?", "options": ["They are the same thing", "Equality of opportunity gives everyone a fair chance to compete and succeed, while equality of outcome aims at everyone actually ending up with the same results or rewards", "Equality of outcome ignores fairness", "Equality of opportunity guarantees identical results"], "correct_index": 1, "solution": "The difference between equality of opportunity and equality of outcome is important: equality of opportunity aims to give everyone a fair and equal chance to compete, develop their talents, and succeed (removing discrimination and barriers), while accepting that people may end up with different results depending on their choices, effort, and abilities. Equality of outcome (or result), by contrast, aims at everyone actually ending up with the same results, rewards, or conditions, regardless of differences in effort or choice. Most conceptions of equality emphasise equality of opportunity (fair chances) and the reduction of unjust inequalities and a decent minimum for all, rather than strict equality of outcome, which is generally seen as neither practical nor entirely fair given differences in effort and choice.", "difficulty": "medium" },
-  { "stem": "The recognition and accommodation of the special needs of some groups (such as ramps for persons with disabilities) reflects the understanding that:", "options": ["Everyone should be treated identically regardless of need", "Treating everyone the same is not always fair; genuine equality sometimes requires taking account of people's different needs and circumstances to give them a real chance at equal participation", "Special needs should be ignored", "Only the majority's needs matter"], "correct_index": 1, "solution": "The recognition and accommodation of the special needs of some groups — such as providing ramps and other facilities for persons with disabilities — reflects the important understanding that treating everyone in exactly the same way is not always fair or truly equal. Genuine (substantive) equality sometimes requires taking account of people's different needs and circumstances and making appropriate accommodations, so that everyone has a real and equal chance to participate fully in society and to access opportunities and public spaces. Ignoring genuine differences in need can effectively exclude some people and perpetuate inequality; recognising and accommodating such differences is a way of achieving real equality of participation and opportunity for all, including those with special needs.", "difficulty": "medium" },
-  { "stem": "The ideal of equality has been a driving force behind many historical movements, including:", "options": ["Movements to preserve slavery", "The anti-slavery, anti-colonial, civil rights, anti-caste, and women's rights movements, which all fought against unjust inequalities and for equal rights and dignity", "Movements to increase discrimination", "Movements to entrench hierarchy"], "correct_index": 1, "solution": "The ideal of equality has been a powerful driving force behind many of history's great emancipatory movements, including: the anti-slavery (abolitionist) movement, which fought to end slavery and affirm the equal humanity of all; anti-colonial movements (like India's freedom struggle), which asserted the equal dignity and self-determination of colonised peoples; the civil rights movement (as in the USA), which fought against racial discrimination; anti-caste movements in India, which struggled against caste-based oppression and untouchability; and the women's rights (feminist) movement, which fought against gender discrimination. All these movements were inspired by the demand for equal rights, equal dignity, and an end to unjust inequalities — testifying to the enduring moral and political power of the ideal of equality.", "difficulty": "medium" },
-  { "stem": "The distinction between 'treating people equally' and 'treating people as equals' highlights that:", "options": ["They always mean identical treatment", "Treating people as equals (with equal concern and respect) may sometimes require treating them differently, according to their different needs and circumstances, rather than identically", "People should never be treated as equals", "Equal treatment is always unfair"], "correct_index": 1, "solution": "The distinction between 'treating people equally' (identically) and 'treating people as equals' (with equal concern and respect) highlights an important insight: treating people as equals — that is, with equal concern, respect, and consideration for their worth and needs — may sometimes require treating them differently rather than identically, precisely because their needs and circumstances differ. For example, giving extra support to a disadvantaged child, or making special accommodations for a person with a disability, treats them as equals (showing equal concern for their well-being and equal chance to participate) even though it does not treat them identically to others. Thus, genuine equality (equal concern and respect for all) is not always the same as uniform, identical treatment; it may require differential treatment to achieve real fairness and equal outcomes in terms of dignity, opportunity, and participation.", "difficulty": "hard" },
-  { "stem": "Marxists argue that the root cause of inequality in capitalist societies is:", "options": ["Natural differences among people", "The private ownership of the means of production, which enables one class to control resources and exploit the labour of others", "Too much government", "Equality of opportunity"], "correct_index": 1, "solution": "Marxists argue that the root cause of inequality in capitalist societies is the private ownership of the means of production (factories, land, capital). This allows one class — the owners of capital (the bourgeoisie) — to control the resources and the means of livelihood, and to exploit the labour of the working class (the proletariat), who own nothing but their labour and must work for the owners. This unequal ownership and the resulting exploitation, Marxists contend, generate the deep economic inequalities and class divisions of capitalist society. The Marxist solution is to abolish the private ownership of the means of production (through collective or social ownership), so as to end class-based exploitation and inequality and achieve a genuinely equal, classless society.", "difficulty": "hard" },
-  { "stem": "The Indian Constitution seeks to promote equality through provisions such as:", "options": ["Establishing a caste hierarchy", "The right to equality (Articles 14-18), the abolition of untouchability, the prohibition of discrimination, reservations for disadvantaged groups, and directive principles aimed at reducing inequalities", "Titles and privileges by birth", "Denying rights to minorities"], "correct_index": 1, "solution": "The Indian Constitution seeks to promote equality through a range of provisions, including: the Right to Equality (Articles 14-18), guaranteeing equality before the law, prohibiting discrimination on grounds of religion, race, caste, sex, or place of birth, ensuring equality of opportunity in public employment, abolishing untouchability, and abolishing titles; provisions for reservations and special measures (affirmative action) for Scheduled Castes, Scheduled Tribes, and backward classes; and the Directive Principles of State Policy, which direct the state to reduce inequalities of income, status, and opportunity and to promote the welfare of the people. Together, these provisions reflect the Constitution's strong commitment to promoting political, social, and economic equality and to building a more egalitarian society.", "difficulty": "medium" },
-  { "stem": "The value of equality is closely tied to the value of justice because:", "options": ["Justice requires inequality", "A just society is one that treats its members fairly and as equals, giving each their due and not privileging some over others on arbitrary grounds", "Justice ignores equality", "They are opposites"], "correct_index": 1, "solution": "The value of equality is closely tied to the value of justice because a just society is generally understood to be one that treats its members fairly and as equals — giving each person their due, respecting the equal worth and dignity of all, and not arbitrarily privileging some over others or discriminating against some on morally irrelevant grounds. Injustice often takes the form of unjust inequality — the unfair, arbitrary, or discriminatory treatment of some people, or the unjust distribution of resources, rights, and opportunities. Thus, the pursuit of justice frequently involves the pursuit of greater equality (equal rights, equal treatment, fair opportunities, and a fair distribution of social goods), and the two values are deeply intertwined in the vision of a good and fair society.", "difficulty": "medium" },
-  { "stem": "The demand for equality is not a demand for uniformity but for:", "options": ["The elimination of all differences", "The end of unjust and arbitrary inequalities and discrimination, and the securing of equal dignity, rights, and opportunities for all, while respecting legitimate diversity", "Rule by an elite", "Identical treatment ignoring all needs"], "correct_index": 1, "solution": "The demand for equality is not a demand for uniformity — for making everyone identical or eliminating all differences among people. Rather, it is a demand for the end of unjust, arbitrary, and discriminatory inequalities (like those based on caste, race, gender, or birth), and for securing equal dignity, equal rights, equal respect, and fair opportunities for all people, while at the same time respecting and accommodating the legitimate diversity of individuals and communities (in their beliefs, cultures, talents, and ways of life). Genuine equality is thus compatible with — and indeed respects — human diversity and difference; what it opposes is not difference as such, but the unjust hierarchies, discrimination, and denial of equal worth and opportunity that so often accompany it.", "difficulty": "medium" },
-  { "stem": "Which of the following is the best example of a socially created inequality that the ideal of equality seeks to remove?", "options": ["Differences in individuals' natural artistic talent", "The denial of education, dignity, and opportunity to people on the basis of their caste or gender", "Differences in personal preferences", "Variations in individual effort"], "correct_index": 1, "solution": "The best example of a socially created inequality that the ideal of equality seeks to remove is the denial of education, dignity, rights, and opportunity to people on the basis of their caste or gender (or race, religion, etc.). Such inequalities are not natural but are produced and sustained by unjust social structures, practices, hierarchies, and discrimination; they deny people equal worth and opportunity on the basis of morally irrelevant characteristics. These are precisely the kinds of unjust, socially created inequalities that the ideal of equality — and measures like anti-discrimination laws, the abolition of untouchability, affirmative action, and universal education — aims to identify, challenge, and remove, in order to secure genuine equality of dignity, rights, and opportunity for all.", "difficulty": "medium" },
-  { "stem": "The principle that 'no one should be discriminated against on grounds of caste, race, religion, sex, or place of birth' is an expression of:", "options": ["Social hierarchy", "The commitment to equality and non-discrimination, treating all persons as equals regardless of morally irrelevant characteristics", "Privilege by birth", "The rule of the powerful"], "correct_index": 1, "solution": "The principle that 'no one should be discriminated against on grounds of caste, race, religion, sex, or place of birth' is a clear expression of the commitment to equality and non-discrimination. It affirms that all persons should be treated as equals — with equal rights, respect, and opportunities — regardless of characteristics (like caste, race, religion, sex, or birthplace) that are morally irrelevant to their worth and to how they should be treated. Discriminating against people on such grounds denies their equal dignity and worth and perpetuates unjust inequalities. This principle, enshrined in the Indian Constitution (Article 15) and in the constitutions and human rights declarations of many countries, is one of the core practical expressions of the ideal of equality in law and public life.", "difficulty": "medium" },
-  { "stem": "The idea of a 'social minimum' — guaranteeing everyone access to basic goods like food, shelter, healthcare, and education — is important for equality because:", "options": ["It benefits only the rich", "Without access to basic necessities and services, people cannot enjoy a life of dignity or make effective use of their rights and freedoms, so guaranteeing a social minimum is essential for meaningful equality", "Basic needs are unimportant", "It creates inequality"], "correct_index": 1, "solution": "The idea of a 'social minimum' — guaranteeing everyone access to basic goods and services like adequate food, shelter, healthcare, and education — is important for equality because, without access to these basic necessities and services, people cannot enjoy a life of dignity, cannot develop their capabilities, and cannot make effective use of their formal rights and freedoms. For example, the right to freedom of expression or the right to vote means little to someone who is starving, homeless, or illiterate. Guaranteeing a social minimum ensures that everyone has at least the basic conditions needed to live with dignity and to participate as an equal member of society; it is therefore regarded as essential for achieving meaningful, substantive equality — not just formal equality on paper — and is a key goal of welfare and social justice policies.", "difficulty": "medium" },
-  { "stem": "The overall aim of the ideal of equality, as discussed in the chapter, is to build a society in which:", "options": ["Some are privileged by birth and others are excluded", "All people are treated with equal dignity and respect, enjoy equal rights and fair opportunities, and unjust inequalities and discrimination are progressively removed", "Wealth and power are concentrated in a few hands", "Social hierarchies are strengthened"], "correct_index": 1, "solution": "The overall aim of the ideal of equality, as discussed in the chapter, is to build a society in which all people are treated with equal dignity and respect, enjoy equal fundamental rights and equal citizenship, and have fair and genuine opportunities to develop their potential and lead a life of dignity — a society in which unjust, arbitrary, and discriminatory inequalities (based on caste, race, gender, religion, birth, or the denial of basic opportunities) are progressively challenged and removed, and in which even the differences that remain do not translate into gross inequalities of basic rights, dignity, and opportunity. Achieving this vision requires securing political, social, and economic equality, going beyond formal legal equality to address deep-rooted disadvantages (including through affirmative action and a guaranteed social minimum), and continually working to make the promise of equal worth and equal opportunity a reality for all members of society.", "difficulty": "medium" },
-  { "stem": "Political theorists point out that a commitment to equality need not conflict with recognising individual merit, because:", "options": ["Merit should be ignored", "Equality of opportunity actually requires that positions and rewards be open to all on the basis of merit and effort, rather than being restricted by birth or discrimination", "Merit is determined by birth", "Only the privileged have merit"], "correct_index": 1, "solution": "Political theorists point out that a commitment to equality need not conflict with recognising individual merit, because the ideal of equality — particularly equality of opportunity — actually requires that positions, rewards, and opportunities be open to all on the basis of merit, talent, and effort, rather than being restricted or allocated by birth, caste, wealth, or discrimination. In a society with genuine equality of opportunity, everyone has a fair chance to develop and demonstrate their abilities and to be rewarded according to their merit and effort, without arbitrary barriers. Thus, far from opposing merit, the ideal of equality demands that merit be given its proper role by removing the unjust obstacles (like discrimination and unequal starting conditions) that prevent talented people from disadvantaged backgrounds from competing and succeeding on fair terms. The tension arises only if 'merit' is used as a cover for perpetuating existing privileges; genuine equality of opportunity seeks to ensure that everyone can compete fairly on the basis of their real abilities and efforts.", "difficulty": "hard" },
-  { "stem": "A key insight of the chapter is that different political ideologies (like liberalism, socialism, and others) agree on the value of equality but:", "options": ["Reject equality entirely", "Differ in how they understand equality and in the kinds and degrees of equality they emphasise (for example, formal/legal equality, equality of opportunity, or economic equality)", "Agree on everything", "Have no views on equality"], "correct_index": 1, "solution": "A key insight of the chapter is that different political ideologies (such as liberalism, socialism, and others) generally agree on the fundamental value of equality — that all human beings are of equal worth and deserve equal consideration — but they differ significantly in how they understand equality and in the kinds and degrees of equality they emphasise. For example, liberals tend to stress formal or legal equality and equality of opportunity (while accepting some economic inequality that results from fair competition), whereas socialists (and Marxists) emphasise economic equality and the reduction of class-based inequalities as fundamental, arguing that formal equality is hollow amid great economic disparities. These different interpretations lead to different views about what equality requires in practice and what policies should be pursued. Recognising these differences helps us understand the ongoing debates about equality and the different visions of an equal society that inform political life.", "difficulty": "medium" },
-  { "stem": "The concept of equality challenges us to constantly examine whether:", "options": ["Existing hierarchies are natural and just", "The existing distribution of rights, resources, opportunities, and respect in society is fair, or whether it reflects unjust inequalities and discrimination that ought to be remedied", "Inequality should be increased", "Only the powerful deserve consideration"], "correct_index": 1, "solution": "The concept of equality challenges us to constantly and critically examine whether the existing distribution of rights, resources, opportunities, status, and respect in society is genuinely fair and just, or whether it reflects unjust inequalities, discrimination, and hierarchies that ought to be remedied. Rather than accepting existing inequalities as natural, inevitable, or justified, the ideal of equality prompts us to question them — to ask whether people are being treated with equal dignity and respect, whether opportunities are genuinely open to all, whether some are being unfairly privileged or disadvantaged on arbitrary grounds, and whether the basic needs and rights of all are being met. In this way, the ideal of equality serves as a powerful critical standard for evaluating and reforming social and political arrangements, and as an ongoing challenge to work towards a fairer and more just society for all.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about equality and diversity is most accurate?", "options": ["Equality requires the elimination of all diversity", "Equality is compatible with and respects diversity; it demands equal dignity and rights for all while allowing people to be different in their beliefs, cultures, and ways of life", "Diversity always undermines equality", "Only a uniform society can be equal"], "correct_index": 1, "solution": "The most accurate statement is that equality is compatible with and respects diversity: the ideal of equality demands equal dignity, equal rights, and fair opportunities for all people, while at the same time allowing and respecting the legitimate diversity of individuals and communities — their different beliefs, cultures, languages, talents, and ways of life. Equality does not require making everyone the same or eliminating diversity; on the contrary, a commitment to equal respect for all persons includes respecting their right to be different and to pursue their own conceptions of the good life. What equality opposes is not diversity itself, but the unjust inequalities, discrimination, and denial of equal worth that so often accompany social differences. A genuinely equal society is therefore one that combines equal dignity and rights for all with a rich respect for human diversity and pluralism.", "difficulty": "medium" },
-  { "stem": "The idea that all human beings share a common humanity and are therefore fundamentally equal is a moral foundation that:", "options": ["Applies only within one country", "Underlies the modern conception of universal human rights, which holds that all persons everywhere are entitled to certain basic rights simply by virtue of being human", "Justifies discrimination", "Denies equality across nations"], "correct_index": 1, "solution": "The idea that all human beings share a common humanity and are therefore fundamentally equal in worth and dignity is a deep moral foundation that underlies the modern conception of universal human rights. This conception holds that all persons everywhere — regardless of their nationality, race, religion, gender, or any other characteristic — are entitled to certain basic rights and freedoms simply by virtue of being human, and are entitled to be treated with equal dignity and respect. The Universal Declaration of Human Rights, for example, begins by affirming the 'inherent dignity' and the 'equal and inalienable rights of all members of the human family'. Thus, the ideal of equality, grounded in the belief in the equal worth of all human beings, extends beyond the borders of any single society to embrace the whole of humanity, and inspires the ongoing global effort to secure equal rights, dignity, and justice for all people everywhere. This universal dimension of equality reminds us that the moral claims of equality are not confined to fellow citizens but extend, in principle, to all human beings.", "difficulty": "medium" },
-  { "stem": "The 'creamy layer' concept in the debate on reservations refers to:", "options": ["The poorest sections of society", "The relatively better-off and advanced sections within a backward group, who, some argue, should be excluded from reservation benefits so that these reach the genuinely disadvantaged", "The upper castes", "Foreign nationals"], "correct_index": 1, "solution": "The 'creamy layer' concept in the debate on reservations refers to the relatively better-off, advanced, and privileged sections within an otherwise backward or disadvantaged group, who have already achieved a higher level of social and economic advancement. It is argued by some that these more advanced individuals within a backward group should be excluded from reservation benefits, so that the benefits of affirmative action reach the genuinely disadvantaged members of the group who need them most. The creamy layer concept thus addresses the concern that the benefits of reservation should be more equitably distributed to help those who are truly disadvantaged, rather than being captured by the already privileged within a group.", "difficulty": "hard" },
-  { "stem": "Equality before the law and equal protection of the laws (Article 14) together mean that:", "options": ["Some people are above the law", "Everyone is equally subject to the ordinary law of the land, and the law protects everyone equally in like circumstances, without arbitrary discrimination", "The law applies only to the poor", "The rich are exempt from the law"], "correct_index": 1, "solution": "Equality before the law and equal protection of the laws (guaranteed by Article 14 of the Indian Constitution) together mean two things: first, that everyone — regardless of rank, status, or wealth — is equally subject to the ordinary law of the land and no one is above the law (equality before the law, a principle central to the rule of law); and second, that the law protects everyone equally, treating those in like circumstances alike, without arbitrary or unreasonable discrimination (equal protection of the laws). This does not forbid all classification — the law may treat different classes of people differently if there is a reasonable and relevant basis for doing so — but it forbids arbitrary, unreasonable, or discriminatory treatment. Together, these principles are a cornerstone of legal and political equality.", "difficulty": "medium" },
-  { "stem": "The persistence of inequality despite formal legal equality shows that:", "options": ["Legal equality is worthless", "Achieving genuine equality is a continuing struggle that requires addressing deep-rooted social attitudes, structures, and economic disadvantages, not just changing laws", "Inequality can never be reduced", "Laws have no role in promoting equality"], "correct_index": 1, "solution": "The persistence of inequality (such as caste discrimination, gender inequality, and economic disparities) despite the existence of formal legal equality shows that achieving genuine, substantive equality is a continuing and long-term struggle that requires much more than merely changing laws. It requires addressing deep-rooted social attitudes, prejudices, customs, and structures (like patriarchy and caste hierarchy), as well as the underlying economic disadvantages and unequal access to resources and opportunities that sustain inequality. While laws are important and necessary (they establish the principle of equality, prohibit discrimination, and enable action), they are not by themselves sufficient; realising equality in practice also demands social reform, changes in attitudes and behaviour, economic measures, education, and the sustained efforts of society and its members over time. This is why the quest for equality remains an ongoing endeavour even where legal equality has been formally established.", "difficulty": "medium" },
-  { "stem": "The idea that everyone should be able to participate as equals in the common life of the community is central to which understanding of equality?", "options": ["Purely economic equality", "The relational understanding of equality — equality as a matter of social relations, in which people relate to one another as equals rather than in relations of domination and subordination", "Formal legal equality only", "Inequality of status"], "correct_index": 1, "solution": "The idea that everyone should be able to participate as equals in the common life of the community — relating to one another as equals rather than in relations of domination, subordination, hierarchy, or disrespect — is central to a 'relational' or 'social' understanding of equality. On this view, equality is not just about the distribution of resources or formal rights, but about the character of social relations: a society of equals is one in which people treat and regard one another as equals, in which no group dominates or looks down upon another, and in which everyone can participate with equal dignity and standing in the shared social, economic, and political life of the community. This understanding highlights that inequality is often experienced not only as material deprivation but as social subordination, disrespect, and exclusion (as in the caste system), and that achieving equality therefore requires transforming the hierarchical and discriminatory social relations that deny people equal standing and dignity — building instead a society of equals in which all can hold their heads high and participate on equal terms.", "difficulty": "hard" },
-  { "stem": "A society deeply committed to equality would regard extreme concentrations of wealth as problematic because:", "options": ["Wealth is always good", "They can translate into concentrations of power, undermine equal opportunity and political equality, and leave many without the means for a dignified life", "The wealthy deserve all their wealth", "Concentration of wealth benefits everyone equally"], "correct_index": 1, "solution": "A society deeply committed to equality would regard extreme concentrations of wealth as problematic for several reasons: such concentrations can translate into concentrations of power and influence (over politics, media, and society), thereby undermining the political equality of citizens; they can undermine genuine equality of opportunity, since the children of the very wealthy enjoy enormous advantages while others start far behind; and they often coexist with, and are connected to, the deprivation of many who lack the means for a dignified life. Extreme economic inequality can thus corrode the equal dignity, equal standing, and equal opportunity that the ideal of equality seeks to secure, and can distort democracy and social relations. This is why a commitment to equality typically involves concern not only with lifting up the worst-off (guaranteeing a social minimum) but also with limiting extreme inequalities of wealth and power — through measures such as progressive taxation, welfare provision, and ensuring fair opportunities — so that great disparities do not undermine the equal worth, opportunities, and democratic standing of all members of society.", "difficulty": "medium" },
-  { "stem": "The struggle for equality in modern times has been closely associated with the extension of rights to previously excluded groups, such as:", "options": ["Only the wealthy", "Workers, women, racial and religious minorities, lower castes, and colonised peoples, who were historically denied equal rights and status", "Only the nobility", "Only rulers"], "correct_index": 1, "solution": "The struggle for equality in modern times has been closely associated with the progressive extension of rights, dignity, and equal status to groups that were historically excluded, marginalised, or oppressed — including workers (who fought for labour rights and against exploitation), women (who fought for equal political, legal, economic, and social rights against patriarchy), racial and religious minorities (who fought against discrimination and for equal treatment), lower castes and Dalits (who struggled against caste oppression and untouchability), and colonised peoples (who fought for freedom, self-determination, and recognition of their equal human dignity against colonial domination). In each case, the demand was for the recognition of the equal worth and dignity of previously excluded or subordinated groups, and for their inclusion as equals in the political, social, and economic life of society. The history of the modern world can, in significant part, be read as the gradual and hard-won expansion of the circle of those recognised as equals and entitled to equal rights — a process driven by the powerful moral and political ideal of equality, and one that continues today as new groups and issues press their claims to equal recognition and treatment.", "difficulty": "medium" },
-  { "stem": "The relationship between equality and democracy is that:", "options": ["Democracy requires inequality", "Democracy is founded on the principle of the political equality of all citizens (equal votes, equal rights), and the deepening of democracy involves extending equality to the social and economic spheres as well", "Equality is irrelevant to democracy", "Democracy opposes equality"], "correct_index": 1, "solution": "The relationship between equality and democracy is deep and close: democracy is founded on the principle of the political equality of all citizens — the idea that all citizens have an equal right to participate in governing themselves, expressed through equal votes ('one person, one vote, one value'), equal political rights, and equality before the law. In this sense, democracy is the political embodiment of the ideal of equality. Moreover, the deepening and strengthening of democracy is widely seen as involving the extension of equality beyond the political sphere to the social and economic spheres as well — reducing social discrimination and economic disparities so that the formal political equality of citizens is matched by genuine social and economic equality, giving all citizens a real and equal stake in society. Great inequalities of wealth, status, and power can undermine the substance of democracy even where formal political equality exists. Thus, equality and democracy are mutually reinforcing ideals: democracy rests on political equality, and its full realisation calls for the progressive achievement of social and economic equality as well.", "difficulty": "medium" }
+  {
+    "stem": "Equality is a powerful moral and political ideal that has inspired many struggles. Its basic idea is that:",
+    "options": [
+      "All people should be identical",
+      "All human beings are of equal worth and are entitled to equal consideration and equal rights, regardless of their differences",
+      "Only some people matter",
+      "Wealth should be distributed unequally"
+    ],
+    "correct_index": 1,
+    "solution": "The basic idea of equality is that all human beings are of equal worth and dignity, and are therefore entitled to equal consideration, equal treatment, and equal rights, regardless of their differences of birth, caste, religion, race, gender, or wealth. Equality does not mean that all people are identical, but that they deserve equal respect and equal opportunity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Equality does NOT mean that all people are the same or should be treated identically in every respect; rather, it means:",
+    "options": [
+      "Everyone must have identical talents",
+      "That all people should be given equal rights, equal respect, and equal opportunities, and that relevant differences may justify some differences in treatment while irrelevant differences (like caste or race) should not",
+      "That differences should be ignored entirely",
+      "That the strong should rule"
+    ],
+    "correct_index": 1,
+    "solution": "Equality does not require that all people be exactly the same or be treated identically in every respect. It means that all people should enjoy equal rights, equal respect, and equal opportunities; that no one should be discriminated against on the basis of irrelevant characteristics (like caste, race, religion, gender, or birth); and that relevant differences (like differences in need or effort) may justify some differences in treatment, while morally irrelevant ones should not affect people's basic rights and opportunities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Political equality' in a democracy is expressed through provisions such as:",
+    "options": [
+      "Reserving political power for the rich",
+      "Universal adult franchise (one person, one vote of equal value), equality before the law, and equal access to public office",
+      "Voting rights only for property owners",
+      "Hereditary political privileges"
+    ],
+    "correct_index": 1,
+    "solution": "Political equality in a democracy is expressed through provisions such as universal adult franchise (one person, one vote, each vote of equal value), equality before the law and equal protection of the laws, and equal access to public office and participation in the political process, regardless of caste, religion, gender, or wealth. It guarantees to all citizens equal political rights and an equal say in the governance of the community.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Social equality' requires:",
+    "options": [
+      "The preservation of social hierarchies",
+      "The absence of discrimination and the abolition of social hierarchies and barriers (like caste and untouchability) that deny people equal status and dignity",
+      "Rule by the upper classes",
+      "Special privileges for some groups by birth"
+    ],
+    "correct_index": 1,
+    "solution": "Social equality requires the absence of discrimination and the abolition of social hierarchies, barriers, and practices (like the caste system, untouchability, and racial or gender discrimination) that deny people equal social status, dignity, and opportunity. It means that all members of society should be treated with equal respect and should have equal access to social goods and opportunities, regardless of their social background.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Economic equality' is concerned with:",
+    "options": [
+      "Making everyone identically rich",
+      "Reducing the great disparities of wealth and income, and ensuring that everyone has access to at least the basic necessities and opportunities for a decent life",
+      "Concentrating wealth in a few hands",
+      "Ignoring poverty"
+    ],
+    "correct_index": 1,
+    "solution": "Economic equality is concerned with reducing the great disparities of wealth, income, and property between people, and ensuring that everyone has access to at least the basic necessities of life (food, shelter, health, education) and to opportunities for a decent standard of living. It does not necessarily mean making everyone identically rich (absolute equality of income), but rather reducing extreme and unjust inequalities and guaranteeing a minimum standard of living and opportunity for all.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Complete or absolute equality of all conditions (everyone having exactly the same) is generally not sought because:",
+    "options": [
+      "It is easy to achieve",
+      "It is neither practical nor perhaps desirable, since people differ in their needs, talents, and efforts; the aim is usually equality of rights, respect, and opportunity, and the removal of unjust inequalities",
+      "Equality is unimportant",
+      "It benefits the rich"
+    ],
+    "correct_index": 1,
+    "solution": "Complete or absolute equality — everyone having exactly the same in every respect — is generally not sought because it is neither practical nor necessarily desirable: people differ in their needs, talents, efforts, and choices, and treating everyone identically regardless of these differences could itself be unfair. Instead, the ideal of equality usually aims at equality of rights, equal respect and dignity, equality of opportunity, and the removal of unjust, arbitrary, and extreme inequalities (like those based on birth or discrimination), rather than at making everyone's condition absolutely identical.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Equality of opportunity' means:",
+    "options": [
+      "Everyone gets identical outcomes",
+      "That everyone should have an equal chance to develop their talents and pursue their goals, without facing discrimination or artificial barriers based on irrelevant factors like caste, gender, or birth",
+      "Only the privileged get opportunities",
+      "Opportunities are distributed by birth"
+    ],
+    "correct_index": 1,
+    "solution": "Equality of opportunity means that everyone should have an equal chance to develop their talents, capabilities, and potential, and to pursue their goals and compete for positions and rewards, without facing discrimination or artificial barriers based on morally irrelevant factors like caste, gender, religion, race, or family background. It requires that opportunities (in education, employment, etc.) be open to all on the basis of merit and effort, rather than being restricted by birth or social status. It focuses on fair chances rather than identical outcomes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Some argue that equality of opportunity alone is not enough, because:",
+    "options": [
+      "Opportunities are unimportant",
+      "People start from very unequal conditions (of wealth, education, and social advantage), so formal equality of opportunity may not give everyone a genuinely fair chance unless underlying disadvantages are also addressed",
+      "Everyone starts equal",
+      "Opportunity should be denied to the poor"
+    ],
+    "correct_index": 1,
+    "solution": "Some argue that equality of opportunity alone is not enough because people start from very unequal conditions — differences in wealth, education, family background, and social advantage. If two people start from vastly unequal positions, merely giving them the same formal opportunity (like the same right to compete) may not give them a genuinely fair or equal chance, since the disadvantaged person faces obstacles the privileged one does not. Hence, achieving real equality of opportunity may require addressing the underlying disadvantages (through measures like free education, and support for the disadvantaged), so that everyone has a genuinely fair chance to succeed.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The practice of making special provisions or preferential treatment for disadvantaged groups (like reservations for SCs, STs, and OBCs) is known as:",
+    "options": [
+      "Discrimination",
+      "Affirmative action (or protective discrimination / positive discrimination)",
+      "Untouchability",
+      "Segregation"
+    ],
+    "correct_index": 1,
+    "solution": "The practice of making special provisions or preferential treatment for historically disadvantaged and marginalised groups (like reservations for Scheduled Castes, Scheduled Tribes, and Other Backward Classes in India) is known as affirmative action, also called 'protective discrimination' or 'positive discrimination'. Its aim is to compensate for past and present disadvantages and discrimination, and to help these groups achieve genuine equality of opportunity and status.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The justification for affirmative action (like reservations) is that:",
+    "options": [
+      "It creates new inequalities for their own sake",
+      "Formal equality is not enough to overcome deep-rooted, historical disadvantages, so special measures are needed to help disadvantaged groups achieve real equality of opportunity and status",
+      "It benefits the already privileged",
+      "It is unfair to the disadvantaged"
+    ],
+    "correct_index": 1,
+    "solution": "The justification for affirmative action (such as reservations) is that formal or legal equality (treating everyone identically) is not sufficient to overcome the deep-rooted, cumulative, and historical disadvantages faced by certain groups (like those subjected to caste discrimination for centuries). Special measures — such as reservations in education, employment, and legislatures — are needed to compensate for past and continuing disadvantages, to 'level the playing field', and to help these groups achieve genuine equality of opportunity, status, and participation. Affirmative action thus treats people differently (temporarily and for a purpose) in order to achieve real, substantive equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A criticism sometimes made of affirmative action is that:",
+    "options": [
+      "It helps too few people",
+      "It may amount to reverse discrimination against others, or that benefits may not reach the most needy within the group; supporters respond that such measures are necessary to correct historical injustice",
+      "It is never justified",
+      "It creates perfect equality instantly"
+    ],
+    "correct_index": 1,
+    "solution": "A criticism sometimes made of affirmative action is that it may amount to 'reverse discrimination' against individuals who are not from the disadvantaged groups (by giving preferential treatment to others), or that its benefits may not always reach the most needy within the beneficiary group (the 'creamy layer' concern). Supporters respond that such measures are a necessary and justified means to correct deep historical injustices and disadvantages, to promote genuine equality, and that they are meant to be temporary measures aimed at eventually achieving a more equal society. The debate over affirmative action reflects genuine tensions in balancing formal equality with substantive equality and social justice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The relationship between equality and liberty (freedom) is that:",
+    "options": [
+      "They are always in complete opposition",
+      "They are both fundamental values that can sometimes be in tension but are also deeply connected; a just society seeks to reconcile and secure both freedom and equality for all",
+      "Equality always destroys liberty",
+      "Liberty is unimportant"
+    ],
+    "correct_index": 1,
+    "solution": "The relationship between equality and liberty (freedom) is that they are two fundamental values that can sometimes appear to be in tension (for example, unrestricted economic liberty may lead to great inequality, and some measures to promote equality may restrict certain liberties), but they are also deeply connected and complementary: genuine freedom for all requires a measure of equality (since extreme inequality leaves many without the means to be truly free), and equality without freedom would be undesirable. A just society, rather than sacrificing one for the other, seeks to reconcile and secure both liberty and equality for all its members, balancing them appropriately.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Marxist' or socialist tradition emphasises which kind of equality as fundamental?",
+    "options": [
+      "Only formal legal equality",
+      "Economic equality — the abolition of class divisions and the great inequalities of wealth and property that arise from private ownership of the means of production",
+      "Only political equality",
+      "Inequality of wealth"
+    ],
+    "correct_index": 1,
+    "solution": "The Marxist or socialist tradition emphasises economic equality as fundamental. Marxists argue that formal legal and political equality is not enough, and can even be hollow, if there are great underlying economic inequalities and class divisions. They trace these inequalities to the private ownership of the means of production, which allows one class (the owners) to dominate and exploit another (the workers). The socialist ideal aims at abolishing such class divisions and drastically reducing economic inequalities, often through collective or state ownership of major resources, to achieve genuine equality and end exploitation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Liberals typically believe that some degree of economic inequality is acceptable, provided that:",
+    "options": [
+      "The poor are ignored",
+      "It results from fair competition and equality of opportunity, rewards effort and talent, and there is a basic minimum standard of living for all",
+      "Inequality is unlimited",
+      "Only birth determines wealth"
+    ],
+    "correct_index": 1,
+    "solution": "Liberals typically believe that some degree of economic inequality is acceptable and even necessary, provided that it results from fair competition under conditions of genuine equality of opportunity, that it rewards effort, talent, and contribution (thereby providing incentives), and that a basic minimum standard of living and essential opportunities are guaranteed to everyone. In this view, inequalities that arise from fair processes and that benefit society (or at least do not leave anyone destitute) can be justified, whereas inequalities based on discrimination, birth, or the denial of basic opportunities are unjust. Liberals thus emphasise equality of opportunity and a social minimum rather than absolute economic equality.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A major source of inequality in the world, according to the chapter, is:",
+    "options": [
+      "Only natural talent",
+      "Socially created inequalities — such as those based on caste, race, gender, and class, as well as unequal access to resources and opportunities",
+      "Only the weather",
+      "Nothing man-made"
+    ],
+    "correct_index": 1,
+    "solution": "A major source of inequality in the world is socially created inequalities — those arising not from natural differences but from social structures, practices, and institutions, such as inequalities based on caste, race, gender, religion, and class, as well as unequal access to resources, education, and opportunities. Because these inequalities are socially created and often unjust (based on morally irrelevant factors or on domination and discrimination), they can and should be addressed and reduced through social reform, just laws, and appropriate policies — unlike differences that are purely natural.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The struggle against gender inequality (patriarchy) aims to:",
+    "options": [
+      "Reinforce male dominance",
+      "End the discrimination, subordination, and unequal treatment of women, and secure for women equal rights, opportunities, dignity, and status with men",
+      "Exclude women from public life",
+      "Preserve traditional hierarchies"
+    ],
+    "correct_index": 1,
+    "solution": "The struggle against gender inequality (patriarchy — the system of male dominance) aims to end the discrimination, subordination, and unequal treatment that women have historically faced, and to secure for women equal rights, opportunities, dignity, respect, and status with men in all spheres — political, social, economic, and personal. This includes ensuring women's equal access to education, employment, property, political participation, and freedom from violence and discrimination. Gender equality is an important dimension of the broader ideal of equality, recognising that women, who form half of humanity, are entitled to full equality with men.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The abolition of untouchability by the Indian Constitution (Article 17) is an important step towards:",
+    "options": [
+      "Preserving caste inequality",
+      "Social equality — ending one of the most oppressive forms of caste-based discrimination and affirming the equal dignity of all human beings",
+      "Increasing discrimination",
+      "Rewarding the upper castes"
+    ],
+    "correct_index": 1,
+    "solution": "The abolition of untouchability by the Indian Constitution (Article 17) is an important step towards social equality; untouchability was one of the most oppressive, degrading, and dehumanising forms of caste-based discrimination, denying millions of people basic dignity, rights, and access to public spaces and resources. By abolishing untouchability and making its practice a punishable offence, the Constitution affirmed the equal dignity and worth of all human beings and struck a blow against the caste hierarchy — reflecting the deep commitment to social equality and the eradication of caste-based injustice that lies at the heart of the constitutional vision.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three main ways of promoting equality identified in political theory include establishing formal (legal) equality, and:",
+    "options": [
+      "Ignoring differences",
+      "Differential treatment of some groups (affirmative action) to address disadvantage, and measures to reduce inequalities of resources and opportunity",
+      "Preserving privileges",
+      "Increasing discrimination"
+    ],
+    "correct_index": 1,
+    "solution": "The main ways of promoting equality include: (1) establishing formal or legal equality — ending legally sanctioned inequalities and discrimination, and treating all people equally before the law; (2) differential treatment of some groups (affirmative action / protective discrimination) — treating disadvantaged groups differently and giving them special provisions to compensate for and overcome their disadvantages; and (3) measures to reduce underlying inequalities of resources, wealth, and opportunity (like land reforms, welfare measures, and universal education) — so that everyone has genuine access to the conditions of a decent life. Together, these approaches address the different dimensions and sources of inequality.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Formal equality (equality before the law) is important but insufficient by itself because:",
+    "options": [
+      "Laws are unimportant",
+      "Legal equality alone does not remove the deep social and economic inequalities and disadvantages that prevent people from enjoying genuine, substantive equality in practice",
+      "It creates too much equality",
+      "It benefits only the poor"
+    ],
+    "correct_index": 1,
+    "solution": "Formal equality (equality before the law — the principle that all are equal in the eyes of the law and subject to the same laws) is important as a foundation, but it is insufficient by itself because legal equality alone does not remove the deep social and economic inequalities, disadvantages, and discrimination that exist in society and that prevent people from enjoying genuine, substantive equality in practice. For example, two people may be formally equal before the law, but if one is rich and educated and the other poor and illiterate, their real chances in life are very unequal. Hence, achieving substantive equality requires going beyond formal legal equality to address the underlying social and economic disadvantages, through affirmative action and measures to reduce inequality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Equality' is that:",
+    "options": [
+      "Equality means making everyone identical",
+      "Equality is a fundamental value affirming the equal worth and dignity of all human beings and their entitlement to equal rights, respect, and opportunities; it has political, social, and economic dimensions, and achieving genuine (substantive) equality requires not just formal legal equality but also the removal of social and economic disadvantages, including through affirmative action",
+      "Equality is unimportant",
+      "Inequality should be preserved"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that equality is a fundamental political and moral value, affirming the equal worth and dignity of all human beings and their entitlement to equal rights, equal respect, and equal opportunities, regardless of morally irrelevant differences like caste, race, gender, religion, or birth. Equality has several dimensions — political (equal political rights and participation), social (absence of discrimination and social hierarchies), and economic (reduction of gross disparities of wealth and access to a decent life). Equality does not mean making everyone identical, but securing equal rights and fair opportunities for all. Achieving genuine or substantive equality requires more than formal legal equality; it requires actively removing the deep-rooted social and economic disadvantages and discrimination that many face — including, where necessary, through affirmative action (special provisions for disadvantaged groups) — so that everyone truly has a fair and equal chance to live a life of dignity and to develop their potential.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea of 'equal respect for all persons' is grounded in the belief that:",
+    "options": [
+      "Some people are naturally superior",
+      "Every human being, regardless of their differences, possesses an inherent worth and dignity that entitles them to be treated with equal respect and consideration",
+      "Only the wealthy deserve respect",
+      "Respect is earned by birth"
+    ],
+    "correct_index": 1,
+    "solution": "The idea of 'equal respect for all persons' is grounded in the belief that every human being, regardless of their differences of birth, caste, race, gender, religion, wealth, or ability, possesses an inherent and equal worth and dignity simply by virtue of being human. This inherent worth entitles every person to be treated with equal respect, consideration, and concern, and forbids treating anyone as inferior, or as a mere means to others' ends. This fundamental moral belief in the equal dignity of all persons is the deepest foundation of the ideal of equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Natural inequalities (differences in talent, ability, or effort) are distinguished from socially produced inequalities in that:",
+    "options": [
+      "Both are equally unjust",
+      "Natural differences arise from the varied capacities of individuals, whereas socially produced inequalities arise from unjust social structures and practices (like discrimination) and are the main concern of the ideal of equality",
+      "Social inequalities are natural",
+      "Neither can be changed"
+    ],
+    "correct_index": 1,
+    "solution": "Natural inequalities are distinguished from socially produced inequalities: natural inequalities arise from the varied natural capacities, talents, and abilities of different individuals (some are more gifted in certain respects than others), whereas socially produced inequalities arise from unjust social structures, institutions, and practices — such as caste and gender discrimination, unequal access to resources and opportunities, and exploitation. The ideal of equality is primarily concerned with the socially produced inequalities, which are often unjust (based on morally irrelevant factors or on domination) and can and should be addressed through social reform and just policies. Even regarding natural differences, a just society tries to ensure they do not translate into gross inequalities of basic rights, dignity, and opportunity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The feminist movement's demand for equality is based on the recognition that:",
+    "options": [
+      "Women are inferior to men",
+      "Women have historically been subjected to discrimination and subordination in a patriarchal society, and are entitled to full equality of rights, opportunities, and dignity with men",
+      "Only men have rights",
+      "Gender roles are natural and unchangeable"
+    ],
+    "correct_index": 1,
+    "solution": "The feminist movement's demand for equality is based on the recognition that women have historically been subjected to systematic discrimination, subordination, and unequal treatment in a male-dominated (patriarchal) society — denied equal rights, opportunities, and dignity in political, economic, social, and personal spheres. Feminists argue that these inequalities are not natural or justified, but are socially constructed and unjust, and that women, as equal human beings, are entitled to full equality of rights, opportunities, and dignity with men. The movement seeks to end gender-based discrimination and to transform the social structures and attitudes that sustain women's subordination.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The provision of free and compulsory education for all children can be seen as a means of promoting equality because:",
+    "options": [
+      "It benefits only the rich",
+      "Education is a key means of developing individuals' capabilities and giving disadvantaged children a fairer chance in life, thereby promoting genuine equality of opportunity",
+      "It has no effect on equality",
+      "It preserves existing inequalities"
+    ],
+    "correct_index": 1,
+    "solution": "The provision of free and compulsory education for all children can be seen as an important means of promoting equality because education is a key means of developing individuals' knowledge, skills, and capabilities, and of giving children from disadvantaged backgrounds a fairer chance to improve their lives and compete on more equal terms. By ensuring that all children — regardless of their family's wealth or social status — have access to education, a society can help level the playing field, reduce the transmission of disadvantage across generations, and promote genuine equality of opportunity. This is why universal education is regarded as one of the most powerful instruments for advancing substantive equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept of 'equal citizenship' means that:",
+    "options": [
+      "Only some residents are citizens",
+      "All citizens, regardless of their differences, enjoy the same fundamental rights, equal legal and political status, and equal membership in the political community",
+      "Citizenship is based on wealth",
+      "Citizens have unequal rights"
+    ],
+    "correct_index": 1,
+    "solution": "The concept of 'equal citizenship' means that all citizens of a country, regardless of their differences of caste, religion, race, gender, language, or wealth, enjoy the same fundamental rights, the same equal legal and political status, and equal membership in the political community. Every citizen is entitled to the same basic rights and freedoms, the same protection of the law, and the same opportunity to participate in public life. Equal citizenship is a core expression of the ideal of equality in the political sphere; it rejects any system of graded or unequal citizenship (where some are 'first-class' and others 'second-class' citizens) and affirms the equal standing of all members of the political community.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that gross economic inequalities can undermine political equality is based on the observation that:",
+    "options": [
+      "Wealth has no effect on politics",
+      "Those with great wealth may have far greater influence over political decisions, media, and access to power than ordinary citizens, thereby undermining the principle of equal political voice",
+      "The poor control politics",
+      "Money is irrelevant to power"
+    ],
+    "correct_index": 1,
+    "solution": "The idea that gross economic inequalities can undermine political equality is based on the observation that those with great wealth and economic power may be able to exercise far greater influence over political decisions, elections, the media, and access to power than ordinary citizens — through campaign funding, lobbying, control of media, and other means. This means that, in practice, formal political equality (one person, one vote) can be undermined by economic inequality, as the wealthy gain disproportionate political voice and influence. This is one reason why concerns about equality often extend to economic inequality — because extreme economic disparities can threaten the genuine political equality of citizens and the health of democracy itself.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following best captures the difference between 'equality of opportunity' and 'equality of outcome'?",
+    "options": [
+      "They are the same thing",
+      "Equality of opportunity gives everyone a fair chance to compete and succeed, while equality of outcome aims at everyone actually ending up with the same results or rewards",
+      "Equality of outcome ignores fairness",
+      "Equality of opportunity guarantees identical results"
+    ],
+    "correct_index": 1,
+    "solution": "The difference between equality of opportunity and equality of outcome is important: equality of opportunity aims to give everyone a fair and equal chance to compete, develop their talents, and succeed (removing discrimination and barriers), while accepting that people may end up with different results depending on their choices, effort, and abilities. Equality of outcome (or result), by contrast, aims at everyone actually ending up with the same results, rewards, or conditions, regardless of differences in effort or choice. Most conceptions of equality emphasise equality of opportunity (fair chances) and the reduction of unjust inequalities and a decent minimum for all, rather than strict equality of outcome, which is generally seen as neither practical nor entirely fair given differences in effort and choice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The recognition and accommodation of the special needs of some groups (such as ramps for persons with disabilities) reflects the understanding that:",
+    "options": [
+      "Everyone should be treated identically regardless of need",
+      "Treating everyone the same is not always fair; genuine equality sometimes requires taking account of people's different needs and circumstances to give them a real chance at equal participation",
+      "Special needs should be ignored",
+      "Only the majority's needs matter"
+    ],
+    "correct_index": 1,
+    "solution": "The recognition and accommodation of the special needs of some groups — such as providing ramps and other facilities for persons with disabilities — reflects the important understanding that treating everyone in exactly the same way is not always fair or truly equal. Genuine (substantive) equality sometimes requires taking account of people's different needs and circumstances and making appropriate accommodations, so that everyone has a real and equal chance to participate fully in society and to access opportunities and public spaces. Ignoring genuine differences in need can effectively exclude some people and perpetuate inequality; recognising and accommodating such differences is a way of achieving real equality of participation and opportunity for all, including those with special needs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ideal of equality has been a driving force behind many historical movements, including:",
+    "options": [
+      "Movements to preserve slavery",
+      "The anti-slavery, anti-colonial, civil rights, anti-caste, and women's rights movements, which all fought against unjust inequalities and for equal rights and dignity",
+      "Movements to increase discrimination",
+      "Movements to entrench hierarchy"
+    ],
+    "correct_index": 1,
+    "solution": "The ideal of equality has been a powerful driving force behind many of history's great emancipatory movements, including: the anti-slavery (abolitionist) movement, which fought to end slavery and affirm the equal humanity of all; anti-colonial movements (like India's freedom struggle), which asserted the equal dignity and self-determination of colonised peoples; the civil rights movement (as in the USA), which fought against racial discrimination; anti-caste movements in India, which struggled against caste-based oppression and untouchability; and the women's rights (feminist) movement, which fought against gender discrimination. All these movements were inspired by the demand for equal rights, equal dignity, and an end to unjust inequalities — testifying to the enduring moral and political power of the ideal of equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The distinction between 'treating people equally' and 'treating people as equals' highlights that:",
+    "options": [
+      "They always mean identical treatment",
+      "Treating people as equals (with equal concern and respect) may sometimes require treating them differently, according to their different needs and circumstances, rather than identically",
+      "People should never be treated as equals",
+      "Equal treatment is always unfair"
+    ],
+    "correct_index": 1,
+    "solution": "The distinction between 'treating people equally' (identically) and 'treating people as equals' (with equal concern and respect) highlights an important insight: treating people as equals — that is, with equal concern, respect, and consideration for their worth and needs — may sometimes require treating them differently rather than identically, precisely because their needs and circumstances differ. For example, giving extra support to a disadvantaged child, or making special accommodations for a person with a disability, treats them as equals (showing equal concern for their well-being and equal chance to participate) even though it does not treat them identically to others. Thus, genuine equality (equal concern and respect for all) is not always the same as uniform, identical treatment; it may require differential treatment to achieve real fairness and equal outcomes in terms of dignity, opportunity, and participation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Marxists argue that the root cause of inequality in capitalist societies is:",
+    "options": [
+      "Natural differences among people",
+      "The private ownership of the means of production, which enables one class to control resources and exploit the labour of others",
+      "Too much government",
+      "Equality of opportunity"
+    ],
+    "correct_index": 1,
+    "solution": "Marxists argue that the root cause of inequality in capitalist societies is the private ownership of the means of production (factories, land, capital). This allows one class — the owners of capital (the bourgeoisie) — to control the resources and the means of livelihood, and to exploit the labour of the working class (the proletariat), who own nothing but their labour and must work for the owners. This unequal ownership and the resulting exploitation, Marxists contend, generate the deep economic inequalities and class divisions of capitalist society. The Marxist solution is to abolish the private ownership of the means of production (through collective or social ownership), so as to end class-based exploitation and inequality and achieve a genuinely equal, classless society.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Indian Constitution seeks to promote equality through provisions such as:",
+    "options": [
+      "Establishing a caste hierarchy",
+      "The right to equality (Articles 14-18), the abolition of untouchability, the prohibition of discrimination, reservations for disadvantaged groups, and directive principles aimed at reducing inequalities",
+      "Titles and privileges by birth",
+      "Denying rights to minorities"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian Constitution seeks to promote equality through a range of provisions, including: the Right to Equality (Articles 14-18), guaranteeing equality before the law, prohibiting discrimination on grounds of religion, race, caste, sex, or place of birth, ensuring equality of opportunity in public employment, abolishing untouchability, and abolishing titles; provisions for reservations and special measures (affirmative action) for Scheduled Castes, Scheduled Tribes, and backward classes; and the Directive Principles of State Policy, which direct the state to reduce inequalities of income, status, and opportunity and to promote the welfare of the people. Together, these provisions reflect the Constitution's strong commitment to promoting political, social, and economic equality and to building a more egalitarian society.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The value of equality is closely tied to the value of justice because:",
+    "options": [
+      "Justice requires inequality",
+      "A just society is one that treats its members fairly and as equals, giving each their due and not privileging some over others on arbitrary grounds",
+      "Justice ignores equality",
+      "They are opposites"
+    ],
+    "correct_index": 1,
+    "solution": "The value of equality is closely tied to the value of justice because a just society is generally understood to be one that treats its members fairly and as equals — giving each person their due, respecting the equal worth and dignity of all, and not arbitrarily privileging some over others or discriminating against some on morally irrelevant grounds. Injustice often takes the form of unjust inequality — the unfair, arbitrary, or discriminatory treatment of some people, or the unjust distribution of resources, rights, and opportunities. Thus, the pursuit of justice frequently involves the pursuit of greater equality (equal rights, equal treatment, fair opportunities, and a fair distribution of social goods), and the two values are deeply intertwined in the vision of a good and fair society.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The demand for equality is not a demand for uniformity but for:",
+    "options": [
+      "The elimination of all differences",
+      "The end of unjust and arbitrary inequalities and discrimination, and the securing of equal dignity, rights, and opportunities for all, while respecting legitimate diversity",
+      "Rule by an elite",
+      "Identical treatment ignoring all needs"
+    ],
+    "correct_index": 1,
+    "solution": "The demand for equality is not a demand for uniformity — for making everyone identical or eliminating all differences among people. Rather, it is a demand for the end of unjust, arbitrary, and discriminatory inequalities (like those based on caste, race, gender, or birth), and for securing equal dignity, equal rights, equal respect, and fair opportunities for all people, while at the same time respecting and accommodating the legitimate diversity of individuals and communities (in their beliefs, cultures, talents, and ways of life). Genuine equality is thus compatible with — and indeed respects — human diversity and difference; what it opposes is not difference as such, but the unjust hierarchies, discrimination, and denial of equal worth and opportunity that so often accompany it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the best example of a socially created inequality that the ideal of equality seeks to remove?",
+    "options": [
+      "Differences in individuals' natural artistic talent",
+      "The denial of education, dignity, and opportunity to people on the basis of their caste or gender",
+      "Differences in personal preferences",
+      "Variations in individual effort"
+    ],
+    "correct_index": 1,
+    "solution": "The best example of a socially created inequality that the ideal of equality seeks to remove is the denial of education, dignity, rights, and opportunity to people on the basis of their caste or gender (or race, religion, etc.). Such inequalities are not natural but are produced and sustained by unjust social structures, practices, hierarchies, and discrimination; they deny people equal worth and opportunity on the basis of morally irrelevant characteristics. These are precisely the kinds of unjust, socially created inequalities that the ideal of equality — and measures like anti-discrimination laws, the abolition of untouchability, affirmative action, and universal education — aims to identify, challenge, and remove, in order to secure genuine equality of dignity, rights, and opportunity for all.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The principle that 'no one should be discriminated against on grounds of caste, race, religion, sex, or place of birth' is an expression of:",
+    "options": [
+      "Social hierarchy",
+      "The commitment to equality and non-discrimination, treating all persons as equals regardless of morally irrelevant characteristics",
+      "Privilege by birth",
+      "The rule of the powerful"
+    ],
+    "correct_index": 1,
+    "solution": "The principle that 'no one should be discriminated against on grounds of caste, race, religion, sex, or place of birth' is a clear expression of the commitment to equality and non-discrimination. It affirms that all persons should be treated as equals — with equal rights, respect, and opportunities — regardless of characteristics (like caste, race, religion, sex, or birthplace) that are morally irrelevant to their worth and to how they should be treated. Discriminating against people on such grounds denies their equal dignity and worth and perpetuates unjust inequalities. This principle, enshrined in the Indian Constitution (Article 15) and in the constitutions and human rights declarations of many countries, is one of the core practical expressions of the ideal of equality in law and public life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea of a 'social minimum' — guaranteeing everyone access to basic goods like food, shelter, healthcare, and education — is important for equality because:",
+    "options": [
+      "It benefits only the rich",
+      "Without access to basic necessities and services, people cannot enjoy a life of dignity or make effective use of their rights and freedoms, so guaranteeing a social minimum is essential for meaningful equality",
+      "Basic needs are unimportant",
+      "It creates inequality"
+    ],
+    "correct_index": 1,
+    "solution": "The idea of a 'social minimum' — guaranteeing everyone access to basic goods and services like adequate food, shelter, healthcare, and education — is important for equality because, without access to these basic necessities and services, people cannot enjoy a life of dignity, cannot develop their capabilities, and cannot make effective use of their formal rights and freedoms. For example, the right to freedom of expression or the right to vote means little to someone who is starving, homeless, or illiterate. Guaranteeing a social minimum ensures that everyone has at least the basic conditions needed to live with dignity and to participate as an equal member of society; it is therefore regarded as essential for achieving meaningful, substantive equality — not just formal equality on paper — and is a key goal of welfare and social justice policies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall aim of the ideal of equality, as discussed in the chapter, is to build a society in which:",
+    "options": [
+      "Some are privileged by birth and others are excluded",
+      "All people are treated with equal dignity and respect, enjoy equal rights and fair opportunities, and unjust inequalities and discrimination are progressively removed",
+      "Wealth and power are concentrated in a few hands",
+      "Social hierarchies are strengthened"
+    ],
+    "correct_index": 1,
+    "solution": "The overall aim of the ideal of equality, as discussed in the chapter, is to build a society in which all people are treated with equal dignity and respect, enjoy equal fundamental rights and equal citizenship, and have fair and genuine opportunities to develop their potential and lead a life of dignity — a society in which unjust, arbitrary, and discriminatory inequalities (based on caste, race, gender, religion, birth, or the denial of basic opportunities) are progressively challenged and removed, and in which even the differences that remain do not translate into gross inequalities of basic rights, dignity, and opportunity. Achieving this vision requires securing political, social, and economic equality, going beyond formal legal equality to address deep-rooted disadvantages (including through affirmative action and a guaranteed social minimum), and continually working to make the promise of equal worth and equal opportunity a reality for all members of society.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Political theorists point out that a commitment to equality need not conflict with recognising individual merit, because:",
+    "options": [
+      "Merit should be ignored",
+      "Equality of opportunity actually requires that positions and rewards be open to all on the basis of merit and effort, rather than being restricted by birth or discrimination",
+      "Merit is determined by birth",
+      "Only the privileged have merit"
+    ],
+    "correct_index": 1,
+    "solution": "Political theorists point out that a commitment to equality need not conflict with recognising individual merit, because the ideal of equality — particularly equality of opportunity — actually requires that positions, rewards, and opportunities be open to all on the basis of merit, talent, and effort, rather than being restricted or allocated by birth, caste, wealth, or discrimination. In a society with genuine equality of opportunity, everyone has a fair chance to develop and demonstrate their abilities and to be rewarded according to their merit and effort, without arbitrary barriers. Thus, far from opposing merit, the ideal of equality demands that merit be given its proper role by removing the unjust obstacles (like discrimination and unequal starting conditions) that prevent talented people from disadvantaged backgrounds from competing and succeeding on fair terms. The tension arises only if 'merit' is used as a cover for perpetuating existing privileges; genuine equality of opportunity seeks to ensure that everyone can compete fairly on the basis of their real abilities and efforts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A key insight of the chapter is that different political ideologies (like liberalism, socialism, and others) agree on the value of equality but:",
+    "options": [
+      "Reject equality entirely",
+      "Differ in how they understand equality and in the kinds and degrees of equality they emphasise (for example, formal/legal equality, equality of opportunity, or economic equality)",
+      "Agree on everything",
+      "Have no views on equality"
+    ],
+    "correct_index": 1,
+    "solution": "A key insight of the chapter is that different political ideologies (such as liberalism, socialism, and others) generally agree on the fundamental value of equality — that all human beings are of equal worth and deserve equal consideration — but they differ significantly in how they understand equality and in the kinds and degrees of equality they emphasise. For example, liberals tend to stress formal or legal equality and equality of opportunity (while accepting some economic inequality that results from fair competition), whereas socialists (and Marxists) emphasise economic equality and the reduction of class-based inequalities as fundamental, arguing that formal equality is hollow amid great economic disparities. These different interpretations lead to different views about what equality requires in practice and what policies should be pursued. Recognising these differences helps us understand the ongoing debates about equality and the different visions of an equal society that inform political life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept of equality challenges us to constantly examine whether:",
+    "options": [
+      "Existing hierarchies are natural and just",
+      "The existing distribution of rights, resources, opportunities, and respect in society is fair, or whether it reflects unjust inequalities and discrimination that ought to be remedied",
+      "Inequality should be increased",
+      "Only the powerful deserve consideration"
+    ],
+    "correct_index": 1,
+    "solution": "The concept of equality challenges us to constantly and critically examine whether the existing distribution of rights, resources, opportunities, status, and respect in society is genuinely fair and just, or whether it reflects unjust inequalities, discrimination, and hierarchies that ought to be remedied. Rather than accepting existing inequalities as natural, inevitable, or justified, the ideal of equality prompts us to question them — to ask whether people are being treated with equal dignity and respect, whether opportunities are genuinely open to all, whether some are being unfairly privileged or disadvantaged on arbitrary grounds, and whether the basic needs and rights of all are being met. In this way, the ideal of equality serves as a powerful critical standard for evaluating and reforming social and political arrangements, and as an ongoing challenge to work towards a fairer and more just society for all.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about equality and diversity is most accurate?",
+    "options": [
+      "Equality requires the elimination of all diversity",
+      "Equality is compatible with and respects diversity; it demands equal dignity and rights for all while allowing people to be different in their beliefs, cultures, and ways of life",
+      "Diversity always undermines equality",
+      "Only a uniform society can be equal"
+    ],
+    "correct_index": 1,
+    "solution": "The most accurate statement is that equality is compatible with and respects diversity: the ideal of equality demands equal dignity, equal rights, and fair opportunities for all people, while at the same time allowing and respecting the legitimate diversity of individuals and communities — their different beliefs, cultures, languages, talents, and ways of life. Equality does not require making everyone the same or eliminating diversity; on the contrary, a commitment to equal respect for all persons includes respecting their right to be different and to pursue their own conceptions of the good life. What equality opposes is not diversity itself, but the unjust inequalities, discrimination, and denial of equal worth that so often accompany social differences. A genuinely equal society is therefore one that combines equal dignity and rights for all with a rich respect for human diversity and pluralism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that all human beings share a common humanity and are therefore fundamentally equal is a moral foundation that:",
+    "options": [
+      "Applies only within one country",
+      "Underlies the modern conception of universal human rights, which holds that all persons everywhere are entitled to certain basic rights simply by virtue of being human",
+      "Justifies discrimination",
+      "Denies equality across nations"
+    ],
+    "correct_index": 1,
+    "solution": "The idea that all human beings share a common humanity and are therefore fundamentally equal in worth and dignity is a deep moral foundation that underlies the modern conception of universal human rights. This conception holds that all persons everywhere — regardless of their nationality, race, religion, gender, or any other characteristic — are entitled to certain basic rights and freedoms simply by virtue of being human, and are entitled to be treated with equal dignity and respect. The Universal Declaration of Human Rights, for example, begins by affirming the 'inherent dignity' and the 'equal and inalienable rights of all members of the human family'. Thus, the ideal of equality, grounded in the belief in the equal worth of all human beings, extends beyond the borders of any single society to embrace the whole of humanity, and inspires the ongoing global effort to secure equal rights, dignity, and justice for all people everywhere. This universal dimension of equality reminds us that the moral claims of equality are not confined to fellow citizens but extend, in principle, to all human beings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'creamy layer' concept in the debate on reservations refers to:",
+    "options": [
+      "The poorest sections of society",
+      "The relatively better-off and advanced sections within a backward group, who, some argue, should be excluded from reservation benefits so that these reach the genuinely disadvantaged",
+      "The upper castes",
+      "Foreign nationals"
+    ],
+    "correct_index": 1,
+    "solution": "The 'creamy layer' concept in the debate on reservations refers to the relatively better-off, advanced, and privileged sections within an otherwise backward or disadvantaged group, who have already achieved a higher level of social and economic advancement. It is argued by some that these more advanced individuals within a backward group should be excluded from reservation benefits, so that the benefits of affirmative action reach the genuinely disadvantaged members of the group who need them most. The creamy layer concept thus addresses the concern that the benefits of reservation should be more equitably distributed to help those who are truly disadvantaged, rather than being captured by the already privileged within a group.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Equality before the law and equal protection of the laws (Article 14) together mean that:",
+    "options": [
+      "Some people are above the law",
+      "Everyone is equally subject to the ordinary law of the land, and the law protects everyone equally in like circumstances, without arbitrary discrimination",
+      "The law applies only to the poor",
+      "The rich are exempt from the law"
+    ],
+    "correct_index": 1,
+    "solution": "Equality before the law and equal protection of the laws (guaranteed by Article 14 of the Indian Constitution) together mean two things: first, that everyone — regardless of rank, status, or wealth — is equally subject to the ordinary law of the land and no one is above the law (equality before the law, a principle central to the rule of law); and second, that the law protects everyone equally, treating those in like circumstances alike, without arbitrary or unreasonable discrimination (equal protection of the laws). This does not forbid all classification — the law may treat different classes of people differently if there is a reasonable and relevant basis for doing so — but it forbids arbitrary, unreasonable, or discriminatory treatment. Together, these principles are a cornerstone of legal and political equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The persistence of inequality despite formal legal equality shows that:",
+    "options": [
+      "Legal equality is worthless",
+      "Achieving genuine equality is a continuing struggle that requires addressing deep-rooted social attitudes, structures, and economic disadvantages, not just changing laws",
+      "Inequality can never be reduced",
+      "Laws have no role in promoting equality"
+    ],
+    "correct_index": 1,
+    "solution": "The persistence of inequality (such as caste discrimination, gender inequality, and economic disparities) despite the existence of formal legal equality shows that achieving genuine, substantive equality is a continuing and long-term struggle that requires much more than merely changing laws. It requires addressing deep-rooted social attitudes, prejudices, customs, and structures (like patriarchy and caste hierarchy), as well as the underlying economic disadvantages and unequal access to resources and opportunities that sustain inequality. While laws are important and necessary (they establish the principle of equality, prohibit discrimination, and enable action), they are not by themselves sufficient; realising equality in practice also demands social reform, changes in attitudes and behaviour, economic measures, education, and the sustained efforts of society and its members over time. This is why the quest for equality remains an ongoing endeavour even where legal equality has been formally established.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that everyone should be able to participate as equals in the common life of the community is central to which understanding of equality?",
+    "options": [
+      "Purely economic equality",
+      "The relational understanding of equality — equality as a matter of social relations, in which people relate to one another as equals rather than in relations of domination and subordination",
+      "Formal legal equality only",
+      "Inequality of status"
+    ],
+    "correct_index": 1,
+    "solution": "The idea that everyone should be able to participate as equals in the common life of the community — relating to one another as equals rather than in relations of domination, subordination, hierarchy, or disrespect — is central to a 'relational' or 'social' understanding of equality. On this view, equality is not just about the distribution of resources or formal rights, but about the character of social relations: a society of equals is one in which people treat and regard one another as equals, in which no group dominates or looks down upon another, and in which everyone can participate with equal dignity and standing in the shared social, economic, and political life of the community. This understanding highlights that inequality is often experienced not only as material deprivation but as social subordination, disrespect, and exclusion (as in the caste system), and that achieving equality therefore requires transforming the hierarchical and discriminatory social relations that deny people equal standing and dignity — building instead a society of equals in which all can hold their heads high and participate on equal terms.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A society deeply committed to equality would regard extreme concentrations of wealth as problematic because:",
+    "options": [
+      "Wealth is always good",
+      "They can translate into concentrations of power, undermine equal opportunity and political equality, and leave many without the means for a dignified life",
+      "The wealthy deserve all their wealth",
+      "Concentration of wealth benefits everyone equally"
+    ],
+    "correct_index": 1,
+    "solution": "A society deeply committed to equality would regard extreme concentrations of wealth as problematic for several reasons: such concentrations can translate into concentrations of power and influence (over politics, media, and society), thereby undermining the political equality of citizens; they can undermine genuine equality of opportunity, since the children of the very wealthy enjoy enormous advantages while others start far behind; and they often coexist with, and are connected to, the deprivation of many who lack the means for a dignified life. Extreme economic inequality can thus corrode the equal dignity, equal standing, and equal opportunity that the ideal of equality seeks to secure, and can distort democracy and social relations. This is why a commitment to equality typically involves concern not only with lifting up the worst-off (guaranteeing a social minimum) but also with limiting extreme inequalities of wealth and power — through measures such as progressive taxation, welfare provision, and ensuring fair opportunities — so that great disparities do not undermine the equal worth, opportunities, and democratic standing of all members of society.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The struggle for equality in modern times has been closely associated with the extension of rights to previously excluded groups, such as:",
+    "options": [
+      "Only the wealthy",
+      "Workers, women, racial and religious minorities, lower castes, and colonised peoples, who were historically denied equal rights and status",
+      "Only the nobility",
+      "Only rulers"
+    ],
+    "correct_index": 1,
+    "solution": "The struggle for equality in modern times has been closely associated with the progressive extension of rights, dignity, and equal status to groups that were historically excluded, marginalised, or oppressed — including workers (who fought for labour rights and against exploitation), women (who fought for equal political, legal, economic, and social rights against patriarchy), racial and religious minorities (who fought against discrimination and for equal treatment), lower castes and Dalits (who struggled against caste oppression and untouchability), and colonised peoples (who fought for freedom, self-determination, and recognition of their equal human dignity against colonial domination). In each case, the demand was for the recognition of the equal worth and dignity of previously excluded or subordinated groups, and for their inclusion as equals in the political, social, and economic life of society. The history of the modern world can, in significant part, be read as the gradual and hard-won expansion of the circle of those recognised as equals and entitled to equal rights — a process driven by the powerful moral and political ideal of equality, and one that continues today as new groups and issues press their claims to equal recognition and treatment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Equality does NOT mean that all people are exactly the same; rather, it means:",
+    "options": [
+      "Equal worth, equal rights and equal opportunity for all",
+      "Identical incomes for all",
+      "Uniform abilities",
+      "No differences at all"
+    ],
+    "correct_index": 0,
+    "solution": "Equality does not mean sameness of persons; it means that all human beings have equal worth and are entitled to equal rights, equal respect, and equal opportunity, regardless of their differences.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Political equality' in a democracy is expressed mainly through:",
+    "options": [
+      "Equal citizenship, the right to vote, and equal political rights",
+      "Equal wealth",
+      "Uniform opinions",
+      "Equal land"
+    ],
+    "correct_index": 0,
+    "solution": "Political equality is expressed through equal citizenship and rights such as the right to vote (one person, one vote), the right to contest elections, freedom of expression and equal access to public office.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Equality of opportunity' means that:",
+    "options": [
+      "Everyone should have an equal chance to develop and compete, without unfair barriers",
+      "Everyone gets the same reward",
+      "Talent is ignored",
+      "Effort does not matter"
+    ],
+    "correct_index": 0,
+    "solution": "Equality of opportunity means that everyone should have an equal chance to pursue their goals and develop their talents, and that success should depend on ability and effort rather than unfair barriers of birth, caste or wealth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Affirmative action (such as reservations) is justified on the ground that:",
+    "options": [
+      "Special measures are needed to correct historic disadvantage and achieve real equality of opportunity",
+      "The disadvantaged should get nothing",
+      "Merit alone should decide everything",
+      "Inequality is natural"
+    ],
+    "correct_index": 0,
+    "solution": "Affirmative action is justified because merely removing legal barriers is not enough; special provisions are needed to help historically disadvantaged groups overcome long-standing discrimination and achieve genuine equality of opportunity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Marxist tradition emphasises which kind of equality as fundamental?",
+    "options": [
+      "Economic equality (ending class-based inequality)",
+      "Only political equality",
+      "Only equality before the law",
+      "Natural equality of talent"
+    ],
+    "correct_index": 0,
+    "solution": "Marxists argue that economic inequality — rooted in private ownership of the means of production — is the fundamental inequality, and that real equality requires ending class-based economic exploitation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Formal (legal) equality alone may not produce real equality. Reason (R): Deep social and economic disadvantages can prevent people from actually enjoying equal opportunities.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Formal equality before the law does not guarantee real equality because entrenched social and economic disadvantages (poverty, caste, lack of education) can prevent people from actually competing on equal terms — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Affirmative action is sometimes criticised. Reason (R): Critics argue it may amount to reverse discrimination and compromise merit.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Affirmative action is criticised by some on the ground that giving preferential treatment to some groups may unfairly disadvantage others ('reverse discrimination') and may compromise merit — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The three main ways of promoting equality identified in the chapter are establishing formal equality, differential treatment for special needs, and:",
+    "options": [
+      "Affirmative action to correct disadvantage",
+      "Abolishing all rights",
+      "Ignoring differences",
+      "Concentrating wealth"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter identifies three ways of promoting equality: establishing formal equality (equal rights and equality before law), treating some differently to meet their special needs, and affirmative action to correct historical disadvantage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The distinction between 'treating people equally' and 'treating people as equals' is that:",
+    "options": [
+      "Treating as equals may require different treatment to give everyone genuine equality",
+      "They are identical",
+      "Treating as equals means ignoring people",
+      "Equal treatment always achieves equality"
+    ],
+    "correct_index": 0,
+    "solution": "Treating everyone identically may not achieve equality; treating people 'as equals' recognises that those with special needs or disadvantages may require different or additional support to enjoy genuinely equal opportunity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The abolition of untouchability by the Indian Constitution is an example of promoting:",
+    "options": [
+      "Social equality",
+      "Economic equality only",
+      "Foreign policy",
+      "Inequality"
+    ],
+    "correct_index": 0,
+    "solution": "The abolition of untouchability (Article 17) is a key measure to promote social equality by removing a deeply entrenched form of caste-based discrimination and affirming the equal dignity of all persons.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea of a 'social minimum' means guaranteeing everyone:",
+    "options": [
+      "A basic minimum of goods and conditions needed for a dignified life",
+      "Equal wealth",
+      "No support",
+      "The same job"
+    ],
+    "correct_index": 0,
+    "solution": "The idea of a social minimum is that society should guarantee to every person a basic minimum of goods and services — like food, shelter, health and education — necessary to live a decent and dignified life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The feminist movement's demand for equality is based on the argument that:",
+    "options": [
+      "Women should have the same rights and opportunities as men and be free of patriarchal domination",
+      "Women are inferior",
+      "Men and women cannot be equal",
+      "Only men should have rights"
+    ],
+    "correct_index": 0,
+    "solution": "The feminist movement demands gender equality, arguing that women should enjoy the same rights, opportunities and dignity as men, and be free from the domination and discrimination of patriarchy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Formal equality (equality before the law) is important because it:",
+    "options": [
+      "Ensures the law treats everyone the same, with no legal privileges or discrimination",
+      "Guarantees equal wealth",
+      "Removes all differences",
+      "Serves only the rich"
+    ],
+    "correct_index": 0,
+    "solution": "Formal equality means the law applies equally to all, with no one above the law and no legal privileges based on birth or status; it is a crucial first step, though not sufficient by itself for full equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Natural inequalities (differences in talent or ability) differ from social inequalities in that natural inequalities:",
+    "options": [
+      "Arise from differences among individuals, while social inequalities are created by society and can be unjust",
+      "Are always unjust",
+      "Are created by law",
+      "Do not exist"
+    ],
+    "correct_index": 0,
+    "solution": "Natural inequalities arise from differences of talent, capacity or effort among individuals, whereas social inequalities are created by society (through discrimination, unequal opportunity) and are often considered unjust and remediable.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the type of equality with its focus: (i) Political (ii) Social (iii) Economic — (a) wealth and income (b) equal rights and vote (c) removing caste/gender discrimination:",
+    "options": [
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-a, (iii)-c"
+    ],
+    "correct_index": 0,
+    "solution": "Political equality concerns equal rights and the vote; social equality concerns removing caste, gender and other discrimination; economic equality concerns disparities in wealth and income.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The provision of free and compulsory education for all children promotes equality by:",
+    "options": [
+      "Giving all children, rich or poor, an equal foundation and opportunity",
+      "Favouring the rich",
+      "Excluding the poor",
+      "Ending education"
+    ],
+    "correct_index": 0,
+    "solution": "Free and compulsory education for all children (Article 21A) promotes equality of opportunity by ensuring that every child, regardless of family wealth, gets a basic education and a fairer chance in life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that gross economic inequalities can undermine political equality suggests that:",
+    "options": [
+      "Extreme wealth can give some people disproportionate political power",
+      "Wealth has no effect on politics",
+      "The poor have more power",
+      "Economics and politics are separate"
+    ],
+    "correct_index": 0,
+    "solution": "Gross economic inequality can undermine political equality because the very wealthy may use their resources to gain disproportionate influence over politics, media and policy, weakening the equal say of ordinary citizens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the best example of a socially imposed (unjust) inequality?",
+    "options": [
+      "Denying someone a job because of their caste",
+      "One person being taller than another",
+      "Differences in personal taste",
+      "Natural variation in talent"
+    ],
+    "correct_index": 0,
+    "solution": "Denying someone a job or opportunity because of their caste, religion or gender is a socially imposed, unjust inequality created by discrimination, unlike natural differences of height or talent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The principle that 'no one should be discriminated against on grounds of caste, religion, race or sex' is enshrined in the Indian Constitution as part of the:",
+    "options": [
+      "Right to Equality",
+      "Right to Freedom",
+      "Directive Principles",
+      "Fundamental Duties"
+    ],
+    "correct_index": 0,
+    "solution": "The prohibition of discrimination on grounds of religion, race, caste, sex or place of birth (Article 15) is part of the Right to Equality guaranteed by the Constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Equality before the law and equal protection of the laws are guaranteed by which article of the Indian Constitution?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 32"
+    ],
+    "correct_index": 0,
+    "solution": "Article 14 guarantees to every person equality before the law and the equal protection of the laws within the territory of India, the foundation of the Right to Equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The relationship between equality and democracy is that:",
+    "options": [
+      "Democracy is founded on the principle of the political equality of all citizens",
+      "They are opposed",
+      "Democracy requires inequality",
+      "They are unrelated"
+    ],
+    "correct_index": 0,
+    "solution": "Democracy is founded on political equality — the principle that every citizen has an equal say (one person, one vote) and equal political rights; equality is thus essential to the very idea of democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The recognition and accommodation of the special needs of some groups (like the disabled or disadvantaged) is a form of:",
+    "options": [
+      "Treating people as equals through differential treatment",
+      "Discrimination against them",
+      "Ignoring equality",
+      "Uniform treatment"
+    ],
+    "correct_index": 0,
+    "solution": "Providing for the special needs of disadvantaged groups — such as ramps for the disabled or reservations for backward classes — is a way of treating people as equals by giving them what they need to enjoy genuinely equal opportunity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ideal of equality has been a driving force behind many:",
+    "options": [
+      "Social and political movements against oppression and discrimination",
+      "Wars of conquest",
+      "Dictatorships",
+      "Efforts to preserve privilege"
+    ],
+    "correct_index": 0,
+    "solution": "The ideal of equality has inspired many great social and political movements — against slavery, colonialism, apartheid, caste discrimination and gender inequality — as people struggled for equal rights and dignity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Liberals typically believe that some degree of economic inequality is acceptable if:",
+    "options": [
+      "Everyone has fair equality of opportunity and a basic minimum is guaranteed",
+      "No one is helped",
+      "The rich take everything",
+      "Opportunity is denied"
+    ],
+    "correct_index": 0,
+    "solution": "Liberals generally accept some economic inequality as long as there is fair equality of opportunity for all and a guaranteed social minimum, so that inequalities reflect effort and talent rather than unfair barriers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A society deeply committed to equality would regard extreme concentrations of wealth as:",
+    "options": [
+      "A concern, since they can undermine equal opportunity and political equality",
+      "Ideal",
+      "Irrelevant",
+      "A sign of justice"
+    ],
+    "correct_index": 0,
+    "solution": "A society committed to equality would view extreme concentrations of wealth with concern, since such disparities can undermine equal opportunity, distort political equality, and leave many without a decent life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The struggle for equality in modern times has been closely linked with movements for:",
+    "options": [
+      "Rights, democracy and social justice",
+      "Preserving privilege",
+      "Restoring monarchy",
+      "Ending democracy"
+    ],
+    "correct_index": 0,
+    "solution": "The modern struggle for equality has been closely linked with movements for civil and political rights, democracy, and social justice, as people demanded equal treatment, opportunity and dignity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Political theorists point out that a commitment to equality requires society to:",
+    "options": [
+      "Constantly examine and remove unjust inequalities and barriers",
+      "Ignore inequality",
+      "Preserve all differences",
+      "Concentrate power"
+    ],
+    "correct_index": 0,
+    "solution": "A genuine commitment to equality requires society to continually examine its institutions and practices, identify unjust inequalities and barriers, and take steps to remove them, since equality is an ongoing project.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Different political ideologies (liberal, socialist, feminist) differ mainly in:",
+    "options": [
+      "Which kinds of inequality they emphasise and how they propose to achieve equality",
+      "Whether they value equality at all",
+      "Their rejection of all rights",
+      "Their support for privilege"
+    ],
+    "correct_index": 0,
+    "solution": "Different ideologies all value equality but differ in emphasis — liberals stress equal opportunity and rights, socialists stress economic equality, and feminists stress gender equality — and in the means they favour to achieve it.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The idea that all human beings share a common humanity implies that:",
+    "options": [
+      "No one should be treated as inferior or denied basic rights",
+      "Some are naturally superior",
+      "Rights depend on birth",
+      "Equality is impossible"
+    ],
+    "correct_index": 0,
+    "solution": "The recognition of a shared common humanity implies that all people deserve equal moral consideration and basic rights, and that no one should be treated as inferior or denied dignity on grounds of birth, caste, race or gender.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that everyone should be able to participate as an equal member of society reflects the value of:",
+    "options": [
+      "Equal citizenship and social equality",
+      "Privilege",
+      "Hierarchy",
+      "Exclusion"
+    ],
+    "correct_index": 0,
+    "solution": "The idea that all persons should participate as equal members of society, with equal rights and dignity, reflects the linked values of equal citizenship and social equality that the chapter upholds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best captures the difference between equality of opportunity and equality of outcome?",
+    "options": [
+      "Equality of opportunity means an equal starting chance; equality of outcome means equal results",
+      "They are the same",
+      "Opportunity means equal wealth",
+      "Outcome means equal chances"
+    ],
+    "correct_index": 0,
+    "solution": "Equality of opportunity means everyone has an equal chance to compete and develop; equality of outcome means everyone ends up with equal results. Most modern theories favour fair equality of opportunity with a guaranteed minimum, rather than identical outcomes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The concept of equality challenges us to examine whether inequalities are:",
+    "options": [
+      "Just and justifiable, or the result of unfair discrimination",
+      "Always acceptable",
+      "Always natural",
+      "Never present"
+    ],
+    "correct_index": 0,
+    "solution": "The ideal of equality challenges us to constantly examine existing inequalities and ask whether they are just and justifiable (e.g., based on effort) or the result of unfair discrimination and privilege that ought to be removed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A criticism of complete or absolute economic equality (everyone having identical incomes) is that it:",
+    "options": [
+      "May remove incentives and ignore differences in effort and need",
+      "Is easily achieved",
+      "Is always just",
+      "Increases freedom"
+    ],
+    "correct_index": 0,
+    "solution": "Absolute economic equality is criticised because it may remove incentives to work and innovate, ignore differences in effort, contribution and need, and require excessive state control; most theories favour reducing gross inequality rather than enforcing identical incomes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall aim of the ideal of equality is to:",
+    "options": [
+      "Create a society where all persons are treated with equal dignity and have a fair chance to flourish",
+      "Make everyone identical",
+      "Preserve privilege",
+      "Concentrate power in a few"
+    ],
+    "correct_index": 0,
+    "solution": "The overall aim of the ideal of equality is to build a society in which all persons are treated with equal respect and dignity, unjust inequalities are removed, and everyone has a fair opportunity to develop their capacities and lead a good life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Equality is a powerful moral and political ideal because it:",
+    "options": [
+      "Affirms the equal worth and dignity of every human being",
+      "Serves only the powerful",
+      "Divides society",
+      "Has no practical effect"
+    ],
+    "correct_index": 0,
+    "solution": "Equality is a powerful ideal because it affirms that every human being is of equal worth and dignity and deserves equal rights and consideration, inspiring struggles against oppression and injustice throughout history.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Some argue that equality of opportunity alone is not enough because:",
+    "options": [
+      "People start from very unequal social and economic positions",
+      "Opportunity is unimportant",
+      "Everyone starts equal",
+      "Effort does not matter"
+    ],
+    "correct_index": 0,
+    "solution": "Critics argue that formal equality of opportunity is not enough when people start from vastly unequal positions (in wealth, education, social background), so additional measures like affirmative action and a social minimum are needed for real equality.",
+    "difficulty": "medium"
+  }
 ]
