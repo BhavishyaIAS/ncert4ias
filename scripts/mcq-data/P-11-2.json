@@ -1,52 +1,962 @@
 [
-  { "stem": "The Fundamental Rights in the Indian Constitution are contained in which Part?", "options": ["Part III", "Part IV", "Part II", "Part V"], "correct_index": 0, "solution": "The Fundamental Rights are enshrined in Part III of the Constitution (Articles 12 to 35), often described as the 'Magna Carta' of India.", "difficulty": "medium" },
-  { "stem": "Rights that are given a special status by being written into the constitution and are enforceable by courts are called:", "options": ["Legal rights", "Fundamental Rights", "Directive Principles", "Natural rights"], "correct_index": 1, "solution": "Fundamental Rights are those rights which are given a special status in the constitution; the constitution itself ensures that they are not violated by the government, and they are enforceable by the courts.", "difficulty": "medium" },
-  { "stem": "The main difference between ordinary legal rights and Fundamental Rights is that:", "options": ["Legal rights are more important", "Fundamental Rights are protected and guaranteed by the constitution, while ordinary legal rights are protected by ordinary law and can be changed by the legislature by an ordinary process", "There is no difference", "Fundamental Rights can be removed easily"], "correct_index": 1, "solution": "Ordinary legal rights are protected by ordinary law and can be altered by the legislature through the ordinary process of law-making; Fundamental Rights are protected and guaranteed by the constitution itself, and cannot be taken away by an ordinary law.", "difficulty": "medium" },
-  { "stem": "Originally, the Constitution provided for how many categories of Fundamental Rights?", "options": ["Six", "Seven", "Five", "Three"], "correct_index": 1, "solution": "Originally the Constitution provided for seven Fundamental Rights; the Right to Property was later removed from the list of Fundamental Rights (by the 44th Amendment, 1978), leaving six Fundamental Rights.", "difficulty": "hard" },
-  { "stem": "The Right to Property was removed from the list of Fundamental Rights by which amendment, and made an ordinary legal right?", "options": ["42nd Amendment", "44th Amendment (1978)", "1st Amendment", "73rd Amendment"], "correct_index": 1, "solution": "The 44th Amendment Act, 1978, removed the Right to Property from the list of Fundamental Rights; it is now an ordinary legal/constitutional right under Article 300A.", "difficulty": "hard" },
-  { "stem": "The six Fundamental Rights currently guaranteed are: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and the:", "options": ["Right to Property", "Right to Constitutional Remedies", "Right to Vote", "Right to Work"], "correct_index": 1, "solution": "The six Fundamental Rights are: the Right to Equality, the Right to Freedom, the Right against Exploitation, the Right to Freedom of Religion, Cultural and Educational Rights, and the Right to Constitutional Remedies.", "difficulty": "medium" },
-  { "stem": "The Right to Equality (Article 14) guarantees to every person:", "options": ["Special privileges for the rich", "Equality before law and equal protection of the laws", "Rights only to citizens", "Voting rights only"], "correct_index": 1, "solution": "Article 14 guarantees the Right to Equality — equality before the law and equal protection of the laws to every person, meaning that all are equal in the eyes of the law and no one is above the law.", "difficulty": "medium" },
-  { "stem": "Article 17 of the Constitution abolishes:", "options": ["Slavery", "Untouchability", "Child labour", "Bonded labour"], "correct_index": 1, "solution": "Article 17 abolishes untouchability and forbids its practice in any form; the enforcement of any disability arising out of untouchability is an offence punishable by law.", "difficulty": "medium" },
-  { "stem": "The prohibition of discrimination on grounds only of religion, race, caste, sex or place of birth is guaranteed under the Right to Equality by:", "options": ["Article 14", "Article 15", "Article 19", "Article 21"], "correct_index": 1, "solution": "Article 15 prohibits discrimination on grounds only of religion, race, caste, sex or place of birth; it also allows the state to make special provisions for women, children, and socially and educationally backward classes.", "difficulty": "hard" },
-  { "stem": "The abolition of titles (except military and academic distinctions) is provided under Article 18 as part of the:", "options": ["Right to Freedom", "Right to Equality", "Right to Religion", "Cultural Rights"], "correct_index": 1, "solution": "Article 18, part of the Right to Equality, abolishes titles; the state cannot confer titles (except military and academic distinctions), reinforcing the equality of status among citizens.", "difficulty": "hard" },
-  { "stem": "Article 16 provides for equality of opportunity in matters of:", "options": ["Marriage", "Public employment", "Trade", "Religion"], "correct_index": 1, "solution": "Article 16 guarantees equality of opportunity for all citizens in matters relating to employment or appointment to any office under the state; it also permits reservation for backward classes not adequately represented.", "difficulty": "medium" },
-  { "stem": "The Right to Freedom under Article 19 guarantees six freedoms, including freedom of speech and expression, assembly, association, movement, residence, and:", "options": ["Freedom to bear arms", "Freedom to practise any profession, or to carry on any occupation, trade or business", "Freedom to break laws", "Freedom to hold titles"], "correct_index": 1, "solution": "Article 19 guarantees six freedoms: speech and expression; assembly (peacefully and without arms); association; movement throughout the territory of India; residence in any part of India; and to practise any profession, or to carry on any occupation, trade or business.", "difficulty": "medium" },
-  { "stem": "The freedoms under Article 19 are not absolute; the state can impose:", "options": ["No restrictions", "Reasonable restrictions in the interest of the security of the state, public order, decency, morality, etc.", "Unlimited restrictions", "Restrictions only during elections"], "correct_index": 1, "solution": "The freedoms under Article 19 are not absolute; the state can impose reasonable restrictions on them in the interest of the security of the state, public order, decency, morality, sovereignty and integrity of India, friendly relations with foreign states, contempt of court, and defamation.", "difficulty": "medium" },
-  { "stem": "Article 21 guarantees the protection of:", "options": ["Property", "Life and personal liberty — no person shall be deprived of his life or personal liberty except according to procedure established by law", "Religion only", "Voting"], "correct_index": 1, "solution": "Article 21 provides that no person shall be deprived of his life or personal liberty except according to procedure established by law; the Supreme Court has interpreted it expansively to include the right to live with dignity, livelihood, privacy, education, clean environment, etc.", "difficulty": "medium" },
-  { "stem": "The Right to Education (Article 21A), making free and compulsory education a fundamental right for children aged 6 to 14, was added by which amendment?", "options": ["42nd Amendment", "86th Amendment (2002)", "44th Amendment", "73rd Amendment"], "correct_index": 1, "solution": "The 86th Constitutional Amendment Act, 2002, inserted Article 21A, making the Right to Education a Fundamental Right — free and compulsory education for all children between the ages of 6 and 14 years.", "difficulty": "hard" },
-  { "stem": "Article 22 provides protection to persons against:", "options": ["Free speech", "Arbitrary arrest and detention (protection in certain cases of arrest and detention)", "Voting", "Education"], "correct_index": 1, "solution": "Article 22 provides protection against arbitrary arrest and detention; an arrested person must be informed of the grounds of arrest, has the right to consult a lawyer, and must be produced before a magistrate within 24 hours (with some exceptions for preventive detention).", "difficulty": "medium" },
-  { "stem": "The Right against Exploitation (Articles 23 and 24) prohibits:", "options": ["Free trade", "Traffic in human beings, forced labour (begar), and the employment of children below 14 years in hazardous work", "Religious practices", "Political meetings"], "correct_index": 1, "solution": "The Right against Exploitation prohibits traffic in human beings and forced labour (begar) under Article 23, and prohibits the employment of children below the age of 14 years in factories, mines, or other hazardous work under Article 24.", "difficulty": "medium" },
-  { "stem": "Article 24 specifically prohibits the employment of children below the age of 14 in:", "options": ["Any work", "Factories, mines and other hazardous occupations", "Schools", "Homes"], "correct_index": 1, "solution": "Article 24 prohibits the employment of children below the age of 14 years in any factory, mine or other hazardous employment; this protects children from exploitation in dangerous work.", "difficulty": "medium" },
-  { "stem": "The Right to Freedom of Religion (Articles 25-28) guarantees to every person the freedom of:", "options": ["Only Hinduism", "Conscience, and the right freely to profess, practise and propagate religion", "Only to citizens", "Only in temples"], "correct_index": 1, "solution": "Article 25 guarantees to all persons the freedom of conscience and the right freely to profess, practise and propagate religion, subject to public order, morality and health.", "difficulty": "medium" },
-  { "stem": "The Indian concept of secularism, as reflected in the freedom of religion articles, means that:", "options": ["The state promotes one religion", "The state has no religion of its own, treats all religions equally, and gives all citizens freedom of religion", "Religion is banned", "Only minorities have religious rights"], "correct_index": 1, "solution": "Indian secularism means the state has no official religion; it treats all religions equally and with respect, does not discriminate on religious grounds, and guarantees all citizens the freedom to practise their religion — while retaining the power to intervene to ensure equality (e.g., banning untouchability).", "difficulty": "medium" },
-  { "stem": "The Cultural and Educational Rights (Articles 29 and 30) are meant primarily to protect the interests of:", "options": ["The majority community", "Minorities — their right to conserve their language, script and culture and to establish and administer educational institutions", "The government", "Business houses"], "correct_index": 1, "solution": "The Cultural and Educational Rights protect the interests of minorities: Article 29 protects the right of any section of citizens to conserve its distinct language, script or culture; Article 30 gives religious and linguistic minorities the right to establish and administer educational institutions of their choice.", "difficulty": "medium" },
-  { "stem": "The Right to Constitutional Remedies (Article 32) was described by Dr. B.R. Ambedkar as:", "options": ["An unnecessary right", "The 'heart and soul' of the Constitution", "A minor provision", "A directive principle"], "correct_index": 1, "solution": "Dr. B.R. Ambedkar called the Right to Constitutional Remedies (Article 32) the 'heart and soul' of the Constitution, because it provides the means to enforce all the other Fundamental Rights by approaching the courts.", "difficulty": "hard" },
-  { "stem": "The Right to Constitutional Remedies allows a citizen to move the courts (Supreme Court under Article 32, High Courts under Article 226) for the enforcement of Fundamental Rights. The courts can issue orders known as:", "options": ["Ordinances", "Writs", "Bills", "Amendments"], "correct_index": 1, "solution": "Under the Right to Constitutional Remedies, the courts can issue writs — orders to enforce Fundamental Rights. These writs are habeas corpus, mandamus, prohibition, quo warranto and certiorari.", "difficulty": "medium" },
-  { "stem": "The writ of Habeas Corpus is issued to:", "options": ["Order a public official to perform a duty", "Produce a detained/arrested person before the court and secure their release if the detention is illegal", "Prevent a lower court from exceeding its jurisdiction", "Question a person's authority to hold an office"], "correct_index": 1, "solution": "Habeas Corpus (literally 'you may have the body') is a writ requiring that a detained person be produced before the court; if the court finds the detention illegal, it orders the person's release. It safeguards personal liberty against unlawful detention.", "difficulty": "hard" },
-  { "stem": "The writ of Mandamus is issued to:", "options": ["Release a detained person", "Command a public official or body to perform a duty it has failed to perform", "Quash an order", "Transfer a case"], "correct_index": 1, "solution": "Mandamus (meaning 'we command') is a writ issued by a court commanding a public official, government, or lower court to perform a public or statutory duty that it has failed or refused to perform.", "difficulty": "hard" },
-  { "stem": "The writ of Quo Warranto is issued to:", "options": ["Produce a detained person", "Enquire into the legality of a person's claim to a public office and prevent illegal occupation of that office", "Command performance of a duty", "Quash a decision"], "correct_index": 1, "solution": "Quo Warranto ('by what authority') is a writ issued to enquire into the legality of a person's claim to hold a public office; if the claim is not valid, the court can prevent the person from holding that office.", "difficulty": "hard" },
-  { "stem": "The Directive Principles of State Policy are contained in which Part of the Constitution?", "options": ["Part III", "Part IV", "Part II", "Part V"], "correct_index": 1, "solution": "The Directive Principles of State Policy are contained in Part IV (Articles 36 to 51) of the Constitution; they were borrowed from the Irish constitution.", "difficulty": "medium" },
-  { "stem": "The key difference between Fundamental Rights and Directive Principles is that:", "options": ["Both are enforceable in court", "Fundamental Rights are justiciable (enforceable by courts), whereas Directive Principles are non-justiciable (not enforceable by courts) but are fundamental in the governance of the country", "Directive Principles are enforceable but Rights are not", "Neither is enforceable"], "correct_index": 1, "solution": "Fundamental Rights are justiciable — a person can go to court if they are violated. Directive Principles are non-justiciable — they cannot be enforced by courts, but they are fundamental in the governance of the country, and the state is expected to apply them in making laws.", "difficulty": "medium" },
-  { "stem": "The Directive Principles are meant to be guidelines for the government to:", "options": ["Ignore social welfare", "Create the social and economic conditions under which citizens can lead a good life, aiming for a welfare state", "Concentrate wealth", "Reduce democracy"], "correct_index": 1, "solution": "The Directive Principles express certain ideals which the state should follow while formulating policies; they aim to establish a welfare state by creating social and economic conditions (like equal pay, adequate livelihood, provision of work, education) under which citizens can lead a good life.", "difficulty": "medium" },
-  { "stem": "Which of the following is an example of a Directive Principle of State Policy?", "options": ["Right to freedom of speech", "Promotion of equal justice and free legal aid, organisation of village panchayats, and securing a living wage for workers", "Right against exploitation", "Right to constitutional remedies"], "correct_index": 1, "solution": "Directive Principles include: securing a social order for the promotion of welfare; equal pay for equal work; free legal aid; organisation of village panchayats; right to work and education; protection of environment; and promotion of international peace, among others.", "difficulty": "medium" },
-  { "stem": "The Fundamental Duties were added to the Constitution by the 42nd Amendment (1976) and are contained in:", "options": ["Article 51A (Part IVA)", "Part III", "Article 21", "Part II"], "correct_index": 0, "solution": "The Fundamental Duties were added by the 42nd Amendment Act, 1976, on the recommendation of the Swaran Singh Committee; they are contained in Article 51A (Part IVA) and originally listed ten duties (an eleventh was added later by the 86th Amendment).", "difficulty": "hard" },
-  { "stem": "The Fundamental Duties (Article 51A) are:", "options": ["Enforceable by the courts", "Not enforceable by the courts, but serve as reminders to citizens of their duties to the nation", "The same as Fundamental Rights", "Applicable only to the government"], "correct_index": 1, "solution": "The Fundamental Duties are not enforceable by the courts (non-justiciable); they serve as a constant reminder to citizens that while enjoying their rights, they also have duties towards the nation, such as respecting the Constitution, the national flag, and promoting harmony.", "difficulty": "medium" },
-  { "stem": "The relationship between Fundamental Rights and Directive Principles, as clarified over time by the courts, is best described as:", "options": ["Rights always override Directives with no reconciliation", "They are complementary and should be read harmoniously; both aim at securing the welfare and dignity of citizens", "Directives always override Rights", "They are unrelated"], "correct_index": 1, "solution": "Though there were initial conflicts, the courts have held that Fundamental Rights and Directive Principles are complementary; they should be read together harmoniously, as both aim at establishing a just society and securing the welfare and dignity of citizens.", "difficulty": "medium" },
-  { "stem": "During a National Emergency, the Fundamental Rights under Article 19 can be suspended. However, after the 44th Amendment, which rights cannot be suspended even during an emergency?", "options": ["All rights can be suspended", "Rights under Articles 20 and 21 (protection in respect of conviction, and right to life and personal liberty) cannot be suspended", "Only Article 19", "Only Article 14"], "correct_index": 1, "solution": "The 44th Amendment (1978) provided that the rights under Articles 20 (protection in respect of conviction for offences) and 21 (protection of life and personal liberty) cannot be suspended even during a National Emergency, providing an important safeguard for citizens.", "difficulty": "hard" },
-  { "stem": "The idea of the National Human Rights Commission (NHRC), established in 1993, is to:", "options": ["Replace the courts", "Strengthen the protection and promotion of human rights by inquiring into complaints of human rights violations", "Make laws", "Conduct elections"], "correct_index": 1, "solution": "The National Human Rights Commission (NHRC) was established in 1993 to strengthen human rights protection; it inquires into complaints of human rights violations, investigates conditions in jails, spreads awareness, and makes recommendations, though its recommendations are advisory.", "difficulty": "medium" },
-  { "stem": "Fundamental Rights are called fundamental because:", "options": ["They are unimportant", "They are essential for the all-round development (material, intellectual, moral and spiritual) of individuals and are protected by the constitution against violation", "They apply only to the government", "They can be easily removed"], "correct_index": 1, "solution": "These rights are called 'fundamental' because they are essential for the all-round development of individuals and are guaranteed and protected by the Constitution itself; they cannot be violated by the ordinary functioning of government.", "difficulty": "medium" },
-  { "stem": "Some Fundamental Rights are available only to citizens, while others are available to all persons (citizens and non-citizens). Which right is available to all persons?", "options": ["Right under Article 15 (non-discrimination)", "Right to equality before law (Article 14) and right to life and personal liberty (Article 21)", "Right under Article 16 (public employment)", "Right under Article 19 (six freedoms)"], "correct_index": 1, "solution": "Some rights like Articles 14 (equality before law) and 21 (protection of life and personal liberty) are available to all persons, including foreigners; whereas rights under Articles 15, 16, and 19 are available only to citizens of India.", "difficulty": "hard" },
-  { "stem": "The state can make special provisions (like reservations) for women, children, and socially and educationally backward classes without violating the Right to Equality because:", "options": ["Equality means treating everyone identically", "The Right to Equality permits reasonable classification and special provisions to uplift disadvantaged groups, which is consistent with substantive equality", "The government can ignore equality", "Backward classes have no rights"], "correct_index": 1, "solution": "The Right to Equality allows the state to make special provisions (like reservations) for women, children, and socially and educationally backward classes; this is not a violation of equality but promotes substantive equality by uplifting those who have historically been disadvantaged.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about the Right to Freedom of Religion is correct?", "options": ["It is an absolute right with no limits", "It is subject to public order, morality and health, and the state can regulate secular activities associated with religious practice", "It applies only to Hindus", "It bans all religion"], "correct_index": 1, "solution": "The Right to Freedom of Religion is not absolute; it is subject to public order, morality and health. The state can also regulate or restrict any economic, financial, political or other secular activity associated with religious practice, and can provide for social welfare and reform.", "difficulty": "medium" },
-  { "stem": "The provision of Public Interest Litigation (PIL) has expanded access to justice by allowing:", "options": ["Only the aggrieved person to approach the court", "Any public-spirited citizen or organisation to approach the court on behalf of those who cannot do so themselves, especially the poor and disadvantaged", "Only the government to file cases", "Only lawyers to file cases"], "correct_index": 1, "solution": "Public Interest Litigation (PIL) allows any public-spirited citizen or organisation to move the court on behalf of those who are poor, disadvantaged, or unable to approach the court themselves; this has greatly expanded access to justice and the enforcement of rights.", "difficulty": "medium" },
-  { "stem": "The claim that rights impose corresponding duties means that:", "options": ["Rights have no connection to duties", "The rights of one person imply that others (and the state) have a duty to respect those rights, and citizens also have duties towards society", "Only the government has duties", "Duties are more important than rights"], "correct_index": 1, "solution": "Rights and duties are correlative; the right of one person implies a corresponding duty on others and the state to respect that right. Citizens also have duties towards the community and nation, which is why Fundamental Duties were added to the Constitution.", "difficulty": "medium" },
-  { "stem": "The Preamble's promise of 'Liberty of thought, expression, belief, faith and worship' is given concrete legal form mainly through which Fundamental Rights?", "options": ["Right against exploitation", "The Right to Freedom (Article 19) and the Right to Freedom of Religion (Articles 25-28)", "Cultural rights", "Right to property"], "correct_index": 1, "solution": "The Preamble's promise of liberty of thought and expression is realised through the Right to Freedom (Article 19, especially freedom of speech and expression), while liberty of belief, faith and worship is secured through the Right to Freedom of Religion (Articles 25-28).", "difficulty": "medium" },
-  { "stem": "The significance of Fundamental Rights being 'justiciable' is that:", "options": ["They are merely moral guidelines", "If they are violated, the individual can go to the court which can enforce them and provide remedies, making the rights real and effective", "They cannot be enforced", "Only Parliament can enforce them"], "correct_index": 1, "solution": "Fundamental Rights are justiciable, meaning that if they are violated by the government or any authority, an individual can approach the courts (Supreme Court under Article 32, High Courts under Article 226), which can enforce these rights and provide remedies — making them legally real and effective, not just moral ideals.", "difficulty": "medium" },
-  { "stem": "The removal of the Right to Property from the list of Fundamental Rights was done to enable the government to:", "options": ["Seize all property", "Carry out land reforms and redistribute property in the interest of social justice without excessive legal challenges", "End all rights", "Nationalise everything"], "correct_index": 1, "solution": "The Right to Property was removed as a Fundamental Right (44th Amendment, 1978) largely to enable the government to carry out land reforms, redistribute land, and pursue social and economic justice goals without the property right being used to block such measures; it remains a legal/constitutional right under Article 300A.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly matches a Fundamental Right with its article?", "options": ["Right to Equality — Article 21", "Right to Constitutional Remedies — Article 32", "Right against Exploitation — Article 14", "Right to Freedom — Article 25"], "correct_index": 1, "solution": "The Right to Constitutional Remedies is guaranteed under Article 32. (Right to Equality is Articles 14-18, Right to Freedom is Articles 19-22, Right against Exploitation is Articles 23-24, Right to Freedom of Religion is Articles 25-28.)", "difficulty": "medium" },
-  { "stem": "The rights of the accused/arrested persons and the requirement to produce them before a magistrate within 24 hours reflect the constitutional commitment to:", "options": ["Unlimited state power", "Protection of personal liberty and safeguards against arbitrary state action (rule of law)", "Denial of rights", "Preventive detention only"], "correct_index": 1, "solution": "The requirement (Article 22) that an arrested person be informed of the grounds of arrest, be allowed legal counsel, and be produced before a magistrate within 24 hours reflects the constitutional commitment to protecting personal liberty and safeguarding citizens against arbitrary arrest and detention — a core aspect of the rule of law.", "difficulty": "medium" },
-  { "stem": "The Directive Principles and Fundamental Rights together are sometimes described as the 'conscience' of the Constitution because:", "options": ["They are unimportant", "They embody the socio-economic and political vision of the framers — rights ensuring liberty and justice, and directives guiding the state towards a welfare society", "They contradict each other completely", "They deal only with administration"], "correct_index": 1, "solution": "Fundamental Rights and Directive Principles together embody the philosophy and conscience of the Constitution; the rights secure political and civil liberties and justice, while the directives guide the state towards achieving social and economic justice and a welfare society — together expressing the framers' vision.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Rights in the Indian Constitution' is that:", "options": ["Rights are unnecessary", "The Constitution guarantees a set of justiciable Fundamental Rights protecting individual liberty and equality, complemented by non-justiciable Directive Principles and Fundamental Duties, together forming a framework for a just and democratic society", "Only the government has rights", "Rights can be removed at will"], "correct_index": 1, "solution": "The chapter concludes that the Constitution guarantees six justiciable Fundamental Rights that protect individual liberty, equality, and dignity, enforceable through the Right to Constitutional Remedies; these are complemented by the non-justiciable Directive Principles (guiding the state towards a welfare society) and Fundamental Duties (reminding citizens of their obligations) — together forming the framework for a just, democratic and humane society.", "difficulty": "medium" },
-  { "stem": "The writ of Certiorari is issued by a higher court to:", "options": ["Produce a detained person", "Quash the order/decision of a lower court or tribunal, or transfer a case to itself, when there is an error of jurisdiction or law", "Command a duty to be performed", "Question a person's authority to hold office"], "correct_index": 1, "solution": "Certiorari is a writ issued by a higher court to a lower court or tribunal either to transfer a case pending with it or to quash its order, where the lower court has acted beyond its jurisdiction or made an error of law.", "difficulty": "hard" },
-  { "stem": "The writ of Prohibition is issued by a higher court to a lower court to:", "options": ["Perform a duty", "Stop or prevent it from proceeding in a case that is beyond its jurisdiction", "Release a prisoner", "Fill a public office"], "correct_index": 1, "solution": "The writ of Prohibition is issued by a higher court to a lower court or tribunal to prevent it from exceeding its jurisdiction or continuing with proceedings in a matter over which it has no jurisdiction; it is preventive, issued while the case is still pending before the lower court.", "difficulty": "hard" }
+  {
+    "stem": "The Fundamental Rights in the Indian Constitution are contained in which Part?",
+    "options": [
+      "Part III",
+      "Part IV",
+      "Part II",
+      "Part V"
+    ],
+    "correct_index": 0,
+    "solution": "The Fundamental Rights are enshrined in Part III of the Constitution (Articles 12 to 35), often described as the 'Magna Carta' of India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rights that are given a special status by being written into the constitution and are enforceable by courts are called:",
+    "options": [
+      "Legal rights",
+      "Fundamental Rights",
+      "Directive Principles",
+      "Natural rights"
+    ],
+    "correct_index": 1,
+    "solution": "Fundamental Rights are those rights which are given a special status in the constitution; the constitution itself ensures that they are not violated by the government, and they are enforceable by the courts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main difference between ordinary legal rights and Fundamental Rights is that:",
+    "options": [
+      "Legal rights are more important",
+      "Fundamental Rights are protected and guaranteed by the constitution, while ordinary legal rights are protected by ordinary law and can be changed by the legislature by an ordinary process",
+      "There is no difference",
+      "Fundamental Rights can be removed easily"
+    ],
+    "correct_index": 1,
+    "solution": "Ordinary legal rights are protected by ordinary law and can be altered by the legislature through the ordinary process of law-making; Fundamental Rights are protected and guaranteed by the constitution itself, and cannot be taken away by an ordinary law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Originally, the Constitution provided for how many categories of Fundamental Rights?",
+    "options": [
+      "Six",
+      "Seven",
+      "Five",
+      "Three"
+    ],
+    "correct_index": 1,
+    "solution": "Originally the Constitution provided for seven Fundamental Rights; the Right to Property was later removed from the list of Fundamental Rights (by the 44th Amendment, 1978), leaving six Fundamental Rights.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Right to Property was removed from the list of Fundamental Rights by which amendment, and made an ordinary legal right?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment (1978)",
+      "1st Amendment",
+      "73rd Amendment"
+    ],
+    "correct_index": 1,
+    "solution": "The 44th Amendment Act, 1978, removed the Right to Property from the list of Fundamental Rights; it is now an ordinary legal/constitutional right under Article 300A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The six Fundamental Rights currently guaranteed are: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and the:",
+    "options": [
+      "Right to Property",
+      "Right to Constitutional Remedies",
+      "Right to Vote",
+      "Right to Work"
+    ],
+    "correct_index": 1,
+    "solution": "The six Fundamental Rights are: the Right to Equality, the Right to Freedom, the Right against Exploitation, the Right to Freedom of Religion, Cultural and Educational Rights, and the Right to Constitutional Remedies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Equality (Article 14) guarantees to every person:",
+    "options": [
+      "Special privileges for the rich",
+      "Equality before law and equal protection of the laws",
+      "Rights only to citizens",
+      "Voting rights only"
+    ],
+    "correct_index": 1,
+    "solution": "Article 14 guarantees the Right to Equality — equality before the law and equal protection of the laws to every person, meaning that all are equal in the eyes of the law and no one is above the law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Article 17 of the Constitution abolishes:",
+    "options": [
+      "Slavery",
+      "Untouchability",
+      "Child labour",
+      "Bonded labour"
+    ],
+    "correct_index": 1,
+    "solution": "Article 17 abolishes untouchability and forbids its practice in any form; the enforcement of any disability arising out of untouchability is an offence punishable by law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prohibition of discrimination on grounds only of religion, race, caste, sex or place of birth is guaranteed under the Right to Equality by:",
+    "options": [
+      "Article 14",
+      "Article 15",
+      "Article 19",
+      "Article 21"
+    ],
+    "correct_index": 1,
+    "solution": "Article 15 prohibits discrimination on grounds only of religion, race, caste, sex or place of birth; it also allows the state to make special provisions for women, children, and socially and educationally backward classes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The abolition of titles (except military and academic distinctions) is provided under Article 18 as part of the:",
+    "options": [
+      "Right to Freedom",
+      "Right to Equality",
+      "Right to Religion",
+      "Cultural Rights"
+    ],
+    "correct_index": 1,
+    "solution": "Article 18, part of the Right to Equality, abolishes titles; the state cannot confer titles (except military and academic distinctions), reinforcing the equality of status among citizens.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Article 16 provides for equality of opportunity in matters of:",
+    "options": [
+      "Marriage",
+      "Public employment",
+      "Trade",
+      "Religion"
+    ],
+    "correct_index": 1,
+    "solution": "Article 16 guarantees equality of opportunity for all citizens in matters relating to employment or appointment to any office under the state; it also permits reservation for backward classes not adequately represented.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Freedom under Article 19 guarantees six freedoms, including freedom of speech and expression, assembly, association, movement, residence, and:",
+    "options": [
+      "Freedom to bear arms",
+      "Freedom to practise any profession, or to carry on any occupation, trade or business",
+      "Freedom to break laws",
+      "Freedom to hold titles"
+    ],
+    "correct_index": 1,
+    "solution": "Article 19 guarantees six freedoms: speech and expression; assembly (peacefully and without arms); association; movement throughout the territory of India; residence in any part of India; and to practise any profession, or to carry on any occupation, trade or business.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The freedoms under Article 19 are not absolute; the state can impose:",
+    "options": [
+      "No restrictions",
+      "Reasonable restrictions in the interest of the security of the state, public order, decency, morality, etc.",
+      "Unlimited restrictions",
+      "Restrictions only during elections"
+    ],
+    "correct_index": 1,
+    "solution": "The freedoms under Article 19 are not absolute; the state can impose reasonable restrictions on them in the interest of the security of the state, public order, decency, morality, sovereignty and integrity of India, friendly relations with foreign states, contempt of court, and defamation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Article 21 guarantees the protection of:",
+    "options": [
+      "Property",
+      "Life and personal liberty — no person shall be deprived of his life or personal liberty except according to procedure established by law",
+      "Religion only",
+      "Voting"
+    ],
+    "correct_index": 1,
+    "solution": "Article 21 provides that no person shall be deprived of his life or personal liberty except according to procedure established by law; the Supreme Court has interpreted it expansively to include the right to live with dignity, livelihood, privacy, education, clean environment, etc.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Education (Article 21A), making free and compulsory education a fundamental right for children aged 6 to 14, was added by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "86th Amendment (2002)",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "correct_index": 1,
+    "solution": "The 86th Constitutional Amendment Act, 2002, inserted Article 21A, making the Right to Education a Fundamental Right — free and compulsory education for all children between the ages of 6 and 14 years.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Article 22 provides protection to persons against:",
+    "options": [
+      "Free speech",
+      "Arbitrary arrest and detention (protection in certain cases of arrest and detention)",
+      "Voting",
+      "Education"
+    ],
+    "correct_index": 1,
+    "solution": "Article 22 provides protection against arbitrary arrest and detention; an arrested person must be informed of the grounds of arrest, has the right to consult a lawyer, and must be produced before a magistrate within 24 hours (with some exceptions for preventive detention).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right against Exploitation (Articles 23 and 24) prohibits:",
+    "options": [
+      "Free trade",
+      "Traffic in human beings, forced labour (begar), and the employment of children below 14 years in hazardous work",
+      "Religious practices",
+      "Political meetings"
+    ],
+    "correct_index": 1,
+    "solution": "The Right against Exploitation prohibits traffic in human beings and forced labour (begar) under Article 23, and prohibits the employment of children below the age of 14 years in factories, mines, or other hazardous work under Article 24.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Article 24 specifically prohibits the employment of children below the age of 14 in:",
+    "options": [
+      "Any work",
+      "Factories, mines and other hazardous occupations",
+      "Schools",
+      "Homes"
+    ],
+    "correct_index": 1,
+    "solution": "Article 24 prohibits the employment of children below the age of 14 years in any factory, mine or other hazardous employment; this protects children from exploitation in dangerous work.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Freedom of Religion (Articles 25-28) guarantees to every person the freedom of:",
+    "options": [
+      "Only Hinduism",
+      "Conscience, and the right freely to profess, practise and propagate religion",
+      "Only to citizens",
+      "Only in temples"
+    ],
+    "correct_index": 1,
+    "solution": "Article 25 guarantees to all persons the freedom of conscience and the right freely to profess, practise and propagate religion, subject to public order, morality and health.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Indian concept of secularism, as reflected in the freedom of religion articles, means that:",
+    "options": [
+      "The state promotes one religion",
+      "The state has no religion of its own, treats all religions equally, and gives all citizens freedom of religion",
+      "Religion is banned",
+      "Only minorities have religious rights"
+    ],
+    "correct_index": 1,
+    "solution": "Indian secularism means the state has no official religion; it treats all religions equally and with respect, does not discriminate on religious grounds, and guarantees all citizens the freedom to practise their religion — while retaining the power to intervene to ensure equality (e.g., banning untouchability).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Cultural and Educational Rights (Articles 29 and 30) are meant primarily to protect the interests of:",
+    "options": [
+      "The majority community",
+      "Minorities — their right to conserve their language, script and culture and to establish and administer educational institutions",
+      "The government",
+      "Business houses"
+    ],
+    "correct_index": 1,
+    "solution": "The Cultural and Educational Rights protect the interests of minorities: Article 29 protects the right of any section of citizens to conserve its distinct language, script or culture; Article 30 gives religious and linguistic minorities the right to establish and administer educational institutions of their choice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Constitutional Remedies (Article 32) was described by Dr. B.R. Ambedkar as:",
+    "options": [
+      "An unnecessary right",
+      "The 'heart and soul' of the Constitution",
+      "A minor provision",
+      "A directive principle"
+    ],
+    "correct_index": 1,
+    "solution": "Dr. B.R. Ambedkar called the Right to Constitutional Remedies (Article 32) the 'heart and soul' of the Constitution, because it provides the means to enforce all the other Fundamental Rights by approaching the courts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Right to Constitutional Remedies allows a citizen to move the courts (Supreme Court under Article 32, High Courts under Article 226) for the enforcement of Fundamental Rights. The courts can issue orders known as:",
+    "options": [
+      "Ordinances",
+      "Writs",
+      "Bills",
+      "Amendments"
+    ],
+    "correct_index": 1,
+    "solution": "Under the Right to Constitutional Remedies, the courts can issue writs — orders to enforce Fundamental Rights. These writs are habeas corpus, mandamus, prohibition, quo warranto and certiorari.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The writ of Habeas Corpus is issued to:",
+    "options": [
+      "Order a public official to perform a duty",
+      "Produce a detained/arrested person before the court and secure their release if the detention is illegal",
+      "Prevent a lower court from exceeding its jurisdiction",
+      "Question a person's authority to hold an office"
+    ],
+    "correct_index": 1,
+    "solution": "Habeas Corpus (literally 'you may have the body') is a writ requiring that a detained person be produced before the court; if the court finds the detention illegal, it orders the person's release. It safeguards personal liberty against unlawful detention.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The writ of Mandamus is issued to:",
+    "options": [
+      "Release a detained person",
+      "Command a public official or body to perform a duty it has failed to perform",
+      "Quash an order",
+      "Transfer a case"
+    ],
+    "correct_index": 1,
+    "solution": "Mandamus (meaning 'we command') is a writ issued by a court commanding a public official, government, or lower court to perform a public or statutory duty that it has failed or refused to perform.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The writ of Quo Warranto is issued to:",
+    "options": [
+      "Produce a detained person",
+      "Enquire into the legality of a person's claim to a public office and prevent illegal occupation of that office",
+      "Command performance of a duty",
+      "Quash a decision"
+    ],
+    "correct_index": 1,
+    "solution": "Quo Warranto ('by what authority') is a writ issued to enquire into the legality of a person's claim to hold a public office; if the claim is not valid, the court can prevent the person from holding that office.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Directive Principles of State Policy are contained in which Part of the Constitution?",
+    "options": [
+      "Part III",
+      "Part IV",
+      "Part II",
+      "Part V"
+    ],
+    "correct_index": 1,
+    "solution": "The Directive Principles of State Policy are contained in Part IV (Articles 36 to 51) of the Constitution; they were borrowed from the Irish constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The key difference between Fundamental Rights and Directive Principles is that:",
+    "options": [
+      "Both are enforceable in court",
+      "Fundamental Rights are justiciable (enforceable by courts), whereas Directive Principles are non-justiciable (not enforceable by courts) but are fundamental in the governance of the country",
+      "Directive Principles are enforceable but Rights are not",
+      "Neither is enforceable"
+    ],
+    "correct_index": 1,
+    "solution": "Fundamental Rights are justiciable — a person can go to court if they are violated. Directive Principles are non-justiciable — they cannot be enforced by courts, but they are fundamental in the governance of the country, and the state is expected to apply them in making laws.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Directive Principles are meant to be guidelines for the government to:",
+    "options": [
+      "Ignore social welfare",
+      "Create the social and economic conditions under which citizens can lead a good life, aiming for a welfare state",
+      "Concentrate wealth",
+      "Reduce democracy"
+    ],
+    "correct_index": 1,
+    "solution": "The Directive Principles express certain ideals which the state should follow while formulating policies; they aim to establish a welfare state by creating social and economic conditions (like equal pay, adequate livelihood, provision of work, education) under which citizens can lead a good life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an example of a Directive Principle of State Policy?",
+    "options": [
+      "Right to freedom of speech",
+      "Promotion of equal justice and free legal aid, organisation of village panchayats, and securing a living wage for workers",
+      "Right against exploitation",
+      "Right to constitutional remedies"
+    ],
+    "correct_index": 1,
+    "solution": "Directive Principles include: securing a social order for the promotion of welfare; equal pay for equal work; free legal aid; organisation of village panchayats; right to work and education; protection of environment; and promotion of international peace, among others.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Fundamental Duties were added to the Constitution by the 42nd Amendment (1976) and are contained in:",
+    "options": [
+      "Article 51A (Part IVA)",
+      "Part III",
+      "Article 21",
+      "Part II"
+    ],
+    "correct_index": 0,
+    "solution": "The Fundamental Duties were added by the 42nd Amendment Act, 1976, on the recommendation of the Swaran Singh Committee; they are contained in Article 51A (Part IVA) and originally listed ten duties (an eleventh was added later by the 86th Amendment).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Fundamental Duties (Article 51A) are:",
+    "options": [
+      "Enforceable by the courts",
+      "Not enforceable by the courts, but serve as reminders to citizens of their duties to the nation",
+      "The same as Fundamental Rights",
+      "Applicable only to the government"
+    ],
+    "correct_index": 1,
+    "solution": "The Fundamental Duties are not enforceable by the courts (non-justiciable); they serve as a constant reminder to citizens that while enjoying their rights, they also have duties towards the nation, such as respecting the Constitution, the national flag, and promoting harmony.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The relationship between Fundamental Rights and Directive Principles, as clarified over time by the courts, is best described as:",
+    "options": [
+      "Rights always override Directives with no reconciliation",
+      "They are complementary and should be read harmoniously; both aim at securing the welfare and dignity of citizens",
+      "Directives always override Rights",
+      "They are unrelated"
+    ],
+    "correct_index": 1,
+    "solution": "Though there were initial conflicts, the courts have held that Fundamental Rights and Directive Principles are complementary; they should be read together harmoniously, as both aim at establishing a just society and securing the welfare and dignity of citizens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During a National Emergency, the Fundamental Rights under Article 19 can be suspended. However, after the 44th Amendment, which rights cannot be suspended even during an emergency?",
+    "options": [
+      "All rights can be suspended",
+      "Rights under Articles 20 and 21 (protection in respect of conviction, and right to life and personal liberty) cannot be suspended",
+      "Only Article 19",
+      "Only Article 14"
+    ],
+    "correct_index": 1,
+    "solution": "The 44th Amendment (1978) provided that the rights under Articles 20 (protection in respect of conviction for offences) and 21 (protection of life and personal liberty) cannot be suspended even during a National Emergency, providing an important safeguard for citizens.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The idea of the National Human Rights Commission (NHRC), established in 1993, is to:",
+    "options": [
+      "Replace the courts",
+      "Strengthen the protection and promotion of human rights by inquiring into complaints of human rights violations",
+      "Make laws",
+      "Conduct elections"
+    ],
+    "correct_index": 1,
+    "solution": "The National Human Rights Commission (NHRC) was established in 1993 to strengthen human rights protection; it inquires into complaints of human rights violations, investigates conditions in jails, spreads awareness, and makes recommendations, though its recommendations are advisory.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fundamental Rights are called fundamental because:",
+    "options": [
+      "They are unimportant",
+      "They are essential for the all-round development (material, intellectual, moral and spiritual) of individuals and are protected by the constitution against violation",
+      "They apply only to the government",
+      "They can be easily removed"
+    ],
+    "correct_index": 1,
+    "solution": "These rights are called 'fundamental' because they are essential for the all-round development of individuals and are guaranteed and protected by the Constitution itself; they cannot be violated by the ordinary functioning of government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Some Fundamental Rights are available only to citizens, while others are available to all persons (citizens and non-citizens). Which right is available to all persons?",
+    "options": [
+      "Right under Article 15 (non-discrimination)",
+      "Right to equality before law (Article 14) and right to life and personal liberty (Article 21)",
+      "Right under Article 16 (public employment)",
+      "Right under Article 19 (six freedoms)"
+    ],
+    "correct_index": 1,
+    "solution": "Some rights like Articles 14 (equality before law) and 21 (protection of life and personal liberty) are available to all persons, including foreigners; whereas rights under Articles 15, 16, and 19 are available only to citizens of India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The state can make special provisions (like reservations) for women, children, and socially and educationally backward classes without violating the Right to Equality because:",
+    "options": [
+      "Equality means treating everyone identically",
+      "The Right to Equality permits reasonable classification and special provisions to uplift disadvantaged groups, which is consistent with substantive equality",
+      "The government can ignore equality",
+      "Backward classes have no rights"
+    ],
+    "correct_index": 1,
+    "solution": "The Right to Equality allows the state to make special provisions (like reservations) for women, children, and socially and educationally backward classes; this is not a violation of equality but promotes substantive equality by uplifting those who have historically been disadvantaged.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about the Right to Freedom of Religion is correct?",
+    "options": [
+      "It is an absolute right with no limits",
+      "It is subject to public order, morality and health, and the state can regulate secular activities associated with religious practice",
+      "It applies only to Hindus",
+      "It bans all religion"
+    ],
+    "correct_index": 1,
+    "solution": "The Right to Freedom of Religion is not absolute; it is subject to public order, morality and health. The state can also regulate or restrict any economic, financial, political or other secular activity associated with religious practice, and can provide for social welfare and reform.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The provision of Public Interest Litigation (PIL) has expanded access to justice by allowing:",
+    "options": [
+      "Only the aggrieved person to approach the court",
+      "Any public-spirited citizen or organisation to approach the court on behalf of those who cannot do so themselves, especially the poor and disadvantaged",
+      "Only the government to file cases",
+      "Only lawyers to file cases"
+    ],
+    "correct_index": 1,
+    "solution": "Public Interest Litigation (PIL) allows any public-spirited citizen or organisation to move the court on behalf of those who are poor, disadvantaged, or unable to approach the court themselves; this has greatly expanded access to justice and the enforcement of rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The claim that rights impose corresponding duties means that:",
+    "options": [
+      "Rights have no connection to duties",
+      "The rights of one person imply that others (and the state) have a duty to respect those rights, and citizens also have duties towards society",
+      "Only the government has duties",
+      "Duties are more important than rights"
+    ],
+    "correct_index": 1,
+    "solution": "Rights and duties are correlative; the right of one person implies a corresponding duty on others and the state to respect that right. Citizens also have duties towards the community and nation, which is why Fundamental Duties were added to the Constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Preamble's promise of 'Liberty of thought, expression, belief, faith and worship' is given concrete legal form mainly through which Fundamental Rights?",
+    "options": [
+      "Right against exploitation",
+      "The Right to Freedom (Article 19) and the Right to Freedom of Religion (Articles 25-28)",
+      "Cultural rights",
+      "Right to property"
+    ],
+    "correct_index": 1,
+    "solution": "The Preamble's promise of liberty of thought and expression is realised through the Right to Freedom (Article 19, especially freedom of speech and expression), while liberty of belief, faith and worship is secured through the Right to Freedom of Religion (Articles 25-28).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The significance of Fundamental Rights being 'justiciable' is that:",
+    "options": [
+      "They are merely moral guidelines",
+      "If they are violated, the individual can go to the court which can enforce them and provide remedies, making the rights real and effective",
+      "They cannot be enforced",
+      "Only Parliament can enforce them"
+    ],
+    "correct_index": 1,
+    "solution": "Fundamental Rights are justiciable, meaning that if they are violated by the government or any authority, an individual can approach the courts (Supreme Court under Article 32, High Courts under Article 226), which can enforce these rights and provide remedies — making them legally real and effective, not just moral ideals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The removal of the Right to Property from the list of Fundamental Rights was done to enable the government to:",
+    "options": [
+      "Seize all property",
+      "Carry out land reforms and redistribute property in the interest of social justice without excessive legal challenges",
+      "End all rights",
+      "Nationalise everything"
+    ],
+    "correct_index": 1,
+    "solution": "The Right to Property was removed as a Fundamental Right (44th Amendment, 1978) largely to enable the government to carry out land reforms, redistribute land, and pursue social and economic justice goals without the property right being used to block such measures; it remains a legal/constitutional right under Article 300A.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a Fundamental Right with its article?",
+    "options": [
+      "Right to Equality — Article 21",
+      "Right to Constitutional Remedies — Article 32",
+      "Right against Exploitation — Article 14",
+      "Right to Freedom — Article 25"
+    ],
+    "correct_index": 1,
+    "solution": "The Right to Constitutional Remedies is guaranteed under Article 32. (Right to Equality is Articles 14-18, Right to Freedom is Articles 19-22, Right against Exploitation is Articles 23-24, Right to Freedom of Religion is Articles 25-28.)",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rights of the accused/arrested persons and the requirement to produce them before a magistrate within 24 hours reflect the constitutional commitment to:",
+    "options": [
+      "Unlimited state power",
+      "Protection of personal liberty and safeguards against arbitrary state action (rule of law)",
+      "Denial of rights",
+      "Preventive detention only"
+    ],
+    "correct_index": 1,
+    "solution": "The requirement (Article 22) that an arrested person be informed of the grounds of arrest, be allowed legal counsel, and be produced before a magistrate within 24 hours reflects the constitutional commitment to protecting personal liberty and safeguarding citizens against arbitrary arrest and detention — a core aspect of the rule of law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Directive Principles and Fundamental Rights together are sometimes described as the 'conscience' of the Constitution because:",
+    "options": [
+      "They are unimportant",
+      "They embody the socio-economic and political vision of the framers — rights ensuring liberty and justice, and directives guiding the state towards a welfare society",
+      "They contradict each other completely",
+      "They deal only with administration"
+    ],
+    "correct_index": 1,
+    "solution": "Fundamental Rights and Directive Principles together embody the philosophy and conscience of the Constitution; the rights secure political and civil liberties and justice, while the directives guide the state towards achieving social and economic justice and a welfare society — together expressing the framers' vision.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Rights in the Indian Constitution' is that:",
+    "options": [
+      "Rights are unnecessary",
+      "The Constitution guarantees a set of justiciable Fundamental Rights protecting individual liberty and equality, complemented by non-justiciable Directive Principles and Fundamental Duties, together forming a framework for a just and democratic society",
+      "Only the government has rights",
+      "Rights can be removed at will"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that the Constitution guarantees six justiciable Fundamental Rights that protect individual liberty, equality, and dignity, enforceable through the Right to Constitutional Remedies; these are complemented by the non-justiciable Directive Principles (guiding the state towards a welfare society) and Fundamental Duties (reminding citizens of their obligations) — together forming the framework for a just, democratic and humane society.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The writ of Certiorari is issued by a higher court to:",
+    "options": [
+      "Produce a detained person",
+      "Quash the order/decision of a lower court or tribunal, or transfer a case to itself, when there is an error of jurisdiction or law",
+      "Command a duty to be performed",
+      "Question a person's authority to hold office"
+    ],
+    "correct_index": 1,
+    "solution": "Certiorari is a writ issued by a higher court to a lower court or tribunal either to transfer a case pending with it or to quash its order, where the lower court has acted beyond its jurisdiction or made an error of law.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Fundamental Rights are contained in which Part of the Indian Constitution?",
+    "options": [
+      "Part III",
+      "Part IV",
+      "Part II",
+      "Part V"
+    ],
+    "correct_index": 0,
+    "solution": "The Fundamental Rights are contained in Part III (Articles 12 to 35) of the Constitution and are enforceable by the courts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Property was removed from the list of Fundamental Rights by which amendment?",
+    "options": [
+      "44th Amendment (1978)",
+      "42nd Amendment",
+      "1st Amendment",
+      "24th Amendment"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Property was removed from Fundamental Rights by the 44th Constitutional Amendment in 1978; it is now a legal (constitutional) right under Article 300A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Article 21 of the Constitution guarantees the protection of:",
+    "options": [
+      "Life and personal liberty",
+      "Property",
+      "Freedom of trade",
+      "Religion"
+    ],
+    "correct_index": 0,
+    "solution": "Article 21 provides that no person shall be deprived of his life or personal liberty except according to the procedure established by law; the courts have interpreted it broadly to include many rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Education (Article 21A) makes free and compulsory education a Fundamental Right for children of the age group:",
+    "options": [
+      "6 to 14 years",
+      "3 to 10 years",
+      "5 to 18 years",
+      "6 to 18 years"
+    ],
+    "correct_index": 0,
+    "solution": "Article 21A, added by the 86th Amendment (2002), provides for free and compulsory education to all children between the ages of 6 and 14 years.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Article 24 specifically prohibits the employment of children below the age of 14 years in:",
+    "options": [
+      "Factories, mines and hazardous work",
+      "Schools",
+      "Farms owned by families",
+      "Shops selling books"
+    ],
+    "correct_index": 0,
+    "solution": "Article 24 prohibits the employment of children below 14 years of age in any factory, mine or other hazardous employment, as part of the Right against Exploitation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Constitutional Remedies (Article 32) was described by Dr Ambedkar as the:",
+    "options": [
+      "'Heart and soul of the Constitution'",
+      "'Preamble of the Constitution'",
+      "'Directive of the state'",
+      "'Duty of citizens'"
+    ],
+    "correct_index": 0,
+    "solution": "Dr Ambedkar called Article 32, the Right to Constitutional Remedies, the 'heart and soul of the Constitution' because it makes the other Fundamental Rights enforceable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The writ of Prohibition is issued by a higher court to a lower court to:",
+    "options": [
+      "Stop it from proceeding in a case beyond its jurisdiction",
+      "Produce a detained person",
+      "Command an official",
+      "Fill an office"
+    ],
+    "correct_index": 0,
+    "solution": "The writ of Prohibition is issued by a higher court to a lower court or tribunal to prevent the latter from exceeding its jurisdiction or usurping a jurisdiction it does not possess.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Right to Freedom under Article 19 originally guaranteed how many freedoms?",
+    "options": [
+      "Seven (now six)",
+      "Three",
+      "Ten",
+      "Two"
+    ],
+    "correct_index": 0,
+    "solution": "Article 19 originally guaranteed seven freedoms; after the right to property was removed, six freedoms remain, including freedom of speech and expression, assembly, association, movement, residence, and profession.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Fundamental Rights are justiciable. Reason (R): A citizen can approach the courts directly if these rights are violated.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Fundamental Rights are justiciable, meaning they can be legally enforced; if violated, a citizen can move the Supreme Court (Article 32) or High Courts (Article 226) directly — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Directive Principles are not enforceable in a court of law. Reason (R): They are guidelines to the state for making laws and policies, not legally binding rights.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Unlike Fundamental Rights, Directive Principles are non-justiciable; they are guidelines for the government in framing policies and cannot be enforced by courts — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Cultural and Educational Rights (Articles 29 and 30) are meant primarily to protect the interests of:",
+    "options": [
+      "Minorities",
+      "The majority",
+      "Government employees",
+      "Foreigners"
+    ],
+    "correct_index": 0,
+    "solution": "Articles 29 and 30 protect the rights of minorities to conserve their language, script and culture, and to establish and administer their own educational institutions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Some Fundamental Rights are available only to citizens, such as the:",
+    "options": [
+      "Right under Article 19 (freedoms of speech, assembly, etc.)",
+      "Right to life (Article 21)",
+      "Right to equality before law (Article 14)",
+      "Protection under Article 20"
+    ],
+    "correct_index": 0,
+    "solution": "Certain Fundamental Rights, like the six freedoms under Article 19 and cultural/educational rights, are available only to citizens, whereas rights like Articles 14, 20 and 21 are available to all persons.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During a National Emergency, the Fundamental Rights that CANNOT be suspended are those under:",
+    "options": [
+      "Articles 20 and 21",
+      "Article 19",
+      "Article 14",
+      "Article 32"
+    ],
+    "correct_index": 0,
+    "solution": "After the 44th Amendment, the rights guaranteed under Articles 20 (protection in respect of conviction) and 21 (life and personal liberty) cannot be suspended even during a National Emergency.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the writ with its purpose: (i) Habeas Corpus (ii) Mandamus (iii) Quo Warranto — (a) command a duty (b) produce a detained person (c) question authority to hold office:",
+    "options": [
+      "(i)-b, (ii)-a, (iii)-c",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-c, (iii)-a"
+    ],
+    "correct_index": 0,
+    "solution": "Habeas Corpus orders a detained person to be produced, Mandamus commands an official to perform a duty, and Quo Warranto questions a person's authority to hold a public office.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The National Human Rights Commission (NHRC) was established in India in the year:",
+    "options": [
+      "1993",
+      "1950",
+      "1976",
+      "2005"
+    ],
+    "correct_index": 0,
+    "solution": "The National Human Rights Commission was established in 1993 to protect and promote human rights; it inquires into complaints of human rights violations and recommends remedial action.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Public Interest Litigation (PIL) has expanded access to justice by allowing:",
+    "options": [
+      "Any public-spirited person to approach the court on behalf of those who cannot themselves",
+      "Only the government to file cases",
+      "Only the rich to file cases",
+      "No new cases"
+    ],
+    "correct_index": 0,
+    "solution": "Through PIL, the courts allow any public-spirited citizen or organisation to file a case on behalf of those whose rights are violated but who cannot approach the court themselves, widening access to justice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fundamental Rights are called 'fundamental' because they are:",
+    "options": [
+      "Essential for the all-round development of individuals and are protected by the Constitution",
+      "Ordinary laws",
+      "Temporary provisions",
+      "Only for officials"
+    ],
+    "correct_index": 0,
+    "solution": "They are called fundamental because they are basic to the development of human personality and dignity, are guaranteed and protected by the Constitution, and cannot be easily taken away by ordinary law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The state can make special provisions such as reservations for women, children, and backward classes because:",
+    "options": [
+      "The Right to Equality permits reasonable classification to achieve real equality",
+      "Equality is not important",
+      "The Constitution forbids it",
+      "It favours the rich"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Equality allows the state to make special provisions for women, children, Scheduled Castes, Scheduled Tribes and backward classes, since treating unequals equally would perpetuate inequality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The relationship between Fundamental Rights and Directive Principles is best described as:",
+    "options": [
+      "Complementary — rights guarantee political freedom, principles aim at social and economic justice",
+      "Contradictory and unrelated",
+      "Identical",
+      "Rights are subordinate to principles legally"
+    ],
+    "correct_index": 0,
+    "solution": "Fundamental Rights and Directive Principles are complementary: rights secure individual liberties, while the Directive Principles aim at establishing social and economic justice; together they fulfil the Preamble's ideals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The prohibition of discrimination under Article 15 is on grounds only of:",
+    "options": [
+      "Religion, race, caste, sex or place of birth",
+      "Wealth",
+      "Education",
+      "Occupation"
+    ],
+    "correct_index": 0,
+    "solution": "Article 15 prohibits discrimination against any citizen on grounds only of religion, race, caste, sex or place of birth, while permitting special provisions for women, children and backward classes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An arrested person must be produced before the nearest magistrate within:",
+    "options": [
+      "24 hours of arrest",
+      "48 hours",
+      "one week",
+      "one month"
+    ],
+    "correct_index": 0,
+    "solution": "Under Article 22, a person who is arrested and detained must be produced before the nearest magistrate within 24 hours of arrest (excluding travel time), a key safeguard of personal liberty.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Directive Principles and Fundamental Rights together are sometimes described as:",
+    "options": [
+      "The conscience of the Constitution",
+      "The Preamble",
+      "The schedules",
+      "The emergency provisions"
+    ],
+    "correct_index": 0,
+    "solution": "The Fundamental Rights and Directive Principles together are often called the conscience of the Constitution, embodying its commitment to liberty, equality, justice and the welfare of the people.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Indian concept of secularism, as reflected in the freedom of religion, means that the state:",
+    "options": [
+      "Maintains equal respect for all religions and has no religion of its own",
+      "Promotes one religion",
+      "Bans religion",
+      "Controls all religions"
+    ],
+    "correct_index": 0,
+    "solution": "Indian secularism means the state has no official religion, maintains equal respect for all religions, and can intervene to ensure equality (as in abolishing untouchability), giving citizens freedom of religion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The abolition of titles under Article 18 means that the state shall not confer titles except:",
+    "options": [
+      "Military and academic distinctions",
+      "Titles of nobility",
+      "Titles of wealth",
+      "Religious titles"
+    ],
+    "correct_index": 0,
+    "solution": "Article 18 abolishes titles; the state shall not confer any title on citizens except military and academic distinctions, ensuring equality of status.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The requirement that laws restricting freedoms be 'reasonable' allows the __________ to review such restrictions.",
+    "options": [
+      "Judiciary",
+      "Executive",
+      "Legislature only",
+      "Ruling party"
+    ],
+    "correct_index": 0,
+    "solution": "Restrictions on Fundamental Rights must be 'reasonable', and the judiciary has the power of judicial review to examine whether a restriction is reasonable or violates a Fundamental Right.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The right of minorities to establish and administer educational institutions of their choice is guaranteed by:",
+    "options": [
+      "Article 30",
+      "Article 21",
+      "Article 14",
+      "Article 19"
+    ],
+    "correct_index": 0,
+    "solution": "Article 30 gives religious and linguistic minorities the right to establish and administer educational institutions of their choice, part of the Cultural and Educational Rights.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The idea that rights impose corresponding duties means that:",
+    "options": [
+      "Enjoying one's rights carries the responsibility to respect the rights of others",
+      "Rights have no limits",
+      "Only the state has duties",
+      "Duties cancel rights"
+    ],
+    "correct_index": 0,
+    "solution": "Rights and duties are interconnected: enjoying one's own rights implies the duty to respect the same rights of others and to fulfil one's obligations as a responsible citizen.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The removal of the Right to Property from Fundamental Rights means that it is now:",
+    "options": [
+      "A legal/constitutional right under Article 300A",
+      "Completely abolished",
+      "A Directive Principle",
+      "A Fundamental Duty"
+    ],
+    "correct_index": 0,
+    "solution": "After the 44th Amendment, the Right to Property ceased to be a Fundamental Right and became a legal (constitutional) right under Article 300A, so a person cannot be deprived of property except by authority of law.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the Fundamental Right with its article: (i) Right to Equality (ii) Right to Freedom (iii) Right against Exploitation — (a) Articles 23-24 (b) Articles 14-18 (c) Articles 19-22:",
+    "options": [
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-a, (iii)-c"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Equality is Articles 14-18, the Right to Freedom is Articles 19-22, and the Right against Exploitation is Articles 23-24.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The six Fundamental Rights currently guaranteed are Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and Right to:",
+    "options": [
+      "Constitutional Remedies",
+      "Property",
+      "Work",
+      "Information"
+    ],
+    "correct_index": 0,
+    "solution": "The six Fundamental Rights are: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and the Right to Constitutional Remedies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main difference between ordinary legal rights and Fundamental Rights is that Fundamental Rights:",
+    "options": [
+      "Are protected and guaranteed by the Constitution and cannot be violated by ordinary law",
+      "Can be changed by any ordinary law",
+      "Are given by the government of the day",
+      "Apply only to officials"
+    ],
+    "correct_index": 0,
+    "solution": "Ordinary legal rights are protected by ordinary law and can be changed by the legislature, whereas Fundamental Rights are protected and guaranteed by the Constitution itself and cannot be taken away by ordinary legislation.",
+    "difficulty": "medium"
+  }
 ]
