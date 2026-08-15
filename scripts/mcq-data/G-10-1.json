@@ -1,52 +1,1130 @@
 [
-  { "stem": "On the basis of origin, resources are classified as:", "options": ["Biotic and abiotic", "Renewable and non-renewable", "Potential and developed", "Individual and national"], "correct_index": 0, "solution": "On the basis of origin, resources are classified as biotic (from living things) and abiotic (from non-living things).", "difficulty": "medium" },
-  { "stem": "On the basis of exhaustibility, resources are classified as:", "options": ["Renewable and non-renewable", "Biotic and abiotic", "Individual and national", "Potential and stock"], "correct_index": 0, "solution": "On the basis of exhaustibility, resources are classified as renewable (replenishable) and non-renewable (exhaustible).", "difficulty": "medium" },
-  { "stem": "Resources found in a region but not yet utilised are called:", "options": ["Potential resources", "Developed resources", "Stock", "Reserves"], "correct_index": 0, "solution": "Potential resources are those found in a region but not yet used (e.g. solar/wind energy in Rajasthan/Gujarat).", "difficulty": "medium" },
-  { "stem": "Resources that have been surveyed, their quality and quantity determined, and are being used are called:", "options": ["Developed resources", "Potential resources", "Stock", "Reserves"], "correct_index": 0, "solution": "Developed resources are those which have been surveyed and whose quality/quantity has been determined for utilisation.", "difficulty": "hard" },
-  { "stem": "Materials in the environment that can satisfy human needs but which we lack the technology to use are called:", "options": ["Stock", "Reserves", "Developed resources", "Potential resources"], "correct_index": 0, "solution": "'Stock' refers to materials that have the potential to satisfy human needs but which cannot be used for lack of appropriate technology.", "difficulty": "hard" },
-  { "stem": "The part of a stock that can be put into use with existing technical know-how but has not yet been used is the:", "options": ["Reserve", "Stock", "Potential resource", "Developed resource"], "correct_index": 0, "solution": "Reserves are the subset of stock that can be used with existing technology but is being saved for future use.", "difficulty": "hard" },
-  { "stem": "The 1992 conference where world leaders adopted 'Agenda 21' for sustainable development was held at:", "options": ["Rio de Janeiro", "Kyoto", "Paris", "Stockholm"], "correct_index": 0, "solution": "The Earth Summit at Rio de Janeiro (1992) adopted Agenda 21, a global action plan for sustainable development.", "difficulty": "hard" },
-  { "stem": "'Agenda 21' aims at achieving:", "options": ["Sustainable development in the 21st century", "Rapid resource depletion", "Industrial pollution", "The end of forests"], "correct_index": 0, "solution": "Agenda 21 is a declaration/action plan adopted at Rio (1992) to achieve global sustainable development in the 21st century.", "difficulty": "hard" },
-  { "stem": "The idea that development should meet present needs without compromising the ability of future generations to meet theirs is called:", "options": ["Sustainable development", "Rapid industrialisation", "Overexploitation", "Resource depletion"], "correct_index": 0, "solution": "Sustainable development balances present needs with the ability of future generations to meet their own needs.", "difficulty": "medium" },
-  { "stem": "Which soil is the most widespread and fertile soil of India, found in the Northern Plains?", "options": ["Alluvial soil", "Black soil", "Laterite soil", "Desert soil"], "correct_index": 0, "solution": "Alluvial soil, deposited by rivers, is the most widespread and fertile soil, covering the Northern Plains.", "difficulty": "medium" },
-  { "stem": "The older alluvium with more clayey, kankar (lime nodule) composition is called:", "options": ["Bangar", "Khadar", "Regur", "Laterite"], "correct_index": 0, "solution": "Bangar is the older alluvium with a higher concentration of kankar nodules; khadar is the newer, more fertile alluvium.", "difficulty": "hard" },
-  { "stem": "Black soil, ideal for growing cotton, is also called:", "options": ["Regur soil", "Khadar", "Laterite", "Bangar"], "correct_index": 0, "solution": "Black soil (regur) is ideal for cotton cultivation and is also known as 'black cotton soil'.", "difficulty": "medium" },
-  { "stem": "Black soil is formed from which type of rock?", "options": ["Volcanic (basaltic) lava — the Deccan Trap", "River alluvium", "Coral", "Sandstone"], "correct_index": 0, "solution": "Black soil is formed from the weathering of basaltic (volcanic) lava rocks of the Deccan Trap.", "difficulty": "hard" },
-  { "stem": "Black soil is found chiefly in which region of India?", "options": ["The Deccan plateau (Maharashtra, Madhya Pradesh, Gujarat)", "The Northern Plains", "The Thar Desert", "The North-East"], "correct_index": 0, "solution": "Black soil covers the Deccan plateau region (Maharashtra, Madhya Pradesh, parts of Gujarat, etc.).", "difficulty": "medium" },
-  { "stem": "Red and yellow soils develop on __________ rocks in areas of low rainfall.", "options": ["crystalline igneous", "alluvial", "volcanic", "sedimentary alluvium"], "correct_index": 0, "solution": "Red and yellow soils develop on crystalline igneous rocks in low-rainfall areas of the Deccan; the red colour is due to iron.", "difficulty": "hard" },
-  { "stem": "Laterite soil develops in areas with:", "options": ["High temperature and heavy rainfall (leaching)", "Cold, dry climate", "Desert conditions", "No rainfall"], "correct_index": 0, "solution": "Laterite soil forms in areas of high temperature and heavy rainfall, where intense leaching washes away nutrients.", "difficulty": "hard" },
-  { "stem": "Arid (desert) soils are found mainly in:", "options": ["Rajasthan (the Thar Desert region)", "Kerala", "Assam", "West Bengal"], "correct_index": 0, "solution": "Arid soils, sandy and saline, are found in the arid areas of western Rajasthan (Thar Desert).", "difficulty": "medium" },
-  { "stem": "The denudation (removal) of the soil cover by wind and water is called:", "options": ["Soil erosion", "Soil formation", "Leaching", "Weathering"], "correct_index": 0, "solution": "Soil erosion is the removal of the soil cover, mainly by the action of running water and wind.", "difficulty": "medium" },
-  { "stem": "When running water cuts through clayey soil to form deep channels called ravines, the resulting eroded, unfit land is called:", "options": ["Badland (e.g. the Chambal ravines)", "Terrace", "Delta", "Bhabar"], "correct_index": 0, "solution": "Gully erosion in clayey soils forms ravines (badland), such as the Chambal basin badlands, making the land unfit for cultivation.", "difficulty": "hard" },
-  { "stem": "When the top layer of soil is washed away over a large area, it is called:", "options": ["Sheet erosion", "Gully erosion", "Wind erosion", "Terrace erosion"], "correct_index": 0, "solution": "Sheet erosion is when water flows as a sheet over large areas and washes away the topsoil.", "difficulty": "hard" },
-  { "stem": "Ploughing along contour lines to slow the flow of water down slopes is called:", "options": ["Contour ploughing", "Strip cropping", "Terrace farming", "Shelter belts"], "correct_index": 0, "solution": "Contour ploughing (ploughing along the contours of a slope) slows the flow of water down the slope, decreasing erosion.", "difficulty": "medium" },
-  { "stem": "On steep slopes, cutting steps to reduce erosion is called:", "options": ["Terrace farming", "Contour ploughing", "Strip cropping", "Shelter belts"], "correct_index": 0, "solution": "Terrace farming (cutting step-like fields on slopes) reduces surface run-off and soil erosion in hilly areas.", "difficulty": "medium" },
-  { "stem": "Rows of trees planted to break the force of the wind and protect the soil are called:", "options": ["Shelter belts", "Contour bunds", "Terraces", "Strip crops"], "correct_index": 0, "solution": "Shelter belts (rows of trees) are planted to reduce the force of the wind and check wind erosion, especially in desert areas.", "difficulty": "medium" },
-  { "stem": "Growing crops in strips alternating with grass to check erosion is called:", "options": ["Strip cropping", "Multiple cropping", "Contour ploughing", "Terracing"], "correct_index": 0, "solution": "Strip cropping is growing crops in strips, with big fields divided into strips to reduce the force of wind and check erosion.", "difficulty": "hard" },
-  { "stem": "The classification of resources on the basis of ownership includes:", "options": ["Individual, community, national and international resources", "Biotic and abiotic", "Renewable and non-renewable", "Potential and stock"], "correct_index": 0, "solution": "On the basis of ownership, resources are classified as individual, community, national and international resources.", "difficulty": "hard" },
-  { "stem": "Resources of the open oceans beyond the exclusive economic zone (200 nautical miles) are:", "options": ["International resources", "National resources", "Individual resources", "Community resources"], "correct_index": 0, "solution": "Resources of the open ocean beyond national jurisdiction are international resources, regulated by international institutions.", "difficulty": "hard" },
-  { "stem": "The area of land actually used for growing crops in a year is called the:", "options": ["Net sown area", "Gross sown area only", "Forest area", "Barren land"], "correct_index": 0, "solution": "The net sown area is the area sown/ploughed and cultivated for crops in a year.", "difficulty": "hard" },
-  { "stem": "According to the National Forest Policy, the desirable forest cover for a country like India is about:", "options": ["33% of the geographical area", "10%", "5%", "50%"], "correct_index": 0, "solution": "The National Forest Policy recommends about 33% of the geographical area under forest/tree cover for ecological balance.", "difficulty": "hard" },
-  { "stem": "Land degradation is caused by activities such as:", "options": ["Deforestation, overgrazing, mining and overuse of chemicals", "Afforestation", "Terrace farming", "Shelter belts"], "correct_index": 0, "solution": "Land degradation is caused by deforestation, overgrazing, mining, over-irrigation and the overuse of chemical fertilisers/pesticides.", "difficulty": "medium" },
-  { "stem": "Resource planning is important for India because:", "options": ["Resources are limited and unevenly distributed", "Resources are unlimited", "There is no need to plan", "All regions have the same resources"], "correct_index": 0, "solution": "Because resources are limited and unevenly distributed across regions, careful resource planning is essential for balanced development.", "difficulty": "medium" },
-  { "stem": "Some regions rich in resources may be economically backward, showing that:", "options": ["Resource availability alone does not ensure development", "Resources have no value", "Development is automatic", "Poor regions have no resources"], "correct_index": 0, "solution": "Some resource-rich regions remain economically backward, showing that resource availability alone does not ensure development — technology, investment and planning also matter.", "difficulty": "hard" },
-  { "stem": "The over-exploitation of resources can lead to:", "options": ["Depletion, degradation and ecological crises", "Sustainable use", "Unlimited supply", "Better conservation"], "correct_index": 0, "solution": "Indiscriminate exploitation of resources leads to their depletion, environmental degradation and ecological crises.", "difficulty": "medium" },
-  { "stem": "The Rio Earth Summit (1992) was significant because it:", "options": ["Brought world leaders together to address environmental protection and development", "Started a war", "Increased pollution", "Ended all trade"], "correct_index": 0, "solution": "The Rio Earth Summit (1992) brought world leaders together to address environmental protection and socio-economic development at the global level.", "difficulty": "medium" },
-  { "stem": "The report 'Our Common Future' (1987), which popularised sustainable development, is also known as the:", "options": ["Brundtland Report", "Rio Declaration", "Kyoto Protocol", "Agenda 21"], "correct_index": 0, "solution": "The Brundtland Commission's report 'Our Common Future' (1987) popularised the concept of sustainable development.", "difficulty": "hard" },
-  { "stem": "The Chipko Movement, an example of community efforts to protect resources, was aimed at:", "options": ["Preventing deforestation (protecting trees)", "Mining more", "Building dams", "Increasing pollution"], "correct_index": 0, "solution": "The Chipko Movement in the Himalayas resisted deforestation, with people hugging trees to prevent them from being cut.", "difficulty": "hard" },
-  { "stem": "Resources are a function of not just nature but also of:", "options": ["Human beings, their technology and institutions", "Only rainfall", "Only soil", "Nothing else"], "correct_index": 0, "solution": "Resources are a function of nature, human technology and institutions — humans transform materials into usable resources.", "difficulty": "medium" },
-  { "stem": "A balanced resource planning at the national level in India involves:", "options": ["Identification/inventory, planning structure, and matching resources with development plans", "Random use", "No planning", "Only exploitation"], "correct_index": 0, "solution": "Resource planning in India involves identifying/inventorying resources, setting up a planning structure with technology and skill, and matching resource development with national plans.", "difficulty": "hard" },
-  { "stem": "The main cause of the ravines/badlands of the Chambal basin is:", "options": ["Gully erosion by running water", "Wind erosion", "Glacial action", "Volcanic activity"], "correct_index": 0, "solution": "The Chambal basin badlands (ravines) are formed by intense gully erosion caused by running water in clayey soils.", "difficulty": "hard" },
-  { "stem": "Soil is considered a renewable resource, but its formation is:", "options": ["Extremely slow (taking hundreds/thousands of years)", "Instant", "Impossible", "Faster than erosion"], "correct_index": 0, "solution": "Although renewable, soil forms extremely slowly over hundreds to thousands of years, so it must be conserved carefully.", "difficulty": "medium" },
-  { "stem": "The alluvial soil of the northern plains is renewed each year by:", "options": ["Deposits of silt brought by rivers during floods", "Volcanic ash", "Wind", "Glaciers"], "correct_index": 0, "solution": "The fertile alluvial soil (khadar) of the plains is renewed each year by fresh silt deposited by rivers during floods.", "difficulty": "medium" },
-  { "stem": "Laterite soils are generally:", "options": ["Poor in nutrients (leached), suited to plantation crops with fertilisers", "Very fertile", "Ideal for cotton", "Rich in humus"], "correct_index": 0, "solution": "Laterite soils are nutrient-poor due to leaching but, with fertilisers, are used for plantation crops like tea, coffee and cashew.", "difficulty": "hard" },
-  { "stem": "Which soil is best suited for the cultivation of cotton?", "options": ["Black (regur) soil", "Laterite soil", "Desert soil", "Mountain soil"], "correct_index": 0, "solution": "Black (regur) soil, which retains moisture well, is best suited for growing cotton.", "difficulty": "medium" },
-  { "stem": "The conservation of soil and resources is necessary for:", "options": ["Sustainable agriculture and future generations", "Rapid depletion", "Increasing erosion", "Reducing food"], "correct_index": 0, "solution": "Conserving soil and resources is necessary for sustainable agriculture and to safeguard resources for future generations.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs (soil — region) is correctly matched?", "options": ["Black soil — Deccan plateau", "Alluvial soil — Thar Desert", "Laterite soil — Northern Plains", "Desert soil — Kerala"], "correct_index": 0, "solution": "Black soil is found on the Deccan plateau. Alluvial soil is in the plains, laterite in high-rainfall areas, and desert soil in Rajasthan.", "difficulty": "medium" },
-  { "stem": "Overgrazing and mining without reclamation lead to:", "options": ["Land degradation", "Land improvement", "More forests", "Better soil"], "correct_index": 0, "solution": "Overgrazing and unregulated mining (without reclaiming land) are major causes of land degradation.", "difficulty": "medium" },
-  { "stem": "The main aim of resource conservation is to:", "options": ["Use resources wisely so they last for the future", "Exhaust them quickly", "Increase pollution", "Waste resources"], "correct_index": 0, "solution": "Resource conservation aims to use resources judiciously so that they remain available for present and future generations.", "difficulty": "medium" },
-  { "stem": "The uneven distribution of resources in India means that:", "options": ["Some regions are resource-rich while others are resource-deficient", "All regions have equal resources", "No region has resources", "Resources are unlimited everywhere"], "correct_index": 0, "solution": "Resources are unevenly distributed in India — some states are rich in certain resources while others lack them, requiring planning.", "difficulty": "medium" },
-  { "stem": "Terrace cultivation is commonly practised in which type of region?", "options": ["Hilly and mountainous regions", "Flat plains", "Deserts", "Coastal deltas"], "correct_index": 0, "solution": "Terrace cultivation, which reduces erosion on slopes, is commonly practised in hilly and mountainous regions.", "difficulty": "medium" },
-  { "stem": "Gandhiji's view that there is 'enough for everybody's need but not for anybody's greed' relates to:", "options": ["The idea of conserving resources against over-exploitation", "Increasing consumption", "Wasting resources", "Ignoring conservation"], "correct_index": 0, "solution": "Gandhi's statement underlines the need to conserve resources and use them for genuine needs rather than exploit them greedily.", "difficulty": "medium" },
-  { "stem": "The overall theme of 'Resources and Development' is that:", "options": ["Resources must be classified, planned and conserved for balanced, sustainable development", "Resources are unlimited", "Resources need no planning", "Development harms all resources"], "correct_index": 0, "solution": "The chapter explains how resources are classified and planned, and stresses their conservation for balanced and sustainable development.", "difficulty": "easy" }
+  {
+    "stem": "On the basis of origin, resources are classified as:",
+    "options": [
+      "Biotic and abiotic",
+      "Renewable and non-renewable",
+      "Potential and developed",
+      "Individual and national"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of origin, resources are classified as biotic (from living things) and abiotic (from non-living things).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "On the basis of exhaustibility, resources are classified as:",
+    "options": [
+      "Renewable and non-renewable",
+      "Biotic and abiotic",
+      "Individual and national",
+      "Potential and stock"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of exhaustibility, resources are classified as renewable (replenishable) and non-renewable (exhaustible).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Resources found in a region but not yet utilised are called:",
+    "options": [
+      "Potential resources",
+      "Developed resources",
+      "Stock",
+      "Reserves"
+    ],
+    "correct_index": 0,
+    "solution": "Potential resources are those found in a region but not yet used (e.g. solar/wind energy in Rajasthan/Gujarat).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Resources that have been surveyed, their quality and quantity determined, and are being used are called:",
+    "options": [
+      "Developed resources",
+      "Potential resources",
+      "Stock",
+      "Reserves"
+    ],
+    "correct_index": 0,
+    "solution": "Developed resources are those which have been surveyed and whose quality/quantity has been determined for utilisation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Materials in the environment that can satisfy human needs but which we lack the technology to use are called:",
+    "options": [
+      "Stock",
+      "Reserves",
+      "Developed resources",
+      "Potential resources"
+    ],
+    "correct_index": 0,
+    "solution": "'Stock' refers to materials that have the potential to satisfy human needs but which cannot be used for lack of appropriate technology.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The part of a stock that can be put into use with existing technical know-how but has not yet been used is the:",
+    "options": [
+      "Reserve",
+      "Stock",
+      "Potential resource",
+      "Developed resource"
+    ],
+    "correct_index": 0,
+    "solution": "Reserves are the subset of stock that can be used with existing technology but is being saved for future use.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 1992 conference where world leaders adopted 'Agenda 21' for sustainable development was held at:",
+    "options": [
+      "Rio de Janeiro",
+      "Kyoto",
+      "Paris",
+      "Stockholm"
+    ],
+    "correct_index": 0,
+    "solution": "The Earth Summit at Rio de Janeiro (1992) adopted Agenda 21, a global action plan for sustainable development.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Agenda 21' aims at achieving:",
+    "options": [
+      "Sustainable development in the 21st century",
+      "Rapid resource depletion",
+      "Industrial pollution",
+      "The end of forests"
+    ],
+    "correct_index": 0,
+    "solution": "Agenda 21 is a declaration/action plan adopted at Rio (1992) to achieve global sustainable development in the 21st century.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The idea that development should meet present needs without compromising the ability of future generations to meet theirs is called:",
+    "options": [
+      "Sustainable development",
+      "Rapid industrialisation",
+      "Overexploitation",
+      "Resource depletion"
+    ],
+    "correct_index": 0,
+    "solution": "Sustainable development balances present needs with the ability of future generations to meet their own needs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which soil is the most widespread and fertile soil of India, found in the Northern Plains?",
+    "options": [
+      "Alluvial soil",
+      "Black soil",
+      "Laterite soil",
+      "Desert soil"
+    ],
+    "correct_index": 0,
+    "solution": "Alluvial soil, deposited by rivers, is the most widespread and fertile soil, covering the Northern Plains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The older alluvium with more clayey, kankar (lime nodule) composition is called:",
+    "options": [
+      "Bangar",
+      "Khadar",
+      "Regur",
+      "Laterite"
+    ],
+    "correct_index": 0,
+    "solution": "Bangar is the older alluvium with a higher concentration of kankar nodules; khadar is the newer, more fertile alluvium.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Black soil, ideal for growing cotton, is also called:",
+    "options": [
+      "Regur soil",
+      "Khadar",
+      "Laterite",
+      "Bangar"
+    ],
+    "correct_index": 0,
+    "solution": "Black soil (regur) is ideal for cotton cultivation and is also known as 'black cotton soil'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Black soil is formed from which type of rock?",
+    "options": [
+      "Volcanic (basaltic) lava — the Deccan Trap",
+      "River alluvium",
+      "Coral",
+      "Sandstone"
+    ],
+    "correct_index": 0,
+    "solution": "Black soil is formed from the weathering of basaltic (volcanic) lava rocks of the Deccan Trap.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Black soil is found chiefly in which region of India?",
+    "options": [
+      "The Deccan plateau (Maharashtra, Madhya Pradesh, Gujarat)",
+      "The Northern Plains",
+      "The Thar Desert",
+      "The North-East"
+    ],
+    "correct_index": 0,
+    "solution": "Black soil covers the Deccan plateau region (Maharashtra, Madhya Pradesh, parts of Gujarat, etc.).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Red and yellow soils develop on __________ rocks in areas of low rainfall.",
+    "options": [
+      "crystalline igneous",
+      "alluvial",
+      "volcanic",
+      "sedimentary alluvium"
+    ],
+    "correct_index": 0,
+    "solution": "Red and yellow soils develop on crystalline igneous rocks in low-rainfall areas of the Deccan; the red colour is due to iron.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Laterite soil develops in areas with:",
+    "options": [
+      "High temperature and heavy rainfall (leaching)",
+      "Cold, dry climate",
+      "Desert conditions",
+      "No rainfall"
+    ],
+    "correct_index": 0,
+    "solution": "Laterite soil forms in areas of high temperature and heavy rainfall, where intense leaching washes away nutrients.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Arid (desert) soils are found mainly in:",
+    "options": [
+      "Rajasthan (the Thar Desert region)",
+      "Kerala",
+      "Assam",
+      "West Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Arid soils, sandy and saline, are found in the arid areas of western Rajasthan (Thar Desert).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The denudation (removal) of the soil cover by wind and water is called:",
+    "options": [
+      "Soil erosion",
+      "Soil formation",
+      "Leaching",
+      "Weathering"
+    ],
+    "correct_index": 0,
+    "solution": "Soil erosion is the removal of the soil cover, mainly by the action of running water and wind.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When running water cuts through clayey soil to form deep channels called ravines, the resulting eroded, unfit land is called:",
+    "options": [
+      "Badland (e.g. the Chambal ravines)",
+      "Terrace",
+      "Delta",
+      "Bhabar"
+    ],
+    "correct_index": 0,
+    "solution": "Gully erosion in clayey soils forms ravines (badland), such as the Chambal basin badlands, making the land unfit for cultivation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When the top layer of soil is washed away over a large area, it is called:",
+    "options": [
+      "Sheet erosion",
+      "Gully erosion",
+      "Wind erosion",
+      "Terrace erosion"
+    ],
+    "correct_index": 0,
+    "solution": "Sheet erosion is when water flows as a sheet over large areas and washes away the topsoil.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Ploughing along contour lines to slow the flow of water down slopes is called:",
+    "options": [
+      "Contour ploughing",
+      "Strip cropping",
+      "Terrace farming",
+      "Shelter belts"
+    ],
+    "correct_index": 0,
+    "solution": "Contour ploughing (ploughing along the contours of a slope) slows the flow of water down the slope, decreasing erosion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "On steep slopes, cutting steps to reduce erosion is called:",
+    "options": [
+      "Terrace farming",
+      "Contour ploughing",
+      "Strip cropping",
+      "Shelter belts"
+    ],
+    "correct_index": 0,
+    "solution": "Terrace farming (cutting step-like fields on slopes) reduces surface run-off and soil erosion in hilly areas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rows of trees planted to break the force of the wind and protect the soil are called:",
+    "options": [
+      "Shelter belts",
+      "Contour bunds",
+      "Terraces",
+      "Strip crops"
+    ],
+    "correct_index": 0,
+    "solution": "Shelter belts (rows of trees) are planted to reduce the force of the wind and check wind erosion, especially in desert areas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Growing crops in strips alternating with grass to check erosion is called:",
+    "options": [
+      "Strip cropping",
+      "Multiple cropping",
+      "Contour ploughing",
+      "Terracing"
+    ],
+    "correct_index": 0,
+    "solution": "Strip cropping is growing crops in strips, with big fields divided into strips to reduce the force of wind and check erosion.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The classification of resources on the basis of ownership includes:",
+    "options": [
+      "Individual, community, national and international resources",
+      "Biotic and abiotic",
+      "Renewable and non-renewable",
+      "Potential and stock"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of ownership, resources are classified as individual, community, national and international resources.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Resources of the open oceans beyond the exclusive economic zone (200 nautical miles) are:",
+    "options": [
+      "International resources",
+      "National resources",
+      "Individual resources",
+      "Community resources"
+    ],
+    "correct_index": 0,
+    "solution": "Resources of the open ocean beyond national jurisdiction are international resources, regulated by international institutions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The area of land actually used for growing crops in a year is called the:",
+    "options": [
+      "Net sown area",
+      "Gross sown area only",
+      "Forest area",
+      "Barren land"
+    ],
+    "correct_index": 0,
+    "solution": "The net sown area is the area sown/ploughed and cultivated for crops in a year.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "According to the National Forest Policy, the desirable forest cover for a country like India is about:",
+    "options": [
+      "33% of the geographical area",
+      "10%",
+      "5%",
+      "50%"
+    ],
+    "correct_index": 0,
+    "solution": "The National Forest Policy recommends about 33% of the geographical area under forest/tree cover for ecological balance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Land degradation is caused by activities such as:",
+    "options": [
+      "Deforestation, overgrazing, mining and overuse of chemicals",
+      "Afforestation",
+      "Terrace farming",
+      "Shelter belts"
+    ],
+    "correct_index": 0,
+    "solution": "Land degradation is caused by deforestation, overgrazing, mining, over-irrigation and the overuse of chemical fertilisers/pesticides.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Resource planning is important for India because:",
+    "options": [
+      "Resources are limited and unevenly distributed",
+      "Resources are unlimited",
+      "There is no need to plan",
+      "All regions have the same resources"
+    ],
+    "correct_index": 0,
+    "solution": "Because resources are limited and unevenly distributed across regions, careful resource planning is essential for balanced development.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Some regions rich in resources may be economically backward, showing that:",
+    "options": [
+      "Resource availability alone does not ensure development",
+      "Resources have no value",
+      "Development is automatic",
+      "Poor regions have no resources"
+    ],
+    "correct_index": 0,
+    "solution": "Some resource-rich regions remain economically backward, showing that resource availability alone does not ensure development — technology, investment and planning also matter.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The over-exploitation of resources can lead to:",
+    "options": [
+      "Depletion, degradation and ecological crises",
+      "Sustainable use",
+      "Unlimited supply",
+      "Better conservation"
+    ],
+    "correct_index": 0,
+    "solution": "Indiscriminate exploitation of resources leads to their depletion, environmental degradation and ecological crises.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rio Earth Summit (1992) was significant because it:",
+    "options": [
+      "Brought world leaders together to address environmental protection and development",
+      "Started a war",
+      "Increased pollution",
+      "Ended all trade"
+    ],
+    "correct_index": 0,
+    "solution": "The Rio Earth Summit (1992) brought world leaders together to address environmental protection and socio-economic development at the global level.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The report 'Our Common Future' (1987), which popularised sustainable development, is also known as the:",
+    "options": [
+      "Brundtland Report",
+      "Rio Declaration",
+      "Kyoto Protocol",
+      "Agenda 21"
+    ],
+    "correct_index": 0,
+    "solution": "The Brundtland Commission's report 'Our Common Future' (1987) popularised the concept of sustainable development.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Chipko Movement, an example of community efforts to protect resources, was aimed at:",
+    "options": [
+      "Preventing deforestation (protecting trees)",
+      "Mining more",
+      "Building dams",
+      "Increasing pollution"
+    ],
+    "correct_index": 0,
+    "solution": "The Chipko Movement in the Himalayas resisted deforestation, with people hugging trees to prevent them from being cut.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Resources are a function of not just nature but also of:",
+    "options": [
+      "Human beings, their technology and institutions",
+      "Only rainfall",
+      "Only soil",
+      "Nothing else"
+    ],
+    "correct_index": 0,
+    "solution": "Resources are a function of nature, human technology and institutions — humans transform materials into usable resources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A balanced resource planning at the national level in India involves:",
+    "options": [
+      "Identification/inventory, planning structure, and matching resources with development plans",
+      "Random use",
+      "No planning",
+      "Only exploitation"
+    ],
+    "correct_index": 0,
+    "solution": "Resource planning in India involves identifying/inventorying resources, setting up a planning structure with technology and skill, and matching resource development with national plans.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main cause of the ravines/badlands of the Chambal basin is:",
+    "options": [
+      "Gully erosion by running water",
+      "Wind erosion",
+      "Glacial action",
+      "Volcanic activity"
+    ],
+    "correct_index": 0,
+    "solution": "The Chambal basin badlands (ravines) are formed by intense gully erosion caused by running water in clayey soils.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Soil is considered a renewable resource, but its formation is:",
+    "options": [
+      "Extremely slow (taking hundreds/thousands of years)",
+      "Instant",
+      "Impossible",
+      "Faster than erosion"
+    ],
+    "correct_index": 0,
+    "solution": "Although renewable, soil forms extremely slowly over hundreds to thousands of years, so it must be conserved carefully.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The alluvial soil of the northern plains is renewed each year by:",
+    "options": [
+      "Deposits of silt brought by rivers during floods",
+      "Volcanic ash",
+      "Wind",
+      "Glaciers"
+    ],
+    "correct_index": 0,
+    "solution": "The fertile alluvial soil (khadar) of the plains is renewed each year by fresh silt deposited by rivers during floods.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Laterite soils are generally:",
+    "options": [
+      "Poor in nutrients (leached), suited to plantation crops with fertilisers",
+      "Very fertile",
+      "Ideal for cotton",
+      "Rich in humus"
+    ],
+    "correct_index": 0,
+    "solution": "Laterite soils are nutrient-poor due to leaching but, with fertilisers, are used for plantation crops like tea, coffee and cashew.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which soil is best suited for the cultivation of cotton?",
+    "options": [
+      "Black (regur) soil",
+      "Laterite soil",
+      "Desert soil",
+      "Mountain soil"
+    ],
+    "correct_index": 0,
+    "solution": "Black (regur) soil, which retains moisture well, is best suited for growing cotton.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The conservation of soil and resources is necessary for:",
+    "options": [
+      "Sustainable agriculture and future generations",
+      "Rapid depletion",
+      "Increasing erosion",
+      "Reducing food"
+    ],
+    "correct_index": 0,
+    "solution": "Conserving soil and resources is necessary for sustainable agriculture and to safeguard resources for future generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs (soil — region) is correctly matched?",
+    "options": [
+      "Black soil — Deccan plateau",
+      "Alluvial soil — Thar Desert",
+      "Laterite soil — Northern Plains",
+      "Desert soil — Kerala"
+    ],
+    "correct_index": 0,
+    "solution": "Black soil is found on the Deccan plateau. Alluvial soil is in the plains, laterite in high-rainfall areas, and desert soil in Rajasthan.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Overgrazing and mining without reclamation lead to:",
+    "options": [
+      "Land degradation",
+      "Land improvement",
+      "More forests",
+      "Better soil"
+    ],
+    "correct_index": 0,
+    "solution": "Overgrazing and unregulated mining (without reclaiming land) are major causes of land degradation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main aim of resource conservation is to:",
+    "options": [
+      "Use resources wisely so they last for the future",
+      "Exhaust them quickly",
+      "Increase pollution",
+      "Waste resources"
+    ],
+    "correct_index": 0,
+    "solution": "Resource conservation aims to use resources judiciously so that they remain available for present and future generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The uneven distribution of resources in India means that:",
+    "options": [
+      "Some regions are resource-rich while others are resource-deficient",
+      "All regions have equal resources",
+      "No region has resources",
+      "Resources are unlimited everywhere"
+    ],
+    "correct_index": 0,
+    "solution": "Resources are unevenly distributed in India — some states are rich in certain resources while others lack them, requiring planning.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Terrace cultivation is commonly practised in which type of region?",
+    "options": [
+      "Hilly and mountainous regions",
+      "Flat plains",
+      "Deserts",
+      "Coastal deltas"
+    ],
+    "correct_index": 0,
+    "solution": "Terrace cultivation, which reduces erosion on slopes, is commonly practised in hilly and mountainous regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Gandhiji's view that there is 'enough for everybody's need but not for anybody's greed' relates to:",
+    "options": [
+      "The idea of conserving resources against over-exploitation",
+      "Increasing consumption",
+      "Wasting resources",
+      "Ignoring conservation"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhi's statement underlines the need to conserve resources and use them for genuine needs rather than exploit them greedily.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "On the basis of origin, resources are classified as biotic and:",
+    "options": [
+      "Abiotic",
+      "Renewable",
+      "Potential",
+      "National"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of origin, resources are classified as biotic (obtained from the biosphere, having life, e.g. flora and fauna) and abiotic (composed of non-living things, e.g. rocks and metals).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Solar energy, wind energy and water are examples of which type of renewable resource?",
+    "options": [
+      "Continuous or flow resources",
+      "Non-renewable resources",
+      "Biotic resources",
+      "Potential resources"
+    ],
+    "correct_index": 0,
+    "solution": "Renewable resources are divided into continuous or flow resources (like solar and wind energy) and those that can be renewed through biological processes; they can be renewed or reproduced over time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Minerals and fossil fuels are examples of __________ resources because they take millions of years to form.",
+    "options": [
+      "Non-renewable",
+      "Renewable",
+      "Flow",
+      "Continuous"
+    ],
+    "correct_index": 0,
+    "solution": "Non-renewable resources like minerals and fossil fuels take millions of years in their formation; once exhausted, they cannot be replaced in a human time scale.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "On the basis of ownership, a public park or a canal owned by the government is an example of a:",
+    "options": [
+      "National/community resource",
+      "Individual resource",
+      "International resource",
+      "Potential resource"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of ownership, resources are classified as individual, community, national and international; roads, canals and public parks are community/national resources accessible to all.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone belong to the:",
+    "options": [
+      "International community (open ocean)",
+      "Coastal nation",
+      "Nearest island",
+      "United Nations army"
+    ],
+    "correct_index": 0,
+    "solution": "Resources of the open ocean beyond the Exclusive Economic Zone (200 nautical miles) are international resources; no individual country can utilise them without the concerned international institutions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Resources which are found in a region but have not been utilised are called:",
+    "options": [
+      "Potential resources",
+      "Developed resources",
+      "Reserve resources",
+      "Stock"
+    ],
+    "correct_index": 0,
+    "solution": "Potential resources are found in a region but have not been utilised; for example, the solar and wind energy potential of Rajasthan and Gujarat is largely still to be developed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Materials in the environment that can satisfy human needs but which we lack the technology to access are called:",
+    "options": [
+      "Stock",
+      "Reserves",
+      "Developed resources",
+      "Potential resources"
+    ],
+    "correct_index": 0,
+    "solution": "'Stock' refers to materials in the environment which have the potential to satisfy human needs but which humans do not have the appropriate technology to access, e.g. hydrogen as a source of energy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The subset of stock that can be put into use with existing technical know-how but has not yet been utilised is called:",
+    "options": [
+      "Reserves",
+      "Potential resource",
+      "Developed resource",
+      "Flow resource"
+    ],
+    "correct_index": 0,
+    "solution": "Reserves are the subset of the stock which can be put into use with the help of existing technical know-how but whose use has not yet been started, e.g. water in dams for generating electricity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 1992 conference at Rio de Janeiro, where world leaders adopted 'Agenda 21', was called the:",
+    "options": [
+      "First International Earth Summit",
+      "Kyoto Conference",
+      "Stockholm Conference",
+      "Paris Summit"
+    ],
+    "correct_index": 0,
+    "solution": "The first International Earth Summit was held in June 1992 in Rio de Janeiro, Brazil, where leaders adopted Agenda 21 to combat environmental damage and promote sustainable development.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The report 'Our Common Future' (1987), which introduced the idea of sustainable development, was published by the:",
+    "options": [
+      "Brundtland Commission",
+      "Club of Rome",
+      "World Bank",
+      "Rio Earth Summit"
+    ],
+    "correct_index": 0,
+    "solution": "The Brundtland Commission Report 'Our Common Future' (1987) introduced the concept of sustainable development and advocated it as a means for resource conservation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most widespread and fertile soil of India, found in the northern plains, is:",
+    "options": [
+      "Alluvial soil",
+      "Black soil",
+      "Laterite soil",
+      "Red soil"
+    ],
+    "correct_index": 0,
+    "solution": "Alluvial soil is the most widely spread and important soil of India, covering the entire northern plains, deposited by the Indus, Ganga and Brahmaputra rivers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The older alluvium, containing more kankar (lime nodules), is called:",
+    "options": [
+      "Bhangar",
+      "Khadar",
+      "Regur",
+      "Bhabar"
+    ],
+    "correct_index": 0,
+    "solution": "Older alluvium is called bhangar; it has a higher concentration of kankar nodules. The newer, more fertile alluvium is called khadar.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Black soil, ideal for growing cotton, is also known as:",
+    "options": [
+      "Regur soil",
+      "Bhangar",
+      "Laterite",
+      "Khadar"
+    ],
+    "correct_index": 0,
+    "solution": "Black soils are also known as regur soils; they are ideal for growing cotton and are also called black cotton soil.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Black soil is formed from which type of parent rock?",
+    "options": [
+      "Volcanic (basaltic lava) rocks",
+      "Sandstone",
+      "Limestone",
+      "Granite"
+    ],
+    "correct_index": 0,
+    "solution": "Black soil is formed from the lava flows of the Deccan Trap; the climatic conditions and the parent basaltic rock give it its black colour and moisture-retaining quality.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Laterite soil is well suited for the cultivation of which crop after manuring?",
+    "options": [
+      "Tea, coffee and cashew",
+      "Cotton",
+      "Wheat",
+      "Sugarcane only"
+    ],
+    "correct_index": 0,
+    "solution": "After adopting proper soil conservation and manuring, laterite soils are suitable for growing tea, coffee and cashew nuts, especially in Karnataka, Kerala and Tamil Nadu.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Red soil gets its reddish colour due to:",
+    "options": [
+      "The diffusion of iron in crystalline and metamorphic rocks",
+      "High organic content",
+      "Heavy leaching",
+      "Volcanic ash"
+    ],
+    "correct_index": 0,
+    "solution": "Red soil develops on crystalline igneous rocks in low-rainfall areas; it is reddish because of the diffusion of iron, and looks yellow when hydrated.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Arid (desert) soils, sandy and saline, are found mainly in:",
+    "options": [
+      "Western Rajasthan",
+      "Assam",
+      "Kerala",
+      "West Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Arid soils range from red to brown, are sandy and saline, and are found in the dry regions of western Rajasthan; they lack humus and moisture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The removal (denudation) of the soil cover by the action of wind and water is called:",
+    "options": [
+      "Soil erosion",
+      "Leaching",
+      "Weathering",
+      "Salination"
+    ],
+    "correct_index": 0,
+    "solution": "Soil erosion is the denudation of the soil cover and its subsequent washing down by the natural agents of wind and water, faster than it can be replaced.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When running water cuts through clayey soils forming deep channels, the resulting badland topography (as in the Chambal basin) is called:",
+    "options": [
+      "Ravines/gully erosion",
+      "Sheet erosion",
+      "Wind erosion",
+      "Terracing"
+    ],
+    "correct_index": 0,
+    "solution": "Gully erosion occurs when running water cuts through clayey soils to make deep channels called gullies; the land, unfit for cultivation, becomes badland, known as ravines in the Chambal basin.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When the topsoil is washed away uniformly over a large flat area, it is called:",
+    "options": [
+      "Sheet erosion",
+      "Gully erosion",
+      "Wind erosion",
+      "Terrace erosion"
+    ],
+    "correct_index": 0,
+    "solution": "Sheet erosion occurs when water flows as a sheet over large areas down a slope, removing the topsoil uniformly, which is a serious form of soil degradation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Cutting steps on steep slopes to reduce soil erosion, common in the hilly regions of the Himalayas, is called:",
+    "options": [
+      "Terrace cultivation",
+      "Contour bunding",
+      "Strip cropping",
+      "Shelter belt farming"
+    ],
+    "correct_index": 0,
+    "solution": "Steps can be cut out on the slopes making terraces; terrace cultivation restricts erosion and is well developed in the western and central Himalayas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rows of trees planted to break the force of the wind, especially in western India, are called:",
+    "options": [
+      "Shelter belts",
+      "Terraces",
+      "Contour bunds",
+      "Strip crops"
+    ],
+    "correct_index": 0,
+    "solution": "Planting lines of trees to create shelter belts has contributed significantly to the stabilisation of sand dunes and stabilising the desert in western India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "According to the National Forest Policy, the desirable forest cover for the plains and hills of India is respectively about:",
+    "options": [
+      "33% and 67%",
+      "10% and 20%",
+      "50% and 50%",
+      "25% and 40%"
+    ],
+    "correct_index": 0,
+    "solution": "The National Forest Policy recommends that 33 per cent of the geographical area should be under forest, with about 33% in the plains and 67% in the hilly regions to maintain ecological balance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The total geographical area of India for which land use data is available is about:",
+    "options": [
+      "93 per cent of the total area",
+      "50 per cent",
+      "100 per cent",
+      "20 per cent"
+    ],
+    "correct_index": 0,
+    "solution": "Land use data is available for about 93 per cent of India's total geographical area, as land use reporting for most of the north-eastern states (except Assam) and some areas is not fully available.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Chipko Movement, a community effort to protect resources, was aimed at preventing:",
+    "options": [
+      "Deforestation",
+      "Overfishing",
+      "Mining",
+      "Water pollution"
+    ],
+    "correct_index": 0,
+    "solution": "The Chipko Movement in the Himalayas successfully resisted deforestation and showed how community afforestation with indigenous species can be ecologically and economically viable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Land degradation in states like Jharkhand, Chhattisgarh and Odisha is caused mainly by:",
+    "options": [
+      "Mining and quarrying",
+      "Overgrazing",
+      "Overirrigation",
+      "Deforestation for cultivation"
+    ],
+    "correct_index": 0,
+    "solution": "In states such as Jharkhand, Chhattisgarh, Madhya Pradesh and Odisha, deforestation due to mining has caused severe land degradation, leaving behind degraded pits and dumps.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Overirrigation is responsible for land degradation in states like Punjab and Haryana because it causes:",
+    "options": [
+      "Waterlogging and increase in salinity/alkalinity",
+      "Deforestation",
+      "Wind erosion",
+      "Landslides"
+    ],
+    "correct_index": 0,
+    "solution": "In states like Punjab, Haryana and western Uttar Pradesh, overirrigation is responsible for land degradation due to waterlogging, which raises salinity and alkalinity in the soil.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Resource planning is essential in India. Reason (R): Resources are unevenly distributed and their over-utilisation can lead to serious problems.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Because resources are limited and unevenly distributed, and their unplanned exploitation causes ecological and social problems, planned and balanced resource use is essential — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Some resource-rich regions are economically backward. Reason (R): Development requires not only resources but also technology and institutional change.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Resource availability alone does not ensure development; regions like Jharkhand are resource-rich yet economically backward because development also needs technology and institutional support — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the soil with its region: (i) Black soil (ii) Laterite soil (iii) Alluvial soil — (a) Northern plains (b) Deccan Trap (c) Karnataka/Kerala hills:",
+    "options": [
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-a, (iii)-c"
+    ],
+    "correct_index": 0,
+    "solution": "Black soil covers the Deccan Trap, laterite soil is found in the hills of Karnataka and Kerala, and alluvial soil covers the northern plains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea of 'sustainable development' means development that:",
+    "options": [
+      "Meets present needs without compromising the ability of future generations to meet their needs",
+      "Uses up all resources now",
+      "Ignores the environment",
+      "Stops all growth"
+    ],
+    "correct_index": 0,
+    "solution": "Sustainable development means that development should take place without damaging the environment, and that development in the present should not compromise the needs of future generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Gandhiji's view that 'there is enough for everybody's need but not for anybody's greed' was a warning against:",
+    "options": [
+      "The over-exploitation of resources by a few",
+      "Poverty",
+      "Industrialisation",
+      "Population growth"
+    ],
+    "correct_index": 0,
+    "solution": "Gandhiji placed the greedy and selfish individuals and exploitative modern technology as the root cause of resource depletion at the global level, warning against over-exploitation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The net sown area refers to:",
+    "options": [
+      "The area sown with crops in a year (counted once)",
+      "The total geographical area",
+      "Forest area",
+      "Fallow land"
+    ],
+    "correct_index": 0,
+    "solution": "Net sown area is the physical extent of land on which crops are sown and harvested; when an area is sown more than once in a year, it is counted only once in the net sown area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When the net sown area is added with the area sown more than once, it gives the:",
+    "options": [
+      "Gross cropped area",
+      "Fallow land",
+      "Forest area",
+      "Culturable waste"
+    ],
+    "correct_index": 0,
+    "solution": "The gross cropped area is the total area sown once and/or more than once in a particular year, counting the area sown more than once as many times as it is sown.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Land left uncultivated for one to five agricultural years to recover fertility is called:",
+    "options": [
+      "Fallow land",
+      "Culturable waste",
+      "Net sown area",
+      "Permanent pasture"
+    ],
+    "correct_index": 0,
+    "solution": "Fallow land is arable land left without cultivation for one or less than one agricultural year (current fallow) or for one to five years (fallow other than current) to help it recover fertility.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main forces (factors) that lead to soil formation include relief, parent rock, climate, vegetation and:",
+    "options": [
+      "Time",
+      "Rainfall only",
+      "Rivers only",
+      "Wind only"
+    ],
+    "correct_index": 0,
+    "solution": "Soil formation is influenced by relief, parent rock or bedrock, climate, vegetation and other forms of life, as well as by time, which allows the soil profile to develop.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Alluvial soils as a whole are very fertile and are especially rich in:",
+    "options": [
+      "Potash, phosphoric acid and lime",
+      "Iron oxide",
+      "Salt",
+      "Aluminium"
+    ],
+    "correct_index": 0,
+    "solution": "Alluvial soils are rich in potash, phosphoric acid and lime, making them ideal for the growth of crops like sugarcane, paddy, wheat and pulses; they are intensively cultivated.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Overgrazing and mining without proper reclamation lead to:",
+    "options": [
+      "Land degradation",
+      "Improved soil fertility",
+      "Increased forest cover",
+      "Higher rainfall"
+    ],
+    "correct_index": 0,
+    "solution": "Overgrazing in states like Gujarat, Rajasthan and Maharashtra, and mining without reclaiming the mined land, are important causes of land degradation across India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Strip cropping is a soil conservation method in which:",
+    "options": [
+      "Large fields are divided into strips, with grass strips left between crops",
+      "Steps are cut on slopes",
+      "Trees are planted in rows",
+      "Water is stored in tanks"
+    ],
+    "correct_index": 0,
+    "solution": "In strip cropping, large fields can be divided into strips, and strips of grass are left to grow between the crops; this breaks up the force of the wind and checks erosion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The classification of resources based on the status of development includes potential, developed stock and:",
+    "options": [
+      "Reserves",
+      "Biotic",
+      "Abiotic",
+      "Individual"
+    ],
+    "correct_index": 0,
+    "solution": "On the basis of status of development, resources are classified as potential, developed stock and reserves, according to how far they have been surveyed and put to use.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Agenda 21, adopted at the Rio Summit, is a declaration aimed at achieving:",
+    "options": [
+      "Global sustainable development in the 21st century",
+      "Rapid industrialisation",
+      "Increased fossil fuel use",
+      "Free trade only"
+    ],
+    "correct_index": 0,
+    "solution": "Agenda 21 is a declaration signed at the Rio Earth Summit (1992) aiming at achieving global sustainable development, combating environmental damage, poverty and disease through global cooperation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Forest and land under permanent pasture together with culturable wasteland fall under the category of:",
+    "options": [
+      "Land use classification",
+      "Soil types",
+      "Mineral resources",
+      "Water resources"
+    ],
+    "correct_index": 0,
+    "solution": "India's land is classified by use into categories such as forests, land under non-agricultural uses, barren and wasteland, permanent pastures, culturable waste, fallow lands and net sown area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Red and yellow soils are found in the regions of:",
+    "options": [
+      "Eastern and southern Deccan plateau, Odisha and Chhattisgarh",
+      "The northern plains",
+      "Western Rajasthan",
+      "The Himalayas"
+    ],
+    "correct_index": 0,
+    "solution": "Red and yellow soils are found in areas of low rainfall in the eastern and southern parts of the Deccan plateau, and also in parts of Odisha, Chhattisgarh and the southern Ganga plain.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Forest soils are found mainly in:",
+    "options": [
+      "Hilly and mountainous areas with sufficient rainfall",
+      "The desert",
+      "The coastal plains",
+      "The river deltas"
+    ],
+    "correct_index": 0,
+    "solution": "Forest soils are found in the hilly and mountainous areas where sufficient rain forests are available; they are loamy and silty in valleys and coarse-grained in the upper slopes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall theme of 'Resources and Development' is that:",
+    "options": [
+      "Resources must be classified, planned and conserved for balanced, sustainable development",
+      "Resources are unlimited",
+      "Resources need no planning",
+      "Development harms all resources"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains how resources are classified and planned, and stresses their conservation for balanced and sustainable development.",
+    "difficulty": "easy"
+  }
 ]
