@@ -1,52 +1,902 @@
 [
-  { "stem": "'Food security' means:", "options": ["Availability, accessibility and affordability of food to all people at all times", "Food only for the rich", "Food only during festivals", "Food only in cities"], "correct_index": 0, "solution": "Food security means food is available, accessible and affordable to all people at all times.", "difficulty": "medium" },
-  { "stem": "The three dimensions of food security are availability, accessibility and:", "options": ["Affordability", "Colour", "Taste", "Packaging"], "correct_index": 0, "solution": "Food security has three dimensions: availability (production/stock), accessibility (reach), and affordability (ability to buy).", "difficulty": "medium" },
-  { "stem": "The most devastating famine in India, which occurred in 1943, was the:", "options": ["Bengal Famine", "Bihar Famine", "Odisha Famine", "Deccan Famine"], "correct_index": 0, "solution": "The Bengal Famine of 1943 killed an estimated three million people and highlighted the need for food security.", "difficulty": "hard" },
-  { "stem": "The stock of food grains maintained by the government to distribute in deficit areas is called the:", "options": ["Buffer stock", "Working stock", "Reserve fund", "Cash reserve"], "correct_index": 0, "solution": "The buffer stock is the reserve of food grains (wheat and rice) maintained by the government to meet shortages and stabilise supply.", "difficulty": "hard" },
-  { "stem": "The government agency that procures and stores food grains for the buffer stock is the:", "options": ["Food Corporation of India (FCI)", "Reserve Bank of India", "Election Commission", "NITI Aayog"], "correct_index": 0, "solution": "The Food Corporation of India (FCI) procures, stores and distributes food grains to maintain the buffer stock.", "difficulty": "hard" },
-  { "stem": "The price at which the government purchases food grains from farmers to build the buffer stock is the:", "options": ["Minimum Support Price (MSP)", "Market price", "Issue price only", "Retail price"], "correct_index": 0, "solution": "The Minimum Support Price (MSP) is the price announced in advance at which the government buys grains from farmers.", "difficulty": "hard" },
-  { "stem": "The system that distributes food grains through ration shops at subsidised prices is the:", "options": ["Public Distribution System (PDS)", "Green Revolution", "MGNREGA", "Sarva Shiksha Abhiyan"], "correct_index": 0, "solution": "The Public Distribution System (PDS) distributes food grains and other essentials through fair-price (ration) shops at subsidised prices.", "difficulty": "medium" },
-  { "stem": "Ration shops (fair-price shops) sell items such as:", "options": ["Food grains, sugar and kerosene at subsidised prices", "Luxury cars", "Electronics", "Jewellery"], "correct_index": 0, "solution": "Ration shops sell essential items like wheat, rice, sugar and kerosene oil to card-holders at subsidised prices.", "difficulty": "medium" },
-  { "stem": "The card that entitles a household to buy subsidised items from ration shops is the:", "options": ["Ration card", "Voter ID card", "PAN card", "Aadhaar card only"], "correct_index": 0, "solution": "A ration card entitles a household to purchase subsidised food and other items from the fair-price shop.", "difficulty": "medium" },
-  { "stem": "The Antyodaya Anna Yojana (AAY), launched in 2000, targets:", "options": ["The poorest of the poor families", "The richest families", "Large farmers", "Government officers"], "correct_index": 0, "solution": "The Antyodaya Anna Yojana provides highly subsidised food grains to the poorest of the poor households.", "difficulty": "hard" },
-  { "stem": "India became self-sufficient in food grains largely because of the:", "options": ["Green Revolution", "Bengal Famine", "colonial policies", "White Revolution"], "correct_index": 0, "solution": "The Green Revolution, using HYV seeds and modern methods, made India self-sufficient in food grains.", "difficulty": "medium" },
-  { "stem": "Which of the following groups is most food-insecure?", "options": ["Landless labourers and the urban/rural poor", "Large farmers", "Industrialists", "Wealthy traders"], "correct_index": 0, "solution": "Landless labourers, traditional artisans, the urban poor, SCs/STs, and women and children in poor families are most food-insecure.", "difficulty": "medium" },
-  { "stem": "Hunger that occurs due to poverty over the year is called:", "options": ["Chronic hunger", "Seasonal hunger", "Occasional hunger", "Festival hunger"], "correct_index": 0, "solution": "Chronic hunger is a persistent condition of not having enough food, arising from continuous poverty and low income.", "difficulty": "hard" },
-  { "stem": "Hunger that occurs at certain times of the year (e.g. between harvests) is called:", "options": ["Seasonal hunger", "Chronic hunger", "Permanent hunger", "Festival hunger"], "correct_index": 0, "solution": "Seasonal hunger occurs during particular periods, such as between crop seasons when agricultural work is scarce.", "difficulty": "hard" },
-  { "stem": "Food security is especially important during times of:", "options": ["Natural calamities (floods, droughts, earthquakes) and famines", "Festivals only", "Good harvests only", "Economic booms only"], "correct_index": 0, "solution": "Food security is crucial during calamities like droughts, floods and famines, when food production and access are disrupted.", "difficulty": "medium" },
-  { "stem": "During a calamity, food prices tend to rise because:", "options": ["Food production falls while demand continues", "Food becomes abundant", "There are no buyers", "Prices are fixed by nature"], "correct_index": 0, "solution": "During calamities, food production falls and shortages develop, pushing prices up and making food unaffordable for the poor.", "difficulty": "medium" },
-  { "stem": "A 'famine' is characterised by:", "options": ["Widespread deaths due to starvation and disease from severe food shortage", "A good harvest", "Plentiful food", "High incomes"], "correct_index": 0, "solution": "A famine is a severe food shortage causing widespread starvation, malnutrition and deaths, often worsened by disease.", "difficulty": "medium" },
-  { "stem": "The Minimum Support Price (MSP) helps farmers by:", "options": ["Guaranteeing a fair price and protecting them from price falls", "Reducing their income", "Banning their crops", "Increasing their costs"], "correct_index": 0, "solution": "The MSP guarantees farmers a fixed, remunerative price for their produce, protecting them from sharp price falls and encouraging production.", "difficulty": "medium" },
-  { "stem": "The buffer stock is used by the government to:", "options": ["Distribute food in deficit/poor areas and stabilise prices", "Sell abroad only", "Store forever unused", "Reduce food supply"], "correct_index": 0, "solution": "The buffer stock is used to supply food to deficit areas and to the poor at low prices, and to stabilise food prices during shortages.", "difficulty": "medium" },
-  { "stem": "The cooperatives play an important role in food security by, for example:", "options": ["Running fair-price shops and distributing goods (e.g. Amul in milk)", "Increasing prices", "Reducing food supply", "Hoarding grains"], "correct_index": 0, "solution": "Cooperatives run fair-price shops and, like Amul in dairy, help ensure the availability and affordability of food.", "difficulty": "hard" },
-  { "stem": "Which of the following categories is used to classify ration card holders?", "options": ["APL, BPL and Antyodaya", "Rich and poor only", "Rural and urban only", "Young and old"], "correct_index": 0, "solution": "Ration cards are issued to Above Poverty Line (APL), Below Poverty Line (BPL) and Antyodaya (poorest) households, with different entitlements.", "difficulty": "hard" },
-  { "stem": "A problem faced by the Public Distribution System is:", "options": ["Leakage, poor quality grains and inefficiency in some areas", "Too much success", "No demand for food", "Excessive profits for the poor"], "correct_index": 0, "solution": "The PDS suffers from problems like leakage/diversion of grains, poor-quality food and inefficiency in some areas.", "difficulty": "medium" },
-  { "stem": "The main aim of the Public Distribution System is to:", "options": ["Ensure the poor get food grains at affordable prices", "Help the rich", "Reduce food supply", "Increase food prices"], "correct_index": 0, "solution": "The PDS aims to provide food grains to the poor at affordable, subsidised prices, ensuring food security.", "difficulty": "medium" },
-  { "stem": "Food security ensures that:", "options": ["No one goes hungry, especially the poor and during difficult times", "Only the rich are fed", "Food is wasted", "Food is unavailable"], "correct_index": 0, "solution": "Food security ensures that everyone, especially the poor, has access to enough food at all times, including during calamities.", "difficulty": "medium" },
-  { "stem": "The people who are more likely to suffer food insecurity in urban areas are:", "options": ["Casual workers and the urban poor with low, irregular incomes", "Rich businessmen", "Government officers", "Factory owners"], "correct_index": 0, "solution": "In urban areas, casual workers and the poor with low, irregular incomes are most vulnerable to food insecurity.", "difficulty": "medium" },
-  { "stem": "The role of the FCI in food security is to:", "options": ["Procure grains at MSP, store buffer stock and supply the PDS", "Conduct elections", "Print money", "Build roads"], "correct_index": 0, "solution": "The FCI procures grains at the MSP, maintains the buffer stock and supplies grains for distribution through the PDS.", "difficulty": "medium" },
-  { "stem": "A large buffer stock also helps the government to:", "options": ["Control price rise during shortages", "Cause famines", "Reduce food supply", "Increase hunger"], "correct_index": 0, "solution": "A buffer stock allows the government to release grains during shortages, controlling price rises and ensuring supply.", "difficulty": "medium" },
-  { "stem": "Which section of society is often the worst affected by food insecurity within a poor family?", "options": ["Women and children", "Adult men only", "The elderly rich", "Government workers"], "correct_index": 0, "solution": "Within poor families, women and children often suffer the most from food insecurity and malnutrition.", "difficulty": "medium" },
-  { "stem": "The government intervenes in food security because:", "options": ["The market alone may not ensure food for the poor and vulnerable", "Food is unlimited", "Everyone can afford food", "The poor need no help"], "correct_index": 0, "solution": "The government intervenes because the market alone may fail to ensure food for the poor and vulnerable, especially during shortages.", "difficulty": "medium" },
-  { "stem": "The self-sufficiency in food grains achieved after the Green Revolution meant that India:", "options": ["Could largely meet its food needs from domestic production", "Depended fully on imports", "Produced no food", "Exported all its food"], "correct_index": 0, "solution": "After the Green Revolution, India could largely meet its food-grain needs from its own production, reducing dependence on imports.", "difficulty": "medium" },
-  { "stem": "The Minimum Support Price is announced by the government:", "options": ["Before the sowing season", "After the harvest is sold", "Only during famines", "Never"], "correct_index": 0, "solution": "The MSP is announced before the sowing season so that farmers know the assured price and can plan their production.", "difficulty": "hard" },
-  { "stem": "Which of the following is a component of India's food security system?", "options": ["Buffer stock and the Public Distribution System", "The stock market", "The Election Commission", "The judiciary"], "correct_index": 0, "solution": "India's food security system rests on the buffer stock (via FCI and MSP) and the Public Distribution System.", "difficulty": "medium" },
-  { "stem": "The distribution of food grains at subsidised prices is important because it:", "options": ["Makes food affordable for the poor", "Raises food prices", "Reduces food supply", "Helps only the rich"], "correct_index": 0, "solution": "Subsidised distribution makes food affordable and accessible for the poor, ensuring their food security.", "difficulty": "medium" },
-  { "stem": "The Green Revolution's contribution to food security was to:", "options": ["Increase food-grain production and build up buffer stocks", "Reduce food production", "Cause famines", "End farming"], "correct_index": 0, "solution": "The Green Revolution increased food-grain production, enabling India to build buffer stocks and improve food security.", "difficulty": "medium" },
-  { "stem": "A challenge in maintaining food security is:", "options": ["Ensuring grains reach the needy without waste or diversion", "Producing too much food", "Having no farmers", "Having no demand"], "correct_index": 0, "solution": "A key challenge is ensuring that food grains actually reach the needy efficiently, without waste, spoilage or diversion.", "difficulty": "medium" },
-  { "stem": "The concept of food security became especially important in India after experiences such as:", "options": ["The Bengal Famine of 1943", "The Green Revolution's success", "Rapid industrial growth", "High literacy"], "correct_index": 0, "solution": "Devastating famines like the Bengal Famine of 1943 underscored the need for a strong food security system.", "difficulty": "medium" },
-  { "stem": "The affordability dimension of food security means:", "options": ["People have enough income to buy sufficient, safe and nutritious food", "Food is free for the rich", "Food is unavailable", "Food is only in cities"], "correct_index": 0, "solution": "Affordability means people have enough purchasing power (income) to buy sufficient, safe and nutritious food.", "difficulty": "medium" },
-  { "stem": "The availability dimension of food security refers to:", "options": ["Food production within the country plus stocks and imports", "Only imports", "Only the rich having food", "Food being wasted"], "correct_index": 0, "solution": "Availability refers to food being present in the country through domestic production, stocks (buffer) and imports.", "difficulty": "medium" },
-  { "stem": "The accessibility dimension of food security means that food:", "options": ["Reaches every person", "Is available only in warehouses", "Is exported", "Is destroyed"], "correct_index": 0, "solution": "Accessibility means that food actually reaches and is within the reach of every person who needs it.", "difficulty": "medium" },
-  { "stem": "Which of the following schemes provides mid-day meals to school children, aiding food security?", "options": ["The Mid-Day Meal Scheme", "MGNREGA", "The Green Revolution", "MSP"], "correct_index": 0, "solution": "The Mid-Day Meal Scheme provides cooked meals to school children, improving their nutrition and food security.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs is correctly matched?", "options": ["FCI — procurement and storage of grains", "MSP — retail selling price to consumers", "PDS — building roads", "Buffer stock — election data"], "correct_index": 0, "solution": "The FCI handles procurement and storage. MSP is the purchase price from farmers, the PDS distributes food, and the buffer stock is a food reserve.", "difficulty": "medium" },
-  { "stem": "Food security is linked to poverty because:", "options": ["The poor often cannot afford enough food, so they are food-insecure", "The poor have plenty of food", "Poverty ensures food security", "Food and poverty are unrelated"], "correct_index": 0, "solution": "Food insecurity is closely tied to poverty, as the poor often lack the income to buy enough nutritious food.", "difficulty": "medium" },
-  { "stem": "The provision of food grains through the PDS during a drought helps by:", "options": ["Ensuring the affected people still get food", "Raising prices", "Reducing supply", "Causing famine"], "correct_index": 0, "solution": "During a drought, the PDS supplies food grains to affected people, helping prevent hunger and stabilise supply.", "difficulty": "medium" },
-  { "stem": "The main purpose of the Minimum Support Price and buffer stock together is to:", "options": ["Support farmers and ensure food availability for consumers", "Harm farmers", "Reduce food", "Raise prices for the poor"], "correct_index": 0, "solution": "Together, the MSP supports farmers with fair prices, and the buffer stock ensures food availability for consumers.", "difficulty": "medium" },
-  { "stem": "The people most in need of the food security system are:", "options": ["The poor and vulnerable sections of society", "The rich", "Large farmers", "Industrialists"], "correct_index": 0, "solution": "The food security system is most needed by the poor and vulnerable sections who cannot ensure their own food supply.", "difficulty": "medium" },
-  { "stem": "Reforms in the PDS aim to:", "options": ["Reduce leakages and target benefits better to the needy", "Help only the rich", "Reduce food supply", "End the PDS entirely"], "correct_index": 0, "solution": "PDS reforms aim to reduce leakages and corruption and target subsidised food more effectively to the genuinely needy.", "difficulty": "medium" },
-  { "stem": "Ensuring food security contributes to the nation by:", "options": ["Improving people's health, productivity and social stability", "Increasing hunger", "Reducing productivity", "Causing unrest"], "correct_index": 0, "solution": "Food security improves people's health and productivity and promotes social stability, benefiting the whole nation.", "difficulty": "medium" },
-  { "stem": "The two agencies/tools central to India's food security are:", "options": ["The FCI (buffer stock) and the PDS (distribution)", "The RBI and the courts", "The army and the police", "The census and elections"], "correct_index": 0, "solution": "India's food security relies on the FCI (procurement and buffer stock) and the PDS (distribution to the poor).", "difficulty": "medium" },
-  { "stem": "The system introduced in 1997 that distinguishes between poor and non-poor households to better target food subsidies is the:", "options": ["Targeted Public Distribution System (TPDS)", "Green Revolution", "Minimum Support Price", "Antyodaya Anna Yojana"], "correct_index": 0, "solution": "The Targeted Public Distribution System (TPDS), introduced in 1997, distinguishes between Below Poverty Line and Above Poverty Line families to focus subsidies on the poor.", "difficulty": "hard" },
-  { "stem": "The overall theme of 'Food Security in India' is that:", "options": ["Ensuring availability, access and affordability of food to all is vital, and India uses buffer stocks and the PDS to achieve it", "Food security is unimportant", "Only the rich need food", "India has no food problem"], "correct_index": 0, "solution": "The chapter explains the meaning and importance of food security and how India ensures it through the buffer stock, MSP and the Public Distribution System.", "difficulty": "easy" }
+  {
+    "stem": "'Food security' means:",
+    "options": [
+      "Availability, accessibility and affordability of food to all people at all times",
+      "Food only for the rich",
+      "Food only during festivals",
+      "Food only in cities"
+    ],
+    "correct_index": 0,
+    "solution": "Food security means food is available, accessible and affordable to all people at all times.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three dimensions of food security are availability, accessibility and:",
+    "options": [
+      "Affordability",
+      "Colour",
+      "Taste",
+      "Packaging"
+    ],
+    "correct_index": 0,
+    "solution": "Food security has three dimensions: availability (production/stock), accessibility (reach), and affordability (ability to buy).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most devastating famine in India, which occurred in 1943, was the:",
+    "options": [
+      "Bengal Famine",
+      "Bihar Famine",
+      "Odisha Famine",
+      "Deccan Famine"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal Famine of 1943 killed an estimated three million people and highlighted the need for food security.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The stock of food grains maintained by the government to distribute in deficit areas is called the:",
+    "options": [
+      "Buffer stock",
+      "Working stock",
+      "Reserve fund",
+      "Cash reserve"
+    ],
+    "correct_index": 0,
+    "solution": "The buffer stock is the reserve of food grains (wheat and rice) maintained by the government to meet shortages and stabilise supply.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The government agency that procures and stores food grains for the buffer stock is the:",
+    "options": [
+      "Food Corporation of India (FCI)",
+      "Reserve Bank of India",
+      "Election Commission",
+      "NITI Aayog"
+    ],
+    "correct_index": 0,
+    "solution": "The Food Corporation of India (FCI) procures, stores and distributes food grains to maintain the buffer stock.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The price at which the government purchases food grains from farmers to build the buffer stock is the:",
+    "options": [
+      "Minimum Support Price (MSP)",
+      "Market price",
+      "Issue price only",
+      "Retail price"
+    ],
+    "correct_index": 0,
+    "solution": "The Minimum Support Price (MSP) is the price announced in advance at which the government buys grains from farmers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The system that distributes food grains through ration shops at subsidised prices is the:",
+    "options": [
+      "Public Distribution System (PDS)",
+      "Green Revolution",
+      "MGNREGA",
+      "Sarva Shiksha Abhiyan"
+    ],
+    "correct_index": 0,
+    "solution": "The Public Distribution System (PDS) distributes food grains and other essentials through fair-price (ration) shops at subsidised prices.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ration shops (fair-price shops) sell items such as:",
+    "options": [
+      "Food grains, sugar and kerosene at subsidised prices",
+      "Luxury cars",
+      "Electronics",
+      "Jewellery"
+    ],
+    "correct_index": 0,
+    "solution": "Ration shops sell essential items like wheat, rice, sugar and kerosene oil to card-holders at subsidised prices.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The card that entitles a household to buy subsidised items from ration shops is the:",
+    "options": [
+      "Ration card",
+      "Voter ID card",
+      "PAN card",
+      "Aadhaar card only"
+    ],
+    "correct_index": 0,
+    "solution": "A ration card entitles a household to purchase subsidised food and other items from the fair-price shop.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Antyodaya Anna Yojana (AAY), launched in 2000, targets:",
+    "options": [
+      "The poorest of the poor families",
+      "The richest families",
+      "Large farmers",
+      "Government officers"
+    ],
+    "correct_index": 0,
+    "solution": "The Antyodaya Anna Yojana provides highly subsidised food grains to the poorest of the poor households.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India became self-sufficient in food grains largely because of the:",
+    "options": [
+      "Green Revolution",
+      "Bengal Famine",
+      "colonial policies",
+      "White Revolution"
+    ],
+    "correct_index": 0,
+    "solution": "The Green Revolution, using HYV seeds and modern methods, made India self-sufficient in food grains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following groups is most food-insecure?",
+    "options": [
+      "Landless labourers and the urban/rural poor",
+      "Large farmers",
+      "Industrialists",
+      "Wealthy traders"
+    ],
+    "correct_index": 0,
+    "solution": "Landless labourers, traditional artisans, the urban poor, SCs/STs, and women and children in poor families are most food-insecure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hunger that occurs due to poverty over the year is called:",
+    "options": [
+      "Chronic hunger",
+      "Seasonal hunger",
+      "Occasional hunger",
+      "Festival hunger"
+    ],
+    "correct_index": 0,
+    "solution": "Chronic hunger is a persistent condition of not having enough food, arising from continuous poverty and low income.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Hunger that occurs at certain times of the year (e.g. between harvests) is called:",
+    "options": [
+      "Seasonal hunger",
+      "Chronic hunger",
+      "Permanent hunger",
+      "Festival hunger"
+    ],
+    "correct_index": 0,
+    "solution": "Seasonal hunger occurs during particular periods, such as between crop seasons when agricultural work is scarce.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Food security is especially important during times of:",
+    "options": [
+      "Natural calamities (floods, droughts, earthquakes) and famines",
+      "Festivals only",
+      "Good harvests only",
+      "Economic booms only"
+    ],
+    "correct_index": 0,
+    "solution": "Food security is crucial during calamities like droughts, floods and famines, when food production and access are disrupted.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During a calamity, food prices tend to rise because:",
+    "options": [
+      "Food production falls while demand continues",
+      "Food becomes abundant",
+      "There are no buyers",
+      "Prices are fixed by nature"
+    ],
+    "correct_index": 0,
+    "solution": "During calamities, food production falls and shortages develop, pushing prices up and making food unaffordable for the poor.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'famine' is characterised by:",
+    "options": [
+      "Widespread deaths due to starvation and disease from severe food shortage",
+      "A good harvest",
+      "Plentiful food",
+      "High incomes"
+    ],
+    "correct_index": 0,
+    "solution": "A famine is a severe food shortage causing widespread starvation, malnutrition and deaths, often worsened by disease.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Minimum Support Price (MSP) helps farmers by:",
+    "options": [
+      "Guaranteeing a fair price and protecting them from price falls",
+      "Reducing their income",
+      "Banning their crops",
+      "Increasing their costs"
+    ],
+    "correct_index": 0,
+    "solution": "The MSP guarantees farmers a fixed, remunerative price for their produce, protecting them from sharp price falls and encouraging production.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The buffer stock is used by the government to:",
+    "options": [
+      "Distribute food in deficit/poor areas and stabilise prices",
+      "Sell abroad only",
+      "Store forever unused",
+      "Reduce food supply"
+    ],
+    "correct_index": 0,
+    "solution": "The buffer stock is used to supply food to deficit areas and to the poor at low prices, and to stabilise food prices during shortages.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The cooperatives play an important role in food security by, for example:",
+    "options": [
+      "Running fair-price shops and distributing goods (e.g. Amul in milk)",
+      "Increasing prices",
+      "Reducing food supply",
+      "Hoarding grains"
+    ],
+    "correct_index": 0,
+    "solution": "Cooperatives run fair-price shops and, like Amul in dairy, help ensure the availability and affordability of food.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following categories is used to classify ration card holders?",
+    "options": [
+      "APL, BPL and Antyodaya",
+      "Rich and poor only",
+      "Rural and urban only",
+      "Young and old"
+    ],
+    "correct_index": 0,
+    "solution": "Ration cards are issued to Above Poverty Line (APL), Below Poverty Line (BPL) and Antyodaya (poorest) households, with different entitlements.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A problem faced by the Public Distribution System is:",
+    "options": [
+      "Leakage, poor quality grains and inefficiency in some areas",
+      "Too much success",
+      "No demand for food",
+      "Excessive profits for the poor"
+    ],
+    "correct_index": 0,
+    "solution": "The PDS suffers from problems like leakage/diversion of grains, poor-quality food and inefficiency in some areas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main aim of the Public Distribution System is to:",
+    "options": [
+      "Ensure the poor get food grains at affordable prices",
+      "Help the rich",
+      "Reduce food supply",
+      "Increase food prices"
+    ],
+    "correct_index": 0,
+    "solution": "The PDS aims to provide food grains to the poor at affordable, subsidised prices, ensuring food security.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Food security ensures that:",
+    "options": [
+      "No one goes hungry, especially the poor and during difficult times",
+      "Only the rich are fed",
+      "Food is wasted",
+      "Food is unavailable"
+    ],
+    "correct_index": 0,
+    "solution": "Food security ensures that everyone, especially the poor, has access to enough food at all times, including during calamities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The people who are more likely to suffer food insecurity in urban areas are:",
+    "options": [
+      "Casual workers and the urban poor with low, irregular incomes",
+      "Rich businessmen",
+      "Government officers",
+      "Factory owners"
+    ],
+    "correct_index": 0,
+    "solution": "In urban areas, casual workers and the poor with low, irregular incomes are most vulnerable to food insecurity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The role of the FCI in food security is to:",
+    "options": [
+      "Procure grains at MSP, store buffer stock and supply the PDS",
+      "Conduct elections",
+      "Print money",
+      "Build roads"
+    ],
+    "correct_index": 0,
+    "solution": "The FCI procures grains at the MSP, maintains the buffer stock and supplies grains for distribution through the PDS.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A large buffer stock also helps the government to:",
+    "options": [
+      "Control price rise during shortages",
+      "Cause famines",
+      "Reduce food supply",
+      "Increase hunger"
+    ],
+    "correct_index": 0,
+    "solution": "A buffer stock allows the government to release grains during shortages, controlling price rises and ensuring supply.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which section of society is often the worst affected by food insecurity within a poor family?",
+    "options": [
+      "Women and children",
+      "Adult men only",
+      "The elderly rich",
+      "Government workers"
+    ],
+    "correct_index": 0,
+    "solution": "Within poor families, women and children often suffer the most from food insecurity and malnutrition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The government intervenes in food security because:",
+    "options": [
+      "The market alone may not ensure food for the poor and vulnerable",
+      "Food is unlimited",
+      "Everyone can afford food",
+      "The poor need no help"
+    ],
+    "correct_index": 0,
+    "solution": "The government intervenes because the market alone may fail to ensure food for the poor and vulnerable, especially during shortages.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The self-sufficiency in food grains achieved after the Green Revolution meant that India:",
+    "options": [
+      "Could largely meet its food needs from domestic production",
+      "Depended fully on imports",
+      "Produced no food",
+      "Exported all its food"
+    ],
+    "correct_index": 0,
+    "solution": "After the Green Revolution, India could largely meet its food-grain needs from its own production, reducing dependence on imports.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Minimum Support Price is announced by the government:",
+    "options": [
+      "Before the sowing season",
+      "After the harvest is sold",
+      "Only during famines",
+      "Never"
+    ],
+    "correct_index": 0,
+    "solution": "The MSP is announced before the sowing season so that farmers know the assured price and can plan their production.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a component of India's food security system?",
+    "options": [
+      "Buffer stock and the Public Distribution System",
+      "The stock market",
+      "The Election Commission",
+      "The judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "India's food security system rests on the buffer stock (via FCI and MSP) and the Public Distribution System.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The distribution of food grains at subsidised prices is important because it:",
+    "options": [
+      "Makes food affordable for the poor",
+      "Raises food prices",
+      "Reduces food supply",
+      "Helps only the rich"
+    ],
+    "correct_index": 0,
+    "solution": "Subsidised distribution makes food affordable and accessible for the poor, ensuring their food security.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Green Revolution's contribution to food security was to:",
+    "options": [
+      "Increase food-grain production and build up buffer stocks",
+      "Reduce food production",
+      "Cause famines",
+      "End farming"
+    ],
+    "correct_index": 0,
+    "solution": "The Green Revolution increased food-grain production, enabling India to build buffer stocks and improve food security.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A challenge in maintaining food security is:",
+    "options": [
+      "Ensuring grains reach the needy without waste or diversion",
+      "Producing too much food",
+      "Having no farmers",
+      "Having no demand"
+    ],
+    "correct_index": 0,
+    "solution": "A key challenge is ensuring that food grains actually reach the needy efficiently, without waste, spoilage or diversion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept of food security became especially important in India after experiences such as:",
+    "options": [
+      "The Bengal Famine of 1943",
+      "The Green Revolution's success",
+      "Rapid industrial growth",
+      "High literacy"
+    ],
+    "correct_index": 0,
+    "solution": "Devastating famines like the Bengal Famine of 1943 underscored the need for a strong food security system.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The affordability dimension of food security means:",
+    "options": [
+      "People have enough income to buy sufficient, safe and nutritious food",
+      "Food is free for the rich",
+      "Food is unavailable",
+      "Food is only in cities"
+    ],
+    "correct_index": 0,
+    "solution": "Affordability means people have enough purchasing power (income) to buy sufficient, safe and nutritious food.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The availability dimension of food security refers to:",
+    "options": [
+      "Food production within the country plus stocks and imports",
+      "Only imports",
+      "Only the rich having food",
+      "Food being wasted"
+    ],
+    "correct_index": 0,
+    "solution": "Availability refers to food being present in the country through domestic production, stocks (buffer) and imports.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The accessibility dimension of food security means that food:",
+    "options": [
+      "Reaches every person",
+      "Is available only in warehouses",
+      "Is exported",
+      "Is destroyed"
+    ],
+    "correct_index": 0,
+    "solution": "Accessibility means that food actually reaches and is within the reach of every person who needs it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following schemes provides mid-day meals to school children, aiding food security?",
+    "options": [
+      "The Mid-Day Meal Scheme",
+      "MGNREGA",
+      "The Green Revolution",
+      "MSP"
+    ],
+    "correct_index": 0,
+    "solution": "The Mid-Day Meal Scheme provides cooked meals to school children, improving their nutrition and food security.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs is correctly matched?",
+    "options": [
+      "FCI — procurement and storage of grains",
+      "MSP — retail selling price to consumers",
+      "PDS — building roads",
+      "Buffer stock — election data"
+    ],
+    "correct_index": 0,
+    "solution": "The FCI handles procurement and storage. MSP is the purchase price from farmers, the PDS distributes food, and the buffer stock is a food reserve.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Food security is linked to poverty because:",
+    "options": [
+      "The poor often cannot afford enough food, so they are food-insecure",
+      "The poor have plenty of food",
+      "Poverty ensures food security",
+      "Food and poverty are unrelated"
+    ],
+    "correct_index": 0,
+    "solution": "Food insecurity is closely tied to poverty, as the poor often lack the income to buy enough nutritious food.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The provision of food grains through the PDS during a drought helps by:",
+    "options": [
+      "Ensuring the affected people still get food",
+      "Raising prices",
+      "Reducing supply",
+      "Causing famine"
+    ],
+    "correct_index": 0,
+    "solution": "During a drought, the PDS supplies food grains to affected people, helping prevent hunger and stabilise supply.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main purpose of the Minimum Support Price and buffer stock together is to:",
+    "options": [
+      "Support farmers and ensure food availability for consumers",
+      "Harm farmers",
+      "Reduce food",
+      "Raise prices for the poor"
+    ],
+    "correct_index": 0,
+    "solution": "Together, the MSP supports farmers with fair prices, and the buffer stock ensures food availability for consumers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The people most in need of the food security system are:",
+    "options": [
+      "The poor and vulnerable sections of society",
+      "The rich",
+      "Large farmers",
+      "Industrialists"
+    ],
+    "correct_index": 0,
+    "solution": "The food security system is most needed by the poor and vulnerable sections who cannot ensure their own food supply.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Reforms in the PDS aim to:",
+    "options": [
+      "Reduce leakages and target benefits better to the needy",
+      "Help only the rich",
+      "Reduce food supply",
+      "End the PDS entirely"
+    ],
+    "correct_index": 0,
+    "solution": "PDS reforms aim to reduce leakages and corruption and target subsidised food more effectively to the genuinely needy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ensuring food security contributes to the nation by:",
+    "options": [
+      "Improving people's health, productivity and social stability",
+      "Increasing hunger",
+      "Reducing productivity",
+      "Causing unrest"
+    ],
+    "correct_index": 0,
+    "solution": "Food security improves people's health and productivity and promotes social stability, benefiting the whole nation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two agencies/tools central to India's food security are:",
+    "options": [
+      "The FCI (buffer stock) and the PDS (distribution)",
+      "The RBI and the courts",
+      "The army and the police",
+      "The census and elections"
+    ],
+    "correct_index": 0,
+    "solution": "India's food security relies on the FCI (procurement and buffer stock) and the PDS (distribution to the poor).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The system introduced in 1997 that distinguishes between poor and non-poor households to better target food subsidies is the:",
+    "options": [
+      "Targeted Public Distribution System (TPDS)",
+      "Green Revolution",
+      "Minimum Support Price",
+      "Antyodaya Anna Yojana"
+    ],
+    "correct_index": 0,
+    "solution": "The Targeted Public Distribution System (TPDS), introduced in 1997, distinguishes between Below Poverty Line and Above Poverty Line families to focus subsidies on the poor.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most devastating famine in India during colonial times was the:",
+    "options": [
+      "Bengal Famine of 1943",
+      "Bihar famine of 1966",
+      "Maharashtra drought",
+      "Odisha famine"
+    ],
+    "correct_index": 0,
+    "solution": "The most devastating was the BENGAL FAMINE of 1943, which killed around three million people. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The government agency that procures and stores food grains is the:",
+    "options": [
+      "Food Corporation of India (FCI)",
+      "Reserve Bank of India",
+      "NABARD",
+      "SEBI"
+    ],
+    "correct_index": 0,
+    "solution": "The FOOD CORPORATION of INDIA (FCI) PROCURES and STORES food grains. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The price at which the government purchases food grains from farmers to maintain buffer stock is the:",
+    "options": [
+      "Minimum Support Price (MSP)",
+      "Issue price",
+      "Market price",
+      "Retail price"
+    ],
+    "correct_index": 0,
+    "solution": "The government purchases at the MINIMUM SUPPORT PRICE (MSP). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The price at which food grains are sold to the poor through ration shops is the:",
+    "options": [
+      "Issue price",
+      "Minimum Support Price",
+      "Market price",
+      "Export price"
+    ],
+    "correct_index": 0,
+    "solution": "Food grains are sold to the poor at the ISSUE PRICE (subsidised) through ration shops. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Targeted Public Distribution System (TPDS), introduced in 1997, distinguished between:",
+    "options": [
+      "Below Poverty Line (BPL) and Above Poverty Line (APL) families",
+      "Men and women",
+      "Cities and villages only",
+      "Farmers and traders"
+    ],
+    "correct_index": 0,
+    "solution": "The TPDS (1997) distinguished between BPL (Below Poverty Line) and APL (Above Poverty Line) families. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match List-I with List-II: P. FCI Q. MSP R. Buffer stock S. PDS | 1. Distributes food via ration shops 2. Procures and stores grains 3. Price to buy from farmers 4. Reserve of food grains",
+    "options": [
+      "P-2, Q-3, R-4, S-1",
+      "P-1, Q-2, R-3, S-4",
+      "P-3, Q-4, R-1, S-2",
+      "P-4, Q-3, R-2, S-1"
+    ],
+    "correct_index": 0,
+    "solution": "FCI → procures/stores (P-2); MSP → price to buy from farmers (Q-3); Buffer stock → reserve of grains (R-4); PDS → distributes via ration shops (S-1). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The National Food Security Act was passed in:",
+    "options": [
+      "2013",
+      "1943",
+      "1965",
+      "2000"
+    ],
+    "correct_index": 0,
+    "solution": "The NATIONAL FOOD SECURITY ACT was passed in 2013. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Food security' means availability, accessibility and:",
+    "options": [
+      "Affordability of food to all people at all times",
+      "Only production of food",
+      "Only storage of food",
+      "Only export of food"
+    ],
+    "correct_index": 0,
+    "solution": "FOOD SECURITY means AVAILABILITY, ACCESSIBILITY, and AFFORDABILITY of food to ALL people at ALL times. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The accessibility dimension of food security means:",
+    "options": [
+      "Food is within the reach of every person",
+      "Only the rich can get food",
+      "Food is exported",
+      "Food is stored only"
+    ],
+    "correct_index": 0,
+    "solution": "ACCESSIBILITY means food is WITHIN REACH of EVERY person. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The buffer stock of food grains is maintained by the government to:",
+    "options": [
+      "Distribute in deficit areas and during calamities, and stabilise prices",
+      "Export all grains",
+      "Waste grains",
+      "Keep prices high"
+    ],
+    "correct_index": 0,
+    "solution": "The BUFFER STOCK is used to DISTRIBUTE in DEFICIT areas and during CALAMITIES, and to STABILISE PRICES. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Cooperatives play an important role in food security in India. Reason (R): They run fair-price shops and distribute food and other goods, especially in the south and west. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — cooperatives aid food security. R is TRUE and EXPLAINS A: they run FAIR-PRICE SHOPS and DISTRIBUTE food, especially in the SOUTH and WEST. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Hunger that occurs due to poverty throughout the year is called:",
+    "options": [
+      "Chronic hunger",
+      "Seasonal hunger",
+      "Temporary hunger",
+      "Occasional hunger"
+    ],
+    "correct_index": 0,
+    "solution": "Hunger due to POVERTY throughout the year is CHRONIC HUNGER. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hunger that occurs at certain times of the year (e.g. between crops) is called:",
+    "options": [
+      "Seasonal hunger",
+      "Chronic hunger",
+      "Permanent hunger",
+      "Total hunger"
+    ],
+    "correct_index": 0,
+    "solution": "Hunger at certain SEASONS (e.g., between crops) is SEASONAL HUNGER. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A famine is characterised by:",
+    "options": [
+      "Widespread deaths due to starvation and disease from acute food shortage",
+      "Abundant food",
+      "High incomes",
+      "Good harvests"
+    ],
+    "correct_index": 0,
+    "solution": "A FAMINE is marked by WIDESPREAD DEATHS from STARVATION and DISEASE due to ACUTE FOOD SHORTAGE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Public Distribution System (PDS) distributes food grains through:",
+    "options": [
+      "Ration shops (fair-price shops)",
+      "Supermarkets only",
+      "Online delivery only",
+      "Banks"
+    ],
+    "correct_index": 0,
+    "solution": "The PDS distributes food grains through RATION SHOPS (fair-price shops). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main aim of the PDS is to:",
+    "options": [
+      "Ensure food reaches the poor at affordable prices",
+      "Help the rich",
+      "Export food",
+      "Reduce food supply"
+    ],
+    "correct_index": 0,
+    "solution": "The PDS aims to ensure FOOD REACHES the POOR at AFFORDABLE prices. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The self-sufficiency in food grains after the Green Revolution meant India:",
+    "options": [
+      "No longer had to depend heavily on food imports",
+      "Imported all its food",
+      "Stopped farming",
+      "Had no food"
+    ],
+    "correct_index": 0,
+    "solution": "SELF-SUFFICIENCY after the Green Revolution meant India NO LONGER DEPENDED heavily on FOOD IMPORTS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following schemes provides mid-day meals to schoolchildren, aiding food security?",
+    "options": [
+      "Mid-Day Meal Scheme",
+      "MGNREGA",
+      "Operation Flood",
+      "Green Revolution"
+    ],
+    "correct_index": 0,
+    "solution": "The MID-DAY MEAL SCHEME provides meals to SCHOOLCHILDREN, aiding food security. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The National Food Security Act (2013) provides subsidised food grains to about what share of the population?",
+    "options": [
+      "About two-thirds of the population",
+      "About 5%",
+      "The whole population equally",
+      "Only the rich"
+    ],
+    "correct_index": 0,
+    "solution": "The NFSA (2013) covers about TWO-THIRDS of the population with subsidised food grains. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The two agencies/tools central to India's food security are the:",
+    "options": [
+      "Food Corporation of India (buffer stock) and the Public Distribution System",
+      "RBI and SEBI",
+      "ISRO and DRDO",
+      "Election Commission and NSSO"
+    ],
+    "correct_index": 0,
+    "solution": "The two central tools are the FOOD CORPORATION of INDIA (buffer stock) and the PUBLIC DISTRIBUTION SYSTEM. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which section of society is often worst affected by food insecurity?",
+    "options": [
+      "Landless poor, SC/ST households, and women and children in poor families",
+      "The wealthy",
+      "Industrialists",
+      "Government officers"
+    ],
+    "correct_index": 0,
+    "solution": "FOOD INSECURITY worst affects the LANDLESS POOR, SC/ST households, and WOMEN and CHILDREN in poor families. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A famous cooperative that transformed milk supply and aided food security is:",
+    "options": [
+      "Amul (in Gujarat)",
+      "FCI",
+      "NSSO",
+      "ISRO"
+    ],
+    "correct_index": 0,
+    "solution": "AMUL (Gujarat) is a famous COOPERATIVE that transformed MILK supply and aided food security. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Consider the pairs: 1. Bengal Famine — 1943 2. NFSA — 2013 3. FCI — procures grain. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE match: BENGAL FAMINE → 1943; NFSA → 2013; FCI → procures grain. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The provision of food grains through the PDS during a calamity helps by:",
+    "options": [
+      "Ensuring the affected people still get affordable food",
+      "Raising prices",
+      "Withholding food",
+      "Helping only the rich"
+    ],
+    "correct_index": 0,
+    "solution": "The PDS during a CALAMITY ensures affected people still get AFFORDABLE food. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main purpose of the MSP and buffer stock together is to:",
+    "options": [
+      "Protect farmers' incomes and ensure food availability for the poor",
+      "Harm farmers",
+      "Reduce food",
+      "Help only exporters"
+    ],
+    "correct_index": 0,
+    "solution": "The MSP and BUFFER STOCK together PROTECT FARMERS' incomes and ensure FOOD availability for the POOR. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall theme of 'Food Security in India' is that:",
+    "options": [
+      "Ensuring availability, access and affordability of food to all is vital, and India uses buffer stocks and the PDS to achieve it",
+      "Food security is unimportant",
+      "Only the rich need food",
+      "India has no food problem"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains the meaning and importance of food security and how India ensures it through the buffer stock, MSP and the Public Distribution System.",
+    "difficulty": "easy"
+  }
 ]
