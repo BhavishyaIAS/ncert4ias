@@ -1,52 +1,998 @@
 [
-  { "stem": "The organ of government that is primarily responsible for making laws is the:", "options": ["Executive", "Judiciary", "Legislature", "Bureaucracy"], "correct_index": 2, "solution": "The legislature is the law-making organ of government; it is also the centre of all democratic political processes, holding the executive accountable and representing the people.", "difficulty": "easy" },
-  { "stem": "A legislature that has two houses is called:", "options": ["Unicameral", "Bicameral", "Tricameral", "Monocameral"], "correct_index": 1, "solution": "A bicameral legislature is one that has two houses. The Indian Parliament is bicameral, consisting of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States).", "difficulty": "medium" },
-  { "stem": "The Indian Parliament consists of the President and two Houses, namely:", "options": ["Lok Sabha and Vidhan Sabha", "Lok Sabha and Rajya Sabha", "Rajya Sabha and Vidhan Parishad", "Lok Sabha and Cabinet"], "correct_index": 1, "solution": "The Indian Parliament consists of the President and two Houses — the Lok Sabha (House of the People) and the Rajya Sabha (Council of States). The President is a part of Parliament though he does not sit in either House.", "difficulty": "medium" },
-  { "stem": "The Lok Sabha (House of the People) represents:", "options": ["The states", "The people of India as a whole; its members are directly elected by the people", "The President", "The bureaucracy"], "correct_index": 1, "solution": "The Lok Sabha (House of the People) represents the people of India; its members are directly elected by the people of the country on the basis of universal adult franchise.", "difficulty": "medium" },
-  { "stem": "The Rajya Sabha (Council of States) represents:", "options": ["The people directly", "The states of the Indian federation; its members are elected by the elected members of the State Legislative Assemblies", "Only the ruling party", "The judiciary"], "correct_index": 1, "solution": "The Rajya Sabha (Council of States) represents the states of India; its members are elected indirectly by the elected members of the State Legislative Assemblies through proportional representation by single transferable vote.", "difficulty": "medium" },
-  { "stem": "The maximum strength of the Rajya Sabha is 250, of which how many members are nominated by the President?", "options": ["2", "12", "20", "6"], "correct_index": 1, "solution": "The Rajya Sabha has a maximum strength of 250 members, of whom 12 are nominated by the President from among persons having special knowledge or practical experience in fields such as literature, science, art and social service; the rest (up to 238) represent the states and union territories.", "difficulty": "hard" },
-  { "stem": "The representation of states in the Rajya Sabha is:", "options": ["Equal for all states", "On the basis of population, so more populous states have more members", "Decided by the ruling party", "Random"], "correct_index": 1, "solution": "Unlike the US Senate (where states have equal representation), the representation of states in the Rajya Sabha is on the basis of population; more populous states like Uttar Pradesh have more seats, while smaller states have fewer.", "difficulty": "hard" },
-  { "stem": "The Rajya Sabha is a permanent house that is not subject to dissolution. How many of its members retire every two years?", "options": ["Half", "One-third", "One-fourth", "All"], "correct_index": 1, "solution": "The Rajya Sabha is a permanent body that is never fully dissolved; one-third of its members retire every two years, and elections are held for these seats. Each member has a term of six years.", "difficulty": "hard" },
-  { "stem": "The term of a member of the Rajya Sabha is:", "options": ["Five years", "Six years", "Four years", "Two years"], "correct_index": 1, "solution": "Each member of the Rajya Sabha is elected for a term of six years; since one-third retire every two years, the house is renewed gradually and never dissolves completely.", "difficulty": "medium" },
-  { "stem": "The normal term of the Lok Sabha is five years, but it can be dissolved earlier. During a National Emergency, its term can be extended by:", "options": ["It cannot be extended", "One year at a time by Parliament", "Two years", "Ten years"], "correct_index": 1, "solution": "The normal term of the Lok Sabha is five years, but it can be dissolved before completion of the term; during a National Emergency, its term can be extended by Parliament by one year at a time (though not beyond six months after the emergency ends).", "difficulty": "hard" },
-  { "stem": "The maximum strength of the Lok Sabha as provided in the Constitution is:", "options": ["250", "552", "500", "545"], "correct_index": 1, "solution": "The maximum strength of the Lok Sabha is fixed at 552 members — up to 530 from the states, up to 20 from the union territories. (Earlier, up to 2 members from the Anglo-Indian community could be nominated, a provision that has since lapsed.)", "difficulty": "hard" },
-  { "stem": "The presiding officer of the Lok Sabha is the:", "options": ["Chairman", "Speaker", "President", "Vice-President"], "correct_index": 1, "solution": "The presiding officer of the Lok Sabha is the Speaker, who is elected by the members of the Lok Sabha from among themselves; the Speaker conducts the business of the house, maintains order, and decides on points of order.", "difficulty": "medium" },
-  { "stem": "The Speaker of the Lok Sabha has an important power regarding the classification of a bill as a Money Bill. The Speaker's decision on whether a bill is a Money Bill is:", "options": ["Subject to review by the President", "Final and cannot be questioned", "Decided by the Rajya Sabha", "Decided by the Supreme Court"], "correct_index": 1, "solution": "The Speaker of the Lok Sabha has the final authority to certify whether a bill is a Money Bill or not; the Speaker's decision on this matter is final and cannot be challenged.", "difficulty": "hard" },
-  { "stem": "The presiding officer (ex-officio Chairman) of the Rajya Sabha is the:", "options": ["Speaker", "Vice-President of India", "President of India", "Prime Minister"], "correct_index": 1, "solution": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha and presides over its sittings; a Deputy Chairman, elected by the members of the Rajya Sabha, assists and presides in the Chairman's absence.", "difficulty": "medium" },
-  { "stem": "In matters of ordinary law-making (non-money bills), the powers of the Lok Sabha and Rajya Sabha are:", "options": ["The Lok Sabha is supreme", "Equal — an ordinary bill must be passed by both houses; in case of a deadlock, a joint sitting is called", "The Rajya Sabha is supreme", "Only the Rajya Sabha can pass them"], "correct_index": 1, "solution": "In the case of ordinary bills (non-money bills), both houses have equal powers; a bill must be passed by both the Lok Sabha and the Rajya Sabha to become law. If there is a disagreement (deadlock) between the two houses, the President can summon a joint sitting to resolve it.", "difficulty": "medium" },
-  { "stem": "In case of a deadlock between the two Houses over an ordinary bill, the matter is resolved by a joint sitting, which is presided over by the:", "options": ["President", "Speaker of the Lok Sabha", "Chairman of the Rajya Sabha", "Prime Minister"], "correct_index": 1, "solution": "In case of a deadlock between the two Houses over an ordinary bill, the President summons a joint sitting of both houses; this joint sitting is presided over by the Speaker of the Lok Sabha, and the matter is decided by a majority vote (in which the larger Lok Sabha usually prevails).", "difficulty": "hard" },
-  { "stem": "A Money Bill can be introduced only in the:", "options": ["Rajya Sabha", "Lok Sabha", "Either house", "Joint sitting"], "correct_index": 1, "solution": "A Money Bill can be introduced only in the Lok Sabha (not in the Rajya Sabha), and only on the recommendation of the President; this reflects the Lok Sabha's primacy in financial matters.", "difficulty": "medium" },
-  { "stem": "In the case of a Money Bill, the powers of the Rajya Sabha are limited. After a Money Bill is passed by the Lok Sabha and sent to the Rajya Sabha, the Rajya Sabha:", "options": ["Can reject it permanently", "Can only discuss it and make recommendations, and must return it within 14 days; the Lok Sabha may accept or reject these recommendations", "Has equal power", "Can amend it freely"], "correct_index": 1, "solution": "In the case of a Money Bill, the Rajya Sabha has restricted powers; it cannot reject or amend a Money Bill, but can only make recommendations and must return it to the Lok Sabha within 14 days. The Lok Sabha may accept or reject these recommendations, and the bill is deemed passed regardless.", "difficulty": "hard" },
-  { "stem": "The Lok Sabha is more powerful than the Rajya Sabha primarily because:", "options": ["It is older", "It is directly elected by the people, it controls the executive (the Council of Ministers is responsible to it), and it has greater power over money matters", "It has fewer members", "It is a permanent house"], "correct_index": 1, "solution": "The Lok Sabha enjoys greater powers than the Rajya Sabha because: it is directly elected by the people; the Council of Ministers is collectively responsible to the Lok Sabha (only the Lok Sabha can remove the government via a no-confidence motion); and it has decisive control over money bills and financial matters.", "difficulty": "medium" },
-  { "stem": "The Council of Ministers can be removed from office only by the:", "options": ["Rajya Sabha", "Lok Sabha (through a vote of no-confidence)", "President", "Supreme Court"], "correct_index": 1, "solution": "The Council of Ministers is collectively responsible to the Lok Sabha and can be removed only by the Lok Sabha through a vote of no-confidence; the Rajya Sabha does not have this power. This is a key reason for the Lok Sabha's greater power.", "difficulty": "medium" },
-  { "stem": "Despite being the less powerful house, the Rajya Sabha performs an important function of representing the states, thereby:", "options": ["Weakening federalism", "Reflecting the federal character of the Indian polity and giving the states a voice at the national level", "Making laws alone", "Controlling the executive"], "correct_index": 1, "solution": "The Rajya Sabha represents the states of the Indian union, reflecting the federal principle; it gives the states a voice in the central law-making process and acts as a check on hasty legislation by the Lok Sabha, providing a forum for mature deliberation.", "difficulty": "medium" },
-  { "stem": "The Rajya Sabha has some special powers not shared by the Lok Sabha. Under Article 249, the Rajya Sabha can, by a special resolution, authorise Parliament to make a law on a subject in the:", "options": ["Union List", "State List", "Concurrent List", "Residuary list"], "correct_index": 1, "solution": "Under Article 249, the Rajya Sabha can pass a resolution (by a two-thirds majority) declaring that it is necessary in the national interest for Parliament to make a law on a matter in the State List; this special power reflects its role as the representative of the states.", "difficulty": "hard" },
-  { "stem": "The most important function of any legislature is:", "options": ["Conducting elections", "Law-making (legislation)", "Appointing judges", "Running the administration"], "correct_index": 1, "solution": "The most important function of the legislature is law-making (legislation); Parliament makes laws for the country, and this is its primary and defining function, though it also performs control, financial, representational, and deliberative functions.", "difficulty": "medium" },
-  { "stem": "A proposed law is called a 'bill'; it becomes an Act (law) only after:", "options": ["It is introduced", "It is passed by both Houses of Parliament and receives the assent of the President", "The Speaker approves it", "It is debated"], "correct_index": 1, "solution": "A bill is a proposal for a new law or a change in an existing law; it becomes an Act (law) only after it is passed by both Houses of Parliament and receives the assent of the President.", "difficulty": "medium" },
-  { "stem": "Bills are of two main types: Government Bills (introduced by ministers) and:", "options": ["Money Bills only", "Private Member's Bills (introduced by MPs who are not ministers)", "Constitutional Bills", "State Bills"], "correct_index": 1, "solution": "Bills are of two main types: Government Bills, introduced and piloted by ministers, and Private Member's Bills, introduced by members of Parliament who are not ministers. Government Bills reflect government policy and are more likely to be passed.", "difficulty": "medium" },
-  { "stem": "The second important function of Parliament is to exercise control over the executive and ensure its accountability. Which of the following is an instrument of parliamentary control?", "options": ["Judicial review", "Question Hour, Zero Hour, no-confidence motions, adjournment motions, and debates", "Ordinances", "Delimitation"], "correct_index": 1, "solution": "Parliament controls the executive through several instruments: Question Hour (ministers answer questions from members), Zero Hour, calling attention motions, adjournment motions, censure and no-confidence motions, and various debates and discussions, all of which hold the government accountable.", "difficulty": "medium" },
-  { "stem": "The first hour of every sitting of Parliament, during which members ask questions and ministers are bound to answer, is called:", "options": ["Zero Hour", "Question Hour", "Debate Hour", "Recess"], "correct_index": 1, "solution": "Question Hour is the first hour of every parliamentary sitting, during which members ask questions of ministers and hold the government accountable; ministers are required to answer these questions. It is an important device for parliamentary oversight of the executive.", "difficulty": "medium" },
-  { "stem": "'Zero Hour' in Parliament refers to:", "options": ["The first hour of the sitting", "The time immediately following the Question Hour, when members can raise matters of urgent public importance (informally, without prior notice)", "The midnight session", "The lunch break"], "correct_index": 1, "solution": "Zero Hour is the informal device (starting around noon, immediately after Question Hour) during which members can raise matters of urgent public importance without prior notice; it is not mentioned in the rules of procedure but has become an established practice.", "difficulty": "medium" },
-  { "stem": "A no-confidence motion, if passed by the Lok Sabha, results in:", "options": ["The dissolution of the Rajya Sabha", "The resignation of the entire Council of Ministers", "The removal of the President", "New elections to the Rajya Sabha"], "correct_index": 1, "solution": "A no-confidence motion, if passed by a majority in the Lok Sabha, means the government has lost the confidence of the house; consequently, the entire Council of Ministers must resign. It is the ultimate weapon of parliamentary control over the executive.", "difficulty": "medium" },
-  { "stem": "Parliament exercises financial control over the executive because:", "options": ["The executive can spend freely", "No tax can be levied and no expenditure incurred by the government without the approval of Parliament, which controls the 'public purse'", "The President controls finances", "Only the states control finances"], "correct_index": 1, "solution": "Parliament exercises financial control: the government cannot raise or spend money without parliamentary approval. The budget (Annual Financial Statement) must be passed by Parliament, and this power of the purse is a crucial means of controlling the executive.", "difficulty": "medium" },
-  { "stem": "Much of the detailed work of Parliament is done in committees. The system of parliamentary committees is important because it:", "options": ["Slows down all work", "Allows detailed and expert scrutiny of bills, budgets and government functioning, which is not possible in the full house due to time constraints", "Replaces the houses", "Excludes members"], "correct_index": 1, "solution": "The parliamentary committee system allows detailed, expert and non-partisan scrutiny of bills, budgets, and the working of departments; since the full house lacks the time for such detailed examination, committees (like the Public Accounts Committee, Estimates Committee, and departmentally related standing committees) do this essential work.", "difficulty": "medium" },
-  { "stem": "The Anti-Defection Law, added by the 52nd Amendment (1985), aims to:", "options": ["Encourage MPs to change parties", "Curb political defections by disqualifying legislators who defect from the party on whose ticket they were elected", "Ban political parties", "Increase the number of MPs"], "correct_index": 1, "solution": "The Anti-Defection Law (52nd Amendment, 1985; provisions in the Tenth Schedule) was enacted to curb the evil of political defections; a member who defects (voluntarily gives up party membership or votes against the party whip) can be disqualified from the house, thereby promoting stability and party discipline.", "difficulty": "medium" },
-  { "stem": "Under the Anti-Defection Law, the authority who decides on questions of disqualification arising out of defection is the:", "options": ["The Supreme Court", "The Presiding Officer (Speaker/Chairman) of the House", "The President", "The Election Commission"], "correct_index": 1, "solution": "Under the Anti-Defection Law (Tenth Schedule), the decision on questions of disqualification on the ground of defection is made by the Presiding Officer of the House (the Speaker in the Lok Sabha, the Chairman in the Rajya Sabha), though this decision is subject to judicial review.", "difficulty": "hard" },
-  { "stem": "A criticism of the Anti-Defection Law is that it:", "options": ["Encourages defection", "Reduces the independence of individual legislators, forcing them to vote along party lines and reducing their ability to dissent, thereby strengthening the party leadership", "Weakens political parties", "Applies only to ministers"], "correct_index": 1, "solution": "A key criticism of the Anti-Defection Law is that it curtails the freedom and independence of individual legislators; since they can be disqualified for voting against the party whip, they are compelled to toe the party line even against their conscience, which strengthens party leaders and reduces meaningful debate and dissent within the house.", "difficulty": "medium" },
-  { "stem": "The provision that Parliament must meet at least twice a year, and the gap between two sessions should not exceed six months, ensures that:", "options": ["Parliament rarely meets", "The government is regularly held accountable and the legislature functions continuously to scrutinise the executive", "The executive has more freedom", "Sessions are unlimited"], "correct_index": 1, "solution": "The Constitution requires that the gap between two sessions of Parliament should not exceed six months, so Parliament must meet at least twice a year; this ensures regular meetings during which the executive can be questioned and held accountable, and the business of legislation and oversight is carried out.", "difficulty": "medium" },
-  { "stem": "The power of Parliament to amend the Constitution is subject to which important limitation established by the judiciary?", "options": ["No limitation exists", "Parliament cannot amend the 'basic structure' of the Constitution (the Basic Structure doctrine established in the Kesavananda Bharati case)", "Only the President can amend", "The states must approve every amendment"], "correct_index": 1, "solution": "While Parliament has the power to amend the Constitution under Article 368, the Supreme Court in the Kesavananda Bharati case (1973) held that Parliament cannot amend or destroy the 'basic structure' of the Constitution (its fundamental features), thereby placing a limit on the amending power.", "difficulty": "hard" },
-  { "stem": "The role of the legislature as a 'deliberative body' means it is a forum where:", "options": ["Only laws are passed silently", "Issues of national and public importance are discussed and debated, allowing different viewpoints to be expressed and public opinion to be shaped", "No discussion takes place", "Only the ruling party speaks"], "correct_index": 1, "solution": "As a deliberative body, Parliament is the highest forum of discussion and debate on public issues and national policy; members representing different views debate matters of importance, express diverse opinions, and this deliberation informs law-making and shapes public opinion.", "difficulty": "medium" },
-  { "stem": "Why did the framers of the Indian Constitution choose a bicameral (two-house) legislature at the national level?", "options": ["To make law-making slower", "Because India is a large and diverse federal country — the second chamber (Rajya Sabha) gives representation to states, allows re-examination of hasty legislation, and provides a place for experienced persons", "To reduce the number of laws", "To copy Britain exactly"], "correct_index": 1, "solution": "The framers chose bicameralism at the national level because India is a large, diverse and federal country: the second chamber (Rajya Sabha) gives representation to the states (federal principle), acts as a check on hasty or ill-considered legislation by allowing a second look, and provides a forum for experienced and eminent persons (through nomination) to contribute.", "difficulty": "medium" },
-  { "stem": "A state legislature may be bicameral or unicameral. The upper house of a state legislature (where it exists) is called the:", "options": ["Vidhan Sabha", "Vidhan Parishad (Legislative Council)", "Rajya Sabha", "Lok Sabha"], "correct_index": 1, "solution": "At the state level, the lower (directly elected) house is the Vidhan Sabha (Legislative Assembly), and the upper house (where it exists) is the Vidhan Parishad (Legislative Council). Not all states have a Legislative Council; states can create or abolish it by a resolution passed by the Assembly and an Act of Parliament.", "difficulty": "medium" },
-  { "stem": "The chief function of holding the government accountable is best performed by the legislature because:", "options": ["The legislature appoints the executive for life", "The executive (Council of Ministers) is drawn from and continuously answerable to the legislature, which can question, debate, and ultimately remove it", "The legislature controls the judiciary", "The executive is independent"], "correct_index": 1, "solution": "In a parliamentary system, the executive is drawn from and remains accountable to the legislature; the legislature holds the government accountable through questions, debates, motions, financial control, and, ultimately, the power to remove the Council of Ministers via a no-confidence motion, ensuring democratic responsibility.", "difficulty": "medium" },
-  { "stem": "The representative function of Parliament means that it:", "options": ["Represents only the government", "Reflects the diverse views, interests and aspirations of the people of the whole country, as its members are elected from all regions and sections", "Represents only the ruling party", "Represents foreign countries"], "correct_index": 1, "solution": "The representative function means Parliament reflects the diverse views, interests, and aspirations of the people from all regions, communities and sections of the country; its members are elected representatives who articulate the concerns of their constituents and the nation, making Parliament a microcosm of the nation.", "difficulty": "medium" },
-  { "stem": "The quorum required for a sitting of either House of Parliament is:", "options": ["Half the members", "One-tenth of the total number of members of the House", "One-third", "Two-thirds"], "correct_index": 1, "solution": "The quorum to constitute a sitting of either House is one-tenth of the total number of members of that House; if there is no quorum, the presiding officer must adjourn the house or suspend the meeting until there is a quorum.", "difficulty": "hard" },
-  { "stem": "The stages a bill goes through in each House include the first reading (introduction), the second reading (general discussion and clause-by-clause consideration), and the:", "options": ["Assent stage", "Third reading (final debate and voting on the bill as a whole)", "Election stage", "Committee stage only"], "correct_index": 1, "solution": "A bill passes through three readings in each House: the first reading (introduction and publication), the second reading (general discussion, possible referral to a committee, and clause-by-clause consideration), and the third reading (final debate and vote on the bill as a whole). After passing both houses and receiving the President's assent, it becomes law.", "difficulty": "medium" },
-  { "stem": "Which of the following distinguishes a Money Bill from an ordinary bill?", "options": ["A Money Bill can be introduced in either house", "A Money Bill deals only with matters like taxation, borrowing, and expenditure from the Consolidated Fund; it can be introduced only in the Lok Sabha, on the President's recommendation, and the Rajya Sabha has limited powers over it", "The Rajya Sabha can reject a Money Bill", "A Money Bill needs no presidential assent"], "correct_index": 1, "solution": "A Money Bill deals exclusively with financial matters such as taxation, government borrowing, and expenditure from or receipts into the Consolidated Fund of India. It can be introduced only in the Lok Sabha on the President's recommendation; the Rajya Sabha can only make recommendations (which the Lok Sabha may accept or reject) and must return it within 14 days. The Speaker's certification determines whether a bill is a Money Bill.", "difficulty": "hard" },
-  { "stem": "The power of Parliament to remove certain high officials, such as judges of the Supreme Court and High Courts, the President, and the Comptroller and Auditor General, through the process of impeachment or a special resolution, reflects its:", "options": ["Law-making function", "Role in ensuring accountability of high constitutional functionaries", "Financial function", "Representative function"], "correct_index": 1, "solution": "Parliament's power to remove high constitutional functionaries — impeaching the President, removing judges of the Supreme Court and High Courts, and removing the CAG or the Chief Election Commissioner through a special resolution/address — reflects its role in ensuring the accountability of even the highest offices, acting as a guardian of constitutional propriety.", "difficulty": "medium" },
-  { "stem": "The Public Accounts Committee (PAC) is a key parliamentary committee that:", "options": ["Makes new laws", "Examines the reports of the Comptroller and Auditor General (CAG) and scrutinises government expenditure to ensure money was spent lawfully and for the intended purposes", "Conducts elections", "Appoints ministers"], "correct_index": 1, "solution": "The Public Accounts Committee (PAC) examines the accounts and the reports of the Comptroller and Auditor General (CAG); it scrutinises government expenditure to ensure that public money was spent lawfully, economically and for the purposes intended by Parliament, thereby strengthening financial accountability.", "difficulty": "hard" },
-  { "stem": "A legislature is often called the 'watchdog' of democracy because it:", "options": ["Guards the borders", "Keeps a check on the government/executive, scrutinises its actions, exposes wrongdoing, and ensures it remains accountable to the people", "Manages the economy", "Controls the army"], "correct_index": 1, "solution": "The legislature is the 'watchdog' of democracy because it keeps a continuous check on the government (executive); through debates, questions, committees, and financial control, it scrutinises government actions, exposes lapses and wrongdoing, and ensures the government remains accountable to the people's representatives.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Legislature' is that:", "options": ["The legislature is a rubber stamp", "Parliament is the central institution of Indian democracy — it makes laws, represents the people, controls and holds the executive accountable, controls public finances, and is a deliberative forum, with the Lok Sabha being the more powerful house", "Only the executive matters", "The Rajya Sabha is more powerful"], "correct_index": 1, "solution": "The chapter concludes that the legislature (Parliament) is the central institution of Indian democracy: it performs the vital functions of law-making, representation of the people, control and accountability of the executive, financial control, and deliberation on national issues. The bicameral structure balances popular representation (Lok Sabha) with federal representation (Rajya Sabha), with the directly-elected Lok Sabha being the more powerful house.", "difficulty": "medium" },
-  { "stem": "The minimum age to become a member of the Lok Sabha and a member of the Rajya Sabha respectively is:", "options": ["21 years and 25 years", "25 years and 30 years", "30 years and 35 years", "18 years and 21 years"], "correct_index": 1, "solution": "To become a member of the Lok Sabha, a person must be at least 25 years of age; to become a member of the Rajya Sabha, the minimum age is 30 years. Both must be citizens of India and meet other qualifications.", "difficulty": "hard" },
-  { "stem": "An 'adjournment motion' in Parliament is an instrument of control over the executive that is used to:", "options": ["Adjourn Parliament permanently", "Draw the attention of the house to a definite matter of urgent public importance, and its admission amounts to a censure of the government", "Pass the budget", "Elect the Speaker"], "correct_index": 1, "solution": "An adjournment motion is moved to draw the attention of the house to a definite matter of urgent public importance; it involves setting aside the normal business to discuss the urgent matter. Because it is regarded as a form of censure against the government, it is an important device of parliamentary control (available in the Lok Sabha).", "difficulty": "hard" }
+  {
+    "stem": "The organ of government that is primarily responsible for making laws is the:",
+    "options": [
+      "Executive",
+      "Judiciary",
+      "Legislature",
+      "Bureaucracy"
+    ],
+    "correct_index": 2,
+    "solution": "The legislature is the law-making organ of government; it is also the centre of all democratic political processes, holding the executive accountable and representing the people.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A legislature that has two houses is called:",
+    "options": [
+      "Unicameral",
+      "Bicameral",
+      "Tricameral",
+      "Monocameral"
+    ],
+    "correct_index": 1,
+    "solution": "A bicameral legislature is one that has two houses. The Indian Parliament is bicameral, consisting of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Indian Parliament consists of the President and two Houses, namely:",
+    "options": [
+      "Lok Sabha and Vidhan Sabha",
+      "Lok Sabha and Rajya Sabha",
+      "Rajya Sabha and Vidhan Parishad",
+      "Lok Sabha and Cabinet"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian Parliament consists of the President and two Houses — the Lok Sabha (House of the People) and the Rajya Sabha (Council of States). The President is a part of Parliament though he does not sit in either House.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Lok Sabha (House of the People) represents:",
+    "options": [
+      "The states",
+      "The people of India as a whole; its members are directly elected by the people",
+      "The President",
+      "The bureaucracy"
+    ],
+    "correct_index": 1,
+    "solution": "The Lok Sabha (House of the People) represents the people of India; its members are directly elected by the people of the country on the basis of universal adult franchise.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajya Sabha (Council of States) represents:",
+    "options": [
+      "The people directly",
+      "The states of the Indian federation; its members are elected by the elected members of the State Legislative Assemblies",
+      "Only the ruling party",
+      "The judiciary"
+    ],
+    "correct_index": 1,
+    "solution": "The Rajya Sabha (Council of States) represents the states of India; its members are elected indirectly by the elected members of the State Legislative Assemblies through proportional representation by single transferable vote.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The maximum strength of the Rajya Sabha is 250, of which how many members are nominated by the President?",
+    "options": [
+      "2",
+      "12",
+      "20",
+      "6"
+    ],
+    "correct_index": 1,
+    "solution": "The Rajya Sabha has a maximum strength of 250 members, of whom 12 are nominated by the President from among persons having special knowledge or practical experience in fields such as literature, science, art and social service; the rest (up to 238) represent the states and union territories.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The representation of states in the Rajya Sabha is:",
+    "options": [
+      "Equal for all states",
+      "On the basis of population, so more populous states have more members",
+      "Decided by the ruling party",
+      "Random"
+    ],
+    "correct_index": 1,
+    "solution": "Unlike the US Senate (where states have equal representation), the representation of states in the Rajya Sabha is on the basis of population; more populous states like Uttar Pradesh have more seats, while smaller states have fewer.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajya Sabha is a permanent house that is not subject to dissolution. How many of its members retire every two years?",
+    "options": [
+      "Half",
+      "One-third",
+      "One-fourth",
+      "All"
+    ],
+    "correct_index": 1,
+    "solution": "The Rajya Sabha is a permanent body that is never fully dissolved; one-third of its members retire every two years, and elections are held for these seats. Each member has a term of six years.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The term of a member of the Rajya Sabha is:",
+    "options": [
+      "Five years",
+      "Six years",
+      "Four years",
+      "Two years"
+    ],
+    "correct_index": 1,
+    "solution": "Each member of the Rajya Sabha is elected for a term of six years; since one-third retire every two years, the house is renewed gradually and never dissolves completely.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The normal term of the Lok Sabha is five years, but it can be dissolved earlier. During a National Emergency, its term can be extended by:",
+    "options": [
+      "It cannot be extended",
+      "One year at a time by Parliament",
+      "Two years",
+      "Ten years"
+    ],
+    "correct_index": 1,
+    "solution": "The normal term of the Lok Sabha is five years, but it can be dissolved before completion of the term; during a National Emergency, its term can be extended by Parliament by one year at a time (though not beyond six months after the emergency ends).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The maximum strength of the Lok Sabha as provided in the Constitution is:",
+    "options": [
+      "250",
+      "552",
+      "500",
+      "545"
+    ],
+    "correct_index": 1,
+    "solution": "The maximum strength of the Lok Sabha is fixed at 552 members — up to 530 from the states, up to 20 from the union territories. (Earlier, up to 2 members from the Anglo-Indian community could be nominated, a provision that has since lapsed.)",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The presiding officer of the Lok Sabha is the:",
+    "options": [
+      "Chairman",
+      "Speaker",
+      "President",
+      "Vice-President"
+    ],
+    "correct_index": 1,
+    "solution": "The presiding officer of the Lok Sabha is the Speaker, who is elected by the members of the Lok Sabha from among themselves; the Speaker conducts the business of the house, maintains order, and decides on points of order.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Speaker of the Lok Sabha has an important power regarding the classification of a bill as a Money Bill. The Speaker's decision on whether a bill is a Money Bill is:",
+    "options": [
+      "Subject to review by the President",
+      "Final and cannot be questioned",
+      "Decided by the Rajya Sabha",
+      "Decided by the Supreme Court"
+    ],
+    "correct_index": 1,
+    "solution": "The Speaker of the Lok Sabha has the final authority to certify whether a bill is a Money Bill or not; the Speaker's decision on this matter is final and cannot be challenged.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The presiding officer (ex-officio Chairman) of the Rajya Sabha is the:",
+    "options": [
+      "Speaker",
+      "Vice-President of India",
+      "President of India",
+      "Prime Minister"
+    ],
+    "correct_index": 1,
+    "solution": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha and presides over its sittings; a Deputy Chairman, elected by the members of the Rajya Sabha, assists and presides in the Chairman's absence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In matters of ordinary law-making (non-money bills), the powers of the Lok Sabha and Rajya Sabha are:",
+    "options": [
+      "The Lok Sabha is supreme",
+      "Equal — an ordinary bill must be passed by both houses; in case of a deadlock, a joint sitting is called",
+      "The Rajya Sabha is supreme",
+      "Only the Rajya Sabha can pass them"
+    ],
+    "correct_index": 1,
+    "solution": "In the case of ordinary bills (non-money bills), both houses have equal powers; a bill must be passed by both the Lok Sabha and the Rajya Sabha to become law. If there is a disagreement (deadlock) between the two houses, the President can summon a joint sitting to resolve it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In case of a deadlock between the two Houses over an ordinary bill, the matter is resolved by a joint sitting, which is presided over by the:",
+    "options": [
+      "President",
+      "Speaker of the Lok Sabha",
+      "Chairman of the Rajya Sabha",
+      "Prime Minister"
+    ],
+    "correct_index": 1,
+    "solution": "In case of a deadlock between the two Houses over an ordinary bill, the President summons a joint sitting of both houses; this joint sitting is presided over by the Speaker of the Lok Sabha, and the matter is decided by a majority vote (in which the larger Lok Sabha usually prevails).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A Money Bill can be introduced only in the:",
+    "options": [
+      "Rajya Sabha",
+      "Lok Sabha",
+      "Either house",
+      "Joint sitting"
+    ],
+    "correct_index": 1,
+    "solution": "A Money Bill can be introduced only in the Lok Sabha (not in the Rajya Sabha), and only on the recommendation of the President; this reflects the Lok Sabha's primacy in financial matters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the case of a Money Bill, the powers of the Rajya Sabha are limited. After a Money Bill is passed by the Lok Sabha and sent to the Rajya Sabha, the Rajya Sabha:",
+    "options": [
+      "Can reject it permanently",
+      "Can only discuss it and make recommendations, and must return it within 14 days; the Lok Sabha may accept or reject these recommendations",
+      "Has equal power",
+      "Can amend it freely"
+    ],
+    "correct_index": 1,
+    "solution": "In the case of a Money Bill, the Rajya Sabha has restricted powers; it cannot reject or amend a Money Bill, but can only make recommendations and must return it to the Lok Sabha within 14 days. The Lok Sabha may accept or reject these recommendations, and the bill is deemed passed regardless.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Lok Sabha is more powerful than the Rajya Sabha primarily because:",
+    "options": [
+      "It is older",
+      "It is directly elected by the people, it controls the executive (the Council of Ministers is responsible to it), and it has greater power over money matters",
+      "It has fewer members",
+      "It is a permanent house"
+    ],
+    "correct_index": 1,
+    "solution": "The Lok Sabha enjoys greater powers than the Rajya Sabha because: it is directly elected by the people; the Council of Ministers is collectively responsible to the Lok Sabha (only the Lok Sabha can remove the government via a no-confidence motion); and it has decisive control over money bills and financial matters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Council of Ministers can be removed from office only by the:",
+    "options": [
+      "Rajya Sabha",
+      "Lok Sabha (through a vote of no-confidence)",
+      "President",
+      "Supreme Court"
+    ],
+    "correct_index": 1,
+    "solution": "The Council of Ministers is collectively responsible to the Lok Sabha and can be removed only by the Lok Sabha through a vote of no-confidence; the Rajya Sabha does not have this power. This is a key reason for the Lok Sabha's greater power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Despite being the less powerful house, the Rajya Sabha performs an important function of representing the states, thereby:",
+    "options": [
+      "Weakening federalism",
+      "Reflecting the federal character of the Indian polity and giving the states a voice at the national level",
+      "Making laws alone",
+      "Controlling the executive"
+    ],
+    "correct_index": 1,
+    "solution": "The Rajya Sabha represents the states of the Indian union, reflecting the federal principle; it gives the states a voice in the central law-making process and acts as a check on hasty legislation by the Lok Sabha, providing a forum for mature deliberation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajya Sabha has some special powers not shared by the Lok Sabha. Under Article 249, the Rajya Sabha can, by a special resolution, authorise Parliament to make a law on a subject in the:",
+    "options": [
+      "Union List",
+      "State List",
+      "Concurrent List",
+      "Residuary list"
+    ],
+    "correct_index": 1,
+    "solution": "Under Article 249, the Rajya Sabha can pass a resolution (by a two-thirds majority) declaring that it is necessary in the national interest for Parliament to make a law on a matter in the State List; this special power reflects its role as the representative of the states.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most important function of any legislature is:",
+    "options": [
+      "Conducting elections",
+      "Law-making (legislation)",
+      "Appointing judges",
+      "Running the administration"
+    ],
+    "correct_index": 1,
+    "solution": "The most important function of the legislature is law-making (legislation); Parliament makes laws for the country, and this is its primary and defining function, though it also performs control, financial, representational, and deliberative functions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A proposed law is called a 'bill'; it becomes an Act (law) only after:",
+    "options": [
+      "It is introduced",
+      "It is passed by both Houses of Parliament and receives the assent of the President",
+      "The Speaker approves it",
+      "It is debated"
+    ],
+    "correct_index": 1,
+    "solution": "A bill is a proposal for a new law or a change in an existing law; it becomes an Act (law) only after it is passed by both Houses of Parliament and receives the assent of the President.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bills are of two main types: Government Bills (introduced by ministers) and:",
+    "options": [
+      "Money Bills only",
+      "Private Member's Bills (introduced by MPs who are not ministers)",
+      "Constitutional Bills",
+      "State Bills"
+    ],
+    "correct_index": 1,
+    "solution": "Bills are of two main types: Government Bills, introduced and piloted by ministers, and Private Member's Bills, introduced by members of Parliament who are not ministers. Government Bills reflect government policy and are more likely to be passed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The second important function of Parliament is to exercise control over the executive and ensure its accountability. Which of the following is an instrument of parliamentary control?",
+    "options": [
+      "Judicial review",
+      "Question Hour, Zero Hour, no-confidence motions, adjournment motions, and debates",
+      "Ordinances",
+      "Delimitation"
+    ],
+    "correct_index": 1,
+    "solution": "Parliament controls the executive through several instruments: Question Hour (ministers answer questions from members), Zero Hour, calling attention motions, adjournment motions, censure and no-confidence motions, and various debates and discussions, all of which hold the government accountable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first hour of every sitting of Parliament, during which members ask questions and ministers are bound to answer, is called:",
+    "options": [
+      "Zero Hour",
+      "Question Hour",
+      "Debate Hour",
+      "Recess"
+    ],
+    "correct_index": 1,
+    "solution": "Question Hour is the first hour of every parliamentary sitting, during which members ask questions of ministers and hold the government accountable; ministers are required to answer these questions. It is an important device for parliamentary oversight of the executive.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Zero Hour' in Parliament refers to:",
+    "options": [
+      "The first hour of the sitting",
+      "The time immediately following the Question Hour, when members can raise matters of urgent public importance (informally, without prior notice)",
+      "The midnight session",
+      "The lunch break"
+    ],
+    "correct_index": 1,
+    "solution": "Zero Hour is the informal device (starting around noon, immediately after Question Hour) during which members can raise matters of urgent public importance without prior notice; it is not mentioned in the rules of procedure but has become an established practice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A no-confidence motion, if passed by the Lok Sabha, results in:",
+    "options": [
+      "The dissolution of the Rajya Sabha",
+      "The resignation of the entire Council of Ministers",
+      "The removal of the President",
+      "New elections to the Rajya Sabha"
+    ],
+    "correct_index": 1,
+    "solution": "A no-confidence motion, if passed by a majority in the Lok Sabha, means the government has lost the confidence of the house; consequently, the entire Council of Ministers must resign. It is the ultimate weapon of parliamentary control over the executive.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Parliament exercises financial control over the executive because:",
+    "options": [
+      "The executive can spend freely",
+      "No tax can be levied and no expenditure incurred by the government without the approval of Parliament, which controls the 'public purse'",
+      "The President controls finances",
+      "Only the states control finances"
+    ],
+    "correct_index": 1,
+    "solution": "Parliament exercises financial control: the government cannot raise or spend money without parliamentary approval. The budget (Annual Financial Statement) must be passed by Parliament, and this power of the purse is a crucial means of controlling the executive.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Much of the detailed work of Parliament is done in committees. The system of parliamentary committees is important because it:",
+    "options": [
+      "Slows down all work",
+      "Allows detailed and expert scrutiny of bills, budgets and government functioning, which is not possible in the full house due to time constraints",
+      "Replaces the houses",
+      "Excludes members"
+    ],
+    "correct_index": 1,
+    "solution": "The parliamentary committee system allows detailed, expert and non-partisan scrutiny of bills, budgets, and the working of departments; since the full house lacks the time for such detailed examination, committees (like the Public Accounts Committee, Estimates Committee, and departmentally related standing committees) do this essential work.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Anti-Defection Law, added by the 52nd Amendment (1985), aims to:",
+    "options": [
+      "Encourage MPs to change parties",
+      "Curb political defections by disqualifying legislators who defect from the party on whose ticket they were elected",
+      "Ban political parties",
+      "Increase the number of MPs"
+    ],
+    "correct_index": 1,
+    "solution": "The Anti-Defection Law (52nd Amendment, 1985; provisions in the Tenth Schedule) was enacted to curb the evil of political defections; a member who defects (voluntarily gives up party membership or votes against the party whip) can be disqualified from the house, thereby promoting stability and party discipline.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under the Anti-Defection Law, the authority who decides on questions of disqualification arising out of defection is the:",
+    "options": [
+      "The Supreme Court",
+      "The Presiding Officer (Speaker/Chairman) of the House",
+      "The President",
+      "The Election Commission"
+    ],
+    "correct_index": 1,
+    "solution": "Under the Anti-Defection Law (Tenth Schedule), the decision on questions of disqualification on the ground of defection is made by the Presiding Officer of the House (the Speaker in the Lok Sabha, the Chairman in the Rajya Sabha), though this decision is subject to judicial review.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A criticism of the Anti-Defection Law is that it:",
+    "options": [
+      "Encourages defection",
+      "Reduces the independence of individual legislators, forcing them to vote along party lines and reducing their ability to dissent, thereby strengthening the party leadership",
+      "Weakens political parties",
+      "Applies only to ministers"
+    ],
+    "correct_index": 1,
+    "solution": "A key criticism of the Anti-Defection Law is that it curtails the freedom and independence of individual legislators; since they can be disqualified for voting against the party whip, they are compelled to toe the party line even against their conscience, which strengthens party leaders and reduces meaningful debate and dissent within the house.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The provision that Parliament must meet at least twice a year, and the gap between two sessions should not exceed six months, ensures that:",
+    "options": [
+      "Parliament rarely meets",
+      "The government is regularly held accountable and the legislature functions continuously to scrutinise the executive",
+      "The executive has more freedom",
+      "Sessions are unlimited"
+    ],
+    "correct_index": 1,
+    "solution": "The Constitution requires that the gap between two sessions of Parliament should not exceed six months, so Parliament must meet at least twice a year; this ensures regular meetings during which the executive can be questioned and held accountable, and the business of legislation and oversight is carried out.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The power of Parliament to amend the Constitution is subject to which important limitation established by the judiciary?",
+    "options": [
+      "No limitation exists",
+      "Parliament cannot amend the 'basic structure' of the Constitution (the Basic Structure doctrine established in the Kesavananda Bharati case)",
+      "Only the President can amend",
+      "The states must approve every amendment"
+    ],
+    "correct_index": 1,
+    "solution": "While Parliament has the power to amend the Constitution under Article 368, the Supreme Court in the Kesavananda Bharati case (1973) held that Parliament cannot amend or destroy the 'basic structure' of the Constitution (its fundamental features), thereby placing a limit on the amending power.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The role of the legislature as a 'deliberative body' means it is a forum where:",
+    "options": [
+      "Only laws are passed silently",
+      "Issues of national and public importance are discussed and debated, allowing different viewpoints to be expressed and public opinion to be shaped",
+      "No discussion takes place",
+      "Only the ruling party speaks"
+    ],
+    "correct_index": 1,
+    "solution": "As a deliberative body, Parliament is the highest forum of discussion and debate on public issues and national policy; members representing different views debate matters of importance, express diverse opinions, and this deliberation informs law-making and shapes public opinion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why did the framers of the Indian Constitution choose a bicameral (two-house) legislature at the national level?",
+    "options": [
+      "To make law-making slower",
+      "Because India is a large and diverse federal country — the second chamber (Rajya Sabha) gives representation to states, allows re-examination of hasty legislation, and provides a place for experienced persons",
+      "To reduce the number of laws",
+      "To copy Britain exactly"
+    ],
+    "correct_index": 1,
+    "solution": "The framers chose bicameralism at the national level because India is a large, diverse and federal country: the second chamber (Rajya Sabha) gives representation to the states (federal principle), acts as a check on hasty or ill-considered legislation by allowing a second look, and provides a forum for experienced and eminent persons (through nomination) to contribute.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A state legislature may be bicameral or unicameral. The upper house of a state legislature (where it exists) is called the:",
+    "options": [
+      "Vidhan Sabha",
+      "Vidhan Parishad (Legislative Council)",
+      "Rajya Sabha",
+      "Lok Sabha"
+    ],
+    "correct_index": 1,
+    "solution": "At the state level, the lower (directly elected) house is the Vidhan Sabha (Legislative Assembly), and the upper house (where it exists) is the Vidhan Parishad (Legislative Council). Not all states have a Legislative Council; states can create or abolish it by a resolution passed by the Assembly and an Act of Parliament.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chief function of holding the government accountable is best performed by the legislature because:",
+    "options": [
+      "The legislature appoints the executive for life",
+      "The executive (Council of Ministers) is drawn from and continuously answerable to the legislature, which can question, debate, and ultimately remove it",
+      "The legislature controls the judiciary",
+      "The executive is independent"
+    ],
+    "correct_index": 1,
+    "solution": "In a parliamentary system, the executive is drawn from and remains accountable to the legislature; the legislature holds the government accountable through questions, debates, motions, financial control, and, ultimately, the power to remove the Council of Ministers via a no-confidence motion, ensuring democratic responsibility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The representative function of Parliament means that it:",
+    "options": [
+      "Represents only the government",
+      "Reflects the diverse views, interests and aspirations of the people of the whole country, as its members are elected from all regions and sections",
+      "Represents only the ruling party",
+      "Represents foreign countries"
+    ],
+    "correct_index": 1,
+    "solution": "The representative function means Parliament reflects the diverse views, interests, and aspirations of the people from all regions, communities and sections of the country; its members are elected representatives who articulate the concerns of their constituents and the nation, making Parliament a microcosm of the nation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The quorum required for a sitting of either House of Parliament is:",
+    "options": [
+      "Half the members",
+      "One-tenth of the total number of members of the House",
+      "One-third",
+      "Two-thirds"
+    ],
+    "correct_index": 1,
+    "solution": "The quorum to constitute a sitting of either House is one-tenth of the total number of members of that House; if there is no quorum, the presiding officer must adjourn the house or suspend the meeting until there is a quorum.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The stages a bill goes through in each House include the first reading (introduction), the second reading (general discussion and clause-by-clause consideration), and the:",
+    "options": [
+      "Assent stage",
+      "Third reading (final debate and voting on the bill as a whole)",
+      "Election stage",
+      "Committee stage only"
+    ],
+    "correct_index": 1,
+    "solution": "A bill passes through three readings in each House: the first reading (introduction and publication), the second reading (general discussion, possible referral to a committee, and clause-by-clause consideration), and the third reading (final debate and vote on the bill as a whole). After passing both houses and receiving the President's assent, it becomes law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following distinguishes a Money Bill from an ordinary bill?",
+    "options": [
+      "A Money Bill can be introduced in either house",
+      "A Money Bill deals only with matters like taxation, borrowing, and expenditure from the Consolidated Fund; it can be introduced only in the Lok Sabha, on the President's recommendation, and the Rajya Sabha has limited powers over it",
+      "The Rajya Sabha can reject a Money Bill",
+      "A Money Bill needs no presidential assent"
+    ],
+    "correct_index": 1,
+    "solution": "A Money Bill deals exclusively with financial matters such as taxation, government borrowing, and expenditure from or receipts into the Consolidated Fund of India. It can be introduced only in the Lok Sabha on the President's recommendation; the Rajya Sabha can only make recommendations (which the Lok Sabha may accept or reject) and must return it within 14 days. The Speaker's certification determines whether a bill is a Money Bill.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The power of Parliament to remove certain high officials, such as judges of the Supreme Court and High Courts, the President, and the Comptroller and Auditor General, through the process of impeachment or a special resolution, reflects its:",
+    "options": [
+      "Law-making function",
+      "Role in ensuring accountability of high constitutional functionaries",
+      "Financial function",
+      "Representative function"
+    ],
+    "correct_index": 1,
+    "solution": "Parliament's power to remove high constitutional functionaries — impeaching the President, removing judges of the Supreme Court and High Courts, and removing the CAG or the Chief Election Commissioner through a special resolution/address — reflects its role in ensuring the accountability of even the highest offices, acting as a guardian of constitutional propriety.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Public Accounts Committee (PAC) is a key parliamentary committee that:",
+    "options": [
+      "Makes new laws",
+      "Examines the reports of the Comptroller and Auditor General (CAG) and scrutinises government expenditure to ensure money was spent lawfully and for the intended purposes",
+      "Conducts elections",
+      "Appoints ministers"
+    ],
+    "correct_index": 1,
+    "solution": "The Public Accounts Committee (PAC) examines the accounts and the reports of the Comptroller and Auditor General (CAG); it scrutinises government expenditure to ensure that public money was spent lawfully, economically and for the purposes intended by Parliament, thereby strengthening financial accountability.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A legislature is often called the 'watchdog' of democracy because it:",
+    "options": [
+      "Guards the borders",
+      "Keeps a check on the government/executive, scrutinises its actions, exposes wrongdoing, and ensures it remains accountable to the people",
+      "Manages the economy",
+      "Controls the army"
+    ],
+    "correct_index": 1,
+    "solution": "The legislature is the 'watchdog' of democracy because it keeps a continuous check on the government (executive); through debates, questions, committees, and financial control, it scrutinises government actions, exposes lapses and wrongdoing, and ensures the government remains accountable to the people's representatives.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Legislature' is that:",
+    "options": [
+      "The legislature is a rubber stamp",
+      "Parliament is the central institution of Indian democracy — it makes laws, represents the people, controls and holds the executive accountable, controls public finances, and is a deliberative forum, with the Lok Sabha being the more powerful house",
+      "Only the executive matters",
+      "The Rajya Sabha is more powerful"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that the legislature (Parliament) is the central institution of Indian democracy: it performs the vital functions of law-making, representation of the people, control and accountability of the executive, financial control, and deliberation on national issues. The bicameral structure balances popular representation (Lok Sabha) with federal representation (Rajya Sabha), with the directly-elected Lok Sabha being the more powerful house.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The minimum age to become a member of the Lok Sabha and a member of the Rajya Sabha respectively is:",
+    "options": [
+      "21 years and 25 years",
+      "25 years and 30 years",
+      "30 years and 35 years",
+      "18 years and 21 years"
+    ],
+    "correct_index": 1,
+    "solution": "To become a member of the Lok Sabha, a person must be at least 25 years of age; to become a member of the Rajya Sabha, the minimum age is 30 years. Both must be citizens of India and meet other qualifications.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The maximum strength of the Rajya Sabha is 250, of which how many are nominated by the President?",
+    "options": [
+      "12",
+      "2",
+      "20",
+      "25"
+    ],
+    "correct_index": 0,
+    "solution": "Of the maximum 250 members of the Rajya Sabha, 12 are nominated by the President from among persons distinguished in literature, science, art and social service; the rest represent the states and UTs.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajya Sabha is called a permanent house because:",
+    "options": [
+      "It is never fully dissolved; one-third of members retire every two years",
+      "It has no elections",
+      "Its members serve for life",
+      "It cannot pass laws"
+    ],
+    "correct_index": 0,
+    "solution": "The Rajya Sabha is a permanent body that is not subject to dissolution; one-third of its members retire every second year, and elections are held to fill the vacancies, so the House continues permanently.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the case of a Money Bill, the Rajya Sabha can only:",
+    "options": [
+      "Delay it for a maximum of 14 days and suggest changes, which the Lok Sabha may accept or reject",
+      "Reject it permanently",
+      "Amend it fully",
+      "Introduce it"
+    ],
+    "correct_index": 0,
+    "solution": "On a Money Bill, the Rajya Sabha cannot reject or amend it; it can only make recommendations and must return the bill within 14 days, after which the Lok Sabha may accept or reject those recommendations.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In case of a deadlock between the two Houses over an ordinary bill, the deadlock is resolved through a:",
+    "options": [
+      "Joint session of both Houses summoned by the President",
+      "Decision of the President alone",
+      "Fresh election",
+      "Reference to the Supreme Court"
+    ],
+    "correct_index": 0,
+    "solution": "A deadlock between the two Houses over an ordinary (non-money) bill is resolved by a joint sitting of both Houses summoned by the President, where the matter is decided by a majority of the total members present.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The special power of the Rajya Sabha, not shared by the Lok Sabha, includes the power to:",
+    "options": [
+      "Authorise Parliament to make laws on a State List subject (Article 249)",
+      "Introduce money bills",
+      "Remove the Council of Ministers",
+      "Elect the Speaker"
+    ],
+    "correct_index": 0,
+    "solution": "The Rajya Sabha has special powers: under Article 249 it can pass a resolution enabling Parliament to make laws on a subject in the State List, and under Article 312 it can create a new All-India Service.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Anti-Defection Law was added to the Constitution by the:",
+    "options": [
+      "52nd Amendment (1985)",
+      "42nd Amendment",
+      "61st Amendment",
+      "44th Amendment"
+    ],
+    "correct_index": 0,
+    "solution": "The Anti-Defection Law was added by the 52nd Constitutional Amendment (1985), providing for the disqualification of legislators who defect from their party.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Under the Anti-Defection Law, the authority who decides questions of disqualification on grounds of defection is the:",
+    "options": [
+      "Presiding officer (Speaker/Chairman) of the House",
+      "President",
+      "Supreme Court directly",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "Under the Anti-Defection Law, the presiding officer of the House (the Speaker in the Lok Sabha or the Chairman in the Rajya Sabha) decides whether a member has incurred disqualification due to defection.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The first hour of every sitting of Parliament, during which members ask questions of ministers, is called:",
+    "options": [
+      "Question Hour",
+      "Zero Hour",
+      "Prime Time",
+      "Recess"
+    ],
+    "correct_index": 0,
+    "solution": "Question Hour is the first hour of a sitting during which members ask questions and ministers are expected to answer, a key device for holding the government accountable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The Lok Sabha has greater financial powers than the Rajya Sabha. Reason (R): Money bills can be introduced only in the Lok Sabha and the Rajya Sabha cannot reject them.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "The Lok Sabha's superior financial power flows from the fact that money bills originate only there and the Rajya Sabha can only delay and recommend, not reject or amend them — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): India adopted a bicameral Parliament at the centre. Reason (R): The framers wanted both a house representing the people and a house representing the states.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A bicameral Parliament was chosen so that the Lok Sabha could represent the people directly while the Rajya Sabha could represent the states, suiting a large and diverse federal country — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The minimum age to become a member of the Lok Sabha is:",
+    "options": [
+      "25 years",
+      "30 years",
+      "21 years",
+      "35 years"
+    ],
+    "correct_index": 0,
+    "solution": "The minimum age to become a member of the Lok Sabha is 25 years, while for the Rajya Sabha it is 30 years.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The minimum age to become a member of the Rajya Sabha is:",
+    "options": [
+      "30 years",
+      "25 years",
+      "35 years",
+      "21 years"
+    ],
+    "correct_index": 0,
+    "solution": "The minimum age qualification for membership of the Rajya Sabha is 30 years, higher than the 25 years required for the Lok Sabha.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ex-officio Chairman of the Rajya Sabha is the:",
+    "options": [
+      "Vice-President of India",
+      "Speaker",
+      "Prime Minister",
+      "President"
+    ],
+    "correct_index": 0,
+    "solution": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha and presides over its sittings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Public Accounts Committee (PAC) is a parliamentary committee that:",
+    "options": [
+      "Examines the accounts and audit reports to check government spending",
+      "Introduces money bills",
+      "Elects the Speaker",
+      "Appoints ministers"
+    ],
+    "correct_index": 0,
+    "solution": "The Public Accounts Committee examines the reports of the Comptroller and Auditor General and scrutinises government expenditure to ensure that public money is spent as sanctioned by Parliament.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Speaker of the Lok Sabha has the important power to:",
+    "options": [
+      "Decide whether a bill is a money bill",
+      "Appoint the Prime Minister",
+      "Dissolve the House",
+      "Elect the President"
+    ],
+    "correct_index": 0,
+    "solution": "The Speaker has the crucial power to certify whether a bill is a money bill; this decision is final and cannot be questioned, giving the Speaker an important role in the legislative process.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Much of the detailed examination of bills and government functioning is carried out in Parliament by:",
+    "options": [
+      "Parliamentary committees",
+      "The full House only",
+      "The President",
+      "The judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "Much of the detailed work of Parliament — scrutinising bills, budgets and the working of departments — is done by parliamentary committees, which allow careful, specialised examination away from the floor.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A proposed law is called a 'bill'; it becomes an Act only after:",
+    "options": [
+      "It is passed by both Houses and receives the President's assent",
+      "It is introduced",
+      "It is debated once",
+      "It is printed"
+    ],
+    "correct_index": 0,
+    "solution": "A bill becomes an Act (law) only after it is passed by both Houses of Parliament (or in a joint sitting for ordinary bills) and receives the assent of the President.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match the House with its feature: (i) Lok Sabha (ii) Rajya Sabha — (a) permanent, represents states, 6-year term (b) dissolvable, represents people, 5-year term:",
+    "options": [
+      "(i)-b, (ii)-a",
+      "(i)-a, (ii)-b",
+      "Both (a)",
+      "Both (b)"
+    ],
+    "correct_index": 0,
+    "solution": "The Lok Sabha represents the people, has a 5-year term and can be dissolved; the Rajya Sabha represents the states, is permanent, and members serve a 6-year term.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Parliament exercises control over the executive through devices such as Question Hour, no-confidence motions and:",
+    "options": [
+      "Adjournment motions and parliamentary committees",
+      "Elections only",
+      "Court orders",
+      "Ordinances"
+    ],
+    "correct_index": 0,
+    "solution": "Parliament controls the executive through the Question Hour, Zero Hour, adjournment motions, calling attention motions, no-confidence motions, and the scrutiny carried out by parliamentary committees.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An 'adjournment motion' is an instrument of control that:",
+    "options": [
+      "Draws attention to an urgent matter of public importance, implying censure of the government",
+      "Adjourns Parliament permanently",
+      "Introduces a money bill",
+      "Elects a new Speaker"
+    ],
+    "correct_index": 0,
+    "solution": "An adjournment motion is moved to draw the attention of the House to a definite matter of urgent public importance; its adoption is regarded as a censure of the government, so it is a strong instrument of control.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajya Sabha represents the:",
+    "options": [
+      "States and Union Territories of India",
+      "People directly",
+      "Political parties",
+      "Local governments"
+    ],
+    "correct_index": 0,
+    "solution": "The Rajya Sabha (Council of States) represents the states and Union Territories of India; its members are elected by the elected members of the State Legislative Assemblies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Lok Sabha (House of the People) represents the:",
+    "options": [
+      "People of India as a whole (directly elected)",
+      "States only",
+      "The government",
+      "Political parties only"
+    ],
+    "correct_index": 0,
+    "solution": "The Lok Sabha represents the people of India as a whole; its members are directly elected by the people from territorial constituencies on the basis of universal adult franchise.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The role of the legislature as a 'deliberative body' means it:",
+    "options": [
+      "Debates and discusses issues, informing public opinion and holding the government to account",
+      "Only passes budgets",
+      "Runs the administration",
+      "Elects judges"
+    ],
+    "correct_index": 0,
+    "solution": "As a deliberative body, the legislature debates important national issues and policies, provides a forum for expressing diverse views, informs public opinion, and holds the government accountable through discussion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A bicameral legislature is one that has:",
+    "options": [
+      "Two houses",
+      "One house",
+      "Three houses",
+      "No houses"
+    ],
+    "correct_index": 0,
+    "solution": "A bicameral legislature has two houses; at the union level, the Indian Parliament is bicameral, consisting of the Lok Sabha and the Rajya Sabha, besides the President.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A state legislature may be unicameral or bicameral; where it has two houses, the upper house is called the:",
+    "options": [
+      "Legislative Council (Vidhan Parishad)",
+      "Legislative Assembly",
+      "Rajya Sabha",
+      "Lok Sabha"
+    ],
+    "correct_index": 0,
+    "solution": "A state legislature may be bicameral, with the Legislative Assembly (Vidhan Sabha) as the lower house and the Legislative Council (Vidhan Parishad) as the upper house, or unicameral with only the Assembly.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The power of Parliament to remove certain high officials, such as judges of the Supreme Court, is exercised through:",
+    "options": [
+      "Impeachment/a special majority resolution",
+      "A no-confidence motion",
+      "An ordinance",
+      "A money bill"
+    ],
+    "correct_index": 0,
+    "solution": "Parliament can remove high constitutional functionaries such as judges of the Supreme Court and High Courts, and the President, through the process of impeachment or a motion passed by a special majority.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The provision that Parliament must meet at least twice a year, with not more than six months between sessions, ensures:",
+    "options": [
+      "Regular scrutiny of the executive by the legislature",
+      "The executive is never checked",
+      "Elections are frequent",
+      "The President rules directly"
+    ],
+    "correct_index": 0,
+    "solution": "The Constitution requires that the gap between two sessions of Parliament not exceed six months, ensuring that the legislature meets regularly to make laws and hold the executive accountable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The power of Parliament to amend the Constitution is subject to the limitation that it cannot:",
+    "options": [
+      "Alter the 'basic structure' of the Constitution",
+      "Amend any provision",
+      "Pass any law",
+      "Meet in session"
+    ],
+    "correct_index": 0,
+    "solution": "Parliament can amend the Constitution, but as per the Supreme Court's basic structure doctrine (Kesavananda Bharati case), it cannot alter the fundamental 'basic structure' of the Constitution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The stages a bill goes through in each House include the first reading, second reading and:",
+    "options": [
+      "Third reading",
+      "Fourth reading",
+      "Money reading",
+      "Judicial reading"
+    ],
+    "correct_index": 0,
+    "solution": "A bill passes through three readings in each House: the first reading (introduction), the second reading (detailed clause-by-clause discussion and voting), and the third reading (final approval).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chief function of holding the government accountable is best performed by the:",
+    "options": [
+      "Lok Sabha, to which the Council of Ministers is responsible",
+      "Rajya Sabha",
+      "President",
+      "Judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "Holding the government accountable is chiefly performed by the Lok Sabha, since the Council of Ministers is collectively responsible to it and can be removed by a no-confidence motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bills are of two main types: Government Bills, introduced by ministers, and __________ Bills, introduced by other members.",
+    "options": [
+      "Private Members'",
+      "Money",
+      "Ordinance",
+      "Joint"
+    ],
+    "correct_index": 0,
+    "solution": "Bills are classified as Government Bills, introduced by ministers, and Private Members' Bills, introduced by members of Parliament who are not ministers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajya Sabha, though less powerful, performs important functions such as:",
+    "options": [
+      "Providing a check on hasty legislation and representing the states",
+      "Removing the government",
+      "Introducing money bills",
+      "Electing the Speaker"
+    ],
+    "correct_index": 0,
+    "solution": "The Rajya Sabha acts as a revising chamber, providing a second look at legislation to prevent hasty law-making, and represents the interests of the states in the federal structure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The normal term of the Lok Sabha is five years, but it can be:",
+    "options": [
+      "Dissolved earlier or extended during a National Emergency",
+      "Never dissolved",
+      "Extended to ten years normally",
+      "Reduced to one year"
+    ],
+    "correct_index": 0,
+    "solution": "The Lok Sabha's normal term is five years, but it can be dissolved earlier by the President on the advice of the Council of Ministers, and its term can be extended by one year at a time during a National Emergency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An 'adjournment motion' in Parliament is an instrument of control over the executive that is used to:",
+    "options": [
+      "Adjourn Parliament permanently",
+      "Draw the attention of the house to a definite matter of urgent public importance, and its admission amounts to a censure of the government",
+      "Pass the budget",
+      "Elect the Speaker"
+    ],
+    "correct_index": 1,
+    "solution": "An adjournment motion is moved to draw the attention of the house to a definite matter of urgent public importance; it involves setting aside the normal business to discuss the urgent matter. Because it is regarded as a form of censure against the government, it is an important device of parliamentary control (available in the Lok Sabha).",
+    "difficulty": "hard"
+  }
 ]
