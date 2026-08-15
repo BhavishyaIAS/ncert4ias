@@ -1,52 +1,1058 @@
 [
-  { "stem": "Rights are best defined as:", "options": ["Reasonable claims of a person recognised by society and sanctioned by law", "Wishes that can never be fulfilled", "Privileges of the rich only", "Orders of the ruler"], "correct_index": 0, "solution": "Rights are reasonable claims of persons that are recognised by society and sanctioned by law and the Constitution.", "difficulty": "medium" },
-  { "stem": "The rights guaranteed by the Indian Constitution are called:", "options": ["Fundamental Rights", "Fundamental Duties", "Directive Principles", "Ordinances"], "correct_index": 0, "solution": "The Constitution guarantees Fundamental Rights, which are enforceable through the courts.", "difficulty": "medium" },
-  { "stem": "How many Fundamental Rights are provided in the Indian Constitution?", "options": ["Six", "Three", "Ten", "Two"], "correct_index": 0, "solution": "There are six Fundamental Rights: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and the Right to Constitutional Remedies.", "difficulty": "medium" },
-  { "stem": "The Right to Equality guarantees:", "options": ["Equality before the law and abolition of untouchability", "Special privileges for a few", "Freedom from paying taxes", "The right to a government job"], "correct_index": 0, "solution": "The Right to Equality guarantees equality before the law, prohibits discrimination, and abolishes untouchability.", "difficulty": "medium" },
-  { "stem": "The Right to Freedom includes the freedom of:", "options": ["Speech and expression, assembly, movement and profession", "Breaking the law", "Owning unlimited property", "Avoiding all duties"], "correct_index": 0, "solution": "The Right to Freedom includes freedom of speech and expression, assembly, association, movement, residence and profession.", "difficulty": "medium" },
-  { "stem": "The Right against Exploitation prohibits:", "options": ["Forced labour, trafficking and child labour in hazardous work", "Voting", "Education", "Worship"], "correct_index": 0, "solution": "The Right against Exploitation forbids human trafficking, forced labour (begar) and the employment of children in hazardous work.", "difficulty": "medium" },
-  { "stem": "The Right to Freedom of Religion allows every person to:", "options": ["Freely profess, practise and propagate any religion", "Follow only the state religion", "Never practise any religion", "Worship only in public"], "correct_index": 0, "solution": "The Right to Freedom of Religion guarantees freedom of conscience and the right to profess, practise and propagate any religion.", "difficulty": "medium" },
-  { "stem": "Cultural and Educational Rights protect the interests of:", "options": ["Minorities, letting them conserve their culture and set up institutions", "Only the majority", "Only foreigners", "Only the government"], "correct_index": 0, "solution": "Cultural and Educational Rights allow minorities to preserve their language, script and culture and to establish their own educational institutions.", "difficulty": "hard" },
-  { "stem": "The Right that allows citizens to move the courts to enforce their Fundamental Rights is the:", "options": ["Right to Constitutional Remedies", "Right to Property", "Right to Equality", "Right to Freedom of Religion"], "correct_index": 0, "solution": "The Right to Constitutional Remedies lets citizens approach the courts (e.g. the Supreme Court) to enforce their Fundamental Rights.", "difficulty": "medium" },
-  { "stem": "Dr Ambedkar called which right the 'heart and soul' of the Constitution?", "options": ["Right to Constitutional Remedies", "Right to Property", "Right to Freedom of Religion", "Cultural and Educational Rights"], "correct_index": 0, "solution": "Ambedkar described the Right to Constitutional Remedies (Article 32) as the 'heart and soul' of the Constitution.", "difficulty": "hard" },
-  { "stem": "The Right to Property was removed from the list of Fundamental Rights by which amendment?", "options": ["The 44th Amendment (1978)", "The 42nd Amendment", "The 61st Amendment", "The 73rd Amendment"], "correct_index": 0, "solution": "The 44th Amendment (1978) removed the Right to Property from the Fundamental Rights, making it an ordinary legal right.", "difficulty": "hard" },
-  { "stem": "The orders that courts issue to protect Fundamental Rights are called:", "options": ["Writs", "Bills", "Ordinances", "Amendments"], "correct_index": 0, "solution": "The courts issue writs (such as habeas corpus, mandamus, etc.) to protect and enforce Fundamental Rights.", "difficulty": "hard" },
-  { "stem": "The writ of 'habeas corpus' is issued to:", "options": ["Produce a detained person before the court and check unlawful detention", "Collect taxes", "Conduct elections", "Amend the Constitution"], "correct_index": 0, "solution": "The writ of habeas corpus requires a detained person to be produced before the court, guarding against unlawful detention.", "difficulty": "hard" },
-  { "stem": "Rights are important in a democracy because they:", "options": ["Protect citizens against the misuse of power and guarantee freedom and dignity", "Only benefit the government", "Restrict the people", "Serve the powerful"], "correct_index": 0, "solution": "Rights protect citizens from the misuse of power and guarantee their freedom, equality and dignity.", "difficulty": "medium" },
-  { "stem": "The example of prisoners at Guantanamo Bay (held without trial or rights) shows:", "options": ["What happens when people are denied basic rights", "That rights are unnecessary", "The success of democracy", "The value of dictatorship"], "correct_index": 0, "solution": "The Guantanamo Bay example illustrates the injustice that results when people are denied basic rights like a fair trial.", "difficulty": "medium" },
-  { "stem": "Which of the following is guaranteed under the Right to Equality?", "options": ["Abolition of untouchability", "Freedom of speech", "Freedom of religion", "The right to property"], "correct_index": 0, "solution": "The abolition of untouchability is part of the Right to Equality.", "difficulty": "medium" },
-  { "stem": "The freedom to form associations or unions is part of the:", "options": ["Right to Freedom", "Right to Equality", "Right against Exploitation", "Cultural Rights"], "correct_index": 0, "solution": "The freedom to form associations or unions is one of the freedoms guaranteed under the Right to Freedom.", "difficulty": "medium" },
-  { "stem": "The prohibition of child labour in factories and hazardous jobs comes under the:", "options": ["Right against Exploitation", "Right to Equality", "Right to Freedom of Religion", "Right to Constitutional Remedies"], "correct_index": 0, "solution": "The ban on employing children below 14 in hazardous work is part of the Right against Exploitation.", "difficulty": "medium" },
-  { "stem": "Fundamental Rights are enforceable, which means:", "options": ["A citizen can go to court if a right is violated", "They are only suggestions", "They cannot be protected", "They apply only abroad"], "correct_index": 0, "solution": "Being enforceable means that if a Fundamental Right is violated, a citizen can approach the courts for protection.", "difficulty": "medium" },
-  { "stem": "The body set up in 1993 to protect and promote human rights in India is the:", "options": ["National Human Rights Commission (NHRC)", "Election Commission", "Planning Commission", "Finance Commission"], "correct_index": 0, "solution": "The National Human Rights Commission (NHRC), established in 1993, protects and promotes human rights in India.", "difficulty": "hard" },
-  { "stem": "The Right to Education, making elementary education a fundamental right, was added by the:", "options": ["86th Amendment (Article 21A)", "44th Amendment", "42nd Amendment", "61st Amendment"], "correct_index": 0, "solution": "The 86th Amendment inserted Article 21A, making free and compulsory education for children aged 6-14 a Fundamental Right.", "difficulty": "hard" },
-  { "stem": "Rights protect the minority from:", "options": ["Domination by the majority", "Their own community", "The Constitution", "Free elections"], "correct_index": 0, "solution": "Rights safeguard minorities and the vulnerable from being dominated or oppressed by the majority.", "difficulty": "medium" },
-  { "stem": "Which of the following is a democratic right of an accused person?", "options": ["The right to a fair trial and to defend oneself", "The right to be presumed guilty", "The right to punish others", "No rights at all"], "correct_index": 0, "solution": "An accused person has the right to a fair trial, to be presumed innocent until proven guilty and to defend themselves.", "difficulty": "medium" },
-  { "stem": "The freedom of speech and expression can be reasonably restricted in the interest of:", "options": ["Public order, security and the rights of others", "Nothing at all", "The ruling party only", "The rich only"], "correct_index": 0, "solution": "Freedom of speech is subject to reasonable restrictions in the interest of public order, security, morality and the rights of others.", "difficulty": "hard" },
-  { "stem": "Rights and duties are related because:", "options": ["One person's rights imply respect for others' rights and certain duties", "Rights have no connection to duties", "Duties abolish rights", "Only duties matter"], "correct_index": 0, "solution": "Rights carry corresponding responsibilities — respecting one's own rights means respecting the rights of others too.", "difficulty": "medium" },
-  { "stem": "The Right to Freedom of Religion means the state:", "options": ["Cannot force any religion on citizens and treats all religions equally", "Promotes one religion", "Bans all religion", "Is run by priests"], "correct_index": 0, "solution": "The Right to Freedom of Religion, in a secular state, means the state cannot impose any religion and treats all faiths equally.", "difficulty": "medium" },
-  { "stem": "The scope of rights in India has:", "options": ["Expanded over time (e.g. right to education, information)", "Remained fixed forever", "Been reduced to nothing", "Never changed"], "correct_index": 0, "solution": "The scope of rights has expanded over time, with new rights like the right to education and the right to information being recognised.", "difficulty": "medium" },
-  { "stem": "The Right to Information allows citizens to:", "options": ["Obtain information about the working of the government", "Hide from the government", "Avoid taxes", "Break the law"], "correct_index": 0, "solution": "The Right to Information empowers citizens to seek information about government functioning, promoting transparency and accountability.", "difficulty": "medium" },
-  { "stem": "A society without rights would likely be one where:", "options": ["The powerful can oppress others without limit", "Everyone is equal", "The government is accountable", "People are free"], "correct_index": 0, "solution": "Without rights, the powerful could oppress others without limit, and citizens would have no protection or dignity.", "difficulty": "medium" },
-  { "stem": "The Fundamental Rights place limits on the:", "options": ["Powers of the government", "Rights of citizens", "Freedom of citizens", "Working of courts"], "correct_index": 0, "solution": "Fundamental Rights place limits on the government's power, preventing it from acting against citizens' basic rights.", "difficulty": "medium" },
-  { "stem": "The right to move freely and reside in any part of the country is part of the:", "options": ["Right to Freedom", "Right to Equality", "Right against Exploitation", "Cultural Rights"], "correct_index": 0, "solution": "The freedom to move freely throughout India and to reside anywhere is part of the Right to Freedom.", "difficulty": "medium" },
-  { "stem": "Which of the following is NOT a Fundamental Right in the Constitution today?", "options": ["Right to Property", "Right to Equality", "Right to Freedom", "Right to Constitutional Remedies"], "correct_index": 0, "solution": "The Right to Property is no longer a Fundamental Right (removed by the 44th Amendment); it is now an ordinary legal right.", "difficulty": "hard" },
-  { "stem": "Rights are described as 'fundamental' because they are:", "options": ["Basic and essential to a dignified human life and protected by the Constitution", "Optional and minor", "Temporary", "Only for officials"], "correct_index": 0, "solution": "They are 'fundamental' because they are basic to a dignified human life and are specially protected by the Constitution.", "difficulty": "medium" },
-  { "stem": "The Supreme Court and High Courts protect Fundamental Rights by:", "options": ["Issuing writs and striking down laws that violate them", "Making new laws", "Conducting elections", "Collecting taxes"], "correct_index": 0, "solution": "The courts protect Fundamental Rights by issuing writs and by striking down laws or actions that violate them.", "difficulty": "medium" },
-  { "stem": "Rights ensure that citizens are treated as:", "options": ["Equal and free members of society", "Subjects of the ruler", "Inferior to officials", "Without any claims"], "correct_index": 0, "solution": "Rights ensure that all citizens are treated as free and equal members of society.", "difficulty": "medium" },
-  { "stem": "The rights of citizens are best protected when:", "options": ["There is an independent judiciary and a rights-respecting government", "The government has unlimited power", "There are no courts", "Rights are ignored"], "correct_index": 0, "solution": "Citizens' rights are best protected by an independent judiciary and a government that respects and upholds those rights.", "difficulty": "medium" },
-  { "stem": "The example of countries denying rights to certain groups shows that:", "options": ["Rights must be constitutionally guaranteed and protected to be secure", "Rights are unnecessary", "Only some people deserve rights", "Rights cannot be protected"], "correct_index": 0, "solution": "Such examples show that rights are secure only when they are constitutionally guaranteed and protected for all.", "difficulty": "medium" },
-  { "stem": "The Fundamental Rights apply to:", "options": ["All citizens (and some to all persons)", "Only the rich", "Only officials", "Only foreigners"], "correct_index": 0, "solution": "The Fundamental Rights apply to all citizens; some (like equality before law) apply to all persons in India.", "difficulty": "medium" },
-  { "stem": "A key feature of rights in a democracy is that they:", "options": ["Are guaranteed to all and can be defended through the legal system", "Depend on the ruler's mood", "Are only for the majority", "Cannot be enforced"], "correct_index": 0, "solution": "In a democracy, rights are guaranteed to all citizens and can be defended through an independent legal system.", "difficulty": "medium" },
-  { "stem": "The right to equality before the law means:", "options": ["The law applies equally to everyone, including officials", "The rich are above the law", "Officials cannot be tried", "Only the poor are punished"], "correct_index": 0, "solution": "Equality before the law means the law treats everyone equally, and no one, however powerful, is above it.", "difficulty": "medium" },
-  { "stem": "Freedom of the press is protected as part of the freedom of:", "options": ["Speech and expression", "Religion", "Movement", "Assembly"], "correct_index": 0, "solution": "Freedom of the press is derived from the freedom of speech and expression under the Right to Freedom.", "difficulty": "hard" },
-  { "stem": "Which of the following statements about Fundamental Rights is correct?", "options": ["They can be enforced by the courts if violated", "They are only moral ideals", "They cannot be defended", "They apply only to the government"], "correct_index": 0, "solution": "Fundamental Rights are legally enforceable — the courts can protect them if they are violated.", "difficulty": "medium" },
-  { "stem": "The rights of citizens act as a check on:", "options": ["The arbitrary use of power by the government", "The freedom of citizens", "The working of the courts", "Elections"], "correct_index": 0, "solution": "Rights act as a check, preventing the government from using its power arbitrarily against citizens.", "difficulty": "medium" },
-  { "stem": "Which of the following is an example of the expansion of rights in India?", "options": ["The recognition of the right to education and the right to information", "The removal of all rights", "The end of the judiciary", "The banning of elections"], "correct_index": 0, "solution": "The recognition of the right to education (Article 21A) and the right to information are examples of the expansion of rights.", "difficulty": "medium" },
-  { "stem": "The right to assemble peacefully is protected provided the assembly is:", "options": ["Peaceful and without arms", "Violent", "Armed", "Aimed at breaking the law"], "correct_index": 0, "solution": "The Right to Freedom allows peaceful assembly without arms; violent or armed assembly is not protected.", "difficulty": "medium" },
-  { "stem": "Rights are meaningful only if they are:", "options": ["Enforceable and protected by an independent authority", "Written but ignored", "Kept secret", "Applied selectively"], "correct_index": 0, "solution": "Rights are meaningful only when they are enforceable and protected by an independent authority like the judiciary.", "difficulty": "medium" },
-  { "stem": "The protection of rights is a mark of a:", "options": ["Healthy, functioning democracy", "Dictatorship", "Failed state", "Society without law"], "correct_index": 0, "solution": "The guarantee and protection of rights are marks of a healthy, functioning democracy.", "difficulty": "medium" },
-  { "stem": "The Constitution allows reasonable restrictions on rights so that:", "options": ["One person's rights do not harm others or public order", "The government can do anything", "Rights become meaningless", "Only the rich have rights"], "correct_index": 0, "solution": "Reasonable restrictions ensure that the exercise of one person's rights does not harm others or disturb public order.", "difficulty": "medium" },
-  { "stem": "The writ issued by a court to command a public authority to perform its legal duty is called:", "options": ["Mandamus", "Habeas corpus", "Quo warranto", "Certiorari"], "correct_index": 0, "solution": "The writ of 'mandamus' (meaning 'we command') orders a public official or body to perform a duty it has failed to carry out.", "difficulty": "hard" },
-  { "stem": "The overall theme of 'Democratic Rights' is that:", "options": ["Rights are essential to democracy, protecting citizens' freedom, equality and dignity", "Rights are unnecessary", "Only the government has rights", "Rights harm society"], "correct_index": 0, "solution": "The chapter explains why rights are essential to democracy, how they are guaranteed by the Constitution, and how they protect citizens' freedom, equality and dignity.", "difficulty": "easy" }
+  {
+    "stem": "Rights are best defined as:",
+    "options": [
+      "Reasonable claims of a person recognised by society and sanctioned by law",
+      "Wishes that can never be fulfilled",
+      "Privileges of the rich only",
+      "Orders of the ruler"
+    ],
+    "correct_index": 0,
+    "solution": "Rights are reasonable claims of persons that are recognised by society and sanctioned by law and the Constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rights guaranteed by the Indian Constitution are called:",
+    "options": [
+      "Fundamental Rights",
+      "Fundamental Duties",
+      "Directive Principles",
+      "Ordinances"
+    ],
+    "correct_index": 0,
+    "solution": "The Constitution guarantees Fundamental Rights, which are enforceable through the courts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "How many Fundamental Rights are provided in the Indian Constitution?",
+    "options": [
+      "Six",
+      "Three",
+      "Ten",
+      "Two"
+    ],
+    "correct_index": 0,
+    "solution": "There are six Fundamental Rights: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and the Right to Constitutional Remedies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Equality guarantees:",
+    "options": [
+      "Equality before the law and abolition of untouchability",
+      "Special privileges for a few",
+      "Freedom from paying taxes",
+      "The right to a government job"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Equality guarantees equality before the law, prohibits discrimination, and abolishes untouchability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Freedom includes the freedom of:",
+    "options": [
+      "Speech and expression, assembly, movement and profession",
+      "Breaking the law",
+      "Owning unlimited property",
+      "Avoiding all duties"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Freedom includes freedom of speech and expression, assembly, association, movement, residence and profession.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right against Exploitation prohibits:",
+    "options": [
+      "Forced labour, trafficking and child labour in hazardous work",
+      "Voting",
+      "Education",
+      "Worship"
+    ],
+    "correct_index": 0,
+    "solution": "The Right against Exploitation forbids human trafficking, forced labour (begar) and the employment of children in hazardous work.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Freedom of Religion allows every person to:",
+    "options": [
+      "Freely profess, practise and propagate any religion",
+      "Follow only the state religion",
+      "Never practise any religion",
+      "Worship only in public"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Freedom of Religion guarantees freedom of conscience and the right to profess, practise and propagate any religion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Cultural and Educational Rights protect the interests of:",
+    "options": [
+      "Minorities, letting them conserve their culture and set up institutions",
+      "Only the majority",
+      "Only foreigners",
+      "Only the government"
+    ],
+    "correct_index": 0,
+    "solution": "Cultural and Educational Rights allow minorities to preserve their language, script and culture and to establish their own educational institutions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Right that allows citizens to move the courts to enforce their Fundamental Rights is the:",
+    "options": [
+      "Right to Constitutional Remedies",
+      "Right to Property",
+      "Right to Equality",
+      "Right to Freedom of Religion"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Constitutional Remedies lets citizens approach the courts (e.g. the Supreme Court) to enforce their Fundamental Rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Dr Ambedkar called which right the 'heart and soul' of the Constitution?",
+    "options": [
+      "Right to Constitutional Remedies",
+      "Right to Property",
+      "Right to Freedom of Religion",
+      "Cultural and Educational Rights"
+    ],
+    "correct_index": 0,
+    "solution": "Ambedkar described the Right to Constitutional Remedies (Article 32) as the 'heart and soul' of the Constitution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Right to Property was removed from the list of Fundamental Rights by which amendment?",
+    "options": [
+      "The 44th Amendment (1978)",
+      "The 42nd Amendment",
+      "The 61st Amendment",
+      "The 73rd Amendment"
+    ],
+    "correct_index": 0,
+    "solution": "The 44th Amendment (1978) removed the Right to Property from the Fundamental Rights, making it an ordinary legal right.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The orders that courts issue to protect Fundamental Rights are called:",
+    "options": [
+      "Writs",
+      "Bills",
+      "Ordinances",
+      "Amendments"
+    ],
+    "correct_index": 0,
+    "solution": "The courts issue writs (such as habeas corpus, mandamus, etc.) to protect and enforce Fundamental Rights.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The writ of 'habeas corpus' is issued to:",
+    "options": [
+      "Produce a detained person before the court and check unlawful detention",
+      "Collect taxes",
+      "Conduct elections",
+      "Amend the Constitution"
+    ],
+    "correct_index": 0,
+    "solution": "The writ of habeas corpus requires a detained person to be produced before the court, guarding against unlawful detention.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rights are important in a democracy because they:",
+    "options": [
+      "Protect citizens against the misuse of power and guarantee freedom and dignity",
+      "Only benefit the government",
+      "Restrict the people",
+      "Serve the powerful"
+    ],
+    "correct_index": 0,
+    "solution": "Rights protect citizens from the misuse of power and guarantee their freedom, equality and dignity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The example of prisoners at Guantanamo Bay (held without trial or rights) shows:",
+    "options": [
+      "What happens when people are denied basic rights",
+      "That rights are unnecessary",
+      "The success of democracy",
+      "The value of dictatorship"
+    ],
+    "correct_index": 0,
+    "solution": "The Guantanamo Bay example illustrates the injustice that results when people are denied basic rights like a fair trial.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is guaranteed under the Right to Equality?",
+    "options": [
+      "Abolition of untouchability",
+      "Freedom of speech",
+      "Freedom of religion",
+      "The right to property"
+    ],
+    "correct_index": 0,
+    "solution": "The abolition of untouchability is part of the Right to Equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The freedom to form associations or unions is part of the:",
+    "options": [
+      "Right to Freedom",
+      "Right to Equality",
+      "Right against Exploitation",
+      "Cultural Rights"
+    ],
+    "correct_index": 0,
+    "solution": "The freedom to form associations or unions is one of the freedoms guaranteed under the Right to Freedom.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prohibition of child labour in factories and hazardous jobs comes under the:",
+    "options": [
+      "Right against Exploitation",
+      "Right to Equality",
+      "Right to Freedom of Religion",
+      "Right to Constitutional Remedies"
+    ],
+    "correct_index": 0,
+    "solution": "The ban on employing children below 14 in hazardous work is part of the Right against Exploitation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fundamental Rights are enforceable, which means:",
+    "options": [
+      "A citizen can go to court if a right is violated",
+      "They are only suggestions",
+      "They cannot be protected",
+      "They apply only abroad"
+    ],
+    "correct_index": 0,
+    "solution": "Being enforceable means that if a Fundamental Right is violated, a citizen can approach the courts for protection.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The body set up in 1993 to protect and promote human rights in India is the:",
+    "options": [
+      "National Human Rights Commission (NHRC)",
+      "Election Commission",
+      "Planning Commission",
+      "Finance Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The National Human Rights Commission (NHRC), established in 1993, protects and promotes human rights in India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Right to Education, making elementary education a fundamental right, was added by the:",
+    "options": [
+      "86th Amendment (Article 21A)",
+      "44th Amendment",
+      "42nd Amendment",
+      "61st Amendment"
+    ],
+    "correct_index": 0,
+    "solution": "The 86th Amendment inserted Article 21A, making free and compulsory education for children aged 6-14 a Fundamental Right.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rights protect the minority from:",
+    "options": [
+      "Domination by the majority",
+      "Their own community",
+      "The Constitution",
+      "Free elections"
+    ],
+    "correct_index": 0,
+    "solution": "Rights safeguard minorities and the vulnerable from being dominated or oppressed by the majority.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a democratic right of an accused person?",
+    "options": [
+      "The right to a fair trial and to defend oneself",
+      "The right to be presumed guilty",
+      "The right to punish others",
+      "No rights at all"
+    ],
+    "correct_index": 0,
+    "solution": "An accused person has the right to a fair trial, to be presumed innocent until proven guilty and to defend themselves.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The freedom of speech and expression can be reasonably restricted in the interest of:",
+    "options": [
+      "Public order, security and the rights of others",
+      "Nothing at all",
+      "The ruling party only",
+      "The rich only"
+    ],
+    "correct_index": 0,
+    "solution": "Freedom of speech is subject to reasonable restrictions in the interest of public order, security, morality and the rights of others.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rights and duties are related because:",
+    "options": [
+      "One person's rights imply respect for others' rights and certain duties",
+      "Rights have no connection to duties",
+      "Duties abolish rights",
+      "Only duties matter"
+    ],
+    "correct_index": 0,
+    "solution": "Rights carry corresponding responsibilities — respecting one's own rights means respecting the rights of others too.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Freedom of Religion means the state:",
+    "options": [
+      "Cannot force any religion on citizens and treats all religions equally",
+      "Promotes one religion",
+      "Bans all religion",
+      "Is run by priests"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Freedom of Religion, in a secular state, means the state cannot impose any religion and treats all faiths equally.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scope of rights in India has:",
+    "options": [
+      "Expanded over time (e.g. right to education, information)",
+      "Remained fixed forever",
+      "Been reduced to nothing",
+      "Never changed"
+    ],
+    "correct_index": 0,
+    "solution": "The scope of rights has expanded over time, with new rights like the right to education and the right to information being recognised.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Information allows citizens to:",
+    "options": [
+      "Obtain information about the working of the government",
+      "Hide from the government",
+      "Avoid taxes",
+      "Break the law"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Information empowers citizens to seek information about government functioning, promoting transparency and accountability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A society without rights would likely be one where:",
+    "options": [
+      "The powerful can oppress others without limit",
+      "Everyone is equal",
+      "The government is accountable",
+      "People are free"
+    ],
+    "correct_index": 0,
+    "solution": "Without rights, the powerful could oppress others without limit, and citizens would have no protection or dignity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Fundamental Rights place limits on the:",
+    "options": [
+      "Powers of the government",
+      "Rights of citizens",
+      "Freedom of citizens",
+      "Working of courts"
+    ],
+    "correct_index": 0,
+    "solution": "Fundamental Rights place limits on the government's power, preventing it from acting against citizens' basic rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The right to move freely and reside in any part of the country is part of the:",
+    "options": [
+      "Right to Freedom",
+      "Right to Equality",
+      "Right against Exploitation",
+      "Cultural Rights"
+    ],
+    "correct_index": 0,
+    "solution": "The freedom to move freely throughout India and to reside anywhere is part of the Right to Freedom.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is NOT a Fundamental Right in the Constitution today?",
+    "options": [
+      "Right to Property",
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Constitutional Remedies"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Property is no longer a Fundamental Right (removed by the 44th Amendment); it is now an ordinary legal right.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rights are described as 'fundamental' because they are:",
+    "options": [
+      "Basic and essential to a dignified human life and protected by the Constitution",
+      "Optional and minor",
+      "Temporary",
+      "Only for officials"
+    ],
+    "correct_index": 0,
+    "solution": "They are 'fundamental' because they are basic to a dignified human life and are specially protected by the Constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Supreme Court and High Courts protect Fundamental Rights by:",
+    "options": [
+      "Issuing writs and striking down laws that violate them",
+      "Making new laws",
+      "Conducting elections",
+      "Collecting taxes"
+    ],
+    "correct_index": 0,
+    "solution": "The courts protect Fundamental Rights by issuing writs and by striking down laws or actions that violate them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rights ensure that citizens are treated as:",
+    "options": [
+      "Equal and free members of society",
+      "Subjects of the ruler",
+      "Inferior to officials",
+      "Without any claims"
+    ],
+    "correct_index": 0,
+    "solution": "Rights ensure that all citizens are treated as free and equal members of society.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rights of citizens are best protected when:",
+    "options": [
+      "There is an independent judiciary and a rights-respecting government",
+      "The government has unlimited power",
+      "There are no courts",
+      "Rights are ignored"
+    ],
+    "correct_index": 0,
+    "solution": "Citizens' rights are best protected by an independent judiciary and a government that respects and upholds those rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The example of countries denying rights to certain groups shows that:",
+    "options": [
+      "Rights must be constitutionally guaranteed and protected to be secure",
+      "Rights are unnecessary",
+      "Only some people deserve rights",
+      "Rights cannot be protected"
+    ],
+    "correct_index": 0,
+    "solution": "Such examples show that rights are secure only when they are constitutionally guaranteed and protected for all.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Fundamental Rights apply to:",
+    "options": [
+      "All citizens (and some to all persons)",
+      "Only the rich",
+      "Only officials",
+      "Only foreigners"
+    ],
+    "correct_index": 0,
+    "solution": "The Fundamental Rights apply to all citizens; some (like equality before law) apply to all persons in India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key feature of rights in a democracy is that they:",
+    "options": [
+      "Are guaranteed to all and can be defended through the legal system",
+      "Depend on the ruler's mood",
+      "Are only for the majority",
+      "Cannot be enforced"
+    ],
+    "correct_index": 0,
+    "solution": "In a democracy, rights are guaranteed to all citizens and can be defended through an independent legal system.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The right to equality before the law means:",
+    "options": [
+      "The law applies equally to everyone, including officials",
+      "The rich are above the law",
+      "Officials cannot be tried",
+      "Only the poor are punished"
+    ],
+    "correct_index": 0,
+    "solution": "Equality before the law means the law treats everyone equally, and no one, however powerful, is above it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Freedom of the press is protected as part of the freedom of:",
+    "options": [
+      "Speech and expression",
+      "Religion",
+      "Movement",
+      "Assembly"
+    ],
+    "correct_index": 0,
+    "solution": "Freedom of the press is derived from the freedom of speech and expression under the Right to Freedom.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following statements about Fundamental Rights is correct?",
+    "options": [
+      "They can be enforced by the courts if violated",
+      "They are only moral ideals",
+      "They cannot be defended",
+      "They apply only to the government"
+    ],
+    "correct_index": 0,
+    "solution": "Fundamental Rights are legally enforceable — the courts can protect them if they are violated.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rights of citizens act as a check on:",
+    "options": [
+      "The arbitrary use of power by the government",
+      "The freedom of citizens",
+      "The working of the courts",
+      "Elections"
+    ],
+    "correct_index": 0,
+    "solution": "Rights act as a check, preventing the government from using its power arbitrarily against citizens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an example of the expansion of rights in India?",
+    "options": [
+      "The recognition of the right to education and the right to information",
+      "The removal of all rights",
+      "The end of the judiciary",
+      "The banning of elections"
+    ],
+    "correct_index": 0,
+    "solution": "The recognition of the right to education (Article 21A) and the right to information are examples of the expansion of rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The right to assemble peacefully is protected provided the assembly is:",
+    "options": [
+      "Peaceful and without arms",
+      "Violent",
+      "Armed",
+      "Aimed at breaking the law"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Freedom allows peaceful assembly without arms; violent or armed assembly is not protected.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rights are meaningful only if they are:",
+    "options": [
+      "Enforceable and protected by an independent authority",
+      "Written but ignored",
+      "Kept secret",
+      "Applied selectively"
+    ],
+    "correct_index": 0,
+    "solution": "Rights are meaningful only when they are enforceable and protected by an independent authority like the judiciary.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The protection of rights is a mark of a:",
+    "options": [
+      "Healthy, functioning democracy",
+      "Dictatorship",
+      "Failed state",
+      "Society without law"
+    ],
+    "correct_index": 0,
+    "solution": "The guarantee and protection of rights are marks of a healthy, functioning democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Constitution allows reasonable restrictions on rights so that:",
+    "options": [
+      "One person's rights do not harm others or public order",
+      "The government can do anything",
+      "Rights become meaningless",
+      "Only the rich have rights"
+    ],
+    "correct_index": 0,
+    "solution": "Reasonable restrictions ensure that the exercise of one person's rights does not harm others or disturb public order.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The writ issued by a court to command a public authority to perform its legal duty is called:",
+    "options": [
+      "Mandamus",
+      "Habeas corpus",
+      "Quo warranto",
+      "Certiorari"
+    ],
+    "correct_index": 0,
+    "solution": "The writ of 'mandamus' (meaning 'we command') orders a public official or body to perform a duty it has failed to carry out.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Fundamental Rights are contained in which Part of the Indian Constitution?",
+    "options": [
+      "Part III",
+      "Part IV",
+      "Part I",
+      "Part V"
+    ],
+    "correct_index": 0,
+    "solution": "The Fundamental Rights are enshrined in Part III (Articles 12 to 35) of the Constitution and are enforceable by the courts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The number of Fundamental Rights currently guaranteed by the Indian Constitution is:",
+    "options": [
+      "Six",
+      "Seven",
+      "Five",
+      "Ten"
+    ],
+    "correct_index": 0,
+    "solution": "The Constitution originally provided seven Fundamental Rights; after the Right to Property was removed, six remain: Equality, Freedom, against Exploitation, Freedom of Religion, Cultural and Educational Rights, and Constitutional Remedies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Dr B.R. Ambedkar called which right the 'heart and soul' of the Constitution?",
+    "options": [
+      "Right to Constitutional Remedies",
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Property"
+    ],
+    "correct_index": 0,
+    "solution": "Dr Ambedkar described the Right to Constitutional Remedies (Article 32) as the 'heart and soul' of the Constitution because it makes the other rights enforceable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right that allows a citizen to move the courts directly if their Fundamental Rights are violated is the:",
+    "options": [
+      "Right to Constitutional Remedies",
+      "Right to Equality",
+      "Right against Exploitation",
+      "Cultural and Educational Rights"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Constitutional Remedies empowers citizens to approach the Supreme Court or High Courts to secure the enforcement of their Fundamental Rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Equality includes the abolition of:",
+    "options": [
+      "Untouchability and titles",
+      "Private property",
+      "Elections",
+      "Free speech"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Equality provides equality before the law, prohibits discrimination, guarantees equality of opportunity, and abolishes untouchability and titles.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The abolition of untouchability is guaranteed under which Fundamental Right?",
+    "options": [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right against Exploitation",
+      "Right to Freedom of Religion"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Equality abolishes untouchability in any form, making its practice a punishable offence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The employment of children below the age of 14 in factories and hazardous jobs is prohibited under the:",
+    "options": [
+      "Right against Exploitation",
+      "Right to Equality",
+      "Right to Freedom of Religion",
+      "Cultural and Educational Rights"
+    ],
+    "correct_index": 0,
+    "solution": "The Right against Exploitation bans the employment of children under 14 years in factories, mines or other hazardous occupations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Cultural and Educational Rights are meant primarily to protect the interests of:",
+    "options": [
+      "Minorities",
+      "The majority community",
+      "Government officials",
+      "Foreigners"
+    ],
+    "correct_index": 0,
+    "solution": "Cultural and Educational Rights allow minorities to conserve their language, script and culture and to establish and administer their own educational institutions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The orders issued by the courts to protect Fundamental Rights are called:",
+    "options": [
+      "Writs",
+      "Ordinances",
+      "Bills",
+      "Amendments"
+    ],
+    "correct_index": 0,
+    "solution": "To enforce Fundamental Rights, the Supreme Court and High Courts can issue writs such as habeas corpus, mandamus, prohibition, quo warranto and certiorari.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The example of prisoners at Guantanamo Bay, held without trial, is used in the chapter to show that:",
+    "options": [
+      "Denial of rights and a fair trial can happen even outside a country's own borders",
+      "Rights are unimportant",
+      "The USA has no laws",
+      "Prisoners have no needs"
+    ],
+    "correct_index": 0,
+    "solution": "The Guantanamo Bay example illustrates a situation where people were detained by the US military without being told the charges, denied lawyers and a fair trial — a violation of basic rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chapter cites Saudi Arabia as an example of denial of rights because there:",
+    "options": [
+      "Citizens cannot form political parties and there is no freedom of religion or press",
+      "Everyone has full rights",
+      "Elections are free",
+      "Women lead the government"
+    ],
+    "correct_index": 0,
+    "solution": "In Saudi Arabia the king rules unelected, citizens cannot form political parties or organisations, there is no freedom of religion, and the press is not free — showing the absence of democratic rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Kosovo example in the chapter, involving ethnic massacres, is associated with the ruler:",
+    "options": [
+      "Slobodan Milosevic",
+      "Nelson Mandela",
+      "Robert Mugabe",
+      "Pervez Musharraf"
+    ],
+    "correct_index": 0,
+    "solution": "In Kosovo, under the Serb leader Slobodan Milosevic, the ethnic Albanian majority was persecuted, showing what happens when the rights of a group are not protected.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In the Kosovo example, the group whose rights were violently suppressed was the:",
+    "options": [
+      "Ethnic Albanians",
+      "Serbs",
+      "Turks",
+      "Greeks"
+    ],
+    "correct_index": 0,
+    "solution": "Kosovo, a province of Serbia, had an overwhelmingly ethnic Albanian population; under Milosevic's Serb nationalist government, Albanians were massacred, highlighting the danger of a state that denies rights to a minority.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The National Human Rights Commission (NHRC) is usually headed by:",
+    "options": [
+      "A retired Chief Justice of India",
+      "The Prime Minister",
+      "The President",
+      "The Chief Election Commissioner"
+    ],
+    "correct_index": 0,
+    "solution": "The NHRC is a body of eminent persons, usually headed by a former Chief Justice of the Supreme Court; it investigates human rights violations but can only make recommendations.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Right to Education, making elementary education a Fundamental Right, was added by which amendment?",
+    "options": [
+      "86th Amendment (2002)",
+      "44th Amendment",
+      "42nd Amendment",
+      "61st Amendment"
+    ],
+    "correct_index": 0,
+    "solution": "The 86th Constitutional Amendment (2002) inserted Article 21A, making free and compulsory education for children aged 6 to 14 a Fundamental Right.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Right to Education (Article 21A) guarantees free and compulsory education to children of the age group:",
+    "options": [
+      "6 to 14 years",
+      "3 to 10 years",
+      "5 to 18 years",
+      "6 to 18 years"
+    ],
+    "correct_index": 0,
+    "solution": "Article 21A provides for free and compulsory education for all children between the ages of 6 and 14 years.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Information Act, which allows citizens to obtain information from government offices, was passed in:",
+    "options": [
+      "2005",
+      "1993",
+      "2002",
+      "2010"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Information (RTI) Act was enacted in 2005; it empowers citizens to seek information from public authorities, promoting transparency and accountability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Freedom under Article 19 includes all of the following EXCEPT:",
+    "options": [
+      "Freedom to bear arms",
+      "Freedom of speech and expression",
+      "Freedom to assemble peacefully",
+      "Freedom to form associations"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Freedom guarantees freedom of speech and expression, assembly, association, movement, residence, and profession — but not a freedom to bear arms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Freedom of the press in India is protected as a part of the:",
+    "options": [
+      "Freedom of speech and expression",
+      "Right to Equality",
+      "Right against Exploitation",
+      "Right to Constitutional Remedies"
+    ],
+    "correct_index": 0,
+    "solution": "Freedom of the press is not mentioned separately but is understood to be a part of the freedom of speech and expression guaranteed under the Right to Freedom.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Reasonable restrictions can be placed on the freedom of speech and expression in the interest of:",
+    "options": [
+      "Public order, security of the state and decency",
+      "The ruling party's image",
+      "Preventing all criticism",
+      "Silencing minorities"
+    ],
+    "correct_index": 0,
+    "solution": "Freedom of expression is not absolute; reasonable restrictions may be imposed in the interests of the security of the state, public order, decency, morality, and the sovereignty and integrity of India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a right of an accused person guaranteed by the Constitution?",
+    "options": [
+      "Protection against being punished for the same offence twice and against self-incrimination",
+      "The right to escape trial",
+      "The right to bribe officials",
+      "The right to be tried in secret always"
+    ],
+    "correct_index": 0,
+    "solution": "Article 20 gives an accused protection against ex-post-facto laws, double jeopardy (punishment for the same offence twice) and self-incrimination, ensuring a fair legal process.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Article 21 of the Constitution guarantees the:",
+    "options": [
+      "Protection of life and personal liberty",
+      "Right to property",
+      "Right to vote",
+      "Right to hold office"
+    ],
+    "correct_index": 0,
+    "solution": "Article 21 provides that no person shall be deprived of his life or personal liberty except according to the procedure established by law; it is a cornerstone of individual freedom.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Right to Freedom of Religion means that the state:",
+    "options": [
+      "Treats all religions equally and has no religion of its own",
+      "Promotes one official religion",
+      "Bans all religions",
+      "Forces citizens to be non-religious"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Freedom of Religion allows every person freedom of conscience and the right to profess, practise and propagate any religion, while the secular state treats all religions equally.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fundamental Rights are 'enforceable', which means:",
+    "options": [
+      "A citizen can go to court if the government or anyone violates them",
+      "They are only guidelines",
+      "They cannot be protected",
+      "They apply only to the government"
+    ],
+    "correct_index": 0,
+    "solution": "Fundamental Rights are justiciable: if they are violated, a citizen can approach the courts for their enforcement, unlike the Directive Principles which are not enforceable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The Right to Constitutional Remedies is called the heart and soul of the Constitution. Reason (R): It allows citizens to approach the courts to enforce all other Fundamental Rights.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Ambedkar called Article 32 the heart and soul of the Constitution precisely because it makes the other rights meaningful by allowing citizens to seek their enforcement in court — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): The Right to Property is no longer a Fundamental Right. Reason (R): It was removed from Part III by the 44th Amendment in 1978.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "The 44th Amendment of 1978 removed the Right to Property from the Fundamental Rights and made it a constitutional/legal right — R correctly explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the Fundamental Right with its content: (i) Right to Equality (ii) Right against Exploitation (iii) Cultural and Educational Rights — (a) protection of minorities' language and institutions (b) equality before law, abolition of untouchability (c) ban on forced and child labour:",
+    "options": [
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-a, (iii)-c"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Equality covers equality before law and abolition of untouchability; the Right against Exploitation bans forced and child labour; Cultural and Educational Rights protect minorities' languages and institutions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rights place limits on the:",
+    "options": [
+      "Power of the government and of other individuals",
+      "Freedom of the courts",
+      "Power of citizens only",
+      "Working of elections"
+    ],
+    "correct_index": 0,
+    "solution": "Rights act as constraints on the misuse of power; they protect individuals from the excesses of the government and from being harmed by other people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rights protect the minority from the:",
+    "options": [
+      "Oppression of the majority",
+      "Government's help",
+      "Rule of law",
+      "Independent judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "A crucial function of rights is to protect minorities so that a majority cannot use its numbers to trample upon the rights and interests of smaller groups.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The freedom to move freely throughout the territory of India and to reside in any part of the country is part of the:",
+    "options": [
+      "Right to Freedom",
+      "Right to Equality",
+      "Right against Exploitation",
+      "Cultural and Educational Rights"
+    ],
+    "correct_index": 0,
+    "solution": "The Right to Freedom includes the freedom to move freely throughout the country and to reside and settle in any part of India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The equality before the law guaranteed by the Constitution means:",
+    "options": [
+      "The law applies equally to all persons, irrespective of status",
+      "The rich are above the law",
+      "Officials are exempt from law",
+      "Only citizens follow the law"
+    ],
+    "correct_index": 0,
+    "solution": "'Equality before the law' means that all persons are equal in the eyes of the law and no one, however powerful, is above the law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Freedom of speech can be exercised through all of the following EXCEPT:",
+    "options": [
+      "Inciting people to violence",
+      "Writing articles",
+      "Making speeches",
+      "Publishing books"
+    ],
+    "correct_index": 0,
+    "solution": "Freedom of speech and expression allows one to voice opinions freely, but not to incite violence or hatred; reasonable restrictions apply to protect public order.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fundamental Duties, added to the Constitution, are found in:",
+    "options": [
+      "Part IV-A (Article 51A)",
+      "Part III",
+      "Part II",
+      "Part V"
+    ],
+    "correct_index": 0,
+    "solution": "Fundamental Duties were added by the 42nd Amendment (1976) in Part IV-A (Article 51A), listing the duties of citizens; they complement the Fundamental Rights.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The relationship between rights and duties is that:",
+    "options": [
+      "Every right carries a corresponding duty to respect others' rights",
+      "Rights and duties are unrelated",
+      "Duties cancel out rights",
+      "Only the government has duties"
+    ],
+    "correct_index": 0,
+    "solution": "Rights and duties are two sides of the same coin: enjoying one's rights implies the duty to respect the same rights of others and to act responsibly as a citizen.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Fundamental Rights apply against actions of:",
+    "options": [
+      "The state, and in some cases private individuals too",
+      "Only foreign governments",
+      "Only other citizens",
+      "No one"
+    ],
+    "correct_index": 0,
+    "solution": "Fundamental Rights are primarily protections against the state, though rights such as the abolition of untouchability and the ban on human trafficking also operate against private individuals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The protection of rights is regarded as a mark of a:",
+    "options": [
+      "Genuine democracy",
+      "Dictatorship",
+      "Monarchy",
+      "Military rule"
+    ],
+    "correct_index": 0,
+    "solution": "The existence and effective protection of rights is a defining feature of a genuine democracy; without rights, a democracy cannot survive.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The writ of 'quo warranto' is issued to:",
+    "options": [
+      "Question the legal authority of a person holding a public office",
+      "Produce a detained person",
+      "Transfer a case to a higher court",
+      "Ban a publication"
+    ],
+    "correct_index": 0,
+    "solution": "The writ of 'quo warranto' is issued to enquire into the legality of a person's claim to a public office, and to prevent illegal occupation of such an office.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall message of 'Democratic Rights' is that:",
+    "options": [
+      "Rights are essential to democracy and their scope keeps expanding to protect citizens",
+      "Rights are unnecessary",
+      "Only the government needs rights",
+      "Rights weaken the nation"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter concludes that Fundamental Rights are the foundation of Indian democracy, guaranteeing dignity and protection to citizens, and that the scope of rights continues to grow.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall theme of 'Democratic Rights' is that:",
+    "options": [
+      "Rights are essential to democracy, protecting citizens' freedom, equality and dignity",
+      "Rights are unnecessary",
+      "Only the government has rights",
+      "Rights harm society"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains why rights are essential to democracy, how they are guaranteed by the Constitution, and how they protect citizens' freedom, equality and dignity.",
+    "difficulty": "easy"
+  }
 ]
