@@ -1,52 +1,1166 @@
 [
-  { "stem": "A political party is a group of people who come together to:", "options": ["Run businesses", "Contest elections and hold power in the government", "Provide entertainment", "Manage religious affairs"], "correct_index": 1, "solution": "A political party is a group of people who come together to contest elections and hold power in the government.", "difficulty": "easy" },
-  { "stem": "A political party is a group of people who agree on some policies and programmes for the society with a view to:", "options": ["Making money", "Promoting the collective good", "Winning cricket matches", "Spreading one religion"], "correct_index": 1, "solution": "Parties agree on some policies and programmes for the society with a view to promoting the collective good; since there can be different views on what is good, parties try to persuade people why their policies are better.", "difficulty": "medium" },
-  { "stem": "The three components of a political party are:", "options": ["The leaders, the active members and the followers", "The rich, the poor and the middle class", "The centre, states and local bodies", "Men, women and children"], "correct_index": 0, "solution": "A political party has three components: the leaders, the active members and the followers.", "difficulty": "medium" },
-  { "stem": "A party is known by which of the following?", "options": ["Its flag only", "Which part of society it stands for, the policies it supports and the interests it upholds", "The wealth of its leaders", "The size of its offices"], "correct_index": 1, "solution": "A party is known by which part of society it stands for, the policies it supports, and the interests it upholds.", "difficulty": "medium" },
-  { "stem": "Which of the following is NOT one of the functions parties perform in a democracy?", "options": ["Parties contest elections", "Parties put forward different policies and programmes", "Parties directly run the courts and deliver judgments", "Parties form and run governments"], "correct_index": 2, "solution": "Parties contest elections, put forward policies, make laws, form and run governments, play the role of opposition, shape public opinion and provide access to government machinery — but they do not run the courts.", "difficulty": "medium" },
-  { "stem": "Those parties that lose elections play the role of:", "options": ["Government", "Opposition — voicing different views and criticising the government for its failures", "Judiciary", "Election Commission"], "correct_index": 1, "solution": "Parties that lose elections play the role of opposition to the parties in power, by voicing different views and criticising the government for its failures or wrong policies.", "difficulty": "medium" },
-  { "stem": "Parties shape public opinion by:", "options": ["Raising and highlighting issues, and having pressure groups and movements linked to them", "Running businesses", "Controlling the army", "Printing currency"], "correct_index": 0, "solution": "Parties shape public opinion; they raise and highlight issues. Parties have lakhs of members and activists spread all over the country, and many of the pressure groups are the extensions of political parties.", "difficulty": "medium" },
-  { "stem": "Parties provide people access to government machinery and welfare schemes by:", "options": ["Ignoring the local leader", "Being a link between ordinary citizens and government machinery, which people find easier to approach", "Charging fees", "Running private companies"], "correct_index": 1, "solution": "Parties provide people access to government machinery and welfare schemes implemented by governments; for an ordinary citizen it is easy to approach a local party leader than a government officer.", "difficulty": "medium" },
-  { "stem": "Why do we need political parties? The absence of parties would mean:", "options": ["Better governance", "Every candidate in elections would be independent, no promises of major policy change, no one responsible for how the country is run", "More stability", "Direct democracy for all"], "correct_index": 1, "solution": "If there were no parties, every candidate would be independent; no one could make promises about major policy changes; the government would be formed but its utility would remain uncertain; and no one would be responsible for how the country is run.", "difficulty": "medium" },
-  { "stem": "Political parties are a necessary condition for a democracy because they:", "options": ["Reduce voter turnout", "Emerge as societies become large and complex, needing agencies to gather diverse views and present them to the government", "Prevent elections", "Are required by foreign powers"], "correct_index": 1, "solution": "As societies became large and complex, they needed some agency to gather different views on various issues and present them to the government; parties fill this need, making them a necessary condition of representative democracy.", "difficulty": "medium" },
-  { "stem": "A system in which only one party is allowed to control and run the government is called a:", "options": ["Two-party system", "One-party system", "Multi-party system", "Coalition system"], "correct_index": 1, "solution": "In some countries only one party is allowed to control and run the government — this is a one-party system, as in China; it is not a good option because it does not allow healthy competition.", "difficulty": "medium" },
-  { "stem": "The one-party system is not considered a good democratic option because:", "options": ["It has too many parties", "It does not allow any meaningful competition or a democratic choice to citizens", "It holds too many elections", "It gives too much freedom"], "correct_index": 1, "solution": "The one-party system is not a good option because this is not a democratic option — any democratic system must allow at least two parties to compete in elections and provide a fair chance for the competing parties to come to power.", "difficulty": "medium" },
-  { "stem": "A system in which power usually changes between two main parties is called a:", "options": ["One-party system", "Two-party system", "Multi-party system", "No-party system"], "correct_index": 1, "solution": "In a two-party system, power usually changes between two main parties; several other parties may exist and contest but only the two main parties have a serious chance of winning majority. The USA and the UK are examples.", "difficulty": "medium" },
-  { "stem": "Examples of countries with a two-party system are:", "options": ["India and China", "The United States of America and the United Kingdom", "France and Germany", "Sri Lanka and Nepal"], "correct_index": 1, "solution": "The United States of America and the United Kingdom are examples of two-party systems.", "difficulty": "medium" },
-  { "stem": "A system in which several parties compete for power, and more than two parties have a reasonable chance of coming to power, is called a:", "options": ["One-party system", "Two-party system", "Multi-party system", "Bi-party system"], "correct_index": 2, "solution": "In a multi-party system, several parties compete for power and more than two parties have a reasonable chance of coming to power either on their own strength or in alliance with others; India has a multi-party system.", "difficulty": "medium" },
-  { "stem": "When several parties in a multi-party system come together to contest elections and win power, it is called a(n):", "options": ["Merger", "Alliance or front (coalition)", "Split", "Defection"], "correct_index": 1, "solution": "When several parties in a multi-party system join hands for the purpose of contesting elections and winning power, it is called an alliance or a front — for example, India had the NDA, UPA and the Left Front.", "difficulty": "medium" },
-  { "stem": "The multi-party system often appears very messy and leads to political instability, but it allows:", "options": ["Only one voice", "A variety of interests and opinions to enjoy political representation", "No representation", "Foreign rule"], "correct_index": 1, "solution": "The multi-party system often leads to political instability; at the same time it allows a wide variety of interests and opinions to enjoy political representation.", "difficulty": "medium" },
-  { "stem": "According to the chapter, why did India adopt a multi-party system?", "options": ["It was imposed by Britain", "The social and geographical diversity of India is not easily absorbed by two or even three parties", "It was cheaper", "The Constitution required it"], "correct_index": 1, "solution": "India evolved a multi-party system because the social and geographical diversity in such a large country is not easily absorbed by two or even three parties; no system is ideal for all countries and situations.", "difficulty": "medium" },
-  { "stem": "According to the Constitution and law, a party that secures at least six per cent of the total votes in an election to the Legislative Assembly of a State and wins at least two seats is recognised as a:", "options": ["National party", "State party", "Registered unrecognised party", "Regional front"], "correct_index": 1, "solution": "A party that secures at least six per cent of the total votes in an election to the Legislative Assembly of a State and wins at least two seats is recognised as a State party.", "difficulty": "hard" },
-  { "stem": "A party that secures at least six per cent of the total votes in Lok Sabha elections or Assembly elections in four States and wins at least four seats in the Lok Sabha is recognised as a:", "options": ["State party", "National party", "Local party", "Independent group"], "correct_index": 1, "solution": "A party that secures at least six per cent of total votes in Lok Sabha elections or Assembly elections in four States, and wins at least four seats in the Lok Sabha, is recognised as a national party.", "difficulty": "hard" },
-  { "stem": "The Election Commission treats recognised parties in a special manner by giving them a unique:", "options": ["Amount of money", "Symbol, and access to free election broadcasts on state television and radio", "Number of candidates", "Set of laws"], "correct_index": 1, "solution": "The Election Commission registers political parties and gives them a unique symbol; only officially recognised parties are allotted these symbols and enjoy privileges like free time on state TV and radio during elections.", "difficulty": "medium" },
-  { "stem": "The Indian National Congress (INC) is one of the oldest parties in the world, founded in:", "options": ["1857", "1885", "1905", "1947"], "correct_index": 1, "solution": "The Indian National Congress, popularly known as the Congress Party, is one of the oldest and most influential parties, founded in 1885; it played a dominant role in Indian politics after Independence.", "difficulty": "medium" },
-  { "stem": "The Bharatiya Janata Party (BJP) was founded in 1980 by reviving the erstwhile:", "options": ["Swatantra Party", "Bharatiya Jana Sangh", "Praja Socialist Party", "Communist Party of India"], "correct_index": 1, "solution": "The Bharatiya Janata Party (BJP) was founded in 1980 by reviving the erstwhile Bharatiya Jana Sangh, established in 1951 by Syama Prasad Mukherjee.", "difficulty": "hard" },
-  { "stem": "Which of the following is a national party that draws inspiration from the ideas of Mahatma Gandhi and B.R. Ambedkar and stands for the interests of Dalits (Bahujan Samaj)?", "options": ["BJP", "Bahujan Samaj Party (BSP)", "CPI(M)", "NCP"], "correct_index": 1, "solution": "The Bahujan Samaj Party (BSP), formed in 1984 under the leadership of Kanshi Ram, seeks to represent and secure power for the bahujan samaj — the Dalits, Adivasis, OBCs and religious minorities — drawing inspiration from Sahu Maharaj, Mahatma Phule, Periyar Ramaswami Naicker and Ambedkar.", "difficulty": "hard" },
-  { "stem": "The Communist Party of India (Marxist) — CPI(M) — believes in:", "options": ["Free market capitalism", "Marxism-Leninism, and supports socialism, secularism and democracy while opposing imperialism and communalism", "Monarchy", "One-party rule only"], "correct_index": 1, "solution": "CPI(M) believes in Marxism-Leninism; it supports socialism, secularism and democracy, and opposes imperialism and communalism. It has been strong in West Bengal, Kerala and Tripura.", "difficulty": "medium" },
-  { "stem": "Parties that are present in only some states are called:", "options": ["National parties", "State parties or regional parties", "International parties", "Global parties"], "correct_index": 1, "solution": "Other than national parties, most of the major parties of the country are classified as State parties (commonly referred to as regional parties), though some like the DMK or the Biju Janata Dal are conscious of their national role.", "difficulty": "medium" },
-  { "stem": "Over the last three decades, the number and strength of regional parties in India has:", "options": ["Declined", "Expanded, making the Parliament of India politically more and more diverse", "Stayed the same", "Disappeared"], "correct_index": 1, "solution": "Over the last three decades, the number and strength of regional parties has expanded, making the Parliament of India politically more and more diverse; no single national party has been able to secure a clear majority in the Lok Sabha on its own for a long period.", "difficulty": "medium" },
-  { "stem": "The rise of regional parties has led to the era of:", "options": ["One-party dominance", "Coalition governments at the Centre", "Military rule", "Presidential rule"], "correct_index": 1, "solution": "The growing strength of regional parties has led to a genuine federal distribution of power and to the formation of coalition governments at the Centre.", "difficulty": "medium" },
-  { "stem": "The first challenge faced by political parties is the:", "options": ["Lack of internal democracy within parties", "Too many elections", "Excessive transparency", "Too few candidates"], "correct_index": 0, "solution": "The first challenge is the lack of internal democracy within parties — power tends to be concentrated in the hands of one or a few leaders at the top; parties do not keep membership registers, hold organisational meetings or conduct internal elections regularly.", "difficulty": "medium" },
-  { "stem": "The second challenge that political parties face is the:", "options": ["Lack of money", "Dynastic succession — top positions being controlled by members of one family, which is unfair to others and bad for democracy", "Too many members", "Excessive competition"], "correct_index": 1, "solution": "The second challenge is that of dynastic succession — since most parties do not practise open and transparent procedures, those close to the leaders or their families get preference, an unfair practice bad for democracy.", "difficulty": "medium" },
-  { "stem": "The third challenge to parties, especially during elections, is the growing role of:", "options": ["Ordinary members", "Money and muscle power, with parties nominating those who can raise money or win by any means", "Youth", "Women"], "correct_index": 1, "solution": "The third challenge is the growing role of money and muscle power in parties, especially during elections; parties tend to nominate those candidates who have or can raise lots of money, and sometimes support criminals who can win elections.", "difficulty": "medium" },
-  { "stem": "The fourth challenge is that parties often do not offer a meaningful choice to voters because:", "options": ["There are too many parties", "In order to offer a meaningful choice, parties must be significantly different, but the differences among all major parties on fundamental issues have narrowed", "Voters do not vote", "Parties have no policies"], "correct_index": 1, "solution": "The fourth challenge is that very often parties do not seem to offer a meaningful choice to the voters — in order to offer a meaningful choice, parties must be significantly different, yet the ideological differences among major parties have come down in most parts of the world.", "difficulty": "medium" },
-  { "stem": "One suggestion to reform political parties is a law to regulate the internal affairs of parties, which was made through:", "options": ["The anti-defection law", "The Right to Information Act", "The Representation of the People Act", "The Panchayati Raj Act"], "correct_index": 0, "solution": "A law was passed (the anti-defection law) to prevent elected MLAs and MPs from changing parties, requiring a member who defects to lose their seat, in order to check the practice of defection driven by the lure of office or money.", "difficulty": "medium" },
-  { "stem": "The anti-defection law provides that if any MLA or MP changes parties, he or she will:", "options": ["Get a promotion", "Lose the seat in the legislature", "Be fined only", "Become the leader"], "correct_index": 1, "solution": "The Constitution was amended (anti-defection law) to prevent elected members from changing parties; now if any MLA or MP changes parties, he or she will lose the seat in the legislature — this has helped reduce defection but also made members submissive to party leadership.", "difficulty": "medium" },
-  { "stem": "The Supreme Court passed an order to reduce the influence of money and criminals, making it mandatory for every candidate contesting elections to:", "options": ["Pay a large fee", "File an affidavit giving details of their property and criminal cases pending against them", "Take a written exam", "Get a party's permission"], "correct_index": 1, "solution": "Following a Supreme Court order, it is now mandatory for every candidate who contests elections to file an affidavit giving details of his property and criminal cases pending against him, submitted to the Election Commission.", "difficulty": "medium" },
-  { "stem": "The Election Commission passed an order making it necessary for political parties to:", "options": ["Ban all young members", "Hold their organisational elections and file their income tax returns", "Merge with each other", "Stop contesting elections"], "correct_index": 1, "solution": "The Election Commission passed an order making it necessary for political parties to hold their organisational elections and file their income tax returns — though parties do this as a formality.", "difficulty": "medium" },
-  { "stem": "Reservation of one-third seats for women in party organisational positions and legislatures is a suggestion aimed at reforming parties to make them:", "options": ["Weaker", "More democratic and representative of women", "Richer", "Smaller"], "correct_index": 1, "solution": "It has been suggested that a law should be made to have at least one-third tickets given to women candidates; a quota for women in the decision-making bodies of the party would make parties more internally democratic and representative.", "difficulty": "medium" },
-  { "stem": "There should be a state funding of elections, according to one suggestion, meaning:", "options": ["The state should give parties money to meet election expenses (in kind or cash)", "The state should ban elections", "Only the ruling party gets money", "Elections should be privately funded only"], "correct_index": 0, "solution": "One suggestion is that the government should give parties money to support their election expenses; this state funding could be in kind (petrol, paper, telephone) or in cash on the basis of votes secured in the last election.", "difficulty": "medium" },
-  { "stem": "Two ways in which people and civil society can reform political parties are:", "options": ["By ignoring parties entirely", "Through public pressure (petitions, publicity, agitations) and by ordinary citizens joining parties to influence them", "By banning membership", "By reducing voter turnout"], "correct_index": 1, "solution": "People can reform parties by putting pressure through petitions, publicity and agitations, and those who wish to reform parties can join them; the quality of democracy depends on the degree of public participation.", "difficulty": "medium" },
-  { "stem": "The chapter cautions that any legal reforms of parties are likely to be counterproductive if:", "options": ["The laws are too strong", "Laws are made without the involvement and consent of the parties themselves and public opinion is not mobilised", "Parties support them", "Citizens participate"], "correct_index": 1, "solution": "Legal ways of reforming parties are not very successful; carefully devised changes in laws can help discourage wrong tendencies, but ultimately reforms depend on public awareness, media and party involvement.", "difficulty": "medium" },
-  { "stem": "The main criticism against the anti-defection law is that it has:", "options": ["Ended democracy", "Reduced the role of individual members and made them submissive to party leadership, since they cannot express independent views", "Increased defections", "Made parties richer"], "correct_index": 1, "solution": "While the anti-defection law reduced defection, it has also made MPs and MLAs completely dependent on party leadership; they cannot vote or speak against the party line, reducing their independence.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about the Indian National Congress after Independence is correct?", "options": ["It never came to power", "It was a broad-based centrist party that played a dominant role in Indian politics, especially in the decades after Independence", "It was a regional party", "It supported communalism"], "correct_index": 1, "solution": "The Congress played a dominant role in Indian politics at the national and state level after Independence; it is a centrist party (neither the left nor the right) in its ideological orientation and supports secularism and welfare of weaker sections.", "difficulty": "medium" },
-  { "stem": "Which of the following best explains 'partisan'?", "options": ["A neutral observer", "A person who is strongly committed to a party, group or faction, marked by a tendency to take a side and unable to see any good point in the other's position", "A judge", "An independent candidate"], "correct_index": 1, "solution": "A partisan is a person who is strongly committed to a party, group or faction; partisanship is marked by a tendency to take a side and an inability to see any good points in another's position.", "difficulty": "medium" },
-  { "stem": "The term 'ruling party' refers to:", "options": ["Any party in the legislature", "The political party that runs the government", "The opposition party", "A banned party"], "correct_index": 1, "solution": "The ruling party is the political party that runs the government, as distinct from the opposition parties.", "difficulty": "easy" },
-  { "stem": "The recognised parties in India — those given a symbol and other facilities by the Election Commission — are of which two kinds?", "options": ["Legal and illegal", "National parties and State parties", "Big and small", "Rich and poor"], "correct_index": 1, "solution": "Recognised parties are classified as either 'national' parties or 'State' parties, based on the proportion of votes and seats they secure, and are given a reserved symbol.", "difficulty": "medium" },
-  { "stem": "The most serious challenge faced by parties, according to the chapter, requires reforms that make parties more:", "options": ["Secretive and centralised", "Internally democratic, transparent and accountable", "Dependent on money", "Family-controlled"], "correct_index": 1, "solution": "The challenges of lack of internal democracy, dynastic succession, money and muscle power, and lack of meaningful choice all point to the need for reforms that make parties more internally democratic, transparent and accountable to citizens.", "difficulty": "medium" },
-  { "stem": "Which of the following is TRUE about coalition governments in India?", "options": ["They have never existed", "They have become common at the Centre since no single party has been able to win a clear majority in the Lok Sabha for long periods", "They are unconstitutional", "They occur only in states"], "correct_index": 1, "solution": "Coalition governments have become common at the Centre; the rise of regional parties and the inability of a single national party to secure a clear majority in the Lok Sabha for long periods gave rise to alliances such as the NDA, UPA and the Left Front.", "difficulty": "medium" },
-  { "stem": "Parties are so central to democracy that it is common to hear people say that parties are:", "options": ["Not necessary at all", "The most visible institutions of a democracy, and that they are what is wrong with democracy — they generate disrespect but are indispensable", "Only for the rich", "Foreign inventions"], "correct_index": 1, "solution": "Political parties are one of the most visible institutions of a democracy; for most ordinary citizens, democracy is equal to political parties. Yet parties have become identified with social and political divisions — they are indispensable but need reform.", "difficulty": "medium" },
-  { "stem": "The rise of coalition politics and regional parties has, on balance, strengthened Indian federalism by:", "options": ["Weakening the states", "Leading to a genuine sharing of power between the Centre and the states and giving regional aspirations political representation", "Centralising all power", "Abolishing states"], "correct_index": 1, "solution": "The greater role of regional parties in coalition governments has led to a more genuine federal sharing of power between the Centre and the States, and has given regional aspirations political representation.", "difficulty": "medium" },
-  { "stem": "The Nationalist Congress Party (NCP) was formed in 1999 following a split in which party?", "options": ["The Bharatiya Janata Party", "The Indian National Congress", "The Communist Party of India", "The Bahujan Samaj Party"], "correct_index": 1, "solution": "The Nationalist Congress Party (NCP) was formed in 1999 following a split in the Congress Party; it espouses democracy, Gandhian secularism, equity, social justice and federalism, and has been a major party in Maharashtra.", "difficulty": "hard" }
+  {
+    "stem": "A political party is a group of people who come together to:",
+    "options": [
+      "Run businesses",
+      "Contest elections and hold power in the government",
+      "Provide entertainment",
+      "Manage religious affairs"
+    ],
+    "correct_index": 1,
+    "solution": "A political party is a group of people who come together to contest elections and hold power in the government.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A political party is a group of people who agree on some policies and programmes for the society with a view to:",
+    "options": [
+      "Making money",
+      "Promoting the collective good",
+      "Winning cricket matches",
+      "Spreading one religion"
+    ],
+    "correct_index": 1,
+    "solution": "Parties agree on some policies and programmes for the society with a view to promoting the collective good; since there can be different views on what is good, parties try to persuade people why their policies are better.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three components of a political party are:",
+    "options": [
+      "The leaders, the active members and the followers",
+      "The rich, the poor and the middle class",
+      "The centre, states and local bodies",
+      "Men, women and children"
+    ],
+    "correct_index": 0,
+    "solution": "A political party has three components: the leaders, the active members and the followers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A party is known by which of the following?",
+    "options": [
+      "Its flag only",
+      "Which part of society it stands for, the policies it supports and the interests it upholds",
+      "The wealth of its leaders",
+      "The size of its offices"
+    ],
+    "correct_index": 1,
+    "solution": "A party is known by which part of society it stands for, the policies it supports, and the interests it upholds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is NOT one of the functions parties perform in a democracy?",
+    "options": [
+      "Parties contest elections",
+      "Parties put forward different policies and programmes",
+      "Parties directly run the courts and deliver judgments",
+      "Parties form and run governments"
+    ],
+    "correct_index": 2,
+    "solution": "Parties contest elections, put forward policies, make laws, form and run governments, play the role of opposition, shape public opinion and provide access to government machinery — but they do not run the courts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Those parties that lose elections play the role of:",
+    "options": [
+      "Government",
+      "Opposition — voicing different views and criticising the government for its failures",
+      "Judiciary",
+      "Election Commission"
+    ],
+    "correct_index": 1,
+    "solution": "Parties that lose elections play the role of opposition to the parties in power, by voicing different views and criticising the government for its failures or wrong policies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Parties shape public opinion by:",
+    "options": [
+      "Raising and highlighting issues, and having pressure groups and movements linked to them",
+      "Running businesses",
+      "Controlling the army",
+      "Printing currency"
+    ],
+    "correct_index": 0,
+    "solution": "Parties shape public opinion; they raise and highlight issues. Parties have lakhs of members and activists spread all over the country, and many of the pressure groups are the extensions of political parties.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Parties provide people access to government machinery and welfare schemes by:",
+    "options": [
+      "Ignoring the local leader",
+      "Being a link between ordinary citizens and government machinery, which people find easier to approach",
+      "Charging fees",
+      "Running private companies"
+    ],
+    "correct_index": 1,
+    "solution": "Parties provide people access to government machinery and welfare schemes implemented by governments; for an ordinary citizen it is easy to approach a local party leader than a government officer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why do we need political parties? The absence of parties would mean:",
+    "options": [
+      "Better governance",
+      "Every candidate in elections would be independent, no promises of major policy change, no one responsible for how the country is run",
+      "More stability",
+      "Direct democracy for all"
+    ],
+    "correct_index": 1,
+    "solution": "If there were no parties, every candidate would be independent; no one could make promises about major policy changes; the government would be formed but its utility would remain uncertain; and no one would be responsible for how the country is run.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Political parties are a necessary condition for a democracy because they:",
+    "options": [
+      "Reduce voter turnout",
+      "Emerge as societies become large and complex, needing agencies to gather diverse views and present them to the government",
+      "Prevent elections",
+      "Are required by foreign powers"
+    ],
+    "correct_index": 1,
+    "solution": "As societies became large and complex, they needed some agency to gather different views on various issues and present them to the government; parties fill this need, making them a necessary condition of representative democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A system in which only one party is allowed to control and run the government is called a:",
+    "options": [
+      "Two-party system",
+      "One-party system",
+      "Multi-party system",
+      "Coalition system"
+    ],
+    "correct_index": 1,
+    "solution": "In some countries only one party is allowed to control and run the government — this is a one-party system, as in China; it is not a good option because it does not allow healthy competition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The one-party system is not considered a good democratic option because:",
+    "options": [
+      "It has too many parties",
+      "It does not allow any meaningful competition or a democratic choice to citizens",
+      "It holds too many elections",
+      "It gives too much freedom"
+    ],
+    "correct_index": 1,
+    "solution": "The one-party system is not a good option because this is not a democratic option — any democratic system must allow at least two parties to compete in elections and provide a fair chance for the competing parties to come to power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A system in which power usually changes between two main parties is called a:",
+    "options": [
+      "One-party system",
+      "Two-party system",
+      "Multi-party system",
+      "No-party system"
+    ],
+    "correct_index": 1,
+    "solution": "In a two-party system, power usually changes between two main parties; several other parties may exist and contest but only the two main parties have a serious chance of winning majority. The USA and the UK are examples.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Examples of countries with a two-party system are:",
+    "options": [
+      "India and China",
+      "The United States of America and the United Kingdom",
+      "France and Germany",
+      "Sri Lanka and Nepal"
+    ],
+    "correct_index": 1,
+    "solution": "The United States of America and the United Kingdom are examples of two-party systems.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A system in which several parties compete for power, and more than two parties have a reasonable chance of coming to power, is called a:",
+    "options": [
+      "One-party system",
+      "Two-party system",
+      "Multi-party system",
+      "Bi-party system"
+    ],
+    "correct_index": 2,
+    "solution": "In a multi-party system, several parties compete for power and more than two parties have a reasonable chance of coming to power either on their own strength or in alliance with others; India has a multi-party system.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When several parties in a multi-party system come together to contest elections and win power, it is called a(n):",
+    "options": [
+      "Merger",
+      "Alliance or front (coalition)",
+      "Split",
+      "Defection"
+    ],
+    "correct_index": 1,
+    "solution": "When several parties in a multi-party system join hands for the purpose of contesting elections and winning power, it is called an alliance or a front — for example, India had the NDA, UPA and the Left Front.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The multi-party system often appears very messy and leads to political instability, but it allows:",
+    "options": [
+      "Only one voice",
+      "A variety of interests and opinions to enjoy political representation",
+      "No representation",
+      "Foreign rule"
+    ],
+    "correct_index": 1,
+    "solution": "The multi-party system often leads to political instability; at the same time it allows a wide variety of interests and opinions to enjoy political representation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "According to the chapter, why did India adopt a multi-party system?",
+    "options": [
+      "It was imposed by Britain",
+      "The social and geographical diversity of India is not easily absorbed by two or even three parties",
+      "It was cheaper",
+      "The Constitution required it"
+    ],
+    "correct_index": 1,
+    "solution": "India evolved a multi-party system because the social and geographical diversity in such a large country is not easily absorbed by two or even three parties; no system is ideal for all countries and situations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "According to the Constitution and law, a party that secures at least six per cent of the total votes in an election to the Legislative Assembly of a State and wins at least two seats is recognised as a:",
+    "options": [
+      "National party",
+      "State party",
+      "Registered unrecognised party",
+      "Regional front"
+    ],
+    "correct_index": 1,
+    "solution": "A party that secures at least six per cent of the total votes in an election to the Legislative Assembly of a State and wins at least two seats is recognised as a State party.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A party that secures at least six per cent of the total votes in Lok Sabha elections or Assembly elections in four States and wins at least four seats in the Lok Sabha is recognised as a:",
+    "options": [
+      "State party",
+      "National party",
+      "Local party",
+      "Independent group"
+    ],
+    "correct_index": 1,
+    "solution": "A party that secures at least six per cent of total votes in Lok Sabha elections or Assembly elections in four States, and wins at least four seats in the Lok Sabha, is recognised as a national party.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Election Commission treats recognised parties in a special manner by giving them a unique:",
+    "options": [
+      "Amount of money",
+      "Symbol, and access to free election broadcasts on state television and radio",
+      "Number of candidates",
+      "Set of laws"
+    ],
+    "correct_index": 1,
+    "solution": "The Election Commission registers political parties and gives them a unique symbol; only officially recognised parties are allotted these symbols and enjoy privileges like free time on state TV and radio during elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Indian National Congress (INC) is one of the oldest parties in the world, founded in:",
+    "options": [
+      "1857",
+      "1885",
+      "1905",
+      "1947"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian National Congress, popularly known as the Congress Party, is one of the oldest and most influential parties, founded in 1885; it played a dominant role in Indian politics after Independence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bharatiya Janata Party (BJP) was founded in 1980 by reviving the erstwhile:",
+    "options": [
+      "Swatantra Party",
+      "Bharatiya Jana Sangh",
+      "Praja Socialist Party",
+      "Communist Party of India"
+    ],
+    "correct_index": 1,
+    "solution": "The Bharatiya Janata Party (BJP) was founded in 1980 by reviving the erstwhile Bharatiya Jana Sangh, established in 1951 by Syama Prasad Mukherjee.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a national party that draws inspiration from the ideas of Mahatma Gandhi and B.R. Ambedkar and stands for the interests of Dalits (Bahujan Samaj)?",
+    "options": [
+      "BJP",
+      "Bahujan Samaj Party (BSP)",
+      "CPI(M)",
+      "NCP"
+    ],
+    "correct_index": 1,
+    "solution": "The Bahujan Samaj Party (BSP), formed in 1984 under the leadership of Kanshi Ram, seeks to represent and secure power for the bahujan samaj — the Dalits, Adivasis, OBCs and religious minorities — drawing inspiration from Sahu Maharaj, Mahatma Phule, Periyar Ramaswami Naicker and Ambedkar.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Communist Party of India (Marxist) — CPI(M) — believes in:",
+    "options": [
+      "Free market capitalism",
+      "Marxism-Leninism, and supports socialism, secularism and democracy while opposing imperialism and communalism",
+      "Monarchy",
+      "One-party rule only"
+    ],
+    "correct_index": 1,
+    "solution": "CPI(M) believes in Marxism-Leninism; it supports socialism, secularism and democracy, and opposes imperialism and communalism. It has been strong in West Bengal, Kerala and Tripura.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Parties that are present in only some states are called:",
+    "options": [
+      "National parties",
+      "State parties or regional parties",
+      "International parties",
+      "Global parties"
+    ],
+    "correct_index": 1,
+    "solution": "Other than national parties, most of the major parties of the country are classified as State parties (commonly referred to as regional parties), though some like the DMK or the Biju Janata Dal are conscious of their national role.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Over the last three decades, the number and strength of regional parties in India has:",
+    "options": [
+      "Declined",
+      "Expanded, making the Parliament of India politically more and more diverse",
+      "Stayed the same",
+      "Disappeared"
+    ],
+    "correct_index": 1,
+    "solution": "Over the last three decades, the number and strength of regional parties has expanded, making the Parliament of India politically more and more diverse; no single national party has been able to secure a clear majority in the Lok Sabha on its own for a long period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rise of regional parties has led to the era of:",
+    "options": [
+      "One-party dominance",
+      "Coalition governments at the Centre",
+      "Military rule",
+      "Presidential rule"
+    ],
+    "correct_index": 1,
+    "solution": "The growing strength of regional parties has led to a genuine federal distribution of power and to the formation of coalition governments at the Centre.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first challenge faced by political parties is the:",
+    "options": [
+      "Lack of internal democracy within parties",
+      "Too many elections",
+      "Excessive transparency",
+      "Too few candidates"
+    ],
+    "correct_index": 0,
+    "solution": "The first challenge is the lack of internal democracy within parties — power tends to be concentrated in the hands of one or a few leaders at the top; parties do not keep membership registers, hold organisational meetings or conduct internal elections regularly.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The second challenge that political parties face is the:",
+    "options": [
+      "Lack of money",
+      "Dynastic succession — top positions being controlled by members of one family, which is unfair to others and bad for democracy",
+      "Too many members",
+      "Excessive competition"
+    ],
+    "correct_index": 1,
+    "solution": "The second challenge is that of dynastic succession — since most parties do not practise open and transparent procedures, those close to the leaders or their families get preference, an unfair practice bad for democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The third challenge to parties, especially during elections, is the growing role of:",
+    "options": [
+      "Ordinary members",
+      "Money and muscle power, with parties nominating those who can raise money or win by any means",
+      "Youth",
+      "Women"
+    ],
+    "correct_index": 1,
+    "solution": "The third challenge is the growing role of money and muscle power in parties, especially during elections; parties tend to nominate those candidates who have or can raise lots of money, and sometimes support criminals who can win elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The fourth challenge is that parties often do not offer a meaningful choice to voters because:",
+    "options": [
+      "There are too many parties",
+      "In order to offer a meaningful choice, parties must be significantly different, but the differences among all major parties on fundamental issues have narrowed",
+      "Voters do not vote",
+      "Parties have no policies"
+    ],
+    "correct_index": 1,
+    "solution": "The fourth challenge is that very often parties do not seem to offer a meaningful choice to the voters — in order to offer a meaningful choice, parties must be significantly different, yet the ideological differences among major parties have come down in most parts of the world.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One suggestion to reform political parties is a law to regulate the internal affairs of parties, which was made through:",
+    "options": [
+      "The anti-defection law",
+      "The Right to Information Act",
+      "The Representation of the People Act",
+      "The Panchayati Raj Act"
+    ],
+    "correct_index": 0,
+    "solution": "A law was passed (the anti-defection law) to prevent elected MLAs and MPs from changing parties, requiring a member who defects to lose their seat, in order to check the practice of defection driven by the lure of office or money.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The anti-defection law provides that if any MLA or MP changes parties, he or she will:",
+    "options": [
+      "Get a promotion",
+      "Lose the seat in the legislature",
+      "Be fined only",
+      "Become the leader"
+    ],
+    "correct_index": 1,
+    "solution": "The Constitution was amended (anti-defection law) to prevent elected members from changing parties; now if any MLA or MP changes parties, he or she will lose the seat in the legislature — this has helped reduce defection but also made members submissive to party leadership.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Supreme Court passed an order to reduce the influence of money and criminals, making it mandatory for every candidate contesting elections to:",
+    "options": [
+      "Pay a large fee",
+      "File an affidavit giving details of their property and criminal cases pending against them",
+      "Take a written exam",
+      "Get a party's permission"
+    ],
+    "correct_index": 1,
+    "solution": "Following a Supreme Court order, it is now mandatory for every candidate who contests elections to file an affidavit giving details of his property and criminal cases pending against him, submitted to the Election Commission.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Election Commission passed an order making it necessary for political parties to:",
+    "options": [
+      "Ban all young members",
+      "Hold their organisational elections and file their income tax returns",
+      "Merge with each other",
+      "Stop contesting elections"
+    ],
+    "correct_index": 1,
+    "solution": "The Election Commission passed an order making it necessary for political parties to hold their organisational elections and file their income tax returns — though parties do this as a formality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Reservation of one-third seats for women in party organisational positions and legislatures is a suggestion aimed at reforming parties to make them:",
+    "options": [
+      "Weaker",
+      "More democratic and representative of women",
+      "Richer",
+      "Smaller"
+    ],
+    "correct_index": 1,
+    "solution": "It has been suggested that a law should be made to have at least one-third tickets given to women candidates; a quota for women in the decision-making bodies of the party would make parties more internally democratic and representative.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "There should be a state funding of elections, according to one suggestion, meaning:",
+    "options": [
+      "The state should give parties money to meet election expenses (in kind or cash)",
+      "The state should ban elections",
+      "Only the ruling party gets money",
+      "Elections should be privately funded only"
+    ],
+    "correct_index": 0,
+    "solution": "One suggestion is that the government should give parties money to support their election expenses; this state funding could be in kind (petrol, paper, telephone) or in cash on the basis of votes secured in the last election.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two ways in which people and civil society can reform political parties are:",
+    "options": [
+      "By ignoring parties entirely",
+      "Through public pressure (petitions, publicity, agitations) and by ordinary citizens joining parties to influence them",
+      "By banning membership",
+      "By reducing voter turnout"
+    ],
+    "correct_index": 1,
+    "solution": "People can reform parties by putting pressure through petitions, publicity and agitations, and those who wish to reform parties can join them; the quality of democracy depends on the degree of public participation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chapter cautions that any legal reforms of parties are likely to be counterproductive if:",
+    "options": [
+      "The laws are too strong",
+      "Laws are made without the involvement and consent of the parties themselves and public opinion is not mobilised",
+      "Parties support them",
+      "Citizens participate"
+    ],
+    "correct_index": 1,
+    "solution": "Legal ways of reforming parties are not very successful; carefully devised changes in laws can help discourage wrong tendencies, but ultimately reforms depend on public awareness, media and party involvement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main criticism against the anti-defection law is that it has:",
+    "options": [
+      "Ended democracy",
+      "Reduced the role of individual members and made them submissive to party leadership, since they cannot express independent views",
+      "Increased defections",
+      "Made parties richer"
+    ],
+    "correct_index": 1,
+    "solution": "While the anti-defection law reduced defection, it has also made MPs and MLAs completely dependent on party leadership; they cannot vote or speak against the party line, reducing their independence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about the Indian National Congress after Independence is correct?",
+    "options": [
+      "It never came to power",
+      "It was a broad-based centrist party that played a dominant role in Indian politics, especially in the decades after Independence",
+      "It was a regional party",
+      "It supported communalism"
+    ],
+    "correct_index": 1,
+    "solution": "The Congress played a dominant role in Indian politics at the national and state level after Independence; it is a centrist party (neither the left nor the right) in its ideological orientation and supports secularism and welfare of weaker sections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best explains 'partisan'?",
+    "options": [
+      "A neutral observer",
+      "A person who is strongly committed to a party, group or faction, marked by a tendency to take a side and unable to see any good point in the other's position",
+      "A judge",
+      "An independent candidate"
+    ],
+    "correct_index": 1,
+    "solution": "A partisan is a person who is strongly committed to a party, group or faction; partisanship is marked by a tendency to take a side and an inability to see any good points in another's position.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'ruling party' refers to:",
+    "options": [
+      "Any party in the legislature",
+      "The political party that runs the government",
+      "The opposition party",
+      "A banned party"
+    ],
+    "correct_index": 1,
+    "solution": "The ruling party is the political party that runs the government, as distinct from the opposition parties.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The recognised parties in India — those given a symbol and other facilities by the Election Commission — are of which two kinds?",
+    "options": [
+      "Legal and illegal",
+      "National parties and State parties",
+      "Big and small",
+      "Rich and poor"
+    ],
+    "correct_index": 1,
+    "solution": "Recognised parties are classified as either 'national' parties or 'State' parties, based on the proportion of votes and seats they secure, and are given a reserved symbol.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most serious challenge faced by parties, according to the chapter, requires reforms that make parties more:",
+    "options": [
+      "Secretive and centralised",
+      "Internally democratic, transparent and accountable",
+      "Dependent on money",
+      "Family-controlled"
+    ],
+    "correct_index": 1,
+    "solution": "The challenges of lack of internal democracy, dynastic succession, money and muscle power, and lack of meaningful choice all point to the need for reforms that make parties more internally democratic, transparent and accountable to citizens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is TRUE about coalition governments in India?",
+    "options": [
+      "They have never existed",
+      "They have become common at the Centre since no single party has been able to win a clear majority in the Lok Sabha for long periods",
+      "They are unconstitutional",
+      "They occur only in states"
+    ],
+    "correct_index": 1,
+    "solution": "Coalition governments have become common at the Centre; the rise of regional parties and the inability of a single national party to secure a clear majority in the Lok Sabha for long periods gave rise to alliances such as the NDA, UPA and the Left Front.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Parties are so central to democracy that it is common to hear people say that parties are:",
+    "options": [
+      "Not necessary at all",
+      "The most visible institutions of a democracy, and that they are what is wrong with democracy — they generate disrespect but are indispensable",
+      "Only for the rich",
+      "Foreign inventions"
+    ],
+    "correct_index": 1,
+    "solution": "Political parties are one of the most visible institutions of a democracy; for most ordinary citizens, democracy is equal to political parties. Yet parties have become identified with social and political divisions — they are indispensable but need reform.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rise of coalition politics and regional parties has, on balance, strengthened Indian federalism by:",
+    "options": [
+      "Weakening the states",
+      "Leading to a genuine sharing of power between the Centre and the states and giving regional aspirations political representation",
+      "Centralising all power",
+      "Abolishing states"
+    ],
+    "correct_index": 1,
+    "solution": "The greater role of regional parties in coalition governments has led to a more genuine federal sharing of power between the Centre and the States, and has given regional aspirations political representation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three components of a political party are the leaders, the active members and the:",
+    "options": [
+      "Followers",
+      "Judges",
+      "Bureaucrats",
+      "Voters of other parties"
+    ],
+    "correct_index": 0,
+    "solution": "A political party has three components: the leaders, the active members, and the followers who support the party and its ideology.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A party recognised by the Election Commission that secures at least six per cent of the total votes in an election to the Lok Sabha or Assembly and wins at least two seats is recognised as a:",
+    "options": [
+      "State party",
+      "National party",
+      "Regional pressure group",
+      "Independent"
+    ],
+    "correct_index": 0,
+    "solution": "A party that secures at least six per cent of the total votes in an election to the Legislative Assembly of a State and wins at least two seats is recognised as a State party.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A party that secures at least six per cent of votes in Lok Sabha elections in four states and wins at least four Lok Sabha seats is recognised as a:",
+    "options": [
+      "National party",
+      "State party",
+      "Regional party",
+      "Local party"
+    ],
+    "correct_index": 0,
+    "solution": "A party that secures at least six per cent of the total votes in Lok Sabha elections or Assembly elections in four states and wins at least four seats in the Lok Sabha is recognised as a National party.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Election Commission gives recognised parties a special privilege in the form of:",
+    "options": [
+      "A unique election symbol reserved for the party's candidates",
+      "Free housing",
+      "Cash grants",
+      "Exemption from elections"
+    ],
+    "correct_index": 0,
+    "solution": "Recognised parties are given a unique symbol which only their official candidates can use; they also get facilities such as free time on state media and access to the electoral rolls.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The anti-defection law provides that if an MLA or MP changes parties after being elected, they will:",
+    "options": [
+      "Lose their seat in the legislature",
+      "Become the Prime Minister",
+      "Be fined only",
+      "Keep their seat freely"
+    ],
+    "correct_index": 0,
+    "solution": "The Constitution was amended to provide the anti-defection law: if any MLA or MP changes party (defects), they lose their seat in the legislature, a measure meant to reduce defections and horse-trading.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main criticism of the anti-defection law is that it has:",
+    "options": [
+      "Made legislators unable to express their own views, forcing them to follow party leaders",
+      "Encouraged defections",
+      "Weakened parties",
+      "Reduced elections"
+    ],
+    "correct_index": 0,
+    "solution": "The anti-defection law has helped reduce defection, but a criticism is that it has made MPs and MLAs completely dependent on party leaders, unable to speak or vote against the party even in good conscience.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Supreme Court, to reduce the influence of money and criminals in politics, passed an order making it mandatory for every candidate to:",
+    "options": [
+      "File an affidavit declaring assets and criminal cases",
+      "Pay a large deposit",
+      "Belong to a national party",
+      "Have a university degree"
+    ],
+    "correct_index": 0,
+    "solution": "The Supreme Court passed an order to reduce the influence of money and criminals, making it mandatory for every candidate contesting elections to file an affidavit giving details of their property and criminal cases pending against them.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Election Commission's order requires every political party to:",
+    "options": [
+      "Hold organisational elections and file income tax returns",
+      "Have only one leader",
+      "Pay a fee to contest",
+      "Merge with a national party"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission passed an order making it necessary for political parties to hold their organisational elections and file their income tax returns, to promote internal democracy and financial transparency.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A one-party system is not considered a good democratic option because:",
+    "options": [
+      "It does not allow a fair competition or a genuine choice for voters",
+      "It holds too many elections",
+      "It has too many parties",
+      "It gives too much choice"
+    ],
+    "correct_index": 0,
+    "solution": "In a one-party system only one party is allowed to control and run the government; this is not a democratic option because a democracy must have at least two parties competing and offering voters a real choice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A two-party system is one in which:",
+    "options": [
+      "Power usually changes between two main parties",
+      "Only one party rules",
+      "Several parties share power",
+      "No party exists"
+    ],
+    "correct_index": 0,
+    "solution": "In a two-party system, power usually changes between two main parties, though several other parties may exist and contest; the USA and the UK are examples.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India has adopted which type of party system?",
+    "options": [
+      "Multi-party system",
+      "One-party system",
+      "Two-party system",
+      "No-party system"
+    ],
+    "correct_index": 0,
+    "solution": "India has evolved a multi-party system because of the immense social and geographical diversity of the country, which cannot be easily absorbed by two or even three parties.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When several parties in a multi-party system come together to contest elections and share power, it is called a(n):",
+    "options": [
+      "Alliance or front",
+      "One-party rule",
+      "Defection",
+      "Coalition of voters"
+    ],
+    "correct_index": 0,
+    "solution": "When several parties in a multi-party system join together to contest elections and win power, it is called an alliance or a front; for example, India has had the NDA and the UPA alliances.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Communist Party of India (Marxist) — CPI(M) — believes in the principles of:",
+    "options": [
+      "Marxism-Leninism and socialism",
+      "Free-market capitalism",
+      "Monarchy",
+      "Religious rule"
+    ],
+    "correct_index": 0,
+    "solution": "The CPI(M) believes in Marxism-Leninism, supports socialism, secularism and democracy, and opposes imperialism and communalism; it has strong support in states like Kerala and West Bengal (traditionally).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bharatiya Janata Party (BJP) was founded in 1980 by reviving the earlier:",
+    "options": [
+      "Bharatiya Jana Sangh",
+      "Swaraj Party",
+      "Janata Dal",
+      "Indian National Congress"
+    ],
+    "correct_index": 0,
+    "solution": "The Bharatiya Janata Party was founded in 1980 by reviving the earlier Bharatiya Jana Sangh, formed in 1951; it wants to build a strong and modern India drawing inspiration from ancient culture and nationalism.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Nationalist Congress Party (NCP) was formed in 1999 following a split in the:",
+    "options": [
+      "Indian National Congress",
+      "Bharatiya Janata Party",
+      "Communist Party",
+      "Bahujan Samaj Party"
+    ],
+    "correct_index": 0,
+    "solution": "The Nationalist Congress Party (NCP) was formed in 1999 following a split in the Indian National Congress; it is strong in Maharashtra and espouses democracy, secularism and federalism.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bahujan Samaj Party (BSP), which seeks to represent the bahujan samaj, draws inspiration from the ideas of:",
+    "options": [
+      "Sahu Maharaj, Mahatma Phule, Periyar and B.R. Ambedkar",
+      "Only Mahatma Gandhi",
+      "Karl Marx only",
+      "Jawaharlal Nehru"
+    ],
+    "correct_index": 0,
+    "solution": "The BSP, formed under the leadership of Kanshi Ram, seeks to represent and secure power for the bahujan samaj (Dalits, Adivasis, OBCs and religious minorities), drawing inspiration from Sahu Maharaj, Mahatma Phule, Periyar and Ambedkar.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rise of regional parties over the last three decades has led to an era of:",
+    "options": [
+      "Coalition governments at the centre",
+      "One-party dominance",
+      "Two-party competition",
+      "No government"
+    ],
+    "correct_index": 0,
+    "solution": "Over the last three decades the number and strength of regional parties has grown, and this has led to the era of coalition governments at the centre, involving several regional and national parties.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The anti-defection law was introduced. Reason (R): Many legislators used to change parties for personal gain, causing political instability.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "The anti-defection law was passed to curb the frequent switching of parties by elected legislators for money or office, which caused political instability and 'horse-trading' — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): India adopted a multi-party system. Reason (R): India's great social and geographical diversity could not be accommodated by just two or three parties.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "India's immense social and regional diversity gave rise to many parties representing different interests; hence a multi-party system emerged as the natural choice — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The first challenge to political parties discussed in the chapter is the:",
+    "options": [
+      "Lack of internal democracy within parties",
+      "Excess of internal democracy",
+      "Too many elections",
+      "Absence of leaders"
+    ],
+    "correct_index": 0,
+    "solution": "The first challenge is the lack of internal democracy within parties: power is concentrated in a few leaders at the top, party positions are not filled through elections, and ordinary members have little influence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The second challenge to political parties is the challenge of:",
+    "options": [
+      "Dynastic succession",
+      "Too many members",
+      "Excess transparency",
+      "Foreign control"
+    ],
+    "correct_index": 0,
+    "solution": "The second challenge is dynastic succession: because of the lack of internal democracy, top positions are often controlled by members of one family, which is unfair and harmful to democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The third challenge to parties, especially during elections, is the:",
+    "options": [
+      "Growing role of money and muscle power",
+      "Shortage of candidates",
+      "Lack of voters",
+      "Too many rules"
+    ],
+    "correct_index": 0,
+    "solution": "The third challenge is the growing role of money and muscle power in parties, especially during elections; parties tend to nominate those who can raise money and sometimes have criminal connections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The fourth challenge is that parties often do not offer a meaningful:",
+    "options": [
+      "Choice to voters (their policies and programmes are not very different)",
+      "Number of candidates",
+      "Election symbol",
+      "Party office"
+    ],
+    "correct_index": 0,
+    "solution": "The fourth challenge is that parties often fail to offer a meaningful choice to the voters, because the ideological differences among them have narrowed and their policies are not very different.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One suggestion to reform political parties is to make it mandatory for parties to give a minimum number of tickets, about one-third, to:",
+    "options": [
+      "Women candidates",
+      "Rich candidates",
+      "Lawyers",
+      "Retired officials"
+    ],
+    "correct_index": 0,
+    "solution": "One suggestion is that it should be made mandatory for political parties to give a minimum number of tickets, about one-third, to women candidates, and to have a quota for women in decision-making bodies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One suggested reform to reduce the role of money in elections is:",
+    "options": [
+      "State funding of elections",
+      "Banning all elections",
+      "Increasing candidate deposits",
+      "Removing symbols"
+    ],
+    "correct_index": 0,
+    "solution": "A suggestion for reform is that there should be state funding of elections — the government could give parties money to support their election expenses, reducing dependence on big donors and money power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chapter cautions that legal reforms of political parties are likely to:",
+    "options": [
+      "Have counterproductive results if they are too strict, so people's pressure is also needed",
+      "Solve all problems easily",
+      "Be unnecessary",
+      "Never work at all"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter cautions that legal ways of reforming parties are not always successful, and overly strict laws may be counterproductive; reform also depends on the political consciousness and pressure of ordinary citizens.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Two ways in which ordinary people and civil society can help reform parties are pressure and:",
+    "options": [
+      "Public opinion (through movements, media and public campaigns) and joining parties",
+      "Ignoring parties",
+      "Boycotting elections",
+      "Bribing leaders"
+    ],
+    "correct_index": 0,
+    "solution": "People can reform parties by putting pressure through petitions, publicity and agitations, by using the media to raise issues, and by joining parties themselves and improving them from within.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a function performed by political parties?",
+    "options": [
+      "Contesting elections and forming/running governments",
+      "Conducting elections as an umpire",
+      "Issuing currency",
+      "Interpreting the Constitution"
+    ],
+    "correct_index": 0,
+    "solution": "Parties perform functions such as contesting elections, putting forward policies and programmes, making laws, forming and running governments, acting as opposition, shaping public opinion, and providing access to welfare schemes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Parties that lose elections play the important role of the:",
+    "options": [
+      "Opposition",
+      "Ruling party",
+      "Election Commission",
+      "Judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "Parties that lose elections form the opposition; they voice different views, criticise the government for its failures, and mobilise opposition to hold the government accountable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Partisan' refers to a person who:",
+    "options": [
+      "Is strongly committed to a party, group or faction",
+      "Is neutral and unbiased",
+      "Has no political views",
+      "Is a judge"
+    ],
+    "correct_index": 0,
+    "solution": "A partisan is a person who is strongly committed to a party, group or faction; partisanship is marked by a tendency to take a side and an inability to see any flaw in one's own position.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'ruling party' refers to:",
+    "options": [
+      "The party that runs the government (has a majority)",
+      "The party in opposition",
+      "The Election Commission",
+      "Any registered party"
+    ],
+    "correct_index": 0,
+    "solution": "The ruling party is the party or alliance that wins a majority in the legislature and forms the government; the other parties form the opposition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Indian National Congress (INC) is significant because it:",
+    "options": [
+      "Is one of the oldest parties and led the freedom movement",
+      "Was founded in 1980",
+      "Only exists in one state",
+      "Believes in one-party rule"
+    ],
+    "correct_index": 0,
+    "solution": "The Indian National Congress, founded in 1885, is among the oldest parties in the world; it led India's freedom struggle and played a dominant role in Indian politics after independence, supporting secularism and welfare.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match the party with its ideology/base: (i) BJP (ii) CPI(M) (iii) BSP — (a) bahujan samaj/Dalits (b) cultural nationalism (c) Marxism-Leninism:",
+    "options": [
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-a, (iii)-c"
+    ],
+    "correct_index": 0,
+    "solution": "The BJP emphasises cultural nationalism, the CPI(M) follows Marxism-Leninism, and the BSP seeks to represent the bahujan samaj (Dalits and other disadvantaged groups).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why do we need political parties? Their absence would mean that:",
+    "options": [
+      "Every candidate would be independent, with no one able to form a stable government or lasting policy",
+      "Elections would be fairer",
+      "Democracy would improve",
+      "Governments would be stronger"
+    ],
+    "correct_index": 0,
+    "solution": "Without parties, every candidate would be independent; no one could promise any major policy change, and no government could be formed or held responsible for how the country is run — parties are needed to fill this gap.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rise of coalition politics and regional parties in India has, on balance:",
+    "options": [
+      "Strengthened federalism and given regions a greater voice",
+      "Weakened democracy",
+      "Ended elections",
+      "Reduced diversity"
+    ],
+    "correct_index": 0,
+    "solution": "The rise of regional parties and coalition governments has deepened democracy and strengthened federalism by giving diverse regions and groups a greater share in national power, though it can bring some instability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Reservation of one-third seats for women in party organisational positions and legislatures is suggested to:",
+    "options": [
+      "Increase women's participation and representation in politics",
+      "Reduce the number of parties",
+      "Exclude women",
+      "Limit elections"
+    ],
+    "correct_index": 0,
+    "solution": "To make parties more representative and democratic, it is suggested that a certain proportion, such as one-third, of positions in party bodies and legislatures be reserved for women.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A political party is defined as a group of people who:",
+    "options": [
+      "Come together to contest elections and hold power in the government",
+      "Only discuss ideas",
+      "Never contest elections",
+      "Run the judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "A political party is a group of people who come together to contest elections and hold power in the government; they agree on some policies and programmes for society with a view to promoting the collective good.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A party is usually known by:",
+    "options": [
+      "The policies and programmes it stands for",
+      "Only its leader's name",
+      "The number of its members only",
+      "Its office building"
+    ],
+    "correct_index": 0,
+    "solution": "A political party is known by the policies and programmes it advocates and by which section of society it represents; parties reflect fundamental political divisions in a society.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Political parties are considered a necessary condition for democracy because:",
+    "options": [
+      "Representative democracies cannot function without parties",
+      "Democracy needs no parties",
+      "Only kings can rule",
+      "Elections are unnecessary"
+    ],
+    "correct_index": 0,
+    "solution": "Modern democracies cannot exist without political parties; parties are needed to contest elections, form governments, provide an opposition, and connect citizens to the government, making them a necessary condition for democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two-party system exists in countries such as:",
+    "options": [
+      "The United States and the United Kingdom",
+      "India and Sri Lanka",
+      "China and Cuba",
+      "France and Italy"
+    ],
+    "correct_index": 0,
+    "solution": "In a two-party system, power usually changes between two dominant parties; the United States and the United Kingdom are the classic examples.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A multi-party system is one in which:",
+    "options": [
+      "Several parties compete for power and more than two have a reasonable chance of coming to power",
+      "Only two parties exist",
+      "Only one party rules",
+      "No parties exist"
+    ],
+    "correct_index": 0,
+    "solution": "In a multi-party system, several parties compete for power, and more than two parties have a reasonable chance of coming to power, either on their own strength or in alliance with others.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Recognised parties are those given a reserved symbol and other facilities by the:",
+    "options": [
+      "Election Commission",
+      "Supreme Court",
+      "Parliament",
+      "President"
+    ],
+    "correct_index": 0,
+    "solution": "The recognised parties in India are those given special facilities such as a reserved election symbol, free time on state television and radio, and access to electoral rolls by the Election Commission.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Parties provide people access to government machinery and welfare schemes because:",
+    "options": [
+      "Ordinary people find parties more approachable than officials",
+      "Officials are always available",
+      "Parties run the courts",
+      "Parties own the schemes"
+    ],
+    "correct_index": 0,
+    "solution": "For an ordinary citizen, it is easier to approach a local party leader than a government officer; parties provide people access to government machinery and welfare schemes, acting as a link between citizens and government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most serious challenge facing political parties, according to the chapter, requires reform because parties:",
+    "options": [
+      "Have become less effective at performing their functions well, undermining democracy",
+      "Are too democratic",
+      "Have too few members",
+      "Are banned"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter identifies challenges — lack of internal democracy, dynastic succession, money and muscle power, and lack of meaningful choice — that reduce parties' effectiveness; reforming parties is essential because they are central to democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coalition governments in India are formed when:",
+    "options": [
+      "No single party wins a majority, so several parties join to form the government",
+      "One party wins two-thirds",
+      "There are no elections",
+      "The President appoints ministers"
+    ],
+    "correct_index": 0,
+    "solution": "When no single party secures a clear majority on its own, several parties come together to form a coalition government, sharing power — a common feature of Indian politics in the era of multi-party competition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dominance of dynastic succession in parties is harmful to democracy because it:",
+    "options": [
+      "Gives undue advantage to a few families and denies opportunity to ordinary members",
+      "Improves internal democracy",
+      "Helps the poor",
+      "Increases competition"
+    ],
+    "correct_index": 0,
+    "solution": "Dynastic succession concentrates power within one family, giving unfair advantage to relatives of leaders and denying capable ordinary workers a chance, which is against the democratic principle of equal opportunity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The narrowing of ideological differences among major parties has resulted in:",
+    "options": [
+      "Voters having little real choice between parties on policy",
+      "More choice for voters",
+      "Stronger opposition",
+      "No elections"
+    ],
+    "correct_index": 0,
+    "solution": "As the ideological differences among the major parties have narrowed, their policies and programmes have become similar, so voters often find little meaningful choice between them on substantive issues.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Nationalist Congress Party (NCP) was formed in 1999 following a split in which party?",
+    "options": [
+      "The Bharatiya Janata Party",
+      "The Indian National Congress",
+      "The Communist Party of India",
+      "The Bahujan Samaj Party"
+    ],
+    "correct_index": 1,
+    "solution": "The Nationalist Congress Party (NCP) was formed in 1999 following a split in the Congress Party; it espouses democracy, Gandhian secularism, equity, social justice and federalism, and has been a major party in Maharashtra.",
+    "difficulty": "hard"
+  }
 ]
