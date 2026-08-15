@@ -1,52 +1,866 @@
 [
-  { "stem": "The French Revolution began in the year:", "options": ["1789", "1799", "1776", "1804"], "correct_index": 0, "solution": "The French Revolution began in 1789, with the storming of the Bastille as an iconic early event.", "difficulty": "easy" },
-  { "stem": "The event on 14 July 1789 that marked the outbreak of the revolution was the:", "options": ["Storming of the Bastille", "Execution of the king", "Coronation of Napoleon", "Tennis Court Oath"], "correct_index": 0, "solution": "On 14 July 1789, an agitated crowd stormed and demolished the Bastille fortress-prison in Paris, a symbol of royal despotism.", "difficulty": "medium" },
-  { "stem": "The king of France at the outbreak of the revolution was:", "options": ["Louis XVI", "Louis XIV", "Napoleon Bonaparte", "Charles X"], "correct_index": 0, "solution": "Louis XVI of the Bourbon dynasty was the king of France when the revolution began in 1789.", "difficulty": "medium" },
-  { "stem": "French society before the revolution was divided into how many estates?", "options": ["Three", "Two", "Four", "Five"], "correct_index": 0, "solution": "French society was divided into three estates: the clergy (first), the nobility (second) and the commoners (third).", "difficulty": "medium" },
-  { "stem": "Which estate bore the burden of taxes while enjoying no privileges?", "options": ["The Third Estate", "The First Estate", "The Second Estate", "The clergy"], "correct_index": 0, "solution": "The Third Estate (commoners) paid all the taxes, while the clergy and nobility (first and second estates) were exempt.", "difficulty": "medium" },
-  { "stem": "The direct tax paid by the Third Estate to the state was called the:", "options": ["Taille", "Tithe", "Assignat", "Livre"], "correct_index": 0, "solution": "The 'taille' was a direct tax paid to the state by members of the Third Estate.", "difficulty": "hard" },
-  { "stem": "The tax collected by the Church from peasants was called the:", "options": ["Tithe", "Taille", "Livre", "Corvee"], "correct_index": 0, "solution": "The 'tithe' was a tax collected by the Church, amounting to a share of agricultural produce.", "difficulty": "hard" },
-  { "stem": "The philosopher who proposed the separation of powers in his book 'The Spirit of the Laws' was:", "options": ["Montesquieu", "Rousseau", "Voltaire", "John Locke"], "correct_index": 0, "solution": "Montesquieu, in 'The Spirit of the Laws', proposed dividing power among the legislature, executive and judiciary.", "difficulty": "hard" },
-  { "stem": "The idea of a government based on a social contract between people and their representatives was put forward by:", "options": ["Jean-Jacques Rousseau", "Montesquieu", "Louis XVI", "Robespierre"], "correct_index": 0, "solution": "Rousseau argued in 'The Social Contract' for a government founded on the consent of the people.", "difficulty": "hard" },
-  { "stem": "The subsistence crisis before the revolution was mainly caused by:", "options": ["Rising bread prices and food scarcity", "Too much food", "The absence of any king", "Overpopulation of nobles"], "correct_index": 0, "solution": "Bad harvests and rising bread prices caused a subsistence crisis, worsening the hardship of ordinary people.", "difficulty": "medium" },
-  { "stem": "The representative body of the three estates that Louis XVI summoned in May 1789 was the:", "options": ["Estates General", "National Convention", "Directory", "Jacobin Club"], "correct_index": 0, "solution": "Louis XVI convened the Estates General in May 1789 to pass proposals for new taxes.", "difficulty": "medium" },
-  { "stem": "The members of the Third Estate declared themselves a 'National Assembly' and took an oath at the:", "options": ["Tennis Court", "Bastille", "Palace of Versailles gardens", "Notre Dame"], "correct_index": 0, "solution": "The Third Estate representatives took the famous Tennis Court Oath (June 1789), vowing not to disperse until they had drafted a constitution.", "difficulty": "hard" },
-  { "stem": "The Declaration of the Rights of Man and of the Citizen was adopted in:", "options": ["1789", "1793", "1799", "1804"], "correct_index": 0, "solution": "The National Assembly adopted the Declaration of the Rights of Man and of the Citizen in 1789.", "difficulty": "medium" },
-  { "stem": "Which of the following were declared 'natural and inalienable rights' in the Declaration of 1789?", "options": ["The right to life, freedom of speech and equality before the law", "The right to a noble title", "The right to collect tithes", "The right to feudal dues"], "correct_index": 0, "solution": "The Declaration proclaimed natural and inalienable rights such as the right to life, freedom of speech and opinion, and equality before the law.", "difficulty": "medium" },
-  { "stem": "The Constitution of 1791 made France a:", "options": ["Constitutional monarchy with separation of powers", "Republic", "Direct democracy", "Military dictatorship"], "correct_index": 0, "solution": "The Constitution of 1791 established a constitutional monarchy, limiting the king's powers and dividing them among different institutions.", "difficulty": "medium" },
-  { "stem": "Under the Constitution of 1791, the right to vote was given only to:", "options": ["'Active citizens' who paid a certain amount of taxes", "All men and women", "All adult men", "Only the nobility"], "correct_index": 0, "solution": "The 1791 Constitution gave voting rights only to 'active citizens' — men above 25 who paid taxes equal to at least three days' wages.", "difficulty": "hard" },
-  { "stem": "France was declared a republic in:", "options": ["1792", "1789", "1799", "1804"], "correct_index": 0, "solution": "In 1792, the monarchy was abolished and France was declared a republic.", "difficulty": "medium" },
-  { "stem": "King Louis XVI was executed by guillotine in:", "options": ["1793", "1789", "1799", "1804"], "correct_index": 0, "solution": "Louis XVI was sentenced to death and executed by the guillotine in January 1793.", "difficulty": "medium" },
-  { "stem": "The period of harsh rule and mass executions from 1793 to 1794 is known as the:", "options": ["Reign of Terror", "Directory", "Restoration", "Enlightenment"], "correct_index": 0, "solution": "The Reign of Terror (1793-94), under Robespierre, saw the execution of thousands considered enemies of the republic.", "difficulty": "medium" },
-  { "stem": "The Reign of Terror was associated with which leader?", "options": ["Maximilien Robespierre", "Napoleon Bonaparte", "Louis XVI", "Montesquieu"], "correct_index": 0, "solution": "Maximilien Robespierre, leader of the Jacobins, dominated the Reign of Terror before being overthrown and executed in 1794.", "difficulty": "medium" },
-  { "stem": "The device used for executions during the revolution was the:", "options": ["Guillotine", "Electric chair", "Gallows only", "Firing squad"], "correct_index": 0, "solution": "The guillotine, a beheading machine, was widely used for executions during the revolution, including of the king.", "difficulty": "medium" },
-  { "stem": "The radical political club that dominated during the Terror was the:", "options": ["Jacobin Club", "Girondins only", "Directory", "Estates General"], "correct_index": 0, "solution": "The Jacobin Club, led by Robespierre, was the most radical and influential political group during the Terror.", "difficulty": "hard" },
-  { "stem": "Robespierre's rule ended in 1794 when he was:", "options": ["Arrested and guillotined", "Made emperor", "Exiled to an island", "Elected king"], "correct_index": 0, "solution": "In July 1794, Robespierre was arrested and executed by guillotine, bringing the Reign of Terror to an end.", "difficulty": "medium" },
-  { "stem": "The government of five directors that ruled France after the Jacobins was called the:", "options": ["Directory", "Convention", "Estates General", "Consulate"], "correct_index": 0, "solution": "After the fall of the Jacobins, a five-member executive called the Directory governed France.", "difficulty": "hard" },
-  { "stem": "Napoleon Bonaparte crowned himself Emperor of France in:", "options": ["1804", "1789", "1793", "1815"], "correct_index": 0, "solution": "Napoleon Bonaparte crowned himself Emperor of France in 1804.", "difficulty": "medium" },
-  { "stem": "The set of laws introduced by Napoleon, which influenced many countries, was the:", "options": ["Napoleonic Code (Civil Code of 1804)", "Declaration of Rights", "Constitution of 1791", "Treaty of Versailles"], "correct_index": 0, "solution": "The Napoleonic Code (Civil Code of 1804) established equality before the law and the protection of property, and spread across Europe.", "difficulty": "hard" },
-  { "stem": "The Napoleonic Code did away with:", "options": ["Privileges based on birth and established equality before law", "Equality before law", "Property rights", "The guillotine"], "correct_index": 0, "solution": "The Napoleonic Code abolished privileges based on birth and established equality before the law and the security of the right to property.", "difficulty": "medium" },
-  { "stem": "The slogan of the French Revolution was:", "options": ["Liberty, Equality and Fraternity", "Blood and Iron", "Do or Die", "Swaraj is my birthright"], "correct_index": 0, "solution": "The revolution's rallying slogan was 'Liberty, Equality and Fraternity' (Liberté, Égalité, Fraternité).", "difficulty": "easy" },
-  { "stem": "Feudal privileges and dues were abolished in France in:", "options": ["August 1789", "1793", "1799", "1804"], "correct_index": 0, "solution": "On the night of 4 August 1789, the National Assembly abolished feudal privileges, dues and the tithe.", "difficulty": "hard" },
-  { "stem": "The woman who wrote the 'Declaration of the Rights of Woman and the Female Citizen' (1791) was:", "options": ["Olympe de Gouges", "Marie Antoinette", "Marianne", "Madame Roland"], "correct_index": 0, "solution": "Olympe de Gouges wrote the Declaration of the Rights of Woman and the Female Citizen, demanding equal rights for women.", "difficulty": "hard" },
-  { "stem": "During the revolution, women formed political clubs such as the:", "options": ["Society of Revolutionary Republican Women", "Jacobin Club (men only)", "Estates General", "Directory"], "correct_index": 0, "solution": "Women set up clubs like the Society of Revolutionary Republican Women to voice their demands for rights and participation.", "difficulty": "hard" },
-  { "stem": "Slavery in the French colonies was first abolished by the Convention in:", "options": ["1794", "1789", "1804", "1815"], "correct_index": 0, "solution": "The Convention abolished slavery in the French colonies in 1794, though Napoleon reintroduced it in 1804.", "difficulty": "hard" },
-  { "stem": "Slavery was reintroduced in the French colonies by:", "options": ["Napoleon Bonaparte", "Robespierre", "Louis XVI", "Montesquieu"], "correct_index": 0, "solution": "Napoleon reintroduced slavery in the French colonies in 1804, reversing the Convention's abolition.", "difficulty": "hard" },
-  { "stem": "The triangular slave trade linked which three regions?", "options": ["Europe, Africa and the Americas", "Europe, Asia and Australia", "Africa, Asia and Europe", "India, China and Africa"], "correct_index": 0, "solution": "The triangular slave trade connected Europe, Africa and the Americas — European goods to Africa, enslaved Africans to the Americas, and colonial produce back to Europe.", "difficulty": "hard" },
-  { "stem": "The French national anthem, composed during the revolution, is the:", "options": ["Marseillaise", "God Save the King", "Jana Gana Mana", "Internationale"], "correct_index": 0, "solution": "The Marseillaise, composed by Roget de L'Isle, became the French national anthem and a revolutionary song.", "difficulty": "hard" },
-  { "stem": "A major intellectual cause of the revolution was the spread of ideas by:", "options": ["Enlightenment philosophers", "Feudal lords", "The Church only", "Foreign kings"], "correct_index": 0, "solution": "Enlightenment thinkers like Rousseau, Montesquieu and Voltaire spread ideas of liberty, equality and popular sovereignty that inspired the revolution.", "difficulty": "medium" },
-  { "stem": "The financial crisis of the French state was worsened by:", "options": ["Costly wars, including helping the American War of Independence", "Low government spending", "Too much tax on nobles", "A trade surplus"], "correct_index": 0, "solution": "Expensive wars (including support for the American War of Independence) and lavish court spending drained the treasury, causing a financial crisis.", "difficulty": "medium" },
-  { "stem": "The middle class that grew rich through trade and manufacturing before the revolution was called the:", "options": ["Bourgeoisie", "Clergy", "Nobility", "Peasantry"], "correct_index": 0, "solution": "The bourgeoisie (educated middle class) grew wealthy and resented the privileges of the nobility, playing a key role in the revolution.", "difficulty": "hard" },
-  { "stem": "The immediate cause that pushed people to storm the Bastille was:", "options": ["Fear of royal troops and anger over high bread prices", "A festival", "A royal wedding", "A new tax on nobles"], "correct_index": 0, "solution": "Rumours that the king would use troops against the people, combined with anger over high bread prices, drove the crowd to storm the Bastille.", "difficulty": "medium" },
-  { "stem": "Which of the following best describes the political message of the revolution to the world?", "options": ["Sovereignty belongs to the people, and rights and equality matter", "Kings should have absolute power", "Only nobles should rule", "The Church should govern"], "correct_index": 0, "solution": "The revolution spread the powerful idea that sovereignty rests with the people and that liberty, equality and rights are fundamental.", "difficulty": "medium" },
-  { "stem": "The Third Estate included:", "options": ["Peasants, workers, and the middle class (merchants, lawyers, etc.)", "Only the clergy", "Only the nobility", "Only the king's family"], "correct_index": 0, "solution": "The Third Estate consisted of the vast majority — peasants, artisans, workers and the bourgeoisie (merchants, lawyers, officials).", "difficulty": "medium" },
-  { "stem": "Censorship was abolished during the revolution, which led to:", "options": ["A free flow of newspapers, pamphlets and political ideas", "The end of all writing", "Stricter royal control", "The banning of books"], "correct_index": 0, "solution": "With censorship abolished, newspapers, pamphlets and books spread freely, fuelling debate and revolutionary ideas.", "difficulty": "medium" },
-  { "stem": "The abolition of the monarchy and declaration of the republic was carried out by the:", "options": ["National Convention", "Estates General", "Directory", "Church"], "correct_index": 0, "solution": "The newly elected National Convention abolished the monarchy and declared France a republic in 1792.", "difficulty": "hard" },
-  { "stem": "The red cap (the 'Phrygian cap') worn during the revolution symbolised:", "options": ["Liberty", "Royalty", "The Church", "War"], "correct_index": 0, "solution": "The red Phrygian cap was a symbol of liberty and of the freed slave, worn by revolutionaries.", "difficulty": "hard" },
-  { "stem": "The chained/broken symbol often used in revolutionary imagery represented:", "options": ["The breaking of the bonds of slavery and oppression", "The strength of the monarchy", "The power of the Church", "Wealth"], "correct_index": 0, "solution": "Broken chains in revolutionary imagery symbolised freedom from slavery, bondage and oppression.", "difficulty": "hard" },
-  { "stem": "The most important long-term legacy of the French Revolution was:", "options": ["The spread of ideas of liberty, democratic rights and nationalism", "The strengthening of feudalism", "The permanent rule of kings", "The end of all revolutions"], "correct_index": 0, "solution": "The revolution's lasting legacy was the spread of the ideals of liberty, democratic rights, equality and nationalism across the world.", "difficulty": "medium" },
-  { "stem": "Which of the following ideas from the French Revolution influenced later movements, including in India?", "options": ["Liberty, equality, fraternity and the rights of citizens", "The divine right of kings", "Feudal privileges", "The tithe"], "correct_index": 0, "solution": "The revolutionary ideals of liberty, equality, fraternity and citizens' rights inspired democratic and nationalist movements worldwide, including in colonial India.", "difficulty": "medium" },
-  { "stem": "The National Assembly was formed by the representatives of which estate?", "options": ["The Third Estate", "The First Estate", "The Second Estate", "The nobility"], "correct_index": 0, "solution": "The representatives of the Third Estate declared themselves the National Assembly, claiming to represent the French nation.", "difficulty": "medium" },
-  { "stem": "Napoleon is often seen as having:", "options": ["Spread some revolutionary ideas (like the legal code) even as he became an emperor", "Restored full feudalism", "Rejected all revolutionary reforms", "Abolished all laws"], "correct_index": 0, "solution": "Though he crowned himself emperor, Napoleon carried some revolutionary reforms (like the Civil Code and legal equality) across Europe.", "difficulty": "medium" },
-  { "stem": "The overall theme of 'The French Revolution' is how:", "options": ["The overthrow of absolute monarchy spread ideas of liberty, equality and popular sovereignty", "Kings gained more power", "Feudalism was strengthened", "The Church took over the state"], "correct_index": 0, "solution": "The chapter explains how the French Revolution overthrew absolute monarchy and feudal privilege, spreading enduring ideas of liberty, equality and popular sovereignty.", "difficulty": "easy" }
+  {
+    "stem": "The French Revolution began in the year:",
+    "options": [
+      "1789",
+      "1799",
+      "1776",
+      "1804"
+    ],
+    "correct_index": 0,
+    "solution": "The French Revolution began in 1789, with the storming of the Bastille as an iconic early event.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The event on 14 July 1789 that marked the outbreak of the revolution was the:",
+    "options": [
+      "Storming of the Bastille",
+      "Execution of the king",
+      "Coronation of Napoleon",
+      "Tennis Court Oath"
+    ],
+    "correct_index": 0,
+    "solution": "On 14 July 1789, an agitated crowd stormed and demolished the Bastille fortress-prison in Paris, a symbol of royal despotism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The king of France at the outbreak of the revolution was:",
+    "options": [
+      "Louis XVI",
+      "Louis XIV",
+      "Napoleon Bonaparte",
+      "Charles X"
+    ],
+    "correct_index": 0,
+    "solution": "Louis XVI of the Bourbon dynasty was the king of France when the revolution began in 1789.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "French society before the revolution was divided into how many estates?",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "correct_index": 0,
+    "solution": "French society was divided into three estates: the clergy (first), the nobility (second) and the commoners (third).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which estate bore the burden of taxes while enjoying no privileges?",
+    "options": [
+      "The Third Estate",
+      "The First Estate",
+      "The Second Estate",
+      "The clergy"
+    ],
+    "correct_index": 0,
+    "solution": "The Third Estate (commoners) paid all the taxes, while the clergy and nobility (first and second estates) were exempt.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The direct tax paid by the Third Estate to the state was called the:",
+    "options": [
+      "Taille",
+      "Tithe",
+      "Assignat",
+      "Livre"
+    ],
+    "correct_index": 0,
+    "solution": "The 'taille' was a direct tax paid to the state by members of the Third Estate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The tax collected by the Church from peasants was called the:",
+    "options": [
+      "Tithe",
+      "Taille",
+      "Livre",
+      "Corvee"
+    ],
+    "correct_index": 0,
+    "solution": "The 'tithe' was a tax collected by the Church, amounting to a share of agricultural produce.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The philosopher who proposed the separation of powers in his book 'The Spirit of the Laws' was:",
+    "options": [
+      "Montesquieu",
+      "Rousseau",
+      "Voltaire",
+      "John Locke"
+    ],
+    "correct_index": 0,
+    "solution": "Montesquieu, in 'The Spirit of the Laws', proposed dividing power among the legislature, executive and judiciary.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The idea of a government based on a social contract between people and their representatives was put forward by:",
+    "options": [
+      "Jean-Jacques Rousseau",
+      "Montesquieu",
+      "Louis XVI",
+      "Robespierre"
+    ],
+    "correct_index": 0,
+    "solution": "Rousseau argued in 'The Social Contract' for a government founded on the consent of the people.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The subsistence crisis before the revolution was mainly caused by:",
+    "options": [
+      "Rising bread prices and food scarcity",
+      "Too much food",
+      "The absence of any king",
+      "Overpopulation of nobles"
+    ],
+    "correct_index": 0,
+    "solution": "Bad harvests and rising bread prices caused a subsistence crisis, worsening the hardship of ordinary people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The representative body of the three estates that Louis XVI summoned in May 1789 was the:",
+    "options": [
+      "Estates General",
+      "National Convention",
+      "Directory",
+      "Jacobin Club"
+    ],
+    "correct_index": 0,
+    "solution": "Louis XVI convened the Estates General in May 1789 to pass proposals for new taxes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The members of the Third Estate declared themselves a 'National Assembly' and took an oath at the:",
+    "options": [
+      "Tennis Court",
+      "Bastille",
+      "Palace of Versailles gardens",
+      "Notre Dame"
+    ],
+    "correct_index": 0,
+    "solution": "The Third Estate representatives took the famous Tennis Court Oath (June 1789), vowing not to disperse until they had drafted a constitution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Declaration of the Rights of Man and of the Citizen was adopted in:",
+    "options": [
+      "1789",
+      "1793",
+      "1799",
+      "1804"
+    ],
+    "correct_index": 0,
+    "solution": "The National Assembly adopted the Declaration of the Rights of Man and of the Citizen in 1789.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following were declared 'natural and inalienable rights' in the Declaration of 1789?",
+    "options": [
+      "The right to life, freedom of speech and equality before the law",
+      "The right to a noble title",
+      "The right to collect tithes",
+      "The right to feudal dues"
+    ],
+    "correct_index": 0,
+    "solution": "The Declaration proclaimed natural and inalienable rights such as the right to life, freedom of speech and opinion, and equality before the law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Constitution of 1791 made France a:",
+    "options": [
+      "Constitutional monarchy with separation of powers",
+      "Republic",
+      "Direct democracy",
+      "Military dictatorship"
+    ],
+    "correct_index": 0,
+    "solution": "The Constitution of 1791 established a constitutional monarchy, limiting the king's powers and dividing them among different institutions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under the Constitution of 1791, the right to vote was given only to:",
+    "options": [
+      "'Active citizens' who paid a certain amount of taxes",
+      "All men and women",
+      "All adult men",
+      "Only the nobility"
+    ],
+    "correct_index": 0,
+    "solution": "The 1791 Constitution gave voting rights only to 'active citizens' — men above 25 who paid taxes equal to at least three days' wages.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "France was declared a republic in:",
+    "options": [
+      "1792",
+      "1789",
+      "1799",
+      "1804"
+    ],
+    "correct_index": 0,
+    "solution": "In 1792, the monarchy was abolished and France was declared a republic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "King Louis XVI was executed by guillotine in:",
+    "options": [
+      "1793",
+      "1789",
+      "1799",
+      "1804"
+    ],
+    "correct_index": 0,
+    "solution": "Louis XVI was sentenced to death and executed by the guillotine in January 1793.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The period of harsh rule and mass executions from 1793 to 1794 is known as the:",
+    "options": [
+      "Reign of Terror",
+      "Directory",
+      "Restoration",
+      "Enlightenment"
+    ],
+    "correct_index": 0,
+    "solution": "The Reign of Terror (1793-94), under Robespierre, saw the execution of thousands considered enemies of the republic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Reign of Terror was associated with which leader?",
+    "options": [
+      "Maximilien Robespierre",
+      "Napoleon Bonaparte",
+      "Louis XVI",
+      "Montesquieu"
+    ],
+    "correct_index": 0,
+    "solution": "Maximilien Robespierre, leader of the Jacobins, dominated the Reign of Terror before being overthrown and executed in 1794.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The device used for executions during the revolution was the:",
+    "options": [
+      "Guillotine",
+      "Electric chair",
+      "Gallows only",
+      "Firing squad"
+    ],
+    "correct_index": 0,
+    "solution": "The guillotine, a beheading machine, was widely used for executions during the revolution, including of the king.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The radical political club that dominated during the Terror was the:",
+    "options": [
+      "Jacobin Club",
+      "Girondins only",
+      "Directory",
+      "Estates General"
+    ],
+    "correct_index": 0,
+    "solution": "The Jacobin Club, led by Robespierre, was the most radical and influential political group during the Terror.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Robespierre's rule ended in 1794 when he was:",
+    "options": [
+      "Arrested and guillotined",
+      "Made emperor",
+      "Exiled to an island",
+      "Elected king"
+    ],
+    "correct_index": 0,
+    "solution": "In July 1794, Robespierre was arrested and executed by guillotine, bringing the Reign of Terror to an end.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The government of five directors that ruled France after the Jacobins was called the:",
+    "options": [
+      "Directory",
+      "Convention",
+      "Estates General",
+      "Consulate"
+    ],
+    "correct_index": 0,
+    "solution": "After the fall of the Jacobins, a five-member executive called the Directory governed France.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Napoleon Bonaparte crowned himself Emperor of France in:",
+    "options": [
+      "1804",
+      "1789",
+      "1793",
+      "1815"
+    ],
+    "correct_index": 0,
+    "solution": "Napoleon Bonaparte crowned himself Emperor of France in 1804.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The set of laws introduced by Napoleon, which influenced many countries, was the:",
+    "options": [
+      "Napoleonic Code (Civil Code of 1804)",
+      "Declaration of Rights",
+      "Constitution of 1791",
+      "Treaty of Versailles"
+    ],
+    "correct_index": 0,
+    "solution": "The Napoleonic Code (Civil Code of 1804) established equality before the law and the protection of property, and spread across Europe.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Napoleonic Code did away with:",
+    "options": [
+      "Privileges based on birth and established equality before law",
+      "Equality before law",
+      "Property rights",
+      "The guillotine"
+    ],
+    "correct_index": 0,
+    "solution": "The Napoleonic Code abolished privileges based on birth and established equality before the law and the security of the right to property.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The slogan of the French Revolution was:",
+    "options": [
+      "Liberty, Equality and Fraternity",
+      "Blood and Iron",
+      "Do or Die",
+      "Swaraj is my birthright"
+    ],
+    "correct_index": 0,
+    "solution": "The revolution's rallying slogan was 'Liberty, Equality and Fraternity' (Liberté, Égalité, Fraternité).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Feudal privileges and dues were abolished in France in:",
+    "options": [
+      "August 1789",
+      "1793",
+      "1799",
+      "1804"
+    ],
+    "correct_index": 0,
+    "solution": "On the night of 4 August 1789, the National Assembly abolished feudal privileges, dues and the tithe.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The woman who wrote the 'Declaration of the Rights of Woman and the Female Citizen' (1791) was:",
+    "options": [
+      "Olympe de Gouges",
+      "Marie Antoinette",
+      "Marianne",
+      "Madame Roland"
+    ],
+    "correct_index": 0,
+    "solution": "Olympe de Gouges wrote the Declaration of the Rights of Woman and the Female Citizen, demanding equal rights for women.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During the revolution, women formed political clubs such as the:",
+    "options": [
+      "Society of Revolutionary Republican Women",
+      "Jacobin Club (men only)",
+      "Estates General",
+      "Directory"
+    ],
+    "correct_index": 0,
+    "solution": "Women set up clubs like the Society of Revolutionary Republican Women to voice their demands for rights and participation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Slavery in the French colonies was first abolished by the Convention in:",
+    "options": [
+      "1794",
+      "1789",
+      "1804",
+      "1815"
+    ],
+    "correct_index": 0,
+    "solution": "The Convention abolished slavery in the French colonies in 1794, though Napoleon reintroduced it in 1804.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Slavery was reintroduced in the French colonies by:",
+    "options": [
+      "Napoleon Bonaparte",
+      "Robespierre",
+      "Louis XVI",
+      "Montesquieu"
+    ],
+    "correct_index": 0,
+    "solution": "Napoleon reintroduced slavery in the French colonies in 1804, reversing the Convention's abolition.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The triangular slave trade linked which three regions?",
+    "options": [
+      "Europe, Africa and the Americas",
+      "Europe, Asia and Australia",
+      "Africa, Asia and Europe",
+      "India, China and Africa"
+    ],
+    "correct_index": 0,
+    "solution": "The triangular slave trade connected Europe, Africa and the Americas — European goods to Africa, enslaved Africans to the Americas, and colonial produce back to Europe.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The French national anthem, composed during the revolution, is the:",
+    "options": [
+      "Marseillaise",
+      "God Save the King",
+      "Jana Gana Mana",
+      "Internationale"
+    ],
+    "correct_index": 0,
+    "solution": "The Marseillaise, composed by Roget de L'Isle, became the French national anthem and a revolutionary song.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A major intellectual cause of the revolution was the spread of ideas by:",
+    "options": [
+      "Enlightenment philosophers",
+      "Feudal lords",
+      "The Church only",
+      "Foreign kings"
+    ],
+    "correct_index": 0,
+    "solution": "Enlightenment thinkers like Rousseau, Montesquieu and Voltaire spread ideas of liberty, equality and popular sovereignty that inspired the revolution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The financial crisis of the French state was worsened by:",
+    "options": [
+      "Costly wars, including helping the American War of Independence",
+      "Low government spending",
+      "Too much tax on nobles",
+      "A trade surplus"
+    ],
+    "correct_index": 0,
+    "solution": "Expensive wars (including support for the American War of Independence) and lavish court spending drained the treasury, causing a financial crisis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The middle class that grew rich through trade and manufacturing before the revolution was called the:",
+    "options": [
+      "Bourgeoisie",
+      "Clergy",
+      "Nobility",
+      "Peasantry"
+    ],
+    "correct_index": 0,
+    "solution": "The bourgeoisie (educated middle class) grew wealthy and resented the privileges of the nobility, playing a key role in the revolution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The immediate cause that pushed people to storm the Bastille was:",
+    "options": [
+      "Fear of royal troops and anger over high bread prices",
+      "A festival",
+      "A royal wedding",
+      "A new tax on nobles"
+    ],
+    "correct_index": 0,
+    "solution": "Rumours that the king would use troops against the people, combined with anger over high bread prices, drove the crowd to storm the Bastille.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best describes the political message of the revolution to the world?",
+    "options": [
+      "Sovereignty belongs to the people, and rights and equality matter",
+      "Kings should have absolute power",
+      "Only nobles should rule",
+      "The Church should govern"
+    ],
+    "correct_index": 0,
+    "solution": "The revolution spread the powerful idea that sovereignty rests with the people and that liberty, equality and rights are fundamental.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Third Estate included:",
+    "options": [
+      "Peasants, workers, and the middle class (merchants, lawyers, etc.)",
+      "Only the clergy",
+      "Only the nobility",
+      "Only the king's family"
+    ],
+    "correct_index": 0,
+    "solution": "The Third Estate consisted of the vast majority — peasants, artisans, workers and the bourgeoisie (merchants, lawyers, officials).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Censorship was abolished during the revolution, which led to:",
+    "options": [
+      "A free flow of newspapers, pamphlets and political ideas",
+      "The end of all writing",
+      "Stricter royal control",
+      "The banning of books"
+    ],
+    "correct_index": 0,
+    "solution": "With censorship abolished, newspapers, pamphlets and books spread freely, fuelling debate and revolutionary ideas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The abolition of the monarchy and declaration of the republic was carried out by the:",
+    "options": [
+      "National Convention",
+      "Estates General",
+      "Directory",
+      "Church"
+    ],
+    "correct_index": 0,
+    "solution": "The newly elected National Convention abolished the monarchy and declared France a republic in 1792.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The red cap (the 'Phrygian cap') worn during the revolution symbolised:",
+    "options": [
+      "Liberty",
+      "Royalty",
+      "The Church",
+      "War"
+    ],
+    "correct_index": 0,
+    "solution": "The red Phrygian cap was a symbol of liberty and of the freed slave, worn by revolutionaries.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The chained/broken symbol often used in revolutionary imagery represented:",
+    "options": [
+      "The breaking of the bonds of slavery and oppression",
+      "The strength of the monarchy",
+      "The power of the Church",
+      "Wealth"
+    ],
+    "correct_index": 0,
+    "solution": "Broken chains in revolutionary imagery symbolised freedom from slavery, bondage and oppression.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most important long-term legacy of the French Revolution was:",
+    "options": [
+      "The spread of ideas of liberty, democratic rights and nationalism",
+      "The strengthening of feudalism",
+      "The permanent rule of kings",
+      "The end of all revolutions"
+    ],
+    "correct_index": 0,
+    "solution": "The revolution's lasting legacy was the spread of the ideals of liberty, democratic rights, equality and nationalism across the world.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following ideas from the French Revolution influenced later movements, including in India?",
+    "options": [
+      "Liberty, equality, fraternity and the rights of citizens",
+      "The divine right of kings",
+      "Feudal privileges",
+      "The tithe"
+    ],
+    "correct_index": 0,
+    "solution": "The revolutionary ideals of liberty, equality, fraternity and citizens' rights inspired democratic and nationalist movements worldwide, including in colonial India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The National Assembly was formed by the representatives of which estate?",
+    "options": [
+      "The Third Estate",
+      "The First Estate",
+      "The Second Estate",
+      "The nobility"
+    ],
+    "correct_index": 0,
+    "solution": "The representatives of the Third Estate declared themselves the National Assembly, claiming to represent the French nation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Napoleon is often seen as having:",
+    "options": [
+      "Spread some revolutionary ideas (like the legal code) even as he became an emperor",
+      "Restored full feudalism",
+      "Rejected all revolutionary reforms",
+      "Abolished all laws"
+    ],
+    "correct_index": 0,
+    "solution": "Though he crowned himself emperor, Napoleon carried some revolutionary reforms (like the Civil Code and legal equality) across Europe.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The storming of the Bastille took place on:",
+    "options": [
+      "14 July 1789",
+      "26 August 1789",
+      "21 September 1792",
+      "9 November 1799"
+    ],
+    "correct_index": 0,
+    "solution": "The STORMING of the BASTILLE was on 14 JULY 1789. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The First Estate consisted of the ______, and the Second Estate of the nobility.",
+    "options": [
+      "Clergy",
+      "Peasants",
+      "Merchants",
+      "Soldiers"
+    ],
+    "correct_index": 0,
+    "solution": "The FIRST ESTATE was the CLERGY; the SECOND ESTATE was the NOBILITY. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match List-I (Philosopher) with List-II (Idea): P. Montesquieu Q. Rousseau R. John Locke | 1. Social Contract 2. Separation of powers 3. Against the divine right of kings",
+    "options": [
+      "P-2, Q-1, R-3",
+      "P-1, Q-2, R-3",
+      "P-3, Q-1, R-2",
+      "P-2, Q-3, R-1"
+    ],
+    "correct_index": 0,
+    "solution": "Montesquieu → separation of powers (P-2); Rousseau → Social Contract (Q-1); Locke → against divine right of kings (R-3). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The philosopher who proposed the separation of powers among legislature, executive and judiciary was:",
+    "options": [
+      "Montesquieu",
+      "Rousseau",
+      "Voltaire",
+      "John Locke"
+    ],
+    "correct_index": 0,
+    "solution": "MONTESQUIEU proposed the SEPARATION of POWERS (in 'The Spirit of the Laws'). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The idea of government based on a 'social contract' between people and their representatives was proposed by:",
+    "options": [
+      "Rousseau",
+      "Montesquieu",
+      "Voltaire",
+      "Locke"
+    ],
+    "correct_index": 0,
+    "solution": "ROUSSEAU proposed the SOCIAL CONTRACT. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "On 20 June 1789, the members of the Third Estate took the ______ Oath, vowing to draft a constitution.",
+    "options": [
+      "Tennis Court",
+      "Bastille",
+      "Versailles",
+      "Guillotine"
+    ],
+    "correct_index": 0,
+    "solution": "The members of the Third Estate took the TENNIS COURT OATH (20 June 1789). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The period of harsh rule and mass executions from 1793 to 1794 is called the:",
+    "options": [
+      "Reign of Terror",
+      "Directory",
+      "Restoration",
+      "Enlightenment"
+    ],
+    "correct_index": 0,
+    "solution": "The period 1793-94 is the REIGN of TERROR. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The radical political club that dominated during the revolution, named after a former convent, was the:",
+    "options": [
+      "Jacobin Club",
+      "Girondin Club",
+      "Cordeliers only",
+      "Directory"
+    ],
+    "correct_index": 0,
+    "solution": "The JACOBIN CLUB dominated the radical phase of the revolution. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Jacobins drew much of their membership from the ______, the small shopkeepers and artisans of Paris.",
+    "options": [
+      "Sans-culottes",
+      "Nobility",
+      "Clergy",
+      "Directors"
+    ],
+    "correct_index": 0,
+    "solution": "The JACOBINS drew support from the SANS-CULOTTES (small shopkeepers and artisans). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The government of five directors that ruled France after 1795 was called the:",
+    "options": [
+      "Directory",
+      "Convention",
+      "Assembly",
+      "Commune"
+    ],
+    "correct_index": 0,
+    "solution": "The government of five directors was the DIRECTORY. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Napoleon was finally defeated at the Battle of Waterloo in:",
+    "options": [
+      "1815",
+      "1804",
+      "1799",
+      "1789"
+    ],
+    "correct_index": 0,
+    "solution": "NAPOLEON was defeated at WATERLOO in 1815. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Feudal privileges and dues were abolished in France on:",
+    "options": [
+      "4 August 1789",
+      "14 July 1789",
+      "21 September 1792",
+      "1804"
+    ],
+    "correct_index": 0,
+    "solution": "FEUDAL PRIVILEGES were abolished on 4 AUGUST 1789. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Slavery, abolished in 1794, was later reintroduced in the French colonies by:",
+    "options": [
+      "Napoleon",
+      "Robespierre",
+      "Louis XVI",
+      "Rousseau"
+    ],
+    "correct_index": 0,
+    "solution": "NAPOLEON REINTRODUCED slavery in the French colonies. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Slavery was finally abolished in French colonies in:",
+    "options": [
+      "1848",
+      "1794",
+      "1789",
+      "1815"
+    ],
+    "correct_index": 0,
+    "solution": "SLAVERY was FINALLY abolished in French colonies in 1848. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The device used for executions during the revolution, named after its proposer, was the:",
+    "options": [
+      "Guillotine",
+      "Gallows",
+      "Electric chair",
+      "Firing squad"
+    ],
+    "correct_index": 0,
+    "solution": "The GUILLOTINE (named after Dr Guillotin) was used for executions. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The representative body of the three estates that Louis XVI called in May 1789 was the:",
+    "options": [
+      "Estates General",
+      "National Convention",
+      "Directory",
+      "Jacobin Club"
+    ],
+    "correct_index": 0,
+    "solution": "Louis XVI called the ESTATES GENERAL in May 1789. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The middle class that grew rich through trade and manufacturing, and led the revolution, was the:",
+    "options": [
+      "Bourgeoisie",
+      "Aristocracy",
+      "Clergy",
+      "Peasantry"
+    ],
+    "correct_index": 0,
+    "solution": "The MIDDLE CLASS that led the revolution was the BOURGEOISIE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The Third Estate resented the old order. Reason (R): They paid all the taxes but had no political privileges, while the clergy and nobles were exempt. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — the Third Estate resented the old order. R is TRUE and EXPLAINS A: they PAID all the TAXES but had NO privileges, while clergy and nobles were EXEMPT. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The red cap ('Phrygian cap') worn during the revolution was a symbol of:",
+    "options": [
+      "Liberty (freedom)",
+      "Slavery",
+      "Monarchy",
+      "The Church"
+    ],
+    "correct_index": 0,
+    "solution": "The RED (Phrygian) CAP symbolised LIBERTY (freedom). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The National Assembly was formed by the representatives of the:",
+    "options": [
+      "Third Estate (joined later by some clergy and nobles)",
+      "Only nobles",
+      "Only clergy",
+      "The king alone"
+    ],
+    "correct_index": 0,
+    "solution": "The NATIONAL ASSEMBLY was formed by the THIRD ESTATE (later joined by some clergy and nobles). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following ideas from the French Revolution influenced the world?",
+    "options": [
+      "Liberty, equality, fraternity, and the rights of citizens",
+      "Absolute monarchy",
+      "Feudalism",
+      "Slavery"
+    ],
+    "correct_index": 0,
+    "solution": "The Revolution spread ideas of LIBERTY, EQUALITY, FRATERNITY, and the RIGHTS of CITIZENS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Bastille stormed — 14 July 1789 2. Republic declared — 1792 3. Louis XVI executed — 1793. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE match: BASTILLE → 14 July 1789; REPUBLIC → 1792; LOUIS XVI executed → 1793. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall theme of 'The French Revolution' is how:",
+    "options": [
+      "The overthrow of absolute monarchy spread ideas of liberty, equality and popular sovereignty",
+      "Kings gained more power",
+      "Feudalism was strengthened",
+      "The Church took over the state"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains how the French Revolution overthrew absolute monarchy and feudal privilege, spreading enduring ideas of liberty, equality and popular sovereignty.",
+    "difficulty": "easy"
+  }
 ]
