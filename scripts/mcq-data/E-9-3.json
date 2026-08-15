@@ -1,52 +1,914 @@
 [
-  { "stem": "Poverty, as understood by social scientists, is a condition marked by:", "options": ["Multiple deprivations — low income, illiteracy, poor health, landlessness", "Only a lack of festivals", "Only a lack of transport", "High income"], "correct_index": 0, "solution": "Poverty involves many dimensions — low income, landlessness, illiteracy, malnutrition, poor health and lack of access to basic services.", "difficulty": "medium" },
-  { "stem": "The 'poverty line' is a level that measures poverty on the basis of:", "options": ["A minimum level of income or consumption needed for basic needs", "The number of festivals", "The type of house colour", "The number of relatives"], "correct_index": 0, "solution": "The poverty line is based on a minimum level of consumption (or income) needed to fulfil basic requirements like food, clothing and shelter.", "difficulty": "medium" },
-  { "stem": "In India, the poverty line is often measured using a minimum calorie requirement of about __________ per person per day in rural areas.", "options": ["2400 calories", "1000 calories", "3500 calories", "500 calories"], "correct_index": 0, "solution": "The rural poverty line is based on a minimum requirement of about 2400 calories per person per day (2100 for urban areas).", "difficulty": "hard" },
-  { "stem": "The minimum calorie requirement used for the urban poverty line is about:", "options": ["2100 calories", "2400 calories", "1500 calories", "3000 calories"], "correct_index": 0, "solution": "The urban poverty line uses a minimum of about 2100 calories per person per day; the rural line uses 2400.", "difficulty": "hard" },
-  { "stem": "The urban poverty line requires fewer calories than the rural line because:", "options": ["Urban people generally do less physically demanding work", "Urban people eat less food", "Rural people are richer", "There is no difference in work"], "correct_index": 0, "solution": "The lower urban calorie requirement reflects the generally less physically demanding work in urban areas compared with rural manual labour.", "difficulty": "hard" },
-  { "stem": "The organisation that conducts surveys to estimate poverty in India is the:", "options": ["National Sample Survey Organisation (NSSO)", "Reserve Bank of India", "Election Commission", "Supreme Court"], "correct_index": 0, "solution": "The National Sample Survey Organisation (NSSO) conducts surveys used to estimate the level of poverty in India.", "difficulty": "hard" },
-  { "stem": "Which of the following social groups is most vulnerable to poverty in India?", "options": ["Scheduled Castes and Scheduled Tribes households", "Large landowners", "Senior bureaucrats", "Industrialists"], "correct_index": 0, "solution": "Scheduled Caste and Scheduled Tribe households, along with casual labourers, are among the most vulnerable to poverty.", "difficulty": "medium" },
-  { "stem": "Which economic group is highly vulnerable to poverty?", "options": ["Rural agricultural labour and urban casual labour households", "Government officers", "Factory owners", "Big traders"], "correct_index": 0, "solution": "Rural agricultural labour households and urban casual labour households are economically most vulnerable to poverty.", "difficulty": "medium" },
-  { "stem": "Poverty in India shows wide inter-state variation. States with high poverty include:", "options": ["Bihar, Odisha and Madhya Pradesh", "Kerala and Punjab", "Goa and Delhi", "Haryana and Himachal Pradesh"], "correct_index": 0, "solution": "States like Bihar, Odisha and Madhya Pradesh have had high poverty ratios, while Kerala and Punjab have had lower poverty.", "difficulty": "hard" },
-  { "stem": "States that have significantly reduced poverty include:", "options": ["Kerala and Punjab", "Bihar and Odisha", "Madhya Pradesh and Assam", "Uttar Pradesh and Jharkhand"], "correct_index": 0, "solution": "Kerala (through human development), Punjab (through agriculture), Andhra Pradesh and West Bengal have reduced poverty more successfully.", "difficulty": "hard" },
-  { "stem": "A major historical cause of poverty in India was:", "options": ["Colonial exploitation that ruined traditional industries", "Too much industrial growth", "High wages", "Rapid development"], "correct_index": 0, "solution": "British colonial policies ruined traditional handicrafts and industries and drained resources, entrenching poverty.", "difficulty": "medium" },
-  { "stem": "Which of the following is a cause of poverty in India?", "options": ["Low economic development, unemployment and high population pressure", "Rapid industrial growth", "High per capita income", "Full employment"], "correct_index": 0, "solution": "Poverty results from low economic development, unemployment, unequal land distribution, indebtedness and population pressure.", "difficulty": "medium" },
-  { "stem": "Indebtedness contributes to poverty because poor people:", "options": ["Borrow at high interest and remain trapped in debt", "Never borrow", "Earn high interest", "Have no need for loans"], "correct_index": 0, "solution": "The poor often borrow to meet basic needs and, unable to repay high-interest loans, remain trapped in a cycle of debt and poverty.", "difficulty": "medium" },
-  { "stem": "The main strategy of the government to remove poverty is a combination of:", "options": ["Promoting economic growth and targeted anti-poverty programmes", "Ignoring the poor", "Reducing all schemes", "Only charity"], "correct_index": 0, "solution": "The anti-poverty strategy combines promoting overall economic growth with targeted anti-poverty programmes.", "difficulty": "medium" },
-  { "stem": "The scheme that guarantees 100 days of wage employment to rural households is the:", "options": ["MGNREGA (2005)", "Green Revolution", "Operation Flood", "Sarva Shiksha Abhiyan"], "correct_index": 0, "solution": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), 2005, guarantees 100 days of wage employment to rural households.", "difficulty": "hard" },
-  { "stem": "The Antyodaya Anna Yojana (AAY) is aimed at:", "options": ["Providing food grains to the poorest of the poor", "Building roads", "Providing loans to industry", "Giving free electricity"], "correct_index": 0, "solution": "The Antyodaya Anna Yojana provides highly subsidised food grains to the poorest of the poor families.", "difficulty": "hard" },
-  { "stem": "The economist who broadened the understanding of poverty through the idea of 'capability' was:", "options": ["Amartya Sen", "Adam Smith", "Karl Marx", "David Ricardo"], "correct_index": 0, "solution": "Amartya Sen argued that poverty should be seen as a lack of 'capabilities' — the freedom and means to live a decent life.", "difficulty": "hard" },
-  { "stem": "The 'human poverty' concept looks beyond income to include:", "options": ["Access to education, healthcare, sanitation and dignity", "Only calorie intake", "Only landholding", "Only house size"], "correct_index": 0, "solution": "Human poverty is a broader idea that includes deprivation in education, healthcare, sanitation, security and dignity, not just income.", "difficulty": "hard" },
-  { "stem": "The proportion of people below the poverty line in India has, over the decades, generally:", "options": ["Declined", "Increased sharply", "Remained exactly the same", "Doubled"], "correct_index": 0, "solution": "The poverty ratio (percentage of people below the poverty line) has generally declined over the decades, though the number remains large.", "difficulty": "medium" },
-  { "stem": "The World Bank measures global poverty using a benchmark of:", "options": ["A minimum amount of income per person per day (in US dollars)", "The number of festivals", "House size", "The number of cars"], "correct_index": 0, "solution": "The World Bank uses an international poverty line based on a minimum income (in US dollars) per person per day.", "difficulty": "hard" },
-  { "stem": "Unequal distribution of land and resources contributes to poverty because:", "options": ["Many people lack the assets needed to earn a decent living", "Everyone owns equal land", "Land has no value", "Resources are unlimited"], "correct_index": 0, "solution": "Unequal distribution leaves many without land or productive assets, keeping them poor.", "difficulty": "medium" },
-  { "stem": "Poverty is described as a 'challenge' because it:", "options": ["Affects millions and must be tackled through sustained effort", "Is easily solved overnight", "Does not exist", "Affects only a few"], "correct_index": 0, "solution": "Poverty is a major challenge affecting millions, requiring sustained economic growth and targeted measures to overcome.", "difficulty": "medium" },
-  { "stem": "Social exclusion as a dimension of poverty means:", "options": ["Being excluded from facilities and opportunities enjoyed by others", "Being wealthy", "Having full access", "Being in power"], "correct_index": 0, "solution": "Social exclusion means the poor are cut off from the facilities, benefits and opportunities that better-off people enjoy.", "difficulty": "hard" },
-  { "stem": "Vulnerability to poverty describes the greater probability of certain groups:", "options": ["Becoming or remaining poor in the future", "Becoming rich", "Escaping poverty easily", "Being unaffected"], "correct_index": 0, "solution": "Vulnerability measures the greater likelihood of certain communities or individuals of becoming, or staying, poor.", "difficulty": "hard" },
-  { "stem": "Which of the following measures directly helps the rural poor find work?", "options": ["MGNREGA (rural employment guarantee)", "Building luxury malls", "Reducing schemes", "Cutting rural spending"], "correct_index": 0, "solution": "MGNREGA directly provides guaranteed wage employment to the rural poor, helping reduce poverty.", "difficulty": "medium" },
-  { "stem": "The government's anti-poverty programmes have had limited success partly because of:", "options": ["Lack of proper implementation and leakages/corruption", "Too much funding", "Overuse by the rich only", "No poverty existing"], "correct_index": 0, "solution": "Poor implementation, corruption and the diversion of benefits have limited the success of anti-poverty programmes.", "difficulty": "medium" },
-  { "stem": "The poverty line in India is estimated on the basis of income or:", "options": ["Consumption/expenditure levels", "The number of children", "House colour", "Landholding only"], "correct_index": 0, "solution": "The poverty line is estimated on the basis of income or, more commonly in India, consumption/expenditure levels.", "difficulty": "medium" },
-  { "stem": "Which of the following is a targeted anti-poverty programme?", "options": ["The Prime Minister's Rozgar Yojana (self-employment for youth)", "The Green Revolution", "The Industrial Policy", "The census"], "correct_index": 0, "solution": "Programmes like the Prime Minister's Rozgar Yojana (for self-employment among educated youth) are targeted anti-poverty measures.", "difficulty": "hard" },
-  { "stem": "High population pressure worsens poverty when:", "options": ["Resources and jobs do not grow fast enough for the growing population", "The population falls", "Resources are unlimited", "There are no people"], "correct_index": 0, "solution": "Rapid population growth worsens poverty if the economy and job opportunities do not expand fast enough to support it.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about poverty in India is correct?", "options": ["Both the poverty ratio and the absolute number of poor are important measures", "Poverty affects no one", "Poverty is evenly spread across all groups", "Poverty has been fully eliminated"], "correct_index": 0, "solution": "Both the poverty ratio (percentage) and the absolute number of poor are important; while the ratio has fallen, the number of poor remains large.", "difficulty": "medium" },
-  { "stem": "Casual labourers are vulnerable to poverty because they:", "options": ["Have irregular, low-paid and insecure work", "Have secure high-paying jobs", "Own large businesses", "Never work"], "correct_index": 0, "solution": "Casual labourers face irregular, low-paid and insecure work, making them highly vulnerable to poverty.", "difficulty": "medium" },
-  { "stem": "Removing poverty requires not just growth but also:", "options": ["Equitable distribution and investment in the poor's education and health", "Ignoring the poor", "Concentrating wealth", "Reducing schemes"], "correct_index": 0, "solution": "Reducing poverty needs growth that is shared equitably, along with investment in the education, health and skills of the poor.", "difficulty": "medium" },
-  { "stem": "The idea that poverty is more than a lack of income reflects the __________ understanding of poverty.", "options": ["broader (multidimensional)", "narrow", "outdated", "purely monetary"], "correct_index": 0, "solution": "The broader, multidimensional understanding sees poverty as including deprivation in health, education and dignity, not just low income.", "difficulty": "medium" },
-  { "stem": "Which of the following would help reduce poverty in the long run?", "options": ["Higher economic growth with more jobs and better education/health", "Less education", "Fewer jobs", "Ignoring the poor"], "correct_index": 0, "solution": "Long-term poverty reduction requires higher economic growth that creates jobs, along with better education and health for the poor.", "difficulty": "medium" },
-  { "stem": "The eradication of poverty is a goal of the Indian government because poverty:", "options": ["Denies people a life of dignity and holds back development", "Helps the economy", "Is desirable", "Has no effect on society"], "correct_index": 0, "solution": "Poverty denies people dignity and basic capabilities and holds back the nation's development, so its removal is a key goal.", "difficulty": "medium" },
-  { "stem": "The poverty ratio differs across social groups, being higher among:", "options": ["SCs, STs and casual labourers", "The urban rich", "Industrialists", "Large farmers"], "correct_index": 0, "solution": "The poverty ratio is higher among Scheduled Castes, Scheduled Tribes and casual labour households.", "difficulty": "medium" },
-  { "stem": "The success of Kerala in reducing poverty is attributed mainly to:", "options": ["Investment in human development (education and health)", "Ignoring education", "Only industry", "Colonial policies"], "correct_index": 0, "solution": "Kerala reduced poverty largely through investment in human resource development — education and healthcare.", "difficulty": "hard" },
-  { "stem": "Which of the following is an indicator used to measure poverty?", "options": ["The proportion of people below the poverty line", "The number of festivals", "The number of temples", "The colour of houses"], "correct_index": 0, "solution": "The proportion of people below the poverty line (the poverty ratio) is a key indicator used to measure poverty.", "difficulty": "medium" },
-  { "stem": "Landlessness contributes to rural poverty because:", "options": ["Those without land depend on insecure, low-paid labour", "Land has no value", "Landless people are rich", "Everyone owns land"], "correct_index": 0, "solution": "Landless rural households depend on insecure and poorly paid agricultural labour, keeping them poor.", "difficulty": "medium" },
-  { "stem": "The main aim of anti-poverty schemes like MGNREGA and AAY is to:", "options": ["Provide employment and food security to the poor", "Help the rich", "Reduce food supply", "End all schemes"], "correct_index": 0, "solution": "Schemes like MGNREGA (employment) and AAY (food) aim to provide livelihood and food security to the poor.", "difficulty": "medium" },
-  { "stem": "The gap between the rich and the poor in India shows that:", "options": ["Growth alone is not enough; its benefits must reach the poor", "Everyone is equal", "Poverty is over", "The poor are the majority of the rich"], "correct_index": 0, "solution": "The rich-poor gap shows that economic growth alone is insufficient; its benefits must reach the poor to reduce poverty.", "difficulty": "medium" },
-  { "stem": "A person is said to be below the poverty line if their consumption/income is:", "options": ["Below the minimum level fixed for basic needs", "Above the average", "The highest in the village", "Equal to the rich"], "correct_index": 0, "solution": "A person is below the poverty line if their consumption or income falls below the minimum level fixed to meet basic needs.", "difficulty": "medium" },
-  { "stem": "Social scientists look at poverty through indicators such as:", "options": ["Illiteracy, malnutrition, lack of access to healthcare and sanitation", "Only the number of cars", "Only festivals", "Only house colour"], "correct_index": 0, "solution": "Social scientists assess poverty through indicators like illiteracy, malnutrition, poor health and lack of access to basic services.", "difficulty": "medium" },
-  { "stem": "Which of the following is a correct statement about poverty reduction?", "options": ["It requires both economic growth and targeted programmes", "It needs no effort", "It happens automatically", "It requires ignoring the poor"], "correct_index": 0, "solution": "Effective poverty reduction requires both broad economic growth and targeted anti-poverty programmes for the vulnerable.", "difficulty": "medium" },
-  { "stem": "The number of poor people in India is still large despite a falling poverty ratio because:", "options": ["The total population is very large", "There are no poor people", "The ratio has increased", "Poverty is fully removed"], "correct_index": 0, "solution": "Even a declining poverty ratio still leaves a large number of poor people, given India's very large population.", "difficulty": "medium" },
-  { "stem": "The removal of poverty is linked to the broader goal of:", "options": ["Human development and social justice", "Increasing inequality", "Concentrating wealth", "Reducing rights"], "correct_index": 0, "solution": "Removing poverty is part of the broader goal of achieving human development and social justice for all.", "difficulty": "medium" },
-  { "stem": "The provision of subsidised food through fair-price shops helps the poor by:", "options": ["Ensuring access to essential food at affordable prices", "Raising food prices", "Reducing food supply", "Helping only the rich"], "correct_index": 0, "solution": "Subsidised food through the public distribution system helps the poor access essential food grains at affordable prices.", "difficulty": "medium" },
-  { "stem": "The challenge of poverty in India is best summed up as:", "options": ["A large number of people still lack the means for a dignified life", "Poverty no longer exists", "Everyone is prosperous", "Poverty affects only cities"], "correct_index": 0, "solution": "Despite progress, a large number of Indians still lack the means for a dignified life, making poverty a continuing challenge.", "difficulty": "medium" },
-  { "stem": "The very first of the United Nations Sustainable Development Goals (SDGs) is to:", "options": ["End poverty in all its forms ('No Poverty')", "Build more highways", "Increase military spending", "Promote tourism"], "correct_index": 0, "solution": "SDG 1 is 'No Poverty' — to end poverty in all its forms everywhere, reflecting poverty's status as a global challenge.", "difficulty": "hard" },
-  { "stem": "The overall theme of 'Poverty as a Challenge' is that:", "options": ["Poverty is a major, multidimensional problem that India must tackle through growth and targeted measures", "Poverty is not a problem", "Poverty helps development", "Poverty affects no one"], "correct_index": 0, "solution": "The chapter explains poverty as a serious, multidimensional challenge and discusses its causes, measurement and the measures needed to tackle it.", "difficulty": "easy" }
+  {
+    "stem": "Poverty, as understood by social scientists, is a condition marked by:",
+    "options": [
+      "Multiple deprivations — low income, illiteracy, poor health, landlessness",
+      "Only a lack of festivals",
+      "Only a lack of transport",
+      "High income"
+    ],
+    "correct_index": 0,
+    "solution": "Poverty involves many dimensions — low income, landlessness, illiteracy, malnutrition, poor health and lack of access to basic services.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'poverty line' is a level that measures poverty on the basis of:",
+    "options": [
+      "A minimum level of income or consumption needed for basic needs",
+      "The number of festivals",
+      "The type of house colour",
+      "The number of relatives"
+    ],
+    "correct_index": 0,
+    "solution": "The poverty line is based on a minimum level of consumption (or income) needed to fulfil basic requirements like food, clothing and shelter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In India, the poverty line is often measured using a minimum calorie requirement of about __________ per person per day in rural areas.",
+    "options": [
+      "2400 calories",
+      "1000 calories",
+      "3500 calories",
+      "500 calories"
+    ],
+    "correct_index": 0,
+    "solution": "The rural poverty line is based on a minimum requirement of about 2400 calories per person per day (2100 for urban areas).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The minimum calorie requirement used for the urban poverty line is about:",
+    "options": [
+      "2100 calories",
+      "2400 calories",
+      "1500 calories",
+      "3000 calories"
+    ],
+    "correct_index": 0,
+    "solution": "The urban poverty line uses a minimum of about 2100 calories per person per day; the rural line uses 2400.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The urban poverty line requires fewer calories than the rural line because:",
+    "options": [
+      "Urban people generally do less physically demanding work",
+      "Urban people eat less food",
+      "Rural people are richer",
+      "There is no difference in work"
+    ],
+    "correct_index": 0,
+    "solution": "The lower urban calorie requirement reflects the generally less physically demanding work in urban areas compared with rural manual labour.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The organisation that conducts surveys to estimate poverty in India is the:",
+    "options": [
+      "National Sample Survey Organisation (NSSO)",
+      "Reserve Bank of India",
+      "Election Commission",
+      "Supreme Court"
+    ],
+    "correct_index": 0,
+    "solution": "The National Sample Survey Organisation (NSSO) conducts surveys used to estimate the level of poverty in India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following social groups is most vulnerable to poverty in India?",
+    "options": [
+      "Scheduled Castes and Scheduled Tribes households",
+      "Large landowners",
+      "Senior bureaucrats",
+      "Industrialists"
+    ],
+    "correct_index": 0,
+    "solution": "Scheduled Caste and Scheduled Tribe households, along with casual labourers, are among the most vulnerable to poverty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which economic group is highly vulnerable to poverty?",
+    "options": [
+      "Rural agricultural labour and urban casual labour households",
+      "Government officers",
+      "Factory owners",
+      "Big traders"
+    ],
+    "correct_index": 0,
+    "solution": "Rural agricultural labour households and urban casual labour households are economically most vulnerable to poverty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Poverty in India shows wide inter-state variation. States with high poverty include:",
+    "options": [
+      "Bihar, Odisha and Madhya Pradesh",
+      "Kerala and Punjab",
+      "Goa and Delhi",
+      "Haryana and Himachal Pradesh"
+    ],
+    "correct_index": 0,
+    "solution": "States like Bihar, Odisha and Madhya Pradesh have had high poverty ratios, while Kerala and Punjab have had lower poverty.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "States that have significantly reduced poverty include:",
+    "options": [
+      "Kerala and Punjab",
+      "Bihar and Odisha",
+      "Madhya Pradesh and Assam",
+      "Uttar Pradesh and Jharkhand"
+    ],
+    "correct_index": 0,
+    "solution": "Kerala (through human development), Punjab (through agriculture), Andhra Pradesh and West Bengal have reduced poverty more successfully.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A major historical cause of poverty in India was:",
+    "options": [
+      "Colonial exploitation that ruined traditional industries",
+      "Too much industrial growth",
+      "High wages",
+      "Rapid development"
+    ],
+    "correct_index": 0,
+    "solution": "British colonial policies ruined traditional handicrafts and industries and drained resources, entrenching poverty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a cause of poverty in India?",
+    "options": [
+      "Low economic development, unemployment and high population pressure",
+      "Rapid industrial growth",
+      "High per capita income",
+      "Full employment"
+    ],
+    "correct_index": 0,
+    "solution": "Poverty results from low economic development, unemployment, unequal land distribution, indebtedness and population pressure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Indebtedness contributes to poverty because poor people:",
+    "options": [
+      "Borrow at high interest and remain trapped in debt",
+      "Never borrow",
+      "Earn high interest",
+      "Have no need for loans"
+    ],
+    "correct_index": 0,
+    "solution": "The poor often borrow to meet basic needs and, unable to repay high-interest loans, remain trapped in a cycle of debt and poverty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main strategy of the government to remove poverty is a combination of:",
+    "options": [
+      "Promoting economic growth and targeted anti-poverty programmes",
+      "Ignoring the poor",
+      "Reducing all schemes",
+      "Only charity"
+    ],
+    "correct_index": 0,
+    "solution": "The anti-poverty strategy combines promoting overall economic growth with targeted anti-poverty programmes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scheme that guarantees 100 days of wage employment to rural households is the:",
+    "options": [
+      "MGNREGA (2005)",
+      "Green Revolution",
+      "Operation Flood",
+      "Sarva Shiksha Abhiyan"
+    ],
+    "correct_index": 0,
+    "solution": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), 2005, guarantees 100 days of wage employment to rural households.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Antyodaya Anna Yojana (AAY) is aimed at:",
+    "options": [
+      "Providing food grains to the poorest of the poor",
+      "Building roads",
+      "Providing loans to industry",
+      "Giving free electricity"
+    ],
+    "correct_index": 0,
+    "solution": "The Antyodaya Anna Yojana provides highly subsidised food grains to the poorest of the poor families.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The economist who broadened the understanding of poverty through the idea of 'capability' was:",
+    "options": [
+      "Amartya Sen",
+      "Adam Smith",
+      "Karl Marx",
+      "David Ricardo"
+    ],
+    "correct_index": 0,
+    "solution": "Amartya Sen argued that poverty should be seen as a lack of 'capabilities' — the freedom and means to live a decent life.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'human poverty' concept looks beyond income to include:",
+    "options": [
+      "Access to education, healthcare, sanitation and dignity",
+      "Only calorie intake",
+      "Only landholding",
+      "Only house size"
+    ],
+    "correct_index": 0,
+    "solution": "Human poverty is a broader idea that includes deprivation in education, healthcare, sanitation, security and dignity, not just income.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The proportion of people below the poverty line in India has, over the decades, generally:",
+    "options": [
+      "Declined",
+      "Increased sharply",
+      "Remained exactly the same",
+      "Doubled"
+    ],
+    "correct_index": 0,
+    "solution": "The poverty ratio (percentage of people below the poverty line) has generally declined over the decades, though the number remains large.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The World Bank measures global poverty using a benchmark of:",
+    "options": [
+      "A minimum amount of income per person per day (in US dollars)",
+      "The number of festivals",
+      "House size",
+      "The number of cars"
+    ],
+    "correct_index": 0,
+    "solution": "The World Bank uses an international poverty line based on a minimum income (in US dollars) per person per day.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Unequal distribution of land and resources contributes to poverty because:",
+    "options": [
+      "Many people lack the assets needed to earn a decent living",
+      "Everyone owns equal land",
+      "Land has no value",
+      "Resources are unlimited"
+    ],
+    "correct_index": 0,
+    "solution": "Unequal distribution leaves many without land or productive assets, keeping them poor.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Poverty is described as a 'challenge' because it:",
+    "options": [
+      "Affects millions and must be tackled through sustained effort",
+      "Is easily solved overnight",
+      "Does not exist",
+      "Affects only a few"
+    ],
+    "correct_index": 0,
+    "solution": "Poverty is a major challenge affecting millions, requiring sustained economic growth and targeted measures to overcome.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Social exclusion as a dimension of poverty means:",
+    "options": [
+      "Being excluded from facilities and opportunities enjoyed by others",
+      "Being wealthy",
+      "Having full access",
+      "Being in power"
+    ],
+    "correct_index": 0,
+    "solution": "Social exclusion means the poor are cut off from the facilities, benefits and opportunities that better-off people enjoy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Vulnerability to poverty describes the greater probability of certain groups:",
+    "options": [
+      "Becoming or remaining poor in the future",
+      "Becoming rich",
+      "Escaping poverty easily",
+      "Being unaffected"
+    ],
+    "correct_index": 0,
+    "solution": "Vulnerability measures the greater likelihood of certain communities or individuals of becoming, or staying, poor.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following measures directly helps the rural poor find work?",
+    "options": [
+      "MGNREGA (rural employment guarantee)",
+      "Building luxury malls",
+      "Reducing schemes",
+      "Cutting rural spending"
+    ],
+    "correct_index": 0,
+    "solution": "MGNREGA directly provides guaranteed wage employment to the rural poor, helping reduce poverty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The government's anti-poverty programmes have had limited success partly because of:",
+    "options": [
+      "Lack of proper implementation and leakages/corruption",
+      "Too much funding",
+      "Overuse by the rich only",
+      "No poverty existing"
+    ],
+    "correct_index": 0,
+    "solution": "Poor implementation, corruption and the diversion of benefits have limited the success of anti-poverty programmes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The poverty line in India is estimated on the basis of income or:",
+    "options": [
+      "Consumption/expenditure levels",
+      "The number of children",
+      "House colour",
+      "Landholding only"
+    ],
+    "correct_index": 0,
+    "solution": "The poverty line is estimated on the basis of income or, more commonly in India, consumption/expenditure levels.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a targeted anti-poverty programme?",
+    "options": [
+      "The Prime Minister's Rozgar Yojana (self-employment for youth)",
+      "The Green Revolution",
+      "The Industrial Policy",
+      "The census"
+    ],
+    "correct_index": 0,
+    "solution": "Programmes like the Prime Minister's Rozgar Yojana (for self-employment among educated youth) are targeted anti-poverty measures.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "High population pressure worsens poverty when:",
+    "options": [
+      "Resources and jobs do not grow fast enough for the growing population",
+      "The population falls",
+      "Resources are unlimited",
+      "There are no people"
+    ],
+    "correct_index": 0,
+    "solution": "Rapid population growth worsens poverty if the economy and job opportunities do not expand fast enough to support it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about poverty in India is correct?",
+    "options": [
+      "Both the poverty ratio and the absolute number of poor are important measures",
+      "Poverty affects no one",
+      "Poverty is evenly spread across all groups",
+      "Poverty has been fully eliminated"
+    ],
+    "correct_index": 0,
+    "solution": "Both the poverty ratio (percentage) and the absolute number of poor are important; while the ratio has fallen, the number of poor remains large.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Casual labourers are vulnerable to poverty because they:",
+    "options": [
+      "Have irregular, low-paid and insecure work",
+      "Have secure high-paying jobs",
+      "Own large businesses",
+      "Never work"
+    ],
+    "correct_index": 0,
+    "solution": "Casual labourers face irregular, low-paid and insecure work, making them highly vulnerable to poverty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Removing poverty requires not just growth but also:",
+    "options": [
+      "Equitable distribution and investment in the poor's education and health",
+      "Ignoring the poor",
+      "Concentrating wealth",
+      "Reducing schemes"
+    ],
+    "correct_index": 0,
+    "solution": "Reducing poverty needs growth that is shared equitably, along with investment in the education, health and skills of the poor.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that poverty is more than a lack of income reflects the __________ understanding of poverty.",
+    "options": [
+      "broader (multidimensional)",
+      "narrow",
+      "outdated",
+      "purely monetary"
+    ],
+    "correct_index": 0,
+    "solution": "The broader, multidimensional understanding sees poverty as including deprivation in health, education and dignity, not just low income.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following would help reduce poverty in the long run?",
+    "options": [
+      "Higher economic growth with more jobs and better education/health",
+      "Less education",
+      "Fewer jobs",
+      "Ignoring the poor"
+    ],
+    "correct_index": 0,
+    "solution": "Long-term poverty reduction requires higher economic growth that creates jobs, along with better education and health for the poor.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The eradication of poverty is a goal of the Indian government because poverty:",
+    "options": [
+      "Denies people a life of dignity and holds back development",
+      "Helps the economy",
+      "Is desirable",
+      "Has no effect on society"
+    ],
+    "correct_index": 0,
+    "solution": "Poverty denies people dignity and basic capabilities and holds back the nation's development, so its removal is a key goal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The poverty ratio differs across social groups, being higher among:",
+    "options": [
+      "SCs, STs and casual labourers",
+      "The urban rich",
+      "Industrialists",
+      "Large farmers"
+    ],
+    "correct_index": 0,
+    "solution": "The poverty ratio is higher among Scheduled Castes, Scheduled Tribes and casual labour households.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The success of Kerala in reducing poverty is attributed mainly to:",
+    "options": [
+      "Investment in human development (education and health)",
+      "Ignoring education",
+      "Only industry",
+      "Colonial policies"
+    ],
+    "correct_index": 0,
+    "solution": "Kerala reduced poverty largely through investment in human resource development — education and healthcare.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is an indicator used to measure poverty?",
+    "options": [
+      "The proportion of people below the poverty line",
+      "The number of festivals",
+      "The number of temples",
+      "The colour of houses"
+    ],
+    "correct_index": 0,
+    "solution": "The proportion of people below the poverty line (the poverty ratio) is a key indicator used to measure poverty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Landlessness contributes to rural poverty because:",
+    "options": [
+      "Those without land depend on insecure, low-paid labour",
+      "Land has no value",
+      "Landless people are rich",
+      "Everyone owns land"
+    ],
+    "correct_index": 0,
+    "solution": "Landless rural households depend on insecure and poorly paid agricultural labour, keeping them poor.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main aim of anti-poverty schemes like MGNREGA and AAY is to:",
+    "options": [
+      "Provide employment and food security to the poor",
+      "Help the rich",
+      "Reduce food supply",
+      "End all schemes"
+    ],
+    "correct_index": 0,
+    "solution": "Schemes like MGNREGA (employment) and AAY (food) aim to provide livelihood and food security to the poor.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gap between the rich and the poor in India shows that:",
+    "options": [
+      "Growth alone is not enough; its benefits must reach the poor",
+      "Everyone is equal",
+      "Poverty is over",
+      "The poor are the majority of the rich"
+    ],
+    "correct_index": 0,
+    "solution": "The rich-poor gap shows that economic growth alone is insufficient; its benefits must reach the poor to reduce poverty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A person is said to be below the poverty line if their consumption/income is:",
+    "options": [
+      "Below the minimum level fixed for basic needs",
+      "Above the average",
+      "The highest in the village",
+      "Equal to the rich"
+    ],
+    "correct_index": 0,
+    "solution": "A person is below the poverty line if their consumption or income falls below the minimum level fixed to meet basic needs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Social scientists look at poverty through indicators such as:",
+    "options": [
+      "Illiteracy, malnutrition, lack of access to healthcare and sanitation",
+      "Only the number of cars",
+      "Only festivals",
+      "Only house colour"
+    ],
+    "correct_index": 0,
+    "solution": "Social scientists assess poverty through indicators like illiteracy, malnutrition, poor health and lack of access to basic services.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a correct statement about poverty reduction?",
+    "options": [
+      "It requires both economic growth and targeted programmes",
+      "It needs no effort",
+      "It happens automatically",
+      "It requires ignoring the poor"
+    ],
+    "correct_index": 0,
+    "solution": "Effective poverty reduction requires both broad economic growth and targeted anti-poverty programmes for the vulnerable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of poor people in India is still large despite a falling poverty ratio because:",
+    "options": [
+      "The total population is very large",
+      "There are no poor people",
+      "The ratio has increased",
+      "Poverty is fully removed"
+    ],
+    "correct_index": 0,
+    "solution": "Even a declining poverty ratio still leaves a large number of poor people, given India's very large population.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The removal of poverty is linked to the broader goal of:",
+    "options": [
+      "Human development and social justice",
+      "Increasing inequality",
+      "Concentrating wealth",
+      "Reducing rights"
+    ],
+    "correct_index": 0,
+    "solution": "Removing poverty is part of the broader goal of achieving human development and social justice for all.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The provision of subsidised food through fair-price shops helps the poor by:",
+    "options": [
+      "Ensuring access to essential food at affordable prices",
+      "Raising food prices",
+      "Reducing food supply",
+      "Helping only the rich"
+    ],
+    "correct_index": 0,
+    "solution": "Subsidised food through the public distribution system helps the poor access essential food grains at affordable prices.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The challenge of poverty in India is best summed up as:",
+    "options": [
+      "A large number of people still lack the means for a dignified life",
+      "Poverty no longer exists",
+      "Everyone is prosperous",
+      "Poverty affects only cities"
+    ],
+    "correct_index": 0,
+    "solution": "Despite progress, a large number of Indians still lack the means for a dignified life, making poverty a continuing challenge.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The very first of the United Nations Sustainable Development Goals (SDGs) is to:",
+    "options": [
+      "End poverty in all its forms ('No Poverty')",
+      "Build more highways",
+      "Increase military spending",
+      "Promote tourism"
+    ],
+    "correct_index": 0,
+    "solution": "SDG 1 is 'No Poverty' — to end poverty in all its forms everywhere, reflecting poverty's status as a global challenge.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The minimum calorie requirement for the rural poverty line in India is:",
+    "options": [
+      "2400 calories per person per day",
+      "2100 calories",
+      "1000 calories",
+      "3000 calories"
+    ],
+    "correct_index": 0,
+    "solution": "The RURAL poverty line uses 2400 CALORIES per person per day. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The minimum calorie requirement for the urban poverty line is:",
+    "options": [
+      "2100 calories per person per day",
+      "2400 calories",
+      "1500 calories",
+      "3000 calories"
+    ],
+    "correct_index": 0,
+    "solution": "The URBAN poverty line uses 2100 CALORIES per person per day. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The urban poverty line requires fewer calories than the rural one because:",
+    "options": [
+      "Urban people do less physical labour on average",
+      "Urban people eat less",
+      "Rural people are richer",
+      "Cities have no food"
+    ],
+    "correct_index": 0,
+    "solution": "The URBAN calorie norm is LOWER because urban people do LESS PHYSICAL LABOUR on average. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scheme that guarantees 100 days of wage employment to rural households is:",
+    "options": [
+      "MGNREGA (2005)",
+      "Green Revolution",
+      "Operation Flood",
+      "Sarva Shiksha Abhiyan"
+    ],
+    "correct_index": 0,
+    "solution": "MGNREGA (2005) guarantees 100 DAYS of WAGE EMPLOYMENT to rural households. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The economist who broadened poverty to include the 'capability' to live a decent life was:",
+    "options": [
+      "Amartya Sen",
+      "Adam Smith",
+      "Karl Marx",
+      "Keynes"
+    ],
+    "correct_index": 0,
+    "solution": "AMARTYA SEN broadened poverty to include the CAPABILITY to live a decent life, not just income. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The World Bank's benchmark for extreme global poverty is people living on less than about:",
+    "options": [
+      "$2.15 a day (earlier $1.90/$1.25)",
+      "$100 a day",
+      "$50 a day",
+      "$1000 a month"
+    ],
+    "correct_index": 0,
+    "solution": "The WORLD BANK's benchmark for extreme poverty is living on less than about $2.15 a DAY (earlier $1.90/$1.25). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The first of the United Nations Sustainable Development Goals (SDG-1) is:",
+    "options": [
+      "No Poverty",
+      "Quality Education",
+      "Zero Hunger",
+      "Clean Water"
+    ],
+    "correct_index": 0,
+    "solution": "SDG-1 is 'NO POVERTY'. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match List-I (Scheme) with List-II (Purpose): P. MGNREGA Q. Antyodaya Anna Yojana R. PDS | 1. Subsidised food through fair-price shops 2. 100 days wage employment 3. Food for the poorest of the poor",
+    "options": [
+      "P-2, Q-3, R-1",
+      "P-1, Q-2, R-3",
+      "P-3, Q-1, R-2",
+      "P-2, Q-1, R-3"
+    ],
+    "correct_index": 0,
+    "solution": "MGNREGA → 100 days wage employment (P-2); Antyodaya Anna Yojana → food for the poorest (Q-3); PDS → subsidised food via fair-price shops (R-1). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Antyodaya Anna Yojana (AAY) aims to provide subsidised food to:",
+    "options": [
+      "The poorest of the poor families",
+      "The rich",
+      "All citizens equally",
+      "Foreigners"
+    ],
+    "correct_index": 0,
+    "solution": "The ANTYODAYA ANNA YOJANA provides subsidised food to the POOREST of the POOR families. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'poverty line' measures poverty on the basis of:",
+    "options": [
+      "A minimum level of income or consumption needed to meet basic needs",
+      "The number of cars owned",
+      "The size of houses only",
+      "Rainfall"
+    ],
+    "correct_index": 0,
+    "solution": "The POVERTY LINE is a minimum level of INCOME or CONSUMPTION needed to meet BASIC NEEDS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A person is said to be below the poverty line if their income/consumption is:",
+    "options": [
+      "Below the minimum level needed for basic needs",
+      "Above the average",
+      "Very high",
+      "Equal to the rich"
+    ],
+    "correct_index": 0,
+    "solution": "A person is BELOW the POVERTY LINE if their income/consumption is BELOW the minimum needed for BASIC NEEDS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Poverty in India shows wide inter-state variation. Reason (R): States differ in economic development, land reforms, and social spending. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — poverty varies across states. R is TRUE and EXPLAINS A: states differ in ECONOMIC DEVELOPMENT, LAND REFORMS, and SOCIAL SPENDING. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "States that have significantly reduced poverty through human development include:",
+    "options": [
+      "Kerala and Punjab",
+      "Bihar and Odisha (historically high poverty)",
+      "Only Rajasthan",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "KERALA (via human development) and PUNJAB (via agriculture) significantly REDUCED POVERTY. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Vulnerability to poverty describes:",
+    "options": [
+      "The greater probability of certain groups becoming or remaining poor",
+      "Being wealthy",
+      "Immunity to poverty",
+      "Certain safety from poverty"
+    ],
+    "correct_index": 0,
+    "solution": "VULNERABILITY is the GREATER PROBABILITY of certain groups BECOMING or REMAINING POOR. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main strategy of the government to remove poverty has been based on:",
+    "options": [
+      "Economic growth plus targeted anti-poverty programmes",
+      "Ignoring the poor",
+      "Reducing growth",
+      "Cutting all schemes"
+    ],
+    "correct_index": 0,
+    "solution": "The strategy is ECONOMIC GROWTH plus TARGETED ANTI-POVERTY programmes. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The provision of subsidised food through fair-price shops is done under the:",
+    "options": [
+      "Public Distribution System (PDS)",
+      "Green Revolution",
+      "MGNREGA",
+      "Operation Flood"
+    ],
+    "correct_index": 0,
+    "solution": "SUBSIDISED food through FAIR-PRICE SHOPS is provided under the PUBLIC DISTRIBUTION SYSTEM (PDS). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The proportion of people below the poverty line is measured by the:",
+    "options": [
+      "Head Count Ratio (poverty ratio)",
+      "Sex ratio",
+      "Literacy rate",
+      "Birth rate"
+    ],
+    "correct_index": 0,
+    "solution": "The proportion below the poverty line is the HEAD COUNT RATIO (poverty ratio). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The number of poor people in India remains large despite economic growth because:",
+    "options": [
+      "Growth has been unequal and has not reached everyone",
+      "Everyone is rich",
+      "There is no growth",
+      "Poverty ended long ago"
+    ],
+    "correct_index": 0,
+    "solution": "Poverty remains large because GROWTH has been UNEQUAL and has NOT REACHED everyone. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main aim of anti-poverty schemes like MGNREGA and PDS is to:",
+    "options": [
+      "Provide employment and food security to the poor",
+      "Help the rich",
+      "Reduce jobs",
+      "Increase poverty"
+    ],
+    "correct_index": 0,
+    "solution": "Anti-poverty schemes aim to PROVIDE EMPLOYMENT (MGNREGA) and FOOD SECURITY (PDS) to the POOR. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that poverty is more than a lack of income reflects the concept of:",
+    "options": [
+      "Multidimensional / human poverty",
+      "Income poverty only",
+      "Wealth",
+      "Prosperity"
+    ],
+    "correct_index": 0,
+    "solution": "That poverty is MORE than lack of INCOME reflects MULTIDIMENSIONAL / HUMAN POVERTY. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The eradication of poverty is linked to the broader goal of:",
+    "options": [
+      "Human development and social justice",
+      "Increasing inequality",
+      "Reducing development",
+      "Ignoring the poor"
+    ],
+    "correct_index": 0,
+    "solution": "Eradicating POVERTY is linked to HUMAN DEVELOPMENT and SOCIAL JUSTICE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. MGNREGA — 2005 2. NSSO — poverty surveys 3. Amartya Sen — capability approach. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE match: MGNREGA → 2005; NSSO → poverty surveys; AMARTYA SEN → capability approach. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The poverty ratio differs across social groups, being highest among:",
+    "options": [
+      "Scheduled Tribes and Scheduled Castes and casual labourers",
+      "Industrialists",
+      "Government officers",
+      "Landlords"
+    ],
+    "correct_index": 0,
+    "solution": "The POVERTY RATIO is HIGHEST among SCHEDULED TRIBES, SCHEDULED CASTES, and CASUAL LABOURERS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Land reforms help reduce rural poverty by:",
+    "options": [
+      "Giving the landless access to land and secure livelihoods",
+      "Taking land from the poor",
+      "Concentrating land with a few",
+      "Ending farming"
+    ],
+    "correct_index": 0,
+    "solution": "LAND REFORMS reduce poverty by GIVING the LANDLESS access to LAND and secure livelihoods. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The National Food Security Act (2013) aims to:",
+    "options": [
+      "Provide subsidised food grains to a large section of the population as a right",
+      "Reduce food supply",
+      "Help only the rich",
+      "End the PDS"
+    ],
+    "correct_index": 0,
+    "solution": "The NATIONAL FOOD SECURITY ACT (2013) provides SUBSIDISED FOOD GRAINS to a large section as a RIGHT. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The anti-poverty measure that combines employment with rural asset creation is:",
+    "options": [
+      "MGNREGA",
+      "The census",
+      "Elections",
+      "The Green Revolution alone"
+    ],
+    "correct_index": 0,
+    "solution": "MGNREGA combines EMPLOYMENT with RURAL ASSET CREATION (roads, ponds, etc.). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall theme of 'Poverty as a Challenge' is that:",
+    "options": [
+      "Poverty is a major, multidimensional problem that India must tackle through growth and targeted measures",
+      "Poverty is not a problem",
+      "Poverty helps development",
+      "Poverty affects no one"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains poverty as a serious, multidimensional challenge and discusses its causes, measurement and the measures needed to tackle it.",
+    "difficulty": "easy"
+  }
 ]
