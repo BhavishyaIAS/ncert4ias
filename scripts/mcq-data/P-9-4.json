@@ -1,52 +1,1034 @@
 [
-  { "stem": "The three main organs (institutions) of government are the legislature, the judiciary and the:", "options": ["Executive", "Election Commission", "Press", "Bureaucracy only"], "correct_index": 0, "solution": "The three organs of government are the legislature (makes laws), the executive (implements them) and the judiciary (interprets them).", "difficulty": "medium" },
-  { "stem": "The organ of government that makes laws is the:", "options": ["Legislature (Parliament)", "Executive", "Judiciary", "Election Commission"], "correct_index": 0, "solution": "The legislature (Parliament at the Union level) is the law-making organ of government.", "difficulty": "medium" },
-  { "stem": "The Parliament of India consists of the President, the Lok Sabha and the:", "options": ["Rajya Sabha", "Supreme Court", "Council of Ministers", "Election Commission"], "correct_index": 0, "solution": "Parliament comprises the President, the Lok Sabha (House of the People) and the Rajya Sabha (Council of States).", "difficulty": "medium" },
-  { "stem": "In money matters, the final say rests with the:", "options": ["Lok Sabha", "Rajya Sabha", "President", "Supreme Court"], "correct_index": 0, "solution": "The Lok Sabha exercises supreme power in money matters; once it passes the budget, the Rajya Sabha cannot reject it.", "difficulty": "hard" },
-  { "stem": "The Council of Ministers is responsible to the:", "options": ["Lok Sabha", "Supreme Court", "Rajya Sabha", "President alone"], "correct_index": 0, "solution": "The Council of Ministers is collectively responsible to the Lok Sabha and must retain its majority support.", "difficulty": "hard" },
-  { "stem": "The Lok Sabha can remove the Council of Ministers by passing a:", "options": ["No-confidence motion", "Money bill", "Constitutional amendment", "Writ"], "correct_index": 0, "solution": "If the Lok Sabha passes a no-confidence motion, the Council of Ministers must resign.", "difficulty": "hard" },
-  { "stem": "The ministers who are elected representatives and take major policy decisions form the:", "options": ["Political executive", "Permanent executive", "Judiciary", "Legislature only"], "correct_index": 0, "solution": "The political executive (ministers) is elected and takes major policy decisions; the permanent executive (civil servants) implements them.", "difficulty": "hard" },
-  { "stem": "The permanent officials (civil servants) who assist ministers form the:", "options": ["Permanent executive / bureaucracy", "Political executive", "Legislature", "Judiciary"], "correct_index": 0, "solution": "The permanent executive (bureaucracy/civil service) consists of officials who assist the political executive and run day-to-day administration.", "difficulty": "hard" },
-  { "stem": "Why does the political executive have more power than the permanent executive?", "options": ["Because it is accountable to the people and represents their will", "Because it is unelected", "Because it is permanent", "Because it is appointed by judges"], "correct_index": 0, "solution": "The political executive has more power because it is elected by and accountable to the people, unlike the appointed permanent executive.", "difficulty": "hard" },
-  { "stem": "The Prime Minister is appointed by the:", "options": ["President", "Chief Justice", "Speaker", "Election Commission"], "correct_index": 0, "solution": "The President appoints as Prime Minister the leader of the majority party or coalition in the Lok Sabha.", "difficulty": "medium" },
-  { "stem": "The other ministers of the Council of Ministers are appointed by the President on the advice of the:", "options": ["Prime Minister", "Chief Justice", "Speaker", "Governor"], "correct_index": 0, "solution": "The President appoints the ministers on the advice of the Prime Minister.", "difficulty": "medium" },
-  { "stem": "The head of the government at the national level is the:", "options": ["Prime Minister", "President", "Chief Justice", "Governor"], "correct_index": 0, "solution": "The Prime Minister is the head of the government; the President is the head of state.", "difficulty": "medium" },
-  { "stem": "The President of India is the:", "options": ["Head of state (nominal executive)", "Head of government", "Chief Justice", "Speaker of the Lok Sabha"], "correct_index": 0, "solution": "The President is the head of state and the nominal executive, while the Prime Minister is the real head of government.", "difficulty": "medium" },
-  { "stem": "The President exercises his/her powers mainly on the advice of the:", "options": ["Council of Ministers", "Supreme Court", "Election Commission", "Speaker"], "correct_index": 0, "solution": "The President generally acts on the advice of the Council of Ministers headed by the Prime Minister.", "difficulty": "hard" },
-  { "stem": "The President of India is elected by:", "options": ["An electoral college of elected MPs and MLAs", "All citizens directly", "The Prime Minister", "The judiciary"], "correct_index": 0, "solution": "The President is elected indirectly by an electoral college of the elected members of Parliament and the State Legislative Assemblies.", "difficulty": "hard" },
-  { "stem": "The highest court in India is the:", "options": ["Supreme Court", "High Court", "District Court", "Family Court"], "correct_index": 0, "solution": "The Supreme Court is the apex (highest) court of India.", "difficulty": "easy" },
-  { "stem": "The power of the judiciary to declare a law invalid if it violates the Constitution is called:", "options": ["Judicial review", "Legislation", "Impeachment", "Delegation"], "correct_index": 0, "solution": "Judicial review is the power of the courts to strike down laws or actions that violate the Constitution.", "difficulty": "hard" },
-  { "stem": "The independence of the judiciary means that it is:", "options": ["Free from the control of the legislature and executive", "Controlled by ministers", "Run by the ruling party", "Under the police"], "correct_index": 0, "solution": "Judicial independence means the judiciary functions free from the control of the other organs, ensuring impartial justice.", "difficulty": "medium" },
-  { "stem": "The government decision discussed in the chapter — reservation of jobs for 'backward classes' — was based on the recommendations of the:", "options": ["Second Backward Classes (Mandal) Commission", "Simon Commission", "Sachar Committee", "Hunter Commission"], "correct_index": 0, "solution": "The office order reserving 27% of government jobs for socially and educationally backward classes was based on the Mandal Commission's recommendations.", "difficulty": "hard" },
-  { "stem": "The order implementing reservation for backward classes was challenged and finally decided by the:", "options": ["Supreme Court", "Lok Sabha", "Election Commission", "President"], "correct_index": 0, "solution": "The reservation order was challenged in court and its validity was finally settled by the Supreme Court.", "difficulty": "hard" },
-  { "stem": "This example shows that a major government decision usually involves:", "options": ["The executive, the legislature and, if challenged, the judiciary", "Only one minister", "Only the courts", "No institutions"], "correct_index": 0, "solution": "A major decision typically involves the executive (which decides), the legislature (which debates/legislates) and the judiciary (if the decision is challenged).", "difficulty": "medium" },
-  { "stem": "Members of the Lok Sabha are:", "options": ["Directly elected by the people", "Nominated by the President only", "Chosen by state legislatures", "Appointed by judges"], "correct_index": 0, "solution": "Lok Sabha members are directly elected by the people through general elections.", "difficulty": "medium" },
-  { "stem": "Members of the Rajya Sabha are mainly:", "options": ["Elected by the elected members of the State Legislative Assemblies", "Directly elected by all citizens", "Appointed by the Prime Minister", "Chosen by the courts"], "correct_index": 0, "solution": "Most Rajya Sabha members are elected by the elected members of the State Legislative Assemblies.", "difficulty": "hard" },
-  { "stem": "The Lok Sabha is generally more powerful than the Rajya Sabha in matters relating to:", "options": ["Money (budget) and the survival of the government", "Foreign affairs only", "The judiciary", "Elections"], "correct_index": 0, "solution": "The Lok Sabha is more powerful in money matters and because the Council of Ministers is responsible to it (not the Rajya Sabha).", "difficulty": "hard" },
-  { "stem": "The Council of Ministers is headed by the:", "options": ["Prime Minister", "President", "Speaker", "Chief Justice"], "correct_index": 0, "solution": "The Prime Minister heads the Council of Ministers, which forms the political executive.", "difficulty": "medium" },
-  { "stem": "The Cabinet is:", "options": ["The most powerful group of senior ministers within the Council of Ministers", "The whole Parliament", "The Supreme Court", "The Election Commission"], "correct_index": 0, "solution": "The Cabinet is the inner, most powerful group of senior ministers within the Council of Ministers, which takes key decisions.", "difficulty": "hard" },
-  { "stem": "The principle of 'collective responsibility' means that:", "options": ["The whole Council of Ministers is accountable to the Lok Sabha and stands or falls together", "Each minister acts alone", "Ministers answer only to the President", "There is no accountability"], "correct_index": 0, "solution": "Collective responsibility means the entire Council of Ministers is jointly accountable to the Lok Sabha.", "difficulty": "hard" },
-  { "stem": "The separation of powers among the three organs is important because it:", "options": ["Prevents any one organ from becoming too powerful", "Concentrates power in one person", "Ends elections", "Abolishes the judiciary"], "correct_index": 0, "solution": "Separating powers among the legislature, executive and judiciary prevents the concentration and misuse of power.", "difficulty": "medium" },
-  { "stem": "The judiciary protects citizens' rights through the power of:", "options": ["Judicial review and hearing cases including PILs", "Making laws", "Conducting elections", "Collecting taxes"], "correct_index": 0, "solution": "The judiciary protects rights by judicial review and by hearing cases, including Public Interest Litigations (PILs).", "difficulty": "medium" },
-  { "stem": "A key reason for having independent institutions in a democracy is to:", "options": ["Check the misuse of power and ensure decisions follow proper procedure", "Concentrate all power", "Serve the ruling party", "Avoid accountability"], "correct_index": 0, "solution": "Independent institutions check the misuse of power and ensure that decisions are taken through proper, lawful procedures.", "difficulty": "medium" },
-  { "stem": "The formal head of the Indian state, in whose name the government functions, is the:", "options": ["President", "Prime Minister", "Chief Justice", "Speaker"], "correct_index": 0, "solution": "The government functions in the name of the President, who is the formal (constitutional) head of state.", "difficulty": "medium" },
-  { "stem": "The presiding officer of the Lok Sabha is the:", "options": ["Speaker", "President", "Prime Minister", "Chief Justice"], "correct_index": 0, "solution": "The Speaker presides over the Lok Sabha, conducting its proceedings and maintaining order.", "difficulty": "medium" },
-  { "stem": "The power to interpret the Constitution and the laws rests with the:", "options": ["Judiciary", "Legislature", "Executive", "Election Commission"], "correct_index": 0, "solution": "The judiciary has the power to interpret the Constitution and the laws.", "difficulty": "medium" },
-  { "stem": "The 'political executive' is preferred over 'experts' for major decisions because:", "options": ["Elected representatives are accountable to and represent the people", "Experts know nothing", "Experts are elected", "The people cannot be trusted"], "correct_index": 0, "solution": "Major decisions rest with the political executive because elected representatives, unlike experts, are accountable to and represent the will of the people.", "difficulty": "hard" },
-  { "stem": "The Supreme Court and the High Courts can be approached by citizens to:", "options": ["Enforce their Fundamental Rights", "Conduct elections", "Make laws", "Collect revenue"], "correct_index": 0, "solution": "Citizens can approach the Supreme Court and High Courts to enforce their Fundamental Rights.", "difficulty": "medium" },
-  { "stem": "Institutions sometimes cause delays and disagreements, but they are necessary because they:", "options": ["Ensure decisions are properly considered and power is not misused", "Waste time for no reason", "Serve only the powerful", "Prevent all decisions"], "correct_index": 0, "solution": "Though institutions can slow things down, they ensure decisions are carefully considered and that power is exercised responsibly.", "difficulty": "medium" },
-  { "stem": "The government's proposals for taxes and expenditure (the budget) must be approved by the:", "options": ["Parliament (especially the Lok Sabha)", "Supreme Court", "Election Commission", "President alone"], "correct_index": 0, "solution": "The budget — the government's taxation and spending plan — must be approved by Parliament, with the Lok Sabha having the final say.", "difficulty": "hard" },
-  { "stem": "An independent judiciary can even declare a decision of the government or a law of the legislature:", "options": ["Unconstitutional (invalid)", "Automatically valid", "A money bill", "A campaign"], "correct_index": 0, "solution": "Through judicial review, an independent judiciary can declare a law or government action unconstitutional and invalid.", "difficulty": "medium" },
-  { "stem": "The Prime Minister remains in office as long as he/she:", "options": ["Commands the support of a majority in the Lok Sabha", "Wins court cases", "Pleases the President", "Controls the army"], "correct_index": 0, "solution": "The Prime Minister stays in office only while commanding the support of a majority in the Lok Sabha.", "difficulty": "medium" },
-  { "stem": "The three organs of government are designed to:", "options": ["Work together while checking and balancing one another", "Compete destructively", "Ignore each other", "Merge into one"], "correct_index": 0, "solution": "The three organs work together while also checking and balancing one another to prevent the misuse of power.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly pairs an institution with its role?", "options": ["Parliament — makes laws", "Executive — interprets laws", "Judiciary — makes laws", "Parliament — decides court cases"], "correct_index": 0, "solution": "Parliament makes laws, the executive implements them, and the judiciary interprets them.", "difficulty": "medium" },
-  { "stem": "The office memorandum on reservations shows how the __________ takes and implements a decision.", "options": ["executive (government)", "judiciary", "Election Commission", "press"], "correct_index": 0, "solution": "The office memorandum illustrates how the executive (the government) takes a decision and issues orders to implement it.", "difficulty": "medium" },
-  { "stem": "The role of institutions in a democracy is to ensure that decisions are made:", "options": ["Through proper procedures with checks on power", "By one person's whim", "In secret", "Without accountability"], "correct_index": 0, "solution": "Institutions ensure that decisions are made through proper procedures, with checks that prevent the arbitrary use of power.", "difficulty": "medium" },
-  { "stem": "Which institution ensures that the government does not misuse its power against citizens' rights?", "options": ["The judiciary", "The ruling party", "The army", "The bureaucracy alone"], "correct_index": 0, "solution": "The independent judiciary ensures the government does not misuse power against citizens' rights, through judicial review and enforcement of rights.", "difficulty": "medium" },
-  { "stem": "The debate and discussion in Parliament before a law is passed helps to:", "options": ["Consider different viewpoints and improve the law", "Waste time for no reason", "Serve one person", "Bypass the people"], "correct_index": 0, "solution": "Parliamentary debate lets representatives of different views examine and improve a proposed law before it is passed.", "difficulty": "medium" },
-  { "stem": "The permanent executive (civil servants) are expected to be:", "options": ["Neutral and to implement the decisions of the political executive", "Loyal to one party", "The real decision-makers on policy", "Elected by the people"], "correct_index": 0, "solution": "Civil servants are expected to be politically neutral and to implement the policies decided by the political executive.", "difficulty": "hard" },
-  { "stem": "The Council of Ministers together with the Prime Minister forms the:", "options": ["Political executive of the Union", "Judiciary", "Legislature", "Election Commission"], "correct_index": 0, "solution": "The Prime Minister and the Council of Ministers together form the political executive at the Union level.", "difficulty": "medium" },
-  { "stem": "A well-functioning democracy needs its institutions to be:", "options": ["Strong, independent and accountable", "Weak and controlled by one person", "Free from all rules", "Run by the army"], "correct_index": 0, "solution": "A healthy democracy needs strong, independent and accountable institutions that check and balance each other.", "difficulty": "medium" },
-  { "stem": "The relationship among the legislature, executive and judiciary is one of:", "options": ["Cooperation along with mutual checks and balances", "Complete separation with no interaction", "Total merger", "Constant destructive conflict"], "correct_index": 0, "solution": "The three organs cooperate to run the government while also checking and balancing one another.", "difficulty": "medium" },
-  { "stem": "The overall theme of 'Working of Institutions' is that:", "options": ["Democratic decisions are made through institutions — legislature, executive and judiciary — that share and check power", "One person makes all decisions", "Institutions are unnecessary", "Only the courts matter"], "correct_index": 0, "solution": "The chapter explains how the legislature, executive and judiciary together take and implement decisions, sharing and checking power in a democracy.", "difficulty": "easy" }
+  {
+    "stem": "The three main organs (institutions) of government are the legislature, the judiciary and the:",
+    "options": [
+      "Executive",
+      "Election Commission",
+      "Press",
+      "Bureaucracy only"
+    ],
+    "correct_index": 0,
+    "solution": "The three organs of government are the legislature (makes laws), the executive (implements them) and the judiciary (interprets them).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The organ of government that makes laws is the:",
+    "options": [
+      "Legislature (Parliament)",
+      "Executive",
+      "Judiciary",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The legislature (Parliament at the Union level) is the law-making organ of government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Parliament of India consists of the President, the Lok Sabha and the:",
+    "options": [
+      "Rajya Sabha",
+      "Supreme Court",
+      "Council of Ministers",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "Parliament comprises the President, the Lok Sabha (House of the People) and the Rajya Sabha (Council of States).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In money matters, the final say rests with the:",
+    "options": [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "President",
+      "Supreme Court"
+    ],
+    "correct_index": 0,
+    "solution": "The Lok Sabha exercises supreme power in money matters; once it passes the budget, the Rajya Sabha cannot reject it.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Council of Ministers is responsible to the:",
+    "options": [
+      "Lok Sabha",
+      "Supreme Court",
+      "Rajya Sabha",
+      "President alone"
+    ],
+    "correct_index": 0,
+    "solution": "The Council of Ministers is collectively responsible to the Lok Sabha and must retain its majority support.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Lok Sabha can remove the Council of Ministers by passing a:",
+    "options": [
+      "No-confidence motion",
+      "Money bill",
+      "Constitutional amendment",
+      "Writ"
+    ],
+    "correct_index": 0,
+    "solution": "If the Lok Sabha passes a no-confidence motion, the Council of Ministers must resign.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The ministers who are elected representatives and take major policy decisions form the:",
+    "options": [
+      "Political executive",
+      "Permanent executive",
+      "Judiciary",
+      "Legislature only"
+    ],
+    "correct_index": 0,
+    "solution": "The political executive (ministers) is elected and takes major policy decisions; the permanent executive (civil servants) implements them.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The permanent officials (civil servants) who assist ministers form the:",
+    "options": [
+      "Permanent executive / bureaucracy",
+      "Political executive",
+      "Legislature",
+      "Judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "The permanent executive (bureaucracy/civil service) consists of officials who assist the political executive and run day-to-day administration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Why does the political executive have more power than the permanent executive?",
+    "options": [
+      "Because it is accountable to the people and represents their will",
+      "Because it is unelected",
+      "Because it is permanent",
+      "Because it is appointed by judges"
+    ],
+    "correct_index": 0,
+    "solution": "The political executive has more power because it is elected by and accountable to the people, unlike the appointed permanent executive.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Prime Minister is appointed by the:",
+    "options": [
+      "President",
+      "Chief Justice",
+      "Speaker",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The President appoints as Prime Minister the leader of the majority party or coalition in the Lok Sabha.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The other ministers of the Council of Ministers are appointed by the President on the advice of the:",
+    "options": [
+      "Prime Minister",
+      "Chief Justice",
+      "Speaker",
+      "Governor"
+    ],
+    "correct_index": 0,
+    "solution": "The President appoints the ministers on the advice of the Prime Minister.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The head of the government at the national level is the:",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Chief Justice",
+      "Governor"
+    ],
+    "correct_index": 0,
+    "solution": "The Prime Minister is the head of the government; the President is the head of state.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The President of India is the:",
+    "options": [
+      "Head of state (nominal executive)",
+      "Head of government",
+      "Chief Justice",
+      "Speaker of the Lok Sabha"
+    ],
+    "correct_index": 0,
+    "solution": "The President is the head of state and the nominal executive, while the Prime Minister is the real head of government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The President exercises his/her powers mainly on the advice of the:",
+    "options": [
+      "Council of Ministers",
+      "Supreme Court",
+      "Election Commission",
+      "Speaker"
+    ],
+    "correct_index": 0,
+    "solution": "The President generally acts on the advice of the Council of Ministers headed by the Prime Minister.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The President of India is elected by:",
+    "options": [
+      "An electoral college of elected MPs and MLAs",
+      "All citizens directly",
+      "The Prime Minister",
+      "The judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "The President is elected indirectly by an electoral college of the elected members of Parliament and the State Legislative Assemblies.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The highest court in India is the:",
+    "options": [
+      "Supreme Court",
+      "High Court",
+      "District Court",
+      "Family Court"
+    ],
+    "correct_index": 0,
+    "solution": "The Supreme Court is the apex (highest) court of India.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The power of the judiciary to declare a law invalid if it violates the Constitution is called:",
+    "options": [
+      "Judicial review",
+      "Legislation",
+      "Impeachment",
+      "Delegation"
+    ],
+    "correct_index": 0,
+    "solution": "Judicial review is the power of the courts to strike down laws or actions that violate the Constitution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The independence of the judiciary means that it is:",
+    "options": [
+      "Free from the control of the legislature and executive",
+      "Controlled by ministers",
+      "Run by the ruling party",
+      "Under the police"
+    ],
+    "correct_index": 0,
+    "solution": "Judicial independence means the judiciary functions free from the control of the other organs, ensuring impartial justice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The government decision discussed in the chapter — reservation of jobs for 'backward classes' — was based on the recommendations of the:",
+    "options": [
+      "Second Backward Classes (Mandal) Commission",
+      "Simon Commission",
+      "Sachar Committee",
+      "Hunter Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The office order reserving 27% of government jobs for socially and educationally backward classes was based on the Mandal Commission's recommendations.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The order implementing reservation for backward classes was challenged and finally decided by the:",
+    "options": [
+      "Supreme Court",
+      "Lok Sabha",
+      "Election Commission",
+      "President"
+    ],
+    "correct_index": 0,
+    "solution": "The reservation order was challenged in court and its validity was finally settled by the Supreme Court.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "This example shows that a major government decision usually involves:",
+    "options": [
+      "The executive, the legislature and, if challenged, the judiciary",
+      "Only one minister",
+      "Only the courts",
+      "No institutions"
+    ],
+    "correct_index": 0,
+    "solution": "A major decision typically involves the executive (which decides), the legislature (which debates/legislates) and the judiciary (if the decision is challenged).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Members of the Lok Sabha are:",
+    "options": [
+      "Directly elected by the people",
+      "Nominated by the President only",
+      "Chosen by state legislatures",
+      "Appointed by judges"
+    ],
+    "correct_index": 0,
+    "solution": "Lok Sabha members are directly elected by the people through general elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Members of the Rajya Sabha are mainly:",
+    "options": [
+      "Elected by the elected members of the State Legislative Assemblies",
+      "Directly elected by all citizens",
+      "Appointed by the Prime Minister",
+      "Chosen by the courts"
+    ],
+    "correct_index": 0,
+    "solution": "Most Rajya Sabha members are elected by the elected members of the State Legislative Assemblies.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Lok Sabha is generally more powerful than the Rajya Sabha in matters relating to:",
+    "options": [
+      "Money (budget) and the survival of the government",
+      "Foreign affairs only",
+      "The judiciary",
+      "Elections"
+    ],
+    "correct_index": 0,
+    "solution": "The Lok Sabha is more powerful in money matters and because the Council of Ministers is responsible to it (not the Rajya Sabha).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Council of Ministers is headed by the:",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Speaker",
+      "Chief Justice"
+    ],
+    "correct_index": 0,
+    "solution": "The Prime Minister heads the Council of Ministers, which forms the political executive.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Cabinet is:",
+    "options": [
+      "The most powerful group of senior ministers within the Council of Ministers",
+      "The whole Parliament",
+      "The Supreme Court",
+      "The Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The Cabinet is the inner, most powerful group of senior ministers within the Council of Ministers, which takes key decisions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The principle of 'collective responsibility' means that:",
+    "options": [
+      "The whole Council of Ministers is accountable to the Lok Sabha and stands or falls together",
+      "Each minister acts alone",
+      "Ministers answer only to the President",
+      "There is no accountability"
+    ],
+    "correct_index": 0,
+    "solution": "Collective responsibility means the entire Council of Ministers is jointly accountable to the Lok Sabha.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The separation of powers among the three organs is important because it:",
+    "options": [
+      "Prevents any one organ from becoming too powerful",
+      "Concentrates power in one person",
+      "Ends elections",
+      "Abolishes the judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "Separating powers among the legislature, executive and judiciary prevents the concentration and misuse of power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The judiciary protects citizens' rights through the power of:",
+    "options": [
+      "Judicial review and hearing cases including PILs",
+      "Making laws",
+      "Conducting elections",
+      "Collecting taxes"
+    ],
+    "correct_index": 0,
+    "solution": "The judiciary protects rights by judicial review and by hearing cases, including Public Interest Litigations (PILs).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key reason for having independent institutions in a democracy is to:",
+    "options": [
+      "Check the misuse of power and ensure decisions follow proper procedure",
+      "Concentrate all power",
+      "Serve the ruling party",
+      "Avoid accountability"
+    ],
+    "correct_index": 0,
+    "solution": "Independent institutions check the misuse of power and ensure that decisions are taken through proper, lawful procedures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The formal head of the Indian state, in whose name the government functions, is the:",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Chief Justice",
+      "Speaker"
+    ],
+    "correct_index": 0,
+    "solution": "The government functions in the name of the President, who is the formal (constitutional) head of state.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The presiding officer of the Lok Sabha is the:",
+    "options": [
+      "Speaker",
+      "President",
+      "Prime Minister",
+      "Chief Justice"
+    ],
+    "correct_index": 0,
+    "solution": "The Speaker presides over the Lok Sabha, conducting its proceedings and maintaining order.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The power to interpret the Constitution and the laws rests with the:",
+    "options": [
+      "Judiciary",
+      "Legislature",
+      "Executive",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The judiciary has the power to interpret the Constitution and the laws.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'political executive' is preferred over 'experts' for major decisions because:",
+    "options": [
+      "Elected representatives are accountable to and represent the people",
+      "Experts know nothing",
+      "Experts are elected",
+      "The people cannot be trusted"
+    ],
+    "correct_index": 0,
+    "solution": "Major decisions rest with the political executive because elected representatives, unlike experts, are accountable to and represent the will of the people.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Supreme Court and the High Courts can be approached by citizens to:",
+    "options": [
+      "Enforce their Fundamental Rights",
+      "Conduct elections",
+      "Make laws",
+      "Collect revenue"
+    ],
+    "correct_index": 0,
+    "solution": "Citizens can approach the Supreme Court and High Courts to enforce their Fundamental Rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Institutions sometimes cause delays and disagreements, but they are necessary because they:",
+    "options": [
+      "Ensure decisions are properly considered and power is not misused",
+      "Waste time for no reason",
+      "Serve only the powerful",
+      "Prevent all decisions"
+    ],
+    "correct_index": 0,
+    "solution": "Though institutions can slow things down, they ensure decisions are carefully considered and that power is exercised responsibly.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The government's proposals for taxes and expenditure (the budget) must be approved by the:",
+    "options": [
+      "Parliament (especially the Lok Sabha)",
+      "Supreme Court",
+      "Election Commission",
+      "President alone"
+    ],
+    "correct_index": 0,
+    "solution": "The budget — the government's taxation and spending plan — must be approved by Parliament, with the Lok Sabha having the final say.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "An independent judiciary can even declare a decision of the government or a law of the legislature:",
+    "options": [
+      "Unconstitutional (invalid)",
+      "Automatically valid",
+      "A money bill",
+      "A campaign"
+    ],
+    "correct_index": 0,
+    "solution": "Through judicial review, an independent judiciary can declare a law or government action unconstitutional and invalid.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Prime Minister remains in office as long as he/she:",
+    "options": [
+      "Commands the support of a majority in the Lok Sabha",
+      "Wins court cases",
+      "Pleases the President",
+      "Controls the army"
+    ],
+    "correct_index": 0,
+    "solution": "The Prime Minister stays in office only while commanding the support of a majority in the Lok Sabha.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three organs of government are designed to:",
+    "options": [
+      "Work together while checking and balancing one another",
+      "Compete destructively",
+      "Ignore each other",
+      "Merge into one"
+    ],
+    "correct_index": 0,
+    "solution": "The three organs work together while also checking and balancing one another to prevent the misuse of power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs an institution with its role?",
+    "options": [
+      "Parliament — makes laws",
+      "Executive — interprets laws",
+      "Judiciary — makes laws",
+      "Parliament — decides court cases"
+    ],
+    "correct_index": 0,
+    "solution": "Parliament makes laws, the executive implements them, and the judiciary interprets them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The office memorandum on reservations shows how the __________ takes and implements a decision.",
+    "options": [
+      "executive (government)",
+      "judiciary",
+      "Election Commission",
+      "press"
+    ],
+    "correct_index": 0,
+    "solution": "The office memorandum illustrates how the executive (the government) takes a decision and issues orders to implement it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The role of institutions in a democracy is to ensure that decisions are made:",
+    "options": [
+      "Through proper procedures with checks on power",
+      "By one person's whim",
+      "In secret",
+      "Without accountability"
+    ],
+    "correct_index": 0,
+    "solution": "Institutions ensure that decisions are made through proper procedures, with checks that prevent the arbitrary use of power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which institution ensures that the government does not misuse its power against citizens' rights?",
+    "options": [
+      "The judiciary",
+      "The ruling party",
+      "The army",
+      "The bureaucracy alone"
+    ],
+    "correct_index": 0,
+    "solution": "The independent judiciary ensures the government does not misuse power against citizens' rights, through judicial review and enforcement of rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The debate and discussion in Parliament before a law is passed helps to:",
+    "options": [
+      "Consider different viewpoints and improve the law",
+      "Waste time for no reason",
+      "Serve one person",
+      "Bypass the people"
+    ],
+    "correct_index": 0,
+    "solution": "Parliamentary debate lets representatives of different views examine and improve a proposed law before it is passed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The permanent executive (civil servants) are expected to be:",
+    "options": [
+      "Neutral and to implement the decisions of the political executive",
+      "Loyal to one party",
+      "The real decision-makers on policy",
+      "Elected by the people"
+    ],
+    "correct_index": 0,
+    "solution": "Civil servants are expected to be politically neutral and to implement the policies decided by the political executive.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Council of Ministers together with the Prime Minister forms the:",
+    "options": [
+      "Political executive of the Union",
+      "Judiciary",
+      "Legislature",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The Prime Minister and the Council of Ministers together form the political executive at the Union level.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A well-functioning democracy needs its institutions to be:",
+    "options": [
+      "Strong, independent and accountable",
+      "Weak and controlled by one person",
+      "Free from all rules",
+      "Run by the army"
+    ],
+    "correct_index": 0,
+    "solution": "A healthy democracy needs strong, independent and accountable institutions that check and balance each other.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The relationship among the legislature, executive and judiciary is one of:",
+    "options": [
+      "Cooperation along with mutual checks and balances",
+      "Complete separation with no interaction",
+      "Total merger",
+      "Constant destructive conflict"
+    ],
+    "correct_index": 0,
+    "solution": "The three organs cooperate to run the government while also checking and balancing one another.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The government decision discussed in the chapter to illustrate how institutions work was the reservation of jobs based on the recommendations of the:",
+    "options": [
+      "Mandal Commission (Second Backward Classes Commission)",
+      "Sarkaria Commission",
+      "Kothari Commission",
+      "Finance Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter uses the decision to reserve government jobs for backward classes, based on the report of the Second Backward Classes (Mandal) Commission, to show how the legislature, executive and judiciary work together.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Office Memorandum implementing reservation for Other Backward Classes was issued in 1990 during the government headed by Prime Minister:",
+    "options": [
+      "V.P. Singh",
+      "Rajiv Gandhi",
+      "P.V. Narasimha Rao",
+      "Morarji Desai"
+    ],
+    "correct_index": 0,
+    "solution": "On 13 August 1990, the National Front government led by Prime Minister V.P. Singh issued an Office Memorandum reserving 27% of government jobs for the socially and educationally backward classes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mandal Commission recommended reserving what percentage of government jobs for the backward classes?",
+    "options": [
+      "27 per cent",
+      "50 per cent",
+      "15 per cent",
+      "10 per cent"
+    ],
+    "correct_index": 0,
+    "solution": "The Mandal Commission recommended that 27% of government jobs be reserved for the socially and educationally backward classes (OBCs).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The government's Office Memorandum on OBC reservation was challenged in and finally decided by the:",
+    "options": [
+      "Supreme Court of India",
+      "Lok Sabha",
+      "Election Commission",
+      "President's Secretariat"
+    ],
+    "correct_index": 0,
+    "solution": "The reservation order was challenged in the Supreme Court in the famous Indra Sawhney case, where the Court finally upheld it with certain conditions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Supreme Court case in which the OBC reservation order was upheld is known as the:",
+    "options": [
+      "Indra Sawhney case",
+      "Kesavananda Bharati case",
+      "Golaknath case",
+      "Minerva Mills case"
+    ],
+    "correct_index": 0,
+    "solution": "In the Indra Sawhney case (1992), the Supreme Court upheld the government's order reserving 27% of jobs for backward classes, subject to excluding the 'creamy layer'.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The reservation example shows that a major government decision usually involves:",
+    "options": [
+      "All three institutions — the executive, the legislature and the judiciary",
+      "Only the Prime Minister",
+      "Only the courts",
+      "Only the civil servants"
+    ],
+    "correct_index": 0,
+    "solution": "The decision was taken by the political executive, debated in Parliament, implemented by the bureaucracy and finally reviewed by the judiciary — showing all three institutions at work.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The maximum strength of the Lok Sabha, the directly elected House, is around:",
+    "options": [
+      "550 members",
+      "250 members",
+      "350 members",
+      "700 members"
+    ],
+    "correct_index": 0,
+    "solution": "The Lok Sabha has a maximum strength of about 550 members directly elected by the people from the parliamentary constituencies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In money matters (the budget), the final say rests with the:",
+    "options": [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "President",
+      "Supreme Court"
+    ],
+    "correct_index": 0,
+    "solution": "On money bills the Lok Sabha has supreme power; the Rajya Sabha can only delay a money bill, and the wishes of the Lok Sabha prevail.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Lok Sabha can remove the Council of Ministers from power by passing a:",
+    "options": [
+      "No-confidence motion",
+      "Money bill",
+      "Constitutional amendment",
+      "Ordinance"
+    ],
+    "correct_index": 0,
+    "solution": "If the majority of Lok Sabha members say they have 'no confidence' in the Council of Ministers, all ministers, including the Prime Minister, have to resign.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Council of Ministers is collectively responsible to the:",
+    "options": [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "President",
+      "Supreme Court"
+    ],
+    "correct_index": 0,
+    "solution": "The Council of Ministers is collectively responsible to the Lok Sabha; it stays in power only as long as it enjoys the confidence of the majority of that House.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Prime Minister of India is appointed by the:",
+    "options": [
+      "President",
+      "Chief Justice",
+      "Speaker of the Lok Sabha",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The President appoints the leader of the majority party (or coalition) in the Lok Sabha as the Prime Minister.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The President of India is elected by an electoral college consisting of:",
+    "options": [
+      "Elected MPs and elected MLAs of the states",
+      "All citizens directly",
+      "The Council of Ministers",
+      "Only Rajya Sabha members"
+    ],
+    "correct_index": 0,
+    "solution": "The President is elected indirectly by an electoral college made up of the elected members of both Houses of Parliament and the elected members of the State Legislative Assemblies.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The President of India is:",
+    "options": [
+      "The head of the state, in whose name the government runs",
+      "The head of the government",
+      "A directly elected leader",
+      "The chief of the judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "The President is the formal head of the state; all governmental activity takes place in the President's name, but real executive power lies with the Council of Ministers headed by the PM.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The President of India exercises his/her powers mainly:",
+    "options": [
+      "On the advice of the Council of Ministers",
+      "On his/her own discretion in all matters",
+      "On the advice of the Chief Justice",
+      "On the advice of the Rajya Sabha"
+    ],
+    "correct_index": 0,
+    "solution": "The President exercises all powers on the advice of the Council of Ministers; he/she is a nominal executive who normally acts as advised by the government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The presiding officer (Chairman) of the Rajya Sabha is the:",
+    "options": [
+      "Vice-President of India",
+      "Speaker",
+      "Prime Minister",
+      "President"
+    ],
+    "correct_index": 0,
+    "solution": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha and presides over its sessions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The distinction between the political executive and the permanent executive is that the political executive:",
+    "options": [
+      "Is elected by the people and takes major policy decisions",
+      "Is appointed permanently by exams",
+      "Serves for life",
+      "Is chosen by the courts"
+    ],
+    "correct_index": 0,
+    "solution": "The political executive (ministers) is elected by the people for a fixed period and takes big policy decisions, whereas the permanent executive (civil servants) is appointed on a long-term basis and implements those decisions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The permanent officials (civil servants) who assist ministers in day-to-day administration form the:",
+    "options": [
+      "Permanent executive or civil services",
+      "Legislature",
+      "Judiciary",
+      "Cabinet"
+    ],
+    "correct_index": 0,
+    "solution": "Civil servants, appointed through competitive examinations, form the permanent executive; they remain in office even when governments change and help implement policies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why does the political executive have more power than the permanent executive in a democracy?",
+    "options": [
+      "Because it is answerable to the people, who are supreme in a democracy",
+      "Because it has more expertise",
+      "Because it is permanent",
+      "Because it is appointed by the judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "The political executive is given greater power because it represents and is accountable to the people; experts can advise, but final decisions must rest with those the people have chosen.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The highest court in India, at the apex of the judiciary, is the:",
+    "options": [
+      "Supreme Court",
+      "High Court",
+      "District Court",
+      "Tribunal"
+    ],
+    "correct_index": 0,
+    "solution": "The Supreme Court is the highest court in the country, followed by the High Courts in the states and lower courts at the district level.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The power of the judiciary to declare a law or government action invalid if it violates the Constitution is called:",
+    "options": [
+      "Judicial review",
+      "Judicial activism",
+      "Collective responsibility",
+      "Delimitation"
+    ],
+    "correct_index": 0,
+    "solution": "Judicial review is the power of the Supreme Court and High Courts to examine laws and executive actions and to strike them down if they are found to violate the Constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The independence of the judiciary in India means that:",
+    "options": [
+      "Judges are not under the control of the legislature or the executive",
+      "Judges are appointed by the ruling party",
+      "Courts obey the Prime Minister",
+      "The judiciary makes laws"
+    ],
+    "correct_index": 0,
+    "solution": "An independent judiciary means the courts are not controlled by the government of the day; judges cannot be removed easily, ensuring they can decide cases fairly, even against the government.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The integrated judiciary in India means that:",
+    "options": [
+      "The Supreme Court controls the judicial administration and its decisions bind all lower courts",
+      "Each state has a fully separate court system",
+      "There is no Supreme Court",
+      "High Courts are above the Supreme Court"
+    ],
+    "correct_index": 0,
+    "solution": "India has an integrated judiciary; the Supreme Court at the top controls the judicial administration, and its decisions are binding on all other courts in the country.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Citizens whose Fundamental Rights are violated can directly approach the:",
+    "options": [
+      "Supreme Court or the High Courts",
+      "Lok Sabha",
+      "Council of Ministers",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "Any citizen whose Fundamental Rights are violated can approach the High Courts or the Supreme Court directly for protection, making the judiciary the guardian of rights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The Supreme Court can declare a law made by Parliament invalid. Reason (R): The judiciary has the power of judicial review to protect the Constitution.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Through judicial review, the Supreme Court can strike down any law that violates the Constitution, so R correctly explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): The Council of Ministers must resign if it loses the confidence of the Lok Sabha. Reason (R): The Council of Ministers is collectively responsible to the Lok Sabha.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Because the ministers are collectively responsible to the Lok Sabha, they must resign the moment the House expresses no confidence in them — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the institution with its main function: (i) Legislature (ii) Executive (iii) Judiciary — (a) implements laws (b) makes laws (c) settles disputes and interprets laws:",
+    "options": [
+      "(i)-b, (ii)-a, (iii)-c",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-c, (iii)-a"
+    ],
+    "correct_index": 0,
+    "solution": "The legislature makes laws, the executive implements them, and the judiciary settles disputes and interprets the laws and the Constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The civil servants (permanent executive) are expected to be:",
+    "options": [
+      "Politically neutral and to implement the policies of the elected government",
+      "Loyal to one political party",
+      "Elected by the people",
+      "In charge of making laws"
+    ],
+    "correct_index": 0,
+    "solution": "Civil servants are expected to remain politically neutral, serving whichever government is in power and faithfully implementing its decisions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'creamy layer' condition attached to OBC reservation by the Supreme Court means that:",
+    "options": [
+      "Well-off members of backward classes are excluded from the reservation benefit",
+      "Only the richest get reservation",
+      "Reservation is abolished",
+      "All backward classes are excluded"
+    ],
+    "correct_index": 0,
+    "solution": "While upholding the 27% reservation, the Supreme Court directed that the 'creamy layer' — the socially advanced and better-off sections among the backward classes — should be excluded from the benefit.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mandal Commission was set up to:",
+    "options": [
+      "Determine the criteria for identifying the socially and educationally backward classes",
+      "Reorganise the states",
+      "Reform the electoral system",
+      "Review Centre-State relations"
+    ],
+    "correct_index": 0,
+    "solution": "The Second Backward Classes (Mandal) Commission was appointed to identify the socially and educationally backward classes and recommend steps for their advancement, including reservation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The separation of powers among the three organs of government is important because it:",
+    "options": [
+      "Prevents the concentration and misuse of power by any one organ",
+      "Makes one organ supreme",
+      "Removes the need for elections",
+      "Weakens democracy"
+    ],
+    "correct_index": 0,
+    "solution": "Distributing power among the legislature, executive and judiciary provides checks and balances, ensuring that no single institution can accumulate and misuse power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An independent judiciary can even:",
+    "options": [
+      "Declare a decision of the government or a law of the legislature unconstitutional",
+      "Appoint the Prime Minister",
+      "Conduct elections",
+      "Pass the budget"
+    ],
+    "correct_index": 0,
+    "solution": "Because it is independent, the judiciary can review and strike down the actions of the executive and laws of the legislature if they violate the Constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The office memorandum on reservations shows how the __________ takes and implements a policy decision.",
+    "options": [
+      "Political executive",
+      "Judiciary",
+      "Rajya Sabha alone",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "The reservation decision, taken by the Cabinet and issued as an Office Memorandum, illustrates how the political executive makes and carries out major policy decisions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which institution ensures that the government does not misuse its power by keeping a check through judicial review?",
+    "options": [
+      "The judiciary",
+      "The Council of Ministers",
+      "The civil services",
+      "The ruling party"
+    ],
+    "correct_index": 0,
+    "solution": "The judiciary, through the power of judicial review, checks the misuse of power by the government and protects the rights of citizens and the supremacy of the Constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reservation episode demonstrates that in a democracy, a controversial decision is:",
+    "options": [
+      "Debated, implemented and can be reviewed by the courts before it is settled",
+      "Taken secretly by one person",
+      "Never questioned",
+      "Decided only by protests"
+    ],
+    "correct_index": 0,
+    "solution": "The OBC reservation decision moved through the executive, was debated politically, sparked protests, and was finally settled by the Supreme Court — showing how institutions resolve major disputes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The relationship among the legislature, executive and judiciary in India is best described as one of:",
+    "options": [
+      "Cooperation, balance and mutual check",
+      "Total independence with no interaction",
+      "One organ ruling the others",
+      "Complete merger into one body"
+    ],
+    "correct_index": 0,
+    "solution": "The three organs share and balance power; they cooperate to run the government while also checking one another, ensuring accountability and preventing misuse of authority.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajya Sabha is a permanent House because:",
+    "options": [
+      "It is never fully dissolved; one-third of its members retire every two years",
+      "It is elected all at once every five years",
+      "Its members serve for life",
+      "It has no fixed term for members"
+    ],
+    "correct_index": 0,
+    "solution": "Unlike the Lok Sabha, the Rajya Sabha is a permanent body that is not subject to dissolution; one-third of its members retire every two years, and fresh members are elected.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall theme of 'Working of Institutions' is that:",
+    "options": [
+      "Democratic decisions are made through institutions — legislature, executive and judiciary — that share and check power",
+      "One person makes all decisions",
+      "Institutions are unnecessary",
+      "Only the courts matter"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains how the legislature, executive and judiciary together take and implement decisions, sharing and checking power in a democracy.",
+    "difficulty": "easy"
+  }
 ]
