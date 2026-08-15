@@ -1,52 +1,998 @@
 [
-  { "stem": "The system of elections used in India for the Lok Sabha and State Legislative Assemblies is the:", "options": ["Proportional Representation system", "First Past the Post (FPTP) system", "List system", "Single Transferable Vote for all"], "correct_index": 1, "solution": "India follows the First Past the Post (FPTP) system for elections to the Lok Sabha and State Legislative Assemblies; the country is divided into territorial constituencies, and the candidate who secures the highest number of votes in a constituency is declared elected.", "difficulty": "medium" },
-  { "stem": "In the First Past the Post system, the winning candidate is the one who:", "options": ["Gets more than 50% of the votes", "Simply gets more votes than any other candidate (a plurality), even if less than half the total votes", "Is nominated by the party", "Is chosen by lottery"], "correct_index": 1, "solution": "In the FPTP system, the candidate who secures the highest number of votes (a plurality) in a constituency is declared the winner; the winner need not secure a majority (more than 50%) of the votes.", "difficulty": "medium" },
-  { "stem": "The whole country is divided into a number of geographical areas for the purpose of elections; each such area is called a(n):", "options": ["State", "Constituency", "District", "Ward"], "correct_index": 1, "solution": "For elections, the country is divided into geographical areas called constituencies; the voters who live in each constituency elect one representative.", "difficulty": "easy" },
-  { "stem": "The alternative system in which parties get seats in proportion to the votes they secure is called:", "options": ["First Past the Post", "Proportional Representation (PR)", "Plurality system", "Majority system"], "correct_index": 1, "solution": "The Proportional Representation (PR) system allocates seats to parties in proportion to the votes they secure; a party that gets, say, 40% of the votes gets roughly 40% of the seats.", "difficulty": "medium" },
-  { "stem": "In the Proportional Representation system, there are two variants. In one, the entire country is treated as one constituency; in the other, the country is divided into several multi-member constituencies. Which country uses the entire-country-as-one-constituency PR variant, cited in the chapter?", "options": ["India", "Israel", "USA", "UK"], "correct_index": 1, "solution": "In Israel, the whole country is treated as one constituency, and seats are allocated to parties in proportion to their share of votes (the party-list PR system). The Netherlands is another example. India uses a limited form of PR for certain elections.", "difficulty": "hard" },
-  { "stem": "India adopted the FPTP system rather than Proportional Representation mainly because:", "options": ["PR is illegal", "FPTP is simple, familiar to voters, and produces clear results and a stable government; PR would be very complicated for a country of India's size and low literacy", "PR is more expensive", "FPTP guarantees majority rule"], "correct_index": 1, "solution": "The framers chose FPTP because it is simple to operate and understand, familiar from British times, produces clear-cut results, enables voters to choose a candidate (not just a party), and tends to produce a stable government; PR would have been very complicated to operate in a large and diverse country with low literacy.", "difficulty": "medium" },
-  { "stem": "One important feature of the FPTP system is that it usually gives the largest party a share of seats that is:", "options": ["Exactly proportional to votes", "Larger than its share of votes, helping to produce a stable majority government", "Smaller than its share of votes", "Equal to all other parties"], "correct_index": 1, "solution": "A characteristic of the FPTP system is that it often gives the largest party or coalition a much larger share of seats than its share of votes, which helps produce a stable and clear majority government; smaller parties tend to get fewer seats than their vote share.", "difficulty": "medium" },
-  { "stem": "The Election Commission of India is a body responsible for:", "options": ["Making laws", "The superintendence, direction and control of the entire process of conducting elections to Parliament, State Legislatures, and the offices of President and Vice-President", "Judging election disputes only", "Collecting taxes"], "correct_index": 1, "solution": "Under Article 324, the Election Commission of India is vested with the power of superintendence, direction and control of the entire process of conducting elections to Parliament, State Legislatures, and to the offices of the President and Vice-President of India.", "difficulty": "medium" },
-  { "stem": "The Election Commission of India is a(n):", "options": ["Government department under a minister", "Independent, permanent constitutional body", "Temporary committee", "Part of the judiciary"], "correct_index": 1, "solution": "The Election Commission is an independent and permanent constitutional body; its independence is crucial for conducting free and fair elections, and it is insulated from government control.", "difficulty": "medium" },
-  { "stem": "The Chief Election Commissioner (CEC) is appointed by the:", "options": ["Prime Minister alone", "President of India", "Chief Justice of India", "Parliament"], "correct_index": 1, "solution": "The Chief Election Commissioner and other Election Commissioners are appointed by the President of India; the CEC has security of tenure and can be removed only through the same process as a judge of the Supreme Court, ensuring independence.", "difficulty": "medium" },
-  { "stem": "The Chief Election Commissioner can be removed from office only:", "options": ["By the Prime Minister at will", "Through the same process as the removal of a Supreme Court judge (by Parliament with a special majority, on grounds of proven misbehaviour or incapacity)", "By a simple order", "By the President alone"], "correct_index": 1, "solution": "The Chief Election Commissioner enjoys security of tenure; he can be removed only through impeachment by Parliament (the same process and grounds as for the removal of a Supreme Court judge), which protects the independence of the Election Commission.", "difficulty": "hard" },
-  { "stem": "Universal Adult Franchise means that:", "options": ["Only property owners can vote", "All adult citizens have the right to vote, regardless of caste, religion, sex, education or wealth", "Only literate people can vote", "Only men can vote"], "correct_index": 1, "solution": "Universal Adult Franchise means that all adult citizens of the country have the right to vote irrespective of caste, creed, religion, sex, education or economic status; every vote has equal value ('one person, one vote, one value').", "difficulty": "medium" },
-  { "stem": "The voting age in India was reduced from 21 years to 18 years by which amendment?", "options": ["42nd Amendment", "61st Amendment (1988)", "44th Amendment", "73rd Amendment"], "correct_index": 1, "solution": "The 61st Constitutional Amendment Act, 1988, reduced the voting age from 21 years to 18 years, giving younger citizens the right to participate in elections.", "difficulty": "hard" },
-  { "stem": "The practice of setting aside some constituencies for candidates belonging to certain groups, e.g., Scheduled Castes and Scheduled Tribes, is called:", "options": ["Delimitation", "Reservation of constituencies", "Nomination", "By-election"], "correct_index": 1, "solution": "Reservation of constituencies means some constituencies are reserved for candidates belonging to Scheduled Castes (SC) and Scheduled Tribes (ST); in an SC-reserved constituency, only an SC candidate can contest, though all voters in the constituency can vote.", "difficulty": "medium" },
-  { "stem": "In a constituency reserved for Scheduled Castes:", "options": ["Only SC voters can vote", "Everyone can vote, but only a candidate belonging to the Scheduled Castes can contest and be elected", "Only SC candidates and voters participate", "No reservation applies to voters"], "correct_index": 1, "solution": "In a reserved constituency, all voters (of all communities) can vote, but only a candidate belonging to the reserved category (SC or ST) can contest the election. This ensures representation of these communities while maintaining the equality of all voters.", "difficulty": "medium" },
-  { "stem": "The number of seats reserved for SCs and STs is decided on the basis of:", "options": ["Their political influence", "The proportion of the SC and ST population in the total population", "The wishes of the ruling party", "A fixed number in every state"], "correct_index": 1, "solution": "The number of seats reserved for the Scheduled Castes and Scheduled Tribes is roughly in proportion to their share in the total population, so that their representation reflects their numbers.", "difficulty": "medium" },
-  { "stem": "The process of drawing the boundaries of constituencies and deciding the number of seats is called:", "options": ["Reservation", "Delimitation", "Nomination", "Scrutiny"], "correct_index": 1, "solution": "Delimitation is the process of fixing the boundaries and number of territorial constituencies; it is carried out by an independent Delimitation Commission, whose orders have the force of law and cannot be challenged in any court.", "difficulty": "medium" },
-  { "stem": "The Delimitation Commission is appointed to ensure that:", "options": ["The ruling party wins", "Constituencies are fairly demarcated so that they have roughly equal populations, and the SC/ST reservations are appropriately distributed", "Elections are delayed", "Only some states have constituencies"], "correct_index": 1, "solution": "The Delimitation Commission ensures that constituencies are demarcated fairly and impartially, with roughly equal populations across constituencies (to maintain equal value of votes), and that reserved seats are appropriately distributed; it is an independent body whose decisions cannot be challenged in court.", "difficulty": "medium" },
-  { "stem": "The Rajya Sabha (Council of States) members representing the states are elected by:", "options": ["The people directly", "The elected members of the State Legislative Assemblies, through the system of Proportional Representation by means of the Single Transferable Vote", "The Lok Sabha", "The Governor"], "correct_index": 1, "solution": "The representatives of each state in the Rajya Sabha are elected by the elected members of that State's Legislative Assembly, through the system of proportional representation by means of the single transferable vote — an indirect election.", "difficulty": "hard" },
-  { "stem": "The election of the President of India uses which system?", "options": ["First Past the Post", "Proportional Representation by means of the Single Transferable Vote", "Direct election by the people", "Simple majority in Parliament"], "correct_index": 1, "solution": "The President of India is elected by an electoral college (elected members of both Houses of Parliament and elected members of the State Legislative Assemblies) through the system of proportional representation by means of the single transferable vote, with voting by secret ballot.", "difficulty": "hard" },
-  { "stem": "The purpose of using PR with a single transferable vote for the Rajya Sabha and Presidential elections is to:", "options": ["Confuse voters", "Ensure fair representation of parties/states and, in the President's case, give weight to both the Union and the states", "Reduce the number of representatives", "Speed up counting"], "correct_index": 1, "solution": "The single transferable vote form of PR is used for the Rajya Sabha to ensure fair representation of parties in the state assemblies, and for the President to ensure balanced representation of both Parliament and the state legislatures, giving states a role in electing the head of state.", "difficulty": "medium" },
-  { "stem": "A criticism of the FPTP system is that it:", "options": ["Always represents all groups fairly", "May not accurately reflect the votes cast — a party can get a large number of seats with a smaller share of votes, and smaller parties/minorities may be under-represented", "Is too complicated", "Guarantees proportional outcomes"], "correct_index": 1, "solution": "A major criticism of FPTP is that the share of seats won by a party may not match its share of votes; a party can win a majority of seats with a minority of votes, while smaller parties and minority opinions may be under-represented or even unrepresented.", "difficulty": "medium" },
-  { "stem": "An advantage of the Proportional Representation system is that:", "options": ["It always produces a single-party majority", "Every party gets representation in proportion to its votes, so the legislature more accurately reflects the range of opinions and minority groups get representation", "It is simpler than FPTP", "It ignores small parties"], "correct_index": 1, "solution": "The main advantage of PR is that it gives representation to parties in proportion to their vote share, so the legislature accurately reflects the diversity of opinion in society and minority groups and smaller parties get fair representation; however, it may lead to coalition governments and instability.", "difficulty": "medium" },
-  { "stem": "Free and fair elections require certain conditions. Which of the following is essential?", "options": ["Only the ruling party contests", "Everyone has one vote of equal value, there is freedom to contest and to choose, elections are held regularly, and the process is conducted by an impartial body", "The government decides the winner", "Voting is not secret"], "correct_index": 1, "solution": "Free and fair elections require: universal adult franchise with equal value of votes; freedom to contest and to make a genuine choice among alternatives; regular elections at fixed intervals; a level playing field for all parties; secret ballot; and an impartial, independent body (the Election Commission) to conduct them.", "difficulty": "medium" },
-  { "stem": "The chapter suggests that no election system is perfect. The choice of an electoral system depends on:", "options": ["The wishes of one party", "What a society values more — a stable and effective government (favouring FPTP) or an accurate reflection of the range of opinions and fair representation of all groups (favouring PR)", "The number of voters only", "The size of the ballot paper"], "correct_index": 1, "solution": "The choice between FPTP and PR involves a trade-off: FPTP tends to produce stable, single-party governments but may distort the votes-to-seats ratio; PR ensures fair representation of all opinions but may lead to unstable coalition governments. The choice depends on what a society values more.", "difficulty": "medium" },
-  { "stem": "The reservation of seats for SCs and STs in legislatures was originally provided for a period of:", "options": ["Permanently", "A specified number of years, subject to extension by Parliament", "One election", "Fifty years fixed"], "correct_index": 1, "solution": "The reservation of seats for SCs and STs was originally provided for a limited period (ten years initially), but it has been extended periodically by constitutional amendments, as the framers intended it to continue until the disadvantaged groups achieved adequate representation and upliftment.", "difficulty": "medium" },
-  { "stem": "The demand for reservation of seats for women in the Lok Sabha and State Assemblies has been made to:", "options": ["Reduce women's participation", "Increase the representation of women in legislatures, since they have historically been under-represented", "Ban women from politics", "Reserve all seats for women"], "correct_index": 1, "solution": "There has been a long-standing demand to reserve one-third of seats in the Lok Sabha and State Assemblies for women, because women, who form nearly half the population, have historically been severely under-represented in these legislatures; the Women's Reservation Bill addressed this.", "difficulty": "medium" },
-  { "stem": "The introduction of Electronic Voting Machines (EVMs) in Indian elections was aimed at:", "options": ["Making voting more difficult", "Making the voting and counting process faster, more accurate, and reducing malpractices like booth capturing and invalid votes", "Reducing voter turnout", "Increasing paper use"], "correct_index": 1, "solution": "Electronic Voting Machines (EVMs) were introduced to make the process of voting and counting faster and more accurate; they help reduce invalid votes, make counting quicker, and, along with measures like VVPAT, aim to reduce malpractices and increase the credibility of elections.", "difficulty": "medium" },
-  { "stem": "The 'None of the Above' (NOTA) option, introduced on ballots/EVMs, allows a voter to:", "options": ["Vote twice", "Formally register a vote rejecting all the candidates in the fray", "Cancel the election", "Vote for the winner automatically"], "correct_index": 1, "solution": "The NOTA (None of the Above) option, introduced following a Supreme Court directive, allows a voter to formally reject all the contesting candidates by choosing this option, thereby registering their disapproval of all candidates while maintaining the secrecy of the ballot.", "difficulty": "medium" },
-  { "stem": "A 'by-election' is held when:", "options": ["The general election is delayed", "A seat falls vacant in between two general elections (due to death, resignation, or disqualification of a member) and needs to be filled", "All seats are contested", "The government changes"], "correct_index": 1, "solution": "A by-election is held to fill a single seat (or a few seats) that has fallen vacant in between two general elections, due to the death, resignation, or disqualification of the sitting member.", "difficulty": "medium" },
-  { "stem": "The Model Code of Conduct is a set of guidelines issued by the Election Commission that:", "options": ["Applies only to voters", "Regulates the conduct of political parties and candidates during elections, coming into force once elections are announced, to ensure a level playing field", "Is legally binding as a statute", "Applies only after elections"], "correct_index": 1, "solution": "The Model Code of Conduct is a set of norms issued by the Election Commission to regulate the conduct of political parties and candidates during the election period (from the announcement of elections until results); it aims to ensure free and fair elections and a level playing field, prohibiting things like the misuse of official machinery and hate speech.", "difficulty": "medium" },
-  { "stem": "One of the malpractices that free and fair elections seek to prevent is 'booth capturing', which means:", "options": ["Building new polling booths", "Groups capturing polling booths and casting false votes to rig the election in favour of a candidate", "Counting votes fairly", "Voter registration"], "correct_index": 1, "solution": "Booth capturing is an electoral malpractice where armed groups or party workers capture a polling booth and cast false votes to rig the election in favour of a particular candidate or party; measures like EVMs, deployment of security forces, and re-polling aim to prevent it.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly describes the role of the Election Commission in ensuring free and fair elections?", "options": ["It makes election laws", "It prepares and revises electoral rolls, conducts and supervises elections, registers political parties and allots symbols, enforces the Model Code of Conduct, and can cancel or postpone polls if needed", "It decides who wins", "It funds candidates"], "correct_index": 1, "solution": "The Election Commission prepares and periodically revises electoral rolls, notifies the schedule and conducts elections, registers political parties and allots them symbols, enforces the Model Code of Conduct, monitors election expenses, and can order re-polling or postponement to ensure free and fair elections.", "difficulty": "medium" },
-  { "stem": "The independence of the Election Commission is important because:", "options": ["It helps the ruling party", "An impartial body free from government control is essential for conducting free and fair elections and maintaining the credibility of the democratic process", "It speeds up elections", "It reduces the number of parties"], "correct_index": 1, "solution": "The independence of the Election Commission is essential because only an impartial body, free from the control of the ruling party or government, can conduct elections that are genuinely free and fair, thereby maintaining public confidence in the democratic process and the legitimacy of elected governments.", "difficulty": "medium" },
-  { "stem": "The FPTP system tends to encourage which kind of party system?", "options": ["Always a multi-party coalition system", "It tends to favour larger parties and a two-party or a few-major-parties tendency, though India's diversity has still produced a multi-party system", "A one-party system", "No parties"], "correct_index": 1, "solution": "The FPTP system tends to favour larger parties and discourage very small parties, pushing towards a system dominated by a few major parties (or a two-party tendency); however, India's vast social and regional diversity has still produced a vibrant multi-party system despite FPTP.", "difficulty": "hard" },
-  { "stem": "The value of 'one person, one vote, one value' embodied in universal adult franchise means:", "options": ["Some votes count more than others", "Every citizen's vote carries equal weight, regardless of their status, wealth or education", "Only one vote is cast per family", "Votes are weighted by income"], "correct_index": 1, "solution": "The principle 'one person, one vote, one value' means that every adult citizen has exactly one vote and every vote carries equal weight, regardless of the voter's caste, religion, sex, wealth, or education — embodying the democratic ideal of political equality.", "difficulty": "medium" },
-  { "stem": "Why did the framers of the Constitution decide to have reservation of seats for SCs and STs but not separate electorates?", "options": ["Separate electorates were cheaper", "Separate electorates (as under colonial rule) would have divided society and weakened national unity, whereas reserved constituencies (with all voters participating) ensure representation while keeping the electorate joint and united", "Reservation was illegal", "They wanted fewer representatives"], "correct_index": 1, "solution": "The framers rejected separate electorates (where only members of a community vote for their own representatives, as under British communal award) because these would divide society; instead they chose reserved constituencies within a joint (common) electorate, where all voters participate but only reserved-category candidates contest, thereby ensuring representation while preserving national unity.", "difficulty": "hard" },
-  { "stem": "The chapter concludes that India's electoral system has generally succeeded in:", "options": ["Preventing elections", "Conducting free and fair elections and enabling peaceful transfer of power, though it has some limitations like the votes-to-seats distortion of FPTP", "Guaranteeing proportional outcomes", "Eliminating all parties"], "correct_index": 1, "solution": "The chapter concludes that India's electoral system, based on FPTP and universal adult franchise conducted by an independent Election Commission, has by and large succeeded in holding free and fair elections and enabling the peaceful transfer of power; while it has limitations (like the FPTP votes-to-seats distortion), it has served Indian democracy well.", "difficulty": "medium" },
-  { "stem": "Which of the following is an argument in favour of the FPTP system used in India?", "options": ["It gives exactly proportional representation", "It is simple, allows voters to choose a specific representative accountable to a local constituency, and tends to produce a stable government", "It always represents minorities perfectly", "It eliminates the need for the Election Commission"], "correct_index": 1, "solution": "Arguments in favour of FPTP include: its simplicity and familiarity; it allows voters to clearly choose a specific candidate who is accountable to a defined local constituency; and it tends to produce a decisive result and a stable government, avoiding the fragmentation and instability sometimes associated with PR.", "difficulty": "medium" },
-  { "stem": "In the Proportional Representation (PR) system, the voter usually votes for:", "options": ["A single local candidate only", "A party (party list) or ranks candidates, and seats are distributed according to the votes each party gets", "The Prime Minister directly", "No one"], "correct_index": 1, "solution": "In the PR system, the voter typically votes for a party (in the party-list variant), and each party gets seats in proportion to its share of votes; the party then fills those seats from its list of candidates. In some PR variants (like STV), voters rank candidates.", "difficulty": "medium" },
-  { "stem": "A key reason the Rajya Sabha and Presidential elections use indirect election and PR rather than FPTP is to:", "options": ["Save money", "Reflect the federal character of India — giving the states and their legislatures a role, and ensuring balanced representation", "Reduce voter fatigue", "Speed up the process"], "correct_index": 1, "solution": "The indirect election of the Rajya Sabha (by state legislators) and the President (by an electoral college of MPs and MLAs) using PR reflects India's federal structure — it gives the states and their elected legislatures a meaningful role, ensuring that these institutions represent both the Union and the states in a balanced way.", "difficulty": "medium" },
-  { "stem": "The requirement that constituencies should have roughly equal populations is important to ensure:", "options": ["That some votes count more", "The equal value of each vote — so that a representative from one constituency represents roughly the same number of people as another", "That elections are delayed", "That cities have fewer seats"], "correct_index": 1, "solution": "Ensuring that constituencies have roughly equal populations upholds the principle of equal value of votes; if constituencies varied greatly in population, a vote in a smaller constituency would effectively count for more than a vote in a larger one, violating the 'one person, one vote, one value' principle. This is why delimitation is important.", "difficulty": "medium" },
-  { "stem": "The secret ballot is an essential feature of free and fair elections because it:", "options": ["Reveals how each person votes", "Allows voters to cast their votes without fear or intimidation, keeping their choice confidential", "Speeds up counting", "Reduces the cost of elections"], "correct_index": 1, "solution": "The secret ballot ensures that voters can cast their votes freely, according to their own choice, without fear of intimidation, pressure or retaliation, because no one can find out how any individual voted; this is essential for a genuine and free expression of the voter's will.", "difficulty": "medium" },
-  { "stem": "The provision that the Election Commission can be a multi-member body (Chief Election Commissioner and other Election Commissioners) was intended to:", "options": ["Slow down decisions", "Distribute responsibility and strengthen the Commission's functioning, especially as the volume of election work grew", "Reduce independence", "Give the government control"], "correct_index": 1, "solution": "The Election Commission was made a multi-member body (with the CEC and other Election Commissioners deciding by majority) to distribute the responsibility and strengthen its functioning as the scale and complexity of election work increased; all commissioners have equal powers and decisions are taken collectively.", "difficulty": "medium" },
-  { "stem": "Which of the following is a limitation of the reservation of constituencies system?", "options": ["It gives no representation to SCs/STs", "The reserved-category representative has to cater to all voters in the constituency and may not focus solely on the reserved community's issues; also, only certain constituencies are reserved", "It reserves all seats", "It excludes SC/ST voters"], "correct_index": 1, "solution": "One limitation is that in a reserved constituency, since all voters (not just the reserved community) vote, the elected SC/ST representative must cater to the entire electorate and may not be able to focus exclusively on the concerns of the reserved community; nonetheless, the system ensures their presence in legislatures.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Election and Representation' is that:", "options": ["Elections are unnecessary", "Free and fair elections through an appropriate electoral system (India's FPTP with universal adult franchise, reserved constituencies, and an independent Election Commission) are the foundation of representative democracy, though every system involves trade-offs", "Only PR is acceptable", "The government should conduct elections"], "correct_index": 1, "solution": "The chapter concludes that elections are the foundation of representative democracy; India chose the FPTP system with universal adult franchise, reservation of constituencies for SCs/STs, and an independent Election Commission to conduct free and fair elections. While no electoral system is perfect (FPTP vs PR involves trade-offs between stability and proportional fairness), India's system has generally succeeded in sustaining its democracy.", "difficulty": "medium" },
-  { "stem": "In the Single Transferable Vote (STV) system used for the Rajya Sabha, a candidate needs to secure a fixed minimum number of votes known as the:", "options": ["Majority", "Quota", "Plurality", "Threshold of 50%"], "correct_index": 1, "solution": "In the Single Transferable Vote system, a candidate needs to secure a certain minimum number of votes called the quota to be declared elected; surplus votes above the quota, and votes of eliminated candidates, are transferred according to voters' preferences until the required number of candidates is elected.", "difficulty": "hard" },
-  { "stem": "The Anti-Defection Law is relevant to elections and representation because it:", "options": ["Allows unlimited party switching", "Disqualifies a legislator who defects from the party on whose ticket he was elected, so that the mandate of the voters is respected", "Bans political parties", "Reserves seats"], "correct_index": 1, "solution": "The Anti-Defection Law (added by the 52nd Amendment, 1985) provides that a legislator elected on a party ticket who defects (voluntarily gives up membership or votes against the party whip) can be disqualified; this upholds the mandate given by voters to the party and prevents unprincipled floor-crossing.", "difficulty": "medium" },
-  { "stem": "The term of the Lok Sabha and State Legislative Assemblies, at the end of which general elections are normally held, is:", "options": ["Four years", "Five years", "Six years", "Three years"], "correct_index": 1, "solution": "The normal term of the Lok Sabha and the State Legislative Assemblies is five years, at the end of which general elections are held; the term can be cut short if the house is dissolved earlier, and can be extended only during a proclamation of Emergency.", "difficulty": "medium" },
-  { "stem": "A candidate contesting an election is required to submit a security deposit, which is forfeited if the candidate:", "options": ["Wins the election", "Fails to secure a minimum share (one-sixth) of the valid votes polled in the constituency", "Belongs to a national party", "Files an affidavit"], "correct_index": 1, "solution": "Every candidate must deposit a fixed security amount while filing nomination; this deposit is forfeited if the candidate fails to secure at least one-sixth of the total valid votes polled in the constituency, a measure meant to discourage frivolous or non-serious candidatures.", "difficulty": "hard" }
+  {
+    "stem": "The system of elections used in India for the Lok Sabha and State Legislative Assemblies is the:",
+    "options": [
+      "Proportional Representation system",
+      "First Past the Post (FPTP) system",
+      "List system",
+      "Single Transferable Vote for all"
+    ],
+    "correct_index": 1,
+    "solution": "India follows the First Past the Post (FPTP) system for elections to the Lok Sabha and State Legislative Assemblies; the country is divided into territorial constituencies, and the candidate who secures the highest number of votes in a constituency is declared elected.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the First Past the Post system, the winning candidate is the one who:",
+    "options": [
+      "Gets more than 50% of the votes",
+      "Simply gets more votes than any other candidate (a plurality), even if less than half the total votes",
+      "Is nominated by the party",
+      "Is chosen by lottery"
+    ],
+    "correct_index": 1,
+    "solution": "In the FPTP system, the candidate who secures the highest number of votes (a plurality) in a constituency is declared the winner; the winner need not secure a majority (more than 50%) of the votes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The whole country is divided into a number of geographical areas for the purpose of elections; each such area is called a(n):",
+    "options": [
+      "State",
+      "Constituency",
+      "District",
+      "Ward"
+    ],
+    "correct_index": 1,
+    "solution": "For elections, the country is divided into geographical areas called constituencies; the voters who live in each constituency elect one representative.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The alternative system in which parties get seats in proportion to the votes they secure is called:",
+    "options": [
+      "First Past the Post",
+      "Proportional Representation (PR)",
+      "Plurality system",
+      "Majority system"
+    ],
+    "correct_index": 1,
+    "solution": "The Proportional Representation (PR) system allocates seats to parties in proportion to the votes they secure; a party that gets, say, 40% of the votes gets roughly 40% of the seats.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the Proportional Representation system, there are two variants. In one, the entire country is treated as one constituency; in the other, the country is divided into several multi-member constituencies. Which country uses the entire-country-as-one-constituency PR variant, cited in the chapter?",
+    "options": [
+      "India",
+      "Israel",
+      "USA",
+      "UK"
+    ],
+    "correct_index": 1,
+    "solution": "In Israel, the whole country is treated as one constituency, and seats are allocated to parties in proportion to their share of votes (the party-list PR system). The Netherlands is another example. India uses a limited form of PR for certain elections.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India adopted the FPTP system rather than Proportional Representation mainly because:",
+    "options": [
+      "PR is illegal",
+      "FPTP is simple, familiar to voters, and produces clear results and a stable government; PR would be very complicated for a country of India's size and low literacy",
+      "PR is more expensive",
+      "FPTP guarantees majority rule"
+    ],
+    "correct_index": 1,
+    "solution": "The framers chose FPTP because it is simple to operate and understand, familiar from British times, produces clear-cut results, enables voters to choose a candidate (not just a party), and tends to produce a stable government; PR would have been very complicated to operate in a large and diverse country with low literacy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One important feature of the FPTP system is that it usually gives the largest party a share of seats that is:",
+    "options": [
+      "Exactly proportional to votes",
+      "Larger than its share of votes, helping to produce a stable majority government",
+      "Smaller than its share of votes",
+      "Equal to all other parties"
+    ],
+    "correct_index": 1,
+    "solution": "A characteristic of the FPTP system is that it often gives the largest party or coalition a much larger share of seats than its share of votes, which helps produce a stable and clear majority government; smaller parties tend to get fewer seats than their vote share.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Election Commission of India is a body responsible for:",
+    "options": [
+      "Making laws",
+      "The superintendence, direction and control of the entire process of conducting elections to Parliament, State Legislatures, and the offices of President and Vice-President",
+      "Judging election disputes only",
+      "Collecting taxes"
+    ],
+    "correct_index": 1,
+    "solution": "Under Article 324, the Election Commission of India is vested with the power of superintendence, direction and control of the entire process of conducting elections to Parliament, State Legislatures, and to the offices of the President and Vice-President of India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Election Commission of India is a(n):",
+    "options": [
+      "Government department under a minister",
+      "Independent, permanent constitutional body",
+      "Temporary committee",
+      "Part of the judiciary"
+    ],
+    "correct_index": 1,
+    "solution": "The Election Commission is an independent and permanent constitutional body; its independence is crucial for conducting free and fair elections, and it is insulated from government control.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Chief Election Commissioner (CEC) is appointed by the:",
+    "options": [
+      "Prime Minister alone",
+      "President of India",
+      "Chief Justice of India",
+      "Parliament"
+    ],
+    "correct_index": 1,
+    "solution": "The Chief Election Commissioner and other Election Commissioners are appointed by the President of India; the CEC has security of tenure and can be removed only through the same process as a judge of the Supreme Court, ensuring independence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Chief Election Commissioner can be removed from office only:",
+    "options": [
+      "By the Prime Minister at will",
+      "Through the same process as the removal of a Supreme Court judge (by Parliament with a special majority, on grounds of proven misbehaviour or incapacity)",
+      "By a simple order",
+      "By the President alone"
+    ],
+    "correct_index": 1,
+    "solution": "The Chief Election Commissioner enjoys security of tenure; he can be removed only through impeachment by Parliament (the same process and grounds as for the removal of a Supreme Court judge), which protects the independence of the Election Commission.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Universal Adult Franchise means that:",
+    "options": [
+      "Only property owners can vote",
+      "All adult citizens have the right to vote, regardless of caste, religion, sex, education or wealth",
+      "Only literate people can vote",
+      "Only men can vote"
+    ],
+    "correct_index": 1,
+    "solution": "Universal Adult Franchise means that all adult citizens of the country have the right to vote irrespective of caste, creed, religion, sex, education or economic status; every vote has equal value ('one person, one vote, one value').",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The voting age in India was reduced from 21 years to 18 years by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "61st Amendment (1988)",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "correct_index": 1,
+    "solution": "The 61st Constitutional Amendment Act, 1988, reduced the voting age from 21 years to 18 years, giving younger citizens the right to participate in elections.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The practice of setting aside some constituencies for candidates belonging to certain groups, e.g., Scheduled Castes and Scheduled Tribes, is called:",
+    "options": [
+      "Delimitation",
+      "Reservation of constituencies",
+      "Nomination",
+      "By-election"
+    ],
+    "correct_index": 1,
+    "solution": "Reservation of constituencies means some constituencies are reserved for candidates belonging to Scheduled Castes (SC) and Scheduled Tribes (ST); in an SC-reserved constituency, only an SC candidate can contest, though all voters in the constituency can vote.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a constituency reserved for Scheduled Castes:",
+    "options": [
+      "Only SC voters can vote",
+      "Everyone can vote, but only a candidate belonging to the Scheduled Castes can contest and be elected",
+      "Only SC candidates and voters participate",
+      "No reservation applies to voters"
+    ],
+    "correct_index": 1,
+    "solution": "In a reserved constituency, all voters (of all communities) can vote, but only a candidate belonging to the reserved category (SC or ST) can contest the election. This ensures representation of these communities while maintaining the equality of all voters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of seats reserved for SCs and STs is decided on the basis of:",
+    "options": [
+      "Their political influence",
+      "The proportion of the SC and ST population in the total population",
+      "The wishes of the ruling party",
+      "A fixed number in every state"
+    ],
+    "correct_index": 1,
+    "solution": "The number of seats reserved for the Scheduled Castes and Scheduled Tribes is roughly in proportion to their share in the total population, so that their representation reflects their numbers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The process of drawing the boundaries of constituencies and deciding the number of seats is called:",
+    "options": [
+      "Reservation",
+      "Delimitation",
+      "Nomination",
+      "Scrutiny"
+    ],
+    "correct_index": 1,
+    "solution": "Delimitation is the process of fixing the boundaries and number of territorial constituencies; it is carried out by an independent Delimitation Commission, whose orders have the force of law and cannot be challenged in any court.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Delimitation Commission is appointed to ensure that:",
+    "options": [
+      "The ruling party wins",
+      "Constituencies are fairly demarcated so that they have roughly equal populations, and the SC/ST reservations are appropriately distributed",
+      "Elections are delayed",
+      "Only some states have constituencies"
+    ],
+    "correct_index": 1,
+    "solution": "The Delimitation Commission ensures that constituencies are demarcated fairly and impartially, with roughly equal populations across constituencies (to maintain equal value of votes), and that reserved seats are appropriately distributed; it is an independent body whose decisions cannot be challenged in court.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajya Sabha (Council of States) members representing the states are elected by:",
+    "options": [
+      "The people directly",
+      "The elected members of the State Legislative Assemblies, through the system of Proportional Representation by means of the Single Transferable Vote",
+      "The Lok Sabha",
+      "The Governor"
+    ],
+    "correct_index": 1,
+    "solution": "The representatives of each state in the Rajya Sabha are elected by the elected members of that State's Legislative Assembly, through the system of proportional representation by means of the single transferable vote — an indirect election.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The election of the President of India uses which system?",
+    "options": [
+      "First Past the Post",
+      "Proportional Representation by means of the Single Transferable Vote",
+      "Direct election by the people",
+      "Simple majority in Parliament"
+    ],
+    "correct_index": 1,
+    "solution": "The President of India is elected by an electoral college (elected members of both Houses of Parliament and elected members of the State Legislative Assemblies) through the system of proportional representation by means of the single transferable vote, with voting by secret ballot.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The purpose of using PR with a single transferable vote for the Rajya Sabha and Presidential elections is to:",
+    "options": [
+      "Confuse voters",
+      "Ensure fair representation of parties/states and, in the President's case, give weight to both the Union and the states",
+      "Reduce the number of representatives",
+      "Speed up counting"
+    ],
+    "correct_index": 1,
+    "solution": "The single transferable vote form of PR is used for the Rajya Sabha to ensure fair representation of parties in the state assemblies, and for the President to ensure balanced representation of both Parliament and the state legislatures, giving states a role in electing the head of state.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A criticism of the FPTP system is that it:",
+    "options": [
+      "Always represents all groups fairly",
+      "May not accurately reflect the votes cast — a party can get a large number of seats with a smaller share of votes, and smaller parties/minorities may be under-represented",
+      "Is too complicated",
+      "Guarantees proportional outcomes"
+    ],
+    "correct_index": 1,
+    "solution": "A major criticism of FPTP is that the share of seats won by a party may not match its share of votes; a party can win a majority of seats with a minority of votes, while smaller parties and minority opinions may be under-represented or even unrepresented.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An advantage of the Proportional Representation system is that:",
+    "options": [
+      "It always produces a single-party majority",
+      "Every party gets representation in proportion to its votes, so the legislature more accurately reflects the range of opinions and minority groups get representation",
+      "It is simpler than FPTP",
+      "It ignores small parties"
+    ],
+    "correct_index": 1,
+    "solution": "The main advantage of PR is that it gives representation to parties in proportion to their vote share, so the legislature accurately reflects the diversity of opinion in society and minority groups and smaller parties get fair representation; however, it may lead to coalition governments and instability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Free and fair elections require certain conditions. Which of the following is essential?",
+    "options": [
+      "Only the ruling party contests",
+      "Everyone has one vote of equal value, there is freedom to contest and to choose, elections are held regularly, and the process is conducted by an impartial body",
+      "The government decides the winner",
+      "Voting is not secret"
+    ],
+    "correct_index": 1,
+    "solution": "Free and fair elections require: universal adult franchise with equal value of votes; freedom to contest and to make a genuine choice among alternatives; regular elections at fixed intervals; a level playing field for all parties; secret ballot; and an impartial, independent body (the Election Commission) to conduct them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chapter suggests that no election system is perfect. The choice of an electoral system depends on:",
+    "options": [
+      "The wishes of one party",
+      "What a society values more — a stable and effective government (favouring FPTP) or an accurate reflection of the range of opinions and fair representation of all groups (favouring PR)",
+      "The number of voters only",
+      "The size of the ballot paper"
+    ],
+    "correct_index": 1,
+    "solution": "The choice between FPTP and PR involves a trade-off: FPTP tends to produce stable, single-party governments but may distort the votes-to-seats ratio; PR ensures fair representation of all opinions but may lead to unstable coalition governments. The choice depends on what a society values more.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reservation of seats for SCs and STs in legislatures was originally provided for a period of:",
+    "options": [
+      "Permanently",
+      "A specified number of years, subject to extension by Parliament",
+      "One election",
+      "Fifty years fixed"
+    ],
+    "correct_index": 1,
+    "solution": "The reservation of seats for SCs and STs was originally provided for a limited period (ten years initially), but it has been extended periodically by constitutional amendments, as the framers intended it to continue until the disadvantaged groups achieved adequate representation and upliftment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The demand for reservation of seats for women in the Lok Sabha and State Assemblies has been made to:",
+    "options": [
+      "Reduce women's participation",
+      "Increase the representation of women in legislatures, since they have historically been under-represented",
+      "Ban women from politics",
+      "Reserve all seats for women"
+    ],
+    "correct_index": 1,
+    "solution": "There has been a long-standing demand to reserve one-third of seats in the Lok Sabha and State Assemblies for women, because women, who form nearly half the population, have historically been severely under-represented in these legislatures; the Women's Reservation Bill addressed this.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The introduction of Electronic Voting Machines (EVMs) in Indian elections was aimed at:",
+    "options": [
+      "Making voting more difficult",
+      "Making the voting and counting process faster, more accurate, and reducing malpractices like booth capturing and invalid votes",
+      "Reducing voter turnout",
+      "Increasing paper use"
+    ],
+    "correct_index": 1,
+    "solution": "Electronic Voting Machines (EVMs) were introduced to make the process of voting and counting faster and more accurate; they help reduce invalid votes, make counting quicker, and, along with measures like VVPAT, aim to reduce malpractices and increase the credibility of elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'None of the Above' (NOTA) option, introduced on ballots/EVMs, allows a voter to:",
+    "options": [
+      "Vote twice",
+      "Formally register a vote rejecting all the candidates in the fray",
+      "Cancel the election",
+      "Vote for the winner automatically"
+    ],
+    "correct_index": 1,
+    "solution": "The NOTA (None of the Above) option, introduced following a Supreme Court directive, allows a voter to formally reject all the contesting candidates by choosing this option, thereby registering their disapproval of all candidates while maintaining the secrecy of the ballot.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'by-election' is held when:",
+    "options": [
+      "The general election is delayed",
+      "A seat falls vacant in between two general elections (due to death, resignation, or disqualification of a member) and needs to be filled",
+      "All seats are contested",
+      "The government changes"
+    ],
+    "correct_index": 1,
+    "solution": "A by-election is held to fill a single seat (or a few seats) that has fallen vacant in between two general elections, due to the death, resignation, or disqualification of the sitting member.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Model Code of Conduct is a set of guidelines issued by the Election Commission that:",
+    "options": [
+      "Applies only to voters",
+      "Regulates the conduct of political parties and candidates during elections, coming into force once elections are announced, to ensure a level playing field",
+      "Is legally binding as a statute",
+      "Applies only after elections"
+    ],
+    "correct_index": 1,
+    "solution": "The Model Code of Conduct is a set of norms issued by the Election Commission to regulate the conduct of political parties and candidates during the election period (from the announcement of elections until results); it aims to ensure free and fair elections and a level playing field, prohibiting things like the misuse of official machinery and hate speech.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One of the malpractices that free and fair elections seek to prevent is 'booth capturing', which means:",
+    "options": [
+      "Building new polling booths",
+      "Groups capturing polling booths and casting false votes to rig the election in favour of a candidate",
+      "Counting votes fairly",
+      "Voter registration"
+    ],
+    "correct_index": 1,
+    "solution": "Booth capturing is an electoral malpractice where armed groups or party workers capture a polling booth and cast false votes to rig the election in favour of a particular candidate or party; measures like EVMs, deployment of security forces, and re-polling aim to prevent it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly describes the role of the Election Commission in ensuring free and fair elections?",
+    "options": [
+      "It makes election laws",
+      "It prepares and revises electoral rolls, conducts and supervises elections, registers political parties and allots symbols, enforces the Model Code of Conduct, and can cancel or postpone polls if needed",
+      "It decides who wins",
+      "It funds candidates"
+    ],
+    "correct_index": 1,
+    "solution": "The Election Commission prepares and periodically revises electoral rolls, notifies the schedule and conducts elections, registers political parties and allots them symbols, enforces the Model Code of Conduct, monitors election expenses, and can order re-polling or postponement to ensure free and fair elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The independence of the Election Commission is important because:",
+    "options": [
+      "It helps the ruling party",
+      "An impartial body free from government control is essential for conducting free and fair elections and maintaining the credibility of the democratic process",
+      "It speeds up elections",
+      "It reduces the number of parties"
+    ],
+    "correct_index": 1,
+    "solution": "The independence of the Election Commission is essential because only an impartial body, free from the control of the ruling party or government, can conduct elections that are genuinely free and fair, thereby maintaining public confidence in the democratic process and the legitimacy of elected governments.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The FPTP system tends to encourage which kind of party system?",
+    "options": [
+      "Always a multi-party coalition system",
+      "It tends to favour larger parties and a two-party or a few-major-parties tendency, though India's diversity has still produced a multi-party system",
+      "A one-party system",
+      "No parties"
+    ],
+    "correct_index": 1,
+    "solution": "The FPTP system tends to favour larger parties and discourage very small parties, pushing towards a system dominated by a few major parties (or a two-party tendency); however, India's vast social and regional diversity has still produced a vibrant multi-party system despite FPTP.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The value of 'one person, one vote, one value' embodied in universal adult franchise means:",
+    "options": [
+      "Some votes count more than others",
+      "Every citizen's vote carries equal weight, regardless of their status, wealth or education",
+      "Only one vote is cast per family",
+      "Votes are weighted by income"
+    ],
+    "correct_index": 1,
+    "solution": "The principle 'one person, one vote, one value' means that every adult citizen has exactly one vote and every vote carries equal weight, regardless of the voter's caste, religion, sex, wealth, or education — embodying the democratic ideal of political equality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why did the framers of the Constitution decide to have reservation of seats for SCs and STs but not separate electorates?",
+    "options": [
+      "Separate electorates were cheaper",
+      "Separate electorates (as under colonial rule) would have divided society and weakened national unity, whereas reserved constituencies (with all voters participating) ensure representation while keeping the electorate joint and united",
+      "Reservation was illegal",
+      "They wanted fewer representatives"
+    ],
+    "correct_index": 1,
+    "solution": "The framers rejected separate electorates (where only members of a community vote for their own representatives, as under British communal award) because these would divide society; instead they chose reserved constituencies within a joint (common) electorate, where all voters participate but only reserved-category candidates contest, thereby ensuring representation while preserving national unity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The chapter concludes that India's electoral system has generally succeeded in:",
+    "options": [
+      "Preventing elections",
+      "Conducting free and fair elections and enabling peaceful transfer of power, though it has some limitations like the votes-to-seats distortion of FPTP",
+      "Guaranteeing proportional outcomes",
+      "Eliminating all parties"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that India's electoral system, based on FPTP and universal adult franchise conducted by an independent Election Commission, has by and large succeeded in holding free and fair elections and enabling the peaceful transfer of power; while it has limitations (like the FPTP votes-to-seats distortion), it has served Indian democracy well.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an argument in favour of the FPTP system used in India?",
+    "options": [
+      "It gives exactly proportional representation",
+      "It is simple, allows voters to choose a specific representative accountable to a local constituency, and tends to produce a stable government",
+      "It always represents minorities perfectly",
+      "It eliminates the need for the Election Commission"
+    ],
+    "correct_index": 1,
+    "solution": "Arguments in favour of FPTP include: its simplicity and familiarity; it allows voters to clearly choose a specific candidate who is accountable to a defined local constituency; and it tends to produce a decisive result and a stable government, avoiding the fragmentation and instability sometimes associated with PR.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the Proportional Representation (PR) system, the voter usually votes for:",
+    "options": [
+      "A single local candidate only",
+      "A party (party list) or ranks candidates, and seats are distributed according to the votes each party gets",
+      "The Prime Minister directly",
+      "No one"
+    ],
+    "correct_index": 1,
+    "solution": "In the PR system, the voter typically votes for a party (in the party-list variant), and each party gets seats in proportion to its share of votes; the party then fills those seats from its list of candidates. In some PR variants (like STV), voters rank candidates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key reason the Rajya Sabha and Presidential elections use indirect election and PR rather than FPTP is to:",
+    "options": [
+      "Save money",
+      "Reflect the federal character of India — giving the states and their legislatures a role, and ensuring balanced representation",
+      "Reduce voter fatigue",
+      "Speed up the process"
+    ],
+    "correct_index": 1,
+    "solution": "The indirect election of the Rajya Sabha (by state legislators) and the President (by an electoral college of MPs and MLAs) using PR reflects India's federal structure — it gives the states and their elected legislatures a meaningful role, ensuring that these institutions represent both the Union and the states in a balanced way.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The requirement that constituencies should have roughly equal populations is important to ensure:",
+    "options": [
+      "That some votes count more",
+      "The equal value of each vote — so that a representative from one constituency represents roughly the same number of people as another",
+      "That elections are delayed",
+      "That cities have fewer seats"
+    ],
+    "correct_index": 1,
+    "solution": "Ensuring that constituencies have roughly equal populations upholds the principle of equal value of votes; if constituencies varied greatly in population, a vote in a smaller constituency would effectively count for more than a vote in a larger one, violating the 'one person, one vote, one value' principle. This is why delimitation is important.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The secret ballot is an essential feature of free and fair elections because it:",
+    "options": [
+      "Reveals how each person votes",
+      "Allows voters to cast their votes without fear or intimidation, keeping their choice confidential",
+      "Speeds up counting",
+      "Reduces the cost of elections"
+    ],
+    "correct_index": 1,
+    "solution": "The secret ballot ensures that voters can cast their votes freely, according to their own choice, without fear of intimidation, pressure or retaliation, because no one can find out how any individual voted; this is essential for a genuine and free expression of the voter's will.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The provision that the Election Commission can be a multi-member body (Chief Election Commissioner and other Election Commissioners) was intended to:",
+    "options": [
+      "Slow down decisions",
+      "Distribute responsibility and strengthen the Commission's functioning, especially as the volume of election work grew",
+      "Reduce independence",
+      "Give the government control"
+    ],
+    "correct_index": 1,
+    "solution": "The Election Commission was made a multi-member body (with the CEC and other Election Commissioners deciding by majority) to distribute the responsibility and strengthen its functioning as the scale and complexity of election work increased; all commissioners have equal powers and decisions are taken collectively.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a limitation of the reservation of constituencies system?",
+    "options": [
+      "It gives no representation to SCs/STs",
+      "The reserved-category representative has to cater to all voters in the constituency and may not focus solely on the reserved community's issues; also, only certain constituencies are reserved",
+      "It reserves all seats",
+      "It excludes SC/ST voters"
+    ],
+    "correct_index": 1,
+    "solution": "One limitation is that in a reserved constituency, since all voters (not just the reserved community) vote, the elected SC/ST representative must cater to the entire electorate and may not be able to focus exclusively on the concerns of the reserved community; nonetheless, the system ensures their presence in legislatures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Election and Representation' is that:",
+    "options": [
+      "Elections are unnecessary",
+      "Free and fair elections through an appropriate electoral system (India's FPTP with universal adult franchise, reserved constituencies, and an independent Election Commission) are the foundation of representative democracy, though every system involves trade-offs",
+      "Only PR is acceptable",
+      "The government should conduct elections"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that elections are the foundation of representative democracy; India chose the FPTP system with universal adult franchise, reservation of constituencies for SCs/STs, and an independent Election Commission to conduct free and fair elections. While no electoral system is perfect (FPTP vs PR involves trade-offs between stability and proportional fairness), India's system has generally succeeded in sustaining its democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the Single Transferable Vote (STV) system used for the Rajya Sabha, a candidate needs to secure a fixed minimum number of votes known as the:",
+    "options": [
+      "Majority",
+      "Quota",
+      "Plurality",
+      "Threshold of 50%"
+    ],
+    "correct_index": 1,
+    "solution": "In the Single Transferable Vote system, a candidate needs to secure a certain minimum number of votes called the quota to be declared elected; surplus votes above the quota, and votes of eliminated candidates, are transferred according to voters' preferences until the required number of candidates is elected.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Anti-Defection Law is relevant to elections and representation because it:",
+    "options": [
+      "Allows unlimited party switching",
+      "Disqualifies a legislator who defects from the party on whose ticket he was elected, so that the mandate of the voters is respected",
+      "Bans political parties",
+      "Reserves seats"
+    ],
+    "correct_index": 1,
+    "solution": "The Anti-Defection Law (added by the 52nd Amendment, 1985) provides that a legislator elected on a party ticket who defects (voluntarily gives up membership or votes against the party whip) can be disqualified; this upholds the mandate given by voters to the party and prevents unprincipled floor-crossing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term of the Lok Sabha and State Legislative Assemblies, at the end of which general elections are normally held, is:",
+    "options": [
+      "Four years",
+      "Five years",
+      "Six years",
+      "Three years"
+    ],
+    "correct_index": 1,
+    "solution": "The normal term of the Lok Sabha and the State Legislative Assemblies is five years, at the end of which general elections are held; the term can be cut short if the house is dissolved earlier, and can be extended only during a proclamation of Emergency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The electoral system used in India for elections to the Lok Sabha and State Assemblies is:",
+    "options": [
+      "First Past the Post (FPTP)",
+      "Proportional Representation",
+      "Single Transferable Vote",
+      "Two-round system"
+    ],
+    "correct_index": 0,
+    "solution": "India uses the First Past the Post (FPTP) system for Lok Sabha and State Assembly elections; the candidate who gets the highest number of votes in a constituency is declared elected.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajya Sabha members representing the states are elected by:",
+    "options": [
+      "The elected members of the State Legislative Assemblies",
+      "The people directly",
+      "The Lok Sabha members",
+      "The President"
+    ],
+    "correct_index": 0,
+    "solution": "Members of the Rajya Sabha (Council of States) are elected by the elected members of the State Legislative Assemblies, using the system of proportional representation by means of the single transferable vote.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The President of India is elected using which system?",
+    "options": [
+      "Proportional representation by single transferable vote",
+      "First Past the Post",
+      "Direct election by the people",
+      "Nomination"
+    ],
+    "correct_index": 0,
+    "solution": "The President of India is elected by an electoral college using the system of proportional representation by means of the single transferable vote, with voting by secret ballot.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The election of members of the Rajya Sabha uses the __________ system.",
+    "options": [
+      "Single Transferable Vote (proportional representation)",
+      "First Past the Post",
+      "Simple majority",
+      "Show of hands"
+    ],
+    "correct_index": 0,
+    "solution": "The Rajya Sabha is elected indirectly using proportional representation by the single transferable vote system, in which each MLA's vote can be transferred according to preferences.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The process of drawing the boundaries of constituencies and fixing their number is called:",
+    "options": [
+      "Delimitation",
+      "Reservation",
+      "Nomination",
+      "Franchise"
+    ],
+    "correct_index": 0,
+    "solution": "Delimitation is the process of fixing the boundaries and number of constituencies; it is carried out by an independent Delimitation Commission to ensure roughly equal population per constituency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'None of the Above' (NOTA) option on the EVM was introduced in India in:",
+    "options": [
+      "2013",
+      "2004",
+      "1988",
+      "2000"
+    ],
+    "correct_index": 0,
+    "solution": "The NOTA (None of the Above) option was introduced in 2013 following a Supreme Court direction, allowing voters to reject all contesting candidates.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): India adopted the FPTP system rather than proportional representation. Reason (R): FPTP is simple to operate and tends to produce stable governments.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "The framers chose FPTP because it is simple for voters to understand and usually gives a clear majority to one party, producing stable and effective government — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): The Election Commission of India is independent. Reason (R): The CEC's tenure and removal are protected so that the government cannot pressure the Commission.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "The EC's independence rests on the security of the CEC's tenure and the difficult removal procedure, insulating it from government pressure — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "An advantage of the Proportional Representation (PR) system is that:",
+    "options": [
+      "Parties get seats in proportion to the votes they receive, giving fairer representation",
+      "One party always wins",
+      "Smaller parties are excluded",
+      "It is simplest to operate"
+    ],
+    "correct_index": 0,
+    "solution": "In PR, the number of seats a party gets is in proportion to the votes it receives, so the assembly mirrors the actual share of votes and even small parties get representation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Model Code of Conduct is a set of guidelines issued by the Election Commission to:",
+    "options": [
+      "Regulate the conduct of parties and candidates during elections",
+      "Fix crop prices",
+      "Run the courts",
+      "Collect taxes"
+    ],
+    "correct_index": 0,
+    "solution": "The Model Code of Conduct lays down norms for the conduct of political parties and candidates once elections are announced, to ensure free and fair elections and prevent misuse of power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match the office with its method of election: (i) Lok Sabha (ii) Rajya Sabha (iii) President — (a) proportional representation by STV by MPs and MLAs (b) FPTP direct election (c) PR by STV by MLAs:",
+    "options": [
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-a, (iii)-c"
+    ],
+    "correct_index": 0,
+    "solution": "The Lok Sabha is elected by FPTP direct election, the Rajya Sabha by PR-STV by MLAs, and the President by PR-STV by an electoral college of elected MPs and MLAs.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The independence of the Election Commission is important because it:",
+    "options": [
+      "Ensures elections are conducted impartially, free from government influence",
+      "Helps the ruling party",
+      "Reduces the number of voters",
+      "Fixes election results"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission's independence ensures that elections are conducted fairly and impartially, without interference from the party in power, which is essential for free and fair elections.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two main variants of the Proportional Representation system are the list system and the:",
+    "options": [
+      "Single Transferable Vote (STV) system",
+      "First Past the Post",
+      "Two-round system",
+      "Show of hands"
+    ],
+    "correct_index": 0,
+    "solution": "In the PR system there are two variants: the list system (voters vote for a party which then gets seats in proportion to votes) and the Single Transferable Vote (STV) system, used in India for the Rajya Sabha and Presidential elections.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The reservation of constituencies is meant to ensure that:",
+    "options": [
+      "Weaker sections like SCs and STs get adequate representation in legislatures",
+      "The rich are represented",
+      "Only cities are represented",
+      "One party dominates"
+    ],
+    "correct_index": 0,
+    "solution": "Reservation of constituencies ensures that the Scheduled Castes and Scheduled Tribes, who might not otherwise win in general contests, get a fair share of representation in the legislatures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Election Commission of India is a:",
+    "options": [
+      "Multi-member independent constitutional body",
+      "Single-member body only",
+      "Department of the government",
+      "Part of the judiciary"
+    ],
+    "correct_index": 0,
+    "solution": "The Election Commission is an independent constitutional body; since 1989 it has been a multi-member body, with the Chief Election Commissioner and other Election Commissioners.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key reason the Rajya Sabha and Presidential elections use indirect election is to:",
+    "options": [
+      "Represent the states and maintain a federal balance",
+      "Save money",
+      "Exclude voters",
+      "Favour one party"
+    ],
+    "correct_index": 0,
+    "solution": "Indirect election for the Rajya Sabha (by MLAs) and President (by MPs and MLAs) reflects the federal principle, giving the states a role in these elections and balancing the direct representation of the Lok Sabha.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Anti-Defection Law is relevant to representation because it provides that a legislator who defects:",
+    "options": [
+      "Loses their seat in the legislature",
+      "Becomes the Speaker",
+      "Is rewarded",
+      "Keeps their seat freely"
+    ],
+    "correct_index": 0,
+    "solution": "The Anti-Defection Law (52nd Amendment) provides that an elected member who defects (changes party) loses their seat, aiming to curb the practice of switching parties for gain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term of the Lok Sabha and State Legislative Assemblies is normally:",
+    "options": [
+      "Five years",
+      "Four years",
+      "Six years",
+      "Three years"
+    ],
+    "correct_index": 0,
+    "solution": "The normal term of the Lok Sabha and the State Legislative Assemblies is five years, after which fresh elections must be held, unless dissolved earlier.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A criticism of the reservation of constituencies is that it:",
+    "options": [
+      "Limits the choice of voters to candidates from one group in that constituency",
+      "Excludes all candidates",
+      "Reduces the number of voters",
+      "Ends elections"
+    ],
+    "correct_index": 0,
+    "solution": "One limitation of reserved constituencies is that voters in such constituencies can only choose from candidates of the reserved group, and the elected member may become dependent on the general electorate rather than only their own community.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Free and fair elections require conditions such as:",
+    "options": [
+      "Universal franchise, a secret ballot, an independent election body, and a genuine choice",
+      "A single candidate",
+      "No secret ballot",
+      "Control by the ruling party"
+    ],
+    "correct_index": 0,
+    "solution": "Free and fair elections require universal adult franchise, the secret ballot, an independent and impartial election machinery, a real choice of candidates and parties, and freedom to campaign and vote without fear.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The introduction of Electronic Voting Machines (EVMs) in Indian elections helped to:",
+    "options": [
+      "Make voting and counting faster and reduce invalid votes",
+      "Slow down elections",
+      "Increase paper use",
+      "Reduce voter turnout"
+    ],
+    "correct_index": 0,
+    "solution": "EVMs made the recording and counting of votes faster, more accurate and cheaper, and reduced invalid votes compared with paper ballots.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The FPTP system is defended on the ground that it:",
+    "options": [
+      "Is simple, and usually produces a clear majority and stable government",
+      "Gives exact proportional representation",
+      "Excludes large parties",
+      "Requires no constituencies"
+    ],
+    "correct_index": 0,
+    "solution": "Arguments in favour of FPTP include its simplicity for voters, its tendency to give a clear majority to one party leading to stable government, and the direct link between a representative and their constituency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the Single Transferable Vote (STV) system, a voter:",
+    "options": [
+      "Ranks candidates in order of preference",
+      "Votes for only one party",
+      "Cannot express a preference",
+      "Votes for the government directly"
+    ],
+    "correct_index": 0,
+    "solution": "In the STV system, the voter marks candidates in order of preference (1, 2, 3, ...); surplus and lowest votes are transferred according to preferences until the required candidates are elected.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A candidate contesting an election is required to submit a security deposit, which is:",
+    "options": [
+      "Forfeited if the candidate fails to secure a minimum share of votes",
+      "Never returned",
+      "Not required",
+      "Paid by the government"
+    ],
+    "correct_index": 0,
+    "solution": "Every candidate must deposit a security amount when filing nomination; it is forfeited if the candidate fails to secure a minimum specified proportion (one-sixth) of the valid votes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The demand for reservation of one-third of seats for women in the Lok Sabha and State Assemblies aims to:",
+    "options": [
+      "Increase the low representation of women in legislatures",
+      "Reduce women's role",
+      "Exclude men",
+      "End elections"
+    ],
+    "correct_index": 0,
+    "solution": "Because the proportion of women in the Lok Sabha and Assemblies has been very low, there has been a long-standing demand to reserve one-third of seats for women to ensure their adequate representation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The whole country is divided into geographical areas for elections; each such area is called a:",
+    "options": [
+      "Constituency",
+      "District",
+      "Tehsil",
+      "Ward"
+    ],
+    "correct_index": 0,
+    "solution": "For the FPTP system, the country is divided into geographical areas called constituencies; voters in each constituency elect one representative, giving one representative per constituency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The requirement that constituencies have roughly equal population is important because it:",
+    "options": [
+      "Maintains the equal value of each person's vote",
+      "Favours large cities",
+      "Helps the rich",
+      "Reduces representation"
+    ],
+    "correct_index": 0,
+    "solution": "Keeping constituencies roughly equal in population ensures that each representative represents a similar number of people, preserving the principle of one vote, one value.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chapter concludes that India's electoral system has, on the whole:",
+    "options": [
+      "Worked reasonably well in conducting free and fair elections",
+      "Failed completely",
+      "Never held elections",
+      "Been controlled by the ruling party"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter concludes that despite some shortcomings, India's electoral system and the Election Commission have generally succeeded in holding free and fair elections and sustaining democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One malpractice that free and fair elections seek to prevent is:",
+    "options": [
+      "Booth capturing and rigging",
+      "Secret ballot",
+      "Voter registration",
+      "Counting of votes"
+    ],
+    "correct_index": 0,
+    "solution": "Free and fair elections aim to prevent malpractices such as rigging, booth capturing, bogus voting, intimidation of voters, and misuse of official machinery, which the Election Commission works to check.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why did the framers of the Constitution decide to have reservation of seats for SCs and STs?",
+    "options": [
+      "To ensure fair representation of communities disadvantaged historically",
+      "To exclude them",
+      "To favour the rich",
+      "To reduce elections"
+    ],
+    "correct_index": 0,
+    "solution": "The framers provided reservation of seats to ensure that the historically disadvantaged Scheduled Castes and Scheduled Tribes get adequate representation in the legislatures, correcting long-standing social injustice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The purpose of using PR with single transferable vote for the Rajya Sabha is to:",
+    "options": [
+      "Reflect the strength of parties in each state's assembly fairly",
+      "Ensure one party wins all seats",
+      "Exclude small parties",
+      "Allow direct public voting"
+    ],
+    "correct_index": 0,
+    "solution": "Using PR-STV for the Rajya Sabha allows the seats from each state to be distributed in proportion to the strength of parties in that state's assembly, giving a fair, proportional representation of the states.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The chapter suggests that no electoral system is perfect, so the choice depends on:",
+    "options": [
+      "The needs and circumstances of the country",
+      "The wishes of one party",
+      "International pressure",
+      "The wealth of the country"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter notes that both FPTP and PR have advantages and drawbacks; the choice of system depends on what values a country prioritises — stability, fair representation, simplicity — and its particular circumstances.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The provision that the Election Commission can be a multi-member body was intended to:",
+    "options": [
+      "Share responsibility and strengthen its independence",
+      "Weaken it",
+      "Reduce its powers",
+      "Favour the ruling party"
+    ],
+    "correct_index": 0,
+    "solution": "Making the Election Commission a multi-member body (with the CEC and other Commissioners) was intended to distribute its heavy responsibilities and reinforce its impartiality and independence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A candidate contesting an election is required to submit a security deposit, which is forfeited if the candidate:",
+    "options": [
+      "Wins the election",
+      "Fails to secure a minimum share (one-sixth) of the valid votes polled in the constituency",
+      "Belongs to a national party",
+      "Files an affidavit"
+    ],
+    "correct_index": 1,
+    "solution": "Every candidate must deposit a fixed security amount while filing nomination; this deposit is forfeited if the candidate fails to secure at least one-sixth of the total valid votes polled in the constituency, a measure meant to discourage frivolous or non-serious candidatures.",
+    "difficulty": "hard"
+  }
 ]
