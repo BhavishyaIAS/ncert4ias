@@ -1,52 +1,1070 @@
 [
-  { "stem": "Water is present in the atmosphere in three states — solid, liquid, and gas. The gaseous (invisible) form of water in the atmosphere is:", "options": ["Ice", "Water vapour", "Rain", "Snow"], "correct_index": 1, "solution": "Water vapour is the gaseous (invisible) form of water present in the atmosphere. Water exists in the atmosphere in all three states: solid (ice — as in snow, hail, ice crystals in clouds), liquid (water — as in raindrops and cloud droplets), and gas (water vapour — the invisible gaseous form). Water vapour is the most important form because it is the source of all condensation and precipitation, and it is a powerful greenhouse gas. Understanding that water vapour is the gaseous state of atmospheric water is a prelims point. Water vapour is the gaseous (invisible) form of water in the atmosphere.", "difficulty": "easy" },
-  { "stem": "The continuous movement/exchange of water among the oceans, atmosphere, and land (through evaporation, condensation, precipitation, and runoff) is called the:", "options": ["Rock cycle", "Water cycle (hydrological cycle)", "Carbon cycle", "Nitrogen cycle"], "correct_index": 1, "solution": "The water cycle (also called the hydrological cycle) is the continuous movement and exchange of water among the oceans, the atmosphere, and the land. Driven by the Sun's energy and gravity, it works like this: water evaporates from the oceans (and land and plants) into the atmosphere as water vapour; the vapour rises, cools, and condenses into clouds; precipitation (rain/snow) falls from the clouds back to the land and sea; and the water on land runs off through rivers (or seeps into the ground) back to the oceans — and the cycle repeats. The total amount of water on Earth stays constant; it just keeps circulating through these stages. Understanding the water (hydrological) cycle is a prelims point. The water cycle is the continuous circulation of water among the oceans, atmosphere, and land.", "difficulty": "easy" },
-  { "stem": "The process by which water changes from the liquid state to the gaseous state (water vapour), adding moisture to the atmosphere, is called:", "options": ["Condensation", "Evaporation", "Precipitation", "Freezing"], "correct_index": 1, "solution": "Evaporation is the process by which water changes from its liquid state into the gaseous state (water vapour), thereby adding moisture to the atmosphere. It occurs when water (from oceans, lakes, rivers, wet soil) absorbs heat energy (from the Sun) and its molecules escape into the air as vapour. Evaporation is greater when it is hot (more heat), when the air is dry (low humidity), when it is windy (moving air carries vapour away), and where there is a large water surface. Evaporation is the first stage of the water cycle, transferring water from the surface into the atmosphere. Understanding evaporation (liquid → vapour) is a prelims point. Evaporation is the change of water from liquid to vapour, adding moisture to the air.", "difficulty": "easy" },
-  { "stem": "The release of water vapour into the atmosphere by plants (through their leaves) is called:", "options": ["Evaporation", "Transpiration", "Condensation", "Precipitation"], "correct_index": 1, "solution": "Transpiration is the process by which plants release water vapour into the atmosphere, mainly through tiny pores (stomata) in their leaves. Plants absorb water from the soil through their roots, and a large part of this water is given off as water vapour from the leaves — this is transpiration. Together with evaporation from water and soil surfaces, transpiration adds moisture to the atmosphere; the combined loss of water by both processes is sometimes called 'evapotranspiration'. Understanding transpiration (release of vapour by plants) is a prelims point. Transpiration is the release of water vapour into the air by plants through their leaves.", "difficulty": "medium" },
-  { "stem": "The heat energy that is absorbed (or released) when water changes its state (e.g., absorbed during evaporation, released during condensation) without a change in temperature is called:", "options": ["Sensible heat", "Latent heat", "Solar constant", "Albedo"], "correct_index": 1, "solution": "Latent heat ('hidden heat') is the heat energy that is absorbed or released when a substance changes its state (phase) — such as when water changes between liquid and vapour, or liquid and ice — without any change in its temperature. During evaporation, water absorbs latent heat from its surroundings (which is why evaporation has a cooling effect — e.g., sweating cools the body); during condensation, this latent heat is released back to the surroundings (warming the air — an important source of energy for storms and cyclones). This latent heat exchange is a key way the water cycle transfers energy through the atmosphere. Understanding latent heat (heat of state-change) is a prelims point. Latent heat is the heat absorbed or released when water changes state, without changing temperature.", "difficulty": "hard" },
-  { "stem": "The amount of water vapour present in the air is called humidity. When the air holds the maximum amount of water vapour it can at a given temperature, it is said to be:", "options": ["Dry", "Saturated", "Unsaturated", "Frozen"], "correct_index": 1, "solution": "Air is said to be saturated when it holds the maximum amount of water vapour it can at a given temperature (i.e., its relative humidity is 100%). At saturation, the air cannot hold any more moisture, so any further cooling (or addition of vapour) will cause the excess water vapour to condense into liquid water (dew, fog, cloud) or ice. Importantly, the capacity of air to hold water vapour depends on temperature: warm air can hold much more vapour than cold air — so cooling saturated air forces condensation. Understanding saturation (air holding its maximum moisture) is a prelims point. Air is saturated when it holds the maximum water vapour possible at that temperature (100% relative humidity).", "difficulty": "medium" },
-  { "stem": "Warm air can hold __________ water vapour than cold air.", "options": ["Less", "More", "Exactly the same amount of", "No"], "correct_index": 1, "solution": "Warm air can hold more water vapour than cold air. The capacity of air to hold moisture increases with temperature — the warmer the air, the greater the amount of water vapour it can contain before becoming saturated. This is a fundamental principle underlying condensation and precipitation: when moist warm air is cooled (for example, by rising and expanding, or by contact with a cold surface), its moisture-holding capacity falls, and once it is cooled to its dew point (saturation), the excess water vapour condenses into clouds, dew, fog, or precipitation. This is why the warm, humid tropics hold so much moisture, and why cooling is the key trigger for rain. Understanding that warm air holds more moisture than cold air is a key prelims point. Warm air can hold more water vapour than cold air.", "difficulty": "medium" },
-  { "stem": "The absolute humidity of the air is the __________, usually expressed in grams per cubic metre.", "options": ["Percentage of saturation", "Actual mass (weight) of water vapour present in a given volume of air", "Temperature of the air", "Number of clouds"], "correct_index": 1, "solution": "Absolute humidity is the actual mass (weight) of water vapour present in a given volume of air — usually expressed in grams of water vapour per cubic metre of air (g/m³). It is a direct measure of how much moisture the air actually contains. (This differs from relative humidity, which expresses the moisture as a percentage of the maximum the air could hold at that temperature.) Absolute humidity varies from place to place and time to time — it is greater over warm, moist regions (like the equatorial areas and oceans) and less over cold or dry regions. Understanding absolute humidity (actual mass of vapour per volume) is a prelims point. Absolute humidity is the actual mass of water vapour in a given volume of air (g/m³).", "difficulty": "hard" },
-  { "stem": "Relative humidity is usually __________ during the cooler early morning and __________ during the warmer afternoon (for the same moisture content).", "options": ["Lowest; highest", "Highest; lowest", "Zero; 100%", "Unchanging; unchanging"], "correct_index": 1, "solution": "For the same amount of moisture in the air, relative humidity is usually highest during the cool early morning and lowest during the warm afternoon. This is because relative humidity depends on temperature: relative humidity = (actual vapour) ÷ (maximum the air can hold at that temperature). In the cool early morning, the air's capacity to hold moisture is low, so the same moisture gives a high relative humidity (which is why dew often forms in the morning); by the warm afternoon, the air's capacity is much higher, so the same moisture gives a low relative humidity. Thus relative humidity varies inversely with temperature through the day. Understanding this daily variation of relative humidity is a prelims point. Relative humidity is highest in the cool morning and lowest in the warm afternoon.", "difficulty": "hard" },
-  { "stem": "For condensation to occur, moist air must generally be __________ to (or below) its dew point.", "options": ["Heated", "Cooled", "Dried", "Compressed only"], "correct_index": 1, "solution": "For condensation to occur, moist air must generally be cooled to (or below) its dew point — the temperature at which the air becomes saturated. When air is cooled to its dew point, it can no longer hold all its water vapour, so the excess vapour condenses into liquid water (or ice). Cooling can happen in several ways: by the air rising and expanding (adiabatic cooling — the main way clouds form); by contact with a cold surface (forming dew or fog); by mixing with colder air; or by radiation cooling at night. In all cases, cooling to the dew point is the key trigger for condensation. Understanding that cooling to the dew point causes condensation is a key prelims point. Condensation occurs when moist air is cooled to (or below) its dew point.", "difficulty": "medium" },
-  { "stem": "Tiny drops of water that form on the leaves of grass and other cool surfaces on calm, clear nights (when the surface cools below the dew point) are called:", "options": ["Frost", "Dew", "Fog", "Hail"], "correct_index": 1, "solution": "Dew is the tiny drops of water that condense and form on the leaves of grass, plants, and other cool surfaces (like car windows) on calm, clear nights. It forms when, on a clear, still night, the ground and surfaces radiate away their heat and cool down below the dew point of the air in contact with them, causing the water vapour in that air to condense as small water droplets on the cold surfaces. The ideal conditions for dew are: clear skies (rapid radiation cooling), calm air, high humidity, and cold, long nights. (If the dew point is below freezing, frost forms instead.) Understanding dew (condensation on cool surfaces at night) is a prelims point. Dew is the water droplets that condense on cool surfaces on calm, clear nights.", "difficulty": "medium" },
-  { "stem": "When the dew point is BELOW the freezing point (0°C), the water vapour condenses directly into tiny ice crystals on surfaces, forming:", "options": ["Dew", "Frost", "Rain", "Mist"], "correct_index": 1, "solution": "Frost forms when the dew point is below the freezing point (0°C): under these conditions, on a cold, clear, calm night, the water vapour in the air, on coming into contact with the very cold surface, condenses (deposits) directly into tiny white ice crystals on the surface (instead of forming liquid dew). Frost is common on cold winter nights and can damage crops (frost damage). The conditions are like those for dew, but with sub-freezing temperatures. Understanding frost (condensation to ice when dew point is below freezing) is a prelims point. Frost forms when water vapour condenses into ice crystals on surfaces, when the dew point is below freezing.", "difficulty": "medium" },
-  { "stem": "Fog and mist are essentially clouds formed at (or very near) the ground. Fog reduces:", "options": ["Temperature only", "Visibility (making it hard to see)", "Air pressure", "Wind speed"], "correct_index": 1, "solution": "Fog (and its thinner form, mist) is essentially a cloud that forms at, or very close to, the ground — a mass of tiny water droplets suspended in the air near the surface — and its main effect is to reduce visibility, making it difficult to see (hence a hazard to road, rail, air, and sea transport). Fog forms when the air near the ground is cooled to its dew point, causing the water vapour to condense; common types include 'radiation fog' (forming on clear, calm, cold nights as the ground cools) and 'advection fog' (forming when warm, moist air moves over a cold surface). Mist is like fog but less dense (visibility is somewhat better). Understanding that fog is a ground-level cloud that reduces visibility is a prelims point. Fog is a ground-level cloud that reduces visibility.", "difficulty": "medium" },
-  { "stem": "The difference between fog and mist is mainly one of:", "options": ["Colour", "Density/thickness (fog is denser and reduces visibility more; mist is thinner)", "Temperature", "Location (fog only at sea)"], "correct_index": 1, "solution": "The difference between fog and mist is mainly one of density/thickness (and hence how much they reduce visibility). Fog is denser (thicker) — it contains more, and more concentrated, water droplets, and it reduces visibility more severely (often to less than 1 km, sometimes just a few metres). Mist is thinner (less dense) — visibility is reduced but not as drastically (you can see somewhat farther). Both are formed the same way (condensation near the ground), and both are essentially ground-level clouds; they differ in degree, with fog being the thicker, more visibility-reducing form. Understanding the fog-vs-mist distinction (density/visibility) is a prelims point. Fog is denser and reduces visibility more than mist, which is thinner.", "difficulty": "medium" },
-  { "stem": "Clouds are formed by the condensation of water vapour on tiny particles (like dust) high in the atmosphere. Clouds are classified mainly on the basis of their __________ and __________.", "options": ["Colour and smell", "Form (appearance/shape) and height (altitude)", "Speed and temperature", "Name and country"], "correct_index": 1, "solution": "Clouds are classified mainly on the basis of their form (appearance/shape) and their height (altitude at which they occur). By form, the main types are: cirrus (thin, wispy, feathery), cumulus (heaped, cotton-like), stratus (layered, sheet-like), and nimbus (dark, rain-bearing). By height, clouds are grouped into high clouds (like cirrus), middle clouds (like altocumulus/altostratus), and low clouds (like stratus/stratocumulus), plus clouds of great vertical extent (like cumulonimbus). Combining form and height gives names like cirrostratus, altocumulus, nimbostratus, etc. Understanding that clouds are classified by form and height is a prelims point. Clouds are classified mainly by their form (shape) and their height (altitude).", "difficulty": "medium" },
-  { "stem": "Which cloud type is a high-altitude cloud made of ice crystals?", "options": ["Stratus", "Cirrus", "Cumulus", "Nimbostratus"], "correct_index": 1, "solution": "Cirrus is the high-altitude cloud, made of ice crystals (because temperatures are very low at those heights, well above ~8000 m). Cirrus clouds are thin, white, wispy, and feathery in appearance, and are usually associated with fair weather (though they can sometimes indicate an approaching weather change). (The other basic forms — cumulus, stratus, nimbus — are not defined as high ice-crystal clouds: cumulus are heaped fair-weather clouds; stratus are low layered clouds; nimbus are rain-bearing clouds.) Understanding that cirrus is the high, ice-crystal cloud is a prelims point. Cirrus is the high-altitude cloud made of ice crystals.", "difficulty": "medium" },
-  { "stem": "The towering, dense, dark cloud of great vertical extent, associated with thunderstorms, heavy rain, thunder, and lightning, is the:", "options": ["Cirrus", "Cumulonimbus", "Stratus", "Altocumulus"], "correct_index": 1, "solution": "The cumulonimbus is the towering, dense, dark cloud of great vertical extent (rising from low levels to great heights, sometimes with a flat, spreading 'anvil' top) that is associated with thunderstorms — bringing heavy rain (or hail), thunder, lightning, and strong, gusty winds. It develops when a cumulus cloud grows enormously upward through strong convection (rising warm, moist air). The cumulonimbus is the classic 'thundercloud' or storm cloud. Understanding cumulonimbus (the towering thunderstorm cloud) is a prelims point. The cumulonimbus is the towering storm cloud that brings thunder, lightning, and heavy rain.", "difficulty": "medium" },
-  { "stem": "Precipitation is any form of water (liquid or solid) that falls from the clouds to the ground. Precipitation in the form of liquid water drops is:", "options": ["Snow", "Rain", "Hail", "Sleet"], "correct_index": 1, "solution": "Rain is precipitation in the form of liquid water drops that fall from the clouds to the ground. It occurs when the tiny condensed water droplets in a cloud combine and grow large and heavy enough (through collision and coalescence, or by growing on ice crystals that melt on the way down) to fall as raindrops. (Other forms of precipitation include: snow — falling ice crystals/flakes, formed when condensation occurs below freezing; hail — pellets/lumps of ice formed in towering storm clouds; and sleet — a mix of rain and snow, or partly frozen rain.) Understanding that rain is liquid precipitation is a prelims point. Rain is precipitation in the form of liquid water drops.", "difficulty": "easy" },
-  { "stem": "When condensation takes place below the freezing point (0°C), the water vapour turns directly into tiny ice crystals, and precipitation falls as:", "options": ["Rain", "Snow", "Dew", "Drizzle"], "correct_index": 1, "solution": "Snow is the form of precipitation that falls when condensation takes place below the freezing point (0°C): the water vapour turns directly into tiny ice crystals, which join together to form snowflakes that fall to the ground. Snow falls in cold regions and seasons (high latitudes, high altitudes, winter), where the temperature in the cloud and below it stays below freezing all the way to the ground. (If the falling snow partly melts and refreezes, or mixes with rain, it becomes sleet.) Understanding that snow forms by condensation below freezing (into ice crystals) is a prelims point. Snow is precipitation of ice crystals, formed when condensation occurs below the freezing point.", "difficulty": "medium" },
-  { "stem": "Precipitation in the form of small, rounded lumps or pellets of ice (formed in towering cumulonimbus storm clouds) is called:", "options": ["Snow", "Hail", "Dew", "Frost"], "correct_index": 1, "solution": "Hail is precipitation in the form of small, rounded lumps, pellets, or balls of ice (hailstones), which form in towering cumulonimbus (thunderstorm) clouds. Inside these tall storm clouds, strong upward air currents carry raindrops/ice up and down repeatedly through freezing levels, so that layers of ice build up on them (like the layers of an onion), forming hailstones; when they become too heavy for the updrafts to support, they fall to the ground as hail. Large hailstones can damage crops, property, and vehicles. Understanding that hail is ice pellets formed in storm clouds is a prelims point. Hail is precipitation of ice lumps/pellets, formed in towering cumulonimbus storm clouds.", "difficulty": "medium" },
-  { "stem": "The three main types of rainfall, based on how the moist air is made to rise and cool, are: convectional, orographic (relief), and:", "options": ["Acid rainfall", "Cyclonic (frontal) rainfall", "Coastal rainfall", "Monsoon rainfall"], "correct_index": 1, "solution": "The three main types of rainfall, classified according to how the moist air is made to rise and cool (which is what causes condensation and rain), are: (1) convectional rainfall (moist air rises because of strong heating of the ground — giving afternoon thunderstorms, typical of the tropics); (2) orographic or relief rainfall (moist air is forced to rise over a mountain barrier — heavy rain on the windward side, rain shadow on the leeward); and (3) cyclonic or frontal rainfall (moist warm air is forced to rise where it meets a cold air mass along a front, as in temperate cyclones/depressions). Understanding these three types of rainfall is a key prelims point. The three main types of rainfall are convectional, orographic (relief), and cyclonic (frontal).", "difficulty": "medium" },
-  { "stem": "Convectional rainfall is most common and well-developed in which region?", "options": ["The polar regions", "The hot, humid equatorial/tropical regions (with strong daytime heating)", "The dry deserts", "The high mountains only"], "correct_index": 1, "solution": "Convectional rainfall is most common and well-developed in the hot, humid equatorial and tropical regions, where the ground is strongly heated by the intense sun. In these regions, the strong daytime heating warms the moist surface air, which rises rapidly by convection, cools, and forms towering cumulonimbus clouds — giving heavy, often thundery, showers, characteristically in the afternoon (after the day's heating has built up). This is why equatorial regions typically have daily afternoon thunderstorms. (The polar regions and deserts lack the heat and/or moisture for much convectional rain.) Understanding that convectional rainfall dominates the hot, humid tropics is a prelims point. Convectional rainfall is most common in the hot, humid equatorial/tropical regions with strong daytime heating.", "difficulty": "medium" },
-  { "stem": "In orographic (relief) rainfall, the heavy rain falls on the __________ side of the mountain, while the __________ side remains dry (rain shadow).", "options": ["Leeward; windward", "Windward; leeward", "Northern; southern", "Eastern; western"], "correct_index": 1, "solution": "In orographic (relief) rainfall, the heavy rain falls on the windward side of the mountain (the side facing the moist wind), while the leeward side (the sheltered side, away from the wind) remains relatively dry — forming the 'rain shadow' area. This is because the moist air is forced to rise up the windward slope, where it cools and drops most of its moisture as rain; having lost its moisture, the air then descends the leeward side, warming and drying, so little rain falls there. (For example, the Western Ghats: the western, windward side gets very heavy monsoon rain, while the eastern, leeward Deccan interior is much drier.) Understanding windward (wet) vs leeward (dry rain shadow) is a key prelims point. In orographic rainfall, the windward side gets heavy rain and the leeward side is a dry rain shadow.", "difficulty": "medium" },
-  { "stem": "The lines drawn on a map joining places that receive an equal amount of rainfall are called:", "options": ["Isotherms", "Isobars", "Isohyets", "Isohalines"], "correct_index": 2, "solution": "Isohyets are the lines drawn on a map joining (connecting) places that receive an equal amount of rainfall (precipitation) over a given period. ('Iso' = equal; 'hyet' relates to rain.) Isohyet maps are used to show the distribution of rainfall over an area or region. (Compare: isotherms join places of equal temperature; isobars join places of equal pressure; isohalines join places of equal ocean salinity.) Understanding isohyets (lines of equal rainfall) is a prelims point. Isohyets are lines joining places that receive equal rainfall.", "difficulty": "hard" },
-  { "stem": "The tiny particles (dust, salt, smoke, etc.) around which water vapour condenses to form cloud droplets are called:", "options": ["Isobars", "Hygroscopic nuclei (condensation nuclei)", "Ions", "Isotherms"], "correct_index": 1, "solution": "Hygroscopic nuclei (also called condensation nuclei) are the tiny particles suspended in the atmosphere — such as dust, smoke, salt (from sea spray), and pollen — around which water vapour condenses to form the tiny water droplets that make up clouds and fog. These particles are 'hygroscopic' (water-attracting), providing the surfaces on which condensation can begin; without them, condensation would be very difficult even in saturated air. So these nuclei are essential for cloud, fog, and precipitation formation. Understanding hygroscopic/condensation nuclei (particles for condensation) is a prelims point. Hygroscopic (condensation) nuclei are the tiny particles on which water vapour condenses to form clouds.", "difficulty": "hard" },
-  { "stem": "The distribution of rainfall over the Earth is uneven. In general, rainfall is heaviest near the __________ and decreases toward the __________.", "options": ["Poles; equator", "Equator; poles", "Deserts; oceans", "Mountains; plains"], "correct_index": 1, "solution": "The distribution of rainfall over the Earth is very uneven, but in general it is heaviest near the equator (in the equatorial belt) and decreases toward the poles. This is because the equatorial region is hot and humid, with strong evaporation and convection producing abundant convectional rainfall (the ITCZ). Moving away from the equator, rainfall generally decreases, with notably dry zones around the subtropical high-pressure belts (~30°, where the great deserts lie), some increase in the temperate westerly/cyclonic belt, and low precipitation again in the cold, dry polar regions. (The actual pattern is modified by winds, mountains, ocean currents, and distance from the sea.) Understanding the broad decrease of rainfall from equator to poles is a prelims point. Rainfall is generally heaviest near the equator and decreases toward the poles.", "difficulty": "medium" },
-  { "stem": "Coastal areas and windward slopes generally receive __________ rainfall than continental interiors and leeward slopes.", "options": ["Less", "More", "Exactly equal", "No"], "correct_index": 1, "solution": "Coastal areas and windward slopes generally receive more rainfall than continental interiors and leeward slopes. Coastal areas are close to the sea (the source of moisture), so the winds reaching them are moist and can give good rainfall; and windward slopes force the moist air to rise (orographic rainfall), producing heavy rain. In contrast, continental interiors are far from the sea, so by the time winds reach them they have lost much of their moisture (giving little rain — dry interiors), and leeward slopes lie in the rain shadow (dry). Thus proximity to the moisture source (sea) and position relative to mountains strongly affect rainfall. Understanding that coasts/windward slopes are wetter than interiors/leeward slopes is a prelims point. Coastal areas and windward slopes get more rainfall than dry continental interiors and leeward (rain-shadow) slopes.", "difficulty": "medium" },
-  { "stem": "Evaporation is greater when the air is __________ and the temperature is __________.", "options": ["Humid; low", "Dry; high", "Humid; high", "Dry; low"], "correct_index": 1, "solution": "Evaporation is greater when the air is dry (low humidity) and the temperature is high (hot). High temperature provides more heat energy for water molecules to escape as vapour, and dry air (low humidity, far from saturation) has plenty of room to take up more moisture — so both conditions speed up evaporation. Evaporation is also increased by wind (moving air carries away the moist air and brings in fresh dry air) and by a large exposed water surface. (Conversely, evaporation is slow in cold and/or already-humid conditions.) This is why evaporation is intense over the warm tropical oceans and in hot deserts. Understanding the conditions that favour evaporation (dry, hot, windy) is a prelims point. Evaporation is greater when the air is dry and the temperature is high.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Dew and frost form on clear, calm nights. Reason (R): On clear, calm nights the ground loses heat rapidly by radiation and cools below the dew point. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that dew and frost form on clear, calm nights. And the reason is (R) that on such nights, the ground (with no cloud cover to trap the heat, and no wind to mix the air) loses heat rapidly by radiation and cools down — cooling the air in contact with it to or below its dew point, so the water vapour condenses onto the cold surfaces as dew (or, if below freezing, as frost). So the clear, calm conditions cause the strong radiation cooling that produces the dew/frost — R correctly explains A. (Clouds and wind would prevent this cooling, so dew/frost are less likely on cloudy or windy nights.) Understanding this cause-effect (clear calm night → radiation cooling → dew/frost) is a prelims point. Dew and frost form on clear, calm nights because the ground cools rapidly by radiation below the dew point.", "difficulty": "hard" },
-  { "stem": "Precipitation that is a mixture of rain and snow, or rain that partly freezes as it falls, is called:", "options": ["Hail", "Sleet", "Dew", "Mist"], "correct_index": 1, "solution": "Sleet is precipitation that is a mixture of rain and snow, or rain that partly freezes into ice pellets as it falls (typically when raindrops fall through a cold, sub-freezing layer of air near the ground). Sleet forms in conditions between those for rain and snow — where the temperatures allow partial freezing. It is a form of frozen or partly-frozen precipitation, distinct from soft snow and from the hard ice lumps of hail. Understanding sleet (rain-snow mix / partly frozen rain) is a prelims point. Sleet is a mixture of rain and snow, or partly frozen rain.", "difficulty": "medium" },
-  { "stem": "Which factor does NOT increase the rate of evaporation?", "options": ["Higher temperature", "Stronger wind", "Larger water surface area", "Higher humidity of the air"], "correct_index": 3, "solution": "Higher humidity of the air does NOT increase evaporation — in fact, it decreases evaporation. When the air is already humid (close to saturation), it has little capacity to take up more water vapour, so evaporation slows down. The factors that increase the rate of evaporation are: higher temperature (more heat energy), stronger wind (carries away the moist air and brings dry air), a larger exposed water surface area (more area for evaporation), and drier (low-humidity) air. So of the options, high humidity is the one that reduces (not increases) evaporation. Understanding which factors speed up or slow down evaporation is a prelims point. High humidity slows evaporation; heat, wind, and a large surface area speed it up.", "difficulty": "medium" },
-  { "stem": "The total amount of water on the Earth remains constant, but it keeps circulating between the sea, air, and land. This is the key idea of the:", "options": ["Rock cycle", "Water (hydrological) cycle", "Nitrogen cycle", "Food chain"], "correct_index": 1, "solution": "The key idea of the water (hydrological) cycle is that the total amount of water on the Earth remains constant (fixed) — no water is created or destroyed — but it is continuously circulated (recycled) among the sea (oceans), the air (atmosphere), and the land, through the processes of evaporation, condensation, precipitation, and runoff. So the same water is used over and over again, moving through its different reservoirs and states. This continuous recycling makes fresh water available on land (through rainfall and rivers) and links the oceans, atmosphere, and land into a single system. Understanding this central idea of the water cycle (constant total, continuous circulation) is a prelims point. In the water cycle, the total water stays constant but continuously circulates among sea, air, and land.", "difficulty": "medium" },
-  { "stem": "Most of the world's great hot deserts are found near the __________ latitudes (about 30°), where the descending, dry air of the subtropical highs gives very little rainfall.", "options": ["Equatorial", "Subtropical (~30°)", "Polar", "Sub-polar (~60°)"], "correct_index": 1, "solution": "Most of the world's great hot deserts (like the Sahara, Arabian, Thar, Kalahari, and Australian deserts) are found near the subtropical latitudes, at about 30°N and 30°S. This is because these latitudes lie under the subtropical high-pressure belts, where the air is descending (subsiding); descending air warms up and its relative humidity falls, which suppresses cloud formation and rainfall — giving clear skies, dryness, and very little precipitation. Hence these belts are the zones of the hot deserts. Understanding that hot deserts lie under the subtropical highs (~30°, descending dry air) links pressure and rainfall — a prelims point. Most hot deserts lie near 30° (the subtropical highs), where descending dry air gives very little rain.", "difficulty": "hard" },
-  { "stem": "Which of the following correctly matches a condensation form with its description?", "options": ["Dew — a cloud at high altitude", "Fog — a cloud at ground level (reduces visibility)", "Frost — liquid water drops", "Cloud — ice on the ground"], "correct_index": 1, "solution": "The correct match is: Fog — a cloud at ground level (which reduces visibility). Checking the others: dew is liquid water drops on cool surfaces at night (not a high-altitude cloud); frost is ice crystals on surfaces (not liquid water drops); and a cloud is a mass of condensed droplets/ice crystals high in the air (not ice on the ground). All these — dew, frost, fog, and clouds — are forms of condensation, but only 'fog = a ground-level cloud that reduces visibility' is correctly described here. Understanding the correct descriptions of the condensation forms is a prelims point. Fog is correctly described as a ground-level cloud that reduces visibility.", "difficulty": "medium" },
-  { "stem": "The ratio of the mass of water vapour to the total mass of the air (including the vapour) is called the __________ humidity.", "options": ["Relative", "Specific", "Absolute", "Total"], "correct_index": 1, "solution": "Specific humidity is the ratio of the mass of water vapour to the total mass of the air (the moist air, including the vapour itself) — usually expressed in grams of water vapour per kilogram of air. Because it is a ratio of masses, specific humidity does not change when the air's temperature or pressure changes (unlike relative humidity or absolute humidity per volume) — it changes only when moisture is actually added or removed. This makes specific humidity a useful, stable measure of the air's moisture content. (The three ways of expressing humidity are: absolute humidity — mass of vapour per unit volume; specific humidity — mass of vapour per unit mass of air; and relative humidity — percentage of saturation.) Understanding specific humidity is a prelims point. Specific humidity is the mass of water vapour per unit mass of air.", "difficulty": "hard" },
-  { "stem": "As moist air rises in the atmosphere, it expands and cools even without losing heat to its surroundings. This cooling of rising air by expansion is called __________ cooling.", "options": ["Radiational", "Adiabatic", "Conductive", "Advective"], "correct_index": 1, "solution": "Adiabatic cooling is the cooling of a parcel of rising air caused by its expansion, without any exchange of heat with the surrounding air. As air rises, it moves into regions of lower pressure, so it expands; this expansion uses up the air's internal energy, causing its temperature to fall — hence it cools 'adiabatically' (adiabatic = without heat transfer). Adiabatic cooling is the main way that rising air is cooled to its dew point, causing condensation and cloud formation — so it is fundamental to the formation of clouds and rainfall (convectional, orographic, and cyclonic). (Conversely, descending air is warmed adiabatically by compression.) Understanding adiabatic cooling (rising air cools by expansion) is a prelims point. Adiabatic cooling is the cooling of rising air by expansion, without heat exchange with surroundings.", "difficulty": "hard" },
-  { "stem": "The combined loss of water to the atmosphere from both evaporation (from surfaces) and transpiration (from plants) is together called:", "options": ["Precipitation", "Evapotranspiration", "Condensation", "Infiltration"], "correct_index": 1, "solution": "Evapotranspiration is the combined term for the total loss of water to the atmosphere from two processes together: evaporation (from open water, soil, and other surfaces) and transpiration (the release of water vapour by plants through their leaves). Because in a vegetated area both processes occur together and are hard to separate, they are considered jointly as evapotranspiration — an important measure of how much water moves from the surface into the atmosphere (used in studies of water balance, agriculture, and climate). Understanding evapotranspiration (evaporation + transpiration) is a prelims point. Evapotranspiration is the combined water loss to the air by evaporation and transpiration.", "difficulty": "medium" },
-  { "stem": "Clouds are grouped by height into high, middle, and low clouds. Which of the following is a MIDDLE-level cloud?", "options": ["Cirrus", "Altostratus / Altocumulus", "Stratus", "Cumulonimbus"], "correct_index": 1, "solution": "The middle-level clouds are those with the prefix 'alto-', namely altostratus and altocumulus (occurring at intermediate heights, roughly 2000–6000 m). By height, clouds are grouped as: high clouds (prefix 'cirro-', and cirrus itself — e.g., cirrus, cirrostratus, cirrocumulus — made largely of ice crystals); middle clouds (prefix 'alto-' — altostratus, altocumulus); and low clouds (e.g., stratus, stratocumulus, nimbostratus). Cumulus and cumulonimbus have great vertical extent (spanning levels). So altostratus/altocumulus are the middle clouds. Understanding the height-classification of clouds (and the 'alto-' = middle prefix) is a prelims point. Altostratus and altocumulus are middle-level clouds.", "difficulty": "hard" },
-  { "stem": "The low, grey, layered rain-cloud that brings continuous, steady rain or snow over a wide area is the:", "options": ["Cirrus", "Nimbostratus", "Cumulus", "Cirrocumulus"], "correct_index": 1, "solution": "Nimbostratus is the low, dark grey, thick, layered (stratiform) rain-cloud that brings continuous, steady, widespread rain or snow (as opposed to short showers). It forms a featureless sheet that blots out the sun and covers the sky. 'Nimbo-/nimbus' indicates rain-bearing, and 'stratus' indicates a layered form — so nimbostratus is a rain-bearing layer cloud giving prolonged, steady precipitation (typical of warm fronts in temperate cyclones). (This contrasts with cumulonimbus, which gives heavy but showery, thundery rain.) Understanding nimbostratus (layered cloud of steady rain) is a prelims point. Nimbostratus is the low, layered rain-cloud that gives continuous, steady rain over a wide area.", "difficulty": "hard" },
-  { "stem": "Very fine, light rain consisting of numerous tiny water droplets is called:", "options": ["Hail", "Drizzle", "Sleet", "Snow"], "correct_index": 1, "solution": "Drizzle is very fine, light rain, consisting of numerous very small water droplets (smaller than raindrops), which fall slowly and gently. It usually falls from low stratus clouds and gives a light, misty wetting rather than a heavy downpour. Drizzle is a form of liquid precipitation, distinguished from ordinary rain by its much smaller droplet size and lighter intensity. Understanding drizzle (fine, light rain of tiny droplets) is a prelims point. Drizzle is very fine, light rain made of numerous tiny water droplets.", "difficulty": "medium" },
-  { "stem": "Rainfall is measured using an instrument called a:", "options": ["Barometer", "Rain gauge", "Anemometer", "Thermometer"], "correct_index": 1, "solution": "A rain gauge is the instrument used to measure the amount of rainfall (precipitation) that falls at a place over a given period. It typically consists of a funnel that collects the rain into a measuring cylinder/container, and the depth of collected water is read off (in millimetres or centimetres) to give the rainfall amount. Rainfall is expressed as the depth of water that would cover the ground if none of it drained away, evaporated, or soaked in. (Other instruments: a barometer measures pressure, an anemometer wind speed, a thermometer temperature, a hygrometer humidity.) Understanding that a rain gauge measures rainfall is a prelims point. Rainfall is measured with a rain gauge.", "difficulty": "easy" },
-  { "stem": "One of the rainiest (wettest) places in the world, receiving extremely heavy orographic rainfall from the summer monsoon, is __________ in Meghalaya, India.", "options": ["Jaisalmer", "Mawsynram / Cherrapunji", "Leh", "Chennai"], "correct_index": 1, "solution": "Mawsynram (and nearby Cherrapunji/Sohra), located in the Khasi Hills of Meghalaya in north-eastern India, are among the rainiest (wettest) places in the world. They receive extremely heavy rainfall (often over 11,000 mm a year) because the moisture-laden winds of the south-west summer monsoon are funnelled and forced to rise sharply over the Khasi Hills, producing intense orographic (relief) rainfall. This is a classic real-world example of orographic rainfall and of India's rainfall extremes. Understanding that Mawsynram/Cherrapunji (Meghalaya) is among the world's wettest places is a prelims point. Mawsynram/Cherrapunji in Meghalaya is one of the wettest places in the world, due to heavy orographic monsoon rainfall.", "difficulty": "hard" },
-  { "stem": "Humidity is measured (directly or indirectly) using an instrument called a:", "options": ["Anemometer", "Hygrometer", "Barometer", "Rain gauge"], "correct_index": 1, "solution": "A hygrometer is the instrument used to measure the humidity (the amount of water vapour, especially the relative humidity) of the air. A common form is the 'wet-and-dry-bulb hygrometer' (psychrometer), which uses two thermometers — one with a dry bulb and one with a wet (moistened) bulb; the difference in their readings (caused by the cooling effect of evaporation from the wet bulb) is used to determine the relative humidity. (Other instruments: a barometer measures pressure, an anemometer wind speed, a rain gauge rainfall, a thermometer temperature.) Understanding that a hygrometer measures humidity is a prelims point. Humidity is measured with a hygrometer.", "difficulty": "medium" },
-  { "stem": "Which of the following is a HIGH-level cloud (made largely of ice crystals)?", "options": ["Stratocumulus", "Cirrostratus", "Nimbostratus", "Altocumulus"], "correct_index": 1, "solution": "Cirrostratus is a high-level cloud (made largely of ice crystals). High clouds carry the prefix 'cirro-' (or are the cirrus family): cirrus, cirrostratus, and cirrocumulus — all forming at high altitudes (above ~6000–8000 m), where it is very cold, so they consist mainly of ice crystals. (Cirrostratus is a thin, whitish, high veil of cloud, often producing a halo around the sun or moon.) By contrast, stratocumulus and nimbostratus are low clouds, and altocumulus is a middle cloud. Understanding that the 'cirro-' clouds (like cirrostratus) are high, ice-crystal clouds is a prelims point. Cirrostratus is a high-level ice-crystal cloud.", "difficulty": "hard" },
-  { "stem": "The condensation of water vapour releases latent heat into the atmosphere. This released latent heat is an important source of energy for:", "options": ["Earthquakes", "Storms and tropical cyclones", "Volcanic eruptions", "Ocean tides"], "correct_index": 1, "solution": "The latent heat released when water vapour condenses (into cloud droplets) is an important source of energy for storms and especially tropical cyclones. When moist air rises and its vapour condenses, the latent heat that had been absorbed during evaporation is released into the surrounding air, warming it; this warming makes the air more buoyant, causing it to rise further, drawing in more moist air, which condenses and releases still more latent heat — a self-reinforcing process that powers thunderstorms and drives the enormous energy of tropical cyclones. This is why tropical cyclones need warm, moisture-rich oceans (a plentiful supply of water vapour and hence latent heat). Understanding that released latent heat powers storms/cyclones is a prelims point. The latent heat released by condensation is a major source of energy for storms and tropical cyclones.", "difficulty": "hard" },
-  { "stem": "The tiny cloud droplets grow into raindrops large enough to fall mainly by the process of collision and __________ (droplets merging together).", "options": ["Evaporation", "Coalescence", "Sublimation", "Radiation"], "correct_index": 1, "solution": "The tiny cloud droplets grow into raindrops (large and heavy enough to fall as precipitation) mainly by the process of collision and coalescence: as the countless tiny droplets in a cloud move about, they collide with one another and merge/join together (coalesce) into bigger drops; repeated collisions and merging make the drops grow larger and heavier until they can no longer be held up by the air and fall as rain. (In colder clouds, growth also occurs on ice crystals, which then melt into raindrops as they fall.) Understanding that raindrops grow by collision and coalescence is a prelims point. Cloud droplets grow into raindrops mainly by collision and coalescence (merging together).", "difficulty": "hard" },
-  { "stem": "Water vapour is also important as a __________ gas, absorbing both incoming solar and outgoing terrestrial radiation and thus helping to regulate the Earth's temperature.", "options": ["Noble", "Greenhouse", "Inert", "Poisonous"], "correct_index": 1, "solution": "Water vapour is important as a greenhouse gas — indeed it is one of the most important greenhouse gases. It absorbs both a part of the incoming solar radiation and a large part of the outgoing long-wave terrestrial (Earth) radiation, trapping heat in the lower atmosphere and thereby helping to regulate and maintain the Earth's temperature (contributing significantly to the natural greenhouse effect that keeps the Earth warm enough for life). So, besides being the source of clouds and precipitation, water vapour plays a key role in the Earth's heat/energy balance. Understanding water vapour's greenhouse role is a prelims point. Water vapour is a greenhouse gas that absorbs radiation and helps regulate the Earth's temperature.", "difficulty": "medium" },
-  { "stem": "Which sequence correctly represents the main stages of the water cycle?", "options": ["Precipitation → evaporation → condensation → runoff", "Evaporation → condensation → precipitation → runoff (back to the sea)", "Condensation → precipitation → evaporation → runoff", "Runoff → condensation → evaporation → precipitation"], "correct_index": 1, "solution": "The main stages of the water cycle, in correct order, are: (1) Evaporation — water evaporates from the oceans (and land/plants) into the atmosphere as water vapour; (2) Condensation — the rising vapour cools and condenses into clouds; (3) Precipitation — water falls from the clouds as rain or snow back to the surface; and (4) Runoff (collection) — the water on land flows through rivers (or seeps underground) back to the oceans — after which evaporation begins the cycle again. So the sequence is evaporation → condensation → precipitation → runoff. Understanding the correct order of the water-cycle stages is a prelims point. The water cycle proceeds: evaporation → condensation → precipitation → runoff back to the sea.", "difficulty": "medium" },
-  { "stem": "In general, the amount of water vapour (humidity) in the air is greatest over the __________ and least over __________.", "options": ["Deserts; oceans", "Warm oceans/equatorial regions; cold polar regions and dry deserts", "Poles; the equator", "Mountains; plains"], "correct_index": 1, "solution": "In general, the amount of water vapour (humidity) in the air is greatest over the warm oceans and equatorial regions, and least over the cold polar regions and the dry deserts. This is because water vapour comes from evaporation, which is greatest where it is warm and there is abundant water (the warm tropical/equatorial oceans supply plenty of moisture), and least where it is cold (cold polar air holds very little moisture) or where there is little water to evaporate (deserts). So humidity is high over the warm, wet tropics and low over the cold poles and dry deserts. Understanding this distribution of atmospheric moisture is a prelims point. Humidity is greatest over warm oceans/equatorial regions and least over cold polar regions and dry deserts.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Water in the Atmosphere' is that:", "options": ["Water plays no role in the atmosphere", "Water is present in the atmosphere in three states and continuously circulates through the water cycle (evaporation, condensation, precipitation), producing humidity, clouds, fog, dew, and the various forms of precipitation that bring water back to the land", "The atmosphere contains no water", "Rainfall is the same everywhere"], "correct_index": 1, "solution": "The chapter conveys that water is a vital and ever-present component of the atmosphere, existing in three states — gas (water vapour), liquid (water droplets), and solid (ice) — and that it is continuously circulated through the water cycle (hydrological cycle): water evaporates (and transpires from plants) into the air as vapour (giving humidity); when moist air is cooled to its dew point, the vapour condenses, forming dew, frost, fog, mist, and clouds; and when the condensed droplets grow large enough, precipitation (rain, snow, hail, sleet) falls back to the land and sea, from where the water flows back to the oceans and the cycle repeats. The chapter also explains the measures of moisture (absolute and relative humidity, dew point), the classification of clouds (by form and height), and the types of rainfall (convectional, orographic, and cyclonic) and their uneven distribution over the Earth. Understanding how water moves through the atmosphere — evaporation, humidity, condensation (clouds/fog/dew/frost), and precipitation — via the water cycle is the central concern of this chapter, and it is fundamental to weather, climate, and the availability of fresh water. Water circulates through the atmosphere via the water cycle, producing humidity, clouds, and precipitation that return water to the land.", "difficulty": "medium" }
+  {
+    "stem": "Water is present in the atmosphere in three states — solid, liquid, and gas. The gaseous (invisible) form of water in the atmosphere is:",
+    "options": [
+      "Ice",
+      "Water vapour",
+      "Rain",
+      "Snow"
+    ],
+    "correct_index": 1,
+    "solution": "Water vapour is the gaseous (invisible) form of water present in the atmosphere. Water exists in the atmosphere in all three states: solid (ice — as in snow, hail, ice crystals in clouds), liquid (water — as in raindrops and cloud droplets), and gas (water vapour — the invisible gaseous form). Water vapour is the most important form because it is the source of all condensation and precipitation, and it is a powerful greenhouse gas. Understanding that water vapour is the gaseous state of atmospheric water is a prelims point. Water vapour is the gaseous (invisible) form of water in the atmosphere.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The continuous movement/exchange of water among the oceans, atmosphere, and land (through evaporation, condensation, precipitation, and runoff) is called the:",
+    "options": [
+      "Rock cycle",
+      "Water cycle (hydrological cycle)",
+      "Carbon cycle",
+      "Nitrogen cycle"
+    ],
+    "correct_index": 1,
+    "solution": "The water cycle (also called the hydrological cycle) is the continuous movement and exchange of water among the oceans, the atmosphere, and the land. Driven by the Sun's energy and gravity, it works like this: water evaporates from the oceans (and land and plants) into the atmosphere as water vapour; the vapour rises, cools, and condenses into clouds; precipitation (rain/snow) falls from the clouds back to the land and sea; and the water on land runs off through rivers (or seeps into the ground) back to the oceans — and the cycle repeats. The total amount of water on Earth stays constant; it just keeps circulating through these stages. Understanding the water (hydrological) cycle is a prelims point. The water cycle is the continuous circulation of water among the oceans, atmosphere, and land.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The process by which water changes from the liquid state to the gaseous state (water vapour), adding moisture to the atmosphere, is called:",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Precipitation",
+      "Freezing"
+    ],
+    "correct_index": 1,
+    "solution": "Evaporation is the process by which water changes from its liquid state into the gaseous state (water vapour), thereby adding moisture to the atmosphere. It occurs when water (from oceans, lakes, rivers, wet soil) absorbs heat energy (from the Sun) and its molecules escape into the air as vapour. Evaporation is greater when it is hot (more heat), when the air is dry (low humidity), when it is windy (moving air carries vapour away), and where there is a large water surface. Evaporation is the first stage of the water cycle, transferring water from the surface into the atmosphere. Understanding evaporation (liquid → vapour) is a prelims point. Evaporation is the change of water from liquid to vapour, adding moisture to the air.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The release of water vapour into the atmosphere by plants (through their leaves) is called:",
+    "options": [
+      "Evaporation",
+      "Transpiration",
+      "Condensation",
+      "Precipitation"
+    ],
+    "correct_index": 1,
+    "solution": "Transpiration is the process by which plants release water vapour into the atmosphere, mainly through tiny pores (stomata) in their leaves. Plants absorb water from the soil through their roots, and a large part of this water is given off as water vapour from the leaves — this is transpiration. Together with evaporation from water and soil surfaces, transpiration adds moisture to the atmosphere; the combined loss of water by both processes is sometimes called 'evapotranspiration'. Understanding transpiration (release of vapour by plants) is a prelims point. Transpiration is the release of water vapour into the air by plants through their leaves.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The heat energy that is absorbed (or released) when water changes its state (e.g., absorbed during evaporation, released during condensation) without a change in temperature is called:",
+    "options": [
+      "Sensible heat",
+      "Latent heat",
+      "Solar constant",
+      "Albedo"
+    ],
+    "correct_index": 1,
+    "solution": "Latent heat ('hidden heat') is the heat energy that is absorbed or released when a substance changes its state (phase) — such as when water changes between liquid and vapour, or liquid and ice — without any change in its temperature. During evaporation, water absorbs latent heat from its surroundings (which is why evaporation has a cooling effect — e.g., sweating cools the body); during condensation, this latent heat is released back to the surroundings (warming the air — an important source of energy for storms and cyclones). This latent heat exchange is a key way the water cycle transfers energy through the atmosphere. Understanding latent heat (heat of state-change) is a prelims point. Latent heat is the heat absorbed or released when water changes state, without changing temperature.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The amount of water vapour present in the air is called humidity. When the air holds the maximum amount of water vapour it can at a given temperature, it is said to be:",
+    "options": [
+      "Dry",
+      "Saturated",
+      "Unsaturated",
+      "Frozen"
+    ],
+    "correct_index": 1,
+    "solution": "Air is said to be saturated when it holds the maximum amount of water vapour it can at a given temperature (i.e., its relative humidity is 100%). At saturation, the air cannot hold any more moisture, so any further cooling (or addition of vapour) will cause the excess water vapour to condense into liquid water (dew, fog, cloud) or ice. Importantly, the capacity of air to hold water vapour depends on temperature: warm air can hold much more vapour than cold air — so cooling saturated air forces condensation. Understanding saturation (air holding its maximum moisture) is a prelims point. Air is saturated when it holds the maximum water vapour possible at that temperature (100% relative humidity).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Warm air can hold __________ water vapour than cold air.",
+    "options": [
+      "Less",
+      "More",
+      "Exactly the same amount of",
+      "No"
+    ],
+    "correct_index": 1,
+    "solution": "Warm air can hold more water vapour than cold air. The capacity of air to hold moisture increases with temperature — the warmer the air, the greater the amount of water vapour it can contain before becoming saturated. This is a fundamental principle underlying condensation and precipitation: when moist warm air is cooled (for example, by rising and expanding, or by contact with a cold surface), its moisture-holding capacity falls, and once it is cooled to its dew point (saturation), the excess water vapour condenses into clouds, dew, fog, or precipitation. This is why the warm, humid tropics hold so much moisture, and why cooling is the key trigger for rain. Understanding that warm air holds more moisture than cold air is a key prelims point. Warm air can hold more water vapour than cold air.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The absolute humidity of the air is the __________, usually expressed in grams per cubic metre.",
+    "options": [
+      "Percentage of saturation",
+      "Actual mass (weight) of water vapour present in a given volume of air",
+      "Temperature of the air",
+      "Number of clouds"
+    ],
+    "correct_index": 1,
+    "solution": "Absolute humidity is the actual mass (weight) of water vapour present in a given volume of air — usually expressed in grams of water vapour per cubic metre of air (g/m³). It is a direct measure of how much moisture the air actually contains. (This differs from relative humidity, which expresses the moisture as a percentage of the maximum the air could hold at that temperature.) Absolute humidity varies from place to place and time to time — it is greater over warm, moist regions (like the equatorial areas and oceans) and less over cold or dry regions. Understanding absolute humidity (actual mass of vapour per volume) is a prelims point. Absolute humidity is the actual mass of water vapour in a given volume of air (g/m³).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Relative humidity is usually __________ during the cooler early morning and __________ during the warmer afternoon (for the same moisture content).",
+    "options": [
+      "Lowest; highest",
+      "Highest; lowest",
+      "Zero; 100%",
+      "Unchanging; unchanging"
+    ],
+    "correct_index": 1,
+    "solution": "For the same amount of moisture in the air, relative humidity is usually highest during the cool early morning and lowest during the warm afternoon. This is because relative humidity depends on temperature: relative humidity = (actual vapour) ÷ (maximum the air can hold at that temperature). In the cool early morning, the air's capacity to hold moisture is low, so the same moisture gives a high relative humidity (which is why dew often forms in the morning); by the warm afternoon, the air's capacity is much higher, so the same moisture gives a low relative humidity. Thus relative humidity varies inversely with temperature through the day. Understanding this daily variation of relative humidity is a prelims point. Relative humidity is highest in the cool morning and lowest in the warm afternoon.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "For condensation to occur, moist air must generally be __________ to (or below) its dew point.",
+    "options": [
+      "Heated",
+      "Cooled",
+      "Dried",
+      "Compressed only"
+    ],
+    "correct_index": 1,
+    "solution": "For condensation to occur, moist air must generally be cooled to (or below) its dew point — the temperature at which the air becomes saturated. When air is cooled to its dew point, it can no longer hold all its water vapour, so the excess vapour condenses into liquid water (or ice). Cooling can happen in several ways: by the air rising and expanding (adiabatic cooling — the main way clouds form); by contact with a cold surface (forming dew or fog); by mixing with colder air; or by radiation cooling at night. In all cases, cooling to the dew point is the key trigger for condensation. Understanding that cooling to the dew point causes condensation is a key prelims point. Condensation occurs when moist air is cooled to (or below) its dew point.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tiny drops of water that form on the leaves of grass and other cool surfaces on calm, clear nights (when the surface cools below the dew point) are called:",
+    "options": [
+      "Frost",
+      "Dew",
+      "Fog",
+      "Hail"
+    ],
+    "correct_index": 1,
+    "solution": "Dew is the tiny drops of water that condense and form on the leaves of grass, plants, and other cool surfaces (like car windows) on calm, clear nights. It forms when, on a clear, still night, the ground and surfaces radiate away their heat and cool down below the dew point of the air in contact with them, causing the water vapour in that air to condense as small water droplets on the cold surfaces. The ideal conditions for dew are: clear skies (rapid radiation cooling), calm air, high humidity, and cold, long nights. (If the dew point is below freezing, frost forms instead.) Understanding dew (condensation on cool surfaces at night) is a prelims point. Dew is the water droplets that condense on cool surfaces on calm, clear nights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When the dew point is BELOW the freezing point (0°C), the water vapour condenses directly into tiny ice crystals on surfaces, forming:",
+    "options": [
+      "Dew",
+      "Frost",
+      "Rain",
+      "Mist"
+    ],
+    "correct_index": 1,
+    "solution": "Frost forms when the dew point is below the freezing point (0°C): under these conditions, on a cold, clear, calm night, the water vapour in the air, on coming into contact with the very cold surface, condenses (deposits) directly into tiny white ice crystals on the surface (instead of forming liquid dew). Frost is common on cold winter nights and can damage crops (frost damage). The conditions are like those for dew, but with sub-freezing temperatures. Understanding frost (condensation to ice when dew point is below freezing) is a prelims point. Frost forms when water vapour condenses into ice crystals on surfaces, when the dew point is below freezing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fog and mist are essentially clouds formed at (or very near) the ground. Fog reduces:",
+    "options": [
+      "Temperature only",
+      "Visibility (making it hard to see)",
+      "Air pressure",
+      "Wind speed"
+    ],
+    "correct_index": 1,
+    "solution": "Fog (and its thinner form, mist) is essentially a cloud that forms at, or very close to, the ground — a mass of tiny water droplets suspended in the air near the surface — and its main effect is to reduce visibility, making it difficult to see (hence a hazard to road, rail, air, and sea transport). Fog forms when the air near the ground is cooled to its dew point, causing the water vapour to condense; common types include 'radiation fog' (forming on clear, calm, cold nights as the ground cools) and 'advection fog' (forming when warm, moist air moves over a cold surface). Mist is like fog but less dense (visibility is somewhat better). Understanding that fog is a ground-level cloud that reduces visibility is a prelims point. Fog is a ground-level cloud that reduces visibility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The difference between fog and mist is mainly one of:",
+    "options": [
+      "Colour",
+      "Density/thickness (fog is denser and reduces visibility more; mist is thinner)",
+      "Temperature",
+      "Location (fog only at sea)"
+    ],
+    "correct_index": 1,
+    "solution": "The difference between fog and mist is mainly one of density/thickness (and hence how much they reduce visibility). Fog is denser (thicker) — it contains more, and more concentrated, water droplets, and it reduces visibility more severely (often to less than 1 km, sometimes just a few metres). Mist is thinner (less dense) — visibility is reduced but not as drastically (you can see somewhat farther). Both are formed the same way (condensation near the ground), and both are essentially ground-level clouds; they differ in degree, with fog being the thicker, more visibility-reducing form. Understanding the fog-vs-mist distinction (density/visibility) is a prelims point. Fog is denser and reduces visibility more than mist, which is thinner.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Clouds are formed by the condensation of water vapour on tiny particles (like dust) high in the atmosphere. Clouds are classified mainly on the basis of their __________ and __________.",
+    "options": [
+      "Colour and smell",
+      "Form (appearance/shape) and height (altitude)",
+      "Speed and temperature",
+      "Name and country"
+    ],
+    "correct_index": 1,
+    "solution": "Clouds are classified mainly on the basis of their form (appearance/shape) and their height (altitude at which they occur). By form, the main types are: cirrus (thin, wispy, feathery), cumulus (heaped, cotton-like), stratus (layered, sheet-like), and nimbus (dark, rain-bearing). By height, clouds are grouped into high clouds (like cirrus), middle clouds (like altocumulus/altostratus), and low clouds (like stratus/stratocumulus), plus clouds of great vertical extent (like cumulonimbus). Combining form and height gives names like cirrostratus, altocumulus, nimbostratus, etc. Understanding that clouds are classified by form and height is a prelims point. Clouds are classified mainly by their form (shape) and their height (altitude).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which cloud type is a high-altitude cloud made of ice crystals?",
+    "options": [
+      "Stratus",
+      "Cirrus",
+      "Cumulus",
+      "Nimbostratus"
+    ],
+    "correct_index": 1,
+    "solution": "Cirrus is the high-altitude cloud, made of ice crystals (because temperatures are very low at those heights, well above ~8000 m). Cirrus clouds are thin, white, wispy, and feathery in appearance, and are usually associated with fair weather (though they can sometimes indicate an approaching weather change). (The other basic forms — cumulus, stratus, nimbus — are not defined as high ice-crystal clouds: cumulus are heaped fair-weather clouds; stratus are low layered clouds; nimbus are rain-bearing clouds.) Understanding that cirrus is the high, ice-crystal cloud is a prelims point. Cirrus is the high-altitude cloud made of ice crystals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The towering, dense, dark cloud of great vertical extent, associated with thunderstorms, heavy rain, thunder, and lightning, is the:",
+    "options": [
+      "Cirrus",
+      "Cumulonimbus",
+      "Stratus",
+      "Altocumulus"
+    ],
+    "correct_index": 1,
+    "solution": "The cumulonimbus is the towering, dense, dark cloud of great vertical extent (rising from low levels to great heights, sometimes with a flat, spreading 'anvil' top) that is associated with thunderstorms — bringing heavy rain (or hail), thunder, lightning, and strong, gusty winds. It develops when a cumulus cloud grows enormously upward through strong convection (rising warm, moist air). The cumulonimbus is the classic 'thundercloud' or storm cloud. Understanding cumulonimbus (the towering thunderstorm cloud) is a prelims point. The cumulonimbus is the towering storm cloud that brings thunder, lightning, and heavy rain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Precipitation is any form of water (liquid or solid) that falls from the clouds to the ground. Precipitation in the form of liquid water drops is:",
+    "options": [
+      "Snow",
+      "Rain",
+      "Hail",
+      "Sleet"
+    ],
+    "correct_index": 1,
+    "solution": "Rain is precipitation in the form of liquid water drops that fall from the clouds to the ground. It occurs when the tiny condensed water droplets in a cloud combine and grow large and heavy enough (through collision and coalescence, or by growing on ice crystals that melt on the way down) to fall as raindrops. (Other forms of precipitation include: snow — falling ice crystals/flakes, formed when condensation occurs below freezing; hail — pellets/lumps of ice formed in towering storm clouds; and sleet — a mix of rain and snow, or partly frozen rain.) Understanding that rain is liquid precipitation is a prelims point. Rain is precipitation in the form of liquid water drops.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "When condensation takes place below the freezing point (0°C), the water vapour turns directly into tiny ice crystals, and precipitation falls as:",
+    "options": [
+      "Rain",
+      "Snow",
+      "Dew",
+      "Drizzle"
+    ],
+    "correct_index": 1,
+    "solution": "Snow is the form of precipitation that falls when condensation takes place below the freezing point (0°C): the water vapour turns directly into tiny ice crystals, which join together to form snowflakes that fall to the ground. Snow falls in cold regions and seasons (high latitudes, high altitudes, winter), where the temperature in the cloud and below it stays below freezing all the way to the ground. (If the falling snow partly melts and refreezes, or mixes with rain, it becomes sleet.) Understanding that snow forms by condensation below freezing (into ice crystals) is a prelims point. Snow is precipitation of ice crystals, formed when condensation occurs below the freezing point.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Precipitation in the form of small, rounded lumps or pellets of ice (formed in towering cumulonimbus storm clouds) is called:",
+    "options": [
+      "Snow",
+      "Hail",
+      "Dew",
+      "Frost"
+    ],
+    "correct_index": 1,
+    "solution": "Hail is precipitation in the form of small, rounded lumps, pellets, or balls of ice (hailstones), which form in towering cumulonimbus (thunderstorm) clouds. Inside these tall storm clouds, strong upward air currents carry raindrops/ice up and down repeatedly through freezing levels, so that layers of ice build up on them (like the layers of an onion), forming hailstones; when they become too heavy for the updrafts to support, they fall to the ground as hail. Large hailstones can damage crops, property, and vehicles. Understanding that hail is ice pellets formed in storm clouds is a prelims point. Hail is precipitation of ice lumps/pellets, formed in towering cumulonimbus storm clouds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three main types of rainfall, based on how the moist air is made to rise and cool, are: convectional, orographic (relief), and:",
+    "options": [
+      "Acid rainfall",
+      "Cyclonic (frontal) rainfall",
+      "Coastal rainfall",
+      "Monsoon rainfall"
+    ],
+    "correct_index": 1,
+    "solution": "The three main types of rainfall, classified according to how the moist air is made to rise and cool (which is what causes condensation and rain), are: (1) convectional rainfall (moist air rises because of strong heating of the ground — giving afternoon thunderstorms, typical of the tropics); (2) orographic or relief rainfall (moist air is forced to rise over a mountain barrier — heavy rain on the windward side, rain shadow on the leeward); and (3) cyclonic or frontal rainfall (moist warm air is forced to rise where it meets a cold air mass along a front, as in temperate cyclones/depressions). Understanding these three types of rainfall is a key prelims point. The three main types of rainfall are convectional, orographic (relief), and cyclonic (frontal).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Convectional rainfall is most common and well-developed in which region?",
+    "options": [
+      "The polar regions",
+      "The hot, humid equatorial/tropical regions (with strong daytime heating)",
+      "The dry deserts",
+      "The high mountains only"
+    ],
+    "correct_index": 1,
+    "solution": "Convectional rainfall is most common and well-developed in the hot, humid equatorial and tropical regions, where the ground is strongly heated by the intense sun. In these regions, the strong daytime heating warms the moist surface air, which rises rapidly by convection, cools, and forms towering cumulonimbus clouds — giving heavy, often thundery, showers, characteristically in the afternoon (after the day's heating has built up). This is why equatorial regions typically have daily afternoon thunderstorms. (The polar regions and deserts lack the heat and/or moisture for much convectional rain.) Understanding that convectional rainfall dominates the hot, humid tropics is a prelims point. Convectional rainfall is most common in the hot, humid equatorial/tropical regions with strong daytime heating.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In orographic (relief) rainfall, the heavy rain falls on the __________ side of the mountain, while the __________ side remains dry (rain shadow).",
+    "options": [
+      "Leeward; windward",
+      "Windward; leeward",
+      "Northern; southern",
+      "Eastern; western"
+    ],
+    "correct_index": 1,
+    "solution": "In orographic (relief) rainfall, the heavy rain falls on the windward side of the mountain (the side facing the moist wind), while the leeward side (the sheltered side, away from the wind) remains relatively dry — forming the 'rain shadow' area. This is because the moist air is forced to rise up the windward slope, where it cools and drops most of its moisture as rain; having lost its moisture, the air then descends the leeward side, warming and drying, so little rain falls there. (For example, the Western Ghats: the western, windward side gets very heavy monsoon rain, while the eastern, leeward Deccan interior is much drier.) Understanding windward (wet) vs leeward (dry rain shadow) is a key prelims point. In orographic rainfall, the windward side gets heavy rain and the leeward side is a dry rain shadow.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lines drawn on a map joining places that receive an equal amount of rainfall are called:",
+    "options": [
+      "Isotherms",
+      "Isobars",
+      "Isohyets",
+      "Isohalines"
+    ],
+    "correct_index": 2,
+    "solution": "Isohyets are the lines drawn on a map joining (connecting) places that receive an equal amount of rainfall (precipitation) over a given period. ('Iso' = equal; 'hyet' relates to rain.) Isohyet maps are used to show the distribution of rainfall over an area or region. (Compare: isotherms join places of equal temperature; isobars join places of equal pressure; isohalines join places of equal ocean salinity.) Understanding isohyets (lines of equal rainfall) is a prelims point. Isohyets are lines joining places that receive equal rainfall.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The tiny particles (dust, salt, smoke, etc.) around which water vapour condenses to form cloud droplets are called:",
+    "options": [
+      "Isobars",
+      "Hygroscopic nuclei (condensation nuclei)",
+      "Ions",
+      "Isotherms"
+    ],
+    "correct_index": 1,
+    "solution": "Hygroscopic nuclei (also called condensation nuclei) are the tiny particles suspended in the atmosphere — such as dust, smoke, salt (from sea spray), and pollen — around which water vapour condenses to form the tiny water droplets that make up clouds and fog. These particles are 'hygroscopic' (water-attracting), providing the surfaces on which condensation can begin; without them, condensation would be very difficult even in saturated air. So these nuclei are essential for cloud, fog, and precipitation formation. Understanding hygroscopic/condensation nuclei (particles for condensation) is a prelims point. Hygroscopic (condensation) nuclei are the tiny particles on which water vapour condenses to form clouds.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The distribution of rainfall over the Earth is uneven. In general, rainfall is heaviest near the __________ and decreases toward the __________.",
+    "options": [
+      "Poles; equator",
+      "Equator; poles",
+      "Deserts; oceans",
+      "Mountains; plains"
+    ],
+    "correct_index": 1,
+    "solution": "The distribution of rainfall over the Earth is very uneven, but in general it is heaviest near the equator (in the equatorial belt) and decreases toward the poles. This is because the equatorial region is hot and humid, with strong evaporation and convection producing abundant convectional rainfall (the ITCZ). Moving away from the equator, rainfall generally decreases, with notably dry zones around the subtropical high-pressure belts (~30°, where the great deserts lie), some increase in the temperate westerly/cyclonic belt, and low precipitation again in the cold, dry polar regions. (The actual pattern is modified by winds, mountains, ocean currents, and distance from the sea.) Understanding the broad decrease of rainfall from equator to poles is a prelims point. Rainfall is generally heaviest near the equator and decreases toward the poles.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coastal areas and windward slopes generally receive __________ rainfall than continental interiors and leeward slopes.",
+    "options": [
+      "Less",
+      "More",
+      "Exactly equal",
+      "No"
+    ],
+    "correct_index": 1,
+    "solution": "Coastal areas and windward slopes generally receive more rainfall than continental interiors and leeward slopes. Coastal areas are close to the sea (the source of moisture), so the winds reaching them are moist and can give good rainfall; and windward slopes force the moist air to rise (orographic rainfall), producing heavy rain. In contrast, continental interiors are far from the sea, so by the time winds reach them they have lost much of their moisture (giving little rain — dry interiors), and leeward slopes lie in the rain shadow (dry). Thus proximity to the moisture source (sea) and position relative to mountains strongly affect rainfall. Understanding that coasts/windward slopes are wetter than interiors/leeward slopes is a prelims point. Coastal areas and windward slopes get more rainfall than dry continental interiors and leeward (rain-shadow) slopes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Evaporation is greater when the air is __________ and the temperature is __________.",
+    "options": [
+      "Humid; low",
+      "Dry; high",
+      "Humid; high",
+      "Dry; low"
+    ],
+    "correct_index": 1,
+    "solution": "Evaporation is greater when the air is dry (low humidity) and the temperature is high (hot). High temperature provides more heat energy for water molecules to escape as vapour, and dry air (low humidity, far from saturation) has plenty of room to take up more moisture — so both conditions speed up evaporation. Evaporation is also increased by wind (moving air carries away the moist air and brings in fresh dry air) and by a large exposed water surface. (Conversely, evaporation is slow in cold and/or already-humid conditions.) This is why evaporation is intense over the warm tropical oceans and in hot deserts. Understanding the conditions that favour evaporation (dry, hot, windy) is a prelims point. Evaporation is greater when the air is dry and the temperature is high.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Dew and frost form on clear, calm nights. Reason (R): On clear, calm nights the ground loses heat rapidly by radiation and cools below the dew point. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that dew and frost form on clear, calm nights. And the reason is (R) that on such nights, the ground (with no cloud cover to trap the heat, and no wind to mix the air) loses heat rapidly by radiation and cools down — cooling the air in contact with it to or below its dew point, so the water vapour condenses onto the cold surfaces as dew (or, if below freezing, as frost). So the clear, calm conditions cause the strong radiation cooling that produces the dew/frost — R correctly explains A. (Clouds and wind would prevent this cooling, so dew/frost are less likely on cloudy or windy nights.) Understanding this cause-effect (clear calm night → radiation cooling → dew/frost) is a prelims point. Dew and frost form on clear, calm nights because the ground cools rapidly by radiation below the dew point.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Precipitation that is a mixture of rain and snow, or rain that partly freezes as it falls, is called:",
+    "options": [
+      "Hail",
+      "Sleet",
+      "Dew",
+      "Mist"
+    ],
+    "correct_index": 1,
+    "solution": "Sleet is precipitation that is a mixture of rain and snow, or rain that partly freezes into ice pellets as it falls (typically when raindrops fall through a cold, sub-freezing layer of air near the ground). Sleet forms in conditions between those for rain and snow — where the temperatures allow partial freezing. It is a form of frozen or partly-frozen precipitation, distinct from soft snow and from the hard ice lumps of hail. Understanding sleet (rain-snow mix / partly frozen rain) is a prelims point. Sleet is a mixture of rain and snow, or partly frozen rain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which factor does NOT increase the rate of evaporation?",
+    "options": [
+      "Higher temperature",
+      "Stronger wind",
+      "Larger water surface area",
+      "Higher humidity of the air"
+    ],
+    "correct_index": 3,
+    "solution": "Higher humidity of the air does NOT increase evaporation — in fact, it decreases evaporation. When the air is already humid (close to saturation), it has little capacity to take up more water vapour, so evaporation slows down. The factors that increase the rate of evaporation are: higher temperature (more heat energy), stronger wind (carries away the moist air and brings dry air), a larger exposed water surface area (more area for evaporation), and drier (low-humidity) air. So of the options, high humidity is the one that reduces (not increases) evaporation. Understanding which factors speed up or slow down evaporation is a prelims point. High humidity slows evaporation; heat, wind, and a large surface area speed it up.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The total amount of water on the Earth remains constant, but it keeps circulating between the sea, air, and land. This is the key idea of the:",
+    "options": [
+      "Rock cycle",
+      "Water (hydrological) cycle",
+      "Nitrogen cycle",
+      "Food chain"
+    ],
+    "correct_index": 1,
+    "solution": "The key idea of the water (hydrological) cycle is that the total amount of water on the Earth remains constant (fixed) — no water is created or destroyed — but it is continuously circulated (recycled) among the sea (oceans), the air (atmosphere), and the land, through the processes of evaporation, condensation, precipitation, and runoff. So the same water is used over and over again, moving through its different reservoirs and states. This continuous recycling makes fresh water available on land (through rainfall and rivers) and links the oceans, atmosphere, and land into a single system. Understanding this central idea of the water cycle (constant total, continuous circulation) is a prelims point. In the water cycle, the total water stays constant but continuously circulates among sea, air, and land.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Most of the world's great hot deserts are found near the __________ latitudes (about 30°), where the descending, dry air of the subtropical highs gives very little rainfall.",
+    "options": [
+      "Equatorial",
+      "Subtropical (~30°)",
+      "Polar",
+      "Sub-polar (~60°)"
+    ],
+    "correct_index": 1,
+    "solution": "Most of the world's great hot deserts (like the Sahara, Arabian, Thar, Kalahari, and Australian deserts) are found near the subtropical latitudes, at about 30°N and 30°S. This is because these latitudes lie under the subtropical high-pressure belts, where the air is descending (subsiding); descending air warms up and its relative humidity falls, which suppresses cloud formation and rainfall — giving clear skies, dryness, and very little precipitation. Hence these belts are the zones of the hot deserts. Understanding that hot deserts lie under the subtropical highs (~30°, descending dry air) links pressure and rainfall — a prelims point. Most hot deserts lie near 30° (the subtropical highs), where descending dry air gives very little rain.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly matches a condensation form with its description?",
+    "options": [
+      "Dew — a cloud at high altitude",
+      "Fog — a cloud at ground level (reduces visibility)",
+      "Frost — liquid water drops",
+      "Cloud — ice on the ground"
+    ],
+    "correct_index": 1,
+    "solution": "The correct match is: Fog — a cloud at ground level (which reduces visibility). Checking the others: dew is liquid water drops on cool surfaces at night (not a high-altitude cloud); frost is ice crystals on surfaces (not liquid water drops); and a cloud is a mass of condensed droplets/ice crystals high in the air (not ice on the ground). All these — dew, frost, fog, and clouds — are forms of condensation, but only 'fog = a ground-level cloud that reduces visibility' is correctly described here. Understanding the correct descriptions of the condensation forms is a prelims point. Fog is correctly described as a ground-level cloud that reduces visibility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ratio of the mass of water vapour to the total mass of the air (including the vapour) is called the __________ humidity.",
+    "options": [
+      "Relative",
+      "Specific",
+      "Absolute",
+      "Total"
+    ],
+    "correct_index": 1,
+    "solution": "Specific humidity is the ratio of the mass of water vapour to the total mass of the air (the moist air, including the vapour itself) — usually expressed in grams of water vapour per kilogram of air. Because it is a ratio of masses, specific humidity does not change when the air's temperature or pressure changes (unlike relative humidity or absolute humidity per volume) — it changes only when moisture is actually added or removed. This makes specific humidity a useful, stable measure of the air's moisture content. (The three ways of expressing humidity are: absolute humidity — mass of vapour per unit volume; specific humidity — mass of vapour per unit mass of air; and relative humidity — percentage of saturation.) Understanding specific humidity is a prelims point. Specific humidity is the mass of water vapour per unit mass of air.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "As moist air rises in the atmosphere, it expands and cools even without losing heat to its surroundings. This cooling of rising air by expansion is called __________ cooling.",
+    "options": [
+      "Radiational",
+      "Adiabatic",
+      "Conductive",
+      "Advective"
+    ],
+    "correct_index": 1,
+    "solution": "Adiabatic cooling is the cooling of a parcel of rising air caused by its expansion, without any exchange of heat with the surrounding air. As air rises, it moves into regions of lower pressure, so it expands; this expansion uses up the air's internal energy, causing its temperature to fall — hence it cools 'adiabatically' (adiabatic = without heat transfer). Adiabatic cooling is the main way that rising air is cooled to its dew point, causing condensation and cloud formation — so it is fundamental to the formation of clouds and rainfall (convectional, orographic, and cyclonic). (Conversely, descending air is warmed adiabatically by compression.) Understanding adiabatic cooling (rising air cools by expansion) is a prelims point. Adiabatic cooling is the cooling of rising air by expansion, without heat exchange with surroundings.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The combined loss of water to the atmosphere from both evaporation (from surfaces) and transpiration (from plants) is together called:",
+    "options": [
+      "Precipitation",
+      "Evapotranspiration",
+      "Condensation",
+      "Infiltration"
+    ],
+    "correct_index": 1,
+    "solution": "Evapotranspiration is the combined term for the total loss of water to the atmosphere from two processes together: evaporation (from open water, soil, and other surfaces) and transpiration (the release of water vapour by plants through their leaves). Because in a vegetated area both processes occur together and are hard to separate, they are considered jointly as evapotranspiration — an important measure of how much water moves from the surface into the atmosphere (used in studies of water balance, agriculture, and climate). Understanding evapotranspiration (evaporation + transpiration) is a prelims point. Evapotranspiration is the combined water loss to the air by evaporation and transpiration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Clouds are grouped by height into high, middle, and low clouds. Which of the following is a MIDDLE-level cloud?",
+    "options": [
+      "Cirrus",
+      "Altostratus / Altocumulus",
+      "Stratus",
+      "Cumulonimbus"
+    ],
+    "correct_index": 1,
+    "solution": "The middle-level clouds are those with the prefix 'alto-', namely altostratus and altocumulus (occurring at intermediate heights, roughly 2000–6000 m). By height, clouds are grouped as: high clouds (prefix 'cirro-', and cirrus itself — e.g., cirrus, cirrostratus, cirrocumulus — made largely of ice crystals); middle clouds (prefix 'alto-' — altostratus, altocumulus); and low clouds (e.g., stratus, stratocumulus, nimbostratus). Cumulus and cumulonimbus have great vertical extent (spanning levels). So altostratus/altocumulus are the middle clouds. Understanding the height-classification of clouds (and the 'alto-' = middle prefix) is a prelims point. Altostratus and altocumulus are middle-level clouds.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The low, grey, layered rain-cloud that brings continuous, steady rain or snow over a wide area is the:",
+    "options": [
+      "Cirrus",
+      "Nimbostratus",
+      "Cumulus",
+      "Cirrocumulus"
+    ],
+    "correct_index": 1,
+    "solution": "Nimbostratus is the low, dark grey, thick, layered (stratiform) rain-cloud that brings continuous, steady, widespread rain or snow (as opposed to short showers). It forms a featureless sheet that blots out the sun and covers the sky. 'Nimbo-/nimbus' indicates rain-bearing, and 'stratus' indicates a layered form — so nimbostratus is a rain-bearing layer cloud giving prolonged, steady precipitation (typical of warm fronts in temperate cyclones). (This contrasts with cumulonimbus, which gives heavy but showery, thundery rain.) Understanding nimbostratus (layered cloud of steady rain) is a prelims point. Nimbostratus is the low, layered rain-cloud that gives continuous, steady rain over a wide area.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Very fine, light rain consisting of numerous tiny water droplets is called:",
+    "options": [
+      "Hail",
+      "Drizzle",
+      "Sleet",
+      "Snow"
+    ],
+    "correct_index": 1,
+    "solution": "Drizzle is very fine, light rain, consisting of numerous very small water droplets (smaller than raindrops), which fall slowly and gently. It usually falls from low stratus clouds and gives a light, misty wetting rather than a heavy downpour. Drizzle is a form of liquid precipitation, distinguished from ordinary rain by its much smaller droplet size and lighter intensity. Understanding drizzle (fine, light rain of tiny droplets) is a prelims point. Drizzle is very fine, light rain made of numerous tiny water droplets.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rainfall is measured using an instrument called a:",
+    "options": [
+      "Barometer",
+      "Rain gauge",
+      "Anemometer",
+      "Thermometer"
+    ],
+    "correct_index": 1,
+    "solution": "A rain gauge is the instrument used to measure the amount of rainfall (precipitation) that falls at a place over a given period. It typically consists of a funnel that collects the rain into a measuring cylinder/container, and the depth of collected water is read off (in millimetres or centimetres) to give the rainfall amount. Rainfall is expressed as the depth of water that would cover the ground if none of it drained away, evaporated, or soaked in. (Other instruments: a barometer measures pressure, an anemometer wind speed, a thermometer temperature, a hygrometer humidity.) Understanding that a rain gauge measures rainfall is a prelims point. Rainfall is measured with a rain gauge.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "One of the rainiest (wettest) places in the world, receiving extremely heavy orographic rainfall from the summer monsoon, is __________ in Meghalaya, India.",
+    "options": [
+      "Jaisalmer",
+      "Mawsynram / Cherrapunji",
+      "Leh",
+      "Chennai"
+    ],
+    "correct_index": 1,
+    "solution": "Mawsynram (and nearby Cherrapunji/Sohra), located in the Khasi Hills of Meghalaya in north-eastern India, are among the rainiest (wettest) places in the world. They receive extremely heavy rainfall (often over 11,000 mm a year) because the moisture-laden winds of the south-west summer monsoon are funnelled and forced to rise sharply over the Khasi Hills, producing intense orographic (relief) rainfall. This is a classic real-world example of orographic rainfall and of India's rainfall extremes. Understanding that Mawsynram/Cherrapunji (Meghalaya) is among the world's wettest places is a prelims point. Mawsynram/Cherrapunji in Meghalaya is one of the wettest places in the world, due to heavy orographic monsoon rainfall.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Humidity is measured (directly or indirectly) using an instrument called a:",
+    "options": [
+      "Anemometer",
+      "Hygrometer",
+      "Barometer",
+      "Rain gauge"
+    ],
+    "correct_index": 1,
+    "solution": "A hygrometer is the instrument used to measure the humidity (the amount of water vapour, especially the relative humidity) of the air. A common form is the 'wet-and-dry-bulb hygrometer' (psychrometer), which uses two thermometers — one with a dry bulb and one with a wet (moistened) bulb; the difference in their readings (caused by the cooling effect of evaporation from the wet bulb) is used to determine the relative humidity. (Other instruments: a barometer measures pressure, an anemometer wind speed, a rain gauge rainfall, a thermometer temperature.) Understanding that a hygrometer measures humidity is a prelims point. Humidity is measured with a hygrometer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a HIGH-level cloud (made largely of ice crystals)?",
+    "options": [
+      "Stratocumulus",
+      "Cirrostratus",
+      "Nimbostratus",
+      "Altocumulus"
+    ],
+    "correct_index": 1,
+    "solution": "Cirrostratus is a high-level cloud (made largely of ice crystals). High clouds carry the prefix 'cirro-' (or are the cirrus family): cirrus, cirrostratus, and cirrocumulus — all forming at high altitudes (above ~6000–8000 m), where it is very cold, so they consist mainly of ice crystals. (Cirrostratus is a thin, whitish, high veil of cloud, often producing a halo around the sun or moon.) By contrast, stratocumulus and nimbostratus are low clouds, and altocumulus is a middle cloud. Understanding that the 'cirro-' clouds (like cirrostratus) are high, ice-crystal clouds is a prelims point. Cirrostratus is a high-level ice-crystal cloud.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The condensation of water vapour releases latent heat into the atmosphere. This released latent heat is an important source of energy for:",
+    "options": [
+      "Earthquakes",
+      "Storms and tropical cyclones",
+      "Volcanic eruptions",
+      "Ocean tides"
+    ],
+    "correct_index": 1,
+    "solution": "The latent heat released when water vapour condenses (into cloud droplets) is an important source of energy for storms and especially tropical cyclones. When moist air rises and its vapour condenses, the latent heat that had been absorbed during evaporation is released into the surrounding air, warming it; this warming makes the air more buoyant, causing it to rise further, drawing in more moist air, which condenses and releases still more latent heat — a self-reinforcing process that powers thunderstorms and drives the enormous energy of tropical cyclones. This is why tropical cyclones need warm, moisture-rich oceans (a plentiful supply of water vapour and hence latent heat). Understanding that released latent heat powers storms/cyclones is a prelims point. The latent heat released by condensation is a major source of energy for storms and tropical cyclones.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The tiny cloud droplets grow into raindrops large enough to fall mainly by the process of collision and __________ (droplets merging together).",
+    "options": [
+      "Evaporation",
+      "Coalescence",
+      "Sublimation",
+      "Radiation"
+    ],
+    "correct_index": 1,
+    "solution": "The tiny cloud droplets grow into raindrops (large and heavy enough to fall as precipitation) mainly by the process of collision and coalescence: as the countless tiny droplets in a cloud move about, they collide with one another and merge/join together (coalesce) into bigger drops; repeated collisions and merging make the drops grow larger and heavier until they can no longer be held up by the air and fall as rain. (In colder clouds, growth also occurs on ice crystals, which then melt into raindrops as they fall.) Understanding that raindrops grow by collision and coalescence is a prelims point. Cloud droplets grow into raindrops mainly by collision and coalescence (merging together).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Water vapour is also important as a __________ gas, absorbing both incoming solar and outgoing terrestrial radiation and thus helping to regulate the Earth's temperature.",
+    "options": [
+      "Noble",
+      "Greenhouse",
+      "Inert",
+      "Poisonous"
+    ],
+    "correct_index": 1,
+    "solution": "Water vapour is important as a greenhouse gas — indeed it is one of the most important greenhouse gases. It absorbs both a part of the incoming solar radiation and a large part of the outgoing long-wave terrestrial (Earth) radiation, trapping heat in the lower atmosphere and thereby helping to regulate and maintain the Earth's temperature (contributing significantly to the natural greenhouse effect that keeps the Earth warm enough for life). So, besides being the source of clouds and precipitation, water vapour plays a key role in the Earth's heat/energy balance. Understanding water vapour's greenhouse role is a prelims point. Water vapour is a greenhouse gas that absorbs radiation and helps regulate the Earth's temperature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which sequence correctly represents the main stages of the water cycle?",
+    "options": [
+      "Precipitation → evaporation → condensation → runoff",
+      "Evaporation → condensation → precipitation → runoff (back to the sea)",
+      "Condensation → precipitation → evaporation → runoff",
+      "Runoff → condensation → evaporation → precipitation"
+    ],
+    "correct_index": 1,
+    "solution": "The main stages of the water cycle, in correct order, are: (1) Evaporation — water evaporates from the oceans (and land/plants) into the atmosphere as water vapour; (2) Condensation — the rising vapour cools and condenses into clouds; (3) Precipitation — water falls from the clouds as rain or snow back to the surface; and (4) Runoff (collection) — the water on land flows through rivers (or seeps underground) back to the oceans — after which evaporation begins the cycle again. So the sequence is evaporation → condensation → precipitation → runoff. Understanding the correct order of the water-cycle stages is a prelims point. The water cycle proceeds: evaporation → condensation → precipitation → runoff back to the sea.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In general, the amount of water vapour (humidity) in the air is greatest over the __________ and least over __________.",
+    "options": [
+      "Deserts; oceans",
+      "Warm oceans/equatorial regions; cold polar regions and dry deserts",
+      "Poles; the equator",
+      "Mountains; plains"
+    ],
+    "correct_index": 1,
+    "solution": "In general, the amount of water vapour (humidity) in the air is greatest over the warm oceans and equatorial regions, and least over the cold polar regions and the dry deserts. This is because water vapour comes from evaporation, which is greatest where it is warm and there is abundant water (the warm tropical/equatorial oceans supply plenty of moisture), and least where it is cold (cold polar air holds very little moisture) or where there is little water to evaporate (deserts). So humidity is high over the warm, wet tropics and low over the cold poles and dry deserts. Understanding this distribution of atmospheric moisture is a prelims point. Humidity is greatest over warm oceans/equatorial regions and least over cold polar regions and dry deserts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The continuous movement and exchange of water among the oceans, atmosphere and land is called the:",
+    "options": [
+      "Water (hydrological) cycle",
+      "Carbon cycle",
+      "Nitrogen cycle",
+      "Rock cycle"
+    ],
+    "correct_index": 0,
+    "solution": "The water (hydrological) cycle is the continuous circulation of water among the oceans, atmosphere and land through the processes of evaporation, condensation, precipitation and runoff.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The release of water vapour into the atmosphere by plants is called:",
+    "options": [
+      "Transpiration",
+      "Evaporation",
+      "Condensation",
+      "Precipitation"
+    ],
+    "correct_index": 0,
+    "solution": "Transpiration is the process by which plants release water vapour into the atmosphere through their leaves; together with evaporation it is called evapotranspiration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The combined loss of water to the atmosphere from both evaporation and transpiration is called:",
+    "options": [
+      "Evapotranspiration",
+      "Condensation",
+      "Precipitation",
+      "Infiltration"
+    ],
+    "correct_index": 0,
+    "solution": "Evapotranspiration is the combined process of water loss to the atmosphere from evaporation (from water and soil surfaces) and transpiration (from plants).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The heat energy absorbed or released when water changes its state (e.g. from vapour to liquid) is called:",
+    "options": [
+      "Latent heat",
+      "Sensible heat",
+      "Radiant heat only",
+      "Friction"
+    ],
+    "correct_index": 0,
+    "solution": "Latent heat is the heat energy absorbed when water changes to vapour (evaporation) or released when vapour condenses to liquid; it plays an important role in atmospheric processes and energy transfer.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Tiny drops of water that form on the leaves of grass and other surfaces on cool, calm nights are called:",
+    "options": [
+      "Dew",
+      "Frost",
+      "Fog",
+      "Hail"
+    ],
+    "correct_index": 0,
+    "solution": "Dew consists of tiny water droplets that form by condensation on cool surfaces (like grass and leaves) when the air near the ground is cooled to its dew point on clear, calm nights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When the dew point is below the freezing point (0 C), the water vapour condenses directly into ice crystals called:",
+    "options": [
+      "Frost",
+      "Dew",
+      "Rain",
+      "Hail"
+    ],
+    "correct_index": 0,
+    "solution": "Frost forms when the dew point is at or below freezing, so that water vapour condenses directly into ice crystals (deposition) on cold surfaces.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Precipitation in the form of small, rounded lumps or pellets of ice is called:",
+    "options": [
+      "Hail",
+      "Dew",
+      "Frost",
+      "Drizzle"
+    ],
+    "correct_index": 0,
+    "solution": "Hail is precipitation in the form of small, rounded lumps or pellets of ice, formed in tall cumulonimbus clouds where updraughts carry water droplets up and down repeatedly, freezing them in layers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Precipitation that is a mixture of rain and snow, or partly melted snow, is called:",
+    "options": [
+      "Sleet",
+      "Hail",
+      "Dew",
+      "Frost"
+    ],
+    "correct_index": 0,
+    "solution": "Sleet is precipitation consisting of a mixture of rain and snow, or of raindrops that freeze into ice pellets as they fall through a cold layer of air.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Dew and frost form on clear, calm nights. Reason (R): On such nights the ground cools rapidly by radiation, cooling the air near it to the dew point.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Dew and frost form on clear, calm nights because the ground loses heat rapidly by radiation, cooling the air just above it to (or below) the dew point, causing condensation — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): As moist air rises, it tends to produce clouds and rain. Reason (R): Rising air expands and cools, and cooling causes the water vapour to condense.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Rising moist air expands and cools (adiabatically); the cooling brings it to its dew point, causing the water vapour to condense into clouds and eventually precipitation — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The relative humidity of the air is usually __________ during the cooler parts of the day (like early morning).",
+    "options": [
+      "Higher",
+      "Lower",
+      "Zero",
+      "Unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "Relative humidity is usually higher during the cooler parts of the day (like early morning), because cooler air has a lower capacity to hold moisture, so the same amount of vapour brings the air closer to saturation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One of the rainiest (wettest) places in the world, receiving very heavy rainfall, is:",
+    "options": [
+      "Mawsynram/Cherrapunji (India)",
+      "the Sahara",
+      "Antarctica",
+      "the Thar desert"
+    ],
+    "correct_index": 0,
+    "solution": "Mawsynram and Cherrapunji in Meghalaya, India, are among the wettest places on Earth, receiving extremely heavy rainfall from the moist monsoon winds forced to rise over the hills.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Convectional rainfall is most common and well-developed in the:",
+    "options": [
+      "Equatorial (hot, humid) regions",
+      "Polar regions",
+      "Deserts",
+      "Cold mountains"
+    ],
+    "correct_index": 0,
+    "solution": "Convectional rainfall is most common and well-developed in the equatorial (hot, humid) regions, where intense heating causes moist air to rise rapidly, producing heavy afternoon thunderstorms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In orographic (relief) rainfall, the heavy rain falls on the __________ side of the mountain.",
+    "options": [
+      "Windward",
+      "Leeward",
+      "Northern",
+      "Southern"
+    ],
+    "correct_index": 0,
+    "solution": "In orographic rainfall, the heavy rain falls on the windward side of the mountain (facing the wind), where the moist air rises and condenses; the leeward side lies in a rain shadow and is dry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tiny particles (dust, salt, smoke) around which water vapour condenses to form cloud droplets are called:",
+    "options": [
+      "Condensation (hygroscopic) nuclei",
+      "Isobars",
+      "Fronts",
+      "Ions"
+    ],
+    "correct_index": 0,
+    "solution": "Condensation (hygroscopic) nuclei are tiny particles such as dust, salt and smoke suspended in the air, around which water vapour condenses to form cloud droplets, fog and precipitation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Coastal areas and windward slopes generally receive __________ rainfall than interiors and rain-shadow areas.",
+    "options": [
+      "More",
+      "Less",
+      "No",
+      "Equal"
+    ],
+    "correct_index": 0,
+    "solution": "Coastal areas and windward slopes generally receive more rainfall because they are exposed to the moisture-laden winds from the sea, whereas interiors and rain-shadow (leeward) areas receive less.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match the form of condensation with its description: (i) Dew (ii) Frost (iii) Fog — (a) ice crystals below freezing (b) cloud at ground level (c) water droplets on cool surfaces:",
+    "options": [
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-c, (ii)-b, (iii)-a"
+    ],
+    "correct_index": 0,
+    "solution": "Dew is water droplets on cool surfaces, frost is ice crystals forming below freezing, and fog is a cloud that forms at ground level.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fog and mist are essentially clouds formed at (or very near) the:",
+    "options": [
+      "Ground surface",
+      "Top of the troposphere",
+      "Stratosphere",
+      "Ocean floor"
+    ],
+    "correct_index": 0,
+    "solution": "Fog and mist are essentially clouds that form at or very near the ground surface, when the air near the surface is cooled to its dew point, causing water vapour to condense; they reduce visibility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three main types of rainfall, based on how the moist air is made to rise, are convectional, orographic and:",
+    "options": [
+      "Cyclonic (frontal)",
+      "Coastal",
+      "Monsoon only",
+      "Snowfall"
+    ],
+    "correct_index": 0,
+    "solution": "The three main types of rainfall are convectional (heating), orographic (relief/mountain barrier), and cyclonic (frontal), based on the different ways moist air is forced to rise, cool and condense.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Water is present in the atmosphere in three states: solid (ice), liquid (water), and:",
+    "options": [
+      "Gas (water vapour)",
+      "Plasma",
+      "Powder",
+      "Salt"
+    ],
+    "correct_index": 0,
+    "solution": "Water occurs in the atmosphere in three states: solid (ice and snow), liquid (water droplets), and gas (invisible water vapour), and it changes between these states in the water cycle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The process by which water changes from the liquid state to water vapour is called:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Freezing"
+    ],
+    "correct_index": 0,
+    "solution": "Evaporation is the process by which liquid water changes into water vapour, absorbing heat energy; it is a key process that adds moisture to the atmosphere in the water cycle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Evaporation is greater when the air is __________ and the temperature is higher.",
+    "options": [
+      "Drier (less saturated) and windy",
+      "Very humid",
+      "Cold",
+      "Still and moist"
+    ],
+    "correct_index": 0,
+    "solution": "Evaporation is greater when the temperature is high, the air is dry (low humidity), and there is wind to carry away the moist air; it is slower in humid, cold, still conditions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The amount of water vapour present in the air is called:",
+    "options": [
+      "Humidity",
+      "Pressure",
+      "Insolation",
+      "Precipitation"
+    ],
+    "correct_index": 0,
+    "solution": "Humidity is the amount of water vapour present in the air; it can be measured as absolute humidity, specific humidity, or relative humidity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The towering, dense, dark cloud of great vertical extent that produces thunderstorms and heavy rain is the:",
+    "options": [
+      "Cumulonimbus",
+      "Cirrus",
+      "Stratus",
+      "Cirrostratus"
+    ],
+    "correct_index": 0,
+    "solution": "The cumulonimbus is a towering, dense cloud of great vertical extent, often anvil-shaped, that produces thunderstorms, heavy rain, hail and lightning.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The low, grey, layered rain-cloud that brings continuous rain or snow is the:",
+    "options": [
+      "Nimbostratus",
+      "Cirrus",
+      "Fair-weather cumulus",
+      "Cirrostratus"
+    ],
+    "correct_index": 0,
+    "solution": "The nimbostratus is a low, grey, layered, rain-bearing cloud that brings continuous, steady rain or snow over a wide area.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a HIGH-level cloud made largely of ice crystals?",
+    "options": [
+      "Cirrus",
+      "Cumulus",
+      "Stratus",
+      "Nimbostratus"
+    ],
+    "correct_index": 0,
+    "solution": "Cirrus clouds are high-level clouds (above about 6 km) made largely of ice crystals, appearing thin, wispy and feathery.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tiny cloud droplets grow into raindrops large enough to fall when they:",
+    "options": [
+      "Coalesce (join together) and become heavy enough",
+      "Freeze into ice",
+      "Evaporate",
+      "Disappear"
+    ],
+    "correct_index": 0,
+    "solution": "The tiny cloud droplets grow into raindrops when they collide and coalesce (join together) or grow around ice crystals, becoming heavy enough that they can no longer be held up by the air and fall as precipitation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Water vapour is also important as a __________ gas, absorbing heat and keeping the Earth warm.",
+    "options": [
+      "Greenhouse",
+      "Poisonous",
+      "Inert",
+      "Reflective"
+    ],
+    "correct_index": 0,
+    "solution": "Water vapour is an important greenhouse gas; it absorbs and re-radiates the Earth's outgoing long-wave radiation, helping to keep the atmosphere and the Earth's surface warm.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The total amount of water on the Earth remains constant because:",
+    "options": [
+      "Water is recycled continuously through the water cycle",
+      "New water is created",
+      "Water is destroyed",
+      "It escapes to space"
+    ],
+    "correct_index": 0,
+    "solution": "The total amount of water on the Earth remains essentially constant because water is continuously recycled through the water cycle — evaporation, condensation, precipitation and runoff — rather than being created or destroyed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For condensation to occur, moist air must generally be:",
+    "options": [
+      "Cooled to its dew point (saturation)",
+      "Heated strongly",
+      "Dried out",
+      "Compressed only"
+    ],
+    "correct_index": 0,
+    "solution": "For condensation to occur, moist air must be cooled to its dew point (the temperature at which it becomes saturated), so that the excess water vapour condenses into liquid droplets, forming dew, fog, cloud or precipitation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Most of the world's great hot deserts are found near the:",
+    "options": [
+      "Subtropical high-pressure belts (about 30 degrees N and S)",
+      "Equator",
+      "Poles",
+      "Subpolar lows"
+    ],
+    "correct_index": 0,
+    "solution": "Most of the world's great hot deserts (like the Sahara, Arabian and Australian deserts) are found near the subtropical high-pressure belts (around 30 degrees N and S), where descending, dry air brings little rainfall.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "As moist air rises in the atmosphere, it expands and cools, which is described as:",
+    "options": [
+      "Adiabatic cooling",
+      "Radiational heating",
+      "Conduction",
+      "Advection"
+    ],
+    "correct_index": 0,
+    "solution": "As rising air expands (due to lower pressure at height), it cools without exchanging heat with its surroundings; this is called adiabatic cooling, and it is the main cause of cloud formation and rain.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The distribution of rainfall over the Earth is:",
+    "options": [
+      "Uneven, varying greatly from place to place and season to season",
+      "Perfectly uniform",
+      "The same everywhere",
+      "Only at the poles"
+    ],
+    "correct_index": 0,
+    "solution": "The distribution of rainfall over the Earth is very uneven, varying greatly with latitude, distance from the sea, relief, wind patterns and season, giving rise to wet and dry regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Precipitation is any form of water (liquid or solid) that:",
+    "options": [
+      "Falls from clouds to the Earth's surface",
+      "Rises into the atmosphere",
+      "Flows in rivers",
+      "Is stored underground"
+    ],
+    "correct_index": 0,
+    "solution": "Precipitation is any form of water — rain, drizzle, snow, sleet or hail — that condenses in the atmosphere and falls from the clouds to the Earth's surface.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The condensation of water vapour releases latent heat, which:",
+    "options": [
+      "Warms the surrounding air and can drive further rising of air",
+      "Cools the air",
+      "Has no effect",
+      "Freezes the cloud"
+    ],
+    "correct_index": 0,
+    "solution": "When water vapour condenses, it releases latent heat into the surrounding air; this warming can make the air more buoyant, driving it to rise further, an important process in the growth of clouds and storms.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When condensation takes place below the freezing point, precipitation may fall as:",
+    "options": [
+      "Snow",
+      "Rain",
+      "Dew",
+      "Drizzle"
+    ],
+    "correct_index": 0,
+    "solution": "When condensation occurs at temperatures below freezing, the water vapour turns directly into ice crystals, which fall as snow (or, in other conditions, as sleet or hail).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Clouds are grouped by height into high, middle and low clouds, and also by their:",
+    "options": [
+      "Form/appearance (cirrus, cumulus, stratus)",
+      "Colour only",
+      "Speed",
+      "Temperature only"
+    ],
+    "correct_index": 0,
+    "solution": "Clouds are classified both by their height (high, middle, low) and by their form or appearance — cirrus (wispy), cumulus (heaped), and stratus (layered) — giving the various cloud types.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The correct sequence of the main stages of the water cycle is:",
+    "options": [
+      "Evaporation, condensation, precipitation, runoff",
+      "Precipitation, evaporation, condensation",
+      "Runoff, precipitation, evaporation",
+      "Condensation, runoff, evaporation"
+    ],
+    "correct_index": 0,
+    "solution": "The main stages of the water cycle are: evaporation (water to vapour), condensation (vapour to cloud droplets), precipitation (rain/snow falling), and runoff/collection (water returning to rivers, oceans and groundwater).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In general, the amount of water vapour (humidity) in the air is greatest:",
+    "options": [
+      "Over warm oceans near the equator",
+      "Over cold polar regions",
+      "In deserts",
+      "At high altitudes"
+    ],
+    "correct_index": 0,
+    "solution": "The amount of water vapour in the air is generally greatest over the warm oceans and humid regions near the equator, where high temperatures cause abundant evaporation, and least over cold polar regions and dry deserts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Water in the Atmosphere' is that:",
+    "options": [
+      "Atmospheric water, through the processes of the water cycle, produces humidity, clouds and precipitation",
+      "There is no water in the air",
+      "Rain never forms",
+      "Water does not change state"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter concludes that water is present in the atmosphere in three states and moves through the water cycle by evaporation, condensation and precipitation, producing humidity, dew, fog, clouds and the various forms of rainfall that are vital to life on Earth.",
+    "difficulty": "medium"
+  }
 ]
