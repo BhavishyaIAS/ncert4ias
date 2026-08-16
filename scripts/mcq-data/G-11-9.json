@@ -1,52 +1,1118 @@
 [
-  { "stem": "The weight of a column of air over a unit area at a place is called the atmospheric:", "options": ["Temperature", "Pressure", "Humidity", "Density"], "correct_index": 1, "solution": "Atmospheric pressure is the weight (force) exerted by a column of air over a unit area of the Earth's surface — that is, the pressure exerted by the mass of the air above a place. Because air has weight, it presses down on the surface; this pressure is greatest at sea level (where the whole column of atmosphere is above) and decreases with height (as less air lies above). Atmospheric pressure is measured with a barometer and expressed in millibars (mb) or hectopascals (hPa). Understanding atmospheric pressure (the weight of the air column) is a fundamental prelims point. Atmospheric pressure is the weight of a column of air over a unit area.", "difficulty": "easy" },
-  { "stem": "Atmospheric pressure is measured using an instrument called a:", "options": ["Thermometer", "Barometer", "Anemometer", "Hygrometer"], "correct_index": 1, "solution": "A barometer is the instrument used to measure atmospheric pressure. There are two common types: the mercury barometer (in which pressure is read from the height of a column of mercury) and the aneroid barometer (a compact, liquid-free instrument using a sealed metal cell). Pressure is expressed in millibars (mb) or hectopascals (hPa). (Other weather instruments: a thermometer measures temperature, an anemometer measures wind speed, a hygrometer measures humidity, a rain gauge measures rainfall.) Understanding that a barometer measures pressure is a prelims point. Atmospheric pressure is measured with a barometer.", "difficulty": "easy" },
-  { "stem": "The unit in which atmospheric pressure is usually expressed is the:", "options": ["Degree Celsius", "Millibar (mb) / hectopascal (hPa)", "Kilometre", "Newton"], "correct_index": 1, "solution": "Atmospheric pressure is usually expressed in millibars (mb), or equivalently hectopascals (hPa) — 1 millibar = 1 hectopascal. The average atmospheric pressure at sea level is about 1013.2 millibars (mb). (Pressure can also be given as the height of a mercury column, about 760 mm of mercury at sea level.) On weather maps, isobars are drawn in millibars. Understanding that pressure is measured in millibars/hectopascals is a prelims point. Atmospheric pressure is expressed in millibars (mb) or hectopascals (hPa).", "difficulty": "medium" },
-  { "stem": "Atmospheric pressure __________ with increasing altitude (height above sea level).", "options": ["Increases", "Decreases (rapidly)", "Stays constant", "First increases then decreases"], "correct_index": 1, "solution": "Atmospheric pressure decreases with increasing altitude (height) — and it decreases rapidly, especially in the lower atmosphere. This is because, as one goes higher, there is less and less air above (a shorter, lighter column of air), so the weight (pressure) it exerts is less; also the air becomes thinner (less dense) with height. Pressure falls fastest near the surface (roughly 1 millibar for every ~10 m near sea level). This decrease of pressure with height is why breathing is difficult and aircraft cabins are pressurised at high altitudes. Understanding that pressure decreases with altitude is a prelims point. Atmospheric pressure decreases (rapidly) with increasing altitude.", "difficulty": "medium" },
-  { "stem": "The lines drawn on a map joining places that have the same atmospheric pressure (reduced to sea level) are called:", "options": ["Isotherms", "Isobars", "Isohyets", "Contours"], "correct_index": 1, "solution": "Isobars are the lines drawn on a weather map joining (connecting) places that have the same atmospheric pressure (with the pressures reduced/corrected to sea level for comparison). ('Iso' = equal, 'bar' = pressure.) Isobar maps show the distribution of pressure and reveal the pressure systems (high-pressure and low-pressure areas). The spacing of isobars indicates the pressure gradient: closely-spaced isobars mean a steep pressure gradient (strong winds), and widely-spaced isobars a gentle gradient (light winds). (Compare: isotherms join places of equal temperature; isohyets of equal rainfall.) Understanding isobars (lines of equal pressure) is a prelims point. Isobars are lines joining places of equal atmospheric pressure.", "difficulty": "medium" },
-  { "stem": "Wind is essentially the movement of air from an area of __________ to an area of __________ pressure.", "options": ["Low; high", "High; low", "Warm; cold", "Wet; dry"], "correct_index": 1, "solution": "Wind is the horizontal movement of air, and it blows (moves) from an area of high pressure to an area of low pressure. Air moves in response to differences in pressure: it flows 'downhill' in pressure terms, away from high-pressure areas (where air is descending/piling up) toward low-pressure areas (where air is rising). This pressure difference (the pressure gradient) is the fundamental force that sets air in motion and causes winds. (The wind is then deflected by the Coriolis force and modified by friction.) Understanding that wind blows from high to low pressure is a fundamental prelims point. Wind blows from areas of high pressure to areas of low pressure.", "difficulty": "easy" },
-  { "stem": "The force that drives the wind, arising from the difference in pressure between two places (and directed from high to low pressure), is called the:", "options": ["Coriolis force", "Pressure gradient force", "Frictional force", "Gravitational force"], "correct_index": 1, "solution": "The pressure gradient force is the force that drives the wind, arising from the difference in atmospheric pressure between two places. It is directed from the high-pressure area toward the low-pressure area (perpendicular to the isobars), and its strength depends on the pressure gradient — how rapidly pressure changes over distance: where isobars are close together (steep gradient), the pressure gradient force is strong and winds are fast; where isobars are far apart (gentle gradient), the force is weak and winds are light. The pressure gradient force is the primary force causing winds (which are then modified by the Coriolis force and friction). Understanding the pressure gradient force is a prelims point. The pressure gradient force drives the wind from high to low pressure; it is stronger where isobars are closer.", "difficulty": "medium" },
-  { "stem": "The apparent deflecting force, caused by the Earth's rotation, that deflects winds (and ocean currents) to their RIGHT in the Northern Hemisphere and to their LEFT in the Southern Hemisphere, is called the:", "options": ["Pressure gradient force", "Coriolis force", "Frictional force", "Centrifugal force"], "correct_index": 1, "solution": "The Coriolis force (or Coriolis effect) is the apparent deflecting force, resulting from the rotation of the Earth, that causes moving objects — including winds and ocean currents — to be deflected from a straight path: to their RIGHT in the Northern Hemisphere and to their LEFT in the Southern Hemisphere. It is named after the French scientist Coriolis. The Coriolis force is zero at the equator and increases toward the poles (maximum at the poles); it also acts perpendicular to the wind's direction (it changes direction but not speed). It is the reason winds do not blow straight from high to low pressure but curve, and it shapes the global wind belts and cyclones. Understanding the Coriolis force (deflection: right in N, left in S) is a key prelims point. The Coriolis force deflects winds to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.", "difficulty": "medium" },
-  { "stem": "The Coriolis force is:", "options": ["Maximum at the equator and zero at the poles", "Zero at the equator and maximum at the poles", "The same everywhere on Earth", "Only present over the oceans"], "correct_index": 1, "solution": "The Coriolis force is zero at the equator and increases toward the poles, being maximum at the poles. This is because the Coriolis effect depends on the latitude (specifically, on the sine of the latitude): at the equator (0° latitude) it vanishes, so winds there are not deflected by it; and it grows stronger with increasing latitude, reaching its maximum at the poles (90°). This is a key reason why tropical cyclones do NOT form right at the equator (there is no Coriolis force to give them their spin) — they form only a few degrees away from the equator, where some Coriolis force exists. Understanding that the Coriolis force is zero at the equator and maximum at the poles is an important prelims point. The Coriolis force is zero at the equator and increases to a maximum at the poles.", "difficulty": "hard" },
-  { "stem": "When the pressure gradient force (from high to low pressure) is balanced by the Coriolis force, the resulting wind that blows parallel to the isobars (in the free atmosphere, above the friction layer) is called the:", "options": ["Sea breeze", "Geostrophic wind", "Monsoon", "Land breeze"], "correct_index": 1, "solution": "The geostrophic wind is the wind that blows parallel to the isobars, resulting when the pressure gradient force (directed from high to low pressure) is exactly balanced by the Coriolis force (acting at right angles to the wind). This balance occurs in the free atmosphere — well above the surface, where there is no friction from the ground. Because the two forces balance, the geostrophic wind neither moves directly toward the low pressure nor curves further, but flows steadily parallel to the straight, evenly-spaced isobars. (Near the surface, friction disturbs this balance, so surface winds cross the isobars at an angle toward the low pressure.) Understanding the geostrophic wind (balance of pressure gradient and Coriolis forces; blows parallel to isobars) is a prelims point. The geostrophic wind blows parallel to the isobars when the pressure gradient and Coriolis forces balance.", "difficulty": "hard" },
-  { "stem": "The force that acts near the Earth's surface to slow the wind and reduce its deflection (so that surface winds blow at an angle across the isobars toward the low pressure) is the:", "options": ["Coriolis force", "Frictional force", "Pressure gradient force", "Magnetic force"], "correct_index": 1, "solution": "The frictional force (friction) is the force that acts near the Earth's surface, arising from the roughness/drag of the surface (land features, vegetation, water) on the moving air. Friction slows the wind down and, by weakening the Coriolis force (which depends on wind speed), reduces the wind's deflection — so that near the surface, winds do not blow exactly parallel to the isobars (as the geostrophic wind does aloft) but blow at an angle, crossing the isobars somewhat toward the low pressure. Friction is greatest at the surface and decreases with height, becoming negligible above about 1–3 km (the 'friction layer'). Understanding the frictional force (slows wind, reduces deflection near surface) is a prelims point. Friction slows surface winds and makes them cross the isobars toward the low pressure.", "difficulty": "hard" },
-  { "stem": "The three main forces that control the horizontal movement of winds are the pressure gradient force, the frictional force, and the:", "options": ["Magnetic force", "Coriolis force", "Nuclear force", "Tidal force"], "correct_index": 1, "solution": "The three main forces that control the horizontal movement (direction and speed) of winds are: (1) the pressure gradient force (which starts the air moving, from high to low pressure); (2) the Coriolis force (which deflects the moving air — right in the Northern Hemisphere, left in the Southern); and (3) the frictional force (which, near the surface, slows the wind and reduces its deflection). The actual wind at any place is the net result of the balance among these three forces (with gravity acting vertically). Understanding the three controlling forces of wind (pressure gradient, Coriolis, friction) is a key prelims point. The horizontal movement of winds is controlled by the pressure gradient force, the Coriolis force, and the frictional force.", "difficulty": "medium" },
-  { "stem": "Around a low-pressure area (cyclone) in the Northern Hemisphere, the winds blow (spiral) in a __________ direction.", "options": ["Clockwise", "Anticlockwise (counter-clockwise)", "Straight outward", "Vertically only"], "correct_index": 1, "solution": "Around a low-pressure area (a cyclone) in the Northern Hemisphere, the winds blow (circulate/spiral) inward in an anticlockwise (counter-clockwise) direction. This results from the combination of the inward-directed pressure gradient force (air moving toward the low centre) and the Coriolis deflection to the right (in the Northern Hemisphere), which together produce an anticlockwise inward spiral. (In the Southern Hemisphere, the Coriolis deflection is to the left, so winds around a low blow clockwise.) In a high-pressure area (anticyclone) in the Northern Hemisphere, the pattern is the reverse — clockwise and outward. Understanding the wind circulation around a Northern-Hemisphere low (anticlockwise) is a prelims point. Winds blow anticlockwise around a low-pressure area (cyclone) in the Northern Hemisphere.", "difficulty": "hard" },
-  { "stem": "Around a high-pressure area (anticyclone) in the Northern Hemisphere, the winds blow (spiral outward) in a __________ direction.", "options": ["Anticlockwise", "Clockwise", "Straight inward", "Randomly"], "correct_index": 1, "solution": "Around a high-pressure area (an anticyclone) in the Northern Hemisphere, the winds blow (spiral) outward in a clockwise direction. This is because, in a high, air moves outward (away from the high-pressure centre), and the Coriolis force deflects this outward-moving air to the right (in the Northern Hemisphere), producing a clockwise outward circulation. (In the Southern Hemisphere, the circulation around a high is anticlockwise.) This is the opposite of the flow around a low (cyclone), which is anticlockwise/inward in the Northern Hemisphere. Understanding the wind circulation around a Northern-Hemisphere high (clockwise/outward) is a prelims point. Winds blow clockwise (and outward) around a high-pressure area (anticyclone) in the Northern Hemisphere.", "difficulty": "hard" },
-  { "stem": "The low-pressure belt near the equator, where the trade winds of the two hemispheres meet and where winds are generally light and variable, is called the:", "options": ["Horse latitudes", "Equatorial low / Doldrums (Inter-Tropical Convergence Zone, ITCZ)", "Polar high", "Subtropical high"], "correct_index": 1, "solution": "The equatorial low-pressure belt — also called the Doldrums, or the Inter-Tropical Convergence Zone (ITCZ) — is the belt of low pressure near the equator (roughly between 5°N and 5°S), where the trade winds of the Northern and Southern Hemispheres meet (converge). It is a zone of intense solar heating, causing the air to expand and rise (ascending air) — which produces the low pressure and heavy convectional rainfall. Because the air here is rising vertically (rather than moving horizontally), surface winds are generally light, calm, and variable (hence 'the Doldrums'). Understanding the equatorial low/Doldrums/ITCZ is a prelims point. The equatorial low (Doldrums/ITCZ) is the low-pressure belt near the equator where the trade winds converge and air rises.", "difficulty": "medium" },
-  { "stem": "The high-pressure belts located at about 30° N and 30° S (the subtropics), a zone of descending air, calm, and dryness, are called the __________ high-pressure belts.", "options": ["Polar", "Subtropical", "Equatorial", "Temperate"], "correct_index": 1, "solution": "The subtropical high-pressure belts are the belts of high pressure located at about 30°N and 30°S latitude (in the subtropics). They are zones of descending (subsiding) air — the air that rose at the equator and moved poleward aloft descends here, piling up and creating high pressure. This descending air is dry and warming, so these belts are associated with calm conditions, clear skies, and dryness — indeed, most of the world's great hot deserts (like the Sahara) lie under these subtropical highs. The calm zone here was historically called the 'Horse Latitudes'. The trade winds and the westerlies both originate from (blow out of) these subtropical highs. Understanding the subtropical high-pressure belts (~30°, descending dry air, deserts) is a prelims point. The subtropical high-pressure belts lie at about 30°N and 30°S, with descending dry air (deserts, calm).", "difficulty": "medium" },
-  { "stem": "The permanent planetary winds that blow from the subtropical high-pressure belts (about 30°) toward the equatorial low, deflected to blow from the north-east in the Northern Hemisphere and south-east in the Southern Hemisphere, are the:", "options": ["Westerlies", "Trade winds", "Polar easterlies", "Monsoon winds"], "correct_index": 1, "solution": "The trade winds are the permanent planetary winds that blow from the subtropical high-pressure belts (about 30°N and 30°S) toward the equatorial low-pressure belt. Owing to the Coriolis deflection, they blow as the north-east trade winds in the Northern Hemisphere and the south-east trade winds in the Southern Hemisphere (i.e., they blow from the east, toward the west, on the whole). The trade winds are very steady and reliable in direction (which is why they were valued by sailing ships — 'trade' meaning a steady course). They converge at the equator (ITCZ). Understanding the trade winds (blow from subtropical highs to equator; NE in N, SE in S) is a key prelims point. The trade winds blow from the subtropical highs toward the equator — north-easterly in the N and south-easterly in the S.", "difficulty": "medium" },
-  { "stem": "The permanent planetary winds that blow from the subtropical high-pressure belts (about 30°) toward the sub-polar low-pressure belts (about 60°), blowing generally from the west, are the:", "options": ["Trade winds", "Westerlies", "Polar easterlies", "Land breezes"], "correct_index": 1, "solution": "The westerlies are the permanent planetary winds that blow from the subtropical high-pressure belts (about 30°) toward the sub-polar low-pressure belts (about 60°), in both hemispheres. Because of the Coriolis deflection, they blow generally from the west (i.e., from the south-west in the Northern Hemisphere and from the north-west in the Southern Hemisphere) — hence 'westerlies'. In the Southern Hemisphere, where there is little land to obstruct them, the westerlies blow very strongly and steadily over the oceans, earning the latitudes the names 'Roaring Forties', 'Furious Fifties', and 'Screaming Sixties'. Understanding the westerlies (blow from subtropical highs to sub-polar lows; from the west) is a key prelims point. The westerlies blow from the subtropical highs toward the sub-polar lows, generally from the west.", "difficulty": "medium" },
-  { "stem": "Planetary (permanent) winds like the trade winds and westerlies, which blow throughout the year over the globe in the same broad direction, are also called:", "options": ["Local winds", "Prevailing / permanent winds", "Seasonal winds", "Variable winds"], "correct_index": 1, "solution": "Planetary winds — such as the trade winds, the westerlies, and the polar easterlies — are also called permanent or prevailing winds, because they blow throughout the year, all over the globe, in the same general direction, driven by the permanent global pattern of pressure belts. (These contrast with: 'seasonal winds' like the monsoons, which reverse direction with the seasons; 'periodic winds' like land and sea breezes, which reverse daily; and 'local winds' like the loo, which affect small areas.) Understanding that planetary winds are the permanent/prevailing winds is a prelims point. Planetary winds (trades, westerlies, polar easterlies) are the permanent/prevailing winds that blow year-round.", "difficulty": "medium" },
-  { "stem": "Winds that reverse their direction seasonally (blowing from the sea to the land in summer and from the land to the sea in winter), most famously affecting the Indian subcontinent, are the:", "options": ["Trade winds", "Monsoon winds", "Westerlies", "Polar easterlies"], "correct_index": 1, "solution": "The monsoon winds are seasonal winds that reverse their direction with the seasons — blowing from the sea toward the land in summer (the moist, rain-bearing summer monsoon) and from the land toward the sea in winter (the dry winter monsoon). The word 'monsoon' comes from the Arabic 'mausim', meaning season. The monsoons are best developed over the Indian subcontinent and South/Southeast Asia, where they are caused by the differential heating of land and sea (the land heats up more than the sea in summer, forming a low that draws in moist sea air; and cools more in winter, forming a high that pushes air out to sea). The summer (south-west) monsoon brings most of India's rainfall. Understanding the monsoon winds (seasonal reversal; from sea in summer, land in winter) is a key prelims point. Monsoon winds are seasonal winds that reverse direction — from sea to land in summer and land to sea in winter.", "difficulty": "medium" },
-  { "stem": "A gentle wind that blows from the sea toward the land during the day (afternoon), because the land heats up faster than the sea, is called a:", "options": ["Land breeze", "Sea breeze", "Monsoon", "Trade wind"], "correct_index": 1, "solution": "A sea breeze is a local, gentle wind that blows from the sea toward the land during the daytime (especially in the afternoon). During the day, the land heats up faster than the sea, so the air over the land becomes warm and rises, creating low pressure over the land; the cooler, higher-pressure air over the sea then flows in toward the land to replace it — this is the sea breeze. The sea breeze brings cool, moist relief to coastal areas on a hot day. (At night, the reverse happens — a land breeze.) Understanding the sea breeze (from sea to land by day) is a prelims point. A sea breeze blows from the sea to the land during the day, because the land heats up faster than the sea.", "difficulty": "medium" },
-  { "stem": "A gentle wind that blows from the land toward the sea during the night, because the land cools down faster than the sea, is called a:", "options": ["Sea breeze", "Land breeze", "Monsoon", "Westerly"], "correct_index": 1, "solution": "A land breeze is a local, gentle wind that blows from the land toward the sea during the night. At night, the land cools down faster than the sea (loses heat more quickly), so the air over the land becomes cooler and denser (higher pressure), while the air over the relatively warmer sea rises (lower pressure); the cool air then flows from the land out toward the sea — this is the land breeze. (It is the reverse of the daytime sea breeze.) Land and sea breezes together are examples of daily (diurnal) periodic winds, caused by the differential heating of land and water. Understanding the land breeze (from land to sea by night) is a prelims point. A land breeze blows from the land to the sea at night, because the land cools down faster than the sea.", "difficulty": "medium" },
-  { "stem": "Humidity refers to the amount of __________ present in the air.", "options": ["Dust", "Water vapour (moisture)", "Carbon dioxide", "Oxygen"], "correct_index": 1, "solution": "Humidity refers to the amount of water vapour (moisture) present in the air. Because the air always contains some water vapour (from the evaporation of water from oceans, lakes, soil, and plants), humidity is a measure of this atmospheric moisture. It can be expressed in different ways: 'absolute humidity' is the actual mass of water vapour per unit volume of air; 'relative humidity' is the percentage of moisture the air holds compared with the maximum it could hold at that temperature. Humidity is important because it is the source of clouds and precipitation and it affects how we feel (mugginess). Understanding that humidity is the water vapour in the air is a prelims point. Humidity is the amount of water vapour present in the air.", "difficulty": "easy" },
-  { "stem": "The ratio (expressed as a percentage) of the actual amount of water vapour in the air to the maximum amount it can hold at that temperature is called the __________ humidity.", "options": ["Absolute", "Relative", "Specific", "Total"], "correct_index": 1, "solution": "Relative humidity is the ratio — expressed as a percentage — of the actual amount of water vapour present in the air to the maximum amount of water vapour the air could hold (its capacity) at that particular temperature. For example, a relative humidity of 100% means the air is saturated (holding all the moisture it can, so condensation/rain is likely), while a low relative humidity means the air is dry. Importantly, relative humidity depends on temperature: since warm air can hold more moisture than cold air, cooling the air (without changing its moisture content) raises the relative humidity (and warming it lowers the relative humidity). This is why relative humidity is usually highest in the cool early morning. Understanding relative humidity (percentage of saturation) is a key prelims point. Relative humidity is the percentage of water vapour in the air relative to the maximum it can hold at that temperature.", "difficulty": "hard" },
-  { "stem": "The temperature to which air must be cooled (at constant pressure and moisture) for it to become saturated and for condensation to begin is called the:", "options": ["Boiling point", "Dew point", "Freezing point", "Lapse rate"], "correct_index": 1, "solution": "The dew point (dew-point temperature) is the temperature to which a parcel of air must be cooled — at constant pressure and constant moisture content — for it to become saturated (reach 100% relative humidity), so that condensation begins (water vapour starts to condense into liquid water). When air is cooled to its dew point, the excess water vapour condenses to form dew, fog, or cloud droplets. If the dew point is below 0°C (freezing), the moisture may deposit as frost. Understanding the dew point (cooling temperature at which condensation begins) is a prelims point. The dew point is the temperature to which air must be cooled to become saturated and begin condensation.", "difficulty": "hard" },
-  { "stem": "The process by which water changes from liquid to vapour (adding moisture to the air) is called evaporation; the reverse process, by which water vapour changes back to liquid (forming clouds, dew, etc.), is called:", "options": ["Precipitation", "Condensation", "Transpiration", "Sublimation"], "correct_index": 1, "solution": "Condensation is the process by which water vapour (gas) changes back into liquid water — the reverse of evaporation. It occurs when moist air is cooled to (or below) its dew point, so that the water vapour condenses into tiny water droplets. Condensation is responsible for the formation of dew, fog, mist, and clouds (and, if it occurs on tiny particles high in the air, it builds the droplets that make clouds and eventually precipitation). Condensation usually requires the presence of tiny particles (hygroscopic nuclei) on which the vapour can condense. Understanding condensation (vapour → liquid) is a prelims point. Condensation is the change of water vapour back into liquid water (forming dew, fog, clouds).", "difficulty": "medium" },
-  { "stem": "Clouds, fog, dew, and frost are all forms of __________ of atmospheric water vapour.", "options": ["Evaporation", "Condensation", "Transpiration", "Radiation"], "correct_index": 1, "solution": "Clouds, fog, mist, dew, and frost are all forms/results of condensation of atmospheric water vapour (frost involves condensation directly to ice). They form when moist air is cooled to its dew point: dew forms as water droplets on cool surfaces (like grass) on calm, clear nights; frost forms when the dew point is below freezing (condensation to ice crystals); fog and mist form when condensation occurs in the air near the ground (reducing visibility); and clouds form when condensation occurs higher up in the atmosphere (on rising, cooling air). Understanding that these are all condensation forms is a prelims point. Clouds, fog, dew, and frost are all forms of condensation of water vapour.", "difficulty": "medium" },
-  { "stem": "A cloud that forms at ground level (or very near the surface), reducing visibility, is called:", "options": ["Cirrus", "Fog (or mist)", "Cumulus", "Nimbus"], "correct_index": 1, "solution": "Fog (and its lighter form, mist) is essentially a cloud that forms at or very near ground level, consisting of tiny water droplets suspended in the air near the surface, which reduces visibility (making it hard to see). Fog forms when the air near the ground is cooled to its dew point (for example, on a clear, calm, cold night — 'radiation fog' — or when warm moist air moves over a cold surface — 'advection fog'), causing the water vapour to condense near the surface. Dense fog can seriously disrupt road, rail, sea, and air transport. Understanding that fog is a ground-level cloud is a prelims point. Fog is a cloud that forms at ground level, reducing visibility.", "difficulty": "medium" },
-  { "stem": "The high, thin, wispy, feathery clouds made of ice crystals, found at very high altitudes, are called:", "options": ["Cumulus", "Cirrus", "Stratus", "Nimbus"], "correct_index": 1, "solution": "Cirrus clouds are the high-altitude clouds — thin, wispy, feathery, or hair-like in appearance, composed of ice crystals (because it is very cold at those heights). They form at high levels of the troposphere (typically above ~8000 m) and are usually associated with fair weather, though their appearance can also signal an approaching change in the weather. (The main cloud types by form are: cirrus — high, wispy; cumulus — heaped, cotton-like; stratus — layered, sheet-like; and nimbus — rain-bearing, dark.) Understanding cirrus clouds (high, wispy, ice-crystal clouds) is a prelims point. Cirrus are the high, thin, feathery clouds made of ice crystals.", "difficulty": "medium" },
-  { "stem": "The dark, thick, rain-bearing clouds (from which rain or snow falls) belong to the __________ type.", "options": ["Cirrus", "Nimbus", "Cirro-form", "Fair-weather"], "correct_index": 1, "solution": "Nimbus clouds are the dark, thick, dense, rain-bearing clouds (the word 'nimbus' means rain/cloud), from which precipitation (rain or snow) falls. They are usually low, grey/black, and shapeless, forming a thick layer that blocks out the sunlight. Two important rain-producing cloud types combine 'nimbus' with a form: 'nimbostratus' (layered rain clouds giving steady, continuous rain) and 'cumulonimbus' (towering, heaped storm clouds giving heavy showers, thunder, and lightning). (The four basic cloud types are cirrus, cumulus, stratus, and nimbus.) Understanding that nimbus clouds are the rain-bearing clouds is a prelims point. Nimbus clouds are the dark, rain-bearing clouds from which rain or snow falls.", "difficulty": "medium" },
-  { "stem": "The heaped, cauliflower- or cotton-like clouds with a flat base and rounded top, associated with fair weather (but which can grow into thunderstorm clouds), are called:", "options": ["Stratus", "Cumulus", "Cirrus", "Nimbostratus"], "correct_index": 1, "solution": "Cumulus clouds are the heaped, puffy, cauliflower- or cotton-wool-like clouds, typically with a flat base and a rounded, billowing top. They form by convection (rising warm air) and are usually associated with fair weather (fine, sunny days). However, if they continue to grow vertically into large, towering clouds, they can develop into cumulonimbus clouds — the tall storm clouds that produce heavy showers, thunder, and lightning. (The main cloud forms are cirrus, cumulus, stratus, and nimbus.) Understanding cumulus clouds (heaped, cotton-like, fair-weather clouds) is a prelims point. Cumulus are the heaped, cotton-like fair-weather clouds that can grow into storm clouds.", "difficulty": "medium" },
-  { "stem": "The layered, sheet-like clouds that spread out in a uniform grey layer across the sky (often bringing dull, overcast weather) are called:", "options": ["Cumulus", "Stratus", "Cirrus", "Cumulonimbus"], "correct_index": 1, "solution": "Stratus clouds are the layered, sheet-like clouds that spread out in a uniform, featureless grey layer across the sky, often covering it completely and giving dull, overcast, gloomy weather (they form at low levels). 'Stratus' means layer/spread out. When thick and rain-bearing, they become nimbostratus (giving steady drizzle or rain). Stratus clouds are one of the four basic cloud forms (cirrus, cumulus, stratus, nimbus). Understanding stratus clouds (layered, sheet-like, overcast clouds) is a prelims point. Stratus are the layered, sheet-like clouds that give a uniform grey, overcast sky.", "difficulty": "medium" },
-  { "stem": "Any form of water — liquid or solid — that falls from clouds and reaches the Earth's surface (such as rain, snow, hail, sleet) is collectively called:", "options": ["Evaporation", "Precipitation", "Condensation", "Humidity"], "correct_index": 1, "solution": "Precipitation is the collective term for any form of water — whether liquid or solid — that falls from the clouds and reaches the Earth's surface. It includes rain (liquid water drops), snow (ice crystals/flakes), hail (lumps/pellets of ice), sleet (a mixture of rain and snow, or partly frozen rain), and drizzle (fine rain). Precipitation occurs when the tiny condensed droplets (or ice crystals) in a cloud grow large and heavy enough to fall to the ground under gravity. Precipitation is the key process by which atmospheric water returns to the surface in the water cycle. Understanding precipitation (all forms of water falling from clouds) is a prelims point. Precipitation is any form of water (rain, snow, hail, sleet) that falls from clouds to the Earth's surface.", "difficulty": "easy" },
-  { "stem": "Rainfall caused when warm, moist air is forced to rise over a mountain barrier, cooling and condensing on the windward side, is called __________ rainfall.", "options": ["Convectional", "Orographic (relief)", "Cyclonic (frontal)", "Acid"], "correct_index": 1, "solution": "Orographic rainfall (also called relief rainfall) is the rainfall caused when warm, moist air is forced to rise over a mountain barrier or highland ('oro' = mountain): as the air rises up the windward slope, it cools, its moisture condenses, and it produces heavy rainfall on the windward side. Having lost its moisture, the air then descends the leeward side, warming and drying — so the leeward side gets little rain, forming a dry 'rain shadow' area. (For example, the Western Ghats force the south-west monsoon to rise and give heavy rain on their windward western side, while the leeward Deccan interior is drier.) Understanding orographic/relief rainfall (rain forced by mountains; rain shadow on the lee) is a key prelims point. Orographic rainfall occurs when moist air is forced to rise over mountains, giving heavy rain on the windward side and a dry rain shadow on the leeward side.", "difficulty": "medium" },
-  { "stem": "The dry region on the leeward side of a mountain range (which receives little rainfall because the descending air is warm and dry) is called the:", "options": ["Rain forest", "Rain shadow area", "Delta", "Oasis"], "correct_index": 1, "solution": "The rain shadow area is the dry region on the leeward side (the sheltered side, away from the wind) of a mountain range, which receives little rainfall. It forms because, in orographic rainfall, the moist air is forced up the windward side and drops most of its moisture there (heavy rain); by the time the air crosses the crest and descends the leeward side, it is dry, and as it descends it warms up (further reducing condensation) — so the leeward side lies in the 'shadow' of the rain, remaining dry. (For example, in India, the region east of the Western Ghats, and places like the Deccan interior, lie in rain shadow.) Understanding the rain shadow (dry leeward side of mountains) is a prelims point. The rain shadow area is the dry leeward side of a mountain, where descending air brings little rain.", "difficulty": "medium" },
-  { "stem": "Rainfall caused by the strong heating of the ground, which makes moist air rise rapidly (convection), cool, and form towering clouds that give heavy showers (often in the afternoon, in the tropics) is called __________ rainfall.", "options": ["Orographic", "Convectional", "Cyclonic", "Frontal"], "correct_index": 1, "solution": "Convectional rainfall is the rainfall produced by convection: when the ground is strongly heated (as in the hot, humid tropics, or on hot summer afternoons), the air near the surface becomes warm, expands, and rises rapidly; as this rising air cools, its moisture condenses to form tall cumulonimbus clouds, which then give heavy, often short-lived showers, frequently accompanied by thunder and lightning. Convectional rainfall typically occurs in the afternoon (after the day's heating) and is characteristic of equatorial/tropical regions. Understanding convectional rainfall (from strong heating and rising air; afternoon thunderstorms) is a prelims point. Convectional rainfall results from strong surface heating that lifts moist air, forming towering clouds and heavy afternoon showers.", "difficulty": "medium" },
-  { "stem": "Rainfall associated with the meeting of two contrasting (warm and cold) air masses along a front (as in temperate cyclones/depressions) is called cyclonic or __________ rainfall.", "options": ["Orographic", "Frontal", "Convectional", "Relief"], "correct_index": 1, "solution": "Cyclonic rainfall (also called frontal rainfall) is the rainfall associated with the meeting of two contrasting air masses — a warm air mass and a cold air mass — along a boundary called a 'front', as happens in temperate cyclones (mid-latitude depressions). When the warm, lighter, moist air is forced to rise over (or is undercut by) the cold, denser air along the front, it cools and its moisture condenses, producing rainfall along the front. This is the characteristic rainfall of the temperate (extra-tropical) regions dominated by the westerlies and their travelling depressions. Understanding cyclonic/frontal rainfall (warm and cold air masses meeting at a front) is a prelims point. Cyclonic (frontal) rainfall occurs where warm and cold air masses meet along a front and the warm air is forced to rise.", "difficulty": "hard" },
-  { "stem": "The boundary or transition zone that separates two air masses of different temperature and density (in a temperate cyclone) is called a:", "options": ["Isobar", "Front", "Ridge", "Trough"], "correct_index": 1, "solution": "A front is the boundary, or narrow transition zone, that separates two air masses of different characteristics — chiefly different temperature (and density and humidity) — such as a warm air mass and a cold air mass. Fronts are important features of temperate (mid-latitude) cyclones/depressions, where warm and cold air masses meet: a 'warm front' is where advancing warm air rises over retreating cold air (giving gentle, widespread rain), and a 'cold front' is where advancing cold air undercuts and lifts warm air (giving heavier, showery rain). The process of front formation is called 'frontogenesis'. Understanding the front (boundary between two air masses) is a prelims point. A front is the boundary separating two air masses of different temperature and density.", "difficulty": "hard" },
-  { "stem": "The violent tropical storms that form over warm tropical oceans, with very low pressure at the centre and extremely strong winds and heavy rain — known as 'cyclones' in the Indian Ocean, 'hurricanes' in the Atlantic, and 'typhoons' in the western Pacific — are examples of:", "options": ["Temperate cyclones", "Tropical cyclones", "Anticyclones", "Tornadoes"], "correct_index": 1, "solution": "Tropical cyclones are the violent, intense storms that form over the warm tropical oceans (where the sea-surface temperature is high, providing energy through evaporation and latent heat). They have a very low pressure at the centre, extremely strong whirling winds spiralling around the centre, and torrential rain. They are called by different names in different regions: 'cyclones' in the Indian Ocean (and around India), 'hurricanes' in the Atlantic and eastern Pacific (Caribbean/USA), 'typhoons' in the western Pacific (East/Southeast Asia), and 'willy-willies' in the Australian region. Tropical cyclones can cause enormous destruction on coasts (through winds, heavy rain, floods, and storm surges). Understanding tropical cyclones (and their regional names) is a key prelims point. Tropical cyclones are violent storms of the warm tropical oceans, called cyclones, hurricanes, or typhoons in different regions.", "difficulty": "medium" },
-  { "stem": "The calm, clear, low-pressure centre of a tropical cyclone, around which the strongest winds and heaviest rain occur, is called the:", "options": ["Front", "Eye of the cyclone", "Trough", "Ridge"], "correct_index": 1, "solution": "The eye of the cyclone is the calm, clear, low-pressure region at the very centre of a tropical cyclone. Within the eye, the weather is strangely calm — winds are light and the sky may even be clear (air is gently descending) — even though it is surrounded by the most violent part of the storm. Immediately around the eye is the 'eye wall', where the strongest winds and the heaviest, most torrential rain occur (air rising most vigorously). So the cyclone has a calm eye at the centre, ringed by the destructive eye wall. Understanding the eye of the cyclone (calm low-pressure centre) is a prelims point. The eye is the calm, clear, low-pressure centre of a tropical cyclone, surrounded by the violent eye wall.", "difficulty": "medium" },
-  { "stem": "Tropical cyclones generally do NOT form very close to the equator (within about 5° of it) because:", "options": ["The ocean is too cold there", "The Coriolis force is nil (zero) at the equator, so there is nothing to give the storm its rotating/spiralling motion", "There is too much land at the equator", "The air is too dry"], "correct_index": 1, "solution": "Tropical cyclones generally do not form very close to the equator (within about 5° north or south) because the Coriolis force is zero at the equator (and negligible very close to it). The Coriolis force is what gives a tropical cyclone its characteristic spiralling, rotating motion (the whirling of winds around the low-pressure centre); without it (right at the equator), the converging air cannot start rotating, so a cyclone cannot organise and form. A few degrees away from the equator, where some Coriolis force exists, cyclones can and do form (given the other conditions: warm ocean water, moisture, etc.). Understanding why cyclones avoid the equator (no Coriolis force there) is an important prelims point. Tropical cyclones do not form at the equator because the Coriolis force there is zero, so the storm cannot acquire its spin.", "difficulty": "hard" },
-  { "stem": "Which of the following is a necessary condition for the formation of a tropical cyclone?", "options": ["Cold, dry air over land", "A large, warm ocean surface (sea temperature above ~27°C) providing plenty of moisture and heat", "High latitudes near the poles", "A stable, descending air mass"], "correct_index": 1, "solution": "A necessary condition for the formation of a tropical cyclone is a large expanse of warm ocean water — with a sea-surface temperature above about 27°C — which provides the plentiful moisture (through evaporation) and heat energy (latent heat, released when the water vapour condenses) that fuel the storm. Other favourable conditions include: abundant moisture and unstable, rising air; the presence of some Coriolis force (so, a few degrees away from the equator, not right on it); and low wind shear (little change of wind with height). This is why tropical cyclones form over warm tropical seas in the warm season, and why they weaken and die out once they move over land or cooler waters (losing their moisture/heat source). Understanding the warm-ocean requirement for cyclone formation is a prelims point. A tropical cyclone needs a warm ocean surface (above ~27°C) to supply the moisture and heat that power it.", "difficulty": "hard" },
-  { "stem": "In an anticyclone (high-pressure system), the weather is usually:", "options": ["Stormy with heavy rain", "Calm, clear, and dry (fine weather), because the air is descending", "Cloudy and wet", "Extremely windy"], "correct_index": 1, "solution": "In an anticyclone (a high-pressure system), the weather is usually calm, clear, and dry — that is, fine, settled weather. This is because, in a high, the air is descending (subsiding) from above and diverging outward at the surface. As the air descends, it warms and its relative humidity falls, which discourages cloud formation and precipitation — so anticyclones bring clear skies and dry, stable conditions (though in winter they can bring cold, frost, and fog under clear calm nights). This is the opposite of a cyclone/depression (low pressure), where rising air brings clouds, unsettled weather, and rain. Understanding that anticyclones bring fine, dry weather (descending air) is a prelims point. In an anticyclone (high pressure), descending air brings calm, clear, dry, fine weather.", "difficulty": "medium" },
-  { "stem": "In the Southern Hemisphere, the powerful, steady westerly winds blowing over the vast southern oceans (with little land to obstruct them) have earned the latitudes around 40°S the nickname:", "options": ["The Doldrums", "The Roaring Forties", "The Horse Latitudes", "The Trade Belt"], "correct_index": 1, "solution": "In the Southern Hemisphere, the westerlies blow with great strength, steadiness, and force over the vast, open southern oceans (which have very little land to obstruct or slow them down). This has earned the stormy latitudes their vivid nicknames: the 'Roaring Forties' (around 40°S), the 'Furious Fifties' (around 50°S), and the 'Screaming Sixties' (around 60°S). These names, given by sailors, reflect the persistent gales and rough seas of these belts. (By contrast, the westerlies in the Northern Hemisphere are more interrupted by the large landmasses.) Understanding the 'Roaring Forties' (strong Southern-Hemisphere westerlies) is a prelims point. The strong Southern-Hemisphere westerlies around 40°S are nicknamed the 'Roaring Forties'.", "difficulty": "hard" },
-  { "stem": "Assertion (A): Around a low-pressure area in the Northern Hemisphere, winds blow anticlockwise. Reason (R): The Coriolis force deflects the inward-moving winds to their right in the Northern Hemisphere. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that around a low-pressure area (cyclone) in the Northern Hemisphere, winds blow (spiral) anticlockwise. And the reason is (R) that as air moves inward toward the low-pressure centre (driven by the pressure gradient force), the Coriolis force deflects this moving air to its right (in the Northern Hemisphere); this rightward deflection of the inward-moving air produces exactly the anticlockwise inward spiral. So R is the correct explanation of A. (In the Southern Hemisphere, the deflection is to the left, giving a clockwise circulation around a low.) Understanding this cause-effect (Coriolis → anticlockwise low in the N) is a prelims point. Winds blow anticlockwise around a Northern-Hemisphere low because the Coriolis force deflects the inflowing air to the right.", "difficulty": "hard" },
-  { "stem": "The high-pressure belts located at the poles (about 90° N and 90° S), formed because the intensely cold, dense air sinks there, are called the:", "options": ["Equatorial lows", "Polar high-pressure belts", "Subtropical highs", "Sub-polar lows"], "correct_index": 1, "solution": "The polar high-pressure belts are the belts of high pressure located at (and around) the poles — about 90°N and 90°S. They form because the air over the poles is intensely cold, and therefore very dense and heavy, so it sinks/subsides, producing high pressure at the surface. From these polar highs, cold winds — the 'polar easterlies' — blow outward toward the sub-polar low-pressure belts (about 60°). (The four main global pressure belts are: the equatorial low, the subtropical highs (~30°), the sub-polar lows (~60°), and the polar highs (~90°).) Understanding the polar high-pressure belts (cold, dense, sinking air at the poles) is a prelims point. The polar high-pressure belts form at the poles because the intensely cold, dense air sinks there.", "difficulty": "medium" },
-  { "stem": "The sub-polar low-pressure belts are located at about __________ latitude in each hemisphere.", "options": ["0° (the equator)", "60° N and 60° S", "30° N and 30° S", "90° (the poles)"], "correct_index": 1, "solution": "The sub-polar low-pressure belts are located at about 60°N and 60°S latitude. Here, the cold polar easterlies (from the polar highs) and the warmer westerlies (from the subtropical highs) meet/converge; the lighter, warmer westerly air is forced to rise over the colder polar air, and this rising/convergence produces the low pressure (this is also the belt of the temperate cyclones/fronts). (The full sequence of global pressure belts from equator to pole is: equatorial low (0°) → subtropical high (30°) → sub-polar low (60°) → polar high (90°).) Understanding the sub-polar low-pressure belts (~60°) is a prelims point. The sub-polar low-pressure belts lie at about 60°N and 60°S, where the westerlies and polar easterlies meet.", "difficulty": "medium" },
-  { "stem": "The cold winds that blow from the polar high-pressure areas toward the sub-polar low-pressure belts are called the:", "options": ["Trade winds", "Polar easterlies", "Westerlies", "Sea breezes"], "correct_index": 1, "solution": "The polar easterlies are the cold planetary winds that blow from the polar high-pressure areas (at the poles, ~90°) toward the sub-polar low-pressure belts (~60°). Because of the Coriolis deflection, they blow from the east (hence 'easterlies') — as north-easterlies in the Northern Hemisphere and south-easterlies in the Southern. Being polar in origin, they are very cold and dry. At the sub-polar lows, the cold polar easterlies meet the warmer westerlies, forming the 'polar front' (a zone of temperate cyclone development). (The three planetary wind belts in each hemisphere are: the trade winds, the westerlies, and the polar easterlies.) Understanding the polar easterlies (cold winds from the poles toward ~60°) is a prelims point. The polar easterlies are cold winds blowing from the polar highs toward the sub-polar lows.", "difficulty": "medium" },
-  { "stem": "Where isobars on a weather map are very closely spaced (packed together), the wind is generally:", "options": ["Very weak or calm", "Strong (fast), because the pressure gradient is steep", "Reversed in direction", "Absent"], "correct_index": 1, "solution": "Where isobars on a weather map are very closely spaced (packed close together), the wind is generally strong (fast). This is because closely-spaced isobars indicate a steep pressure gradient — pressure changes rapidly over a short distance — which means a strong pressure gradient force driving the air, and hence high wind speeds. Conversely, where isobars are widely spaced (far apart), the pressure gradient is gentle, the pressure gradient force is weak, and winds are light or calm. So the spacing of isobars directly indicates wind strength: close = strong winds, wide = light winds. Understanding this relationship (close isobars → strong winds) is a prelims point. Closely-spaced isobars mean a steep pressure gradient and therefore strong winds.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Atmospheric Circulation and Weather Systems' is that:", "options": ["Winds blow randomly with no pattern", "Differences in atmospheric pressure (caused ultimately by the unequal heating of the Earth) set air in motion as winds — modified by the Coriolis force and friction — producing a global pattern of pressure belts and planetary winds, and various weather systems (cyclones, anticyclones) and precipitation, all interlinked with moisture, condensation, and clouds", "Pressure has no effect on wind", "There are no weather systems on Earth"], "correct_index": 1, "solution": "The chapter conveys that the unequal heating of the Earth's surface (more at the equator, less at the poles) creates differences in atmospheric pressure, and these pressure differences set the air in motion as winds — which blow from high to low pressure but are deflected by the Coriolis force (right in the Northern Hemisphere, left in the Southern) and slowed by friction near the surface. This produces the global pattern of pressure belts (equatorial low, subtropical highs, sub-polar lows, polar highs) and the planetary/permanent winds (trade winds, westerlies, polar easterlies), as well as seasonal winds (monsoons) and local winds (land and sea breezes). At the same time, the air carries moisture (humidity), which — through evaporation, condensation, and the formation of clouds — gives rise to precipitation (convectional, orographic, and cyclonic rainfall) and to weather systems such as cyclones (low pressure, unsettled, rainy — including the violent tropical cyclones) and anticyclones (high pressure, calm, fine weather). Thus, pressure, winds, moisture, and weather systems are all interlinked parts of the atmospheric circulation that shapes the world's weather and climate. Understanding how pressure differences drive winds (modified by Coriolis and friction), the global wind and pressure belts, and the weather systems and precipitation they produce, is the central concern of this chapter. Pressure differences (from unequal heating) drive winds — deflected by Coriolis and friction — creating global wind belts and weather systems with their clouds and rainfall.", "difficulty": "medium" }
+  {
+    "stem": "The weight of a column of air over a unit area at a place is called the atmospheric:",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Humidity",
+      "Density"
+    ],
+    "correct_index": 1,
+    "solution": "Atmospheric pressure is the weight (force) exerted by a column of air over a unit area of the Earth's surface — that is, the pressure exerted by the mass of the air above a place. Because air has weight, it presses down on the surface; this pressure is greatest at sea level (where the whole column of atmosphere is above) and decreases with height (as less air lies above). Atmospheric pressure is measured with a barometer and expressed in millibars (mb) or hectopascals (hPa). Understanding atmospheric pressure (the weight of the air column) is a fundamental prelims point. Atmospheric pressure is the weight of a column of air over a unit area.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Atmospheric pressure is measured using an instrument called a:",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Anemometer",
+      "Hygrometer"
+    ],
+    "correct_index": 1,
+    "solution": "A barometer is the instrument used to measure atmospheric pressure. There are two common types: the mercury barometer (in which pressure is read from the height of a column of mercury) and the aneroid barometer (a compact, liquid-free instrument using a sealed metal cell). Pressure is expressed in millibars (mb) or hectopascals (hPa). (Other weather instruments: a thermometer measures temperature, an anemometer measures wind speed, a hygrometer measures humidity, a rain gauge measures rainfall.) Understanding that a barometer measures pressure is a prelims point. Atmospheric pressure is measured with a barometer.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The unit in which atmospheric pressure is usually expressed is the:",
+    "options": [
+      "Degree Celsius",
+      "Millibar (mb) / hectopascal (hPa)",
+      "Kilometre",
+      "Newton"
+    ],
+    "correct_index": 1,
+    "solution": "Atmospheric pressure is usually expressed in millibars (mb), or equivalently hectopascals (hPa) — 1 millibar = 1 hectopascal. The average atmospheric pressure at sea level is about 1013.2 millibars (mb). (Pressure can also be given as the height of a mercury column, about 760 mm of mercury at sea level.) On weather maps, isobars are drawn in millibars. Understanding that pressure is measured in millibars/hectopascals is a prelims point. Atmospheric pressure is expressed in millibars (mb) or hectopascals (hPa).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Atmospheric pressure __________ with increasing altitude (height above sea level).",
+    "options": [
+      "Increases",
+      "Decreases (rapidly)",
+      "Stays constant",
+      "First increases then decreases"
+    ],
+    "correct_index": 1,
+    "solution": "Atmospheric pressure decreases with increasing altitude (height) — and it decreases rapidly, especially in the lower atmosphere. This is because, as one goes higher, there is less and less air above (a shorter, lighter column of air), so the weight (pressure) it exerts is less; also the air becomes thinner (less dense) with height. Pressure falls fastest near the surface (roughly 1 millibar for every ~10 m near sea level). This decrease of pressure with height is why breathing is difficult and aircraft cabins are pressurised at high altitudes. Understanding that pressure decreases with altitude is a prelims point. Atmospheric pressure decreases (rapidly) with increasing altitude.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lines drawn on a map joining places that have the same atmospheric pressure (reduced to sea level) are called:",
+    "options": [
+      "Isotherms",
+      "Isobars",
+      "Isohyets",
+      "Contours"
+    ],
+    "correct_index": 1,
+    "solution": "Isobars are the lines drawn on a weather map joining (connecting) places that have the same atmospheric pressure (with the pressures reduced/corrected to sea level for comparison). ('Iso' = equal, 'bar' = pressure.) Isobar maps show the distribution of pressure and reveal the pressure systems (high-pressure and low-pressure areas). The spacing of isobars indicates the pressure gradient: closely-spaced isobars mean a steep pressure gradient (strong winds), and widely-spaced isobars a gentle gradient (light winds). (Compare: isotherms join places of equal temperature; isohyets of equal rainfall.) Understanding isobars (lines of equal pressure) is a prelims point. Isobars are lines joining places of equal atmospheric pressure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wind is essentially the movement of air from an area of __________ to an area of __________ pressure.",
+    "options": [
+      "Low; high",
+      "High; low",
+      "Warm; cold",
+      "Wet; dry"
+    ],
+    "correct_index": 1,
+    "solution": "Wind is the horizontal movement of air, and it blows (moves) from an area of high pressure to an area of low pressure. Air moves in response to differences in pressure: it flows 'downhill' in pressure terms, away from high-pressure areas (where air is descending/piling up) toward low-pressure areas (where air is rising). This pressure difference (the pressure gradient) is the fundamental force that sets air in motion and causes winds. (The wind is then deflected by the Coriolis force and modified by friction.) Understanding that wind blows from high to low pressure is a fundamental prelims point. Wind blows from areas of high pressure to areas of low pressure.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The force that drives the wind, arising from the difference in pressure between two places (and directed from high to low pressure), is called the:",
+    "options": [
+      "Coriolis force",
+      "Pressure gradient force",
+      "Frictional force",
+      "Gravitational force"
+    ],
+    "correct_index": 1,
+    "solution": "The pressure gradient force is the force that drives the wind, arising from the difference in atmospheric pressure between two places. It is directed from the high-pressure area toward the low-pressure area (perpendicular to the isobars), and its strength depends on the pressure gradient — how rapidly pressure changes over distance: where isobars are close together (steep gradient), the pressure gradient force is strong and winds are fast; where isobars are far apart (gentle gradient), the force is weak and winds are light. The pressure gradient force is the primary force causing winds (which are then modified by the Coriolis force and friction). Understanding the pressure gradient force is a prelims point. The pressure gradient force drives the wind from high to low pressure; it is stronger where isobars are closer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The apparent deflecting force, caused by the Earth's rotation, that deflects winds (and ocean currents) to their RIGHT in the Northern Hemisphere and to their LEFT in the Southern Hemisphere, is called the:",
+    "options": [
+      "Pressure gradient force",
+      "Coriolis force",
+      "Frictional force",
+      "Centrifugal force"
+    ],
+    "correct_index": 1,
+    "solution": "The Coriolis force (or Coriolis effect) is the apparent deflecting force, resulting from the rotation of the Earth, that causes moving objects — including winds and ocean currents — to be deflected from a straight path: to their RIGHT in the Northern Hemisphere and to their LEFT in the Southern Hemisphere. It is named after the French scientist Coriolis. The Coriolis force is zero at the equator and increases toward the poles (maximum at the poles); it also acts perpendicular to the wind's direction (it changes direction but not speed). It is the reason winds do not blow straight from high to low pressure but curve, and it shapes the global wind belts and cyclones. Understanding the Coriolis force (deflection: right in N, left in S) is a key prelims point. The Coriolis force deflects winds to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Coriolis force is:",
+    "options": [
+      "Maximum at the equator and zero at the poles",
+      "Zero at the equator and maximum at the poles",
+      "The same everywhere on Earth",
+      "Only present over the oceans"
+    ],
+    "correct_index": 1,
+    "solution": "The Coriolis force is zero at the equator and increases toward the poles, being maximum at the poles. This is because the Coriolis effect depends on the latitude (specifically, on the sine of the latitude): at the equator (0° latitude) it vanishes, so winds there are not deflected by it; and it grows stronger with increasing latitude, reaching its maximum at the poles (90°). This is a key reason why tropical cyclones do NOT form right at the equator (there is no Coriolis force to give them their spin) — they form only a few degrees away from the equator, where some Coriolis force exists. Understanding that the Coriolis force is zero at the equator and maximum at the poles is an important prelims point. The Coriolis force is zero at the equator and increases to a maximum at the poles.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When the pressure gradient force (from high to low pressure) is balanced by the Coriolis force, the resulting wind that blows parallel to the isobars (in the free atmosphere, above the friction layer) is called the:",
+    "options": [
+      "Sea breeze",
+      "Geostrophic wind",
+      "Monsoon",
+      "Land breeze"
+    ],
+    "correct_index": 1,
+    "solution": "The geostrophic wind is the wind that blows parallel to the isobars, resulting when the pressure gradient force (directed from high to low pressure) is exactly balanced by the Coriolis force (acting at right angles to the wind). This balance occurs in the free atmosphere — well above the surface, where there is no friction from the ground. Because the two forces balance, the geostrophic wind neither moves directly toward the low pressure nor curves further, but flows steadily parallel to the straight, evenly-spaced isobars. (Near the surface, friction disturbs this balance, so surface winds cross the isobars at an angle toward the low pressure.) Understanding the geostrophic wind (balance of pressure gradient and Coriolis forces; blows parallel to isobars) is a prelims point. The geostrophic wind blows parallel to the isobars when the pressure gradient and Coriolis forces balance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The force that acts near the Earth's surface to slow the wind and reduce its deflection (so that surface winds blow at an angle across the isobars toward the low pressure) is the:",
+    "options": [
+      "Coriolis force",
+      "Frictional force",
+      "Pressure gradient force",
+      "Magnetic force"
+    ],
+    "correct_index": 1,
+    "solution": "The frictional force (friction) is the force that acts near the Earth's surface, arising from the roughness/drag of the surface (land features, vegetation, water) on the moving air. Friction slows the wind down and, by weakening the Coriolis force (which depends on wind speed), reduces the wind's deflection — so that near the surface, winds do not blow exactly parallel to the isobars (as the geostrophic wind does aloft) but blow at an angle, crossing the isobars somewhat toward the low pressure. Friction is greatest at the surface and decreases with height, becoming negligible above about 1–3 km (the 'friction layer'). Understanding the frictional force (slows wind, reduces deflection near surface) is a prelims point. Friction slows surface winds and makes them cross the isobars toward the low pressure.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The three main forces that control the horizontal movement of winds are the pressure gradient force, the frictional force, and the:",
+    "options": [
+      "Magnetic force",
+      "Coriolis force",
+      "Nuclear force",
+      "Tidal force"
+    ],
+    "correct_index": 1,
+    "solution": "The three main forces that control the horizontal movement (direction and speed) of winds are: (1) the pressure gradient force (which starts the air moving, from high to low pressure); (2) the Coriolis force (which deflects the moving air — right in the Northern Hemisphere, left in the Southern); and (3) the frictional force (which, near the surface, slows the wind and reduces its deflection). The actual wind at any place is the net result of the balance among these three forces (with gravity acting vertically). Understanding the three controlling forces of wind (pressure gradient, Coriolis, friction) is a key prelims point. The horizontal movement of winds is controlled by the pressure gradient force, the Coriolis force, and the frictional force.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Around a low-pressure area (cyclone) in the Northern Hemisphere, the winds blow (spiral) in a __________ direction.",
+    "options": [
+      "Clockwise",
+      "Anticlockwise (counter-clockwise)",
+      "Straight outward",
+      "Vertically only"
+    ],
+    "correct_index": 1,
+    "solution": "Around a low-pressure area (a cyclone) in the Northern Hemisphere, the winds blow (circulate/spiral) inward in an anticlockwise (counter-clockwise) direction. This results from the combination of the inward-directed pressure gradient force (air moving toward the low centre) and the Coriolis deflection to the right (in the Northern Hemisphere), which together produce an anticlockwise inward spiral. (In the Southern Hemisphere, the Coriolis deflection is to the left, so winds around a low blow clockwise.) In a high-pressure area (anticyclone) in the Northern Hemisphere, the pattern is the reverse — clockwise and outward. Understanding the wind circulation around a Northern-Hemisphere low (anticlockwise) is a prelims point. Winds blow anticlockwise around a low-pressure area (cyclone) in the Northern Hemisphere.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Around a high-pressure area (anticyclone) in the Northern Hemisphere, the winds blow (spiral outward) in a __________ direction.",
+    "options": [
+      "Anticlockwise",
+      "Clockwise",
+      "Straight inward",
+      "Randomly"
+    ],
+    "correct_index": 1,
+    "solution": "Around a high-pressure area (an anticyclone) in the Northern Hemisphere, the winds blow (spiral) outward in a clockwise direction. This is because, in a high, air moves outward (away from the high-pressure centre), and the Coriolis force deflects this outward-moving air to the right (in the Northern Hemisphere), producing a clockwise outward circulation. (In the Southern Hemisphere, the circulation around a high is anticlockwise.) This is the opposite of the flow around a low (cyclone), which is anticlockwise/inward in the Northern Hemisphere. Understanding the wind circulation around a Northern-Hemisphere high (clockwise/outward) is a prelims point. Winds blow clockwise (and outward) around a high-pressure area (anticyclone) in the Northern Hemisphere.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The low-pressure belt near the equator, where the trade winds of the two hemispheres meet and where winds are generally light and variable, is called the:",
+    "options": [
+      "Horse latitudes",
+      "Equatorial low / Doldrums (Inter-Tropical Convergence Zone, ITCZ)",
+      "Polar high",
+      "Subtropical high"
+    ],
+    "correct_index": 1,
+    "solution": "The equatorial low-pressure belt — also called the Doldrums, or the Inter-Tropical Convergence Zone (ITCZ) — is the belt of low pressure near the equator (roughly between 5°N and 5°S), where the trade winds of the Northern and Southern Hemispheres meet (converge). It is a zone of intense solar heating, causing the air to expand and rise (ascending air) — which produces the low pressure and heavy convectional rainfall. Because the air here is rising vertically (rather than moving horizontally), surface winds are generally light, calm, and variable (hence 'the Doldrums'). Understanding the equatorial low/Doldrums/ITCZ is a prelims point. The equatorial low (Doldrums/ITCZ) is the low-pressure belt near the equator where the trade winds converge and air rises.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The high-pressure belts located at about 30° N and 30° S (the subtropics), a zone of descending air, calm, and dryness, are called the __________ high-pressure belts.",
+    "options": [
+      "Polar",
+      "Subtropical",
+      "Equatorial",
+      "Temperate"
+    ],
+    "correct_index": 1,
+    "solution": "The subtropical high-pressure belts are the belts of high pressure located at about 30°N and 30°S latitude (in the subtropics). They are zones of descending (subsiding) air — the air that rose at the equator and moved poleward aloft descends here, piling up and creating high pressure. This descending air is dry and warming, so these belts are associated with calm conditions, clear skies, and dryness — indeed, most of the world's great hot deserts (like the Sahara) lie under these subtropical highs. The calm zone here was historically called the 'Horse Latitudes'. The trade winds and the westerlies both originate from (blow out of) these subtropical highs. Understanding the subtropical high-pressure belts (~30°, descending dry air, deserts) is a prelims point. The subtropical high-pressure belts lie at about 30°N and 30°S, with descending dry air (deserts, calm).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The permanent planetary winds that blow from the subtropical high-pressure belts (about 30°) toward the equatorial low, deflected to blow from the north-east in the Northern Hemisphere and south-east in the Southern Hemisphere, are the:",
+    "options": [
+      "Westerlies",
+      "Trade winds",
+      "Polar easterlies",
+      "Monsoon winds"
+    ],
+    "correct_index": 1,
+    "solution": "The trade winds are the permanent planetary winds that blow from the subtropical high-pressure belts (about 30°N and 30°S) toward the equatorial low-pressure belt. Owing to the Coriolis deflection, they blow as the north-east trade winds in the Northern Hemisphere and the south-east trade winds in the Southern Hemisphere (i.e., they blow from the east, toward the west, on the whole). The trade winds are very steady and reliable in direction (which is why they were valued by sailing ships — 'trade' meaning a steady course). They converge at the equator (ITCZ). Understanding the trade winds (blow from subtropical highs to equator; NE in N, SE in S) is a key prelims point. The trade winds blow from the subtropical highs toward the equator — north-easterly in the N and south-easterly in the S.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The permanent planetary winds that blow from the subtropical high-pressure belts (about 30°) toward the sub-polar low-pressure belts (about 60°), blowing generally from the west, are the:",
+    "options": [
+      "Trade winds",
+      "Westerlies",
+      "Polar easterlies",
+      "Land breezes"
+    ],
+    "correct_index": 1,
+    "solution": "The westerlies are the permanent planetary winds that blow from the subtropical high-pressure belts (about 30°) toward the sub-polar low-pressure belts (about 60°), in both hemispheres. Because of the Coriolis deflection, they blow generally from the west (i.e., from the south-west in the Northern Hemisphere and from the north-west in the Southern Hemisphere) — hence 'westerlies'. In the Southern Hemisphere, where there is little land to obstruct them, the westerlies blow very strongly and steadily over the oceans, earning the latitudes the names 'Roaring Forties', 'Furious Fifties', and 'Screaming Sixties'. Understanding the westerlies (blow from subtropical highs to sub-polar lows; from the west) is a key prelims point. The westerlies blow from the subtropical highs toward the sub-polar lows, generally from the west.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Planetary (permanent) winds like the trade winds and westerlies, which blow throughout the year over the globe in the same broad direction, are also called:",
+    "options": [
+      "Local winds",
+      "Prevailing / permanent winds",
+      "Seasonal winds",
+      "Variable winds"
+    ],
+    "correct_index": 1,
+    "solution": "Planetary winds — such as the trade winds, the westerlies, and the polar easterlies — are also called permanent or prevailing winds, because they blow throughout the year, all over the globe, in the same general direction, driven by the permanent global pattern of pressure belts. (These contrast with: 'seasonal winds' like the monsoons, which reverse direction with the seasons; 'periodic winds' like land and sea breezes, which reverse daily; and 'local winds' like the loo, which affect small areas.) Understanding that planetary winds are the permanent/prevailing winds is a prelims point. Planetary winds (trades, westerlies, polar easterlies) are the permanent/prevailing winds that blow year-round.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Winds that reverse their direction seasonally (blowing from the sea to the land in summer and from the land to the sea in winter), most famously affecting the Indian subcontinent, are the:",
+    "options": [
+      "Trade winds",
+      "Monsoon winds",
+      "Westerlies",
+      "Polar easterlies"
+    ],
+    "correct_index": 1,
+    "solution": "The monsoon winds are seasonal winds that reverse their direction with the seasons — blowing from the sea toward the land in summer (the moist, rain-bearing summer monsoon) and from the land toward the sea in winter (the dry winter monsoon). The word 'monsoon' comes from the Arabic 'mausim', meaning season. The monsoons are best developed over the Indian subcontinent and South/Southeast Asia, where they are caused by the differential heating of land and sea (the land heats up more than the sea in summer, forming a low that draws in moist sea air; and cools more in winter, forming a high that pushes air out to sea). The summer (south-west) monsoon brings most of India's rainfall. Understanding the monsoon winds (seasonal reversal; from sea in summer, land in winter) is a key prelims point. Monsoon winds are seasonal winds that reverse direction — from sea to land in summer and land to sea in winter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A gentle wind that blows from the sea toward the land during the day (afternoon), because the land heats up faster than the sea, is called a:",
+    "options": [
+      "Land breeze",
+      "Sea breeze",
+      "Monsoon",
+      "Trade wind"
+    ],
+    "correct_index": 1,
+    "solution": "A sea breeze is a local, gentle wind that blows from the sea toward the land during the daytime (especially in the afternoon). During the day, the land heats up faster than the sea, so the air over the land becomes warm and rises, creating low pressure over the land; the cooler, higher-pressure air over the sea then flows in toward the land to replace it — this is the sea breeze. The sea breeze brings cool, moist relief to coastal areas on a hot day. (At night, the reverse happens — a land breeze.) Understanding the sea breeze (from sea to land by day) is a prelims point. A sea breeze blows from the sea to the land during the day, because the land heats up faster than the sea.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A gentle wind that blows from the land toward the sea during the night, because the land cools down faster than the sea, is called a:",
+    "options": [
+      "Sea breeze",
+      "Land breeze",
+      "Monsoon",
+      "Westerly"
+    ],
+    "correct_index": 1,
+    "solution": "A land breeze is a local, gentle wind that blows from the land toward the sea during the night. At night, the land cools down faster than the sea (loses heat more quickly), so the air over the land becomes cooler and denser (higher pressure), while the air over the relatively warmer sea rises (lower pressure); the cool air then flows from the land out toward the sea — this is the land breeze. (It is the reverse of the daytime sea breeze.) Land and sea breezes together are examples of daily (diurnal) periodic winds, caused by the differential heating of land and water. Understanding the land breeze (from land to sea by night) is a prelims point. A land breeze blows from the land to the sea at night, because the land cools down faster than the sea.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Humidity refers to the amount of __________ present in the air.",
+    "options": [
+      "Dust",
+      "Water vapour (moisture)",
+      "Carbon dioxide",
+      "Oxygen"
+    ],
+    "correct_index": 1,
+    "solution": "Humidity refers to the amount of water vapour (moisture) present in the air. Because the air always contains some water vapour (from the evaporation of water from oceans, lakes, soil, and plants), humidity is a measure of this atmospheric moisture. It can be expressed in different ways: 'absolute humidity' is the actual mass of water vapour per unit volume of air; 'relative humidity' is the percentage of moisture the air holds compared with the maximum it could hold at that temperature. Humidity is important because it is the source of clouds and precipitation and it affects how we feel (mugginess). Understanding that humidity is the water vapour in the air is a prelims point. Humidity is the amount of water vapour present in the air.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The ratio (expressed as a percentage) of the actual amount of water vapour in the air to the maximum amount it can hold at that temperature is called the __________ humidity.",
+    "options": [
+      "Absolute",
+      "Relative",
+      "Specific",
+      "Total"
+    ],
+    "correct_index": 1,
+    "solution": "Relative humidity is the ratio — expressed as a percentage — of the actual amount of water vapour present in the air to the maximum amount of water vapour the air could hold (its capacity) at that particular temperature. For example, a relative humidity of 100% means the air is saturated (holding all the moisture it can, so condensation/rain is likely), while a low relative humidity means the air is dry. Importantly, relative humidity depends on temperature: since warm air can hold more moisture than cold air, cooling the air (without changing its moisture content) raises the relative humidity (and warming it lowers the relative humidity). This is why relative humidity is usually highest in the cool early morning. Understanding relative humidity (percentage of saturation) is a key prelims point. Relative humidity is the percentage of water vapour in the air relative to the maximum it can hold at that temperature.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The temperature to which air must be cooled (at constant pressure and moisture) for it to become saturated and for condensation to begin is called the:",
+    "options": [
+      "Boiling point",
+      "Dew point",
+      "Freezing point",
+      "Lapse rate"
+    ],
+    "correct_index": 1,
+    "solution": "The dew point (dew-point temperature) is the temperature to which a parcel of air must be cooled — at constant pressure and constant moisture content — for it to become saturated (reach 100% relative humidity), so that condensation begins (water vapour starts to condense into liquid water). When air is cooled to its dew point, the excess water vapour condenses to form dew, fog, or cloud droplets. If the dew point is below 0°C (freezing), the moisture may deposit as frost. Understanding the dew point (cooling temperature at which condensation begins) is a prelims point. The dew point is the temperature to which air must be cooled to become saturated and begin condensation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The process by which water changes from liquid to vapour (adding moisture to the air) is called evaporation; the reverse process, by which water vapour changes back to liquid (forming clouds, dew, etc.), is called:",
+    "options": [
+      "Precipitation",
+      "Condensation",
+      "Transpiration",
+      "Sublimation"
+    ],
+    "correct_index": 1,
+    "solution": "Condensation is the process by which water vapour (gas) changes back into liquid water — the reverse of evaporation. It occurs when moist air is cooled to (or below) its dew point, so that the water vapour condenses into tiny water droplets. Condensation is responsible for the formation of dew, fog, mist, and clouds (and, if it occurs on tiny particles high in the air, it builds the droplets that make clouds and eventually precipitation). Condensation usually requires the presence of tiny particles (hygroscopic nuclei) on which the vapour can condense. Understanding condensation (vapour → liquid) is a prelims point. Condensation is the change of water vapour back into liquid water (forming dew, fog, clouds).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Clouds, fog, dew, and frost are all forms of __________ of atmospheric water vapour.",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Transpiration",
+      "Radiation"
+    ],
+    "correct_index": 1,
+    "solution": "Clouds, fog, mist, dew, and frost are all forms/results of condensation of atmospheric water vapour (frost involves condensation directly to ice). They form when moist air is cooled to its dew point: dew forms as water droplets on cool surfaces (like grass) on calm, clear nights; frost forms when the dew point is below freezing (condensation to ice crystals); fog and mist form when condensation occurs in the air near the ground (reducing visibility); and clouds form when condensation occurs higher up in the atmosphere (on rising, cooling air). Understanding that these are all condensation forms is a prelims point. Clouds, fog, dew, and frost are all forms of condensation of water vapour.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A cloud that forms at ground level (or very near the surface), reducing visibility, is called:",
+    "options": [
+      "Cirrus",
+      "Fog (or mist)",
+      "Cumulus",
+      "Nimbus"
+    ],
+    "correct_index": 1,
+    "solution": "Fog (and its lighter form, mist) is essentially a cloud that forms at or very near ground level, consisting of tiny water droplets suspended in the air near the surface, which reduces visibility (making it hard to see). Fog forms when the air near the ground is cooled to its dew point (for example, on a clear, calm, cold night — 'radiation fog' — or when warm moist air moves over a cold surface — 'advection fog'), causing the water vapour to condense near the surface. Dense fog can seriously disrupt road, rail, sea, and air transport. Understanding that fog is a ground-level cloud is a prelims point. Fog is a cloud that forms at ground level, reducing visibility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The high, thin, wispy, feathery clouds made of ice crystals, found at very high altitudes, are called:",
+    "options": [
+      "Cumulus",
+      "Cirrus",
+      "Stratus",
+      "Nimbus"
+    ],
+    "correct_index": 1,
+    "solution": "Cirrus clouds are the high-altitude clouds — thin, wispy, feathery, or hair-like in appearance, composed of ice crystals (because it is very cold at those heights). They form at high levels of the troposphere (typically above ~8000 m) and are usually associated with fair weather, though their appearance can also signal an approaching change in the weather. (The main cloud types by form are: cirrus — high, wispy; cumulus — heaped, cotton-like; stratus — layered, sheet-like; and nimbus — rain-bearing, dark.) Understanding cirrus clouds (high, wispy, ice-crystal clouds) is a prelims point. Cirrus are the high, thin, feathery clouds made of ice crystals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dark, thick, rain-bearing clouds (from which rain or snow falls) belong to the __________ type.",
+    "options": [
+      "Cirrus",
+      "Nimbus",
+      "Cirro-form",
+      "Fair-weather"
+    ],
+    "correct_index": 1,
+    "solution": "Nimbus clouds are the dark, thick, dense, rain-bearing clouds (the word 'nimbus' means rain/cloud), from which precipitation (rain or snow) falls. They are usually low, grey/black, and shapeless, forming a thick layer that blocks out the sunlight. Two important rain-producing cloud types combine 'nimbus' with a form: 'nimbostratus' (layered rain clouds giving steady, continuous rain) and 'cumulonimbus' (towering, heaped storm clouds giving heavy showers, thunder, and lightning). (The four basic cloud types are cirrus, cumulus, stratus, and nimbus.) Understanding that nimbus clouds are the rain-bearing clouds is a prelims point. Nimbus clouds are the dark, rain-bearing clouds from which rain or snow falls.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The heaped, cauliflower- or cotton-like clouds with a flat base and rounded top, associated with fair weather (but which can grow into thunderstorm clouds), are called:",
+    "options": [
+      "Stratus",
+      "Cumulus",
+      "Cirrus",
+      "Nimbostratus"
+    ],
+    "correct_index": 1,
+    "solution": "Cumulus clouds are the heaped, puffy, cauliflower- or cotton-wool-like clouds, typically with a flat base and a rounded, billowing top. They form by convection (rising warm air) and are usually associated with fair weather (fine, sunny days). However, if they continue to grow vertically into large, towering clouds, they can develop into cumulonimbus clouds — the tall storm clouds that produce heavy showers, thunder, and lightning. (The main cloud forms are cirrus, cumulus, stratus, and nimbus.) Understanding cumulus clouds (heaped, cotton-like, fair-weather clouds) is a prelims point. Cumulus are the heaped, cotton-like fair-weather clouds that can grow into storm clouds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The layered, sheet-like clouds that spread out in a uniform grey layer across the sky (often bringing dull, overcast weather) are called:",
+    "options": [
+      "Cumulus",
+      "Stratus",
+      "Cirrus",
+      "Cumulonimbus"
+    ],
+    "correct_index": 1,
+    "solution": "Stratus clouds are the layered, sheet-like clouds that spread out in a uniform, featureless grey layer across the sky, often covering it completely and giving dull, overcast, gloomy weather (they form at low levels). 'Stratus' means layer/spread out. When thick and rain-bearing, they become nimbostratus (giving steady drizzle or rain). Stratus clouds are one of the four basic cloud forms (cirrus, cumulus, stratus, nimbus). Understanding stratus clouds (layered, sheet-like, overcast clouds) is a prelims point. Stratus are the layered, sheet-like clouds that give a uniform grey, overcast sky.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Any form of water — liquid or solid — that falls from clouds and reaches the Earth's surface (such as rain, snow, hail, sleet) is collectively called:",
+    "options": [
+      "Evaporation",
+      "Precipitation",
+      "Condensation",
+      "Humidity"
+    ],
+    "correct_index": 1,
+    "solution": "Precipitation is the collective term for any form of water — whether liquid or solid — that falls from the clouds and reaches the Earth's surface. It includes rain (liquid water drops), snow (ice crystals/flakes), hail (lumps/pellets of ice), sleet (a mixture of rain and snow, or partly frozen rain), and drizzle (fine rain). Precipitation occurs when the tiny condensed droplets (or ice crystals) in a cloud grow large and heavy enough to fall to the ground under gravity. Precipitation is the key process by which atmospheric water returns to the surface in the water cycle. Understanding precipitation (all forms of water falling from clouds) is a prelims point. Precipitation is any form of water (rain, snow, hail, sleet) that falls from clouds to the Earth's surface.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Rainfall caused when warm, moist air is forced to rise over a mountain barrier, cooling and condensing on the windward side, is called __________ rainfall.",
+    "options": [
+      "Convectional",
+      "Orographic (relief)",
+      "Cyclonic (frontal)",
+      "Acid"
+    ],
+    "correct_index": 1,
+    "solution": "Orographic rainfall (also called relief rainfall) is the rainfall caused when warm, moist air is forced to rise over a mountain barrier or highland ('oro' = mountain): as the air rises up the windward slope, it cools, its moisture condenses, and it produces heavy rainfall on the windward side. Having lost its moisture, the air then descends the leeward side, warming and drying — so the leeward side gets little rain, forming a dry 'rain shadow' area. (For example, the Western Ghats force the south-west monsoon to rise and give heavy rain on their windward western side, while the leeward Deccan interior is drier.) Understanding orographic/relief rainfall (rain forced by mountains; rain shadow on the lee) is a key prelims point. Orographic rainfall occurs when moist air is forced to rise over mountains, giving heavy rain on the windward side and a dry rain shadow on the leeward side.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dry region on the leeward side of a mountain range (which receives little rainfall because the descending air is warm and dry) is called the:",
+    "options": [
+      "Rain forest",
+      "Rain shadow area",
+      "Delta",
+      "Oasis"
+    ],
+    "correct_index": 1,
+    "solution": "The rain shadow area is the dry region on the leeward side (the sheltered side, away from the wind) of a mountain range, which receives little rainfall. It forms because, in orographic rainfall, the moist air is forced up the windward side and drops most of its moisture there (heavy rain); by the time the air crosses the crest and descends the leeward side, it is dry, and as it descends it warms up (further reducing condensation) — so the leeward side lies in the 'shadow' of the rain, remaining dry. (For example, in India, the region east of the Western Ghats, and places like the Deccan interior, lie in rain shadow.) Understanding the rain shadow (dry leeward side of mountains) is a prelims point. The rain shadow area is the dry leeward side of a mountain, where descending air brings little rain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rainfall caused by the strong heating of the ground, which makes moist air rise rapidly (convection), cool, and form towering clouds that give heavy showers (often in the afternoon, in the tropics) is called __________ rainfall.",
+    "options": [
+      "Orographic",
+      "Convectional",
+      "Cyclonic",
+      "Frontal"
+    ],
+    "correct_index": 1,
+    "solution": "Convectional rainfall is the rainfall produced by convection: when the ground is strongly heated (as in the hot, humid tropics, or on hot summer afternoons), the air near the surface becomes warm, expands, and rises rapidly; as this rising air cools, its moisture condenses to form tall cumulonimbus clouds, which then give heavy, often short-lived showers, frequently accompanied by thunder and lightning. Convectional rainfall typically occurs in the afternoon (after the day's heating) and is characteristic of equatorial/tropical regions. Understanding convectional rainfall (from strong heating and rising air; afternoon thunderstorms) is a prelims point. Convectional rainfall results from strong surface heating that lifts moist air, forming towering clouds and heavy afternoon showers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rainfall associated with the meeting of two contrasting (warm and cold) air masses along a front (as in temperate cyclones/depressions) is called cyclonic or __________ rainfall.",
+    "options": [
+      "Orographic",
+      "Frontal",
+      "Convectional",
+      "Relief"
+    ],
+    "correct_index": 1,
+    "solution": "Cyclonic rainfall (also called frontal rainfall) is the rainfall associated with the meeting of two contrasting air masses — a warm air mass and a cold air mass — along a boundary called a 'front', as happens in temperate cyclones (mid-latitude depressions). When the warm, lighter, moist air is forced to rise over (or is undercut by) the cold, denser air along the front, it cools and its moisture condenses, producing rainfall along the front. This is the characteristic rainfall of the temperate (extra-tropical) regions dominated by the westerlies and their travelling depressions. Understanding cyclonic/frontal rainfall (warm and cold air masses meeting at a front) is a prelims point. Cyclonic (frontal) rainfall occurs where warm and cold air masses meet along a front and the warm air is forced to rise.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The boundary or transition zone that separates two air masses of different temperature and density (in a temperate cyclone) is called a:",
+    "options": [
+      "Isobar",
+      "Front",
+      "Ridge",
+      "Trough"
+    ],
+    "correct_index": 1,
+    "solution": "A front is the boundary, or narrow transition zone, that separates two air masses of different characteristics — chiefly different temperature (and density and humidity) — such as a warm air mass and a cold air mass. Fronts are important features of temperate (mid-latitude) cyclones/depressions, where warm and cold air masses meet: a 'warm front' is where advancing warm air rises over retreating cold air (giving gentle, widespread rain), and a 'cold front' is where advancing cold air undercuts and lifts warm air (giving heavier, showery rain). The process of front formation is called 'frontogenesis'. Understanding the front (boundary between two air masses) is a prelims point. A front is the boundary separating two air masses of different temperature and density.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The violent tropical storms that form over warm tropical oceans, with very low pressure at the centre and extremely strong winds and heavy rain — known as 'cyclones' in the Indian Ocean, 'hurricanes' in the Atlantic, and 'typhoons' in the western Pacific — are examples of:",
+    "options": [
+      "Temperate cyclones",
+      "Tropical cyclones",
+      "Anticyclones",
+      "Tornadoes"
+    ],
+    "correct_index": 1,
+    "solution": "Tropical cyclones are the violent, intense storms that form over the warm tropical oceans (where the sea-surface temperature is high, providing energy through evaporation and latent heat). They have a very low pressure at the centre, extremely strong whirling winds spiralling around the centre, and torrential rain. They are called by different names in different regions: 'cyclones' in the Indian Ocean (and around India), 'hurricanes' in the Atlantic and eastern Pacific (Caribbean/USA), 'typhoons' in the western Pacific (East/Southeast Asia), and 'willy-willies' in the Australian region. Tropical cyclones can cause enormous destruction on coasts (through winds, heavy rain, floods, and storm surges). Understanding tropical cyclones (and their regional names) is a key prelims point. Tropical cyclones are violent storms of the warm tropical oceans, called cyclones, hurricanes, or typhoons in different regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The calm, clear, low-pressure centre of a tropical cyclone, around which the strongest winds and heaviest rain occur, is called the:",
+    "options": [
+      "Front",
+      "Eye of the cyclone",
+      "Trough",
+      "Ridge"
+    ],
+    "correct_index": 1,
+    "solution": "The eye of the cyclone is the calm, clear, low-pressure region at the very centre of a tropical cyclone. Within the eye, the weather is strangely calm — winds are light and the sky may even be clear (air is gently descending) — even though it is surrounded by the most violent part of the storm. Immediately around the eye is the 'eye wall', where the strongest winds and the heaviest, most torrential rain occur (air rising most vigorously). So the cyclone has a calm eye at the centre, ringed by the destructive eye wall. Understanding the eye of the cyclone (calm low-pressure centre) is a prelims point. The eye is the calm, clear, low-pressure centre of a tropical cyclone, surrounded by the violent eye wall.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tropical cyclones generally do NOT form very close to the equator (within about 5° of it) because:",
+    "options": [
+      "The ocean is too cold there",
+      "The Coriolis force is nil (zero) at the equator, so there is nothing to give the storm its rotating/spiralling motion",
+      "There is too much land at the equator",
+      "The air is too dry"
+    ],
+    "correct_index": 1,
+    "solution": "Tropical cyclones generally do not form very close to the equator (within about 5° north or south) because the Coriolis force is zero at the equator (and negligible very close to it). The Coriolis force is what gives a tropical cyclone its characteristic spiralling, rotating motion (the whirling of winds around the low-pressure centre); without it (right at the equator), the converging air cannot start rotating, so a cyclone cannot organise and form. A few degrees away from the equator, where some Coriolis force exists, cyclones can and do form (given the other conditions: warm ocean water, moisture, etc.). Understanding why cyclones avoid the equator (no Coriolis force there) is an important prelims point. Tropical cyclones do not form at the equator because the Coriolis force there is zero, so the storm cannot acquire its spin.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a necessary condition for the formation of a tropical cyclone?",
+    "options": [
+      "Cold, dry air over land",
+      "A large, warm ocean surface (sea temperature above ~27°C) providing plenty of moisture and heat",
+      "High latitudes near the poles",
+      "A stable, descending air mass"
+    ],
+    "correct_index": 1,
+    "solution": "A necessary condition for the formation of a tropical cyclone is a large expanse of warm ocean water — with a sea-surface temperature above about 27°C — which provides the plentiful moisture (through evaporation) and heat energy (latent heat, released when the water vapour condenses) that fuel the storm. Other favourable conditions include: abundant moisture and unstable, rising air; the presence of some Coriolis force (so, a few degrees away from the equator, not right on it); and low wind shear (little change of wind with height). This is why tropical cyclones form over warm tropical seas in the warm season, and why they weaken and die out once they move over land or cooler waters (losing their moisture/heat source). Understanding the warm-ocean requirement for cyclone formation is a prelims point. A tropical cyclone needs a warm ocean surface (above ~27°C) to supply the moisture and heat that power it.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In an anticyclone (high-pressure system), the weather is usually:",
+    "options": [
+      "Stormy with heavy rain",
+      "Calm, clear, and dry (fine weather), because the air is descending",
+      "Cloudy and wet",
+      "Extremely windy"
+    ],
+    "correct_index": 1,
+    "solution": "In an anticyclone (a high-pressure system), the weather is usually calm, clear, and dry — that is, fine, settled weather. This is because, in a high, the air is descending (subsiding) from above and diverging outward at the surface. As the air descends, it warms and its relative humidity falls, which discourages cloud formation and precipitation — so anticyclones bring clear skies and dry, stable conditions (though in winter they can bring cold, frost, and fog under clear calm nights). This is the opposite of a cyclone/depression (low pressure), where rising air brings clouds, unsettled weather, and rain. Understanding that anticyclones bring fine, dry weather (descending air) is a prelims point. In an anticyclone (high pressure), descending air brings calm, clear, dry, fine weather.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the Southern Hemisphere, the powerful, steady westerly winds blowing over the vast southern oceans (with little land to obstruct them) have earned the latitudes around 40°S the nickname:",
+    "options": [
+      "The Doldrums",
+      "The Roaring Forties",
+      "The Horse Latitudes",
+      "The Trade Belt"
+    ],
+    "correct_index": 1,
+    "solution": "In the Southern Hemisphere, the westerlies blow with great strength, steadiness, and force over the vast, open southern oceans (which have very little land to obstruct or slow them down). This has earned the stormy latitudes their vivid nicknames: the 'Roaring Forties' (around 40°S), the 'Furious Fifties' (around 50°S), and the 'Screaming Sixties' (around 60°S). These names, given by sailors, reflect the persistent gales and rough seas of these belts. (By contrast, the westerlies in the Northern Hemisphere are more interrupted by the large landmasses.) Understanding the 'Roaring Forties' (strong Southern-Hemisphere westerlies) is a prelims point. The strong Southern-Hemisphere westerlies around 40°S are nicknamed the 'Roaring Forties'.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Around a low-pressure area in the Northern Hemisphere, winds blow anticlockwise. Reason (R): The Coriolis force deflects the inward-moving winds to their right in the Northern Hemisphere. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that around a low-pressure area (cyclone) in the Northern Hemisphere, winds blow (spiral) anticlockwise. And the reason is (R) that as air moves inward toward the low-pressure centre (driven by the pressure gradient force), the Coriolis force deflects this moving air to its right (in the Northern Hemisphere); this rightward deflection of the inward-moving air produces exactly the anticlockwise inward spiral. So R is the correct explanation of A. (In the Southern Hemisphere, the deflection is to the left, giving a clockwise circulation around a low.) Understanding this cause-effect (Coriolis → anticlockwise low in the N) is a prelims point. Winds blow anticlockwise around a Northern-Hemisphere low because the Coriolis force deflects the inflowing air to the right.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The high-pressure belts located at the poles (about 90° N and 90° S), formed because the intensely cold, dense air sinks there, are called the:",
+    "options": [
+      "Equatorial lows",
+      "Polar high-pressure belts",
+      "Subtropical highs",
+      "Sub-polar lows"
+    ],
+    "correct_index": 1,
+    "solution": "The polar high-pressure belts are the belts of high pressure located at (and around) the poles — about 90°N and 90°S. They form because the air over the poles is intensely cold, and therefore very dense and heavy, so it sinks/subsides, producing high pressure at the surface. From these polar highs, cold winds — the 'polar easterlies' — blow outward toward the sub-polar low-pressure belts (about 60°). (The four main global pressure belts are: the equatorial low, the subtropical highs (~30°), the sub-polar lows (~60°), and the polar highs (~90°).) Understanding the polar high-pressure belts (cold, dense, sinking air at the poles) is a prelims point. The polar high-pressure belts form at the poles because the intensely cold, dense air sinks there.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sub-polar low-pressure belts are located at about __________ latitude in each hemisphere.",
+    "options": [
+      "0° (the equator)",
+      "60° N and 60° S",
+      "30° N and 30° S",
+      "90° (the poles)"
+    ],
+    "correct_index": 1,
+    "solution": "The sub-polar low-pressure belts are located at about 60°N and 60°S latitude. Here, the cold polar easterlies (from the polar highs) and the warmer westerlies (from the subtropical highs) meet/converge; the lighter, warmer westerly air is forced to rise over the colder polar air, and this rising/convergence produces the low pressure (this is also the belt of the temperate cyclones/fronts). (The full sequence of global pressure belts from equator to pole is: equatorial low (0°) → subtropical high (30°) → sub-polar low (60°) → polar high (90°).) Understanding the sub-polar low-pressure belts (~60°) is a prelims point. The sub-polar low-pressure belts lie at about 60°N and 60°S, where the westerlies and polar easterlies meet.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The cold winds that blow from the polar high-pressure areas toward the sub-polar low-pressure belts are called the:",
+    "options": [
+      "Trade winds",
+      "Polar easterlies",
+      "Westerlies",
+      "Sea breezes"
+    ],
+    "correct_index": 1,
+    "solution": "The polar easterlies are the cold planetary winds that blow from the polar high-pressure areas (at the poles, ~90°) toward the sub-polar low-pressure belts (~60°). Because of the Coriolis deflection, they blow from the east (hence 'easterlies') — as north-easterlies in the Northern Hemisphere and south-easterlies in the Southern. Being polar in origin, they are very cold and dry. At the sub-polar lows, the cold polar easterlies meet the warmer westerlies, forming the 'polar front' (a zone of temperate cyclone development). (The three planetary wind belts in each hemisphere are: the trade winds, the westerlies, and the polar easterlies.) Understanding the polar easterlies (cold winds from the poles toward ~60°) is a prelims point. The polar easterlies are cold winds blowing from the polar highs toward the sub-polar lows.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Where isobars on a weather map are very closely spaced (packed together), the wind is generally:",
+    "options": [
+      "Very weak or calm",
+      "Strong (fast), because the pressure gradient is steep",
+      "Reversed in direction",
+      "Absent"
+    ],
+    "correct_index": 1,
+    "solution": "Where isobars on a weather map are very closely spaced (packed close together), the wind is generally strong (fast). This is because closely-spaced isobars indicate a steep pressure gradient — pressure changes rapidly over a short distance — which means a strong pressure gradient force driving the air, and hence high wind speeds. Conversely, where isobars are widely spaced (far apart), the pressure gradient is gentle, the pressure gradient force is weak, and winds are light or calm. So the spacing of isobars directly indicates wind strength: close = strong winds, wide = light winds. Understanding this relationship (close isobars → strong winds) is a prelims point. Closely-spaced isobars mean a steep pressure gradient and therefore strong winds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Atmospheric pressure __________ with increasing altitude.",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Stays constant",
+      "Doubles"
+    ],
+    "correct_index": 0,
+    "solution": "Atmospheric pressure decreases with increasing altitude, because there is less air (and hence less weight of air) above a place as one goes higher.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lines drawn on a map joining places that have the same atmospheric pressure are called:",
+    "options": [
+      "Isobars",
+      "Isotherms",
+      "Contours",
+      "Isohyets"
+    ],
+    "correct_index": 0,
+    "solution": "Isobars are lines on a map connecting places that have the same atmospheric pressure (reduced to sea level), used to study the distribution of pressure and to predict winds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The apparent deflecting force caused by the Earth's rotation, which deflects winds, is called the:",
+    "options": [
+      "Coriolis force",
+      "Pressure gradient force",
+      "Frictional force",
+      "Gravity"
+    ],
+    "correct_index": 0,
+    "solution": "The Coriolis force is the apparent deflecting force resulting from the Earth's rotation; it deflects moving air (and water) to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Coriolis force deflects winds to the __________ in the Northern Hemisphere.",
+    "options": [
+      "Right",
+      "Left",
+      "Downward",
+      "Upward"
+    ],
+    "correct_index": 0,
+    "solution": "In the Northern Hemisphere, the Coriolis force deflects moving air to the right of its direction of motion; in the Southern Hemisphere, it deflects it to the left.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The force that drives the wind, arising from the difference in pressure between two areas, is the:",
+    "options": [
+      "Pressure gradient force",
+      "Coriolis force",
+      "Frictional force",
+      "Gravitational force"
+    ],
+    "correct_index": 0,
+    "solution": "The pressure gradient force is the force arising from the difference in atmospheric pressure between two places; it drives air from high-pressure to low-pressure areas, causing wind.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Where isobars on a weather map are very closely spaced, it indicates:",
+    "options": [
+      "A steep pressure gradient and strong winds",
+      "Calm conditions",
+      "Low wind speed",
+      "No pressure difference"
+    ],
+    "correct_index": 0,
+    "solution": "Closely spaced isobars indicate a steep pressure gradient (a large pressure difference over a short distance), which produces strong winds; widely spaced isobars indicate light winds.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The low-pressure belt near the equator, where the trade winds meet and rise, is called the:",
+    "options": [
+      "Equatorial low (doldrums / ITCZ)",
+      "Subtropical high",
+      "Polar high",
+      "Subpolar low"
+    ],
+    "correct_index": 0,
+    "solution": "The equatorial low-pressure belt (the doldrums, or Inter-Tropical Convergence Zone) lies near the equator, where intense heating causes air to rise, forming a belt of low pressure and calm.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The high-pressure belts located at about 30 degrees N and 30 degrees S are called the:",
+    "options": [
+      "Subtropical highs (horse latitudes)",
+      "Equatorial lows",
+      "Polar highs",
+      "Subpolar lows"
+    ],
+    "correct_index": 0,
+    "solution": "The subtropical high-pressure belts (also called the horse latitudes) are located at about 30 degrees N and S, where descending air creates high pressure and calm, dry conditions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The permanent planetary winds that blow from the subtropical highs towards the equatorial low are the:",
+    "options": [
+      "Trade winds",
+      "Westerlies",
+      "Polar easterlies",
+      "Monsoons"
+    ],
+    "correct_index": 0,
+    "solution": "The trade winds are permanent planetary winds that blow from the subtropical high-pressure belts towards the equatorial low; they blow from the north-east in the Northern Hemisphere and south-east in the Southern Hemisphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The permanent planetary winds that blow from the subtropical highs towards the subpolar lows are the:",
+    "options": [
+      "Westerlies",
+      "Trade winds",
+      "Polar easterlies",
+      "Monsoons"
+    ],
+    "correct_index": 0,
+    "solution": "The westerlies are planetary winds that blow from the subtropical high-pressure belts towards the subpolar low-pressure belts, from the south-west in the Northern Hemisphere and north-west in the Southern Hemisphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Winds that reverse their direction seasonally (blowing from sea to land in summer and land to sea in winter) are called:",
+    "options": [
+      "Monsoon winds",
+      "Trade winds",
+      "Westerlies",
+      "Polar winds"
+    ],
+    "correct_index": 0,
+    "solution": "Monsoon winds are seasonal winds that reverse their direction between summer and winter; in India, they blow from the sea to the land in summer (bringing rain) and from land to sea in winter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A gentle wind that blows from the sea toward the land during the day is called a:",
+    "options": [
+      "Sea breeze",
+      "Land breeze",
+      "Trade wind",
+      "Monsoon"
+    ],
+    "correct_index": 0,
+    "solution": "A sea breeze blows from the (cooler) sea towards the (warmer) land during the day, because the land heats up faster than the sea, creating lower pressure over the land.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A gentle wind that blows from the land toward the sea at night is called a:",
+    "options": [
+      "Land breeze",
+      "Sea breeze",
+      "Westerly",
+      "Monsoon"
+    ],
+    "correct_index": 0,
+    "solution": "A land breeze blows from the (cooler) land towards the (warmer) sea at night, because the land cools faster than the sea, creating higher pressure over the land.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ratio (as a percentage) of the actual amount of water vapour in the air to the maximum it can hold at that temperature is called:",
+    "options": [
+      "Relative humidity",
+      "Absolute humidity",
+      "Dew point",
+      "Precipitation"
+    ],
+    "correct_index": 0,
+    "solution": "Relative humidity is the ratio, expressed as a percentage, of the actual amount of water vapour in the air to the maximum amount the air could hold at that temperature; it indicates how near the air is to saturation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The temperature to which air must be cooled (at constant pressure) to become saturated and begin condensation is called the:",
+    "options": [
+      "Dew point",
+      "Boiling point",
+      "Lapse rate",
+      "Freezing point"
+    ],
+    "correct_index": 0,
+    "solution": "The dew point is the temperature to which air must be cooled, at constant pressure and moisture content, for it to become saturated so that condensation (dew, fog, cloud) begins.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The high, thin, wispy, feathery clouds made of ice crystals are called:",
+    "options": [
+      "Cirrus",
+      "Cumulus",
+      "Stratus",
+      "Nimbus"
+    ],
+    "correct_index": 0,
+    "solution": "Cirrus clouds are high-altitude, thin, wispy, feathery clouds made of ice crystals, often indicating fair weather or an approaching change.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The heaped, cauliflower- or cotton-like clouds with a flat base are called:",
+    "options": [
+      "Cumulus",
+      "Cirrus",
+      "Stratus",
+      "Nimbostratus"
+    ],
+    "correct_index": 0,
+    "solution": "Cumulus clouds are heaped, cotton-wool or cauliflower-shaped clouds with a flat base, usually indicating fair weather, though they can grow into rain clouds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The layered, sheet-like clouds that spread out in a uniform grey layer are called:",
+    "options": [
+      "Stratus",
+      "Cumulus",
+      "Cirrus",
+      "Cumulonimbus"
+    ],
+    "correct_index": 0,
+    "solution": "Stratus clouds are low, layered, sheet-like clouds that spread out in a uniform grey layer, often covering the whole sky and sometimes bringing drizzle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rainfall caused when warm, moist air is forced to rise over a mountain barrier is called:",
+    "options": [
+      "Orographic (relief) rainfall",
+      "Convectional rainfall",
+      "Cyclonic (frontal) rainfall",
+      "Snow"
+    ],
+    "correct_index": 0,
+    "solution": "Orographic (relief) rainfall occurs when moist air is forced to rise over a mountain barrier, cooling and condensing to produce rain on the windward side.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dry region on the leeward side of a mountain range, which receives little rainfall, is called the:",
+    "options": [
+      "Rain shadow area",
+      "Windward side",
+      "Rift valley",
+      "Delta"
+    ],
+    "correct_index": 0,
+    "solution": "The rain shadow area is the dry region on the leeward (sheltered) side of a mountain range; the air, having lost its moisture on the windward side, descends and warms, giving little rain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rainfall caused by the strong heating of the ground, which makes moist air rise, cool and condense, is called:",
+    "options": [
+      "Convectional rainfall",
+      "Orographic rainfall",
+      "Frontal rainfall",
+      "Snowfall"
+    ],
+    "correct_index": 0,
+    "solution": "Convectional rainfall occurs when the ground is strongly heated, causing moist air to rise rapidly, cool and condense, producing heavy rain, often with thunderstorms, common in equatorial regions and on summer afternoons.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rainfall associated with the meeting of two contrasting air masses (warm and cold) is called:",
+    "options": [
+      "Cyclonic (frontal) rainfall",
+      "Orographic rainfall",
+      "Convectional rainfall",
+      "Relief rainfall"
+    ],
+    "correct_index": 0,
+    "solution": "Cyclonic or frontal rainfall occurs where two air masses of different temperature and humidity meet (at a front); the warm air is forced to rise over the cold air, cooling and producing rain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The boundary or transition zone that separates two air masses of different temperature and humidity is called a:",
+    "options": [
+      "Front",
+      "Isobar",
+      "Ridge",
+      "Trough"
+    ],
+    "correct_index": 0,
+    "solution": "A front is the boundary or transition zone between two air masses that differ in temperature and moisture; the interaction along fronts causes much of the weather in the mid-latitudes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The violent tropical storms that form over warm tropical oceans, with strong winds and heavy rain, are called:",
+    "options": [
+      "Tropical cyclones (hurricanes/typhoons)",
+      "Anticyclones",
+      "Land breezes",
+      "Sea breezes"
+    ],
+    "correct_index": 0,
+    "solution": "Tropical cyclones (called hurricanes in the Atlantic and typhoons in the Pacific) are violent storms that form over warm tropical oceans, characterised by very low pressure, strong winds and torrential rain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The calm, clear, low-pressure centre of a tropical cyclone is called the:",
+    "options": [
+      "Eye",
+      "Front",
+      "Trough",
+      "Ridge"
+    ],
+    "correct_index": 0,
+    "solution": "The 'eye' of a tropical cyclone is the calm, clear, low-pressure region at its centre, around which the strongest winds and heaviest rain (the eye wall) occur.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Winds blow anticlockwise around a low-pressure area (cyclone) in the Northern Hemisphere. Reason (R): The Coriolis force deflects the inward-blowing winds to the right.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "In the Northern Hemisphere, winds spiral inward and anticlockwise around a low-pressure centre because the Coriolis force deflects the inward-moving air to the right — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Tropical cyclones do not form very close to the equator. Reason (R): The Coriolis force is negligible at the equator, and it is needed to give the storm its spin.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Tropical cyclones do not usually form very close to the equator because the Coriolis force is almost zero there, and this force is necessary to impart the rotational spin to the storm — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Around a high-pressure area (anticyclone) in the Northern Hemisphere, winds blow:",
+    "options": [
+      "Clockwise and outward",
+      "Anticlockwise and inward",
+      "Straight up",
+      "Randomly"
+    ],
+    "correct_index": 0,
+    "solution": "Around a high-pressure area (anticyclone) in the Northern Hemisphere, winds blow outward and clockwise (deflected right by the Coriolis force); anticyclones are associated with calm, clear, settled weather.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the rainfall type with its cause: (i) Orographic (ii) Convectional (iii) Cyclonic — (a) heating and rising air (b) mountain barrier (c) meeting of air masses:",
+    "options": [
+      "(i)-b, (ii)-a, (iii)-c",
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-b, (ii)-c, (iii)-a"
+    ],
+    "correct_index": 0,
+    "solution": "Orographic rainfall is caused by a mountain barrier, convectional rainfall by heating and rising air, and cyclonic (frontal) rainfall by the meeting of contrasting air masses.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In an anticyclone (high-pressure system), the weather is generally:",
+    "options": [
+      "Calm, clear and settled",
+      "Stormy and rainy",
+      "Windy and cloudy",
+      "Foggy always"
+    ],
+    "correct_index": 0,
+    "solution": "In an anticyclone, air descends and diverges, so the weather is generally calm, clear, dry and settled, with light winds, unlike the unsettled, stormy weather of a cyclone (low pressure).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three main forces that control the horizontal movement of wind are the pressure gradient force, the Coriolis force, and the:",
+    "options": [
+      "Frictional force",
+      "Magnetic force",
+      "Nuclear force",
+      "Tidal force"
+    ],
+    "correct_index": 0,
+    "solution": "The horizontal movement of wind is controlled mainly by the pressure gradient force (which drives the wind), the Coriolis force (which deflects it), and the frictional force (which slows it near the surface).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The frictional force acts on winds near the surface to:",
+    "options": [
+      "Slow them down and reduce the effect of the Coriolis force",
+      "Speed them up",
+      "Reverse them",
+      "Have no effect"
+    ],
+    "correct_index": 0,
+    "solution": "The frictional force acts near the Earth's surface, slowing down the wind and reducing the effect of the Coriolis force; friction is greatest near the ground and negligible higher up.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Clouds, fog, dew and frost are all forms of:",
+    "options": [
+      "Condensation of water vapour",
+      "Evaporation",
+      "Wind",
+      "Pressure"
+    ],
+    "correct_index": 0,
+    "solution": "Clouds, fog, dew and frost are all forms of condensation — the process by which water vapour in the air changes into liquid (or solid) form when the air is cooled to saturation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A cloud that forms at or very near ground level, reducing visibility, is called:",
+    "options": [
+      "Fog",
+      "Cirrus",
+      "Cumulus",
+      "Stratus"
+    ],
+    "correct_index": 0,
+    "solution": "Fog is essentially a cloud that forms at or very near the ground when the air near the surface is cooled to its dew point, causing water vapour to condense and reducing visibility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The process by which water changes from liquid to vapour is called:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Sublimation"
+    ],
+    "correct_index": 0,
+    "solution": "Evaporation is the process by which water changes from the liquid state to water vapour (gas), an important part of the water cycle driven by the Sun's heat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Any form of water (liquid or solid) that falls from clouds to the ground is called:",
+    "options": [
+      "Precipitation",
+      "Humidity",
+      "Evaporation",
+      "Condensation"
+    ],
+    "correct_index": 0,
+    "solution": "Precipitation is any form of water — rain, snow, sleet, hail — that falls from the clouds to the Earth's surface as part of the water cycle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dark, thick, rain-bearing clouds from which rain, snow or hail falls are called:",
+    "options": [
+      "Nimbus (nimbostratus/cumulonimbus)",
+      "Cirrus",
+      "Fair-weather cumulus",
+      "Cirrostratus"
+    ],
+    "correct_index": 0,
+    "solution": "Nimbus clouds (such as nimbostratus and cumulonimbus) are dark, thick, dense clouds that bring precipitation — rain, snow or hail; cumulonimbus clouds cause thunderstorms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The powerful, steady westerly winds of the Southern Hemisphere mid-latitudes, blowing over open ocean, are called the:",
+    "options": [
+      "Roaring Forties",
+      "Trade winds",
+      "Doldrums",
+      "Polar easterlies"
+    ],
+    "correct_index": 0,
+    "solution": "The strong, steady westerlies of the Southern Hemisphere mid-latitudes are called the 'Roaring Forties' (and Furious Fifties, Shrieking Sixties), blowing powerfully over the open southern oceans with little land to slow them.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The cold winds that blow from the polar high-pressure areas towards the subpolar lows are the:",
+    "options": [
+      "Polar easterlies",
+      "Trade winds",
+      "Westerlies",
+      "Monsoons"
+    ],
+    "correct_index": 0,
+    "solution": "The polar easterlies are cold, dry winds that blow from the polar high-pressure areas towards the subpolar low-pressure belts, from the east.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Wind is essentially the movement of air from an area of __________ pressure to an area of __________ pressure.",
+    "options": [
+      "High; low",
+      "Low; high",
+      "High; high",
+      "Low; low"
+    ],
+    "correct_index": 0,
+    "solution": "Wind is the horizontal movement of air from an area of high pressure to an area of low pressure, driven by the pressure gradient force, and then deflected by the Coriolis force and slowed by friction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The atmospheric pressure at a place is essentially the:",
+    "options": [
+      "Weight of the column of air above a unit area",
+      "Temperature of the air",
+      "Amount of rainfall",
+      "Wind speed"
+    ],
+    "correct_index": 0,
+    "solution": "Atmospheric pressure is the weight (force per unit area) of the column of air above a given point on the Earth's surface; it decreases with altitude as there is less air above.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A necessary condition for the formation of a tropical cyclone is:",
+    "options": [
+      "Warm ocean water (above about 27 C) providing moisture and heat",
+      "Cold ocean water",
+      "Dry land",
+      "High latitude"
+    ],
+    "correct_index": 0,
+    "solution": "Tropical cyclones require warm ocean surface water (usually above about 26-27 C) to supply the heat and moisture that fuel the storm, along with sufficient Coriolis force and low wind shear.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Planetary (permanent) winds like the trade winds and westerlies blow:",
+    "options": [
+      "Throughout the year in the same general direction",
+      "Only in summer",
+      "Only at night",
+      "In random directions"
+    ],
+    "correct_index": 0,
+    "solution": "Planetary or permanent winds (such as the trade winds, westerlies and polar easterlies) blow throughout the year in the same general direction, driven by the global pattern of pressure belts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Atmospheric Circulation and Weather Systems' is that:",
+    "options": [
+      "Differences in pressure drive winds and, along with moisture, create the world's weather systems",
+      "The atmosphere is still",
+      "Winds have no pattern",
+      "Weather cannot be studied"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter concludes that differences in atmospheric pressure (caused by uneven heating) drive the winds, which, together with the movement of moisture and air masses, produce the global circulation and the various weather systems — cyclones, anticyclones, fronts and precipitation.",
+    "difficulty": "medium"
+  }
 ]
