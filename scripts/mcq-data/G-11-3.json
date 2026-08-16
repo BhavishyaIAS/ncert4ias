@@ -1,52 +1,962 @@
 [
-  { "stem": "The three main concentric layers of the Earth's interior, from the surface inward, are the:", "options": ["Core, mantle, crust", "Crust, mantle, and core", "Mantle, crust, core", "Crust, core, mantle"], "correct_index": 1, "solution": "The Earth's interior is made up of three main concentric layers, which are, from the surface (outside) inward: the crust (the thin, solid, outermost layer), the mantle (the thick middle layer), and the core (the central part). This layered structure (crust, mantle, core) is the basic structure of the Earth's interior.", "difficulty": "easy" },
-  { "stem": "The outermost, thin, solid layer of the Earth, on which we live, is the:", "options": ["Mantle", "Crust", "Core", "Mesosphere"], "correct_index": 1, "solution": "The crust is the outermost, thin, solid layer of the Earth — the layer on which we live, and which forms the continents and the ocean floors. The crust is the thinnest of the Earth's layers (thin compared to the mantle and core), and it is solid rock. The continental crust (under the continents) is thicker (average ~30 km, up to ~70 km under mountains) and less dense, while the oceanic crust (under the oceans) is thinner (~5 km) and denser.", "difficulty": "easy" },
-  { "stem": "The continental crust is largely composed of lighter rocks rich in silica and aluminium, and is often referred to as:", "options": ["SIMA", "SIAL", "NIFE", "Basalt"], "correct_index": 1, "solution": "The continental crust is largely composed of lighter rocks (like granite) that are rich in silica (Si) and aluminium (Al), and it is therefore often referred to as 'SIAL' (from SIlicon + ALuminium). The SIAL (continental crust) is lighter and less dense than the oceanic crust. (The term SIAL contrasts with SIMA — silicon + magnesium — used for the denser oceanic crust and upper mantle material.)", "difficulty": "hard" },
-  { "stem": "The oceanic crust is composed of heavier, denser rocks rich in silica and magnesium, and is often referred to as:", "options": ["SIAL", "SIMA", "NIFE", "Granite"], "correct_index": 1, "solution": "The oceanic crust is composed of heavier, denser rocks (like basalt) that are rich in silica (Si) and magnesium (Mg), and it is therefore often referred to as 'SIMA' (from SIlicon + MAgnesium). The SIMA (oceanic crust) is denser and heavier than the SIAL (continental crust). This difference (lighter SIAL continental crust 'floating' on denser SIMA) is important in understanding the crust and the behaviour of the continents and ocean floors.", "difficulty": "hard" },
-  { "stem": "The layer of the Earth's interior that lies between the crust and the core is the:", "options": ["Core", "Mantle", "Crust", "Hydrosphere"], "correct_index": 1, "solution": "The mantle is the layer of the Earth's interior that lies between the crust (above) and the core (below). It is the thick middle layer of the Earth, extending from the base of the crust down to the core (to a depth of about 2,900 km). The mantle is composed mainly of dense, rocky (silicate) material rich in iron and magnesium, and it makes up the largest part of the Earth's volume.", "difficulty": "medium" },
-  { "stem": "The boundary between the crust and the mantle is known as the:", "options": ["Gutenberg discontinuity", "Mohorovicic discontinuity (Moho)", "Conrad discontinuity", "Lehmann discontinuity"], "correct_index": 1, "solution": "The boundary between the crust and the mantle is known as the Mohorovicic discontinuity, commonly called the 'Moho' (named after the seismologist Andrija Mohorovicic, who discovered it). At the Moho, there is a change in the composition and density of the material (and in the speed of seismic waves), marking the transition from the crust above to the mantle below. The Moho is an important boundary in the Earth's interior.", "difficulty": "hard" },
-  { "stem": "The uppermost part of the mantle, together with the crust, forms a rigid outer shell of the Earth called the:", "options": ["Asthenosphere", "Lithosphere", "Mesosphere", "Barysphere"], "correct_index": 1, "solution": "The uppermost part of the mantle, together with the crust above it, forms a rigid (solid) outer shell of the Earth called the lithosphere. The lithosphere (crust + uppermost rigid mantle) is the rigid outer layer of the Earth, and it is broken into large pieces called tectonic plates (which move about — the basis of plate tectonics). The lithosphere lies above the more plastic asthenosphere. Understanding the lithosphere (crust + uppermost mantle) is important for understanding plate tectonics.", "difficulty": "medium" },
-  { "stem": "The layer of the upper mantle that lies just below the lithosphere, and which is partly molten/plastic (able to flow slowly), is the:", "options": ["Lithosphere", "Asthenosphere", "Crust", "Inner core"], "correct_index": 1, "solution": "The asthenosphere is the layer of the upper mantle that lies just below the lithosphere. It is partly molten and plastic (soft and able to flow very slowly), unlike the rigid lithosphere above it. Because the asthenosphere is plastic and can flow, the rigid lithospheric plates above it are able to move about (float and drift) on top of it — which is the basis of plate tectonics and continental drift. The asthenosphere (the plastic layer beneath the lithosphere) is thus important as the layer on which the lithospheric plates move. Understanding the asthenosphere is important for understanding plate tectonics.", "difficulty": "medium" },
-  { "stem": "The innermost, central part of the Earth is the:", "options": ["Crust", "Mantle", "Core", "Lithosphere"], "correct_index": 2, "solution": "The core is the innermost, central part of the Earth (below the mantle), extending from a depth of about 2,900 km to the centre of the Earth (about 6,371 km deep). The core is composed mainly of the heavy metals iron and nickel (and is therefore sometimes called 'NIFE', from NIckel + FErrum/iron), and it is the densest part of the Earth. The core is divided into an outer core (liquid) and an inner core (solid).", "difficulty": "medium" },
-  { "stem": "The core of the Earth is composed mainly of the heavy metals:", "options": ["Silicon and aluminium", "Iron and nickel", "Carbon and oxygen", "Copper and zinc"], "correct_index": 1, "solution": "The core of the Earth is composed mainly of the heavy, dense metals iron and nickel. Because of this composition, the core is sometimes referred to as 'NIFE' (from NIckel + FErrum, the Latin word for iron). The heavy iron-nickel composition makes the core the densest part of the Earth (the heavy metals having sunk to the centre during the Earth's early differentiation). Understanding the iron-nickel composition of the core is a key point. The core is composed mainly of iron and nickel.", "difficulty": "medium" },
-  { "stem": "The Earth's core is divided into two parts: the outer core and the inner core. The outer core is:", "options": ["Solid", "Liquid (molten)", "Gaseous", "Made of rock"], "correct_index": 1, "solution": "The Earth's core is divided into two parts: the outer core and the inner core. The outer core is liquid (molten) — it is in a liquid, molten state (of iron and nickel). The inner core, by contrast, is solid (despite being even hotter, it is solid due to the enormous pressure at the centre of the Earth). The evidence that the outer core is liquid comes from the behaviour of seismic waves (S-waves, which cannot pass through liquid, do not pass through the outer core). Understanding that the outer core is liquid (and the inner core solid) is an important point. The outer core is liquid (molten), while the inner core is solid.", "difficulty": "medium" },
-  { "stem": "The inner core of the Earth, despite being extremely hot, is solid because of:", "options": ["Its low temperature", "The immense pressure at the centre of the Earth", "The lack of any metal", "Being made of rock"], "correct_index": 1, "solution": "The inner core of the Earth is solid — despite being extremely hot (hotter even than the surface of the Sun in temperature) — because of the immense pressure at the centre of the Earth. The enormous pressure at the Earth's centre is so great that it keeps the iron-nickel material of the inner core in a solid state, even at those extremely high temperatures. (The outer core, at somewhat lower pressure, is liquid.) Understanding that the inner core is solid due to immense pressure (despite the high temperature) is an important point. The inner core is solid because of the immense pressure at the Earth's centre.", "difficulty": "medium" },
-  { "stem": "The boundary between the mantle and the core is known as the:", "options": ["Mohorovicic discontinuity", "Gutenberg discontinuity", "Conrad discontinuity", "Lithosphere"], "correct_index": 1, "solution": "The boundary between the mantle (above) and the core (below) is known as the Gutenberg discontinuity (named after the seismologist Beno Gutenberg). At the Gutenberg discontinuity (at a depth of about 2,900 km), there is a marked change in the composition and density of the material (from the rocky mantle to the metallic core) and in the behaviour of seismic waves. The Gutenberg discontinuity (mantle-core boundary) is an important boundary in the Earth's interior, distinct from the Mohorovicic discontinuity (Moho), which is the crust-mantle boundary. Understanding the Gutenberg discontinuity (mantle-core boundary) is a key point. The Gutenberg discontinuity is the boundary between the mantle and the core.", "difficulty": "hard" },
-  { "stem": "Most of our knowledge of the Earth's deep interior (which cannot be directly observed or reached) comes from the study of:", "options": ["Satellite photographs", "Seismic waves (earthquake waves) and how they travel through the Earth", "Ocean currents", "Weather patterns"], "correct_index": 1, "solution": "Most of our knowledge of the Earth's deep interior — which cannot be directly observed, reached, or drilled into (we have only been able to drill a tiny fraction of the way through even the crust) — comes from the study of seismic waves (earthquake waves) and how they travel through the Earth. Earthquakes generate seismic waves that travel through the Earth's interior, and by studying how these waves travel — their speed, and how they are refracted (bent), reflected, or stopped as they pass through the different layers (which depends on the properties of the material) — scientists (seismologists) can deduce the structure, composition, and state (solid or liquid) of the Earth's interior layers. Thus, seismic waves are the main 'tool' or source of evidence for understanding the deep interior of the Earth. Understanding that seismic waves are the main source of knowledge about the Earth's interior is a key point. Seismic (earthquake) waves are the main source of knowledge about the Earth's deep interior.", "difficulty": "medium" },
-  { "stem": "Seismic waves generated by an earthquake are of two main types (body waves): the primary (P) waves and the:", "options": ["Surface waves only", "Secondary (S) waves", "Sound waves", "Light waves"], "correct_index": 1, "solution": "The seismic (earthquake) waves that travel through the body of the Earth (body waves) are of two main types: the Primary waves (P-waves) and the Secondary waves (S-waves). The P-waves are the faster of the two (they arrive first, hence 'primary'), and the S-waves are slower (arriving second, hence 'secondary'). (There are also surface waves, which travel along the surface and cause most of the destruction, but the two main body waves used to study the interior are the P-waves and S-waves.) Understanding the two types of body waves (P-waves and S-waves) is important for understanding how the Earth's interior is studied. The two main body waves are the primary (P) and secondary (S) waves.", "difficulty": "medium" },
-  { "stem": "Primary (P) waves are longitudinal (compressional) waves that:", "options": ["Cannot pass through anything", "Can travel through solids, liquids, and gases, and are the fastest seismic waves", "Travel only on the surface", "Can pass only through liquids"], "correct_index": 1, "solution": "Primary (P) waves are longitudinal (compressional/push-pull) waves — they cause particles to move back and forth in the direction the wave travels (compressing and stretching the material). P-waves can travel through all types of material — solids, liquids, and gases — and they are the fastest of the seismic waves (arriving first at seismographs). Because P-waves can travel through liquids as well as solids, they can pass through the liquid outer core (though they are refracted/bent at its boundary). Understanding the nature of P-waves (longitudinal, fastest, can travel through solids, liquids, and gases) is important. P-waves are the fastest waves and can travel through solids, liquids, and gases.", "difficulty": "medium" },
-  { "stem": "Secondary (S) waves are transverse waves that:", "options": ["Can travel through everything", "Can travel only through solids (NOT through liquids or gases), and are slower than P-waves", "Are the fastest waves", "Travel only through liquids"], "correct_index": 1, "solution": "Secondary (S) waves are transverse (shear/side-to-side) waves — they cause particles to move at right angles (perpendicular) to the direction the wave travels. A crucial property of S-waves is that they can travel only through solids, and CANNOT travel through liquids (or gases) — because liquids and gases cannot support the shear (side-to-side) motion of transverse waves. S-waves are also slower than P-waves (arriving second). The fact that S-waves cannot pass through liquids is very important: the observation that S-waves do not pass through the outer core is the key evidence that the outer core is liquid (molten). Understanding the nature of S-waves (transverse, slower, and — crucially — able to travel only through solids, not liquids) is very important. S-waves can travel only through solids (not liquids), and are slower than P-waves.", "difficulty": "medium" },
-  { "stem": "The fact that secondary (S) waves do NOT pass through the outer core is the key evidence that the outer core is:", "options": ["Solid", "Liquid (molten)", "Gaseous", "Made of rock"], "correct_index": 1, "solution": "The fact that secondary (S) waves do NOT pass through the Earth's outer core is the key evidence that the outer core is liquid (molten). Because S-waves (transverse waves) can travel only through solids and cannot travel through liquids, the observation that S-waves are stopped at the outer core boundary and do not pass through the outer core tells us that the outer core must be liquid (molten) — since if it were solid, the S-waves would pass through it. This is a crucial and elegant example of how the behaviour of seismic waves reveals the state (solid or liquid) of the Earth's interior layers. Thus, the blocking of S-waves by the outer core is the key evidence that the outer core is liquid. Understanding this key evidence (S-waves not passing through the outer core, showing it is liquid) is very important. The blocking of S-waves by the outer core shows that the outer core is liquid.", "difficulty": "hard" },
-  { "stem": "The region on the Earth's surface where seismic waves (especially S-waves and some P-waves) from an earthquake are not detected, due to their being blocked or bent by the core, is called the:", "options": ["Epicentre", "Shadow zone", "Focus", "Fault"], "correct_index": 1, "solution": "The 'shadow zone' is the region on the Earth's surface where seismic waves from an earthquake are not detected (received) — because the waves have been blocked, refracted (bent), or otherwise prevented from reaching that area by the Earth's core. The S-waves (which cannot pass through the liquid outer core) create a large S-wave shadow zone on the far side of the Earth (beyond a certain angular distance), where no S-waves are received. The P-waves are refracted (bent) by the core, creating a P-wave shadow zone (a ring-shaped band) where P-waves are not directly received. The existence and pattern of these shadow zones is important evidence for the existence, size, and properties (including the liquid state of the outer core) of the Earth's core. Understanding the shadow zone (where seismic waves are not received, due to the core) is an important point. The shadow zone is where seismic waves are not detected, due to being blocked or bent by the core.", "difficulty": "hard" },
-  { "stem": "The point inside the Earth where an earthquake originates (where the rupture/energy release begins) is called the:", "options": ["Epicentre", "Focus (or hypocentre)", "Shadow zone", "Fault"], "correct_index": 1, "solution": "The focus (also called the hypocentre) is the point inside the Earth (below the surface) where an earthquake originates — where the rupture, movement, or release of energy begins (usually along a fault). The seismic waves radiate outward from the focus. (The point on the Earth's surface directly above the focus is called the epicentre.) Understanding the difference between the focus (the point of origin inside the Earth) and the epicentre (the point on the surface above it) is important. The focus is the point inside the Earth where an earthquake originates.", "difficulty": "medium" },
-  { "stem": "The point on the Earth's surface directly above the focus of an earthquake is called the:", "options": ["Focus", "Epicentre", "Shadow zone", "Discontinuity"], "correct_index": 1, "solution": "The epicentre is the point on the Earth's surface directly above the focus (the point of origin of the earthquake inside the Earth). The epicentre is usually the place where the effects of the earthquake are felt most strongly (as it is closest to the focus/origin). When the location of an earthquake is reported, it is usually the location of the epicentre that is given. Understanding the epicentre (the point on the surface above the focus) is important, and it is distinct from the focus (the underground point of origin). The epicentre is the point on the surface directly above the earthquake's focus.", "difficulty": "medium" },
-  { "stem": "The instrument used to detect and record seismic waves (earthquakes) is called a:", "options": ["Barometer", "Seismograph (seismometer)", "Thermometer", "Anemometer"], "correct_index": 1, "solution": "The instrument used to detect, measure, and record seismic waves (the vibrations produced by earthquakes) is called a seismograph (or seismometer). A seismograph records the arrival and characteristics of the seismic waves (as a 'seismogram'), and the data from seismographs (at many locations) are used to locate earthquakes, measure their magnitude, and — importantly — to study the Earth's interior (from how the waves travel). Understanding that a seismograph is used to record earthquakes is a basic point. A seismograph is the instrument used to detect and record seismic waves.", "difficulty": "medium" },
-  { "stem": "The scale commonly used to measure the magnitude (energy/strength) of an earthquake is the:", "options": ["Beaufort scale", "Richter scale", "Celsius scale", "pH scale"], "correct_index": 1, "solution": "The Richter scale is the scale commonly used to measure the magnitude — the energy released, or the 'size'/strength — of an earthquake. The Richter scale is a logarithmic scale (each whole number increase represents about 10 times greater amplitude and much more energy), and it gives a number expressing the magnitude of the earthquake (based on the seismic waves recorded). (There is also the Mercalli scale, which measures the intensity — the observed effects and damage — of an earthquake at a particular place, as distinct from the magnitude.) Understanding that the Richter scale measures earthquake magnitude is a basic point. The Richter scale measures the magnitude (strength) of an earthquake.", "difficulty": "medium" },
-  { "stem": "Earthquakes are most commonly caused by:", "options": ["Rainfall", "The sudden release of energy along faults in the Earth's crust, often at the boundaries of tectonic plates", "The Moon's light", "Ocean waves"], "correct_index": 1, "solution": "Earthquakes are most commonly caused by the sudden release of energy that occurs when rocks under stress in the Earth's crust (and upper mantle) suddenly break, rupture, and move along a fracture called a fault. Stress builds up in the rocks (often due to the movement of tectonic plates), and when the stress exceeds the strength of the rocks, they suddenly break and move (slip) along a fault, releasing the stored energy as seismic waves — causing an earthquake. Earthquakes therefore most commonly occur along faults, and especially at or near the boundaries of the tectonic plates (where the plates interact — colliding, moving apart, or sliding past each other — building up stress). Thus, earthquakes are caused by the sudden release of energy along faults, often at plate boundaries. Understanding the cause of earthquakes (sudden release of energy along faults, often at plate boundaries) is important. Earthquakes are caused by the sudden release of energy along faults, often at plate boundaries.", "difficulty": "medium" },
-  { "stem": "A volcano is a vent or opening in the Earth's crust through which:", "options": ["Only water comes out", "Molten rock (magma/lava), gases, and ash erupt from the interior onto the surface", "Only air escapes", "Nothing comes out"], "correct_index": 1, "solution": "A volcano is a vent or opening in the Earth's crust (surface) through which molten rock (called magma when underground, and lava when it reaches the surface), along with gases, ash, and other volcanic materials, erupts from the Earth's interior onto the surface. Volcanoes occur where magma from beneath the crust finds its way to the surface, often building up cone-shaped mountains (volcanoes) from the erupted material. Volcanoes are important features of the Earth, associated with the movement of tectonic plates and the release of heat and material from the interior. Understanding what a volcano is (a vent through which magma/lava, gases, and ash erupt) is a basic point. A volcano is a vent through which molten rock, gases, and ash erupt onto the surface.", "difficulty": "medium" },
-  { "stem": "Molten rock beneath the Earth's surface is called magma, while molten rock that has erupted onto the surface is called:", "options": ["Ash", "Lava", "Basalt only", "Steam"], "correct_index": 1, "solution": "Molten (liquid, hot) rock beneath the Earth's surface (within the crust or mantle) is called magma. When this molten rock erupts through a volcano and flows out onto the Earth's surface, it is called lava. (So it is the same molten rock material — called magma when underground, and lava when it has reached the surface.) Understanding the distinction between magma (underground molten rock) and lava (molten rock on the surface) is a basic point. Magma is molten rock underground; lava is molten rock that has erupted onto the surface.", "difficulty": "medium" },
-  { "stem": "Volcanoes and earthquakes are found especially along the boundaries of the Earth's:", "options": ["Rivers", "Tectonic plates", "Deserts", "Forests"], "correct_index": 1, "solution": "Volcanoes and earthquakes are found especially concentrated along the boundaries of the Earth's tectonic plates — the large rigid pieces (plates) into which the Earth's lithosphere is broken, which move about relative to one another. At the plate boundaries, where the plates interact (colliding, moving apart, or sliding past one another), stresses build up and magma can rise, so most of the world's earthquakes and volcanoes occur along these plate boundaries (for example, around the margins of the Pacific Ocean — the 'Ring of Fire' — where many plates meet). The concentration of volcanoes and earthquakes along the plate boundaries is a key piece of evidence for plate tectonics, and it links these phenomena to the movement and interaction of the tectonic plates. Understanding that volcanoes and earthquakes occur especially along plate boundaries is an important point. Volcanoes and earthquakes are found especially along the boundaries of the tectonic plates.", "difficulty": "medium" },
-  { "stem": "The temperature and pressure inside the Earth generally:", "options": ["Decrease with depth", "Increase with depth (towards the interior/centre)", "Stay the same throughout", "Are zero"], "correct_index": 1, "solution": "The temperature and the pressure inside the Earth generally increase with depth — that is, they get higher as one goes deeper into the Earth, towards the interior and the centre. The temperature increases with depth (the interior of the Earth is very hot, due to heat left over from its formation and from radioactivity — the temperature at the centre being estimated at several thousand degrees Celsius); and the pressure also increases with depth (due to the weight of the overlying material), becoming immense at the centre. This increase of temperature and pressure with depth is important — for example, it explains why the inner core is solid (due to the immense pressure) despite the high temperature. Understanding that temperature and pressure increase with depth inside the Earth is a basic and important point. Temperature and pressure increase with depth inside the Earth.", "difficulty": "medium" },
-  { "stem": "Volcanoes that erupt gently, building broad, gently-sloping cones from fluid (runny) lava, are called:", "options": ["Composite volcanoes", "Shield volcanoes", "Cinder cones only", "Calderas"], "correct_index": 1, "solution": "Shield volcanoes are volcanoes that erupt relatively gently and build broad, gently-sloping, dome-like cones (shaped somewhat like a warrior's shield lying on the ground), formed from fluid, runny (low-viscosity) lava (usually basaltic lava) that flows easily and spreads out over a wide area before solidifying. Because the lava is fluid and flows far, shield volcanoes have broad bases and gentle slopes (rather than steep, tall cones). (The volcanoes of Hawaii are famous examples of shield volcanoes.) Shield volcanoes are contrasted with composite (strato-) volcanoes, which are built of alternating layers of lava and ash from more explosive eruptions and have steep, tall cones. Understanding shield volcanoes (broad, gentle cones from fluid lava) is a point about volcanic landforms. Shield volcanoes are broad, gently-sloping volcanoes built from fluid lava.", "difficulty": "medium" },
-  { "stem": "A large, basin-shaped depression formed by the collapse of a volcano (or a very large volcanic explosion) is called a:", "options": ["Crater lake only", "Caldera", "Fault", "Delta"], "correct_index": 1, "solution": "A caldera is a large, basin-shaped depression (much larger than an ordinary volcanic crater) formed by the collapse of the top of a volcano into the emptied magma chamber below (or by a very large, violent volcanic explosion). After a great eruption empties the magma chamber, the summit of the volcano may collapse inward into the void, creating a large, roughly circular, basin-shaped depression — a caldera. Calderas can be very large (many kilometres across), and they may fill with water to form a lake (a caldera lake). Understanding what a caldera is (a large depression formed by the collapse of a volcano) is a point about volcanic landforms. A caldera is a large, basin-shaped depression formed by the collapse of a volcano.", "difficulty": "hard" },
-  { "stem": "The Earth's magnetic field is generated mainly by:", "options": ["The Sun", "The motion of the liquid metallic (iron-nickel) outer core (the 'geodynamo')", "The crust", "The atmosphere"], "correct_index": 1, "solution": "The Earth's magnetic field (which makes compasses point north-south, and which shields the Earth from harmful solar radiation) is generated mainly by the motion (flow and circulation) of the liquid, metallic (iron-nickel) outer core — a process known as the 'geodynamo'. The movement of the electrically-conducting molten metal in the outer core, along with the Earth's rotation, generates electric currents that produce the Earth's magnetic field. Thus, the liquid outer core is responsible for generating the Earth's magnetic field. Understanding that the Earth's magnetic field is generated by the liquid outer core (the geodynamo) is an important point. The Earth's magnetic field is generated by the motion of the liquid outer core.", "difficulty": "hard" },
-  { "stem": "The direct sources of information about the Earth's interior include:", "options": ["Only earthquakes", "Rocks and materials obtained from mining, drilling (boreholes), and volcanic eruptions (which bring up material from below)", "Only satellites", "Nothing"], "correct_index": 1, "solution": "The direct sources of information about the Earth's interior include: the rocks and materials obtained from mining (deep mines) and drilling (deep boreholes), which allow direct examination of the crust to the limited depths reached; and the material (magma/lava and other volcanic products) brought up from below by volcanic eruptions, which provides samples of material from beneath the surface. These direct sources, however, only reach or sample the crust and the uppermost part of the interior (we can only mine or drill a tiny fraction of the way into the Earth), so most knowledge of the deeper interior comes from indirect sources (especially seismic waves). Understanding the direct sources of information about the interior (mining, drilling, volcanic material) is a point. Direct sources include mining, drilling, and volcanic material.", "difficulty": "medium" },
-  { "stem": "The deepest hole ever drilled into the Earth's crust (the Kola Superdeep Borehole) reached a depth of only about 12 km, which shows that:", "options": ["We can drill to the centre of the Earth", "Direct exploration of the interior is limited to a tiny fraction of even the crust, so most knowledge comes from indirect (especially seismic) evidence", "The Earth is only 12 km deep", "Drilling is easy"], "correct_index": 1, "solution": "The deepest hole ever drilled into the Earth's crust — the Kola Superdeep Borehole (in Russia) — reached a depth of only about 12 km, which is a tiny fraction of even the crust (and an even tinier fraction of the ~6,371 km to the centre of the Earth). This shows that direct exploration and drilling of the Earth's interior is extremely limited — reaching only a tiny fraction of even the crust — because of the enormous difficulties of drilling to great depths (increasing temperature, pressure, and technical challenges). Consequently, direct sources give information only about the uppermost part of the Earth, and most of our knowledge of the deeper interior comes from indirect evidence — especially the study of seismic (earthquake) waves. Understanding the limits of direct drilling (as shown by the Kola borehole) illustrates why indirect (seismic) evidence is essential for studying the interior. Direct drilling reaches only a tiny fraction of the crust, so most knowledge comes from seismic evidence.", "difficulty": "medium" },
-  { "stem": "Indirect sources of information about the Earth's interior include seismic waves and also:", "options": ["Nothing else", "Evidence from meteorites, and the study of the Earth's gravity, magnetic field, and density", "Only weather data", "Only ocean currents"], "correct_index": 1, "solution": "Indirect sources of information about the Earth's interior include, most importantly, the study of seismic (earthquake) waves, and also: evidence from meteorites (which are thought to be similar in composition to the material that formed the Earth, and so give clues about the Earth's interior, especially the metallic core); the study of the Earth's gravity (variations in gravity give information about the distribution of mass and density inside the Earth); the study of the Earth's magnetic field (generated by the liquid outer core, giving information about the core); and the study of the Earth's overall density (the average density of the whole Earth is much higher than the density of the surface rocks, indicating that the interior must be much denser — pointing to the dense metallic core). These indirect sources (seismic waves, meteorites, gravity, magnetic field, density) together provide the evidence for understanding the structure and composition of the Earth's deep interior. Understanding the range of indirect sources illustrates how the interior is studied. Indirect sources include seismic waves, meteorites, gravity, the magnetic field, and density.", "difficulty": "medium" },
-  { "stem": "The average density of the Earth as a whole is much greater than the density of the surface rocks, which indicates that:", "options": ["The interior is empty", "The interior of the Earth must be much denser than the surface (pointing to a dense, heavy metallic core)", "The Earth is light", "The surface is the densest part"], "correct_index": 1, "solution": "The average density of the Earth as a whole (about 5.5 g/cm³) is much greater than the density of the surface rocks (about 2.7-3 g/cm³). This indicates that the interior of the Earth must be much denser than the surface — because if the whole Earth were made of material as light as the surface rocks, its average density would be much lower. The much higher average density of the whole Earth therefore points to the presence of a dense, heavy interior — in particular, a dense, heavy metallic (iron-nickel) core at the centre — which raises the average density of the whole Earth well above that of the surface rocks. Thus, the high average density of the Earth (compared to the surface rocks) is evidence for a dense, heavy metallic core in the interior. Understanding this evidence (from density) for a dense core illustrates one of the indirect sources of knowledge about the interior. The high average density of the Earth indicates a dense, heavy metallic core in the interior.", "difficulty": "medium" },
-  { "stem": "The density of the material inside the Earth generally:", "options": ["Decreases with depth", "Increases with depth (the deeper layers being denser)", "Is the same throughout", "Is zero at the centre"], "correct_index": 1, "solution": "The density of the material inside the Earth generally increases with depth — the deeper layers of the Earth are denser than the shallower ones. The crust is the least dense; the mantle is denser than the crust; and the core (of heavy iron and nickel) is the densest part of all. This increase of density with depth is due partly to the composition of the layers (heavier materials, like the metallic core, being deeper) and partly to the compression of the material by the increasing pressure with depth. Understanding that density increases with depth inside the Earth is a basic and important point (consistent with the layered structure and the dense metallic core). Density increases with depth inside the Earth.", "difficulty": "medium" },
-  { "stem": "The heat of the Earth's interior comes largely from:", "options": ["The Sun only", "Heat left over from the Earth's formation, and heat generated by the decay of radioactive elements inside the Earth", "The atmosphere", "Ocean currents"], "correct_index": 1, "solution": "The heat of the Earth's interior (which makes the interior very hot, drives many geological processes, and increases with depth) comes largely from two main sources: (1) the heat left over from the Earth's formation (the primordial heat generated when the Earth formed by accretion and impacts, and during its early molten stage), which is still slowly being lost; and (2) the heat continuously generated by the decay of radioactive elements (such as uranium, thorium, and potassium) present within the Earth (radioactive decay releasing heat). These two sources — primordial heat from formation, and heat from radioactive decay — are the main sources of the Earth's internal heat. (This is distinct from the Sun's heat, which warms the Earth's surface and atmosphere but does not significantly heat the deep interior.) Understanding the sources of the Earth's internal heat (primordial heat and radioactive decay) is an important point. The Earth's internal heat comes from heat left over from its formation and from radioactive decay.", "difficulty": "medium" },
-  { "stem": "The 'Ring of Fire' refers to:", "options": ["A desert region", "The belt of frequent earthquakes and volcanoes around the margins of the Pacific Ocean (where many tectonic plates meet)", "A forest fire zone", "A ring around the Sun"], "correct_index": 1, "solution": "The 'Ring of Fire' (or Pacific Ring of Fire) refers to the belt or zone of frequent earthquakes and numerous active volcanoes that encircles the margins (edges) of the Pacific Ocean — running along the west coasts of the Americas, and along the eastern edge of Asia and through the islands of the western Pacific (Japan, Indonesia, etc.). This 'Ring of Fire' is a zone where many tectonic plates meet and interact (especially where oceanic plates are subducted beneath others), producing intense seismic and volcanic activity. A very large proportion of the world's earthquakes and active volcanoes occur along this Ring of Fire. The Ring of Fire is a striking example of the concentration of earthquakes and volcanoes along plate boundaries, and it illustrates the link between these phenomena and the movement and interaction of the tectonic plates. Understanding the 'Ring of Fire' (the belt of earthquakes and volcanoes around the Pacific) is an important point. The 'Ring of Fire' is the belt of earthquakes and volcanoes around the margins of the Pacific Ocean.", "difficulty": "medium" },
-  { "stem": "The scale that measures the intensity (the observed effects and damage) of an earthquake at a particular place, as distinct from its magnitude, is the:", "options": ["Richter scale", "Mercalli scale", "Beaufort scale", "Kelvin scale"], "correct_index": 1, "solution": "The Mercalli scale (Modified Mercalli Intensity scale) measures the intensity of an earthquake — that is, the strength of the shaking and the observed effects and damage caused by the earthquake at a particular place — as distinct from its magnitude. The intensity (Mercalli) is based on observations of the effects (how strongly the shaking was felt, and the damage to buildings and the environment) at a given location, and it varies from place to place (being greater near the epicentre and less farther away). This is different from the magnitude (measured by the Richter scale), which is a single number expressing the total energy or 'size' of the earthquake (the same for the whole earthquake, regardless of location). Thus, the Mercalli scale measures intensity (local effects/damage), while the Richter scale measures magnitude (energy/size). Understanding the distinction between intensity (Mercalli) and magnitude (Richter) is an important point. The Mercalli scale measures the intensity (effects/damage) of an earthquake at a place.", "difficulty": "hard" },
-  { "stem": "A very large ocean wave caused by an undersea earthquake (or other disturbance of the sea floor) is called a:", "options": ["Tide", "Tsunami", "Trade wind", "Meander"], "correct_index": 1, "solution": "A tsunami is a very large and powerful ocean wave (or series of waves) caused by a sudden disturbance of the sea floor — most commonly by a large undersea (submarine) earthquake, but also possibly by undersea volcanic eruptions, landslides, or other disturbances. The sudden movement of the sea floor displaces a huge volume of water, generating waves that travel across the ocean at high speed and can grow very large and destructive as they approach and strike coastlines, causing great destruction and loss of life. Tsunamis are thus a serious hazard associated with undersea earthquakes (and other sea-floor disturbances). (The Indian Ocean tsunami of 2004, caused by a great undersea earthquake, was a catastrophic example.) Understanding what a tsunami is (a large ocean wave caused by an undersea earthquake or disturbance) is an important point. A tsunami is a large ocean wave caused by an undersea earthquake or disturbance.", "difficulty": "medium" },
-  { "stem": "Which of the following is the correct order of the Earth's layers from the surface to the centre, with their approximate depths?", "options": ["Core (0-30 km), mantle, crust", "Crust (thin, surface), mantle (to ~2,900 km), core (to ~6,371 km, centre)", "Mantle first, then crust, then core", "Crust to the centre"], "correct_index": 1, "solution": "The correct order of the Earth's layers, from the surface to the centre, with their approximate depths, is: the crust (the thin, outermost layer — averaging about 30 km thick under the continents, but only about 5 km under the oceans); the mantle (extending from the base of the crust down to a depth of about 2,900 km); and the core (extending from about 2,900 km down to the centre of the Earth at about 6,371 km — with the liquid outer core from ~2,900 to ~5,150 km, and the solid inner core from ~5,150 km to the centre). Thus, from the surface inward: crust (thin), mantle (to ~2,900 km), and core (to ~6,371 km, the centre). Knowing the order and approximate depths of the layers (crust, mantle to ~2,900 km, core to ~6,371 km) is an important point. From the surface to the centre: crust (thin), mantle (to ~2,900 km), core (to ~6,371 km).", "difficulty": "medium" },
-  { "stem": "The continental crust is generally __________ than the oceanic crust.", "options": ["Thinner and denser", "Thicker and less dense (lighter)", "Exactly the same", "Made of the same rocks"], "correct_index": 1, "solution": "The continental crust is generally thicker and less dense (lighter) than the oceanic crust. The continental crust (under the continents) is thicker (averaging about 30 km, and up to 60-70 km under high mountain ranges) and is made of lighter, less dense rocks (SIAL — rich in silica and aluminium, like granite). The oceanic crust (under the oceans) is thinner (about 5 km) and is made of heavier, denser rocks (SIMA — rich in silica and magnesium, like basalt). Thus, the continental crust is thicker and lighter, while the oceanic crust is thinner and denser. This difference (lighter, thicker continental crust; denser, thinner oceanic crust) is important — for example, it relates to why the continents 'stand higher' and the ocean basins are lower, and it is relevant to plate tectonics. Understanding the difference between the continental and oceanic crust (continental thicker and lighter; oceanic thinner and denser) is an important point. The continental crust is thicker and less dense than the oceanic crust.", "difficulty": "medium" },
-  { "stem": "Seismic waves change their speed and direction (are refracted) as they pass from one layer of the Earth to another because:", "options": ["The waves get tired", "The different layers have different densities, compositions, and physical properties (which affect the speed and path of the waves)", "The waves are alive", "There is no reason"], "correct_index": 1, "solution": "Seismic waves change their speed, and are refracted (bent) in their direction, as they pass from one layer of the Earth to another because the different layers of the Earth's interior have different densities, compositions, and physical properties (such as being solid or liquid, and of different rigidity). The speed of seismic waves depends on the properties of the material they are travelling through (they travel faster through denser, more rigid material, and their speed changes at boundaries between materials of different properties); and when a wave passes from one material to another of different properties (at a boundary or discontinuity), it is refracted (bent) — just as light is bent when it passes from air into water. By studying these changes in the speed and path (refraction) of the seismic waves as they pass through the Earth, seismologists can deduce the boundaries (discontinuities), the layered structure, and the properties (composition, density, solid/liquid state) of the Earth's interior. Thus, seismic waves change speed and are refracted because the layers have different properties, and studying these changes reveals the structure of the interior. Understanding why seismic waves change speed and are refracted (due to the different properties of the layers) illustrates how seismic waves reveal the interior structure. Seismic waves change speed and are refracted because the layers have different densities, compositions, and properties.", "difficulty": "medium" },
-  { "stem": "Volcanic eruptions and earthquakes are examples of __________ forces that shape the Earth's surface.", "options": ["External (exogenic)", "Internal (endogenic) forces — originating within the Earth", "Man-made", "Atmospheric"], "correct_index": 1, "solution": "Volcanic eruptions and earthquakes are examples of internal (endogenic) forces that shape the Earth's surface — forces that originate within the Earth (from its interior, driven by its internal heat and dynamics). Endogenic (internal) forces — such as those causing earthquakes, volcanoes, the movement of tectonic plates, and the building of mountains — arise from within the Earth (from the heat and processes of the interior) and act to build up, deform, and shape the Earth's surface and crust (creating features like mountains, volcanoes, and faults). (These are contrasted with the exogenic (external) forces — like weathering, erosion by rivers, wind, and glaciers — which act on the surface from outside, driven by the Sun's energy and gravity, and which wear down and shape the surface.) Thus, volcanoes and earthquakes are examples of endogenic (internal) forces, originating within the Earth. Understanding that volcanoes and earthquakes are internal (endogenic) forces, originating within the Earth, is an important point (linking the interior to the shaping of the surface). Volcanoes and earthquakes are internal (endogenic) forces, originating within the Earth.", "difficulty": "medium" },
-  { "stem": "The lithosphere (the rigid outer shell of crust and uppermost mantle) is broken into several large and small pieces called:", "options": ["Continents only", "Tectonic plates (lithospheric plates)", "Oceans", "Discontinuities"], "correct_index": 1, "solution": "The lithosphere — the rigid outer shell of the Earth, made up of the crust and the uppermost rigid part of the mantle — is broken into several large and small pieces called tectonic plates (or lithospheric plates). These plates 'float' and move slowly about on the plastic asthenosphere beneath them (driven by the heat and convection currents in the mantle). The movement and interaction of these tectonic plates — colliding, moving apart, or sliding past one another at their boundaries — is the basis of the theory of plate tectonics, and it gives rise to many major features and phenomena of the Earth (such as the building of mountains, the formation of ocean basins, the movement of continents (continental drift), and the concentration of earthquakes and volcanoes along the plate boundaries). Thus, the lithosphere is broken into tectonic plates, whose movement shapes the Earth. Understanding that the lithosphere is broken into tectonic plates (which move) is an important point, fundamental to plate tectonics. The lithosphere is broken into tectonic plates.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly matches a discontinuity with the boundary it marks?", "options": ["Moho — mantle-core boundary", "Moho (Mohorovicic) — crust-mantle boundary; Gutenberg — mantle-core boundary", "Gutenberg — crust-mantle boundary", "Moho — inner-outer core boundary"], "correct_index": 1, "solution": "The correct matches are: the Mohorovicic discontinuity (Moho) marks the boundary between the crust and the mantle; and the Gutenberg discontinuity marks the boundary between the mantle and the core. (These are the two most important major discontinuities in the Earth's interior. There is also the Lehmann discontinuity, between the outer and inner core, and the Conrad discontinuity within the crust.) Knowing which discontinuity marks which boundary — Moho (crust-mantle) and Gutenberg (mantle-core) — is an important point for understanding the structure of the Earth's interior. The Moho marks the crust-mantle boundary, and the Gutenberg discontinuity marks the mantle-core boundary.", "difficulty": "medium" },
-  { "stem": "The mantle can be divided into an upper mantle and a lower mantle. The upper mantle includes the plastic:", "options": ["Inner core", "Asthenosphere (on which the lithospheric plates move)", "Crust", "Outer core"], "correct_index": 1, "solution": "The mantle can be divided into an upper mantle and a lower mantle. The upper mantle includes the plastic asthenosphere — the partly molten, plastic (soft, able to flow slowly) layer just below the rigid lithosphere. (The uppermost, rigid part of the upper mantle, together with the crust, forms the lithosphere; below that is the plastic asthenosphere; and below the asthenosphere the mantle continues, becoming the lower mantle.) The asthenosphere (in the upper mantle) is important because its plastic, flowing nature allows the rigid lithospheric (tectonic) plates above it to move about on top of it — the basis of plate tectonics. Understanding that the upper mantle includes the plastic asthenosphere (on which the plates move) is an important point. The upper mantle includes the plastic asthenosphere, on which the lithospheric plates move.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about P-waves and S-waves is correct?", "options": ["Both can travel through liquids", "P-waves can travel through solids, liquids, and gases (and are faster), while S-waves can travel only through solids (and are slower)", "S-waves are faster than P-waves", "Neither can travel through solids"], "correct_index": 1, "solution": "The correct statement is: P-waves (primary waves) can travel through solids, liquids, and gases, and are the faster of the two (arriving first); while S-waves (secondary waves) can travel only through solids (not through liquids or gases), and are slower (arriving second). This difference is crucial: because S-waves cannot travel through liquids, the observation that S-waves do not pass through the outer core is the key evidence that the outer core is liquid; and the different behaviours of P-waves and S-waves (and their shadow zones) reveal the structure and state of the Earth's interior. Knowing the correct properties of P-waves (faster; through solids, liquids, gases) and S-waves (slower; through solids only) is very important. P-waves travel through solids, liquids, and gases and are faster; S-waves travel only through solids and are slower.", "difficulty": "medium" },
-  { "stem": "The study of the Earth's interior is important for physical geography because the interior and its dynamics:", "options": ["Are irrelevant to the surface", "Drive the internal (endogenic) forces — like plate movements, earthquakes, and volcanoes — that shape the Earth's surface, continents, oceans, and landforms", "Only affect the weather", "Have no effect on anything"], "correct_index": 1, "solution": "The study of the Earth's interior is important for physical geography because the Earth's interior and its dynamics drive the internal (endogenic) forces that shape the Earth's surface and its major features. The heat and processes of the interior (mantle convection, driven by the internal heat) cause the movement of the tectonic plates (plate tectonics), which in turn produces many of the major features and phenomena of the Earth's surface — the movement of continents (continental drift), the building of mountains, the formation and reshaping of ocean basins, the concentration of earthquakes and volcanoes along plate boundaries, and the shaping of the crust and landforms. Thus, the interior of the Earth and its dynamics are the ultimate source of the internal (endogenic) forces that build up, deform, and shape the Earth's surface, continents, oceans, and landforms. Understanding the interior of the Earth is therefore fundamental to understanding these internal forces and processes and the features they produce — which are central concerns of physical geography (especially geomorphology, the study of landforms). Thus, the study of the Earth's interior provides the essential basis for understanding the internal forces (plate tectonics, earthquakes, volcanoes) that shape the Earth's surface. Understanding the importance of the interior for physical geography (as the source of the internal forces shaping the surface) illustrates its foundational role. The interior and its dynamics drive the internal forces that shape the Earth's surface and features.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Interior of the Earth' is that:", "options": ["Nothing is known about the Earth's interior", "The Earth's interior is made up of concentric layers (crust, mantle, and core — with the core divided into liquid outer and solid inner parts), whose structure, composition, and state are known mainly from the study of seismic (earthquake) waves, and whose dynamics give rise to phenomena like earthquakes and volcanoes", "The Earth is hollow", "The Earth is uniform throughout"], "correct_index": 1, "solution": "The chapter conveys that the Earth's interior is not uniform but is made up of distinct concentric layers — the crust (the thin, solid, outermost layer, of lighter SIAL continental crust and denser SIMA oceanic crust); the mantle (the thick, rocky middle layer, whose uppermost rigid part, with the crust, forms the lithosphere, and below which lies the plastic asthenosphere); and the core (the central, iron-nickel part, divided into a liquid outer core and a solid inner core) — separated by boundaries called discontinuities (the Moho between crust and mantle, and the Gutenberg discontinuity between mantle and core). Since the deep interior cannot be directly observed or reached, our knowledge of its structure, composition, and state comes mainly from the study of seismic (earthquake) waves — the P-waves (which travel through solids, liquids, and gases) and the S-waves (which travel only through solids) — and how they travel through the Earth (for example, the blocking of S-waves by the outer core is the key evidence that the outer core is liquid, and the shadow zones reveal the core). Temperature and pressure increase with depth. The Earth's interior is also dynamic, and its processes give rise to important phenomena — earthquakes (caused by the sudden release of energy along faults, especially at plate boundaries, measured by seismographs on the Richter scale, with a focus and epicentre) and volcanoes (vents through which magma/lava, gases, and ash erupt) — which occur especially along the boundaries of the tectonic plates. Thus, the chapter reveals the layered structure, composition, and dynamics of the Earth's interior, and how it is studied (mainly through seismic waves) and how its processes produce phenomena like earthquakes and volcanoes. Understanding the interior of the Earth is fundamental to physical geography, providing the basis for understanding the Earth's structure, the forces shaping its surface (like plate tectonics, earthquakes, and volcanoes), and the processes of the solid Earth. This understanding of the layered structure, study, and dynamics of the Earth's interior is the central concern and message of the chapter.", "difficulty": "medium" }
+  {
+    "stem": "The three main concentric layers of the Earth's interior, from the surface inward, are the:",
+    "options": [
+      "Core, mantle, crust",
+      "Crust, mantle, and core",
+      "Mantle, crust, core",
+      "Crust, core, mantle"
+    ],
+    "correct_index": 1,
+    "solution": "The Earth's interior is made up of three main concentric layers, which are, from the surface (outside) inward: the crust (the thin, solid, outermost layer), the mantle (the thick middle layer), and the core (the central part). This layered structure (crust, mantle, core) is the basic structure of the Earth's interior.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The outermost, thin, solid layer of the Earth, on which we live, is the:",
+    "options": [
+      "Mantle",
+      "Crust",
+      "Core",
+      "Mesosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The crust is the outermost, thin, solid layer of the Earth — the layer on which we live, and which forms the continents and the ocean floors. The crust is the thinnest of the Earth's layers (thin compared to the mantle and core), and it is solid rock. The continental crust (under the continents) is thicker (average ~30 km, up to ~70 km under mountains) and less dense, while the oceanic crust (under the oceans) is thinner (~5 km) and denser.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The continental crust is largely composed of lighter rocks rich in silica and aluminium, and is often referred to as:",
+    "options": [
+      "SIMA",
+      "SIAL",
+      "NIFE",
+      "Basalt"
+    ],
+    "correct_index": 1,
+    "solution": "The continental crust is largely composed of lighter rocks (like granite) that are rich in silica (Si) and aluminium (Al), and it is therefore often referred to as 'SIAL' (from SIlicon + ALuminium). The SIAL (continental crust) is lighter and less dense than the oceanic crust. (The term SIAL contrasts with SIMA — silicon + magnesium — used for the denser oceanic crust and upper mantle material.)",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The oceanic crust is composed of heavier, denser rocks rich in silica and magnesium, and is often referred to as:",
+    "options": [
+      "SIAL",
+      "SIMA",
+      "NIFE",
+      "Granite"
+    ],
+    "correct_index": 1,
+    "solution": "The oceanic crust is composed of heavier, denser rocks (like basalt) that are rich in silica (Si) and magnesium (Mg), and it is therefore often referred to as 'SIMA' (from SIlicon + MAgnesium). The SIMA (oceanic crust) is denser and heavier than the SIAL (continental crust). This difference (lighter SIAL continental crust 'floating' on denser SIMA) is important in understanding the crust and the behaviour of the continents and ocean floors.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The layer of the Earth's interior that lies between the crust and the core is the:",
+    "options": [
+      "Core",
+      "Mantle",
+      "Crust",
+      "Hydrosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The mantle is the layer of the Earth's interior that lies between the crust (above) and the core (below). It is the thick middle layer of the Earth, extending from the base of the crust down to the core (to a depth of about 2,900 km). The mantle is composed mainly of dense, rocky (silicate) material rich in iron and magnesium, and it makes up the largest part of the Earth's volume.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The boundary between the crust and the mantle is known as the:",
+    "options": [
+      "Gutenberg discontinuity",
+      "Mohorovicic discontinuity (Moho)",
+      "Conrad discontinuity",
+      "Lehmann discontinuity"
+    ],
+    "correct_index": 1,
+    "solution": "The boundary between the crust and the mantle is known as the Mohorovicic discontinuity, commonly called the 'Moho' (named after the seismologist Andrija Mohorovicic, who discovered it). At the Moho, there is a change in the composition and density of the material (and in the speed of seismic waves), marking the transition from the crust above to the mantle below. The Moho is an important boundary in the Earth's interior.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The uppermost part of the mantle, together with the crust, forms a rigid outer shell of the Earth called the:",
+    "options": [
+      "Asthenosphere",
+      "Lithosphere",
+      "Mesosphere",
+      "Barysphere"
+    ],
+    "correct_index": 1,
+    "solution": "The uppermost part of the mantle, together with the crust above it, forms a rigid (solid) outer shell of the Earth called the lithosphere. The lithosphere (crust + uppermost rigid mantle) is the rigid outer layer of the Earth, and it is broken into large pieces called tectonic plates (which move about — the basis of plate tectonics). The lithosphere lies above the more plastic asthenosphere. Understanding the lithosphere (crust + uppermost mantle) is important for understanding plate tectonics.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The layer of the upper mantle that lies just below the lithosphere, and which is partly molten/plastic (able to flow slowly), is the:",
+    "options": [
+      "Lithosphere",
+      "Asthenosphere",
+      "Crust",
+      "Inner core"
+    ],
+    "correct_index": 1,
+    "solution": "The asthenosphere is the layer of the upper mantle that lies just below the lithosphere. It is partly molten and plastic (soft and able to flow very slowly), unlike the rigid lithosphere above it. Because the asthenosphere is plastic and can flow, the rigid lithospheric plates above it are able to move about (float and drift) on top of it — which is the basis of plate tectonics and continental drift. The asthenosphere (the plastic layer beneath the lithosphere) is thus important as the layer on which the lithospheric plates move. Understanding the asthenosphere is important for understanding plate tectonics.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The innermost, central part of the Earth is the:",
+    "options": [
+      "Crust",
+      "Mantle",
+      "Core",
+      "Lithosphere"
+    ],
+    "correct_index": 2,
+    "solution": "The core is the innermost, central part of the Earth (below the mantle), extending from a depth of about 2,900 km to the centre of the Earth (about 6,371 km deep). The core is composed mainly of the heavy metals iron and nickel (and is therefore sometimes called 'NIFE', from NIckel + FErrum/iron), and it is the densest part of the Earth. The core is divided into an outer core (liquid) and an inner core (solid).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The core of the Earth is composed mainly of the heavy metals:",
+    "options": [
+      "Silicon and aluminium",
+      "Iron and nickel",
+      "Carbon and oxygen",
+      "Copper and zinc"
+    ],
+    "correct_index": 1,
+    "solution": "The core of the Earth is composed mainly of the heavy, dense metals iron and nickel. Because of this composition, the core is sometimes referred to as 'NIFE' (from NIckel + FErrum, the Latin word for iron). The heavy iron-nickel composition makes the core the densest part of the Earth (the heavy metals having sunk to the centre during the Earth's early differentiation). Understanding the iron-nickel composition of the core is a key point. The core is composed mainly of iron and nickel.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Earth's core is divided into two parts: the outer core and the inner core. The outer core is:",
+    "options": [
+      "Solid",
+      "Liquid (molten)",
+      "Gaseous",
+      "Made of rock"
+    ],
+    "correct_index": 1,
+    "solution": "The Earth's core is divided into two parts: the outer core and the inner core. The outer core is liquid (molten) — it is in a liquid, molten state (of iron and nickel). The inner core, by contrast, is solid (despite being even hotter, it is solid due to the enormous pressure at the centre of the Earth). The evidence that the outer core is liquid comes from the behaviour of seismic waves (S-waves, which cannot pass through liquid, do not pass through the outer core). Understanding that the outer core is liquid (and the inner core solid) is an important point. The outer core is liquid (molten), while the inner core is solid.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The inner core of the Earth, despite being extremely hot, is solid because of:",
+    "options": [
+      "Its low temperature",
+      "The immense pressure at the centre of the Earth",
+      "The lack of any metal",
+      "Being made of rock"
+    ],
+    "correct_index": 1,
+    "solution": "The inner core of the Earth is solid — despite being extremely hot (hotter even than the surface of the Sun in temperature) — because of the immense pressure at the centre of the Earth. The enormous pressure at the Earth's centre is so great that it keeps the iron-nickel material of the inner core in a solid state, even at those extremely high temperatures. (The outer core, at somewhat lower pressure, is liquid.) Understanding that the inner core is solid due to immense pressure (despite the high temperature) is an important point. The inner core is solid because of the immense pressure at the Earth's centre.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The boundary between the mantle and the core is known as the:",
+    "options": [
+      "Mohorovicic discontinuity",
+      "Gutenberg discontinuity",
+      "Conrad discontinuity",
+      "Lithosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The boundary between the mantle (above) and the core (below) is known as the Gutenberg discontinuity (named after the seismologist Beno Gutenberg). At the Gutenberg discontinuity (at a depth of about 2,900 km), there is a marked change in the composition and density of the material (from the rocky mantle to the metallic core) and in the behaviour of seismic waves. The Gutenberg discontinuity (mantle-core boundary) is an important boundary in the Earth's interior, distinct from the Mohorovicic discontinuity (Moho), which is the crust-mantle boundary. Understanding the Gutenberg discontinuity (mantle-core boundary) is a key point. The Gutenberg discontinuity is the boundary between the mantle and the core.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Most of our knowledge of the Earth's deep interior (which cannot be directly observed or reached) comes from the study of:",
+    "options": [
+      "Satellite photographs",
+      "Seismic waves (earthquake waves) and how they travel through the Earth",
+      "Ocean currents",
+      "Weather patterns"
+    ],
+    "correct_index": 1,
+    "solution": "Most of our knowledge of the Earth's deep interior — which cannot be directly observed, reached, or drilled into (we have only been able to drill a tiny fraction of the way through even the crust) — comes from the study of seismic waves (earthquake waves) and how they travel through the Earth. Earthquakes generate seismic waves that travel through the Earth's interior, and by studying how these waves travel — their speed, and how they are refracted (bent), reflected, or stopped as they pass through the different layers (which depends on the properties of the material) — scientists (seismologists) can deduce the structure, composition, and state (solid or liquid) of the Earth's interior layers. Thus, seismic waves are the main 'tool' or source of evidence for understanding the deep interior of the Earth. Understanding that seismic waves are the main source of knowledge about the Earth's interior is a key point. Seismic (earthquake) waves are the main source of knowledge about the Earth's deep interior.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Seismic waves generated by an earthquake are of two main types (body waves): the primary (P) waves and the:",
+    "options": [
+      "Surface waves only",
+      "Secondary (S) waves",
+      "Sound waves",
+      "Light waves"
+    ],
+    "correct_index": 1,
+    "solution": "The seismic (earthquake) waves that travel through the body of the Earth (body waves) are of two main types: the Primary waves (P-waves) and the Secondary waves (S-waves). The P-waves are the faster of the two (they arrive first, hence 'primary'), and the S-waves are slower (arriving second, hence 'secondary'). (There are also surface waves, which travel along the surface and cause most of the destruction, but the two main body waves used to study the interior are the P-waves and S-waves.) Understanding the two types of body waves (P-waves and S-waves) is important for understanding how the Earth's interior is studied. The two main body waves are the primary (P) and secondary (S) waves.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Primary (P) waves are longitudinal (compressional) waves that:",
+    "options": [
+      "Cannot pass through anything",
+      "Can travel through solids, liquids, and gases, and are the fastest seismic waves",
+      "Travel only on the surface",
+      "Can pass only through liquids"
+    ],
+    "correct_index": 1,
+    "solution": "Primary (P) waves are longitudinal (compressional/push-pull) waves — they cause particles to move back and forth in the direction the wave travels (compressing and stretching the material). P-waves can travel through all types of material — solids, liquids, and gases — and they are the fastest of the seismic waves (arriving first at seismographs). Because P-waves can travel through liquids as well as solids, they can pass through the liquid outer core (though they are refracted/bent at its boundary). Understanding the nature of P-waves (longitudinal, fastest, can travel through solids, liquids, and gases) is important. P-waves are the fastest waves and can travel through solids, liquids, and gases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Secondary (S) waves are transverse waves that:",
+    "options": [
+      "Can travel through everything",
+      "Can travel only through solids (NOT through liquids or gases), and are slower than P-waves",
+      "Are the fastest waves",
+      "Travel only through liquids"
+    ],
+    "correct_index": 1,
+    "solution": "Secondary (S) waves are transverse (shear/side-to-side) waves — they cause particles to move at right angles (perpendicular) to the direction the wave travels. A crucial property of S-waves is that they can travel only through solids, and CANNOT travel through liquids (or gases) — because liquids and gases cannot support the shear (side-to-side) motion of transverse waves. S-waves are also slower than P-waves (arriving second). The fact that S-waves cannot pass through liquids is very important: the observation that S-waves do not pass through the outer core is the key evidence that the outer core is liquid (molten). Understanding the nature of S-waves (transverse, slower, and — crucially — able to travel only through solids, not liquids) is very important. S-waves can travel only through solids (not liquids), and are slower than P-waves.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The fact that secondary (S) waves do NOT pass through the outer core is the key evidence that the outer core is:",
+    "options": [
+      "Solid",
+      "Liquid (molten)",
+      "Gaseous",
+      "Made of rock"
+    ],
+    "correct_index": 1,
+    "solution": "The fact that secondary (S) waves do NOT pass through the Earth's outer core is the key evidence that the outer core is liquid (molten). Because S-waves (transverse waves) can travel only through solids and cannot travel through liquids, the observation that S-waves are stopped at the outer core boundary and do not pass through the outer core tells us that the outer core must be liquid (molten) — since if it were solid, the S-waves would pass through it. This is a crucial and elegant example of how the behaviour of seismic waves reveals the state (solid or liquid) of the Earth's interior layers. Thus, the blocking of S-waves by the outer core is the key evidence that the outer core is liquid. Understanding this key evidence (S-waves not passing through the outer core, showing it is liquid) is very important. The blocking of S-waves by the outer core shows that the outer core is liquid.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The region on the Earth's surface where seismic waves (especially S-waves and some P-waves) from an earthquake are not detected, due to their being blocked or bent by the core, is called the:",
+    "options": [
+      "Epicentre",
+      "Shadow zone",
+      "Focus",
+      "Fault"
+    ],
+    "correct_index": 1,
+    "solution": "The 'shadow zone' is the region on the Earth's surface where seismic waves from an earthquake are not detected (received) — because the waves have been blocked, refracted (bent), or otherwise prevented from reaching that area by the Earth's core. The S-waves (which cannot pass through the liquid outer core) create a large S-wave shadow zone on the far side of the Earth (beyond a certain angular distance), where no S-waves are received. The P-waves are refracted (bent) by the core, creating a P-wave shadow zone (a ring-shaped band) where P-waves are not directly received. The existence and pattern of these shadow zones is important evidence for the existence, size, and properties (including the liquid state of the outer core) of the Earth's core. Understanding the shadow zone (where seismic waves are not received, due to the core) is an important point. The shadow zone is where seismic waves are not detected, due to being blocked or bent by the core.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The point inside the Earth where an earthquake originates (where the rupture/energy release begins) is called the:",
+    "options": [
+      "Epicentre",
+      "Focus (or hypocentre)",
+      "Shadow zone",
+      "Fault"
+    ],
+    "correct_index": 1,
+    "solution": "The focus (also called the hypocentre) is the point inside the Earth (below the surface) where an earthquake originates — where the rupture, movement, or release of energy begins (usually along a fault). The seismic waves radiate outward from the focus. (The point on the Earth's surface directly above the focus is called the epicentre.) Understanding the difference between the focus (the point of origin inside the Earth) and the epicentre (the point on the surface above it) is important. The focus is the point inside the Earth where an earthquake originates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The point on the Earth's surface directly above the focus of an earthquake is called the:",
+    "options": [
+      "Focus",
+      "Epicentre",
+      "Shadow zone",
+      "Discontinuity"
+    ],
+    "correct_index": 1,
+    "solution": "The epicentre is the point on the Earth's surface directly above the focus (the point of origin of the earthquake inside the Earth). The epicentre is usually the place where the effects of the earthquake are felt most strongly (as it is closest to the focus/origin). When the location of an earthquake is reported, it is usually the location of the epicentre that is given. Understanding the epicentre (the point on the surface above the focus) is important, and it is distinct from the focus (the underground point of origin). The epicentre is the point on the surface directly above the earthquake's focus.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument used to detect and record seismic waves (earthquakes) is called a:",
+    "options": [
+      "Barometer",
+      "Seismograph (seismometer)",
+      "Thermometer",
+      "Anemometer"
+    ],
+    "correct_index": 1,
+    "solution": "The instrument used to detect, measure, and record seismic waves (the vibrations produced by earthquakes) is called a seismograph (or seismometer). A seismograph records the arrival and characteristics of the seismic waves (as a 'seismogram'), and the data from seismographs (at many locations) are used to locate earthquakes, measure their magnitude, and — importantly — to study the Earth's interior (from how the waves travel). Understanding that a seismograph is used to record earthquakes is a basic point. A seismograph is the instrument used to detect and record seismic waves.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scale commonly used to measure the magnitude (energy/strength) of an earthquake is the:",
+    "options": [
+      "Beaufort scale",
+      "Richter scale",
+      "Celsius scale",
+      "pH scale"
+    ],
+    "correct_index": 1,
+    "solution": "The Richter scale is the scale commonly used to measure the magnitude — the energy released, or the 'size'/strength — of an earthquake. The Richter scale is a logarithmic scale (each whole number increase represents about 10 times greater amplitude and much more energy), and it gives a number expressing the magnitude of the earthquake (based on the seismic waves recorded). (There is also the Mercalli scale, which measures the intensity — the observed effects and damage — of an earthquake at a particular place, as distinct from the magnitude.) Understanding that the Richter scale measures earthquake magnitude is a basic point. The Richter scale measures the magnitude (strength) of an earthquake.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Earthquakes are most commonly caused by:",
+    "options": [
+      "Rainfall",
+      "The sudden release of energy along faults in the Earth's crust, often at the boundaries of tectonic plates",
+      "The Moon's light",
+      "Ocean waves"
+    ],
+    "correct_index": 1,
+    "solution": "Earthquakes are most commonly caused by the sudden release of energy that occurs when rocks under stress in the Earth's crust (and upper mantle) suddenly break, rupture, and move along a fracture called a fault. Stress builds up in the rocks (often due to the movement of tectonic plates), and when the stress exceeds the strength of the rocks, they suddenly break and move (slip) along a fault, releasing the stored energy as seismic waves — causing an earthquake. Earthquakes therefore most commonly occur along faults, and especially at or near the boundaries of the tectonic plates (where the plates interact — colliding, moving apart, or sliding past each other — building up stress). Thus, earthquakes are caused by the sudden release of energy along faults, often at plate boundaries. Understanding the cause of earthquakes (sudden release of energy along faults, often at plate boundaries) is important. Earthquakes are caused by the sudden release of energy along faults, often at plate boundaries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A volcano is a vent or opening in the Earth's crust through which:",
+    "options": [
+      "Only water comes out",
+      "Molten rock (magma/lava), gases, and ash erupt from the interior onto the surface",
+      "Only air escapes",
+      "Nothing comes out"
+    ],
+    "correct_index": 1,
+    "solution": "A volcano is a vent or opening in the Earth's crust (surface) through which molten rock (called magma when underground, and lava when it reaches the surface), along with gases, ash, and other volcanic materials, erupts from the Earth's interior onto the surface. Volcanoes occur where magma from beneath the crust finds its way to the surface, often building up cone-shaped mountains (volcanoes) from the erupted material. Volcanoes are important features of the Earth, associated with the movement of tectonic plates and the release of heat and material from the interior. Understanding what a volcano is (a vent through which magma/lava, gases, and ash erupt) is a basic point. A volcano is a vent through which molten rock, gases, and ash erupt onto the surface.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Molten rock beneath the Earth's surface is called magma, while molten rock that has erupted onto the surface is called:",
+    "options": [
+      "Ash",
+      "Lava",
+      "Basalt only",
+      "Steam"
+    ],
+    "correct_index": 1,
+    "solution": "Molten (liquid, hot) rock beneath the Earth's surface (within the crust or mantle) is called magma. When this molten rock erupts through a volcano and flows out onto the Earth's surface, it is called lava. (So it is the same molten rock material — called magma when underground, and lava when it has reached the surface.) Understanding the distinction between magma (underground molten rock) and lava (molten rock on the surface) is a basic point. Magma is molten rock underground; lava is molten rock that has erupted onto the surface.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Volcanoes and earthquakes are found especially along the boundaries of the Earth's:",
+    "options": [
+      "Rivers",
+      "Tectonic plates",
+      "Deserts",
+      "Forests"
+    ],
+    "correct_index": 1,
+    "solution": "Volcanoes and earthquakes are found especially concentrated along the boundaries of the Earth's tectonic plates — the large rigid pieces (plates) into which the Earth's lithosphere is broken, which move about relative to one another. At the plate boundaries, where the plates interact (colliding, moving apart, or sliding past one another), stresses build up and magma can rise, so most of the world's earthquakes and volcanoes occur along these plate boundaries (for example, around the margins of the Pacific Ocean — the 'Ring of Fire' — where many plates meet). The concentration of volcanoes and earthquakes along the plate boundaries is a key piece of evidence for plate tectonics, and it links these phenomena to the movement and interaction of the tectonic plates. Understanding that volcanoes and earthquakes occur especially along plate boundaries is an important point. Volcanoes and earthquakes are found especially along the boundaries of the tectonic plates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperature and pressure inside the Earth generally:",
+    "options": [
+      "Decrease with depth",
+      "Increase with depth (towards the interior/centre)",
+      "Stay the same throughout",
+      "Are zero"
+    ],
+    "correct_index": 1,
+    "solution": "The temperature and the pressure inside the Earth generally increase with depth — that is, they get higher as one goes deeper into the Earth, towards the interior and the centre. The temperature increases with depth (the interior of the Earth is very hot, due to heat left over from its formation and from radioactivity — the temperature at the centre being estimated at several thousand degrees Celsius); and the pressure also increases with depth (due to the weight of the overlying material), becoming immense at the centre. This increase of temperature and pressure with depth is important — for example, it explains why the inner core is solid (due to the immense pressure) despite the high temperature. Understanding that temperature and pressure increase with depth inside the Earth is a basic and important point. Temperature and pressure increase with depth inside the Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Volcanoes that erupt gently, building broad, gently-sloping cones from fluid (runny) lava, are called:",
+    "options": [
+      "Composite volcanoes",
+      "Shield volcanoes",
+      "Cinder cones only",
+      "Calderas"
+    ],
+    "correct_index": 1,
+    "solution": "Shield volcanoes are volcanoes that erupt relatively gently and build broad, gently-sloping, dome-like cones (shaped somewhat like a warrior's shield lying on the ground), formed from fluid, runny (low-viscosity) lava (usually basaltic lava) that flows easily and spreads out over a wide area before solidifying. Because the lava is fluid and flows far, shield volcanoes have broad bases and gentle slopes (rather than steep, tall cones). (The volcanoes of Hawaii are famous examples of shield volcanoes.) Shield volcanoes are contrasted with composite (strato-) volcanoes, which are built of alternating layers of lava and ash from more explosive eruptions and have steep, tall cones. Understanding shield volcanoes (broad, gentle cones from fluid lava) is a point about volcanic landforms. Shield volcanoes are broad, gently-sloping volcanoes built from fluid lava.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A large, basin-shaped depression formed by the collapse of a volcano (or a very large volcanic explosion) is called a:",
+    "options": [
+      "Crater lake only",
+      "Caldera",
+      "Fault",
+      "Delta"
+    ],
+    "correct_index": 1,
+    "solution": "A caldera is a large, basin-shaped depression (much larger than an ordinary volcanic crater) formed by the collapse of the top of a volcano into the emptied magma chamber below (or by a very large, violent volcanic explosion). After a great eruption empties the magma chamber, the summit of the volcano may collapse inward into the void, creating a large, roughly circular, basin-shaped depression — a caldera. Calderas can be very large (many kilometres across), and they may fill with water to form a lake (a caldera lake). Understanding what a caldera is (a large depression formed by the collapse of a volcano) is a point about volcanic landforms. A caldera is a large, basin-shaped depression formed by the collapse of a volcano.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Earth's magnetic field is generated mainly by:",
+    "options": [
+      "The Sun",
+      "The motion of the liquid metallic (iron-nickel) outer core (the 'geodynamo')",
+      "The crust",
+      "The atmosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The Earth's magnetic field (which makes compasses point north-south, and which shields the Earth from harmful solar radiation) is generated mainly by the motion (flow and circulation) of the liquid, metallic (iron-nickel) outer core — a process known as the 'geodynamo'. The movement of the electrically-conducting molten metal in the outer core, along with the Earth's rotation, generates electric currents that produce the Earth's magnetic field. Thus, the liquid outer core is responsible for generating the Earth's magnetic field. Understanding that the Earth's magnetic field is generated by the liquid outer core (the geodynamo) is an important point. The Earth's magnetic field is generated by the motion of the liquid outer core.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The direct sources of information about the Earth's interior include:",
+    "options": [
+      "Only earthquakes",
+      "Rocks and materials obtained from mining, drilling (boreholes), and volcanic eruptions (which bring up material from below)",
+      "Only satellites",
+      "Nothing"
+    ],
+    "correct_index": 1,
+    "solution": "The direct sources of information about the Earth's interior include: the rocks and materials obtained from mining (deep mines) and drilling (deep boreholes), which allow direct examination of the crust to the limited depths reached; and the material (magma/lava and other volcanic products) brought up from below by volcanic eruptions, which provides samples of material from beneath the surface. These direct sources, however, only reach or sample the crust and the uppermost part of the interior (we can only mine or drill a tiny fraction of the way into the Earth), so most knowledge of the deeper interior comes from indirect sources (especially seismic waves). Understanding the direct sources of information about the interior (mining, drilling, volcanic material) is a point. Direct sources include mining, drilling, and volcanic material.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The deepest hole ever drilled into the Earth's crust (the Kola Superdeep Borehole) reached a depth of only about 12 km, which shows that:",
+    "options": [
+      "We can drill to the centre of the Earth",
+      "Direct exploration of the interior is limited to a tiny fraction of even the crust, so most knowledge comes from indirect (especially seismic) evidence",
+      "The Earth is only 12 km deep",
+      "Drilling is easy"
+    ],
+    "correct_index": 1,
+    "solution": "The deepest hole ever drilled into the Earth's crust — the Kola Superdeep Borehole (in Russia) — reached a depth of only about 12 km, which is a tiny fraction of even the crust (and an even tinier fraction of the ~6,371 km to the centre of the Earth). This shows that direct exploration and drilling of the Earth's interior is extremely limited — reaching only a tiny fraction of even the crust — because of the enormous difficulties of drilling to great depths (increasing temperature, pressure, and technical challenges). Consequently, direct sources give information only about the uppermost part of the Earth, and most of our knowledge of the deeper interior comes from indirect evidence — especially the study of seismic (earthquake) waves. Understanding the limits of direct drilling (as shown by the Kola borehole) illustrates why indirect (seismic) evidence is essential for studying the interior. Direct drilling reaches only a tiny fraction of the crust, so most knowledge comes from seismic evidence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Indirect sources of information about the Earth's interior include seismic waves and also:",
+    "options": [
+      "Nothing else",
+      "Evidence from meteorites, and the study of the Earth's gravity, magnetic field, and density",
+      "Only weather data",
+      "Only ocean currents"
+    ],
+    "correct_index": 1,
+    "solution": "Indirect sources of information about the Earth's interior include, most importantly, the study of seismic (earthquake) waves, and also: evidence from meteorites (which are thought to be similar in composition to the material that formed the Earth, and so give clues about the Earth's interior, especially the metallic core); the study of the Earth's gravity (variations in gravity give information about the distribution of mass and density inside the Earth); the study of the Earth's magnetic field (generated by the liquid outer core, giving information about the core); and the study of the Earth's overall density (the average density of the whole Earth is much higher than the density of the surface rocks, indicating that the interior must be much denser — pointing to the dense metallic core). These indirect sources (seismic waves, meteorites, gravity, magnetic field, density) together provide the evidence for understanding the structure and composition of the Earth's deep interior. Understanding the range of indirect sources illustrates how the interior is studied. Indirect sources include seismic waves, meteorites, gravity, the magnetic field, and density.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The average density of the Earth as a whole is much greater than the density of the surface rocks, which indicates that:",
+    "options": [
+      "The interior is empty",
+      "The interior of the Earth must be much denser than the surface (pointing to a dense, heavy metallic core)",
+      "The Earth is light",
+      "The surface is the densest part"
+    ],
+    "correct_index": 1,
+    "solution": "The average density of the Earth as a whole (about 5.5 g/cm³) is much greater than the density of the surface rocks (about 2.7-3 g/cm³). This indicates that the interior of the Earth must be much denser than the surface — because if the whole Earth were made of material as light as the surface rocks, its average density would be much lower. The much higher average density of the whole Earth therefore points to the presence of a dense, heavy interior — in particular, a dense, heavy metallic (iron-nickel) core at the centre — which raises the average density of the whole Earth well above that of the surface rocks. Thus, the high average density of the Earth (compared to the surface rocks) is evidence for a dense, heavy metallic core in the interior. Understanding this evidence (from density) for a dense core illustrates one of the indirect sources of knowledge about the interior. The high average density of the Earth indicates a dense, heavy metallic core in the interior.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The density of the material inside the Earth generally:",
+    "options": [
+      "Decreases with depth",
+      "Increases with depth (the deeper layers being denser)",
+      "Is the same throughout",
+      "Is zero at the centre"
+    ],
+    "correct_index": 1,
+    "solution": "The density of the material inside the Earth generally increases with depth — the deeper layers of the Earth are denser than the shallower ones. The crust is the least dense; the mantle is denser than the crust; and the core (of heavy iron and nickel) is the densest part of all. This increase of density with depth is due partly to the composition of the layers (heavier materials, like the metallic core, being deeper) and partly to the compression of the material by the increasing pressure with depth. Understanding that density increases with depth inside the Earth is a basic and important point (consistent with the layered structure and the dense metallic core). Density increases with depth inside the Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The heat of the Earth's interior comes largely from:",
+    "options": [
+      "The Sun only",
+      "Heat left over from the Earth's formation, and heat generated by the decay of radioactive elements inside the Earth",
+      "The atmosphere",
+      "Ocean currents"
+    ],
+    "correct_index": 1,
+    "solution": "The heat of the Earth's interior (which makes the interior very hot, drives many geological processes, and increases with depth) comes largely from two main sources: (1) the heat left over from the Earth's formation (the primordial heat generated when the Earth formed by accretion and impacts, and during its early molten stage), which is still slowly being lost; and (2) the heat continuously generated by the decay of radioactive elements (such as uranium, thorium, and potassium) present within the Earth (radioactive decay releasing heat). These two sources — primordial heat from formation, and heat from radioactive decay — are the main sources of the Earth's internal heat. (This is distinct from the Sun's heat, which warms the Earth's surface and atmosphere but does not significantly heat the deep interior.) Understanding the sources of the Earth's internal heat (primordial heat and radioactive decay) is an important point. The Earth's internal heat comes from heat left over from its formation and from radioactive decay.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Ring of Fire' refers to:",
+    "options": [
+      "A desert region",
+      "The belt of frequent earthquakes and volcanoes around the margins of the Pacific Ocean (where many tectonic plates meet)",
+      "A forest fire zone",
+      "A ring around the Sun"
+    ],
+    "correct_index": 1,
+    "solution": "The 'Ring of Fire' (or Pacific Ring of Fire) refers to the belt or zone of frequent earthquakes and numerous active volcanoes that encircles the margins (edges) of the Pacific Ocean — running along the west coasts of the Americas, and along the eastern edge of Asia and through the islands of the western Pacific (Japan, Indonesia, etc.). This 'Ring of Fire' is a zone where many tectonic plates meet and interact (especially where oceanic plates are subducted beneath others), producing intense seismic and volcanic activity. A very large proportion of the world's earthquakes and active volcanoes occur along this Ring of Fire. The Ring of Fire is a striking example of the concentration of earthquakes and volcanoes along plate boundaries, and it illustrates the link between these phenomena and the movement and interaction of the tectonic plates. Understanding the 'Ring of Fire' (the belt of earthquakes and volcanoes around the Pacific) is an important point. The 'Ring of Fire' is the belt of earthquakes and volcanoes around the margins of the Pacific Ocean.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scale that measures the intensity (the observed effects and damage) of an earthquake at a particular place, as distinct from its magnitude, is the:",
+    "options": [
+      "Richter scale",
+      "Mercalli scale",
+      "Beaufort scale",
+      "Kelvin scale"
+    ],
+    "correct_index": 1,
+    "solution": "The Mercalli scale (Modified Mercalli Intensity scale) measures the intensity of an earthquake — that is, the strength of the shaking and the observed effects and damage caused by the earthquake at a particular place — as distinct from its magnitude. The intensity (Mercalli) is based on observations of the effects (how strongly the shaking was felt, and the damage to buildings and the environment) at a given location, and it varies from place to place (being greater near the epicentre and less farther away). This is different from the magnitude (measured by the Richter scale), which is a single number expressing the total energy or 'size' of the earthquake (the same for the whole earthquake, regardless of location). Thus, the Mercalli scale measures intensity (local effects/damage), while the Richter scale measures magnitude (energy/size). Understanding the distinction between intensity (Mercalli) and magnitude (Richter) is an important point. The Mercalli scale measures the intensity (effects/damage) of an earthquake at a place.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A very large ocean wave caused by an undersea earthquake (or other disturbance of the sea floor) is called a:",
+    "options": [
+      "Tide",
+      "Tsunami",
+      "Trade wind",
+      "Meander"
+    ],
+    "correct_index": 1,
+    "solution": "A tsunami is a very large and powerful ocean wave (or series of waves) caused by a sudden disturbance of the sea floor — most commonly by a large undersea (submarine) earthquake, but also possibly by undersea volcanic eruptions, landslides, or other disturbances. The sudden movement of the sea floor displaces a huge volume of water, generating waves that travel across the ocean at high speed and can grow very large and destructive as they approach and strike coastlines, causing great destruction and loss of life. Tsunamis are thus a serious hazard associated with undersea earthquakes (and other sea-floor disturbances). (The Indian Ocean tsunami of 2004, caused by a great undersea earthquake, was a catastrophic example.) Understanding what a tsunami is (a large ocean wave caused by an undersea earthquake or disturbance) is an important point. A tsunami is a large ocean wave caused by an undersea earthquake or disturbance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the correct order of the Earth's layers from the surface to the centre, with their approximate depths?",
+    "options": [
+      "Core (0-30 km), mantle, crust",
+      "Crust (thin, surface), mantle (to ~2,900 km), core (to ~6,371 km, centre)",
+      "Mantle first, then crust, then core",
+      "Crust to the centre"
+    ],
+    "correct_index": 1,
+    "solution": "The correct order of the Earth's layers, from the surface to the centre, with their approximate depths, is: the crust (the thin, outermost layer — averaging about 30 km thick under the continents, but only about 5 km under the oceans); the mantle (extending from the base of the crust down to a depth of about 2,900 km); and the core (extending from about 2,900 km down to the centre of the Earth at about 6,371 km — with the liquid outer core from ~2,900 to ~5,150 km, and the solid inner core from ~5,150 km to the centre). Thus, from the surface inward: crust (thin), mantle (to ~2,900 km), and core (to ~6,371 km, the centre). Knowing the order and approximate depths of the layers (crust, mantle to ~2,900 km, core to ~6,371 km) is an important point. From the surface to the centre: crust (thin), mantle (to ~2,900 km), core (to ~6,371 km).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The continental crust is generally __________ than the oceanic crust.",
+    "options": [
+      "Thinner and denser",
+      "Thicker and less dense (lighter)",
+      "Exactly the same",
+      "Made of the same rocks"
+    ],
+    "correct_index": 1,
+    "solution": "The continental crust is generally thicker and less dense (lighter) than the oceanic crust. The continental crust (under the continents) is thicker (averaging about 30 km, and up to 60-70 km under high mountain ranges) and is made of lighter, less dense rocks (SIAL — rich in silica and aluminium, like granite). The oceanic crust (under the oceans) is thinner (about 5 km) and is made of heavier, denser rocks (SIMA — rich in silica and magnesium, like basalt). Thus, the continental crust is thicker and lighter, while the oceanic crust is thinner and denser. This difference (lighter, thicker continental crust; denser, thinner oceanic crust) is important — for example, it relates to why the continents 'stand higher' and the ocean basins are lower, and it is relevant to plate tectonics. Understanding the difference between the continental and oceanic crust (continental thicker and lighter; oceanic thinner and denser) is an important point. The continental crust is thicker and less dense than the oceanic crust.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Seismic waves change their speed and direction (are refracted) as they pass from one layer of the Earth to another because:",
+    "options": [
+      "The waves get tired",
+      "The different layers have different densities, compositions, and physical properties (which affect the speed and path of the waves)",
+      "The waves are alive",
+      "There is no reason"
+    ],
+    "correct_index": 1,
+    "solution": "Seismic waves change their speed, and are refracted (bent) in their direction, as they pass from one layer of the Earth to another because the different layers of the Earth's interior have different densities, compositions, and physical properties (such as being solid or liquid, and of different rigidity). The speed of seismic waves depends on the properties of the material they are travelling through (they travel faster through denser, more rigid material, and their speed changes at boundaries between materials of different properties); and when a wave passes from one material to another of different properties (at a boundary or discontinuity), it is refracted (bent) — just as light is bent when it passes from air into water. By studying these changes in the speed and path (refraction) of the seismic waves as they pass through the Earth, seismologists can deduce the boundaries (discontinuities), the layered structure, and the properties (composition, density, solid/liquid state) of the Earth's interior. Thus, seismic waves change speed and are refracted because the layers have different properties, and studying these changes reveals the structure of the interior. Understanding why seismic waves change speed and are refracted (due to the different properties of the layers) illustrates how seismic waves reveal the interior structure. Seismic waves change speed and are refracted because the layers have different densities, compositions, and properties.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Volcanic eruptions and earthquakes are examples of __________ forces that shape the Earth's surface.",
+    "options": [
+      "External (exogenic)",
+      "Internal (endogenic) forces — originating within the Earth",
+      "Man-made",
+      "Atmospheric"
+    ],
+    "correct_index": 1,
+    "solution": "Volcanic eruptions and earthquakes are examples of internal (endogenic) forces that shape the Earth's surface — forces that originate within the Earth (from its interior, driven by its internal heat and dynamics). Endogenic (internal) forces — such as those causing earthquakes, volcanoes, the movement of tectonic plates, and the building of mountains — arise from within the Earth (from the heat and processes of the interior) and act to build up, deform, and shape the Earth's surface and crust (creating features like mountains, volcanoes, and faults). (These are contrasted with the exogenic (external) forces — like weathering, erosion by rivers, wind, and glaciers — which act on the surface from outside, driven by the Sun's energy and gravity, and which wear down and shape the surface.) Thus, volcanoes and earthquakes are examples of endogenic (internal) forces, originating within the Earth. Understanding that volcanoes and earthquakes are internal (endogenic) forces, originating within the Earth, is an important point (linking the interior to the shaping of the surface). Volcanoes and earthquakes are internal (endogenic) forces, originating within the Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lithosphere (the rigid outer shell of crust and uppermost mantle) is broken into several large and small pieces called:",
+    "options": [
+      "Continents only",
+      "Tectonic plates (lithospheric plates)",
+      "Oceans",
+      "Discontinuities"
+    ],
+    "correct_index": 1,
+    "solution": "The lithosphere — the rigid outer shell of the Earth, made up of the crust and the uppermost rigid part of the mantle — is broken into several large and small pieces called tectonic plates (or lithospheric plates). These plates 'float' and move slowly about on the plastic asthenosphere beneath them (driven by the heat and convection currents in the mantle). The movement and interaction of these tectonic plates — colliding, moving apart, or sliding past one another at their boundaries — is the basis of the theory of plate tectonics, and it gives rise to many major features and phenomena of the Earth (such as the building of mountains, the formation of ocean basins, the movement of continents (continental drift), and the concentration of earthquakes and volcanoes along the plate boundaries). Thus, the lithosphere is broken into tectonic plates, whose movement shapes the Earth. Understanding that the lithosphere is broken into tectonic plates (which move) is an important point, fundamental to plate tectonics. The lithosphere is broken into tectonic plates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a discontinuity with the boundary it marks?",
+    "options": [
+      "Moho — mantle-core boundary",
+      "Moho (Mohorovicic) — crust-mantle boundary; Gutenberg — mantle-core boundary",
+      "Gutenberg — crust-mantle boundary",
+      "Moho — inner-outer core boundary"
+    ],
+    "correct_index": 1,
+    "solution": "The correct matches are: the Mohorovicic discontinuity (Moho) marks the boundary between the crust and the mantle; and the Gutenberg discontinuity marks the boundary between the mantle and the core. (These are the two most important major discontinuities in the Earth's interior. There is also the Lehmann discontinuity, between the outer and inner core, and the Conrad discontinuity within the crust.) Knowing which discontinuity marks which boundary — Moho (crust-mantle) and Gutenberg (mantle-core) — is an important point for understanding the structure of the Earth's interior. The Moho marks the crust-mantle boundary, and the Gutenberg discontinuity marks the mantle-core boundary.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The mantle can be divided into an upper mantle and a lower mantle. The upper mantle includes the plastic:",
+    "options": [
+      "Inner core",
+      "Asthenosphere (on which the lithospheric plates move)",
+      "Crust",
+      "Outer core"
+    ],
+    "correct_index": 1,
+    "solution": "The mantle can be divided into an upper mantle and a lower mantle. The upper mantle includes the plastic asthenosphere — the partly molten, plastic (soft, able to flow slowly) layer just below the rigid lithosphere. (The uppermost, rigid part of the upper mantle, together with the crust, forms the lithosphere; below that is the plastic asthenosphere; and below the asthenosphere the mantle continues, becoming the lower mantle.) The asthenosphere (in the upper mantle) is important because its plastic, flowing nature allows the rigid lithospheric (tectonic) plates above it to move about on top of it — the basis of plate tectonics. Understanding that the upper mantle includes the plastic asthenosphere (on which the plates move) is an important point. The upper mantle includes the plastic asthenosphere, on which the lithospheric plates move.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about P-waves and S-waves is correct?",
+    "options": [
+      "Both can travel through liquids",
+      "P-waves can travel through solids, liquids, and gases (and are faster), while S-waves can travel only through solids (and are slower)",
+      "S-waves are faster than P-waves",
+      "Neither can travel through solids"
+    ],
+    "correct_index": 1,
+    "solution": "The correct statement is: P-waves (primary waves) can travel through solids, liquids, and gases, and are the faster of the two (arriving first); while S-waves (secondary waves) can travel only through solids (not through liquids or gases), and are slower (arriving second). This difference is crucial: because S-waves cannot travel through liquids, the observation that S-waves do not pass through the outer core is the key evidence that the outer core is liquid; and the different behaviours of P-waves and S-waves (and their shadow zones) reveal the structure and state of the Earth's interior. Knowing the correct properties of P-waves (faster; through solids, liquids, gases) and S-waves (slower; through solids only) is very important. P-waves travel through solids, liquids, and gases and are faster; S-waves travel only through solids and are slower.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The study of the Earth's interior is important for physical geography because the interior and its dynamics:",
+    "options": [
+      "Are irrelevant to the surface",
+      "Drive the internal (endogenic) forces — like plate movements, earthquakes, and volcanoes — that shape the Earth's surface, continents, oceans, and landforms",
+      "Only affect the weather",
+      "Have no effect on anything"
+    ],
+    "correct_index": 1,
+    "solution": "The study of the Earth's interior is important for physical geography because the Earth's interior and its dynamics drive the internal (endogenic) forces that shape the Earth's surface and its major features. The heat and processes of the interior (mantle convection, driven by the internal heat) cause the movement of the tectonic plates (plate tectonics), which in turn produces many of the major features and phenomena of the Earth's surface — the movement of continents (continental drift), the building of mountains, the formation and reshaping of ocean basins, the concentration of earthquakes and volcanoes along plate boundaries, and the shaping of the crust and landforms. Thus, the interior of the Earth and its dynamics are the ultimate source of the internal (endogenic) forces that build up, deform, and shape the Earth's surface, continents, oceans, and landforms. Understanding the interior of the Earth is therefore fundamental to understanding these internal forces and processes and the features they produce — which are central concerns of physical geography (especially geomorphology, the study of landforms). Thus, the study of the Earth's interior provides the essential basis for understanding the internal forces (plate tectonics, earthquakes, volcanoes) that shape the Earth's surface. Understanding the importance of the interior for physical geography (as the source of the internal forces shaping the surface) illustrates its foundational role. The interior and its dynamics drive the internal forces that shape the Earth's surface and features.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three main concentric layers of the Earth's interior, from outer to inner, are the:",
+    "options": [
+      "Crust, mantle and core",
+      "Core, mantle and crust",
+      "Mantle, crust and core",
+      "Crust, core and mantle"
+    ],
+    "correct_index": 0,
+    "solution": "The Earth's interior consists of three main concentric layers: the crust (outermost), the mantle (middle), and the core (innermost).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Earth's core is divided into an outer core and an inner core; the outer core is:",
+    "options": [
+      "Liquid (molten)",
+      "Solid",
+      "Gaseous",
+      "Made of rock"
+    ],
+    "correct_index": 0,
+    "solution": "The Earth's core has two parts: the outer core, which is in a liquid (molten) state, and the inner core, which is solid despite the extremely high temperature, due to the immense pressure.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The inner core of the Earth, despite being extremely hot, is solid because of the:",
+    "options": [
+      "Enormous pressure",
+      "Low temperature",
+      "Lack of metal",
+      "Presence of water"
+    ],
+    "correct_index": 0,
+    "solution": "The inner core is solid, even though it is extremely hot, because the immense pressure at the centre of the Earth keeps the iron and nickel in a solid state.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The uppermost part of the mantle together with the crust forms the rigid outer shell called the:",
+    "options": [
+      "Lithosphere",
+      "Asthenosphere",
+      "Hydrosphere",
+      "Atmosphere"
+    ],
+    "correct_index": 0,
+    "solution": "The lithosphere is the rigid outer shell of the Earth, consisting of the crust and the uppermost (solid) part of the mantle; it is broken into tectonic plates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The partly molten, plastic layer of the upper mantle that lies just below the lithosphere is the:",
+    "options": [
+      "Asthenosphere",
+      "Inner core",
+      "Crust",
+      "Barysphere"
+    ],
+    "correct_index": 0,
+    "solution": "The asthenosphere is the upper part of the mantle just below the lithosphere; it is in a plastic, partly molten state and is the main source of magma, allowing the plates above to move.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Seismic waves generated by an earthquake are of two main body-wave types: primary (P) waves and:",
+    "options": [
+      "Secondary (S) waves",
+      "Surface waves only",
+      "Sound waves",
+      "Radio waves"
+    ],
+    "correct_index": 0,
+    "solution": "The two main types of body seismic waves are primary (P) waves and secondary (S) waves; there are also surface waves that travel along the Earth's surface.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The outer core of the Earth is believed to be liquid. Reason (R): S-waves do not pass through the outer core, and S-waves cannot travel through liquids.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "The outer core is inferred to be liquid because S-waves, which cannot travel through liquids, do not pass through it, creating a shadow zone — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Most of our knowledge of the Earth's deep interior is indirect. Reason (R): We cannot directly reach or observe the deep interior, so we rely mainly on seismic (earthquake) waves.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Since we cannot directly reach the deep interior, most of our knowledge comes indirectly from studying the behaviour of seismic waves as they pass through the Earth — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The point inside the Earth where an earthquake originates is called the:",
+    "options": [
+      "Focus (hypocentre)",
+      "Epicentre",
+      "Fault",
+      "Crater"
+    ],
+    "correct_index": 0,
+    "solution": "The focus (or hypocentre) is the point inside the Earth where an earthquake originates and from which seismic waves spread outward.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument used to detect and record seismic waves (earthquakes) is the:",
+    "options": [
+      "Seismograph",
+      "Barometer",
+      "Thermometer",
+      "Anemometer"
+    ],
+    "correct_index": 0,
+    "solution": "A seismograph (or seismometer) is the instrument used to detect and record the seismic waves produced by earthquakes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scale commonly used to measure the magnitude (energy released) of an earthquake is the:",
+    "options": [
+      "Richter scale",
+      "Mercalli scale",
+      "Beaufort scale",
+      "Celsius scale"
+    ],
+    "correct_index": 0,
+    "solution": "The Richter scale measures the magnitude (the amount of energy released) of an earthquake, while the Mercalli scale measures its intensity (observed effects).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scale that measures the intensity (observed effects and damage) of an earthquake is the:",
+    "options": [
+      "Mercalli scale",
+      "Richter scale",
+      "Beaufort scale",
+      "pH scale"
+    ],
+    "correct_index": 0,
+    "solution": "The Mercalli scale measures the intensity of an earthquake based on its observed effects and the damage it causes, ranging from feeble tremors to total destruction.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Molten rock beneath the Earth's surface is called magma; when it reaches the surface it is called:",
+    "options": [
+      "Lava",
+      "Sediment",
+      "Ore",
+      "Ash only"
+    ],
+    "correct_index": 0,
+    "solution": "Molten rock below the surface is called magma; when it erupts and flows out onto the Earth's surface, it is called lava.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Volcanoes and earthquakes are found especially along the:",
+    "options": [
+      "Boundaries of tectonic plates",
+      "Centres of continents",
+      "Ocean floors only",
+      "Deserts"
+    ],
+    "correct_index": 0,
+    "solution": "Most volcanoes and earthquakes occur along the boundaries of the tectonic plates, where the plates interact — colliding, separating or sliding past one another.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A very large ocean wave caused by an undersea earthquake is called a:",
+    "options": [
+      "Tsunami",
+      "Tide",
+      "Current",
+      "Cyclone"
+    ],
+    "correct_index": 0,
+    "solution": "A tsunami is a very large and powerful ocean wave generated by an undersea earthquake, volcanic eruption or landslide, which can cause great destruction on reaching coasts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match the discontinuity with the boundary it marks: (i) Moho (ii) Gutenberg — (a) mantle-core boundary (b) crust-mantle boundary:",
+    "options": [
+      "(i)-b, (ii)-a",
+      "(i)-a, (ii)-b",
+      "Both (a)",
+      "Both (b)"
+    ],
+    "correct_index": 0,
+    "solution": "The Mohorovicic discontinuity (Moho) marks the crust-mantle boundary, and the Gutenberg discontinuity marks the mantle-core boundary.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Indirect sources of information about the Earth's interior include:",
+    "options": [
+      "Seismic waves, gravity, magnetic field and meteorites",
+      "Only mining",
+      "Only rainfall",
+      "Only photographs"
+    ],
+    "correct_index": 0,
+    "solution": "Indirect sources of information about the deep interior include the study of seismic (earthquake) waves, the Earth's gravity and magnetic field, the temperature and pressure gradients, and the analysis of meteorites.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The continental crust is largely composed of lighter rocks rich in silica and aluminium, called:",
+    "options": [
+      "SIAL",
+      "SIMA",
+      "NIFE",
+      "Basalt only"
+    ],
+    "correct_index": 0,
+    "solution": "The continental crust is composed largely of lighter rocks rich in silica (Si) and aluminium (Al), collectively called SIAL, while the oceanic crust (SIMA) is rich in silica and magnesium.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Volcanic eruptions and earthquakes are examples of __________ forces that shape the Earth.",
+    "options": [
+      "Endogenic (internal)",
+      "Exogenic (external)",
+      "Atmospheric",
+      "Oceanic"
+    ],
+    "correct_index": 0,
+    "solution": "Volcanic eruptions and earthquakes are examples of endogenic (internal) forces originating within the Earth, which shape its surface, as opposed to exogenic forces like weathering and erosion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A large, basin-shaped depression formed by the collapse of a volcano's summit is called a:",
+    "options": [
+      "Caldera",
+      "Crater lake only",
+      "Fault",
+      "Fold"
+    ],
+    "correct_index": 0,
+    "solution": "A caldera is a large, basin-shaped depression formed when the summit of a volcano collapses into the emptied magma chamber, often much larger than an ordinary crater.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Seismic waves change their speed and direction (are refracted) when they:",
+    "options": [
+      "Pass through layers of different density inside the Earth",
+      "Travel through uniform material",
+      "Stop moving",
+      "Reach the epicentre"
+    ],
+    "correct_index": 0,
+    "solution": "Seismic waves are refracted (bent) and change speed when they pass from one layer to another of different density and composition inside the Earth; this behaviour reveals the layered structure of the interior.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The region on the Earth's surface where certain seismic waves (especially S-waves) do not reach after an earthquake is called the:",
+    "options": [
+      "Shadow zone",
+      "Epicentre",
+      "Focus",
+      "Fault zone"
+    ],
+    "correct_index": 0,
+    "solution": "The 'shadow zone' is the region on the Earth's surface where seismic waves from an earthquake are not recorded; the S-wave shadow zone (where S-waves are absent) provides evidence of the liquid outer core.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The mantle can be divided into an upper mantle and a:",
+    "options": [
+      "Lower mantle",
+      "Second crust",
+      "Inner core",
+      "Outer crust"
+    ],
+    "correct_index": 0,
+    "solution": "The mantle is divided into the upper mantle (which includes the asthenosphere) and the lower mantle, extending down to the Gutenberg discontinuity at the mantle-core boundary.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The average density of the Earth as a whole is much greater than that of the surface rocks, which indicates that:",
+    "options": [
+      "The interior (core) must be composed of very dense material",
+      "The Earth is hollow",
+      "The surface is densest",
+      "Density is uniform"
+    ],
+    "correct_index": 0,
+    "solution": "The average density of the Earth is about 5.5, much higher than that of surface rocks (about 2.7), which indicates that the interior, especially the core, must be composed of much denser material like iron and nickel.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A volcano that erupts gently, building broad, gently-sloping cones of fluid basaltic lava, is a:",
+    "options": [
+      "Shield volcano",
+      "Composite (strato) volcano",
+      "Cinder cone only",
+      "Caldera"
+    ],
+    "correct_index": 0,
+    "solution": "Shield volcanoes erupt relatively gently, releasing fluid basaltic lava that spreads out to build broad, gently-sloping cones, such as those forming the Hawaiian islands.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is the correct order of the Earth's layers from the surface inward?",
+    "options": [
+      "Crust, mantle, outer core, inner core",
+      "Mantle, crust, core",
+      "Core, crust, mantle",
+      "Crust, core, mantle"
+    ],
+    "correct_index": 0,
+    "solution": "From the surface inward, the Earth's layers are: crust, mantle, outer core (liquid), and inner core (solid).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lithosphere (the rigid outer shell of the Earth) is broken into a number of large and small pieces called:",
+    "options": [
+      "Tectonic plates",
+      "Continents only",
+      "Discontinuities",
+      "Faults"
+    ],
+    "correct_index": 0,
+    "solution": "The lithosphere is broken into several large and small rigid pieces called tectonic (lithospheric) plates, which move slowly over the plastic asthenosphere, causing earthquakes, volcanoes and mountain building at their boundaries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The outermost, thin, solid layer of the Earth on which we live is the:",
+    "options": [
+      "Crust",
+      "Mantle",
+      "Core",
+      "Asthenosphere"
+    ],
+    "correct_index": 0,
+    "solution": "The crust is the outermost, thin, solid layer of the Earth, forming the surface on which we live; it is thicker under continents and thinner under oceans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The study of the Earth's interior is important for physical geography because it helps explain:",
+    "options": [
+      "Earthquakes, volcanoes, plate movements and the shaping of landforms",
+      "Only the weather",
+      "Only the oceans",
+      "Only population"
+    ],
+    "correct_index": 0,
+    "solution": "Studying the Earth's interior helps explain phenomena such as earthquakes, volcanoes, the movement of tectonic plates, and the forces that build mountains and shape the Earth's surface, which are central to physical geography.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The layer of the Earth between the crust and the core, making up the largest part of the Earth's volume, is the:",
+    "options": [
+      "Mantle",
+      "Lithosphere",
+      "Hydrosphere",
+      "Atmosphere"
+    ],
+    "correct_index": 0,
+    "solution": "The mantle lies between the crust and the core and makes up the largest portion of the Earth's volume; it is composed of dense, silicate rocks and includes the plastic asthenosphere in its upper part.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Interior of the Earth' is that:",
+    "options": [
+      "The Earth has a layered internal structure, studied mainly through seismic waves, that explains earthquakes and volcanoes",
+      "The Earth's interior is unknown",
+      "The Earth is uniform inside",
+      "The interior does not affect the surface"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter concludes that the Earth has a layered internal structure (crust, mantle, core), known mainly through the study of seismic waves and other indirect evidence, and that processes in the interior give rise to earthquakes, volcanoes and the movement of plates that shape the Earth's surface.",
+    "difficulty": "medium"
+  }
 ]
