@@ -1,52 +1,1058 @@
 [
-  { "stem": "India is located in which hemisphere(s)?", "options": ["Southern and Western hemispheres", "Northern and Eastern hemispheres", "Southern and Eastern hemispheres", "Northern and Western hemispheres"], "correct_index": 1, "solution": "India lies entirely in the Northern Hemisphere (north of the equator) and in the Eastern Hemisphere (east of the Prime Meridian). Its mainland extends between latitudes 8°4'N and 37°6'N (all north of the equator), and between longitudes 68°7'E and 97°25'E (all east of the Prime Meridian). So India is a country of the Northern and Eastern hemispheres. Understanding India's hemispheric location (Northern and Eastern) is a basic prelims point. India lies in the Northern and Eastern hemispheres.", "difficulty": "easy" },
-  { "stem": "The latitudinal extent of the Indian mainland is roughly between:", "options": ["8°4'N and 37°6'N", "6°N and 40°N", "10°S and 30°N", "0° and 23.5°N"], "correct_index": 0, "solution": "The latitudinal extent of the Indian mainland is roughly between 8°4'N (in the south) and 37°6'N (in the north). (If the southernmost point of India's territory — Indira Point in the Andaman & Nicobar Islands — is included, the southern limit is about 6°4'N.) So the mainland stretches from about 8°N to about 37°N. This latitudinal extent is important because it means the Tropic of Cancer (23.5°N) passes through the middle of the country, dividing it into a tropical south and a subtropical north. Understanding India's latitudinal extent (8°4'N–37°6'N) is a key prelims point. India's mainland extends from about 8°4'N to 37°6'N latitude.", "difficulty": "medium" },
-  { "stem": "The longitudinal extent of the Indian mainland is roughly between:", "options": ["68°7'E and 97°25'E", "60°E and 100°E", "70°W and 90°W", "0° and 82.5°E"], "correct_index": 0, "solution": "The longitudinal extent of the Indian mainland is roughly between 68°7'E (in the west) and 97°25'E (in the east). So India stretches through about 29 degrees of longitude from west to east. This longitudinal extent is significant because it causes a time difference of about 2 hours between the easternmost and westernmost parts of the country (as the Sun rises about 2 hours earlier in the east) — which is why India adopts a single Standard Time based on a central meridian. Understanding India's longitudinal extent (68°7'E–97°25'E) is a key prelims point. India's mainland extends from about 68°7'E to 97°25'E longitude.", "difficulty": "medium" },
-  { "stem": "The Tropic of Cancer (23°30'N) passes through roughly the middle of India, dividing it into a tropical south and a subtropical north. About how many Indian states does it pass through?", "options": ["Two", "Eight", "Twenty", "Zero"], "correct_index": 1, "solution": "The Tropic of Cancer (23°30'N, or 23.5°N) passes through roughly the middle of India, dividing the country into a (tropical) southern part and a (subtropical) northern part. It passes through eight Indian states — namely Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. (A helpful mnemonic uses the first letters: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram.) Understanding that the Tropic of Cancer passes through 8 Indian states is a prelims point. The Tropic of Cancer passes through 8 Indian states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram).", "difficulty": "hard" },
-  { "stem": "India is the __________ largest country in the world in terms of area.", "options": ["Second", "Seventh", "Tenth", "First"], "correct_index": 1, "solution": "India is the seventh largest country in the world in terms of area (geographical size). The six larger countries are Russia, Canada, the USA, China, Brazil, and Australia. India has an area of about 3.28 million square kilometres, which is about 2.4% of the total land area of the world. (India is the second most populous country, but the seventh largest by area.) Understanding that India is the 7th largest country by area is a key prelims point. India is the seventh largest country in the world by area.", "difficulty": "medium" },
-  { "stem": "The total area of India is about:", "options": ["1.2 million sq km", "3.28 million sq km (about 2.4% of the world's land area)", "10 million sq km", "0.5 million sq km"], "correct_index": 1, "solution": "The total area of India is about 3.28 million square kilometres (3,287,263 sq km), which is about 2.4% of the total land area of the world. This makes India the seventh largest country in the world by area. Its vast size gives India a great diversity of physical features, climates, soils, vegetation, and peoples. Understanding India's area (~3.28 million sq km, ~2.4% of the world) is a prelims point. India's area is about 3.28 million sq km — about 2.4% of the world's land area.", "difficulty": "medium" },
-  { "stem": "The standard meridian of India, on which Indian Standard Time (IST) is based, is:", "options": ["68°7'E", "82°30'E (82.5°E)", "97°25'E", "0° (Prime Meridian)"], "correct_index": 1, "solution": "The standard meridian of India is 82°30'E (82.5°E) longitude, and Indian Standard Time (IST) is based on the local time of this meridian. This meridian passes through Mirzapur (near Allahabad/Prayagraj) in Uttar Pradesh. A single standard meridian (and hence a single standard time) is used for the whole of India to avoid the confusion of different local times across the country's wide east-west extent. IST is 5 hours 30 minutes ahead of Greenwich Mean Time (GMT/UTC). Understanding India's standard meridian (82°30'E) is a key prelims point. India's standard meridian is 82°30'E, on which Indian Standard Time is based.", "difficulty": "medium" },
-  { "stem": "Indian Standard Time (IST) is ahead of Greenwich Mean Time (GMT) by:", "options": ["4 hours", "5 hours 30 minutes", "8 hours", "12 hours"], "correct_index": 1, "solution": "Indian Standard Time (IST) is ahead of Greenwich Mean Time (GMT/UTC) by 5 hours 30 minutes. This is because IST is based on the standard meridian of 82°30'E: since the Earth rotates 15° of longitude per hour (i.e., 1° = 4 minutes), 82.5° east of the Prime Meridian (0°) corresponds to a time difference of 82.5 × 4 = 330 minutes = 5 hours 30 minutes ahead. So when it is 12 noon GMT, it is 5:30 pm in India. Understanding that IST is GMT + 5:30 is a key prelims point. Indian Standard Time is 5 hours 30 minutes ahead of Greenwich Mean Time.", "difficulty": "medium" },
-  { "stem": "The time difference between the easternmost and westernmost points of India is about:", "options": ["30 minutes", "2 hours", "5 hours", "12 hours"], "correct_index": 1, "solution": "The time difference between the easternmost point (in Arunachal Pradesh, ~97°25'E) and the westernmost point (in Gujarat, ~68°7'E) of India is about 2 hours. This is because India stretches through roughly 29–30 degrees of longitude, and since the Earth turns 1° of longitude in 4 minutes, about 30° corresponds to about 120 minutes (2 hours). So the Sun rises about 2 hours earlier in the east (Arunachal Pradesh) than in the west (Gujarat). This is precisely why India uses a single Standard Time (based on the central meridian, 82°30'E) instead of different local times. Understanding this ~2-hour east-west time difference is a key prelims point. There is about a 2-hour time difference between the easternmost and westernmost parts of India.", "difficulty": "hard" },
-  { "stem": "The southernmost tip of the Indian mainland is:", "options": ["Indira Point", "Kanyakumari (Cape Comorin)", "Point Calimere", "Rameswaram"], "correct_index": 1, "solution": "The southernmost tip of the Indian mainland is Kanyakumari (also called Cape Comorin), located at the southern end of the peninsula in Tamil Nadu, where the Arabian Sea, the Bay of Bengal, and the Indian Ocean meet. (Note: the southernmost point of India's entire territory — including the islands — is Indira Point, in the Andaman & Nicobar Islands, which lies further south, at about 6°4'N. But the southernmost point of the mainland is Kanyakumari.) Understanding that Kanyakumari is the southernmost point of the mainland is a prelims point. Kanyakumari (Cape Comorin) is the southernmost tip of the Indian mainland.", "difficulty": "medium" },
-  { "stem": "The southernmost point of India's entire territory (including the islands), located in the Andaman & Nicobar Islands, is:", "options": ["Kanyakumari", "Indira Point", "Port Blair", "Car Nicobar"], "correct_index": 1, "solution": "The southernmost point of India's entire territory (including its islands) is Indira Point, located on the Great Nicobar Island in the Andaman & Nicobar Islands, at about 6°4'N latitude. (It was earlier called Pygmalion Point or Parsons Point.) This lies further south than Kanyakumari, which is only the southernmost point of the mainland. (Indira Point was submerged/affected during the 2004 tsunami.) Understanding that Indira Point is the southernmost point of India's territory is a prelims point. Indira Point (in the Andaman & Nicobar Islands) is the southernmost point of India's territory.", "difficulty": "hard" },
-  { "stem": "The Andaman and Nicobar Islands are located in the:", "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean near Africa", "Persian Gulf"], "correct_index": 1, "solution": "The Andaman and Nicobar Islands are located in the Bay of Bengal, to the south-east of the Indian mainland. They are a group of numerous islands, and they are of continental/oceanic origin (some associated with volcanic and tectonic activity — Barren Island, India's only active volcano, is here). Port Blair is their capital. (India's other main island group, the Lakshadweep Islands, lies in the Arabian Sea to the south-west of the mainland — those are coral islands.) Understanding that the Andaman & Nicobar Islands are in the Bay of Bengal is a prelims point. The Andaman and Nicobar Islands are located in the Bay of Bengal.", "difficulty": "medium" },
-  { "stem": "The Lakshadweep Islands are located in the:", "options": ["Bay of Bengal", "Arabian Sea", "Indian Ocean near Australia", "Red Sea"], "correct_index": 1, "solution": "The Lakshadweep Islands are located in the Arabian Sea, to the south-west of the Indian mainland (off the coast of Kerala). They are small coral islands (built by corals — atolls and reefs). Kavaratti is their capital. (This contrasts with the Andaman & Nicobar Islands, which lie in the Bay of Bengal to the south-east.) Understanding that the Lakshadweep Islands are coral islands in the Arabian Sea is a prelims point. The Lakshadweep Islands are coral islands located in the Arabian Sea.", "difficulty": "medium" },
-  { "stem": "The total length of India's land boundary (frontier) is about:", "options": ["5,000 km", "15,200 km", "7,500 km", "1,000 km"], "correct_index": 1, "solution": "The total length of India's land boundary (its land frontier with neighbouring countries) is about 15,200 km. (India's total coastline, including the mainland and the islands, is about 7,500 km.) India shares its long land boundary with several neighbouring countries. Understanding India's land boundary length (~15,200 km) is a prelims point. India's total land boundary is about 15,200 km long.", "difficulty": "hard" },
-  { "stem": "The total length of India's coastline (mainland + islands) is about:", "options": ["2,000 km", "7,500 km", "15,200 km", "500 km"], "correct_index": 1, "solution": "The total length of India's coastline is about 7,500 km (approximately 7,516.6 km), including the coastline of the mainland and of the Andaman & Nicobar and Lakshadweep island groups. India's long coastline (bordering the Arabian Sea, the Bay of Bengal, and the Indian Ocean) is important for fishing, trade, and ports, and gives India a large maritime interest. (This is distinct from the land boundary, which is about 15,200 km.) Understanding India's coastline length (~7,500 km) is a prelims point. India's total coastline (mainland and islands) is about 7,500 km long.", "difficulty": "medium" },
-  { "stem": "The country that shares the LONGEST land border with India is:", "options": ["Pakistan", "Bangladesh", "China", "Nepal"], "correct_index": 1, "solution": "Bangladesh shares the longest land border with India (about 4,096 km) — the longest of all India's neighbours. India's borders with its neighbours, in decreasing order of length, are roughly: Bangladesh (longest), then China, Pakistan, Nepal, Myanmar, Bhutan, and Afghanistan (shortest). Bangladesh is almost surrounded by India on three sides. Understanding that Bangladesh has the longest land border with India is a prelims point. Bangladesh shares the longest land border with India.", "difficulty": "hard" },
-  { "stem": "Which of the following countries is NOT a land neighbour of India?", "options": ["Nepal", "Bhutan", "Sri Lanka", "Myanmar"], "correct_index": 2, "solution": "Sri Lanka is NOT a land neighbour of India — it is an island country separated from India by the sea (the Gulf of Mannar and the Palk Strait), so it is a maritime (sea) neighbour, not a land neighbour. India's land neighbours (countries sharing a land border) are: Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, and Myanmar. (India's island/maritime neighbours are Sri Lanka and the Maldives.) Understanding that Sri Lanka is a maritime (not land) neighbour is a prelims point. Sri Lanka is a maritime neighbour of India, not a land neighbour.", "difficulty": "medium" },
-  { "stem": "India is separated from Sri Lanka by a narrow channel of the sea called the:", "options": ["Palk Strait (and Gulf of Mannar)", "Strait of Malacca", "Strait of Hormuz", "Bering Strait"], "correct_index": 0, "solution": "India is separated from Sri Lanka by a narrow channel of the sea formed by the Palk Strait and the Gulf of Mannar. Sri Lanka lies just off the south-eastern tip of India, across this shallow, narrow stretch of water. A chain of small islands and shoals (sometimes called Adam's Bridge or Rama Setu) lies between India and Sri Lanka across this gap. Understanding that the Palk Strait/Gulf of Mannar separates India from Sri Lanka is a prelims point. India is separated from Sri Lanka by the Palk Strait and the Gulf of Mannar.", "difficulty": "medium" },
-  { "stem": "India's location at the head of the Indian Ocean, with a long coastline and central position, gives it great importance for:", "options": ["Nothing in particular", "Maritime trade and strategic/commercial links between the East (Asia) and the West (Europe/Africa)", "Only local farming", "Studying deserts"], "correct_index": 1, "solution": "India's location — at the head of the Indian Ocean, occupying a central and commanding position with a long coastline (~7,500 km) — gives it great importance for maritime trade and strategic and commercial links between the countries of the East (East and Southeast Asia) and the West (Europe, Africa, and West Asia). The sea routes across the Indian Ocean, which pass close to India, have long connected the East and the West, and India's central position lets it participate in and influence this trade. This favourable location has made India a hub of trade and cultural contact since ancient times. Understanding the strategic/commercial importance of India's location is a prelims point. India's central location on the Indian Ocean makes it important for maritime trade linking the East and the West.", "difficulty": "medium" },
-  { "stem": "Assertion (A): India uses a single Standard Time for the whole country. Reason (R): There is about a 2-hour difference in local time between the eastern and western ends of India, and a single standard time (based on 82°30'E) avoids the confusion of many local times. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that India uses a single Standard Time (Indian Standard Time) for the whole country. And the reason is (R) that because India stretches through nearly 30° of longitude, there is about a 2-hour difference in local (solar) time between its eastern end (Arunachal Pradesh) and its western end (Gujarat); if each place kept its own local time, this would cause great confusion (in railways, offices, etc.) — so a single standard time, based on the central meridian of 82°30'E, is adopted for the whole country to avoid this confusion. So R correctly explains why India has a single standard time (A). Understanding this reasoning is a prelims point. India uses one Standard Time (based on 82°30'E) to avoid the confusion of the ~2-hour local-time difference across the country.", "difficulty": "hard" },
-  { "stem": "The north-south extent of the Indian mainland (from Kashmir to Kanyakumari) is about:", "options": ["1,000 km", "3,214 km", "5,000 km", "8,000 km"], "correct_index": 1, "solution": "The north-south extent of the Indian mainland — from the northernmost point (in Jammu & Kashmir) to the southernmost point (Kanyakumari) — is about 3,214 km. (The east-west extent, from the Rann of Kutch in Gujarat to Arunachal Pradesh, is about 2,933 km.) So India stretches a little more from north to south than from east to west. Understanding India's north-south extent (~3,214 km) is a prelims point. The north-south extent of the Indian mainland is about 3,214 km.", "difficulty": "hard" },
-  { "stem": "The east-west extent of the Indian mainland (from Gujarat to Arunachal Pradesh) is about:", "options": ["2,933 km", "5,000 km", "1,500 km", "7,500 km"], "correct_index": 0, "solution": "The east-west extent of the Indian mainland — from the Rann of Kutch (Gujarat) in the west to Arunachal Pradesh in the east — is about 2,933 km. (The north-south extent, from Kashmir to Kanyakumari, is a bit greater, about 3,214 km.) Interestingly, although the latitudinal (north-south) and longitudinal (east-west) extents span a similar number of degrees, the actual east-west distance is a little less than the north-south distance. Understanding India's east-west extent (~2,933 km) is a prelims point. The east-west extent of the Indian mainland is about 2,933 km.", "difficulty": "hard" },
-  { "stem": "Although the latitudinal and longitudinal extents of India span almost the same number of degrees, the actual distance between two degrees of latitude is __________ the distance between two degrees of longitude (in India).", "options": ["less than", "greater than", "equal to", "double"], "correct_index": 1, "solution": "Although India's latitudinal extent and longitudinal extent span almost the same number of degrees (about 30° each), the actual ground distance covered by each degree is different: the distance between two degrees of latitude is roughly constant everywhere (about 111 km per degree), but the distance between two degrees of longitude decreases as one moves away from the equator toward the poles (because the meridians of longitude converge toward the poles). Since India is north of the equator, its degrees of longitude are shorter (less than 111 km each) — so a degree of latitude covers a greater distance than a degree of longitude in India. This is why the north-south extent (~3,214 km) is greater than the east-west extent (~2,933 km) even though the degrees are similar. Understanding this (latitude degrees longer than longitude degrees away from the equator) is a prelims point. In India, the distance per degree of latitude is greater than per degree of longitude, because meridians converge poleward.", "difficulty": "hard" },
-  { "stem": "The group of north-eastern Indian states often called the 'Seven Sisters' does NOT include which of the following?", "options": ["Assam", "Manipur", "West Bengal", "Meghalaya"], "correct_index": 2, "solution": "West Bengal is NOT one of the 'Seven Sisters'. The 'Seven Sisters' are the seven north-eastern states of India: Assam, Aruna­chal Pradesh, Nagaland, Manipur, Mizoram, Tripura, and Meghalaya. (Sikkim, the eighth north-eastern state, is sometimes called the 'brother'.) West Bengal, though it borders the north-east, is not counted among the Seven Sisters. Understanding which states are the Seven Sisters is a prelims point. The Seven Sisters are Assam, Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura, and Meghalaya (not West Bengal).", "difficulty": "hard" },
-  { "stem": "The country that shares the SHORTEST land border with India is:", "options": ["Bhutan", "Afghanistan", "Nepal", "Myanmar"], "correct_index": 1, "solution": "Afghanistan shares the shortest land border with India (only about 106 km), along the Pakistan-occupied Kashmir (PoK) region in the north-west. India's neighbours by border length, from longest to shortest, are roughly: Bangladesh, China, Pakistan, Nepal, Myanmar, Bhutan, and Afghanistan (shortest). Understanding that Afghanistan has the shortest land border with India is a prelims point. Afghanistan shares the shortest land border with India.", "difficulty": "hard" },
-  { "stem": "The narrow water channel that separates the Andaman Islands from the Nicobar Islands is the:", "options": ["Ten Degree Channel", "Nine Degree Channel", "Palk Strait", "Duncan Passage"], "correct_index": 0, "solution": "The Ten Degree Channel is the stretch of sea (about 150 km wide) that separates the Andaman Islands (to the north) from the Nicobar Islands (to the south), in the Bay of Bengal. It is so named because it lies roughly along the 10°N line of latitude. (Not to be confused with the Nine Degree Channel, which separates the main Lakshadweep islands from Minicoy, and the Duncan Passage, which separates South Andaman from Little Andaman.) Understanding that the Ten Degree Channel separates the Andaman and Nicobar Islands is a prelims point. The Ten Degree Channel separates the Andaman Islands from the Nicobar Islands.", "difficulty": "hard" },
-  { "stem": "India's only active volcano is located on __________ Island in the Andaman & Nicobar group.", "options": ["Barren", "Car Nicobar", "North Sentinel", "Ross"], "correct_index": 0, "solution": "India's only active volcano is located on Barren Island, in the Andaman & Nicobar Islands (in the Bay of Bengal). Barren Island is an uninhabited island with an active volcano that has erupted several times. (The Andaman & Nicobar Islands lie in a tectonically active zone, which is also why the region is prone to earthquakes and was badly affected by the 2004 tsunami.) Understanding that Barren Island has India's only active volcano is a prelims point. India's only active volcano is on Barren Island in the Andaman & Nicobar Islands.", "difficulty": "hard" },
-  { "stem": "As of the reorganisation of states, India consists of how many States and Union Territories?", "options": ["28 States and 8 Union Territories", "25 States and 7 Union Territories", "29 States and 6 Union Territories", "30 States and 9 Union Territories"], "correct_index": 0, "solution": "India consists of 28 States and 8 Union Territories (following the reorganisation in which Jammu & Kashmir and Ladakh became union territories, and after the merger of some UTs). The States have their own elected governments, while the Union Territories are administered by the central government (some, like Delhi and Puducherry, have their own legislatures). (Note: this number has changed over time with reorganisations, so it is worth keeping up to date.) Understanding the number of Indian states and UTs (28 states, 8 UTs) is a prelims point. India has 28 States and 8 Union Territories.", "difficulty": "medium" },
-  { "stem": "The largest Indian state by area is:", "options": ["Madhya Pradesh", "Rajasthan", "Maharashtra", "Uttar Pradesh"], "correct_index": 1, "solution": "Rajasthan is the largest Indian state by area (about 342,000 sq km) — it occupies the north-western part of India and includes the Thar Desert. (Madhya Pradesh is the second largest, followed by Maharashtra.) Understanding that Rajasthan is India's largest state by area is a prelims point. Rajasthan is the largest Indian state by area.", "difficulty": "medium" },
-  { "stem": "The India-Pakistan boundary, drawn at the time of Partition in 1947, is known as the:", "options": ["McMahon Line", "Radcliffe Line", "Durand Line", "LoC"], "correct_index": 1, "solution": "The Radcliffe Line is the boundary line between India and Pakistan, drawn at the time of the Partition of India in 1947 by the boundary commission headed by Sir Cyril Radcliffe. It separated India from (West and East) Pakistan (East Pakistan later became Bangladesh). (Note: the 'McMahon Line' is the India–China boundary in the north-east; the 'Durand Line' is the Pakistan–Afghanistan boundary; and the 'Line of Control' (LoC) is the military control line in Jammu & Kashmir between India and Pakistan.) Understanding that the Radcliffe Line is the India–Pakistan border is a prelims point. The Radcliffe Line is the India–Pakistan boundary drawn at Partition in 1947.", "difficulty": "hard" },
-  { "stem": "The boundary line between India and China in the north-eastern region (Arunachal Pradesh) is called the:", "options": ["Radcliffe Line", "McMahon Line", "Durand Line", "Palk Line"], "correct_index": 1, "solution": "The McMahon Line is the boundary line between India and China in the north-eastern region (along Arunachal Pradesh), drawn/agreed at the Simla Convention of 1914 (named after Sir Henry McMahon). China disputes this line. (In contrast, the Radcliffe Line is the India–Pakistan border, and the 'Line of Actual Control' (LAC) is the effective boundary between India and China.) Understanding that the McMahon Line is the India–China boundary in the north-east is a prelims point. The McMahon Line is the India–China boundary in the north-eastern region (Arunachal Pradesh).", "difficulty": "hard" },
-  { "stem": "The Indian subcontinent is separated from the rest of Asia to the north by the great mountain barrier of the:", "options": ["Alps", "Himalayas", "Andes", "Ural Mountains"], "correct_index": 1, "solution": "The Indian subcontinent is separated from the rest of Asia to the north by the great mountain barrier of the Himalayas (along with their associated ranges). The lofty Himalayas form a natural wall that has, historically, given the subcontinent a distinct geographical identity — protecting it (to some extent) from cold northern winds and from invasions, and marking it off as a separate region. This is one reason the region is called a 'subcontinent'. (The Himalayas, together with the surrounding seas, give India well-defined natural boundaries.) Understanding that the Himalayas separate the subcontinent from the rest of Asia is a prelims point. The Himalayas form the great northern mountain barrier separating the Indian subcontinent from the rest of Asia.", "difficulty": "medium" },
-  { "stem": "The countries that make up the Indian subcontinent include India, Pakistan, Nepal, Bhutan, Bangladesh, and:", "options": ["China", "Sri Lanka", "Myanmar", "Afghanistan"], "correct_index": 1, "solution": "The Indian subcontinent (South Asia) is generally taken to include India, Pakistan, Nepal, Bhutan, Bangladesh, and Sri Lanka (and often the Maldives). These countries share a common geographical region, bounded by the Himalayas to the north and the ocean to the south, and have deep historical and cultural links. (Myanmar and Afghanistan are usually considered neighbouring regions rather than part of the subcontinent proper, and China lies beyond the Himalayas.) Understanding which countries form the Indian subcontinent is a prelims point. The Indian subcontinent includes India, Pakistan, Nepal, Bhutan, Bangladesh, and Sri Lanka.", "difficulty": "medium" },
-  { "stem": "The number of Indian states that have a coastline (are bordered by the sea) is:", "options": ["Four", "Nine", "Fifteen", "Two"], "correct_index": 1, "solution": "Nine Indian states have a coastline (are bordered by the sea): Gujarat, Maharashtra, Goa, Karnataka, and Kerala (on the western coast, along the Arabian Sea); and Tamil Nadu, Andhra Pradesh, Odisha, and West Bengal (on the eastern coast, along the Bay of Bengal). (In addition, several Union Territories — like Puducherry, Daman & Diu, and the two island groups — have coasts.) These coastal states are important for ports, fishing, and trade. Understanding that nine Indian states have a coastline is a prelims point. Nine Indian states have a coastline (five on the west coast and four on the east coast).", "difficulty": "hard" },
-  { "stem": "The 'Ten Degree Channel', 'Nine Degree Channel', and 'Eight Degree Channel' are all:", "options": ["Mountain passes in the Himalayas", "Sea channels/straits (in the Bay of Bengal or Arabian Sea) that separate islands", "Rivers of the Deccan", "Roads in northern India"], "correct_index": 1, "solution": "The Ten Degree Channel, Nine Degree Channel, and Eight Degree Channel are all sea channels (stretches of sea/straits) that separate islands: the Ten Degree Channel separates the Andaman Islands from the Nicobar Islands (in the Bay of Bengal); the Nine Degree Channel separates the main Lakshadweep islands from Minicoy Island (in the Arabian Sea); and the Eight Degree Channel separates the Lakshadweep/Minicoy from the Maldives (i.e., it lies between India's Minicoy and the Maldives). They are named after the lines of latitude (10°N, 9°N, 8°N) near which they lie. Understanding that these 'Degree Channels' are sea channels between islands is a prelims point. The Ten, Nine, and Eight Degree Channels are sea channels separating island groups (in the Bay of Bengal and Arabian Sea).", "difficulty": "hard" },
-  { "stem": "India's contacts with the world, both by land and by sea, have existed since ancient times. The land routes to the north-west (through mountain passes like the Khyber Pass) were important for:", "options": ["Nothing", "Trade and the movement of peoples and ideas between India and Central/West Asia", "Fishing only", "Space travel"], "correct_index": 1, "solution": "India's contacts with the world by land, especially through the mountain passes of the north-west (like the Khyber Pass, the Bolan Pass, etc.), were very important since ancient times: these passes were the gateways through which trade goods, peoples (traders, migrants, and invaders), religions, and ideas moved between India and Central Asia, West Asia, and beyond (for example, along the routes connected to the famous Silk Route). Despite the Himalayan barrier, these north-western passes kept India in contact with the rest of the world. (India also had extensive sea contacts across the Indian Ocean.) Understanding the importance of the north-western land routes/passes for India's contacts is a prelims point. The north-western mountain passes (like the Khyber Pass) were important routes for trade and the movement of peoples and ideas between India and Central/West Asia.", "difficulty": "medium" },
-  { "stem": "Indian culture, religions (like Hinduism and Buddhism), and trade spread in ancient times especially to:", "options": ["The Arctic", "South-East Asia (and other regions) via sea and land routes", "Antarctica", "The Moon"], "correct_index": 1, "solution": "In ancient times, Indian culture, religions (like Hinduism and Buddhism), art, and trade spread widely to other lands — especially to South-East Asia (countries like Myanmar, Thailand, Cambodia, Indonesia, etc.), and also to Sri Lanka, Central and East Asia, and elsewhere — carried along the sea and land trade routes. This is why we find strong Indian cultural influences (temples, scripts, epics, religions) in South-East Asia (for example, the great temple of Angkor Wat in Cambodia, and Borobudur in Indonesia). India's central location on the Indian Ocean trade routes made it a great centre for the exchange of goods and ideas. Understanding the spread of Indian culture to South-East Asia is a prelims-relevant point. Indian culture, religions, and trade spread especially to South-East Asia via ancient sea and land routes.", "difficulty": "medium" },
-  { "stem": "The Palk Strait and the Gulf of Mannar are water bodies that lie between India and:", "options": ["Bangladesh", "Sri Lanka", "Myanmar", "Maldives"], "correct_index": 1, "solution": "The Palk Strait and the Gulf of Mannar are the water bodies that lie between India (the south-eastern coast of Tamil Nadu) and Sri Lanka, separating the two countries. The Palk Strait is to the north and the Gulf of Mannar to the south of the chain of shoals/islands (Adam's Bridge/Rama Setu) that stretches between India and Sri Lanka. Understanding that the Palk Strait and Gulf of Mannar lie between India and Sri Lanka is a prelims point. The Palk Strait and the Gulf of Mannar lie between India and Sri Lanka.", "difficulty": "medium" },
-  { "stem": "India's position with respect to the equator (its latitude) is important mainly because it influences India's:", "options": ["Language", "Climate (temperature and the amount of solar energy received)", "Currency", "Population count only"], "correct_index": 1, "solution": "India's position with respect to the equator — its latitude — is important mainly because it strongly influences India's climate, especially the temperature and the amount of solar energy (insolation) received. Lying between about 8°N and 37°N, with the Tropic of Cancer through its middle, India receives a large amount of solar energy (making much of it warm/tropical), and the difference in latitude between the south and the north contributes to differences in temperature. India's tropical/subtropical latitude is one of the key factors behind its warm climate and its monsoon system. Understanding that latitude (position relative to the equator) affects India's climate is a prelims point. India's latitude (position relative to the equator) mainly influences its climate — its temperature and solar energy received.", "difficulty": "medium" },
-  { "stem": "The smallest Indian state by area is:", "options": ["Sikkim", "Goa", "Tripura", "Nagaland"], "correct_index": 1, "solution": "Goa is the smallest Indian state by area (about 3,700 sq km), located on the western coast of India. (Sikkim is the second smallest state.) Despite its small size, Goa is well known for its beaches, tourism, and distinctive culture. Understanding that Goa is India's smallest state by area is a prelims point. Goa is the smallest Indian state by area.", "difficulty": "medium" },
-  { "stem": "The three water bodies that surround the southern tip of India (at Kanyakumari) are the Arabian Sea, the Bay of Bengal, and the:", "options": ["Red Sea", "Indian Ocean", "Caspian Sea", "Mediterranean Sea"], "correct_index": 1, "solution": "At the southern tip of India — Kanyakumari (Cape Comorin) — three great water bodies meet: the Arabian Sea (to the west), the Bay of Bengal (to the east), and the Indian Ocean (to the south). Kanyakumari is famous as the meeting point of these three seas. This reflects India's peninsular shape, jutting into the ocean and bordered by sea on three sides (east, west, and south). Understanding the three seas meeting at Kanyakumari is a prelims point. At Kanyakumari, the Arabian Sea, the Bay of Bengal, and the Indian Ocean meet.", "difficulty": "medium" },
-  { "stem": "India's central location on the trade routes of the Indian Ocean has made the ocean to India's south be named after it — the:", "options": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"], "correct_index": 1, "solution": "The ocean to the south of India is named the Indian Ocean — the only ocean named after a country (India). This reflects India's central and dominant position in this ocean and its long historical importance in the ocean's trade and navigation. India's peninsula juts far south into the Indian Ocean, giving India a commanding, strategic location astride the major sea routes that cross the ocean (linking Africa, West Asia, South Asia, and East/South-East Asia). Understanding that the Indian Ocean is named after India (reflecting India's central position) is a prelims point. The Indian Ocean — the only ocean named after a country — reflects India's central position in it.", "difficulty": "medium" },
-  { "stem": "Which Union Territory of India was formed by merging Jammu & Kashmir's region of Ladakh as a separate UT?", "options": ["Ladakh", "Puducherry", "Chandigarh", "Lakshadweep"], "correct_index": 0, "solution": "Ladakh is a Union Territory of India, formed in 2019 when the former state of Jammu & Kashmir was reorganised into two Union Territories — Jammu & Kashmir (with a legislature) and Ladakh (without a legislature). Ladakh, a high, cold, mountainous region in the north (a cold desert in the trans-Himalayan zone), is the northernmost part of India, bordering China and Pakistan. Understanding that Ladakh is a Union Territory (carved out in 2019) is a prelims point. Ladakh is a Union Territory of India, formed in 2019 from the erstwhile state of Jammu & Kashmir.", "difficulty": "hard" },
-  { "stem": "The Duncan Passage is a sea channel located between:", "options": ["The Lakshadweep islands", "South Andaman and Little Andaman islands", "India and Sri Lanka", "India and Bangladesh"], "correct_index": 1, "solution": "The Duncan Passage is a sea channel/strait in the Andaman Islands (Bay of Bengal), located between South Andaman Island (to the north) and Little Andaman Island (to the south). It is one of the several named sea channels around India's island groups. (Others include the Ten Degree Channel between the Andaman and Nicobar Islands, and the Nine Degree Channel in the Lakshadweep.) Understanding that the Duncan Passage lies between South Andaman and Little Andaman is a prelims point. The Duncan Passage lies between South Andaman and Little Andaman islands.", "difficulty": "hard" },
-  { "stem": "The three seas bordering peninsular India, its long coastline, and its many ports show that India has a strong __________ character/interest.", "options": ["landlocked", "maritime (sea-related)", "polar", "desert"], "correct_index": 1, "solution": "The three seas bordering peninsular India (the Arabian Sea, the Bay of Bengal, and the Indian Ocean), its long coastline (~7,500 km), and its many ports show that India has a strong maritime (sea-related) character and interest. India's peninsula juts into the Indian Ocean, giving it a commanding maritime position, and the sea has long been important for India's trade, fishing, culture, and security. (This is the opposite of a landlocked country, which has no sea coast.) Understanding India's maritime character (given its seas, coastline, and ports) is a prelims point. India has a strong maritime character, given its three bordering seas, long coastline, and many ports.", "difficulty": "medium" },
-  { "stem": "The 90° meridian of the Standard Time and the position of India mean that when it is noon at the standard meridian (82°30'E), places to the east of it have __________ time.", "options": ["an earlier (behind)", "a later (ahead)", "exactly the same", "no"], "correct_index": 1, "solution": "Because the Sun appears to rise in the east and move westward, places to the EAST of a meridian have a later (ahead) local time — the Sun reaches them first. So when it is noon at India's standard meridian (82°30'E), places to the east of it (like Arunachal Pradesh) have already passed noon (their local time is ahead/later), while places to the west (like Gujarat) have not yet reached noon (their local time is behind/earlier). This is the basic principle of time and longitude (east = ahead, west = behind). Understanding that eastern places have a later/ahead time is a prelims point. Places to the east of a meridian have a later (ahead) local time, since the Sun rises there earlier.", "difficulty": "hard" },
-  { "stem": "The Indian landmass has a central position between __________ Asia and __________ Asia (as a link between them).", "options": ["North; South", "East; West", "Polar; Tropical", "Arctic; Antarctic"], "correct_index": 1, "solution": "The Indian landmass occupies a central position between East Asia and West Asia — acting as a link or bridge between them. India's peninsula juts into the Indian Ocean, and it lies along the important sea routes that connect the countries of West Asia, Africa, and Europe (to the west) with those of East and South-East Asia (to the east). This central location has made India a natural meeting point and trade link between the eastern and western parts of Asia (and the wider world) — enhancing its strategic and commercial importance. Understanding India's central position between East and West Asia is a prelims point. India occupies a central position between East Asia and West Asia, acting as a link between them.", "difficulty": "medium" },
-  { "stem": "Assertion (A): The Andaman & Nicobar Islands and the Lakshadweep are of different origins. Reason (R): The Andaman & Nicobar Islands are largely of tectonic/volcanic (continental-oceanic) origin, while the Lakshadweep are coral islands. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that India's two main island groups are of different origins. And the reason is (R) that the Andaman & Nicobar Islands (in the Bay of Bengal) are largely of tectonic and volcanic origin — they are the tops of submerged mountains, in a tectonically active zone (with the active Barren Island volcano) — whereas the Lakshadweep Islands (in the Arabian Sea) are coral islands, built by corals (atolls and reefs). Because the two groups formed in these different ways, they are of different origins — so R correctly explains A. Understanding the different origins of the two island groups is a prelims point. The Andaman & Nicobar Islands are of tectonic/volcanic origin, while the Lakshadweep are coral islands.", "difficulty": "hard" },
-  { "stem": "The second largest Indian state by area (after Rajasthan) is:", "options": ["Maharashtra", "Madhya Pradesh", "Uttar Pradesh", "Gujarat"], "correct_index": 1, "solution": "Madhya Pradesh is the second largest Indian state by area (about 308,000 sq km), after Rajasthan (the largest). Madhya Pradesh, located in central India (its name means 'central province'), is followed by Maharashtra as the third largest. Understanding the ranking of India's largest states (Rajasthan, then Madhya Pradesh, then Maharashtra) is a prelims point. Madhya Pradesh is the second largest Indian state by area, after Rajasthan.", "difficulty": "hard" },
-  { "stem": "The overall message of the chapter 'India – Location' is that:", "options": ["India's location has no significance", "India, the seventh-largest country, occupies a strategically important, central position in South Asia at the head of the Indian Ocean, with a vast latitudinal and longitudinal extent (straddling the Tropic of Cancer), a long coastline and land boundary, and many neighbours — a location that has shaped its climate, its contacts, and its importance in the world", "India is a small, isolated country", "India lies in the Southern Hemisphere"], "correct_index": 1, "solution": "The chapter conveys that India occupies a strategically important and central location in South Asia (the Indian subcontinent), at the head of the Indian Ocean, entirely in the Northern and Eastern hemispheres. It is the seventh-largest country in the world by area (~3.28 million sq km, ~2.4% of the world's land), extending from about 8°4'N to 37°6'N latitude and from 68°7'E to 97°25'E longitude — a vast extent, with the Tropic of Cancer passing through its middle (dividing it into a tropical south and a subtropical north), and with a roughly 2-hour east-west time difference that leads India to adopt a single Standard Time based on the 82°30'E meridian (IST = GMT + 5:30). India has a long coastline (~7,500 km) and a long land boundary (~15,200 km), and it shares its borders with several neighbouring countries (Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, Myanmar on land, and Sri Lanka and the Maldives as maritime neighbours), while its central oceanic position gives it great importance for trade and strategic links between the East and the West. This location — its latitude, extent, and position — has profoundly shaped India's climate, its diversity, its historical and cultural contacts, and its role in the world. Understanding India's location, extent, standard time, size, and neighbours, and their significance, is the central concern of this chapter. India's central, strategic location, vast extent, and long borders — shaped by its position on the Indian Ocean and astride the Tropic of Cancer — have profoundly influenced its climate, contacts, and importance.", "difficulty": "medium" }
+  {
+    "stem": "India is located in which hemisphere(s)?",
+    "options": [
+      "Southern and Western hemispheres",
+      "Northern and Eastern hemispheres",
+      "Southern and Eastern hemispheres",
+      "Northern and Western hemispheres"
+    ],
+    "correct_index": 1,
+    "solution": "India lies entirely in the Northern Hemisphere (north of the equator) and in the Eastern Hemisphere (east of the Prime Meridian). Its mainland extends between latitudes 8°4'N and 37°6'N (all north of the equator), and between longitudes 68°7'E and 97°25'E (all east of the Prime Meridian). So India is a country of the Northern and Eastern hemispheres. Understanding India's hemispheric location (Northern and Eastern) is a basic prelims point. India lies in the Northern and Eastern hemispheres.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The latitudinal extent of the Indian mainland is roughly between:",
+    "options": [
+      "8°4'N and 37°6'N",
+      "6°N and 40°N",
+      "10°S and 30°N",
+      "0° and 23.5°N"
+    ],
+    "correct_index": 0,
+    "solution": "The latitudinal extent of the Indian mainland is roughly between 8°4'N (in the south) and 37°6'N (in the north). (If the southernmost point of India's territory — Indira Point in the Andaman & Nicobar Islands — is included, the southern limit is about 6°4'N.) So the mainland stretches from about 8°N to about 37°N. This latitudinal extent is important because it means the Tropic of Cancer (23.5°N) passes through the middle of the country, dividing it into a tropical south and a subtropical north. Understanding India's latitudinal extent (8°4'N–37°6'N) is a key prelims point. India's mainland extends from about 8°4'N to 37°6'N latitude.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The longitudinal extent of the Indian mainland is roughly between:",
+    "options": [
+      "68°7'E and 97°25'E",
+      "60°E and 100°E",
+      "70°W and 90°W",
+      "0° and 82.5°E"
+    ],
+    "correct_index": 0,
+    "solution": "The longitudinal extent of the Indian mainland is roughly between 68°7'E (in the west) and 97°25'E (in the east). So India stretches through about 29 degrees of longitude from west to east. This longitudinal extent is significant because it causes a time difference of about 2 hours between the easternmost and westernmost parts of the country (as the Sun rises about 2 hours earlier in the east) — which is why India adopts a single Standard Time based on a central meridian. Understanding India's longitudinal extent (68°7'E–97°25'E) is a key prelims point. India's mainland extends from about 68°7'E to 97°25'E longitude.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Tropic of Cancer (23°30'N) passes through roughly the middle of India, dividing it into a tropical south and a subtropical north. About how many Indian states does it pass through?",
+    "options": [
+      "Two",
+      "Eight",
+      "Twenty",
+      "Zero"
+    ],
+    "correct_index": 1,
+    "solution": "The Tropic of Cancer (23°30'N, or 23.5°N) passes through roughly the middle of India, dividing the country into a (tropical) southern part and a (subtropical) northern part. It passes through eight Indian states — namely Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. (A helpful mnemonic uses the first letters: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram.) Understanding that the Tropic of Cancer passes through 8 Indian states is a prelims point. The Tropic of Cancer passes through 8 Indian states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India is the __________ largest country in the world in terms of area.",
+    "options": [
+      "Second",
+      "Seventh",
+      "Tenth",
+      "First"
+    ],
+    "correct_index": 1,
+    "solution": "India is the seventh largest country in the world in terms of area (geographical size). The six larger countries are Russia, Canada, the USA, China, Brazil, and Australia. India has an area of about 3.28 million square kilometres, which is about 2.4% of the total land area of the world. (India is the second most populous country, but the seventh largest by area.) Understanding that India is the 7th largest country by area is a key prelims point. India is the seventh largest country in the world by area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The total area of India is about:",
+    "options": [
+      "1.2 million sq km",
+      "3.28 million sq km (about 2.4% of the world's land area)",
+      "10 million sq km",
+      "0.5 million sq km"
+    ],
+    "correct_index": 1,
+    "solution": "The total area of India is about 3.28 million square kilometres (3,287,263 sq km), which is about 2.4% of the total land area of the world. This makes India the seventh largest country in the world by area. Its vast size gives India a great diversity of physical features, climates, soils, vegetation, and peoples. Understanding India's area (~3.28 million sq km, ~2.4% of the world) is a prelims point. India's area is about 3.28 million sq km — about 2.4% of the world's land area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The standard meridian of India, on which Indian Standard Time (IST) is based, is:",
+    "options": [
+      "68°7'E",
+      "82°30'E (82.5°E)",
+      "97°25'E",
+      "0° (Prime Meridian)"
+    ],
+    "correct_index": 1,
+    "solution": "The standard meridian of India is 82°30'E (82.5°E) longitude, and Indian Standard Time (IST) is based on the local time of this meridian. This meridian passes through Mirzapur (near Allahabad/Prayagraj) in Uttar Pradesh. A single standard meridian (and hence a single standard time) is used for the whole of India to avoid the confusion of different local times across the country's wide east-west extent. IST is 5 hours 30 minutes ahead of Greenwich Mean Time (GMT/UTC). Understanding India's standard meridian (82°30'E) is a key prelims point. India's standard meridian is 82°30'E, on which Indian Standard Time is based.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Indian Standard Time (IST) is ahead of Greenwich Mean Time (GMT) by:",
+    "options": [
+      "4 hours",
+      "5 hours 30 minutes",
+      "8 hours",
+      "12 hours"
+    ],
+    "correct_index": 1,
+    "solution": "Indian Standard Time (IST) is ahead of Greenwich Mean Time (GMT/UTC) by 5 hours 30 minutes. This is because IST is based on the standard meridian of 82°30'E: since the Earth rotates 15° of longitude per hour (i.e., 1° = 4 minutes), 82.5° east of the Prime Meridian (0°) corresponds to a time difference of 82.5 × 4 = 330 minutes = 5 hours 30 minutes ahead. So when it is 12 noon GMT, it is 5:30 pm in India. Understanding that IST is GMT + 5:30 is a key prelims point. Indian Standard Time is 5 hours 30 minutes ahead of Greenwich Mean Time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The time difference between the easternmost and westernmost points of India is about:",
+    "options": [
+      "30 minutes",
+      "2 hours",
+      "5 hours",
+      "12 hours"
+    ],
+    "correct_index": 1,
+    "solution": "The time difference between the easternmost point (in Arunachal Pradesh, ~97°25'E) and the westernmost point (in Gujarat, ~68°7'E) of India is about 2 hours. This is because India stretches through roughly 29–30 degrees of longitude, and since the Earth turns 1° of longitude in 4 minutes, about 30° corresponds to about 120 minutes (2 hours). So the Sun rises about 2 hours earlier in the east (Arunachal Pradesh) than in the west (Gujarat). This is precisely why India uses a single Standard Time (based on the central meridian, 82°30'E) instead of different local times. Understanding this ~2-hour east-west time difference is a key prelims point. There is about a 2-hour time difference between the easternmost and westernmost parts of India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The southernmost tip of the Indian mainland is:",
+    "options": [
+      "Indira Point",
+      "Kanyakumari (Cape Comorin)",
+      "Point Calimere",
+      "Rameswaram"
+    ],
+    "correct_index": 1,
+    "solution": "The southernmost tip of the Indian mainland is Kanyakumari (also called Cape Comorin), located at the southern end of the peninsula in Tamil Nadu, where the Arabian Sea, the Bay of Bengal, and the Indian Ocean meet. (Note: the southernmost point of India's entire territory — including the islands — is Indira Point, in the Andaman & Nicobar Islands, which lies further south, at about 6°4'N. But the southernmost point of the mainland is Kanyakumari.) Understanding that Kanyakumari is the southernmost point of the mainland is a prelims point. Kanyakumari (Cape Comorin) is the southernmost tip of the Indian mainland.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The southernmost point of India's entire territory (including the islands), located in the Andaman & Nicobar Islands, is:",
+    "options": [
+      "Kanyakumari",
+      "Indira Point",
+      "Port Blair",
+      "Car Nicobar"
+    ],
+    "correct_index": 1,
+    "solution": "The southernmost point of India's entire territory (including its islands) is Indira Point, located on the Great Nicobar Island in the Andaman & Nicobar Islands, at about 6°4'N latitude. (It was earlier called Pygmalion Point or Parsons Point.) This lies further south than Kanyakumari, which is only the southernmost point of the mainland. (Indira Point was submerged/affected during the 2004 tsunami.) Understanding that Indira Point is the southernmost point of India's territory is a prelims point. Indira Point (in the Andaman & Nicobar Islands) is the southernmost point of India's territory.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Andaman and Nicobar Islands are located in the:",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean near Africa",
+      "Persian Gulf"
+    ],
+    "correct_index": 1,
+    "solution": "The Andaman and Nicobar Islands are located in the Bay of Bengal, to the south-east of the Indian mainland. They are a group of numerous islands, and they are of continental/oceanic origin (some associated with volcanic and tectonic activity — Barren Island, India's only active volcano, is here). Port Blair is their capital. (India's other main island group, the Lakshadweep Islands, lies in the Arabian Sea to the south-west of the mainland — those are coral islands.) Understanding that the Andaman & Nicobar Islands are in the Bay of Bengal is a prelims point. The Andaman and Nicobar Islands are located in the Bay of Bengal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Lakshadweep Islands are located in the:",
+    "options": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Indian Ocean near Australia",
+      "Red Sea"
+    ],
+    "correct_index": 1,
+    "solution": "The Lakshadweep Islands are located in the Arabian Sea, to the south-west of the Indian mainland (off the coast of Kerala). They are small coral islands (built by corals — atolls and reefs). Kavaratti is their capital. (This contrasts with the Andaman & Nicobar Islands, which lie in the Bay of Bengal to the south-east.) Understanding that the Lakshadweep Islands are coral islands in the Arabian Sea is a prelims point. The Lakshadweep Islands are coral islands located in the Arabian Sea.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The total length of India's land boundary (frontier) is about:",
+    "options": [
+      "5,000 km",
+      "15,200 km",
+      "7,500 km",
+      "1,000 km"
+    ],
+    "correct_index": 1,
+    "solution": "The total length of India's land boundary (its land frontier with neighbouring countries) is about 15,200 km. (India's total coastline, including the mainland and the islands, is about 7,500 km.) India shares its long land boundary with several neighbouring countries. Understanding India's land boundary length (~15,200 km) is a prelims point. India's total land boundary is about 15,200 km long.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The total length of India's coastline (mainland + islands) is about:",
+    "options": [
+      "2,000 km",
+      "7,500 km",
+      "15,200 km",
+      "500 km"
+    ],
+    "correct_index": 1,
+    "solution": "The total length of India's coastline is about 7,500 km (approximately 7,516.6 km), including the coastline of the mainland and of the Andaman & Nicobar and Lakshadweep island groups. India's long coastline (bordering the Arabian Sea, the Bay of Bengal, and the Indian Ocean) is important for fishing, trade, and ports, and gives India a large maritime interest. (This is distinct from the land boundary, which is about 15,200 km.) Understanding India's coastline length (~7,500 km) is a prelims point. India's total coastline (mainland and islands) is about 7,500 km long.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The country that shares the LONGEST land border with India is:",
+    "options": [
+      "Pakistan",
+      "Bangladesh",
+      "China",
+      "Nepal"
+    ],
+    "correct_index": 1,
+    "solution": "Bangladesh shares the longest land border with India (about 4,096 km) — the longest of all India's neighbours. India's borders with its neighbours, in decreasing order of length, are roughly: Bangladesh (longest), then China, Pakistan, Nepal, Myanmar, Bhutan, and Afghanistan (shortest). Bangladesh is almost surrounded by India on three sides. Understanding that Bangladesh has the longest land border with India is a prelims point. Bangladesh shares the longest land border with India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following countries is NOT a land neighbour of India?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Sri Lanka",
+      "Myanmar"
+    ],
+    "correct_index": 2,
+    "solution": "Sri Lanka is NOT a land neighbour of India — it is an island country separated from India by the sea (the Gulf of Mannar and the Palk Strait), so it is a maritime (sea) neighbour, not a land neighbour. India's land neighbours (countries sharing a land border) are: Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, and Myanmar. (India's island/maritime neighbours are Sri Lanka and the Maldives.) Understanding that Sri Lanka is a maritime (not land) neighbour is a prelims point. Sri Lanka is a maritime neighbour of India, not a land neighbour.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India is separated from Sri Lanka by a narrow channel of the sea called the:",
+    "options": [
+      "Palk Strait (and Gulf of Mannar)",
+      "Strait of Malacca",
+      "Strait of Hormuz",
+      "Bering Strait"
+    ],
+    "correct_index": 0,
+    "solution": "India is separated from Sri Lanka by a narrow channel of the sea formed by the Palk Strait and the Gulf of Mannar. Sri Lanka lies just off the south-eastern tip of India, across this shallow, narrow stretch of water. A chain of small islands and shoals (sometimes called Adam's Bridge or Rama Setu) lies between India and Sri Lanka across this gap. Understanding that the Palk Strait/Gulf of Mannar separates India from Sri Lanka is a prelims point. India is separated from Sri Lanka by the Palk Strait and the Gulf of Mannar.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's location at the head of the Indian Ocean, with a long coastline and central position, gives it great importance for:",
+    "options": [
+      "Nothing in particular",
+      "Maritime trade and strategic/commercial links between the East (Asia) and the West (Europe/Africa)",
+      "Only local farming",
+      "Studying deserts"
+    ],
+    "correct_index": 1,
+    "solution": "India's location — at the head of the Indian Ocean, occupying a central and commanding position with a long coastline (~7,500 km) — gives it great importance for maritime trade and strategic and commercial links between the countries of the East (East and Southeast Asia) and the West (Europe, Africa, and West Asia). The sea routes across the Indian Ocean, which pass close to India, have long connected the East and the West, and India's central position lets it participate in and influence this trade. This favourable location has made India a hub of trade and cultural contact since ancient times. Understanding the strategic/commercial importance of India's location is a prelims point. India's central location on the Indian Ocean makes it important for maritime trade linking the East and the West.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): India uses a single Standard Time for the whole country. Reason (R): There is about a 2-hour difference in local time between the eastern and western ends of India, and a single standard time (based on 82°30'E) avoids the confusion of many local times. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that India uses a single Standard Time (Indian Standard Time) for the whole country. And the reason is (R) that because India stretches through nearly 30° of longitude, there is about a 2-hour difference in local (solar) time between its eastern end (Arunachal Pradesh) and its western end (Gujarat); if each place kept its own local time, this would cause great confusion (in railways, offices, etc.) — so a single standard time, based on the central meridian of 82°30'E, is adopted for the whole country to avoid this confusion. So R correctly explains why India has a single standard time (A). Understanding this reasoning is a prelims point. India uses one Standard Time (based on 82°30'E) to avoid the confusion of the ~2-hour local-time difference across the country.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The north-south extent of the Indian mainland (from Kashmir to Kanyakumari) is about:",
+    "options": [
+      "1,000 km",
+      "3,214 km",
+      "5,000 km",
+      "8,000 km"
+    ],
+    "correct_index": 1,
+    "solution": "The north-south extent of the Indian mainland — from the northernmost point (in Jammu & Kashmir) to the southernmost point (Kanyakumari) — is about 3,214 km. (The east-west extent, from the Rann of Kutch in Gujarat to Arunachal Pradesh, is about 2,933 km.) So India stretches a little more from north to south than from east to west. Understanding India's north-south extent (~3,214 km) is a prelims point. The north-south extent of the Indian mainland is about 3,214 km.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The east-west extent of the Indian mainland (from Gujarat to Arunachal Pradesh) is about:",
+    "options": [
+      "2,933 km",
+      "5,000 km",
+      "1,500 km",
+      "7,500 km"
+    ],
+    "correct_index": 0,
+    "solution": "The east-west extent of the Indian mainland — from the Rann of Kutch (Gujarat) in the west to Arunachal Pradesh in the east — is about 2,933 km. (The north-south extent, from Kashmir to Kanyakumari, is a bit greater, about 3,214 km.) Interestingly, although the latitudinal (north-south) and longitudinal (east-west) extents span a similar number of degrees, the actual east-west distance is a little less than the north-south distance. Understanding India's east-west extent (~2,933 km) is a prelims point. The east-west extent of the Indian mainland is about 2,933 km.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Although the latitudinal and longitudinal extents of India span almost the same number of degrees, the actual distance between two degrees of latitude is __________ the distance between two degrees of longitude (in India).",
+    "options": [
+      "less than",
+      "greater than",
+      "equal to",
+      "double"
+    ],
+    "correct_index": 1,
+    "solution": "Although India's latitudinal extent and longitudinal extent span almost the same number of degrees (about 30° each), the actual ground distance covered by each degree is different: the distance between two degrees of latitude is roughly constant everywhere (about 111 km per degree), but the distance between two degrees of longitude decreases as one moves away from the equator toward the poles (because the meridians of longitude converge toward the poles). Since India is north of the equator, its degrees of longitude are shorter (less than 111 km each) — so a degree of latitude covers a greater distance than a degree of longitude in India. This is why the north-south extent (~3,214 km) is greater than the east-west extent (~2,933 km) even though the degrees are similar. Understanding this (latitude degrees longer than longitude degrees away from the equator) is a prelims point. In India, the distance per degree of latitude is greater than per degree of longitude, because meridians converge poleward.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The group of north-eastern Indian states often called the 'Seven Sisters' does NOT include which of the following?",
+    "options": [
+      "Assam",
+      "Manipur",
+      "West Bengal",
+      "Meghalaya"
+    ],
+    "correct_index": 2,
+    "solution": "West Bengal is NOT one of the 'Seven Sisters'. The 'Seven Sisters' are the seven north-eastern states of India: Assam, Aruna­chal Pradesh, Nagaland, Manipur, Mizoram, Tripura, and Meghalaya. (Sikkim, the eighth north-eastern state, is sometimes called the 'brother'.) West Bengal, though it borders the north-east, is not counted among the Seven Sisters. Understanding which states are the Seven Sisters is a prelims point. The Seven Sisters are Assam, Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura, and Meghalaya (not West Bengal).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The country that shares the SHORTEST land border with India is:",
+    "options": [
+      "Bhutan",
+      "Afghanistan",
+      "Nepal",
+      "Myanmar"
+    ],
+    "correct_index": 1,
+    "solution": "Afghanistan shares the shortest land border with India (only about 106 km), along the Pakistan-occupied Kashmir (PoK) region in the north-west. India's neighbours by border length, from longest to shortest, are roughly: Bangladesh, China, Pakistan, Nepal, Myanmar, Bhutan, and Afghanistan (shortest). Understanding that Afghanistan has the shortest land border with India is a prelims point. Afghanistan shares the shortest land border with India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The narrow water channel that separates the Andaman Islands from the Nicobar Islands is the:",
+    "options": [
+      "Ten Degree Channel",
+      "Nine Degree Channel",
+      "Palk Strait",
+      "Duncan Passage"
+    ],
+    "correct_index": 0,
+    "solution": "The Ten Degree Channel is the stretch of sea (about 150 km wide) that separates the Andaman Islands (to the north) from the Nicobar Islands (to the south), in the Bay of Bengal. It is so named because it lies roughly along the 10°N line of latitude. (Not to be confused with the Nine Degree Channel, which separates the main Lakshadweep islands from Minicoy, and the Duncan Passage, which separates South Andaman from Little Andaman.) Understanding that the Ten Degree Channel separates the Andaman and Nicobar Islands is a prelims point. The Ten Degree Channel separates the Andaman Islands from the Nicobar Islands.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India's only active volcano is located on __________ Island in the Andaman & Nicobar group.",
+    "options": [
+      "Barren",
+      "Car Nicobar",
+      "North Sentinel",
+      "Ross"
+    ],
+    "correct_index": 0,
+    "solution": "India's only active volcano is located on Barren Island, in the Andaman & Nicobar Islands (in the Bay of Bengal). Barren Island is an uninhabited island with an active volcano that has erupted several times. (The Andaman & Nicobar Islands lie in a tectonically active zone, which is also why the region is prone to earthquakes and was badly affected by the 2004 tsunami.) Understanding that Barren Island has India's only active volcano is a prelims point. India's only active volcano is on Barren Island in the Andaman & Nicobar Islands.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "As of the reorganisation of states, India consists of how many States and Union Territories?",
+    "options": [
+      "28 States and 8 Union Territories",
+      "25 States and 7 Union Territories",
+      "29 States and 6 Union Territories",
+      "30 States and 9 Union Territories"
+    ],
+    "correct_index": 0,
+    "solution": "India consists of 28 States and 8 Union Territories (following the reorganisation in which Jammu & Kashmir and Ladakh became union territories, and after the merger of some UTs). The States have their own elected governments, while the Union Territories are administered by the central government (some, like Delhi and Puducherry, have their own legislatures). (Note: this number has changed over time with reorganisations, so it is worth keeping up to date.) Understanding the number of Indian states and UTs (28 states, 8 UTs) is a prelims point. India has 28 States and 8 Union Territories.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The largest Indian state by area is:",
+    "options": [
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "correct_index": 1,
+    "solution": "Rajasthan is the largest Indian state by area (about 342,000 sq km) — it occupies the north-western part of India and includes the Thar Desert. (Madhya Pradesh is the second largest, followed by Maharashtra.) Understanding that Rajasthan is India's largest state by area is a prelims point. Rajasthan is the largest Indian state by area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The India-Pakistan boundary, drawn at the time of Partition in 1947, is known as the:",
+    "options": [
+      "McMahon Line",
+      "Radcliffe Line",
+      "Durand Line",
+      "LoC"
+    ],
+    "correct_index": 1,
+    "solution": "The Radcliffe Line is the boundary line between India and Pakistan, drawn at the time of the Partition of India in 1947 by the boundary commission headed by Sir Cyril Radcliffe. It separated India from (West and East) Pakistan (East Pakistan later became Bangladesh). (Note: the 'McMahon Line' is the India–China boundary in the north-east; the 'Durand Line' is the Pakistan–Afghanistan boundary; and the 'Line of Control' (LoC) is the military control line in Jammu & Kashmir between India and Pakistan.) Understanding that the Radcliffe Line is the India–Pakistan border is a prelims point. The Radcliffe Line is the India–Pakistan boundary drawn at Partition in 1947.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The boundary line between India and China in the north-eastern region (Arunachal Pradesh) is called the:",
+    "options": [
+      "Radcliffe Line",
+      "McMahon Line",
+      "Durand Line",
+      "Palk Line"
+    ],
+    "correct_index": 1,
+    "solution": "The McMahon Line is the boundary line between India and China in the north-eastern region (along Arunachal Pradesh), drawn/agreed at the Simla Convention of 1914 (named after Sir Henry McMahon). China disputes this line. (In contrast, the Radcliffe Line is the India–Pakistan border, and the 'Line of Actual Control' (LAC) is the effective boundary between India and China.) Understanding that the McMahon Line is the India–China boundary in the north-east is a prelims point. The McMahon Line is the India–China boundary in the north-eastern region (Arunachal Pradesh).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Indian subcontinent is separated from the rest of Asia to the north by the great mountain barrier of the:",
+    "options": [
+      "Alps",
+      "Himalayas",
+      "Andes",
+      "Ural Mountains"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian subcontinent is separated from the rest of Asia to the north by the great mountain barrier of the Himalayas (along with their associated ranges). The lofty Himalayas form a natural wall that has, historically, given the subcontinent a distinct geographical identity — protecting it (to some extent) from cold northern winds and from invasions, and marking it off as a separate region. This is one reason the region is called a 'subcontinent'. (The Himalayas, together with the surrounding seas, give India well-defined natural boundaries.) Understanding that the Himalayas separate the subcontinent from the rest of Asia is a prelims point. The Himalayas form the great northern mountain barrier separating the Indian subcontinent from the rest of Asia.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The countries that make up the Indian subcontinent include India, Pakistan, Nepal, Bhutan, Bangladesh, and:",
+    "options": [
+      "China",
+      "Sri Lanka",
+      "Myanmar",
+      "Afghanistan"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian subcontinent (South Asia) is generally taken to include India, Pakistan, Nepal, Bhutan, Bangladesh, and Sri Lanka (and often the Maldives). These countries share a common geographical region, bounded by the Himalayas to the north and the ocean to the south, and have deep historical and cultural links. (Myanmar and Afghanistan are usually considered neighbouring regions rather than part of the subcontinent proper, and China lies beyond the Himalayas.) Understanding which countries form the Indian subcontinent is a prelims point. The Indian subcontinent includes India, Pakistan, Nepal, Bhutan, Bangladesh, and Sri Lanka.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of Indian states that have a coastline (are bordered by the sea) is:",
+    "options": [
+      "Four",
+      "Nine",
+      "Fifteen",
+      "Two"
+    ],
+    "correct_index": 1,
+    "solution": "Nine Indian states have a coastline (are bordered by the sea): Gujarat, Maharashtra, Goa, Karnataka, and Kerala (on the western coast, along the Arabian Sea); and Tamil Nadu, Andhra Pradesh, Odisha, and West Bengal (on the eastern coast, along the Bay of Bengal). (In addition, several Union Territories — like Puducherry, Daman & Diu, and the two island groups — have coasts.) These coastal states are important for ports, fishing, and trade. Understanding that nine Indian states have a coastline is a prelims point. Nine Indian states have a coastline (five on the west coast and four on the east coast).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Ten Degree Channel', 'Nine Degree Channel', and 'Eight Degree Channel' are all:",
+    "options": [
+      "Mountain passes in the Himalayas",
+      "Sea channels/straits (in the Bay of Bengal or Arabian Sea) that separate islands",
+      "Rivers of the Deccan",
+      "Roads in northern India"
+    ],
+    "correct_index": 1,
+    "solution": "The Ten Degree Channel, Nine Degree Channel, and Eight Degree Channel are all sea channels (stretches of sea/straits) that separate islands: the Ten Degree Channel separates the Andaman Islands from the Nicobar Islands (in the Bay of Bengal); the Nine Degree Channel separates the main Lakshadweep islands from Minicoy Island (in the Arabian Sea); and the Eight Degree Channel separates the Lakshadweep/Minicoy from the Maldives (i.e., it lies between India's Minicoy and the Maldives). They are named after the lines of latitude (10°N, 9°N, 8°N) near which they lie. Understanding that these 'Degree Channels' are sea channels between islands is a prelims point. The Ten, Nine, and Eight Degree Channels are sea channels separating island groups (in the Bay of Bengal and Arabian Sea).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India's contacts with the world, both by land and by sea, have existed since ancient times. The land routes to the north-west (through mountain passes like the Khyber Pass) were important for:",
+    "options": [
+      "Nothing",
+      "Trade and the movement of peoples and ideas between India and Central/West Asia",
+      "Fishing only",
+      "Space travel"
+    ],
+    "correct_index": 1,
+    "solution": "India's contacts with the world by land, especially through the mountain passes of the north-west (like the Khyber Pass, the Bolan Pass, etc.), were very important since ancient times: these passes were the gateways through which trade goods, peoples (traders, migrants, and invaders), religions, and ideas moved between India and Central Asia, West Asia, and beyond (for example, along the routes connected to the famous Silk Route). Despite the Himalayan barrier, these north-western passes kept India in contact with the rest of the world. (India also had extensive sea contacts across the Indian Ocean.) Understanding the importance of the north-western land routes/passes for India's contacts is a prelims point. The north-western mountain passes (like the Khyber Pass) were important routes for trade and the movement of peoples and ideas between India and Central/West Asia.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Indian culture, religions (like Hinduism and Buddhism), and trade spread in ancient times especially to:",
+    "options": [
+      "The Arctic",
+      "South-East Asia (and other regions) via sea and land routes",
+      "Antarctica",
+      "The Moon"
+    ],
+    "correct_index": 1,
+    "solution": "In ancient times, Indian culture, religions (like Hinduism and Buddhism), art, and trade spread widely to other lands — especially to South-East Asia (countries like Myanmar, Thailand, Cambodia, Indonesia, etc.), and also to Sri Lanka, Central and East Asia, and elsewhere — carried along the sea and land trade routes. This is why we find strong Indian cultural influences (temples, scripts, epics, religions) in South-East Asia (for example, the great temple of Angkor Wat in Cambodia, and Borobudur in Indonesia). India's central location on the Indian Ocean trade routes made it a great centre for the exchange of goods and ideas. Understanding the spread of Indian culture to South-East Asia is a prelims-relevant point. Indian culture, religions, and trade spread especially to South-East Asia via ancient sea and land routes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Palk Strait and the Gulf of Mannar are water bodies that lie between India and:",
+    "options": [
+      "Bangladesh",
+      "Sri Lanka",
+      "Myanmar",
+      "Maldives"
+    ],
+    "correct_index": 1,
+    "solution": "The Palk Strait and the Gulf of Mannar are the water bodies that lie between India (the south-eastern coast of Tamil Nadu) and Sri Lanka, separating the two countries. The Palk Strait is to the north and the Gulf of Mannar to the south of the chain of shoals/islands (Adam's Bridge/Rama Setu) that stretches between India and Sri Lanka. Understanding that the Palk Strait and Gulf of Mannar lie between India and Sri Lanka is a prelims point. The Palk Strait and the Gulf of Mannar lie between India and Sri Lanka.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's position with respect to the equator (its latitude) is important mainly because it influences India's:",
+    "options": [
+      "Language",
+      "Climate (temperature and the amount of solar energy received)",
+      "Currency",
+      "Population count only"
+    ],
+    "correct_index": 1,
+    "solution": "India's position with respect to the equator — its latitude — is important mainly because it strongly influences India's climate, especially the temperature and the amount of solar energy (insolation) received. Lying between about 8°N and 37°N, with the Tropic of Cancer through its middle, India receives a large amount of solar energy (making much of it warm/tropical), and the difference in latitude between the south and the north contributes to differences in temperature. India's tropical/subtropical latitude is one of the key factors behind its warm climate and its monsoon system. Understanding that latitude (position relative to the equator) affects India's climate is a prelims point. India's latitude (position relative to the equator) mainly influences its climate — its temperature and solar energy received.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The smallest Indian state by area is:",
+    "options": [
+      "Sikkim",
+      "Goa",
+      "Tripura",
+      "Nagaland"
+    ],
+    "correct_index": 1,
+    "solution": "Goa is the smallest Indian state by area (about 3,700 sq km), located on the western coast of India. (Sikkim is the second smallest state.) Despite its small size, Goa is well known for its beaches, tourism, and distinctive culture. Understanding that Goa is India's smallest state by area is a prelims point. Goa is the smallest Indian state by area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three water bodies that surround the southern tip of India (at Kanyakumari) are the Arabian Sea, the Bay of Bengal, and the:",
+    "options": [
+      "Red Sea",
+      "Indian Ocean",
+      "Caspian Sea",
+      "Mediterranean Sea"
+    ],
+    "correct_index": 1,
+    "solution": "At the southern tip of India — Kanyakumari (Cape Comorin) — three great water bodies meet: the Arabian Sea (to the west), the Bay of Bengal (to the east), and the Indian Ocean (to the south). Kanyakumari is famous as the meeting point of these three seas. This reflects India's peninsular shape, jutting into the ocean and bordered by sea on three sides (east, west, and south). Understanding the three seas meeting at Kanyakumari is a prelims point. At Kanyakumari, the Arabian Sea, the Bay of Bengal, and the Indian Ocean meet.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's central location on the trade routes of the Indian Ocean has made the ocean to India's south be named after it — the:",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 1,
+    "solution": "The ocean to the south of India is named the Indian Ocean — the only ocean named after a country (India). This reflects India's central and dominant position in this ocean and its long historical importance in the ocean's trade and navigation. India's peninsula juts far south into the Indian Ocean, giving India a commanding, strategic location astride the major sea routes that cross the ocean (linking Africa, West Asia, South Asia, and East/South-East Asia). Understanding that the Indian Ocean is named after India (reflecting India's central position) is a prelims point. The Indian Ocean — the only ocean named after a country — reflects India's central position in it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which Union Territory of India was formed by merging Jammu & Kashmir's region of Ladakh as a separate UT?",
+    "options": [
+      "Ladakh",
+      "Puducherry",
+      "Chandigarh",
+      "Lakshadweep"
+    ],
+    "correct_index": 0,
+    "solution": "Ladakh is a Union Territory of India, formed in 2019 when the former state of Jammu & Kashmir was reorganised into two Union Territories — Jammu & Kashmir (with a legislature) and Ladakh (without a legislature). Ladakh, a high, cold, mountainous region in the north (a cold desert in the trans-Himalayan zone), is the northernmost part of India, bordering China and Pakistan. Understanding that Ladakh is a Union Territory (carved out in 2019) is a prelims point. Ladakh is a Union Territory of India, formed in 2019 from the erstwhile state of Jammu & Kashmir.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Duncan Passage is a sea channel located between:",
+    "options": [
+      "The Lakshadweep islands",
+      "South Andaman and Little Andaman islands",
+      "India and Sri Lanka",
+      "India and Bangladesh"
+    ],
+    "correct_index": 1,
+    "solution": "The Duncan Passage is a sea channel/strait in the Andaman Islands (Bay of Bengal), located between South Andaman Island (to the north) and Little Andaman Island (to the south). It is one of the several named sea channels around India's island groups. (Others include the Ten Degree Channel between the Andaman and Nicobar Islands, and the Nine Degree Channel in the Lakshadweep.) Understanding that the Duncan Passage lies between South Andaman and Little Andaman is a prelims point. The Duncan Passage lies between South Andaman and Little Andaman islands.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The three seas bordering peninsular India, its long coastline, and its many ports show that India has a strong __________ character/interest.",
+    "options": [
+      "landlocked",
+      "maritime (sea-related)",
+      "polar",
+      "desert"
+    ],
+    "correct_index": 1,
+    "solution": "The three seas bordering peninsular India (the Arabian Sea, the Bay of Bengal, and the Indian Ocean), its long coastline (~7,500 km), and its many ports show that India has a strong maritime (sea-related) character and interest. India's peninsula juts into the Indian Ocean, giving it a commanding maritime position, and the sea has long been important for India's trade, fishing, culture, and security. (This is the opposite of a landlocked country, which has no sea coast.) Understanding India's maritime character (given its seas, coastline, and ports) is a prelims point. India has a strong maritime character, given its three bordering seas, long coastline, and many ports.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 90° meridian of the Standard Time and the position of India mean that when it is noon at the standard meridian (82°30'E), places to the east of it have __________ time.",
+    "options": [
+      "an earlier (behind)",
+      "a later (ahead)",
+      "exactly the same",
+      "no"
+    ],
+    "correct_index": 1,
+    "solution": "Because the Sun appears to rise in the east and move westward, places to the EAST of a meridian have a later (ahead) local time — the Sun reaches them first. So when it is noon at India's standard meridian (82°30'E), places to the east of it (like Arunachal Pradesh) have already passed noon (their local time is ahead/later), while places to the west (like Gujarat) have not yet reached noon (their local time is behind/earlier). This is the basic principle of time and longitude (east = ahead, west = behind). Understanding that eastern places have a later/ahead time is a prelims point. Places to the east of a meridian have a later (ahead) local time, since the Sun rises there earlier.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Indian landmass has a central position between __________ Asia and __________ Asia (as a link between them).",
+    "options": [
+      "North; South",
+      "East; West",
+      "Polar; Tropical",
+      "Arctic; Antarctic"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian landmass occupies a central position between East Asia and West Asia — acting as a link or bridge between them. India's peninsula juts into the Indian Ocean, and it lies along the important sea routes that connect the countries of West Asia, Africa, and Europe (to the west) with those of East and South-East Asia (to the east). This central location has made India a natural meeting point and trade link between the eastern and western parts of Asia (and the wider world) — enhancing its strategic and commercial importance. Understanding India's central position between East and West Asia is a prelims point. India occupies a central position between East Asia and West Asia, acting as a link between them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The Andaman & Nicobar Islands and the Lakshadweep are of different origins. Reason (R): The Andaman & Nicobar Islands are largely of tectonic/volcanic (continental-oceanic) origin, while the Lakshadweep are coral islands. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that India's two main island groups are of different origins. And the reason is (R) that the Andaman & Nicobar Islands (in the Bay of Bengal) are largely of tectonic and volcanic origin — they are the tops of submerged mountains, in a tectonically active zone (with the active Barren Island volcano) — whereas the Lakshadweep Islands (in the Arabian Sea) are coral islands, built by corals (atolls and reefs). Because the two groups formed in these different ways, they are of different origins — so R correctly explains A. Understanding the different origins of the two island groups is a prelims point. The Andaman & Nicobar Islands are of tectonic/volcanic origin, while the Lakshadweep are coral islands.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The second largest Indian state by area (after Rajasthan) is:",
+    "options": [
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Gujarat"
+    ],
+    "correct_index": 1,
+    "solution": "Madhya Pradesh is the second largest Indian state by area (about 308,000 sq km), after Rajasthan (the largest). Madhya Pradesh, located in central India (its name means 'central province'), is followed by Maharashtra as the third largest. Understanding the ranking of India's largest states (Rajasthan, then Madhya Pradesh, then Maharashtra) is a prelims point. Madhya Pradesh is the second largest Indian state by area, after Rajasthan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The latitudinal extent of the Indian mainland is roughly:",
+    "options": [
+      "8°4'N to 37°6'N",
+      "20°N to 40°N",
+      "0° to 30°N",
+      "10°S to 30°N"
+    ],
+    "correct_index": 0,
+    "solution": "The Indian mainland extends between latitudes 8 degrees 4' N and 37 degrees 6' N.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The longitudinal extent of the Indian mainland is roughly:",
+    "options": [
+      "68°7'E to 97°25'E",
+      "60°E to 100°E",
+      "70°W to 90°E",
+      "80°E to 120°E"
+    ],
+    "correct_index": 0,
+    "solution": "The Indian mainland extends between longitudes 68 degrees 7' E and 97 degrees 25' E.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Tropic of Cancer (23°30'N) passes through roughly how many Indian states?",
+    "options": [
+      "Eight",
+      "Two",
+      "Five",
+      "Twelve"
+    ],
+    "correct_index": 0,
+    "solution": "The Tropic of Cancer passes through about eight Indian states, dividing the country into roughly two halves — the tropical south and the subtropical north.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The southernmost point of India's entire territory (in the Nicobar Islands) is:",
+    "options": [
+      "Indira Point",
+      "Kanniyakumari",
+      "Kolkata",
+      "Port Blair"
+    ],
+    "correct_index": 0,
+    "solution": "Indira Point, in the Great Nicobar Island, is the southernmost point of the entire Indian territory; it was earlier known as Pygmalion Point.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India is separated from Sri Lanka by a narrow channel of sea called the:",
+    "options": [
+      "Palk Strait and Gulf of Mannar",
+      "Bering Strait",
+      "Suez Canal",
+      "Ten Degree Channel"
+    ],
+    "correct_index": 0,
+    "solution": "India is separated from Sri Lanka by the narrow Palk Strait and the Gulf of Mannar, formed by the sea.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): India uses a single Standard Time for the whole country. Reason (R): Although India has a wide east-west extent, one standard meridian (82°30'E) is used for administrative convenience.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "India uses a single Standard Time (based on 82.5 degrees E) for administrative convenience, even though the sun rises about two hours earlier in the east than in the west — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): The Andaman & Nicobar and Lakshadweep islands extend India's territory. Reason (R): India's territory includes not only the mainland but also island groups in the Bay of Bengal and the Arabian Sea.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "India's territory includes the Andaman & Nicobar Islands in the Bay of Bengal and the Lakshadweep Islands in the Arabian Sea, extending its territory beyond the mainland — R explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India's only active volcano is located on __________ Island in the Andaman group.",
+    "options": [
+      "Barren",
+      "Great Nicobar",
+      "Car Nicobar",
+      "North Andaman"
+    ],
+    "correct_index": 0,
+    "solution": "India's only active volcano is located on Barren Island in the Andaman group of islands.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The boundary line between India and China in the north is called the:",
+    "options": [
+      "McMahon Line",
+      "Radcliffe Line",
+      "Durand Line",
+      "Line of Control"
+    ],
+    "correct_index": 0,
+    "solution": "The McMahon Line is the boundary between India and China in the north-eastern sector; the Radcliffe Line is the India-Pakistan boundary, and the Durand Line is the Afghanistan-Pakistan boundary.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The India-Pakistan boundary, drawn at the time of Partition, is called the:",
+    "options": [
+      "Radcliffe Line",
+      "McMahon Line",
+      "Durand Line",
+      "Line of Control"
+    ],
+    "correct_index": 0,
+    "solution": "The Radcliffe Line is the boundary between India and Pakistan (and India and Bangladesh), drawn at the time of Partition in 1947 by Sir Cyril Radcliffe.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Match the boundary line with the countries: (i) Radcliffe Line (ii) McMahon Line — (a) India-China (b) India-Pakistan:",
+    "options": [
+      "(i)-b, (ii)-a",
+      "(i)-a, (ii)-b",
+      "Both (a)",
+      "Both (b)"
+    ],
+    "correct_index": 0,
+    "solution": "The Radcliffe Line is the India-Pakistan boundary, and the McMahon Line is the India-China boundary in the north-east.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The time difference between the easternmost and westernmost points of India (in local sun time) is about:",
+    "options": [
+      "Two hours",
+      "Half an hour",
+      "Five hours",
+      "Ten minutes"
+    ],
+    "correct_index": 0,
+    "solution": "Because India spans about 30 degrees of longitude, there is a time difference of about two hours between the local time of the easternmost point (Arunachal Pradesh) and the westernmost point (Gujarat).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India is located entirely in the:",
+    "options": [
+      "Northern and Eastern hemispheres",
+      "Southern hemisphere",
+      "Western hemisphere",
+      "Southern and Western hemispheres"
+    ],
+    "correct_index": 0,
+    "solution": "India lies entirely in the Northern Hemisphere (north of the equator) and in the Eastern Hemisphere (east of the Prime Meridian).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's total length of coastline (mainland and islands together) is about:",
+    "options": [
+      "7,516 km",
+      "2,000 km",
+      "15,000 km",
+      "500 km"
+    ],
+    "correct_index": 0,
+    "solution": "The total length of the coastline of India, including the mainland and the island groups (Andaman & Nicobar and Lakshadweep), is about 7,516 km.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The three water bodies that surround the southern tip (peninsula) of India are the Arabian Sea, the Bay of Bengal and the:",
+    "options": [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Red Sea",
+      "Mediterranean Sea"
+    ],
+    "correct_index": 0,
+    "solution": "The southern peninsula of India is surrounded by the Arabian Sea on the west, the Bay of Bengal on the east, and the Indian Ocean to the south.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The narrow channel that separates the Andaman Islands from the Nicobar Islands is the:",
+    "options": [
+      "Ten Degree Channel",
+      "Nine Degree Channel",
+      "Palk Strait",
+      "Duncan Passage"
+    ],
+    "correct_index": 0,
+    "solution": "The Ten Degree Channel separates the Andaman Islands from the Nicobar Islands; the Nine Degree Channel separates the main Lakshadweep group from Minicoy Island.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The countries that are land neighbours of India include Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar and:",
+    "options": [
+      "Afghanistan",
+      "Sri Lanka",
+      "Maldives",
+      "Indonesia"
+    ],
+    "correct_index": 0,
+    "solution": "India's land neighbours are Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh and Myanmar; Sri Lanka and the Maldives are neighbours across the sea.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's central location at the head of the Indian Ocean is significant because it:",
+    "options": [
+      "Places India on important sea trade routes connecting the West and East",
+      "Isolates India",
+      "Has no strategic value",
+      "Keeps India away from trade"
+    ],
+    "correct_index": 0,
+    "solution": "India's central location at the head of the Indian Ocean gives it a strategic position on the major sea routes connecting the countries of West Asia, Africa and Europe with those of East and Southeast Asia, benefiting trade and contacts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Indian culture, religions (like Hinduism and Buddhism) and goods spread to other lands historically because of India's:",
+    "options": [
+      "Long coastline and location on ocean trade routes",
+      "Isolation",
+      "Lack of contact",
+      "Small size"
+    ],
+    "correct_index": 0,
+    "solution": "India's long coastline and central location on the Indian Ocean trade routes enabled its culture, religions (Hinduism, Buddhism), goods and ideas to spread to Southeast Asia and other regions through trade and contact.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Palk Strait and the Gulf of Mannar are water bodies that separate India from:",
+    "options": [
+      "Sri Lanka",
+      "Bangladesh",
+      "Myanmar",
+      "Pakistan"
+    ],
+    "correct_index": 0,
+    "solution": "The Palk Strait and the Gulf of Mannar are the narrow stretches of sea that separate India from the island country of Sri Lanka to its south.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Indian subcontinent is separated from the rest of Asia in the north by the:",
+    "options": [
+      "Himalayan mountains",
+      "Thar desert",
+      "Vindhya range",
+      "Deccan plateau"
+    ],
+    "correct_index": 0,
+    "solution": "The lofty Himalayan mountains in the north separate the Indian subcontinent from the rest of Asia, forming a natural barrier.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The countries that make up the Indian subcontinent include India, Pakistan, Nepal, Bhutan, Bangladesh and:",
+    "options": [
+      "Sri Lanka",
+      "China",
+      "Myanmar",
+      "Afghanistan"
+    ],
+    "correct_index": 0,
+    "solution": "The Indian subcontinent (South Asia) comprises India, Pakistan, Nepal, Bhutan, Bangladesh and Sri Lanka, sharing broadly similar physical and cultural features.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Union Territory formed by merging the former areas of Daman and Diu with Dadra and Nagar Haveli is:",
+    "options": [
+      "Dadra and Nagar Haveli and Daman and Diu",
+      "Puducherry",
+      "Chandigarh",
+      "Ladakh"
+    ],
+    "correct_index": 0,
+    "solution": "In 2020, the former Union Territories of Daman and Diu and of Dadra and Nagar Haveli were merged to form the single Union Territory of Dadra and Nagar Haveli and Daman and Diu.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India's north-south extent (from Kashmir to Kanniyakumari) is about:",
+    "options": [
+      "3,214 km",
+      "1,000 km",
+      "5,000 km",
+      "500 km"
+    ],
+    "correct_index": 0,
+    "solution": "The north-south extent of the Indian mainland, from the northernmost point in Kashmir to Kanniyakumari in the south, is about 3,214 km.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India's east-west extent (from Gujarat to Arunachal Pradesh) is about:",
+    "options": [
+      "2,933 km",
+      "1,000 km",
+      "5,000 km",
+      "500 km"
+    ],
+    "correct_index": 0,
+    "solution": "The east-west extent of the Indian mainland, from the Rann of Kutch in Gujarat to Arunachal Pradesh in the east, is about 2,933 km.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Although the latitudinal and longitudinal extents of India are almost the same in degrees, the __________ extent appears greater in kilometres in the south.",
+    "options": [
+      "East-west",
+      "North-south",
+      "Vertical",
+      "Diagonal"
+    ],
+    "correct_index": 0,
+    "solution": "Although the latitudinal and longitudinal extents of the mainland are both about 30 degrees, the actual east-west distance in kilometres decreases towards the north (as the meridians converge towards the pole), so the north-south extent is slightly greater in kilometres.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The group of north-eastern Indian states connected to the rest of India by a narrow corridor (the Siliguri corridor) is often called the:",
+    "options": [
+      "Seven Sisters",
+      "Deccan states",
+      "Coastal states",
+      "Hill stations"
+    ],
+    "correct_index": 0,
+    "solution": "The seven north-eastern states of India (Assam, Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura and Meghalaya) are often called the 'Seven Sisters'; they are connected to the rest of India by the narrow 'Chicken's Neck' (Siliguri corridor).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The northernmost point of India lies in the region of:",
+    "options": [
+      "Jammu and Kashmir / Ladakh",
+      "Arunachal Pradesh",
+      "Rajasthan",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "The northernmost extent of the Indian territory lies in the region of Jammu and Kashmir and Ladakh, in the Himalayas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's location gives it a tropical to subtropical character because:",
+    "options": [
+      "The Tropic of Cancer passes through the middle of the country",
+      "It lies at the equator",
+      "It lies near the poles",
+      "It is landlocked"
+    ],
+    "correct_index": 0,
+    "solution": "India has a tropical to subtropical character because the Tropic of Cancer passes through roughly the middle of the country, so the southern half lies in the tropics and the northern half in the subtropics.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of Indian states that have a coastline (are coastal states) is:",
+    "options": [
+      "Nine",
+      "Three",
+      "Fifteen",
+      "Twenty"
+    ],
+    "correct_index": 0,
+    "solution": "India has nine coastal states — Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha and West Bengal — along its long coastline.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The location of India between the Himalayas in the north and the ocean in the south gives it:",
+    "options": [
+      "A distinct geographical and cultural identity",
+      "No identity",
+      "Isolation from all neighbours",
+      "A polar climate"
+    ],
+    "correct_index": 0,
+    "solution": "India's location, with the Himalayas forming a barrier in the north and the ocean surrounding the peninsula in the south, gives it a distinct geographical, cultural and strategic identity as a subcontinent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sir Creek and the Rann of Kutch mark part of India's western boundary with:",
+    "options": [
+      "Pakistan",
+      "Bangladesh",
+      "Myanmar",
+      "China"
+    ],
+    "correct_index": 0,
+    "solution": "The Sir Creek and the Rann of Kutch, in Gujarat, mark part of India's western boundary with Pakistan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India occupies an important strategic position in South Asia because of its:",
+    "options": [
+      "Large size, central location and long coastline",
+      "Small size",
+      "Isolation",
+      "Lack of neighbours"
+    ],
+    "correct_index": 0,
+    "solution": "India occupies an important strategic position in South Asia due to its large size, central location at the head of the Indian Ocean, long coastline, and its many land and sea neighbours, giving it significance in regional trade, politics and security.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Nine Degree Channel separates which island from the rest of the Lakshadweep group?",
+    "options": [
+      "Minicoy",
+      "Car Nicobar",
+      "Barren Island",
+      "Little Andaman"
+    ],
+    "correct_index": 0,
+    "solution": "The Nine Degree Channel separates the island of Minicoy from the main group of the Lakshadweep Islands.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India shares its longest coastline with which state?",
+    "options": [
+      "Gujarat",
+      "Kerala",
+      "Tamil Nadu",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Among the Indian states, Gujarat has the longest coastline, followed by Andhra Pradesh and Tamil Nadu.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The physical diversity and vast size of India result in:",
+    "options": [
+      "A great variety of relief, climate, vegetation and cultures",
+      "Uniformity everywhere",
+      "A single climate",
+      "No diversity"
+    ],
+    "correct_index": 0,
+    "solution": "India's vast size and physical diversity — from the Himalayas to the coasts, deserts to plains — result in a great variety of relief, climate, natural vegetation, soils, and human cultures across the country.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India is separated by the sea from its two island neighbours, which are:",
+    "options": [
+      "Sri Lanka and the Maldives",
+      "Pakistan and Nepal",
+      "Bhutan and Myanmar",
+      "China and Bangladesh"
+    ],
+    "correct_index": 0,
+    "solution": "India's two neighbouring island countries, separated from it by the sea, are Sri Lanka (to the south-east) and the Maldives (to the south-west).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The advantage of India's location on the Indian Ocean trade routes historically included:",
+    "options": [
+      "Flourishing maritime trade and cultural exchange with other lands",
+      "Complete isolation",
+      "No trade",
+      "A cold climate"
+    ],
+    "correct_index": 0,
+    "solution": "India's central position on the Indian Ocean trade routes brought it flourishing maritime trade and rich cultural exchange with West Asia, Africa, Europe and Southeast Asia over the centuries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'India – Location' is that:",
+    "options": [
+      "India's size, location and boundaries give it a distinct identity and strategic importance",
+      "India has no fixed location",
+      "Location is unimportant",
+      "India is a small country"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter concludes that India's large size, its location in the Northern and Eastern hemispheres with the Tropic of Cancer passing through it, its long coastline, and its position at the head of the Indian Ocean give it a distinct geographical identity and considerable strategic and economic importance.",
+    "difficulty": "medium"
+  }
 ]
