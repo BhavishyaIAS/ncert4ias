@@ -1,0 +1,614 @@
+[
+  {
+    "stem": "Measurement is the process of comparing an unknown quantity with a __________.",
+    "options": [
+      "known fixed standard (unit)",
+      "random object",
+      "colour",
+      "sound"
+    ],
+    "correct_index": 0,
+    "solution": "Measurement compares an unknown quantity with an agreed standard called a unit.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The SI unit of length is the __________.",
+    "options": [
+      "metre",
+      "kilogram",
+      "second",
+      "litre"
+    ],
+    "correct_index": 0,
+    "solution": "The metre (m) is the SI unit of length.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "1 metre is equal to __________ centimetres.",
+    "options": [
+      "100",
+      "10",
+      "1000",
+      "12"
+    ],
+    "correct_index": 0,
+    "solution": "1 metre = 100 centimetres.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "1 kilometre is equal to __________ metres.",
+    "options": [
+      "1000",
+      "100",
+      "10",
+      "10000"
+    ],
+    "correct_index": 0,
+    "solution": "1 kilometre = 1000 metres.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "1 centimetre equals __________ millimetres.",
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "12"
+    ],
+    "correct_index": 0,
+    "solution": "1 centimetre = 10 millimetres.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Why were early body-based units like the cubit and handspan replaced by standard units?",
+    "options": [
+      "They varied from person to person and gave inconsistent results",
+      "They were too large to use",
+      "They were forbidden",
+      "They measured only weight"
+    ],
+    "correct_index": 0,
+    "solution": "Body-based measures differ between people, so standard units were adopted for consistent, comparable measurement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "To measure the length of a curved line, the most suitable tool is a __________.",
+    "options": [
+      "thread (then measured on a scale)",
+      "rigid metal rod",
+      "wooden block",
+      "stone"
+    ],
+    "correct_index": 0,
+    "solution": "A flexible thread can be laid along the curve and then measured against a straight scale.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "While measuring length with a scale, the eye should be kept __________ the reading to avoid error.",
+    "options": [
+      "directly above (in line with)",
+      "far to the left of",
+      "far to the right of",
+      "below the table"
+    ],
+    "correct_index": 0,
+    "solution": "The eye must be directly in line with the mark to avoid a parallax error in the reading.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The error caused by looking at a scale reading from the wrong angle is called __________.",
+    "options": [
+      "parallax error",
+      "zero error",
+      "random error",
+      "unit error"
+    ],
+    "correct_index": 0,
+    "solution": "Viewing a scale from an angle instead of straight on causes a parallax error.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If the end of a ruler is broken, you should measure length by __________.",
+    "options": [
+      "starting from a clear mark (e.g., the 1 cm mark) and subtracting",
+      "guessing the length",
+      "using only the broken end",
+      "not measuring at all"
+    ],
+    "correct_index": 0,
+    "solution": "Start from a full, clear mark and subtract its value from the final reading to avoid using the damaged end.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An object is said to be in motion if its __________ changes with time relative to its surroundings.",
+    "options": [
+      "position",
+      "colour",
+      "mass",
+      "temperature"
+    ],
+    "correct_index": 0,
+    "solution": "Motion is a change in an object's position with time relative to a reference point.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "An object whose position does not change with time relative to its surroundings is said to be at __________.",
+    "options": [
+      "rest",
+      "high speed",
+      "uniform motion",
+      "acceleration"
+    ],
+    "correct_index": 0,
+    "solution": "An object at rest keeps the same position relative to its surroundings over time.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The motion of a ball moving along a straight road is an example of __________ motion.",
+    "options": [
+      "rectilinear (straight-line)",
+      "circular",
+      "periodic",
+      "rotational"
+    ],
+    "correct_index": 0,
+    "solution": "Motion along a straight line is called rectilinear motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The motion of the hands of a clock or a fan blade is __________ motion.",
+    "options": [
+      "circular (rotational)",
+      "rectilinear",
+      "random",
+      "vibratory only"
+    ],
+    "correct_index": 0,
+    "solution": "The tip of a clock hand or fan blade moves in a circle — circular (rotational) motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The to-and-fro motion of a swing or a pendulum is called __________ motion.",
+    "options": [
+      "oscillatory (periodic)",
+      "rectilinear",
+      "circular",
+      "translatory"
+    ],
+    "correct_index": 0,
+    "solution": "A swing or pendulum repeats a to-and-fro path — oscillatory (periodic) motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The motion of a moving car's wheel is a combination of __________.",
+    "options": [
+      "rotational and rectilinear (rolling) motion",
+      "only circular motion",
+      "only vibratory motion",
+      "no motion"
+    ],
+    "correct_index": 0,
+    "solution": "A rolling wheel spins (rotational) while its axle moves forward (rectilinear) — a combination of both.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an example of periodic motion?",
+    "options": [
+      "The swinging of a pendulum",
+      "A stone falling once from a height",
+      "A car moving on a straight road once",
+      "A ball rolling to a stop"
+    ],
+    "correct_index": 0,
+    "solution": "Periodic motion repeats at regular intervals, like a pendulum's swing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A measuring tape marked in centimetres and metres is most suitable for measuring __________.",
+    "options": [
+      "the length of a room or cloth",
+      "the thickness of a coin",
+      "the diameter of a wire",
+      "very tiny objects under a microscope"
+    ],
+    "correct_index": 0,
+    "solution": "A measuring tape is convenient for longer, everyday lengths such as rooms and cloth.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which unit is most suitable to express the distance between two cities?",
+    "options": [
+      "Kilometre",
+      "Millimetre",
+      "Centimetre",
+      "Metre"
+    ],
+    "correct_index": 0,
+    "solution": "Large distances like those between cities are conveniently expressed in kilometres.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which unit is most suitable for the thickness of a coin?",
+    "options": [
+      "Millimetre",
+      "Kilometre",
+      "Metre",
+      "Kilogram"
+    ],
+    "correct_index": 0,
+    "solution": "The small thickness of a coin is best measured in millimetres.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The distance covered by an object in a given time tells us about its __________.",
+    "options": [
+      "speed (how fast it moves)",
+      "colour",
+      "mass",
+      "temperature"
+    ],
+    "correct_index": 0,
+    "solution": "Speed relates the distance moved to the time taken — how fast an object moves.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about motion is correct?",
+    "options": [
+      "Whether an object is in motion depends on the reference point chosen",
+      "Motion is the same for all observers regardless of reference",
+      "An object at rest can never appear to move",
+      "Motion does not involve time"
+    ],
+    "correct_index": 0,
+    "solution": "Motion is relative: it depends on the chosen reference point; a passenger is at rest relative to the train but in motion relative to the ground.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "0.5 metre is equal to __________ centimetres.",
+    "options": [
+      "50",
+      "5",
+      "500",
+      "0.05"
+    ],
+    "correct_index": 0,
+    "solution": "0.5 m × 100 = 50 cm.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "250 centimetres equals __________ metres.",
+    "options": [
+      "2.5",
+      "25",
+      "0.25",
+      "2500"
+    ],
+    "correct_index": 0,
+    "solution": "250 cm ÷ 100 = 2.5 m.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "To measure the girth (distance around) a tree trunk, the best tool is a __________.",
+    "options": [
+      "flexible measuring tape or thread",
+      "rigid ruler",
+      "wooden block",
+      "brick"
+    ],
+    "correct_index": 0,
+    "solution": "A flexible tape or thread can wrap around the curved trunk to measure its girth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Standard units are important mainly because they __________.",
+    "options": [
+      "allow everyone everywhere to understand and compare measurements",
+      "make measuring slower",
+      "are used only by scientists",
+      "change from place to place"
+    ],
+    "correct_index": 0,
+    "solution": "Standard units give the same value everywhere, enabling universal understanding and comparison.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A person walks around a circular track and returns to the starting point. The type of motion is __________.",
+    "options": [
+      "circular motion",
+      "straight-line motion",
+      "vibratory motion",
+      "no motion since they returned"
+    ],
+    "correct_index": 0,
+    "solution": "Moving along a circular track is circular motion, even if the person returns to the start.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs a quantity with its correct SI unit?",
+    "options": [
+      "Length – metre",
+      "Length – kilogram",
+      "Length – litre",
+      "Length – second"
+    ],
+    "correct_index": 0,
+    "solution": "The SI unit of length is the metre; kilogram is mass, litre is volume, second is time.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The plucked string of a musical instrument shows __________ motion.",
+    "options": [
+      "vibratory (oscillatory)",
+      "circular",
+      "rectilinear",
+      "rolling"
+    ],
+    "correct_index": 0,
+    "solution": "A vibrating string moves back and forth rapidly — vibratory (oscillatory) motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "While measuring, taking the reading at the point where the object ends against the scale requires that the __________.",
+    "options": [
+      "scale is placed along the object with a clear starting mark",
+      "scale is held far from the object",
+      "object is moving",
+      "eye is at an angle"
+    ],
+    "correct_index": 0,
+    "solution": "For an accurate reading, the scale must lie along the object with a defined starting mark and the eye kept in line.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The motion of the Earth around the Sun is best described as __________.",
+    "options": [
+      "periodic (repeating each year) and roughly circular",
+      "rectilinear",
+      "random",
+      "vibratory"
+    ],
+    "correct_index": 0,
+    "solution": "The Earth's revolution around the Sun repeats every year (periodic) along a near-circular (elliptical) path.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A metre scale is usually divided into the smallest markings of __________.",
+    "options": [
+      "millimetres",
+      "centimetres only",
+      "kilometres",
+      "metres only"
+    ],
+    "correct_index": 0,
+    "solution": "A standard metre scale has centimetre markings each divided into 10 millimetres, the smallest divisions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is NOT a unit of length?",
+    "options": [
+      "Kilogram",
+      "Metre",
+      "Centimetre",
+      "Kilometre"
+    ],
+    "correct_index": 0,
+    "solution": "Kilogram is a unit of mass; metre, centimetre and kilometre are units of length.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A car moving on a straight highway shows __________ motion, while its spinning tyre shows __________ motion.",
+    "options": [
+      "rectilinear; rotational",
+      "circular; rectilinear",
+      "vibratory; periodic",
+      "no; rotational"
+    ],
+    "correct_index": 0,
+    "solution": "The car body moves in a straight line (rectilinear) while each tyre spins (rotational).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reason a passenger feels the trees 'moving backward' from a moving train is that motion is __________.",
+    "options": [
+      "relative to the chosen reference frame",
+      "absolute and fixed",
+      "impossible to observe",
+      "always the same for everyone"
+    ],
+    "correct_index": 0,
+    "solution": "Motion is relative; from the moving train's frame, stationary trees appear to move backward.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "To measure length correctly, the object should be measured __________.",
+    "options": [
+      "with the scale's markings touching the object along its length",
+      "held above the scale",
+      "while the object moves",
+      "in the dark"
+    ],
+    "correct_index": 0,
+    "solution": "The scale must lie in contact and parallel to the object's length for an accurate reading.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of these is the largest length?",
+    "options": [
+      "1 kilometre",
+      "1 metre",
+      "1 centimetre",
+      "1 millimetre"
+    ],
+    "correct_index": 0,
+    "solution": "1 km = 1000 m, far larger than 1 m, 1 cm or 1 mm.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Arrange in increasing order of size: metre, millimetre, kilometre, centimetre.",
+    "options": [
+      "millimetre < centimetre < metre < kilometre",
+      "kilometre < metre < centimetre < millimetre",
+      "metre < kilometre < centimetre < millimetre",
+      "centimetre < millimetre < metre < kilometre"
+    ],
+    "correct_index": 0,
+    "solution": "mm (0.001 m) < cm (0.01 m) < m (1 m) < km (1000 m).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A blinking light that switches on and off at equal time intervals shows a change that is __________.",
+    "options": [
+      "periodic",
+      "rectilinear",
+      "random",
+      "circular"
+    ],
+    "correct_index": 0,
+    "solution": "Regular repetition at equal time intervals is periodic behaviour.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tip of a rotating fan blade traces a __________.",
+    "options": [
+      "circular path",
+      "straight line",
+      "square",
+      "single point"
+    ],
+    "correct_index": 0,
+    "solution": "The blade tip moves in a circle around the fan's axis — a circular path.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which activity best measures the length of a cricket pitch?",
+    "options": [
+      "Using a long measuring tape in metres",
+      "Using a microscope",
+      "Using a millimetre scale only",
+      "Estimating by eye alone"
+    ],
+    "correct_index": 0,
+    "solution": "A long measuring tape in metres is suitable for the ~20 m cricket pitch.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A quantity that has a definite standard, a number and a unit is a __________.",
+    "options": [
+      "measured physical quantity",
+      "guess",
+      "opinion",
+      "colour"
+    ],
+    "correct_index": 0,
+    "solution": "A measured physical quantity is expressed as a number together with a standard unit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following shows both translatory and rotational motion together?",
+    "options": [
+      "A rolling football",
+      "A spinning top staying in one spot",
+      "A pendulum swinging",
+      "A vibrating string"
+    ],
+    "correct_index": 0,
+    "solution": "A rolling football moves forward (translatory) while spinning (rotational) at the same time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If a measurement is repeated carefully several times, taking the average helps to __________.",
+    "options": [
+      "reduce random errors and get a more reliable value",
+      "increase the error",
+      "change the unit",
+      "make the object longer"
+    ],
+    "correct_index": 0,
+    "solution": "Averaging repeated readings reduces random errors and gives a more reliable measurement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main idea of measuring motion is to describe __________.",
+    "options": [
+      "how the position of an object changes with time",
+      "the colour of the object",
+      "the taste of the object",
+      "the smell of the object"
+    ],
+    "correct_index": 0,
+    "solution": "Describing motion means tracking how an object's position changes over time.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Ancient units like 'angul' and 'mutthi' in India were based on __________.",
+    "options": [
+      "parts of the human body",
+      "the speed of light",
+      "atomic sizes",
+      "the weight of water"
+    ],
+    "correct_index": 0,
+    "solution": "Traditional Indian units such as angul (finger-width) and mutthi (fist) were based on body parts, hence variable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the correct conversion?",
+    "options": [
+      "3 km = 3000 m",
+      "3 km = 300 m",
+      "3 km = 30 m",
+      "3 km = 30000 m"
+    ],
+    "correct_index": 0,
+    "solution": "3 km × 1000 = 3000 m.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The smallest division on an ordinary metre scale used in schools is usually __________.",
+    "options": [
+      "1 millimetre",
+      "1 centimetre",
+      "1 metre",
+      "1 kilometre"
+    ],
+    "correct_index": 0,
+    "solution": "A school metre scale is graduated down to millimetres, its smallest division.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "5 kilometres 250 metres expressed fully in metres is __________.",
+    "options": [
+      "5250 m",
+      "5025 m",
+      "525 m",
+      "52500 m"
+    ],
+    "correct_index": 0,
+    "solution": "5 km = 5000 m; plus 250 m gives 5250 m.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The spinning of the Earth on its axis is an example of __________ motion.",
+    "options": [
+      "rotational",
+      "rectilinear",
+      "oscillatory",
+      "random"
+    ],
+    "correct_index": 0,
+    "solution": "The Earth spinning on its own axis is rotational (spinning) motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Measurement of Length and Motion' is that:",
+    "options": [
+      "quantities are measured using agreed standard units, and motion is described as change of position with time",
+      "measurement needs no units",
+      "all motion is straight-line",
+      "body parts are the best units"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter teaches measuring length with standard units and describing different types of motion as changes of position with time.",
+    "difficulty": "easy"
+  }
+]
