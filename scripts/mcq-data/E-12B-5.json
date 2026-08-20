@@ -1,52 +1,1178 @@
 [
-  { "stem": "'Market equilibrium' is the situation in which __________.", "options": ["The quantity demanded equals the quantity supplied at the prevailing price, so there is no tendency for price to change", "Demand always exceeds supply", "Supply always exceeds demand", "There is no trade in the market"], "correct_index": 0, "solution": "MARKET EQUILIBRIUM is the situation in which the QUANTITY DEMANDED EQUALS the QUANTITY SUPPLIED at the prevailing PRICE. At this equilibrium price and quantity, there is NO TENDENCY for the PRICE to CHANGE, because the plans of buyers and sellers are consistent. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'equilibrium price' is also called the __________ price.", "options": ["Market-clearing", "Maximum", "Minimum", "Ceiling"], "correct_index": 0, "solution": "The EQUILIBRIUM PRICE is also called the MARKET-CLEARING PRICE, because at this price the market 'clears' — the quantity buyers want to buy exactly equals the quantity sellers want to sell, leaving no shortage or surplus. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "At a price ABOVE the equilibrium price, there is __________.", "options": ["Excess supply (a surplus), which pushes the price down toward equilibrium", "Excess demand (a shortage)", "Exactly market clearing", "No effect on price"], "correct_index": 0, "solution": "At a price ABOVE the equilibrium, the quantity supplied EXCEEDS the quantity demanded — there is EXCESS SUPPLY (a SURPLUS). Unsold stock leads sellers to CUT PRICES, PUSHING the price DOWN toward equilibrium. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "At a price BELOW the equilibrium price, there is __________.", "options": ["Excess demand (a shortage), which pushes the price up toward equilibrium", "Excess supply (a surplus)", "Exactly market clearing", "A permanent shortage that never adjusts"], "correct_index": 0, "solution": "At a price BELOW the equilibrium, the quantity demanded EXCEEDS the quantity supplied — there is EXCESS DEMAND (a SHORTAGE). Competition among buyers for the scarce goods BIDS the PRICE UP toward equilibrium. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Market equilibrium is determined graphically by __________.", "options": ["The intersection of the market demand curve and the market supply curve", "The top of the supply curve", "The bottom of the demand curve", "The y-axis"], "correct_index": 0, "solution": "MARKET EQUILIBRIUM is determined graphically by the INTERSECTION of the market DEMAND CURVE and the market SUPPLY CURVE. The price at that intersection is the equilibrium price, and the quantity is the equilibrium quantity. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "If market DEMAND increases (demand curve shifts right) while supply is unchanged, the new equilibrium has __________.", "options": ["A higher price and a higher quantity", "A lower price and lower quantity", "A higher price and lower quantity", "No change"], "correct_index": 0, "solution": "If DEMAND INCREASES (shifts RIGHT) with supply unchanged, the equilibrium moves up along the supply curve: both the equilibrium PRICE and the equilibrium QUANTITY RISE (HIGHER price, HIGHER quantity). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "If market DEMAND decreases (demand curve shifts left) while supply is unchanged, the new equilibrium has __________.", "options": ["A lower price and a lower quantity", "A higher price and higher quantity", "A higher price and lower quantity", "No change"], "correct_index": 0, "solution": "If DEMAND DECREASES (shifts LEFT) with supply unchanged, the equilibrium moves down along the supply curve: both the equilibrium PRICE and the equilibrium QUANTITY FALL (LOWER price, LOWER quantity). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "If market SUPPLY increases (supply curve shifts right) while demand is unchanged, the new equilibrium has __________.", "options": ["A lower price and a higher quantity", "A higher price and higher quantity", "A lower price and lower quantity", "No change"], "correct_index": 0, "solution": "If SUPPLY INCREASES (shifts RIGHT) with demand unchanged, the equilibrium moves down along the demand curve: the equilibrium PRICE FALLS and the equilibrium QUANTITY RISES (LOWER price, HIGHER quantity). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "If market SUPPLY decreases (supply curve shifts left) while demand is unchanged, the new equilibrium has __________.", "options": ["A higher price and a lower quantity", "A lower price and higher quantity", "A lower price and lower quantity", "No change"], "correct_index": 0, "solution": "If SUPPLY DECREASES (shifts LEFT) with demand unchanged, the equilibrium moves up along the demand curve: the equilibrium PRICE RISES and the equilibrium QUANTITY FALLS (HIGHER price, LOWER quantity). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "If BOTH demand and supply increase (both shift right), the equilibrium quantity definitely rises, but the price change is __________.", "options": ["Ambiguous (depends on the relative sizes of the two shifts)", "Always a rise", "Always a fall", "Always zero"], "correct_index": 0, "solution": "If BOTH DEMAND and SUPPLY INCREASE (both shift RIGHT), the equilibrium QUANTITY DEFINITELY RISES. But the PRICE change is AMBIGUOUS — it depends on the RELATIVE SIZES of the two shifts: if demand rises more, price rises; if supply rises more, price falls; if they shift equally, price is unchanged. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A 'price ceiling' is __________.", "options": ["A government-imposed maximum price below the equilibrium, meant to keep a good affordable", "A minimum price above equilibrium", "The equilibrium price itself", "A tax on the good"], "correct_index": 0, "solution": "A PRICE CEILING is a government-imposed MAXIMUM PRICE, usually set BELOW the equilibrium price, meant to keep essential goods AFFORDABLE for consumers (e.g., rent control, price controls on essential commodities). By law, the price cannot rise above the ceiling. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A binding price ceiling (set below equilibrium) leads to __________.", "options": ["A shortage (excess demand), often resulting in queues, rationing, or black markets", "A surplus", "Market clearing", "Higher supply"], "correct_index": 0, "solution": "A BINDING PRICE CEILING (below equilibrium) leads to a SHORTAGE (EXCESS DEMAND), because the low price raises quantity demanded and lowers quantity supplied. This often results in QUEUES, RATIONING, and BLACK MARKETS (where goods are sold illegally above the ceiling). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A 'price floor' is __________.", "options": ["A government-imposed minimum price above the equilibrium, meant to protect producers/sellers", "A maximum price below equilibrium", "The equilibrium price", "A subsidy"], "correct_index": 0, "solution": "A PRICE FLOOR is a government-imposed MINIMUM PRICE, usually set ABOVE the equilibrium price, meant to PROTECT PRODUCERS/SELLERS by ensuring them a certain minimum return (e.g., minimum support prices for farm crops, minimum wages). By law, the price cannot fall below the floor. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A binding price floor (set above equilibrium) leads to __________.", "options": ["A surplus (excess supply), such as unsold stocks or unemployment (in the case of minimum wages)", "A shortage", "Market clearing", "Higher demand"], "correct_index": 0, "solution": "A BINDING PRICE FLOOR (above equilibrium) leads to a SURPLUS (EXCESS SUPPLY), because the high price raises quantity supplied and lowers quantity demanded. Examples include UNSOLD STOCKS of crops (which governments may have to buy) or UNEMPLOYMENT in the case of a minimum wage set above the market wage. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'Minimum Support Price' (MSP) for agricultural crops in India is an example of a __________.", "options": ["Price floor (to protect farmers)", "Price ceiling", "Free market price", "Tax"], "correct_index": 0, "solution": "The MINIMUM SUPPORT PRICE (MSP) for agricultural crops in India is an example of a PRICE FLOOR — a minimum price set (usually above the market price) to PROTECT FARMERS by guaranteeing them a remunerative return and insuring them against sharp price falls. The government buys crops at the MSP. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Rent control and the Public Distribution System (subsidised essential goods) are examples of __________.", "options": ["Price ceilings (maximum prices to help consumers)", "Price floors", "Free market outcomes", "Minimum wages"], "correct_index": 0, "solution": "RENT CONTROL (a maximum rent) and the subsidised sale of essential goods (e.g., through the PUBLIC DISTRIBUTION SYSTEM) are examples of PRICE CEILINGS — MAXIMUM PRICES set to HELP CONSUMERS (especially the poor) afford housing and essentials. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The market mechanism restores equilibrium after a shortage because __________.", "options": ["Excess demand causes buyers to bid up the price, which raises quantity supplied and reduces quantity demanded until they are equal", "Shortages last forever", "Prices never change", "Supply falls further"], "correct_index": 0, "solution": "After a SHORTAGE (excess demand), the market mechanism restores equilibrium because EXCESS DEMAND causes BUYERS to BID UP the PRICE. The rising price RAISES the QUANTITY SUPPLIED (moving up the supply curve) and REDUCES the QUANTITY DEMANDED (moving up the demand curve) until the two are EQUAL again at the new/old equilibrium. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The market mechanism restores equilibrium after a surplus because __________.", "options": ["Excess supply causes sellers to lower the price, which reduces quantity supplied and raises quantity demanded until they are equal", "Surpluses last forever", "Prices keep rising", "Demand falls further"], "correct_index": 0, "solution": "After a SURPLUS (excess supply), the market mechanism restores equilibrium because EXCESS SUPPLY causes SELLERS to LOWER the PRICE to clear stocks. The falling price REDUCES the QUANTITY SUPPLIED and RAISES the QUANTITY DEMANDED until the two are EQUAL again at equilibrium. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The effect of a per-unit TAX on sellers is to __________.", "options": ["Shift the supply curve upward/leftward, raising the price paid by buyers and lowering the price received by sellers, reducing the quantity traded", "Shift the demand curve right", "Raise the quantity traded", "Have no effect on price"], "correct_index": 0, "solution": "A per-unit TAX on SELLERS SHIFTS the SUPPLY CURVE UPWARD/LEFTWARD by the amount of the tax (production is effectively costlier). This RAISES the PRICE PAID by BUYERS, LOWERS the (net) PRICE RECEIVED by SELLERS, and REDUCES the QUANTITY TRADED. The tax burden is shared between buyers and sellers depending on elasticities. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The effect of a SUBSIDY on sellers is to __________.", "options": ["Shift the supply curve downward/rightward, lowering the price paid by buyers and raising the quantity traded", "Shift the demand curve left", "Reduce the quantity traded", "Raise the price paid by buyers"], "correct_index": 0, "solution": "A SUBSIDY on SELLERS SHIFTS the SUPPLY CURVE DOWNWARD/RIGHTWARD by the amount of the subsidy (production is effectively cheaper). This LOWERS the PRICE PAID by BUYERS, RAISES the (net) PRICE RECEIVED by SELLERS, and INCREASES the QUANTITY TRADED. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Who bears more of the burden of a tax when demand is relatively INELASTIC compared to supply?", "options": ["Consumers (buyers) bear a larger share of the tax", "Sellers bear the entire tax", "No one bears the tax", "The government bears it"], "correct_index": 0, "solution": "When DEMAND is relatively INELASTIC compared to supply, CONSUMERS (BUYERS) bear a LARGER SHARE of the TAX. Because inelastic buyers keep buying despite the higher price, sellers can pass most of the tax on to them. In general, the more inelastic side of the market bears the greater tax burden. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "'Consumer surplus' is __________.", "options": ["The difference between what consumers are willing to pay and what they actually pay (the market price)", "The profit of firms", "The tax collected by government", "The total revenue of sellers"], "correct_index": 0, "solution": "CONSUMER SURPLUS is the DIFFERENCE between what CONSUMERS are WILLING to PAY (their valuation) and what they ACTUALLY PAY (the market price), summed over all units bought. It represents the net benefit consumers get from a transaction, shown as the area between the demand curve and the price. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "'Producer surplus' is __________.", "options": ["The difference between the price sellers receive and the minimum price (cost) they are willing to accept", "The consumer's net benefit", "The government's tax revenue", "The total cost of production"], "correct_index": 0, "solution": "PRODUCER SURPLUS is the DIFFERENCE between the PRICE SELLERS RECEIVE and the MINIMUM PRICE (their cost/willingness to accept) at which they would supply, summed over all units sold. It represents the net benefit to producers, shown as the area between the price and the supply curve. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "At the competitive market equilibrium, total welfare (the sum of consumer and producer surplus) is __________.", "options": ["Maximised", "Minimised", "Zero", "Negative"], "correct_index": 0, "solution": "At the COMPETITIVE MARKET EQUILIBRIUM, TOTAL WELFARE — the SUM of CONSUMER SURPLUS and PRODUCER SURPLUS — is MAXIMISED. Because the equilibrium is where price equals marginal cost, all mutually beneficial trades occur and none that reduce welfare, so society's net benefit is at its greatest. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A binding price control (ceiling or floor) generally reduces total welfare because it __________.", "options": ["Prevents some mutually beneficial trades from occurring, creating a deadweight loss", "Increases the quantity traded above equilibrium", "Always benefits everyone", "Has no effect on welfare"], "correct_index": 0, "solution": "A BINDING PRICE CONTROL (ceiling or floor) generally REDUCES TOTAL WELFARE because it PREVENTS some MUTUALLY BENEFICIAL TRADES from occurring (the quantity traded is below the equilibrium quantity). The lost gains from these forgone trades are called the DEADWEIGHT LOSS. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "'Deadweight loss' refers to __________.", "options": ["The loss of total welfare (consumer plus producer surplus) that results when the market is not at its efficient equilibrium", "The profit of monopolists", "The total tax revenue", "The consumer surplus alone"], "correct_index": 0, "solution": "DEADWEIGHT LOSS is the LOSS of TOTAL WELFARE (consumer surplus + producer surplus) that results when a market is NOT at its EFFICIENT (competitive) EQUILIBRIUM — for example, due to price controls, taxes, or monopoly, which reduce the quantity traded below the efficient level. It measures the value of the beneficial trades that no longer take place. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "In the wage-employment market, a minimum wage set above the equilibrium wage tends to cause __________.", "options": ["Unemployment (excess supply of labour), as the quantity of labour supplied exceeds the quantity demanded", "A labour shortage", "Full employment automatically", "Higher demand for labour"], "correct_index": 0, "solution": "A MINIMUM WAGE set ABOVE the equilibrium wage acts as a PRICE FLOOR in the LABOUR market, tending to cause UNEMPLOYMENT (EXCESS SUPPLY of LABOUR) — at the higher wage, MORE workers want jobs (quantity supplied rises) but firms want FEWER workers (quantity demanded falls), creating a surplus of labour. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The equilibrium in the labour market determines the __________.", "options": ["Wage rate and the level of employment", "Price of goods and interest rate", "Money supply", "Tax rate"], "correct_index": 0, "solution": "Equilibrium in the LABOUR MARKET (where labour demand equals labour supply) determines the WAGE RATE (the 'price' of labour) and the LEVEL of EMPLOYMENT (the quantity of labour employed). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In a competitive labour market, the demand for labour by a firm is derived from __________.", "options": ["The value of the marginal product of labour (the extra output it produces times the price)", "The number of holidays", "The wage the worker demands only", "The firm's fixed costs"], "correct_index": 0, "solution": "In a competitive labour market, a firm's DEMAND for LABOUR is DERIVED from the VALUE of the MARGINAL PRODUCT of LABOUR (VMPL) — the EXTRA OUTPUT an additional worker produces TIMES the PRICE of that output. A firm hires workers up to the point where the wage equals the value of the marginal product. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A simultaneous increase in demand and decrease in supply will __________.", "options": ["Definitely raise the equilibrium price, but the quantity change is ambiguous", "Definitely lower the price", "Definitely raise the quantity", "Leave both unchanged"], "correct_index": 0, "solution": "A SIMULTANEOUS INCREASE in DEMAND and DECREASE in SUPPLY will DEFINITELY RAISE the equilibrium PRICE (both shifts push price up). But the QUANTITY change is AMBIGUOUS — the demand increase raises quantity while the supply decrease lowers it, so the net effect depends on the relative magnitudes of the two shifts. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A 'shortage' in a market means that __________.", "options": ["Quantity demanded exceeds quantity supplied at the current price", "Quantity supplied exceeds quantity demanded", "The market is in equilibrium", "There are no buyers"], "correct_index": 0, "solution": "A SHORTAGE means that at the current price, the QUANTITY DEMANDED EXCEEDS the QUANTITY SUPPLIED (excess demand). It occurs when the price is below equilibrium and creates upward pressure on the price. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "A 'surplus' in a market means that __________.", "options": ["Quantity supplied exceeds quantity demanded at the current price", "Quantity demanded exceeds quantity supplied", "The market is in equilibrium", "There are no sellers"], "correct_index": 0, "solution": "A SURPLUS means that at the current price, the QUANTITY SUPPLIED EXCEEDS the QUANTITY DEMANDED (excess supply). It occurs when the price is above equilibrium and creates downward pressure on the price. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Assertion (A): A binding price ceiling creates a shortage. Reason (R): By keeping the price below equilibrium, it raises quantity demanded and lowers quantity supplied. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — a BINDING PRICE CEILING creates a SHORTAGE. R is TRUE and correctly EXPLAINS A: by keeping the PRICE BELOW EQUILIBRIUM, the ceiling RAISES the QUANTITY DEMANDED (goods are cheap) and LOWERS the QUANTITY SUPPLIED (less profitable to supply), producing the excess demand (shortage). So R is the correct explanation of A. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why does a non-binding price ceiling (set above equilibrium) have no effect on the market?", "options": ["Because the equilibrium price is already below the ceiling, so the market clears at equilibrium as if the ceiling did not exist", "Because it creates a shortage", "Because it raises the price", "Because it reduces supply"], "correct_index": 0, "solution": "A NON-BINDING PRICE CEILING (set ABOVE the equilibrium price) has NO EFFECT because the EQUILIBRIUM PRICE is ALREADY BELOW the ceiling — the market naturally clears at equilibrium, which is legal (below the maximum), so the ceiling is never reached and the market behaves as if it did not exist. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "If a good's demand curve and supply curve both shift so that only price rises while quantity is unchanged, then __________.", "options": ["Demand increased and supply decreased by amounts that exactly offset in their quantity effects", "Both curves shifted right equally", "Only demand shifted", "Nothing shifted"], "correct_index": 0, "solution": "If PRICE RISES while QUANTITY is UNCHANGED, then DEMAND must have INCREASED and SUPPLY DECREASED by amounts whose QUANTITY effects EXACTLY OFFSET each other (the demand rise raising quantity is cancelled by the supply fall lowering it), while both shifts push the PRICE UP. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The government buying up surplus foodgrains at the Minimum Support Price is a way of __________.", "options": ["Maintaining the price floor by absorbing the excess supply that the floor creates", "Creating a shortage", "Lowering the price below equilibrium", "Removing all government intervention"], "correct_index": 0, "solution": "When the government sets a MINIMUM SUPPORT PRICE (a price floor) above equilibrium, it creates an EXCESS SUPPLY (surplus) of foodgrains. To MAINTAIN the floor, the government BUYS UP this SURPLUS (procurement) — absorbing the excess so that the price does not fall below the MSP. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The concept of market equilibrium assumes, in the simple model, a market that is __________.", "options": ["Perfectly competitive (many price-taking buyers and sellers)", "A monopoly", "Controlled entirely by one buyer", "Without any buyers or sellers"], "correct_index": 0, "solution": "The simple model of MARKET EQUILIBRIUM assumes a PERFECTLY COMPETITIVE market — with MANY PRICE-TAKING BUYERS and SELLERS, a homogeneous product, and free entry/exit — so that price adjusts freely to equate demand and supply. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "An increase in the price of a substitute good will, in the market for the original good, __________.", "options": ["Increase demand (shift the demand curve right), raising equilibrium price and quantity", "Decrease demand", "Not affect demand", "Shift the supply curve"], "correct_index": 0, "solution": "An INCREASE in the price of a SUBSTITUTE good makes the original good relatively more attractive, so its DEMAND INCREASES (demand curve shifts RIGHT). This raises the ORIGINAL good's equilibrium PRICE and QUANTITY. (For example, a rise in coffee prices increases the demand for tea.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "An increase in the price of a complementary good will, in the market for the original good, __________.", "options": ["Decrease demand (shift the demand curve left), lowering equilibrium price and quantity", "Increase demand", "Not affect demand", "Shift the supply curve right"], "correct_index": 0, "solution": "An INCREASE in the price of a COMPLEMENTARY good (used together with the original good) reduces the use of both, so the original good's DEMAND DECREASES (demand curve shifts LEFT). This LOWERS its equilibrium PRICE and QUANTITY. (For example, a rise in petrol prices decreases the demand for cars.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A good harvest (favourable weather) for an agricultural crop will, other things equal, __________.", "options": ["Increase supply (shift supply right), lowering the equilibrium price and raising quantity", "Decrease supply", "Increase demand", "Raise the equilibrium price"], "correct_index": 0, "solution": "A GOOD HARVEST (favourable weather) INCREASES the SUPPLY of the crop (supply curve shifts RIGHT). With demand unchanged, this LOWERS the equilibrium PRICE and RAISES the equilibrium QUANTITY. (This is why bumper harvests can sometimes hurt farmers' incomes if demand is inelastic.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "An increase in the wage rate (a cost of production) will, other things equal, __________ the supply of a good.", "options": ["Decrease (shift supply left), raising the equilibrium price and lowering quantity", "Increase", "Not affect", "Double"], "correct_index": 0, "solution": "An INCREASE in the WAGE RATE raises the COST of PRODUCTION, so firms supply LESS at each price — the SUPPLY curve shifts LEFT (DECREASE in supply). With demand unchanged, this RAISES the equilibrium PRICE and LOWERS the equilibrium QUANTITY. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly summarises the effect of a rightward shift in demand?", "options": ["Both equilibrium price and equilibrium quantity increase", "Price rises, quantity falls", "Price falls, quantity rises", "Both fall"], "correct_index": 0, "solution": "A RIGHTWARD SHIFT in DEMAND (increase in demand), with supply unchanged, moves the equilibrium up the supply curve, so BOTH the equilibrium PRICE and the equilibrium QUANTITY INCREASE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The self-correcting nature of a free market is due to __________.", "options": ["The price mechanism, which automatically adjusts price to eliminate shortages and surpluses", "Government orders alone", "The absence of any prices", "Fixed prices"], "correct_index": 0, "solution": "The SELF-CORRECTING nature of a FREE MARKET is due to the PRICE MECHANISM: when a SHORTAGE exists, prices RISE (curbing demand, boosting supply); when a SURPLUS exists, prices FALL (boosting demand, curbing supply). Price automatically ADJUSTS to ELIMINATE shortages and surpluses, restoring equilibrium without any central direction. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A tax imposed on a good is shared between buyers and sellers depending on __________.", "options": ["The relative elasticities of demand and supply (the more inelastic side bears more of the tax)", "The colour of the good", "The government's wishes only", "The season"], "correct_index": 0, "solution": "The BURDEN (INCIDENCE) of a TAX is SHARED between buyers and sellers depending on the RELATIVE ELASTICITIES of DEMAND and SUPPLY. The MORE INELASTIC side of the market (the side less able to change its quantity) bears a GREATER share of the tax, because it cannot easily escape the tax by adjusting behaviour. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A shift in a curve (change in demand or supply) is different from a movement along a curve because a shift is caused by __________.", "options": ["A change in a factor other than the good's own price, while a movement is caused by a change in the good's own price", "The same factor for both", "A change in the good's own price only", "Nothing at all"], "correct_index": 0, "solution": "A SHIFT in a curve (change in demand/supply) is caused by a change in a factor OTHER than the good's OWN PRICE (income, tastes, input costs, technology, etc.), whereas a MOVEMENT ALONG a curve (change in quantity demanded/supplied) is caused by a change in the good's OWN PRICE. Distinguishing these is essential to equilibrium analysis. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "If both demand and supply decrease (both shift left), the equilibrium quantity definitely falls, but the price change is __________.", "options": ["Ambiguous (depends on the relative magnitudes of the shifts)", "Always a rise", "Always a fall", "Always zero"], "correct_index": 0, "solution": "If BOTH DEMAND and SUPPLY DECREASE (both shift LEFT), the equilibrium QUANTITY DEFINITELY FALLS. But the PRICE change is AMBIGUOUS — a decrease in demand pushes price down while a decrease in supply pushes it up, so the net effect depends on the RELATIVE MAGNITUDES of the two shifts. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which government policy would be used to help farmers when crop prices are very low?", "options": ["Setting a Minimum Support Price (price floor) and procuring the surplus", "Setting a low price ceiling", "Banning the crop", "Reducing farmers' incomes"], "correct_index": 0, "solution": "To HELP FARMERS when crop prices are very low, the government sets a MINIMUM SUPPORT PRICE (MSP) — a PRICE FLOOR above the low market price — and PROCURES the resulting SURPLUS. This guarantees farmers a remunerative price and protects them from ruinous price falls. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main lesson of market equilibrium analysis is that __________.", "options": ["Prices and quantities are jointly determined by the interaction of demand and supply, and shifts in either curve change the equilibrium in predictable ways", "Prices are set randomly", "Only supply matters", "Only demand matters"], "correct_index": 0, "solution": "The main LESSON of MARKET EQUILIBRIUM analysis is that PRICES and QUANTITIES are JOINTLY DETERMINED by the INTERACTION of DEMAND and SUPPLY, and that SHIFTS in either curve (from changes in income, tastes, costs, technology, policy, etc.) CHANGE the equilibrium price and quantity in PREDICTABLE WAYS. This framework explains how markets work and how interventions affect them. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Under a binding price floor for a farm crop, if the government does NOT buy the surplus, the likely outcome is __________.", "options": ["A persistent surplus of the crop and possible fall in the effective price in unofficial markets", "A shortage of the crop", "Market clearing at the floor price", "A rise in demand"], "correct_index": 0, "solution": "Under a BINDING PRICE FLOOR, the quantity supplied exceeds the quantity demanded, creating a SURPLUS. If the government does NOT BUY (procure) the surplus, the crop remains UNSOLD — a PERSISTENT SURPLUS builds up, and pressure may push the EFFECTIVE PRICE DOWN in unofficial/black markets as sellers try to offload the excess. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The overall message of the chapter 'Market Equilibrium' is that:", "options": ["Markets never reach equilibrium", "MARKET EQUILIBRIUM occurs where QUANTITY DEMANDED EQUALS QUANTITY SUPPLIED — at the intersection of the demand and supply curves — giving the market-clearing PRICE and QUANTITY; at prices above equilibrium a SURPLUS pushes price down, and below it a SHORTAGE pushes price up, so the PRICE MECHANISM is self-correcting; SHIFTS in demand or supply change the equilibrium in predictable ways (e.g., higher demand raises both price and quantity), while simultaneous shifts can leave one variable ambiguous; and government interventions — PRICE CEILINGS (maximum prices, causing shortages) and PRICE FLOORS like the Minimum Support Price and minimum wages (causing surpluses/unemployment) — as well as TAXES and SUBSIDIES, move the market away from its efficient equilibrium, often creating a deadweight loss", "Prices are always fixed by the government", "Demand and supply are unrelated to price"], "correct_index": 1, "solution": "The chapter's overall message is that MARKET EQUILIBRIUM occurs where the QUANTITY DEMANDED EQUALS the QUANTITY SUPPLIED — at the INTERSECTION of the DEMAND and SUPPLY curves — determining the MARKET-CLEARING (equilibrium) PRICE and QUANTITY. At a price ABOVE equilibrium, a SURPLUS (excess supply) pushes the price DOWN; at a price BELOW equilibrium, a SHORTAGE (excess demand) pushes the price UP — so the PRICE MECHANISM is SELF-CORRECTING. SHIFTS in DEMAND or SUPPLY change the equilibrium in PREDICTABLE ways (e.g., an increase in demand raises both price and quantity; an increase in supply lowers price and raises quantity), while SIMULTANEOUS shifts can leave one variable's change AMBIGUOUS (depending on relative magnitudes). Government INTERVENTIONS also affect the market: PRICE CEILINGS (maximum prices, like rent control) cause SHORTAGES; PRICE FLOORS (minimum prices, like the MINIMUM SUPPORT PRICE for crops and MINIMUM WAGES) cause SURPLUSES (or unemployment); and TAXES and SUBSIDIES shift supply, moving the market away from its efficient equilibrium and often creating a DEADWEIGHT LOSS. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "'Market equilibrium' is the situation in which __________.",
+    "options": [
+      "The quantity demanded equals the quantity supplied at the prevailing price, so there is no tendency for price to change",
+      "Demand always exceeds supply",
+      "Supply always exceeds demand",
+      "There is no trade in the market"
+    ],
+    "correct_index": 0,
+    "solution": "MARKET EQUILIBRIUM is the situation in which the QUANTITY DEMANDED EQUALS the QUANTITY SUPPLIED at the prevailing PRICE. At this equilibrium price and quantity, there is NO TENDENCY for the PRICE to CHANGE, because the plans of buyers and sellers are consistent. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'equilibrium price' is also called the __________ price.",
+    "options": [
+      "Market-clearing",
+      "Maximum",
+      "Minimum",
+      "Ceiling"
+    ],
+    "correct_index": 0,
+    "solution": "The EQUILIBRIUM PRICE is also called the MARKET-CLEARING PRICE, because at this price the market 'clears' — the quantity buyers want to buy exactly equals the quantity sellers want to sell, leaving no shortage or surplus. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "At a price ABOVE the equilibrium price, there is __________.",
+    "options": [
+      "Excess supply (a surplus), which pushes the price down toward equilibrium",
+      "Excess demand (a shortage)",
+      "Exactly market clearing",
+      "No effect on price"
+    ],
+    "correct_index": 0,
+    "solution": "At a price ABOVE the equilibrium, the quantity supplied EXCEEDS the quantity demanded — there is EXCESS SUPPLY (a SURPLUS). Unsold stock leads sellers to CUT PRICES, PUSHING the price DOWN toward equilibrium. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "At a price BELOW the equilibrium price, there is __________.",
+    "options": [
+      "Excess demand (a shortage), which pushes the price up toward equilibrium",
+      "Excess supply (a surplus)",
+      "Exactly market clearing",
+      "A permanent shortage that never adjusts"
+    ],
+    "correct_index": 0,
+    "solution": "At a price BELOW the equilibrium, the quantity demanded EXCEEDS the quantity supplied — there is EXCESS DEMAND (a SHORTAGE). Competition among buyers for the scarce goods BIDS the PRICE UP toward equilibrium. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Market equilibrium is determined graphically by __________.",
+    "options": [
+      "The intersection of the market demand curve and the market supply curve",
+      "The top of the supply curve",
+      "The bottom of the demand curve",
+      "The y-axis"
+    ],
+    "correct_index": 0,
+    "solution": "MARKET EQUILIBRIUM is determined graphically by the INTERSECTION of the market DEMAND CURVE and the market SUPPLY CURVE. The price at that intersection is the equilibrium price, and the quantity is the equilibrium quantity. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "If market DEMAND increases (demand curve shifts right) while supply is unchanged, the new equilibrium has __________.",
+    "options": [
+      "A higher price and a higher quantity",
+      "A lower price and lower quantity",
+      "A higher price and lower quantity",
+      "No change"
+    ],
+    "correct_index": 0,
+    "solution": "If DEMAND INCREASES (shifts RIGHT) with supply unchanged, the equilibrium moves up along the supply curve: both the equilibrium PRICE and the equilibrium QUANTITY RISE (HIGHER price, HIGHER quantity). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If market DEMAND decreases (demand curve shifts left) while supply is unchanged, the new equilibrium has __________.",
+    "options": [
+      "A lower price and a lower quantity",
+      "A higher price and higher quantity",
+      "A higher price and lower quantity",
+      "No change"
+    ],
+    "correct_index": 0,
+    "solution": "If DEMAND DECREASES (shifts LEFT) with supply unchanged, the equilibrium moves down along the supply curve: both the equilibrium PRICE and the equilibrium QUANTITY FALL (LOWER price, LOWER quantity). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If market SUPPLY increases (supply curve shifts right) while demand is unchanged, the new equilibrium has __________.",
+    "options": [
+      "A lower price and a higher quantity",
+      "A higher price and higher quantity",
+      "A lower price and lower quantity",
+      "No change"
+    ],
+    "correct_index": 0,
+    "solution": "If SUPPLY INCREASES (shifts RIGHT) with demand unchanged, the equilibrium moves down along the demand curve: the equilibrium PRICE FALLS and the equilibrium QUANTITY RISES (LOWER price, HIGHER quantity). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If market SUPPLY decreases (supply curve shifts left) while demand is unchanged, the new equilibrium has __________.",
+    "options": [
+      "A higher price and a lower quantity",
+      "A lower price and higher quantity",
+      "A lower price and lower quantity",
+      "No change"
+    ],
+    "correct_index": 0,
+    "solution": "If SUPPLY DECREASES (shifts LEFT) with demand unchanged, the equilibrium moves up along the demand curve: the equilibrium PRICE RISES and the equilibrium QUANTITY FALLS (HIGHER price, LOWER quantity). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If BOTH demand and supply increase (both shift right), the equilibrium quantity definitely rises, but the price change is __________.",
+    "options": [
+      "Ambiguous (depends on the relative sizes of the two shifts)",
+      "Always a rise",
+      "Always a fall",
+      "Always zero"
+    ],
+    "correct_index": 0,
+    "solution": "If BOTH DEMAND and SUPPLY INCREASE (both shift RIGHT), the equilibrium QUANTITY DEFINITELY RISES. But the PRICE change is AMBIGUOUS — it depends on the RELATIVE SIZES of the two shifts: if demand rises more, price rises; if supply rises more, price falls; if they shift equally, price is unchanged. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 'price ceiling' is __________.",
+    "options": [
+      "A government-imposed maximum price below the equilibrium, meant to keep a good affordable",
+      "A minimum price above equilibrium",
+      "The equilibrium price itself",
+      "A tax on the good"
+    ],
+    "correct_index": 0,
+    "solution": "A PRICE CEILING is a government-imposed MAXIMUM PRICE, usually set BELOW the equilibrium price, meant to keep essential goods AFFORDABLE for consumers (e.g., rent control, price controls on essential commodities). By law, the price cannot rise above the ceiling. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A binding price ceiling (set below equilibrium) leads to __________.",
+    "options": [
+      "A shortage (excess demand), often resulting in queues, rationing, or black markets",
+      "A surplus",
+      "Market clearing",
+      "Higher supply"
+    ],
+    "correct_index": 0,
+    "solution": "A BINDING PRICE CEILING (below equilibrium) leads to a SHORTAGE (EXCESS DEMAND), because the low price raises quantity demanded and lowers quantity supplied. This often results in QUEUES, RATIONING, and BLACK MARKETS (where goods are sold illegally above the ceiling). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'price floor' is __________.",
+    "options": [
+      "A government-imposed minimum price above the equilibrium, meant to protect producers/sellers",
+      "A maximum price below equilibrium",
+      "The equilibrium price",
+      "A subsidy"
+    ],
+    "correct_index": 0,
+    "solution": "A PRICE FLOOR is a government-imposed MINIMUM PRICE, usually set ABOVE the equilibrium price, meant to PROTECT PRODUCERS/SELLERS by ensuring them a certain minimum return (e.g., minimum support prices for farm crops, minimum wages). By law, the price cannot fall below the floor. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A binding price floor (set above equilibrium) leads to __________.",
+    "options": [
+      "A surplus (excess supply), such as unsold stocks or unemployment (in the case of minimum wages)",
+      "A shortage",
+      "Market clearing",
+      "Higher demand"
+    ],
+    "correct_index": 0,
+    "solution": "A BINDING PRICE FLOOR (above equilibrium) leads to a SURPLUS (EXCESS SUPPLY), because the high price raises quantity supplied and lowers quantity demanded. Examples include UNSOLD STOCKS of crops (which governments may have to buy) or UNEMPLOYMENT in the case of a minimum wage set above the market wage. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Minimum Support Price' (MSP) for agricultural crops in India is an example of a __________.",
+    "options": [
+      "Price floor (to protect farmers)",
+      "Price ceiling",
+      "Free market price",
+      "Tax"
+    ],
+    "correct_index": 0,
+    "solution": "The MINIMUM SUPPORT PRICE (MSP) for agricultural crops in India is an example of a PRICE FLOOR — a minimum price set (usually above the market price) to PROTECT FARMERS by guaranteeing them a remunerative return and insuring them against sharp price falls. The government buys crops at the MSP. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rent control and the Public Distribution System (subsidised essential goods) are examples of __________.",
+    "options": [
+      "Price ceilings (maximum prices to help consumers)",
+      "Price floors",
+      "Free market outcomes",
+      "Minimum wages"
+    ],
+    "correct_index": 0,
+    "solution": "RENT CONTROL (a maximum rent) and the subsidised sale of essential goods (e.g., through the PUBLIC DISTRIBUTION SYSTEM) are examples of PRICE CEILINGS — MAXIMUM PRICES set to HELP CONSUMERS (especially the poor) afford housing and essentials. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The market mechanism restores equilibrium after a shortage because __________.",
+    "options": [
+      "Excess demand causes buyers to bid up the price, which raises quantity supplied and reduces quantity demanded until they are equal",
+      "Shortages last forever",
+      "Prices never change",
+      "Supply falls further"
+    ],
+    "correct_index": 0,
+    "solution": "After a SHORTAGE (excess demand), the market mechanism restores equilibrium because EXCESS DEMAND causes BUYERS to BID UP the PRICE. The rising price RAISES the QUANTITY SUPPLIED (moving up the supply curve) and REDUCES the QUANTITY DEMANDED (moving up the demand curve) until the two are EQUAL again at the new/old equilibrium. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The market mechanism restores equilibrium after a surplus because __________.",
+    "options": [
+      "Excess supply causes sellers to lower the price, which reduces quantity supplied and raises quantity demanded until they are equal",
+      "Surpluses last forever",
+      "Prices keep rising",
+      "Demand falls further"
+    ],
+    "correct_index": 0,
+    "solution": "After a SURPLUS (excess supply), the market mechanism restores equilibrium because EXCESS SUPPLY causes SELLERS to LOWER the PRICE to clear stocks. The falling price REDUCES the QUANTITY SUPPLIED and RAISES the QUANTITY DEMANDED until the two are EQUAL again at equilibrium. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The effect of a per-unit TAX on sellers is to __________.",
+    "options": [
+      "Shift the supply curve upward/leftward, raising the price paid by buyers and lowering the price received by sellers, reducing the quantity traded",
+      "Shift the demand curve right",
+      "Raise the quantity traded",
+      "Have no effect on price"
+    ],
+    "correct_index": 0,
+    "solution": "A per-unit TAX on SELLERS SHIFTS the SUPPLY CURVE UPWARD/LEFTWARD by the amount of the tax (production is effectively costlier). This RAISES the PRICE PAID by BUYERS, LOWERS the (net) PRICE RECEIVED by SELLERS, and REDUCES the QUANTITY TRADED. The tax burden is shared between buyers and sellers depending on elasticities. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The effect of a SUBSIDY on sellers is to __________.",
+    "options": [
+      "Shift the supply curve downward/rightward, lowering the price paid by buyers and raising the quantity traded",
+      "Shift the demand curve left",
+      "Reduce the quantity traded",
+      "Raise the price paid by buyers"
+    ],
+    "correct_index": 0,
+    "solution": "A SUBSIDY on SELLERS SHIFTS the SUPPLY CURVE DOWNWARD/RIGHTWARD by the amount of the subsidy (production is effectively cheaper). This LOWERS the PRICE PAID by BUYERS, RAISES the (net) PRICE RECEIVED by SELLERS, and INCREASES the QUANTITY TRADED. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Who bears more of the burden of a tax when demand is relatively INELASTIC compared to supply?",
+    "options": [
+      "Consumers (buyers) bear a larger share of the tax",
+      "Sellers bear the entire tax",
+      "No one bears the tax",
+      "The government bears it"
+    ],
+    "correct_index": 0,
+    "solution": "When DEMAND is relatively INELASTIC compared to supply, CONSUMERS (BUYERS) bear a LARGER SHARE of the TAX. Because inelastic buyers keep buying despite the higher price, sellers can pass most of the tax on to them. In general, the more inelastic side of the market bears the greater tax burden. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Consumer surplus' is __________.",
+    "options": [
+      "The difference between what consumers are willing to pay and what they actually pay (the market price)",
+      "The profit of firms",
+      "The tax collected by government",
+      "The total revenue of sellers"
+    ],
+    "correct_index": 0,
+    "solution": "CONSUMER SURPLUS is the DIFFERENCE between what CONSUMERS are WILLING to PAY (their valuation) and what they ACTUALLY PAY (the market price), summed over all units bought. It represents the net benefit consumers get from a transaction, shown as the area between the demand curve and the price. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Producer surplus' is __________.",
+    "options": [
+      "The difference between the price sellers receive and the minimum price (cost) they are willing to accept",
+      "The consumer's net benefit",
+      "The government's tax revenue",
+      "The total cost of production"
+    ],
+    "correct_index": 0,
+    "solution": "PRODUCER SURPLUS is the DIFFERENCE between the PRICE SELLERS RECEIVE and the MINIMUM PRICE (their cost/willingness to accept) at which they would supply, summed over all units sold. It represents the net benefit to producers, shown as the area between the price and the supply curve. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "At the competitive market equilibrium, total welfare (the sum of consumer and producer surplus) is __________.",
+    "options": [
+      "Maximised",
+      "Minimised",
+      "Zero",
+      "Negative"
+    ],
+    "correct_index": 0,
+    "solution": "At the COMPETITIVE MARKET EQUILIBRIUM, TOTAL WELFARE — the SUM of CONSUMER SURPLUS and PRODUCER SURPLUS — is MAXIMISED. Because the equilibrium is where price equals marginal cost, all mutually beneficial trades occur and none that reduce welfare, so society's net benefit is at its greatest. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A binding price control (ceiling or floor) generally reduces total welfare because it __________.",
+    "options": [
+      "Prevents some mutually beneficial trades from occurring, creating a deadweight loss",
+      "Increases the quantity traded above equilibrium",
+      "Always benefits everyone",
+      "Has no effect on welfare"
+    ],
+    "correct_index": 0,
+    "solution": "A BINDING PRICE CONTROL (ceiling or floor) generally REDUCES TOTAL WELFARE because it PREVENTS some MUTUALLY BENEFICIAL TRADES from occurring (the quantity traded is below the equilibrium quantity). The lost gains from these forgone trades are called the DEADWEIGHT LOSS. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Deadweight loss' refers to __________.",
+    "options": [
+      "The loss of total welfare (consumer plus producer surplus) that results when the market is not at its efficient equilibrium",
+      "The profit of monopolists",
+      "The total tax revenue",
+      "The consumer surplus alone"
+    ],
+    "correct_index": 0,
+    "solution": "DEADWEIGHT LOSS is the LOSS of TOTAL WELFARE (consumer surplus + producer surplus) that results when a market is NOT at its EFFICIENT (competitive) EQUILIBRIUM — for example, due to price controls, taxes, or monopoly, which reduce the quantity traded below the efficient level. It measures the value of the beneficial trades that no longer take place. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In the wage-employment market, a minimum wage set above the equilibrium wage tends to cause __________.",
+    "options": [
+      "Unemployment (excess supply of labour), as the quantity of labour supplied exceeds the quantity demanded",
+      "A labour shortage",
+      "Full employment automatically",
+      "Higher demand for labour"
+    ],
+    "correct_index": 0,
+    "solution": "A MINIMUM WAGE set ABOVE the equilibrium wage acts as a PRICE FLOOR in the LABOUR market, tending to cause UNEMPLOYMENT (EXCESS SUPPLY of LABOUR) — at the higher wage, MORE workers want jobs (quantity supplied rises) but firms want FEWER workers (quantity demanded falls), creating a surplus of labour. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The equilibrium in the labour market determines the __________.",
+    "options": [
+      "Wage rate and the level of employment",
+      "Price of goods and interest rate",
+      "Money supply",
+      "Tax rate"
+    ],
+    "correct_index": 0,
+    "solution": "Equilibrium in the LABOUR MARKET (where labour demand equals labour supply) determines the WAGE RATE (the 'price' of labour) and the LEVEL of EMPLOYMENT (the quantity of labour employed). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a competitive labour market, the demand for labour by a firm is derived from __________.",
+    "options": [
+      "The value of the marginal product of labour (the extra output it produces times the price)",
+      "The number of holidays",
+      "The wage the worker demands only",
+      "The firm's fixed costs"
+    ],
+    "correct_index": 0,
+    "solution": "In a competitive labour market, a firm's DEMAND for LABOUR is DERIVED from the VALUE of the MARGINAL PRODUCT of LABOUR (VMPL) — the EXTRA OUTPUT an additional worker produces TIMES the PRICE of that output. A firm hires workers up to the point where the wage equals the value of the marginal product. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A simultaneous increase in demand and decrease in supply will __________.",
+    "options": [
+      "Definitely raise the equilibrium price, but the quantity change is ambiguous",
+      "Definitely lower the price",
+      "Definitely raise the quantity",
+      "Leave both unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "A SIMULTANEOUS INCREASE in DEMAND and DECREASE in SUPPLY will DEFINITELY RAISE the equilibrium PRICE (both shifts push price up). But the QUANTITY change is AMBIGUOUS — the demand increase raises quantity while the supply decrease lowers it, so the net effect depends on the relative magnitudes of the two shifts. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 'shortage' in a market means that __________.",
+    "options": [
+      "Quantity demanded exceeds quantity supplied at the current price",
+      "Quantity supplied exceeds quantity demanded",
+      "The market is in equilibrium",
+      "There are no buyers"
+    ],
+    "correct_index": 0,
+    "solution": "A SHORTAGE means that at the current price, the QUANTITY DEMANDED EXCEEDS the QUANTITY SUPPLIED (excess demand). It occurs when the price is below equilibrium and creates upward pressure on the price. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 'surplus' in a market means that __________.",
+    "options": [
+      "Quantity supplied exceeds quantity demanded at the current price",
+      "Quantity demanded exceeds quantity supplied",
+      "The market is in equilibrium",
+      "There are no sellers"
+    ],
+    "correct_index": 0,
+    "solution": "A SURPLUS means that at the current price, the QUANTITY SUPPLIED EXCEEDS the QUANTITY DEMANDED (excess supply). It occurs when the price is above equilibrium and creates downward pressure on the price. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Assertion (A): A binding price ceiling creates a shortage. Reason (R): By keeping the price below equilibrium, it raises quantity demanded and lowers quantity supplied. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — a BINDING PRICE CEILING creates a SHORTAGE. R is TRUE and correctly EXPLAINS A: by keeping the PRICE BELOW EQUILIBRIUM, the ceiling RAISES the QUANTITY DEMANDED (goods are cheap) and LOWERS the QUANTITY SUPPLIED (less profitable to supply), producing the excess demand (shortage). So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why does a non-binding price ceiling (set above equilibrium) have no effect on the market?",
+    "options": [
+      "Because the equilibrium price is already below the ceiling, so the market clears at equilibrium as if the ceiling did not exist",
+      "Because it creates a shortage",
+      "Because it raises the price",
+      "Because it reduces supply"
+    ],
+    "correct_index": 0,
+    "solution": "A NON-BINDING PRICE CEILING (set ABOVE the equilibrium price) has NO EFFECT because the EQUILIBRIUM PRICE is ALREADY BELOW the ceiling — the market naturally clears at equilibrium, which is legal (below the maximum), so the ceiling is never reached and the market behaves as if it did not exist. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "If a good's demand curve and supply curve both shift so that only price rises while quantity is unchanged, then __________.",
+    "options": [
+      "Demand increased and supply decreased by amounts that exactly offset in their quantity effects",
+      "Both curves shifted right equally",
+      "Only demand shifted",
+      "Nothing shifted"
+    ],
+    "correct_index": 0,
+    "solution": "If PRICE RISES while QUANTITY is UNCHANGED, then DEMAND must have INCREASED and SUPPLY DECREASED by amounts whose QUANTITY effects EXACTLY OFFSET each other (the demand rise raising quantity is cancelled by the supply fall lowering it), while both shifts push the PRICE UP. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The government buying up surplus foodgrains at the Minimum Support Price is a way of __________.",
+    "options": [
+      "Maintaining the price floor by absorbing the excess supply that the floor creates",
+      "Creating a shortage",
+      "Lowering the price below equilibrium",
+      "Removing all government intervention"
+    ],
+    "correct_index": 0,
+    "solution": "When the government sets a MINIMUM SUPPORT PRICE (a price floor) above equilibrium, it creates an EXCESS SUPPLY (surplus) of foodgrains. To MAINTAIN the floor, the government BUYS UP this SURPLUS (procurement) — absorbing the excess so that the price does not fall below the MSP. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept of market equilibrium assumes, in the simple model, a market that is __________.",
+    "options": [
+      "Perfectly competitive (many price-taking buyers and sellers)",
+      "A monopoly",
+      "Controlled entirely by one buyer",
+      "Without any buyers or sellers"
+    ],
+    "correct_index": 0,
+    "solution": "The simple model of MARKET EQUILIBRIUM assumes a PERFECTLY COMPETITIVE market — with MANY PRICE-TAKING BUYERS and SELLERS, a homogeneous product, and free entry/exit — so that price adjusts freely to equate demand and supply. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An increase in the price of a substitute good will, in the market for the original good, __________.",
+    "options": [
+      "Increase demand (shift the demand curve right), raising equilibrium price and quantity",
+      "Decrease demand",
+      "Not affect demand",
+      "Shift the supply curve"
+    ],
+    "correct_index": 0,
+    "solution": "An INCREASE in the price of a SUBSTITUTE good makes the original good relatively more attractive, so its DEMAND INCREASES (demand curve shifts RIGHT). This raises the ORIGINAL good's equilibrium PRICE and QUANTITY. (For example, a rise in coffee prices increases the demand for tea.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An increase in the price of a complementary good will, in the market for the original good, __________.",
+    "options": [
+      "Decrease demand (shift the demand curve left), lowering equilibrium price and quantity",
+      "Increase demand",
+      "Not affect demand",
+      "Shift the supply curve right"
+    ],
+    "correct_index": 0,
+    "solution": "An INCREASE in the price of a COMPLEMENTARY good (used together with the original good) reduces the use of both, so the original good's DEMAND DECREASES (demand curve shifts LEFT). This LOWERS its equilibrium PRICE and QUANTITY. (For example, a rise in petrol prices decreases the demand for cars.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A good harvest (favourable weather) for an agricultural crop will, other things equal, __________.",
+    "options": [
+      "Increase supply (shift supply right), lowering the equilibrium price and raising quantity",
+      "Decrease supply",
+      "Increase demand",
+      "Raise the equilibrium price"
+    ],
+    "correct_index": 0,
+    "solution": "A GOOD HARVEST (favourable weather) INCREASES the SUPPLY of the crop (supply curve shifts RIGHT). With demand unchanged, this LOWERS the equilibrium PRICE and RAISES the equilibrium QUANTITY. (This is why bumper harvests can sometimes hurt farmers' incomes if demand is inelastic.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An increase in the wage rate (a cost of production) will, other things equal, __________ the supply of a good.",
+    "options": [
+      "Decrease (shift supply left), raising the equilibrium price and lowering quantity",
+      "Increase",
+      "Not affect",
+      "Double"
+    ],
+    "correct_index": 0,
+    "solution": "An INCREASE in the WAGE RATE raises the COST of PRODUCTION, so firms supply LESS at each price — the SUPPLY curve shifts LEFT (DECREASE in supply). With demand unchanged, this RAISES the equilibrium PRICE and LOWERS the equilibrium QUANTITY. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly summarises the effect of a rightward shift in demand?",
+    "options": [
+      "Both equilibrium price and equilibrium quantity increase",
+      "Price rises, quantity falls",
+      "Price falls, quantity rises",
+      "Both fall"
+    ],
+    "correct_index": 0,
+    "solution": "A RIGHTWARD SHIFT in DEMAND (increase in demand), with supply unchanged, moves the equilibrium up the supply curve, so BOTH the equilibrium PRICE and the equilibrium QUANTITY INCREASE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The self-correcting nature of a free market is due to __________.",
+    "options": [
+      "The price mechanism, which automatically adjusts price to eliminate shortages and surpluses",
+      "Government orders alone",
+      "The absence of any prices",
+      "Fixed prices"
+    ],
+    "correct_index": 0,
+    "solution": "The SELF-CORRECTING nature of a FREE MARKET is due to the PRICE MECHANISM: when a SHORTAGE exists, prices RISE (curbing demand, boosting supply); when a SURPLUS exists, prices FALL (boosting demand, curbing supply). Price automatically ADJUSTS to ELIMINATE shortages and surpluses, restoring equilibrium without any central direction. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A tax imposed on a good is shared between buyers and sellers depending on __________.",
+    "options": [
+      "The relative elasticities of demand and supply (the more inelastic side bears more of the tax)",
+      "The colour of the good",
+      "The government's wishes only",
+      "The season"
+    ],
+    "correct_index": 0,
+    "solution": "The BURDEN (INCIDENCE) of a TAX is SHARED between buyers and sellers depending on the RELATIVE ELASTICITIES of DEMAND and SUPPLY. The MORE INELASTIC side of the market (the side less able to change its quantity) bears a GREATER share of the tax, because it cannot easily escape the tax by adjusting behaviour. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A shift in a curve (change in demand or supply) is different from a movement along a curve because a shift is caused by __________.",
+    "options": [
+      "A change in a factor other than the good's own price, while a movement is caused by a change in the good's own price",
+      "The same factor for both",
+      "A change in the good's own price only",
+      "Nothing at all"
+    ],
+    "correct_index": 0,
+    "solution": "A SHIFT in a curve (change in demand/supply) is caused by a change in a factor OTHER than the good's OWN PRICE (income, tastes, input costs, technology, etc.), whereas a MOVEMENT ALONG a curve (change in quantity demanded/supplied) is caused by a change in the good's OWN PRICE. Distinguishing these is essential to equilibrium analysis. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If both demand and supply decrease (both shift left), the equilibrium quantity definitely falls, but the price change is __________.",
+    "options": [
+      "Ambiguous (depends on the relative magnitudes of the shifts)",
+      "Always a rise",
+      "Always a fall",
+      "Always zero"
+    ],
+    "correct_index": 0,
+    "solution": "If BOTH DEMAND and SUPPLY DECREASE (both shift LEFT), the equilibrium QUANTITY DEFINITELY FALLS. But the PRICE change is AMBIGUOUS — a decrease in demand pushes price down while a decrease in supply pushes it up, so the net effect depends on the RELATIVE MAGNITUDES of the two shifts. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which government policy would be used to help farmers when crop prices are very low?",
+    "options": [
+      "Setting a Minimum Support Price (price floor) and procuring the surplus",
+      "Setting a low price ceiling",
+      "Banning the crop",
+      "Reducing farmers' incomes"
+    ],
+    "correct_index": 0,
+    "solution": "To HELP FARMERS when crop prices are very low, the government sets a MINIMUM SUPPORT PRICE (MSP) — a PRICE FLOOR above the low market price — and PROCURES the resulting SURPLUS. This guarantees farmers a remunerative price and protects them from ruinous price falls. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main lesson of market equilibrium analysis is that __________.",
+    "options": [
+      "Prices and quantities are jointly determined by the interaction of demand and supply, and shifts in either curve change the equilibrium in predictable ways",
+      "Prices are set randomly",
+      "Only supply matters",
+      "Only demand matters"
+    ],
+    "correct_index": 0,
+    "solution": "The main LESSON of MARKET EQUILIBRIUM analysis is that PRICES and QUANTITIES are JOINTLY DETERMINED by the INTERACTION of DEMAND and SUPPLY, and that SHIFTS in either curve (from changes in income, tastes, costs, technology, policy, etc.) CHANGE the equilibrium price and quantity in PREDICTABLE WAYS. This framework explains how markets work and how interventions affect them. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under a binding price floor for a farm crop, if the government does NOT buy the surplus, the likely outcome is __________.",
+    "options": [
+      "A persistent surplus of the crop and possible fall in the effective price in unofficial markets",
+      "A shortage of the crop",
+      "Market clearing at the floor price",
+      "A rise in demand"
+    ],
+    "correct_index": 0,
+    "solution": "Under a BINDING PRICE FLOOR, the quantity supplied exceeds the quantity demanded, creating a SURPLUS. If the government does NOT BUY (procure) the surplus, the crop remains UNSOLD — a PERSISTENT SURPLUS builds up, and pressure may push the EFFECTIVE PRICE DOWN in unofficial/black markets as sellers try to offload the excess. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Equilibrium in a perfectly competitive market is found algebraically by __________.",
+    "options": [
+      "setting the quantity demanded function equal to the quantity supplied function and solving for price",
+      "adding the demand and supply functions together",
+      "setting price equal to zero",
+      "maximising the demand function"
+    ],
+    "correct_index": 0,
+    "solution": "Equating market demand qD(p) with market supply qS(p) and solving gives the equilibrium price; substituting back gives equilibrium quantity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If market demand is qD = 200 − 5p and market supply is qS = 50 + 5p, the equilibrium price is __________.",
+    "options": [
+      "15",
+      "10",
+      "25",
+      "30"
+    ],
+    "correct_index": 0,
+    "solution": "Set 200 − 5p = 50 + 5p → 150 = 10p → p = 15.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For the market qD = 200 − 5p and qS = 50 + 5p (equilibrium price 15), the equilibrium quantity is __________.",
+    "options": [
+      "125",
+      "100",
+      "150",
+      "75"
+    ],
+    "correct_index": 0,
+    "solution": "Substitute p = 15: qD = 200 − 75 = 125 (and qS = 50 + 75 = 125). Equilibrium quantity is 125.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If, at the going price, quantity demanded exceeds quantity supplied, competitive pressure will make the price __________.",
+    "options": [
+      "rise until the shortage is eliminated",
+      "fall until a surplus appears",
+      "stay fixed forever",
+      "become negative"
+    ],
+    "correct_index": 0,
+    "solution": "Unsatisfied buyers bid the price up; as price rises, quantity demanded falls and quantity supplied rises until they are equal.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The equilibrium price and quantity change only when __________.",
+    "options": [
+      "the demand curve, the supply curve, or both shift",
+      "buyers change their minds momentarily",
+      "the graph is redrawn",
+      "the price axis is relabelled"
+    ],
+    "correct_index": 0,
+    "solution": "Equilibrium is the intersection of the two curves; it moves only if at least one curve shifts.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "When demand rises and supply is unchanged, equilibrium price rises and quantity rises. This is an example of __________.",
+    "options": [
+      "a determinate result (both changes are known)",
+      "an indeterminate result",
+      "no change in equilibrium",
+      "a fall in both price and quantity"
+    ],
+    "correct_index": 0,
+    "solution": "A single-curve shift always gives determinate changes in both price and quantity in the same direction as the demand shift.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "When both demand and supply increase, the equilibrium quantity rises but the change in equilibrium price is __________.",
+    "options": [
+      "indeterminate (depends on the relative sizes of the two shifts)",
+      "always a rise",
+      "always a fall",
+      "always zero"
+    ],
+    "correct_index": 0,
+    "solution": "Both shifts raise quantity, but demand pushes price up while supply pushes it down; the net price change depends on which shift dominates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When both demand and supply decrease, the equilibrium quantity falls but the equilibrium price change is __________.",
+    "options": [
+      "indeterminate (depends on the relative magnitudes of the shifts)",
+      "always a rise",
+      "always a fall",
+      "always zero"
+    ],
+    "correct_index": 0,
+    "solution": "Both shifts lower quantity; demand pulls price down and supply pushes it up, so the net price effect is ambiguous.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When demand increases and supply decreases at the same time, the equilibrium price definitely rises but the change in quantity is __________.",
+    "options": [
+      "indeterminate (depends on the relative sizes of the shifts)",
+      "always a rise",
+      "always a fall",
+      "always zero"
+    ],
+    "correct_index": 0,
+    "solution": "Both shifts push price up (determinate rise); demand raises quantity while supply lowers it, so quantity is ambiguous.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When demand decreases and supply increases together, the equilibrium price definitely falls but the change in quantity is __________.",
+    "options": [
+      "indeterminate (depends on the relative sizes of the shifts)",
+      "always a rise",
+      "always a fall",
+      "always zero"
+    ],
+    "correct_index": 0,
+    "solution": "Both shifts lower price (determinate fall); demand lowers quantity while supply raises it, leaving quantity ambiguous.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In simultaneous shifts of demand and supply, the variable whose direction is DETERMINATE is the one for which __________.",
+    "options": [
+      "both shifts push it the same way",
+      "the two shifts push it in opposite directions",
+      "neither curve moves",
+      "the price axis is vertical"
+    ],
+    "correct_index": 0,
+    "solution": "When both shifts push a variable in the same direction the outcome is certain; when they oppose, it is indeterminate.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'black market' (illegal reselling above the ceiling) typically emerges as a consequence of __________.",
+    "options": [
+      "a binding price ceiling that creates a persistent shortage",
+      "a binding price floor",
+      "a market at free equilibrium",
+      "an increase in supply"
+    ],
+    "correct_index": 0,
+    "solution": "When a ceiling holds price below equilibrium, the shortage leads some to buy and illegally resell scarce goods above the legal price.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under a binding price ceiling, because sellers cannot ration by price, goods are often allocated by __________.",
+    "options": [
+      "queues, rationing, or seller favouritism (non-price rationing)",
+      "raising the price further",
+      "the free market equilibrium",
+      "producer surplus alone"
+    ],
+    "correct_index": 0,
+    "solution": "With price held below equilibrium and demand exceeding supply, non-price methods (waiting in line, ration cards, favouritism) allocate the limited quantity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Public Distribution System (PDS) supplying foodgrains to households at controlled low prices is an example of a __________.",
+    "options": [
+      "price ceiling with government-managed supply",
+      "price floor",
+      "free-market equilibrium",
+      "per-unit tax"
+    ],
+    "correct_index": 0,
+    "solution": "The PDS caps the price of essentials below the market level (a ceiling) and the government provides the grain, avoiding an open-market shortage.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A binding price floor set above equilibrium (with no government purchase) results in __________.",
+    "options": [
+      "a surplus (quantity supplied exceeds quantity demanded)",
+      "a shortage",
+      "the free-market equilibrium",
+      "no effect on the market"
+    ],
+    "correct_index": 0,
+    "solution": "Above equilibrium, quantity supplied exceeds quantity demanded, creating an unsold surplus.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "For a price floor on a farm crop to keep farmers' incomes up without leaving them with unsold stock, the government must __________.",
+    "options": [
+      "buy up the resulting surplus (as under MSP procurement)",
+      "lower the floor below equilibrium",
+      "abolish the floor",
+      "tax the farmers"
+    ],
+    "correct_index": 0,
+    "solution": "A floor above equilibrium creates a surplus; MSP works because the government procures the excess grain that private buyers won't take.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A per-unit tax on a good shifts the __________.",
+    "options": [
+      "supply curve upward (leftward) by the amount of the tax",
+      "demand curve rightward",
+      "supply curve rightward",
+      "demand curve upward"
+    ],
+    "correct_index": 0,
+    "solution": "A tax raises sellers' effective cost, shifting the supply curve up by the tax amount, so at any quantity the price sellers require is higher.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "After a per-unit tax is imposed, the price paid by buyers __________ and the price received by sellers (net of tax) __________.",
+    "options": [
+      "rises; falls",
+      "falls; rises",
+      "rises; rises",
+      "falls; falls"
+    ],
+    "correct_index": 0,
+    "solution": "The tax drives a wedge: the buyers' price is higher and the sellers' after-tax price is lower than the original equilibrium price.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The share of a tax borne by buyers versus sellers (its 'incidence') depends on __________.",
+    "options": [
+      "the relative price elasticities of demand and supply",
+      "who legally writes the cheque to the government",
+      "the colour of the good",
+      "the number of sellers only"
+    ],
+    "correct_index": 0,
+    "solution": "Tax incidence is determined by relative elasticities, not by whom the law names; the more inelastic side bears the larger share.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When supply is more elastic than demand, the larger share of a tax burden falls on __________.",
+    "options": [
+      "buyers (the more inelastic side)",
+      "sellers",
+      "the government",
+      "no one"
+    ],
+    "correct_index": 0,
+    "solution": "The side that is less able to change quantity (the more inelastic side) bears more of the tax; here demand is more inelastic, so buyers pay more.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A subsidy on a good shifts the __________.",
+    "options": [
+      "supply curve downward (rightward) by the amount of the subsidy",
+      "demand curve leftward",
+      "supply curve leftward",
+      "demand curve downward"
+    ],
+    "correct_index": 0,
+    "solution": "A subsidy lowers sellers' effective cost, shifting supply down/right, lowering the price buyers pay and raising the price sellers effectively get.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consumer surplus is measured on a diagram as the area __________.",
+    "options": [
+      "below the demand curve and above the price line, up to the quantity bought",
+      "below the supply curve and above the price",
+      "the whole area under the demand curve",
+      "between the two axes"
+    ],
+    "correct_index": 0,
+    "solution": "Consumer surplus is the gap between what buyers are willing to pay (the demand curve) and what they actually pay (the price), summed over units.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Producer surplus is measured on a diagram as the area __________.",
+    "options": [
+      "above the supply curve and below the price line, up to the quantity sold",
+      "below the demand curve and above the price",
+      "the whole area under the supply curve",
+      "between the two axes"
+    ],
+    "correct_index": 0,
+    "solution": "Producer surplus is the gap between the price sellers receive and their marginal cost (the supply curve), summed over units.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Total surplus (welfare) in a market is maximised at __________.",
+    "options": [
+      "the competitive equilibrium quantity",
+      "the quantity set by a binding price ceiling",
+      "the quantity set by a binding price floor",
+      "zero output"
+    ],
+    "correct_index": 0,
+    "solution": "At the competitive equilibrium the sum of consumer and producer surplus is largest; any deviation reduces total surplus.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'deadweight loss' from a binding price control is __________.",
+    "options": [
+      "the loss of total surplus from trades that no longer occur",
+      "the tax revenue collected",
+      "the producer surplus alone",
+      "the increase in consumer surplus"
+    ],
+    "correct_index": 0,
+    "solution": "By reducing the quantity traded below equilibrium, a price control eliminates mutually beneficial trades; the surplus lost on them is deadweight loss.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A per-unit tax reduces total welfare because __________.",
+    "options": [
+      "it lowers the quantity traded, causing a deadweight loss on the foregone trades",
+      "it raises the quantity traded",
+      "it always increases consumer surplus",
+      "it removes all producer surplus"
+    ],
+    "correct_index": 0,
+    "solution": "The tax wedge lowers equilibrium quantity; the surplus on the trades that no longer happen is the deadweight loss, so total welfare falls even counting tax revenue.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "An improvement in technology in a competitive industry will, other things equal, __________.",
+    "options": [
+      "shift supply right, lowering equilibrium price and raising equilibrium quantity",
+      "shift demand right",
+      "shift supply left",
+      "leave equilibrium unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "Better technology lowers costs, increasing supply (rightward shift), so price falls and quantity rises.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A rise in consumers' income for a normal good will, other things equal, __________.",
+    "options": [
+      "shift demand right, raising both equilibrium price and quantity",
+      "shift demand left",
+      "shift supply right",
+      "leave equilibrium unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "Higher income raises demand for a normal good; the rightward demand shift raises equilibrium price and quantity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A rise in consumers' income for an INFERIOR good will, other things equal, __________.",
+    "options": [
+      "shift demand left, lowering both equilibrium price and quantity",
+      "shift demand right",
+      "shift supply left",
+      "leave equilibrium unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "For an inferior good, demand falls as income rises; the leftward demand shift lowers equilibrium price and quantity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A rise in the number of buyers in a market will, other things equal, __________.",
+    "options": [
+      "shift market demand right, raising equilibrium price and quantity",
+      "shift market demand left",
+      "shift market supply left",
+      "leave equilibrium unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "More buyers increase market demand at every price; the rightward shift raises equilibrium price and quantity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A rise in the number of firms in a competitive market will, other things equal, __________.",
+    "options": [
+      "shift market supply right, lowering equilibrium price and raising quantity",
+      "shift market supply left",
+      "shift demand right",
+      "leave equilibrium unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "More firms raise market supply at every price; the rightward supply shift lowers equilibrium price and raises quantity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "If a poor monsoon reduces the harvest AND incomes fall (lowering demand) for an agricultural crop, the equilibrium quantity __________.",
+    "options": [
+      "falls (both shifts reduce quantity), while the price change is indeterminate",
+      "rises",
+      "is unchanged",
+      "cannot fall"
+    ],
+    "correct_index": 0,
+    "solution": "Supply falls (bad harvest) and demand falls (lower incomes); both reduce quantity, but they push price in opposite directions, so price is indeterminate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The demand for labour is called a 'derived demand' because it depends on __________.",
+    "options": [
+      "the demand for the goods that labour produces",
+      "the wage rate only",
+      "the supply of labour",
+      "the price of capital only"
+    ],
+    "correct_index": 0,
+    "solution": "Firms hire workers to produce goods; the demand for labour is derived from the demand for the output workers make.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A minimum wage set ABOVE the equilibrium wage in a competitive labour market tends to cause __________.",
+    "options": [
+      "a surplus of labour (unemployment)",
+      "a shortage of labour",
+      "the equilibrium wage",
+      "no change in employment"
+    ],
+    "correct_index": 0,
+    "solution": "Like a price floor, a minimum wage above equilibrium makes quantity of labour supplied exceed quantity demanded, creating unemployment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A minimum wage set BELOW the equilibrium wage will __________.",
+    "options": [
+      "have no effect on the labour market (it is non-binding)",
+      "cause unemployment",
+      "cause a labour shortage",
+      "raise the equilibrium wage"
+    ],
+    "correct_index": 0,
+    "solution": "A floor below equilibrium never binds because the market wage is already above it; the market clears normally.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Equilibrium in the labour market simultaneously determines __________.",
+    "options": [
+      "the equilibrium wage and the equilibrium level of employment",
+      "only the wage",
+      "only the price of the good",
+      "the tax rate"
+    ],
+    "correct_index": 0,
+    "solution": "The intersection of labour demand and labour supply fixes both the wage and the number of workers employed.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A non-binding price floor (set below equilibrium) has no effect because __________.",
+    "options": [
+      "the market price is already above the floor, so the floor never restricts trade",
+      "it creates a shortage",
+      "it lowers the equilibrium quantity",
+      "the government must buy the surplus"
+    ],
+    "correct_index": 0,
+    "solution": "A floor only matters if it is above equilibrium; below equilibrium the price is free to sit at the market-clearing level.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): A binding price floor creates a surplus. Reason (R): By holding the price above equilibrium, it makes quantity supplied exceed quantity demanded.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A floor above equilibrium raises quantity supplied and lowers quantity demanded, so the excess supply (surplus) is exactly explained by R.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'buffer stock' scheme stabilises a crop's price by the government __________.",
+    "options": [
+      "buying to build stock when the price is low and selling from stock when the price is high",
+      "always buying and never selling",
+      "fixing a permanent shortage",
+      "abolishing the market"
+    ],
+    "correct_index": 0,
+    "solution": "Buffer stock operations lean against price swings: procure in gluts (to prop up price) and release in scarcity (to hold price down).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If a good and another good are substitutes, a fall in the price of the other good will, in the market for the first good, __________.",
+    "options": [
+      "shift demand left, lowering equilibrium price and quantity",
+      "shift demand right",
+      "shift supply left",
+      "leave equilibrium unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "A cheaper substitute draws buyers away, reducing demand for the first good, so its equilibrium price and quantity fall.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If two goods are complements, a fall in the price of one will, in the market for the other, __________.",
+    "options": [
+      "shift demand right, raising equilibrium price and quantity",
+      "shift demand left",
+      "shift supply right",
+      "leave equilibrium unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "A cheaper complement raises demand for the paired good; the rightward demand shift raises its equilibrium price and quantity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A rise in the expected future price of a good typically causes present demand to __________.",
+    "options": [
+      "increase (buyers purchase now before the price rises)",
+      "decrease",
+      "stay exactly the same",
+      "become zero"
+    ],
+    "correct_index": 0,
+    "solution": "Expecting higher future prices, consumers buy more now, shifting current demand rightward.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The core assumption behind the simple market-equilibrium model is that the market is __________.",
+    "options": [
+      "perfectly competitive, with many buyers and sellers and free price adjustment",
+      "a pure monopoly",
+      "controlled by one buyer",
+      "unable to adjust prices"
+    ],
+    "correct_index": 0,
+    "solution": "The demand-and-supply equilibrium analysis assumes perfect competition, where prices are free to move to clear the market.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Excess demand' at a given price is defined as __________.",
+    "options": [
+      "quantity demanded minus quantity supplied, when positive",
+      "quantity supplied minus quantity demanded",
+      "total quantity traded",
+      "the equilibrium quantity"
+    ],
+    "correct_index": 0,
+    "solution": "Excess demand (a shortage) is the amount by which quantity demanded exceeds quantity supplied at that price.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Excess supply' at a given price is defined as __________.",
+    "options": [
+      "quantity supplied minus quantity demanded, when positive",
+      "quantity demanded minus quantity supplied",
+      "the equilibrium quantity",
+      "total revenue"
+    ],
+    "correct_index": 0,
+    "solution": "Excess supply (a surplus) is the amount by which quantity supplied exceeds quantity demanded at that price.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "At the equilibrium price, both excess demand and excess supply are __________.",
+    "options": [
+      "zero (the market clears)",
+      "positive",
+      "negative",
+      "maximised"
+    ],
+    "correct_index": 0,
+    "solution": "Equilibrium is exactly where quantity demanded equals quantity supplied, so there is neither a shortage nor a surplus.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A tax whose burden falls almost entirely on sellers would be one where __________.",
+    "options": [
+      "demand is very elastic and supply is very inelastic",
+      "demand is very inelastic and supply is very elastic",
+      "both are perfectly inelastic",
+      "both are perfectly elastic"
+    ],
+    "correct_index": 0,
+    "solution": "The more inelastic side bears more of a tax; if supply is inelastic and demand elastic, sellers (who cannot cut quantity much) bear the burden.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Compared with the free-market outcome, the total quantity traded under any binding price control (ceiling or floor) is __________.",
+    "options": [
+      "lower than the equilibrium quantity",
+      "higher than the equilibrium quantity",
+      "exactly the equilibrium quantity",
+      "always zero"
+    ],
+    "correct_index": 0,
+    "solution": "Both a binding ceiling and a binding floor restrict trade to the short side of the market, so quantity traded is below the equilibrium level.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Market Equilibrium' is that:",
+    "options": [
+      "Markets never reach equilibrium",
+      "MARKET EQUILIBRIUM occurs where QUANTITY DEMANDED EQUALS QUANTITY SUPPLIED — at the intersection of the demand and supply curves — giving the market-clearing PRICE and QUANTITY; at prices above equilibrium a SURPLUS pushes price down, and below it a SHORTAGE pushes price up, so the PRICE MECHANISM is self-correcting; SHIFTS in demand or supply change the equilibrium in predictable ways (e.g., higher demand raises both price and quantity), while simultaneous shifts can leave one variable ambiguous; and government interventions — PRICE CEILINGS (maximum prices, causing shortages) and PRICE FLOORS like the Minimum Support Price and minimum wages (causing surpluses/unemployment) — as well as TAXES and SUBSIDIES, move the market away from its efficient equilibrium, often creating a deadweight loss",
+      "Prices are always fixed by the government",
+      "Demand and supply are unrelated to price"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that MARKET EQUILIBRIUM occurs where the QUANTITY DEMANDED EQUALS the QUANTITY SUPPLIED — at the INTERSECTION of the DEMAND and SUPPLY curves — determining the MARKET-CLEARING (equilibrium) PRICE and QUANTITY. At a price ABOVE equilibrium, a SURPLUS (excess supply) pushes the price DOWN; at a price BELOW equilibrium, a SHORTAGE (excess demand) pushes the price UP — so the PRICE MECHANISM is SELF-CORRECTING. SHIFTS in DEMAND or SUPPLY change the equilibrium in PREDICTABLE ways (e.g., an increase in demand raises both price and quantity; an increase in supply lowers price and raises quantity), while SIMULTANEOUS shifts can leave one variable's change AMBIGUOUS (depending on relative magnitudes). Government INTERVENTIONS also affect the market: PRICE CEILINGS (maximum prices, like rent control) cause SHORTAGES; PRICE FLOORS (minimum prices, like the MINIMUM SUPPORT PRICE for crops and MINIMUM WAGES) cause SURPLUSES (or unemployment); and TAXES and SUBSIDIES shift supply, moving the market away from its efficient equilibrium and often creating a DEADWEIGHT LOSS. So the overall message is option 2.",
+    "difficulty": "medium"
+  }
 ]
