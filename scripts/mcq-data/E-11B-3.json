@@ -1,52 +1,1058 @@
 [
-  { "stem": "The organisation of data refers to:", "options": ["throwing away data", "arranging the collected raw data in an orderly, systematic form (classifying and grouping it) so that it can be understood and analysed", "hiding data", "collecting data"], "correct_index": 1, "solution": "The organisation of data refers to the arranging of the collected raw (unorganised) data in an orderly, systematic form — by classifying and grouping the data according to their characteristics — so that the data become manageable, understandable, and ready for presentation and analysis. Raw data, as first collected, are usually a jumbled mass of figures that make little sense; organising them (sorting, classifying, and tabulating) brings order and reveals patterns. Organisation is the stage between the collection of data and their presentation/analysis. Understanding what organisation of data means is a prelims-relevant point. Organisation of data is the arranging of raw data in an orderly, systematic form (classifying and grouping it) for understanding and analysis.", "difficulty": "medium" },
-  { "stem": "The raw, unorganised data as first collected (a jumbled mass of figures) are difficult to understand; therefore they need to be:", "options": ["ignored", "classified and organised", "destroyed", "left as they are"], "correct_index": 1, "solution": "Raw, unorganised data — the figures exactly as they are first collected (a large, disorderly, jumbled mass of numbers) — are difficult to understand, interpret, or use, because no pattern or meaning is apparent just by looking at them. Therefore, they need to be classified and organised — sorted and grouped into an orderly form (by their characteristics) — so that they become comprehensible, manageable, and useful (revealing patterns and ready for analysis). This is exactly why the 'organisation of data' stage is necessary in a statistical study. Understanding the need to organise raw data is a prelims-relevant point. Raw, unorganised data are hard to understand, so they need to be classified and organised into an orderly form.", "difficulty": "medium" },
-  { "stem": "Classification of data means:", "options": ["mixing all data together", "arranging/grouping data into classes or categories according to their common characteristics", "deleting data", "collecting new data"], "correct_index": 1, "solution": "Classification of data means the process of arranging/grouping the data into different classes, groups, or categories according to their common characteristics/features (putting like with like). For example, data on people can be classified by age, sex, income, occupation, etc.; data on marks can be grouped into ranges. Classification brings order to the raw data, condenses it, highlights its features and similarities/differences, and makes it easier to understand, compare, and analyse. It is the basis of organising data (before tabulation and presentation). Understanding classification (grouping by common characteristics) is a prelims-relevant point. Classification of data means arranging/grouping the data into classes or categories according to their common characteristics.", "difficulty": "medium" },
-  { "stem": "When data are classified on the basis of a QUALITATIVE characteristic/attribute (like gender, religion, or literacy), it is called __________ classification.", "options": ["chronological", "qualitative", "quantitative", "geographical"], "correct_index": 1, "solution": "Qualitative classification is the classification of data on the basis of some qualitative characteristic or attribute — a quality that cannot be measured numerically, such as gender (male/female), religion, literacy (literate/illiterate), marital status, or occupation. The data are sorted into categories based on the presence/absence or type of the attribute. (This is contrasted with 'quantitative' classification, which is based on a numerically measurable variable like height, income, or age.) So qualitative classification groups data by attributes/qualities. Understanding qualitative classification is a prelims-relevant point. Qualitative classification groups data on the basis of a qualitative characteristic/attribute (like gender, religion, or literacy).", "difficulty": "medium" },
-  { "stem": "When data are classified on the basis of a QUANTITATIVE (numerically measurable) variable (like height, weight, income, or marks), it is called __________ classification.", "options": ["qualitative", "quantitative", "geographical", "chronological"], "correct_index": 1, "solution": "Quantitative classification is the classification of data on the basis of a quantitative variable — a characteristic that can be measured numerically, such as height, weight, income, age, or marks. The data are grouped according to the values of this numerical variable (for example, grouping people into income ranges, or students into mark ranges). Quantitative classification typically results in a 'frequency distribution' (showing how many units fall into each class/range of values). (This is contrasted with 'qualitative' classification, based on non-numerical attributes.) Understanding quantitative classification is a prelims-relevant point. Quantitative classification groups data on the basis of a numerically measurable variable (like height, income, or marks).", "difficulty": "medium" },
-  { "stem": "When data are classified according to TIME (e.g., by years, months) — like population figures for different years — it is called __________ classification.", "options": ["geographical", "chronological (temporal)", "qualitative", "quantitative"], "correct_index": 1, "solution": "Chronological (temporal) classification is the classification of data according to time — arranging the data in order of time periods, such as by years, months, weeks, days, or hours. For example, the population of India for the years 1951, 1961, 1971, ... is chronologically classified data (a 'time series'). This kind of classification shows how a value changes/varies over time. (This is one of the bases of classification, along with geographical/spatial — by place, qualitative — by attribute, and quantitative — by numerical value.) Understanding chronological classification (by time) is a prelims-relevant point. Chronological (temporal) classification arranges data according to time (e.g., by years or months).", "difficulty": "medium" },
-  { "stem": "When data are classified according to PLACE/location (e.g., by states, cities, or countries), it is called __________ classification.", "options": ["chronological", "geographical (spatial)", "qualitative", "temporal"], "correct_index": 1, "solution": "Geographical (spatial) classification is the classification of data according to place or location — arranging the data by geographical areas such as states, districts, cities, regions, or countries. For example, the population (or literacy rate, or production) of the different states of India is geographically classified data. This kind of classification shows how a value varies from place to place. (This is one of the four common bases of classification: geographical/spatial — by place; chronological/temporal — by time; qualitative — by attribute; and quantitative — by numerical value.) Understanding geographical classification (by place) is a prelims-relevant point. Geographical (spatial) classification arranges data according to place/location (e.g., by states or countries).", "difficulty": "medium" },
-  { "stem": "A table that shows the different values of a variable (or classes/ranges) along with the number of times each occurs (its frequency) is called a:", "options": ["map", "frequency distribution", "picture", "diagram"], "correct_index": 1, "solution": "A frequency distribution is a table that shows the different values of a variable (or the different classes/ranges of values) together with the number of times each value or class occurs in the data — that is, its 'frequency'. For example, a frequency distribution of the marks of a class of students would list the mark-ranges (classes) and, against each, the number of students who scored in that range. The frequency distribution is a fundamental way of organising and summarising quantitative data — it condenses a large set of raw values into a compact, understandable table showing how the values are distributed. Understanding the frequency distribution is a key prelims-relevant point. A frequency distribution is a table showing the values (or classes) of a variable along with the number of times each occurs (its frequency).", "difficulty": "medium" },
-  { "stem": "In a frequency distribution, the number of times a particular value or class occurs is called its:", "options": ["class limit", "frequency", "range", "class interval"], "correct_index": 1, "solution": "In a frequency distribution, the frequency (of a value or a class) is the number of times that particular value (or that particular class/range of values) occurs/appears in the data — i.e., how many observations fall into it. For example, if 8 students scored between 40 and 50 marks, then the frequency of the class '40–50' is 8. The frequencies show how the data are distributed across the different values/classes. So 'frequency' means the count of occurrences of each value or class. Understanding the meaning of frequency is a prelims-relevant point. The frequency is the number of times a particular value or class occurs in the data.", "difficulty": "medium" },
-  { "stem": "In a grouped frequency distribution, each group/range of values (like 0–10, 10–20) is called a:", "options": ["frequency", "class (class interval)", "tally", "midpoint"], "correct_index": 1, "solution": "In a grouped frequency distribution, each group or range of values into which the data are grouped — such as 0–10, 10–20, 20–30, etc. — is called a 'class' or 'class interval'. Instead of listing every individual value separately, the data are grouped into these classes/ranges, and the number of observations falling in each class (the class frequency) is recorded. Grouping into classes is done when the data have many different values (grouping condenses them into a manageable number of classes). So a 'class' (class interval) is one of these value-ranges. Understanding the class (class interval) is a prelims-relevant point. In a grouped frequency distribution, each group/range of values (like 0–10) is called a class (class interval).", "difficulty": "medium" },
-  { "stem": "In a class interval like 20–30, the values 20 and 30 are called the __________ of the class.", "options": ["frequencies", "class limits (lower and upper limits)", "midpoints", "tallies"], "correct_index": 1, "solution": "In a class interval like 20–30, the two values that define the boundaries of the class — 20 and 30 — are called the class limits: 20 is the 'lower class limit' (the lower boundary) and 30 is the 'upper class limit' (the upper boundary). The class limits mark the range of values that fall into that class. (The lower limit is the smallest value, and the upper limit the largest value, that the class can contain — with a convention about which class a value exactly on the boundary goes into.) Understanding class limits (lower and upper) is a prelims-relevant point. In a class interval like 20–30, 20 and 30 are the class limits (lower and upper limits) of the class.", "difficulty": "medium" },
-  { "stem": "The difference between the upper class limit and the lower class limit of a class (e.g., 30 − 20 = 10 for the class 20–30) is called the:", "options": ["frequency", "class size (class interval width)", "midpoint", "range"], "correct_index": 1, "solution": "The class size (or class-interval width/magnitude) is the difference between the upper class limit and the lower class limit of a class — for example, for the class 20–30, the class size is 30 − 20 = 10. It is the 'width' or span of the class (how wide a range of values the class covers). In a frequency distribution, the classes are usually (though not always) of equal size. So the class size measures the width of each class interval. Understanding the class size (width of a class) is a prelims-relevant point. The class size is the difference between the upper and lower class limits (the width of the class), e.g., 30 − 20 = 10.", "difficulty": "medium" },
-  { "stem": "The value exactly in the middle of a class (the average of its lower and upper limits) is called the class:", "options": ["frequency", "midpoint (mid-value)", "limit", "size"], "correct_index": 1, "solution": "The class midpoint (or mid-value) is the value exactly at the middle of a class interval — calculated as the average (mean) of the lower and upper class limits: (lower limit + upper limit) ÷ 2. For example, for the class 20–30, the midpoint is (20 + 30) ÷ 2 = 25. The class midpoint is taken to represent the whole class (as the typical/central value of that class) — for example, it is used as the representative value of the class when calculating the mean of a grouped frequency distribution. Understanding the class midpoint is a prelims-relevant point. The class midpoint (mid-value) is the middle value of a class — the average of its lower and upper limits.", "difficulty": "medium" },
-  { "stem": "The difference between the largest and the smallest value in a set of data is called the:", "options": ["frequency", "range", "midpoint", "class size"], "correct_index": 1, "solution": "The range of a set of data is the difference between the largest (maximum) value and the smallest (minimum) value in the data. For example, if the marks range from a lowest of 12 to a highest of 96, the range is 96 − 12 = 84. The range gives a simple measure of the total spread/dispersion of the data (from lowest to highest), and it is useful when constructing a grouped frequency distribution (it helps decide the number and size of the classes needed to cover all the data). Understanding the range (max − min) is a prelims-relevant point. The range is the difference between the largest and the smallest value in the data.", "difficulty": "medium" },
-  { "stem": "The marks/tally marks used to count how many observations fall in each class (grouping the raw data) are called the __________ column, before writing the final frequency.", "options": ["frequency", "tally", "midpoint", "limit"], "correct_index": 1, "solution": "When preparing a frequency distribution from raw data, we use a 'tally' column (tally marks) to count how many observations fall into each class. For each value in the raw data, we put a tally mark (a small vertical stroke, |, usually grouped in fives — with the fifth stroke drawn across the previous four) against the class it belongs to. After tallying all the values, we count the tally marks in each class to get the frequency of that class. So the tally marks are the counting device used to sort the raw data into classes, and the counted total for each class becomes its frequency. Understanding the use of tally marks (in preparing a frequency distribution) is a prelims-relevant point. Tally marks are used to count how many observations fall in each class, and the count gives the class frequency.", "difficulty": "medium" },
-  { "stem": "A frequency distribution in which the classes are like '0–10', '10–20', '20–30' (where the upper limit of one class is the lower limit of the next) is called the __________ series/method.", "options": ["inclusive", "exclusive", "open-ended", "discrete"], "correct_index": 1, "solution": "The 'exclusive' method/series is a way of forming class intervals in which the upper limit of one class is the same as the lower limit of the next class — for example, 0–10, 10–20, 20–30, etc. In this method, the upper limit of each class is 'excluded' from that class (a value exactly equal to the upper limit is placed in the NEXT class): e.g., a value of exactly 10 goes into the class '10–20', not '0–10'. The exclusive method is convenient and commonly used for continuous data (where the classes are continuous, with no gap between them). (The other method, 'inclusive', has gaps like 0–9, 10–19, where both limits are included in the class.) Understanding the exclusive method is a prelims-relevant point. In the exclusive method, the upper limit of one class is the lower limit of the next (like 0–10, 10–20), and the upper limit is excluded from that class.", "difficulty": "hard" },
-  { "stem": "A frequency distribution with classes like '0–9', '10–19', '20–29' (where there is a gap between classes and both limits belong to the same class) uses the __________ method.", "options": ["exclusive", "inclusive", "continuous", "cumulative"], "correct_index": 1, "solution": "The 'inclusive' method is a way of forming class intervals in which there is a gap between the upper limit of one class and the lower limit of the next — for example, 0–9, 10–19, 20–29, etc. In this method, both the lower and the upper limits of a class are 'included' in that class (a value equal to either limit belongs to that class): e.g., the values 0 to 9 (including both 0 and 9) all go into the class '0–9', and 10 to 19 into '10–19'. The inclusive method is convenient for discrete data (whole numbers). (To make such classes continuous — e.g., for calculations or graphs — the gaps are removed by adjusting the limits to 'class boundaries'.) Understanding the inclusive method is a prelims-relevant point. In the inclusive method, both limits belong to the same class and there is a gap between classes (like 0–9, 10–19).", "difficulty": "hard" },
-  { "stem": "A frequency distribution that shows the number of observations that are LESS THAN (or more than) a given value — accumulating the frequencies — is called a __________ frequency distribution.", "options": ["simple", "cumulative", "qualitative", "geographical"], "correct_index": 1, "solution": "A cumulative frequency distribution is a frequency distribution that shows, for each class, the number of observations that are less than (or, alternatively, more than) a given value — obtained by accumulating (adding up) the frequencies progressively. In a 'less than' cumulative frequency distribution, each entry is the total number of observations up to (below) that class's upper limit (running total from the top); in a 'more than' one, it is the total number at or above that class's lower limit. Cumulative frequencies are useful for finding, for instance, how many observations fall below/above a certain value, and for calculating medians and other measures. Understanding the cumulative frequency distribution is a prelims-relevant point. A cumulative frequency distribution shows the number of observations less than (or more than) a given value, by accumulating the frequencies.", "difficulty": "hard" },
-  { "stem": "A variable that can take only whole-number values (like the number of children in a family — 0, 1, 2, 3) is called a __________ variable.", "options": ["continuous", "discrete", "qualitative", "cumulative"], "correct_index": 1, "solution": "A discrete variable is a variable that can take only certain separate, distinct values — typically whole numbers (integers) — and not the values in between. For example, the number of children in a family (0, 1, 2, 3, ... — you cannot have 2.5 children), the number of students in a class, or the number of cars — these can only be whole numbers. (This contrasts with a 'continuous' variable — like height, weight, or time — which can take any value within a range, including fractions/decimals.) So a discrete variable takes only specific, separate (usually whole-number) values. Understanding discrete variables is a prelims-relevant point. A discrete variable can take only separate, whole-number values (like the number of children: 0, 1, 2, 3).", "difficulty": "medium" },
-  { "stem": "A variable that can take ANY value within a range (including fractions/decimals) — like height, weight, or temperature — is called a __________ variable.", "options": ["discrete", "continuous", "qualitative", "cumulative"], "correct_index": 1, "solution": "A continuous variable is a variable that can take any value within a given range — including fractional/decimal values (not just whole numbers). For example, height (a person can be 165.3 cm), weight (60.75 kg), temperature, time, and distance are continuous variables — between any two values there are infinitely many possible intermediate values. (This contrasts with a 'discrete' variable, which takes only separate, distinct values, usually whole numbers.) Continuous data are usually organised into a grouped frequency distribution (with class intervals). Understanding continuous variables is a prelims-relevant point. A continuous variable can take any value within a range, including fractions/decimals (like height, weight, or temperature).", "difficulty": "medium" },
-  { "stem": "Assertion (A): Classifying and organising data is an important step in a statistical study. Reason (R): It converts a confusing mass of raw data into an orderly form that reveals patterns and can be easily understood and analysed. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that classifying and organising data is an important step in a statistical study. And the reason is (R) that it converts a confusing, jumbled mass of raw data (which, as first collected, is hard to make sense of) into an orderly, systematic form (through classification, grouping, and frequency distributions) that reveals the patterns and features in the data and makes it easy to understand, compare, present, and analyse. Because organising the data is exactly what makes the data comprehensible and usable (turning chaos into order), it is an important/essential step — so R correctly explains A. Understanding why organisation of data matters is a prelims-relevant point. Organising data is important because it converts a confusing mass of raw data into an orderly form that reveals patterns and can be easily understood and analysed.", "difficulty": "hard" },
-  { "stem": "A characteristic that varies and CAN be measured numerically (like height or income) is a variable; a characteristic that cannot be measured but only described/categorised (like honesty or gender) is called an:", "options": ["variable", "attribute", "frequency", "class"], "correct_index": 1, "solution": "An attribute is a characteristic/quality that cannot be measured numerically, but can only be described or categorised (its presence/absence or type noted) — such as honesty, beauty, gender (male/female), religion, or blindness. A 'variable', by contrast, is a characteristic that varies and CAN be measured numerically (expressed as numbers), such as height, weight, income, or marks. So the distinction is: variables are quantitative (measurable in numbers), while attributes are qualitative (only describable/categorisable). Data on attributes are classified qualitatively (by category), while data on variables are classified quantitatively (into a frequency distribution). Understanding the variable-vs-attribute distinction is a prelims-relevant point. An attribute is a qualitative characteristic that can only be described/categorised (like honesty or gender), unlike a variable, which can be measured numerically.", "difficulty": "medium" },
-  { "stem": "A frequency distribution involving only ONE variable (like the marks of students) is called a __________ frequency distribution.", "options": ["bivariate", "univariate", "cumulative", "geographical"], "correct_index": 1, "solution": "A univariate frequency distribution is a frequency distribution that involves only one variable — it shows the frequencies of the different values/classes of a single variable (for example, the frequency distribution of just the marks of a group of students, or just their heights). 'Uni-' means one. (This contrasts with a 'bivariate' frequency distribution, which involves two variables together — showing the joint frequencies of the values of two variables, e.g., marks AND heights together, in a two-way table.) So a univariate distribution deals with one variable at a time. Understanding univariate frequency distribution is a prelims-relevant point. A univariate frequency distribution involves only one variable (like the marks of students).", "difficulty": "hard" },
-  { "stem": "A frequency distribution that shows the frequencies of TWO variables together (in a two-way table) is called a __________ frequency distribution.", "options": ["univariate", "bivariate", "cumulative", "simple"], "correct_index": 1, "solution": "A bivariate frequency distribution is a frequency distribution that involves two variables together — it shows the joint frequencies of the different values/classes of two variables simultaneously, arranged in a two-way table (with the classes of one variable along the rows and the classes of the other along the columns, and the frequencies in the cells). For example, a bivariate distribution might show the number of students falling into each combination of a marks-range AND a height-range. 'Bi-' means two. Bivariate distributions are used to study the relationship between two variables. (This contrasts with the univariate distribution, involving only one variable.) Understanding bivariate frequency distribution is a prelims-relevant point. A bivariate frequency distribution shows the frequencies of two variables together, in a two-way table.", "difficulty": "hard" },
-  { "stem": "A characteristic of a GOOD classification is that the classes should be __________ — every item must fit into one and only one class (no overlap, and none left out).", "options": ["overlapping", "mutually exclusive and comprehensive (exhaustive)", "random", "empty"], "correct_index": 1, "solution": "A characteristic of a good classification is that the classes should be mutually exclusive and comprehensive (exhaustive): mutually exclusive means the classes must not overlap — every item/observation must fit into one and only one class (there should be no ambiguity about which class an item belongs to); and comprehensive/exhaustive means the classes must together cover all the items — no item should be left out (there should be a class for every observation). Together, these ensure that every data item is classified into exactly one class. (Other features of good classification include being homogeneous within classes, and being clear, stable, and suitably flexible.) Understanding these features (mutually exclusive, comprehensive) is a prelims-relevant point. A good classification has mutually exclusive and comprehensive classes — every item fits into exactly one class, with none left out.", "difficulty": "hard" },
-  { "stem": "In the exclusive method, a value that falls exactly ON a class boundary (e.g., a value of 20 with classes 10–20 and 20–30) is placed in the class where that value is the __________ limit.", "options": ["upper", "lower", "middle", "outside"], "correct_index": 1, "solution": "In the exclusive method of forming classes (like 10–20, 20–30), a value that falls exactly on a class boundary — for example, a value of exactly 20 (which appears as the upper limit of 10–20 and the lower limit of 20–30) — is placed in the class where that value is the LOWER limit. So a value of 20 goes into the class 20–30 (where 20 is the lower limit), NOT into 10–20 (where 20 is the upper limit). This is because, in the exclusive method, the upper limit of each class is excluded from that class (it belongs to the next class). This convention avoids double-counting the boundary values. Understanding this rule (boundary value goes to the class where it is the lower limit) is a prelims-relevant point. In the exclusive method, a boundary value goes into the class where it is the lower limit (e.g., 20 goes into 20–30, not 10–20).", "difficulty": "hard" },
-  { "stem": "To convert an INCLUSIVE class series (like 0–9, 10–19) into a continuous (exclusive) one, we find the gap between classes, halve it, and __________ it to make the classes continuous.", "options": ["ignore", "adjust the limits (subtract half the gap from lower limits and add half to upper limits)", "double", "delete"], "correct_index": 1, "solution": "To convert an inclusive class series (like 0–9, 10–19, 20–29) into a continuous (exclusive) series — needed for certain calculations and for graphs — we remove the gaps between the classes as follows: (1) find the gap between the upper limit of one class and the lower limit of the next (here, 10 − 9 = 1); (2) halve this gap (1 ÷ 2 = 0.5) — this is the 'adjustment factor'; and (3) subtract this half-gap from each lower limit and add it to each upper limit. So the class 0–9 becomes (0 − 0.5) to (9 + 0.5) = −0.5 to 9.5, the class 10–19 becomes 9.5 to 19.5, and so on — now the classes are continuous (the upper limit of one equals the lower limit of the next), with the adjusted values called the 'class boundaries'. Understanding this inclusive-to-exclusive conversion is a prelims-relevant point. To make an inclusive series continuous, halve the gap between classes and subtract it from the lower limits and add it to the upper limits (giving the class boundaries).", "difficulty": "hard" },
-  { "stem": "The adjusted true limits of a class (after converting an inclusive series to continuous form) are called the class:", "options": ["frequencies", "boundaries (true limits)", "midpoints", "tallies"], "correct_index": 1, "solution": "The class boundaries (also called the 'true class limits') are the adjusted, true limits of a class obtained after converting an inclusive series into a continuous form — by extending each class by half the gap on each side (subtracting the adjustment factor from the lower limit and adding it to the upper limit). For example, the inclusive class 10–19 has the class boundaries 9.5 and 19.5. The class boundaries make the classes continuous (with no gaps between them), which is necessary for constructing certain graphs (like the histogram) and for accurate calculations. So the class boundaries are the 'real'/continuous limits of the class. Understanding class boundaries (true limits) is a prelims-relevant point. Class boundaries (true limits) are the adjusted, continuous limits of a class (e.g., 9.5 and 19.5 for the class 10–19).", "difficulty": "hard" },
-  { "stem": "When a class has no lower limit for the first class or no upper limit for the last class (e.g., 'less than 10' or 'above 50'), it is called an __________ class.", "options": ["closed", "open-ended", "exclusive", "inclusive"], "correct_index": 1, "solution": "An open-ended class is a class that has no lower limit (for the first/lowest class) or no upper limit (for the last/highest class) — for example, a class stated as 'less than 10' (no lower limit) or 'above 50' / '50 and above' (no upper limit). Open-ended classes are used when the data have some very small or very large extreme values, or when the exact limits at the ends are not known or not important. (A drawback is that the exact midpoint of an open-ended class is not defined, which can be a problem for some calculations — an assumed limit may then be used.) Understanding open-ended classes is a prelims-relevant point. An open-ended class has no lower limit for the first class or no upper limit for the last class (e.g., 'less than 10' or 'above 50').", "difficulty": "hard" },
-  { "stem": "Grouping data into classes (a grouped frequency distribution) has the drawback that it causes some __________ of information (the individual values within a class are lost).", "options": ["gain", "loss", "doubling", "duplication"], "correct_index": 1, "solution": "Grouping data into classes (forming a grouped frequency distribution) has the drawback that it causes some loss of information — because, once the data are grouped, the individual/exact values within each class are no longer visible (they are 'merged' into the class). For example, if a class '20–30' has a frequency of 5, we know that 5 observations fall between 20 and 30, but we no longer know their exact individual values (whether they were 21, 25, 28, etc.). So grouping condenses and simplifies the data (an advantage), but at the cost of losing the detail of the individual values (a disadvantage). For calculations on grouped data, the class midpoint is used to represent all the values in a class (an approximation). Understanding this loss of information in grouping is a prelims-relevant point. Grouping data into classes causes some loss of information, as the individual values within each class are lost.", "difficulty": "medium" },
-  { "stem": "The arrangement of raw data in ascending or descending order of magnitude is called an:", "options": ["array", "attribute", "average", "attribute"], "correct_index": 0, "solution": "An 'array' (or data array) is the arrangement of the raw data in order of magnitude — either ascending order (from the smallest value to the largest) or descending order (from the largest to the smallest). Arraying the data is a simple first step in organising raw data: it makes it easier to see the smallest and largest values (and hence the range), to spot the pattern/spread, and to prepare a frequency distribution. So an array is simply the raw data sorted in order of size. Understanding the array (ordered arrangement of data) is a prelims-relevant point. An array is the arrangement of raw data in ascending or descending order of magnitude.", "difficulty": "medium" },
-  { "stem": "An arrangement of statistical data (in classified/organised form) is called a statistical:", "options": ["series", "map", "picture", "story"], "correct_index": 0, "solution": "A statistical series is an arrangement of statistical data (that have been classified/organised) in some logical/systematic order — for example, according to time (a time series), place (a spatial series), or the values of a variable (a frequency distribution series). So the term 'statistical series' refers to organised, arranged data (as opposed to a raw, disorderly heap). Statistical series can be of different types (individual series, discrete series, continuous series; time series, spatial series, condition series). Understanding the statistical series (organised/arranged data) is a prelims-relevant point. A statistical series is an arrangement of classified/organised statistical data in a logical order.", "difficulty": "medium" },
-  { "stem": "A series in which the individual items/observations are listed one by one (each with its own value, not grouped) is called an __________ series.", "options": ["individual", "continuous", "discrete", "cumulative"], "correct_index": 0, "solution": "An individual series is a statistical series in which the individual items/observations are listed one by one, each shown separately with its own value (the data are not grouped or classified into frequencies) — for example, a simple list of the marks obtained by each of 10 students, written out one after another. So each item stands on its own. (This contrasts with a 'discrete series' — where distinct values are shown with their frequencies — and a 'continuous series' — where values are grouped into class intervals with frequencies.) The individual series is the simplest form. Understanding the individual series is a prelims-relevant point. An individual series lists the individual observations one by one, each with its own value (not grouped).", "difficulty": "hard" },
-  { "stem": "A frequency distribution in which distinct, separate values of a (discrete) variable are shown along with their frequencies (like number of children: 0, 1, 2, 3 with how many families) is a __________ series.", "options": ["continuous", "discrete (frequency array)", "individual", "cumulative"], "correct_index": 1, "solution": "A discrete series (also called a discrete frequency distribution or 'frequency array') is a frequency distribution in which the distinct, separate values of a discrete variable are listed, each with its frequency (the number of times it occurs) — rather than grouping values into class intervals. For example, a table showing the number of children (0, 1, 2, 3, 4) against the number of families having that many children is a discrete series. It is used for discrete variables that take separate (usually whole-number) values, especially when the number of distinct values is not too large. (This contrasts with the continuous series, which groups values into class intervals.) Understanding the discrete series is a prelims-relevant point. A discrete series shows the distinct values of a discrete variable with their frequencies (like number of children with number of families).", "difficulty": "hard" },
-  { "stem": "A frequency distribution in which the data are grouped into class intervals (each class with a frequency) — used for continuous data — is a __________ series.", "options": ["individual", "discrete", "continuous (grouped)", "cumulative"], "correct_index": 2, "solution": "A continuous series (also called a grouped frequency distribution) is a frequency distribution in which the data (values of a continuous, or sometimes discrete-but-many-valued, variable) are grouped into class intervals (like 0–10, 10–20, 20–30, ...), and each class interval is shown with its frequency (the number of observations falling in it). It is used especially for continuous variables (like height, weight, income) or when there are too many distinct values to list individually. So the data are organised by ranges/classes rather than by individual values. (This contrasts with the individual series — items listed singly — and the discrete series — distinct values with frequencies.) Understanding the continuous (grouped) series is a prelims-relevant point. A continuous (grouped) series groups the data into class intervals, each with a frequency — used for continuous data.", "difficulty": "hard" },
-  { "stem": "When constructing a frequency distribution, if the number of classes is too FEW (very wide classes), the drawback is that:", "options": ["it is perfect", "too much detail/information is lost (the classes are too broad to show the pattern well)", "there are too many classes", "the data become raw again"], "correct_index": 1, "solution": "When constructing a frequency distribution, choosing too FEW classes (which means each class is very wide/broad) has the drawback that too much detail/information is lost — the classes are so broad that they lump together very different values, hiding the finer pattern and variation in the data (the distribution becomes too coarse/crude to be informative). Conversely, choosing too MANY classes (very narrow classes) makes the distribution unwieldy and defeats the purpose of condensing the data. So the number of classes must be chosen suitably — not too few and not too many (commonly between about 5 and 15) — to balance detail against simplicity. Understanding the drawback of too few classes is a prelims-relevant point. Too few (very wide) classes cause too much information/detail to be lost, hiding the pattern in the data.", "difficulty": "hard" },
-  { "stem": "The 'relative frequency' of a class is the frequency of the class expressed as a __________ of the total frequency.", "options": ["difference", "proportion/fraction (or percentage)", "sum", "square"], "correct_index": 1, "solution": "The 'relative frequency' of a class is the frequency of that class expressed as a proportion/fraction (or percentage) of the total frequency (the total number of observations) — i.e., relative frequency = (class frequency) ÷ (total frequency). For example, if a class has a frequency of 8 and the total number of observations is 40, its relative frequency is 8/40 = 0.2 (or 20%). Relative frequencies are useful because they show the share/importance of each class in the whole, and they allow comparison between different distributions (of different total sizes). Understanding relative frequency is a prelims-relevant point. The relative frequency of a class is its frequency expressed as a proportion/fraction (or percentage) of the total frequency.", "difficulty": "hard" },
-  { "stem": "In a 'less than' cumulative frequency distribution, the cumulative frequency against a class's upper limit tells us:", "options": ["the frequency of that class only", "the total number of observations that are less than that upper limit (that value)", "the largest value", "nothing"], "correct_index": 1, "solution": "In a 'less than' cumulative frequency distribution, the cumulative frequency shown against a class's upper limit tells us the total number of observations that are less than that upper limit (that value) — i.e., the running total of all the frequencies from the beginning up to and including that class. For example, if the 'less than 30' cumulative frequency is 18, it means 18 observations have values less than 30. This is useful for answering questions like 'how many observations are below a certain value?' and for finding the median and other positional measures. Understanding the 'less than' cumulative frequency is a prelims-relevant point. In a 'less than' cumulative frequency distribution, the cumulative frequency at an upper limit gives the total number of observations less than that value.", "difficulty": "hard" },
-  { "stem": "The main OBJECTIVES/purposes of classifying data include condensing the data, enabling comparison, revealing patterns, and:", "options": ["confusing the reader", "making the data ready for further statistical analysis and bringing out the significant features", "hiding the data", "increasing the raw data"], "correct_index": 1, "solution": "The main objectives/purposes of classifying (organising) data include: to condense the data — reducing a large, unwieldy mass of raw figures into a compact, manageable form; to enable comparison — arranging the data so that different groups/categories/periods can be readily compared; to reveal patterns and bring out the significant features — highlighting the similarities, differences, and tendencies hidden in the data; and to prepare the data for further statistical analysis — putting the data into a form (like a frequency distribution) suitable for calculating averages, dispersion, and other measures, and for presentation. So classification serves to make the data understandable, comparable, and analysable. Understanding the objectives of classification is a prelims-relevant point. Classification condenses the data, enables comparison, reveals patterns, and prepares the data for further statistical analysis.", "difficulty": "medium" },
-  { "stem": "The class-interval size and the number of classes are related: for a given range of data, using SMALLER class intervals results in __________ classes.", "options": ["fewer", "more (a larger number of)", "the same number of", "no"], "correct_index": 1, "solution": "For a given range of data (a fixed span from the smallest to the largest value), the size of the class interval and the number of classes are inversely related: using smaller class intervals (narrower classes) results in a larger number of classes (more classes are needed to cover the same range); while using larger class intervals (wider classes) results in fewer classes. (Roughly: number of classes ≈ range ÷ class-interval size.) So there is a trade-off — smaller intervals give more classes (more detail, but more unwieldy), and larger intervals give fewer classes (more condensed, but less detail). The class size and the number of classes must be chosen together, suitably. Understanding this relationship (smaller intervals → more classes) is a prelims-relevant point. For a given range, smaller class intervals result in more classes (and larger intervals in fewer classes).", "difficulty": "medium" },
-  { "stem": "The tally-mark system usually groups the marks in __________ (four vertical lines, with the fifth drawn diagonally across them) for easy counting.", "options": ["threes", "fives", "tens", "twos"], "correct_index": 1, "solution": "In the tally-mark system (used to count observations into classes), the tally marks are usually grouped in fives for easy counting: the first four occurrences are marked as four vertical lines (||||), and the fifth occurrence is marked by a diagonal/cross line drawn across those four (making a 'bundle' of five). Then the next four are four vertical lines again, and so on. Grouping the tallies in fives (bundles of five) makes it much quicker and easier to count the total number of marks in each class at the end (you can count the bundles of five). Understanding the tally-mark grouping (in fives) is a prelims-relevant point. Tally marks are grouped in fives (four vertical lines with the fifth drawn diagonally across) for easy counting.", "difficulty": "medium" },
-  { "stem": "A characteristic of good classification is that it should be __________ — the basis of classification should not change from time to time (so that comparisons can be made).", "options": ["unstable/changing", "stable (consistent)", "random", "secret"], "correct_index": 1, "solution": "A characteristic of good classification is that it should be stable (consistent) — the basis/rules of classification should remain the same (not keep changing) from one time/study to another, so that the data classified at different times or in different places are comparable. If the basis of classification kept changing (e.g., the definition of income classes changing every year), then data from different periods could not be meaningfully compared. So stability (consistency of the classification basis over time) is important for valid comparison. (Good classification should also be clear, unambiguous, exhaustive, mutually exclusive, homogeneous, and suitably flexible.) Understanding the 'stability' feature of good classification is a prelims-relevant point. Good classification should be stable — its basis should not keep changing, so that comparisons over time can be made.", "difficulty": "medium" },
-  { "stem": "The exclusive method of class formation is generally preferred for __________ data (which can take any value, including fractions).", "options": ["discrete", "continuous", "qualitative", "geographical"], "correct_index": 1, "solution": "The exclusive method of forming class intervals (like 0–10, 10–20, where the upper limit of one class is the lower limit of the next, and the upper limit is excluded from the class) is generally preferred for continuous data — data that can take any value within a range, including fractions/decimals (like height, weight, income). This is because continuous data need continuous classes (with no gaps between them, since any intermediate value must have a class to fall into), and the exclusive method provides exactly such continuous, gap-free classes. (The inclusive method, with gaps between classes, is more suited to discrete/whole-number data — and must be converted to continuous form for graphs/calculations.) Understanding that the exclusive method suits continuous data is a prelims-relevant point. The exclusive method (continuous, gap-free classes) is generally preferred for continuous data.", "difficulty": "hard" },
-  { "stem": "Data classified according to some CONDITION or attribute (like classifying people as literate/illiterate, or employed/unemployed) form a __________ classification.", "options": ["chronological", "qualitative (conditional)", "quantitative", "geographical"], "correct_index": 1, "solution": "Data classified according to some condition, quality, or attribute — such as classifying people as literate/illiterate, employed/unemployed, male/female, or married/unmarried — form a qualitative classification (sometimes called classification 'according to attributes' or 'condition'). Here the data are sorted into categories based on whether they possess a certain quality/attribute (or which category of it), not on a numerical measurement. (This is one of the bases of classification — by attribute/quality — as opposed to classification by quantity/number, by time, or by place.) Understanding qualitative/conditional classification (by attribute) is a prelims-relevant point. Classifying data by a condition/attribute (like literate/illiterate) is a qualitative classification.", "difficulty": "medium" },
-  { "stem": "The midpoint (class mark) of the class 40–50 is:", "options": ["10", "45", "90", "40"], "correct_index": 1, "solution": "The midpoint (class mark) of a class is the average of its lower and upper limits: (lower limit + upper limit) ÷ 2. For the class 40–50, the midpoint = (40 + 50) ÷ 2 = 90 ÷ 2 = 45. So the class mark/midpoint of 40–50 is 45. (The midpoint represents the whole class as its central/typical value — used, for example, in calculating the mean of grouped data.) Understanding how to compute a class midpoint (with this example) is a prelims-relevant point. The midpoint (class mark) of the class 40–50 is (40 + 50) ÷ 2 = 45.", "difficulty": "easy" },
-  { "stem": "The range of the data set {12, 5, 20, 8, 15} is:", "options": ["5", "15 (20 − 5)", "20", "12"], "correct_index": 1, "solution": "The range is the difference between the largest and the smallest value in the data set. In the set {12, 5, 20, 8, 15}: the largest value is 20 and the smallest value is 5. So the range = 20 − 5 = 15. (The range measures the total spread of the data, from lowest to highest.) Understanding how to compute the range (with this example) is a prelims-relevant point. The range of {12, 5, 20, 8, 15} is 20 − 5 = 15.", "difficulty": "easy" },
-  { "stem": "A grouped frequency distribution is preferred over listing individual values when:", "options": ["there are very few values", "there is a large number of observations (with many different values), so grouping condenses them into a manageable form", "the data are qualitative only", "there is only one value"], "correct_index": 1, "solution": "A grouped frequency distribution (grouping the data into class intervals) is preferred over an individual series (listing every value) or a discrete series (listing every distinct value) when there is a large number of observations with many different values — because in such a case, listing every value (or every distinct value) individually would be unwieldy and would fail to condense the data. Grouping the many values into a manageable number of class intervals (each with a frequency) condenses the data into a compact, understandable form that reveals the pattern. (For a small data set, or few distinct values, grouping is unnecessary.) So grouping is used for large data sets with many values. Understanding when grouping is preferred is a prelims-relevant point. A grouped frequency distribution is preferred when there are many observations/values, so grouping condenses them into a manageable form.", "difficulty": "medium" },
-  { "stem": "In a frequency distribution, the SUM of all the class frequencies equals:", "options": ["zero", "the total number of observations (items) in the data", "the number of classes", "the range"], "correct_index": 1, "solution": "In a frequency distribution, the sum of all the class frequencies (adding up the frequencies of all the classes) equals the total number of observations (items) in the data set. This is because every observation is counted in exactly one class (the classes are mutually exclusive and comprehensive), so adding up the counts in all the classes gives back the total count of all the observations. For example, if a distribution of the marks of a class of 40 students groups them into several mark-ranges, the frequencies of all the ranges must add up to 40. (This total, often denoted N or Σf, is used in many statistical calculations.) Understanding that the frequencies sum to the total number of observations is a prelims-relevant point. In a frequency distribution, the sum of all the class frequencies equals the total number of observations.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Grouping data into a frequency distribution makes it easier to understand. Reason (R): It condenses a large number of individual values into a small number of classes with their frequencies, revealing the overall pattern. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that grouping data into a frequency distribution makes it easier to understand. And the reason is (R) that grouping condenses a large number of individual values into a small number of classes, each with its frequency — so instead of a bewildering long list of raw figures, we get a compact table showing how many observations fall into each range, which reveals the overall pattern/shape of the data (where the values cluster, how they are spread) at a glance. Because this condensation into classes-with-frequencies is exactly what makes the data comprehensible, R correctly explains why grouping makes the data easier to understand (A). (The trade-off is the loss of the individual values' detail.) Understanding this is a prelims-relevant point. Grouping into a frequency distribution makes data easier to understand because it condenses many individual values into a few classes with frequencies, revealing the pattern.", "difficulty": "hard" },
-  { "stem": "The overall message of the chapter 'Organisation of Data' is that:", "options": ["Raw data should be used as they are", "After collection, raw data must be organised — classified (by quality, quantity, time, or place) and arranged into frequency distributions (with classes, class limits, midpoints, and frequencies) — to convert the confusing mass of figures into an orderly, condensed, and understandable form, ready for presentation and analysis", "Data should never be grouped", "Organisation of data is unimportant"], "correct_index": 1, "solution": "The chapter conveys that, after data are collected, they exist as a raw, unorganised, and confusing mass of figures that cannot be readily understood or analysed — so they must be organised. The organisation of data is done through classification — arranging/grouping the data into classes or categories according to their common characteristics, which can be on the basis of: quality (qualitative classification — by attributes like gender or literacy); quantity (quantitative classification — by a numerical variable like income or marks); time (chronological classification — by years, etc.); or place (geographical classification — by states, etc.). For quantitative data, the key form of organisation is the frequency distribution — a table showing the values or classes of a variable along with their frequencies (the number of times each occurs). The chapter explains the terms and construction of frequency distributions: the classes (class intervals) and their class limits (lower and upper), class size (width), and midpoints (mid-values); the use of tally marks to count the frequencies; the range (largest minus smallest value); the exclusive vs inclusive methods of forming classes; cumulative frequency distributions (accumulating the frequencies to show 'less than'/'more than' totals); and the distinction between discrete variables (taking only separate/whole-number values) and continuous variables (taking any value in a range). Through such classification and the construction of frequency distributions, the confusing mass of raw data is converted into an orderly, condensed, and understandable form, revealing its patterns and making it ready for presentation and analysis. Understanding how to classify and organise data into frequency distributions is the central concern of this chapter. After collection, raw data must be organised — classified (by quality, quantity, time, or place) and arranged into frequency distributions — to turn the confusing mass of figures into an orderly, understandable form ready for analysis.", "difficulty": "medium" }
+  {
+    "stem": "The organisation of data refers to:",
+    "options": [
+      "throwing away data",
+      "arranging the collected raw data in an orderly, systematic form (classifying and grouping it) so that it can be understood and analysed",
+      "hiding data",
+      "collecting data"
+    ],
+    "correct_index": 1,
+    "solution": "The organisation of data refers to the arranging of the collected raw (unorganised) data in an orderly, systematic form — by classifying and grouping the data according to their characteristics — so that the data become manageable, understandable, and ready for presentation and analysis. Raw data, as first collected, are usually a jumbled mass of figures that make little sense; organising them (sorting, classifying, and tabulating) brings order and reveals patterns. Organisation is the stage between the collection of data and their presentation/analysis. Understanding what organisation of data means is a prelims-relevant point. Organisation of data is the arranging of raw data in an orderly, systematic form (classifying and grouping it) for understanding and analysis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The raw, unorganised data as first collected (a jumbled mass of figures) are difficult to understand; therefore they need to be:",
+    "options": [
+      "ignored",
+      "classified and organised",
+      "destroyed",
+      "left as they are"
+    ],
+    "correct_index": 1,
+    "solution": "Raw, unorganised data — the figures exactly as they are first collected (a large, disorderly, jumbled mass of numbers) — are difficult to understand, interpret, or use, because no pattern or meaning is apparent just by looking at them. Therefore, they need to be classified and organised — sorted and grouped into an orderly form (by their characteristics) — so that they become comprehensible, manageable, and useful (revealing patterns and ready for analysis). This is exactly why the 'organisation of data' stage is necessary in a statistical study. Understanding the need to organise raw data is a prelims-relevant point. Raw, unorganised data are hard to understand, so they need to be classified and organised into an orderly form.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Classification of data means:",
+    "options": [
+      "mixing all data together",
+      "arranging/grouping data into classes or categories according to their common characteristics",
+      "deleting data",
+      "collecting new data"
+    ],
+    "correct_index": 1,
+    "solution": "Classification of data means the process of arranging/grouping the data into different classes, groups, or categories according to their common characteristics/features (putting like with like). For example, data on people can be classified by age, sex, income, occupation, etc.; data on marks can be grouped into ranges. Classification brings order to the raw data, condenses it, highlights its features and similarities/differences, and makes it easier to understand, compare, and analyse. It is the basis of organising data (before tabulation and presentation). Understanding classification (grouping by common characteristics) is a prelims-relevant point. Classification of data means arranging/grouping the data into classes or categories according to their common characteristics.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When data are classified on the basis of a QUALITATIVE characteristic/attribute (like gender, religion, or literacy), it is called __________ classification.",
+    "options": [
+      "chronological",
+      "qualitative",
+      "quantitative",
+      "geographical"
+    ],
+    "correct_index": 1,
+    "solution": "Qualitative classification is the classification of data on the basis of some qualitative characteristic or attribute — a quality that cannot be measured numerically, such as gender (male/female), religion, literacy (literate/illiterate), marital status, or occupation. The data are sorted into categories based on the presence/absence or type of the attribute. (This is contrasted with 'quantitative' classification, which is based on a numerically measurable variable like height, income, or age.) So qualitative classification groups data by attributes/qualities. Understanding qualitative classification is a prelims-relevant point. Qualitative classification groups data on the basis of a qualitative characteristic/attribute (like gender, religion, or literacy).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When data are classified on the basis of a QUANTITATIVE (numerically measurable) variable (like height, weight, income, or marks), it is called __________ classification.",
+    "options": [
+      "qualitative",
+      "quantitative",
+      "geographical",
+      "chronological"
+    ],
+    "correct_index": 1,
+    "solution": "Quantitative classification is the classification of data on the basis of a quantitative variable — a characteristic that can be measured numerically, such as height, weight, income, age, or marks. The data are grouped according to the values of this numerical variable (for example, grouping people into income ranges, or students into mark ranges). Quantitative classification typically results in a 'frequency distribution' (showing how many units fall into each class/range of values). (This is contrasted with 'qualitative' classification, based on non-numerical attributes.) Understanding quantitative classification is a prelims-relevant point. Quantitative classification groups data on the basis of a numerically measurable variable (like height, income, or marks).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When data are classified according to TIME (e.g., by years, months) — like population figures for different years — it is called __________ classification.",
+    "options": [
+      "geographical",
+      "chronological (temporal)",
+      "qualitative",
+      "quantitative"
+    ],
+    "correct_index": 1,
+    "solution": "Chronological (temporal) classification is the classification of data according to time — arranging the data in order of time periods, such as by years, months, weeks, days, or hours. For example, the population of India for the years 1951, 1961, 1971, ... is chronologically classified data (a 'time series'). This kind of classification shows how a value changes/varies over time. (This is one of the bases of classification, along with geographical/spatial — by place, qualitative — by attribute, and quantitative — by numerical value.) Understanding chronological classification (by time) is a prelims-relevant point. Chronological (temporal) classification arranges data according to time (e.g., by years or months).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When data are classified according to PLACE/location (e.g., by states, cities, or countries), it is called __________ classification.",
+    "options": [
+      "chronological",
+      "geographical (spatial)",
+      "qualitative",
+      "temporal"
+    ],
+    "correct_index": 1,
+    "solution": "Geographical (spatial) classification is the classification of data according to place or location — arranging the data by geographical areas such as states, districts, cities, regions, or countries. For example, the population (or literacy rate, or production) of the different states of India is geographically classified data. This kind of classification shows how a value varies from place to place. (This is one of the four common bases of classification: geographical/spatial — by place; chronological/temporal — by time; qualitative — by attribute; and quantitative — by numerical value.) Understanding geographical classification (by place) is a prelims-relevant point. Geographical (spatial) classification arranges data according to place/location (e.g., by states or countries).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A table that shows the different values of a variable (or classes/ranges) along with the number of times each occurs (its frequency) is called a:",
+    "options": [
+      "map",
+      "frequency distribution",
+      "picture",
+      "diagram"
+    ],
+    "correct_index": 1,
+    "solution": "A frequency distribution is a table that shows the different values of a variable (or the different classes/ranges of values) together with the number of times each value or class occurs in the data — that is, its 'frequency'. For example, a frequency distribution of the marks of a class of students would list the mark-ranges (classes) and, against each, the number of students who scored in that range. The frequency distribution is a fundamental way of organising and summarising quantitative data — it condenses a large set of raw values into a compact, understandable table showing how the values are distributed. Understanding the frequency distribution is a key prelims-relevant point. A frequency distribution is a table showing the values (or classes) of a variable along with the number of times each occurs (its frequency).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a frequency distribution, the number of times a particular value or class occurs is called its:",
+    "options": [
+      "class limit",
+      "frequency",
+      "range",
+      "class interval"
+    ],
+    "correct_index": 1,
+    "solution": "In a frequency distribution, the frequency (of a value or a class) is the number of times that particular value (or that particular class/range of values) occurs/appears in the data — i.e., how many observations fall into it. For example, if 8 students scored between 40 and 50 marks, then the frequency of the class '40–50' is 8. The frequencies show how the data are distributed across the different values/classes. So 'frequency' means the count of occurrences of each value or class. Understanding the meaning of frequency is a prelims-relevant point. The frequency is the number of times a particular value or class occurs in the data.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a grouped frequency distribution, each group/range of values (like 0–10, 10–20) is called a:",
+    "options": [
+      "frequency",
+      "class (class interval)",
+      "tally",
+      "midpoint"
+    ],
+    "correct_index": 1,
+    "solution": "In a grouped frequency distribution, each group or range of values into which the data are grouped — such as 0–10, 10–20, 20–30, etc. — is called a 'class' or 'class interval'. Instead of listing every individual value separately, the data are grouped into these classes/ranges, and the number of observations falling in each class (the class frequency) is recorded. Grouping into classes is done when the data have many different values (grouping condenses them into a manageable number of classes). So a 'class' (class interval) is one of these value-ranges. Understanding the class (class interval) is a prelims-relevant point. In a grouped frequency distribution, each group/range of values (like 0–10) is called a class (class interval).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a class interval like 20–30, the values 20 and 30 are called the __________ of the class.",
+    "options": [
+      "frequencies",
+      "class limits (lower and upper limits)",
+      "midpoints",
+      "tallies"
+    ],
+    "correct_index": 1,
+    "solution": "In a class interval like 20–30, the two values that define the boundaries of the class — 20 and 30 — are called the class limits: 20 is the 'lower class limit' (the lower boundary) and 30 is the 'upper class limit' (the upper boundary). The class limits mark the range of values that fall into that class. (The lower limit is the smallest value, and the upper limit the largest value, that the class can contain — with a convention about which class a value exactly on the boundary goes into.) Understanding class limits (lower and upper) is a prelims-relevant point. In a class interval like 20–30, 20 and 30 are the class limits (lower and upper limits) of the class.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The difference between the upper class limit and the lower class limit of a class (e.g., 30 − 20 = 10 for the class 20–30) is called the:",
+    "options": [
+      "frequency",
+      "class size (class interval width)",
+      "midpoint",
+      "range"
+    ],
+    "correct_index": 1,
+    "solution": "The class size (or class-interval width/magnitude) is the difference between the upper class limit and the lower class limit of a class — for example, for the class 20–30, the class size is 30 − 20 = 10. It is the 'width' or span of the class (how wide a range of values the class covers). In a frequency distribution, the classes are usually (though not always) of equal size. So the class size measures the width of each class interval. Understanding the class size (width of a class) is a prelims-relevant point. The class size is the difference between the upper and lower class limits (the width of the class), e.g., 30 − 20 = 10.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The value exactly in the middle of a class (the average of its lower and upper limits) is called the class:",
+    "options": [
+      "frequency",
+      "midpoint (mid-value)",
+      "limit",
+      "size"
+    ],
+    "correct_index": 1,
+    "solution": "The class midpoint (or mid-value) is the value exactly at the middle of a class interval — calculated as the average (mean) of the lower and upper class limits: (lower limit + upper limit) ÷ 2. For example, for the class 20–30, the midpoint is (20 + 30) ÷ 2 = 25. The class midpoint is taken to represent the whole class (as the typical/central value of that class) — for example, it is used as the representative value of the class when calculating the mean of a grouped frequency distribution. Understanding the class midpoint is a prelims-relevant point. The class midpoint (mid-value) is the middle value of a class — the average of its lower and upper limits.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The difference between the largest and the smallest value in a set of data is called the:",
+    "options": [
+      "frequency",
+      "range",
+      "midpoint",
+      "class size"
+    ],
+    "correct_index": 1,
+    "solution": "The range of a set of data is the difference between the largest (maximum) value and the smallest (minimum) value in the data. For example, if the marks range from a lowest of 12 to a highest of 96, the range is 96 − 12 = 84. The range gives a simple measure of the total spread/dispersion of the data (from lowest to highest), and it is useful when constructing a grouped frequency distribution (it helps decide the number and size of the classes needed to cover all the data). Understanding the range (max − min) is a prelims-relevant point. The range is the difference between the largest and the smallest value in the data.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The marks/tally marks used to count how many observations fall in each class (grouping the raw data) are called the __________ column, before writing the final frequency.",
+    "options": [
+      "frequency",
+      "tally",
+      "midpoint",
+      "limit"
+    ],
+    "correct_index": 1,
+    "solution": "When preparing a frequency distribution from raw data, we use a 'tally' column (tally marks) to count how many observations fall into each class. For each value in the raw data, we put a tally mark (a small vertical stroke, |, usually grouped in fives — with the fifth stroke drawn across the previous four) against the class it belongs to. After tallying all the values, we count the tally marks in each class to get the frequency of that class. So the tally marks are the counting device used to sort the raw data into classes, and the counted total for each class becomes its frequency. Understanding the use of tally marks (in preparing a frequency distribution) is a prelims-relevant point. Tally marks are used to count how many observations fall in each class, and the count gives the class frequency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A frequency distribution in which the classes are like '0–10', '10–20', '20–30' (where the upper limit of one class is the lower limit of the next) is called the __________ series/method.",
+    "options": [
+      "inclusive",
+      "exclusive",
+      "open-ended",
+      "discrete"
+    ],
+    "correct_index": 1,
+    "solution": "The 'exclusive' method/series is a way of forming class intervals in which the upper limit of one class is the same as the lower limit of the next class — for example, 0–10, 10–20, 20–30, etc. In this method, the upper limit of each class is 'excluded' from that class (a value exactly equal to the upper limit is placed in the NEXT class): e.g., a value of exactly 10 goes into the class '10–20', not '0–10'. The exclusive method is convenient and commonly used for continuous data (where the classes are continuous, with no gap between them). (The other method, 'inclusive', has gaps like 0–9, 10–19, where both limits are included in the class.) Understanding the exclusive method is a prelims-relevant point. In the exclusive method, the upper limit of one class is the lower limit of the next (like 0–10, 10–20), and the upper limit is excluded from that class.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A frequency distribution with classes like '0–9', '10–19', '20–29' (where there is a gap between classes and both limits belong to the same class) uses the __________ method.",
+    "options": [
+      "exclusive",
+      "inclusive",
+      "continuous",
+      "cumulative"
+    ],
+    "correct_index": 1,
+    "solution": "The 'inclusive' method is a way of forming class intervals in which there is a gap between the upper limit of one class and the lower limit of the next — for example, 0–9, 10–19, 20–29, etc. In this method, both the lower and the upper limits of a class are 'included' in that class (a value equal to either limit belongs to that class): e.g., the values 0 to 9 (including both 0 and 9) all go into the class '0–9', and 10 to 19 into '10–19'. The inclusive method is convenient for discrete data (whole numbers). (To make such classes continuous — e.g., for calculations or graphs — the gaps are removed by adjusting the limits to 'class boundaries'.) Understanding the inclusive method is a prelims-relevant point. In the inclusive method, both limits belong to the same class and there is a gap between classes (like 0–9, 10–19).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A frequency distribution that shows the number of observations that are LESS THAN (or more than) a given value — accumulating the frequencies — is called a __________ frequency distribution.",
+    "options": [
+      "simple",
+      "cumulative",
+      "qualitative",
+      "geographical"
+    ],
+    "correct_index": 1,
+    "solution": "A cumulative frequency distribution is a frequency distribution that shows, for each class, the number of observations that are less than (or, alternatively, more than) a given value — obtained by accumulating (adding up) the frequencies progressively. In a 'less than' cumulative frequency distribution, each entry is the total number of observations up to (below) that class's upper limit (running total from the top); in a 'more than' one, it is the total number at or above that class's lower limit. Cumulative frequencies are useful for finding, for instance, how many observations fall below/above a certain value, and for calculating medians and other measures. Understanding the cumulative frequency distribution is a prelims-relevant point. A cumulative frequency distribution shows the number of observations less than (or more than) a given value, by accumulating the frequencies.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A variable that can take only whole-number values (like the number of children in a family — 0, 1, 2, 3) is called a __________ variable.",
+    "options": [
+      "continuous",
+      "discrete",
+      "qualitative",
+      "cumulative"
+    ],
+    "correct_index": 1,
+    "solution": "A discrete variable is a variable that can take only certain separate, distinct values — typically whole numbers (integers) — and not the values in between. For example, the number of children in a family (0, 1, 2, 3, ... — you cannot have 2.5 children), the number of students in a class, or the number of cars — these can only be whole numbers. (This contrasts with a 'continuous' variable — like height, weight, or time — which can take any value within a range, including fractions/decimals.) So a discrete variable takes only specific, separate (usually whole-number) values. Understanding discrete variables is a prelims-relevant point. A discrete variable can take only separate, whole-number values (like the number of children: 0, 1, 2, 3).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A variable that can take ANY value within a range (including fractions/decimals) — like height, weight, or temperature — is called a __________ variable.",
+    "options": [
+      "discrete",
+      "continuous",
+      "qualitative",
+      "cumulative"
+    ],
+    "correct_index": 1,
+    "solution": "A continuous variable is a variable that can take any value within a given range — including fractional/decimal values (not just whole numbers). For example, height (a person can be 165.3 cm), weight (60.75 kg), temperature, time, and distance are continuous variables — between any two values there are infinitely many possible intermediate values. (This contrasts with a 'discrete' variable, which takes only separate, distinct values, usually whole numbers.) Continuous data are usually organised into a grouped frequency distribution (with class intervals). Understanding continuous variables is a prelims-relevant point. A continuous variable can take any value within a range, including fractions/decimals (like height, weight, or temperature).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Classifying and organising data is an important step in a statistical study. Reason (R): It converts a confusing mass of raw data into an orderly form that reveals patterns and can be easily understood and analysed. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that classifying and organising data is an important step in a statistical study. And the reason is (R) that it converts a confusing, jumbled mass of raw data (which, as first collected, is hard to make sense of) into an orderly, systematic form (through classification, grouping, and frequency distributions) that reveals the patterns and features in the data and makes it easy to understand, compare, present, and analyse. Because organising the data is exactly what makes the data comprehensible and usable (turning chaos into order), it is an important/essential step — so R correctly explains A. Understanding why organisation of data matters is a prelims-relevant point. Organising data is important because it converts a confusing mass of raw data into an orderly form that reveals patterns and can be easily understood and analysed.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A characteristic that varies and CAN be measured numerically (like height or income) is a variable; a characteristic that cannot be measured but only described/categorised (like honesty or gender) is called an:",
+    "options": [
+      "variable",
+      "attribute",
+      "frequency",
+      "class"
+    ],
+    "correct_index": 1,
+    "solution": "An attribute is a characteristic/quality that cannot be measured numerically, but can only be described or categorised (its presence/absence or type noted) — such as honesty, beauty, gender (male/female), religion, or blindness. A 'variable', by contrast, is a characteristic that varies and CAN be measured numerically (expressed as numbers), such as height, weight, income, or marks. So the distinction is: variables are quantitative (measurable in numbers), while attributes are qualitative (only describable/categorisable). Data on attributes are classified qualitatively (by category), while data on variables are classified quantitatively (into a frequency distribution). Understanding the variable-vs-attribute distinction is a prelims-relevant point. An attribute is a qualitative characteristic that can only be described/categorised (like honesty or gender), unlike a variable, which can be measured numerically.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A frequency distribution involving only ONE variable (like the marks of students) is called a __________ frequency distribution.",
+    "options": [
+      "bivariate",
+      "univariate",
+      "cumulative",
+      "geographical"
+    ],
+    "correct_index": 1,
+    "solution": "A univariate frequency distribution is a frequency distribution that involves only one variable — it shows the frequencies of the different values/classes of a single variable (for example, the frequency distribution of just the marks of a group of students, or just their heights). 'Uni-' means one. (This contrasts with a 'bivariate' frequency distribution, which involves two variables together — showing the joint frequencies of the values of two variables, e.g., marks AND heights together, in a two-way table.) So a univariate distribution deals with one variable at a time. Understanding univariate frequency distribution is a prelims-relevant point. A univariate frequency distribution involves only one variable (like the marks of students).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A frequency distribution that shows the frequencies of TWO variables together (in a two-way table) is called a __________ frequency distribution.",
+    "options": [
+      "univariate",
+      "bivariate",
+      "cumulative",
+      "simple"
+    ],
+    "correct_index": 1,
+    "solution": "A bivariate frequency distribution is a frequency distribution that involves two variables together — it shows the joint frequencies of the different values/classes of two variables simultaneously, arranged in a two-way table (with the classes of one variable along the rows and the classes of the other along the columns, and the frequencies in the cells). For example, a bivariate distribution might show the number of students falling into each combination of a marks-range AND a height-range. 'Bi-' means two. Bivariate distributions are used to study the relationship between two variables. (This contrasts with the univariate distribution, involving only one variable.) Understanding bivariate frequency distribution is a prelims-relevant point. A bivariate frequency distribution shows the frequencies of two variables together, in a two-way table.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A characteristic of a GOOD classification is that the classes should be __________ — every item must fit into one and only one class (no overlap, and none left out).",
+    "options": [
+      "overlapping",
+      "mutually exclusive and comprehensive (exhaustive)",
+      "random",
+      "empty"
+    ],
+    "correct_index": 1,
+    "solution": "A characteristic of a good classification is that the classes should be mutually exclusive and comprehensive (exhaustive): mutually exclusive means the classes must not overlap — every item/observation must fit into one and only one class (there should be no ambiguity about which class an item belongs to); and comprehensive/exhaustive means the classes must together cover all the items — no item should be left out (there should be a class for every observation). Together, these ensure that every data item is classified into exactly one class. (Other features of good classification include being homogeneous within classes, and being clear, stable, and suitably flexible.) Understanding these features (mutually exclusive, comprehensive) is a prelims-relevant point. A good classification has mutually exclusive and comprehensive classes — every item fits into exactly one class, with none left out.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In the exclusive method, a value that falls exactly ON a class boundary (e.g., a value of 20 with classes 10–20 and 20–30) is placed in the class where that value is the __________ limit.",
+    "options": [
+      "upper",
+      "lower",
+      "middle",
+      "outside"
+    ],
+    "correct_index": 1,
+    "solution": "In the exclusive method of forming classes (like 10–20, 20–30), a value that falls exactly on a class boundary — for example, a value of exactly 20 (which appears as the upper limit of 10–20 and the lower limit of 20–30) — is placed in the class where that value is the LOWER limit. So a value of 20 goes into the class 20–30 (where 20 is the lower limit), NOT into 10–20 (where 20 is the upper limit). This is because, in the exclusive method, the upper limit of each class is excluded from that class (it belongs to the next class). This convention avoids double-counting the boundary values. Understanding this rule (boundary value goes to the class where it is the lower limit) is a prelims-relevant point. In the exclusive method, a boundary value goes into the class where it is the lower limit (e.g., 20 goes into 20–30, not 10–20).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "To convert an INCLUSIVE class series (like 0–9, 10–19) into a continuous (exclusive) one, we find the gap between classes, halve it, and __________ it to make the classes continuous.",
+    "options": [
+      "ignore",
+      "adjust the limits (subtract half the gap from lower limits and add half to upper limits)",
+      "double",
+      "delete"
+    ],
+    "correct_index": 1,
+    "solution": "To convert an inclusive class series (like 0–9, 10–19, 20–29) into a continuous (exclusive) series — needed for certain calculations and for graphs — we remove the gaps between the classes as follows: (1) find the gap between the upper limit of one class and the lower limit of the next (here, 10 − 9 = 1); (2) halve this gap (1 ÷ 2 = 0.5) — this is the 'adjustment factor'; and (3) subtract this half-gap from each lower limit and add it to each upper limit. So the class 0–9 becomes (0 − 0.5) to (9 + 0.5) = −0.5 to 9.5, the class 10–19 becomes 9.5 to 19.5, and so on — now the classes are continuous (the upper limit of one equals the lower limit of the next), with the adjusted values called the 'class boundaries'. Understanding this inclusive-to-exclusive conversion is a prelims-relevant point. To make an inclusive series continuous, halve the gap between classes and subtract it from the lower limits and add it to the upper limits (giving the class boundaries).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The adjusted true limits of a class (after converting an inclusive series to continuous form) are called the class:",
+    "options": [
+      "frequencies",
+      "boundaries (true limits)",
+      "midpoints",
+      "tallies"
+    ],
+    "correct_index": 1,
+    "solution": "The class boundaries (also called the 'true class limits') are the adjusted, true limits of a class obtained after converting an inclusive series into a continuous form — by extending each class by half the gap on each side (subtracting the adjustment factor from the lower limit and adding it to the upper limit). For example, the inclusive class 10–19 has the class boundaries 9.5 and 19.5. The class boundaries make the classes continuous (with no gaps between them), which is necessary for constructing certain graphs (like the histogram) and for accurate calculations. So the class boundaries are the 'real'/continuous limits of the class. Understanding class boundaries (true limits) is a prelims-relevant point. Class boundaries (true limits) are the adjusted, continuous limits of a class (e.g., 9.5 and 19.5 for the class 10–19).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When a class has no lower limit for the first class or no upper limit for the last class (e.g., 'less than 10' or 'above 50'), it is called an __________ class.",
+    "options": [
+      "closed",
+      "open-ended",
+      "exclusive",
+      "inclusive"
+    ],
+    "correct_index": 1,
+    "solution": "An open-ended class is a class that has no lower limit (for the first/lowest class) or no upper limit (for the last/highest class) — for example, a class stated as 'less than 10' (no lower limit) or 'above 50' / '50 and above' (no upper limit). Open-ended classes are used when the data have some very small or very large extreme values, or when the exact limits at the ends are not known or not important. (A drawback is that the exact midpoint of an open-ended class is not defined, which can be a problem for some calculations — an assumed limit may then be used.) Understanding open-ended classes is a prelims-relevant point. An open-ended class has no lower limit for the first class or no upper limit for the last class (e.g., 'less than 10' or 'above 50').",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Grouping data into classes (a grouped frequency distribution) has the drawback that it causes some __________ of information (the individual values within a class are lost).",
+    "options": [
+      "gain",
+      "loss",
+      "doubling",
+      "duplication"
+    ],
+    "correct_index": 1,
+    "solution": "Grouping data into classes (forming a grouped frequency distribution) has the drawback that it causes some loss of information — because, once the data are grouped, the individual/exact values within each class are no longer visible (they are 'merged' into the class). For example, if a class '20–30' has a frequency of 5, we know that 5 observations fall between 20 and 30, but we no longer know their exact individual values (whether they were 21, 25, 28, etc.). So grouping condenses and simplifies the data (an advantage), but at the cost of losing the detail of the individual values (a disadvantage). For calculations on grouped data, the class midpoint is used to represent all the values in a class (an approximation). Understanding this loss of information in grouping is a prelims-relevant point. Grouping data into classes causes some loss of information, as the individual values within each class are lost.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The arrangement of raw data in ascending or descending order of magnitude is called an:",
+    "options": [
+      "array",
+      "attribute",
+      "average",
+      "attribute"
+    ],
+    "correct_index": 0,
+    "solution": "An 'array' (or data array) is the arrangement of the raw data in order of magnitude — either ascending order (from the smallest value to the largest) or descending order (from the largest to the smallest). Arraying the data is a simple first step in organising raw data: it makes it easier to see the smallest and largest values (and hence the range), to spot the pattern/spread, and to prepare a frequency distribution. So an array is simply the raw data sorted in order of size. Understanding the array (ordered arrangement of data) is a prelims-relevant point. An array is the arrangement of raw data in ascending or descending order of magnitude.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An arrangement of statistical data (in classified/organised form) is called a statistical:",
+    "options": [
+      "series",
+      "map",
+      "picture",
+      "story"
+    ],
+    "correct_index": 0,
+    "solution": "A statistical series is an arrangement of statistical data (that have been classified/organised) in some logical/systematic order — for example, according to time (a time series), place (a spatial series), or the values of a variable (a frequency distribution series). So the term 'statistical series' refers to organised, arranged data (as opposed to a raw, disorderly heap). Statistical series can be of different types (individual series, discrete series, continuous series; time series, spatial series, condition series). Understanding the statistical series (organised/arranged data) is a prelims-relevant point. A statistical series is an arrangement of classified/organised statistical data in a logical order.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A series in which the individual items/observations are listed one by one (each with its own value, not grouped) is called an __________ series.",
+    "options": [
+      "individual",
+      "continuous",
+      "discrete",
+      "cumulative"
+    ],
+    "correct_index": 0,
+    "solution": "An individual series is a statistical series in which the individual items/observations are listed one by one, each shown separately with its own value (the data are not grouped or classified into frequencies) — for example, a simple list of the marks obtained by each of 10 students, written out one after another. So each item stands on its own. (This contrasts with a 'discrete series' — where distinct values are shown with their frequencies — and a 'continuous series' — where values are grouped into class intervals with frequencies.) The individual series is the simplest form. Understanding the individual series is a prelims-relevant point. An individual series lists the individual observations one by one, each with its own value (not grouped).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A frequency distribution in which distinct, separate values of a (discrete) variable are shown along with their frequencies (like number of children: 0, 1, 2, 3 with how many families) is a __________ series.",
+    "options": [
+      "continuous",
+      "discrete (frequency array)",
+      "individual",
+      "cumulative"
+    ],
+    "correct_index": 1,
+    "solution": "A discrete series (also called a discrete frequency distribution or 'frequency array') is a frequency distribution in which the distinct, separate values of a discrete variable are listed, each with its frequency (the number of times it occurs) — rather than grouping values into class intervals. For example, a table showing the number of children (0, 1, 2, 3, 4) against the number of families having that many children is a discrete series. It is used for discrete variables that take separate (usually whole-number) values, especially when the number of distinct values is not too large. (This contrasts with the continuous series, which groups values into class intervals.) Understanding the discrete series is a prelims-relevant point. A discrete series shows the distinct values of a discrete variable with their frequencies (like number of children with number of families).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A frequency distribution in which the data are grouped into class intervals (each class with a frequency) — used for continuous data — is a __________ series.",
+    "options": [
+      "individual",
+      "discrete",
+      "continuous (grouped)",
+      "cumulative"
+    ],
+    "correct_index": 2,
+    "solution": "A continuous series (also called a grouped frequency distribution) is a frequency distribution in which the data (values of a continuous, or sometimes discrete-but-many-valued, variable) are grouped into class intervals (like 0–10, 10–20, 20–30, ...), and each class interval is shown with its frequency (the number of observations falling in it). It is used especially for continuous variables (like height, weight, income) or when there are too many distinct values to list individually. So the data are organised by ranges/classes rather than by individual values. (This contrasts with the individual series — items listed singly — and the discrete series — distinct values with frequencies.) Understanding the continuous (grouped) series is a prelims-relevant point. A continuous (grouped) series groups the data into class intervals, each with a frequency — used for continuous data.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When constructing a frequency distribution, if the number of classes is too FEW (very wide classes), the drawback is that:",
+    "options": [
+      "it is perfect",
+      "too much detail/information is lost (the classes are too broad to show the pattern well)",
+      "there are too many classes",
+      "the data become raw again"
+    ],
+    "correct_index": 1,
+    "solution": "When constructing a frequency distribution, choosing too FEW classes (which means each class is very wide/broad) has the drawback that too much detail/information is lost — the classes are so broad that they lump together very different values, hiding the finer pattern and variation in the data (the distribution becomes too coarse/crude to be informative). Conversely, choosing too MANY classes (very narrow classes) makes the distribution unwieldy and defeats the purpose of condensing the data. So the number of classes must be chosen suitably — not too few and not too many (commonly between about 5 and 15) — to balance detail against simplicity. Understanding the drawback of too few classes is a prelims-relevant point. Too few (very wide) classes cause too much information/detail to be lost, hiding the pattern in the data.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'relative frequency' of a class is the frequency of the class expressed as a __________ of the total frequency.",
+    "options": [
+      "difference",
+      "proportion/fraction (or percentage)",
+      "sum",
+      "square"
+    ],
+    "correct_index": 1,
+    "solution": "The 'relative frequency' of a class is the frequency of that class expressed as a proportion/fraction (or percentage) of the total frequency (the total number of observations) — i.e., relative frequency = (class frequency) ÷ (total frequency). For example, if a class has a frequency of 8 and the total number of observations is 40, its relative frequency is 8/40 = 0.2 (or 20%). Relative frequencies are useful because they show the share/importance of each class in the whole, and they allow comparison between different distributions (of different total sizes). Understanding relative frequency is a prelims-relevant point. The relative frequency of a class is its frequency expressed as a proportion/fraction (or percentage) of the total frequency.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In a 'less than' cumulative frequency distribution, the cumulative frequency against a class's upper limit tells us:",
+    "options": [
+      "the frequency of that class only",
+      "the total number of observations that are less than that upper limit (that value)",
+      "the largest value",
+      "nothing"
+    ],
+    "correct_index": 1,
+    "solution": "In a 'less than' cumulative frequency distribution, the cumulative frequency shown against a class's upper limit tells us the total number of observations that are less than that upper limit (that value) — i.e., the running total of all the frequencies from the beginning up to and including that class. For example, if the 'less than 30' cumulative frequency is 18, it means 18 observations have values less than 30. This is useful for answering questions like 'how many observations are below a certain value?' and for finding the median and other positional measures. Understanding the 'less than' cumulative frequency is a prelims-relevant point. In a 'less than' cumulative frequency distribution, the cumulative frequency at an upper limit gives the total number of observations less than that value.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main OBJECTIVES/purposes of classifying data include condensing the data, enabling comparison, revealing patterns, and:",
+    "options": [
+      "confusing the reader",
+      "making the data ready for further statistical analysis and bringing out the significant features",
+      "hiding the data",
+      "increasing the raw data"
+    ],
+    "correct_index": 1,
+    "solution": "The main objectives/purposes of classifying (organising) data include: to condense the data — reducing a large, unwieldy mass of raw figures into a compact, manageable form; to enable comparison — arranging the data so that different groups/categories/periods can be readily compared; to reveal patterns and bring out the significant features — highlighting the similarities, differences, and tendencies hidden in the data; and to prepare the data for further statistical analysis — putting the data into a form (like a frequency distribution) suitable for calculating averages, dispersion, and other measures, and for presentation. So classification serves to make the data understandable, comparable, and analysable. Understanding the objectives of classification is a prelims-relevant point. Classification condenses the data, enables comparison, reveals patterns, and prepares the data for further statistical analysis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The class-interval size and the number of classes are related: for a given range of data, using SMALLER class intervals results in __________ classes.",
+    "options": [
+      "fewer",
+      "more (a larger number of)",
+      "the same number of",
+      "no"
+    ],
+    "correct_index": 1,
+    "solution": "For a given range of data (a fixed span from the smallest to the largest value), the size of the class interval and the number of classes are inversely related: using smaller class intervals (narrower classes) results in a larger number of classes (more classes are needed to cover the same range); while using larger class intervals (wider classes) results in fewer classes. (Roughly: number of classes ≈ range ÷ class-interval size.) So there is a trade-off — smaller intervals give more classes (more detail, but more unwieldy), and larger intervals give fewer classes (more condensed, but less detail). The class size and the number of classes must be chosen together, suitably. Understanding this relationship (smaller intervals → more classes) is a prelims-relevant point. For a given range, smaller class intervals result in more classes (and larger intervals in fewer classes).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tally-mark system usually groups the marks in __________ (four vertical lines, with the fifth drawn diagonally across them) for easy counting.",
+    "options": [
+      "threes",
+      "fives",
+      "tens",
+      "twos"
+    ],
+    "correct_index": 1,
+    "solution": "In the tally-mark system (used to count observations into classes), the tally marks are usually grouped in fives for easy counting: the first four occurrences are marked as four vertical lines (||||), and the fifth occurrence is marked by a diagonal/cross line drawn across those four (making a 'bundle' of five). Then the next four are four vertical lines again, and so on. Grouping the tallies in fives (bundles of five) makes it much quicker and easier to count the total number of marks in each class at the end (you can count the bundles of five). Understanding the tally-mark grouping (in fives) is a prelims-relevant point. Tally marks are grouped in fives (four vertical lines with the fifth drawn diagonally across) for easy counting.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A characteristic of good classification is that it should be __________ — the basis of classification should not change from time to time (so that comparisons can be made).",
+    "options": [
+      "unstable/changing",
+      "stable (consistent)",
+      "random",
+      "secret"
+    ],
+    "correct_index": 1,
+    "solution": "A characteristic of good classification is that it should be stable (consistent) — the basis/rules of classification should remain the same (not keep changing) from one time/study to another, so that the data classified at different times or in different places are comparable. If the basis of classification kept changing (e.g., the definition of income classes changing every year), then data from different periods could not be meaningfully compared. So stability (consistency of the classification basis over time) is important for valid comparison. (Good classification should also be clear, unambiguous, exhaustive, mutually exclusive, homogeneous, and suitably flexible.) Understanding the 'stability' feature of good classification is a prelims-relevant point. Good classification should be stable — its basis should not keep changing, so that comparisons over time can be made.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The exclusive method of class formation is generally preferred for __________ data (which can take any value, including fractions).",
+    "options": [
+      "discrete",
+      "continuous",
+      "qualitative",
+      "geographical"
+    ],
+    "correct_index": 1,
+    "solution": "The exclusive method of forming class intervals (like 0–10, 10–20, where the upper limit of one class is the lower limit of the next, and the upper limit is excluded from the class) is generally preferred for continuous data — data that can take any value within a range, including fractions/decimals (like height, weight, income). This is because continuous data need continuous classes (with no gaps between them, since any intermediate value must have a class to fall into), and the exclusive method provides exactly such continuous, gap-free classes. (The inclusive method, with gaps between classes, is more suited to discrete/whole-number data — and must be converted to continuous form for graphs/calculations.) Understanding that the exclusive method suits continuous data is a prelims-relevant point. The exclusive method (continuous, gap-free classes) is generally preferred for continuous data.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Data classified according to some CONDITION or attribute (like classifying people as literate/illiterate, or employed/unemployed) form a __________ classification.",
+    "options": [
+      "chronological",
+      "qualitative (conditional)",
+      "quantitative",
+      "geographical"
+    ],
+    "correct_index": 1,
+    "solution": "Data classified according to some condition, quality, or attribute — such as classifying people as literate/illiterate, employed/unemployed, male/female, or married/unmarried — form a qualitative classification (sometimes called classification 'according to attributes' or 'condition'). Here the data are sorted into categories based on whether they possess a certain quality/attribute (or which category of it), not on a numerical measurement. (This is one of the bases of classification — by attribute/quality — as opposed to classification by quantity/number, by time, or by place.) Understanding qualitative/conditional classification (by attribute) is a prelims-relevant point. Classifying data by a condition/attribute (like literate/illiterate) is a qualitative classification.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The midpoint (class mark) of the class 40–50 is:",
+    "options": [
+      "10",
+      "45",
+      "90",
+      "40"
+    ],
+    "correct_index": 1,
+    "solution": "The midpoint (class mark) of a class is the average of its lower and upper limits: (lower limit + upper limit) ÷ 2. For the class 40–50, the midpoint = (40 + 50) ÷ 2 = 90 ÷ 2 = 45. So the class mark/midpoint of 40–50 is 45. (The midpoint represents the whole class as its central/typical value — used, for example, in calculating the mean of grouped data.) Understanding how to compute a class midpoint (with this example) is a prelims-relevant point. The midpoint (class mark) of the class 40–50 is (40 + 50) ÷ 2 = 45.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The range of the data set {12, 5, 20, 8, 15} is:",
+    "options": [
+      "5",
+      "15 (20 − 5)",
+      "20",
+      "12"
+    ],
+    "correct_index": 1,
+    "solution": "The range is the difference between the largest and the smallest value in the data set. In the set {12, 5, 20, 8, 15}: the largest value is 20 and the smallest value is 5. So the range = 20 − 5 = 15. (The range measures the total spread of the data, from lowest to highest.) Understanding how to compute the range (with this example) is a prelims-relevant point. The range of {12, 5, 20, 8, 15} is 20 − 5 = 15.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A grouped frequency distribution is preferred over listing individual values when:",
+    "options": [
+      "there are very few values",
+      "there is a large number of observations (with many different values), so grouping condenses them into a manageable form",
+      "the data are qualitative only",
+      "there is only one value"
+    ],
+    "correct_index": 1,
+    "solution": "A grouped frequency distribution (grouping the data into class intervals) is preferred over an individual series (listing every value) or a discrete series (listing every distinct value) when there is a large number of observations with many different values — because in such a case, listing every value (or every distinct value) individually would be unwieldy and would fail to condense the data. Grouping the many values into a manageable number of class intervals (each with a frequency) condenses the data into a compact, understandable form that reveals the pattern. (For a small data set, or few distinct values, grouping is unnecessary.) So grouping is used for large data sets with many values. Understanding when grouping is preferred is a prelims-relevant point. A grouped frequency distribution is preferred when there are many observations/values, so grouping condenses them into a manageable form.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a frequency distribution, the SUM of all the class frequencies equals:",
+    "options": [
+      "zero",
+      "the total number of observations (items) in the data",
+      "the number of classes",
+      "the range"
+    ],
+    "correct_index": 1,
+    "solution": "In a frequency distribution, the sum of all the class frequencies (adding up the frequencies of all the classes) equals the total number of observations (items) in the data set. This is because every observation is counted in exactly one class (the classes are mutually exclusive and comprehensive), so adding up the counts in all the classes gives back the total count of all the observations. For example, if a distribution of the marks of a class of 40 students groups them into several mark-ranges, the frequencies of all the ranges must add up to 40. (This total, often denoted N or Σf, is used in many statistical calculations.) Understanding that the frequencies sum to the total number of observations is a prelims-relevant point. In a frequency distribution, the sum of all the class frequencies equals the total number of observations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Grouping data into a frequency distribution makes it easier to understand. Reason (R): It condenses a large number of individual values into a small number of classes with their frequencies, revealing the overall pattern. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that grouping data into a frequency distribution makes it easier to understand. And the reason is (R) that grouping condenses a large number of individual values into a small number of classes, each with its frequency — so instead of a bewildering long list of raw figures, we get a compact table showing how many observations fall into each range, which reveals the overall pattern/shape of the data (where the values cluster, how they are spread) at a glance. Because this condensation into classes-with-frequencies is exactly what makes the data comprehensible, R correctly explains why grouping makes the data easier to understand (A). (The trade-off is the loss of the individual values' detail.) Understanding this is a prelims-relevant point. Grouping into a frequency distribution makes data easier to understand because it condenses many individual values into a few classes with frequencies, revealing the pattern.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Classification of data is the process of arranging data into groups or classes on the basis of:",
+    "options": [
+      "random choice",
+      "common characteristics/points of similarity",
+      "alphabetical order only",
+      "the investigator's mood"
+    ],
+    "correct_index": 1,
+    "solution": "Classification arranges data into groups/classes according to their common characteristics or points of similarity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The four main bases of classification of data are qualitative, quantitative, temporal (time), and __________ (place).",
+    "options": [
+      "random",
+      "spatial (geographical)",
+      "numerical",
+      "personal"
+    ],
+    "correct_index": 1,
+    "solution": "Data can be classified qualitatively (by attribute), quantitatively (by variable), temporally (by time), and spatially/geographically (by place).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Classifying the population of India by different states is an example of __________ classification.",
+    "options": [
+      "temporal",
+      "spatial (geographical)",
+      "qualitative",
+      "quantitative"
+    ],
+    "correct_index": 1,
+    "solution": "Classifying data by place/location (states, cities, countries) is spatial or geographical classification.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Classifying data by years (e.g., production in 2019, 2020, 2021) is an example of __________ classification.",
+    "options": [
+      "spatial",
+      "temporal (chronological)",
+      "qualitative",
+      "quantitative"
+    ],
+    "correct_index": 1,
+    "solution": "Classifying data according to time (years, months) is temporal or chronological classification.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A variable that can take only whole-number (separate, distinct) values, like the number of children in a family, is a __________ variable.",
+    "options": [
+      "continuous",
+      "discrete",
+      "qualitative",
+      "dependent"
+    ],
+    "correct_index": 1,
+    "solution": "A discrete variable takes only distinct, separate (usually whole-number) values, such as the number of children (0, 1, 2, ...).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A variable that can take ANY value within a range (including fractions/decimals), like height or weight, is a __________ variable.",
+    "options": [
+      "discrete",
+      "continuous",
+      "attribute",
+      "constant"
+    ],
+    "correct_index": 1,
+    "solution": "A continuous variable can take any value within a range, including fractions and decimals (e.g., height, weight, temperature).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of times a particular value or class occurs in a data set is called its:",
+    "options": [
+      "range",
+      "frequency",
+      "class interval",
+      "midpoint"
+    ],
+    "correct_index": 1,
+    "solution": "Frequency is the number of times a given value or class occurs in the data.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In the class interval 20–30, the numbers 20 and 30 are called the class:",
+    "options": [
+      "frequencies",
+      "limits (lower and upper)",
+      "marks",
+      "widths"
+    ],
+    "correct_index": 1,
+    "solution": "20 is the lower class limit and 30 is the upper class limit of the class 20–30.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The difference between the upper and lower limits of a class (e.g., 30 − 20 = 10) is called the class:",
+    "options": [
+      "mark",
+      "width (size/magnitude)",
+      "frequency",
+      "range"
+    ],
+    "correct_index": 1,
+    "solution": "The class width (or class size/magnitude) is the difference between the upper and lower class limits.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The class mark (midpoint) of the class 40–50 is:",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "90"
+    ],
+    "correct_index": 1,
+    "solution": "The class mark = (40 + 50) / 2 = 45.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The difference between the largest and the smallest value in a data set is called the:",
+    "options": [
+      "frequency",
+      "range",
+      "class width",
+      "median"
+    ],
+    "correct_index": 1,
+    "solution": "The range = largest value − smallest value in the data set.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A frequency distribution with classes like '0–10', '10–20', '20–30', where the upper limit of one class is the lower limit of the next, uses the __________ method.",
+    "options": [
+      "inclusive",
+      "exclusive",
+      "cumulative",
+      "open-end"
+    ],
+    "correct_index": 1,
+    "solution": "The exclusive method has continuous classes where the upper limit of one class equals the lower limit of the next; a value on the boundary goes into the class where it is the lower limit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A frequency distribution with classes like '0–9', '10–19', '20–29', where both limits belong to the same class and there is a gap between classes, uses the __________ method.",
+    "options": [
+      "exclusive",
+      "inclusive",
+      "open-end",
+      "relative"
+    ],
+    "correct_index": 1,
+    "solution": "The inclusive method includes both limits in the same class (e.g., 0–9 includes 0 and 9), with a gap between successive classes; it suits discrete data.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The exclusive method is generally preferred for __________ data (which can take any value, including fractions).",
+    "options": [
+      "discrete",
+      "continuous",
+      "qualitative",
+      "categorical"
+    ],
+    "correct_index": 1,
+    "solution": "The exclusive (continuous) method is preferred for continuous data because such data can take any value including fractions, needing continuous, non-overlapping classes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "To convert an INCLUSIVE class series (like 0–9, 10–19) into a continuous (exclusive) one, we find the gap between classes, halve it, and:",
+    "options": [
+      "add it only to upper limits",
+      "subtract it from the lower limits and add it to the upper limits",
+      "ignore it",
+      "double it"
+    ],
+    "correct_index": 1,
+    "solution": "To make an inclusive series continuous, subtract half the gap from each lower limit and add it to each upper limit, giving the true (adjusted) class limits.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The adjusted true limits obtained after converting an inclusive series to continuous form are called the class:",
+    "options": [
+      "marks",
+      "boundaries (true limits)",
+      "frequencies",
+      "widths"
+    ],
+    "correct_index": 1,
+    "solution": "The adjusted limits are the class boundaries (or true class limits), making the classes continuous.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A class with no lower limit for the first class or no upper limit for the last class (e.g., 'less than 10' or 'above 50') is called an __________ class.",
+    "options": [
+      "exclusive",
+      "open-end",
+      "inclusive",
+      "relative"
+    ],
+    "correct_index": 1,
+    "solution": "An open-end class has no lower limit (first class) or no upper limit (last class), e.g., 'below 10' or 'above 50'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A frequency distribution that shows the number of observations LESS THAN (or more than) a given value, by accumulating frequencies, is called a __________ frequency distribution.",
+    "options": [
+      "relative",
+      "cumulative",
+      "discrete",
+      "simple"
+    ],
+    "correct_index": 1,
+    "solution": "A cumulative frequency distribution accumulates the frequencies to show how many observations are less than (or more than) a given value.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A series in which the individual items are listed one by one (each with its own value, not grouped) is called an __________ series.",
+    "options": [
+      "individual (raw)",
+      "discrete",
+      "continuous",
+      "cumulative"
+    ],
+    "correct_index": 0,
+    "solution": "An individual series lists each observation separately with its own value, without grouping.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A frequency distribution showing distinct separate values of a discrete variable with their frequencies (e.g., number of children with number of families) is a __________ series.",
+    "options": [
+      "continuous",
+      "discrete (frequency array)",
+      "individual",
+      "cumulative"
+    ],
+    "correct_index": 1,
+    "solution": "A discrete series (frequency array) lists distinct values of a discrete variable along with how many times each occurs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A frequency distribution in which data are grouped into class intervals, each with a frequency (used for continuous data), is a __________ series.",
+    "options": [
+      "individual",
+      "discrete",
+      "continuous (grouped)",
+      "open"
+    ],
+    "correct_index": 2,
+    "solution": "A continuous (grouped) frequency series groups the data into class intervals, each with its frequency, suitable for continuous data.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tally-mark system usually groups the marks in __________ for easy counting.",
+    "options": [
+      "threes",
+      "fives (four lines with a fifth crossing them)",
+      "tens",
+      "pairs"
+    ],
+    "correct_index": 1,
+    "solution": "Tally marks are grouped in fives — four vertical strokes with the fifth drawn diagonally across them — for easy counting.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A characteristic of GOOD classification is that the classes should be __________ — every item fits into one and only one class.",
+    "options": [
+      "overlapping",
+      "mutually exclusive and exhaustive",
+      "random",
+      "unequal"
+    ],
+    "correct_index": 1,
+    "solution": "Good classification is mutually exclusive (no overlap) and exhaustive (every item is included), so each item belongs to exactly one class.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A characteristic of good classification is that it should be __________ — the basis should not change over time, so comparisons remain valid.",
+    "options": [
+      "flexible",
+      "stable",
+      "variable",
+      "random"
+    ],
+    "correct_index": 1,
+    "solution": "Good classification should be stable — the basis of classification should not change from period to period, so that data remain comparable over time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Grouping data into class intervals has the drawback that it causes some __________ of information.",
+    "options": [
+      "gain",
+      "loss (the individual values within a class are lost)",
+      "doubling",
+      "printing"
+    ],
+    "correct_index": 1,
+    "solution": "Grouping causes a loss of information, because the identity of individual observations within a class is lost — only the class and its frequency remain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If the number of classes is too FEW (very wide class intervals), the drawback is that:",
+    "options": [
+      "the data become clearer",
+      "too much detail is lost and the distribution becomes too condensed to reveal the pattern well",
+      "the frequencies become negative",
+      "nothing happens"
+    ],
+    "correct_index": 1,
+    "solution": "Too few, very wide classes over-condense the data and lose too much detail, hiding the true pattern; too many narrow classes make it unwieldy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For a given range of data, using SMALLER class intervals results in __________ classes.",
+    "options": [
+      "fewer",
+      "more",
+      "no",
+      "negative"
+    ],
+    "correct_index": 1,
+    "solution": "Smaller class intervals divide the same range into more classes; larger intervals give fewer classes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Data classified according to a condition/attribute (e.g., literate vs illiterate, employed vs unemployed) form a __________ classification.",
+    "options": [
+      "quantitative",
+      "qualitative",
+      "temporal",
+      "spatial"
+    ],
+    "correct_index": 1,
+    "solution": "Classifying data by an attribute or condition (literate/illiterate, employed/unemployed) is qualitative classification.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A frequency distribution showing the frequencies of TWO variables together (in a two-way table) is called a __________ frequency distribution.",
+    "options": [
+      "univariate",
+      "bivariate",
+      "open-end",
+      "relative"
+    ],
+    "correct_index": 1,
+    "solution": "A bivariate frequency distribution shows the joint frequencies of two variables in a two-way table.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main OBJECTIVES of classifying data include condensing the data, enabling comparison, revealing patterns, and:",
+    "options": [
+      "hiding information",
+      "making the data ready for statistical analysis (and easy to understand)",
+      "increasing errors",
+      "losing data"
+    ],
+    "correct_index": 1,
+    "solution": "Classification condenses data, aids comparison, brings out patterns/similarities and differences, and prepares the data for further statistical analysis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the exclusive method, a value falling exactly on a class boundary (e.g., 20 with classes 10–20 and 20–30) is placed in the class where that value is the __________ limit.",
+    "options": [
+      "upper",
+      "lower",
+      "middle",
+      "open"
+    ],
+    "correct_index": 1,
+    "solution": "In the exclusive method, a boundary value is placed in the class where it is the lower limit (e.g., 20 goes into 20–30, not 10–20).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The tally column is used to __________ before writing the final frequency figure.",
+    "options": [
+      "draw pictures",
+      "count how many observations fall in each class",
+      "sum the classes",
+      "find the mean"
+    ],
+    "correct_index": 1,
+    "solution": "Tally marks are made in the tally column to count how many observations fall in each class; the count is then written as the frequency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A frequency distribution is also called a frequency __________.",
+    "options": [
+      "array",
+      "table (or distribution)",
+      "graph only",
+      "average"
+    ],
+    "correct_index": 1,
+    "solution": "A frequency distribution (frequency table) shows the values/classes of a variable together with their frequencies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An advantage of a cumulative frequency distribution is that it helps to quickly find:",
+    "options": [
+      "the colour of data",
+      "how many observations lie below (or above) a certain value",
+      "the class width",
+      "nothing"
+    ],
+    "correct_index": 1,
+    "solution": "A cumulative frequency distribution readily shows how many observations fall below (or above) any given value, which is useful for finding medians, quartiles, etc.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Discrete variable — height",
+      "Continuous variable — number of cars",
+      "Discrete variable — number of children",
+      "Continuous variable — number of students"
+    ],
+    "correct_index": 2,
+    "solution": "Number of children is a discrete variable (whole numbers). Height and weight are continuous; number of cars/students are discrete.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When forming class intervals, the classes are usually kept of __________ width for easy comparison and calculation.",
+    "options": [
+      "different (unequal)",
+      "equal",
+      "zero",
+      "random"
+    ],
+    "correct_index": 1,
+    "solution": "Class intervals are generally kept of equal width, which makes comparison and calculation (and graphing) easier, though unequal classes are sometimes used.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Grouping data into a frequency distribution makes it easier to understand. Reason (R): It condenses many individual values into a few classes with their frequencies, revealing the overall pattern. Which is correct?",
+    "options": [
+      "A is false",
+      "Both A and R are true and R correctly explains A",
+      "A is true but R is false",
+      "Both are false"
+    ],
+    "correct_index": 1,
+    "solution": "Both are true and R explains A: grouping condenses numerous individual values into a few classes with frequencies, making the data easier to understand and revealing its pattern.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following BEST captures the central message of the chapter 'Organisation of Data'?",
+    "options": [
+      "Raw data need no arrangement",
+      "Organising and classifying raw data into arrays and frequency distributions turns a confusing mass of figures into an orderly, understandable form ready for analysis",
+      "Only individual series should be used",
+      "Data should never be grouped"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that classifying and organising raw data — through arrays, classification and frequency distributions — converts a confusing mass of figures into an orderly, comprehensible form suitable for presentation and analysis.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall message of the chapter 'Organisation of Data' is that:",
+    "options": [
+      "Raw data should be used as they are",
+      "After collection, raw data must be organised — classified (by quality, quantity, time, or place) and arranged into frequency distributions (with classes, class limits, midpoints, and frequencies) — to convert the confusing mass of figures into an orderly, condensed, and understandable form, ready for presentation and analysis",
+      "Data should never be grouped",
+      "Organisation of data is unimportant"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter conveys that, after data are collected, they exist as a raw, unorganised, and confusing mass of figures that cannot be readily understood or analysed — so they must be organised. The organisation of data is done through classification — arranging/grouping the data into classes or categories according to their common characteristics, which can be on the basis of: quality (qualitative classification — by attributes like gender or literacy); quantity (quantitative classification — by a numerical variable like income or marks); time (chronological classification — by years, etc.); or place (geographical classification — by states, etc.). For quantitative data, the key form of organisation is the frequency distribution — a table showing the values or classes of a variable along with their frequencies (the number of times each occurs). The chapter explains the terms and construction of frequency distributions: the classes (class intervals) and their class limits (lower and upper), class size (width), and midpoints (mid-values); the use of tally marks to count the frequencies; the range (largest minus smallest value); the exclusive vs inclusive methods of forming classes; cumulative frequency distributions (accumulating the frequencies to show 'less than'/'more than' totals); and the distinction between discrete variables (taking only separate/whole-number values) and continuous variables (taking any value in a range). Through such classification and the construction of frequency distributions, the confusing mass of raw data is converted into an orderly, condensed, and understandable form, revealing its patterns and making it ready for presentation and analysis. Understanding how to classify and organise data into frequency distributions is the central concern of this chapter. After collection, raw data must be organised — classified (by quality, quantity, time, or place) and arranged into frequency distributions — to turn the confusing mass of figures into an orderly, understandable form ready for analysis.",
+    "difficulty": "medium"
+  }
 ]
