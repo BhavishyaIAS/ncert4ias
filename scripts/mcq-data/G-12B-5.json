@@ -1,52 +1,1094 @@
 [
-  { "stem": "For recording land use, the total geographical area of India is divided into broad categories reported by the __________.", "options": ["Land revenue records / land-use statistics of the government", "Meteorological Department", "Reserve Bank of India", "Election Commission"], "correct_index": 0, "solution": "Land-use in India is recorded through LAND REVENUE RECORDS and LAND-USE STATISTICS maintained by government agencies (based on village-level records). These divide the total geographical area into broad categories such as forests, land under non-agricultural uses, barren land, net sown area, fallow lands, etc. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'net sown area' refers to __________.", "options": ["The total area sown with crops and orchards, counted only once even if sown more than once in a year", "The area sown twice or more in a year", "Only the forest area", "Only the barren land"], "correct_index": 0, "solution": "NET SOWN AREA (NSA) is the TOTAL AREA SOWN with CROPS and ORCHARDS, counted only ONCE even if part of it is sown more than once in the same agricultural year. It represents the physical extent of land actually put under cultivation. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Gross cropped area' differs from net sown area in that it __________.", "options": ["Counts area sown more than once in a year as many times as it is sown (net sown area + area sown more than once)", "Ignores double-cropped land", "Includes only fallow land", "Is always smaller than net sown area"], "correct_index": 0, "solution": "GROSS CROPPED AREA (GCA) counts land sown MORE THAN ONCE in an agricultural year as MANY TIMES as it is sown. Thus GCA = NET SOWN AREA + AREA SOWN MORE THAN ONCE. It reflects the total cropped extent including double/multiple cropping, and is therefore equal to or larger than the net sown area. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Cropping intensity' is calculated as __________.", "options": ["(Gross Cropped Area ÷ Net Sown Area) × 100", "Net Sown Area ÷ Total Geographical Area", "Forest Area ÷ Net Sown Area", "Barren Land ÷ Gross Cropped Area"], "correct_index": 0, "solution": "CROPPING INTENSITY = (GROSS CROPPED AREA ÷ NET SOWN AREA) × 100. It measures how many times, on average, the net sown area is cropped in a year; a value above 100 indicates that some land is sown more than once (multiple cropping). Higher cropping intensity reflects more intensive use of agricultural land. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Culturable waste land' is land that __________.", "options": ["Is left uncultivated for more than five years but is capable of being brought under cultivation with effort", "Can never be cultivated under any conditions", "Is permanently under forest", "Is used for building cities"], "correct_index": 0, "solution": "CULTURABLE WASTE LAND is land AVAILABLE for cultivation but NOT CULTIVATED for more than FIVE YEARS in a row. It is CAPABLE of being brought under cultivation with some effort (reclamation, improvement), unlike barren/unculturable land. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Fallow land' (current fallow) refers to __________.", "options": ["Land left without cultivation for one or less than one agricultural year to let it recover its fertility", "Land that is permanently barren", "Land under permanent pastures", "Forest land"], "correct_index": 0, "solution": "CURRENT FALLOW is land left WITHOUT CULTIVATION for ONE or LESS THAN ONE agricultural year, deliberately rested so it can RECOVER its natural FERTILITY. 'Fallow other than current fallow' is land left uncultivated for one to five years. Fallowing is a traditional way of restoring soil productivity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Barren and waste land' in land-use records refers to land that __________.", "options": ["Cannot be brought under cultivation with available technology, such as barren hilly terrain, deserts and ravines", "Is highly fertile and double-cropped", "Is used for airports only", "Is always covered by forest"], "correct_index": 0, "solution": "BARREN and WASTE LAND is land that CANNOT be brought under cultivation with the AVAILABLE TECHNOLOGY — such as BARREN HILLY TERRAIN, ROCKY areas, DESERTS, and RAVINES. Its physical conditions make cultivation impractical, distinguishing it from culturable waste land. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A major concern in India's land-use is that the 'land under non-agricultural uses' (settlements, roads, industry) has been __________.", "options": ["Increasing over time, as urbanisation and development convert farmland to built-up uses", "Decreasing steadily every year", "Remaining exactly fixed", "Being converted back into forest"], "correct_index": 0, "solution": "LAND UNDER NON-AGRICULTURAL USES (settlements, roads, railways, industries, etc.) has been INCREASING over time as URBANISATION and DEVELOPMENT convert farmland and other land into BUILT-UP uses. This growth puts pressure on the limited land available for agriculture. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'net sown area' as a share of the total reporting area is highest in states like Punjab and Haryana because __________.", "options": ["They have fertile plains, assured irrigation and intensive agriculture", "They are mostly desert", "They are heavily forested", "They have very steep mountains"], "correct_index": 0, "solution": "The NET SOWN AREA as a share of reporting area is HIGHEST in states like PUNJAB and HARYANA because they have FERTILE ALLUVIAL PLAINS, ASSURED IRRIGATION (canals and tube wells), and INTENSIVE AGRICULTURE — allowing a very large proportion of land to be cultivated. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "One reason for concern is that per capita availability of land, especially agricultural land, in India is __________.", "options": ["Declining, because the population is growing while cultivable land is limited and shrinking under other uses", "Rising rapidly every year", "Fixed and unchanging", "Irrelevant to food security"], "correct_index": 0, "solution": "PER CAPITA availability of LAND, especially AGRICULTURAL LAND, is DECLINING in India because the POPULATION keeps GROWING while cultivable land is LIMITED and is being lost to non-agricultural uses (urbanisation, industry, roads) and to degradation. This shrinking per capita land raises serious concerns for food security and livelihoods. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Dryland farming' (rainfed agriculture) is practised __________.", "options": ["In areas with limited/uncertain rainfall and no assured irrigation, using drought-resistant and hardy crops", "Only where canal irrigation is abundant", "Only in flooded river deltas", "Only in high mountains above the snowline"], "correct_index": 0, "solution": "DRYLAND (RAINFED) FARMING is practised in areas with LIMITED and UNCERTAIN RAINFALL and NO ASSURED IRRIGATION. Farmers rely on the monsoon and grow DROUGHT-RESISTANT, HARDY crops such as ragi, bajra, moong, gram, and pulses, and use moisture-conservation techniques. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Wetland farming' differs from dryland farming in that it __________.", "options": ["Is practised in areas of assured/abundant water (high rainfall or irrigation), allowing water-intensive crops like rice, jute and sugarcane", "Uses no water at all", "Grows only cactus", "Is done only in deserts"], "correct_index": 0, "solution": "WETLAND FARMING is practised in areas with ASSURED and ABUNDANT WATER — high rainfall regions or well-irrigated tracts. The good water supply allows WATER-INTENSIVE crops such as RICE, JUTE, and SUGARCANE, and often supports aquaculture as well. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The three main cropping seasons of India are __________.", "options": ["Kharif, Rabi and Zaid", "Spring, Autumn and Winter only", "Wet, Dry and Cold", "Sowing, Weeding and Harvesting"], "correct_index": 0, "solution": "The three main CROPPING SEASONS of India are: KHARIF (the monsoon/rainy season, sown around June–July and harvested in September–October — e.g., rice, cotton, jute, maize, bajra); RABI (the winter season, sown in October–December and harvested in April–May — e.g., wheat, gram, mustard); and ZAID (the short summer season between rabi and kharif — e.g., watermelon, cucumber, vegetables, fodder). So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Kharif crops are sown at the beginning of the __________ and harvested __________.", "options": ["Southwest monsoon (June–July); in September–October", "Winter; in summer", "Summer; in winter", "Post-monsoon; the next year"], "correct_index": 0, "solution": "KHARIF crops are sown at the BEGINNING of the SOUTHWEST MONSOON (around JUNE–JULY) and HARVESTED in SEPTEMBER–OCTOBER, at the end of the monsoon. They depend heavily on monsoon rainfall. Examples include rice, maize, jowar, bajra, cotton, jute, and groundnut. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Rabi crops are sown in __________ and harvested in __________.", "options": ["Winter (October–December); summer (April–May)", "Summer; winter", "Monsoon; monsoon", "Spring; spring"], "correct_index": 0, "solution": "RABI crops are sown in the WINTER season (OCTOBER–DECEMBER) and HARVESTED in SUMMER (APRIL–MAY). They grow in the cooler, drier part of the year and often depend on irrigation or residual soil moisture and winter rain. Examples include wheat, barley, gram, peas, and mustard. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Rice, the most important food crop of India, is chiefly grown in areas with __________.", "options": ["High temperature, high humidity and abundant water/rainfall (over ~100 cm) or irrigation", "Cold, dry desert conditions", "Very low rainfall and no irrigation", "Frost throughout the year"], "correct_index": 0, "solution": "RICE, India's most important food crop, is chiefly grown in areas of HIGH TEMPERATURE, HIGH HUMIDITY, and ABUNDANT WATER — regions with HEAVY RAINFALL (generally OVER 100 cm) or ASSURED IRRIGATION. It is a staple across the eastern and southern plains, deltas, and irrigated northwest. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Wheat, the second most important cereal in India, is mainly grown in __________.", "options": ["The northwestern plains (Punjab, Haryana, western UP) as a rabi crop needing cool growing season and warm ripening", "The heavy-rainfall eastern deltas as a kharif crop", "Arid deserts with no irrigation", "High Himalayan snowfields"], "correct_index": 0, "solution": "WHEAT, India's second most important cereal (a RABI crop), is mainly grown in the NORTHWESTERN PLAINS — PUNJAB, HARYANA, and western UTTAR PRADESH (and parts of MP, Rajasthan). It needs a COOL GROWING SEASON and BRIGHT SUNSHINE with WARMTH at RIPENING time, and thrives with irrigation on fertile alluvial soils. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Millets such as jowar, bajra and ragi are important because they are __________.", "options": ["Hardy, drought-resistant coarse grains grown on poorer soils in dry regions, providing food and fodder", "Water-loving crops of the deltas", "Grown only under glass in cold climates", "Purely cash crops with no food value"], "correct_index": 0, "solution": "MILLETS — JOWAR (sorghum), BAJRA (pearl millet), and RAGI (finger millet) — are HARDY, DROUGHT-RESISTANT COARSE GRAINS grown on POORER SOILS in DRY, rainfed regions where wheat and rice are difficult. They are an important source of FOOD (nutritious grains) and FODDER, and are well suited to marginal lands. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Sugarcane in India is grown in two broad belts: the northern plains and __________.", "options": ["The peninsular/southern region (e.g., Maharashtra, Karnataka, Tamil Nadu), where yields are often higher", "Only in the Himalayas", "Only in the Thar desert", "Only in Kashmir valley"], "correct_index": 0, "solution": "SUGARCANE is grown in two broad belts: the NORTHERN PLAINS (Uttar Pradesh, Bihar, Punjab, Haryana) and the PENINSULAR/SOUTHERN region (MAHARASHTRA, KARNATAKA, TAMIL NADU, Andhra Pradesh). The southern belt often gives HIGHER YIELDS and better sugar recovery due to a more suitable maritime climate and longer crushing season. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Cotton, an important fibre and cash crop, grows best on the __________ of the Deccan plateau.", "options": ["Black soil (regur)", "Sandy desert soil", "Laterite soil of hilltops", "Snowy alpine soil"], "correct_index": 0, "solution": "COTTON, a key FIBRE and CASH crop, grows best on the BLACK SOIL (REGUR) of the DECCAN PLATEAU (Maharashtra, Gujarat, Madhya Pradesh, etc.). Black soil's high moisture-retaining capacity suits cotton, which needs high temperature, light rainfall/irrigation, and a frost-free growing period. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which crops are the main OILSEEDS grown in India?", "options": ["Groundnut, mustard, soybean, sunflower, sesame and others", "Only rice and wheat", "Only tea and coffee", "Only jute and cotton"], "correct_index": 0, "solution": "The main OILSEEDS grown in India include GROUNDNUT, MUSTARD (rapeseed), SOYBEAN, SUNFLOWER, SESAME (til), linseed, and castor. India is a major producer of oilseeds, which supply edible oils and are important for both diet and industry. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Tea, an important plantation crop, requires __________.", "options": ["Warm, moist climate with well-distributed rainfall and well-drained sloping land (as in Assam and the Nilgiris/Darjeeling)", "Cold desert conditions with no rain", "Waterlogged flat deltas", "Frost and snow all year"], "correct_index": 0, "solution": "TEA, a PLANTATION crop, requires a WARM, MOIST CLIMATE with WELL-DISTRIBUTED RAINFALL throughout the year and WELL-DRAINED SLOPING LAND (so water does not stagnate at the roots). It is grown chiefly in ASSAM, the DARJEELING hills (West Bengal), and the NILGIRIS in the south. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Coffee cultivation in India is concentrated in the hilly tracts of __________.", "options": ["The Western Ghats — Karnataka, Kerala and Tamil Nadu", "The Thar desert", "The Gangetic delta", "The Kashmir valley"], "correct_index": 0, "solution": "COFFEE cultivation in India is concentrated in the hilly tracts of the WESTERN GHATS — chiefly KARNATAKA (the leading producer), KERALA, and TAMIL NADU. These highlands provide the shade, moderate temperatures, and well-drained slopes coffee needs. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The term 'Green Revolution' refers to __________.", "options": ["The large increase in foodgrain (especially wheat and rice) production from the mid-1960s using high-yielding variety (HYV) seeds, fertilizers, irrigation and modern inputs", "The planting of more forests", "A revolution in milk production", "The greening of deserts by rainfall"], "correct_index": 0, "solution": "The GREEN REVOLUTION refers to the LARGE INCREASE in FOODGRAIN production — especially WHEAT and later RICE — from the MID-1960s, achieved through the use of HIGH-YIELDING VARIETY (HYV) SEEDS, chemical FERTILIZERS, PESTICIDES, assured IRRIGATION, and modern machinery. It made India self-sufficient in foodgrains but was concentrated in well-irrigated regions like Punjab, Haryana, and western UP. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A negative consequence of the Green Revolution has been __________.", "options": ["Regional disparities, over-use of groundwater and fertilizers, soil degradation and declining water tables in intensively farmed areas", "Complete elimination of all farming", "A fall in total foodgrain output", "The disappearance of irrigation"], "correct_index": 0, "solution": "Negative consequences of the GREEN REVOLUTION include REGIONAL DISPARITIES (benefits concentrated in a few well-irrigated states, widening the gap with rainfed regions), OVER-EXTRACTION of GROUNDWATER (falling WATER TABLES), excessive use of CHEMICAL FERTILIZERS and PESTICIDES, SOIL DEGRADATION (salinity, loss of fertility), and rising input costs. These have raised concerns about the sustainability of intensive agriculture. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'White Revolution' (Operation Flood) in India is associated with a big rise in the production of __________.", "options": ["Milk (dairy)", "Wheat", "Cotton", "Coal"], "correct_index": 0, "solution": "The WHITE REVOLUTION, launched through OPERATION FLOOD, is associated with a large rise in MILK (DAIRY) production, making India one of the world's largest milk producers. It organised dairy farmers into cooperatives and greatly increased milk output and availability. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "'Land degradation' refers to __________.", "options": ["A decline in the productive capacity of land due to soil erosion, salinity, waterlogging, desertification and misuse", "An increase in soil fertility", "The building of new roads", "The planting of dense forests"], "correct_index": 0, "solution": "LAND DEGRADATION is the DECLINE in the PRODUCTIVE CAPACITY of land, caused by processes such as SOIL EROSION (by water and wind), SALINITY and ALKALINITY, WATERLOGGING, DESERTIFICATION, gully/ravine formation, and general MISUSE (over-cultivation, over-grazing, deforestation). It reduces land's ability to support crops and vegetation. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Waterlogging and salinity/alkalinity of soils in canal-irrigated areas are mainly caused by __________.", "options": ["Excessive irrigation without proper drainage, which raises the water table and brings salts to the surface", "Too little water ever reaching the land", "Planting too many trees", "Natural rainfall alone"], "correct_index": 0, "solution": "WATERLOGGING and SALINITY/ALKALINITY in canal-irrigated areas are mainly caused by EXCESSIVE IRRIGATION WITHOUT PROPER DRAINAGE. Over-watering RAISES the WATER TABLE toward the surface; as this water evaporates, it leaves behind SALTS, making the soil saline/alkaline and reducing its fertility. Good drainage and careful water management prevent this. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is a major measure to combat soil erosion on sloping farmland?", "options": ["Contour ploughing, terracing, strip cropping and afforestation", "Removing all vegetation", "Ploughing straight up and down the slope", "Overgrazing the slopes"], "correct_index": 0, "solution": "Major measures to combat SOIL EROSION on sloping land include CONTOUR PLOUGHING (ploughing along the contours to slow runoff), TERRACING (cutting step-like fields on slopes), STRIP CROPPING (alternating strips of crops), building bunds, and AFFORESTATION (planting trees and grass to bind the soil). These reduce the speed of water and hold the soil in place. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The vast majority of India's farmers are __________ farmers.", "options": ["Small and marginal (holding small plots of land)", "Large plantation owners", "Landless with no cultivation at all", "Only urban businessmen"], "correct_index": 0, "solution": "The VAST MAJORITY of India's farmers are SMALL and MARGINAL FARMERS, holding SMALL PLOTS of land (marginal farmers hold under 1 hectare; small farmers 1–2 hectares). Their small, often fragmented holdings limit their incomes, investment capacity, and adoption of new technology, making their livelihoods vulnerable. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Subsistence agriculture' means farming in which __________.", "options": ["Farmers grow food mainly to feed their own family, with little surplus for sale", "All produce is exported abroad", "Only cash crops are grown for profit", "No crops are grown at all"], "correct_index": 0, "solution": "SUBSISTENCE AGRICULTURE is farming in which farmers grow crops MAINLY to FEED their OWN FAMILY and meet local needs, with LITTLE or NO SURPLUS left for the market. It contrasts with COMMERCIAL agriculture, where crops are grown primarily for SALE and profit. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "'Commercial agriculture' is characterised by __________.", "options": ["Growing crops mainly for sale in the market, often using modern inputs and larger-scale production (e.g., plantation crops, cotton, sugarcane)", "Growing food only for the household", "Never using any technology", "Producing nothing for sale"], "correct_index": 0, "solution": "COMMERCIAL AGRICULTURE is characterised by growing crops MAINLY for SALE in the MARKET rather than for household consumption. It often uses MODERN INPUTS (HYV seeds, fertilizers, machinery) and larger-scale, market-oriented production. Examples include PLANTATION crops (tea, coffee), COTTON, and SUGARCANE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Plantation agriculture is a type of commercial farming characterised by __________.", "options": ["Growing a single cash crop on a large estate using much capital and labour, mainly for the market/export", "Growing many food crops on tiny plots for self-use", "No use of hired labour", "Rearing only cattle"], "correct_index": 0, "solution": "PLANTATION AGRICULTURE is a form of COMMERCIAL farming in which a SINGLE CASH CROP (such as TEA, COFFEE, RUBBER, or spices) is grown on a LARGE ESTATE using much CAPITAL and LABOUR, with production geared mainly toward the MARKET and EXPORT. It is capital- and labour-intensive and often factory-linked for processing. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "One important strategy for making Indian agriculture more sustainable is __________.", "options": ["Diversification of crops, efficient water use (e.g., drip/sprinkler irrigation), organic manures and integrated farming", "Growing only one crop everywhere forever", "Using ever more chemicals without limit", "Abandoning all irrigation"], "correct_index": 0, "solution": "Strategies for SUSTAINABLE Indian agriculture include CROP DIVERSIFICATION (reducing dependence on water-intensive rice/wheat), EFFICIENT WATER USE through DRIP and SPRINKLER IRRIGATION, use of ORGANIC MANURES and biofertilizers, INTEGRATED PEST MANAGEMENT, and mixed/integrated farming. These conserve soil and water and maintain long-term productivity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The problem of small and fragmented landholdings in India can be addressed through __________.", "options": ["Consolidation of holdings and cooperative farming", "Dividing land into ever-smaller pieces", "Banning all farming", "Removing irrigation facilities"], "correct_index": 0, "solution": "The problem of SMALL and FRAGMENTED landholdings (scattered tiny plots that are hard to farm efficiently) can be addressed through CONSOLIDATION of HOLDINGS — combining scattered plots into compact blocks — and through COOPERATIVE FARMING, where farmers pool land and resources. These improve efficiency, allow mechanisation, and reduce wasted boundaries. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which statement about India's foodgrain situation is correct?", "options": ["India achieved self-sufficiency in foodgrains largely due to the Green Revolution, though challenges of sustainability, distribution and nutrition remain", "India produces no foodgrains", "India remains fully dependent on food imports", "Foodgrain production has become irrelevant"], "correct_index": 0, "solution": "India ACHIEVED SELF-SUFFICIENCY in FOODGRAINS largely because of the GREEN REVOLUTION, moving from food shortages to surpluses. However, CHALLENGES REMAIN — the SUSTAINABILITY of intensive farming (water, soil), equitable DISTRIBUTION (access for the poor), regional imbalances, and NUTRITION security. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): India's cropping intensity is increasing. Reason (R): Expansion of irrigation and short-duration HYV seeds allow more than one crop to be grown on the same land in a year. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — India's CROPPING INTENSITY (gross cropped area ÷ net sown area × 100) has been INCREASING. R is TRUE and correctly EXPLAINS A: the EXPANSION of IRRIGATION (assuring water beyond the monsoon) and the use of SHORT-DURATION HYV SEEDS allow the SAME LAND to be cropped MORE THAN ONCE in a year (multiple cropping), which is precisely what raises cropping intensity. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "'Net irrigated area' plus 'area irrigated more than once' gives the __________.", "options": ["Gross irrigated area", "Net sown area", "Fallow land", "Forest area"], "correct_index": 0, "solution": "Just as gross cropped area counts multiple-cropped land more than once, the GROSS IRRIGATED AREA = NET IRRIGATED AREA + AREA IRRIGATED MORE THAN ONCE in a year. Net irrigated area counts land once; gross irrigated area accounts for repeated irrigation of the same land in the same year. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Pulses (like gram, tur/arhar, moong, urad) are important in Indian agriculture mainly because they __________.", "options": ["Are a major source of protein in the vegetarian diet and, being leguminous, fix nitrogen and restore soil fertility", "Require the most water of all crops", "Cannot be grown in dry areas", "Damage the soil badly"], "correct_index": 0, "solution": "PULSES (gram, tur/arhar, moong, urad, masur) are important because they are a MAJOR SOURCE of PROTEIN in India's largely VEGETARIAN diet, and because — being LEGUMINOUS crops — they FIX ATMOSPHERIC NITROGEN in the soil, helping RESTORE SOIL FERTILITY. They are hardy and often grown as rotation crops in dry regions. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The largest share of India's total geographical area, among land-use categories, is generally the __________.", "options": ["Net sown area (land under cultivation)", "Land under airports", "Snow-covered peaks", "Urban built-up land"], "correct_index": 0, "solution": "Among land-use categories, the NET SOWN AREA (land under CULTIVATION) generally accounts for the LARGEST SHARE of India's total geographical area — reflecting India's predominantly agricultural land use — followed by forests and land under non-agricultural uses. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Jhum (shifting) cultivation, practised in parts of northeastern India, involves __________.", "options": ["Clearing and burning a patch of forest, cultivating it for a few years until fertility falls, then moving to a new patch", "Permanent intensive farming of one field forever", "Growing crops only in glasshouses", "Cultivating the sea bed"], "correct_index": 0, "solution": "JHUM (SHIFTING) CULTIVATION, practised in parts of NORTHEASTERN India (and other hilly/tribal areas), involves CLEARING and BURNING a patch of FOREST ('slash and burn'), CULTIVATING it for a FEW YEARS until soil fertility DECLINES, and then MOVING to a NEW PATCH while the old one is left to recover. It is a traditional but land-extensive and increasingly unsustainable practice. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main reason forests occupy less than the desired share of India's land is __________.", "options": ["Clearing of forests over time for agriculture, settlements and other uses, leaving forest cover below the recommended level", "That India has no forests naturally", "Excessive afforestation", "That forests were converted to oceans"], "correct_index": 0, "solution": "FORESTS occupy LESS than the desired share (the National Forest Policy recommends about 33% of land under forest) mainly because of the CLEARING of FORESTS over time for AGRICULTURE, SETTLEMENTS, industry, and other uses. This long history of deforestation has kept actual forest cover BELOW the recommended level. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly matches a crop with its ideal soil/condition?", "options": ["Cotton → black soil; Rice → alluvial soil with abundant water; Tea → well-drained sloping land with high rainfall", "Cotton → snowfields; Rice → desert sand; Tea → waterlogged plains", "Cotton → alpine ice; Rice → rocky plateau; Tea → dry desert", "All crops grow identically everywhere"], "correct_index": 0, "solution": "The correct matches are: COTTON → BLACK SOIL (regur) of the Deccan; RICE → ALLUVIAL SOIL with ABUNDANT WATER (rainfall/irrigation); and TEA → WELL-DRAINED SLOPING LAND with HIGH, well-distributed RAINFALL. Each crop is suited to particular soil and climatic conditions. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A key challenge for Indian agriculture linked to the monsoon is __________.", "options": ["Dependence on an uncertain and variable monsoon, so that failure or delay of rains can cause droughts and crop losses", "Too much assured irrigation everywhere", "The complete absence of any rainfall", "That the monsoon never affects farming"], "correct_index": 0, "solution": "A key CHALLENGE for Indian agriculture is its DEPENDENCE on the UNCERTAIN and VARIABLE MONSOON. A large share of farmland is RAINFED, so a FAILURE, DELAY, or poor distribution of the monsoon rains can cause DROUGHTS and CROP LOSSES, while excessive rain can cause floods. This makes output unstable and farmers vulnerable. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Expanding irrigation is important for Indian agriculture because it __________.", "options": ["Provides assured water, reduces dependence on the monsoon, allows multiple cropping and higher yields", "Reduces crop production", "Makes the soil permanently barren immediately", "Is only useful in high mountains"], "correct_index": 0, "solution": "Expanding IRRIGATION is important because it provides ASSURED WATER, REDUCES DEPENDENCE on the uncertain MONSOON, enables MULTIPLE CROPPING (raising cropping intensity), and supports HIGHER YIELDS and HYV crops. It was essential to the Green Revolution — though it must be managed to avoid waterlogging, salinity, and groundwater depletion. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following best describes 'agricultural land use efficiency' concerns in India?", "options": ["Making the best use of limited land through higher yields, multiple cropping, reduced degradation and diversification, given shrinking per capita land", "Leaving as much land uncultivated as possible", "Converting all farmland to cities", "Growing only one crop nationwide"], "correct_index": 0, "solution": "AGRICULTURAL LAND-USE EFFICIENCY concerns in India centre on making the BEST USE of LIMITED land — since PER CAPITA land is SHRINKING — through HIGHER YIELDS, MULTIPLE CROPPING (raising cropping intensity), REDUCING land DEGRADATION, and DIVERSIFICATION toward high-value and sustainable crops. The aim is to produce more from less land without ruining it. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The problem of declining groundwater tables in Punjab, Haryana and western UP is largely a result of __________.", "options": ["Intensive cultivation of water-guzzling crops (like rice) using excessive tube-well irrigation", "Too little farming in the region", "Complete lack of irrigation", "Growing only drought-resistant millets"], "correct_index": 0, "solution": "The DECLINING GROUNDWATER TABLES in PUNJAB, HARYANA, and WESTERN UP are largely a result of INTENSIVE CULTIVATION of WATER-GUZZLING crops — especially RICE — using EXCESSIVE TUBE-WELL (groundwater) IRRIGATION. Pumping water faster than it is recharged has steadily lowered the water table, threatening the sustainability of Green Revolution agriculture. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Jute, the 'golden fibre', is grown mainly in the __________ because it needs high temperature, heavy rainfall and fertile alluvial soil.", "options": ["Ganga–Brahmaputra delta region (West Bengal and adjoining areas)", "Thar desert of Rajasthan", "Deccan black-soil plateau", "Cold Himalayan valleys"], "correct_index": 0, "solution": "JUTE, the 'GOLDEN FIBRE', is grown mainly in the GANGA–BRAHMAPUTRA DELTA region — especially WEST BENGAL and adjoining areas (Bihar, Assam). It requires HIGH TEMPERATURE, HEAVY RAINFALL, and FERTILE, well-drained ALLUVIAL SOIL renewed by flooding, along with plenty of water for retting the fibre. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Intensive subsistence agriculture' in densely populated parts of India is characterised by __________.", "options": ["High labour input on small plots, heavy use of manures/inputs and multiple cropping to get maximum output from limited land", "Vast farms worked by a few machines", "Leaving most land fallow permanently", "Growing crops only for export"], "correct_index": 0, "solution": "INTENSIVE SUBSISTENCE AGRICULTURE, practised in DENSELY POPULATED regions, is characterised by HIGH LABOUR INPUT on SMALL PLOTS, HEAVY USE of MANURES, fertilizers, and irrigation, and MULTIPLE CROPPING — all aimed at squeezing the MAXIMUM OUTPUT from LIMITED land to feed a large population. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Land Resources and Agriculture' is that:", "options": ["Land and agriculture are of no importance to India", "LAND is a vital but LIMITED resource whose use is recorded in categories (forests, non-agricultural use, barren, fallow, NET SOWN AREA, etc.), with concepts like gross cropped area and CROPPING INTENSITY measuring how intensively it is farmed; Indian AGRICULTURE — largely dependent on the uncertain MONSOON and practised by mostly small and marginal farmers — includes subsistence, commercial and plantation types across the KHARIF, RABI and ZAID seasons, growing food crops (rice, wheat, millets, pulses) and cash crops (cotton, sugarcane, oilseeds, tea, coffee); the GREEN REVOLUTION brought self-sufficiency in foodgrains but also regional disparities and problems of groundwater depletion, soil degradation, waterlogging and salinity; and with PER CAPITA land shrinking, the future needs sustainable, diversified and efficient land and water use", "Only cash crops matter", "Irrigation should be abandoned"], "correct_index": 1, "solution": "The chapter's overall message is that LAND is a VITAL but LIMITED and shrinking resource. Its use is recorded in land-use categories (FORESTS, land under NON-AGRICULTURAL use, BARREN and waste land, CULTURABLE WASTE, FALLOW lands, and NET SOWN AREA), and concepts like GROSS CROPPED AREA and CROPPING INTENSITY measure how intensively it is cultivated. INDIAN AGRICULTURE is largely DEPENDENT on the UNCERTAIN MONSOON and is practised mostly by SMALL and MARGINAL farmers; it ranges over SUBSISTENCE, COMMERCIAL, and PLANTATION types and three cropping seasons — KHARIF, RABI, and ZAID — producing FOOD CROPS (rice, wheat, millets, pulses) and CASH CROPS (cotton, sugarcane, oilseeds, tea, coffee). The GREEN REVOLUTION brought SELF-SUFFICIENCY in foodgrains but also REGIONAL DISPARITIES and problems of GROUNDWATER DEPLETION, SOIL DEGRADATION, WATERLOGGING, and SALINITY. With PER CAPITA land DECLINING, the way forward lies in SUSTAINABLE, DIVERSIFIED, and EFFICIENT use of land and water. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "For recording land use, the total geographical area of India is divided into broad categories reported by the __________.",
+    "options": [
+      "Land revenue records / land-use statistics of the government",
+      "Meteorological Department",
+      "Reserve Bank of India",
+      "Election Commission"
+    ],
+    "correct_index": 0,
+    "solution": "Land-use in India is recorded through LAND REVENUE RECORDS and LAND-USE STATISTICS maintained by government agencies (based on village-level records). These divide the total geographical area into broad categories such as forests, land under non-agricultural uses, barren land, net sown area, fallow lands, etc. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'net sown area' refers to __________.",
+    "options": [
+      "The total area sown with crops and orchards, counted only once even if sown more than once in a year",
+      "The area sown twice or more in a year",
+      "Only the forest area",
+      "Only the barren land"
+    ],
+    "correct_index": 0,
+    "solution": "NET SOWN AREA (NSA) is the TOTAL AREA SOWN with CROPS and ORCHARDS, counted only ONCE even if part of it is sown more than once in the same agricultural year. It represents the physical extent of land actually put under cultivation. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Gross cropped area' differs from net sown area in that it __________.",
+    "options": [
+      "Counts area sown more than once in a year as many times as it is sown (net sown area + area sown more than once)",
+      "Ignores double-cropped land",
+      "Includes only fallow land",
+      "Is always smaller than net sown area"
+    ],
+    "correct_index": 0,
+    "solution": "GROSS CROPPED AREA (GCA) counts land sown MORE THAN ONCE in an agricultural year as MANY TIMES as it is sown. Thus GCA = NET SOWN AREA + AREA SOWN MORE THAN ONCE. It reflects the total cropped extent including double/multiple cropping, and is therefore equal to or larger than the net sown area. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Cropping intensity' is calculated as __________.",
+    "options": [
+      "(Gross Cropped Area ÷ Net Sown Area) × 100",
+      "Net Sown Area ÷ Total Geographical Area",
+      "Forest Area ÷ Net Sown Area",
+      "Barren Land ÷ Gross Cropped Area"
+    ],
+    "correct_index": 0,
+    "solution": "CROPPING INTENSITY = (GROSS CROPPED AREA ÷ NET SOWN AREA) × 100. It measures how many times, on average, the net sown area is cropped in a year; a value above 100 indicates that some land is sown more than once (multiple cropping). Higher cropping intensity reflects more intensive use of agricultural land. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Culturable waste land' is land that __________.",
+    "options": [
+      "Is left uncultivated for more than five years but is capable of being brought under cultivation with effort",
+      "Can never be cultivated under any conditions",
+      "Is permanently under forest",
+      "Is used for building cities"
+    ],
+    "correct_index": 0,
+    "solution": "CULTURABLE WASTE LAND is land AVAILABLE for cultivation but NOT CULTIVATED for more than FIVE YEARS in a row. It is CAPABLE of being brought under cultivation with some effort (reclamation, improvement), unlike barren/unculturable land. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Fallow land' (current fallow) refers to __________.",
+    "options": [
+      "Land left without cultivation for one or less than one agricultural year to let it recover its fertility",
+      "Land that is permanently barren",
+      "Land under permanent pastures",
+      "Forest land"
+    ],
+    "correct_index": 0,
+    "solution": "CURRENT FALLOW is land left WITHOUT CULTIVATION for ONE or LESS THAN ONE agricultural year, deliberately rested so it can RECOVER its natural FERTILITY. 'Fallow other than current fallow' is land left uncultivated for one to five years. Fallowing is a traditional way of restoring soil productivity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Barren and waste land' in land-use records refers to land that __________.",
+    "options": [
+      "Cannot be brought under cultivation with available technology, such as barren hilly terrain, deserts and ravines",
+      "Is highly fertile and double-cropped",
+      "Is used for airports only",
+      "Is always covered by forest"
+    ],
+    "correct_index": 0,
+    "solution": "BARREN and WASTE LAND is land that CANNOT be brought under cultivation with the AVAILABLE TECHNOLOGY — such as BARREN HILLY TERRAIN, ROCKY areas, DESERTS, and RAVINES. Its physical conditions make cultivation impractical, distinguishing it from culturable waste land. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A major concern in India's land-use is that the 'land under non-agricultural uses' (settlements, roads, industry) has been __________.",
+    "options": [
+      "Increasing over time, as urbanisation and development convert farmland to built-up uses",
+      "Decreasing steadily every year",
+      "Remaining exactly fixed",
+      "Being converted back into forest"
+    ],
+    "correct_index": 0,
+    "solution": "LAND UNDER NON-AGRICULTURAL USES (settlements, roads, railways, industries, etc.) has been INCREASING over time as URBANISATION and DEVELOPMENT convert farmland and other land into BUILT-UP uses. This growth puts pressure on the limited land available for agriculture. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'net sown area' as a share of the total reporting area is highest in states like Punjab and Haryana because __________.",
+    "options": [
+      "They have fertile plains, assured irrigation and intensive agriculture",
+      "They are mostly desert",
+      "They are heavily forested",
+      "They have very steep mountains"
+    ],
+    "correct_index": 0,
+    "solution": "The NET SOWN AREA as a share of reporting area is HIGHEST in states like PUNJAB and HARYANA because they have FERTILE ALLUVIAL PLAINS, ASSURED IRRIGATION (canals and tube wells), and INTENSIVE AGRICULTURE — allowing a very large proportion of land to be cultivated. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One reason for concern is that per capita availability of land, especially agricultural land, in India is __________.",
+    "options": [
+      "Declining, because the population is growing while cultivable land is limited and shrinking under other uses",
+      "Rising rapidly every year",
+      "Fixed and unchanging",
+      "Irrelevant to food security"
+    ],
+    "correct_index": 0,
+    "solution": "PER CAPITA availability of LAND, especially AGRICULTURAL LAND, is DECLINING in India because the POPULATION keeps GROWING while cultivable land is LIMITED and is being lost to non-agricultural uses (urbanisation, industry, roads) and to degradation. This shrinking per capita land raises serious concerns for food security and livelihoods. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Dryland farming' (rainfed agriculture) is practised __________.",
+    "options": [
+      "In areas with limited/uncertain rainfall and no assured irrigation, using drought-resistant and hardy crops",
+      "Only where canal irrigation is abundant",
+      "Only in flooded river deltas",
+      "Only in high mountains above the snowline"
+    ],
+    "correct_index": 0,
+    "solution": "DRYLAND (RAINFED) FARMING is practised in areas with LIMITED and UNCERTAIN RAINFALL and NO ASSURED IRRIGATION. Farmers rely on the monsoon and grow DROUGHT-RESISTANT, HARDY crops such as ragi, bajra, moong, gram, and pulses, and use moisture-conservation techniques. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Wetland farming' differs from dryland farming in that it __________.",
+    "options": [
+      "Is practised in areas of assured/abundant water (high rainfall or irrigation), allowing water-intensive crops like rice, jute and sugarcane",
+      "Uses no water at all",
+      "Grows only cactus",
+      "Is done only in deserts"
+    ],
+    "correct_index": 0,
+    "solution": "WETLAND FARMING is practised in areas with ASSURED and ABUNDANT WATER — high rainfall regions or well-irrigated tracts. The good water supply allows WATER-INTENSIVE crops such as RICE, JUTE, and SUGARCANE, and often supports aquaculture as well. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three main cropping seasons of India are __________.",
+    "options": [
+      "Kharif, Rabi and Zaid",
+      "Spring, Autumn and Winter only",
+      "Wet, Dry and Cold",
+      "Sowing, Weeding and Harvesting"
+    ],
+    "correct_index": 0,
+    "solution": "The three main CROPPING SEASONS of India are: KHARIF (the monsoon/rainy season, sown around June–July and harvested in September–October — e.g., rice, cotton, jute, maize, bajra); RABI (the winter season, sown in October–December and harvested in April–May — e.g., wheat, gram, mustard); and ZAID (the short summer season between rabi and kharif — e.g., watermelon, cucumber, vegetables, fodder). So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Kharif crops are sown at the beginning of the __________ and harvested __________.",
+    "options": [
+      "Southwest monsoon (June–July); in September–October",
+      "Winter; in summer",
+      "Summer; in winter",
+      "Post-monsoon; the next year"
+    ],
+    "correct_index": 0,
+    "solution": "KHARIF crops are sown at the BEGINNING of the SOUTHWEST MONSOON (around JUNE–JULY) and HARVESTED in SEPTEMBER–OCTOBER, at the end of the monsoon. They depend heavily on monsoon rainfall. Examples include rice, maize, jowar, bajra, cotton, jute, and groundnut. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rabi crops are sown in __________ and harvested in __________.",
+    "options": [
+      "Winter (October–December); summer (April–May)",
+      "Summer; winter",
+      "Monsoon; monsoon",
+      "Spring; spring"
+    ],
+    "correct_index": 0,
+    "solution": "RABI crops are sown in the WINTER season (OCTOBER–DECEMBER) and HARVESTED in SUMMER (APRIL–MAY). They grow in the cooler, drier part of the year and often depend on irrigation or residual soil moisture and winter rain. Examples include wheat, barley, gram, peas, and mustard. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rice, the most important food crop of India, is chiefly grown in areas with __________.",
+    "options": [
+      "High temperature, high humidity and abundant water/rainfall (over ~100 cm) or irrigation",
+      "Cold, dry desert conditions",
+      "Very low rainfall and no irrigation",
+      "Frost throughout the year"
+    ],
+    "correct_index": 0,
+    "solution": "RICE, India's most important food crop, is chiefly grown in areas of HIGH TEMPERATURE, HIGH HUMIDITY, and ABUNDANT WATER — regions with HEAVY RAINFALL (generally OVER 100 cm) or ASSURED IRRIGATION. It is a staple across the eastern and southern plains, deltas, and irrigated northwest. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wheat, the second most important cereal in India, is mainly grown in __________.",
+    "options": [
+      "The northwestern plains (Punjab, Haryana, western UP) as a rabi crop needing cool growing season and warm ripening",
+      "The heavy-rainfall eastern deltas as a kharif crop",
+      "Arid deserts with no irrigation",
+      "High Himalayan snowfields"
+    ],
+    "correct_index": 0,
+    "solution": "WHEAT, India's second most important cereal (a RABI crop), is mainly grown in the NORTHWESTERN PLAINS — PUNJAB, HARYANA, and western UTTAR PRADESH (and parts of MP, Rajasthan). It needs a COOL GROWING SEASON and BRIGHT SUNSHINE with WARMTH at RIPENING time, and thrives with irrigation on fertile alluvial soils. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Millets such as jowar, bajra and ragi are important because they are __________.",
+    "options": [
+      "Hardy, drought-resistant coarse grains grown on poorer soils in dry regions, providing food and fodder",
+      "Water-loving crops of the deltas",
+      "Grown only under glass in cold climates",
+      "Purely cash crops with no food value"
+    ],
+    "correct_index": 0,
+    "solution": "MILLETS — JOWAR (sorghum), BAJRA (pearl millet), and RAGI (finger millet) — are HARDY, DROUGHT-RESISTANT COARSE GRAINS grown on POORER SOILS in DRY, rainfed regions where wheat and rice are difficult. They are an important source of FOOD (nutritious grains) and FODDER, and are well suited to marginal lands. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sugarcane in India is grown in two broad belts: the northern plains and __________.",
+    "options": [
+      "The peninsular/southern region (e.g., Maharashtra, Karnataka, Tamil Nadu), where yields are often higher",
+      "Only in the Himalayas",
+      "Only in the Thar desert",
+      "Only in Kashmir valley"
+    ],
+    "correct_index": 0,
+    "solution": "SUGARCANE is grown in two broad belts: the NORTHERN PLAINS (Uttar Pradesh, Bihar, Punjab, Haryana) and the PENINSULAR/SOUTHERN region (MAHARASHTRA, KARNATAKA, TAMIL NADU, Andhra Pradesh). The southern belt often gives HIGHER YIELDS and better sugar recovery due to a more suitable maritime climate and longer crushing season. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Cotton, an important fibre and cash crop, grows best on the __________ of the Deccan plateau.",
+    "options": [
+      "Black soil (regur)",
+      "Sandy desert soil",
+      "Laterite soil of hilltops",
+      "Snowy alpine soil"
+    ],
+    "correct_index": 0,
+    "solution": "COTTON, a key FIBRE and CASH crop, grows best on the BLACK SOIL (REGUR) of the DECCAN PLATEAU (Maharashtra, Gujarat, Madhya Pradesh, etc.). Black soil's high moisture-retaining capacity suits cotton, which needs high temperature, light rainfall/irrigation, and a frost-free growing period. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which crops are the main OILSEEDS grown in India?",
+    "options": [
+      "Groundnut, mustard, soybean, sunflower, sesame and others",
+      "Only rice and wheat",
+      "Only tea and coffee",
+      "Only jute and cotton"
+    ],
+    "correct_index": 0,
+    "solution": "The main OILSEEDS grown in India include GROUNDNUT, MUSTARD (rapeseed), SOYBEAN, SUNFLOWER, SESAME (til), linseed, and castor. India is a major producer of oilseeds, which supply edible oils and are important for both diet and industry. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tea, an important plantation crop, requires __________.",
+    "options": [
+      "Warm, moist climate with well-distributed rainfall and well-drained sloping land (as in Assam and the Nilgiris/Darjeeling)",
+      "Cold desert conditions with no rain",
+      "Waterlogged flat deltas",
+      "Frost and snow all year"
+    ],
+    "correct_index": 0,
+    "solution": "TEA, a PLANTATION crop, requires a WARM, MOIST CLIMATE with WELL-DISTRIBUTED RAINFALL throughout the year and WELL-DRAINED SLOPING LAND (so water does not stagnate at the roots). It is grown chiefly in ASSAM, the DARJEELING hills (West Bengal), and the NILGIRIS in the south. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coffee cultivation in India is concentrated in the hilly tracts of __________.",
+    "options": [
+      "The Western Ghats — Karnataka, Kerala and Tamil Nadu",
+      "The Thar desert",
+      "The Gangetic delta",
+      "The Kashmir valley"
+    ],
+    "correct_index": 0,
+    "solution": "COFFEE cultivation in India is concentrated in the hilly tracts of the WESTERN GHATS — chiefly KARNATAKA (the leading producer), KERALA, and TAMIL NADU. These highlands provide the shade, moderate temperatures, and well-drained slopes coffee needs. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'Green Revolution' refers to __________.",
+    "options": [
+      "The large increase in foodgrain (especially wheat and rice) production from the mid-1960s using high-yielding variety (HYV) seeds, fertilizers, irrigation and modern inputs",
+      "The planting of more forests",
+      "A revolution in milk production",
+      "The greening of deserts by rainfall"
+    ],
+    "correct_index": 0,
+    "solution": "The GREEN REVOLUTION refers to the LARGE INCREASE in FOODGRAIN production — especially WHEAT and later RICE — from the MID-1960s, achieved through the use of HIGH-YIELDING VARIETY (HYV) SEEDS, chemical FERTILIZERS, PESTICIDES, assured IRRIGATION, and modern machinery. It made India self-sufficient in foodgrains but was concentrated in well-irrigated regions like Punjab, Haryana, and western UP. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A negative consequence of the Green Revolution has been __________.",
+    "options": [
+      "Regional disparities, over-use of groundwater and fertilizers, soil degradation and declining water tables in intensively farmed areas",
+      "Complete elimination of all farming",
+      "A fall in total foodgrain output",
+      "The disappearance of irrigation"
+    ],
+    "correct_index": 0,
+    "solution": "Negative consequences of the GREEN REVOLUTION include REGIONAL DISPARITIES (benefits concentrated in a few well-irrigated states, widening the gap with rainfed regions), OVER-EXTRACTION of GROUNDWATER (falling WATER TABLES), excessive use of CHEMICAL FERTILIZERS and PESTICIDES, SOIL DEGRADATION (salinity, loss of fertility), and rising input costs. These have raised concerns about the sustainability of intensive agriculture. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'White Revolution' (Operation Flood) in India is associated with a big rise in the production of __________.",
+    "options": [
+      "Milk (dairy)",
+      "Wheat",
+      "Cotton",
+      "Coal"
+    ],
+    "correct_index": 0,
+    "solution": "The WHITE REVOLUTION, launched through OPERATION FLOOD, is associated with a large rise in MILK (DAIRY) production, making India one of the world's largest milk producers. It organised dairy farmers into cooperatives and greatly increased milk output and availability. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Land degradation' refers to __________.",
+    "options": [
+      "A decline in the productive capacity of land due to soil erosion, salinity, waterlogging, desertification and misuse",
+      "An increase in soil fertility",
+      "The building of new roads",
+      "The planting of dense forests"
+    ],
+    "correct_index": 0,
+    "solution": "LAND DEGRADATION is the DECLINE in the PRODUCTIVE CAPACITY of land, caused by processes such as SOIL EROSION (by water and wind), SALINITY and ALKALINITY, WATERLOGGING, DESERTIFICATION, gully/ravine formation, and general MISUSE (over-cultivation, over-grazing, deforestation). It reduces land's ability to support crops and vegetation. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Waterlogging and salinity/alkalinity of soils in canal-irrigated areas are mainly caused by __________.",
+    "options": [
+      "Excessive irrigation without proper drainage, which raises the water table and brings salts to the surface",
+      "Too little water ever reaching the land",
+      "Planting too many trees",
+      "Natural rainfall alone"
+    ],
+    "correct_index": 0,
+    "solution": "WATERLOGGING and SALINITY/ALKALINITY in canal-irrigated areas are mainly caused by EXCESSIVE IRRIGATION WITHOUT PROPER DRAINAGE. Over-watering RAISES the WATER TABLE toward the surface; as this water evaporates, it leaves behind SALTS, making the soil saline/alkaline and reducing its fertility. Good drainage and careful water management prevent this. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a major measure to combat soil erosion on sloping farmland?",
+    "options": [
+      "Contour ploughing, terracing, strip cropping and afforestation",
+      "Removing all vegetation",
+      "Ploughing straight up and down the slope",
+      "Overgrazing the slopes"
+    ],
+    "correct_index": 0,
+    "solution": "Major measures to combat SOIL EROSION on sloping land include CONTOUR PLOUGHING (ploughing along the contours to slow runoff), TERRACING (cutting step-like fields on slopes), STRIP CROPPING (alternating strips of crops), building bunds, and AFFORESTATION (planting trees and grass to bind the soil). These reduce the speed of water and hold the soil in place. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The vast majority of India's farmers are __________ farmers.",
+    "options": [
+      "Small and marginal (holding small plots of land)",
+      "Large plantation owners",
+      "Landless with no cultivation at all",
+      "Only urban businessmen"
+    ],
+    "correct_index": 0,
+    "solution": "The VAST MAJORITY of India's farmers are SMALL and MARGINAL FARMERS, holding SMALL PLOTS of land (marginal farmers hold under 1 hectare; small farmers 1–2 hectares). Their small, often fragmented holdings limit their incomes, investment capacity, and adoption of new technology, making their livelihoods vulnerable. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Subsistence agriculture' means farming in which __________.",
+    "options": [
+      "Farmers grow food mainly to feed their own family, with little surplus for sale",
+      "All produce is exported abroad",
+      "Only cash crops are grown for profit",
+      "No crops are grown at all"
+    ],
+    "correct_index": 0,
+    "solution": "SUBSISTENCE AGRICULTURE is farming in which farmers grow crops MAINLY to FEED their OWN FAMILY and meet local needs, with LITTLE or NO SURPLUS left for the market. It contrasts with COMMERCIAL agriculture, where crops are grown primarily for SALE and profit. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Commercial agriculture' is characterised by __________.",
+    "options": [
+      "Growing crops mainly for sale in the market, often using modern inputs and larger-scale production (e.g., plantation crops, cotton, sugarcane)",
+      "Growing food only for the household",
+      "Never using any technology",
+      "Producing nothing for sale"
+    ],
+    "correct_index": 0,
+    "solution": "COMMERCIAL AGRICULTURE is characterised by growing crops MAINLY for SALE in the MARKET rather than for household consumption. It often uses MODERN INPUTS (HYV seeds, fertilizers, machinery) and larger-scale, market-oriented production. Examples include PLANTATION crops (tea, coffee), COTTON, and SUGARCANE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Plantation agriculture is a type of commercial farming characterised by __________.",
+    "options": [
+      "Growing a single cash crop on a large estate using much capital and labour, mainly for the market/export",
+      "Growing many food crops on tiny plots for self-use",
+      "No use of hired labour",
+      "Rearing only cattle"
+    ],
+    "correct_index": 0,
+    "solution": "PLANTATION AGRICULTURE is a form of COMMERCIAL farming in which a SINGLE CASH CROP (such as TEA, COFFEE, RUBBER, or spices) is grown on a LARGE ESTATE using much CAPITAL and LABOUR, with production geared mainly toward the MARKET and EXPORT. It is capital- and labour-intensive and often factory-linked for processing. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One important strategy for making Indian agriculture more sustainable is __________.",
+    "options": [
+      "Diversification of crops, efficient water use (e.g., drip/sprinkler irrigation), organic manures and integrated farming",
+      "Growing only one crop everywhere forever",
+      "Using ever more chemicals without limit",
+      "Abandoning all irrigation"
+    ],
+    "correct_index": 0,
+    "solution": "Strategies for SUSTAINABLE Indian agriculture include CROP DIVERSIFICATION (reducing dependence on water-intensive rice/wheat), EFFICIENT WATER USE through DRIP and SPRINKLER IRRIGATION, use of ORGANIC MANURES and biofertilizers, INTEGRATED PEST MANAGEMENT, and mixed/integrated farming. These conserve soil and water and maintain long-term productivity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The problem of small and fragmented landholdings in India can be addressed through __________.",
+    "options": [
+      "Consolidation of holdings and cooperative farming",
+      "Dividing land into ever-smaller pieces",
+      "Banning all farming",
+      "Removing irrigation facilities"
+    ],
+    "correct_index": 0,
+    "solution": "The problem of SMALL and FRAGMENTED landholdings (scattered tiny plots that are hard to farm efficiently) can be addressed through CONSOLIDATION of HOLDINGS — combining scattered plots into compact blocks — and through COOPERATIVE FARMING, where farmers pool land and resources. These improve efficiency, allow mechanisation, and reduce wasted boundaries. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about India's foodgrain situation is correct?",
+    "options": [
+      "India achieved self-sufficiency in foodgrains largely due to the Green Revolution, though challenges of sustainability, distribution and nutrition remain",
+      "India produces no foodgrains",
+      "India remains fully dependent on food imports",
+      "Foodgrain production has become irrelevant"
+    ],
+    "correct_index": 0,
+    "solution": "India ACHIEVED SELF-SUFFICIENCY in FOODGRAINS largely because of the GREEN REVOLUTION, moving from food shortages to surpluses. However, CHALLENGES REMAIN — the SUSTAINABILITY of intensive farming (water, soil), equitable DISTRIBUTION (access for the poor), regional imbalances, and NUTRITION security. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): India's cropping intensity is increasing. Reason (R): Expansion of irrigation and short-duration HYV seeds allow more than one crop to be grown on the same land in a year. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — India's CROPPING INTENSITY (gross cropped area ÷ net sown area × 100) has been INCREASING. R is TRUE and correctly EXPLAINS A: the EXPANSION of IRRIGATION (assuring water beyond the monsoon) and the use of SHORT-DURATION HYV SEEDS allow the SAME LAND to be cropped MORE THAN ONCE in a year (multiple cropping), which is precisely what raises cropping intensity. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Net irrigated area' plus 'area irrigated more than once' gives the __________.",
+    "options": [
+      "Gross irrigated area",
+      "Net sown area",
+      "Fallow land",
+      "Forest area"
+    ],
+    "correct_index": 0,
+    "solution": "Just as gross cropped area counts multiple-cropped land more than once, the GROSS IRRIGATED AREA = NET IRRIGATED AREA + AREA IRRIGATED MORE THAN ONCE in a year. Net irrigated area counts land once; gross irrigated area accounts for repeated irrigation of the same land in the same year. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pulses (like gram, tur/arhar, moong, urad) are important in Indian agriculture mainly because they __________.",
+    "options": [
+      "Are a major source of protein in the vegetarian diet and, being leguminous, fix nitrogen and restore soil fertility",
+      "Require the most water of all crops",
+      "Cannot be grown in dry areas",
+      "Damage the soil badly"
+    ],
+    "correct_index": 0,
+    "solution": "PULSES (gram, tur/arhar, moong, urad, masur) are important because they are a MAJOR SOURCE of PROTEIN in India's largely VEGETARIAN diet, and because — being LEGUMINOUS crops — they FIX ATMOSPHERIC NITROGEN in the soil, helping RESTORE SOIL FERTILITY. They are hardy and often grown as rotation crops in dry regions. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The largest share of India's total geographical area, among land-use categories, is generally the __________.",
+    "options": [
+      "Net sown area (land under cultivation)",
+      "Land under airports",
+      "Snow-covered peaks",
+      "Urban built-up land"
+    ],
+    "correct_index": 0,
+    "solution": "Among land-use categories, the NET SOWN AREA (land under CULTIVATION) generally accounts for the LARGEST SHARE of India's total geographical area — reflecting India's predominantly agricultural land use — followed by forests and land under non-agricultural uses. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Jhum (shifting) cultivation, practised in parts of northeastern India, involves __________.",
+    "options": [
+      "Clearing and burning a patch of forest, cultivating it for a few years until fertility falls, then moving to a new patch",
+      "Permanent intensive farming of one field forever",
+      "Growing crops only in glasshouses",
+      "Cultivating the sea bed"
+    ],
+    "correct_index": 0,
+    "solution": "JHUM (SHIFTING) CULTIVATION, practised in parts of NORTHEASTERN India (and other hilly/tribal areas), involves CLEARING and BURNING a patch of FOREST ('slash and burn'), CULTIVATING it for a FEW YEARS until soil fertility DECLINES, and then MOVING to a NEW PATCH while the old one is left to recover. It is a traditional but land-extensive and increasingly unsustainable practice. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason forests occupy less than the desired share of India's land is __________.",
+    "options": [
+      "Clearing of forests over time for agriculture, settlements and other uses, leaving forest cover below the recommended level",
+      "That India has no forests naturally",
+      "Excessive afforestation",
+      "That forests were converted to oceans"
+    ],
+    "correct_index": 0,
+    "solution": "FORESTS occupy LESS than the desired share (the National Forest Policy recommends about 33% of land under forest) mainly because of the CLEARING of FORESTS over time for AGRICULTURE, SETTLEMENTS, industry, and other uses. This long history of deforestation has kept actual forest cover BELOW the recommended level. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a crop with its ideal soil/condition?",
+    "options": [
+      "Cotton → black soil; Rice → alluvial soil with abundant water; Tea → well-drained sloping land with high rainfall",
+      "Cotton → snowfields; Rice → desert sand; Tea → waterlogged plains",
+      "Cotton → alpine ice; Rice → rocky plateau; Tea → dry desert",
+      "All crops grow identically everywhere"
+    ],
+    "correct_index": 0,
+    "solution": "The correct matches are: COTTON → BLACK SOIL (regur) of the Deccan; RICE → ALLUVIAL SOIL with ABUNDANT WATER (rainfall/irrigation); and TEA → WELL-DRAINED SLOPING LAND with HIGH, well-distributed RAINFALL. Each crop is suited to particular soil and climatic conditions. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key challenge for Indian agriculture linked to the monsoon is __________.",
+    "options": [
+      "Dependence on an uncertain and variable monsoon, so that failure or delay of rains can cause droughts and crop losses",
+      "Too much assured irrigation everywhere",
+      "The complete absence of any rainfall",
+      "That the monsoon never affects farming"
+    ],
+    "correct_index": 0,
+    "solution": "A key CHALLENGE for Indian agriculture is its DEPENDENCE on the UNCERTAIN and VARIABLE MONSOON. A large share of farmland is RAINFED, so a FAILURE, DELAY, or poor distribution of the monsoon rains can cause DROUGHTS and CROP LOSSES, while excessive rain can cause floods. This makes output unstable and farmers vulnerable. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Expanding irrigation is important for Indian agriculture because it __________.",
+    "options": [
+      "Provides assured water, reduces dependence on the monsoon, allows multiple cropping and higher yields",
+      "Reduces crop production",
+      "Makes the soil permanently barren immediately",
+      "Is only useful in high mountains"
+    ],
+    "correct_index": 0,
+    "solution": "Expanding IRRIGATION is important because it provides ASSURED WATER, REDUCES DEPENDENCE on the uncertain MONSOON, enables MULTIPLE CROPPING (raising cropping intensity), and supports HIGHER YIELDS and HYV crops. It was essential to the Green Revolution — though it must be managed to avoid waterlogging, salinity, and groundwater depletion. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best describes 'agricultural land use efficiency' concerns in India?",
+    "options": [
+      "Making the best use of limited land through higher yields, multiple cropping, reduced degradation and diversification, given shrinking per capita land",
+      "Leaving as much land uncultivated as possible",
+      "Converting all farmland to cities",
+      "Growing only one crop nationwide"
+    ],
+    "correct_index": 0,
+    "solution": "AGRICULTURAL LAND-USE EFFICIENCY concerns in India centre on making the BEST USE of LIMITED land — since PER CAPITA land is SHRINKING — through HIGHER YIELDS, MULTIPLE CROPPING (raising cropping intensity), REDUCING land DEGRADATION, and DIVERSIFICATION toward high-value and sustainable crops. The aim is to produce more from less land without ruining it. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The problem of declining groundwater tables in Punjab, Haryana and western UP is largely a result of __________.",
+    "options": [
+      "Intensive cultivation of water-guzzling crops (like rice) using excessive tube-well irrigation",
+      "Too little farming in the region",
+      "Complete lack of irrigation",
+      "Growing only drought-resistant millets"
+    ],
+    "correct_index": 0,
+    "solution": "The DECLINING GROUNDWATER TABLES in PUNJAB, HARYANA, and WESTERN UP are largely a result of INTENSIVE CULTIVATION of WATER-GUZZLING crops — especially RICE — using EXCESSIVE TUBE-WELL (groundwater) IRRIGATION. Pumping water faster than it is recharged has steadily lowered the water table, threatening the sustainability of Green Revolution agriculture. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Jute, the 'golden fibre', is grown mainly in the __________ because it needs high temperature, heavy rainfall and fertile alluvial soil.",
+    "options": [
+      "Ganga–Brahmaputra delta region (West Bengal and adjoining areas)",
+      "Thar desert of Rajasthan",
+      "Deccan black-soil plateau",
+      "Cold Himalayan valleys"
+    ],
+    "correct_index": 0,
+    "solution": "JUTE, the 'GOLDEN FIBRE', is grown mainly in the GANGA–BRAHMAPUTRA DELTA region — especially WEST BENGAL and adjoining areas (Bihar, Assam). It requires HIGH TEMPERATURE, HEAVY RAINFALL, and FERTILE, well-drained ALLUVIAL SOIL renewed by flooding, along with plenty of water for retting the fibre. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Intensive subsistence agriculture' in densely populated parts of India is characterised by __________.",
+    "options": [
+      "High labour input on small plots, heavy use of manures/inputs and multiple cropping to get maximum output from limited land",
+      "Vast farms worked by a few machines",
+      "Leaving most land fallow permanently",
+      "Growing crops only for export"
+    ],
+    "correct_index": 0,
+    "solution": "INTENSIVE SUBSISTENCE AGRICULTURE, practised in DENSELY POPULATED regions, is characterised by HIGH LABOUR INPUT on SMALL PLOTS, HEAVY USE of MANURES, fertilizers, and irrigation, and MULTIPLE CROPPING — all aimed at squeezing the MAXIMUM OUTPUT from LIMITED land to feed a large population. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'net sown area' refers to the:",
+    "options": [
+      "total geographical area",
+      "area actually sown with crops in a year (counted once)",
+      "forest area",
+      "fallow land"
+    ],
+    "correct_index": 1,
+    "solution": "Net sown area is the area actually sown with crops in a year (each field counted once).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Gross cropped area' differs from net sown area in that it:",
+    "options": [
+      "excludes some fields",
+      "counts area sown more than once (so land sown twice is counted twice)",
+      "is smaller",
+      "includes forests"
+    ],
+    "correct_index": 1,
+    "solution": "Gross cropped area counts land sown more than once for each crop, so double-cropped land is counted more than once — it exceeds net sown area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Cropping intensity' is calculated as:",
+    "options": [
+      "net sown area / total area",
+      "(gross cropped area / net sown area) × 100",
+      "forest area / total area",
+      "fallow / net sown area"
+    ],
+    "correct_index": 1,
+    "solution": "Cropping intensity = (gross cropped area / net sown area) × 100, indicating how many crops are grown per year on the land.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Net irrigated area' plus 'area irrigated more than once' gives the:",
+    "options": [
+      "net sown area",
+      "gross irrigated area",
+      "fallow land",
+      "forest area"
+    ],
+    "correct_index": 1,
+    "solution": "Net irrigated area plus area irrigated more than once gives the gross irrigated area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Fallow land' (current fallow) refers to land that:",
+    "options": [
+      "is permanently barren",
+      "is left uncultivated for one agricultural year (to recover fertility)",
+      "is under forest",
+      "is built upon"
+    ],
+    "correct_index": 1,
+    "solution": "Current fallow is cultivable land left uncultivated for one agricultural year to help it recover fertility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Culturable waste land' is land that:",
+    "options": [
+      "can never be cultivated",
+      "is cultivable but has been left uncultivated for more than five years",
+      "is under forest",
+      "is a road"
+    ],
+    "correct_index": 1,
+    "solution": "Culturable waste land is cultivable land left uncultivated for more than five years (it could be reclaimed for farming).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Barren and waste land' in land-use records refers to land that:",
+    "options": [
+      "is highly fertile",
+      "cannot be brought under cultivation (like deserts, rocky/hilly terrain) with available technology",
+      "is double-cropped",
+      "is forest"
+    ],
+    "correct_index": 1,
+    "solution": "Barren and waste land cannot be brought under cultivation with available technology — e.g., deserts, ravines, rocky and hilly terrain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The land under 'non-agricultural uses' (settlements, roads, industry) has been __________ over time in India.",
+    "options": [
+      "decreasing",
+      "increasing",
+      "constant",
+      "abolished"
+    ],
+    "correct_index": 1,
+    "solution": "Land under non-agricultural uses has been increasing over time, driven by urbanisation, industry and infrastructure — a concern for agricultural land.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The largest share of India's total geographical area, among land-use categories, is generally the:",
+    "options": [
+      "forest area",
+      "net sown area",
+      "barren land",
+      "land under non-agricultural uses"
+    ],
+    "correct_index": 1,
+    "solution": "The net sown area generally forms the largest single share of India's total reporting area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The net sown area as a share of the total is highest in states like Punjab and Haryana because:",
+    "options": [
+      "they are hilly",
+      "of extensive irrigation, fertile alluvial soil and level plains suited to intensive cultivation",
+      "of dense forests",
+      "of deserts"
+    ],
+    "correct_index": 1,
+    "solution": "Punjab and Haryana have very high net sown area due to extensive irrigation, fertile alluvial soil and flat plains suited to intensive farming.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason forests occupy less than the desired one-third share of India's land is:",
+    "options": [
+      "too much afforestation",
+      "the pressure of population and the clearing of forests for agriculture, settlement and other uses",
+      "cold climate",
+      "excess of rainfall"
+    ],
+    "correct_index": 1,
+    "solution": "Population pressure and the clearing of forests for agriculture, settlement and other uses have kept forest cover below the desired one-third.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Per capita availability of agricultural land in India is __________ due to population growth.",
+    "options": [
+      "increasing",
+      "declining",
+      "constant",
+      "unlimited"
+    ],
+    "correct_index": 1,
+    "solution": "Per capita availability of agricultural land is declining as the population grows while cultivable land is limited.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Dryland farming' (rainfed agriculture) is practised:",
+    "options": [
+      "in canal-irrigated areas",
+      "in areas with low or unreliable rainfall, without assured irrigation (growing hardy, drought-resistant crops)",
+      "only in the north-east",
+      "in flooded fields"
+    ],
+    "correct_index": 1,
+    "solution": "Dryland farming is practised in areas of low/unreliable rainfall without assured irrigation, growing hardy, drought-resistant crops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Wetland farming' differs from dryland farming in that it:",
+    "options": [
+      "uses no water",
+      "is practised in areas of ample water/irrigation, growing water-loving crops like rice and jute",
+      "grows only millets",
+      "has no crops"
+    ],
+    "correct_index": 1,
+    "solution": "Wetland farming is practised where water is ample (rainfall or irrigation), growing water-loving crops like rice, jute and sugarcane.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three main cropping seasons of India are:",
+    "options": [
+      "summer, winter, spring",
+      "kharif, rabi and zaid",
+      "wet, dry, humid",
+      "hot, cold, mild"
+    ],
+    "correct_index": 1,
+    "solution": "The three cropping seasons are kharif (monsoon), rabi (winter) and zaid (summer).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rice, the most important food crop of India, is chiefly grown in areas with:",
+    "options": [
+      "low rainfall",
+      "high temperature, high humidity and heavy rainfall (or assured irrigation)",
+      "cold, dry climate",
+      "desert conditions"
+    ],
+    "correct_index": 1,
+    "solution": "Rice needs high temperature, high humidity and heavy rainfall (or assured irrigation) — it is a kharif crop of the wetter regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wheat, the second most important cereal, is mainly grown in:",
+    "options": [
+      "the north-east",
+      "the north-western and northern plains (Punjab, Haryana, UP), a rabi crop",
+      "the coastal south",
+      "deserts"
+    ],
+    "correct_index": 1,
+    "solution": "Wheat is mainly grown in the north-western and northern plains (Punjab, Haryana, UP) as a rabi (winter) crop.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Millets such as jowar, bajra and ragi are important because they are:",
+    "options": [
+      "water-intensive",
+      "hardy, drought-resistant crops that grow in poorer soils and drier areas",
+      "only grown in wet areas",
+      "luxury crops"
+    ],
+    "correct_index": 1,
+    "solution": "Millets are hardy, drought-resistant crops that grow in poorer soils and drier areas, important for food security in such regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Cotton grows best on the __________ of the Deccan plateau.",
+    "options": [
+      "laterite soil",
+      "black (regur) soil",
+      "sandy desert soil",
+      "peaty soil"
+    ],
+    "correct_index": 1,
+    "solution": "Cotton grows best on the black (regur) soil of the Deccan plateau.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tea, an important plantation crop, requires:",
+    "options": [
+      "dry desert conditions",
+      "a warm, humid climate with heavy rainfall and well-drained sloping land",
+      "cold, dry plains",
+      "waterlogged fields"
+    ],
+    "correct_index": 1,
+    "solution": "Tea requires a warm, humid climate with abundant rainfall and well-drained sloping land (e.g., Assam, Darjeeling, Nilgiris).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coffee cultivation in India is concentrated in the hilly tracts of:",
+    "options": [
+      "Punjab and Haryana",
+      "Karnataka, Kerala and Tamil Nadu (the Western Ghats/south)",
+      "Assam",
+      "Rajasthan"
+    ],
+    "correct_index": 1,
+    "solution": "Coffee is concentrated in the hilly tracts of the Western Ghats — Karnataka, Kerala and Tamil Nadu.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Jute, the 'golden fibre', is grown mainly in the:",
+    "options": [
+      "Deccan plateau",
+      "Ganga-Brahmaputra delta (West Bengal, Assam), needing high temperature, heavy rain and alluvial soil",
+      "Thar desert",
+      "Himalayan valleys"
+    ],
+    "correct_index": 1,
+    "solution": "Jute is grown mainly in the Ganga-Brahmaputra delta (West Bengal, Assam), needing high temperature, heavy rainfall and fertile alluvial soil.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sugarcane in India is grown in two broad belts: the northern plains and:",
+    "options": [
+      "the Himalayas",
+      "the peninsular/southern region (Maharashtra, Karnataka, Tamil Nadu, AP)",
+      "the Thar desert",
+      "the north-east only"
+    ],
+    "correct_index": 1,
+    "solution": "Sugarcane is grown in the northern plains and the peninsular/southern region (Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Green Revolution' refers to the large increase in food-grain production achieved through:",
+    "options": [
+      "traditional methods",
+      "high-yielding-variety (HYV) seeds, fertilisers, pesticides and assured irrigation",
+      "reducing farming",
+      "importing food"
+    ],
+    "correct_index": 1,
+    "solution": "The Green Revolution boosted food-grain output through HYV seeds, fertilisers, pesticides and assured irrigation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A negative consequence of the Green Revolution has been:",
+    "options": [
+      "food shortage",
+      "environmental problems — soil degradation, groundwater depletion, and regional/farmer inequalities",
+      "the end of farming",
+      "reduced yields"
+    ],
+    "correct_index": 1,
+    "solution": "The Green Revolution caused soil degradation, groundwater depletion, pollution from chemicals, and widened regional and farmer inequalities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'White Revolution' (Operation Flood) in India is associated with a big rise in the production of:",
+    "options": [
+      "food grains",
+      "milk (dairy)",
+      "cotton",
+      "tea"
+    ],
+    "correct_index": 1,
+    "solution": "The White Revolution (Operation Flood) greatly raised milk (dairy) production.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Land degradation' refers to:",
+    "options": [
+      "improvement of land",
+      "the decline in the quality/productivity of land (through erosion, salinity, waterlogging, etc.)",
+      "adding land",
+      "forest growth"
+    ],
+    "correct_index": 1,
+    "solution": "Land degradation is the decline in the quality and productivity of land due to erosion, salinity, waterlogging, deforestation and misuse.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Waterlogging and salinity/alkalinity in canal-irrigated areas are mainly caused by:",
+    "options": [
+      "too little water",
+      "over-irrigation and poor drainage (raising the water table and bringing salts to the surface)",
+      "afforestation",
+      "dry farming"
+    ],
+    "correct_index": 1,
+    "solution": "Over-irrigation with poor drainage raises the water table and brings salts to the surface, causing waterlogging and salinity/alkalinity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The problem of declining groundwater tables in Punjab, Haryana and western UP is largely a result of:",
+    "options": [
+      "low water use",
+      "over-extraction of groundwater for irrigation (especially for water-intensive crops like rice)",
+      "afforestation",
+      "less farming"
+    ],
+    "correct_index": 1,
+    "solution": "Declining groundwater results from over-extraction for irrigation, especially of water-intensive crops like rice in these Green-Revolution states.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The problem of small and fragmented landholdings in India can be addressed through:",
+    "options": [
+      "further fragmentation",
+      "consolidation of holdings and cooperative farming",
+      "abandoning land",
+      "selling to foreigners"
+    ],
+    "correct_index": 1,
+    "solution": "Small, fragmented holdings can be addressed through the consolidation of holdings and cooperative farming.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Subsistence agriculture' means farming in which:",
+    "options": [
+      "all produce is exported",
+      "the farmer grows mainly for the family's own consumption",
+      "only cash crops are grown",
+      "machines do all work"
+    ],
+    "correct_index": 1,
+    "solution": "Subsistence agriculture is farming mainly for the family's own consumption, with little surplus for sale.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Intensive subsistence agriculture' in densely populated parts of India is characterised by:",
+    "options": [
+      "large mechanised farms",
+      "small plots cultivated intensively with much labour and high inputs",
+      "only cattle ranching",
+      "shifting cultivation"
+    ],
+    "correct_index": 1,
+    "solution": "Intensive subsistence agriculture uses small plots cultivated intensively with abundant labour and high inputs in densely populated areas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Commercial agriculture' is characterised by:",
+    "options": [
+      "farming for family use only",
+      "farming crops/livestock mainly for sale in the market, often on a large scale with modern inputs",
+      "no sale",
+      "shifting fields"
+    ],
+    "correct_index": 1,
+    "solution": "Commercial agriculture is farming mainly for sale in the market, often on a larger scale with modern inputs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Plantation agriculture is a type of commercial farming characterised by:",
+    "options": [
+      "small subsistence plots",
+      "large estates growing a single cash crop (like tea, coffee, rubber) for the market/export",
+      "only livestock",
+      "shifting cultivation"
+    ],
+    "correct_index": 1,
+    "solution": "Plantation agriculture uses large estates to grow a single cash crop (tea, coffee, rubber) for the market/export.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Jhum (shifting) cultivation, practised in parts of north-eastern India, involves:",
+    "options": [
+      "permanent fields",
+      "clearing and burning a forest patch, cultivating it a few years, then moving to a new patch",
+      "only irrigation",
+      "cattle ranching"
+    ],
+    "correct_index": 1,
+    "solution": "Jhum (shifting) cultivation involves clearing and burning a forest patch, cultivating it for a few years, then moving on to a new patch.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pulses (gram, tur, moong, urad) are important because they:",
+    "options": [
+      "deplete the soil",
+      "are a major source of protein and, being leguminous, help restore soil fertility (nitrogen fixation)",
+      "need heavy irrigation",
+      "harm the soil"
+    ],
+    "correct_index": 1,
+    "solution": "Pulses are a major protein source and, being leguminous, fix nitrogen and help restore soil fertility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key challenge for Indian agriculture linked to the monsoon is:",
+    "options": [
+      "too much certainty",
+      "its dependence on the uncertain, variable monsoon, causing risk of drought or flood",
+      "no rainfall ever",
+      "constant rainfall"
+    ],
+    "correct_index": 1,
+    "solution": "Indian agriculture's heavy dependence on the uncertain, variable monsoon exposes it to the risk of drought or flood.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Expanding irrigation is important for Indian agriculture because it:",
+    "options": [
+      "reduces yields",
+      "reduces dependence on the uncertain monsoon and allows multiple cropping and higher yields",
+      "harms crops",
+      "stops farming"
+    ],
+    "correct_index": 1,
+    "solution": "Irrigation reduces dependence on the uncertain monsoon and enables multiple cropping and higher yields.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One important strategy for making Indian agriculture more sustainable is:",
+    "options": [
+      "more chemical use",
+      "promoting organic farming, water conservation (drip/sprinkler), crop diversification and soil conservation",
+      "overusing groundwater",
+      "deforestation"
+    ],
+    "correct_index": 1,
+    "solution": "Sustainable strategies include organic farming, efficient water use (drip/sprinkler), crop diversification and soil conservation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): India's cropping intensity is increasing. Reason (R): Expansion of irrigation and short-duration HYV seeds allow more than one crop to be grown on the same land in a year. Which is correct?",
+    "options": [
+      "A is false",
+      "Both A and R are true and R correctly explains A",
+      "A is true but R is false",
+      "Both are false"
+    ],
+    "correct_index": 1,
+    "solution": "Both are true and R explains A: irrigation and short-duration HYV seeds allow multiple cropping, raising cropping intensity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following BEST captures the central message of the chapter 'Land Resources and Agriculture'?",
+    "options": [
+      "land is unlimited",
+      "India's land resources are limited and under growing pressure, and its agriculture — vital to the economy — must be made more productive and sustainable while conserving land and water",
+      "agriculture is unimportant",
+      "land never degrades"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that India's land resources are limited and under growing pressure, and that its agriculture — vital to the economy — must be made more productive and sustainable while conserving land and water resources.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall message of the chapter 'Land Resources and Agriculture' is that:",
+    "options": [
+      "Land and agriculture are of no importance to India",
+      "LAND is a vital but LIMITED resource whose use is recorded in categories (forests, non-agricultural use, barren, fallow, NET SOWN AREA, etc.), with concepts like gross cropped area and CROPPING INTENSITY measuring how intensively it is farmed; Indian AGRICULTURE — largely dependent on the uncertain MONSOON and practised by mostly small and marginal farmers — includes subsistence, commercial and plantation types across the KHARIF, RABI and ZAID seasons, growing food crops (rice, wheat, millets, pulses) and cash crops (cotton, sugarcane, oilseeds, tea, coffee); the GREEN REVOLUTION brought self-sufficiency in foodgrains but also regional disparities and problems of groundwater depletion, soil degradation, waterlogging and salinity; and with PER CAPITA land shrinking, the future needs sustainable, diversified and efficient land and water use",
+      "Only cash crops matter",
+      "Irrigation should be abandoned"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that LAND is a VITAL but LIMITED and shrinking resource. Its use is recorded in land-use categories (FORESTS, land under NON-AGRICULTURAL use, BARREN and waste land, CULTURABLE WASTE, FALLOW lands, and NET SOWN AREA), and concepts like GROSS CROPPED AREA and CROPPING INTENSITY measure how intensively it is cultivated. INDIAN AGRICULTURE is largely DEPENDENT on the UNCERTAIN MONSOON and is practised mostly by SMALL and MARGINAL farmers; it ranges over SUBSISTENCE, COMMERCIAL, and PLANTATION types and three cropping seasons — KHARIF, RABI, and ZAID — producing FOOD CROPS (rice, wheat, millets, pulses) and CASH CROPS (cotton, sugarcane, oilseeds, tea, coffee). The GREEN REVOLUTION brought SELF-SUFFICIENCY in foodgrains but also REGIONAL DISPARITIES and problems of GROUNDWATER DEPLETION, SOIL DEGRADATION, WATERLOGGING, and SALINITY. With PER CAPITA land DECLINING, the way forward lies in SUSTAINABLE, DIVERSIFIED, and EFFICIENT use of land and water. So the overall message is option 2.",
+    "difficulty": "medium"
+  }
 ]
