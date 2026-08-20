@@ -69,14 +69,15 @@ export const SUBJECTS: SubjectConfig[] = [
     blurb: "Indian economy fundamentals — the base for GS-III.",
   },
 
-  // ── Registered but NOT built yet (disabled). Flip `enabled` to onboard. ──
   {
     slug: "science",
     name: "Science",
     codePrefix: "S",
-    enabled: false,
-    blurb: "Science & Technology — coming later.",
+    enabled: true,
+    blurb: "General Science & Technology — the base for GS-III.",
   },
+
+  // ── Registered but NOT built yet (disabled). Flip `enabled` to onboard. ──
   {
     slug: "sociology",
     name: "Sociology",

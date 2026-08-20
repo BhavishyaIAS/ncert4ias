@@ -18,7 +18,8 @@ insert into public.subjects (slug, name, ncert_name, code_prefix, "order", enabl
   ('history',   'History',   null,                          'H', 1, true),
   ('polity',    'Polity',    'Political Science / Civics',  'P', 2, true),
   ('geography', 'Geography', null,                          'G', 3, true),
-  ('economy',   'Economy',   'Economics',                   'E', 4, true)
+  ('economy',   'Economy',   'Economics',                   'E', 4, true),
+  ('science',   'Science',   null,                          'S', 5, true)
 on conflict (slug) do nothing;
 
 insert into public.gs_tags (code, label, note, "order") values
