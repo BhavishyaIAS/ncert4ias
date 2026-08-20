@@ -1,52 +1,1034 @@
 [
-  { "stem": "A mineral is best defined as __________.", "options": ["A naturally occurring homogeneous substance with a definite chemical composition and physical properties", "Any man-made chemical", "A living organism found in soil", "A type of crop"], "correct_index": 0, "solution": "A MINERAL is a NATURALLY OCCURRING, HOMOGENEOUS substance with a DEFINITE (or definable) CHEMICAL COMPOSITION and specific PHYSICAL PROPERTIES (like hardness, colour, and crystal form). Minerals are extracted from the Earth and are the raw materials for metals, fuels, and many industries. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Minerals are broadly classified into two major groups: metallic and __________ minerals.", "options": ["Non-metallic", "Liquid", "Radioactive only", "Organic only"], "correct_index": 0, "solution": "Minerals are broadly classified into METALLIC minerals (which yield metals — e.g., iron ore, bauxite, copper, manganese) and NON-METALLIC minerals (which do not yield metals — e.g., limestone, mica, gypsum, and mineral fuels like coal and petroleum). So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Metallic minerals are further divided into ferrous and non-ferrous. Ferrous minerals are those that __________.", "options": ["Contain iron (e.g., iron ore, manganese, chromite, cobalt)", "Contain no iron and never any metal", "Are always precious metals", "Are only fuels"], "correct_index": 0, "solution": "FERROUS minerals are metallic minerals that CONTAIN IRON — such as IRON ORE, MANGANESE, CHROMITE, and COBALT. NON-FERROUS metallic minerals do NOT contain iron — such as copper, bauxite (aluminium), lead, zinc, and gold. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a NON-FERROUS metallic mineral?", "options": ["Bauxite (source of aluminium)", "Iron ore", "Manganese", "Chromite"], "correct_index": 0, "solution": "BAUXITE (the source of ALUMINIUM) is a NON-FERROUS metallic mineral, as it does not contain iron. Iron ore, manganese, and chromite are all FERROUS minerals (iron-bearing). Other non-ferrous minerals include copper, lead, zinc, and gold. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Iron ore, the backbone of industrial development, is found in India mainly in which type of rocks/region?", "options": ["Ancient (Archean/Dharwar) rocks of the peninsular plateau — e.g., Odisha, Jharkhand, Chhattisgarh, Karnataka", "The young alluvial northern plains", "Coastal sand dunes", "Himalayan snowfields"], "correct_index": 0, "solution": "IRON ORE is found mainly in the ANCIENT (Archean/Dharwar) rocks of the PENINSULAR PLATEAU. The major producing states are ODISHA, JHARKHAND, CHHATTISGARH, KARNATAKA (and Goa, Maharashtra). The young alluvial plains lack such metallic mineral deposits. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The highest-quality iron ore, with about 70% iron content, is __________.", "options": ["Magnetite", "Limonite", "Siderite", "Laterite"], "correct_index": 0, "solution": "MAGNETITE is the FINEST/HIGHEST-QUALITY iron ore, with an iron content of about 70%, and it has excellent magnetic properties. HAEMATITE (about 60–70% iron) is the most important industrially and most abundant; LIMONITE and SIDERITE are lower-grade ores. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Manganese is an important ferrous mineral used mainly in __________.", "options": ["The manufacture of iron and steel (and in making alloys, dry batteries, etc.)", "Making bread", "Producing drinking water", "Generating solar power directly"], "correct_index": 0, "solution": "MANGANESE is an important FERROUS mineral used mainly in the MANUFACTURE of IRON and STEEL (as a deoxidiser and to harden steel), as well as in making ALLOYS (like ferro-manganese), DRY BATTERIES, and in the chemical and paint industries. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Bauxite is the chief ore of which metal, valued for being light, strong and a good conductor?", "options": ["Aluminium", "Iron", "Copper", "Gold"], "correct_index": 0, "solution": "BAUXITE is the chief ORE of ALUMINIUM. Aluminium is valued for being LIGHT, STRONG, resistant to corrosion, and a GOOD CONDUCTOR of electricity, making it important in aircraft, utensils, electrical, packaging, and construction industries. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Copper, an important non-ferrous metal, is used chiefly because it is __________.", "options": ["A very good conductor of electricity and heat and is ductile (used in electrical wiring, electronics)", "The lightest metal", "Radioactive", "A fuel"], "correct_index": 0, "solution": "COPPER is used chiefly because it is a VERY GOOD CONDUCTOR of ELECTRICITY and HEAT and is highly DUCTILE and malleable. These properties make it essential for ELECTRICAL WIRING, ELECTRONICS, and electrical goods, as well as for alloys and utensils. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Mica, a non-metallic mineral occurring in the Chota Nagpur plateau, is prized in the electrical industry because it is __________.", "options": ["An excellent insulator that can withstand high voltage and has low power loss", "A good conductor of electricity", "Highly flammable", "A liquid fuel"], "correct_index": 0, "solution": "MICA is a NON-METALLIC mineral prized in the ELECTRICAL and ELECTRONIC industries because it is an EXCELLENT INSULATOR — it can WITHSTAND HIGH VOLTAGE and has LOW POWER LOSS (low dielectric loss). It occurs in the Chota Nagpur plateau (Jharkhand), Rajasthan, and Andhra Pradesh. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Minerals are considered a __________ resource, which means their reckless use is a serious concern.", "options": ["Non-renewable (exhaustible) resource that takes millions of years to form", "Renewable resource that regrows quickly", "Resource that never runs out", "Man-made resource"], "correct_index": 0, "solution": "Minerals are a NON-RENEWABLE (EXHAUSTIBLE) resource — they take MILLIONS of YEARS to FORM through geological processes, so on a human timescale they cannot be replaced once used up. This is why their RECKLESS, wasteful use is a serious concern, and why conservation and recycling are important. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Energy resources are broadly classified into conventional and __________ sources.", "options": ["Non-conventional", "Metallic", "Ferrous", "Non-metallic"], "correct_index": 0, "solution": "ENERGY RESOURCES are broadly classified into CONVENTIONAL sources (long-used ones like coal, petroleum, natural gas, firewood, and hydroelectricity) and NON-CONVENTIONAL sources (newer, mostly renewable ones like solar, wind, tidal, geothermal, and biogas energy). So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following is a CONVENTIONAL source of energy?", "options": ["Coal", "Solar energy", "Wind energy", "Tidal energy"], "correct_index": 0, "solution": "COAL is a CONVENTIONAL source of energy, along with PETROLEUM, NATURAL GAS, firewood, and HYDROELECTRICITY. SOLAR, WIND, and TIDAL energy are NON-CONVENTIONAL (renewable) sources. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Coal, the most abundant fossil fuel in India, is used mainly for __________.", "options": ["Generating thermal electricity, and as fuel for industries (like iron and steel) and railways in the past", "Making drinking water", "Producing solar panels", "Growing crops"], "correct_index": 0, "solution": "COAL, India's most ABUNDANT fossil fuel, is used mainly for GENERATING THERMAL ELECTRICITY (in coal-fired power plants, which produce the bulk of India's electricity), and as a FUEL and raw material for INDUSTRIES like IRON and STEEL. It also powered RAILWAYS (steam engines) in the past. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The bulk of India's coal reserves occur in rock series of the __________ age, found in river valleys like the Damodar.", "options": ["Gondwana", "Tertiary", "Quaternary", "Vedic"], "correct_index": 0, "solution": "The BULK of India's COAL reserves occur in GONDWANA rock series (about 250 million years old), found in the river valleys of the DAMODAR (Jharkhand–West Bengal), Mahanadi, Godavari, and Son. A smaller amount is younger TERTIARY coal (in the northeast). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Petroleum (mineral oil) is often called 'liquid gold' and is found in India in areas such as __________.", "options": ["Assam (Digboi), Gujarat, and offshore Mumbai High", "The Himalayan peaks", "The Thar desert dunes only", "The Chota Nagpur plateau"], "correct_index": 0, "solution": "PETROLEUM (mineral OIL), called 'LIQUID GOLD', is found in India in ASSAM (DIGBOI — the oldest oilfield), GUJARAT (Ankleshwar, etc.), and the OFFSHORE MUMBAI HIGH field in the Arabian Sea (India's largest). It is refined into petrol, diesel, kerosene, and petrochemical feedstock. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Petroleum and natural gas are typically found in __________ rock formations.", "options": ["Sedimentary (rocks of tertiary age, in folded/anticline structures)", "Igneous rocks like granite", "Metamorphic rocks like marble", "Coal seams only"], "correct_index": 0, "solution": "PETROLEUM and NATURAL GAS are typically found in SEDIMENTARY ROCK formations (often of TERTIARY age), trapped in porous rocks beneath impervious layers, especially in FOLDED structures like ANTICLINES and fault traps. They form from the remains of tiny marine organisms buried in sediments. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Natural gas is considered an environmentally friendlier fossil fuel because it __________.", "options": ["Burns more cleanly with fewer emissions than coal or oil, and is used for power, fertilizers and as CNG/PNG", "Produces the most pollution of all fuels", "Cannot be used for energy", "Is a renewable resource"], "correct_index": 0, "solution": "NATURAL GAS is considered an environmentally FRIENDLIER fossil fuel because it BURNS more CLEANLY, producing FEWER EMISSIONS (less carbon dioxide, sulphur, and particulates) than COAL or OIL. It is used for POWER generation, as feedstock for FERTILIZERS and petrochemicals, and as CNG (for vehicles) and PNG (piped to homes). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Hydroelectric power is generated by __________.", "options": ["Using the force of falling/flowing water to turn turbines, typically at dams", "Burning coal", "Splitting atoms", "Capturing sunlight on panels"], "correct_index": 0, "solution": "HYDROELECTRIC POWER is generated by using the FORCE of FALLING or FLOWING WATER to TURN TURBINES connected to generators, typically at DAMS on rivers. It is a CONVENTIONAL but RENEWABLE and relatively clean source, though it depends on suitable rivers, terrain, and rainfall. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Nuclear (atomic) energy is produced from minerals such as __________.", "options": ["Uranium and thorium", "Coal and petroleum", "Bauxite and copper", "Limestone and gypsum"], "correct_index": 0, "solution": "NUCLEAR (ATOMIC) ENERGY is produced from radioactive minerals — chiefly URANIUM and THORIUM. India has notable reserves of THORIUM (especially in the MONAZITE sands of Kerala's coast) and uses uranium in its nuclear power plants. Nuclear fission releases enormous energy used to generate electricity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "India has large reserves of thorium found in the __________ of Kerala.", "options": ["Monazite sands of the beaches/coast", "Coal seams", "Granite hills", "River deltas of the north"], "correct_index": 0, "solution": "India has large reserves of THORIUM found in the MONAZITE SANDS along the BEACHES/COAST of KERALA (and other coastal areas). Thorium is important for India's long-term nuclear power programme, which aims to use its abundant thorium resources. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Solar energy is a non-conventional source with great potential in India because __________.", "options": ["India receives abundant sunshine over most of the year, especially in states like Rajasthan and Gujarat", "India is always cloudy", "The sun shines only at night", "Solar power needs no sunlight"], "correct_index": 0, "solution": "SOLAR ENERGY has great potential in India because the country receives ABUNDANT SUNSHINE over MOST of the YEAR (a tropical location), especially in the sunny northwest — states like RAJASTHAN and GUJARAT. It is a clean, renewable source harnessed by solar panels (photovoltaic) and solar thermal systems. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Wind energy is best harnessed in areas with __________.", "options": ["Strong, steady winds — such as coastal areas and open plains (e.g., Tamil Nadu, Gujarat, Rajasthan)", "No wind at all", "Dense forests with still air", "Deep underground caves"], "correct_index": 0, "solution": "WIND ENERGY is best harnessed where there are STRONG, STEADY WINDS — such as COASTAL AREAS and OPEN PLAINS and passes. In India, states like TAMIL NADU (which has large wind farms), GUJARAT, RAJASTHAN, Maharashtra, and Karnataka have good wind-energy potential. Wind turbines convert wind's kinetic energy into electricity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Tidal energy is generated by __________.", "options": ["Harnessing the rise and fall of ocean tides (e.g., in the Gulf of Khambhat and Gulf of Kutch)", "Burning ocean water", "The heat of the sun on deserts", "Underground coal fires"], "correct_index": 0, "solution": "TIDAL ENERGY is generated by HARNESSING the RISE and FALL of OCEAN TIDES — the moving tidal water turns turbines to produce electricity. In India, sites with high tidal ranges such as the GULF of KHAMBHAT and GULF of KUTCH (Gujarat) and the Sundarban region have tidal-energy potential. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Geothermal energy is obtained from __________.", "options": ["The heat of the Earth's interior (e.g., hot springs and geysers, as at Manikaran and Puga Valley)", "Cold ocean depths", "The light of the moon", "Burning firewood"], "correct_index": 0, "solution": "GEOTHERMAL ENERGY is obtained from the HEAT of the EARTH's INTERIOR. Where this heat reaches near the surface, it produces HOT SPRINGS and GEYSERS whose steam/hot water can generate power. In India, potential sites include MANIKARAN (Himachal Pradesh) and the PUGA VALLEY (Ladakh). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Biogas, a non-conventional energy source, is produced from __________.", "options": ["The decomposition of organic matter (like cattle dung and agricultural waste) in the absence of oxygen", "Burning coal underground", "Splitting uranium atoms", "Sunlight on solar panels"], "correct_index": 0, "solution": "BIOGAS is produced from the DECOMPOSITION (anaerobic digestion) of ORGANIC MATTER — such as CATTLE DUNG, AGRICULTURAL WASTE, and other biomass — in the ABSENCE of OXYGEN. It yields a combustible gas (mainly methane) used for cooking and lighting, plus a nutrient-rich slurry usable as manure. Gobar gas plants are a common example. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main ADVANTAGE of non-conventional (renewable) energy sources over conventional ones is that they are __________.", "options": ["Renewable, non-polluting (environment-friendly) and inexhaustible", "More polluting", "Certain to run out quickly", "Only found underground"], "correct_index": 0, "solution": "The main ADVANTAGE of NON-CONVENTIONAL (RENEWABLE) energy sources — solar, wind, tidal, geothermal, biogas — over conventional fossil fuels is that they are RENEWABLE and INEXHAUSTIBLE (naturally replenished) and largely NON-POLLUTING (ENVIRONMENT-FRIENDLY). They help reduce dependence on limited, polluting fossil fuels and combat climate change. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A serious problem associated with mining is __________.", "options": ["Environmental degradation — deforestation, land and water pollution, health hazards to miners, and disturbance to ecosystems", "Improved forest cover", "Cleaner air", "No effect on people or nature"], "correct_index": 0, "solution": "MINING causes serious ENVIRONMENTAL DEGRADATION: DEFORESTATION and land degradation (open-pit scars, dumps), LAND and WATER POLLUTION (from dust, tailings, and chemicals), air pollution, and HEALTH HAZARDS to MINERS (respiratory diseases like silicosis, accidents), as well as disturbance to local ECOSYSTEMS and communities. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is the conservation of mineral and energy resources essential?", "options": ["Because they are limited, non-renewable, and take millions of years to form, so wasteful use threatens future availability", "Because they are unlimited", "Because they regrow every year", "Because they have no economic value"], "correct_index": 0, "solution": "Conservation of MINERAL and (fossil) ENERGY resources is essential because they are LIMITED, NON-RENEWABLE, and take MILLIONS of YEARS to FORM. Their reckless, WASTEFUL USE threatens FUTURE AVAILABILITY and burdens coming generations. Conservation through efficient use, recycling of metals, and shifting to renewable energy is therefore vital. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is an effective way to conserve mineral resources?", "options": ["Using minerals efficiently, recycling scrap metals, and finding cheaper substitutes where possible", "Wasting them freely", "Mining as fast as possible with no reuse", "Discarding all metal after one use"], "correct_index": 0, "solution": "Effective ways to CONSERVE MINERAL resources include USING them EFFICIENTLY (reducing wastage in mining and processing), RECYCLING SCRAP METALS (reusing iron, aluminium, copper), and finding cheaper SUBSTITUTES (e.g., using renewable energy or alternative materials) where possible. These extend the life of limited mineral reserves. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Chota Nagpur plateau region (Jharkhand and surroundings) is often called the 'mineral heartland' of India because it is rich in __________.", "options": ["Coal, iron ore, mica, bauxite, copper and other minerals", "Petroleum and natural gas only", "Sand and clay only", "No minerals at all"], "correct_index": 0, "solution": "The CHOTA NAGPUR PLATEAU (JHARKHAND and adjoining Odisha, West Bengal, Chhattisgarh) is called the 'MINERAL HEARTLAND' of India because it is exceptionally RICH in COAL, IRON ORE, MICA, BAUXITE, COPPER, manganese, and other minerals — supporting major industries like iron and steel. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The distribution of India's mineral resources shows that they are concentrated mainly in the __________.", "options": ["Peninsular plateau region (with its ancient crystalline and metamorphic rocks)", "Young alluvial northern plains", "Coastal deltas", "Desert of Rajasthan alone"], "correct_index": 0, "solution": "India's MINERAL resources are concentrated mainly in the PENINSULAR PLATEAU region, whose ANCIENT CRYSTALLINE and METAMORPHIC (Archean/Dharwar) ROCKS contain most of the metallic minerals and coal. The YOUNG ALLUVIAL northern PLAINS, formed of recent sediments, are largely DEVOID of such mineral wealth. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which statement about India's energy situation is correct?", "options": ["India depends heavily on coal for electricity and imports much of its petroleum, so improving energy security and shifting to renewables are priorities", "India exports all its energy needs", "India uses no coal at all", "India has unlimited oil reserves"], "correct_index": 0, "solution": "India DEPENDS HEAVILY on COAL for the bulk of its ELECTRICITY and IMPORTS a large share of its PETROLEUM (crude oil), making it vulnerable to price shocks and supply risks. Hence improving ENERGY SECURITY and SHIFTING to RENEWABLE (non-conventional) energy — solar, wind, etc. — are major national PRIORITIES. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A 'rat-hole' or open-cast mining practice is a concern mainly because it __________.", "options": ["Causes severe land degradation, safety hazards and environmental damage", "Improves the landscape", "Increases soil fertility", "Reduces all pollution"], "correct_index": 0, "solution": "Unregulated mining practices — such as hazardous 'RAT-HOLE' mining or extensive OPEN-CAST (surface) mining — are a concern because they cause SEVERE LAND DEGRADATION (huge pits, spoil heaps), SAFETY HAZARDS (collapses, accidents to miners), and ENVIRONMENTAL DAMAGE (deforestation, water and air pollution). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): India is promoting solar and wind energy. Reason (R): Renewable sources reduce dependence on imported, polluting fossil fuels and are inexhaustible. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — India is actively PROMOTING SOLAR and WIND energy (with large targets and projects). R is TRUE and correctly EXPLAINS A: RENEWABLE sources REDUCE DEPENDENCE on IMPORTED, POLLUTING FOSSIL FUELS and are INEXHAUSTIBLE and clean — which is precisely WHY India is promoting them (energy security + environmental benefit). So R is the correct explanation of A. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Limestone, a non-metallic mineral, is essential as a raw material chiefly in the __________ industries.", "options": ["Cement and iron & steel (as a flux)", "Petroleum refining only", "Cotton textile", "Software"], "correct_index": 0, "solution": "LIMESTONE, a NON-METALLIC mineral, is essential chiefly in the CEMENT industry (its principal raw material) and in the IRON and STEEL industry, where it is used as a FLUX in the blast furnace to remove impurities. It is also used in the chemical and fertilizer industries. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly pairs a mineral with its main use?", "options": ["Iron ore → iron & steel; Bauxite → aluminium; Mica → electrical insulation; Limestone → cement", "Iron ore → aluminium; Bauxite → cement; Mica → fuel; Limestone → wiring", "Iron ore → insulation; Bauxite → steel; Mica → aluminium; Limestone → batteries", "All minerals have the same single use"], "correct_index": 0, "solution": "The correct pairings are: IRON ORE → IRON and STEEL; BAUXITE → ALUMINIUM; MICA → ELECTRICAL INSULATION; and LIMESTONE → CEMENT (and steel flux). Each mineral has distinct properties suiting particular industries. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main reason petroleum is strategically very important is that __________.", "options": ["It is a vital fuel for transport and a raw material for petrochemicals, yet India must import much of it", "It is used only for decoration", "It has no industrial value", "India has a surplus and exports it all"], "correct_index": 0, "solution": "PETROLEUM is strategically very important because it is a VITAL FUEL for TRANSPORT (petrol, diesel, jet fuel) and a key RAW MATERIAL for PETROCHEMICALS (plastics, fertilizers, synthetics). Since India IMPORTS a LARGE SHARE of its crude oil, petroleum affects the economy, trade balance, and energy security profoundly. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Thermal power plants generate electricity by __________.", "options": ["Burning fossil fuels (coal, gas, oil) to produce steam that drives turbines", "Using the flow of rivers directly", "Splitting atoms only", "Capturing wind"], "correct_index": 0, "solution": "THERMAL POWER PLANTS generate electricity by BURNING FOSSIL FUELS — mainly COAL, but also natural GAS and OIL — to heat water into high-pressure STEAM, which DRIVES TURBINES connected to generators. They supply the largest share of India's electricity but emit pollutants and greenhouse gases. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a NON-CONVENTIONAL source of energy?", "options": ["Solar energy", "Coal", "Petroleum", "Natural gas"], "correct_index": 0, "solution": "SOLAR ENERGY is a NON-CONVENTIONAL (renewable) source of energy. COAL, PETROLEUM, and NATURAL GAS are all CONVENTIONAL fossil-fuel sources. Other non-conventional sources include wind, tidal, geothermal, and biogas energy. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The formation of most minerals over geological time explains why __________.", "options": ["They are unevenly distributed and localised in specific rock formations and regions", "They are found equally everywhere on Earth", "They can be manufactured quickly", "They are all located in the oceans"], "correct_index": 0, "solution": "Because minerals FORM through specific GEOLOGICAL PROCESSES over vast time, they are UNEVENLY DISTRIBUTED and LOCALISED in particular ROCK FORMATIONS and REGIONS (e.g., metallic minerals in ancient plateau rocks, petroleum in sedimentary basins). This uneven distribution shapes where mining and mineral-based industries develop. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Recycling of metals (like aluminium and steel) is beneficial because it __________.", "options": ["Saves mineral ore and energy, reduces pollution and waste, and extends the life of limited reserves", "Uses more ore than fresh mining", "Increases waste", "Has no environmental benefit"], "correct_index": 0, "solution": "RECYCLING METALS such as ALUMINIUM and STEEL is beneficial because it SAVES the mining of fresh ORE, uses far LESS ENERGY than producing metal from ore, REDUCES POLLUTION and WASTE, and EXTENDS the LIFE of LIMITED mineral reserves. It is a key strategy for mineral conservation and sustainability. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which region is a major producer of coal in India?", "options": ["The Damodar valley (Jharkhand–West Bengal), including fields like Jharia and Raniganj", "The Kashmir valley", "The Kerala coast", "The Rann of Kutch"], "correct_index": 0, "solution": "A MAJOR COAL-producing region in India is the DAMODAR VALLEY (JHARKHAND–WEST BENGAL), which contains famous coalfields such as JHARIA, RANIGANJ, and Bokaro. Other coal areas lie in the Mahanadi, Godavari, and Son valleys. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'Green Energy' or energy transition push in India aims chiefly to __________.", "options": ["Increase the share of renewable (clean) energy and reduce carbon emissions from fossil fuels", "Burn more coal", "Stop generating any electricity", "Rely entirely on imported oil"], "correct_index": 0, "solution": "India's 'GREEN ENERGY'/ENERGY TRANSITION push aims chiefly to INCREASE the SHARE of RENEWABLE (CLEAN) ENERGY — solar, wind, hydro, etc. — in the energy mix and to REDUCE CARBON EMISSIONS from fossil fuels. This supports climate goals, cleaner air, and long-term energy security. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Placer deposits, from which minerals like gold are sometimes obtained, are found __________.", "options": ["In the sands of valley floors and beds of streams (deposited by flowing water)", "Deep inside volcanoes", "In the upper atmosphere", "Only in ocean trenches"], "correct_index": 0, "solution": "PLACER DEPOSITS are minerals — such as GOLD, tin, and platinum — found in the SANDS of VALLEY FLOORS and STREAM/RIVER BEDS. Being heavy and resistant to weathering, these minerals are eroded from rocks and DEPOSITED by FLOWING WATER in the sediments, where they can be extracted (e.g., panning for gold). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The main environmental argument for shifting from fossil fuels to renewables is that fossil fuels __________.", "options": ["Emit greenhouse gases and pollutants, contributing to global warming and air pollution, whereas renewables are cleaner", "Are perfectly clean", "Never run out", "Cause no pollution"], "correct_index": 0, "solution": "The main environmental argument for shifting from FOSSIL FUELS to RENEWABLES is that burning fossil fuels EMITS GREENHOUSE GASES (like carbon dioxide) and POLLUTANTS, contributing to GLOBAL WARMING/climate change and AIR POLLUTION. RENEWABLE sources (solar, wind, etc.) are CLEANER and inexhaustible, making the transition essential for environmental protection. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following best describes India's approach to sustainable resource use?", "options": ["Conserving minerals and fossil fuels through efficient use and recycling, while expanding clean, renewable energy", "Using resources as wastefully as possible", "Relying only on imported minerals", "Ignoring the environment entirely"], "correct_index": 0, "solution": "India's approach to SUSTAINABLE RESOURCE USE involves CONSERVING MINERALS and FOSSIL FUELS through EFFICIENT USE and RECYCLING (since they are limited and non-renewable), while EXPANDING CLEAN, RENEWABLE ENERGY (solar, wind, etc.) to meet growing needs without exhausting resources or harming the environment. This balances development with sustainability. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Nuclear energy, despite its high output, faces concerns over __________.", "options": ["Safety risks, radioactive waste disposal and high costs", "Producing too little energy", "Being a renewable resource", "Having no fuel available anywhere"], "correct_index": 0, "solution": "NUCLEAR ENERGY, although it produces a HIGH OUTPUT of electricity from small amounts of fuel, faces concerns over SAFETY RISKS (accidents/radiation), the DISPOSAL of long-lived RADIOACTIVE WASTE, and HIGH construction and safety COSTS. These issues shape debates about expanding nuclear power. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Minerals occurring in beds or layers in sedimentary rocks (such as coal, limestone and gypsum) are said to occur as __________.", "options": ["Beds and layers (stratified deposits)", "Veins and lodes in cracks of igneous rocks", "Placer deposits in river sands", "Dissolved in ocean water"], "correct_index": 0, "solution": "Minerals like COAL, LIMESTONE, and GYPSUM occur in BEDS and LAYERS (STRATIFIED deposits) within SEDIMENTARY rocks, formed by accumulation and deposition over long periods. This contrasts with minerals occurring as VEINS and LODES in cracks of igneous/metamorphic rocks (e.g., many metallic ores), as PLACER deposits in river sands (e.g., gold), or dissolved in water. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The overall message of the chapter 'Mineral and Energy Resources' is that:", "options": ["Minerals and energy are unimportant", "MINERALS — naturally occurring substances classified as METALLIC (ferrous like iron ore/manganese and non-ferrous like bauxite/copper) and NON-METALLIC (mica, limestone) — and ENERGY RESOURCES — CONVENTIONAL (coal, petroleum, natural gas, hydro, nuclear) and NON-CONVENTIONAL/renewable (solar, wind, tidal, geothermal, biogas) — are the foundation of industry and development; they are UNEVENLY distributed, concentrated mainly in the ancient rocks of the peninsular plateau, and are largely NON-RENEWABLE and EXHAUSTIBLE; their extraction causes environmental degradation, and India depends heavily on coal and imported oil; therefore these resources must be used efficiently, CONSERVED and RECYCLED, and the country must shift increasingly toward clean, RENEWABLE energy for a sustainable future", "Only coal matters", "Renewable energy is useless"], "correct_index": 1, "solution": "The chapter's overall message is that MINERALS and ENERGY RESOURCES are the FOUNDATION of INDUSTRY and DEVELOPMENT. MINERALS — naturally occurring substances — are classified as METALLIC (FERROUS, like iron ore and manganese, and NON-FERROUS, like bauxite and copper) and NON-METALLIC (mica, limestone, gypsum), while ENERGY RESOURCES are CONVENTIONAL (COAL, PETROLEUM, NATURAL GAS, HYDRO, NUCLEAR) or NON-CONVENTIONAL/RENEWABLE (SOLAR, WIND, TIDAL, GEOTHERMAL, BIOGAS). These resources are UNEVENLY DISTRIBUTED, concentrated mainly in the ANCIENT ROCKS of the PENINSULAR PLATEAU (the Chota Nagpur plateau being the 'mineral heartland'), and most are NON-RENEWABLE and EXHAUSTIBLE, taking millions of years to form. Their EXTRACTION causes ENVIRONMENTAL DEGRADATION, and India DEPENDS heavily on COAL for power and IMPORTS much of its OIL. Therefore, these resources must be USED EFFICIENTLY, CONSERVED, and RECYCLED, and India must shift increasingly toward CLEAN, RENEWABLE ENERGY to ensure a SUSTAINABLE future. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "A mineral is best defined as __________.",
+    "options": [
+      "A naturally occurring homogeneous substance with a definite chemical composition and physical properties",
+      "Any man-made chemical",
+      "A living organism found in soil",
+      "A type of crop"
+    ],
+    "correct_index": 0,
+    "solution": "A MINERAL is a NATURALLY OCCURRING, HOMOGENEOUS substance with a DEFINITE (or definable) CHEMICAL COMPOSITION and specific PHYSICAL PROPERTIES (like hardness, colour, and crystal form). Minerals are extracted from the Earth and are the raw materials for metals, fuels, and many industries. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Minerals are broadly classified into two major groups: metallic and __________ minerals.",
+    "options": [
+      "Non-metallic",
+      "Liquid",
+      "Radioactive only",
+      "Organic only"
+    ],
+    "correct_index": 0,
+    "solution": "Minerals are broadly classified into METALLIC minerals (which yield metals — e.g., iron ore, bauxite, copper, manganese) and NON-METALLIC minerals (which do not yield metals — e.g., limestone, mica, gypsum, and mineral fuels like coal and petroleum). So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Metallic minerals are further divided into ferrous and non-ferrous. Ferrous minerals are those that __________.",
+    "options": [
+      "Contain iron (e.g., iron ore, manganese, chromite, cobalt)",
+      "Contain no iron and never any metal",
+      "Are always precious metals",
+      "Are only fuels"
+    ],
+    "correct_index": 0,
+    "solution": "FERROUS minerals are metallic minerals that CONTAIN IRON — such as IRON ORE, MANGANESE, CHROMITE, and COBALT. NON-FERROUS metallic minerals do NOT contain iron — such as copper, bauxite (aluminium), lead, zinc, and gold. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a NON-FERROUS metallic mineral?",
+    "options": [
+      "Bauxite (source of aluminium)",
+      "Iron ore",
+      "Manganese",
+      "Chromite"
+    ],
+    "correct_index": 0,
+    "solution": "BAUXITE (the source of ALUMINIUM) is a NON-FERROUS metallic mineral, as it does not contain iron. Iron ore, manganese, and chromite are all FERROUS minerals (iron-bearing). Other non-ferrous minerals include copper, lead, zinc, and gold. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Iron ore, the backbone of industrial development, is found in India mainly in which type of rocks/region?",
+    "options": [
+      "Ancient (Archean/Dharwar) rocks of the peninsular plateau — e.g., Odisha, Jharkhand, Chhattisgarh, Karnataka",
+      "The young alluvial northern plains",
+      "Coastal sand dunes",
+      "Himalayan snowfields"
+    ],
+    "correct_index": 0,
+    "solution": "IRON ORE is found mainly in the ANCIENT (Archean/Dharwar) rocks of the PENINSULAR PLATEAU. The major producing states are ODISHA, JHARKHAND, CHHATTISGARH, KARNATAKA (and Goa, Maharashtra). The young alluvial plains lack such metallic mineral deposits. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The highest-quality iron ore, with about 70% iron content, is __________.",
+    "options": [
+      "Magnetite",
+      "Limonite",
+      "Siderite",
+      "Laterite"
+    ],
+    "correct_index": 0,
+    "solution": "MAGNETITE is the FINEST/HIGHEST-QUALITY iron ore, with an iron content of about 70%, and it has excellent magnetic properties. HAEMATITE (about 60–70% iron) is the most important industrially and most abundant; LIMONITE and SIDERITE are lower-grade ores. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Manganese is an important ferrous mineral used mainly in __________.",
+    "options": [
+      "The manufacture of iron and steel (and in making alloys, dry batteries, etc.)",
+      "Making bread",
+      "Producing drinking water",
+      "Generating solar power directly"
+    ],
+    "correct_index": 0,
+    "solution": "MANGANESE is an important FERROUS mineral used mainly in the MANUFACTURE of IRON and STEEL (as a deoxidiser and to harden steel), as well as in making ALLOYS (like ferro-manganese), DRY BATTERIES, and in the chemical and paint industries. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bauxite is the chief ore of which metal, valued for being light, strong and a good conductor?",
+    "options": [
+      "Aluminium",
+      "Iron",
+      "Copper",
+      "Gold"
+    ],
+    "correct_index": 0,
+    "solution": "BAUXITE is the chief ORE of ALUMINIUM. Aluminium is valued for being LIGHT, STRONG, resistant to corrosion, and a GOOD CONDUCTOR of electricity, making it important in aircraft, utensils, electrical, packaging, and construction industries. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Copper, an important non-ferrous metal, is used chiefly because it is __________.",
+    "options": [
+      "A very good conductor of electricity and heat and is ductile (used in electrical wiring, electronics)",
+      "The lightest metal",
+      "Radioactive",
+      "A fuel"
+    ],
+    "correct_index": 0,
+    "solution": "COPPER is used chiefly because it is a VERY GOOD CONDUCTOR of ELECTRICITY and HEAT and is highly DUCTILE and malleable. These properties make it essential for ELECTRICAL WIRING, ELECTRONICS, and electrical goods, as well as for alloys and utensils. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mica, a non-metallic mineral occurring in the Chota Nagpur plateau, is prized in the electrical industry because it is __________.",
+    "options": [
+      "An excellent insulator that can withstand high voltage and has low power loss",
+      "A good conductor of electricity",
+      "Highly flammable",
+      "A liquid fuel"
+    ],
+    "correct_index": 0,
+    "solution": "MICA is a NON-METALLIC mineral prized in the ELECTRICAL and ELECTRONIC industries because it is an EXCELLENT INSULATOR — it can WITHSTAND HIGH VOLTAGE and has LOW POWER LOSS (low dielectric loss). It occurs in the Chota Nagpur plateau (Jharkhand), Rajasthan, and Andhra Pradesh. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Minerals are considered a __________ resource, which means their reckless use is a serious concern.",
+    "options": [
+      "Non-renewable (exhaustible) resource that takes millions of years to form",
+      "Renewable resource that regrows quickly",
+      "Resource that never runs out",
+      "Man-made resource"
+    ],
+    "correct_index": 0,
+    "solution": "Minerals are a NON-RENEWABLE (EXHAUSTIBLE) resource — they take MILLIONS of YEARS to FORM through geological processes, so on a human timescale they cannot be replaced once used up. This is why their RECKLESS, wasteful use is a serious concern, and why conservation and recycling are important. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Energy resources are broadly classified into conventional and __________ sources.",
+    "options": [
+      "Non-conventional",
+      "Metallic",
+      "Ferrous",
+      "Non-metallic"
+    ],
+    "correct_index": 0,
+    "solution": "ENERGY RESOURCES are broadly classified into CONVENTIONAL sources (long-used ones like coal, petroleum, natural gas, firewood, and hydroelectricity) and NON-CONVENTIONAL sources (newer, mostly renewable ones like solar, wind, tidal, geothermal, and biogas energy). So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is a CONVENTIONAL source of energy?",
+    "options": [
+      "Coal",
+      "Solar energy",
+      "Wind energy",
+      "Tidal energy"
+    ],
+    "correct_index": 0,
+    "solution": "COAL is a CONVENTIONAL source of energy, along with PETROLEUM, NATURAL GAS, firewood, and HYDROELECTRICITY. SOLAR, WIND, and TIDAL energy are NON-CONVENTIONAL (renewable) sources. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Coal, the most abundant fossil fuel in India, is used mainly for __________.",
+    "options": [
+      "Generating thermal electricity, and as fuel for industries (like iron and steel) and railways in the past",
+      "Making drinking water",
+      "Producing solar panels",
+      "Growing crops"
+    ],
+    "correct_index": 0,
+    "solution": "COAL, India's most ABUNDANT fossil fuel, is used mainly for GENERATING THERMAL ELECTRICITY (in coal-fired power plants, which produce the bulk of India's electricity), and as a FUEL and raw material for INDUSTRIES like IRON and STEEL. It also powered RAILWAYS (steam engines) in the past. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bulk of India's coal reserves occur in rock series of the __________ age, found in river valleys like the Damodar.",
+    "options": [
+      "Gondwana",
+      "Tertiary",
+      "Quaternary",
+      "Vedic"
+    ],
+    "correct_index": 0,
+    "solution": "The BULK of India's COAL reserves occur in GONDWANA rock series (about 250 million years old), found in the river valleys of the DAMODAR (Jharkhand–West Bengal), Mahanadi, Godavari, and Son. A smaller amount is younger TERTIARY coal (in the northeast). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Petroleum (mineral oil) is often called 'liquid gold' and is found in India in areas such as __________.",
+    "options": [
+      "Assam (Digboi), Gujarat, and offshore Mumbai High",
+      "The Himalayan peaks",
+      "The Thar desert dunes only",
+      "The Chota Nagpur plateau"
+    ],
+    "correct_index": 0,
+    "solution": "PETROLEUM (mineral OIL), called 'LIQUID GOLD', is found in India in ASSAM (DIGBOI — the oldest oilfield), GUJARAT (Ankleshwar, etc.), and the OFFSHORE MUMBAI HIGH field in the Arabian Sea (India's largest). It is refined into petrol, diesel, kerosene, and petrochemical feedstock. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Petroleum and natural gas are typically found in __________ rock formations.",
+    "options": [
+      "Sedimentary (rocks of tertiary age, in folded/anticline structures)",
+      "Igneous rocks like granite",
+      "Metamorphic rocks like marble",
+      "Coal seams only"
+    ],
+    "correct_index": 0,
+    "solution": "PETROLEUM and NATURAL GAS are typically found in SEDIMENTARY ROCK formations (often of TERTIARY age), trapped in porous rocks beneath impervious layers, especially in FOLDED structures like ANTICLINES and fault traps. They form from the remains of tiny marine organisms buried in sediments. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Natural gas is considered an environmentally friendlier fossil fuel because it __________.",
+    "options": [
+      "Burns more cleanly with fewer emissions than coal or oil, and is used for power, fertilizers and as CNG/PNG",
+      "Produces the most pollution of all fuels",
+      "Cannot be used for energy",
+      "Is a renewable resource"
+    ],
+    "correct_index": 0,
+    "solution": "NATURAL GAS is considered an environmentally FRIENDLIER fossil fuel because it BURNS more CLEANLY, producing FEWER EMISSIONS (less carbon dioxide, sulphur, and particulates) than COAL or OIL. It is used for POWER generation, as feedstock for FERTILIZERS and petrochemicals, and as CNG (for vehicles) and PNG (piped to homes). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hydroelectric power is generated by __________.",
+    "options": [
+      "Using the force of falling/flowing water to turn turbines, typically at dams",
+      "Burning coal",
+      "Splitting atoms",
+      "Capturing sunlight on panels"
+    ],
+    "correct_index": 0,
+    "solution": "HYDROELECTRIC POWER is generated by using the FORCE of FALLING or FLOWING WATER to TURN TURBINES connected to generators, typically at DAMS on rivers. It is a CONVENTIONAL but RENEWABLE and relatively clean source, though it depends on suitable rivers, terrain, and rainfall. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Nuclear (atomic) energy is produced from minerals such as __________.",
+    "options": [
+      "Uranium and thorium",
+      "Coal and petroleum",
+      "Bauxite and copper",
+      "Limestone and gypsum"
+    ],
+    "correct_index": 0,
+    "solution": "NUCLEAR (ATOMIC) ENERGY is produced from radioactive minerals — chiefly URANIUM and THORIUM. India has notable reserves of THORIUM (especially in the MONAZITE sands of Kerala's coast) and uses uranium in its nuclear power plants. Nuclear fission releases enormous energy used to generate electricity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India has large reserves of thorium found in the __________ of Kerala.",
+    "options": [
+      "Monazite sands of the beaches/coast",
+      "Coal seams",
+      "Granite hills",
+      "River deltas of the north"
+    ],
+    "correct_index": 0,
+    "solution": "India has large reserves of THORIUM found in the MONAZITE SANDS along the BEACHES/COAST of KERALA (and other coastal areas). Thorium is important for India's long-term nuclear power programme, which aims to use its abundant thorium resources. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Solar energy is a non-conventional source with great potential in India because __________.",
+    "options": [
+      "India receives abundant sunshine over most of the year, especially in states like Rajasthan and Gujarat",
+      "India is always cloudy",
+      "The sun shines only at night",
+      "Solar power needs no sunlight"
+    ],
+    "correct_index": 0,
+    "solution": "SOLAR ENERGY has great potential in India because the country receives ABUNDANT SUNSHINE over MOST of the YEAR (a tropical location), especially in the sunny northwest — states like RAJASTHAN and GUJARAT. It is a clean, renewable source harnessed by solar panels (photovoltaic) and solar thermal systems. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wind energy is best harnessed in areas with __________.",
+    "options": [
+      "Strong, steady winds — such as coastal areas and open plains (e.g., Tamil Nadu, Gujarat, Rajasthan)",
+      "No wind at all",
+      "Dense forests with still air",
+      "Deep underground caves"
+    ],
+    "correct_index": 0,
+    "solution": "WIND ENERGY is best harnessed where there are STRONG, STEADY WINDS — such as COASTAL AREAS and OPEN PLAINS and passes. In India, states like TAMIL NADU (which has large wind farms), GUJARAT, RAJASTHAN, Maharashtra, and Karnataka have good wind-energy potential. Wind turbines convert wind's kinetic energy into electricity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tidal energy is generated by __________.",
+    "options": [
+      "Harnessing the rise and fall of ocean tides (e.g., in the Gulf of Khambhat and Gulf of Kutch)",
+      "Burning ocean water",
+      "The heat of the sun on deserts",
+      "Underground coal fires"
+    ],
+    "correct_index": 0,
+    "solution": "TIDAL ENERGY is generated by HARNESSING the RISE and FALL of OCEAN TIDES — the moving tidal water turns turbines to produce electricity. In India, sites with high tidal ranges such as the GULF of KHAMBHAT and GULF of KUTCH (Gujarat) and the Sundarban region have tidal-energy potential. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Geothermal energy is obtained from __________.",
+    "options": [
+      "The heat of the Earth's interior (e.g., hot springs and geysers, as at Manikaran and Puga Valley)",
+      "Cold ocean depths",
+      "The light of the moon",
+      "Burning firewood"
+    ],
+    "correct_index": 0,
+    "solution": "GEOTHERMAL ENERGY is obtained from the HEAT of the EARTH's INTERIOR. Where this heat reaches near the surface, it produces HOT SPRINGS and GEYSERS whose steam/hot water can generate power. In India, potential sites include MANIKARAN (Himachal Pradesh) and the PUGA VALLEY (Ladakh). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Biogas, a non-conventional energy source, is produced from __________.",
+    "options": [
+      "The decomposition of organic matter (like cattle dung and agricultural waste) in the absence of oxygen",
+      "Burning coal underground",
+      "Splitting uranium atoms",
+      "Sunlight on solar panels"
+    ],
+    "correct_index": 0,
+    "solution": "BIOGAS is produced from the DECOMPOSITION (anaerobic digestion) of ORGANIC MATTER — such as CATTLE DUNG, AGRICULTURAL WASTE, and other biomass — in the ABSENCE of OXYGEN. It yields a combustible gas (mainly methane) used for cooking and lighting, plus a nutrient-rich slurry usable as manure. Gobar gas plants are a common example. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main ADVANTAGE of non-conventional (renewable) energy sources over conventional ones is that they are __________.",
+    "options": [
+      "Renewable, non-polluting (environment-friendly) and inexhaustible",
+      "More polluting",
+      "Certain to run out quickly",
+      "Only found underground"
+    ],
+    "correct_index": 0,
+    "solution": "The main ADVANTAGE of NON-CONVENTIONAL (RENEWABLE) energy sources — solar, wind, tidal, geothermal, biogas — over conventional fossil fuels is that they are RENEWABLE and INEXHAUSTIBLE (naturally replenished) and largely NON-POLLUTING (ENVIRONMENT-FRIENDLY). They help reduce dependence on limited, polluting fossil fuels and combat climate change. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A serious problem associated with mining is __________.",
+    "options": [
+      "Environmental degradation — deforestation, land and water pollution, health hazards to miners, and disturbance to ecosystems",
+      "Improved forest cover",
+      "Cleaner air",
+      "No effect on people or nature"
+    ],
+    "correct_index": 0,
+    "solution": "MINING causes serious ENVIRONMENTAL DEGRADATION: DEFORESTATION and land degradation (open-pit scars, dumps), LAND and WATER POLLUTION (from dust, tailings, and chemicals), air pollution, and HEALTH HAZARDS to MINERS (respiratory diseases like silicosis, accidents), as well as disturbance to local ECOSYSTEMS and communities. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is the conservation of mineral and energy resources essential?",
+    "options": [
+      "Because they are limited, non-renewable, and take millions of years to form, so wasteful use threatens future availability",
+      "Because they are unlimited",
+      "Because they regrow every year",
+      "Because they have no economic value"
+    ],
+    "correct_index": 0,
+    "solution": "Conservation of MINERAL and (fossil) ENERGY resources is essential because they are LIMITED, NON-RENEWABLE, and take MILLIONS of YEARS to FORM. Their reckless, WASTEFUL USE threatens FUTURE AVAILABILITY and burdens coming generations. Conservation through efficient use, recycling of metals, and shifting to renewable energy is therefore vital. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an effective way to conserve mineral resources?",
+    "options": [
+      "Using minerals efficiently, recycling scrap metals, and finding cheaper substitutes where possible",
+      "Wasting them freely",
+      "Mining as fast as possible with no reuse",
+      "Discarding all metal after one use"
+    ],
+    "correct_index": 0,
+    "solution": "Effective ways to CONSERVE MINERAL resources include USING them EFFICIENTLY (reducing wastage in mining and processing), RECYCLING SCRAP METALS (reusing iron, aluminium, copper), and finding cheaper SUBSTITUTES (e.g., using renewable energy or alternative materials) where possible. These extend the life of limited mineral reserves. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Chota Nagpur plateau region (Jharkhand and surroundings) is often called the 'mineral heartland' of India because it is rich in __________.",
+    "options": [
+      "Coal, iron ore, mica, bauxite, copper and other minerals",
+      "Petroleum and natural gas only",
+      "Sand and clay only",
+      "No minerals at all"
+    ],
+    "correct_index": 0,
+    "solution": "The CHOTA NAGPUR PLATEAU (JHARKHAND and adjoining Odisha, West Bengal, Chhattisgarh) is called the 'MINERAL HEARTLAND' of India because it is exceptionally RICH in COAL, IRON ORE, MICA, BAUXITE, COPPER, manganese, and other minerals — supporting major industries like iron and steel. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The distribution of India's mineral resources shows that they are concentrated mainly in the __________.",
+    "options": [
+      "Peninsular plateau region (with its ancient crystalline and metamorphic rocks)",
+      "Young alluvial northern plains",
+      "Coastal deltas",
+      "Desert of Rajasthan alone"
+    ],
+    "correct_index": 0,
+    "solution": "India's MINERAL resources are concentrated mainly in the PENINSULAR PLATEAU region, whose ANCIENT CRYSTALLINE and METAMORPHIC (Archean/Dharwar) ROCKS contain most of the metallic minerals and coal. The YOUNG ALLUVIAL northern PLAINS, formed of recent sediments, are largely DEVOID of such mineral wealth. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about India's energy situation is correct?",
+    "options": [
+      "India depends heavily on coal for electricity and imports much of its petroleum, so improving energy security and shifting to renewables are priorities",
+      "India exports all its energy needs",
+      "India uses no coal at all",
+      "India has unlimited oil reserves"
+    ],
+    "correct_index": 0,
+    "solution": "India DEPENDS HEAVILY on COAL for the bulk of its ELECTRICITY and IMPORTS a large share of its PETROLEUM (crude oil), making it vulnerable to price shocks and supply risks. Hence improving ENERGY SECURITY and SHIFTING to RENEWABLE (non-conventional) energy — solar, wind, etc. — are major national PRIORITIES. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'rat-hole' or open-cast mining practice is a concern mainly because it __________.",
+    "options": [
+      "Causes severe land degradation, safety hazards and environmental damage",
+      "Improves the landscape",
+      "Increases soil fertility",
+      "Reduces all pollution"
+    ],
+    "correct_index": 0,
+    "solution": "Unregulated mining practices — such as hazardous 'RAT-HOLE' mining or extensive OPEN-CAST (surface) mining — are a concern because they cause SEVERE LAND DEGRADATION (huge pits, spoil heaps), SAFETY HAZARDS (collapses, accidents to miners), and ENVIRONMENTAL DAMAGE (deforestation, water and air pollution). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): India is promoting solar and wind energy. Reason (R): Renewable sources reduce dependence on imported, polluting fossil fuels and are inexhaustible. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — India is actively PROMOTING SOLAR and WIND energy (with large targets and projects). R is TRUE and correctly EXPLAINS A: RENEWABLE sources REDUCE DEPENDENCE on IMPORTED, POLLUTING FOSSIL FUELS and are INEXHAUSTIBLE and clean — which is precisely WHY India is promoting them (energy security + environmental benefit). So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Limestone, a non-metallic mineral, is essential as a raw material chiefly in the __________ industries.",
+    "options": [
+      "Cement and iron & steel (as a flux)",
+      "Petroleum refining only",
+      "Cotton textile",
+      "Software"
+    ],
+    "correct_index": 0,
+    "solution": "LIMESTONE, a NON-METALLIC mineral, is essential chiefly in the CEMENT industry (its principal raw material) and in the IRON and STEEL industry, where it is used as a FLUX in the blast furnace to remove impurities. It is also used in the chemical and fertilizer industries. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs a mineral with its main use?",
+    "options": [
+      "Iron ore → iron & steel; Bauxite → aluminium; Mica → electrical insulation; Limestone → cement",
+      "Iron ore → aluminium; Bauxite → cement; Mica → fuel; Limestone → wiring",
+      "Iron ore → insulation; Bauxite → steel; Mica → aluminium; Limestone → batteries",
+      "All minerals have the same single use"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: IRON ORE → IRON and STEEL; BAUXITE → ALUMINIUM; MICA → ELECTRICAL INSULATION; and LIMESTONE → CEMENT (and steel flux). Each mineral has distinct properties suiting particular industries. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason petroleum is strategically very important is that __________.",
+    "options": [
+      "It is a vital fuel for transport and a raw material for petrochemicals, yet India must import much of it",
+      "It is used only for decoration",
+      "It has no industrial value",
+      "India has a surplus and exports it all"
+    ],
+    "correct_index": 0,
+    "solution": "PETROLEUM is strategically very important because it is a VITAL FUEL for TRANSPORT (petrol, diesel, jet fuel) and a key RAW MATERIAL for PETROCHEMICALS (plastics, fertilizers, synthetics). Since India IMPORTS a LARGE SHARE of its crude oil, petroleum affects the economy, trade balance, and energy security profoundly. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Thermal power plants generate electricity by __________.",
+    "options": [
+      "Burning fossil fuels (coal, gas, oil) to produce steam that drives turbines",
+      "Using the flow of rivers directly",
+      "Splitting atoms only",
+      "Capturing wind"
+    ],
+    "correct_index": 0,
+    "solution": "THERMAL POWER PLANTS generate electricity by BURNING FOSSIL FUELS — mainly COAL, but also natural GAS and OIL — to heat water into high-pressure STEAM, which DRIVES TURBINES connected to generators. They supply the largest share of India's electricity but emit pollutants and greenhouse gases. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a NON-CONVENTIONAL source of energy?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Petroleum",
+      "Natural gas"
+    ],
+    "correct_index": 0,
+    "solution": "SOLAR ENERGY is a NON-CONVENTIONAL (renewable) source of energy. COAL, PETROLEUM, and NATURAL GAS are all CONVENTIONAL fossil-fuel sources. Other non-conventional sources include wind, tidal, geothermal, and biogas energy. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The formation of most minerals over geological time explains why __________.",
+    "options": [
+      "They are unevenly distributed and localised in specific rock formations and regions",
+      "They are found equally everywhere on Earth",
+      "They can be manufactured quickly",
+      "They are all located in the oceans"
+    ],
+    "correct_index": 0,
+    "solution": "Because minerals FORM through specific GEOLOGICAL PROCESSES over vast time, they are UNEVENLY DISTRIBUTED and LOCALISED in particular ROCK FORMATIONS and REGIONS (e.g., metallic minerals in ancient plateau rocks, petroleum in sedimentary basins). This uneven distribution shapes where mining and mineral-based industries develop. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Recycling of metals (like aluminium and steel) is beneficial because it __________.",
+    "options": [
+      "Saves mineral ore and energy, reduces pollution and waste, and extends the life of limited reserves",
+      "Uses more ore than fresh mining",
+      "Increases waste",
+      "Has no environmental benefit"
+    ],
+    "correct_index": 0,
+    "solution": "RECYCLING METALS such as ALUMINIUM and STEEL is beneficial because it SAVES the mining of fresh ORE, uses far LESS ENERGY than producing metal from ore, REDUCES POLLUTION and WASTE, and EXTENDS the LIFE of LIMITED mineral reserves. It is a key strategy for mineral conservation and sustainability. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which region is a major producer of coal in India?",
+    "options": [
+      "The Damodar valley (Jharkhand–West Bengal), including fields like Jharia and Raniganj",
+      "The Kashmir valley",
+      "The Kerala coast",
+      "The Rann of Kutch"
+    ],
+    "correct_index": 0,
+    "solution": "A MAJOR COAL-producing region in India is the DAMODAR VALLEY (JHARKHAND–WEST BENGAL), which contains famous coalfields such as JHARIA, RANIGANJ, and Bokaro. Other coal areas lie in the Mahanadi, Godavari, and Son valleys. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Green Energy' or energy transition push in India aims chiefly to __________.",
+    "options": [
+      "Increase the share of renewable (clean) energy and reduce carbon emissions from fossil fuels",
+      "Burn more coal",
+      "Stop generating any electricity",
+      "Rely entirely on imported oil"
+    ],
+    "correct_index": 0,
+    "solution": "India's 'GREEN ENERGY'/ENERGY TRANSITION push aims chiefly to INCREASE the SHARE of RENEWABLE (CLEAN) ENERGY — solar, wind, hydro, etc. — in the energy mix and to REDUCE CARBON EMISSIONS from fossil fuels. This supports climate goals, cleaner air, and long-term energy security. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Placer deposits, from which minerals like gold are sometimes obtained, are found __________.",
+    "options": [
+      "In the sands of valley floors and beds of streams (deposited by flowing water)",
+      "Deep inside volcanoes",
+      "In the upper atmosphere",
+      "Only in ocean trenches"
+    ],
+    "correct_index": 0,
+    "solution": "PLACER DEPOSITS are minerals — such as GOLD, tin, and platinum — found in the SANDS of VALLEY FLOORS and STREAM/RIVER BEDS. Being heavy and resistant to weathering, these minerals are eroded from rocks and DEPOSITED by FLOWING WATER in the sediments, where they can be extracted (e.g., panning for gold). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main environmental argument for shifting from fossil fuels to renewables is that fossil fuels __________.",
+    "options": [
+      "Emit greenhouse gases and pollutants, contributing to global warming and air pollution, whereas renewables are cleaner",
+      "Are perfectly clean",
+      "Never run out",
+      "Cause no pollution"
+    ],
+    "correct_index": 0,
+    "solution": "The main environmental argument for shifting from FOSSIL FUELS to RENEWABLES is that burning fossil fuels EMITS GREENHOUSE GASES (like carbon dioxide) and POLLUTANTS, contributing to GLOBAL WARMING/climate change and AIR POLLUTION. RENEWABLE sources (solar, wind, etc.) are CLEANER and inexhaustible, making the transition essential for environmental protection. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best describes India's approach to sustainable resource use?",
+    "options": [
+      "Conserving minerals and fossil fuels through efficient use and recycling, while expanding clean, renewable energy",
+      "Using resources as wastefully as possible",
+      "Relying only on imported minerals",
+      "Ignoring the environment entirely"
+    ],
+    "correct_index": 0,
+    "solution": "India's approach to SUSTAINABLE RESOURCE USE involves CONSERVING MINERALS and FOSSIL FUELS through EFFICIENT USE and RECYCLING (since they are limited and non-renewable), while EXPANDING CLEAN, RENEWABLE ENERGY (solar, wind, etc.) to meet growing needs without exhausting resources or harming the environment. This balances development with sustainability. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nuclear energy, despite its high output, faces concerns over __________.",
+    "options": [
+      "Safety risks, radioactive waste disposal and high costs",
+      "Producing too little energy",
+      "Being a renewable resource",
+      "Having no fuel available anywhere"
+    ],
+    "correct_index": 0,
+    "solution": "NUCLEAR ENERGY, although it produces a HIGH OUTPUT of electricity from small amounts of fuel, faces concerns over SAFETY RISKS (accidents/radiation), the DISPOSAL of long-lived RADIOACTIVE WASTE, and HIGH construction and safety COSTS. These issues shape debates about expanding nuclear power. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Minerals occurring in beds or layers in sedimentary rocks (such as coal, limestone and gypsum) are said to occur as __________.",
+    "options": [
+      "Beds and layers (stratified deposits)",
+      "Veins and lodes in cracks of igneous rocks",
+      "Placer deposits in river sands",
+      "Dissolved in ocean water"
+    ],
+    "correct_index": 0,
+    "solution": "Minerals like COAL, LIMESTONE, and GYPSUM occur in BEDS and LAYERS (STRATIFIED deposits) within SEDIMENTARY rocks, formed by accumulation and deposition over long periods. This contrasts with minerals occurring as VEINS and LODES in cracks of igneous/metamorphic rocks (e.g., many metallic ores), as PLACER deposits in river sands (e.g., gold), or dissolved in water. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Ferrous minerals are those that:",
+    "options": [
+      "contain no iron",
+      "contain iron (like iron ore, manganese)",
+      "are only gold",
+      "are gases"
+    ],
+    "correct_index": 1,
+    "solution": "Ferrous minerals contain iron — e.g., iron ore, manganese, chromite.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The highest-quality iron ore, with about 70% iron content, is:",
+    "options": [
+      "hematite",
+      "magnetite",
+      "limonite",
+      "siderite"
+    ],
+    "correct_index": 1,
+    "solution": "Magnetite is the highest-quality iron ore, with about 70% iron content.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Manganese is an important ferrous mineral used mainly in:",
+    "options": [
+      "making paper",
+      "the manufacture of iron and steel (and alloys)",
+      "electricity generation",
+      "cooking"
+    ],
+    "correct_index": 1,
+    "solution": "Manganese is used mainly in the manufacture of iron and steel and various alloys.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bauxite is the chief ore of which metal?",
+    "options": [
+      "copper",
+      "aluminium",
+      "iron",
+      "gold"
+    ],
+    "correct_index": 1,
+    "solution": "Bauxite is the chief ore of aluminium, which is light, strong and a good conductor.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Copper is used chiefly because it is:",
+    "options": [
+      "heavy and brittle",
+      "a good conductor of electricity and heat, malleable and ductile",
+      "radioactive",
+      "magnetic"
+    ],
+    "correct_index": 1,
+    "solution": "Copper is valued as a good conductor of electricity and heat, and for being malleable and ductile — used widely in wiring and electronics.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mica, occurring in the Chota Nagpur plateau, is prized in the electrical industry because it is:",
+    "options": [
+      "a good conductor",
+      "an excellent insulator that can withstand high voltage",
+      "radioactive",
+      "magnetic"
+    ],
+    "correct_index": 1,
+    "solution": "Mica is an excellent electrical insulator that can withstand high voltage, making it valuable in the electrical and electronics industry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Minerals occurring in beds or layers in sedimentary rocks (like coal, limestone, gypsum) are said to occur as:",
+    "options": [
+      "veins",
+      "beds/layers (stratified deposits)",
+      "placer deposits",
+      "lodes"
+    ],
+    "correct_index": 1,
+    "solution": "Minerals like coal, limestone and gypsum occur in beds or layers (stratified/bedded deposits) in sedimentary rocks.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Placer deposits, from which minerals like gold are sometimes obtained, are found:",
+    "options": [
+      "deep underground",
+      "in the sands of valley floors and river beds (alluvial deposits)",
+      "in the atmosphere",
+      "in the sea only"
+    ],
+    "correct_index": 1,
+    "solution": "Placer deposits occur in the sands of valley floors and river beds, where minerals like gold, tin and platinum are concentrated.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Minerals are considered a __________ resource, so their reckless use is a serious concern.",
+    "options": [
+      "renewable",
+      "non-renewable (exhaustible)",
+      "unlimited",
+      "infinite"
+    ],
+    "correct_index": 1,
+    "solution": "Minerals are non-renewable (exhaustible) resources formed over millions of years, so their reckless use is a serious concern.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The formation of most minerals over geological time explains why:",
+    "options": [
+      "they are unlimited",
+      "they are non-renewable and cannot be replaced within human timescales once exhausted",
+      "they renew daily",
+      "they are cheap"
+    ],
+    "correct_index": 1,
+    "solution": "Because minerals form over millions of years, they are non-renewable and cannot be replaced within human timescales once used up.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Chota Nagpur plateau region is called the 'mineral heartland' of India because it is rich in:",
+    "options": [
+      "no minerals",
+      "coal, iron ore, manganese, mica, bauxite and other minerals",
+      "only water",
+      "only forests"
+    ],
+    "correct_index": 1,
+    "solution": "The Chota Nagpur plateau (Jharkhand and surroundings) is rich in coal, iron ore, manganese, mica, bauxite and other minerals — the mineral heartland of India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's mineral resources are concentrated mainly in the:",
+    "options": [
+      "northern plains",
+      "peninsular plateau region (especially the north-eastern plateau)",
+      "Himalayas",
+      "coastal plains only"
+    ],
+    "correct_index": 1,
+    "solution": "India's minerals are concentrated mainly in the peninsular plateau region, especially the north-eastern plateau (Chota Nagpur).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coal, the most abundant fossil fuel in India, is used mainly for:",
+    "options": [
+      "cooking oil",
+      "generating electricity (thermal power) and in industry (steel, etc.)",
+      "making cloth",
+      "irrigation"
+    ],
+    "correct_index": 1,
+    "solution": "Coal is used mainly to generate electricity in thermal power plants and as fuel/raw material in industries like steel.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bulk of India's coal reserves occur in rock series of the __________ age.",
+    "options": [
+      "recent",
+      "Gondwana",
+      "Tertiary",
+      "Precambrian"
+    ],
+    "correct_index": 1,
+    "solution": "The bulk of India's coal reserves occur in Gondwana rock series, found in valleys like the Damodar.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Thermal power plants generate electricity by:",
+    "options": [
+      "using the wind",
+      "burning fossil fuels (coal, gas, oil) to produce steam that drives turbines",
+      "using tides",
+      "using sunlight directly"
+    ],
+    "correct_index": 1,
+    "solution": "Thermal power plants burn fossil fuels (coal, gas, oil) to produce steam that drives turbines generating electricity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Petroleum (mineral oil) is found in India in areas such as:",
+    "options": [
+      "the Himalayas",
+      "Assam, Gujarat and the Mumbai High (offshore)",
+      "Punjab",
+      "Kerala"
+    ],
+    "correct_index": 1,
+    "solution": "Petroleum is found in Assam, Gujarat and offshore in the Mumbai High.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Petroleum is strategically very important because it:",
+    "options": [
+      "is useless",
+      "is a key fuel for transport and a raw material for petrochemicals, and much of India's demand is met by imports",
+      "has no uses",
+      "is only for cooking"
+    ],
+    "correct_index": 1,
+    "solution": "Petroleum is a vital transport fuel and petrochemical feedstock; India imports much of it, making it strategically important.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Natural gas is considered an environmentally friendlier fossil fuel because it:",
+    "options": [
+      "produces more pollution",
+      "burns more cleanly (produces less pollution/CO2) than coal or oil",
+      "is radioactive",
+      "cannot be used"
+    ],
+    "correct_index": 1,
+    "solution": "Natural gas burns more cleanly, producing less pollution and CO2 than coal or oil, so it is considered a friendlier fossil fuel.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hydroelectric power is generated by:",
+    "options": [
+      "burning coal",
+      "using the force of flowing/falling water to drive turbines",
+      "using sunlight",
+      "using the wind"
+    ],
+    "correct_index": 1,
+    "solution": "Hydroelectric power is generated using the force of flowing or falling water to drive turbines — a renewable source.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nuclear (atomic) energy is produced from minerals such as:",
+    "options": [
+      "coal",
+      "uranium and thorium",
+      "copper",
+      "limestone"
+    ],
+    "correct_index": 1,
+    "solution": "Nuclear energy is produced from radioactive minerals such as uranium and thorium.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nuclear energy, despite its high output, faces concerns over:",
+    "options": [
+      "nothing",
+      "radioactive waste disposal, safety/accident risks and high costs",
+      "too little power",
+      "being renewable"
+    ],
+    "correct_index": 1,
+    "solution": "Nuclear energy faces concerns over radioactive waste disposal, safety/accident risks and high capital costs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Solar energy has great potential in India because:",
+    "options": [
+      "India has little sunlight",
+      "India receives abundant sunshine over most of the year",
+      "it is cold",
+      "it is dark"
+    ],
+    "correct_index": 1,
+    "solution": "India receives abundant sunshine over most of the year, giving solar energy great potential.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wind energy is best harnessed in areas with:",
+    "options": [
+      "no wind",
+      "strong, steady winds (like coasts, plains and mountain passes)",
+      "dense forests",
+      "deserts only"
+    ],
+    "correct_index": 1,
+    "solution": "Wind energy is best harnessed where strong, steady winds blow — coasts, open plains and mountain passes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tidal energy is generated by:",
+    "options": [
+      "burning gas",
+      "harnessing the rise and fall of ocean tides to drive turbines",
+      "sunlight",
+      "wind"
+    ],
+    "correct_index": 1,
+    "solution": "Tidal energy is generated by harnessing the rise and fall of ocean tides to drive turbines.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Geothermal energy is obtained from:",
+    "options": [
+      "the wind",
+      "the heat of the Earth's interior (hot springs, geysers)",
+      "the sun",
+      "tides"
+    ],
+    "correct_index": 1,
+    "solution": "Geothermal energy is obtained from the heat of the Earth's interior, tapped from hot springs and geysers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Biogas is produced from:",
+    "options": [
+      "coal",
+      "the decomposition of organic waste (cattle dung, plant/kitchen waste)",
+      "petroleum",
+      "uranium"
+    ],
+    "correct_index": 1,
+    "solution": "Biogas is produced from the anaerobic decomposition of organic waste such as cattle dung and plant/kitchen waste.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main ADVANTAGE of non-conventional (renewable) energy over conventional sources is that they are:",
+    "options": [
+      "exhaustible and polluting",
+      "inexhaustible (renewable) and generally clean/less polluting",
+      "expensive only",
+      "useless"
+    ],
+    "correct_index": 1,
+    "solution": "Renewable sources are inexhaustible and generally clean/less polluting, unlike exhaustible, polluting fossil fuels.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main environmental argument for shifting from fossil fuels to renewables is that fossil fuels:",
+    "options": [
+      "are clean",
+      "are exhaustible and their burning causes air pollution and greenhouse-gas emissions (climate change)",
+      "never run out",
+      "help the environment"
+    ],
+    "correct_index": 1,
+    "solution": "Fossil fuels are exhaustible and their combustion causes air pollution and greenhouse-gas emissions driving climate change — hence the shift to renewables.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Green Energy'/energy transition push in India aims chiefly to:",
+    "options": [
+      "burn more coal",
+      "increase the share of renewable (clean) energy and reduce dependence on polluting, imported fossil fuels",
+      "stop all energy use",
+      "import more oil"
+    ],
+    "correct_index": 1,
+    "solution": "The green energy push aims to increase the share of renewable energy and cut dependence on polluting, imported fossil fuels.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A serious problem associated with mining is:",
+    "options": [
+      "no problem",
+      "environmental damage (deforestation, land degradation, pollution) and health hazards to miners",
+      "cleaner air",
+      "more forests"
+    ],
+    "correct_index": 1,
+    "solution": "Mining causes environmental damage (deforestation, land degradation, water/air pollution) and health hazards to miners.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'rat-hole' or unregulated open-cast mining practice is a concern mainly because it:",
+    "options": [
+      "is very safe",
+      "is unsafe and environmentally damaging (land degradation, accidents, pollution)",
+      "conserves resources",
+      "helps the environment"
+    ],
+    "correct_index": 1,
+    "solution": "Rat-hole/unregulated open-cast mining is unsafe and environmentally damaging, causing land degradation, accidents and pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Recycling of metals (like aluminium and steel) is beneficial because it:",
+    "options": [
+      "wastes energy",
+      "saves the mineral resource and uses much less energy than producing metal from ore",
+      "increases mining",
+      "harms the environment"
+    ],
+    "correct_index": 1,
+    "solution": "Recycling metals saves the finite ore and uses far less energy than producing new metal from ore, reducing environmental impact.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Iron ore, the backbone of industrial development, is found in India mainly in:",
+    "options": [
+      "the northern plains",
+      "the peninsular plateau (Odisha, Jharkhand, Chhattisgarh, Karnataka)",
+      "the Himalayas",
+      "coastal deltas"
+    ],
+    "correct_index": 1,
+    "solution": "Iron ore is found mainly in the peninsular plateau — Odisha, Jharkhand, Chhattisgarh, Karnataka and Goa.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): India is promoting solar and wind energy. Reason (R): Renewable sources reduce dependence on imported, polluting fossil fuels and are inexhaustible. Which is correct?",
+    "options": [
+      "A is false",
+      "Both A and R are true and R correctly explains A",
+      "A is true but R is false",
+      "Both are false"
+    ],
+    "correct_index": 1,
+    "solution": "Both are true and R explains A: renewables' inexhaustibility and reduced dependence on polluting imported fuels are why India promotes solar and wind.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A mineral is best defined as:",
+    "options": [
+      "a living organism",
+      "a naturally occurring substance of definite chemical composition and physical properties, obtained from the earth",
+      "a manufactured product",
+      "a type of soil only"
+    ],
+    "correct_index": 1,
+    "solution": "A mineral is a naturally occurring substance with a definite chemical composition and physical properties, obtained by mining from the earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following BEST captures the central message of the chapter 'Mineral and Energy Resources'?",
+    "options": [
+      "resources are unlimited",
+      "minerals and (conventional) energy resources are finite and unevenly distributed, so they must be used efficiently and conserved, while renewable energy is promoted for a sustainable future",
+      "only coal matters",
+      "resources never run out"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that minerals and conventional energy resources are finite and unevenly distributed, so they must be used efficiently and conserved, while renewable energy is promoted for a sustainable energy future.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall message of the chapter 'Mineral and Energy Resources' is that:",
+    "options": [
+      "Minerals and energy are unimportant",
+      "MINERALS — naturally occurring substances classified as METALLIC (ferrous like iron ore/manganese and non-ferrous like bauxite/copper) and NON-METALLIC (mica, limestone) — and ENERGY RESOURCES — CONVENTIONAL (coal, petroleum, natural gas, hydro, nuclear) and NON-CONVENTIONAL/renewable (solar, wind, tidal, geothermal, biogas) — are the foundation of industry and development; they are UNEVENLY distributed, concentrated mainly in the ancient rocks of the peninsular plateau, and are largely NON-RENEWABLE and EXHAUSTIBLE; their extraction causes environmental degradation, and India depends heavily on coal and imported oil; therefore these resources must be used efficiently, CONSERVED and RECYCLED, and the country must shift increasingly toward clean, RENEWABLE energy for a sustainable future",
+      "Only coal matters",
+      "Renewable energy is useless"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that MINERALS and ENERGY RESOURCES are the FOUNDATION of INDUSTRY and DEVELOPMENT. MINERALS — naturally occurring substances — are classified as METALLIC (FERROUS, like iron ore and manganese, and NON-FERROUS, like bauxite and copper) and NON-METALLIC (mica, limestone, gypsum), while ENERGY RESOURCES are CONVENTIONAL (COAL, PETROLEUM, NATURAL GAS, HYDRO, NUCLEAR) or NON-CONVENTIONAL/RENEWABLE (SOLAR, WIND, TIDAL, GEOTHERMAL, BIOGAS). These resources are UNEVENLY DISTRIBUTED, concentrated mainly in the ANCIENT ROCKS of the PENINSULAR PLATEAU (the Chota Nagpur plateau being the 'mineral heartland'), and most are NON-RENEWABLE and EXHAUSTIBLE, taking millions of years to form. Their EXTRACTION causes ENVIRONMENTAL DEGRADATION, and India DEPENDS heavily on COAL for power and IMPORTS much of its OIL. Therefore, these resources must be USED EFFICIENTLY, CONSERVED, and RECYCLED, and India must shift increasingly toward CLEAN, RENEWABLE ENERGY to ensure a SUSTAINABLE future. So the overall message is option 2.",
+    "difficulty": "medium"
+  }
 ]
