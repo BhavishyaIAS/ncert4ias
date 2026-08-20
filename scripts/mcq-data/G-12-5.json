@@ -1,52 +1,1094 @@
 [
-  { "stem": "'Primary activities' are economic activities that __________.", "options": ["Involve extracting and producing goods directly from nature (from the Earth's natural resources)", "Only involve manufacturing goods in factories", "Only involve providing services", "Only involve research and information technology"], "correct_index": 0, "solution": "PRIMARY ACTIVITIES are economic activities that involve EXTRACTING and PRODUCING goods DIRECTLY from NATURE — i.e., using the Earth's NATURAL RESOURCES. They include activities like hunting and gathering, pastoralism (animal rearing), agriculture (farming), fishing, forestry (lumbering), and mining/quarrying. Primary activities are 'primary' because they are the first, most basic stage of economic production, obtaining raw materials from the natural environment (which secondary activities then process). So primary activities involve extracting goods directly from nature. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following is a primary activity?", "options": ["Agriculture, hunting and gathering, fishing, forestry (lumbering), pastoralism, and mining", "Manufacturing cars", "Banking and insurance", "Software development"], "correct_index": 0, "solution": "PRIMARY ACTIVITIES include: AGRICULTURE (crop farming); HUNTING and GATHERING; FISHING; FORESTRY/LUMBERING (obtaining wood); PASTORALISM (rearing animals — herding); and MINING and quarrying (extracting minerals). All of these obtain raw materials or food DIRECTLY from NATURE. (Manufacturing cars is a secondary activity; banking, insurance, and software are tertiary/quaternary — service/knowledge — activities.) So agriculture, hunting-gathering, fishing, forestry, pastoralism, and mining are primary activities. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The most primitive/oldest form of primary activity, in which people depend on nature for food by collecting wild plants and hunting animals, is __________.", "options": ["Hunting and gathering (food gathering/collecting)", "Commercial agriculture", "Mining", "Manufacturing"], "correct_index": 0, "solution": "HUNTING and GATHERING (food gathering/collecting) is the most PRIMITIVE and OLDEST form of primary activity. In it, people depend directly on NATURE for FOOD by COLLECTING wild plants, fruits, roots, and nuts (gathering) and HUNTING wild animals for meat. It requires low technology and small populations, and it was the way of life of early humans; today only a few isolated communities (in dense forests, deserts, and remote regions) still practise it. So the oldest primary activity is hunting and gathering. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Pastoralism' (animal rearing/herding) is of two main types. These are __________.", "options": ["Nomadic herding (pastoral nomadism) and commercial livestock rearing (commercial pastoralism/ranching)", "Hunting and fishing", "Farming and mining", "Forestry and gathering"], "correct_index": 0, "solution": "PASTORALISM (the rearing of animals/herding) is of two main types: (1) NOMADIC HERDING (pastoral nomadism) — a subsistence activity in which herders MOVE with their animals (cattle, sheep, goats, camels, yaks, reindeer) from place to place in search of pasture and water, common in harsh, dry, or cold regions; and (2) COMMERCIAL LIVESTOCK REARING (commercial pastoralism/RANCHING) — a more organised, capital-intensive activity in which animals are reared on large fenced areas (ranches) for the MARKET (meat, wool, hides), practised in regions like the USA, Argentina, Australia, and New Zealand. So the two types are nomadic herding and commercial livestock rearing. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Subsistence agriculture' refers to farming in which __________.", "options": ["Farmers grow crops mainly to feed themselves and their families (for their own consumption), with little or no surplus for sale", "All produce is exported", "Crops are grown only for factories", "No crops are grown at all"], "correct_index": 0, "solution": "SUBSISTENCE AGRICULTURE refers to farming in which farmers grow crops (and rear animals) MAINLY to FEED THEMSELVES and their FAMILIES — for their OWN CONSUMPTION — with LITTLE or NO SURPLUS left over for sale in the market. It is typically small-scale, uses simple tools and family labour, and is common in developing countries. (It contrasts with commercial agriculture, which produces crops for sale/profit.) So subsistence agriculture is farming for the farmer's own consumption. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Shifting cultivation' (slash-and-burn agriculture) is a form of subsistence farming in which __________.", "options": ["A patch of forest is cleared (by cutting and burning), cultivated for a few years, then abandoned for a new patch when the soil loses fertility", "The same field is used forever with heavy machinery", "Crops are grown only in cities", "No land is ever cleared"], "correct_index": 0, "solution": "SHIFTING CULTIVATION (slash-and-burn agriculture) is a form of PRIMITIVE SUBSISTENCE farming in which a PATCH of FOREST is CLEARED (by CUTTING down and BURNING the vegetation — 'slash and burn'), then CULTIVATED for a FEW YEARS. When the SOIL loses its FERTILITY, the patch is ABANDONED and the farmers move on to CLEAR a NEW patch, allowing the old one to regenerate. It is practised in tropical regions (known by names like jhum in India, milpa, ladang, etc.). It supports small populations but can cause deforestation if cycles shorten. So shifting cultivation clears, cultivates, and abandons forest patches in rotation. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Commercial agriculture' is characterised by __________.", "options": ["Growing crops and rearing animals mainly for sale in the market (for profit), often on a large scale with modern methods", "Growing food only for the farmer's family", "No use of any technology", "Never selling any produce"], "correct_index": 0, "solution": "COMMERCIAL AGRICULTURE is characterised by growing CROPS and rearing ANIMALS mainly for SALE in the MARKET (for PROFIT), rather than for the farmer's own consumption. It is typically practised on a LARGER SCALE, with MODERN METHODS (machinery, high-yielding seeds, fertilisers, irrigation) and often specialisation in particular crops or products. Types include commercial grain farming, mixed farming, plantation agriculture, and commercial livestock rearing. So commercial agriculture produces mainly for the market/profit. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Plantation agriculture' is a type of commercial farming characterised by __________.", "options": ["Large estates growing a single cash crop (like tea, coffee, rubber, or sugarcane) for export, using much labour and capital", "Growing many different food crops for local families", "Nomadic herding", "Mining"], "correct_index": 0, "solution": "PLANTATION AGRICULTURE is a type of COMMERCIAL farming characterised by LARGE ESTATES (plantations) that grow a SINGLE CASH CROP (MONOCULTURE) — such as TEA, COFFEE, RUBBER, SUGARCANE, cotton, bananas, or oil palm — primarily for EXPORT. It uses a large amount of LABOUR and CAPITAL, is often located in tropical/subtropical regions, and was historically associated with colonial economies. So plantation agriculture grows a single cash crop on large estates for export. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Mining' is a primary activity that involves __________.", "options": ["Extracting minerals and other valuable materials from the Earth (from beneath or on the surface)", "Growing crops", "Rearing animals", "Manufacturing goods"], "correct_index": 0, "solution": "MINING is a primary activity that involves EXTRACTING MINERALS and other valuable materials (metals, coal, oil and gas, precious stones, etc.) from the EARTH — from BENEATH the surface (underground/shaft mining) or from the SURFACE (open-cast/surface mining). Mining provides the raw materials (like iron ore, coal, bauxite) that fuel industries and modern economies. It is a primary activity because it directly extracts resources from nature. So mining is the extraction of minerals from the Earth. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The two main methods of mining are __________.", "options": ["Surface (open-cast) mining and underground (shaft) mining", "Farming and herding", "Fishing and hunting", "Weaving and spinning"], "correct_index": 0, "solution": "The two main METHODS of MINING are: (1) SURFACE (OPEN-CAST/open-pit) MINING — where minerals lying NEAR the SURFACE are extracted by removing the overlying soil and rock (cheaper, safer, and used when deposits are shallow); and (2) UNDERGROUND (SHAFT) MINING — where DEEP deposits are reached by sinking vertical SHAFTS and horizontal galleries into the Earth (more expensive, dangerous, and used for deep-lying minerals). The method chosen depends on the depth and nature of the mineral deposit. So the two main mining methods are surface (open-cast) and underground (shaft) mining. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Primary activities are more important (as a share of employment) in developing countries than in developed ones. Reason (R): Developing economies rely heavily on agriculture and other primary activities, while developed economies have shifted toward industry and services. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that PRIMARY ACTIVITIES are MORE IMPORTANT (as a share of employment) in DEVELOPING countries than in developed ones. And the reason is (R) that DEVELOPING economies RELY HEAVILY on AGRICULTURE and other primary activities (a large share of their workforce is engaged in farming, etc.), WHILE DEVELOPED economies have SHIFTED toward INDUSTRY (secondary) and especially SERVICES (tertiary), with only a small fraction of workers in primary activities. This difference in the stage of economic development directly explains the greater weight of primary activities in developing countries (A). So R correctly explains A.", "difficulty": "hard" },
-  { "stem": "'Intensive subsistence agriculture' (common in densely populated parts of monsoon Asia) is characterised by __________.", "options": ["Cultivation of small plots intensively (with much labour) to get maximum output — often rice-dominated, to feed dense populations", "Vast fields with few workers", "Nomadic movement", "Growing crops only for export"], "correct_index": 0, "solution": "INTENSIVE SUBSISTENCE AGRICULTURE (common in the densely populated parts of MONSOON ASIA — including India, China, and Southeast Asia) is characterised by cultivating SMALL PLOTS of land very INTENSIVELY, using a LARGE amount of LABOUR (and manures, and multiple cropping) to obtain the MAXIMUM OUTPUT per unit of land. It is often dominated by RICE (in wetter areas) and other food grains, and is aimed at FEEDING the DENSE POPULATIONS of these regions. Land is scarce relative to people, so it is farmed intensively. So intensive subsistence agriculture farms small plots intensively for maximum food output. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Market gardening' and 'horticulture' are types of commercial farming that specialise in __________.", "options": ["Growing high-value vegetables, fruits, and flowers for urban markets", "Growing only staple grains for subsistence", "Rearing animals nomadically", "Mining minerals"], "correct_index": 0, "solution": "MARKET GARDENING and HORTICULTURE are types of intensive COMMERCIAL farming that SPECIALISE in growing HIGH-VALUE VEGETABLES, FRUITS, and FLOWERS for sale — especially to nearby URBAN MARKETS (cities with wealthy consumers who demand fresh produce). These are labour- and capital-intensive activities located near cities or with good transport links, aimed at profit. (A related form, 'truck farming', grows vegetables for distant markets.) So market gardening/horticulture grows high-value vegetables, fruits, and flowers for urban markets. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Fishing' as a primary activity is important because __________.", "options": ["It provides food (a major source of protein), employment, and raw materials, and rich fishing grounds are found especially in cool waters over continental shelves", "It is not an economic activity", "Fish provide no food", "It only occurs in deserts"], "correct_index": 0, "solution": "FISHING is an important primary activity because it provides FOOD (fish are a major source of PROTEIN for much of the world's population), EMPLOYMENT (for millions of people), and RAW MATERIALS (for products like fish oil, fish meal, and fertiliser). The RICHEST FISHING GROUNDS are found especially in COOL WATERS over the CONTINENTAL SHELVES (shallow, nutrient-rich seas where cold and warm currents meet, supporting abundant plankton and fish) — such as the North Sea, the Grand Banks, and the seas off Japan and Peru. So fishing provides food, jobs, and raw materials, especially from cool continental-shelf waters. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Nomadic herding' (pastoral nomadism) is generally practised in __________.", "options": ["Harsh regions unsuitable for crop farming — such as semi-arid, arid, and cold areas (e.g., the Sahara fringes, Central Asia, and the Arctic tundra)", "Fertile river valleys", "Big cities", "Industrial regions"], "correct_index": 0, "solution": "NOMADIC HERDING (pastoral nomadism) is generally practised in HARSH REGIONS that are UNSUITABLE for CROP FARMING — such as SEMI-ARID and ARID areas (the fringes of the Sahara and the deserts of Arabia and Central Asia), and COLD areas (the ARCTIC TUNDRA of northern Eurasia). In these environments where cultivation is difficult, people rear hardy animals (camels, sheep, goats, cattle, yaks, reindeer) and MOVE with them in search of pasture and water. So nomadic herding is practised in harsh semi-arid, arid, and cold regions. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Mixed farming' is a type of commercial agriculture in which __________.", "options": ["Both crops are grown and animals are reared on the same farm (combining crop cultivation and livestock)", "Only one crop is grown", "Only animals are kept with no crops", "Only mining is done"], "correct_index": 0, "solution": "MIXED FARMING is a type of COMMERCIAL agriculture in which BOTH CROPS are GROWN and ANIMALS (livestock) are REARED on the SAME FARM. Farmers combine crop cultivation (grains, fodder) with keeping animals (cattle, pigs, poultry), so the two support each other (e.g., crops and fodder feed the animals, and animal manure fertilises the crops), spreading risk and using resources efficiently. It is common in the developed regions of Europe, North America, and elsewhere. So mixed farming combines crop cultivation and livestock rearing on the same farm. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Dairy farming' is a form of commercial livestock/agriculture that specialises in __________.", "options": ["Rearing milch animals (cattle) for milk and dairy products, often located near urban markets", "Growing wheat only", "Mining coal", "Hunting animals"], "correct_index": 0, "solution": "DAIRY FARMING is a form of intensive COMMERCIAL livestock farming that SPECIALISES in REARING MILCH ANIMALS (dairy CATTLE, and sometimes buffaloes) for MILK and dairy PRODUCTS (butter, cheese, etc.). Because milk is perishable, dairy farms are often located NEAR URBAN MARKETS (or with good refrigerated transport). It is highly labour- and capital-intensive (requiring care, feeding, and modern facilities), and is well developed in regions like North-western Europe, North America, New Zealand, and Australia. So dairy farming rears cattle for milk and dairy products, often near markets. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Commercial grain farming' (extensive) is characterised by __________.", "options": ["Growing grains (mainly wheat) on very large farms with machinery for the market, in temperate grassland regions (like the Prairies, Steppes, Pampas)", "Growing rice on tiny plots by hand", "Nomadic herding", "Growing only vegetables in cities"], "correct_index": 0, "solution": "COMMERCIAL GRAIN FARMING (extensive commercial farming) is characterised by growing GRAINS — mainly WHEAT (and maize, barley) — on VERY LARGE FARMS with extensive use of MACHINERY (tractors, harvesters), for the MARKET/export. It is practised in the TEMPERATE GRASSLAND regions of the world — such as the PRAIRIES of North America, the STEPPES of Eurasia, the PAMPAS of Argentina, and the Downs of Australia — which have large, flat expanses, fertile soils, and low population density, making large-scale mechanised grain farming possible. So commercial grain farming grows wheat on large mechanised farms in temperate grasslands. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Shifting cultivation can lead to environmental problems when practised intensively. Reason (R): If the same land is reused too quickly (short fallow periods) due to population pressure, the soil and forest cannot recover, causing degradation and deforestation. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that SHIFTING CULTIVATION can lead to ENVIRONMENTAL PROBLEMS when practised intensively. And the reason is (R) that if the SAME LAND is REUSED TOO QUICKLY (with SHORT FALLOW/rest PERIODS) — due to rising POPULATION PRESSURE — the SOIL and FOREST cannot fully RECOVER between cultivations, leading to SOIL DEGRADATION (loss of fertility, erosion) and DEFORESTATION. Traditionally, long fallow periods allowed regeneration; when these are shortened, the sustainable balance breaks down. This inability to recover directly causes the environmental harm (A). So R correctly explains A.", "difficulty": "hard" },
-  { "stem": "Forestry (lumbering) as a primary activity involves __________.", "options": ["The commercial harvesting of timber and wood products from forests", "Growing rice", "Mining gold", "Manufacturing cloth"], "correct_index": 0, "solution": "FORESTRY (LUMBERING) as a primary activity involves the COMMERCIAL HARVESTING of TIMBER (wood) and other WOOD PRODUCTS from FORESTS — cutting and gathering trees for use as lumber, pulp (for paper), and fuel. Major commercial lumbering occurs in the vast coniferous (softwood) forests of the temperate regions (e.g., Canada, the USA, Russia, and Scandinavia) and in tropical hardwood forests. Being the extraction of a natural resource (wood) from the environment, forestry is a primary activity. So forestry/lumbering is the harvesting of timber from forests. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Extensive' versus 'intensive' agriculture differ in that __________.", "options": ["Extensive farming uses large areas of land with less labour/inputs per unit area; intensive farming uses small areas with much labour/inputs per unit area", "They are identical", "Extensive means small plots; intensive means large farms", "Both use no land"], "correct_index": 0, "solution": "EXTENSIVE and INTENSIVE agriculture differ in the use of land relative to labour and inputs. EXTENSIVE farming uses LARGE AREAS of LAND with RELATIVELY LITTLE LABOUR and inputs per unit area — output per hectare is low, but total output is large due to the vast area (e.g., commercial grain farming on the Prairies, with machines on huge farms). INTENSIVE farming uses SMALL AREAS of land with a LARGE amount of LABOUR and inputs (fertiliser, irrigation) per unit area — achieving HIGH output per hectare (e.g., intensive subsistence rice farming in monsoon Asia). The distinction reflects the land-labour ratio and how heavily land is worked. So extensive = large land/low inputs per area; intensive = small land/high inputs per area. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The type of agriculture practised in a region depends on factors such as __________.", "options": ["Physical factors (climate, soil, relief, water) and human factors (population, technology, markets, capital, government policy)", "Only the colour of the sky", "Only the day of the week", "Nothing in particular"], "correct_index": 0, "solution": "The TYPE of AGRICULTURE practised in a region DEPENDS on a combination of factors: PHYSICAL factors — CLIMATE (temperature, rainfall), SOIL type and fertility, RELIEF (flat vs hilly land), and WATER availability (which determine what can be grown and how); and HUMAN factors — POPULATION density (land-labour ratio), TECHNOLOGY (machinery, seeds, irrigation), MARKETS (demand and access), CAPITAL (investment), and GOVERNMENT POLICY. The interplay of these natural and human factors shapes whether farming is subsistence or commercial, intensive or extensive, and which crops are grown. So agricultural type depends on physical and human factors. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Primary activities are the foundation of the economy because __________.", "options": ["They provide the food and raw materials on which secondary (manufacturing) and tertiary (service) activities depend", "They are useless", "They only exist in cities", "They do not produce anything"], "correct_index": 0, "solution": "PRIMARY ACTIVITIES are the FOUNDATION of the economy because they PROVIDE the FOOD (from agriculture, fishing, herding) and the RAW MATERIALS (minerals from mining, wood from forestry, fibres and produce from farming) on which the SECONDARY (manufacturing — which processes raw materials into goods) and TERTIARY (service) activities DEPEND. Without primary activities supplying these basic inputs, industry and services could not function. Thus primary production underpins the whole economic structure. So primary activities are foundational because they supply food and raw materials for other sectors. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In summary, the various primary activities reflect __________.", "options": ["Different ways in which humans use the natural environment and its resources to obtain food and materials, ranging from primitive/subsistence to modern/commercial forms", "Only modern factory work", "No relationship with nature", "Only urban services"], "correct_index": 0, "solution": "In summary, the various PRIMARY ACTIVITIES REFLECT the DIFFERENT WAYS in which HUMANS USE the NATURAL ENVIRONMENT and its RESOURCES to obtain FOOD and MATERIALS. They RANGE from PRIMITIVE/SUBSISTENCE forms (hunting and gathering, nomadic herding, shifting and intensive subsistence cultivation), where people depend closely on nature with simple technology, to MODERN/COMMERCIAL forms (commercial grain and mixed farming, plantations, ranching, dairying, mechanised fishing and mining), where nature's resources are exploited on a large scale with advanced technology for the market. This spectrum illustrates the evolving human–environment relationship in economic life. So primary activities reflect the varied ways humans use nature's resources, from subsistence to commercial. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In India, shifting cultivation is known by the local name __________.", "options": ["Jhum (jhumming), practised in the North-East and other tribal/forest areas", "Ranching", "Truck farming", "Market gardening"], "correct_index": 0, "solution": "In INDIA, SHIFTING CULTIVATION is known by the local name JHUM (or jhumming), practised especially in the NORTH-EASTERN states (and other tribal/forest areas of central and peninsular India, where it goes by various local names like podu, bewar, etc.). Jhum involves clearing and burning a forest patch, cultivating it for a few years, and then moving on. It is a traditional practice of many tribal communities. So in India, shifting cultivation is called jhum. This is a prelims-relevant fact.", "difficulty": "medium" },
-  { "stem": "The best fishing grounds of the world are located in the __________.", "options": ["Cool waters of the continental shelves in the mid- and higher latitudes (where cold and warm currents meet, e.g., off Japan, north-west Europe, and north-east North America)", "Hot tropical open oceans", "Deserts", "Deep ocean trenches"], "correct_index": 0, "solution": "The BEST/richest FISHING GROUNDS of the world are located in the COOL WATERS over the CONTINENTAL SHELVES in the MID- and HIGHER LATITUDES. These areas — such as those off JAPAN, NORTH-WEST EUROPE (the North Sea), and NORTH-EAST NORTH AMERICA (the Grand Banks off Newfoundland) — are shallow (over the continental shelf), and often located where COLD and WARM ocean CURRENTS MEET, which stirs up nutrients and supports abundant PLANKTON and hence large fish populations. So the best fishing grounds are in cool continental-shelf waters of the mid/high latitudes. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Plantation agriculture was closely linked to colonialism. Reason (R): European colonial powers established plantations in tropical colonies to grow cash crops (like tea, coffee, rubber, sugar) for export to Europe, often using imported/local labour. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that PLANTATION AGRICULTURE was closely LINKED to COLONIALISM. And the reason is (R) that EUROPEAN COLONIAL powers ESTABLISHED plantations in their TROPICAL COLONIES (in Asia, Africa, and Latin America) to grow CASH CROPS — TEA, COFFEE, RUBBER, SUGAR, cotton, etc. — for EXPORT to Europe, often using IMPORTED (e.g., indentured) or LOCAL LABOUR under harsh conditions. Plantations were thus a product of, and a tool of, the colonial economic system geared to serve the metropolitan powers. This colonial origin and purpose directly explain the link (A). So R correctly explains A.", "difficulty": "hard" },
-  { "stem": "'Truck farming' refers to __________.", "options": ["The commercial growing of vegetables and fruits for distant urban markets (the distance a truck can travel overnight, hence the name)", "Repairing trucks", "Growing crops on trucks", "Nomadic herding"], "correct_index": 0, "solution": "'TRUCK FARMING' refers to the COMMERCIAL GROWING of VEGETABLES and FRUITS for sale in DISTANT URBAN MARKETS. The name derives from the DISTANCE a TRUCK could travel OVERNIGHT to deliver fresh produce to city markets (in the era before refrigeration). Like market gardening, it is intensive and market-oriented, but it serves markets farther away. It is well developed in regions near large urban populations with good transport. So truck farming is growing vegetables/fruits for distant urban markets. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Nomadic herders keep different animals depending on the region. Which animal is associated with the Arctic and sub-Arctic tundra?", "options": ["Reindeer", "Camel", "Yak", "Llama"], "correct_index": 0, "solution": "In the ARCTIC and sub-Arctic TUNDRA regions of northern Eurasia (e.g., among peoples like the Sami/Lapps of Scandinavia and various Siberian groups), nomadic herders keep REINDEER — hardy animals well adapted to the cold, which provide meat, milk, hides, and transport. (Other region-animal associations: CAMELS in the hot deserts of the Sahara and Arabia; YAKS in the high, cold plateaus of Tibet/Central Asia; LLAMAS in the Andes of South America; sheep, goats, and cattle in various semi-arid areas.) So the tundra herding animal is the reindeer. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Commercial livestock ranching differs from nomadic herding because ranching is __________.", "options": ["Sedentary, organised, and commercial — animals are reared on fixed, large fenced areas (ranches) for the market, using scientific methods", "The same as nomadic herding", "A form of hunting", "A type of mining"], "correct_index": 0, "solution": "COMMERCIAL LIVESTOCK RANCHING differs from NOMADIC HERDING in that ranching is SEDENTARY (settled, not wandering), ORGANISED, and COMMERCIAL: animals (cattle, sheep) are reared on FIXED, LARGE, FENCED areas called RANCHES, managed with SCIENTIFIC METHODS (selective breeding, veterinary care, pasture management), and raised for the MARKET (to sell meat, wool, hides for profit). Nomadic herding, by contrast, is a MOBILE, subsistence activity in which herders move with their animals over open, unfenced land. So ranching is sedentary, organised, commercial livestock rearing on fixed ranches. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The regions famous for commercial livestock ranching include __________.", "options": ["The grasslands of the USA, Argentina (Pampas), Australia, New Zealand, and South Africa", "The Sahara Desert only", "Dense equatorial forests", "The Arctic tundra"], "correct_index": 0, "solution": "The regions FAMOUS for COMMERCIAL LIVESTOCK RANCHING are the vast temperate and tropical GRASSLANDS of the world: the USA (the western ranges and Prairies), ARGENTINA (the PAMPAS — famous for cattle), AUSTRALIA and NEW ZEALAND (sheep and cattle), and SOUTH AFRICA, among others. These regions have large open grasslands suited to grazing herds of cattle and sheep for the commercial production of beef, mutton, wool, and hides. So commercial ranching is famous in the USA, Argentina, Australia, New Zealand, and South Africa. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The primary activity that has become highly mechanised and scientific in developed countries (using tractors, harvesters, and advanced techniques) is __________.", "options": ["Agriculture (commercial farming)", "Hunting and gathering", "Nomadic herding", "Primitive subsistence farming"], "correct_index": 0, "solution": "In DEVELOPED countries, AGRICULTURE (especially COMMERCIAL farming) has become HIGHLY MECHANISED and SCIENTIFIC — using TRACTORS, combine HARVESTERS, and other machinery, along with ADVANCED TECHNIQUES (high-yielding seeds, chemical fertilisers and pesticides, scientific irrigation, and modern management). This allows a very small number of farmers to produce huge quantities of food and to work very large farms efficiently. (By contrast, hunting-gathering, nomadic herding, and primitive subsistence farming use simple, traditional methods.) So agriculture (commercial farming) has become highly mechanised and scientific. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Mining is more developed in some regions than others. Reason (R): Mining depends on the occurrence of mineral deposits (which are unevenly distributed) as well as on demand, capital, technology, and accessibility. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that MINING is MORE DEVELOPED in SOME REGIONS than others. And the reason is (R) that mining DEPENDS on the OCCURRENCE of MINERAL DEPOSITS (which are geologically UNEVENLY DISTRIBUTED — minerals are only where nature placed them), as WELL AS on DEMAND for the mineral, available CAPITAL and TECHNOLOGY to extract and process it, and the ACCESSIBILITY (transport, infrastructure) of the deposit. Where rich, accessible, and demanded deposits coincide with capital and technology, mining flourishes; elsewhere it does not. These combined requirements directly explain why mining is regionally concentrated (A). So R correctly explains A.", "difficulty": "hard" },
-  { "stem": "Which of the following correctly pairs a type of agriculture with its main feature?", "options": ["Subsistence farming — for own consumption; Commercial farming — for the market; Shifting cultivation — slash-and-burn; Plantation — single cash crop on large estates", "Subsistence — for export; Commercial — for own food; Plantation — many food crops", "All types are identical", "Shifting cultivation — permanent mechanised fields"], "correct_index": 0, "solution": "The correct pairing of agriculture types with their main features is: SUBSISTENCE farming — grown mainly for the farmer's OWN CONSUMPTION; COMMERCIAL farming — grown mainly for SALE in the MARKET (profit); SHIFTING cultivation — the SLASH-and-BURN method (clearing/burning forest patches, cultivating, then moving on); and PLANTATION agriculture — growing a SINGLE CASH CROP (like tea, coffee, rubber) on LARGE ESTATES for export. Matching each farming type to its defining feature is important for understanding primary activities. So option 1 gives the correct pairings. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'Gujjars', 'Bakarwals', and 'Gaddis' are examples of __________ in India.", "options": ["Pastoral nomads / herding communities (who migrate seasonally with their animals)", "Fishing communities", "Mining companies", "Software firms"], "correct_index": 0, "solution": "The GUJJARS, BAKARWALS, and GADDIS are examples of PASTORAL NOMADS / herding communities in INDIA — groups (found especially in the Himalayan region, e.g., Jammu & Kashmir and Himachal Pradesh) who practise NOMADIC HERDING, MIGRATING SEASONALLY with their ANIMALS (goats, sheep, buffaloes) between lowland winter pastures and highland summer pastures in search of grazing. They exemplify pastoral nomadism as practised in India. So these are pastoral nomad/herding communities. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The shift of a large share of the workforce OUT of primary activities is a sign of __________.", "options": ["Economic development (as economies industrialise and develop services, fewer people are needed in agriculture and other primary activities)", "Economic decline", "A return to hunting and gathering", "No change in the economy"], "correct_index": 0, "solution": "The SHIFT of a large share of the workforce OUT of PRIMARY ACTIVITIES (especially agriculture) is a SIGN of ECONOMIC DEVELOPMENT. As economies INDUSTRIALISE and develop SERVICES, and as agriculture itself becomes more productive and mechanised (needing fewer workers to produce more food), LABOUR MOVES from the primary sector into the SECONDARY (industry) and TERTIARY (services) sectors. Thus, a declining share of workers in primary activities (and a rising share in industry and services) is a classic indicator of an economy advancing to higher stages of development. So the shift out of primary activities signals economic development. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The environmental impacts of primary activities can include __________.", "options": ["Deforestation, soil erosion and degradation, overgrazing, overfishing, and pollution/land damage from mining", "Only positive effects with no harm", "No impact on the environment", "Improvement of all ecosystems"], "correct_index": 0, "solution": "PRIMARY ACTIVITIES, while essential, can have significant ENVIRONMENTAL IMPACTS: DEFORESTATION (from clearing land for farming, shifting cultivation, or lumbering); SOIL EROSION and DEGRADATION (from over-cultivation and poor practices); OVERGRAZING (from too many livestock, damaging pastures); OVERFISHING (depleting fish stocks); and POLLUTION and LAND DAMAGE from MINING (scarred landscapes, water and air pollution, waste). If not managed sustainably, these activities can harm ecosystems and deplete the very resources they depend on — underscoring the need for sustainable resource use. So primary activities can cause deforestation, erosion, overgrazing, overfishing, and mining damage. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is the correct order of a typical progression as an economy develops?", "options": ["Dominance of primary activities → growth of secondary (manufacturing) → dominance of tertiary (services) and quaternary activities", "Services → industry → agriculture", "Industry → agriculture → hunting", "No progression occurs"], "correct_index": 0, "solution": "The typical PROGRESSION as an economy DEVELOPS is: first, DOMINANCE of PRIMARY ACTIVITIES (agriculture, etc. — most people work the land in a traditional economy); then the GROWTH of SECONDARY activities (MANUFACTURING/industry — industrialisation draws workers into factories); and finally the DOMINANCE of TERTIARY (SERVICES) and QUATERNARY (knowledge-based) activities (in advanced economies, most people work in services and information). This sectoral shift — from primary to secondary to tertiary/quaternary — is the classic path of economic development. So the order is primary → secondary → tertiary/quaternary. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Sustainable practices in primary activities include __________.", "options": ["Crop rotation, afforestation/replanting, controlled grazing, sustainable fishing quotas, and responsible mining with land reclamation", "Unlimited exploitation of all resources", "Ignoring conservation", "Clearing all forests"], "correct_index": 0, "solution": "SUSTAINABLE PRACTICES in PRIMARY ACTIVITIES aim to use natural resources without depleting or destroying them, so they remain available for the future. These include: CROP ROTATION and organic methods (to maintain soil fertility); AFFORESTATION/REPLANTING trees (in forestry, to renew forests); CONTROLLED/rotational GRAZING (to prevent overgrazing); SUSTAINABLE FISHING QUOTAS and seasons (to prevent overfishing and allow fish stocks to recover); and RESPONSIBLE MINING with LAND RECLAMATION (restoring mined land, controlling pollution). Adopting such practices ensures that primary activities can continue without ecological ruin. So sustainable practices include rotation, replanting, controlled grazing, fishing quotas, and land reclamation. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Intensive subsistence agriculture is common in densely populated regions. Reason (R): Where land is scarce relative to a large population, farmers must cultivate small plots very intensively (with much labour and inputs) to produce enough food. Which is correct?", "options": ["Both A and R are true, and R is the correct explanation of A", "Both A and R are true, but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that INTENSIVE SUBSISTENCE AGRICULTURE is COMMON in DENSELY POPULATED regions (like monsoon Asia). And the reason is (R) that where LAND is SCARCE relative to a LARGE POPULATION, farmers must cultivate SMALL PLOTS very INTENSIVELY — using a great deal of LABOUR and INPUTS (manure, irrigation, multiple crops) per unit of land — to PRODUCE ENOUGH FOOD for the many people. The high population pressure on limited land directly forces this intensive style of farming (A). So R correctly explains A.", "difficulty": "hard" },
-  { "stem": "The main purpose of primary activities in the economy is to __________.", "options": ["Obtain food and raw materials from nature, which sustain human life and provide inputs for other economic activities", "Provide entertainment only", "Manufacture finished electronic goods", "Provide banking services"], "correct_index": 0, "solution": "The MAIN PURPOSE of PRIMARY ACTIVITIES in the economy is to OBTAIN FOOD and RAW MATERIALS from NATURE. These outputs SUSTAIN HUMAN LIFE (food from agriculture, fishing, herding) and PROVIDE the essential INPUTS (raw materials like minerals, wood, cotton, and agricultural produce) for OTHER economic activities — especially manufacturing (secondary), which processes these raw materials into finished goods. Thus primary activities meet basic needs and form the resource base of the whole economy. So the purpose of primary activities is to obtain food and raw materials from nature. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is NOT a primary activity?", "options": ["Manufacturing steel in a factory", "Growing wheat", "Catching fish", "Mining coal"], "correct_index": 0, "solution": "MANUFACTURING STEEL in a FACTORY is NOT a primary activity — it is a SECONDARY activity (secondary activities PROCESS raw materials into finished/manufactured goods; making steel from iron ore is manufacturing). The others are all PRIMARY activities that extract goods directly from nature: GROWING WHEAT (agriculture), CATCHING FISH (fishing), and MINING COAL (mining). So the one that is NOT primary is manufacturing steel. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The productivity of primary activities has increased greatly in modern times due to __________.", "options": ["Advances in technology (machinery, high-yielding seeds, fertilisers, irrigation, scientific breeding, modern fishing/mining equipment)", "Doing away with all technology", "Reducing all effort", "Ignoring science"], "correct_index": 0, "solution": "The PRODUCTIVITY of PRIMARY ACTIVITIES has INCREASED GREATLY in modern times due to ADVANCES in TECHNOLOGY: in agriculture — MACHINERY (tractors, harvesters), HIGH-YIELDING VARIETY SEEDS, chemical FERTILISERS and pesticides, and scientific IRRIGATION (the Green Revolution); in animal rearing — scientific BREEDING and veterinary care; in fishing — modern trawlers, refrigeration, and fish-finding equipment; and in mining — powerful machinery and extraction techniques. These technological advances allow far more food and raw materials to be produced with less human labour, transforming primary production. So productivity rose due to technological advances. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In conclusion, primary activities are best understood as __________.", "options": ["The fundamental economic activities through which humans draw sustenance and raw materials from nature — varying by environment and development level, and forming the base of all economic life", "Activities unrelated to nature", "Purely service-based work", "Activities of no importance"], "correct_index": 0, "solution": "In conclusion, PRIMARY ACTIVITIES are best understood as the FUNDAMENTAL ECONOMIC ACTIVITIES through which HUMANS DRAW SUSTENANCE (food) and RAW MATERIALS from NATURE. They VARY by ENVIRONMENT (different regions support different activities — herding in deserts, rice in wet plains, ranching in grasslands, mining where minerals occur) and by LEVEL of DEVELOPMENT (from primitive subsistence to modern commercial forms), and they FORM the BASE of ALL ECONOMIC LIFE — supplying the food and materials on which industry and services depend. This foundational role of primary activities is the key takeaway of the chapter. So primary activities are the fundamental, nature-based economic activities forming the base of the economy. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'Green Revolution' greatly boosted which primary activity in countries like India?", "options": ["Agriculture (food-grain production, through HYV seeds, fertilisers, and irrigation)", "Mining", "Deep-sea fishing", "Forestry"], "correct_index": 0, "solution": "The 'GREEN REVOLUTION' greatly BOOSTED AGRICULTURE — specifically FOOD-GRAIN production (wheat and rice) — in countries like INDIA. Through the adoption of HIGH-YIELDING VARIETY (HYV) SEEDS, chemical FERTILISERS and pesticides, expanded IRRIGATION, and modern farming techniques, agricultural output rose dramatically, making India self-sufficient in food grains. The Green Revolution is a prime example of how technology transformed a primary activity (farming). So the Green Revolution boosted agriculture. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'Blue Revolution' refers to the rapid growth of __________.", "options": ["Fisheries and aquaculture (fish farming) — boosting fish/aquatic food production", "Coal mining", "Wheat farming", "Forestry"], "correct_index": 0, "solution": "The 'BLUE REVOLUTION' refers to the rapid GROWTH and development of FISHERIES and AQUACULTURE (fish farming) — the significant increase in FISH and other aquatic food PRODUCTION through modern methods, fish breeding, and fish farming. It boosted the primary activity of fishing (and aquaculture), enhancing food supply, nutrition (protein), incomes, and exports. (This parallels the Green Revolution in agriculture and the White Revolution in dairy.) So the Blue Revolution refers to the growth of fisheries/aquaculture. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about primary activities is TRUE?", "options": ["The nature and importance of primary activities differ from region to region and from country to country, depending on the natural environment and the level of economic development", "All countries have identical primary activities", "Primary activities exist only in the past", "Primary activities are the same everywhere and never change"], "correct_index": 0, "solution": "The TRUE statement is that the NATURE and IMPORTANCE of PRIMARY ACTIVITIES DIFFER from region to region and country to country, DEPENDING on the NATURAL ENVIRONMENT (climate, soil, minerals, water — which determine what activities are possible) and the LEVEL of ECONOMIC DEVELOPMENT (which determines whether they are subsistence or commercial, and how large their share of the economy is). For example, herding suits deserts, rice-farming suits wet monsoon plains, and mining occurs where minerals exist; and primary activities dominate developing economies but are a small (though productive) share in developed ones. So primary activities vary by environment and development level. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'White Revolution' (Operation Flood) relates to which primary activity?", "options": ["Dairying/animal husbandry (milk production)", "Fishing", "Wheat farming", "Mining"], "correct_index": 0, "solution": "The 'WHITE REVOLUTION' (Operation Flood) relates to DAIRYING / ANIMAL HUSBANDRY — specifically the massive increase in MILK PRODUCTION in India through the organisation of dairy cooperatives (as pioneered by the Amul model under Verghese Kurien), which made India one of the world's leading milk producers. It boosted this primary (livestock) activity, raising rural incomes and improving nutrition. (Green Revolution = crops; Blue Revolution = fish; White Revolution = milk.) So the White Revolution relates to dairying/milk production. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In the final analysis, primary activities remain essential because __________.", "options": ["No matter how advanced an economy becomes, it will always need food and raw materials from nature, which only primary activities provide", "They will soon disappear entirely", "They are only historical", "Modern economies need no food or raw materials"], "correct_index": 0, "solution": "In the FINAL ANALYSIS, PRIMARY ACTIVITIES remain ESSENTIAL because NO MATTER how ADVANCED an economy becomes, it will ALWAYS NEED FOOD (to feed its people) and RAW MATERIALS (to supply its industries) from NATURE — and ONLY PRIMARY ACTIVITIES (agriculture, fishing, herding, forestry, mining) PROVIDE these. Even the most service- and technology-dominated modern economy ultimately depends on food grown and materials extracted from the Earth. Thus primary activities, though a small share of employment in developed countries, remain indispensable to human survival and to the entire economic structure. So primary activities remain essential because every economy always needs food and raw materials from nature. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Primary Activities' is that:", "options": ["Primary activities are unimportant to the economy", "PRIMARY ACTIVITIES are the economic activities that extract and produce goods DIRECTLY from NATURE (the Earth's resources) — including hunting and gathering (the oldest), pastoralism (nomadic herding and commercial ranching), agriculture (ranging from primitive subsistence/shifting cultivation and intensive subsistence farming to commercial farming like grain, plantation, and market gardening), fishing, forestry, and mining; they form the FIRST/BASIC stage of economic production, supplying food and raw materials, and are MORE IMPORTANT (in employment) in DEVELOPING countries than developed ones (whose economies have shifted to industry and services); the type and methods of primary activities vary with the natural environment, technology, and level of development", "All economies rely only on services", "Primary activities do not involve nature"], "correct_index": 1, "solution": "The chapter's overall message is that PRIMARY ACTIVITIES are the economic activities that EXTRACT and PRODUCE goods DIRECTLY from NATURE — from the Earth's natural resources — and form the FIRST, most BASIC stage of economic production (supplying food and raw materials that other sectors then process). The chapter surveys the main primary activities: HUNTING and GATHERING (the oldest and most primitive, depending directly on wild plants and animals); PASTORALISM (animal rearing) in two forms — NOMADIC HERDING (subsistence, in harsh arid/cold regions) and COMMERCIAL LIVESTOCK REARING/RANCHING (for the market); AGRICULTURE in its many forms — from PRIMITIVE SUBSISTENCE farming (including SHIFTING/slash-and-burn cultivation) and INTENSIVE SUBSISTENCE agriculture (small plots farmed intensively, especially rice, in densely populated monsoon Asia) to COMMERCIAL agriculture (commercial grain farming, MIXED farming, PLANTATION agriculture growing single cash crops like tea/coffee/rubber for export, and MARKET GARDENING/horticulture for urban markets); FISHING (a major source of food/protein, richest over cool continental shelves); FORESTRY/lumbering; and MINING (extracting minerals, by surface/open-cast or underground/shaft methods). These activities vary with the NATURAL ENVIRONMENT, TECHNOLOGY, and LEVEL of DEVELOPMENT, and they are MORE IMPORTANT (as a share of employment) in DEVELOPING countries — which rely heavily on agriculture — than in DEVELOPED countries, whose economies have shifted toward industry and services. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "'Primary activities' are economic activities that __________.",
+    "options": [
+      "Involve extracting and producing goods directly from nature (from the Earth's natural resources)",
+      "Only involve manufacturing goods in factories",
+      "Only involve providing services",
+      "Only involve research and information technology"
+    ],
+    "correct_index": 0,
+    "solution": "PRIMARY ACTIVITIES are economic activities that involve EXTRACTING and PRODUCING goods DIRECTLY from NATURE — i.e., using the Earth's NATURAL RESOURCES. They include activities like hunting and gathering, pastoralism (animal rearing), agriculture (farming), fishing, forestry (lumbering), and mining/quarrying. Primary activities are 'primary' because they are the first, most basic stage of economic production, obtaining raw materials from the natural environment (which secondary activities then process). So primary activities involve extracting goods directly from nature. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is a primary activity?",
+    "options": [
+      "Agriculture, hunting and gathering, fishing, forestry (lumbering), pastoralism, and mining",
+      "Manufacturing cars",
+      "Banking and insurance",
+      "Software development"
+    ],
+    "correct_index": 0,
+    "solution": "PRIMARY ACTIVITIES include: AGRICULTURE (crop farming); HUNTING and GATHERING; FISHING; FORESTRY/LUMBERING (obtaining wood); PASTORALISM (rearing animals — herding); and MINING and quarrying (extracting minerals). All of these obtain raw materials or food DIRECTLY from NATURE. (Manufacturing cars is a secondary activity; banking, insurance, and software are tertiary/quaternary — service/knowledge — activities.) So agriculture, hunting-gathering, fishing, forestry, pastoralism, and mining are primary activities. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most primitive/oldest form of primary activity, in which people depend on nature for food by collecting wild plants and hunting animals, is __________.",
+    "options": [
+      "Hunting and gathering (food gathering/collecting)",
+      "Commercial agriculture",
+      "Mining",
+      "Manufacturing"
+    ],
+    "correct_index": 0,
+    "solution": "HUNTING and GATHERING (food gathering/collecting) is the most PRIMITIVE and OLDEST form of primary activity. In it, people depend directly on NATURE for FOOD by COLLECTING wild plants, fruits, roots, and nuts (gathering) and HUNTING wild animals for meat. It requires low technology and small populations, and it was the way of life of early humans; today only a few isolated communities (in dense forests, deserts, and remote regions) still practise it. So the oldest primary activity is hunting and gathering. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Pastoralism' (animal rearing/herding) is of two main types. These are __________.",
+    "options": [
+      "Nomadic herding (pastoral nomadism) and commercial livestock rearing (commercial pastoralism/ranching)",
+      "Hunting and fishing",
+      "Farming and mining",
+      "Forestry and gathering"
+    ],
+    "correct_index": 0,
+    "solution": "PASTORALISM (the rearing of animals/herding) is of two main types: (1) NOMADIC HERDING (pastoral nomadism) — a subsistence activity in which herders MOVE with their animals (cattle, sheep, goats, camels, yaks, reindeer) from place to place in search of pasture and water, common in harsh, dry, or cold regions; and (2) COMMERCIAL LIVESTOCK REARING (commercial pastoralism/RANCHING) — a more organised, capital-intensive activity in which animals are reared on large fenced areas (ranches) for the MARKET (meat, wool, hides), practised in regions like the USA, Argentina, Australia, and New Zealand. So the two types are nomadic herding and commercial livestock rearing. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Subsistence agriculture' refers to farming in which __________.",
+    "options": [
+      "Farmers grow crops mainly to feed themselves and their families (for their own consumption), with little or no surplus for sale",
+      "All produce is exported",
+      "Crops are grown only for factories",
+      "No crops are grown at all"
+    ],
+    "correct_index": 0,
+    "solution": "SUBSISTENCE AGRICULTURE refers to farming in which farmers grow crops (and rear animals) MAINLY to FEED THEMSELVES and their FAMILIES — for their OWN CONSUMPTION — with LITTLE or NO SURPLUS left over for sale in the market. It is typically small-scale, uses simple tools and family labour, and is common in developing countries. (It contrasts with commercial agriculture, which produces crops for sale/profit.) So subsistence agriculture is farming for the farmer's own consumption. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Shifting cultivation' (slash-and-burn agriculture) is a form of subsistence farming in which __________.",
+    "options": [
+      "A patch of forest is cleared (by cutting and burning), cultivated for a few years, then abandoned for a new patch when the soil loses fertility",
+      "The same field is used forever with heavy machinery",
+      "Crops are grown only in cities",
+      "No land is ever cleared"
+    ],
+    "correct_index": 0,
+    "solution": "SHIFTING CULTIVATION (slash-and-burn agriculture) is a form of PRIMITIVE SUBSISTENCE farming in which a PATCH of FOREST is CLEARED (by CUTTING down and BURNING the vegetation — 'slash and burn'), then CULTIVATED for a FEW YEARS. When the SOIL loses its FERTILITY, the patch is ABANDONED and the farmers move on to CLEAR a NEW patch, allowing the old one to regenerate. It is practised in tropical regions (known by names like jhum in India, milpa, ladang, etc.). It supports small populations but can cause deforestation if cycles shorten. So shifting cultivation clears, cultivates, and abandons forest patches in rotation. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Commercial agriculture' is characterised by __________.",
+    "options": [
+      "Growing crops and rearing animals mainly for sale in the market (for profit), often on a large scale with modern methods",
+      "Growing food only for the farmer's family",
+      "No use of any technology",
+      "Never selling any produce"
+    ],
+    "correct_index": 0,
+    "solution": "COMMERCIAL AGRICULTURE is characterised by growing CROPS and rearing ANIMALS mainly for SALE in the MARKET (for PROFIT), rather than for the farmer's own consumption. It is typically practised on a LARGER SCALE, with MODERN METHODS (machinery, high-yielding seeds, fertilisers, irrigation) and often specialisation in particular crops or products. Types include commercial grain farming, mixed farming, plantation agriculture, and commercial livestock rearing. So commercial agriculture produces mainly for the market/profit. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Plantation agriculture' is a type of commercial farming characterised by __________.",
+    "options": [
+      "Large estates growing a single cash crop (like tea, coffee, rubber, or sugarcane) for export, using much labour and capital",
+      "Growing many different food crops for local families",
+      "Nomadic herding",
+      "Mining"
+    ],
+    "correct_index": 0,
+    "solution": "PLANTATION AGRICULTURE is a type of COMMERCIAL farming characterised by LARGE ESTATES (plantations) that grow a SINGLE CASH CROP (MONOCULTURE) — such as TEA, COFFEE, RUBBER, SUGARCANE, cotton, bananas, or oil palm — primarily for EXPORT. It uses a large amount of LABOUR and CAPITAL, is often located in tropical/subtropical regions, and was historically associated with colonial economies. So plantation agriculture grows a single cash crop on large estates for export. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Mining' is a primary activity that involves __________.",
+    "options": [
+      "Extracting minerals and other valuable materials from the Earth (from beneath or on the surface)",
+      "Growing crops",
+      "Rearing animals",
+      "Manufacturing goods"
+    ],
+    "correct_index": 0,
+    "solution": "MINING is a primary activity that involves EXTRACTING MINERALS and other valuable materials (metals, coal, oil and gas, precious stones, etc.) from the EARTH — from BENEATH the surface (underground/shaft mining) or from the SURFACE (open-cast/surface mining). Mining provides the raw materials (like iron ore, coal, bauxite) that fuel industries and modern economies. It is a primary activity because it directly extracts resources from nature. So mining is the extraction of minerals from the Earth. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two main methods of mining are __________.",
+    "options": [
+      "Surface (open-cast) mining and underground (shaft) mining",
+      "Farming and herding",
+      "Fishing and hunting",
+      "Weaving and spinning"
+    ],
+    "correct_index": 0,
+    "solution": "The two main METHODS of MINING are: (1) SURFACE (OPEN-CAST/open-pit) MINING — where minerals lying NEAR the SURFACE are extracted by removing the overlying soil and rock (cheaper, safer, and used when deposits are shallow); and (2) UNDERGROUND (SHAFT) MINING — where DEEP deposits are reached by sinking vertical SHAFTS and horizontal galleries into the Earth (more expensive, dangerous, and used for deep-lying minerals). The method chosen depends on the depth and nature of the mineral deposit. So the two main mining methods are surface (open-cast) and underground (shaft) mining. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Primary activities are more important (as a share of employment) in developing countries than in developed ones. Reason (R): Developing economies rely heavily on agriculture and other primary activities, while developed economies have shifted toward industry and services. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that PRIMARY ACTIVITIES are MORE IMPORTANT (as a share of employment) in DEVELOPING countries than in developed ones. And the reason is (R) that DEVELOPING economies RELY HEAVILY on AGRICULTURE and other primary activities (a large share of their workforce is engaged in farming, etc.), WHILE DEVELOPED economies have SHIFTED toward INDUSTRY (secondary) and especially SERVICES (tertiary), with only a small fraction of workers in primary activities. This difference in the stage of economic development directly explains the greater weight of primary activities in developing countries (A). So R correctly explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Intensive subsistence agriculture' (common in densely populated parts of monsoon Asia) is characterised by __________.",
+    "options": [
+      "Cultivation of small plots intensively (with much labour) to get maximum output — often rice-dominated, to feed dense populations",
+      "Vast fields with few workers",
+      "Nomadic movement",
+      "Growing crops only for export"
+    ],
+    "correct_index": 0,
+    "solution": "INTENSIVE SUBSISTENCE AGRICULTURE (common in the densely populated parts of MONSOON ASIA — including India, China, and Southeast Asia) is characterised by cultivating SMALL PLOTS of land very INTENSIVELY, using a LARGE amount of LABOUR (and manures, and multiple cropping) to obtain the MAXIMUM OUTPUT per unit of land. It is often dominated by RICE (in wetter areas) and other food grains, and is aimed at FEEDING the DENSE POPULATIONS of these regions. Land is scarce relative to people, so it is farmed intensively. So intensive subsistence agriculture farms small plots intensively for maximum food output. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Market gardening' and 'horticulture' are types of commercial farming that specialise in __________.",
+    "options": [
+      "Growing high-value vegetables, fruits, and flowers for urban markets",
+      "Growing only staple grains for subsistence",
+      "Rearing animals nomadically",
+      "Mining minerals"
+    ],
+    "correct_index": 0,
+    "solution": "MARKET GARDENING and HORTICULTURE are types of intensive COMMERCIAL farming that SPECIALISE in growing HIGH-VALUE VEGETABLES, FRUITS, and FLOWERS for sale — especially to nearby URBAN MARKETS (cities with wealthy consumers who demand fresh produce). These are labour- and capital-intensive activities located near cities or with good transport links, aimed at profit. (A related form, 'truck farming', grows vegetables for distant markets.) So market gardening/horticulture grows high-value vegetables, fruits, and flowers for urban markets. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Fishing' as a primary activity is important because __________.",
+    "options": [
+      "It provides food (a major source of protein), employment, and raw materials, and rich fishing grounds are found especially in cool waters over continental shelves",
+      "It is not an economic activity",
+      "Fish provide no food",
+      "It only occurs in deserts"
+    ],
+    "correct_index": 0,
+    "solution": "FISHING is an important primary activity because it provides FOOD (fish are a major source of PROTEIN for much of the world's population), EMPLOYMENT (for millions of people), and RAW MATERIALS (for products like fish oil, fish meal, and fertiliser). The RICHEST FISHING GROUNDS are found especially in COOL WATERS over the CONTINENTAL SHELVES (shallow, nutrient-rich seas where cold and warm currents meet, supporting abundant plankton and fish) — such as the North Sea, the Grand Banks, and the seas off Japan and Peru. So fishing provides food, jobs, and raw materials, especially from cool continental-shelf waters. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Nomadic herding' (pastoral nomadism) is generally practised in __________.",
+    "options": [
+      "Harsh regions unsuitable for crop farming — such as semi-arid, arid, and cold areas (e.g., the Sahara fringes, Central Asia, and the Arctic tundra)",
+      "Fertile river valleys",
+      "Big cities",
+      "Industrial regions"
+    ],
+    "correct_index": 0,
+    "solution": "NOMADIC HERDING (pastoral nomadism) is generally practised in HARSH REGIONS that are UNSUITABLE for CROP FARMING — such as SEMI-ARID and ARID areas (the fringes of the Sahara and the deserts of Arabia and Central Asia), and COLD areas (the ARCTIC TUNDRA of northern Eurasia). In these environments where cultivation is difficult, people rear hardy animals (camels, sheep, goats, cattle, yaks, reindeer) and MOVE with them in search of pasture and water. So nomadic herding is practised in harsh semi-arid, arid, and cold regions. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Mixed farming' is a type of commercial agriculture in which __________.",
+    "options": [
+      "Both crops are grown and animals are reared on the same farm (combining crop cultivation and livestock)",
+      "Only one crop is grown",
+      "Only animals are kept with no crops",
+      "Only mining is done"
+    ],
+    "correct_index": 0,
+    "solution": "MIXED FARMING is a type of COMMERCIAL agriculture in which BOTH CROPS are GROWN and ANIMALS (livestock) are REARED on the SAME FARM. Farmers combine crop cultivation (grains, fodder) with keeping animals (cattle, pigs, poultry), so the two support each other (e.g., crops and fodder feed the animals, and animal manure fertilises the crops), spreading risk and using resources efficiently. It is common in the developed regions of Europe, North America, and elsewhere. So mixed farming combines crop cultivation and livestock rearing on the same farm. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Dairy farming' is a form of commercial livestock/agriculture that specialises in __________.",
+    "options": [
+      "Rearing milch animals (cattle) for milk and dairy products, often located near urban markets",
+      "Growing wheat only",
+      "Mining coal",
+      "Hunting animals"
+    ],
+    "correct_index": 0,
+    "solution": "DAIRY FARMING is a form of intensive COMMERCIAL livestock farming that SPECIALISES in REARING MILCH ANIMALS (dairy CATTLE, and sometimes buffaloes) for MILK and dairy PRODUCTS (butter, cheese, etc.). Because milk is perishable, dairy farms are often located NEAR URBAN MARKETS (or with good refrigerated transport). It is highly labour- and capital-intensive (requiring care, feeding, and modern facilities), and is well developed in regions like North-western Europe, North America, New Zealand, and Australia. So dairy farming rears cattle for milk and dairy products, often near markets. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Commercial grain farming' (extensive) is characterised by __________.",
+    "options": [
+      "Growing grains (mainly wheat) on very large farms with machinery for the market, in temperate grassland regions (like the Prairies, Steppes, Pampas)",
+      "Growing rice on tiny plots by hand",
+      "Nomadic herding",
+      "Growing only vegetables in cities"
+    ],
+    "correct_index": 0,
+    "solution": "COMMERCIAL GRAIN FARMING (extensive commercial farming) is characterised by growing GRAINS — mainly WHEAT (and maize, barley) — on VERY LARGE FARMS with extensive use of MACHINERY (tractors, harvesters), for the MARKET/export. It is practised in the TEMPERATE GRASSLAND regions of the world — such as the PRAIRIES of North America, the STEPPES of Eurasia, the PAMPAS of Argentina, and the Downs of Australia — which have large, flat expanses, fertile soils, and low population density, making large-scale mechanised grain farming possible. So commercial grain farming grows wheat on large mechanised farms in temperate grasslands. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Shifting cultivation can lead to environmental problems when practised intensively. Reason (R): If the same land is reused too quickly (short fallow periods) due to population pressure, the soil and forest cannot recover, causing degradation and deforestation. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that SHIFTING CULTIVATION can lead to ENVIRONMENTAL PROBLEMS when practised intensively. And the reason is (R) that if the SAME LAND is REUSED TOO QUICKLY (with SHORT FALLOW/rest PERIODS) — due to rising POPULATION PRESSURE — the SOIL and FOREST cannot fully RECOVER between cultivations, leading to SOIL DEGRADATION (loss of fertility, erosion) and DEFORESTATION. Traditionally, long fallow periods allowed regeneration; when these are shortened, the sustainable balance breaks down. This inability to recover directly causes the environmental harm (A). So R correctly explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Forestry (lumbering) as a primary activity involves __________.",
+    "options": [
+      "The commercial harvesting of timber and wood products from forests",
+      "Growing rice",
+      "Mining gold",
+      "Manufacturing cloth"
+    ],
+    "correct_index": 0,
+    "solution": "FORESTRY (LUMBERING) as a primary activity involves the COMMERCIAL HARVESTING of TIMBER (wood) and other WOOD PRODUCTS from FORESTS — cutting and gathering trees for use as lumber, pulp (for paper), and fuel. Major commercial lumbering occurs in the vast coniferous (softwood) forests of the temperate regions (e.g., Canada, the USA, Russia, and Scandinavia) and in tropical hardwood forests. Being the extraction of a natural resource (wood) from the environment, forestry is a primary activity. So forestry/lumbering is the harvesting of timber from forests. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Extensive' versus 'intensive' agriculture differ in that __________.",
+    "options": [
+      "Extensive farming uses large areas of land with less labour/inputs per unit area; intensive farming uses small areas with much labour/inputs per unit area",
+      "They are identical",
+      "Extensive means small plots; intensive means large farms",
+      "Both use no land"
+    ],
+    "correct_index": 0,
+    "solution": "EXTENSIVE and INTENSIVE agriculture differ in the use of land relative to labour and inputs. EXTENSIVE farming uses LARGE AREAS of LAND with RELATIVELY LITTLE LABOUR and inputs per unit area — output per hectare is low, but total output is large due to the vast area (e.g., commercial grain farming on the Prairies, with machines on huge farms). INTENSIVE farming uses SMALL AREAS of land with a LARGE amount of LABOUR and inputs (fertiliser, irrigation) per unit area — achieving HIGH output per hectare (e.g., intensive subsistence rice farming in monsoon Asia). The distinction reflects the land-labour ratio and how heavily land is worked. So extensive = large land/low inputs per area; intensive = small land/high inputs per area. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The type of agriculture practised in a region depends on factors such as __________.",
+    "options": [
+      "Physical factors (climate, soil, relief, water) and human factors (population, technology, markets, capital, government policy)",
+      "Only the colour of the sky",
+      "Only the day of the week",
+      "Nothing in particular"
+    ],
+    "correct_index": 0,
+    "solution": "The TYPE of AGRICULTURE practised in a region DEPENDS on a combination of factors: PHYSICAL factors — CLIMATE (temperature, rainfall), SOIL type and fertility, RELIEF (flat vs hilly land), and WATER availability (which determine what can be grown and how); and HUMAN factors — POPULATION density (land-labour ratio), TECHNOLOGY (machinery, seeds, irrigation), MARKETS (demand and access), CAPITAL (investment), and GOVERNMENT POLICY. The interplay of these natural and human factors shapes whether farming is subsistence or commercial, intensive or extensive, and which crops are grown. So agricultural type depends on physical and human factors. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Primary activities are the foundation of the economy because __________.",
+    "options": [
+      "They provide the food and raw materials on which secondary (manufacturing) and tertiary (service) activities depend",
+      "They are useless",
+      "They only exist in cities",
+      "They do not produce anything"
+    ],
+    "correct_index": 0,
+    "solution": "PRIMARY ACTIVITIES are the FOUNDATION of the economy because they PROVIDE the FOOD (from agriculture, fishing, herding) and the RAW MATERIALS (minerals from mining, wood from forestry, fibres and produce from farming) on which the SECONDARY (manufacturing — which processes raw materials into goods) and TERTIARY (service) activities DEPEND. Without primary activities supplying these basic inputs, industry and services could not function. Thus primary production underpins the whole economic structure. So primary activities are foundational because they supply food and raw materials for other sectors. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In summary, the various primary activities reflect __________.",
+    "options": [
+      "Different ways in which humans use the natural environment and its resources to obtain food and materials, ranging from primitive/subsistence to modern/commercial forms",
+      "Only modern factory work",
+      "No relationship with nature",
+      "Only urban services"
+    ],
+    "correct_index": 0,
+    "solution": "In summary, the various PRIMARY ACTIVITIES REFLECT the DIFFERENT WAYS in which HUMANS USE the NATURAL ENVIRONMENT and its RESOURCES to obtain FOOD and MATERIALS. They RANGE from PRIMITIVE/SUBSISTENCE forms (hunting and gathering, nomadic herding, shifting and intensive subsistence cultivation), where people depend closely on nature with simple technology, to MODERN/COMMERCIAL forms (commercial grain and mixed farming, plantations, ranching, dairying, mechanised fishing and mining), where nature's resources are exploited on a large scale with advanced technology for the market. This spectrum illustrates the evolving human–environment relationship in economic life. So primary activities reflect the varied ways humans use nature's resources, from subsistence to commercial. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In India, shifting cultivation is known by the local name __________.",
+    "options": [
+      "Jhum (jhumming), practised in the North-East and other tribal/forest areas",
+      "Ranching",
+      "Truck farming",
+      "Market gardening"
+    ],
+    "correct_index": 0,
+    "solution": "In INDIA, SHIFTING CULTIVATION is known by the local name JHUM (or jhumming), practised especially in the NORTH-EASTERN states (and other tribal/forest areas of central and peninsular India, where it goes by various local names like podu, bewar, etc.). Jhum involves clearing and burning a forest patch, cultivating it for a few years, and then moving on. It is a traditional practice of many tribal communities. So in India, shifting cultivation is called jhum. This is a prelims-relevant fact.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The best fishing grounds of the world are located in the __________.",
+    "options": [
+      "Cool waters of the continental shelves in the mid- and higher latitudes (where cold and warm currents meet, e.g., off Japan, north-west Europe, and north-east North America)",
+      "Hot tropical open oceans",
+      "Deserts",
+      "Deep ocean trenches"
+    ],
+    "correct_index": 0,
+    "solution": "The BEST/richest FISHING GROUNDS of the world are located in the COOL WATERS over the CONTINENTAL SHELVES in the MID- and HIGHER LATITUDES. These areas — such as those off JAPAN, NORTH-WEST EUROPE (the North Sea), and NORTH-EAST NORTH AMERICA (the Grand Banks off Newfoundland) — are shallow (over the continental shelf), and often located where COLD and WARM ocean CURRENTS MEET, which stirs up nutrients and supports abundant PLANKTON and hence large fish populations. So the best fishing grounds are in cool continental-shelf waters of the mid/high latitudes. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Plantation agriculture was closely linked to colonialism. Reason (R): European colonial powers established plantations in tropical colonies to grow cash crops (like tea, coffee, rubber, sugar) for export to Europe, often using imported/local labour. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that PLANTATION AGRICULTURE was closely LINKED to COLONIALISM. And the reason is (R) that EUROPEAN COLONIAL powers ESTABLISHED plantations in their TROPICAL COLONIES (in Asia, Africa, and Latin America) to grow CASH CROPS — TEA, COFFEE, RUBBER, SUGAR, cotton, etc. — for EXPORT to Europe, often using IMPORTED (e.g., indentured) or LOCAL LABOUR under harsh conditions. Plantations were thus a product of, and a tool of, the colonial economic system geared to serve the metropolitan powers. This colonial origin and purpose directly explain the link (A). So R correctly explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Truck farming' refers to __________.",
+    "options": [
+      "The commercial growing of vegetables and fruits for distant urban markets (the distance a truck can travel overnight, hence the name)",
+      "Repairing trucks",
+      "Growing crops on trucks",
+      "Nomadic herding"
+    ],
+    "correct_index": 0,
+    "solution": "'TRUCK FARMING' refers to the COMMERCIAL GROWING of VEGETABLES and FRUITS for sale in DISTANT URBAN MARKETS. The name derives from the DISTANCE a TRUCK could travel OVERNIGHT to deliver fresh produce to city markets (in the era before refrigeration). Like market gardening, it is intensive and market-oriented, but it serves markets farther away. It is well developed in regions near large urban populations with good transport. So truck farming is growing vegetables/fruits for distant urban markets. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nomadic herders keep different animals depending on the region. Which animal is associated with the Arctic and sub-Arctic tundra?",
+    "options": [
+      "Reindeer",
+      "Camel",
+      "Yak",
+      "Llama"
+    ],
+    "correct_index": 0,
+    "solution": "In the ARCTIC and sub-Arctic TUNDRA regions of northern Eurasia (e.g., among peoples like the Sami/Lapps of Scandinavia and various Siberian groups), nomadic herders keep REINDEER — hardy animals well adapted to the cold, which provide meat, milk, hides, and transport. (Other region-animal associations: CAMELS in the hot deserts of the Sahara and Arabia; YAKS in the high, cold plateaus of Tibet/Central Asia; LLAMAS in the Andes of South America; sheep, goats, and cattle in various semi-arid areas.) So the tundra herding animal is the reindeer. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Commercial livestock ranching differs from nomadic herding because ranching is __________.",
+    "options": [
+      "Sedentary, organised, and commercial — animals are reared on fixed, large fenced areas (ranches) for the market, using scientific methods",
+      "The same as nomadic herding",
+      "A form of hunting",
+      "A type of mining"
+    ],
+    "correct_index": 0,
+    "solution": "COMMERCIAL LIVESTOCK RANCHING differs from NOMADIC HERDING in that ranching is SEDENTARY (settled, not wandering), ORGANISED, and COMMERCIAL: animals (cattle, sheep) are reared on FIXED, LARGE, FENCED areas called RANCHES, managed with SCIENTIFIC METHODS (selective breeding, veterinary care, pasture management), and raised for the MARKET (to sell meat, wool, hides for profit). Nomadic herding, by contrast, is a MOBILE, subsistence activity in which herders move with their animals over open, unfenced land. So ranching is sedentary, organised, commercial livestock rearing on fixed ranches. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The regions famous for commercial livestock ranching include __________.",
+    "options": [
+      "The grasslands of the USA, Argentina (Pampas), Australia, New Zealand, and South Africa",
+      "The Sahara Desert only",
+      "Dense equatorial forests",
+      "The Arctic tundra"
+    ],
+    "correct_index": 0,
+    "solution": "The regions FAMOUS for COMMERCIAL LIVESTOCK RANCHING are the vast temperate and tropical GRASSLANDS of the world: the USA (the western ranges and Prairies), ARGENTINA (the PAMPAS — famous for cattle), AUSTRALIA and NEW ZEALAND (sheep and cattle), and SOUTH AFRICA, among others. These regions have large open grasslands suited to grazing herds of cattle and sheep for the commercial production of beef, mutton, wool, and hides. So commercial ranching is famous in the USA, Argentina, Australia, New Zealand, and South Africa. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The primary activity that has become highly mechanised and scientific in developed countries (using tractors, harvesters, and advanced techniques) is __________.",
+    "options": [
+      "Agriculture (commercial farming)",
+      "Hunting and gathering",
+      "Nomadic herding",
+      "Primitive subsistence farming"
+    ],
+    "correct_index": 0,
+    "solution": "In DEVELOPED countries, AGRICULTURE (especially COMMERCIAL farming) has become HIGHLY MECHANISED and SCIENTIFIC — using TRACTORS, combine HARVESTERS, and other machinery, along with ADVANCED TECHNIQUES (high-yielding seeds, chemical fertilisers and pesticides, scientific irrigation, and modern management). This allows a very small number of farmers to produce huge quantities of food and to work very large farms efficiently. (By contrast, hunting-gathering, nomadic herding, and primitive subsistence farming use simple, traditional methods.) So agriculture (commercial farming) has become highly mechanised and scientific. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Mining is more developed in some regions than others. Reason (R): Mining depends on the occurrence of mineral deposits (which are unevenly distributed) as well as on demand, capital, technology, and accessibility. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that MINING is MORE DEVELOPED in SOME REGIONS than others. And the reason is (R) that mining DEPENDS on the OCCURRENCE of MINERAL DEPOSITS (which are geologically UNEVENLY DISTRIBUTED — minerals are only where nature placed them), as WELL AS on DEMAND for the mineral, available CAPITAL and TECHNOLOGY to extract and process it, and the ACCESSIBILITY (transport, infrastructure) of the deposit. Where rich, accessible, and demanded deposits coincide with capital and technology, mining flourishes; elsewhere it does not. These combined requirements directly explain why mining is regionally concentrated (A). So R correctly explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly pairs a type of agriculture with its main feature?",
+    "options": [
+      "Subsistence farming — for own consumption; Commercial farming — for the market; Shifting cultivation — slash-and-burn; Plantation — single cash crop on large estates",
+      "Subsistence — for export; Commercial — for own food; Plantation — many food crops",
+      "All types are identical",
+      "Shifting cultivation — permanent mechanised fields"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairing of agriculture types with their main features is: SUBSISTENCE farming — grown mainly for the farmer's OWN CONSUMPTION; COMMERCIAL farming — grown mainly for SALE in the MARKET (profit); SHIFTING cultivation — the SLASH-and-BURN method (clearing/burning forest patches, cultivating, then moving on); and PLANTATION agriculture — growing a SINGLE CASH CROP (like tea, coffee, rubber) on LARGE ESTATES for export. Matching each farming type to its defining feature is important for understanding primary activities. So option 1 gives the correct pairings. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Gujjars', 'Bakarwals', and 'Gaddis' are examples of __________ in India.",
+    "options": [
+      "Pastoral nomads / herding communities (who migrate seasonally with their animals)",
+      "Fishing communities",
+      "Mining companies",
+      "Software firms"
+    ],
+    "correct_index": 0,
+    "solution": "The GUJJARS, BAKARWALS, and GADDIS are examples of PASTORAL NOMADS / herding communities in INDIA — groups (found especially in the Himalayan region, e.g., Jammu & Kashmir and Himachal Pradesh) who practise NOMADIC HERDING, MIGRATING SEASONALLY with their ANIMALS (goats, sheep, buffaloes) between lowland winter pastures and highland summer pastures in search of grazing. They exemplify pastoral nomadism as practised in India. So these are pastoral nomad/herding communities. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The shift of a large share of the workforce OUT of primary activities is a sign of __________.",
+    "options": [
+      "Economic development (as economies industrialise and develop services, fewer people are needed in agriculture and other primary activities)",
+      "Economic decline",
+      "A return to hunting and gathering",
+      "No change in the economy"
+    ],
+    "correct_index": 0,
+    "solution": "The SHIFT of a large share of the workforce OUT of PRIMARY ACTIVITIES (especially agriculture) is a SIGN of ECONOMIC DEVELOPMENT. As economies INDUSTRIALISE and develop SERVICES, and as agriculture itself becomes more productive and mechanised (needing fewer workers to produce more food), LABOUR MOVES from the primary sector into the SECONDARY (industry) and TERTIARY (services) sectors. Thus, a declining share of workers in primary activities (and a rising share in industry and services) is a classic indicator of an economy advancing to higher stages of development. So the shift out of primary activities signals economic development. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The environmental impacts of primary activities can include __________.",
+    "options": [
+      "Deforestation, soil erosion and degradation, overgrazing, overfishing, and pollution/land damage from mining",
+      "Only positive effects with no harm",
+      "No impact on the environment",
+      "Improvement of all ecosystems"
+    ],
+    "correct_index": 0,
+    "solution": "PRIMARY ACTIVITIES, while essential, can have significant ENVIRONMENTAL IMPACTS: DEFORESTATION (from clearing land for farming, shifting cultivation, or lumbering); SOIL EROSION and DEGRADATION (from over-cultivation and poor practices); OVERGRAZING (from too many livestock, damaging pastures); OVERFISHING (depleting fish stocks); and POLLUTION and LAND DAMAGE from MINING (scarred landscapes, water and air pollution, waste). If not managed sustainably, these activities can harm ecosystems and deplete the very resources they depend on — underscoring the need for sustainable resource use. So primary activities can cause deforestation, erosion, overgrazing, overfishing, and mining damage. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the correct order of a typical progression as an economy develops?",
+    "options": [
+      "Dominance of primary activities → growth of secondary (manufacturing) → dominance of tertiary (services) and quaternary activities",
+      "Services → industry → agriculture",
+      "Industry → agriculture → hunting",
+      "No progression occurs"
+    ],
+    "correct_index": 0,
+    "solution": "The typical PROGRESSION as an economy DEVELOPS is: first, DOMINANCE of PRIMARY ACTIVITIES (agriculture, etc. — most people work the land in a traditional economy); then the GROWTH of SECONDARY activities (MANUFACTURING/industry — industrialisation draws workers into factories); and finally the DOMINANCE of TERTIARY (SERVICES) and QUATERNARY (knowledge-based) activities (in advanced economies, most people work in services and information). This sectoral shift — from primary to secondary to tertiary/quaternary — is the classic path of economic development. So the order is primary → secondary → tertiary/quaternary. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sustainable practices in primary activities include __________.",
+    "options": [
+      "Crop rotation, afforestation/replanting, controlled grazing, sustainable fishing quotas, and responsible mining with land reclamation",
+      "Unlimited exploitation of all resources",
+      "Ignoring conservation",
+      "Clearing all forests"
+    ],
+    "correct_index": 0,
+    "solution": "SUSTAINABLE PRACTICES in PRIMARY ACTIVITIES aim to use natural resources without depleting or destroying them, so they remain available for the future. These include: CROP ROTATION and organic methods (to maintain soil fertility); AFFORESTATION/REPLANTING trees (in forestry, to renew forests); CONTROLLED/rotational GRAZING (to prevent overgrazing); SUSTAINABLE FISHING QUOTAS and seasons (to prevent overfishing and allow fish stocks to recover); and RESPONSIBLE MINING with LAND RECLAMATION (restoring mined land, controlling pollution). Adopting such practices ensures that primary activities can continue without ecological ruin. So sustainable practices include rotation, replanting, controlled grazing, fishing quotas, and land reclamation. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Intensive subsistence agriculture is common in densely populated regions. Reason (R): Where land is scarce relative to a large population, farmers must cultivate small plots very intensively (with much labour and inputs) to produce enough food. Which is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "Both the Assertion and the Reason are true, and the Reason correctly explains the Assertion. It is true (A) that INTENSIVE SUBSISTENCE AGRICULTURE is COMMON in DENSELY POPULATED regions (like monsoon Asia). And the reason is (R) that where LAND is SCARCE relative to a LARGE POPULATION, farmers must cultivate SMALL PLOTS very INTENSIVELY — using a great deal of LABOUR and INPUTS (manure, irrigation, multiple crops) per unit of land — to PRODUCE ENOUGH FOOD for the many people. The high population pressure on limited land directly forces this intensive style of farming (A). So R correctly explains A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main purpose of primary activities in the economy is to __________.",
+    "options": [
+      "Obtain food and raw materials from nature, which sustain human life and provide inputs for other economic activities",
+      "Provide entertainment only",
+      "Manufacture finished electronic goods",
+      "Provide banking services"
+    ],
+    "correct_index": 0,
+    "solution": "The MAIN PURPOSE of PRIMARY ACTIVITIES in the economy is to OBTAIN FOOD and RAW MATERIALS from NATURE. These outputs SUSTAIN HUMAN LIFE (food from agriculture, fishing, herding) and PROVIDE the essential INPUTS (raw materials like minerals, wood, cotton, and agricultural produce) for OTHER economic activities — especially manufacturing (secondary), which processes these raw materials into finished goods. Thus primary activities meet basic needs and form the resource base of the whole economy. So the purpose of primary activities is to obtain food and raw materials from nature. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is NOT a primary activity?",
+    "options": [
+      "Manufacturing steel in a factory",
+      "Growing wheat",
+      "Catching fish",
+      "Mining coal"
+    ],
+    "correct_index": 0,
+    "solution": "MANUFACTURING STEEL in a FACTORY is NOT a primary activity — it is a SECONDARY activity (secondary activities PROCESS raw materials into finished/manufactured goods; making steel from iron ore is manufacturing). The others are all PRIMARY activities that extract goods directly from nature: GROWING WHEAT (agriculture), CATCHING FISH (fishing), and MINING COAL (mining). So the one that is NOT primary is manufacturing steel. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The productivity of primary activities has increased greatly in modern times due to __________.",
+    "options": [
+      "Advances in technology (machinery, high-yielding seeds, fertilisers, irrigation, scientific breeding, modern fishing/mining equipment)",
+      "Doing away with all technology",
+      "Reducing all effort",
+      "Ignoring science"
+    ],
+    "correct_index": 0,
+    "solution": "The PRODUCTIVITY of PRIMARY ACTIVITIES has INCREASED GREATLY in modern times due to ADVANCES in TECHNOLOGY: in agriculture — MACHINERY (tractors, harvesters), HIGH-YIELDING VARIETY SEEDS, chemical FERTILISERS and pesticides, and scientific IRRIGATION (the Green Revolution); in animal rearing — scientific BREEDING and veterinary care; in fishing — modern trawlers, refrigeration, and fish-finding equipment; and in mining — powerful machinery and extraction techniques. These technological advances allow far more food and raw materials to be produced with less human labour, transforming primary production. So productivity rose due to technological advances. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In conclusion, primary activities are best understood as __________.",
+    "options": [
+      "The fundamental economic activities through which humans draw sustenance and raw materials from nature — varying by environment and development level, and forming the base of all economic life",
+      "Activities unrelated to nature",
+      "Purely service-based work",
+      "Activities of no importance"
+    ],
+    "correct_index": 0,
+    "solution": "In conclusion, PRIMARY ACTIVITIES are best understood as the FUNDAMENTAL ECONOMIC ACTIVITIES through which HUMANS DRAW SUSTENANCE (food) and RAW MATERIALS from NATURE. They VARY by ENVIRONMENT (different regions support different activities — herding in deserts, rice in wet plains, ranching in grasslands, mining where minerals occur) and by LEVEL of DEVELOPMENT (from primitive subsistence to modern commercial forms), and they FORM the BASE of ALL ECONOMIC LIFE — supplying the food and materials on which industry and services depend. This foundational role of primary activities is the key takeaway of the chapter. So primary activities are the fundamental, nature-based economic activities forming the base of the economy. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Green Revolution' greatly boosted which primary activity in countries like India?",
+    "options": [
+      "Agriculture (food-grain production, through HYV seeds, fertilisers, and irrigation)",
+      "Mining",
+      "Deep-sea fishing",
+      "Forestry"
+    ],
+    "correct_index": 0,
+    "solution": "The 'GREEN REVOLUTION' greatly BOOSTED AGRICULTURE — specifically FOOD-GRAIN production (wheat and rice) — in countries like INDIA. Through the adoption of HIGH-YIELDING VARIETY (HYV) SEEDS, chemical FERTILISERS and pesticides, expanded IRRIGATION, and modern farming techniques, agricultural output rose dramatically, making India self-sufficient in food grains. The Green Revolution is a prime example of how technology transformed a primary activity (farming). So the Green Revolution boosted agriculture. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Blue Revolution' refers to the rapid growth of __________.",
+    "options": [
+      "Fisheries and aquaculture (fish farming) — boosting fish/aquatic food production",
+      "Coal mining",
+      "Wheat farming",
+      "Forestry"
+    ],
+    "correct_index": 0,
+    "solution": "The 'BLUE REVOLUTION' refers to the rapid GROWTH and development of FISHERIES and AQUACULTURE (fish farming) — the significant increase in FISH and other aquatic food PRODUCTION through modern methods, fish breeding, and fish farming. It boosted the primary activity of fishing (and aquaculture), enhancing food supply, nutrition (protein), incomes, and exports. (This parallels the Green Revolution in agriculture and the White Revolution in dairy.) So the Blue Revolution refers to the growth of fisheries/aquaculture. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about primary activities is TRUE?",
+    "options": [
+      "The nature and importance of primary activities differ from region to region and from country to country, depending on the natural environment and the level of economic development",
+      "All countries have identical primary activities",
+      "Primary activities exist only in the past",
+      "Primary activities are the same everywhere and never change"
+    ],
+    "correct_index": 0,
+    "solution": "The TRUE statement is that the NATURE and IMPORTANCE of PRIMARY ACTIVITIES DIFFER from region to region and country to country, DEPENDING on the NATURAL ENVIRONMENT (climate, soil, minerals, water — which determine what activities are possible) and the LEVEL of ECONOMIC DEVELOPMENT (which determines whether they are subsistence or commercial, and how large their share of the economy is). For example, herding suits deserts, rice-farming suits wet monsoon plains, and mining occurs where minerals exist; and primary activities dominate developing economies but are a small (though productive) share in developed ones. So primary activities vary by environment and development level. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'White Revolution' (Operation Flood) relates to which primary activity?",
+    "options": [
+      "Dairying/animal husbandry (milk production)",
+      "Fishing",
+      "Wheat farming",
+      "Mining"
+    ],
+    "correct_index": 0,
+    "solution": "The 'WHITE REVOLUTION' (Operation Flood) relates to DAIRYING / ANIMAL HUSBANDRY — specifically the massive increase in MILK PRODUCTION in India through the organisation of dairy cooperatives (as pioneered by the Amul model under Verghese Kurien), which made India one of the world's leading milk producers. It boosted this primary (livestock) activity, raising rural incomes and improving nutrition. (Green Revolution = crops; Blue Revolution = fish; White Revolution = milk.) So the White Revolution relates to dairying/milk production. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the final analysis, primary activities remain essential because __________.",
+    "options": [
+      "No matter how advanced an economy becomes, it will always need food and raw materials from nature, which only primary activities provide",
+      "They will soon disappear entirely",
+      "They are only historical",
+      "Modern economies need no food or raw materials"
+    ],
+    "correct_index": 0,
+    "solution": "In the FINAL ANALYSIS, PRIMARY ACTIVITIES remain ESSENTIAL because NO MATTER how ADVANCED an economy becomes, it will ALWAYS NEED FOOD (to feed its people) and RAW MATERIALS (to supply its industries) from NATURE — and ONLY PRIMARY ACTIVITIES (agriculture, fishing, herding, forestry, mining) PROVIDE these. Even the most service- and technology-dominated modern economy ultimately depends on food grown and materials extracted from the Earth. Thus primary activities, though a small share of employment in developed countries, remain indispensable to human survival and to the entire economic structure. So primary activities remain essential because every economy always needs food and raw materials from nature. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Primary activities are directly dependent on the __________.",
+    "options": [
+      "factory",
+      "environment/nature (natural resources)",
+      "market only",
+      "government"
+    ],
+    "correct_index": 1,
+    "solution": "Primary activities are directly dependent on the environment — they involve the use of natural resources (land, water, minerals, forests).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "People engaged in primary activities are called:",
+    "options": [
+      "red-collar workers",
+      "red-collar workers (in some usages)",
+      "white-collar workers",
+      "factory workers"
+    ],
+    "correct_index": 0,
+    "solution": "People in primary activities (farming, mining, fishing) are sometimes called 'red-collar' workers because of the outdoor, resource-based nature of their work.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most primitive/oldest primary activity, in which people collect wild plants and hunt animals, is:",
+    "options": [
+      "commercial farming",
+      "gathering (and hunting)",
+      "mining",
+      "dairy farming"
+    ],
+    "correct_index": 1,
+    "solution": "Gathering (and hunting) — collecting wild plants and hunting animals — is the most primitive form of primary activity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two main types of pastoralism (animal rearing) are:",
+    "options": [
+      "dairy and poultry",
+      "nomadic herding (pastoral nomadism) and commercial livestock rearing/ranching",
+      "fishing and forestry",
+      "mining and gathering"
+    ],
+    "correct_index": 1,
+    "solution": "Pastoralism has two main types: nomadic herding (pastoral nomadism) and commercial livestock rearing (ranching).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Subsistence agriculture' refers to farming in which:",
+    "options": [
+      "all produce is exported",
+      "the farmer grows food mainly for the family's own consumption",
+      "only cash crops are grown",
+      "machines do all the work"
+    ],
+    "correct_index": 1,
+    "solution": "In subsistence agriculture, the farmer grows crops mainly to feed the family, with little surplus for sale.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Shifting cultivation' (slash-and-burn) is a form of subsistence farming in which:",
+    "options": [
+      "the same field is used forever",
+      "a forest patch is cleared and burned, cultivated for a few years, then abandoned for a new patch",
+      "only machines are used",
+      "crops are grown in water"
+    ],
+    "correct_index": 1,
+    "solution": "In shifting cultivation, a patch of forest is cleared and burned, cultivated for a few years until fertility declines, then abandoned for a new patch.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In India, shifting cultivation is known by the local name:",
+    "options": [
+      "jhum",
+      "zabt",
+      "khadar",
+      "regur"
+    ],
+    "correct_index": 0,
+    "solution": "Shifting cultivation is called 'jhum' in north-eastern India (and has other local names elsewhere).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Intensive subsistence agriculture' (common in monsoon Asia) is characterised by:",
+    "options": [
+      "large farms and machines",
+      "small plots cultivated intensively with much labour and high inputs, mainly of rice",
+      "no cultivation",
+      "cattle ranching"
+    ],
+    "correct_index": 1,
+    "solution": "Intensive subsistence agriculture uses small plots cultivated very intensively with abundant labour and inputs (often rice) in densely populated monsoon Asia.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Commercial agriculture' is characterised by:",
+    "options": [
+      "farming for family use only",
+      "farming crops/livestock mainly for sale in the market (on a large scale, often mechanised)",
+      "no sale of produce",
+      "shifting fields"
+    ],
+    "correct_index": 1,
+    "solution": "Commercial agriculture is farming crops or livestock mainly for sale in the market, usually on a large scale and often mechanised.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Plantation agriculture' is a type of commercial farming characterised by:",
+    "options": [
+      "small subsistence plots",
+      "large estates growing a single cash crop (like tea, coffee, rubber) for export",
+      "only livestock",
+      "shifting cultivation"
+    ],
+    "correct_index": 1,
+    "solution": "Plantation agriculture uses large estates to grow a single cash crop (tea, coffee, rubber, sugarcane) for export, usually with much labour.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Mixed farming' is a type of commercial agriculture in which:",
+    "options": [
+      "only one crop is grown",
+      "crop cultivation and livestock rearing are carried out together on the same farm",
+      "no livestock is kept",
+      "only mining occurs"
+    ],
+    "correct_index": 1,
+    "solution": "Mixed farming combines crop cultivation and livestock rearing on the same farm.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Dairy farming' specialises in:",
+    "options": [
+      "growing grains",
+      "the rearing of milch animals for milk and dairy products",
+      "fishing",
+      "mining"
+    ],
+    "correct_index": 1,
+    "solution": "Dairy farming specialises in rearing milch animals for milk and dairy products; it is highly capital- and labour-intensive.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Commercial grain farming' (extensive) is characterised by:",
+    "options": [
+      "small intensive plots",
+      "large farms growing grain (like wheat) on a large scale with heavy mechanisation",
+      "only livestock",
+      "shifting cultivation"
+    ],
+    "correct_index": 1,
+    "solution": "Extensive commercial grain farming grows grain (like wheat) on very large, highly mechanised farms (e.g., in the Prairies, Steppes).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Market gardening' and 'horticulture' specialise in:",
+    "options": [
+      "grain",
+      "the cultivation of high-value vegetables, fruits and flowers for urban markets",
+      "cattle ranching",
+      "mining"
+    ],
+    "correct_index": 1,
+    "solution": "Market gardening and horticulture specialise in growing high-value vegetables, fruits and flowers for nearby urban markets.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Truck farming' refers to:",
+    "options": [
+      "transporting goods by truck",
+      "the cultivation of vegetables and fruits some distance from the market, from where they are trucked in overnight",
+      "farming with trucks",
+      "mining"
+    ],
+    "correct_index": 1,
+    "solution": "Truck farming is the cultivation of vegetables/fruits at a distance from the market (the distance a truck can cover overnight).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Nomadic herding' (pastoral nomadism) is generally practised in:",
+    "options": [
+      "fertile plains",
+      "harsh/semi-arid regions unsuitable for farming (deserts, steppes, tundra)",
+      "cities",
+      "industrial zones"
+    ],
+    "correct_index": 1,
+    "solution": "Nomadic herding is practised in harsh, semi-arid or cold regions unsuitable for crop farming, where herders move with their animals in search of pasture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In nomadic herding, the animal associated with the Arctic and sub-Arctic tundra is the:",
+    "options": [
+      "camel",
+      "reindeer",
+      "sheep",
+      "cattle"
+    ],
+    "correct_index": 1,
+    "solution": "The reindeer is the animal associated with nomadic herding in the Arctic and sub-Arctic tundra.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Gujjars', 'Bakarwals' and 'Gaddis' are examples of __________ in India.",
+    "options": [
+      "farmers",
+      "nomadic herders (pastoral nomads)",
+      "miners",
+      "fishermen"
+    ],
+    "correct_index": 1,
+    "solution": "The Gujjars, Bakarwals and Gaddis are pastoral nomads (nomadic herders) in India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Commercial livestock ranching differs from nomadic herding because ranching is:",
+    "options": [
+      "primitive",
+      "organised on a large scale, on permanent ranches, and market-oriented (commercial)",
+      "the same as nomadism",
+      "subsistence-based"
+    ],
+    "correct_index": 1,
+    "solution": "Ranching is large-scale, sedentary (on permanent ranches) and market-oriented, unlike the mobile, subsistence nomadic herding.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Regions famous for commercial livestock ranching include:",
+    "options": [
+      "the Sahara",
+      "the Prairies, Pampas, and Downs (in the Americas, Australia)",
+      "the Himalayas",
+      "the Ganga plains"
+    ],
+    "correct_index": 1,
+    "solution": "Commercial ranching is famous in the temperate grasslands — the Prairies, Pampas, Downs, Steppes and Veld.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Mining' is a primary activity that involves:",
+    "options": [
+      "growing crops",
+      "the extraction of minerals from the earth",
+      "catching fish",
+      "cutting trees"
+    ],
+    "correct_index": 1,
+    "solution": "Mining is the extraction of minerals (metallic and non-metallic) from the earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two main methods of mining are:",
+    "options": [
+      "wet and dry mining",
+      "surface (open-cast) mining and underground (shaft) mining",
+      "hand and machine mining",
+      "land and sea mining"
+    ],
+    "correct_index": 1,
+    "solution": "The two main methods are surface (open-cast) mining and underground (shaft) mining.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Fishing' as a primary activity is important because it:",
+    "options": [
+      "is unimportant",
+      "provides food (protein), livelihoods and raw materials, especially in coastal regions",
+      "only pollutes",
+      "has no value"
+    ],
+    "correct_index": 1,
+    "solution": "Fishing provides food (protein), employment and raw materials, and is especially important for coastal communities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The best fishing grounds of the world are located in the:",
+    "options": [
+      "deep tropical oceans",
+      "cool temperate waters over the continental shelves (where warm and cold currents meet)",
+      "hot deserts",
+      "polar ice"
+    ],
+    "correct_index": 1,
+    "solution": "The best fishing grounds are in cool temperate waters over the continental shelves, especially where warm and cold currents meet (nutrient-rich).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Forestry (lumbering) as a primary activity involves:",
+    "options": [
+      "growing crops",
+      "the commercial extraction of timber and other forest products",
+      "mining",
+      "fishing"
+    ],
+    "correct_index": 1,
+    "solution": "Forestry (lumbering) involves the commercial extraction of timber and other forest products.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Extensive' versus 'intensive' agriculture differ in that:",
+    "options": [
+      "they are identical",
+      "extensive uses large areas with low inputs per unit; intensive uses small areas with high inputs/labour per unit",
+      "intensive uses large areas",
+      "extensive uses no land"
+    ],
+    "correct_index": 1,
+    "solution": "Extensive agriculture uses large areas with low inputs per unit of land; intensive agriculture uses small areas with high inputs and labour per unit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The type of agriculture practised in a region depends on factors such as:",
+    "options": [
+      "only luck",
+      "climate, soil, relief, population density, technology and market",
+      "only religion",
+      "only language"
+    ],
+    "correct_index": 1,
+    "solution": "The type of agriculture depends on physical factors (climate, soil, relief) and human factors (population, technology, market).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Blue Revolution' refers to the rapid growth of:",
+    "options": [
+      "dairy",
+      "fisheries and aquaculture",
+      "mining",
+      "forestry"
+    ],
+    "correct_index": 1,
+    "solution": "The Blue Revolution refers to the rapid development of fisheries and aquaculture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The primary activity that has become highly mechanised and scientific in developed countries is:",
+    "options": [
+      "gathering",
+      "agriculture (using tractors, harvesters, advanced techniques)",
+      "nomadic herding",
+      "shifting cultivation"
+    ],
+    "correct_index": 1,
+    "solution": "Agriculture in developed countries has become highly mechanised and scientific, using tractors, harvesters and advanced techniques.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Primary activities are more important (as a share of employment) in:",
+    "options": [
+      "developed countries",
+      "developing countries",
+      "only cities",
+      "only Europe"
+    ],
+    "correct_index": 1,
+    "solution": "Primary activities employ a larger share of the workforce in developing countries, which rely heavily on agriculture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The shift of a large share of the workforce OUT of primary activities is a sign of:",
+    "options": [
+      "economic decline",
+      "economic development (movement toward industry and services)",
+      "overpopulation",
+      "famine"
+    ],
+    "correct_index": 1,
+    "solution": "A declining share of workers in primary activities generally signals economic development, as labour moves to industry and services.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The environmental impacts of primary activities can include:",
+    "options": [
+      "none",
+      "deforestation, soil erosion, overfishing, land degradation and pollution if practised unsustainably",
+      "only benefits",
+      "only urban growth"
+    ],
+    "correct_index": 1,
+    "solution": "Unsustainable primary activities can cause deforestation, soil erosion, overfishing, land degradation and pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sustainable practices in primary activities include:",
+    "options": [
+      "overexploitation",
+      "crop rotation, afforestation, sustainable fishing quotas, and soil/water conservation",
+      "clearing all forests",
+      "overfishing"
+    ],
+    "correct_index": 1,
+    "solution": "Sustainable practices include crop rotation, afforestation, sustainable fishing limits, and soil and water conservation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The productivity of primary activities has increased greatly in modern times due to:",
+    "options": [
+      "nothing",
+      "mechanisation, improved seeds/breeds, fertilisers, and advanced technology",
+      "less effort",
+      "fewer resources"
+    ],
+    "correct_index": 1,
+    "solution": "Productivity in primary activities has risen due to mechanisation, improved seeds and breeds, fertilisers and advanced technology.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main purpose of primary activities in the economy is to:",
+    "options": [
+      "provide services only",
+      "produce food, raw materials and resources directly from nature for use and further processing",
+      "only entertain",
+      "only trade"
+    ],
+    "correct_index": 1,
+    "solution": "Primary activities produce food, raw materials and resources directly from nature, forming the base for other economic activities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Primary activities are more important (as a share of employment) in developing countries. Reason (R): Developing economies rely heavily on agriculture and other primary activities, while developed economies have shifted to industry and services. Which is correct?",
+    "options": [
+      "A is false",
+      "Both A and R are true and R correctly explains A",
+      "A is true but R is false",
+      "Both are false"
+    ],
+    "correct_index": 1,
+    "solution": "Both are true and R explains A: reliance on agriculture keeps primary activities important for employment in developing countries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Shifting cultivation can lead to environmental problems when practised intensively. Reason (R): If land is reused too quickly (short fallow) due to population pressure, the soil and forest cannot recover, causing degradation and deforestation. Which is correct?",
+    "options": [
+      "A is false",
+      "Both A and R are true and R correctly explains A",
+      "A is true but R is false",
+      "Both are false"
+    ],
+    "correct_index": 1,
+    "solution": "Both are true and R explains A: short fallow periods under population pressure prevent recovery, causing soil degradation and deforestation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Plantation agriculture was closely linked to colonialism. Reason (R): European colonial powers established plantations in tropical colonies to grow cash crops (tea, coffee, rubber, sugar) for export to Europe. Which is correct?",
+    "options": [
+      "A is false",
+      "Both A and R are true and R correctly explains A",
+      "A is true but R is false",
+      "Both are false"
+    ],
+    "correct_index": 1,
+    "solution": "Both are true and R explains A: colonial powers set up plantations in the tropics to grow export cash crops for Europe, linking plantations to colonialism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Mining is more developed in some regions than others. Reason (R): Mining depends on the occurrence of mineral deposits (unevenly distributed) as well as demand, capital, technology and accessibility. Which is correct?",
+    "options": [
+      "A is false",
+      "Both A and R are true and R correctly explains A",
+      "A is true but R is false",
+      "Both are false"
+    ],
+    "correct_index": 1,
+    "solution": "Both are true and R explains A: because deposits are uneven and mining also needs demand, capital, technology and access, it develops unevenly.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Intensive subsistence agriculture is common in densely populated regions. Reason (R): Where land is scarce relative to a large population, farmers must cultivate small plots very intensively to produce enough food. Which is correct?",
+    "options": [
+      "A is false",
+      "Both A and R are true and R correctly explains A",
+      "A is true but R is false",
+      "Both are false"
+    ],
+    "correct_index": 1,
+    "solution": "Both are true and R explains A: scarce land and large populations force intensive cultivation of small plots to feed the people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following BEST captures the central message of the chapter 'Primary Activities'?",
+    "options": [
+      "primary activities are unimportant",
+      "Primary activities — gathering, farming, pastoralism, fishing, forestry and mining — directly use natural resources and form the foundation of the economy, varying with environment and development, and must be practised sustainably",
+      "only industry matters",
+      "nature has no role"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that primary activities — gathering, farming, pastoralism, fishing, forestry and mining — directly use natural resources and form the foundation of the economy, varying with environment and development, and needing to be practised sustainably.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall message of the chapter 'Primary Activities' is that:",
+    "options": [
+      "Primary activities are unimportant to the economy",
+      "PRIMARY ACTIVITIES are the economic activities that extract and produce goods DIRECTLY from NATURE (the Earth's resources) — including hunting and gathering (the oldest), pastoralism (nomadic herding and commercial ranching), agriculture (ranging from primitive subsistence/shifting cultivation and intensive subsistence farming to commercial farming like grain, plantation, and market gardening), fishing, forestry, and mining; they form the FIRST/BASIC stage of economic production, supplying food and raw materials, and are MORE IMPORTANT (in employment) in DEVELOPING countries than developed ones (whose economies have shifted to industry and services); the type and methods of primary activities vary with the natural environment, technology, and level of development",
+      "All economies rely only on services",
+      "Primary activities do not involve nature"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that PRIMARY ACTIVITIES are the economic activities that EXTRACT and PRODUCE goods DIRECTLY from NATURE — from the Earth's natural resources — and form the FIRST, most BASIC stage of economic production (supplying food and raw materials that other sectors then process). The chapter surveys the main primary activities: HUNTING and GATHERING (the oldest and most primitive, depending directly on wild plants and animals); PASTORALISM (animal rearing) in two forms — NOMADIC HERDING (subsistence, in harsh arid/cold regions) and COMMERCIAL LIVESTOCK REARING/RANCHING (for the market); AGRICULTURE in its many forms — from PRIMITIVE SUBSISTENCE farming (including SHIFTING/slash-and-burn cultivation) and INTENSIVE SUBSISTENCE agriculture (small plots farmed intensively, especially rice, in densely populated monsoon Asia) to COMMERCIAL agriculture (commercial grain farming, MIXED farming, PLANTATION agriculture growing single cash crops like tea/coffee/rubber for export, and MARKET GARDENING/horticulture for urban markets); FISHING (a major source of food/protein, richest over cool continental shelves); FORESTRY/lumbering; and MINING (extracting minerals, by surface/open-cast or underground/shaft methods). These activities vary with the NATURAL ENVIRONMENT, TECHNOLOGY, and LEVEL of DEVELOPMENT, and they are MORE IMPORTANT (as a share of employment) in DEVELOPING countries — which rely heavily on agriculture — than in DEVELOPED countries, whose economies have shifted toward industry and services. So the overall message is option 2.",
+    "difficulty": "medium"
+  }
 ]
