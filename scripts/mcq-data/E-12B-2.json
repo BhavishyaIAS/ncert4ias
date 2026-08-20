@@ -1,52 +1,1190 @@
 [
-  { "stem": "'Utility' in economics means __________.", "options": ["The want-satisfying power of a good or service", "The market price of a good", "The cost of producing a good", "The weight of a good"], "correct_index": 0, "solution": "UTILITY is the WANT-SATISFYING POWER of a good or service — the SATISFACTION or usefulness a consumer derives from consuming it. It is subjective and varies from person to person and situation to situation. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "'Total utility' (TU) refers to __________.", "options": ["The total satisfaction obtained from consuming all units of a good", "The satisfaction from the last unit only", "The average satisfaction per rupee", "The price of the good"], "correct_index": 0, "solution": "TOTAL UTILITY (TU) is the TOTAL SATISFACTION a consumer obtains from consuming ALL the UNITS of a good. It is the sum of the marginal utilities of all units consumed. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Marginal utility' (MU) is defined as __________.", "options": ["The additional utility derived from consuming one more unit of a good", "The total utility from all units", "The average utility of all units", "The price of one more unit"], "correct_index": 0, "solution": "MARGINAL UTILITY (MU) is the ADDITIONAL (extra) UTILITY derived from consuming ONE MORE UNIT of a good. It is the change in total utility resulting from a one-unit change in consumption: MU = ΔTU/ΔQ. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'Law of Diminishing Marginal Utility' states that __________.", "options": ["As a consumer consumes more units of a good, the marginal utility from each additional unit tends to fall", "Marginal utility keeps rising with consumption", "Total utility falls from the first unit", "Utility is always constant"], "correct_index": 0, "solution": "The LAW of DIMINISHING MARGINAL UTILITY states that as a consumer consumes MORE UNITS of a good (in a given period), the MARGINAL UTILITY (satisfaction from each ADDITIONAL unit) tends to FALL. The more you have of something, the less extra satisfaction each new unit gives. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "When marginal utility is zero, total utility is __________.", "options": ["At its maximum", "Also zero", "Negative", "Rising"], "correct_index": 0, "solution": "When MARGINAL UTILITY is ZERO, TOTAL UTILITY is at its MAXIMUM (the peak of the TU curve). Up to this point, each extra unit adds positive (though diminishing) utility, raising TU; beyond it, MU becomes negative and TU falls. So MU = 0 marks the maximum of total utility. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "When marginal utility is negative, total utility is __________.", "options": ["Falling (declining)", "Rising", "At its maximum", "Constant"], "correct_index": 0, "solution": "When MARGINAL UTILITY is NEGATIVE, TOTAL UTILITY is FALLING (declining) — consuming an additional unit actually REDUCES total satisfaction (e.g., over-consumption to the point of discomfort). Negative MU means each extra unit subtracts from total utility. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The two main approaches to the study of consumer behaviour are the cardinal (utility) approach and the __________ approach.", "options": ["Ordinal (indifference curve)", "Marginal cost", "Supply", "Production"], "correct_index": 0, "solution": "The two main APPROACHES to consumer behaviour are: the CARDINAL (utility) approach, which assumes utility can be measured in numbers (utils); and the ORDINAL (INDIFFERENCE CURVE) approach, which assumes utility can only be RANKED (ordered) as preferences, not measured. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The cardinal utility approach assumes that utility __________.", "options": ["Can be measured in absolute numbers (utils), like weight or length", "Can only be ranked, not measured", "Cannot be studied at all", "Is the same for everyone"], "correct_index": 0, "solution": "The CARDINAL UTILITY approach (associated with Marshall) assumes that UTILITY CAN be MEASURED in ABSOLUTE NUMBERS (units called 'UTILS'), like measuring weight or length. This allows adding and comparing utilities numerically. (The ordinal approach rejects this, allowing only ranking.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A consumer maximises satisfaction (in the cardinal approach, single good) at the point where __________.", "options": ["Marginal utility of the good equals its price (MU = P)", "Total utility is zero", "Marginal utility is highest", "Price is highest"], "correct_index": 0, "solution": "In the CARDINAL approach for a SINGLE good, a consumer maximises satisfaction where the MARGINAL UTILITY of the good EQUALS its PRICE (MU = P), with utility measured in money terms. If MU > P, the consumer buys more; if MU < P, they buy less — equilibrium is at MU = P. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'Law of Equi-Marginal Utility' (consumer's equilibrium for many goods) states that a consumer maximises utility when __________.", "options": ["The marginal utility per rupee spent is equal across all goods (MUx/Px = MUy/Py = ...)", "All goods have the same price", "All marginal utilities are zero", "Only one good is bought"], "correct_index": 0, "solution": "The LAW of EQUI-MARGINAL UTILITY states that a consumer maximises TOTAL UTILITY when the MARGINAL UTILITY PER RUPEE spent is EQUAL across ALL goods: MUx/Px = MUy/Py = ... = MUm (marginal utility of money). If this ratio is higher for one good, the consumer reallocates spending toward it until equality is reached. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "An 'indifference curve' is a curve that shows __________.", "options": ["All combinations of two goods that give the consumer the same level of satisfaction (utility)", "The demand for a single good", "The cost of production", "The supply of a good"], "correct_index": 0, "solution": "An INDIFFERENCE CURVE shows ALL the COMBINATIONS of TWO GOODS that give the consumer the SAME LEVEL of SATISFACTION (utility) — so the consumer is 'indifferent' between them (equally happy with any combination on the curve). It is the basis of the ordinal approach. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The slope of an indifference curve is called the __________.", "options": ["Marginal Rate of Substitution (MRS)", "Marginal utility", "Budget line", "Price ratio"], "correct_index": 0, "solution": "The SLOPE of an INDIFFERENCE CURVE is called the MARGINAL RATE of SUBSTITUTION (MRS) — the rate at which a consumer is WILLING to SUBSTITUTE one good for another while remaining EQUALLY SATISFIED (staying on the same curve). MRSxy = the amount of Y the consumer will give up for one more unit of X. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Indifference curves are convex to the origin because of __________.", "options": ["The diminishing marginal rate of substitution", "Increasing marginal utility", "Constant prices", "The budget constraint"], "correct_index": 0, "solution": "INDIFFERENCE CURVES are CONVEX to the origin because of the DIMINISHING MARGINAL RATE of SUBSTITUTION (MRS): as a consumer has more of good X and less of Y, they are willing to give up LESS and LESS Y for each additional unit of X. This falling MRS gives the curve its convex (bowed-in) shape. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A higher indifference curve (farther from the origin) represents __________.", "options": ["A higher level of satisfaction (more of both goods)", "A lower level of satisfaction", "The same satisfaction as a lower curve", "Zero satisfaction"], "correct_index": 0, "solution": "A HIGHER INDIFFERENCE CURVE (one FARTHER from the ORIGIN) represents a HIGHER LEVEL of SATISFACTION, because it involves MORE of BOTH goods (or more of one without less of the other). Consumers prefer to be on the highest attainable indifference curve. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Two indifference curves can NEVER intersect because __________.", "options": ["Each curve represents a different level of satisfaction, and an intersection would imply contradictory (equal and unequal) satisfaction levels", "They are always parallel lines", "They slope upward", "They are the same curve"], "correct_index": 0, "solution": "Two INDIFFERENCE CURVES can NEVER INTERSECT because each represents a DIFFERENT LEVEL of SATISFACTION. If they crossed, the point of intersection would lie on both curves, implying the consumer gets TWO different satisfaction levels from the SAME combination — a logical CONTRADICTION. Hence they cannot intersect. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 'budget line' (price line) shows __________.", "options": ["All combinations of two goods that a consumer can buy by spending their entire income at given prices", "The consumer's satisfaction levels", "The firm's costs", "The supply of goods"], "correct_index": 0, "solution": "The BUDGET LINE (price line) shows ALL the COMBINATIONS of TWO GOODS that a consumer CAN BUY by spending their ENTIRE INCOME, given the PRICES of the two goods. It represents the consumer's affordability/purchasing constraint. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The slope of the budget line is equal to __________.", "options": ["The ratio of the prices of the two goods (Px/Py)", "The marginal rate of substitution", "The income of the consumer", "The marginal utility of money"], "correct_index": 0, "solution": "The SLOPE of the BUDGET LINE equals the RATIO of the PRICES of the two goods (Px/Py) — it shows the rate at which the market allows one good to be exchanged for the other. (This contrasts with the slope of the indifference curve, the MRS, which is the rate the consumer is willing to substitute.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In the indifference curve (ordinal) approach, consumer equilibrium is reached where __________.", "options": ["The budget line is tangent to the highest attainable indifference curve (MRS = price ratio)", "The budget line crosses two indifference curves", "Marginal utility is zero", "Income is zero"], "correct_index": 0, "solution": "In the ORDINAL (indifference curve) approach, CONSUMER EQUILIBRIUM is where the BUDGET LINE is TANGENT to the HIGHEST ATTAINABLE INDIFFERENCE CURVE. At this tangency point, the slope of the indifference curve equals the slope of the budget line, i.e., MRS = PRICE RATIO (Px/Py). This gives the consumer maximum satisfaction within their budget. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The condition for consumer equilibrium in the ordinal approach, MRS = Px/Py, means that __________.", "options": ["The rate at which the consumer is willing to substitute goods equals the rate at which the market lets them", "The consumer buys only one good", "Prices are irrelevant", "Utility cannot be maximised"], "correct_index": 0, "solution": "The equilibrium condition MRS = Px/Py means the RATE at which the CONSUMER is WILLING to SUBSTITUTE one good for another (MRS) EQUALS the RATE at which the MARKET LETS them exchange (the price ratio). When these are equal, the consumer cannot gain by reallocating spending — satisfaction is maximised. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 'demand' for a good refers to __________.", "options": ["The quantity of a good that a consumer is willing and able to buy at various prices in a given period", "The total supply of the good", "The desire for a good without ability to pay", "The cost of the good"], "correct_index": 0, "solution": "DEMAND for a good refers to the QUANTITY that a consumer is WILLING and ABLE to BUY at VARIOUS PRICES during a given period. It combines both DESIRE and the ABILITY (purchasing power) to pay — mere desire without ability to pay is not demand. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'Law of Demand' states that, other things equal, __________.", "options": ["As the price of a good falls, its quantity demanded rises (and vice versa) — an inverse relationship", "Price and quantity demanded rise together", "Demand is unaffected by price", "Higher prices always increase demand"], "correct_index": 0, "solution": "The LAW of DEMAND states that, OTHER THINGS EQUAL (ceteris paribus), as the PRICE of a good FALLS, its QUANTITY DEMANDED RISES — and as price rises, quantity demanded falls. There is an INVERSE (negative) relationship between price and quantity demanded, giving the demand curve its downward slope. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The demand curve slopes downward from left to right because of __________.", "options": ["The law of diminishing marginal utility, and the income and substitution effects", "Increasing marginal utility", "Rising prices increasing demand", "A vertical budget line"], "correct_index": 0, "solution": "The DEMAND CURVE slopes DOWNWARD because of: the LAW of DIMINISHING MARGINAL UTILITY (consumers pay less for additional units as MU falls); the SUBSTITUTION EFFECT (a cheaper good is substituted for others); and the INCOME EFFECT (a price fall raises real income, allowing more purchase). All these make quantity demanded rise as price falls. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A movement ALONG a demand curve (change in quantity demanded) is caused by __________.", "options": ["A change in the price of the good itself", "A change in consumer income", "A change in tastes", "A change in the price of other goods"], "correct_index": 0, "solution": "A MOVEMENT ALONG a demand curve — a CHANGE in QUANTITY DEMANDED — is caused ONLY by a change in the PRICE of the GOOD ITSELF (other factors held constant). Changes in income, tastes, or prices of other goods instead SHIFT the whole demand curve (change in demand). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A SHIFT of the entire demand curve (change in demand) is caused by a change in __________.", "options": ["Factors other than the good's own price — like income, tastes, prices of related goods, or population", "Only the good's own price", "The quantity demanded alone", "Nothing at all"], "correct_index": 0, "solution": "A SHIFT of the entire demand curve — a CHANGE in DEMAND — is caused by a change in factors OTHER than the good's OWN PRICE: consumer INCOME, TASTES and preferences, PRICES of RELATED GOODS (substitutes and complements), POPULATION/number of buyers, and expectations. A rightward shift means more demand at every price; a leftward shift means less. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "For a 'normal good', an increase in consumer income leads to __________.", "options": ["An increase in demand (the demand curve shifts rightward)", "A decrease in demand", "No change in demand", "The good becoming free"], "correct_index": 0, "solution": "For a NORMAL GOOD, an INCREASE in consumer INCOME leads to an INCREASE in DEMAND — the demand curve SHIFTS RIGHTWARD (more is demanded at every price). Most goods are normal: as people earn more, they buy more of them. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "For an 'inferior good', an increase in consumer income leads to __________.", "options": ["A decrease in demand (consumers switch to better substitutes)", "An increase in demand", "No change ever", "The good disappearing"], "correct_index": 0, "solution": "For an INFERIOR GOOD, an INCREASE in consumer INCOME leads to a DECREASE in DEMAND — as people become richer, they SWITCH to BETTER (superior) SUBSTITUTES and buy less of the inferior good. Examples might include coarse grains or low-quality goods that people abandon as income rises. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Two goods are 'substitutes' if __________.", "options": ["A rise in the price of one increases the demand for the other (e.g., tea and coffee)", "A rise in the price of one decreases demand for the other", "They are always consumed together", "They have no relationship"], "correct_index": 0, "solution": "Two goods are SUBSTITUTES if a RISE in the PRICE of ONE INCREASES the DEMAND for the OTHER — because consumers switch from the now-dearer good to its alternative. TEA and COFFEE are classic substitutes. (Their cross-price relationship is positive.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Two goods are 'complements' if __________.", "options": ["A rise in the price of one decreases the demand for the other (e.g., cars and petrol)", "A rise in the price of one increases demand for the other", "They are never used together", "They are unrelated"], "correct_index": 0, "solution": "Two goods are COMPLEMENTS if a RISE in the PRICE of ONE DECREASES the DEMAND for the OTHER — because they are used TOGETHER, so a dearer complement reduces consumption of both. CARS and PETROL (or pen and ink, tea and sugar) are complements. (Their cross-price relationship is negative.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Price elasticity of demand' measures __________.", "options": ["The responsiveness of quantity demanded to a change in the good's price", "The total demand for a good", "The slope of the budget line", "The marginal utility of a good"], "correct_index": 0, "solution": "PRICE ELASTICITY of DEMAND measures the RESPONSIVENESS of the QUANTITY DEMANDED to a CHANGE in the good's PRICE. It is calculated as the percentage change in quantity demanded divided by the percentage change in price. It shows how sensitive buyers are to price changes. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The formula for price elasticity of demand (Ed) is __________.", "options": ["Percentage change in quantity demanded ÷ percentage change in price", "Change in price ÷ change in quantity", "Total utility ÷ marginal utility", "Price × quantity"], "correct_index": 0, "solution": "PRICE ELASTICITY of DEMAND (Ed) = (PERCENTAGE CHANGE in QUANTITY DEMANDED) ÷ (PERCENTAGE CHANGE in PRICE). By convention its value is negative (due to the inverse price-quantity relationship) but is usually stated as an absolute value. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Demand is said to be 'elastic' when __________.", "options": ["The price elasticity of demand is greater than 1 (quantity responds more than proportionately to price)", "Elasticity is less than 1", "Elasticity is exactly zero", "Price does not change"], "correct_index": 0, "solution": "Demand is ELASTIC when the price elasticity of demand is GREATER than 1 (|Ed| > 1) — meaning the QUANTITY demanded responds MORE than PROPORTIONATELY to a change in price (a small price change causes a large quantity change). Luxuries and goods with many substitutes tend to have elastic demand. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Demand is said to be 'inelastic' when __________.", "options": ["The price elasticity of demand is less than 1 (quantity responds less than proportionately to price)", "Elasticity is greater than 1", "Elasticity is infinite", "Quantity changes hugely"], "correct_index": 0, "solution": "Demand is INELASTIC when the price elasticity of demand is LESS than 1 (|Ed| < 1) — meaning the QUANTITY demanded responds LESS than PROPORTIONATELY to a change in price (a large price change causes only a small quantity change). NECESSITIES (like salt or medicines) tend to have inelastic demand. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Demand is 'unitary elastic' when __________.", "options": ["The price elasticity of demand equals exactly 1 (quantity changes in the same proportion as price)", "Elasticity is zero", "Elasticity is infinite", "There is no demand"], "correct_index": 0, "solution": "Demand is UNITARY ELASTIC when the price elasticity of demand equals EXACTLY 1 (|Ed| = 1) — the QUANTITY demanded changes in the SAME PROPORTION as the PRICE (e.g., a 10% price rise causes a 10% fall in quantity). Total expenditure on the good stays constant in this case. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Perfectly inelastic' demand (Ed = 0) means that __________.", "options": ["Quantity demanded does not change at all when price changes (a vertical demand curve)", "Quantity changes infinitely", "Demand is very responsive", "Price never changes"], "correct_index": 0, "solution": "PERFECTLY INELASTIC demand (Ed = 0) means the QUANTITY demanded does NOT CHANGE AT ALL when the PRICE changes — the demand curve is a VERTICAL line. This would apply to an absolute necessity with no substitutes at any price (a theoretical extreme). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following goods is likely to have relatively INELASTIC demand?", "options": ["Salt (a necessity with no close substitutes and small budget share)", "A luxury car", "Restaurant meals", "One particular brand among many"], "correct_index": 0, "solution": "SALT is likely to have relatively INELASTIC demand: it is a NECESSITY, has NO CLOSE SUBSTITUTES, and takes up only a SMALL SHARE of the budget — so people buy roughly the same amount regardless of price changes. Luxuries, meals out, and goods with many substitutes tend to be more elastic. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A key factor that makes the demand for a good MORE elastic is __________.", "options": ["The availability of close substitutes", "The good being an absolute necessity", "The good having no substitutes", "The good taking a tiny share of income"], "correct_index": 0, "solution": "A key factor making demand MORE ELASTIC is the AVAILABILITY of CLOSE SUBSTITUTES — if a good has many good substitutes, a price rise makes consumers switch away easily, so quantity demanded responds strongly. Necessities, goods with no substitutes, and goods taking a tiny income share tend to be INELASTIC. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): The demand curve slopes downward. Reason (R): As more units are consumed, the marginal utility falls, so consumers are willing to pay less for additional units. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — the DEMAND CURVE slopes DOWNWARD. R is TRUE and correctly EXPLAINS A: because of DIMINISHING MARGINAL UTILITY, as MORE units are consumed the extra satisfaction (MU) FALLS, so consumers are WILLING to PAY LESS for additional units — which means they buy more only at lower prices, giving the downward-sloping demand curve. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 'substitution effect' of a fall in a good's price means that __________.", "options": ["The good becomes relatively cheaper, so consumers substitute it for other goods, buying more of it", "Consumers buy less of it", "Income falls", "Other goods become cheaper"], "correct_index": 0, "solution": "The SUBSTITUTION EFFECT of a FALL in a good's PRICE means the good becomes RELATIVELY CHEAPER compared to other goods, so consumers SUBSTITUTE it FOR other goods — buying MORE of the now-cheaper good. This is one reason the demand curve slopes downward. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 'income effect' of a fall in a good's price means that __________.", "options": ["The consumer's real income (purchasing power) rises, enabling them to buy more of the good (if normal)", "The consumer's money income rises", "The good becomes dearer", "Income has no effect"], "correct_index": 0, "solution": "The INCOME EFFECT of a FALL in a good's PRICE means the consumer's REAL INCOME (PURCHASING POWER) RISES — the same money now buys more — enabling them to buy MORE of the good (if it is a normal good). Together with the substitution effect, it explains why quantity demanded rises as price falls. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 'total expenditure' method relates elasticity to spending: if a fall in price raises total expenditure on a good, demand is __________.", "options": ["Elastic (Ed > 1)", "Inelastic (Ed < 1)", "Unitary elastic (Ed = 1)", "Perfectly inelastic"], "correct_index": 0, "solution": "By the TOTAL EXPENDITURE method: if a FALL in PRICE RAISES total expenditure on the good, demand is ELASTIC (Ed > 1) — the quantity rises so much that total spending increases despite the lower price. (If total expenditure stays the same, demand is unitary elastic; if it falls, demand is inelastic.) So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A 'demand schedule' is __________.", "options": ["A table showing the quantities of a good demanded at various prices", "A graph of costs", "A list of a firm's outputs", "A record of past sales only"], "correct_index": 0, "solution": "A DEMAND SCHEDULE is a TABLE showing the QUANTITIES of a good that a consumer (or the market) is willing to buy at VARIOUS PRICES. Plotting the demand schedule gives the demand curve. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "'Market demand' is obtained by __________.", "options": ["Horizontally summing the individual demand curves of all consumers in the market", "Vertically adding all prices", "Multiplying supply by price", "Taking one consumer's demand only"], "correct_index": 0, "solution": "MARKET DEMAND for a good is obtained by HORIZONTALLY SUMMING (adding up the quantities demanded by) the INDIVIDUAL DEMAND CURVES of ALL CONSUMERS in the market at each price. It shows the total quantity all buyers demand at each price. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The marginal utility of money is generally assumed to be __________ in the cardinal utility analysis.", "options": ["Constant", "Rapidly increasing", "Zero", "Negative"], "correct_index": 0, "solution": "In CARDINAL UTILITY analysis, the MARGINAL UTILITY of MONEY is generally assumed to be CONSTANT. This assumption allows money to be used as a stable measuring rod for the utility of goods (so that the MU of a good can be expressed in money terms and compared with its price). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A 'Giffen good' is an unusual case where __________.", "options": ["A fall in price leads to a fall in quantity demanded (the demand curve slopes upward), because the strong negative income effect of an inferior good outweighs the substitution effect", "Price and quantity always move inversely", "Demand is perfectly elastic", "Utility is always rising"], "correct_index": 0, "solution": "A GIFFEN GOOD is an unusual case (a special type of strongly inferior good) where a FALL in PRICE leads to a FALL in QUANTITY DEMANDED (an UPWARD-sloping demand curve). This happens because the strong NEGATIVE INCOME EFFECT (as an inferior good) OUTWEIGHS the substitution effect — an exception to the law of demand. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following correctly matches the concept with its meaning?", "options": ["Total utility → sum of satisfaction from all units; Marginal utility → satisfaction from one more unit; MRS → rate of substitution on an indifference curve; Budget line → affordable combinations", "Total utility → one more unit; Marginal utility → all units; MRS → prices; Budget line → satisfaction", "All four terms mean the same thing", "None of these have any meaning"], "correct_index": 0, "solution": "The correct matches are: TOTAL UTILITY → the SUM of satisfaction from ALL units; MARGINAL UTILITY → satisfaction from ONE MORE unit; MRS (marginal rate of substitution) → the rate of substitution along an INDIFFERENCE CURVE; and BUDGET LINE → the AFFORDABLE COMBINATIONS given income and prices. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The point where marginal utility becomes negative is called the point of __________.", "options": ["Satiety (beyond which extra consumption reduces total utility)", "Maximum marginal utility", "Zero total utility", "Minimum consumption"], "correct_index": 0, "solution": "The point where MARGINAL UTILITY becomes ZERO (and beyond which it turns NEGATIVE) is the point of SATIETY — total utility is at its MAXIMUM there, and any EXTRA CONSUMPTION beyond it REDUCES total utility. It marks full satisfaction of the want. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "If two goods are perfect substitutes, their indifference curves are __________.", "options": ["Straight lines with a constant slope (constant MRS)", "Right-angled (L-shaped)", "Circular", "Upward sloping"], "correct_index": 0, "solution": "If two goods are PERFECT SUBSTITUTES, the consumer is willing to exchange them at a CONSTANT RATE, so their indifference curves are STRAIGHT LINES with a CONSTANT SLOPE (constant MRS). (Perfect complements, by contrast, have L-shaped/right-angled indifference curves.) So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "'Income elasticity of demand' measures the responsiveness of quantity demanded to a change in __________.", "options": ["Consumer income", "The good's own price", "The price of a substitute", "Consumer tastes"], "correct_index": 0, "solution": "INCOME ELASTICITY of DEMAND measures the RESPONSIVENESS of the QUANTITY DEMANDED to a change in CONSUMER INCOME (percentage change in quantity demanded ÷ percentage change in income). It is POSITIVE for NORMAL goods and NEGATIVE for INFERIOR goods, helping classify goods by how demand responds to income. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "If two goods are perfect complements, their indifference curves are __________.", "options": ["L-shaped (right-angled)", "Straight downward-sloping lines", "Upward-sloping", "Circular"], "correct_index": 0, "solution": "If two goods are PERFECT COMPLEMENTS (used together in a fixed ratio, like left and right shoes), their indifference curves are L-SHAPED (RIGHT-ANGLED) — having more of one good alone, without more of the other, adds no satisfaction. (Perfect substitutes, by contrast, give straight-line indifference curves.) So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The overall message of the chapter 'Theory of Consumer Behaviour' is that:", "options": ["Consumers behave randomly", "A rational CONSUMER aims to MAXIMISE SATISFACTION (utility) from limited income; this is analysed by the CARDINAL (utility) approach — using TOTAL and MARGINAL UTILITY, the LAW of DIMINISHING MARGINAL UTILITY, and equilibrium at MU = price (or equi-marginal utility across goods) — and the ORDINAL (indifference curve) approach — using indifference curves (with a diminishing MRS), the budget line, and equilibrium where the budget line is tangent to the highest indifference curve (MRS = price ratio); from this behaviour arises the LAW of DEMAND (an inverse price–quantity relationship giving a downward-sloping demand curve), with demand shifting due to income, tastes and related-good prices, and its responsiveness to price measured by PRICE ELASTICITY of DEMAND", "Only price matters and utility is irrelevant", "Demand always rises with price"], "correct_index": 1, "solution": "The chapter's overall message is that a RATIONAL CONSUMER aims to MAXIMISE SATISFACTION (UTILITY) from a LIMITED INCOME. This is analysed through two approaches: the CARDINAL (UTILITY) approach — using TOTAL UTILITY and MARGINAL UTILITY, the LAW of DIMINISHING MARGINAL UTILITY, and consumer equilibrium where MU = PRICE (for one good) or where the MARGINAL UTILITY per rupee is EQUAL across goods (the EQUI-MARGINAL principle); and the ORDINAL (INDIFFERENCE CURVE) approach — using INDIFFERENCE CURVES (convex, with a DIMINISHING MRS), the BUDGET LINE, and equilibrium where the budget line is TANGENT to the HIGHEST attainable indifference curve (MRS = PRICE RATIO). From this behaviour arises the LAW of DEMAND — an INVERSE relationship between price and quantity demanded, giving a DOWNWARD-SLOPING DEMAND CURVE — with the curve SHIFTING due to changes in INCOME, TASTES, and the prices of RELATED GOODS (substitutes and complements), and the responsiveness of quantity demanded to price measured by the PRICE ELASTICITY of DEMAND. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "'Utility' in economics means __________.",
+    "options": [
+      "The want-satisfying power of a good or service",
+      "The market price of a good",
+      "The cost of producing a good",
+      "The weight of a good"
+    ],
+    "correct_index": 0,
+    "solution": "UTILITY is the WANT-SATISFYING POWER of a good or service — the SATISFACTION or usefulness a consumer derives from consuming it. It is subjective and varies from person to person and situation to situation. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Total utility' (TU) refers to __________.",
+    "options": [
+      "The total satisfaction obtained from consuming all units of a good",
+      "The satisfaction from the last unit only",
+      "The average satisfaction per rupee",
+      "The price of the good"
+    ],
+    "correct_index": 0,
+    "solution": "TOTAL UTILITY (TU) is the TOTAL SATISFACTION a consumer obtains from consuming ALL the UNITS of a good. It is the sum of the marginal utilities of all units consumed. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Marginal utility' (MU) is defined as __________.",
+    "options": [
+      "The additional utility derived from consuming one more unit of a good",
+      "The total utility from all units",
+      "The average utility of all units",
+      "The price of one more unit"
+    ],
+    "correct_index": 0,
+    "solution": "MARGINAL UTILITY (MU) is the ADDITIONAL (extra) UTILITY derived from consuming ONE MORE UNIT of a good. It is the change in total utility resulting from a one-unit change in consumption: MU = ΔTU/ΔQ. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Law of Diminishing Marginal Utility' states that __________.",
+    "options": [
+      "As a consumer consumes more units of a good, the marginal utility from each additional unit tends to fall",
+      "Marginal utility keeps rising with consumption",
+      "Total utility falls from the first unit",
+      "Utility is always constant"
+    ],
+    "correct_index": 0,
+    "solution": "The LAW of DIMINISHING MARGINAL UTILITY states that as a consumer consumes MORE UNITS of a good (in a given period), the MARGINAL UTILITY (satisfaction from each ADDITIONAL unit) tends to FALL. The more you have of something, the less extra satisfaction each new unit gives. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When marginal utility is zero, total utility is __________.",
+    "options": [
+      "At its maximum",
+      "Also zero",
+      "Negative",
+      "Rising"
+    ],
+    "correct_index": 0,
+    "solution": "When MARGINAL UTILITY is ZERO, TOTAL UTILITY is at its MAXIMUM (the peak of the TU curve). Up to this point, each extra unit adds positive (though diminishing) utility, raising TU; beyond it, MU becomes negative and TU falls. So MU = 0 marks the maximum of total utility. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When marginal utility is negative, total utility is __________.",
+    "options": [
+      "Falling (declining)",
+      "Rising",
+      "At its maximum",
+      "Constant"
+    ],
+    "correct_index": 0,
+    "solution": "When MARGINAL UTILITY is NEGATIVE, TOTAL UTILITY is FALLING (declining) — consuming an additional unit actually REDUCES total satisfaction (e.g., over-consumption to the point of discomfort). Negative MU means each extra unit subtracts from total utility. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two main approaches to the study of consumer behaviour are the cardinal (utility) approach and the __________ approach.",
+    "options": [
+      "Ordinal (indifference curve)",
+      "Marginal cost",
+      "Supply",
+      "Production"
+    ],
+    "correct_index": 0,
+    "solution": "The two main APPROACHES to consumer behaviour are: the CARDINAL (utility) approach, which assumes utility can be measured in numbers (utils); and the ORDINAL (INDIFFERENCE CURVE) approach, which assumes utility can only be RANKED (ordered) as preferences, not measured. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The cardinal utility approach assumes that utility __________.",
+    "options": [
+      "Can be measured in absolute numbers (utils), like weight or length",
+      "Can only be ranked, not measured",
+      "Cannot be studied at all",
+      "Is the same for everyone"
+    ],
+    "correct_index": 0,
+    "solution": "The CARDINAL UTILITY approach (associated with Marshall) assumes that UTILITY CAN be MEASURED in ABSOLUTE NUMBERS (units called 'UTILS'), like measuring weight or length. This allows adding and comparing utilities numerically. (The ordinal approach rejects this, allowing only ranking.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A consumer maximises satisfaction (in the cardinal approach, single good) at the point where __________.",
+    "options": [
+      "Marginal utility of the good equals its price (MU = P)",
+      "Total utility is zero",
+      "Marginal utility is highest",
+      "Price is highest"
+    ],
+    "correct_index": 0,
+    "solution": "In the CARDINAL approach for a SINGLE good, a consumer maximises satisfaction where the MARGINAL UTILITY of the good EQUALS its PRICE (MU = P), with utility measured in money terms. If MU > P, the consumer buys more; if MU < P, they buy less — equilibrium is at MU = P. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Law of Equi-Marginal Utility' (consumer's equilibrium for many goods) states that a consumer maximises utility when __________.",
+    "options": [
+      "The marginal utility per rupee spent is equal across all goods (MUx/Px = MUy/Py = ...)",
+      "All goods have the same price",
+      "All marginal utilities are zero",
+      "Only one good is bought"
+    ],
+    "correct_index": 0,
+    "solution": "The LAW of EQUI-MARGINAL UTILITY states that a consumer maximises TOTAL UTILITY when the MARGINAL UTILITY PER RUPEE spent is EQUAL across ALL goods: MUx/Px = MUy/Py = ... = MUm (marginal utility of money). If this ratio is higher for one good, the consumer reallocates spending toward it until equality is reached. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "An 'indifference curve' is a curve that shows __________.",
+    "options": [
+      "All combinations of two goods that give the consumer the same level of satisfaction (utility)",
+      "The demand for a single good",
+      "The cost of production",
+      "The supply of a good"
+    ],
+    "correct_index": 0,
+    "solution": "An INDIFFERENCE CURVE shows ALL the COMBINATIONS of TWO GOODS that give the consumer the SAME LEVEL of SATISFACTION (utility) — so the consumer is 'indifferent' between them (equally happy with any combination on the curve). It is the basis of the ordinal approach. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The slope of an indifference curve is called the __________.",
+    "options": [
+      "Marginal Rate of Substitution (MRS)",
+      "Marginal utility",
+      "Budget line",
+      "Price ratio"
+    ],
+    "correct_index": 0,
+    "solution": "The SLOPE of an INDIFFERENCE CURVE is called the MARGINAL RATE of SUBSTITUTION (MRS) — the rate at which a consumer is WILLING to SUBSTITUTE one good for another while remaining EQUALLY SATISFIED (staying on the same curve). MRSxy = the amount of Y the consumer will give up for one more unit of X. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Indifference curves are convex to the origin because of __________.",
+    "options": [
+      "The diminishing marginal rate of substitution",
+      "Increasing marginal utility",
+      "Constant prices",
+      "The budget constraint"
+    ],
+    "correct_index": 0,
+    "solution": "INDIFFERENCE CURVES are CONVEX to the origin because of the DIMINISHING MARGINAL RATE of SUBSTITUTION (MRS): as a consumer has more of good X and less of Y, they are willing to give up LESS and LESS Y for each additional unit of X. This falling MRS gives the curve its convex (bowed-in) shape. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A higher indifference curve (farther from the origin) represents __________.",
+    "options": [
+      "A higher level of satisfaction (more of both goods)",
+      "A lower level of satisfaction",
+      "The same satisfaction as a lower curve",
+      "Zero satisfaction"
+    ],
+    "correct_index": 0,
+    "solution": "A HIGHER INDIFFERENCE CURVE (one FARTHER from the ORIGIN) represents a HIGHER LEVEL of SATISFACTION, because it involves MORE of BOTH goods (or more of one without less of the other). Consumers prefer to be on the highest attainable indifference curve. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two indifference curves can NEVER intersect because __________.",
+    "options": [
+      "Each curve represents a different level of satisfaction, and an intersection would imply contradictory (equal and unequal) satisfaction levels",
+      "They are always parallel lines",
+      "They slope upward",
+      "They are the same curve"
+    ],
+    "correct_index": 0,
+    "solution": "Two INDIFFERENCE CURVES can NEVER INTERSECT because each represents a DIFFERENT LEVEL of SATISFACTION. If they crossed, the point of intersection would lie on both curves, implying the consumer gets TWO different satisfaction levels from the SAME combination — a logical CONTRADICTION. Hence they cannot intersect. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'budget line' (price line) shows __________.",
+    "options": [
+      "All combinations of two goods that a consumer can buy by spending their entire income at given prices",
+      "The consumer's satisfaction levels",
+      "The firm's costs",
+      "The supply of goods"
+    ],
+    "correct_index": 0,
+    "solution": "The BUDGET LINE (price line) shows ALL the COMBINATIONS of TWO GOODS that a consumer CAN BUY by spending their ENTIRE INCOME, given the PRICES of the two goods. It represents the consumer's affordability/purchasing constraint. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The slope of the budget line is equal to __________.",
+    "options": [
+      "The ratio of the prices of the two goods (Px/Py)",
+      "The marginal rate of substitution",
+      "The income of the consumer",
+      "The marginal utility of money"
+    ],
+    "correct_index": 0,
+    "solution": "The SLOPE of the BUDGET LINE equals the RATIO of the PRICES of the two goods (Px/Py) — it shows the rate at which the market allows one good to be exchanged for the other. (This contrasts with the slope of the indifference curve, the MRS, which is the rate the consumer is willing to substitute.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the indifference curve (ordinal) approach, consumer equilibrium is reached where __________.",
+    "options": [
+      "The budget line is tangent to the highest attainable indifference curve (MRS = price ratio)",
+      "The budget line crosses two indifference curves",
+      "Marginal utility is zero",
+      "Income is zero"
+    ],
+    "correct_index": 0,
+    "solution": "In the ORDINAL (indifference curve) approach, CONSUMER EQUILIBRIUM is where the BUDGET LINE is TANGENT to the HIGHEST ATTAINABLE INDIFFERENCE CURVE. At this tangency point, the slope of the indifference curve equals the slope of the budget line, i.e., MRS = PRICE RATIO (Px/Py). This gives the consumer maximum satisfaction within their budget. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The condition for consumer equilibrium in the ordinal approach, MRS = Px/Py, means that __________.",
+    "options": [
+      "The rate at which the consumer is willing to substitute goods equals the rate at which the market lets them",
+      "The consumer buys only one good",
+      "Prices are irrelevant",
+      "Utility cannot be maximised"
+    ],
+    "correct_index": 0,
+    "solution": "The equilibrium condition MRS = Px/Py means the RATE at which the CONSUMER is WILLING to SUBSTITUTE one good for another (MRS) EQUALS the RATE at which the MARKET LETS them exchange (the price ratio). When these are equal, the consumer cannot gain by reallocating spending — satisfaction is maximised. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'demand' for a good refers to __________.",
+    "options": [
+      "The quantity of a good that a consumer is willing and able to buy at various prices in a given period",
+      "The total supply of the good",
+      "The desire for a good without ability to pay",
+      "The cost of the good"
+    ],
+    "correct_index": 0,
+    "solution": "DEMAND for a good refers to the QUANTITY that a consumer is WILLING and ABLE to BUY at VARIOUS PRICES during a given period. It combines both DESIRE and the ABILITY (purchasing power) to pay — mere desire without ability to pay is not demand. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Law of Demand' states that, other things equal, __________.",
+    "options": [
+      "As the price of a good falls, its quantity demanded rises (and vice versa) — an inverse relationship",
+      "Price and quantity demanded rise together",
+      "Demand is unaffected by price",
+      "Higher prices always increase demand"
+    ],
+    "correct_index": 0,
+    "solution": "The LAW of DEMAND states that, OTHER THINGS EQUAL (ceteris paribus), as the PRICE of a good FALLS, its QUANTITY DEMANDED RISES — and as price rises, quantity demanded falls. There is an INVERSE (negative) relationship between price and quantity demanded, giving the demand curve its downward slope. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The demand curve slopes downward from left to right because of __________.",
+    "options": [
+      "The law of diminishing marginal utility, and the income and substitution effects",
+      "Increasing marginal utility",
+      "Rising prices increasing demand",
+      "A vertical budget line"
+    ],
+    "correct_index": 0,
+    "solution": "The DEMAND CURVE slopes DOWNWARD because of: the LAW of DIMINISHING MARGINAL UTILITY (consumers pay less for additional units as MU falls); the SUBSTITUTION EFFECT (a cheaper good is substituted for others); and the INCOME EFFECT (a price fall raises real income, allowing more purchase). All these make quantity demanded rise as price falls. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A movement ALONG a demand curve (change in quantity demanded) is caused by __________.",
+    "options": [
+      "A change in the price of the good itself",
+      "A change in consumer income",
+      "A change in tastes",
+      "A change in the price of other goods"
+    ],
+    "correct_index": 0,
+    "solution": "A MOVEMENT ALONG a demand curve — a CHANGE in QUANTITY DEMANDED — is caused ONLY by a change in the PRICE of the GOOD ITSELF (other factors held constant). Changes in income, tastes, or prices of other goods instead SHIFT the whole demand curve (change in demand). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A SHIFT of the entire demand curve (change in demand) is caused by a change in __________.",
+    "options": [
+      "Factors other than the good's own price — like income, tastes, prices of related goods, or population",
+      "Only the good's own price",
+      "The quantity demanded alone",
+      "Nothing at all"
+    ],
+    "correct_index": 0,
+    "solution": "A SHIFT of the entire demand curve — a CHANGE in DEMAND — is caused by a change in factors OTHER than the good's OWN PRICE: consumer INCOME, TASTES and preferences, PRICES of RELATED GOODS (substitutes and complements), POPULATION/number of buyers, and expectations. A rightward shift means more demand at every price; a leftward shift means less. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For a 'normal good', an increase in consumer income leads to __________.",
+    "options": [
+      "An increase in demand (the demand curve shifts rightward)",
+      "A decrease in demand",
+      "No change in demand",
+      "The good becoming free"
+    ],
+    "correct_index": 0,
+    "solution": "For a NORMAL GOOD, an INCREASE in consumer INCOME leads to an INCREASE in DEMAND — the demand curve SHIFTS RIGHTWARD (more is demanded at every price). Most goods are normal: as people earn more, they buy more of them. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For an 'inferior good', an increase in consumer income leads to __________.",
+    "options": [
+      "A decrease in demand (consumers switch to better substitutes)",
+      "An increase in demand",
+      "No change ever",
+      "The good disappearing"
+    ],
+    "correct_index": 0,
+    "solution": "For an INFERIOR GOOD, an INCREASE in consumer INCOME leads to a DECREASE in DEMAND — as people become richer, they SWITCH to BETTER (superior) SUBSTITUTES and buy less of the inferior good. Examples might include coarse grains or low-quality goods that people abandon as income rises. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two goods are 'substitutes' if __________.",
+    "options": [
+      "A rise in the price of one increases the demand for the other (e.g., tea and coffee)",
+      "A rise in the price of one decreases demand for the other",
+      "They are always consumed together",
+      "They have no relationship"
+    ],
+    "correct_index": 0,
+    "solution": "Two goods are SUBSTITUTES if a RISE in the PRICE of ONE INCREASES the DEMAND for the OTHER — because consumers switch from the now-dearer good to its alternative. TEA and COFFEE are classic substitutes. (Their cross-price relationship is positive.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two goods are 'complements' if __________.",
+    "options": [
+      "A rise in the price of one decreases the demand for the other (e.g., cars and petrol)",
+      "A rise in the price of one increases demand for the other",
+      "They are never used together",
+      "They are unrelated"
+    ],
+    "correct_index": 0,
+    "solution": "Two goods are COMPLEMENTS if a RISE in the PRICE of ONE DECREASES the DEMAND for the OTHER — because they are used TOGETHER, so a dearer complement reduces consumption of both. CARS and PETROL (or pen and ink, tea and sugar) are complements. (Their cross-price relationship is negative.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Price elasticity of demand' measures __________.",
+    "options": [
+      "The responsiveness of quantity demanded to a change in the good's price",
+      "The total demand for a good",
+      "The slope of the budget line",
+      "The marginal utility of a good"
+    ],
+    "correct_index": 0,
+    "solution": "PRICE ELASTICITY of DEMAND measures the RESPONSIVENESS of the QUANTITY DEMANDED to a CHANGE in the good's PRICE. It is calculated as the percentage change in quantity demanded divided by the percentage change in price. It shows how sensitive buyers are to price changes. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The formula for price elasticity of demand (Ed) is __________.",
+    "options": [
+      "Percentage change in quantity demanded ÷ percentage change in price",
+      "Change in price ÷ change in quantity",
+      "Total utility ÷ marginal utility",
+      "Price × quantity"
+    ],
+    "correct_index": 0,
+    "solution": "PRICE ELASTICITY of DEMAND (Ed) = (PERCENTAGE CHANGE in QUANTITY DEMANDED) ÷ (PERCENTAGE CHANGE in PRICE). By convention its value is negative (due to the inverse price-quantity relationship) but is usually stated as an absolute value. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Demand is said to be 'elastic' when __________.",
+    "options": [
+      "The price elasticity of demand is greater than 1 (quantity responds more than proportionately to price)",
+      "Elasticity is less than 1",
+      "Elasticity is exactly zero",
+      "Price does not change"
+    ],
+    "correct_index": 0,
+    "solution": "Demand is ELASTIC when the price elasticity of demand is GREATER than 1 (|Ed| > 1) — meaning the QUANTITY demanded responds MORE than PROPORTIONATELY to a change in price (a small price change causes a large quantity change). Luxuries and goods with many substitutes tend to have elastic demand. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Demand is said to be 'inelastic' when __________.",
+    "options": [
+      "The price elasticity of demand is less than 1 (quantity responds less than proportionately to price)",
+      "Elasticity is greater than 1",
+      "Elasticity is infinite",
+      "Quantity changes hugely"
+    ],
+    "correct_index": 0,
+    "solution": "Demand is INELASTIC when the price elasticity of demand is LESS than 1 (|Ed| < 1) — meaning the QUANTITY demanded responds LESS than PROPORTIONATELY to a change in price (a large price change causes only a small quantity change). NECESSITIES (like salt or medicines) tend to have inelastic demand. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Demand is 'unitary elastic' when __________.",
+    "options": [
+      "The price elasticity of demand equals exactly 1 (quantity changes in the same proportion as price)",
+      "Elasticity is zero",
+      "Elasticity is infinite",
+      "There is no demand"
+    ],
+    "correct_index": 0,
+    "solution": "Demand is UNITARY ELASTIC when the price elasticity of demand equals EXACTLY 1 (|Ed| = 1) — the QUANTITY demanded changes in the SAME PROPORTION as the PRICE (e.g., a 10% price rise causes a 10% fall in quantity). Total expenditure on the good stays constant in this case. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Perfectly inelastic' demand (Ed = 0) means that __________.",
+    "options": [
+      "Quantity demanded does not change at all when price changes (a vertical demand curve)",
+      "Quantity changes infinitely",
+      "Demand is very responsive",
+      "Price never changes"
+    ],
+    "correct_index": 0,
+    "solution": "PERFECTLY INELASTIC demand (Ed = 0) means the QUANTITY demanded does NOT CHANGE AT ALL when the PRICE changes — the demand curve is a VERTICAL line. This would apply to an absolute necessity with no substitutes at any price (a theoretical extreme). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following goods is likely to have relatively INELASTIC demand?",
+    "options": [
+      "Salt (a necessity with no close substitutes and small budget share)",
+      "A luxury car",
+      "Restaurant meals",
+      "One particular brand among many"
+    ],
+    "correct_index": 0,
+    "solution": "SALT is likely to have relatively INELASTIC demand: it is a NECESSITY, has NO CLOSE SUBSTITUTES, and takes up only a SMALL SHARE of the budget — so people buy roughly the same amount regardless of price changes. Luxuries, meals out, and goods with many substitutes tend to be more elastic. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key factor that makes the demand for a good MORE elastic is __________.",
+    "options": [
+      "The availability of close substitutes",
+      "The good being an absolute necessity",
+      "The good having no substitutes",
+      "The good taking a tiny share of income"
+    ],
+    "correct_index": 0,
+    "solution": "A key factor making demand MORE ELASTIC is the AVAILABILITY of CLOSE SUBSTITUTES — if a good has many good substitutes, a price rise makes consumers switch away easily, so quantity demanded responds strongly. Necessities, goods with no substitutes, and goods taking a tiny income share tend to be INELASTIC. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The demand curve slopes downward. Reason (R): As more units are consumed, the marginal utility falls, so consumers are willing to pay less for additional units. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — the DEMAND CURVE slopes DOWNWARD. R is TRUE and correctly EXPLAINS A: because of DIMINISHING MARGINAL UTILITY, as MORE units are consumed the extra satisfaction (MU) FALLS, so consumers are WILLING to PAY LESS for additional units — which means they buy more only at lower prices, giving the downward-sloping demand curve. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'substitution effect' of a fall in a good's price means that __________.",
+    "options": [
+      "The good becomes relatively cheaper, so consumers substitute it for other goods, buying more of it",
+      "Consumers buy less of it",
+      "Income falls",
+      "Other goods become cheaper"
+    ],
+    "correct_index": 0,
+    "solution": "The SUBSTITUTION EFFECT of a FALL in a good's PRICE means the good becomes RELATIVELY CHEAPER compared to other goods, so consumers SUBSTITUTE it FOR other goods — buying MORE of the now-cheaper good. This is one reason the demand curve slopes downward. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'income effect' of a fall in a good's price means that __________.",
+    "options": [
+      "The consumer's real income (purchasing power) rises, enabling them to buy more of the good (if normal)",
+      "The consumer's money income rises",
+      "The good becomes dearer",
+      "Income has no effect"
+    ],
+    "correct_index": 0,
+    "solution": "The INCOME EFFECT of a FALL in a good's PRICE means the consumer's REAL INCOME (PURCHASING POWER) RISES — the same money now buys more — enabling them to buy MORE of the good (if it is a normal good). Together with the substitution effect, it explains why quantity demanded rises as price falls. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'total expenditure' method relates elasticity to spending: if a fall in price raises total expenditure on a good, demand is __________.",
+    "options": [
+      "Elastic (Ed > 1)",
+      "Inelastic (Ed < 1)",
+      "Unitary elastic (Ed = 1)",
+      "Perfectly inelastic"
+    ],
+    "correct_index": 0,
+    "solution": "By the TOTAL EXPENDITURE method: if a FALL in PRICE RAISES total expenditure on the good, demand is ELASTIC (Ed > 1) — the quantity rises so much that total spending increases despite the lower price. (If total expenditure stays the same, demand is unitary elastic; if it falls, demand is inelastic.) So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 'demand schedule' is __________.",
+    "options": [
+      "A table showing the quantities of a good demanded at various prices",
+      "A graph of costs",
+      "A list of a firm's outputs",
+      "A record of past sales only"
+    ],
+    "correct_index": 0,
+    "solution": "A DEMAND SCHEDULE is a TABLE showing the QUANTITIES of a good that a consumer (or the market) is willing to buy at VARIOUS PRICES. Plotting the demand schedule gives the demand curve. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Market demand' is obtained by __________.",
+    "options": [
+      "Horizontally summing the individual demand curves of all consumers in the market",
+      "Vertically adding all prices",
+      "Multiplying supply by price",
+      "Taking one consumer's demand only"
+    ],
+    "correct_index": 0,
+    "solution": "MARKET DEMAND for a good is obtained by HORIZONTALLY SUMMING (adding up the quantities demanded by) the INDIVIDUAL DEMAND CURVES of ALL CONSUMERS in the market at each price. It shows the total quantity all buyers demand at each price. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The marginal utility of money is generally assumed to be __________ in the cardinal utility analysis.",
+    "options": [
+      "Constant",
+      "Rapidly increasing",
+      "Zero",
+      "Negative"
+    ],
+    "correct_index": 0,
+    "solution": "In CARDINAL UTILITY analysis, the MARGINAL UTILITY of MONEY is generally assumed to be CONSTANT. This assumption allows money to be used as a stable measuring rod for the utility of goods (so that the MU of a good can be expressed in money terms and compared with its price). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 'Giffen good' is an unusual case where __________.",
+    "options": [
+      "A fall in price leads to a fall in quantity demanded (the demand curve slopes upward), because the strong negative income effect of an inferior good outweighs the substitution effect",
+      "Price and quantity always move inversely",
+      "Demand is perfectly elastic",
+      "Utility is always rising"
+    ],
+    "correct_index": 0,
+    "solution": "A GIFFEN GOOD is an unusual case (a special type of strongly inferior good) where a FALL in PRICE leads to a FALL in QUANTITY DEMANDED (an UPWARD-sloping demand curve). This happens because the strong NEGATIVE INCOME EFFECT (as an inferior good) OUTWEIGHS the substitution effect — an exception to the law of demand. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly matches the concept with its meaning?",
+    "options": [
+      "Total utility → sum of satisfaction from all units; Marginal utility → satisfaction from one more unit; MRS → rate of substitution on an indifference curve; Budget line → affordable combinations",
+      "Total utility → one more unit; Marginal utility → all units; MRS → prices; Budget line → satisfaction",
+      "All four terms mean the same thing",
+      "None of these have any meaning"
+    ],
+    "correct_index": 0,
+    "solution": "The correct matches are: TOTAL UTILITY → the SUM of satisfaction from ALL units; MARGINAL UTILITY → satisfaction from ONE MORE unit; MRS (marginal rate of substitution) → the rate of substitution along an INDIFFERENCE CURVE; and BUDGET LINE → the AFFORDABLE COMBINATIONS given income and prices. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The point where marginal utility becomes negative is called the point of __________.",
+    "options": [
+      "Satiety (beyond which extra consumption reduces total utility)",
+      "Maximum marginal utility",
+      "Zero total utility",
+      "Minimum consumption"
+    ],
+    "correct_index": 0,
+    "solution": "The point where MARGINAL UTILITY becomes ZERO (and beyond which it turns NEGATIVE) is the point of SATIETY — total utility is at its MAXIMUM there, and any EXTRA CONSUMPTION beyond it REDUCES total utility. It marks full satisfaction of the want. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If two goods are perfect substitutes, their indifference curves are __________.",
+    "options": [
+      "Straight lines with a constant slope (constant MRS)",
+      "Right-angled (L-shaped)",
+      "Circular",
+      "Upward sloping"
+    ],
+    "correct_index": 0,
+    "solution": "If two goods are PERFECT SUBSTITUTES, the consumer is willing to exchange them at a CONSTANT RATE, so their indifference curves are STRAIGHT LINES with a CONSTANT SLOPE (constant MRS). (Perfect complements, by contrast, have L-shaped/right-angled indifference curves.) So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Income elasticity of demand' measures the responsiveness of quantity demanded to a change in __________.",
+    "options": [
+      "Consumer income",
+      "The good's own price",
+      "The price of a substitute",
+      "Consumer tastes"
+    ],
+    "correct_index": 0,
+    "solution": "INCOME ELASTICITY of DEMAND measures the RESPONSIVENESS of the QUANTITY DEMANDED to a change in CONSUMER INCOME (percentage change in quantity demanded ÷ percentage change in income). It is POSITIVE for NORMAL goods and NEGATIVE for INFERIOR goods, helping classify goods by how demand responds to income. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If two goods are perfect complements, their indifference curves are __________.",
+    "options": [
+      "L-shaped (right-angled)",
+      "Straight downward-sloping lines",
+      "Upward-sloping",
+      "Circular"
+    ],
+    "correct_index": 0,
+    "solution": "If two goods are PERFECT COMPLEMENTS (used together in a fixed ratio, like left and right shoes), their indifference curves are L-SHAPED (RIGHT-ANGLED) — having more of one good alone, without more of the other, adds no satisfaction. (Perfect substitutes, by contrast, give straight-line indifference curves.) So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Utility' in economics means:",
+    "options": [
+      "the price of a good",
+      "the want-satisfying power of a good (the satisfaction a consumer gets from it)",
+      "the cost of a good",
+      "the weight of a good"
+    ],
+    "correct_index": 1,
+    "solution": "Utility is the want-satisfying power of a good — the satisfaction a consumer derives from consuming it.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Total utility' (TU) refers to:",
+    "options": [
+      "the utility of the last unit",
+      "the total satisfaction obtained from consuming a given quantity of a good",
+      "the price",
+      "the cost"
+    ],
+    "correct_index": 1,
+    "solution": "Total utility is the total satisfaction obtained from consuming a given quantity of a good.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Marginal utility' (MU) is defined as:",
+    "options": [
+      "total satisfaction",
+      "the addition to total utility from consuming one more unit of a good",
+      "the average utility",
+      "the price"
+    ],
+    "correct_index": 1,
+    "solution": "Marginal utility is the addition to total utility from consuming one more (additional) unit of a good.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Law of Diminishing Marginal Utility' states that:",
+    "options": [
+      "MU rises with consumption",
+      "as more units of a good are consumed, the marginal utility from each successive unit falls",
+      "MU is constant",
+      "utility is zero"
+    ],
+    "correct_index": 1,
+    "solution": "The Law of Diminishing Marginal Utility states that as a consumer consumes more units of a good, the marginal utility of each successive unit falls.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When marginal utility is zero, total utility is:",
+    "options": [
+      "also zero",
+      "at its maximum",
+      "falling",
+      "negative"
+    ],
+    "correct_index": 1,
+    "solution": "When MU = 0, total utility is at its maximum (the saturation point).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When marginal utility is negative, total utility is:",
+    "options": [
+      "rising",
+      "falling (declining)",
+      "at maximum",
+      "zero"
+    ],
+    "correct_index": 1,
+    "solution": "When MU is negative, total utility is falling (declining), as additional consumption reduces satisfaction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The point where marginal utility becomes negative is called the point of:",
+    "options": [
+      "equilibrium",
+      "satiety (where TU is maximum and beyond which it falls)",
+      "break-even",
+      "origin"
+    ],
+    "correct_index": 1,
+    "solution": "The point of satiety (satiation) is where TU is maximum (MU = 0), beyond which MU turns negative and TU falls.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two main approaches to studying consumer behaviour are the cardinal (utility) approach and the __________ approach.",
+    "options": [
+      "marginal",
+      "ordinal (indifference curve)",
+      "total",
+      "budget"
+    ],
+    "correct_index": 1,
+    "solution": "The two approaches are the cardinal (utility) approach and the ordinal (indifference curve) approach.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The cardinal utility approach assumes that utility:",
+    "options": [
+      "cannot be measured",
+      "can be measured in numerical units (utils)",
+      "is only ranked",
+      "is always zero"
+    ],
+    "correct_index": 1,
+    "solution": "The cardinal approach assumes utility can be measured in numerical units (utils).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ordinal approach assumes that utility:",
+    "options": [
+      "can be measured in numbers",
+      "cannot be measured but can be ranked/ordered (compared)",
+      "is always zero",
+      "is negative"
+    ],
+    "correct_index": 1,
+    "solution": "The ordinal approach assumes utility cannot be measured cardinally but can be ranked or ordered (comparing preferences).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A consumer maximises satisfaction (cardinal approach, single good) at the point where:",
+    "options": [
+      "MU is maximum",
+      "the marginal utility of the good equals its price (MU = P)",
+      "TU is zero",
+      "MU is negative"
+    ],
+    "correct_index": 1,
+    "solution": "In the cardinal approach with a single good, the consumer maximises satisfaction where MU of the good equals its price (MU = P).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Law of Equi-Marginal Utility' states that a consumer maximises utility when:",
+    "options": [
+      "MU is highest for one good",
+      "the marginal utility per rupee (MU/P) is equal for all goods",
+      "he spends all on one good",
+      "MU is zero"
+    ],
+    "correct_index": 1,
+    "solution": "The Law of Equi-Marginal Utility: a consumer maximises utility when the marginal utility per rupee spent (MU/P) is equal across all goods.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The marginal utility of money is generally assumed to be __________ in cardinal utility analysis.",
+    "options": [
+      "variable",
+      "constant",
+      "zero",
+      "negative"
+    ],
+    "correct_index": 1,
+    "solution": "The marginal utility of money is assumed constant in cardinal utility analysis (so money can serve as a measuring rod for utility).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An 'indifference curve' shows:",
+    "options": [
+      "only one good",
+      "the various combinations of two goods that give the consumer the same level of satisfaction",
+      "prices",
+      "costs"
+    ],
+    "correct_index": 1,
+    "solution": "An indifference curve shows the different combinations of two goods that yield the consumer the same level of satisfaction (indifference).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The slope of an indifference curve is called the:",
+    "options": [
+      "price ratio",
+      "marginal rate of substitution (MRS)",
+      "budget line",
+      "elasticity"
+    ],
+    "correct_index": 1,
+    "solution": "The slope of an indifference curve is the marginal rate of substitution (MRS) — the rate at which one good can be exchanged for the other while keeping satisfaction constant.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Indifference curves are convex to the origin because of:",
+    "options": [
+      "increasing MRS",
+      "the diminishing marginal rate of substitution (MRS falls as more of one good is consumed)",
+      "constant MRS",
+      "zero MRS"
+    ],
+    "correct_index": 1,
+    "solution": "Indifference curves are convex to the origin because of the diminishing marginal rate of substitution — MRS falls as more of one good is substituted for the other.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A higher indifference curve (farther from the origin) represents:",
+    "options": [
+      "lower satisfaction",
+      "a higher level of satisfaction",
+      "the same satisfaction",
+      "zero satisfaction"
+    ],
+    "correct_index": 1,
+    "solution": "A higher indifference curve (farther from the origin) represents a higher level of satisfaction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two indifference curves can NEVER intersect because:",
+    "options": [
+      "they are parallel",
+      "each represents a different level of satisfaction, and a point of intersection would imply two different satisfaction levels at once (a contradiction)",
+      "they slope upward",
+      "they are straight"
+    ],
+    "correct_index": 1,
+    "solution": "Intersecting indifference curves would imply a single point gives two different levels of satisfaction — a logical contradiction — so they never intersect.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If two goods are perfect substitutes, their indifference curves are:",
+    "options": [
+      "convex",
+      "straight (linear) lines with a constant slope",
+      "right-angled",
+      "circular"
+    ],
+    "correct_index": 1,
+    "solution": "For perfect substitutes, indifference curves are straight lines with a constant MRS (slope).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If two goods are perfect complements, their indifference curves are:",
+    "options": [
+      "straight lines",
+      "L-shaped (right-angled)",
+      "convex curves",
+      "upward-sloping"
+    ],
+    "correct_index": 1,
+    "solution": "For perfect complements (used in fixed proportions), indifference curves are L-shaped (right-angled).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'budget line' (price line) shows:",
+    "options": [
+      "utility combinations",
+      "the various combinations of two goods a consumer can buy with a given income at given prices",
+      "only one good",
+      "the demand curve"
+    ],
+    "correct_index": 1,
+    "solution": "The budget line shows the combinations of two goods a consumer can buy with a given income at given prices.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The slope of the budget line is equal to:",
+    "options": [
+      "the MRS",
+      "the ratio of the prices of the two goods (Px/Py)",
+      "zero",
+      "income"
+    ],
+    "correct_index": 1,
+    "solution": "The slope of the budget line equals the ratio of the prices of the two goods (Px/Py).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the indifference curve (ordinal) approach, consumer equilibrium is reached where:",
+    "options": [
+      "the budget line is above the indifference curves",
+      "the budget line is tangent to the highest attainable indifference curve",
+      "MU is zero",
+      "income is zero"
+    ],
+    "correct_index": 1,
+    "solution": "Consumer equilibrium is where the budget line is tangent to the highest attainable indifference curve.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The condition MRS = Px/Py for consumer equilibrium means that:",
+    "options": [
+      "prices are equal",
+      "the rate at which the consumer is willing to exchange the goods equals the rate at which the market allows (price ratio)",
+      "utility is zero",
+      "income is spent on one good"
+    ],
+    "correct_index": 1,
+    "solution": "MRS = Px/Py means the consumer's willingness to trade the goods (MRS) equals the market rate of exchange (the price ratio) at equilibrium.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'demand' for a good refers to:",
+    "options": [
+      "the desire alone",
+      "the quantity of a good that consumers are willing and able to buy at various prices in a given period",
+      "the supply",
+      "the price"
+    ],
+    "correct_index": 1,
+    "solution": "Demand is the quantity of a good consumers are willing and able to buy at various prices over a given period (backed by ability to pay).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'demand schedule' is:",
+    "options": [
+      "a graph",
+      "a table showing the quantities of a good demanded at different prices",
+      "a budget line",
+      "an indifference curve"
+    ],
+    "correct_index": 1,
+    "solution": "A demand schedule is a table showing the quantities of a good demanded at different prices.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Market demand' is obtained by:",
+    "options": [
+      "taking one buyer",
+      "horizontally summing the individual demands of all consumers at each price",
+      "the supply",
+      "dividing by price"
+    ],
+    "correct_index": 1,
+    "solution": "Market demand is the horizontal summation of the individual demand curves of all consumers at each price.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Law of Demand' states that, other things equal:",
+    "options": [
+      "price and quantity demanded move together",
+      "as the price of a good rises, its quantity demanded falls (an inverse relationship)",
+      "quantity is fixed",
+      "demand is constant"
+    ],
+    "correct_index": 1,
+    "solution": "The Law of Demand: other things equal, as price rises quantity demanded falls, and vice versa — an inverse relationship.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The demand curve slopes downward from left to right because of:",
+    "options": [
+      "rising utility",
+      "the law of diminishing marginal utility and the income/substitution effects",
+      "constant utility",
+      "zero utility"
+    ],
+    "correct_index": 1,
+    "solution": "The demand curve slopes downward due to the law of diminishing marginal utility and the income and substitution effects.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A movement ALONG a demand curve (change in quantity demanded) is caused by:",
+    "options": [
+      "a change in income",
+      "a change in the good's own price",
+      "a change in tastes",
+      "a change in the price of other goods"
+    ],
+    "correct_index": 1,
+    "solution": "A movement along the demand curve (change in quantity demanded) is caused by a change in the good's own price.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A SHIFT of the entire demand curve (change in demand) is caused by a change in:",
+    "options": [
+      "the good's own price",
+      "factors other than own price — income, tastes, prices of related goods, expectations",
+      "only price",
+      "nothing"
+    ],
+    "correct_index": 1,
+    "solution": "A shift of the demand curve (change in demand) is caused by changes in factors other than own price — income, tastes, prices of related goods, expectations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For a 'normal good', an increase in consumer income leads to:",
+    "options": [
+      "a fall in demand",
+      "a rise in demand",
+      "no change",
+      "zero demand"
+    ],
+    "correct_index": 1,
+    "solution": "For a normal good, a rise in income increases demand.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "For an 'inferior good', an increase in consumer income leads to:",
+    "options": [
+      "a rise in demand",
+      "a fall in demand",
+      "no change",
+      "zero demand"
+    ],
+    "correct_index": 1,
+    "solution": "For an inferior good, a rise in income decreases demand (consumers switch to better substitutes).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two goods are 'substitutes' if:",
+    "options": [
+      "they are used together",
+      "a rise in the price of one increases the demand for the other (they can replace each other)",
+      "they are complements",
+      "they are unrelated"
+    ],
+    "correct_index": 1,
+    "solution": "Substitutes are goods where a rise in the price of one increases the demand for the other (e.g., tea and coffee).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two goods are 'complements' if:",
+    "options": [
+      "they replace each other",
+      "a rise in the price of one decreases the demand for the other (they are used together)",
+      "they are unrelated",
+      "one is inferior"
+    ],
+    "correct_index": 1,
+    "solution": "Complements are goods used together, where a rise in the price of one reduces the demand for the other (e.g., cars and petrol).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Price elasticity of demand' measures:",
+    "options": [
+      "total demand",
+      "the responsiveness of quantity demanded to a change in the good's price",
+      "income",
+      "supply"
+    ],
+    "correct_index": 1,
+    "solution": "Price elasticity of demand measures the responsiveness of quantity demanded to a change in the good's own price.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The formula for price elasticity of demand (Ed) is:",
+    "options": [
+      "ΔQ × ΔP",
+      "(percentage change in quantity demanded) / (percentage change in price)",
+      "P × Q",
+      "Q / P"
+    ],
+    "correct_index": 1,
+    "solution": "Ed = (percentage change in quantity demanded) / (percentage change in price).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Demand is said to be 'elastic' when:",
+    "options": [
+      "Ed < 1",
+      "Ed > 1 (quantity responds more than proportionately to price)",
+      "Ed = 0",
+      "Ed = 1"
+    ],
+    "correct_index": 1,
+    "solution": "Demand is elastic when Ed > 1 — quantity demanded responds more than proportionately to a price change.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Demand is said to be 'inelastic' when:",
+    "options": [
+      "Ed > 1",
+      "Ed < 1 (quantity responds less than proportionately to price)",
+      "Ed = infinity",
+      "Ed = 1"
+    ],
+    "correct_index": 1,
+    "solution": "Demand is inelastic when Ed < 1 — quantity demanded responds less than proportionately to a price change.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Demand is 'unitary elastic' when:",
+    "options": [
+      "Ed = 0",
+      "Ed = 1 (quantity changes exactly proportionately to price)",
+      "Ed > 1",
+      "Ed < 1"
+    ],
+    "correct_index": 1,
+    "solution": "Demand is unitary elastic when Ed = 1 — quantity changes exactly in the same proportion as price.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Perfectly inelastic' demand (Ed = 0) means that:",
+    "options": [
+      "quantity changes a lot",
+      "quantity demanded does not change at all when price changes",
+      "demand is infinite",
+      "price is fixed"
+    ],
+    "correct_index": 1,
+    "solution": "Perfectly inelastic demand (Ed = 0) means quantity demanded does not change at all when price changes (a vertical demand curve).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key factor that makes the demand for a good MORE elastic is:",
+    "options": [
+      "being a necessity",
+      "the availability of close substitutes",
+      "a small share of income",
+      "being a habit"
+    ],
+    "correct_index": 1,
+    "solution": "The availability of close substitutes makes demand more elastic, as buyers can easily switch when price rises.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'substitution effect' of a fall in a good's price means that:",
+    "options": [
+      "income falls",
+      "the good becomes relatively cheaper, so consumers buy more of it in place of other goods",
+      "demand falls",
+      "price rises"
+    ],
+    "correct_index": 1,
+    "solution": "The substitution effect: a fall in a good's price makes it relatively cheaper, so consumers substitute it for other (now relatively dearer) goods, buying more of it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'income effect' of a fall in a good's price means that:",
+    "options": [
+      "income falls",
+      "the fall in price raises the consumer's real income (purchasing power), enabling more purchases",
+      "demand falls",
+      "price rises"
+    ],
+    "correct_index": 1,
+    "solution": "The income effect: a fall in a good's price raises the consumer's real income/purchasing power, enabling more purchases (for a normal good).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'total expenditure' method: if a fall in price RAISES total expenditure on a good, demand is:",
+    "options": [
+      "inelastic",
+      "elastic (Ed > 1)",
+      "unitary",
+      "zero"
+    ],
+    "correct_index": 1,
+    "solution": "If a fall in price raises total expenditure (spending) on the good, demand is elastic (Ed > 1).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Income elasticity of demand' measures the responsiveness of quantity demanded to a change in:",
+    "options": [
+      "the good's price",
+      "consumer income",
+      "the price of substitutes",
+      "supply"
+    ],
+    "correct_index": 1,
+    "solution": "Income elasticity of demand measures the responsiveness of quantity demanded to a change in consumer income.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'Giffen good' is an unusual case where:",
+    "options": [
+      "demand rises with income",
+      "the demand curve slopes upward (a rise in price increases quantity demanded), an exception to the law of demand",
+      "demand is elastic",
+      "the good is a luxury"
+    ],
+    "correct_index": 1,
+    "solution": "A Giffen good is a special inferior good for which a rise in price increases quantity demanded — an exception to the law of demand.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): The demand curve slopes downward. Reason (R): As more units are consumed, the marginal utility falls, so consumers are willing to pay less for additional units. Which is correct?",
+    "options": [
+      "A is false",
+      "Both A and R are true and R correctly explains A",
+      "A is true but R is false",
+      "Both are false"
+    ],
+    "correct_index": 1,
+    "solution": "Both are true and R explains A: diminishing marginal utility means consumers pay less for extra units, so the demand curve slopes downward.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following BEST captures the central message of the chapter 'Theory of Consumer Behaviour'?",
+    "options": [
+      "consumers behave randomly",
+      "A rational consumer maximises satisfaction from a limited income; the cardinal (utility) and ordinal (indifference curve) approaches explain how this leads to a downward-sloping demand curve, whose responsiveness to price is measured by elasticity",
+      "utility cannot be studied",
+      "demand curves slope upward"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter concludes that a rational consumer maximises satisfaction from a limited income; the cardinal (utility) and ordinal (indifference curve) approaches explain how this yields a downward-sloping demand curve, whose responsiveness to price changes is measured by price elasticity of demand.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall message of the chapter 'Theory of Consumer Behaviour' is that:",
+    "options": [
+      "Consumers behave randomly",
+      "A rational CONSUMER aims to MAXIMISE SATISFACTION (utility) from limited income; this is analysed by the CARDINAL (utility) approach — using TOTAL and MARGINAL UTILITY, the LAW of DIMINISHING MARGINAL UTILITY, and equilibrium at MU = price (or equi-marginal utility across goods) — and the ORDINAL (indifference curve) approach — using indifference curves (with a diminishing MRS), the budget line, and equilibrium where the budget line is tangent to the highest indifference curve (MRS = price ratio); from this behaviour arises the LAW of DEMAND (an inverse price–quantity relationship giving a downward-sloping demand curve), with demand shifting due to income, tastes and related-good prices, and its responsiveness to price measured by PRICE ELASTICITY of DEMAND",
+      "Only price matters and utility is irrelevant",
+      "Demand always rises with price"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that a RATIONAL CONSUMER aims to MAXIMISE SATISFACTION (UTILITY) from a LIMITED INCOME. This is analysed through two approaches: the CARDINAL (UTILITY) approach — using TOTAL UTILITY and MARGINAL UTILITY, the LAW of DIMINISHING MARGINAL UTILITY, and consumer equilibrium where MU = PRICE (for one good) or where the MARGINAL UTILITY per rupee is EQUAL across goods (the EQUI-MARGINAL principle); and the ORDINAL (INDIFFERENCE CURVE) approach — using INDIFFERENCE CURVES (convex, with a DIMINISHING MRS), the BUDGET LINE, and equilibrium where the budget line is TANGENT to the HIGHEST attainable indifference curve (MRS = PRICE RATIO). From this behaviour arises the LAW of DEMAND — an INVERSE relationship between price and quantity demanded, giving a DOWNWARD-SLOPING DEMAND CURVE — with the curve SHIFTING due to changes in INCOME, TASTES, and the prices of RELATED GOODS (substitutes and complements), and the responsiveness of quantity demanded to price measured by the PRICE ELASTICITY of DEMAND. So the overall message is option 2.",
+    "difficulty": "medium"
+  }
 ]
