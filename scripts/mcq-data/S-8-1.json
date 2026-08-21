@@ -1,52 +1,998 @@
 [
-  {"stem": "Plants of the same kind grown and cultivated at one place on a large scale are called __________.", "options": ["crops", "weeds", "herbs", "shrubs"], "correct_index": 0, "solution": "A crop is the same kind of plant grown and cultivated at one place on a large scale.", "difficulty": "easy"},
-  {"stem": "Crops grown in the rainy (monsoon) season, from June to October, are called __________ crops.", "options": ["kharif", "rabi", "zaid", "cash"], "correct_index": 0, "solution": "Kharif crops (e.g., paddy, maize) are sown in the rainy season, roughly June to October.", "difficulty": "medium"},
-  {"stem": "Crops grown in the winter season, from October to March, are called __________ crops.", "options": ["rabi", "kharif", "zaid", "plantation"], "correct_index": 0, "solution": "Rabi crops (e.g., wheat, gram, mustard) are grown in the winter season, October to March.", "difficulty": "medium"},
-  {"stem": "Which of the following is a kharif crop?", "options": ["Paddy (rice)", "Wheat", "Gram", "Mustard"], "correct_index": 0, "solution": "Paddy is a kharif crop; wheat, gram and mustard are rabi crops.", "difficulty": "medium"},
-  {"stem": "Which of the following is a rabi crop?", "options": ["Wheat", "Paddy", "Maize", "Soybean"], "correct_index": 0, "solution": "Wheat is a rabi (winter) crop; paddy, maize and soybean are kharif crops.", "difficulty": "medium"},
-  {"stem": "The loosening and turning of the soil before sowing is called __________.", "options": ["tilling (ploughing)", "sowing", "harvesting", "threshing"], "correct_index": 0, "solution": "Tilling or ploughing loosens and turns the soil to prepare it for sowing.", "difficulty": "medium"},
-  {"stem": "The tool traditionally used to plough the soil is the __________.", "options": ["plough", "sickle", "winnower", "combine only"], "correct_index": 0, "solution": "A plough (drawn by animals or a tractor) is used to till the soil.", "difficulty": "medium"},
-  {"stem": "The process of putting seeds into the soil is called __________.", "options": ["sowing", "tilling", "manuring", "harvesting"], "correct_index": 0, "solution": "Sowing is placing seeds in the prepared soil.", "difficulty": "easy"},
-  {"stem": "The modern tool used for sowing seeds at proper depth and spacing is the __________.", "options": ["seed drill", "sickle", "plough only", "combine"], "correct_index": 0, "solution": "A seed drill sows seeds uniformly at the correct depth and distance, and is efficient.", "difficulty": "medium"},
-  {"stem": "Before sowing, healthy seeds are often selected by putting them in water; the damaged seeds __________.", "options": ["float and are removed", "sink", "dissolve", "germinate faster"], "correct_index": 0, "solution": "Damaged, hollow seeds float on water and are discarded, keeping only healthy seeds for sowing.", "difficulty": "medium"},
-  {"stem": "Natural substances added to the soil to increase its fertility, obtained from plant/animal wastes, are called __________.", "options": ["manure", "pesticides", "weedicides", "insecticides"], "correct_index": 0, "solution": "Manure is a natural organic substance added to soil to enrich it with nutrients.", "difficulty": "medium"},
-  {"stem": "Chemical substances rich in specific plant nutrients, produced in factories, are called __________.", "options": ["fertilisers", "manure", "weeds", "pesticides"], "correct_index": 0, "solution": "Fertilisers are man-made chemicals rich in nutrients like nitrogen, phosphorus and potassium.", "difficulty": "medium"},
-  {"stem": "Which of the following is an advantage of manure over chemical fertilisers?", "options": ["It improves soil texture and does not harm the environment", "It adds nutrients faster", "It is made in factories", "It contains only one nutrient"], "correct_index": 0, "solution": "Manure improves soil structure and water-holding capacity and is environment-friendly, unlike chemical fertilisers.", "difficulty": "medium"},
-  {"stem": "Growing different crops on a piece of land in alternate seasons to maintain soil fertility is called __________.", "options": ["crop rotation", "monoculture", "harvesting", "threshing"], "correct_index": 0, "solution": "Crop rotation alternates crops (often with legumes) to naturally replenish soil nutrients.", "difficulty": "medium"},
-  {"stem": "Leguminous crops help restore soil fertility because their roots host bacteria that fix __________.", "options": ["nitrogen from the air", "oxygen", "carbon dioxide", "water"], "correct_index": 0, "solution": "Legume roots host Rhizobium bacteria that fix atmospheric nitrogen, enriching the soil.", "difficulty": "medium"},
-  {"stem": "The supply of water to crops at regular intervals is called __________.", "options": ["irrigation", "manuring", "weeding", "harvesting"], "correct_index": 0, "solution": "Irrigation is the supply of water to crops at appropriate intervals.", "difficulty": "easy"},
-  {"stem": "A modern, water-saving method of irrigation that delivers water drop by drop to plant roots is __________.", "options": ["drip irrigation", "flood irrigation", "moat (pulley system)", "chain pump"], "correct_index": 0, "solution": "Drip irrigation delivers water drop by drop directly to roots, saving water.", "difficulty": "medium"},
-  {"stem": "The sprinkler system of irrigation is especially useful __________.", "options": ["on uneven land and where water is scarce", "only in flooded fields", "where there is no water", "only for aquatic plants"], "correct_index": 0, "solution": "Sprinklers spray water like rain and are useful on uneven land and where water is limited.", "difficulty": "medium"},
-  {"stem": "Unwanted plants that grow along with crops and compete for nutrients are called __________.", "options": ["weeds", "seedlings", "manure", "pests"], "correct_index": 0, "solution": "Weeds are undesirable plants that compete with crops for water, nutrients and light.", "difficulty": "medium"},
-  {"stem": "The removal of weeds from a field is called __________.", "options": ["weeding", "sowing", "harvesting", "irrigation"], "correct_index": 0, "solution": "Weeding is the process of removing weeds from crop fields.", "difficulty": "easy"},
-  {"stem": "Chemicals used to kill weeds are called __________.", "options": ["weedicides", "insecticides", "fertilisers", "fungicides"], "correct_index": 0, "solution": "Weedicides (e.g., 2,4-D) are chemicals sprayed to destroy weeds without harming the crop.", "difficulty": "medium"},
-  {"stem": "The cutting and gathering of a mature crop is called __________.", "options": ["harvesting", "sowing", "tilling", "irrigation"], "correct_index": 0, "solution": "Harvesting is the cutting and collecting of the mature crop.", "difficulty": "easy"},
-  {"stem": "The traditional tool used to harvest crops by hand is the __________.", "options": ["sickle", "plough", "seed drill", "hoe"], "correct_index": 0, "solution": "A sickle is a curved blade used to cut and harvest crops manually.", "difficulty": "medium"},
-  {"stem": "The machine that harvests and threshes the crop together is the __________.", "options": ["combine (harvester)", "seed drill", "plough", "sickle"], "correct_index": 0, "solution": "A combine harvester both harvests and threshes the crop in one operation.", "difficulty": "medium"},
-  {"stem": "The process of separating grain seeds from the harvested crop (chaff) is called __________.", "options": ["threshing", "winnowing", "weeding", "sowing"], "correct_index": 0, "solution": "Threshing separates the grain from the stalks and husk of the harvested crop.", "difficulty": "medium"},
-  {"stem": "Separating the grain from the lighter chaff using wind is called __________.", "options": ["winnowing", "threshing", "harvesting", "tilling"], "correct_index": 0, "solution": "Winnowing uses wind to blow away the lighter chaff, separating it from the heavier grain.", "difficulty": "medium"},
-  {"stem": "Grains must be dried before storage to __________.", "options": ["prevent attack by moulds, insects and bacteria", "increase their weight", "make them sprout", "add nutrients"], "correct_index": 0, "solution": "Proper drying removes moisture, preventing spoilage by moulds, insects and microbes during storage.", "difficulty": "medium"},
-  {"stem": "Large-scale storage of grains for the country is done in __________.", "options": ["silos and granaries", "open fields", "rivers", "small jars only"], "correct_index": 0, "solution": "Grains are stored on a large scale in silos and granaries protected from pests and moisture.", "difficulty": "medium"},
-  {"stem": "Farmers store small quantities of grains at home in __________.", "options": ["jute bags and metal bins", "open baskets in rain", "plastic sheets in water", "wet cloth"], "correct_index": 0, "solution": "At home, grains are stored in dry jute bags and metal bins to keep out moisture and pests.", "difficulty": "medium"},
-  {"stem": "Rearing animals on a large scale for food (milk, eggs, meat) is called __________.", "options": ["animal husbandry", "agriculture", "horticulture", "sericulture"], "correct_index": 0, "solution": "Animal husbandry is the rearing and care of animals for food and other products.", "difficulty": "medium"},
-  {"stem": "Which of the following is the correct sequence of agricultural practices?", "options": ["Ploughing → sowing → manuring → irrigation → weeding → harvesting → storage", "Harvesting → sowing → ploughing → storage", "Sowing → harvesting → ploughing → irrigation", "Storage → weeding → sowing → ploughing"], "correct_index": 0, "solution": "Crops are grown by ploughing, sowing, manuring, irrigating, weeding, harvesting, then storing.", "difficulty": "hard"},
-  {"stem": "Ploughing the field before sowing is useful because it __________.", "options": ["loosens the soil, allowing roots to breathe and grow well", "makes the soil hard", "removes all water", "kills the seeds"], "correct_index": 0, "solution": "Ploughing loosens and aerates the soil, helping roots penetrate and absorb nutrients.", "difficulty": "medium"},
-  {"stem": "Which nutrient is provided by nitrogenous fertilisers like urea?", "options": ["Nitrogen", "Carbon", "Oxygen", "Silicon"], "correct_index": 0, "solution": "Urea is a nitrogenous fertiliser that supplies nitrogen for healthy plant growth.", "difficulty": "medium"},
-  {"stem": "Excessive use of chemical fertilisers can __________.", "options": ["reduce soil fertility over time and pollute water", "always improve the soil", "increase groundwater purity", "have no effect"], "correct_index": 0, "solution": "Overuse of chemical fertilisers can degrade soil and cause water pollution when they run off.", "difficulty": "medium"},
-  {"stem": "Vermicompost is a manure prepared using __________.", "options": ["earthworms to decompose organic waste", "chemicals", "plastic", "sand"], "correct_index": 0, "solution": "Vermicompost uses earthworms to break down organic waste into nutrient-rich manure.", "difficulty": "medium"},
-  {"stem": "Water is essential for crops because it __________.", "options": ["helps seeds germinate and transports nutrients within the plant", "kills the plant", "removes all soil", "prevents growth"], "correct_index": 0, "solution": "Water is needed for seed germination and to dissolve and transport nutrients in the plant.", "difficulty": "medium"},
-  {"stem": "Traditional methods of irrigation include the __________.", "options": ["moat (pulley system), chain pump, dhekli and rahat", "drip and sprinkler only", "combine harvester", "seed drill"], "correct_index": 0, "solution": "Traditional irrigation methods include the moat, chain pump, dhekli and rahat, often powered by cattle or humans.", "difficulty": "medium"},
-  {"stem": "Weeds are harmful to crops mainly because they __________.", "options": ["compete for water, nutrients, light and space", "provide food", "protect the crop", "add nutrients"], "correct_index": 0, "solution": "Weeds compete with crops for essential resources, reducing crop yield.", "difficulty": "medium"},
-  {"stem": "The best time to remove weeds is __________.", "options": ["before they flower and produce seeds", "after they spread everywhere", "after harvesting", "never"], "correct_index": 0, "solution": "Weeds are best removed before they flower and set seed, preventing them from multiplying.", "difficulty": "medium"},
-  {"stem": "Which of the following would give the highest yield with the least waste of seeds?", "options": ["Sowing with a seed drill", "Broadcasting seeds by hand randomly", "Throwing seeds in water", "Scattering seeds on rocks"], "correct_index": 0, "solution": "A seed drill sows seeds at correct depth and spacing, reducing waste and improving yield.", "difficulty": "medium"},
-  {"stem": "The main source of most of our food is __________.", "options": ["agriculture (crops) and animal husbandry", "minerals", "plastics", "petroleum"], "correct_index": 0, "solution": "Most human food comes from crops (agriculture) and from animals (animal husbandry).", "difficulty": "easy"},
-  {"stem": "Which of the following practices adds nutrients to the soil?", "options": ["Adding manure and fertilisers", "Continuous cropping without a break", "Removing all plants", "Overwatering only"], "correct_index": 0, "solution": "Adding manure and fertilisers replenishes the nutrients removed by crops.", "difficulty": "medium"},
-  {"stem": "Storage of food grains protects them from __________.", "options": ["insects, rodents, microbes and moisture", "sunlight only", "wind only", "cold only"], "correct_index": 0, "solution": "Proper storage protects grains from pests (insects, rodents), microbes and moisture that spoil them.", "difficulty": "medium"},
-  {"stem": "The green manure practice involves __________.", "options": ["growing certain plants and ploughing them into the soil to enrich it", "spraying weedicides", "burning crops", "removing all plants"], "correct_index": 0, "solution": "Green manure means growing plants (often legumes) and ploughing them back into the soil to add nutrients.", "difficulty": "hard"},
-  {"stem": "Which of the following statements about kharif and rabi crops is correct?", "options": ["Kharif crops need a lot of water and are grown in the rainy season", "Kharif crops are grown in winter", "Rabi crops are grown in the rainy season", "Both are grown only in summer"], "correct_index": 0, "solution": "Kharif crops are grown in the rainy season and need plenty of water; rabi crops are grown in winter.", "difficulty": "medium"},
-  {"stem": "The rearing of honeybees for honey is called __________.", "options": ["apiculture", "sericulture", "pisciculture", "horticulture"], "correct_index": 0, "solution": "Apiculture is the rearing of honeybees to obtain honey and wax.", "difficulty": "hard"},
-  {"stem": "Overgrazing and repeated cropping without replenishing nutrients can lead to __________.", "options": ["loss of soil fertility", "improved yields forever", "richer soil", "more water"], "correct_index": 0, "solution": "Continuous use without replenishment depletes soil nutrients, lowering fertility.", "difficulty": "medium"},
-  {"stem": "Which of the following would you use to spray on crops to kill harmful insects?", "options": ["Insecticides", "Weedicides", "Fertilisers", "Manure"], "correct_index": 0, "solution": "Insecticides are chemicals used to kill insect pests that damage crops.", "difficulty": "medium"},
-  {"stem": "A field left uncultivated for a season to regain fertility is said to be left __________.", "options": ["fallow", "harvested", "sown", "flooded"], "correct_index": 0, "solution": "Leaving land fallow (uncultivated) for a season helps it naturally regain fertility.", "difficulty": "hard"},
-  {"stem": "The overall message of the chapter 'Crop Production and Management' is that:", "options": ["growing crops involves a series of practices — preparing soil, sowing, adding manure/fertilisers, irrigating, weeding, harvesting and storage — to obtain good yields", "crops need no care", "only water is needed for crops", "storage is unimportant"], "correct_index": 0, "solution": "The chapter describes the sequence of agricultural practices needed for good crop production and the importance of proper storage.", "difficulty": "easy"}
+  {
+    "stem": "Plants of the same kind grown and cultivated at one place on a large scale are called __________.",
+    "options": [
+      "crops",
+      "weeds",
+      "herbs",
+      "shrubs"
+    ],
+    "correct_index": 0,
+    "solution": "A crop is the same kind of plant grown and cultivated at one place on a large scale.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Crops grown in the rainy (monsoon) season, from June to October, are called __________ crops.",
+    "options": [
+      "kharif",
+      "rabi",
+      "zaid",
+      "cash"
+    ],
+    "correct_index": 0,
+    "solution": "Kharif crops (e.g., paddy, maize) are sown in the rainy season, roughly June to October.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Crops grown in the winter season, from October to March, are called __________ crops.",
+    "options": [
+      "rabi",
+      "kharif",
+      "zaid",
+      "plantation"
+    ],
+    "correct_index": 0,
+    "solution": "Rabi crops (e.g., wheat, gram, mustard) are grown in the winter season, October to March.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a kharif crop?",
+    "options": [
+      "Paddy (rice)",
+      "Wheat",
+      "Gram",
+      "Mustard"
+    ],
+    "correct_index": 0,
+    "solution": "Paddy is a kharif crop; wheat, gram and mustard are rabi crops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a rabi crop?",
+    "options": [
+      "Wheat",
+      "Paddy",
+      "Maize",
+      "Soybean"
+    ],
+    "correct_index": 0,
+    "solution": "Wheat is a rabi (winter) crop; paddy, maize and soybean are kharif crops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The loosening and turning of the soil before sowing is called __________.",
+    "options": [
+      "tilling (ploughing)",
+      "sowing",
+      "harvesting",
+      "threshing"
+    ],
+    "correct_index": 0,
+    "solution": "Tilling or ploughing loosens and turns the soil to prepare it for sowing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tool traditionally used to plough the soil is the __________.",
+    "options": [
+      "plough",
+      "sickle",
+      "winnower",
+      "combine only"
+    ],
+    "correct_index": 0,
+    "solution": "A plough (drawn by animals or a tractor) is used to till the soil.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The process of putting seeds into the soil is called __________.",
+    "options": [
+      "sowing",
+      "tilling",
+      "manuring",
+      "harvesting"
+    ],
+    "correct_index": 0,
+    "solution": "Sowing is placing seeds in the prepared soil.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The modern tool used for sowing seeds at proper depth and spacing is the __________.",
+    "options": [
+      "seed drill",
+      "sickle",
+      "plough only",
+      "combine"
+    ],
+    "correct_index": 0,
+    "solution": "A seed drill sows seeds uniformly at the correct depth and distance, and is efficient.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Before sowing, healthy seeds are often selected by putting them in water; the damaged seeds __________.",
+    "options": [
+      "float and are removed",
+      "sink",
+      "dissolve",
+      "germinate faster"
+    ],
+    "correct_index": 0,
+    "solution": "Damaged, hollow seeds float on water and are discarded, keeping only healthy seeds for sowing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Natural substances added to the soil to increase its fertility, obtained from plant/animal wastes, are called __________.",
+    "options": [
+      "manure",
+      "pesticides",
+      "weedicides",
+      "insecticides"
+    ],
+    "correct_index": 0,
+    "solution": "Manure is a natural organic substance added to soil to enrich it with nutrients.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Chemical substances rich in specific plant nutrients, produced in factories, are called __________.",
+    "options": [
+      "fertilisers",
+      "manure",
+      "weeds",
+      "pesticides"
+    ],
+    "correct_index": 0,
+    "solution": "Fertilisers are man-made chemicals rich in nutrients like nitrogen, phosphorus and potassium.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an advantage of manure over chemical fertilisers?",
+    "options": [
+      "It improves soil texture and does not harm the environment",
+      "It adds nutrients faster",
+      "It is made in factories",
+      "It contains only one nutrient"
+    ],
+    "correct_index": 0,
+    "solution": "Manure improves soil structure and water-holding capacity and is environment-friendly, unlike chemical fertilisers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Growing different crops on a piece of land in alternate seasons to maintain soil fertility is called __________.",
+    "options": [
+      "crop rotation",
+      "monoculture",
+      "harvesting",
+      "threshing"
+    ],
+    "correct_index": 0,
+    "solution": "Crop rotation alternates crops (often with legumes) to naturally replenish soil nutrients.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Leguminous crops help restore soil fertility because their roots host bacteria that fix __________.",
+    "options": [
+      "nitrogen from the air",
+      "oxygen",
+      "carbon dioxide",
+      "water"
+    ],
+    "correct_index": 0,
+    "solution": "Legume roots host Rhizobium bacteria that fix atmospheric nitrogen, enriching the soil.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The supply of water to crops at regular intervals is called __________.",
+    "options": [
+      "irrigation",
+      "manuring",
+      "weeding",
+      "harvesting"
+    ],
+    "correct_index": 0,
+    "solution": "Irrigation is the supply of water to crops at appropriate intervals.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A modern, water-saving method of irrigation that delivers water drop by drop to plant roots is __________.",
+    "options": [
+      "drip irrigation",
+      "flood irrigation",
+      "moat (pulley system)",
+      "chain pump"
+    ],
+    "correct_index": 0,
+    "solution": "Drip irrigation delivers water drop by drop directly to roots, saving water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sprinkler system of irrigation is especially useful __________.",
+    "options": [
+      "on uneven land and where water is scarce",
+      "only in flooded fields",
+      "where there is no water",
+      "only for aquatic plants"
+    ],
+    "correct_index": 0,
+    "solution": "Sprinklers spray water like rain and are useful on uneven land and where water is limited.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Unwanted plants that grow along with crops and compete for nutrients are called __________.",
+    "options": [
+      "weeds",
+      "seedlings",
+      "manure",
+      "pests"
+    ],
+    "correct_index": 0,
+    "solution": "Weeds are undesirable plants that compete with crops for water, nutrients and light.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The removal of weeds from a field is called __________.",
+    "options": [
+      "weeding",
+      "sowing",
+      "harvesting",
+      "irrigation"
+    ],
+    "correct_index": 0,
+    "solution": "Weeding is the process of removing weeds from crop fields.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Chemicals used to kill weeds are called __________.",
+    "options": [
+      "weedicides",
+      "insecticides",
+      "fertilisers",
+      "fungicides"
+    ],
+    "correct_index": 0,
+    "solution": "Weedicides (e.g., 2,4-D) are chemicals sprayed to destroy weeds without harming the crop.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The cutting and gathering of a mature crop is called __________.",
+    "options": [
+      "harvesting",
+      "sowing",
+      "tilling",
+      "irrigation"
+    ],
+    "correct_index": 0,
+    "solution": "Harvesting is the cutting and collecting of the mature crop.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The traditional tool used to harvest crops by hand is the __________.",
+    "options": [
+      "sickle",
+      "plough",
+      "seed drill",
+      "hoe"
+    ],
+    "correct_index": 0,
+    "solution": "A sickle is a curved blade used to cut and harvest crops manually.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The machine that harvests and threshes the crop together is the __________.",
+    "options": [
+      "combine (harvester)",
+      "seed drill",
+      "plough",
+      "sickle"
+    ],
+    "correct_index": 0,
+    "solution": "A combine harvester both harvests and threshes the crop in one operation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The process of separating grain seeds from the harvested crop (chaff) is called __________.",
+    "options": [
+      "threshing",
+      "winnowing",
+      "weeding",
+      "sowing"
+    ],
+    "correct_index": 0,
+    "solution": "Threshing separates the grain from the stalks and husk of the harvested crop.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Separating the grain from the lighter chaff using wind is called __________.",
+    "options": [
+      "winnowing",
+      "threshing",
+      "harvesting",
+      "tilling"
+    ],
+    "correct_index": 0,
+    "solution": "Winnowing uses wind to blow away the lighter chaff, separating it from the heavier grain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Grains must be dried before storage to __________.",
+    "options": [
+      "prevent attack by moulds, insects and bacteria",
+      "increase their weight",
+      "make them sprout",
+      "add nutrients"
+    ],
+    "correct_index": 0,
+    "solution": "Proper drying removes moisture, preventing spoilage by moulds, insects and microbes during storage.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Large-scale storage of grains for the country is done in __________.",
+    "options": [
+      "silos and granaries",
+      "open fields",
+      "rivers",
+      "small jars only"
+    ],
+    "correct_index": 0,
+    "solution": "Grains are stored on a large scale in silos and granaries protected from pests and moisture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Farmers store small quantities of grains at home in __________.",
+    "options": [
+      "jute bags and metal bins",
+      "open baskets in rain",
+      "plastic sheets in water",
+      "wet cloth"
+    ],
+    "correct_index": 0,
+    "solution": "At home, grains are stored in dry jute bags and metal bins to keep out moisture and pests.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rearing animals on a large scale for food (milk, eggs, meat) is called __________.",
+    "options": [
+      "animal husbandry",
+      "agriculture",
+      "horticulture",
+      "sericulture"
+    ],
+    "correct_index": 0,
+    "solution": "Animal husbandry is the rearing and care of animals for food and other products.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the correct sequence of agricultural practices?",
+    "options": [
+      "Ploughing → sowing → manuring → irrigation → weeding → harvesting → storage",
+      "Harvesting → sowing → ploughing → storage",
+      "Sowing → harvesting → ploughing → irrigation",
+      "Storage → weeding → sowing → ploughing"
+    ],
+    "correct_index": 0,
+    "solution": "Crops are grown by ploughing, sowing, manuring, irrigating, weeding, harvesting, then storing.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Ploughing the field before sowing is useful because it __________.",
+    "options": [
+      "loosens the soil, allowing roots to breathe and grow well",
+      "makes the soil hard",
+      "removes all water",
+      "kills the seeds"
+    ],
+    "correct_index": 0,
+    "solution": "Ploughing loosens and aerates the soil, helping roots penetrate and absorb nutrients.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which nutrient is provided by nitrogenous fertilisers like urea?",
+    "options": [
+      "Nitrogen",
+      "Carbon",
+      "Oxygen",
+      "Silicon"
+    ],
+    "correct_index": 0,
+    "solution": "Urea is a nitrogenous fertiliser that supplies nitrogen for healthy plant growth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Excessive use of chemical fertilisers can __________.",
+    "options": [
+      "reduce soil fertility over time and pollute water",
+      "always improve the soil",
+      "increase groundwater purity",
+      "have no effect"
+    ],
+    "correct_index": 0,
+    "solution": "Overuse of chemical fertilisers can degrade soil and cause water pollution when they run off.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Vermicompost is a manure prepared using __________.",
+    "options": [
+      "earthworms to decompose organic waste",
+      "chemicals",
+      "plastic",
+      "sand"
+    ],
+    "correct_index": 0,
+    "solution": "Vermicompost uses earthworms to break down organic waste into nutrient-rich manure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Water is essential for crops because it __________.",
+    "options": [
+      "helps seeds germinate and transports nutrients within the plant",
+      "kills the plant",
+      "removes all soil",
+      "prevents growth"
+    ],
+    "correct_index": 0,
+    "solution": "Water is needed for seed germination and to dissolve and transport nutrients in the plant.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Traditional methods of irrigation include the __________.",
+    "options": [
+      "moat (pulley system), chain pump, dhekli and rahat",
+      "drip and sprinkler only",
+      "combine harvester",
+      "seed drill"
+    ],
+    "correct_index": 0,
+    "solution": "Traditional irrigation methods include the moat, chain pump, dhekli and rahat, often powered by cattle or humans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Weeds are harmful to crops mainly because they __________.",
+    "options": [
+      "compete for water, nutrients, light and space",
+      "provide food",
+      "protect the crop",
+      "add nutrients"
+    ],
+    "correct_index": 0,
+    "solution": "Weeds compete with crops for essential resources, reducing crop yield.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The best time to remove weeds is __________.",
+    "options": [
+      "before they flower and produce seeds",
+      "after they spread everywhere",
+      "after harvesting",
+      "never"
+    ],
+    "correct_index": 0,
+    "solution": "Weeds are best removed before they flower and set seed, preventing them from multiplying.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following would give the highest yield with the least waste of seeds?",
+    "options": [
+      "Sowing with a seed drill",
+      "Broadcasting seeds by hand randomly",
+      "Throwing seeds in water",
+      "Scattering seeds on rocks"
+    ],
+    "correct_index": 0,
+    "solution": "A seed drill sows seeds at correct depth and spacing, reducing waste and improving yield.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main source of most of our food is __________.",
+    "options": [
+      "agriculture (crops) and animal husbandry",
+      "minerals",
+      "plastics",
+      "petroleum"
+    ],
+    "correct_index": 0,
+    "solution": "Most human food comes from crops (agriculture) and from animals (animal husbandry).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following practices adds nutrients to the soil?",
+    "options": [
+      "Adding manure and fertilisers",
+      "Continuous cropping without a break",
+      "Removing all plants",
+      "Overwatering only"
+    ],
+    "correct_index": 0,
+    "solution": "Adding manure and fertilisers replenishes the nutrients removed by crops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Storage of food grains protects them from __________.",
+    "options": [
+      "insects, rodents, microbes and moisture",
+      "sunlight only",
+      "wind only",
+      "cold only"
+    ],
+    "correct_index": 0,
+    "solution": "Proper storage protects grains from pests (insects, rodents), microbes and moisture that spoil them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The green manure practice involves __________.",
+    "options": [
+      "growing certain plants and ploughing them into the soil to enrich it",
+      "spraying weedicides",
+      "burning crops",
+      "removing all plants"
+    ],
+    "correct_index": 0,
+    "solution": "Green manure means growing plants (often legumes) and ploughing them back into the soil to add nutrients.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following statements about kharif and rabi crops is correct?",
+    "options": [
+      "Kharif crops need a lot of water and are grown in the rainy season",
+      "Kharif crops are grown in winter",
+      "Rabi crops are grown in the rainy season",
+      "Both are grown only in summer"
+    ],
+    "correct_index": 0,
+    "solution": "Kharif crops are grown in the rainy season and need plenty of water; rabi crops are grown in winter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rearing of honeybees for honey is called __________.",
+    "options": [
+      "apiculture",
+      "sericulture",
+      "pisciculture",
+      "horticulture"
+    ],
+    "correct_index": 0,
+    "solution": "Apiculture is the rearing of honeybees to obtain honey and wax.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Overgrazing and repeated cropping without replenishing nutrients can lead to __________.",
+    "options": [
+      "loss of soil fertility",
+      "improved yields forever",
+      "richer soil",
+      "more water"
+    ],
+    "correct_index": 0,
+    "solution": "Continuous use without replenishment depletes soil nutrients, lowering fertility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following would you use to spray on crops to kill harmful insects?",
+    "options": [
+      "Insecticides",
+      "Weedicides",
+      "Fertilisers",
+      "Manure"
+    ],
+    "correct_index": 0,
+    "solution": "Insecticides are chemicals used to kill insect pests that damage crops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A field left uncultivated for a season to regain fertility is said to be left __________.",
+    "options": [
+      "fallow",
+      "harvested",
+      "sown",
+      "flooded"
+    ],
+    "correct_index": 0,
+    "solution": "Leaving land fallow (uncultivated) for a season helps it naturally regain fertility.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall message of the chapter 'Crop Production and Management' is that:",
+    "options": [
+      "growing crops involves a series of practices — preparing soil, sowing, adding manure/fertilisers, irrigating, weeding, harvesting and storage — to obtain good yields",
+      "crops need no care",
+      "only water is needed for crops",
+      "storage is unimportant"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter describes the sequence of agricultural practices needed for good crop production and the importance of proper storage.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Plants of the same kind grown and cultivated at one place on a large scale are called a __________.",
+    "options": [
+      "crop",
+      "forest",
+      "garden",
+      "weed"
+    ],
+    "correct_index": 0,
+    "solution": "A crop is a large-scale cultivation of plants of the same kind at one place.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Crops grown in the rainy (monsoon) season are called __________ crops.",
+    "options": [
+      "kharif",
+      "rabi",
+      "zaid",
+      "cash"
+    ],
+    "correct_index": 0,
+    "solution": "Kharif crops, like rice and maize, are grown in the rainy season.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Crops grown in the winter season are called __________ crops.",
+    "options": [
+      "rabi",
+      "kharif",
+      "zaid",
+      "commercial"
+    ],
+    "correct_index": 0,
+    "solution": "Rabi crops, like wheat and gram, are grown in the winter season.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The loosening and turning of soil before sowing is called __________.",
+    "options": [
+      "ploughing (tilling)",
+      "harvesting",
+      "threshing",
+      "winnowing"
+    ],
+    "correct_index": 0,
+    "solution": "Ploughing loosens and turns the soil to prepare it for sowing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tool traditionally used for ploughing is the __________.",
+    "options": [
+      "plough",
+      "sickle",
+      "sieve",
+      "thresher"
+    ],
+    "correct_index": 0,
+    "solution": "The plough is used for tilling the soil.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The instrument used for sowing seeds efficiently at proper depth is the __________.",
+    "options": [
+      "seed drill",
+      "sickle",
+      "plough only",
+      "harvester"
+    ],
+    "correct_index": 0,
+    "solution": "A seed drill sows seeds uniformly at the right depth and spacing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The modern water-saving method that delivers water drop by drop to roots is __________ irrigation.",
+    "options": [
+      "drip",
+      "flood",
+      "furrow",
+      "sprinkler only"
+    ],
+    "correct_index": 0,
+    "solution": "Drip irrigation delivers water drop by drop directly to plant roots, saving water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Substances added to the soil to increase its fertility are called __________.",
+    "options": [
+      "manure and fertilisers",
+      "pesticides",
+      "weeds",
+      "herbicides"
+    ],
+    "correct_index": 0,
+    "solution": "Manure and fertilisers add nutrients to the soil to improve its fertility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Decomposed organic matter used to enrich the soil is called __________.",
+    "options": [
+      "manure",
+      "urea",
+      "DDT",
+      "gypsum"
+    ],
+    "correct_index": 0,
+    "solution": "Manure is decomposed plant and animal waste that enriches the soil.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Chemical substances rich in a particular nutrient, produced in factories, are called __________.",
+    "options": [
+      "fertilisers",
+      "manure",
+      "compost",
+      "vermicompost"
+    ],
+    "correct_index": 0,
+    "solution": "Fertilisers are factory-made chemicals rich in specific plant nutrients.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Growing different crops on a piece of land in alternate seasons is called crop __________.",
+    "options": [
+      "rotation",
+      "harvesting",
+      "threshing",
+      "storage"
+    ],
+    "correct_index": 0,
+    "solution": "Crop rotation grows different crops alternately to maintain soil fertility.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Leguminous crops help restore soil fertility because their root nodules contain __________ bacteria.",
+    "options": [
+      "nitrogen-fixing",
+      "disease-causing",
+      "decomposing only",
+      "harmful"
+    ],
+    "correct_index": 0,
+    "solution": "Nitrogen-fixing bacteria in legume root nodules enrich the soil with nitrogen.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Unwanted plants that grow along with crops are called __________.",
+    "options": [
+      "weeds",
+      "seeds",
+      "fertilisers",
+      "manure"
+    ],
+    "correct_index": 0,
+    "solution": "Weeds are unwanted plants growing with crops that compete for nutrients.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The cutting of the mature crop is called __________.",
+    "options": [
+      "harvesting",
+      "sowing",
+      "ploughing",
+      "irrigation"
+    ],
+    "correct_index": 0,
+    "solution": "Harvesting is the cutting and gathering of a mature crop.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The tool used to harvest crops manually is the __________.",
+    "options": [
+      "sickle",
+      "plough",
+      "seed drill",
+      "hoe"
+    ],
+    "correct_index": 0,
+    "solution": "A sickle is used to cut crops by hand during harvesting.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The process of separating grain from the harvested crop is called __________.",
+    "options": [
+      "threshing",
+      "winnowing",
+      "weeding",
+      "irrigation"
+    ],
+    "correct_index": 0,
+    "solution": "Threshing separates grain from the cut crop.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A machine that harvests and threshes crops together is a __________.",
+    "options": [
+      "combine harvester",
+      "seed drill",
+      "plough",
+      "tractor only"
+    ],
+    "correct_index": 0,
+    "solution": "A combine harvester both harvests and threshes the crop.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The separation of lighter chaff from heavier grain using wind is called __________.",
+    "options": [
+      "winnowing",
+      "threshing",
+      "weeding",
+      "storage"
+    ],
+    "correct_index": 0,
+    "solution": "Winnowing uses wind to separate lighter chaff from grain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Grains are dried before storage to prevent the growth of __________.",
+    "options": [
+      "microorganisms (moulds)",
+      "roots",
+      "flowers",
+      "weeds"
+    ],
+    "correct_index": 0,
+    "solution": "Drying prevents moulds and microorganisms from spoiling stored grain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Large-scale storage of grains is done in __________.",
+    "options": [
+      "silos and granaries",
+      "open fields",
+      "ponds",
+      "rivers"
+    ],
+    "correct_index": 0,
+    "solution": "Grains are stored in silos and granaries to protect them from pests and moisture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rearing of animals on a large scale for food is called animal __________.",
+    "options": [
+      "husbandry",
+      "irrigation",
+      "rotation",
+      "harvesting"
+    ],
+    "correct_index": 0,
+    "solution": "Animal husbandry is the large-scale rearing of animals for food and other products.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main nutrient supplied by urea fertiliser is __________.",
+    "options": [
+      "nitrogen",
+      "phosphorus",
+      "potassium",
+      "calcium"
+    ],
+    "correct_index": 0,
+    "solution": "Urea is a nitrogenous fertiliser that supplies nitrogen.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Excessive use of chemical fertilisers can __________ the soil over time.",
+    "options": [
+      "harm (reduce fertility of)",
+      "always improve",
+      "cool",
+      "clean"
+    ],
+    "correct_index": 0,
+    "solution": "Overuse of fertilisers can damage soil fertility and cause pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Manure is better than fertilisers for long-term soil health because it improves soil __________.",
+    "options": [
+      "texture and water retention",
+      "colour only",
+      "temperature",
+      "salinity"
+    ],
+    "correct_index": 0,
+    "solution": "Manure improves soil texture, aeration and water-holding capacity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rearing of fish on a large scale is called __________.",
+    "options": [
+      "pisciculture",
+      "apiculture",
+      "sericulture",
+      "horticulture"
+    ],
+    "correct_index": 0,
+    "solution": "Pisciculture is the rearing of fish.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rearing of honeybees for honey is called __________.",
+    "options": [
+      "apiculture",
+      "pisciculture",
+      "sericulture",
+      "agriculture"
+    ],
+    "correct_index": 0,
+    "solution": "Apiculture is the rearing of honeybees.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main source of water for irrigation includes wells, canals and __________.",
+    "options": [
+      "tube wells and rivers",
+      "the atmosphere only",
+      "the sea only",
+      "clouds only"
+    ],
+    "correct_index": 0,
+    "solution": "Wells, tube wells, canals and rivers are common sources of irrigation water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Good quality seeds selected for sowing should be __________.",
+    "options": [
+      "healthy and free from damage",
+      "damaged",
+      "immature",
+      "diseased"
+    ],
+    "correct_index": 0,
+    "solution": "Healthy, undamaged seeds germinate well and give a good crop.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Storing moist grains leads to spoilage mainly by __________.",
+    "options": [
+      "fungi and pests",
+      "sunlight",
+      "wind",
+      "cold"
+    ],
+    "correct_index": 0,
+    "solution": "Moisture encourages fungi and pests, spoiling stored grain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The proper spacing of seeds during sowing prevents overcrowding and __________.",
+    "options": [
+      "competition for nutrients",
+      "flowering",
+      "germination",
+      "growth"
+    ],
+    "correct_index": 0,
+    "solution": "Proper spacing avoids competition among plants for nutrients, water and light.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sprinkler system of irrigation is especially useful in areas with __________.",
+    "options": [
+      "uneven land and less water",
+      "flat land and abundant water",
+      "no soil",
+      "rivers everywhere"
+    ],
+    "correct_index": 0,
+    "solution": "Sprinkler irrigation is useful on uneven land and where water is scarce.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Weeds are harmful because they compete with crops for water, nutrients, space and __________.",
+    "options": [
+      "light",
+      "colour",
+      "temperature",
+      "sound"
+    ],
+    "correct_index": 0,
+    "solution": "Weeds compete with crops for light, water, nutrients and space.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The activities carried out by farmers to grow crops are together called __________ practices.",
+    "options": [
+      "agricultural",
+      "industrial",
+      "commercial",
+      "medical"
+    ],
+    "correct_index": 0,
+    "solution": "The steps from soil preparation to storage are agricultural practices.",
+    "difficulty": "easy"
+  }
 ]
