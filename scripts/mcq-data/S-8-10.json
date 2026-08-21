@@ -1,52 +1,902 @@
 [
-  {"stem": "Sound is produced by __________ objects.", "options": ["vibrating", "coloured", "heavy", "cold"], "correct_index": 0, "solution": "Sound is produced by objects that vibrate (move rapidly to and fro).", "difficulty": "easy"},
-  {"stem": "The rapid to-and-fro motion of an object that produces sound is called __________.", "options": ["vibration", "rotation", "translation", "reflection"], "correct_index": 0, "solution": "Vibration is the rapid back-and-forth motion of an object that produces sound.", "difficulty": "easy"},
-  {"stem": "In humans, sound is produced by the __________.", "options": ["voice box (larynx) with vocal cords", "lungs only", "tongue only", "ears"], "correct_index": 0, "solution": "The voice box (larynx) contains vocal cords whose vibrations produce the human voice.", "difficulty": "medium"},
-  {"stem": "Sound needs a __________ to travel; it cannot travel through a vacuum.", "options": ["medium (solid, liquid or gas)", "vacuum", "light", "magnet"], "correct_index": 0, "solution": "Sound needs a material medium (solid, liquid or gas) to travel and cannot pass through a vacuum.", "difficulty": "medium"},
-  {"stem": "Sound travels fastest in __________.", "options": ["solids", "liquids", "gases", "vacuum"], "correct_index": 0, "solution": "Sound travels fastest in solids, slower in liquids, and slowest in gases, because particles are closest in solids.", "difficulty": "medium"},
-  {"stem": "The part of the human body that detects sound is the __________.", "options": ["ear", "eye", "nose", "tongue"], "correct_index": 0, "solution": "The ear detects sound and helps us hear.", "difficulty": "easy"},
-  {"stem": "The thin membrane in the ear that vibrates when sound falls on it is the __________.", "options": ["eardrum", "cornea", "retina", "cochlea only"], "correct_index": 0, "solution": "The eardrum is a stretched membrane that vibrates when sound reaches it, allowing us to hear.", "difficulty": "medium"},
-  {"stem": "The number of vibrations (oscillations) per second is called the __________.", "options": ["frequency", "amplitude", "wavelength", "speed"], "correct_index": 0, "solution": "Frequency is the number of oscillations per second.", "difficulty": "medium"},
-  {"stem": "The SI unit of frequency is the __________.", "options": ["hertz (Hz)", "metre", "decibel", "second"], "correct_index": 0, "solution": "Frequency is measured in hertz (Hz); one hertz is one oscillation per second.", "difficulty": "medium"},
-  {"stem": "The maximum displacement of a vibrating object from its rest position is called the __________.", "options": ["amplitude", "frequency", "time period", "wavelength"], "correct_index": 0, "solution": "Amplitude is the maximum displacement of the vibrating object from its central (mean) position.", "difficulty": "medium"},
-  {"stem": "The time taken to complete one oscillation is called the __________.", "options": ["time period", "frequency", "amplitude", "loudness"], "correct_index": 0, "solution": "The time period is the time for one complete oscillation; it is the inverse of frequency.", "difficulty": "medium"},
-  {"stem": "The loudness of a sound depends on its __________.", "options": ["amplitude", "frequency", "wavelength", "medium only"], "correct_index": 0, "solution": "The larger the amplitude of vibration, the louder the sound.", "difficulty": "medium"},
-  {"stem": "The pitch (shrillness) of a sound depends on its __________.", "options": ["frequency", "amplitude", "loudness", "medium only"], "correct_index": 0, "solution": "The higher the frequency, the higher (shriller) the pitch of the sound.", "difficulty": "medium"},
-  {"stem": "A sound of high frequency has a __________ pitch.", "options": ["high (shrill)", "low", "no", "soft"], "correct_index": 0, "solution": "High-frequency sounds have a high, shrill pitch (like a whistle); low-frequency sounds are deep.", "difficulty": "medium"},
-  {"stem": "The loudness of sound is measured in units called __________.", "options": ["decibels (dB)", "hertz", "metres", "newtons"], "correct_index": 0, "solution": "Loudness is measured in decibels (dB).", "difficulty": "medium"},
-  {"stem": "Unpleasant or unwanted sound is called __________.", "options": ["noise", "music", "melody", "an echo"], "correct_index": 0, "solution": "Noise is unpleasant, unwanted sound that can be harmful.", "difficulty": "medium"},
-  {"stem": "Pleasant sound, such as that produced by musical instruments, is called __________.", "options": ["music", "noise", "an echo", "vibration"], "correct_index": 0, "solution": "Music is pleasant sound, produced for example by musical instruments.", "difficulty": "medium"},
-  {"stem": "The presence of excessive or unwanted sound in the environment is called __________ pollution.", "options": ["noise", "air", "water", "soil"], "correct_index": 0, "solution": "Noise pollution is the presence of loud, unwanted sound in the environment.", "difficulty": "medium"},
-  {"stem": "Prolonged exposure to loud noise can cause __________.", "options": ["hearing loss and health problems like stress", "better hearing", "improved health", "no effect"], "correct_index": 0, "solution": "Loud noise over long periods can damage hearing and cause stress, headaches and sleeplessness.", "difficulty": "medium"},
-  {"stem": "The range of frequencies that a normal human can hear is about __________.", "options": ["20 Hz to 20,000 Hz", "0 Hz to 10 Hz", "1 Hz to 100 Hz", "50,000 Hz to 100,000 Hz"], "correct_index": 0, "solution": "Humans can hear sounds in the range of about 20 Hz to 20,000 Hz (20 kHz).", "difficulty": "hard"},
-  {"stem": "Sounds of frequency above 20,000 Hz, which humans cannot hear, are called __________.", "options": ["ultrasonic (ultrasound)", "infrasonic", "audible", "musical"], "correct_index": 0, "solution": "Ultrasonic sounds have frequencies above 20 kHz and are inaudible to humans; some animals like dogs and bats can hear them.", "difficulty": "hard"},
-  {"stem": "Sounds of frequency below 20 Hz, which humans cannot hear, are called __________.", "options": ["infrasonic", "ultrasonic", "audible", "loud"], "correct_index": 0, "solution": "Infrasonic sounds are below 20 Hz and are inaudible to humans.", "difficulty": "hard"},
-  {"stem": "Which of the following animals can hear ultrasonic sound?", "options": ["Bats and dogs", "Humans only", "Fish only", "No animal"], "correct_index": 0, "solution": "Animals like bats and dogs can hear ultrasonic sounds beyond the human range.", "difficulty": "medium"},
-  {"stem": "The vocal cords in men are usually __________ than in women, giving men a deeper voice.", "options": ["longer and thicker", "shorter", "thinner", "absent"], "correct_index": 0, "solution": "Men's vocal cords are longer and thicker, producing a lower-pitched (deeper) voice than women's.", "difficulty": "hard"},
-  {"stem": "We hear a sound after the object has vibrated because sound takes __________ to travel to our ears.", "options": ["time (it has a finite speed)", "no time", "light", "electricity"], "correct_index": 0, "solution": "Sound travels at a finite speed, so it takes some time to reach our ears.", "difficulty": "medium"},
-  {"stem": "The loudness of a sound __________ as we move away from the source.", "options": ["decreases", "increases", "stays the same", "becomes infinite"], "correct_index": 0, "solution": "Loudness decreases with distance as the sound energy spreads out.", "difficulty": "medium"},
-  {"stem": "Which of the following would produce a sound of higher pitch?", "options": ["A tightly stretched thin string", "A loose thick string", "A drum", "A large bell"], "correct_index": 0, "solution": "A tighter, thinner string vibrates at a higher frequency, producing a higher pitch.", "difficulty": "medium"},
-  {"stem": "In a sitar or guitar, sound is produced by the vibration of __________.", "options": ["stretched strings", "air columns only", "membranes", "metal rods"], "correct_index": 0, "solution": "Stringed instruments like the sitar and guitar produce sound through vibrating strings.", "difficulty": "medium"},
-  {"stem": "In a flute, sound is produced by the vibration of __________.", "options": ["the air column inside it", "strings", "a stretched membrane", "metal"], "correct_index": 0, "solution": "In wind instruments like the flute, sound is produced by vibrating air columns.", "difficulty": "medium"},
-  {"stem": "In a drum or tabla, sound is produced by the vibration of __________.", "options": ["a stretched membrane", "strings", "an air column only", "a solid rod"], "correct_index": 0, "solution": "Percussion instruments like drums and tabla produce sound by the vibration of a stretched membrane.", "difficulty": "medium"},
-  {"stem": "The measures to reduce noise pollution include __________.", "options": ["planting trees, using silencers and limiting loudspeakers", "using more loudspeakers", "cutting all trees", "increasing horns"], "correct_index": 0, "solution": "Planting trees (which absorb sound), using silencers, and limiting loudspeakers help reduce noise pollution.", "difficulty": "medium"},
-  {"stem": "Trees help control noise pollution because they __________.", "options": ["absorb sound", "increase sound", "produce noise", "reflect all sound"], "correct_index": 0, "solution": "Trees and plants absorb sound, so planting them along roads reduces noise pollution.", "difficulty": "medium"},
-  {"stem": "The speed of sound in air is roughly __________.", "options": ["340 m/s", "3,00,000 km/s", "1 m/s", "10 m/s"], "correct_index": 0, "solution": "Sound travels at about 340 m/s in air (much slower than light).", "difficulty": "hard"},
-  {"stem": "Thunder is heard after lightning is seen because __________.", "options": ["sound travels much slower than light", "sound travels faster than light", "light travels slowly", "thunder comes later"], "correct_index": 0, "solution": "Light travels much faster than sound, so lightning is seen before its thunder is heard.", "difficulty": "medium"},
-  {"stem": "Which of the following statements is TRUE?", "options": ["Sound cannot travel through a vacuum", "Sound travels fastest in vacuum", "Sound needs no medium", "Sound travels only through gases"], "correct_index": 0, "solution": "Sound requires a material medium and cannot travel through a vacuum, unlike light.", "difficulty": "medium"},
-  {"stem": "An astronaut on the Moon cannot hear another speak directly because __________.", "options": ["there is no air (medium) on the Moon to carry sound", "sound is too soft", "the Moon is too cold", "there is too much noise"], "correct_index": 0, "solution": "The Moon has almost no atmosphere, so there is no medium to carry sound, and astronauts use radios instead.", "difficulty": "hard"},
-  {"stem": "A vibrating tuning fork dipped in water splashes the water, showing that it is __________.", "options": ["vibrating", "still", "hot", "magnetic"], "correct_index": 0, "solution": "The splashing shows that the tuning fork is vibrating, which produces the sound.", "difficulty": "medium"},
-  {"stem": "Louder sound is produced by a vibrating body with a __________ amplitude.", "options": ["larger", "smaller", "zero", "negative"], "correct_index": 0, "solution": "A larger amplitude of vibration produces a louder sound.", "difficulty": "medium"},
-  {"stem": "Two sounds of the same loudness but different pitch differ in their __________.", "options": ["frequency", "amplitude", "loudness", "medium"], "correct_index": 0, "solution": "Pitch depends on frequency, so two equally loud sounds of different pitch have different frequencies.", "difficulty": "medium"},
-  {"stem": "A sound above about 80 dB for long periods can be __________.", "options": ["physically harmful to hearing", "always pleasant", "beneficial", "inaudible"], "correct_index": 0, "solution": "Continuous exposure to sounds above about 80 dB can damage hearing and be harmful.", "difficulty": "medium"},
-  {"stem": "Which of the following pairs a musical instrument with the correct source of its sound?", "options": ["Guitar – vibrating strings", "Flute – vibrating strings", "Drum – vibrating air column", "Sitar – vibrating membrane"], "correct_index": 0, "solution": "A guitar produces sound from vibrating strings; a flute uses an air column and a drum a membrane.", "difficulty": "medium"},
-  {"stem": "People who cannot hear well may use a __________.", "options": ["hearing aid", "telescope", "barometer", "magnet"], "correct_index": 0, "solution": "A hearing aid amplifies sound to help people with hearing difficulty.", "difficulty": "medium"},
-  {"stem": "The frequency of a sound determines whether it is __________.", "options": ["shrill (high pitch) or deep (low pitch)", "loud or soft", "fast or slow", "hot or cold"], "correct_index": 0, "solution": "Frequency decides pitch: high frequency gives a shrill sound, low frequency a deep sound.", "difficulty": "medium"},
-  {"stem": "Which of the following would make sound louder without changing its pitch?", "options": ["Striking a drum harder (increasing amplitude)", "Tightening a string", "Using a thinner string", "Increasing the frequency"], "correct_index": 0, "solution": "Striking harder increases amplitude and loudness, without changing the frequency (pitch).", "difficulty": "medium"},
-  {"stem": "A stretched rubber band plucked hard produces a __________ sound than when plucked gently.", "options": ["louder", "softer", "higher-pitched", "no"], "correct_index": 0, "solution": "Plucking harder gives a larger amplitude and thus a louder sound.", "difficulty": "medium"},
-  {"stem": "The human ear can be damaged by __________.", "options": ["very loud sounds and inserting sharp objects", "soft music", "silence", "normal talking"], "correct_index": 0, "solution": "Very loud sounds and inserting sharp objects into the ear can damage the delicate eardrum and hearing.", "difficulty": "medium"},
-  {"stem": "Which medium would carry sound the slowest?", "options": ["Air (a gas)", "Iron (a solid)", "Water (a liquid)", "Steel (a solid)"], "correct_index": 0, "solution": "Sound travels slowest in gases like air, because the particles are far apart.", "difficulty": "medium"},
-  {"stem": "The main difference between noise and music is that music is __________.", "options": ["pleasant and has a regular pattern, while noise is unpleasant", "always louder", "always softer", "made only by machines"], "correct_index": 0, "solution": "Music is pleasant with a regular pattern; noise is unpleasant and irregular.", "difficulty": "medium"},
-  {"stem": "To reduce noise from vehicles, horns should be __________.", "options": ["used less and not blown unnecessarily", "used more", "made louder", "blown continuously"], "correct_index": 0, "solution": "Minimising unnecessary horn use reduces noise pollution.", "difficulty": "easy"},
-  {"stem": "The overall message of the chapter 'Sound' is that:", "options": ["sound is produced by vibrations, needs a medium to travel, and has properties like loudness (amplitude) and pitch (frequency), while excessive noise causes pollution", "sound needs no medium", "all sounds are pleasant", "sound has no measurable properties"], "correct_index": 0, "solution": "The chapter explains that sound is produced by vibrations, travels through a medium, and is characterised by loudness and pitch, and that noise pollution is harmful.", "difficulty": "easy"}
+  {
+    "stem": "Sound is produced by __________ objects.",
+    "options": [
+      "vibrating",
+      "coloured",
+      "heavy",
+      "cold"
+    ],
+    "correct_index": 0,
+    "solution": "Sound is produced by objects that vibrate (move rapidly to and fro).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The rapid to-and-fro motion of an object that produces sound is called __________.",
+    "options": [
+      "vibration",
+      "rotation",
+      "translation",
+      "reflection"
+    ],
+    "correct_index": 0,
+    "solution": "Vibration is the rapid back-and-forth motion of an object that produces sound.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In humans, sound is produced by the __________.",
+    "options": [
+      "voice box (larynx) with vocal cords",
+      "lungs only",
+      "tongue only",
+      "ears"
+    ],
+    "correct_index": 0,
+    "solution": "The voice box (larynx) contains vocal cords whose vibrations produce the human voice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sound needs a __________ to travel; it cannot travel through a vacuum.",
+    "options": [
+      "medium (solid, liquid or gas)",
+      "vacuum",
+      "light",
+      "magnet"
+    ],
+    "correct_index": 0,
+    "solution": "Sound needs a material medium (solid, liquid or gas) to travel and cannot pass through a vacuum.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sound travels fastest in __________.",
+    "options": [
+      "solids",
+      "liquids",
+      "gases",
+      "vacuum"
+    ],
+    "correct_index": 0,
+    "solution": "Sound travels fastest in solids, slower in liquids, and slowest in gases, because particles are closest in solids.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The part of the human body that detects sound is the __________.",
+    "options": [
+      "ear",
+      "eye",
+      "nose",
+      "tongue"
+    ],
+    "correct_index": 0,
+    "solution": "The ear detects sound and helps us hear.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The thin membrane in the ear that vibrates when sound falls on it is the __________.",
+    "options": [
+      "eardrum",
+      "cornea",
+      "retina",
+      "cochlea only"
+    ],
+    "correct_index": 0,
+    "solution": "The eardrum is a stretched membrane that vibrates when sound reaches it, allowing us to hear.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of vibrations (oscillations) per second is called the __________.",
+    "options": [
+      "frequency",
+      "amplitude",
+      "wavelength",
+      "speed"
+    ],
+    "correct_index": 0,
+    "solution": "Frequency is the number of oscillations per second.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The SI unit of frequency is the __________.",
+    "options": [
+      "hertz (Hz)",
+      "metre",
+      "decibel",
+      "second"
+    ],
+    "correct_index": 0,
+    "solution": "Frequency is measured in hertz (Hz); one hertz is one oscillation per second.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The maximum displacement of a vibrating object from its rest position is called the __________.",
+    "options": [
+      "amplitude",
+      "frequency",
+      "time period",
+      "wavelength"
+    ],
+    "correct_index": 0,
+    "solution": "Amplitude is the maximum displacement of the vibrating object from its central (mean) position.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The time taken to complete one oscillation is called the __________.",
+    "options": [
+      "time period",
+      "frequency",
+      "amplitude",
+      "loudness"
+    ],
+    "correct_index": 0,
+    "solution": "The time period is the time for one complete oscillation; it is the inverse of frequency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The loudness of a sound depends on its __________.",
+    "options": [
+      "amplitude",
+      "frequency",
+      "wavelength",
+      "medium only"
+    ],
+    "correct_index": 0,
+    "solution": "The larger the amplitude of vibration, the louder the sound.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The pitch (shrillness) of a sound depends on its __________.",
+    "options": [
+      "frequency",
+      "amplitude",
+      "loudness",
+      "medium only"
+    ],
+    "correct_index": 0,
+    "solution": "The higher the frequency, the higher (shriller) the pitch of the sound.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A sound of high frequency has a __________ pitch.",
+    "options": [
+      "high (shrill)",
+      "low",
+      "no",
+      "soft"
+    ],
+    "correct_index": 0,
+    "solution": "High-frequency sounds have a high, shrill pitch (like a whistle); low-frequency sounds are deep.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The loudness of sound is measured in units called __________.",
+    "options": [
+      "decibels (dB)",
+      "hertz",
+      "metres",
+      "newtons"
+    ],
+    "correct_index": 0,
+    "solution": "Loudness is measured in decibels (dB).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Unpleasant or unwanted sound is called __________.",
+    "options": [
+      "noise",
+      "music",
+      "melody",
+      "an echo"
+    ],
+    "correct_index": 0,
+    "solution": "Noise is unpleasant, unwanted sound that can be harmful.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pleasant sound, such as that produced by musical instruments, is called __________.",
+    "options": [
+      "music",
+      "noise",
+      "an echo",
+      "vibration"
+    ],
+    "correct_index": 0,
+    "solution": "Music is pleasant sound, produced for example by musical instruments.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The presence of excessive or unwanted sound in the environment is called __________ pollution.",
+    "options": [
+      "noise",
+      "air",
+      "water",
+      "soil"
+    ],
+    "correct_index": 0,
+    "solution": "Noise pollution is the presence of loud, unwanted sound in the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Prolonged exposure to loud noise can cause __________.",
+    "options": [
+      "hearing loss and health problems like stress",
+      "better hearing",
+      "improved health",
+      "no effect"
+    ],
+    "correct_index": 0,
+    "solution": "Loud noise over long periods can damage hearing and cause stress, headaches and sleeplessness.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The range of frequencies that a normal human can hear is about __________.",
+    "options": [
+      "20 Hz to 20,000 Hz",
+      "0 Hz to 10 Hz",
+      "1 Hz to 100 Hz",
+      "50,000 Hz to 100,000 Hz"
+    ],
+    "correct_index": 0,
+    "solution": "Humans can hear sounds in the range of about 20 Hz to 20,000 Hz (20 kHz).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sounds of frequency above 20,000 Hz, which humans cannot hear, are called __________.",
+    "options": [
+      "ultrasonic (ultrasound)",
+      "infrasonic",
+      "audible",
+      "musical"
+    ],
+    "correct_index": 0,
+    "solution": "Ultrasonic sounds have frequencies above 20 kHz and are inaudible to humans; some animals like dogs and bats can hear them.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sounds of frequency below 20 Hz, which humans cannot hear, are called __________.",
+    "options": [
+      "infrasonic",
+      "ultrasonic",
+      "audible",
+      "loud"
+    ],
+    "correct_index": 0,
+    "solution": "Infrasonic sounds are below 20 Hz and are inaudible to humans.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following animals can hear ultrasonic sound?",
+    "options": [
+      "Bats and dogs",
+      "Humans only",
+      "Fish only",
+      "No animal"
+    ],
+    "correct_index": 0,
+    "solution": "Animals like bats and dogs can hear ultrasonic sounds beyond the human range.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The vocal cords in men are usually __________ than in women, giving men a deeper voice.",
+    "options": [
+      "longer and thicker",
+      "shorter",
+      "thinner",
+      "absent"
+    ],
+    "correct_index": 0,
+    "solution": "Men's vocal cords are longer and thicker, producing a lower-pitched (deeper) voice than women's.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "We hear a sound after the object has vibrated because sound takes __________ to travel to our ears.",
+    "options": [
+      "time (it has a finite speed)",
+      "no time",
+      "light",
+      "electricity"
+    ],
+    "correct_index": 0,
+    "solution": "Sound travels at a finite speed, so it takes some time to reach our ears.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The loudness of a sound __________ as we move away from the source.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "becomes infinite"
+    ],
+    "correct_index": 0,
+    "solution": "Loudness decreases with distance as the sound energy spreads out.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following would produce a sound of higher pitch?",
+    "options": [
+      "A tightly stretched thin string",
+      "A loose thick string",
+      "A drum",
+      "A large bell"
+    ],
+    "correct_index": 0,
+    "solution": "A tighter, thinner string vibrates at a higher frequency, producing a higher pitch.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a sitar or guitar, sound is produced by the vibration of __________.",
+    "options": [
+      "stretched strings",
+      "air columns only",
+      "membranes",
+      "metal rods"
+    ],
+    "correct_index": 0,
+    "solution": "Stringed instruments like the sitar and guitar produce sound through vibrating strings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a flute, sound is produced by the vibration of __________.",
+    "options": [
+      "the air column inside it",
+      "strings",
+      "a stretched membrane",
+      "metal"
+    ],
+    "correct_index": 0,
+    "solution": "In wind instruments like the flute, sound is produced by vibrating air columns.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a drum or tabla, sound is produced by the vibration of __________.",
+    "options": [
+      "a stretched membrane",
+      "strings",
+      "an air column only",
+      "a solid rod"
+    ],
+    "correct_index": 0,
+    "solution": "Percussion instruments like drums and tabla produce sound by the vibration of a stretched membrane.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The measures to reduce noise pollution include __________.",
+    "options": [
+      "planting trees, using silencers and limiting loudspeakers",
+      "using more loudspeakers",
+      "cutting all trees",
+      "increasing horns"
+    ],
+    "correct_index": 0,
+    "solution": "Planting trees (which absorb sound), using silencers, and limiting loudspeakers help reduce noise pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Trees help control noise pollution because they __________.",
+    "options": [
+      "absorb sound",
+      "increase sound",
+      "produce noise",
+      "reflect all sound"
+    ],
+    "correct_index": 0,
+    "solution": "Trees and plants absorb sound, so planting them along roads reduces noise pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The speed of sound in air is roughly __________.",
+    "options": [
+      "340 m/s",
+      "3,00,000 km/s",
+      "1 m/s",
+      "10 m/s"
+    ],
+    "correct_index": 0,
+    "solution": "Sound travels at about 340 m/s in air (much slower than light).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Thunder is heard after lightning is seen because __________.",
+    "options": [
+      "sound travels much slower than light",
+      "sound travels faster than light",
+      "light travels slowly",
+      "thunder comes later"
+    ],
+    "correct_index": 0,
+    "solution": "Light travels much faster than sound, so lightning is seen before its thunder is heard.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements is TRUE?",
+    "options": [
+      "Sound cannot travel through a vacuum",
+      "Sound travels fastest in vacuum",
+      "Sound needs no medium",
+      "Sound travels only through gases"
+    ],
+    "correct_index": 0,
+    "solution": "Sound requires a material medium and cannot travel through a vacuum, unlike light.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An astronaut on the Moon cannot hear another speak directly because __________.",
+    "options": [
+      "there is no air (medium) on the Moon to carry sound",
+      "sound is too soft",
+      "the Moon is too cold",
+      "there is too much noise"
+    ],
+    "correct_index": 0,
+    "solution": "The Moon has almost no atmosphere, so there is no medium to carry sound, and astronauts use radios instead.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A vibrating tuning fork dipped in water splashes the water, showing that it is __________.",
+    "options": [
+      "vibrating",
+      "still",
+      "hot",
+      "magnetic"
+    ],
+    "correct_index": 0,
+    "solution": "The splashing shows that the tuning fork is vibrating, which produces the sound.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Louder sound is produced by a vibrating body with a __________ amplitude.",
+    "options": [
+      "larger",
+      "smaller",
+      "zero",
+      "negative"
+    ],
+    "correct_index": 0,
+    "solution": "A larger amplitude of vibration produces a louder sound.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two sounds of the same loudness but different pitch differ in their __________.",
+    "options": [
+      "frequency",
+      "amplitude",
+      "loudness",
+      "medium"
+    ],
+    "correct_index": 0,
+    "solution": "Pitch depends on frequency, so two equally loud sounds of different pitch have different frequencies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A sound above about 80 dB for long periods can be __________.",
+    "options": [
+      "physically harmful to hearing",
+      "always pleasant",
+      "beneficial",
+      "inaudible"
+    ],
+    "correct_index": 0,
+    "solution": "Continuous exposure to sounds above about 80 dB can damage hearing and be harmful.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs a musical instrument with the correct source of its sound?",
+    "options": [
+      "Guitar – vibrating strings",
+      "Flute – vibrating strings",
+      "Drum – vibrating air column",
+      "Sitar – vibrating membrane"
+    ],
+    "correct_index": 0,
+    "solution": "A guitar produces sound from vibrating strings; a flute uses an air column and a drum a membrane.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "People who cannot hear well may use a __________.",
+    "options": [
+      "hearing aid",
+      "telescope",
+      "barometer",
+      "magnet"
+    ],
+    "correct_index": 0,
+    "solution": "A hearing aid amplifies sound to help people with hearing difficulty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The frequency of a sound determines whether it is __________.",
+    "options": [
+      "shrill (high pitch) or deep (low pitch)",
+      "loud or soft",
+      "fast or slow",
+      "hot or cold"
+    ],
+    "correct_index": 0,
+    "solution": "Frequency decides pitch: high frequency gives a shrill sound, low frequency a deep sound.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following would make sound louder without changing its pitch?",
+    "options": [
+      "Striking a drum harder (increasing amplitude)",
+      "Tightening a string",
+      "Using a thinner string",
+      "Increasing the frequency"
+    ],
+    "correct_index": 0,
+    "solution": "Striking harder increases amplitude and loudness, without changing the frequency (pitch).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A stretched rubber band plucked hard produces a __________ sound than when plucked gently.",
+    "options": [
+      "louder",
+      "softer",
+      "higher-pitched",
+      "no"
+    ],
+    "correct_index": 0,
+    "solution": "Plucking harder gives a larger amplitude and thus a louder sound.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The human ear can be damaged by __________.",
+    "options": [
+      "very loud sounds and inserting sharp objects",
+      "soft music",
+      "silence",
+      "normal talking"
+    ],
+    "correct_index": 0,
+    "solution": "Very loud sounds and inserting sharp objects into the ear can damage the delicate eardrum and hearing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which medium would carry sound the slowest?",
+    "options": [
+      "Air (a gas)",
+      "Iron (a solid)",
+      "Water (a liquid)",
+      "Steel (a solid)"
+    ],
+    "correct_index": 0,
+    "solution": "Sound travels slowest in gases like air, because the particles are far apart.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main difference between noise and music is that music is __________.",
+    "options": [
+      "pleasant and has a regular pattern, while noise is unpleasant",
+      "always louder",
+      "always softer",
+      "made only by machines"
+    ],
+    "correct_index": 0,
+    "solution": "Music is pleasant with a regular pattern; noise is unpleasant and irregular.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "To reduce noise from vehicles, horns should be __________.",
+    "options": [
+      "used less and not blown unnecessarily",
+      "used more",
+      "made louder",
+      "blown continuously"
+    ],
+    "correct_index": 0,
+    "solution": "Minimising unnecessary horn use reduces noise pollution.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall message of the chapter 'Sound' is that:",
+    "options": [
+      "sound is produced by vibrations, needs a medium to travel, and has properties like loudness (amplitude) and pitch (frequency), while excessive noise causes pollution",
+      "sound needs no medium",
+      "all sounds are pleasant",
+      "sound has no measurable properties"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains that sound is produced by vibrations, travels through a medium, and is characterised by loudness and pitch, and that noise pollution is harmful.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Sound is produced by a __________ object.",
+    "options": [
+      "vibrating",
+      "coloured",
+      "hot",
+      "stationary"
+    ],
+    "correct_index": 0,
+    "solution": "Sound is produced by vibrating objects.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Sound needs a __________ to travel from one place to another.",
+    "options": [
+      "material medium",
+      "vacuum",
+      "magnet",
+      "light source"
+    ],
+    "correct_index": 0,
+    "solution": "Sound needs a material medium (solid, liquid or gas) to travel.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Sound cannot travel through a __________.",
+    "options": [
+      "vacuum",
+      "solid",
+      "liquid",
+      "gas"
+    ],
+    "correct_index": 0,
+    "solution": "Sound cannot travel through a vacuum, as there are no particles to vibrate.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The part of the ear that vibrates when sound falls on it is the __________.",
+    "options": [
+      "eardrum",
+      "cochlea",
+      "pinna",
+      "hammer"
+    ],
+    "correct_index": 0,
+    "solution": "The eardrum vibrates when sound waves reach it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of vibrations per second is called the __________.",
+    "options": [
+      "frequency",
+      "amplitude",
+      "wavelength",
+      "speed"
+    ],
+    "correct_index": 0,
+    "solution": "Frequency is the number of vibrations per second.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The maximum displacement of a vibrating object from its central position is the __________.",
+    "options": [
+      "amplitude",
+      "frequency",
+      "wavelength",
+      "time period"
+    ],
+    "correct_index": 0,
+    "solution": "Amplitude is the maximum displacement from the mean position.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The pitch or shrillness of a sound depends on its __________.",
+    "options": [
+      "frequency",
+      "amplitude",
+      "speed",
+      "wavelength only"
+    ],
+    "correct_index": 0,
+    "solution": "Higher frequency gives a higher pitch (shriller sound).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The time taken for one complete vibration is called the __________.",
+    "options": [
+      "time period",
+      "frequency",
+      "amplitude",
+      "wavelength"
+    ],
+    "correct_index": 0,
+    "solution": "The time period is the time for one complete oscillation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Loudness of sound is measured in __________.",
+    "options": [
+      "decibels",
+      "hertz",
+      "metres",
+      "newtons"
+    ],
+    "correct_index": 0,
+    "solution": "Loudness is measured in decibels (dB).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The range of frequencies that humans can hear is about __________.",
+    "options": [
+      "20 Hz to 20,000 Hz",
+      "0 to 100 Hz",
+      "20,000 to 40,000 Hz",
+      "1 to 5 Hz"
+    ],
+    "correct_index": 0,
+    "solution": "Humans hear sounds between about 20 Hz and 20,000 Hz.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sounds of frequency above 20,000 Hz are called __________.",
+    "options": [
+      "ultrasonic (ultrasound)",
+      "infrasonic",
+      "audible",
+      "noise"
+    ],
+    "correct_index": 0,
+    "solution": "Ultrasonic sounds are above 20,000 Hz, beyond human hearing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sounds of frequency below 20 Hz are called __________.",
+    "options": [
+      "infrasonic (infrasound)",
+      "ultrasonic",
+      "audible",
+      "loud"
+    ],
+    "correct_index": 0,
+    "solution": "Infrasonic sounds are below 20 Hz, inaudible to humans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Unpleasant sounds that are undesirable are called __________.",
+    "options": [
+      "noise",
+      "music",
+      "melody",
+      "pitch"
+    ],
+    "correct_index": 0,
+    "solution": "Noise consists of unpleasant, unwanted sounds.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Pleasant sounds that are agreeable to the ear are called __________.",
+    "options": [
+      "music",
+      "noise",
+      "echo",
+      "static"
+    ],
+    "correct_index": 0,
+    "solution": "Music consists of pleasant, agreeable sounds.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The presence of excessive or unpleasant sound in the environment is called __________ pollution.",
+    "options": [
+      "noise",
+      "air",
+      "water",
+      "soil"
+    ],
+    "correct_index": 0,
+    "solution": "Noise pollution is the presence of excessive, unwanted sound in the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Planting trees along roadsides helps to __________ noise pollution.",
+    "options": [
+      "reduce",
+      "increase",
+      "produce",
+      "reflect fully"
+    ],
+    "correct_index": 0,
+    "solution": "Trees absorb sound, helping to reduce noise pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The vibrating part of a sitar or guitar that produces sound is the __________.",
+    "options": [
+      "string",
+      "handle",
+      "body colour",
+      "case"
+    ],
+    "correct_index": 0,
+    "solution": "The vibrating strings of a sitar or guitar produce sound.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The vibrating part of a drum or tabla is the __________.",
+    "options": [
+      "stretched membrane",
+      "wooden frame",
+      "handle",
+      "colour"
+    ],
+    "correct_index": 0,
+    "solution": "The stretched membrane of a drum vibrates to produce sound.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A person with hearing impairment can be helped with a __________.",
+    "options": [
+      "hearing aid",
+      "spectacle",
+      "microscope",
+      "telescope"
+    ],
+    "correct_index": 0,
+    "solution": "A hearing aid amplifies sound to help people with hearing impairment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The larger the amplitude of vibration, the __________ the sound.",
+    "options": [
+      "louder",
+      "softer",
+      "shriller",
+      "lower-pitched"
+    ],
+    "correct_index": 0,
+    "solution": "Larger amplitude means a louder sound.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The higher the frequency of vibration, the __________ the pitch.",
+    "options": [
+      "higher",
+      "lower",
+      "softer",
+      "louder"
+    ],
+    "correct_index": 0,
+    "solution": "Higher frequency corresponds to higher pitch.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Male voices generally have a __________ pitch than female voices.",
+    "options": [
+      "lower",
+      "higher",
+      "the same",
+      "no"
+    ],
+    "correct_index": 0,
+    "solution": "Male voices usually have lower frequency and hence lower pitch than female voices.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "We hear the sound of thunder after seeing lightning because sound travels __________ than light.",
+    "options": [
+      "slower",
+      "faster",
+      "at the same speed",
+      "backwards"
+    ],
+    "correct_index": 0,
+    "solution": "Light reaches us almost instantly while sound is much slower, so thunder is heard later.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The vibration of an object is felt when we touch a __________ speaker or a struck tuning fork.",
+    "options": [
+      "sounding",
+      "silent",
+      "cold",
+      "coloured"
+    ],
+    "correct_index": 0,
+    "solution": "A sounding speaker or a struck tuning fork can be felt vibrating.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The eardrum sends sound vibrations to the __________, which passes signals to the brain.",
+    "options": [
+      "inner ear (cochlea and auditory nerve)",
+      "nose",
+      "eye",
+      "tongue"
+    ],
+    "correct_index": 0,
+    "solution": "Vibrations pass through the middle ear to the cochlea, and the auditory nerve carries signals to the brain.",
+    "difficulty": "hard"
+  }
 ]
