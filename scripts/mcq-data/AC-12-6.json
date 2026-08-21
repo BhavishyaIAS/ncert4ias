@@ -1,52 +1,782 @@
 [
-  {"stem": "The Bengal School of Art is regarded as the first major __________ art movement in modern India.", "options": ["nationalist", "European academic", "abstract", "folk"], "correct_index": 0, "solution": "The Bengal School was the first major nationalist art movement in modern India.", "difficulty": "medium"},
-  {"stem": "The founder and leading figure of the Bengal School was __________.", "options": ["Abanindranath Tagore", "Raja Ravi Varma", "M. F. Husain", "Jamini Roy"], "correct_index": 0, "solution": "Abanindranath Tagore founded and led the Bengal School.", "difficulty": "medium"},
-  {"stem": "The British art administrator who supported the Bengal School and Indian art was __________.", "options": ["E. B. Havell", "Lord Curzon", "Warren Hastings", "Robert Clive"], "correct_index": 0, "solution": "E. B. Havell, principal of the Calcutta School of Art, promoted Indian art traditions.", "difficulty": "hard"},
-  {"stem": "The Bengal School reacted against the dominance of __________ art in India.", "options": ["Western academic (European) realism", "Mughal miniature", "folk art", "temple sculpture"], "correct_index": 0, "solution": "The Bengal School reacted against the imposed Western academic style.", "difficulty": "medium"},
-  {"stem": "A famous painting by Abanindranath Tagore that became a nationalist icon is __________.", "options": ["Bharat Mata", "The Hamzanama", "Bani Thani", "Shakuntala"], "correct_index": 0, "solution": "Abanindranath Tagore's 'Bharat Mata' became a nationalist icon.", "difficulty": "hard"},
-  {"stem": "The painting technique associated with the Bengal School is the __________ technique.", "options": ["wash", "impasto oil", "fresco", "pietra dura"], "correct_index": 0, "solution": "The Bengal School is known for the delicate 'wash' technique.", "difficulty": "hard"},
-  {"stem": "The Bengal School drew inspiration from Indian traditions such as __________.", "options": ["Ajanta murals and Mughal-Rajput miniatures", "Greek sculpture", "Roman architecture", "European oil painting"], "correct_index": 0, "solution": "The Bengal School revived inspiration from Ajanta murals and Indian miniatures.", "difficulty": "hard"},
-  {"stem": "The Bengal School was closely linked with the __________ movement.", "options": ["Swadeshi (nationalist)", "Industrial Revolution", "Renaissance", "Reformation"], "correct_index": 0, "solution": "The Bengal School was closely tied to the Swadeshi nationalist movement.", "difficulty": "medium"},
-  {"stem": "A leading Bengal School artist, a student of Abanindranath, was __________.", "options": ["Nandalal Bose", "Raja Ravi Varma", "F. N. Souza", "S. H. Raza"], "correct_index": 0, "solution": "Nandalal Bose was a leading disciple of Abanindranath Tagore.", "difficulty": "hard"},
-  {"stem": "Nandalal Bose is also known for illustrating the __________.", "options": ["original manuscript of the Indian Constitution", "Baburnama", "Padshahnama", "Gita Govinda"], "correct_index": 0, "solution": "Nandalal Bose illustrated the original manuscript of the Constitution of India.", "difficulty": "hard"},
-  {"stem": "The Bengal School artists often chose themes from __________.", "options": ["Indian myth, history and literature", "European history", "industrial machinery", "abstract geometry"], "correct_index": 0, "solution": "Bengal School themes came from Indian myth, history and literature.", "difficulty": "medium"},
-  {"stem": "The Japanese artists who influenced the Bengal School's wash technique visited India at the invitation of __________.", "options": ["the Tagore circle (Okakura's link)", "the British government", "the Mughals", "the Marathas"], "correct_index": 0, "solution": "Japanese artists (linked to Okakura) influenced the wash technique through the Tagore circle.", "difficulty": "hard"},
-  {"stem": "The Bengal School was centred at __________.", "options": ["Calcutta (Kolkata)", "Delhi", "Mumbai", "Chennai"], "correct_index": 0, "solution": "The Bengal School was centred at Calcutta.", "difficulty": "medium"},
-  {"stem": "The Bengal School aimed to create a distinctly __________ modern art.", "options": ["Indian", "European", "Japanese", "American"], "correct_index": 0, "solution": "The Bengal School aimed to create a distinctly Indian modern art.", "difficulty": "medium"},
-  {"stem": "The soft, atmospheric quality of Bengal School paintings comes from the __________.", "options": ["wash technique with subtle tones", "bold oil colours", "flat poster colours", "stone carving"], "correct_index": 0, "solution": "The wash technique gives Bengal School works their soft, atmospheric quality.", "difficulty": "hard"},
-  {"stem": "'Bharat Mata' by Abanindranath depicts the nation as a __________ figure.", "options": ["serene four-armed goddess-like", "warrior queen", "European lady", "farmer"], "correct_index": 0, "solution": "'Bharat Mata' shows the nation as a serene, four-armed, goddess-like figure.", "difficulty": "hard"},
-  {"stem": "The four objects held by Bharat Mata symbolise __________.", "options": ["food, clothing, learning and spiritual salvation", "weapons", "coins", "the four Vedas only"], "correct_index": 0, "solution": "Bharat Mata holds symbols of food (anna), clothing (vastra), learning (shiksha) and salvation (diksha).", "difficulty": "hard"},
-  {"stem": "The Bengal School promoted the idea that art should express the __________ of the nation.", "options": ["spirit and identity", "military power", "trade", "European taste"], "correct_index": 0, "solution": "The Bengal School held that art should express the nation's spirit and identity.", "difficulty": "medium"},
-  {"stem": "The Bengal School flourished mainly in the __________.", "options": ["early 20th century", "16th century", "18th century", "21st century"], "correct_index": 0, "solution": "The Bengal School flourished in the early 20th century.", "difficulty": "medium"},
-  {"stem": "The Bengal School artists rejected the __________ perspective and oil realism of academic art.", "options": ["European single-point", "Indian flattened", "aerial", "reverse"], "correct_index": 0, "solution": "They rejected European single-point perspective and oil realism.", "difficulty": "hard"},
-  {"stem": "A famous painting by Abanindranath Tagore on a literary theme is __________.", "options": ["The Passing of Shah Jahan", "Bani Thani", "The Hamzanama", "Nataraja"], "correct_index": 0, "solution": "'The Passing of Shah Jahan' is a celebrated Abanindranath Tagore painting.", "difficulty": "hard"},
-  {"stem": "The Bengal School's revival of Indian tradition was part of a broader __________ awakening.", "options": ["cultural nationalist", "industrial", "scientific", "European"], "correct_index": 0, "solution": "It was part of a broader cultural nationalist awakening.", "difficulty": "medium"},
-  {"stem": "The art school where the Bengal movement developed was the __________.", "options": ["Government School of Art, Calcutta", "J. J. School of Art, Bombay", "Madras School of Art", "Shantiniketan only"], "correct_index": 0, "solution": "The movement developed at the Government School of Art in Calcutta.", "difficulty": "hard"},
-  {"stem": "Later, many Bengal School ideals were carried forward at __________, founded by Rabindranath Tagore.", "options": ["Santiniketan (Kala Bhavana)", "the J. J. School", "the Calcutta Art Studio", "the Delhi College of Art"], "correct_index": 0, "solution": "Santiniketan's Kala Bhavana, under Rabindranath Tagore, carried forward these ideals.", "difficulty": "hard"},
-  {"stem": "The Bengal School's influence spread across India through __________.", "options": ["teachers and students who taught elsewhere", "the British government", "trade fairs", "the army"], "correct_index": 0, "solution": "The movement spread through its teachers and students who taught in other regions.", "difficulty": "medium"},
-  {"stem": "The Bengal School emphasised __________ over the realism of academic art.", "options": ["mood, spirituality and line", "photographic accuracy", "industrial subjects", "abstract geometry"], "correct_index": 0, "solution": "The Bengal School emphasised mood, spirituality and expressive line.", "difficulty": "medium"},
-  {"stem": "The Bengal School is important because it linked __________ with the freedom struggle.", "options": ["art", "trade", "science", "sport"], "correct_index": 0, "solution": "The Bengal School linked art with the national freedom struggle.", "difficulty": "medium"},
-  {"stem": "The Bengal School used themes from the __________ epics and Buddhist stories.", "options": ["Indian", "Greek", "Roman", "Persian"], "correct_index": 0, "solution": "The Bengal School drew on Indian epics and Buddhist stories.", "difficulty": "medium"},
-  {"stem": "The Bengal School artists preferred __________ and tempera to heavy oil painting.", "options": ["watercolour wash", "acrylic", "enamel", "spray paint"], "correct_index": 0, "solution": "They preferred watercolour wash and tempera to heavy Western oil painting.", "difficulty": "hard"},
-  {"stem": "Abanindranath Tagore was the nephew of the poet __________.", "options": ["Rabindranath Tagore", "Bankim Chandra", "Sarojini Naidu", "Subramania Bharati"], "correct_index": 0, "solution": "Abanindranath Tagore was the nephew of Rabindranath Tagore.", "difficulty": "hard"},
-  {"stem": "The Bengal School's rejection of Western realism was also a rejection of __________.", "options": ["colonial cultural domination", "Indian tradition", "religion", "trade"], "correct_index": 0, "solution": "Rejecting Western realism was a rejection of colonial cultural domination.", "difficulty": "medium"},
-  {"stem": "The Bengal School is credited with beginning __________ in India.", "options": ["modern Indian art with a national identity", "abstract art", "folk art", "temple art"], "correct_index": 0, "solution": "The Bengal School began modern Indian art rooted in national identity.", "difficulty": "medium"},
-  {"stem": "The delicate, muted tones of the Bengal School evoke a sense of __________.", "options": ["poetic nostalgia and spirituality", "industrial power", "scientific precision", "military strength"], "correct_index": 0, "solution": "The muted tones evoke poetic nostalgia and spirituality.", "difficulty": "medium"},
-  {"stem": "The Bengal School artists were inspired to study and revive __________.", "options": ["India's own artistic heritage", "European academies", "Japanese trade", "Roman law"], "correct_index": 0, "solution": "They sought to study and revive India's own artistic heritage.", "difficulty": "medium"},
-  {"stem": "The Bengal School's emphasis on Indian identity influenced later __________ movements.", "options": ["modernist Indian art", "European abstract", "Chinese scroll", "Roman"], "correct_index": 0, "solution": "It influenced later modernist Indian art movements.", "difficulty": "medium"},
-  {"stem": "The revival of interest in the __________ murals was part of the Bengal School's programme.", "options": ["Ajanta", "Roman", "Renaissance", "Egyptian"], "correct_index": 0, "solution": "Reviving interest in the Ajanta murals was central to the Bengal School's programme.", "difficulty": "hard"},
-  {"stem": "The Bengal School painting typically has a __________ mood.", "options": ["dreamy and contemplative", "aggressive", "commercial", "comic"], "correct_index": 0, "solution": "Bengal School paintings typically have a dreamy, contemplative mood.", "difficulty": "medium"},
-  {"stem": "The Bengal School is significant in the history of India's __________.", "options": ["cultural nationalism", "industrialisation", "trade policy", "military"], "correct_index": 0, "solution": "The Bengal School is significant in the history of India's cultural nationalism.", "difficulty": "medium"},
-  {"stem": "Nandalal Bose designed the emblems and artwork for the __________ session and later state occasions.", "options": ["Indian National Congress (Haripura)", "British Parliament", "United Nations", "Mughal court"], "correct_index": 0, "solution": "Nandalal Bose created the famous Haripura Congress posters and later national artwork.", "difficulty": "hard"},
-  {"stem": "The Bengal School wash technique involves applying __________ layers of colour.", "options": ["thin, transparent", "thick opaque", "metallic", "sand-textured"], "correct_index": 0, "solution": "The wash technique builds up thin, transparent layers of colour.", "difficulty": "hard"},
-  {"stem": "The Bengal School valued __________ inspiration in art.", "options": ["Indian spiritual and cultural", "European industrial", "American commercial", "military"], "correct_index": 0, "solution": "The Bengal School valued Indian spiritual and cultural inspiration.", "difficulty": "medium"},
-  {"stem": "The Bengal School artists sought to make art an expression of __________.", "options": ["national pride and Indian values", "European taste", "personal wealth", "scientific data"], "correct_index": 0, "solution": "They sought to make art an expression of national pride and Indian values.", "difficulty": "medium"},
-  {"stem": "The Bengal School is considered the __________ of modern Indian painting.", "options": ["starting point", "end", "unrelated branch", "foreign copy"], "correct_index": 0, "solution": "The Bengal School is considered the starting point of modern Indian painting.", "difficulty": "medium"},
-  {"stem": "The Bengal School's opposition to academic realism helped free Indian artists to __________.", "options": ["explore their own idioms", "copy Europe", "stop painting", "only paint portraits"], "correct_index": 0, "solution": "It freed Indian artists to explore their own artistic idioms.", "difficulty": "medium"},
-  {"stem": "The Bengal School flourished during the period of the __________ movement against the partition of Bengal.", "options": ["Swadeshi", "Non-Cooperation only", "Quit India", "Khilafat"], "correct_index": 0, "solution": "It flourished during the Swadeshi movement against the 1905 partition of Bengal.", "difficulty": "hard"},
-  {"stem": "The Bengal School combined nationalism with a __________ approach to art.", "options": ["revivalist (traditional)", "purely abstract", "industrial", "commercial"], "correct_index": 0, "solution": "The Bengal School combined nationalism with a revivalist, traditional approach.", "difficulty": "medium"},
-  {"stem": "The Bengal School's legacy is the idea that Indian art should be __________.", "options": ["rooted in its own heritage yet modern", "purely European", "purely commercial", "wholly abstract"], "correct_index": 0, "solution": "Its legacy is that Indian art should be rooted in its own heritage while being modern.", "difficulty": "medium"},
-  {"stem": "The Bengal School is best described as a movement of __________.", "options": ["artistic revival and cultural nationalism", "industrial design", "European academicism", "folk craft"], "correct_index": 0, "solution": "The Bengal School was a movement of artistic revival and cultural nationalism.", "difficulty": "easy"},
-  {"stem": "The most iconic nationalist image produced by the Bengal School is __________.", "options": ["Bharat Mata", "the Nataraja", "Bani Thani", "the Ajanta Bodhisattva"], "correct_index": 0, "solution": "Bharat Mata is the most iconic nationalist image of the Bengal School.", "difficulty": "easy"},
-  {"stem": "The Bengal School showed that art could serve the cause of __________.", "options": ["national awakening", "foreign trade", "military conquest", "industrial profit"], "correct_index": 0, "solution": "The Bengal School showed that art could serve national awakening.", "difficulty": "medium"}
+  {
+    "stem": "The Bengal School of Art is regarded as the first major __________ art movement in modern India.",
+    "options": [
+      "nationalist",
+      "European academic",
+      "abstract",
+      "folk"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School was the first major nationalist art movement in modern India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The founder and leading figure of the Bengal School was __________.",
+    "options": [
+      "Abanindranath Tagore",
+      "Raja Ravi Varma",
+      "M. F. Husain",
+      "Jamini Roy"
+    ],
+    "correct_index": 0,
+    "solution": "Abanindranath Tagore founded and led the Bengal School.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The British art administrator who supported the Bengal School and Indian art was __________.",
+    "options": [
+      "E. B. Havell",
+      "Lord Curzon",
+      "Warren Hastings",
+      "Robert Clive"
+    ],
+    "correct_index": 0,
+    "solution": "E. B. Havell, principal of the Calcutta School of Art, promoted Indian art traditions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School reacted against the dominance of __________ art in India.",
+    "options": [
+      "Western academic (European) realism",
+      "Mughal miniature",
+      "folk art",
+      "temple sculpture"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School reacted against the imposed Western academic style.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A famous painting by Abanindranath Tagore that became a nationalist icon is __________.",
+    "options": [
+      "Bharat Mata",
+      "The Hamzanama",
+      "Bani Thani",
+      "Shakuntala"
+    ],
+    "correct_index": 0,
+    "solution": "Abanindranath Tagore's 'Bharat Mata' became a nationalist icon.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The painting technique associated with the Bengal School is the __________ technique.",
+    "options": [
+      "wash",
+      "impasto oil",
+      "fresco",
+      "pietra dura"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School is known for the delicate 'wash' technique.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School drew inspiration from Indian traditions such as __________.",
+    "options": [
+      "Ajanta murals and Mughal-Rajput miniatures",
+      "Greek sculpture",
+      "Roman architecture",
+      "European oil painting"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School revived inspiration from Ajanta murals and Indian miniatures.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School was closely linked with the __________ movement.",
+    "options": [
+      "Swadeshi (nationalist)",
+      "Industrial Revolution",
+      "Renaissance",
+      "Reformation"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School was closely tied to the Swadeshi nationalist movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A leading Bengal School artist, a student of Abanindranath, was __________.",
+    "options": [
+      "Nandalal Bose",
+      "Raja Ravi Varma",
+      "F. N. Souza",
+      "S. H. Raza"
+    ],
+    "correct_index": 0,
+    "solution": "Nandalal Bose was a leading disciple of Abanindranath Tagore.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nandalal Bose is also known for illustrating the __________.",
+    "options": [
+      "original manuscript of the Indian Constitution",
+      "Baburnama",
+      "Padshahnama",
+      "Gita Govinda"
+    ],
+    "correct_index": 0,
+    "solution": "Nandalal Bose illustrated the original manuscript of the Constitution of India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School artists often chose themes from __________.",
+    "options": [
+      "Indian myth, history and literature",
+      "European history",
+      "industrial machinery",
+      "abstract geometry"
+    ],
+    "correct_index": 0,
+    "solution": "Bengal School themes came from Indian myth, history and literature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Japanese artists who influenced the Bengal School's wash technique visited India at the invitation of __________.",
+    "options": [
+      "the Tagore circle (Okakura's link)",
+      "the British government",
+      "the Mughals",
+      "the Marathas"
+    ],
+    "correct_index": 0,
+    "solution": "Japanese artists (linked to Okakura) influenced the wash technique through the Tagore circle.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School was centred at __________.",
+    "options": [
+      "Calcutta (Kolkata)",
+      "Delhi",
+      "Mumbai",
+      "Chennai"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School was centred at Calcutta.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School aimed to create a distinctly __________ modern art.",
+    "options": [
+      "Indian",
+      "European",
+      "Japanese",
+      "American"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School aimed to create a distinctly Indian modern art.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The soft, atmospheric quality of Bengal School paintings comes from the __________.",
+    "options": [
+      "wash technique with subtle tones",
+      "bold oil colours",
+      "flat poster colours",
+      "stone carving"
+    ],
+    "correct_index": 0,
+    "solution": "The wash technique gives Bengal School works their soft, atmospheric quality.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Bharat Mata' by Abanindranath depicts the nation as a __________ figure.",
+    "options": [
+      "serene four-armed goddess-like",
+      "warrior queen",
+      "European lady",
+      "farmer"
+    ],
+    "correct_index": 0,
+    "solution": "'Bharat Mata' shows the nation as a serene, four-armed, goddess-like figure.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The four objects held by Bharat Mata symbolise __________.",
+    "options": [
+      "food, clothing, learning and spiritual salvation",
+      "weapons",
+      "coins",
+      "the four Vedas only"
+    ],
+    "correct_index": 0,
+    "solution": "Bharat Mata holds symbols of food (anna), clothing (vastra), learning (shiksha) and salvation (diksha).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School promoted the idea that art should express the __________ of the nation.",
+    "options": [
+      "spirit and identity",
+      "military power",
+      "trade",
+      "European taste"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School held that art should express the nation's spirit and identity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School flourished mainly in the __________.",
+    "options": [
+      "early 20th century",
+      "16th century",
+      "18th century",
+      "21st century"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School flourished in the early 20th century.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School artists rejected the __________ perspective and oil realism of academic art.",
+    "options": [
+      "European single-point",
+      "Indian flattened",
+      "aerial",
+      "reverse"
+    ],
+    "correct_index": 0,
+    "solution": "They rejected European single-point perspective and oil realism.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A famous painting by Abanindranath Tagore on a literary theme is __________.",
+    "options": [
+      "The Passing of Shah Jahan",
+      "Bani Thani",
+      "The Hamzanama",
+      "Nataraja"
+    ],
+    "correct_index": 0,
+    "solution": "'The Passing of Shah Jahan' is a celebrated Abanindranath Tagore painting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School's revival of Indian tradition was part of a broader __________ awakening.",
+    "options": [
+      "cultural nationalist",
+      "industrial",
+      "scientific",
+      "European"
+    ],
+    "correct_index": 0,
+    "solution": "It was part of a broader cultural nationalist awakening.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The art school where the Bengal movement developed was the __________.",
+    "options": [
+      "Government School of Art, Calcutta",
+      "J. J. School of Art, Bombay",
+      "Madras School of Art",
+      "Shantiniketan only"
+    ],
+    "correct_index": 0,
+    "solution": "The movement developed at the Government School of Art in Calcutta.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Later, many Bengal School ideals were carried forward at __________, founded by Rabindranath Tagore.",
+    "options": [
+      "Santiniketan (Kala Bhavana)",
+      "the J. J. School",
+      "the Calcutta Art Studio",
+      "the Delhi College of Art"
+    ],
+    "correct_index": 0,
+    "solution": "Santiniketan's Kala Bhavana, under Rabindranath Tagore, carried forward these ideals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School's influence spread across India through __________.",
+    "options": [
+      "teachers and students who taught elsewhere",
+      "the British government",
+      "trade fairs",
+      "the army"
+    ],
+    "correct_index": 0,
+    "solution": "The movement spread through its teachers and students who taught in other regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School emphasised __________ over the realism of academic art.",
+    "options": [
+      "mood, spirituality and line",
+      "photographic accuracy",
+      "industrial subjects",
+      "abstract geometry"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School emphasised mood, spirituality and expressive line.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School is important because it linked __________ with the freedom struggle.",
+    "options": [
+      "art",
+      "trade",
+      "science",
+      "sport"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School linked art with the national freedom struggle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School used themes from the __________ epics and Buddhist stories.",
+    "options": [
+      "Indian",
+      "Greek",
+      "Roman",
+      "Persian"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School drew on Indian epics and Buddhist stories.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School artists preferred __________ and tempera to heavy oil painting.",
+    "options": [
+      "watercolour wash",
+      "acrylic",
+      "enamel",
+      "spray paint"
+    ],
+    "correct_index": 0,
+    "solution": "They preferred watercolour wash and tempera to heavy Western oil painting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Abanindranath Tagore was the nephew of the poet __________.",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra",
+      "Sarojini Naidu",
+      "Subramania Bharati"
+    ],
+    "correct_index": 0,
+    "solution": "Abanindranath Tagore was the nephew of Rabindranath Tagore.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School's rejection of Western realism was also a rejection of __________.",
+    "options": [
+      "colonial cultural domination",
+      "Indian tradition",
+      "religion",
+      "trade"
+    ],
+    "correct_index": 0,
+    "solution": "Rejecting Western realism was a rejection of colonial cultural domination.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School is credited with beginning __________ in India.",
+    "options": [
+      "modern Indian art with a national identity",
+      "abstract art",
+      "folk art",
+      "temple art"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School began modern Indian art rooted in national identity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The delicate, muted tones of the Bengal School evoke a sense of __________.",
+    "options": [
+      "poetic nostalgia and spirituality",
+      "industrial power",
+      "scientific precision",
+      "military strength"
+    ],
+    "correct_index": 0,
+    "solution": "The muted tones evoke poetic nostalgia and spirituality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School artists were inspired to study and revive __________.",
+    "options": [
+      "India's own artistic heritage",
+      "European academies",
+      "Japanese trade",
+      "Roman law"
+    ],
+    "correct_index": 0,
+    "solution": "They sought to study and revive India's own artistic heritage.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School's emphasis on Indian identity influenced later __________ movements.",
+    "options": [
+      "modernist Indian art",
+      "European abstract",
+      "Chinese scroll",
+      "Roman"
+    ],
+    "correct_index": 0,
+    "solution": "It influenced later modernist Indian art movements.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The revival of interest in the __________ murals was part of the Bengal School's programme.",
+    "options": [
+      "Ajanta",
+      "Roman",
+      "Renaissance",
+      "Egyptian"
+    ],
+    "correct_index": 0,
+    "solution": "Reviving interest in the Ajanta murals was central to the Bengal School's programme.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School painting typically has a __________ mood.",
+    "options": [
+      "dreamy and contemplative",
+      "aggressive",
+      "commercial",
+      "comic"
+    ],
+    "correct_index": 0,
+    "solution": "Bengal School paintings typically have a dreamy, contemplative mood.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School is significant in the history of India's __________.",
+    "options": [
+      "cultural nationalism",
+      "industrialisation",
+      "trade policy",
+      "military"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School is significant in the history of India's cultural nationalism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nandalal Bose designed the emblems and artwork for the __________ session and later state occasions.",
+    "options": [
+      "Indian National Congress (Haripura)",
+      "British Parliament",
+      "United Nations",
+      "Mughal court"
+    ],
+    "correct_index": 0,
+    "solution": "Nandalal Bose created the famous Haripura Congress posters and later national artwork.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School wash technique involves applying __________ layers of colour.",
+    "options": [
+      "thin, transparent",
+      "thick opaque",
+      "metallic",
+      "sand-textured"
+    ],
+    "correct_index": 0,
+    "solution": "The wash technique builds up thin, transparent layers of colour.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School valued __________ inspiration in art.",
+    "options": [
+      "Indian spiritual and cultural",
+      "European industrial",
+      "American commercial",
+      "military"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School valued Indian spiritual and cultural inspiration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School artists sought to make art an expression of __________.",
+    "options": [
+      "national pride and Indian values",
+      "European taste",
+      "personal wealth",
+      "scientific data"
+    ],
+    "correct_index": 0,
+    "solution": "They sought to make art an expression of national pride and Indian values.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School is considered the __________ of modern Indian painting.",
+    "options": [
+      "starting point",
+      "end",
+      "unrelated branch",
+      "foreign copy"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School is considered the starting point of modern Indian painting.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School's opposition to academic realism helped free Indian artists to __________.",
+    "options": [
+      "explore their own idioms",
+      "copy Europe",
+      "stop painting",
+      "only paint portraits"
+    ],
+    "correct_index": 0,
+    "solution": "It freed Indian artists to explore their own artistic idioms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School flourished during the period of the __________ movement against the partition of Bengal.",
+    "options": [
+      "Swadeshi",
+      "Non-Cooperation only",
+      "Quit India",
+      "Khilafat"
+    ],
+    "correct_index": 0,
+    "solution": "It flourished during the Swadeshi movement against the 1905 partition of Bengal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School combined nationalism with a __________ approach to art.",
+    "options": [
+      "revivalist (traditional)",
+      "purely abstract",
+      "industrial",
+      "commercial"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School combined nationalism with a revivalist, traditional approach.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School's legacy is the idea that Indian art should be __________.",
+    "options": [
+      "rooted in its own heritage yet modern",
+      "purely European",
+      "purely commercial",
+      "wholly abstract"
+    ],
+    "correct_index": 0,
+    "solution": "Its legacy is that Indian art should be rooted in its own heritage while being modern.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School is best described as a movement of __________.",
+    "options": [
+      "artistic revival and cultural nationalism",
+      "industrial design",
+      "European academicism",
+      "folk craft"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School was a movement of artistic revival and cultural nationalism.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The most iconic nationalist image produced by the Bengal School is __________.",
+    "options": [
+      "Bharat Mata",
+      "the Nataraja",
+      "Bani Thani",
+      "the Ajanta Bodhisattva"
+    ],
+    "correct_index": 0,
+    "solution": "Bharat Mata is the most iconic nationalist image of the Bengal School.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Bengal School showed that art could serve the cause of __________.",
+    "options": [
+      "national awakening",
+      "foreign trade",
+      "military conquest",
+      "industrial profit"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School showed that art could serve national awakening.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School artists rejected __________ as an alien, imposed style.",
+    "options": [
+      "Western academic oil painting",
+      "Mughal miniature",
+      "folk art",
+      "temple sculpture"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School rejected Western academic oil painting as an alien, imposed style.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "E. B. Havell served as principal of the __________ School of Art.",
+    "options": [
+      "Calcutta (Government)",
+      "Bombay (J. J.)",
+      "Madras",
+      "Lahore"
+    ],
+    "correct_index": 0,
+    "solution": "E. B. Havell was principal of the Government School of Art, Calcutta.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The wash technique of the Bengal School was influenced by __________ art.",
+    "options": [
+      "Japanese",
+      "European",
+      "Chinese porcelain",
+      "Roman"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School wash technique was influenced by Japanese art (via the Tagore–Okakura link).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Bharat Mata' by Abanindranath Tagore depicts the nation as a __________ figure.",
+    "options": [
+      "four-armed goddess-like",
+      "warrior queen",
+      "European lady",
+      "farmer"
+    ],
+    "correct_index": 0,
+    "solution": "Bharat Mata depicts the nation as a serene, four-armed goddess-like figure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nandalal Bose created the celebrated posters for the 1938 __________ Congress session.",
+    "options": [
+      "Haripura",
+      "Lahore",
+      "Karachi",
+      "Tripuri"
+    ],
+    "correct_index": 0,
+    "solution": "Nandalal Bose designed the famous Haripura Congress posters.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School was a leading force of __________ in Indian art.",
+    "options": [
+      "cultural nationalism",
+      "industrial design",
+      "European academicism",
+      "abstraction"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School was a leading force of cultural nationalism in Indian art.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School drew inspiration from __________ and Indian miniature painting.",
+    "options": [
+      "the Ajanta murals",
+      "Roman frescoes",
+      "Chinese scrolls",
+      "European portraits"
+    ],
+    "correct_index": 0,
+    "solution": "It drew inspiration from the Ajanta murals and Indian miniatures.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School flourished during the __________ movement against the 1905 partition of Bengal.",
+    "options": [
+      "Swadeshi",
+      "Quit India",
+      "Non-Cooperation only",
+      "Khilafat"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School flourished during the Swadeshi movement against the 1905 partition of Bengal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The soft, atmospheric effect of Bengal School paintings comes from applying __________ layers of colour.",
+    "options": [
+      "thin, transparent (washes)",
+      "thick opaque",
+      "metallic",
+      "sand-textured"
+    ],
+    "correct_index": 0,
+    "solution": "The wash technique builds thin, transparent layers giving a soft, atmospheric effect.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nandalal Bose is also celebrated for illustrating the original manuscript of the __________.",
+    "options": [
+      "Constitution of India",
+      "Baburnama",
+      "Gita Govinda",
+      "Ain-i-Akbari"
+    ],
+    "correct_index": 0,
+    "solution": "Nandalal Bose illustrated the original manuscript of the Constitution of India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School was centred in the city of __________.",
+    "options": [
+      "Calcutta",
+      "Bombay",
+      "Madras",
+      "Delhi"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School was centred in Calcutta.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ideals of the Bengal School were later carried forward at __________, founded by Rabindranath Tagore.",
+    "options": [
+      "Santiniketan (Kala Bhavana)",
+      "the J. J. School",
+      "the Madras School",
+      "Delhi College of Art"
+    ],
+    "correct_index": 0,
+    "solution": "Santiniketan's Kala Bhavana carried forward the ideals under Rabindranath Tagore.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bengal School is regarded as the __________ of modern Indian art.",
+    "options": [
+      "starting point",
+      "end",
+      "foreign copy",
+      "folk branch"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School is regarded as the starting point of modern Indian art.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School emphasised __________ and Indian spiritual values over realism.",
+    "options": [
+      "mood, line and atmosphere",
+      "photographic accuracy",
+      "industrial subjects",
+      "geometry"
+    ],
+    "correct_index": 0,
+    "solution": "It emphasised mood, expressive line, atmosphere and Indian spiritual values.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengal School's revival of Indian tradition was linked with the wider __________ struggle.",
+    "options": [
+      "freedom (independence)",
+      "industrial",
+      "scientific",
+      "European"
+    ],
+    "correct_index": 0,
+    "solution": "The Bengal School was linked with the wider freedom struggle.",
+    "difficulty": "medium"
+  }
 ]

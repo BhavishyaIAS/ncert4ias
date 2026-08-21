@@ -1,52 +1,794 @@
 [
-  {"stem": "The earliest surviving manuscript paintings in India were made on __________.", "options": ["palm leaves", "paper", "cloth only", "metal sheets"], "correct_index": 0, "solution": "Early Indian manuscript paintings were done on palm leaves before paper became common.", "difficulty": "medium"},
-  {"stem": "The eastern Indian manuscript painting tradition flourished under the __________ dynasty.", "options": ["Pala", "Chola", "Mughal", "Rajput"], "correct_index": 0, "solution": "The Pala dynasty of eastern India patronised the earliest Buddhist manuscript painting.", "difficulty": "hard"},
-  {"stem": "The Pala manuscript paintings were mostly __________ in theme.", "options": ["Buddhist", "Jain", "Islamic", "Christian"], "correct_index": 0, "solution": "Pala manuscript paintings mainly illustrated Buddhist texts.", "difficulty": "medium"},
-  {"stem": "A famous Buddhist text illustrated in the Pala style is the __________.", "options": ["Ashtasahasrika Prajnaparamita", "Ramayana", "Ain-i-Akbari", "Baburnama"], "correct_index": 0, "solution": "The Ashtasahasrika Prajnaparamita was a key Buddhist text illustrated in Pala manuscripts.", "difficulty": "hard"},
-  {"stem": "The western Indian manuscript tradition was largely associated with __________ texts.", "options": ["Jain", "Buddhist", "Mughal", "Christian"], "correct_index": 0, "solution": "The western Indian school mainly illustrated Jain religious texts.", "difficulty": "hard"},
-  {"stem": "The Jain manuscript painting tradition flourished mainly in the region of __________.", "options": ["Gujarat and Rajasthan", "Bengal", "Tamil Nadu", "Kashmir"], "correct_index": 0, "solution": "The western Indian (Jain) style flourished in Gujarat and Rajasthan.", "difficulty": "hard"},
-  {"stem": "A well-known Jain text that was frequently illustrated is the __________.", "options": ["Kalpasutra", "Gita Govinda", "Baburnama", "Padshahnama"], "correct_index": 0, "solution": "The Jain Kalpasutra was one of the most illustrated western Indian manuscripts.", "difficulty": "hard"},
-  {"stem": "A distinctive feature of western Indian (Jain) manuscript figures is the __________.", "options": ["projecting (further) eye seen in profile faces", "photographic realism", "European shading", "geometric abstraction"], "correct_index": 0, "solution": "Figures in profile show a characteristic projecting 'further eye'.", "difficulty": "hard"},
-  {"stem": "The introduction of __________ from the 14th–15th centuries changed the size and format of manuscript painting.", "options": ["paper", "canvas", "silk", "wood panels"], "correct_index": 0, "solution": "The arrival of paper allowed larger formats and more elaborate manuscript paintings.", "difficulty": "hard"},
-  {"stem": "The colours used in early manuscript paintings were mostly __________.", "options": ["natural mineral and vegetable pigments", "oil paints", "acrylics", "synthetic dyes"], "correct_index": 0, "solution": "Manuscript paintings used natural mineral and vegetable pigments.", "difficulty": "medium"},
-  {"stem": "The palm-leaf manuscripts were bound and protected by wooden covers called __________.", "options": ["patli (book covers)", "toranas", "jalis", "iwans"], "correct_index": 0, "solution": "Palm-leaf manuscripts were protected by painted wooden covers (patli).", "difficulty": "hard"},
-  {"stem": "Manuscript illustrations were meant to __________ the sacred text.", "options": ["accompany and illuminate", "replace", "hide", "translate into English"], "correct_index": 0, "solution": "The illustrations accompanied and illuminated the religious text.", "difficulty": "medium"},
-  {"stem": "The Gujarat/western Indian style later blended with __________ influences to form early Rajput/Sultanate painting.", "options": ["Persian", "Chinese", "Roman", "Egyptian"], "correct_index": 0, "solution": "The western Indian style absorbed Persian influences, contributing to later Rajput and Sultanate painting.", "difficulty": "hard"},
-  {"stem": "The 'Kalpasutra' illustrated at Mandu and Jaunpur shows the spread of the __________ style.", "options": ["western Indian (Jain)", "Pala", "Mughal", "Deccan"], "correct_index": 0, "solution": "Illustrated Kalpasutras at Mandu and Jaunpur show the spread of the western Indian style.", "difficulty": "hard"},
-  {"stem": "The Pala style of painting came to an end largely due to the __________.", "options": ["destruction of Buddhist monasteries in the 12th–13th centuries", "arrival of the British", "fall of the Mughals", "spread of printing"], "correct_index": 0, "solution": "The Pala tradition declined after the destruction of Buddhist monasteries in eastern India.", "difficulty": "hard"},
-  {"stem": "Manuscript painting was a __________ art form, meant to be viewed closely.", "options": ["miniature (small-scale)", "monumental", "colossal", "architectural"], "correct_index": 0, "solution": "Manuscript painting is a miniature art form meant for close viewing.", "difficulty": "medium"},
-  {"stem": "The Buddhist manuscript paintings of the Pala school influenced the art of __________.", "options": ["Nepal and Tibet", "Europe", "China only", "the Deccan"], "correct_index": 0, "solution": "The Pala Buddhist painting style influenced Nepal and Tibet.", "difficulty": "hard"},
-  {"stem": "The manuscripts were written and painted by __________.", "options": ["scribes and artists in monasteries and workshops", "kings personally", "farmers", "soldiers"], "correct_index": 0, "solution": "Scribes and artists in monasteries and workshops produced illustrated manuscripts.", "difficulty": "medium"},
-  {"stem": "The colours in Jain manuscripts became richer with the use of __________ and lapis blue on paper.", "options": ["gold", "silver only", "charcoal", "chalk"], "correct_index": 0, "solution": "Later Jain manuscripts used lavish gold and ultramarine (lapis) blue.", "difficulty": "hard"},
-  {"stem": "The illustrated 'Gita Govinda' and 'Chaurapanchasika' belong to a group of __________ manuscripts.", "options": ["early Rajput/pre-Mughal Hindu", "Buddhist Pala", "Mughal court", "modern"], "correct_index": 0, "solution": "The Gita Govinda and Chaurapanchasika are early Hindu (pre-Mughal Rajput) illustrated manuscripts.", "difficulty": "hard"},
-  {"stem": "The 'Chaurapanchasika' style is important as a forerunner of __________ painting.", "options": ["Rajasthani (Rajput)", "Gandhara", "Chola", "Mughal only"], "correct_index": 0, "solution": "The Chaurapanchasika group is a key forerunner of Rajasthani (Rajput) painting.", "difficulty": "hard"},
-  {"stem": "In manuscript paintings, the space for the picture was usually left within the __________.", "options": ["written text page", "temple wall", "cloth scroll", "metal plate"], "correct_index": 0, "solution": "Illustrations were painted within spaces left on the written manuscript page.", "difficulty": "medium"},
-  {"stem": "The figures in Pala paintings are marked by __________ lines and simple compositions.", "options": ["graceful, sinuous", "harsh geometric", "photographic", "cartoon-like"], "correct_index": 0, "solution": "Pala paintings show graceful, flowing lines and restrained compositions.", "difficulty": "hard"},
-  {"stem": "The transition from palm leaf to paper allowed artists to paint __________ compositions.", "options": ["larger and more detailed", "smaller only", "no", "monochrome only"], "correct_index": 0, "solution": "Paper allowed larger and more detailed compositions than narrow palm leaves.", "difficulty": "medium"},
-  {"stem": "The western Indian style is sometimes called the __________ style.", "options": ["Apabhramsa / Gujarat", "Kalinga", "Vesara", "Dravida"], "correct_index": 0, "solution": "The western Indian manuscript style is also called the Apabhramsa or Gujarat style.", "difficulty": "hard"},
-  {"stem": "Manuscript painting forms the __________ of the later Indian miniature painting tradition.", "options": ["foundation", "end", "unrelated branch", "European import"], "correct_index": 0, "solution": "The manuscript tradition is the foundation of later Indian miniature painting.", "difficulty": "medium"},
-  {"stem": "The illustrations in Buddhist manuscripts often depicted __________.", "options": ["deities and scenes from the Buddha's life", "battles with guns", "Mughal emperors", "European ships"], "correct_index": 0, "solution": "Buddhist manuscript paintings depict deities and scenes from the Buddha's life.", "difficulty": "medium"},
-  {"stem": "The stylised, angular figures with pointed noses are typical of the __________ manuscript style.", "options": ["western Indian (Jain)", "Mughal", "Pahari", "Deccan"], "correct_index": 0, "solution": "Western Indian (Jain) figures are stylised, angular, with pointed noses and the projecting eye.", "difficulty": "hard"},
-  {"stem": "The colours red and __________ dominate the backgrounds of many western Indian Jain manuscripts.", "options": ["ultramarine blue", "green", "black", "grey"], "correct_index": 0, "solution": "Rich red and ultramarine blue backgrounds are typical of western Indian Jain manuscripts.", "difficulty": "hard"},
-  {"stem": "The manuscript painting tradition shows a shift from __________ to secular and courtly themes over time.", "options": ["religious", "abstract", "modern", "European"], "correct_index": 0, "solution": "Over time the tradition expanded from purely religious to secular and courtly themes.", "difficulty": "medium"},
-  {"stem": "The Jain community's role in commissioning manuscripts reflects the importance of __________ in art patronage.", "options": ["merchant and religious communities", "the army", "foreign traders", "the Mughal court only"], "correct_index": 0, "solution": "Prosperous Jain merchant communities were important patrons of manuscript painting.", "difficulty": "hard"},
-  {"stem": "The vibrant, flat colours and lack of deep perspective in manuscript painting reflect its __________.", "options": ["decorative, two-dimensional aesthetic", "photographic realism", "European origin", "sculptural quality"], "correct_index": 0, "solution": "Manuscript painting favours flat colour and a decorative, two-dimensional aesthetic.", "difficulty": "medium"},
-  {"stem": "The manuscript tradition of eastern and western India developed __________.", "options": ["in parallel, with different religious themes", "identically", "from Europe", "only after the Mughals"], "correct_index": 0, "solution": "The eastern (Pala/Buddhist) and western (Jain) traditions developed in parallel with different themes.", "difficulty": "medium"},
-  {"stem": "The manuscript illustrations were valued for both their __________.", "options": ["religious merit and artistic beauty", "trade value", "military use", "size"], "correct_index": 0, "solution": "Illustrated manuscripts were prized for religious merit and artistic beauty.", "difficulty": "medium"},
-  {"stem": "The narrow horizontal format of early manuscript paintings was determined by the shape of the __________.", "options": ["palm leaf", "temple wall", "cloth", "coin"], "correct_index": 0, "solution": "The long narrow format followed the shape of the palm leaf.", "difficulty": "medium"},
-  {"stem": "A characteristic red or blue background dot pattern and floral borders appear in __________ manuscripts.", "options": ["later Jain (paper) ", "Pala palm-leaf", "Mughal", "modern"], "correct_index": 0, "solution": "Later paper Jain manuscripts show decorative borders and patterned backgrounds.", "difficulty": "hard"},
-  {"stem": "The 'further eye' convention means the eye on the far side of a profile face is __________.", "options": ["shown projecting beyond the outline", "hidden", "closed", "enlarged in the centre"], "correct_index": 0, "solution": "The far eye is shown projecting beyond the facial outline in western Indian painting.", "difficulty": "hard"},
-  {"stem": "The manuscript tradition demonstrates the close link between __________ and painting in medieval India.", "options": ["religion (text)", "warfare", "trade routes", "coinage"], "correct_index": 0, "solution": "Manuscript painting shows the close link between religious text and painting.", "difficulty": "medium"},
-  {"stem": "The Pala and western Indian styles are important as the __________ phase of Indian miniature painting.", "options": ["earliest", "final", "modern", "colonial"], "correct_index": 0, "solution": "These form the earliest phase of the Indian miniature painting tradition.", "difficulty": "medium"},
-  {"stem": "Which of the following materials was NOT typically used as a support for early manuscript painting?", "options": ["Canvas", "Palm leaf", "Paper", "Wooden covers"], "correct_index": 0, "solution": "Canvas was not used; supports were palm leaf, paper and wooden covers.", "difficulty": "medium"},
-  {"stem": "The manuscript painters worked in a style that emphasised __________ over naturalism.", "options": ["convention and symbolism", "photographic accuracy", "European perspective", "shadow and light only"], "correct_index": 0, "solution": "Manuscript painting emphasised convention and symbolism rather than naturalism.", "difficulty": "medium"},
-  {"stem": "The illustrated manuscript was usually meant for __________ use.", "options": ["religious study and worship", "military planning", "trade accounting", "public advertising"], "correct_index": 0, "solution": "Illustrated manuscripts were used for religious study and worship.", "difficulty": "medium"},
-  {"stem": "The western Indian style is significant because it survived and evolved even under __________ rule.", "options": ["Sultanate", "British", "Maratha", "Chola"], "correct_index": 0, "solution": "The western Indian style continued and evolved under the Delhi Sultanate.", "difficulty": "hard"},
-  {"stem": "The manuscript painting tradition ultimately fed into the great schools of __________ painting.", "options": ["Rajput and Mughal miniature", "European oil", "Chinese scroll", "modern abstract"], "correct_index": 0, "solution": "The manuscript tradition fed into the Rajput and Mughal miniature schools.", "difficulty": "medium"},
-  {"stem": "The colours in Pala paintings tend to be __________ compared with the bold western Indian palette.", "options": ["softer and more subdued", "brighter and harsher", "monochrome", "metallic"], "correct_index": 0, "solution": "Pala painting uses softer, subdued colours compared with the bold western Indian palette.", "difficulty": "hard"},
-  {"stem": "The main patrons of the western Indian manuscript tradition were the __________.", "options": ["Jain merchants and monastic orders", "Mughal emperors", "British collectors", "Chola kings"], "correct_index": 0, "solution": "Jain merchant families and monastic orders were the chief patrons.", "difficulty": "medium"},
-  {"stem": "The manuscript illustrations help historians study the __________ of medieval India.", "options": ["dress, ornaments and religious life", "modern politics", "European trade", "coin minting"], "correct_index": 0, "solution": "The illustrations reveal medieval Indian dress, ornament and religious life.", "difficulty": "medium"},
-  {"stem": "The manuscript painting tradition spanned roughly the __________ centuries.", "options": ["10th to 15th", "18th to 19th", "1st to 3rd", "20th"], "correct_index": 0, "solution": "The manuscript painting tradition flourished roughly between the 10th and 15th centuries.", "difficulty": "hard"},
-  {"stem": "The key achievement of the manuscript tradition was preserving and transmitting __________ through art.", "options": ["religious and literary knowledge", "military tactics", "trade routes", "coin designs"], "correct_index": 0, "solution": "It preserved and transmitted religious and literary knowledge through illustration.", "difficulty": "medium"},
-  {"stem": "The gradual replacement of palm leaf by paper marks a __________ in the manuscript tradition.", "options": ["technical turning point", "religious change", "political revolt", "trade decline"], "correct_index": 0, "solution": "The shift from palm leaf to paper was a major technical turning point.", "difficulty": "medium"}
+  {
+    "stem": "The earliest surviving manuscript paintings in India were made on __________.",
+    "options": [
+      "palm leaves",
+      "paper",
+      "cloth only",
+      "metal sheets"
+    ],
+    "correct_index": 0,
+    "solution": "Early Indian manuscript paintings were done on palm leaves before paper became common.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The eastern Indian manuscript painting tradition flourished under the __________ dynasty.",
+    "options": [
+      "Pala",
+      "Chola",
+      "Mughal",
+      "Rajput"
+    ],
+    "correct_index": 0,
+    "solution": "The Pala dynasty of eastern India patronised the earliest Buddhist manuscript painting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Pala manuscript paintings were mostly __________ in theme.",
+    "options": [
+      "Buddhist",
+      "Jain",
+      "Islamic",
+      "Christian"
+    ],
+    "correct_index": 0,
+    "solution": "Pala manuscript paintings mainly illustrated Buddhist texts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A famous Buddhist text illustrated in the Pala style is the __________.",
+    "options": [
+      "Ashtasahasrika Prajnaparamita",
+      "Ramayana",
+      "Ain-i-Akbari",
+      "Baburnama"
+    ],
+    "correct_index": 0,
+    "solution": "The Ashtasahasrika Prajnaparamita was a key Buddhist text illustrated in Pala manuscripts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The western Indian manuscript tradition was largely associated with __________ texts.",
+    "options": [
+      "Jain",
+      "Buddhist",
+      "Mughal",
+      "Christian"
+    ],
+    "correct_index": 0,
+    "solution": "The western Indian school mainly illustrated Jain religious texts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Jain manuscript painting tradition flourished mainly in the region of __________.",
+    "options": [
+      "Gujarat and Rajasthan",
+      "Bengal",
+      "Tamil Nadu",
+      "Kashmir"
+    ],
+    "correct_index": 0,
+    "solution": "The western Indian (Jain) style flourished in Gujarat and Rajasthan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A well-known Jain text that was frequently illustrated is the __________.",
+    "options": [
+      "Kalpasutra",
+      "Gita Govinda",
+      "Baburnama",
+      "Padshahnama"
+    ],
+    "correct_index": 0,
+    "solution": "The Jain Kalpasutra was one of the most illustrated western Indian manuscripts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A distinctive feature of western Indian (Jain) manuscript figures is the __________.",
+    "options": [
+      "projecting (further) eye seen in profile faces",
+      "photographic realism",
+      "European shading",
+      "geometric abstraction"
+    ],
+    "correct_index": 0,
+    "solution": "Figures in profile show a characteristic projecting 'further eye'.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The introduction of __________ from the 14th–15th centuries changed the size and format of manuscript painting.",
+    "options": [
+      "paper",
+      "canvas",
+      "silk",
+      "wood panels"
+    ],
+    "correct_index": 0,
+    "solution": "The arrival of paper allowed larger formats and more elaborate manuscript paintings.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The colours used in early manuscript paintings were mostly __________.",
+    "options": [
+      "natural mineral and vegetable pigments",
+      "oil paints",
+      "acrylics",
+      "synthetic dyes"
+    ],
+    "correct_index": 0,
+    "solution": "Manuscript paintings used natural mineral and vegetable pigments.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The palm-leaf manuscripts were bound and protected by wooden covers called __________.",
+    "options": [
+      "patli (book covers)",
+      "toranas",
+      "jalis",
+      "iwans"
+    ],
+    "correct_index": 0,
+    "solution": "Palm-leaf manuscripts were protected by painted wooden covers (patli).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Manuscript illustrations were meant to __________ the sacred text.",
+    "options": [
+      "accompany and illuminate",
+      "replace",
+      "hide",
+      "translate into English"
+    ],
+    "correct_index": 0,
+    "solution": "The illustrations accompanied and illuminated the religious text.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Gujarat/western Indian style later blended with __________ influences to form early Rajput/Sultanate painting.",
+    "options": [
+      "Persian",
+      "Chinese",
+      "Roman",
+      "Egyptian"
+    ],
+    "correct_index": 0,
+    "solution": "The western Indian style absorbed Persian influences, contributing to later Rajput and Sultanate painting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Kalpasutra' illustrated at Mandu and Jaunpur shows the spread of the __________ style.",
+    "options": [
+      "western Indian (Jain)",
+      "Pala",
+      "Mughal",
+      "Deccan"
+    ],
+    "correct_index": 0,
+    "solution": "Illustrated Kalpasutras at Mandu and Jaunpur show the spread of the western Indian style.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Pala style of painting came to an end largely due to the __________.",
+    "options": [
+      "destruction of Buddhist monasteries in the 12th–13th centuries",
+      "arrival of the British",
+      "fall of the Mughals",
+      "spread of printing"
+    ],
+    "correct_index": 0,
+    "solution": "The Pala tradition declined after the destruction of Buddhist monasteries in eastern India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Manuscript painting was a __________ art form, meant to be viewed closely.",
+    "options": [
+      "miniature (small-scale)",
+      "monumental",
+      "colossal",
+      "architectural"
+    ],
+    "correct_index": 0,
+    "solution": "Manuscript painting is a miniature art form meant for close viewing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Buddhist manuscript paintings of the Pala school influenced the art of __________.",
+    "options": [
+      "Nepal and Tibet",
+      "Europe",
+      "China only",
+      "the Deccan"
+    ],
+    "correct_index": 0,
+    "solution": "The Pala Buddhist painting style influenced Nepal and Tibet.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The manuscripts were written and painted by __________.",
+    "options": [
+      "scribes and artists in monasteries and workshops",
+      "kings personally",
+      "farmers",
+      "soldiers"
+    ],
+    "correct_index": 0,
+    "solution": "Scribes and artists in monasteries and workshops produced illustrated manuscripts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The colours in Jain manuscripts became richer with the use of __________ and lapis blue on paper.",
+    "options": [
+      "gold",
+      "silver only",
+      "charcoal",
+      "chalk"
+    ],
+    "correct_index": 0,
+    "solution": "Later Jain manuscripts used lavish gold and ultramarine (lapis) blue.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The illustrated 'Gita Govinda' and 'Chaurapanchasika' belong to a group of __________ manuscripts.",
+    "options": [
+      "early Rajput/pre-Mughal Hindu",
+      "Buddhist Pala",
+      "Mughal court",
+      "modern"
+    ],
+    "correct_index": 0,
+    "solution": "The Gita Govinda and Chaurapanchasika are early Hindu (pre-Mughal Rajput) illustrated manuscripts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Chaurapanchasika' style is important as a forerunner of __________ painting.",
+    "options": [
+      "Rajasthani (Rajput)",
+      "Gandhara",
+      "Chola",
+      "Mughal only"
+    ],
+    "correct_index": 0,
+    "solution": "The Chaurapanchasika group is a key forerunner of Rajasthani (Rajput) painting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In manuscript paintings, the space for the picture was usually left within the __________.",
+    "options": [
+      "written text page",
+      "temple wall",
+      "cloth scroll",
+      "metal plate"
+    ],
+    "correct_index": 0,
+    "solution": "Illustrations were painted within spaces left on the written manuscript page.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The figures in Pala paintings are marked by __________ lines and simple compositions.",
+    "options": [
+      "graceful, sinuous",
+      "harsh geometric",
+      "photographic",
+      "cartoon-like"
+    ],
+    "correct_index": 0,
+    "solution": "Pala paintings show graceful, flowing lines and restrained compositions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The transition from palm leaf to paper allowed artists to paint __________ compositions.",
+    "options": [
+      "larger and more detailed",
+      "smaller only",
+      "no",
+      "monochrome only"
+    ],
+    "correct_index": 0,
+    "solution": "Paper allowed larger and more detailed compositions than narrow palm leaves.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The western Indian style is sometimes called the __________ style.",
+    "options": [
+      "Apabhramsa / Gujarat",
+      "Kalinga",
+      "Vesara",
+      "Dravida"
+    ],
+    "correct_index": 0,
+    "solution": "The western Indian manuscript style is also called the Apabhramsa or Gujarat style.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Manuscript painting forms the __________ of the later Indian miniature painting tradition.",
+    "options": [
+      "foundation",
+      "end",
+      "unrelated branch",
+      "European import"
+    ],
+    "correct_index": 0,
+    "solution": "The manuscript tradition is the foundation of later Indian miniature painting.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The illustrations in Buddhist manuscripts often depicted __________.",
+    "options": [
+      "deities and scenes from the Buddha's life",
+      "battles with guns",
+      "Mughal emperors",
+      "European ships"
+    ],
+    "correct_index": 0,
+    "solution": "Buddhist manuscript paintings depict deities and scenes from the Buddha's life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The stylised, angular figures with pointed noses are typical of the __________ manuscript style.",
+    "options": [
+      "western Indian (Jain)",
+      "Mughal",
+      "Pahari",
+      "Deccan"
+    ],
+    "correct_index": 0,
+    "solution": "Western Indian (Jain) figures are stylised, angular, with pointed noses and the projecting eye.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The colours red and __________ dominate the backgrounds of many western Indian Jain manuscripts.",
+    "options": [
+      "ultramarine blue",
+      "green",
+      "black",
+      "grey"
+    ],
+    "correct_index": 0,
+    "solution": "Rich red and ultramarine blue backgrounds are typical of western Indian Jain manuscripts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The manuscript painting tradition shows a shift from __________ to secular and courtly themes over time.",
+    "options": [
+      "religious",
+      "abstract",
+      "modern",
+      "European"
+    ],
+    "correct_index": 0,
+    "solution": "Over time the tradition expanded from purely religious to secular and courtly themes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Jain community's role in commissioning manuscripts reflects the importance of __________ in art patronage.",
+    "options": [
+      "merchant and religious communities",
+      "the army",
+      "foreign traders",
+      "the Mughal court only"
+    ],
+    "correct_index": 0,
+    "solution": "Prosperous Jain merchant communities were important patrons of manuscript painting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The vibrant, flat colours and lack of deep perspective in manuscript painting reflect its __________.",
+    "options": [
+      "decorative, two-dimensional aesthetic",
+      "photographic realism",
+      "European origin",
+      "sculptural quality"
+    ],
+    "correct_index": 0,
+    "solution": "Manuscript painting favours flat colour and a decorative, two-dimensional aesthetic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The manuscript tradition of eastern and western India developed __________.",
+    "options": [
+      "in parallel, with different religious themes",
+      "identically",
+      "from Europe",
+      "only after the Mughals"
+    ],
+    "correct_index": 0,
+    "solution": "The eastern (Pala/Buddhist) and western (Jain) traditions developed in parallel with different themes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The manuscript illustrations were valued for both their __________.",
+    "options": [
+      "religious merit and artistic beauty",
+      "trade value",
+      "military use",
+      "size"
+    ],
+    "correct_index": 0,
+    "solution": "Illustrated manuscripts were prized for religious merit and artistic beauty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The narrow horizontal format of early manuscript paintings was determined by the shape of the __________.",
+    "options": [
+      "palm leaf",
+      "temple wall",
+      "cloth",
+      "coin"
+    ],
+    "correct_index": 0,
+    "solution": "The long narrow format followed the shape of the palm leaf.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A characteristic red or blue background dot pattern and floral borders appear in __________ manuscripts.",
+    "options": [
+      "later Jain (paper) ",
+      "Pala palm-leaf",
+      "Mughal",
+      "modern"
+    ],
+    "correct_index": 0,
+    "solution": "Later paper Jain manuscripts show decorative borders and patterned backgrounds.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'further eye' convention means the eye on the far side of a profile face is __________.",
+    "options": [
+      "shown projecting beyond the outline",
+      "hidden",
+      "closed",
+      "enlarged in the centre"
+    ],
+    "correct_index": 0,
+    "solution": "The far eye is shown projecting beyond the facial outline in western Indian painting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The manuscript tradition demonstrates the close link between __________ and painting in medieval India.",
+    "options": [
+      "religion (text)",
+      "warfare",
+      "trade routes",
+      "coinage"
+    ],
+    "correct_index": 0,
+    "solution": "Manuscript painting shows the close link between religious text and painting.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Pala and western Indian styles are important as the __________ phase of Indian miniature painting.",
+    "options": [
+      "earliest",
+      "final",
+      "modern",
+      "colonial"
+    ],
+    "correct_index": 0,
+    "solution": "These form the earliest phase of the Indian miniature painting tradition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following materials was NOT typically used as a support for early manuscript painting?",
+    "options": [
+      "Canvas",
+      "Palm leaf",
+      "Paper",
+      "Wooden covers"
+    ],
+    "correct_index": 0,
+    "solution": "Canvas was not used; supports were palm leaf, paper and wooden covers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The manuscript painters worked in a style that emphasised __________ over naturalism.",
+    "options": [
+      "convention and symbolism",
+      "photographic accuracy",
+      "European perspective",
+      "shadow and light only"
+    ],
+    "correct_index": 0,
+    "solution": "Manuscript painting emphasised convention and symbolism rather than naturalism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The illustrated manuscript was usually meant for __________ use.",
+    "options": [
+      "religious study and worship",
+      "military planning",
+      "trade accounting",
+      "public advertising"
+    ],
+    "correct_index": 0,
+    "solution": "Illustrated manuscripts were used for religious study and worship.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The western Indian style is significant because it survived and evolved even under __________ rule.",
+    "options": [
+      "Sultanate",
+      "British",
+      "Maratha",
+      "Chola"
+    ],
+    "correct_index": 0,
+    "solution": "The western Indian style continued and evolved under the Delhi Sultanate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The manuscript painting tradition ultimately fed into the great schools of __________ painting.",
+    "options": [
+      "Rajput and Mughal miniature",
+      "European oil",
+      "Chinese scroll",
+      "modern abstract"
+    ],
+    "correct_index": 0,
+    "solution": "The manuscript tradition fed into the Rajput and Mughal miniature schools.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The colours in Pala paintings tend to be __________ compared with the bold western Indian palette.",
+    "options": [
+      "softer and more subdued",
+      "brighter and harsher",
+      "monochrome",
+      "metallic"
+    ],
+    "correct_index": 0,
+    "solution": "Pala painting uses softer, subdued colours compared with the bold western Indian palette.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main patrons of the western Indian manuscript tradition were the __________.",
+    "options": [
+      "Jain merchants and monastic orders",
+      "Mughal emperors",
+      "British collectors",
+      "Chola kings"
+    ],
+    "correct_index": 0,
+    "solution": "Jain merchant families and monastic orders were the chief patrons.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The manuscript illustrations help historians study the __________ of medieval India.",
+    "options": [
+      "dress, ornaments and religious life",
+      "modern politics",
+      "European trade",
+      "coin minting"
+    ],
+    "correct_index": 0,
+    "solution": "The illustrations reveal medieval Indian dress, ornament and religious life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The manuscript painting tradition spanned roughly the __________ centuries.",
+    "options": [
+      "10th to 15th",
+      "18th to 19th",
+      "1st to 3rd",
+      "20th"
+    ],
+    "correct_index": 0,
+    "solution": "The manuscript painting tradition flourished roughly between the 10th and 15th centuries.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The key achievement of the manuscript tradition was preserving and transmitting __________ through art.",
+    "options": [
+      "religious and literary knowledge",
+      "military tactics",
+      "trade routes",
+      "coin designs"
+    ],
+    "correct_index": 0,
+    "solution": "It preserved and transmitted religious and literary knowledge through illustration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gradual replacement of palm leaf by paper marks a __________ in the manuscript tradition.",
+    "options": [
+      "technical turning point",
+      "religious change",
+      "political revolt",
+      "trade decline"
+    ],
+    "correct_index": 0,
+    "solution": "The shift from palm leaf to paper was a major technical turning point.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The palm leaf used for early manuscripts was prepared by __________ before writing.",
+    "options": [
+      "treating, drying and smoothing",
+      "painting gold",
+      "coating with wax",
+      "burning lightly"
+    ],
+    "correct_index": 0,
+    "solution": "Palm leaves were treated, dried and smoothed to make a writing surface.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Pala manuscript illustrations are small because they were fitted into the __________ of the text.",
+    "options": [
+      "narrow palm-leaf folios",
+      "temple walls",
+      "large paper sheets",
+      "cloth scrolls"
+    ],
+    "correct_index": 0,
+    "solution": "The small size was dictated by the narrow palm-leaf folios of the manuscripts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main patrons of Pala Buddhist manuscripts were the __________.",
+    "options": [
+      "Buddhist monasteries (mahaviharas)",
+      "Rajput courts",
+      "Mughal emperors",
+      "European traders"
+    ],
+    "correct_index": 0,
+    "solution": "The Buddhist monasteries (mahaviharas) like Nalanda patronised Pala manuscripts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The western Indian manuscript style is marked by angular figures and the __________.",
+    "options": [
+      "protruding further eye",
+      "European halo",
+      "photographic shading",
+      "onion dome"
+    ],
+    "correct_index": 0,
+    "solution": "Angular figures and the protruding 'further eye' are hallmarks of the western Indian style.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The later western Indian manuscripts used lavish __________ that gave them a rich, jewelled look.",
+    "options": [
+      "gold and ultramarine (lapis) blue",
+      "grey wash",
+      "charcoal",
+      "white lime"
+    ],
+    "correct_index": 0,
+    "solution": "Later Jain manuscripts used lavish gold and ultramarine blue.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Buddhist Pala painting tradition spread to and survived in __________.",
+    "options": [
+      "Nepal and Tibet",
+      "Europe",
+      "China only",
+      "the Deccan"
+    ],
+    "correct_index": 0,
+    "solution": "The Pala Buddhist painting style spread to and survived in Nepal and Tibet.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The illustrated Jain text most frequently painted was the __________.",
+    "options": [
+      "Kalpasutra",
+      "Gita Govinda",
+      "Baburnama",
+      "Razmnama"
+    ],
+    "correct_index": 0,
+    "solution": "The Kalpasutra was the most frequently illustrated Jain text.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The illustrated 'Chaurapanchasika' and 'Gita Govinda' represent an early __________ (pre-Mughal Hindu) manuscript group.",
+    "options": [
+      "Rajput",
+      "Buddhist Pala",
+      "Mughal",
+      "Company"
+    ],
+    "correct_index": 0,
+    "solution": "These form an early pre-Mughal Hindu (Rajput) illustrated manuscript group.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The introduction of paper allowed manuscript painting to develop __________ formats.",
+    "options": [
+      "larger, horizontal",
+      "circular",
+      "vertical scroll",
+      "no"
+    ],
+    "correct_index": 0,
+    "solution": "Paper allowed larger horizontal formats than the narrow palm leaf.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Pala style used __________ lines to render its graceful figures.",
+    "options": [
+      "fluid, sinuous",
+      "harsh angular",
+      "broken dotted",
+      "geometric straight"
+    ],
+    "correct_index": 0,
+    "solution": "Pala painting used fluid, sinuous lines for its graceful figures.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Jain manuscripts were commissioned largely by wealthy __________ communities.",
+    "options": [
+      "merchant (bania)",
+      "farming",
+      "military",
+      "royal only"
+    ],
+    "correct_index": 0,
+    "solution": "Wealthy Jain merchant (bania) communities commissioned many manuscripts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The manuscript painting tradition provides evidence for medieval Indian __________, since it depicts everyday details.",
+    "options": [
+      "dress, ornament and religious life",
+      "coinage",
+      "trade treaties",
+      "military tactics"
+    ],
+    "correct_index": 0,
+    "solution": "Manuscript illustrations reveal medieval dress, ornament and religious life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Apabhramsa (western Indian) style eventually blended with __________ influence in the Sultanate period.",
+    "options": [
+      "Persian",
+      "Chinese",
+      "Roman",
+      "European"
+    ],
+    "correct_index": 0,
+    "solution": "The western Indian style blended with Persian influence during the Sultanate period.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The manuscript tradition is the __________ of the later Indian miniature painting schools.",
+    "options": [
+      "foundation/root",
+      "final phase",
+      "unrelated offshoot",
+      "European import"
+    ],
+    "correct_index": 0,
+    "solution": "The manuscript tradition is the foundation of the later miniature schools.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Pala manuscripts illustrated texts on the wisdom-goddess __________ among others.",
+    "options": [
+      "Prajnaparamita",
+      "Saraswati only",
+      "Lakshmi",
+      "Durga"
+    ],
+    "correct_index": 0,
+    "solution": "The Prajnaparamita (Perfection of Wisdom) texts were illustrated in Pala manuscripts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The palm-leaf manuscript pages were held together and protected by painted __________.",
+    "options": [
+      "wooden covers (patli)",
+      "metal clasps only",
+      "glass frames",
+      "cloth bags only"
+    ],
+    "correct_index": 0,
+    "solution": "Painted wooden covers (patli) protected the palm-leaf pages.",
+    "difficulty": "hard"
+  }
 ]
