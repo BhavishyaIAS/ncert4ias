@@ -1,52 +1,962 @@
 [
-  {"stem": "Madhubani (Mithila) painting originates from the state of __________.", "options": ["Bihar", "Odisha", "Maharashtra", "Rajasthan"], "correct_index": 0, "solution": "Madhubani (Mithila) painting comes from the Mithila region of Bihar.", "difficulty": "medium"},
-  {"stem": "Madhubani painting was traditionally done by women on the __________.", "options": ["walls and floors of homes", "temple ceilings", "cloth scrolls only", "palm leaves"], "correct_index": 0, "solution": "Madhubani painting was traditionally done by women on the walls and floors of homes.", "difficulty": "medium"},
-  {"stem": "Warli painting is a tribal art form from the state of __________.", "options": ["Maharashtra", "Bihar", "West Bengal", "Odisha"], "correct_index": 0, "solution": "Warli painting is a tribal art of Maharashtra.", "difficulty": "medium"},
-  {"stem": "Warli paintings are characterised by __________ figures on a mud-red background.", "options": ["simple white geometric (triangles, circles)", "colourful realistic", "gold", "photographic"], "correct_index": 0, "solution": "Warli art uses simple white geometric figures (triangles, circles, lines) on an earthy background.", "difficulty": "hard"},
-  {"stem": "Pattachitra painting is a traditional cloth-based scroll painting of __________.", "options": ["Odisha (and West Bengal)", "Punjab", "Gujarat", "Kashmir"], "correct_index": 0, "solution": "Pattachitra is a traditional scroll (cloth) painting of Odisha and West Bengal.", "difficulty": "medium"},
-  {"stem": "Pattachitra paintings mostly depict themes related to __________.", "options": ["Jagannath and Vaishnava mythology", "Mughal courts", "European life", "industry"], "correct_index": 0, "solution": "Pattachitra mostly depicts Lord Jagannath and Vaishnava themes.", "difficulty": "hard"},
-  {"stem": "Kalighat painting developed in the 19th century near a temple in __________.", "options": ["Kolkata (Calcutta)", "Chennai", "Delhi", "Mumbai"], "correct_index": 0, "solution": "Kalighat painting developed near the Kalighat temple in Calcutta.", "difficulty": "hard"},
-  {"stem": "Phad painting, a scroll art depicting folk deities, belongs to __________.", "options": ["Rajasthan", "Kerala", "Assam", "Bihar"], "correct_index": 0, "solution": "Phad is a scroll painting tradition of Rajasthan depicting folk deities like Pabuji.", "difficulty": "hard"},
-  {"stem": "Gond painting is a tribal art form associated with __________.", "options": ["Madhya Pradesh", "Tamil Nadu", "Punjab", "Gujarat"], "correct_index": 0, "solution": "Gond painting is a tribal art of the Gond community, mainly in Madhya Pradesh.", "difficulty": "hard"},
-  {"stem": "Kalamkari is a form of __________ done with natural dyes.", "options": ["hand-painted/block-printed textile art", "stone carving", "metal casting", "wall mural"], "correct_index": 0, "solution": "Kalamkari is a hand-painted or block-printed cotton textile art using natural dyes.", "difficulty": "hard"},
-  {"stem": "Kalamkari is traditionally practised in __________.", "options": ["Andhra Pradesh (and Telangana)", "Bihar", "Rajasthan", "Bengal"], "correct_index": 0, "solution": "Kalamkari (Srikalahasti and Machilipatnam styles) is from Andhra Pradesh/Telangana.", "difficulty": "hard"},
-  {"stem": "Pichwai paintings, made on cloth to hang behind the idol of Shrinathji, come from __________.", "options": ["Nathdwara, Rajasthan", "Puri, Odisha", "Thanjavur, Tamil Nadu", "Mithila, Bihar"], "correct_index": 0, "solution": "Pichwai paintings are made at Nathdwara in Rajasthan, depicting Shrinathji (Krishna).", "difficulty": "hard"},
-  {"stem": "Thangka paintings are associated with __________ Buddhism.", "options": ["Tibetan (Himalayan)", "Theravada", "Zen", "Chinese only"], "correct_index": 0, "solution": "Thangka is a Tibetan Buddhist scroll painting tradition of the Himalayan region.", "difficulty": "hard"},
-  {"stem": "The colours used in most folk and tribal paintings are __________.", "options": ["natural (mineral, vegetable) dyes", "synthetic oil paints", "acrylics", "enamels"], "correct_index": 0, "solution": "Folk and tribal paintings traditionally use natural mineral and vegetable dyes.", "difficulty": "medium"},
-  {"stem": "The 'living' art traditions are so called because they __________.", "options": ["are still practised by communities today", "have died out", "exist only in museums", "are purely ancient"], "correct_index": 0, "solution": "They are 'living' traditions because they are still practised by communities today.", "difficulty": "medium"},
-  {"stem": "Madhubani painting is characterised by __________.", "options": ["intricate patterns, double lines and filling every space", "empty backgrounds", "European realism", "monochrome"], "correct_index": 0, "solution": "Madhubani has intricate patterns, bold double-line outlines and densely filled compositions.", "difficulty": "hard"},
-  {"stem": "Warli painting is traditionally associated with __________ occasions.", "options": ["weddings, harvests and rituals", "trade fairs", "battles", "coronations only"], "correct_index": 0, "solution": "Warli painting is linked with weddings, harvests and community rituals.", "difficulty": "medium"},
-  {"stem": "The central motif in many Warli paintings is the __________.", "options": ["tarpa dance in a spiral", "lotus", "peacock", "chariot"], "correct_index": 0, "solution": "The spiral 'tarpa dance' of figures is a central Warli motif.", "difficulty": "hard"},
-  {"stem": "Kalighat paintings are known for their __________.", "options": ["bold, sweeping brushwork and social satire", "fine miniature detail", "European shading", "gold-heavy Mughal style"], "correct_index": 0, "solution": "Kalighat paintings are known for bold brushwork, simple forms and social satire.", "difficulty": "hard"},
-  {"stem": "Folk and tribal art forms are important sources of __________ for the communities that make them.", "options": ["cultural identity and livelihood", "military strength", "coinage", "trade routes"], "correct_index": 0, "solution": "These art forms provide cultural identity and livelihood for their communities.", "difficulty": "medium"},
-  {"stem": "The Cheriyal scroll paintings come from the state of __________.", "options": ["Telangana", "Kerala", "Punjab", "Assam"], "correct_index": 0, "solution": "Cheriyal scroll paintings are a folk tradition of Telangana.", "difficulty": "hard"},
-  {"stem": "The Manjusha painting tradition, on a scroll, belongs to __________.", "options": ["Bihar (Bhagalpur)", "Odisha", "Gujarat", "Kashmir"], "correct_index": 0, "solution": "Manjusha painting is a scroll folk art from Bhagalpur, Bihar.", "difficulty": "hard"},
-  {"stem": "Many folk and tribal art forms have received __________ tags to protect their identity.", "options": ["Geographical Indication (GI)", "trademark only", "patent only", "copyright only"], "correct_index": 0, "solution": "Several folk arts have received Geographical Indication (GI) tags.", "difficulty": "hard"},
-  {"stem": "Folk paintings differ from courtly miniatures in that they are __________.", "options": ["community-based and rooted in daily life and ritual", "made only for kings", "purely European", "always religious icons"], "correct_index": 0, "solution": "Folk paintings are community-based, rooted in daily life and ritual, unlike courtly miniatures.", "difficulty": "medium"},
-  {"stem": "The Pattachitra artists are called __________.", "options": ["chitrakars", "sthapatis", "shilpis only", "kumhars"], "correct_index": 0, "solution": "Pattachitra painters are traditionally called chitrakars.", "difficulty": "hard"},
-  {"stem": "Warli art is done using a paste of __________ as the white pigment.", "options": ["rice", "chalk only", "gold", "lime only"], "correct_index": 0, "solution": "Warli figures are painted with a white rice-paste pigment.", "difficulty": "hard"},
-  {"stem": "The Gond paintings are built up from patterns of __________.", "options": ["fine dots and dashes (lines)", "large flat colour only", "European shading", "gold leaf"], "correct_index": 0, "solution": "Gond paintings are built from intricate patterns of dots and dashes.", "difficulty": "hard"},
-  {"stem": "Folk and tribal art forms have gained __________ in modern times, moving onto paper and canvas.", "options": ["wider popularity and commercial value", "extinction", "government bans", "no interest"], "correct_index": 0, "solution": "These arts have gained wider popularity and commercial value, adapting to new media.", "difficulty": "medium"},
-  {"stem": "The Madhubani painting styles include Kachni (line) and __________ (colour-filling).", "options": ["Bharni", "Warli", "Phad", "Gond"], "correct_index": 0, "solution": "Madhubani styles include Kachni (line work) and Bharni (colour filling).", "difficulty": "hard"},
-  {"stem": "Folk art traditions are usually passed down __________.", "options": ["from generation to generation within families/communities", "through art colleges only", "from Europe", "by the government"], "correct_index": 0, "solution": "Folk art traditions are passed down through families and communities across generations.", "difficulty": "medium"},
-  {"stem": "The Jagannath cult of Puri is closely linked with the __________ painting tradition.", "options": ["Pattachitra", "Warli", "Madhubani", "Gond"], "correct_index": 0, "solution": "Pattachitra painting is closely linked with the Jagannath cult of Puri.", "difficulty": "hard"},
-  {"stem": "Folk and tribal art usually depicts __________.", "options": ["nature, deities, daily life and community rituals", "Mughal battles", "European portraits", "industrial machines"], "correct_index": 0, "solution": "Folk and tribal art depicts nature, deities, daily life and community rituals.", "difficulty": "medium"},
-  {"stem": "The Warli tribe's paintings reflect their close relationship with __________.", "options": ["nature and the environment", "the Mughal court", "the sea trade", "European culture"], "correct_index": 0, "solution": "Warli paintings reflect the tribe's close relationship with nature.", "difficulty": "medium"},
-  {"stem": "Pattachitra is painted on a specially prepared cloth called __________.", "options": ["patta (treated with chalk and gum)", "silk only", "paper", "bark"], "correct_index": 0, "solution": "Pattachitra is painted on a patta — cloth treated with a chalk-and-gum coating.", "difficulty": "hard"},
-  {"stem": "The revival and marketing of folk arts today helps to __________.", "options": ["preserve traditions and support artisans", "end the traditions", "westernise them", "reduce their value"], "correct_index": 0, "solution": "Reviving and marketing folk arts helps preserve traditions and support artisans.", "difficulty": "medium"},
-  {"stem": "The subject of many Madhubani paintings includes __________.", "options": ["gods, weddings and nature (fish, birds, trees)", "Mughal emperors", "European ships", "factories"], "correct_index": 0, "solution": "Madhubani paintings depict gods, weddings and nature motifs like fish, birds and trees.", "difficulty": "medium"},
-  {"stem": "The tradition of painting scrolls that are used while singing or narrating a story is seen in __________.", "options": ["Phad and Pattachitra (and Cheriyal)", "Mughal miniature", "Kangra", "Deccan"], "correct_index": 0, "solution": "Phad, Pattachitra and Cheriyal scrolls are used with storytelling and song.", "difficulty": "hard"},
-  {"stem": "Folk art forms are important because they represent the __________ of India.", "options": ["diverse living cultural heritage", "colonial past only", "military history", "trade routes"], "correct_index": 0, "solution": "Folk art forms represent India's diverse living cultural heritage.", "difficulty": "medium"},
-  {"stem": "Warli painting uses mainly __________ colours.", "options": ["white on an earthy brown/red", "many bright colours", "gold and silver", "black and blue"], "correct_index": 0, "solution": "Warli painting is mainly white figures on an earthy brown/red background.", "difficulty": "medium"},
-  {"stem": "Which of the following is a tribal art form?", "options": ["Gond painting", "Mughal miniature", "Kangra painting", "Company painting"], "correct_index": 0, "solution": "Gond painting is a tribal art form; the others are courtly/colonial schools.", "difficulty": "medium"},
-  {"stem": "Kalamkari literally means '__________ work'.", "options": ["pen (kalam)", "gold", "temple", "flower"], "correct_index": 0, "solution": "Kalamkari means 'pen work', referring to the pen used to draw with natural dyes.", "difficulty": "hard"},
-  {"stem": "The natural black dye in Kalamkari is often made using __________.", "options": ["fermented jaggery and iron", "charcoal only", "coal tar", "synthetic ink"], "correct_index": 0, "solution": "Kalamkari's black is traditionally made from a fermented jaggery-and-iron solution.", "difficulty": "hard"},
-  {"stem": "The living art traditions show that Indian art is not only in __________ but also among the people.", "options": ["museums and palaces", "the sky", "the sea", "foreign lands"], "correct_index": 0, "solution": "Living traditions show Indian art thrives among the people, not only in museums and palaces.", "difficulty": "medium"},
-  {"stem": "Madhubani painting received recognition and reached a wider audience when it moved from walls to __________.", "options": ["paper and cloth", "temple ceilings", "coins", "metal"], "correct_index": 0, "solution": "Madhubani gained wider recognition when it moved from walls to paper and cloth.", "difficulty": "medium"},
-  {"stem": "Folk and tribal art are usually created for __________ rather than for sale originally.", "options": ["ritual, festival and decoration", "export", "military use", "trade only"], "correct_index": 0, "solution": "Folk and tribal art was originally created for ritual, festival and decoration.", "difficulty": "medium"},
-  {"stem": "The scroll paintings of Bengal narrating stories are called __________.", "options": ["Patua (Patachitra) scrolls", "Thangka", "Pichwai", "Phad"], "correct_index": 0, "solution": "Bengal's storytelling scrolls are the Patua (Bengal Pattachitra) scrolls.", "difficulty": "hard"},
-  {"stem": "The variety of India's living art traditions reflects its __________.", "options": ["cultural and regional diversity", "uniformity", "foreign origin", "modern character only"], "correct_index": 0, "solution": "The variety of living traditions reflects India's cultural and regional diversity.", "difficulty": "easy"},
-  {"stem": "The importance of preserving living art traditions lies in maintaining __________.", "options": ["cultural continuity and artisan livelihoods", "military power", "trade surpluses", "colonial links"], "correct_index": 0, "solution": "Preserving these traditions maintains cultural continuity and supports artisans.", "difficulty": "medium"},
-  {"stem": "The living art traditions demonstrate the __________ nature of Indian art.", "options": ["continuous and evolving", "extinct", "purely ancient", "wholly foreign"], "correct_index": 0, "solution": "Living traditions demonstrate the continuous and evolving nature of Indian art.", "difficulty": "medium"},
-  {"stem": "Which art form is famous for depicting Lord Jagannath?", "options": ["Pattachitra of Odisha", "Warli of Maharashtra", "Gond of Madhya Pradesh", "Phad of Rajasthan"], "correct_index": 0, "solution": "Pattachitra of Odisha is famous for depicting Lord Jagannath.", "difficulty": "medium"}
+  {
+    "stem": "Madhubani (Mithila) painting originates from the state of __________.",
+    "options": [
+      "Bihar",
+      "Odisha",
+      "Maharashtra",
+      "Rajasthan"
+    ],
+    "correct_index": 0,
+    "solution": "Madhubani (Mithila) painting comes from the Mithila region of Bihar.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Madhubani painting was traditionally done by women on the __________.",
+    "options": [
+      "walls and floors of homes",
+      "temple ceilings",
+      "cloth scrolls only",
+      "palm leaves"
+    ],
+    "correct_index": 0,
+    "solution": "Madhubani painting was traditionally done by women on the walls and floors of homes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Warli painting is a tribal art form from the state of __________.",
+    "options": [
+      "Maharashtra",
+      "Bihar",
+      "West Bengal",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Warli painting is a tribal art of Maharashtra.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Warli paintings are characterised by __________ figures on a mud-red background.",
+    "options": [
+      "simple white geometric (triangles, circles)",
+      "colourful realistic",
+      "gold",
+      "photographic"
+    ],
+    "correct_index": 0,
+    "solution": "Warli art uses simple white geometric figures (triangles, circles, lines) on an earthy background.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Pattachitra painting is a traditional cloth-based scroll painting of __________.",
+    "options": [
+      "Odisha (and West Bengal)",
+      "Punjab",
+      "Gujarat",
+      "Kashmir"
+    ],
+    "correct_index": 0,
+    "solution": "Pattachitra is a traditional scroll (cloth) painting of Odisha and West Bengal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pattachitra paintings mostly depict themes related to __________.",
+    "options": [
+      "Jagannath and Vaishnava mythology",
+      "Mughal courts",
+      "European life",
+      "industry"
+    ],
+    "correct_index": 0,
+    "solution": "Pattachitra mostly depicts Lord Jagannath and Vaishnava themes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Kalighat painting developed in the 19th century near a temple in __________.",
+    "options": [
+      "Kolkata (Calcutta)",
+      "Chennai",
+      "Delhi",
+      "Mumbai"
+    ],
+    "correct_index": 0,
+    "solution": "Kalighat painting developed near the Kalighat temple in Calcutta.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Phad painting, a scroll art depicting folk deities, belongs to __________.",
+    "options": [
+      "Rajasthan",
+      "Kerala",
+      "Assam",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "solution": "Phad is a scroll painting tradition of Rajasthan depicting folk deities like Pabuji.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Gond painting is a tribal art form associated with __________.",
+    "options": [
+      "Madhya Pradesh",
+      "Tamil Nadu",
+      "Punjab",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Gond painting is a tribal art of the Gond community, mainly in Madhya Pradesh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Kalamkari is a form of __________ done with natural dyes.",
+    "options": [
+      "hand-painted/block-printed textile art",
+      "stone carving",
+      "metal casting",
+      "wall mural"
+    ],
+    "correct_index": 0,
+    "solution": "Kalamkari is a hand-painted or block-printed cotton textile art using natural dyes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Kalamkari is traditionally practised in __________.",
+    "options": [
+      "Andhra Pradesh (and Telangana)",
+      "Bihar",
+      "Rajasthan",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Kalamkari (Srikalahasti and Machilipatnam styles) is from Andhra Pradesh/Telangana.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Pichwai paintings, made on cloth to hang behind the idol of Shrinathji, come from __________.",
+    "options": [
+      "Nathdwara, Rajasthan",
+      "Puri, Odisha",
+      "Thanjavur, Tamil Nadu",
+      "Mithila, Bihar"
+    ],
+    "correct_index": 0,
+    "solution": "Pichwai paintings are made at Nathdwara in Rajasthan, depicting Shrinathji (Krishna).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Thangka paintings are associated with __________ Buddhism.",
+    "options": [
+      "Tibetan (Himalayan)",
+      "Theravada",
+      "Zen",
+      "Chinese only"
+    ],
+    "correct_index": 0,
+    "solution": "Thangka is a Tibetan Buddhist scroll painting tradition of the Himalayan region.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The colours used in most folk and tribal paintings are __________.",
+    "options": [
+      "natural (mineral, vegetable) dyes",
+      "synthetic oil paints",
+      "acrylics",
+      "enamels"
+    ],
+    "correct_index": 0,
+    "solution": "Folk and tribal paintings traditionally use natural mineral and vegetable dyes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'living' art traditions are so called because they __________.",
+    "options": [
+      "are still practised by communities today",
+      "have died out",
+      "exist only in museums",
+      "are purely ancient"
+    ],
+    "correct_index": 0,
+    "solution": "They are 'living' traditions because they are still practised by communities today.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Madhubani painting is characterised by __________.",
+    "options": [
+      "intricate patterns, double lines and filling every space",
+      "empty backgrounds",
+      "European realism",
+      "monochrome"
+    ],
+    "correct_index": 0,
+    "solution": "Madhubani has intricate patterns, bold double-line outlines and densely filled compositions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Warli painting is traditionally associated with __________ occasions.",
+    "options": [
+      "weddings, harvests and rituals",
+      "trade fairs",
+      "battles",
+      "coronations only"
+    ],
+    "correct_index": 0,
+    "solution": "Warli painting is linked with weddings, harvests and community rituals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The central motif in many Warli paintings is the __________.",
+    "options": [
+      "tarpa dance in a spiral",
+      "lotus",
+      "peacock",
+      "chariot"
+    ],
+    "correct_index": 0,
+    "solution": "The spiral 'tarpa dance' of figures is a central Warli motif.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Kalighat paintings are known for their __________.",
+    "options": [
+      "bold, sweeping brushwork and social satire",
+      "fine miniature detail",
+      "European shading",
+      "gold-heavy Mughal style"
+    ],
+    "correct_index": 0,
+    "solution": "Kalighat paintings are known for bold brushwork, simple forms and social satire.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Folk and tribal art forms are important sources of __________ for the communities that make them.",
+    "options": [
+      "cultural identity and livelihood",
+      "military strength",
+      "coinage",
+      "trade routes"
+    ],
+    "correct_index": 0,
+    "solution": "These art forms provide cultural identity and livelihood for their communities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Cheriyal scroll paintings come from the state of __________.",
+    "options": [
+      "Telangana",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Cheriyal scroll paintings are a folk tradition of Telangana.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Manjusha painting tradition, on a scroll, belongs to __________.",
+    "options": [
+      "Bihar (Bhagalpur)",
+      "Odisha",
+      "Gujarat",
+      "Kashmir"
+    ],
+    "correct_index": 0,
+    "solution": "Manjusha painting is a scroll folk art from Bhagalpur, Bihar.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Many folk and tribal art forms have received __________ tags to protect their identity.",
+    "options": [
+      "Geographical Indication (GI)",
+      "trademark only",
+      "patent only",
+      "copyright only"
+    ],
+    "correct_index": 0,
+    "solution": "Several folk arts have received Geographical Indication (GI) tags.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Folk paintings differ from courtly miniatures in that they are __________.",
+    "options": [
+      "community-based and rooted in daily life and ritual",
+      "made only for kings",
+      "purely European",
+      "always religious icons"
+    ],
+    "correct_index": 0,
+    "solution": "Folk paintings are community-based, rooted in daily life and ritual, unlike courtly miniatures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Pattachitra artists are called __________.",
+    "options": [
+      "chitrakars",
+      "sthapatis",
+      "shilpis only",
+      "kumhars"
+    ],
+    "correct_index": 0,
+    "solution": "Pattachitra painters are traditionally called chitrakars.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Warli art is done using a paste of __________ as the white pigment.",
+    "options": [
+      "rice",
+      "chalk only",
+      "gold",
+      "lime only"
+    ],
+    "correct_index": 0,
+    "solution": "Warli figures are painted with a white rice-paste pigment.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Gond paintings are built up from patterns of __________.",
+    "options": [
+      "fine dots and dashes (lines)",
+      "large flat colour only",
+      "European shading",
+      "gold leaf"
+    ],
+    "correct_index": 0,
+    "solution": "Gond paintings are built from intricate patterns of dots and dashes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Folk and tribal art forms have gained __________ in modern times, moving onto paper and canvas.",
+    "options": [
+      "wider popularity and commercial value",
+      "extinction",
+      "government bans",
+      "no interest"
+    ],
+    "correct_index": 0,
+    "solution": "These arts have gained wider popularity and commercial value, adapting to new media.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Madhubani painting styles include Kachni (line) and __________ (colour-filling).",
+    "options": [
+      "Bharni",
+      "Warli",
+      "Phad",
+      "Gond"
+    ],
+    "correct_index": 0,
+    "solution": "Madhubani styles include Kachni (line work) and Bharni (colour filling).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Folk art traditions are usually passed down __________.",
+    "options": [
+      "from generation to generation within families/communities",
+      "through art colleges only",
+      "from Europe",
+      "by the government"
+    ],
+    "correct_index": 0,
+    "solution": "Folk art traditions are passed down through families and communities across generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Jagannath cult of Puri is closely linked with the __________ painting tradition.",
+    "options": [
+      "Pattachitra",
+      "Warli",
+      "Madhubani",
+      "Gond"
+    ],
+    "correct_index": 0,
+    "solution": "Pattachitra painting is closely linked with the Jagannath cult of Puri.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Folk and tribal art usually depicts __________.",
+    "options": [
+      "nature, deities, daily life and community rituals",
+      "Mughal battles",
+      "European portraits",
+      "industrial machines"
+    ],
+    "correct_index": 0,
+    "solution": "Folk and tribal art depicts nature, deities, daily life and community rituals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Warli tribe's paintings reflect their close relationship with __________.",
+    "options": [
+      "nature and the environment",
+      "the Mughal court",
+      "the sea trade",
+      "European culture"
+    ],
+    "correct_index": 0,
+    "solution": "Warli paintings reflect the tribe's close relationship with nature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pattachitra is painted on a specially prepared cloth called __________.",
+    "options": [
+      "patta (treated with chalk and gum)",
+      "silk only",
+      "paper",
+      "bark"
+    ],
+    "correct_index": 0,
+    "solution": "Pattachitra is painted on a patta — cloth treated with a chalk-and-gum coating.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The revival and marketing of folk arts today helps to __________.",
+    "options": [
+      "preserve traditions and support artisans",
+      "end the traditions",
+      "westernise them",
+      "reduce their value"
+    ],
+    "correct_index": 0,
+    "solution": "Reviving and marketing folk arts helps preserve traditions and support artisans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The subject of many Madhubani paintings includes __________.",
+    "options": [
+      "gods, weddings and nature (fish, birds, trees)",
+      "Mughal emperors",
+      "European ships",
+      "factories"
+    ],
+    "correct_index": 0,
+    "solution": "Madhubani paintings depict gods, weddings and nature motifs like fish, birds and trees.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tradition of painting scrolls that are used while singing or narrating a story is seen in __________.",
+    "options": [
+      "Phad and Pattachitra (and Cheriyal)",
+      "Mughal miniature",
+      "Kangra",
+      "Deccan"
+    ],
+    "correct_index": 0,
+    "solution": "Phad, Pattachitra and Cheriyal scrolls are used with storytelling and song.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Folk art forms are important because they represent the __________ of India.",
+    "options": [
+      "diverse living cultural heritage",
+      "colonial past only",
+      "military history",
+      "trade routes"
+    ],
+    "correct_index": 0,
+    "solution": "Folk art forms represent India's diverse living cultural heritage.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Warli painting uses mainly __________ colours.",
+    "options": [
+      "white on an earthy brown/red",
+      "many bright colours",
+      "gold and silver",
+      "black and blue"
+    ],
+    "correct_index": 0,
+    "solution": "Warli painting is mainly white figures on an earthy brown/red background.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a tribal art form?",
+    "options": [
+      "Gond painting",
+      "Mughal miniature",
+      "Kangra painting",
+      "Company painting"
+    ],
+    "correct_index": 0,
+    "solution": "Gond painting is a tribal art form; the others are courtly/colonial schools.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Kalamkari literally means '__________ work'.",
+    "options": [
+      "pen (kalam)",
+      "gold",
+      "temple",
+      "flower"
+    ],
+    "correct_index": 0,
+    "solution": "Kalamkari means 'pen work', referring to the pen used to draw with natural dyes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The natural black dye in Kalamkari is often made using __________.",
+    "options": [
+      "fermented jaggery and iron",
+      "charcoal only",
+      "coal tar",
+      "synthetic ink"
+    ],
+    "correct_index": 0,
+    "solution": "Kalamkari's black is traditionally made from a fermented jaggery-and-iron solution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The living art traditions show that Indian art is not only in __________ but also among the people.",
+    "options": [
+      "museums and palaces",
+      "the sky",
+      "the sea",
+      "foreign lands"
+    ],
+    "correct_index": 0,
+    "solution": "Living traditions show Indian art thrives among the people, not only in museums and palaces.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Madhubani painting received recognition and reached a wider audience when it moved from walls to __________.",
+    "options": [
+      "paper and cloth",
+      "temple ceilings",
+      "coins",
+      "metal"
+    ],
+    "correct_index": 0,
+    "solution": "Madhubani gained wider recognition when it moved from walls to paper and cloth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Folk and tribal art are usually created for __________ rather than for sale originally.",
+    "options": [
+      "ritual, festival and decoration",
+      "export",
+      "military use",
+      "trade only"
+    ],
+    "correct_index": 0,
+    "solution": "Folk and tribal art was originally created for ritual, festival and decoration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scroll paintings of Bengal narrating stories are called __________.",
+    "options": [
+      "Patua (Patachitra) scrolls",
+      "Thangka",
+      "Pichwai",
+      "Phad"
+    ],
+    "correct_index": 0,
+    "solution": "Bengal's storytelling scrolls are the Patua (Bengal Pattachitra) scrolls.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The variety of India's living art traditions reflects its __________.",
+    "options": [
+      "cultural and regional diversity",
+      "uniformity",
+      "foreign origin",
+      "modern character only"
+    ],
+    "correct_index": 0,
+    "solution": "The variety of living traditions reflects India's cultural and regional diversity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The importance of preserving living art traditions lies in maintaining __________.",
+    "options": [
+      "cultural continuity and artisan livelihoods",
+      "military power",
+      "trade surpluses",
+      "colonial links"
+    ],
+    "correct_index": 0,
+    "solution": "Preserving these traditions maintains cultural continuity and supports artisans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The living art traditions demonstrate the __________ nature of Indian art.",
+    "options": [
+      "continuous and evolving",
+      "extinct",
+      "purely ancient",
+      "wholly foreign"
+    ],
+    "correct_index": 0,
+    "solution": "Living traditions demonstrate the continuous and evolving nature of Indian art.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which art form is famous for depicting Lord Jagannath?",
+    "options": [
+      "Pattachitra of Odisha",
+      "Warli of Maharashtra",
+      "Gond of Madhya Pradesh",
+      "Phad of Rajasthan"
+    ],
+    "correct_index": 0,
+    "solution": "Pattachitra of Odisha is famous for depicting Lord Jagannath.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tanjore (Thanjavur) painting is distinguished by its use of __________.",
+    "options": [
+      "gold foil and gesso relief work",
+      "white geometric figures",
+      "natural indigo only",
+      "black ink line only"
+    ],
+    "correct_index": 0,
+    "solution": "Tanjore paintings are famous for gold foil and raised gesso work, often with gem-like inlays.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Tanjore painting originates from the state of __________.",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Odisha",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "solution": "Tanjore (Thanjavur) painting is from Tamil Nadu.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mysore painting, known for its delicate gesso work, is a traditional art of __________.",
+    "options": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Maharashtra",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Mysore painting is a classical painting tradition of Karnataka.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Pithora painting is a ritual tribal art form of the __________ community.",
+    "options": [
+      "Rathwa/Bhil (Gujarat–MP)",
+      "Warli (Maharashtra)",
+      "Gond (MP)",
+      "Santhal (Jharkhand)"
+    ],
+    "correct_index": 0,
+    "solution": "Pithora is a ritual wall painting of the Rathwa and Bhil tribes of Gujarat and Madhya Pradesh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Saura painting, similar in style to Warli, is a tribal art of __________.",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Saura (Sora) painting is a tribal wall art of Odisha.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sohrai and Khovar paintings, done by women on house walls, belong to __________.",
+    "options": [
+      "Jharkhand",
+      "Rajasthan",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "Sohrai and Khovar are traditional wall paintings of Jharkhand.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rogan art, a cloth painting done with a stylus and castor-oil-based paint, is from __________.",
+    "options": [
+      "Kutch, Gujarat",
+      "Mithila, Bihar",
+      "Nathdwara, Rajasthan",
+      "Puri, Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Rogan art is a rare cloth-painting tradition of Kutch, Gujarat.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Aipan is a ritual floor and wall art of the state of __________.",
+    "options": [
+      "Uttarakhand",
+      "Kerala",
+      "Bengal",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Aipan is a ritual decorative art of Uttarakhand.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Mandana wall and floor paintings are traditional to __________.",
+    "options": [
+      "Rajasthan (and MP)",
+      "Kerala",
+      "Assam",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Mandana is a traditional wall and floor art of Rajasthan and Madhya Pradesh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The floor-drawing art known as 'Kolam' is characteristic of __________.",
+    "options": [
+      "Tamil Nadu",
+      "Bengal",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Kolam is the geometric floor art of Tamil Nadu.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bengali ritual floor art drawn with rice paste is called __________.",
+    "options": [
+      "Alpana",
+      "Kolam",
+      "Mandana",
+      "Aipan"
+    ],
+    "correct_index": 0,
+    "solution": "Alpana is the ritual floor art of Bengal, drawn with rice paste.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Rangoli' and 'Muggu' are regional names for the same broad art of __________.",
+    "options": [
+      "decorative floor drawing",
+      "wall carving",
+      "cloth weaving",
+      "metal casting"
+    ],
+    "correct_index": 0,
+    "solution": "Rangoli (Maharashtra) and Muggu (Andhra) are regional forms of decorative floor art.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Kalamezhuthu, a ritual floor drawing of deities using coloured powders, is a temple art of __________.",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Kalamezhuthu is a ritual floor art of Kerala temples.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Kaavad is a portable wooden __________ used by storytellers in Rajasthan.",
+    "options": [
+      "shrine box with painted panels",
+      "puppet",
+      "drum",
+      "scroll of cloth"
+    ],
+    "correct_index": 0,
+    "solution": "The Kaavad is a portable painted wooden shrine used in Rajasthani storytelling.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The hand-painted playing cards traditionally made in India are called __________.",
+    "options": [
+      "Ganjifa",
+      "Pattachitra",
+      "Kalamkari",
+      "Phad"
+    ],
+    "correct_index": 0,
+    "solution": "Ganjifa are traditional hand-painted circular playing cards.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bhil tribal painting is built up using patterns of __________.",
+    "options": [
+      "multi-coloured dots",
+      "straight white lines",
+      "gold foil",
+      "geometric triangles only"
+    ],
+    "correct_index": 0,
+    "solution": "Bhil painting is characterised by fields of multi-coloured dots.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Chittara painting, done by the Deewaru community, is a folk art of __________.",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Odisha",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "solution": "Chittara is a folk wall art of Karnataka.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The scroll-painters of Bengal who sing while unrolling their painted scrolls are the __________.",
+    "options": [
+      "Patuas (Chitrakars)",
+      "Chiteras",
+      "Sthapatis",
+      "Nakashi"
+    ],
+    "correct_index": 0,
+    "solution": "The Patuas (Chitrakars) of Bengal sing 'pater gaan' while unrolling their scrolls.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Kalighat paintings often satirised the __________ of 19th-century Calcutta.",
+    "options": [
+      "newly rich 'babus' and social manners",
+      "Mughal court",
+      "tribal life",
+      "temple rituals"
+    ],
+    "correct_index": 0,
+    "solution": "Kalighat paintings satirised the westernised 'babu' class and social manners of colonial Calcutta.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Phad scroll of Rajasthan traditionally narrates the epic of the folk hero __________.",
+    "options": [
+      "Pabuji (and Devnarayan)",
+      "Rama",
+      "Krishna",
+      "Prithviraj"
+    ],
+    "correct_index": 0,
+    "solution": "Phad scrolls narrate the epics of folk deities like Pabuji and Devnarayan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Madhubani painting was traditionally done on freshly plastered walls during __________.",
+    "options": [
+      "weddings and festivals",
+      "funerals only",
+      "harvest sale",
+      "coronations"
+    ],
+    "correct_index": 0,
+    "solution": "Madhubani was traditionally painted on walls for weddings and festivals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nirmal paintings and lacquer toys are a traditional craft of __________.",
+    "options": [
+      "Telangana",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Nirmal in Telangana is famous for its paintings and lacquered wooden crafts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The distinctive feature of Warli painting is that it uses only __________.",
+    "options": [
+      "basic geometric shapes (circle, triangle, square)",
+      "gold foil",
+      "many bright colours",
+      "photographic detail"
+    ],
+    "correct_index": 0,
+    "solution": "Warli painting is built from basic geometric shapes representing the sun, mountains and people.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Gond artists such as Jangarh Singh Shyam brought tribal painting to __________.",
+    "options": [
+      "national and international galleries",
+      "temple walls only",
+      "Mughal courts",
+      "extinction"
+    ],
+    "correct_index": 0,
+    "solution": "Jangarh Singh Shyam brought Gond art to national and international recognition.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The living folk and tribal arts of India are increasingly protected through __________ status.",
+    "options": [
+      "Geographical Indication (GI)",
+      "military",
+      "trademark of foreign firms",
+      "patent monopoly"
+    ],
+    "correct_index": 0,
+    "solution": "Many folk arts have received GI (Geographical Indication) status to protect them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tanjore paintings usually depict __________.",
+    "options": [
+      "Hindu gods and goddesses (esp. Krishna)",
+      "Mughal emperors",
+      "European life",
+      "tribal hunts"
+    ],
+    "correct_index": 0,
+    "solution": "Tanjore paintings usually depict Hindu deities, especially Krishna.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The raised, embossed effect in Tanjore and Mysore painting is created using __________.",
+    "options": [
+      "gesso (a paste base)",
+      "beetle wings",
+      "rice paste",
+      "iron filings"
+    ],
+    "correct_index": 0,
+    "solution": "A gesso paste base creates the raised, embossed effect for gilding in these paintings.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a floor-art tradition rather than a scroll or wall painting?",
+    "options": [
+      "Kolam",
+      "Pattachitra",
+      "Phad",
+      "Cheriyal"
+    ],
+    "correct_index": 0,
+    "solution": "Kolam is a floor-art tradition; the others are scroll/wall paintings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tradition of decorating cattle and depicting village life is central to __________ art.",
+    "options": [
+      "Warli and Saura",
+      "Mughal miniature",
+      "Tanjore",
+      "Kalighat"
+    ],
+    "correct_index": 0,
+    "solution": "Warli and Saura tribal art centre on village life, farming and community activities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main function of most Indian folk and tribal floor arts (kolam, alpana, aipan) is to __________.",
+    "options": [
+      "welcome deities and bring auspiciousness",
+      "record history",
+      "map fields",
+      "count wealth"
+    ],
+    "correct_index": 0,
+    "solution": "Ritual floor arts are drawn to welcome deities and invite auspiciousness and prosperity.",
+    "difficulty": "medium"
+  }
 ]
