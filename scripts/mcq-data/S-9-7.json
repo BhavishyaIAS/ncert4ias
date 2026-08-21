@@ -1,0 +1,602 @@
+[
+  {
+    "stem": "In science, work is said to be done when a __________ moves an object.",
+    "options": [
+      "force",
+      "colour",
+      "sound",
+      "smell"
+    ],
+    "correct_index": 0,
+    "solution": "Work is done when a force acts on an object and moves it in the direction of the force.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Work done is calculated as __________.",
+    "options": [
+      "force × displacement (in the direction of force)",
+      "force ÷ displacement",
+      "force + displacement",
+      "force × time"
+    ],
+    "correct_index": 0,
+    "solution": "Work = force × displacement in the direction of the force.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The SI unit of work is the __________.",
+    "options": [
+      "joule (J)",
+      "newton",
+      "watt",
+      "pascal"
+    ],
+    "correct_index": 0,
+    "solution": "Work is measured in joules (J); one joule is one newton-metre.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One joule of work is done when a force of __________ moves an object by 1 metre in its direction.",
+    "options": [
+      "1 newton",
+      "1 kilogram",
+      "1 metre",
+      "1 watt"
+    ],
+    "correct_index": 0,
+    "solution": "1 joule = 1 newton × 1 metre; a 1 N force moving an object 1 m does 1 J of work.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If a person holds a heavy bag stationary, the work done on the bag is __________.",
+    "options": [
+      "zero (no displacement)",
+      "very large",
+      "negative",
+      "equal to the weight"
+    ],
+    "correct_index": 0,
+    "solution": "No displacement means no work is done, even though a force is applied.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The capacity to do work is called __________.",
+    "options": [
+      "energy",
+      "force",
+      "momentum",
+      "power"
+    ],
+    "correct_index": 0,
+    "solution": "Energy is the capacity or ability to do work.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The SI unit of energy is the __________.",
+    "options": [
+      "joule (J)",
+      "newton",
+      "watt",
+      "kilogram"
+    ],
+    "correct_index": 0,
+    "solution": "Energy, like work, is measured in joules (J).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The energy possessed by a body due to its motion is called __________ energy.",
+    "options": [
+      "kinetic",
+      "potential",
+      "chemical",
+      "nuclear"
+    ],
+    "correct_index": 0,
+    "solution": "Kinetic energy is the energy of a body due to its motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The kinetic energy of a body is given by __________.",
+    "options": [
+      "½ mv²",
+      "mgh",
+      "mv",
+      "ma"
+    ],
+    "correct_index": 0,
+    "solution": "Kinetic energy = ½ × mass × velocity² (½ mv²).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The energy possessed by a body due to its position or configuration is called __________ energy.",
+    "options": [
+      "potential",
+      "kinetic",
+      "sound",
+      "light"
+    ],
+    "correct_index": 0,
+    "solution": "Potential energy is stored energy due to position or configuration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gravitational potential energy of a body at height h is given by __________.",
+    "options": [
+      "mgh",
+      "½ mv²",
+      "mv",
+      "ma"
+    ],
+    "correct_index": 0,
+    "solution": "Gravitational potential energy = mass × gravity × height (mgh).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A stretched bow or a compressed spring stores __________ energy.",
+    "options": [
+      "elastic potential",
+      "kinetic",
+      "chemical",
+      "nuclear"
+    ],
+    "correct_index": 0,
+    "solution": "A stretched bow or compressed spring stores elastic potential energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The law of conservation of energy states that energy can neither be __________.",
+    "options": [
+      "created nor destroyed, only transformed",
+      "created only",
+      "destroyed only",
+      "stored"
+    ],
+    "correct_index": 0,
+    "solution": "The law of conservation of energy: energy is neither created nor destroyed but only changes from one form to another.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A body falling from a height converts its __________ into kinetic energy.",
+    "options": [
+      "potential energy",
+      "chemical energy",
+      "sound energy",
+      "light energy"
+    ],
+    "correct_index": 0,
+    "solution": "As a body falls, its gravitational potential energy is converted into kinetic energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a simple pendulum, energy continuously changes between __________.",
+    "options": [
+      "kinetic and potential energy",
+      "chemical and light energy",
+      "sound and heat energy",
+      "nuclear and chemical energy"
+    ],
+    "correct_index": 0,
+    "solution": "A pendulum's energy changes between kinetic (at the bottom) and potential (at the extremes) energy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rate of doing work (or the rate of energy transfer) is called __________.",
+    "options": [
+      "power",
+      "force",
+      "momentum",
+      "energy"
+    ],
+    "correct_index": 0,
+    "solution": "Power is the rate at which work is done or energy is transferred.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The SI unit of power is the __________.",
+    "options": [
+      "watt (W)",
+      "joule",
+      "newton",
+      "pascal"
+    ],
+    "correct_index": 0,
+    "solution": "Power is measured in watts (W); one watt is one joule per second.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Power is calculated as __________.",
+    "options": [
+      "work done ÷ time taken",
+      "work × time",
+      "force × distance",
+      "energy × time"
+    ],
+    "correct_index": 0,
+    "solution": "Power = work done ÷ time taken.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "1 kilowatt is equal to __________ watts.",
+    "options": [
+      "1000",
+      "100",
+      "10",
+      "10000"
+    ],
+    "correct_index": 0,
+    "solution": "1 kilowatt = 1000 watts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The commercial unit of electrical energy is the __________.",
+    "options": [
+      "kilowatt-hour (kWh)",
+      "watt",
+      "joule",
+      "newton"
+    ],
+    "correct_index": 0,
+    "solution": "The kilowatt-hour (kWh), or 'unit', is the commercial unit of electrical energy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "1 kilowatt-hour equals __________ joules.",
+    "options": [
+      "3.6 × 10⁶ J",
+      "1000 J",
+      "3600 J",
+      "1 J"
+    ],
+    "correct_index": 0,
+    "solution": "1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A device that makes work easier is called a __________.",
+    "options": [
+      "machine",
+      "battery",
+      "conductor",
+      "thermometer"
+    ],
+    "correct_index": 0,
+    "solution": "A machine is a device that makes work easier, faster, or changes the direction of a force.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A lever, an inclined plane and a pulley are examples of __________.",
+    "options": [
+      "simple machines",
+      "complex electronic devices",
+      "energy sources",
+      "measuring instruments"
+    ],
+    "correct_index": 0,
+    "solution": "Levers, inclined planes and pulleys are simple machines.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A see-saw is an example of a __________.",
+    "options": [
+      "lever",
+      "pulley",
+      "wheel and axle",
+      "inclined plane"
+    ],
+    "correct_index": 0,
+    "solution": "A see-saw is a lever, with a fixed pivot (fulcrum) in the middle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The fixed point about which a lever turns is called the __________.",
+    "options": [
+      "fulcrum",
+      "effort",
+      "load",
+      "axle"
+    ],
+    "correct_index": 0,
+    "solution": "The fulcrum is the fixed pivot point about which a lever rotates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A ramp used to move heavy loads to a higher level is an example of a(n) __________.",
+    "options": [
+      "inclined plane",
+      "lever",
+      "pulley",
+      "wheel and axle"
+    ],
+    "correct_index": 0,
+    "solution": "A ramp is an inclined plane, which reduces the effort needed to raise a load.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A pulley changes the __________ of the force needed to lift a load.",
+    "options": [
+      "direction",
+      "colour",
+      "temperature",
+      "mass"
+    ],
+    "correct_index": 0,
+    "solution": "A single fixed pulley changes the direction of the applied force, making lifting more convenient.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Simple machines are useful because they __________.",
+    "options": [
+      "reduce the effort or change the direction of force needed",
+      "create energy",
+      "destroy energy",
+      "increase the work done"
+    ],
+    "correct_index": 0,
+    "solution": "Simple machines make work easier by reducing effort or changing the direction of the applied force; they do not create energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A body of mass 2 kg moving at 3 m/s has kinetic energy of __________.",
+    "options": [
+      "9 J",
+      "6 J",
+      "3 J",
+      "18 J"
+    ],
+    "correct_index": 0,
+    "solution": "KE = ½mv² = ½ × 2 × 3² = ½ × 2 × 9 = 9 J.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 5 kg object raised to a height of 2 m (g = 10 m/s²) gains potential energy of __________.",
+    "options": [
+      "100 J",
+      "10 J",
+      "50 J",
+      "7 J"
+    ],
+    "correct_index": 0,
+    "solution": "PE = mgh = 5 × 10 × 2 = 100 J.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The energy stored in food and fuels is a form of __________ energy.",
+    "options": [
+      "chemical",
+      "kinetic",
+      "sound",
+      "nuclear"
+    ],
+    "correct_index": 0,
+    "solution": "Food and fuels store chemical energy, released during reactions like respiration or burning.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When we switch on a bulb, electrical energy is converted mainly into __________.",
+    "options": [
+      "light and heat energy",
+      "sound energy",
+      "chemical energy",
+      "nuclear energy"
+    ],
+    "correct_index": 0,
+    "solution": "A bulb converts electrical energy into light and heat energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The energy released in the Sun and stars is __________ energy.",
+    "options": [
+      "nuclear",
+      "chemical",
+      "sound",
+      "elastic"
+    ],
+    "correct_index": 0,
+    "solution": "The Sun and stars release nuclear energy from nuclear reactions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A device with a machine 'advantage' can lift a heavy load with a smaller effort but over a __________.",
+    "options": [
+      "longer distance",
+      "shorter distance",
+      "zero distance",
+      "negative distance"
+    ],
+    "correct_index": 0,
+    "solution": "A simple machine may reduce effort but the effort must act over a larger distance; total work stays about the same.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "No work is done when the force applied is __________ to the direction of displacement.",
+    "options": [
+      "perpendicular",
+      "parallel",
+      "along",
+      "opposite"
+    ],
+    "correct_index": 0,
+    "solution": "When the force is perpendicular to the displacement, no work is done (e.g., carrying a bag horizontally).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The energy of a moving car is mainly __________ energy.",
+    "options": [
+      "kinetic",
+      "potential",
+      "sound",
+      "chemical"
+    ],
+    "correct_index": 0,
+    "solution": "A moving car possesses kinetic energy due to its motion.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The energy of water stored in a high dam is mainly __________ energy.",
+    "options": [
+      "potential",
+      "kinetic",
+      "sound",
+      "chemical"
+    ],
+    "correct_index": 0,
+    "solution": "Water at a height in a dam has gravitational potential energy, which can be converted to electricity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a hydroelectric power plant, the potential energy of water is converted into __________.",
+    "options": [
+      "kinetic energy and then electrical energy",
+      "chemical energy",
+      "sound energy",
+      "nuclear energy"
+    ],
+    "correct_index": 0,
+    "solution": "Falling water's potential energy becomes kinetic energy that turns turbines to generate electrical energy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Two persons do the same work; the one taking less time has __________ power.",
+    "options": [
+      "more",
+      "less",
+      "zero",
+      "negative"
+    ],
+    "correct_index": 0,
+    "solution": "Power = work/time, so doing the same work in less time means more power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A screw and an axe (wedge) are examples of __________.",
+    "options": [
+      "simple machines",
+      "energy sources",
+      "electrical devices",
+      "measuring tools"
+    ],
+    "correct_index": 0,
+    "solution": "A screw is a type of inclined plane, and a wedge/axe is a simple machine.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following possesses potential energy?",
+    "options": [
+      "A stretched rubber band",
+      "A moving bus",
+      "A flowing river",
+      "A spinning top"
+    ],
+    "correct_index": 0,
+    "solution": "A stretched rubber band stores elastic potential energy; the others show kinetic energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Energy transformations always obey the law of conservation of energy, meaning the total energy __________.",
+    "options": [
+      "remains constant",
+      "increases",
+      "decreases to zero",
+      "disappears"
+    ],
+    "correct_index": 0,
+    "solution": "In any transformation, the total energy remains constant; it only changes form.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A crane lifting a load does work against __________.",
+    "options": [
+      "gravity",
+      "friction only",
+      "magnetism",
+      "sound"
+    ],
+    "correct_index": 0,
+    "solution": "Lifting a load upward does work against the force of gravity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The power of a machine rated 100 W means it does __________ of work each second.",
+    "options": [
+      "100 joules",
+      "100 newtons",
+      "100 watts",
+      "100 metres"
+    ],
+    "correct_index": 0,
+    "solution": "100 W means 100 joules of work is done every second.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a form of energy?",
+    "options": [
+      "Heat energy",
+      "Displacement",
+      "Mass",
+      "Time"
+    ],
+    "correct_index": 0,
+    "solution": "Heat is a form of energy; displacement, mass and time are not forms of energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When work is done against friction, energy is mostly converted into __________.",
+    "options": [
+      "heat",
+      "chemical energy",
+      "nuclear energy",
+      "sound only"
+    ],
+    "correct_index": 0,
+    "solution": "Work done against friction is largely converted into heat energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A wheel and axle (like a steering wheel) is a simple machine that helps by __________.",
+    "options": [
+      "applying a small effort over a larger turn to move a load",
+      "creating energy",
+      "destroying energy",
+      "producing electricity"
+    ],
+    "correct_index": 0,
+    "solution": "A wheel and axle lets a small effort applied on the wheel move a load on the axle more easily.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The energy possessed by a body due to its position is __________ energy.",
+    "options": [
+      "potential",
+      "kinetic",
+      "sound",
+      "light"
+    ],
+    "correct_index": 0,
+    "solution": "Potential energy is due to position or configuration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A simple machine like a lever helps by __________.",
+    "options": [
+      "making work easier or changing the direction of force",
+      "creating energy",
+      "destroying energy",
+      "producing electricity"
+    ],
+    "correct_index": 0,
+    "solution": "Simple machines make work easier or change the direction of the applied force; they do not create energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Work, Energy, and Simple Machines' is that:",
+    "options": [
+      "work is force times displacement, energy is the capacity to do work and is conserved, and simple machines make work easier",
+      "energy can be created",
+      "machines create energy",
+      "work is done even without displacement"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains work, kinetic and potential energy, the conservation of energy, power, and how simple machines make work easier.",
+    "difficulty": "easy"
+  }
+]
