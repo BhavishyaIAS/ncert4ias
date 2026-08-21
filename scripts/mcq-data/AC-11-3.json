@@ -1,52 +1,866 @@
 [
-  {"stem": "The national emblem of India is adapted from the __________ of Emperor Ashoka.", "options": ["Lion Capital at Sarnath", "Iron Pillar of Delhi", "Great Stupa at Sanchi", "Didarganj Yakshi"], "correct_index": 0, "solution": "India's national emblem is derived from the Sarnath Lion Capital of Ashoka.", "difficulty": "easy"},
-  {"stem": "The Lion Capital at Sarnath originally had __________ lions carved back to back.", "options": ["four", "three", "two", "five"], "correct_index": 0, "solution": "The Sarnath capital has four lions carved back to back.", "difficulty": "medium"},
-  {"stem": "The abacus of the Sarnath Lion Capital is decorated with four animals and four __________.", "options": ["wheels (chakras)", "lotus flowers", "elephants only", "swords"], "correct_index": 0, "solution": "The abacus has four Dharma chakras alternating with four animals (lion, elephant, bull, horse).", "difficulty": "hard"},
-  {"stem": "The four animals on the abacus of the Sarnath Lion Capital are the lion, elephant, bull and __________.", "options": ["horse", "deer", "peacock", "camel"], "correct_index": 0, "solution": "The four animals are the lion, elephant, bull and galloping horse.", "difficulty": "hard"},
-  {"stem": "Mauryan pillars are distinguished by their highly __________ surface.", "options": ["polished (mirror-like)", "rough", "painted", "gilded"], "correct_index": 0, "solution": "Mauryan pillars have a characteristic high 'Mauryan polish' giving a mirror-like finish.", "difficulty": "medium"},
-  {"stem": "The Mauryan pillars were mostly carved from __________.", "options": ["Chunar sandstone", "marble", "granite", "basalt"], "correct_index": 0, "solution": "Mauryan pillars were made largely of polished Chunar sandstone.", "difficulty": "hard"},
-  {"stem": "The famous 'Didarganj Yakshi' is a Mauryan sculpture found near __________.", "options": ["Patna (Pataliputra)", "Sarnath", "Sanchi", "Mathura"], "correct_index": 0, "solution": "The Didarganj Yakshi was found near Patna (ancient Pataliputra).", "difficulty": "hard"},
-  {"stem": "The Didarganj Yakshi is admired for its __________.", "options": ["polished surface and life-like modelling", "religious inscription", "gold covering", "abstract geometry"], "correct_index": 0, "solution": "The Yakshi shows the fine Mauryan polish and life-like, sensitive modelling.", "difficulty": "medium"},
-  {"stem": "A Yakshi is a __________ in Indian art.", "options": ["female nature spirit / fertility figure", "male warrior", "royal minister", "river"], "correct_index": 0, "solution": "A Yakshi is a female nature spirit associated with fertility.", "difficulty": "medium"},
-  {"stem": "The pillars erected by Ashoka carried his __________ inscribed on them.", "options": ["edicts (dhamma messages)", "coins", "songs", "maps"], "correct_index": 0, "solution": "Ashokan pillars carry his edicts spreading the message of dhamma.", "difficulty": "medium"},
-  {"stem": "A hemispherical structure built over the relics of the Buddha is called a __________.", "options": ["stupa", "vihara", "chaitya", "gopuram"], "correct_index": 0, "solution": "A stupa is a hemispherical mound built to enshrine relics, especially of the Buddha.", "difficulty": "easy"},
-  {"stem": "The earliest and one of the most famous stupas, begun in the Mauryan period, is at __________.", "options": ["Sanchi", "Sarnath", "Amaravati", "Nalanda"], "correct_index": 0, "solution": "The Great Stupa at Sanchi was originally begun by Ashoka in the Mauryan period.", "difficulty": "medium"},
-  {"stem": "The rock-cut caves donated by Ashoka and his grandson Dasharatha to the Ajivika sect are the __________ caves.", "options": ["Barabar (and Nagarjuni)", "Ajanta", "Ellora", "Elephanta"], "correct_index": 0, "solution": "The Barabar and Nagarjuni caves were given to the Ajivika sect in the Mauryan period.", "difficulty": "hard"},
-  {"stem": "The Lomas Rishi cave, known for its finely carved doorway, is part of the __________ caves.", "options": ["Barabar", "Ajanta", "Bagh", "Udayagiri"], "correct_index": 0, "solution": "The Lomas Rishi cave with its carved façade is among the Barabar caves.", "difficulty": "hard"},
-  {"stem": "The interiors of the Barabar caves are famous for their __________.", "options": ["highly polished walls", "painted ceilings", "gold inlay", "stone pillars in rows"], "correct_index": 0, "solution": "The Barabar caves have highly polished interior walls, like the Mauryan pillars.", "difficulty": "hard"},
-  {"stem": "The doorway (façade) of the Lomas Rishi cave imitates a __________ construction in stone.", "options": ["wooden (thatched hut) form", "brick", "metal", "cloth tent"], "correct_index": 0, "solution": "The Lomas Rishi façade imitates in stone the form of a wooden thatched-hut construction.", "difficulty": "hard"},
-  {"stem": "The Mauryan capital was located at __________.", "options": ["Pataliputra", "Ujjain", "Taxila", "Sarnath"], "correct_index": 0, "solution": "Pataliputra (modern Patna) was the Mauryan capital.", "difficulty": "medium"},
-  {"stem": "Large free-standing sculptures of Yakshas and Yakshis of the Mauryan period were found at __________.", "options": ["Didarganj, Parkham and Baroda", "Ajanta and Ellora", "Konark", "Khajuraho"], "correct_index": 0, "solution": "Colossal Yaksha/Yakshi statues were found at sites such as Didarganj, Parkham and Baroda.", "difficulty": "hard"},
-  {"stem": "The Parkham Yaksha is a large __________ statue of the Mauryan period.", "options": ["free-standing stone", "bronze", "terracotta", "wooden"], "correct_index": 0, "solution": "The Parkham Yaksha is a colossal free-standing stone sculpture.", "difficulty": "hard"},
-  {"stem": "The wheel (chakra) on the abacus of the Sarnath capital represents the __________.", "options": ["Dharmachakra (Wheel of Law)", "sun god", "royal chariot", "cycle of seasons"], "correct_index": 0, "solution": "The chakra represents the Dharmachakra, the Buddhist Wheel of Law.", "difficulty": "medium"},
-  {"stem": "The lion is a symbol frequently associated with the Buddha because it represents __________.", "options": ["the Buddha (Shakyasimha, 'lion of the Shakyas') and royalty", "war", "the underworld", "trade"], "correct_index": 0, "solution": "The lion symbolises the Buddha (Shakyasimha) and royal power.", "difficulty": "hard"},
-  {"stem": "The court art of the Mauryas is best represented by the __________.", "options": ["polished pillars and their animal capitals", "temple gopurams", "cave paintings", "coin portraits"], "correct_index": 0, "solution": "The Mauryan pillars and their animal capitals are the finest examples of court art.", "difficulty": "medium"},
-  {"stem": "The popular (non-court) art of the Mauryan period is represented by sculptures like the __________.", "options": ["Yaksha and Yakshi figures", "Ashokan pillars", "Sarnath capital", "Barabar caves"], "correct_index": 0, "solution": "Large Yaksha and Yakshi figures represent the popular art tradition of the Mauryan period.", "difficulty": "hard"},
-  {"stem": "The Rampurva bull capital is another example of a Mauryan __________.", "options": ["animal capital", "stupa", "cave", "temple"], "correct_index": 0, "solution": "The Rampurva bull is a Mauryan pillar capital, like the Sarnath lion.", "difficulty": "hard"},
-  {"stem": "The bell-shaped base of a Mauryan pillar capital is derived from the __________ motif.", "options": ["inverted lotus", "wheel", "elephant", "peacock"], "correct_index": 0, "solution": "The bell-shaped element is an inverted lotus (bell) motif.", "difficulty": "hard"},
-  {"stem": "The Sarnath capital was carved to commemorate the Buddha's __________.", "options": ["first sermon (Dhammachakra Pravartana)", "birth", "death", "enlightenment"], "correct_index": 0, "solution": "The Sarnath pillar marks the site of the Buddha's first sermon.", "difficulty": "hard"},
-  {"stem": "The word chosen for India's motto below the national emblem, 'Satyameva Jayate', is taken from the __________.", "options": ["Mundaka Upanishad", "Rigveda", "Ashokan edicts", "Arthashastra"], "correct_index": 0, "solution": "'Satyameva Jayate' is from the Mundaka Upanishad, added below the emblem.", "difficulty": "hard"},
-  {"stem": "The Mauryan pillars are __________, i.e., made from a single piece of stone.", "options": ["monolithic", "assembled from bricks", "hollow metal", "wooden"], "correct_index": 0, "solution": "Each Mauryan pillar shaft is monolithic — carved from a single stone.", "difficulty": "medium"},
-  {"stem": "The abacus is the part of the pillar capital located __________.", "options": ["between the animal figure and the bell base", "at the very bottom", "inside the shaft", "on the ground"], "correct_index": 0, "solution": "The abacus is the platform between the crowning animal and the bell-shaped base.", "difficulty": "hard"},
-  {"stem": "The Mauryan period is associated with the emperor who spread Buddhism, __________.", "options": ["Ashoka", "Chandragupta II", "Samudragupta", "Kanishka"], "correct_index": 0, "solution": "Emperor Ashoka of the Mauryan dynasty spread Buddhism widely.", "difficulty": "easy"},
-  {"stem": "The Yaksha and Yakshi figures are usually shown __________.", "options": ["standing, robust and life-size or larger", "seated in meditation", "small and abstract", "riding horses"], "correct_index": 0, "solution": "Yaksha/Yakshi figures are shown standing, robust and often larger than life.", "difficulty": "medium"},
-  {"stem": "The chauri (fly-whisk) held by the Didarganj Yakshi indicates her role as __________.", "options": ["an attendant figure", "a warrior", "a queen", "a river goddess"], "correct_index": 0, "solution": "The chauri (fly-whisk) marks her as an attendant figure.", "difficulty": "hard"},
-  {"stem": "The high polish on Mauryan sculptures is often called the __________ polish.", "options": ["Mauryan (Northern Black Polished)", "Gupta", "Chola", "Mughal"], "correct_index": 0, "solution": "The distinctive mirror-like finish is called the Mauryan polish.", "difficulty": "medium"},
-  {"stem": "The stupa, chaitya and vihara are the three main forms of __________ architecture.", "options": ["Buddhist", "Jain temple", "Hindu temple", "Islamic"], "correct_index": 0, "solution": "Stupa, chaitya and vihara are the principal forms of Buddhist architecture.", "difficulty": "medium"},
-  {"stem": "A vihara in Buddhist architecture is a __________.", "options": ["monastery (residence for monks)", "prayer hall", "relic mound", "gateway"], "correct_index": 0, "solution": "A vihara is a monastery where monks lived.", "difficulty": "medium"},
-  {"stem": "A chaitya in Buddhist architecture is a __________.", "options": ["prayer/worship hall (often housing a stupa)", "monk's cell", "gateway", "water tank"], "correct_index": 0, "solution": "A chaitya is a prayer hall, often enshrining a small stupa.", "difficulty": "medium"},
-  {"stem": "The rock-cut architecture of India began in the __________ period.", "options": ["Mauryan", "Gupta", "Chola", "Mughal"], "correct_index": 0, "solution": "Rock-cut architecture in India started in the Mauryan period with the Barabar caves.", "difficulty": "hard"},
-  {"stem": "The abacus of the Sarnath capital rests on an inverted __________.", "options": ["lotus (bell)", "wheel", "lion", "elephant"], "correct_index": 0, "solution": "The abacus rests on an inverted lotus (bell-shaped) base.", "difficulty": "hard"},
-  {"stem": "The four lions of the Sarnath capital face the __________.", "options": ["four cardinal directions", "sky", "ground", "each other closely"], "correct_index": 0, "solution": "The four lions face the four cardinal directions.", "difficulty": "medium"},
-  {"stem": "The Mauryan pillars served as __________.", "options": ["symbols of the state and carriers of Ashoka's dhamma", "milestones only", "boundary walls", "bridges"], "correct_index": 0, "solution": "The pillars were symbols of the Mauryan state and bore Ashoka's dhamma edicts.", "difficulty": "medium"},
-  {"stem": "The Ashokan pillar at Sarnath, unlike some others, is significant because its capital survives __________.", "options": ["almost intact and is the national emblem", "only as fragments of the shaft", "in a museum abroad", "as a copy"], "correct_index": 0, "solution": "The Sarnath capital survives well and became the national emblem.", "difficulty": "medium"},
-  {"stem": "The material and polish of Mauryan sculpture indicate the influence and patronage of the __________.", "options": ["imperial court", "village guilds only", "foreign traders", "temple priests"], "correct_index": 0, "solution": "The fine material and polish reflect imperial court patronage.", "difficulty": "medium"},
-  {"stem": "The Dhauli elephant, carved out of a rock, is a Mauryan sculpture in the state of __________.", "options": ["Odisha", "Bihar", "Gujarat", "Kerala"], "correct_index": 0, "solution": "The Dhauli rock-cut elephant is in Odisha, near an Ashokan edict site.", "difficulty": "hard"},
-  {"stem": "Mauryan art shows a blend of indigenous traditions with possible influences from __________.", "options": ["Persian (Achaemenid) art", "Roman art", "Chinese art", "Egyptian art"], "correct_index": 0, "solution": "Mauryan pillar art shows possible Persian (Achaemenid) influence alongside Indian traditions.", "difficulty": "hard"},
-  {"stem": "The Yakshi from Didarganj holds the fly-whisk in her __________ hand.", "options": ["right", "left", "both", "neither"], "correct_index": 0, "solution": "The Didarganj Yakshi holds the chauri (fly-whisk) in her right hand.", "difficulty": "hard"},
-  {"stem": "The most important religious structures of the Mauryan and post-Mauryan period were __________.", "options": ["stupas", "gopurams", "minarets", "ziggurats"], "correct_index": 0, "solution": "Stupas were the most important religious monuments of this period.", "difficulty": "medium"},
-  {"stem": "The animal capitals of the Mauryan pillars are examples of __________ sculpture.", "options": ["free-standing (in the round)", "relief only", "painted", "terracotta"], "correct_index": 0, "solution": "The animal capitals are sculptures in the round (free-standing).", "difficulty": "hard"},
-  {"stem": "The bull capital found at __________ is another well-known Mauryan animal capital.", "options": ["Rampurva", "Sarnath", "Sanchi", "Amaravati"], "correct_index": 0, "solution": "The Rampurva bull capital is a famous Mauryan animal capital.", "difficulty": "hard"},
-  {"stem": "The Mauryan period marks the beginning of __________ on a large, imperial scale in India.", "options": ["stone art and architecture", "iron tools", "coinage", "cloth weaving"], "correct_index": 0, "solution": "The Mauryan period saw the beginning of monumental stone art and architecture on an imperial scale.", "difficulty": "medium"},
-  {"stem": "The overall achievement of Mauryan art lies in combining __________.", "options": ["technical excellence, polish and symbolic meaning", "large size only", "religious inscription only", "colour and paint"], "correct_index": 0, "solution": "Mauryan art combined technical mastery, high polish and rich symbolism.", "difficulty": "medium"}
+  {
+    "stem": "The national emblem of India is adapted from the __________ of Emperor Ashoka.",
+    "options": [
+      "Lion Capital at Sarnath",
+      "Iron Pillar of Delhi",
+      "Great Stupa at Sanchi",
+      "Didarganj Yakshi"
+    ],
+    "correct_index": 0,
+    "solution": "India's national emblem is derived from the Sarnath Lion Capital of Ashoka.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Lion Capital at Sarnath originally had __________ lions carved back to back.",
+    "options": [
+      "four",
+      "three",
+      "two",
+      "five"
+    ],
+    "correct_index": 0,
+    "solution": "The Sarnath capital has four lions carved back to back.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The abacus of the Sarnath Lion Capital is decorated with four animals and four __________.",
+    "options": [
+      "wheels (chakras)",
+      "lotus flowers",
+      "elephants only",
+      "swords"
+    ],
+    "correct_index": 0,
+    "solution": "The abacus has four Dharma chakras alternating with four animals (lion, elephant, bull, horse).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The four animals on the abacus of the Sarnath Lion Capital are the lion, elephant, bull and __________.",
+    "options": [
+      "horse",
+      "deer",
+      "peacock",
+      "camel"
+    ],
+    "correct_index": 0,
+    "solution": "The four animals are the lion, elephant, bull and galloping horse.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Mauryan pillars are distinguished by their highly __________ surface.",
+    "options": [
+      "polished (mirror-like)",
+      "rough",
+      "painted",
+      "gilded"
+    ],
+    "correct_index": 0,
+    "solution": "Mauryan pillars have a characteristic high 'Mauryan polish' giving a mirror-like finish.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan pillars were mostly carved from __________.",
+    "options": [
+      "Chunar sandstone",
+      "marble",
+      "granite",
+      "basalt"
+    ],
+    "correct_index": 0,
+    "solution": "Mauryan pillars were made largely of polished Chunar sandstone.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The famous 'Didarganj Yakshi' is a Mauryan sculpture found near __________.",
+    "options": [
+      "Patna (Pataliputra)",
+      "Sarnath",
+      "Sanchi",
+      "Mathura"
+    ],
+    "correct_index": 0,
+    "solution": "The Didarganj Yakshi was found near Patna (ancient Pataliputra).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Didarganj Yakshi is admired for its __________.",
+    "options": [
+      "polished surface and life-like modelling",
+      "religious inscription",
+      "gold covering",
+      "abstract geometry"
+    ],
+    "correct_index": 0,
+    "solution": "The Yakshi shows the fine Mauryan polish and life-like, sensitive modelling.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A Yakshi is a __________ in Indian art.",
+    "options": [
+      "female nature spirit / fertility figure",
+      "male warrior",
+      "royal minister",
+      "river"
+    ],
+    "correct_index": 0,
+    "solution": "A Yakshi is a female nature spirit associated with fertility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The pillars erected by Ashoka carried his __________ inscribed on them.",
+    "options": [
+      "edicts (dhamma messages)",
+      "coins",
+      "songs",
+      "maps"
+    ],
+    "correct_index": 0,
+    "solution": "Ashokan pillars carry his edicts spreading the message of dhamma.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A hemispherical structure built over the relics of the Buddha is called a __________.",
+    "options": [
+      "stupa",
+      "vihara",
+      "chaitya",
+      "gopuram"
+    ],
+    "correct_index": 0,
+    "solution": "A stupa is a hemispherical mound built to enshrine relics, especially of the Buddha.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The earliest and one of the most famous stupas, begun in the Mauryan period, is at __________.",
+    "options": [
+      "Sanchi",
+      "Sarnath",
+      "Amaravati",
+      "Nalanda"
+    ],
+    "correct_index": 0,
+    "solution": "The Great Stupa at Sanchi was originally begun by Ashoka in the Mauryan period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rock-cut caves donated by Ashoka and his grandson Dasharatha to the Ajivika sect are the __________ caves.",
+    "options": [
+      "Barabar (and Nagarjuni)",
+      "Ajanta",
+      "Ellora",
+      "Elephanta"
+    ],
+    "correct_index": 0,
+    "solution": "The Barabar and Nagarjuni caves were given to the Ajivika sect in the Mauryan period.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Lomas Rishi cave, known for its finely carved doorway, is part of the __________ caves.",
+    "options": [
+      "Barabar",
+      "Ajanta",
+      "Bagh",
+      "Udayagiri"
+    ],
+    "correct_index": 0,
+    "solution": "The Lomas Rishi cave with its carved façade is among the Barabar caves.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The interiors of the Barabar caves are famous for their __________.",
+    "options": [
+      "highly polished walls",
+      "painted ceilings",
+      "gold inlay",
+      "stone pillars in rows"
+    ],
+    "correct_index": 0,
+    "solution": "The Barabar caves have highly polished interior walls, like the Mauryan pillars.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The doorway (façade) of the Lomas Rishi cave imitates a __________ construction in stone.",
+    "options": [
+      "wooden (thatched hut) form",
+      "brick",
+      "metal",
+      "cloth tent"
+    ],
+    "correct_index": 0,
+    "solution": "The Lomas Rishi façade imitates in stone the form of a wooden thatched-hut construction.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan capital was located at __________.",
+    "options": [
+      "Pataliputra",
+      "Ujjain",
+      "Taxila",
+      "Sarnath"
+    ],
+    "correct_index": 0,
+    "solution": "Pataliputra (modern Patna) was the Mauryan capital.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Large free-standing sculptures of Yakshas and Yakshis of the Mauryan period were found at __________.",
+    "options": [
+      "Didarganj, Parkham and Baroda",
+      "Ajanta and Ellora",
+      "Konark",
+      "Khajuraho"
+    ],
+    "correct_index": 0,
+    "solution": "Colossal Yaksha/Yakshi statues were found at sites such as Didarganj, Parkham and Baroda.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Parkham Yaksha is a large __________ statue of the Mauryan period.",
+    "options": [
+      "free-standing stone",
+      "bronze",
+      "terracotta",
+      "wooden"
+    ],
+    "correct_index": 0,
+    "solution": "The Parkham Yaksha is a colossal free-standing stone sculpture.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The wheel (chakra) on the abacus of the Sarnath capital represents the __________.",
+    "options": [
+      "Dharmachakra (Wheel of Law)",
+      "sun god",
+      "royal chariot",
+      "cycle of seasons"
+    ],
+    "correct_index": 0,
+    "solution": "The chakra represents the Dharmachakra, the Buddhist Wheel of Law.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lion is a symbol frequently associated with the Buddha because it represents __________.",
+    "options": [
+      "the Buddha (Shakyasimha, 'lion of the Shakyas') and royalty",
+      "war",
+      "the underworld",
+      "trade"
+    ],
+    "correct_index": 0,
+    "solution": "The lion symbolises the Buddha (Shakyasimha) and royal power.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The court art of the Mauryas is best represented by the __________.",
+    "options": [
+      "polished pillars and their animal capitals",
+      "temple gopurams",
+      "cave paintings",
+      "coin portraits"
+    ],
+    "correct_index": 0,
+    "solution": "The Mauryan pillars and their animal capitals are the finest examples of court art.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The popular (non-court) art of the Mauryan period is represented by sculptures like the __________.",
+    "options": [
+      "Yaksha and Yakshi figures",
+      "Ashokan pillars",
+      "Sarnath capital",
+      "Barabar caves"
+    ],
+    "correct_index": 0,
+    "solution": "Large Yaksha and Yakshi figures represent the popular art tradition of the Mauryan period.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rampurva bull capital is another example of a Mauryan __________.",
+    "options": [
+      "animal capital",
+      "stupa",
+      "cave",
+      "temple"
+    ],
+    "correct_index": 0,
+    "solution": "The Rampurva bull is a Mauryan pillar capital, like the Sarnath lion.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The bell-shaped base of a Mauryan pillar capital is derived from the __________ motif.",
+    "options": [
+      "inverted lotus",
+      "wheel",
+      "elephant",
+      "peacock"
+    ],
+    "correct_index": 0,
+    "solution": "The bell-shaped element is an inverted lotus (bell) motif.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Sarnath capital was carved to commemorate the Buddha's __________.",
+    "options": [
+      "first sermon (Dhammachakra Pravartana)",
+      "birth",
+      "death",
+      "enlightenment"
+    ],
+    "correct_index": 0,
+    "solution": "The Sarnath pillar marks the site of the Buddha's first sermon.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The word chosen for India's motto below the national emblem, 'Satyameva Jayate', is taken from the __________.",
+    "options": [
+      "Mundaka Upanishad",
+      "Rigveda",
+      "Ashokan edicts",
+      "Arthashastra"
+    ],
+    "correct_index": 0,
+    "solution": "'Satyameva Jayate' is from the Mundaka Upanishad, added below the emblem.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan pillars are __________, i.e., made from a single piece of stone.",
+    "options": [
+      "monolithic",
+      "assembled from bricks",
+      "hollow metal",
+      "wooden"
+    ],
+    "correct_index": 0,
+    "solution": "Each Mauryan pillar shaft is monolithic — carved from a single stone.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The abacus is the part of the pillar capital located __________.",
+    "options": [
+      "between the animal figure and the bell base",
+      "at the very bottom",
+      "inside the shaft",
+      "on the ground"
+    ],
+    "correct_index": 0,
+    "solution": "The abacus is the platform between the crowning animal and the bell-shaped base.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan period is associated with the emperor who spread Buddhism, __________.",
+    "options": [
+      "Ashoka",
+      "Chandragupta II",
+      "Samudragupta",
+      "Kanishka"
+    ],
+    "correct_index": 0,
+    "solution": "Emperor Ashoka of the Mauryan dynasty spread Buddhism widely.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Yaksha and Yakshi figures are usually shown __________.",
+    "options": [
+      "standing, robust and life-size or larger",
+      "seated in meditation",
+      "small and abstract",
+      "riding horses"
+    ],
+    "correct_index": 0,
+    "solution": "Yaksha/Yakshi figures are shown standing, robust and often larger than life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chauri (fly-whisk) held by the Didarganj Yakshi indicates her role as __________.",
+    "options": [
+      "an attendant figure",
+      "a warrior",
+      "a queen",
+      "a river goddess"
+    ],
+    "correct_index": 0,
+    "solution": "The chauri (fly-whisk) marks her as an attendant figure.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The high polish on Mauryan sculptures is often called the __________ polish.",
+    "options": [
+      "Mauryan (Northern Black Polished)",
+      "Gupta",
+      "Chola",
+      "Mughal"
+    ],
+    "correct_index": 0,
+    "solution": "The distinctive mirror-like finish is called the Mauryan polish.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The stupa, chaitya and vihara are the three main forms of __________ architecture.",
+    "options": [
+      "Buddhist",
+      "Jain temple",
+      "Hindu temple",
+      "Islamic"
+    ],
+    "correct_index": 0,
+    "solution": "Stupa, chaitya and vihara are the principal forms of Buddhist architecture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A vihara in Buddhist architecture is a __________.",
+    "options": [
+      "monastery (residence for monks)",
+      "prayer hall",
+      "relic mound",
+      "gateway"
+    ],
+    "correct_index": 0,
+    "solution": "A vihara is a monastery where monks lived.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A chaitya in Buddhist architecture is a __________.",
+    "options": [
+      "prayer/worship hall (often housing a stupa)",
+      "monk's cell",
+      "gateway",
+      "water tank"
+    ],
+    "correct_index": 0,
+    "solution": "A chaitya is a prayer hall, often enshrining a small stupa.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rock-cut architecture of India began in the __________ period.",
+    "options": [
+      "Mauryan",
+      "Gupta",
+      "Chola",
+      "Mughal"
+    ],
+    "correct_index": 0,
+    "solution": "Rock-cut architecture in India started in the Mauryan period with the Barabar caves.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The abacus of the Sarnath capital rests on an inverted __________.",
+    "options": [
+      "lotus (bell)",
+      "wheel",
+      "lion",
+      "elephant"
+    ],
+    "correct_index": 0,
+    "solution": "The abacus rests on an inverted lotus (bell-shaped) base.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The four lions of the Sarnath capital face the __________.",
+    "options": [
+      "four cardinal directions",
+      "sky",
+      "ground",
+      "each other closely"
+    ],
+    "correct_index": 0,
+    "solution": "The four lions face the four cardinal directions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan pillars served as __________.",
+    "options": [
+      "symbols of the state and carriers of Ashoka's dhamma",
+      "milestones only",
+      "boundary walls",
+      "bridges"
+    ],
+    "correct_index": 0,
+    "solution": "The pillars were symbols of the Mauryan state and bore Ashoka's dhamma edicts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Ashokan pillar at Sarnath, unlike some others, is significant because its capital survives __________.",
+    "options": [
+      "almost intact and is the national emblem",
+      "only as fragments of the shaft",
+      "in a museum abroad",
+      "as a copy"
+    ],
+    "correct_index": 0,
+    "solution": "The Sarnath capital survives well and became the national emblem.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The material and polish of Mauryan sculpture indicate the influence and patronage of the __________.",
+    "options": [
+      "imperial court",
+      "village guilds only",
+      "foreign traders",
+      "temple priests"
+    ],
+    "correct_index": 0,
+    "solution": "The fine material and polish reflect imperial court patronage.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Dhauli elephant, carved out of a rock, is a Mauryan sculpture in the state of __________.",
+    "options": [
+      "Odisha",
+      "Bihar",
+      "Gujarat",
+      "Kerala"
+    ],
+    "correct_index": 0,
+    "solution": "The Dhauli rock-cut elephant is in Odisha, near an Ashokan edict site.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Mauryan art shows a blend of indigenous traditions with possible influences from __________.",
+    "options": [
+      "Persian (Achaemenid) art",
+      "Roman art",
+      "Chinese art",
+      "Egyptian art"
+    ],
+    "correct_index": 0,
+    "solution": "Mauryan pillar art shows possible Persian (Achaemenid) influence alongside Indian traditions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Yakshi from Didarganj holds the fly-whisk in her __________ hand.",
+    "options": [
+      "right",
+      "left",
+      "both",
+      "neither"
+    ],
+    "correct_index": 0,
+    "solution": "The Didarganj Yakshi holds the chauri (fly-whisk) in her right hand.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most important religious structures of the Mauryan and post-Mauryan period were __________.",
+    "options": [
+      "stupas",
+      "gopurams",
+      "minarets",
+      "ziggurats"
+    ],
+    "correct_index": 0,
+    "solution": "Stupas were the most important religious monuments of this period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The animal capitals of the Mauryan pillars are examples of __________ sculpture.",
+    "options": [
+      "free-standing (in the round)",
+      "relief only",
+      "painted",
+      "terracotta"
+    ],
+    "correct_index": 0,
+    "solution": "The animal capitals are sculptures in the round (free-standing).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The bull capital found at __________ is another well-known Mauryan animal capital.",
+    "options": [
+      "Rampurva",
+      "Sarnath",
+      "Sanchi",
+      "Amaravati"
+    ],
+    "correct_index": 0,
+    "solution": "The Rampurva bull capital is a famous Mauryan animal capital.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan period marks the beginning of __________ on a large, imperial scale in India.",
+    "options": [
+      "stone art and architecture",
+      "iron tools",
+      "coinage",
+      "cloth weaving"
+    ],
+    "correct_index": 0,
+    "solution": "The Mauryan period saw the beginning of monumental stone art and architecture on an imperial scale.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall achievement of Mauryan art lies in combining __________.",
+    "options": [
+      "technical excellence, polish and symbolic meaning",
+      "large size only",
+      "religious inscription only",
+      "colour and paint"
+    ],
+    "correct_index": 0,
+    "solution": "Mauryan art combined technical mastery, high polish and rich symbolism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Unlike Achaemenid Persian pillars, the Mauryan pillars have __________.",
+    "options": [
+      "no base and rise directly from the ground",
+      "a stepped base",
+      "fluted shafts",
+      "square cross-sections"
+    ],
+    "correct_index": 0,
+    "solution": "Mauryan pillars rise from the ground without a base, unlike the based Achaemenid columns.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan pillar consists of a long monolithic shaft topped by a __________.",
+    "options": [
+      "capital (bell base, abacus and animal)",
+      "dome",
+      "shikhara",
+      "gopuram"
+    ],
+    "correct_index": 0,
+    "solution": "A Mauryan pillar has a plain shaft topped by a capital of bell base, abacus and crowning animal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A single-lion Ashokan pillar capital still standing in situ is at __________.",
+    "options": [
+      "Vaishali",
+      "Sarnath",
+      "Sanchi",
+      "Rampurva"
+    ],
+    "correct_index": 0,
+    "solution": "The Ashokan pillar with a single lion capital survives in situ at Vaishali.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Sankissa Ashokan pillar has a capital in the form of an __________.",
+    "options": [
+      "elephant",
+      "lion",
+      "bull",
+      "horse"
+    ],
+    "correct_index": 0,
+    "solution": "The Sankissa pillar capital is in the form of an elephant.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The remains of the Mauryan palace with an 80-pillared hall were found at __________ near Patna.",
+    "options": [
+      "Kumrahar",
+      "Sarnath",
+      "Dhauli",
+      "Barabar"
+    ],
+    "correct_index": 0,
+    "solution": "The Mauryan palace remains, including an 80-pillared hall, were found at Kumrahar near Patna.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Greek ambassador who described the splendour of the Mauryan palace at Pataliputra was __________.",
+    "options": [
+      "Megasthenes",
+      "Fa-Hien",
+      "Hiuen Tsang",
+      "Ptolemy"
+    ],
+    "correct_index": 0,
+    "solution": "Megasthenes, in his 'Indica', described the Mauryan palace at Pataliputra.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Barabar caves were donated by Ashoka to the __________ sect.",
+    "options": [
+      "Ajivika",
+      "Jain",
+      "Vaishnava",
+      "Shaiva"
+    ],
+    "correct_index": 0,
+    "solution": "The Barabar caves were donated to the Ajivika sect.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'ringstones' and disc stones of the Mauryan period are examples of __________ art.",
+    "options": [
+      "popular (non-court)",
+      "court",
+      "temple",
+      "colonial"
+    ],
+    "correct_index": 0,
+    "solution": "Ringstones and disc stones represent the popular (folk) art of the Mauryan period.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan animal capitals are carved __________.",
+    "options": [
+      "in the round (three-dimensionally)",
+      "in flat relief only",
+      "as paintings",
+      "in terracotta"
+    ],
+    "correct_index": 0,
+    "solution": "The Mauryan animal capitals are carved fully in the round.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Yaksha and Yakshi figures were objects of __________ worship in the Mauryan period.",
+    "options": [
+      "popular folk",
+      "royal court only",
+      "Buddhist monastic only",
+      "foreign"
+    ],
+    "correct_index": 0,
+    "solution": "Yakshas and Yakshis were folk deities worshipped by ordinary people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Ashokan pillar edicts were inscribed mainly in the __________ script.",
+    "options": [
+      "Brahmi",
+      "Kharosthi only",
+      "Devanagari",
+      "Greek only"
+    ],
+    "correct_index": 0,
+    "solution": "Most Ashokan edicts were inscribed in the Brahmi script (Kharosthi and Greek/Aramaic in the north-west).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The high lustrous finish of Mauryan sculpture was achieved on __________.",
+    "options": [
+      "sandstone",
+      "marble",
+      "granite",
+      "basalt"
+    ],
+    "correct_index": 0,
+    "solution": "The Mauryan polish was achieved on Chunar sandstone.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Lomas Rishi cave façade is decorated with a carved __________ frieze.",
+    "options": [
+      "row of elephants",
+      "row of lions",
+      "wheel",
+      "lotus only"
+    ],
+    "correct_index": 0,
+    "solution": "The Lomas Rishi façade has a carved frieze of a row of elephants over its arch.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The four animals on the Sarnath abacus are also linked symbolically to the __________.",
+    "options": [
+      "four directions and the great rivers/events of the Buddha's life",
+      "four Vedas",
+      "four castes",
+      "four seasons only"
+    ],
+    "correct_index": 0,
+    "solution": "The four animals carry rich Buddhist symbolism, associated with directions and the Buddha's life.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The colossal Yaksha statues show the Mauryan mastery of carving in __________.",
+    "options": [
+      "large, robust free-standing stone",
+      "delicate terracotta",
+      "thin bronze",
+      "painted wood"
+    ],
+    "correct_index": 0,
+    "solution": "The colossal Yakshas show mastery in carving large, robust free-standing stone figures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The terracotta figurines of the Mauryan period represent the __________ art tradition.",
+    "options": [
+      "popular (folk)",
+      "imperial court",
+      "foreign",
+      "temple"
+    ],
+    "correct_index": 0,
+    "solution": "Terracotta figurines belong to the popular (folk) art tradition of the Mauryan period.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Dhauli rock-cut elephant in Odisha is associated with an Ashokan __________.",
+    "options": [
+      "edict (Kalinga edict site)",
+      "stupa",
+      "palace",
+      "cave"
+    ],
+    "correct_index": 0,
+    "solution": "The Dhauli elephant is carved at an Ashokan edict site connected with the Kalinga war.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The abacus of the Rampurva bull capital is decorated with a __________ motif.",
+    "options": [
+      "lotus and palmette",
+      "wheel and lions",
+      "elephant",
+      "swastika"
+    ],
+    "correct_index": 0,
+    "solution": "The Rampurva bull capital's abacus carries a lotus-and-palmette decoration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan pillars were transported and erected across the empire as symbols of __________.",
+    "options": [
+      "imperial authority and dhamma",
+      "trade routes",
+      "military forts",
+      "temple boundaries"
+    ],
+    "correct_index": 0,
+    "solution": "The pillars were symbols of Mauryan imperial authority and Ashoka's dhamma.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The court art and the popular art of the Mauryan period differ mainly in their __________.",
+    "options": [
+      "patronage (imperial vs common people)",
+      "material only",
+      "date",
+      "religion"
+    ],
+    "correct_index": 0,
+    "solution": "Court art was imperially patronised; popular art was made for and by common people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Ashokan pillars are considered a marvel of ancient __________.",
+    "options": [
+      "engineering and stone-craft",
+      "painting",
+      "metallurgy",
+      "textile"
+    ],
+    "correct_index": 0,
+    "solution": "The monolithic, polished pillars are marvels of ancient engineering and stone-craft.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sarnath capital originally supported a large stone __________ above the lions.",
+    "options": [
+      "Dharmachakra (wheel)",
+      "dome",
+      "lotus bud",
+      "kalasha only"
+    ],
+    "correct_index": 0,
+    "solution": "A large stone Dharmachakra (wheel) originally crowned the four lions of the Sarnath capital.",
+    "difficulty": "hard"
+  }
 ]

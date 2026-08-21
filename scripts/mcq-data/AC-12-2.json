@@ -1,52 +1,866 @@
 [
-  {"stem": "The Rajasthani schools of painting are also known as __________ painting.", "options": ["Rajput", "Mughal", "Deccan", "Company"], "correct_index": 0, "solution": "Rajasthani painting is also called Rajput painting.", "difficulty": "medium"},
-  {"stem": "The Kishangarh school is most famous for the painting of __________.", "options": ["Bani Thani", "the Hamzanama", "the Padshahnama", "Arjuna's Penance"], "correct_index": 0, "solution": "The Kishangarh school is famous for the 'Bani Thani' portrait.", "difficulty": "medium"},
-  {"stem": "The 'Bani Thani' painting is associated with the artist __________.", "options": ["Nihal Chand", "Abanindranath Tagore", "Raja Ravi Varma", "Ustad Mansur"], "correct_index": 0, "solution": "Nihal Chand painted the famous Bani Thani of the Kishangarh school.", "difficulty": "hard"},
-  {"stem": "The Bani Thani is sometimes called the '__________ of India' for her idealised beauty.", "options": ["Mona Lisa", "Venus", "queen", "goddess"], "correct_index": 0, "solution": "The Bani Thani is often called the 'Indian Mona Lisa'.", "difficulty": "medium"},
-  {"stem": "A hallmark of Kishangarh painting is the depiction of figures with __________.", "options": ["elongated faces, arched eyebrows and long eyes", "European features", "flat round faces", "abstract forms"], "correct_index": 0, "solution": "Kishangarh figures have elongated faces, arched eyebrows and long, curved eyes.", "difficulty": "hard"},
-  {"stem": "The Mewar school of painting was centred at __________.", "options": ["Udaipur", "Kota", "Jaipur", "Bikaner"], "correct_index": 0, "solution": "The Mewar school was centred at Udaipur.", "difficulty": "hard"},
-  {"stem": "The Bundi and Kota schools are especially known for their vivid depictions of __________.", "options": ["hunting scenes and lush landscapes", "Mughal courts", "European ships", "abstract patterns"], "correct_index": 0, "solution": "The Bundi and Kota schools are famous for hunting scenes and lush green landscapes.", "difficulty": "hard"},
-  {"stem": "A very common theme of Rajasthani painting is the life of __________.", "options": ["Krishna (Krishna-lila)", "the Buddha", "Mahavira", "Roman gods"], "correct_index": 0, "solution": "Krishna-lila (the life of Krishna) is a very common theme in Rajasthani painting.", "difficulty": "medium"},
-  {"stem": "A set of paintings visualising musical modes (melodies) is called a __________.", "options": ["Ragamala", "Baburnama", "Kalpasutra", "Padshahnama"], "correct_index": 0, "solution": "Ragamala ('garland of ragas') paintings visualise musical modes.", "difficulty": "hard"},
-  {"stem": "Ragamala paintings link __________ with visual imagery.", "options": ["music (ragas) and moods", "warfare", "trade", "coinage"], "correct_index": 0, "solution": "Ragamala paintings associate musical ragas with visual imagery and moods.", "difficulty": "hard"},
-  {"stem": "The theme depicting the hero and heroine and their emotional states is called __________.", "options": ["Nayaka-Nayika bheda", "Ragamala", "Barahmasa", "Baburnama"], "correct_index": 0, "solution": "The Nayaka-Nayika bheda classifies heroes and heroines by their moods and situations.", "difficulty": "hard"},
-  {"stem": "The 'Barahmasa' paintings depict the __________.", "options": ["twelve months and their moods", "twelve gods", "twelve kings", "twelve battles"], "correct_index": 0, "solution": "Barahmasa paintings depict the moods and activities of the twelve months.", "difficulty": "hard"},
-  {"stem": "The Rajasthani painters used bright, __________ colours.", "options": ["bold and flat", "muted European", "monochrome", "metallic only"], "correct_index": 0, "solution": "Rajasthani painting uses bold, bright, flat colours.", "difficulty": "medium"},
-  {"stem": "The Marwar school of painting was centred at __________.", "options": ["Jodhpur", "Udaipur", "Kota", "Jaipur"], "correct_index": 0, "solution": "The Marwar school was centred at Jodhpur.", "difficulty": "hard"},
-  {"stem": "The Bikaner school shows a strong __________ influence due to its artists.", "options": ["Mughal (Deccani-Mughal)", "European", "Chinese", "Pala"], "correct_index": 0, "solution": "The Bikaner school shows Mughal (and Deccani) influence, as many artists trained in Mughal ateliers.", "difficulty": "hard"},
-  {"stem": "Rajasthani painting flourished mainly under the patronage of __________.", "options": ["Rajput rulers and their courts", "the British", "Buddhist monasteries", "merchant guilds only"], "correct_index": 0, "solution": "Rajasthani painting flourished under the patronage of Rajput rulers.", "difficulty": "medium"},
-  {"stem": "The Gita Govinda of Jayadeva, a favourite text for Rajasthani painters, deals with __________.", "options": ["the love of Radha and Krishna", "Mughal history", "war strategy", "Jain doctrine"], "correct_index": 0, "solution": "The Gita Govinda celebrates the love of Radha and Krishna.", "difficulty": "hard"},
-  {"stem": "The 'Chaurapanchasika' style forms an early basis for the __________ school.", "options": ["Rajasthani (Mewar)", "Mughal", "Company", "Bengal"], "correct_index": 0, "solution": "The bold Chaurapanchasika style is an early basis for the Mewar/Rajasthani school.", "difficulty": "hard"},
-  {"stem": "A famous early dated Mewar Ragamala set was painted by the artist __________.", "options": ["Nisardi (Nasiruddin)", "Nihal Chand", "Mansur", "Bichitr"], "correct_index": 0, "solution": "The early Mewar Ragamala (Chawand) was painted by Nisardi (Nasiruddin).", "difficulty": "hard"},
-  {"stem": "The Kota school is particularly celebrated for its energetic __________ scenes.", "options": ["tiger and elephant hunt", "sea battle", "temple ritual", "court durbar"], "correct_index": 0, "solution": "The Kota school is famous for dynamic tiger and elephant hunting scenes.", "difficulty": "hard"},
-  {"stem": "The women in Rajasthani painting are typically shown with __________.", "options": ["large expressive eyes and colourful attire", "European gowns", "plain robes", "no ornaments"], "correct_index": 0, "solution": "Rajasthani women are shown with large expressive eyes and richly coloured attire.", "difficulty": "medium"},
-  {"stem": "The landscape in Rajasthani painting is often depicted in a __________ manner.", "options": ["stylised and decorative", "photographically realistic", "monochrome", "abstract cubist"], "correct_index": 0, "solution": "Landscapes in Rajasthani painting are stylised and decorative rather than realistic.", "difficulty": "medium"},
-  {"stem": "The Amber-Jaipur school of painting developed in the state of __________.", "options": ["Rajasthan (Jaipur)", "Gujarat", "Punjab", "Bengal"], "correct_index": 0, "solution": "The Amber-Jaipur school developed at the Jaipur (Amber) court in Rajasthan.", "difficulty": "hard"},
-  {"stem": "The Rajasthani schools are broadly a __________ tradition of painting.", "options": ["Hindu (devotional and courtly)", "Islamic", "Buddhist", "Christian"], "correct_index": 0, "solution": "Rajasthani painting is largely a Hindu devotional and courtly tradition.", "difficulty": "medium"},
-  {"stem": "The 'Rasikapriya' and 'Rasamanjari', illustrated by Rajput painters, are texts on __________.", "options": ["love and aesthetics (rasa)", "warfare", "medicine", "astronomy"], "correct_index": 0, "solution": "The Rasikapriya and Rasamanjari are texts on love and aesthetic sentiment (rasa).", "difficulty": "hard"},
-  {"stem": "The Kishangarh school flourished under the patronage of Raja __________.", "options": ["Sawant Singh (Nagari Das)", "Man Singh", "Jai Singh", "Udai Singh"], "correct_index": 0, "solution": "Kishangarh painting flourished under Raja Sawant Singh (the poet Nagari Das).", "difficulty": "hard"},
-  {"stem": "The idealised lovers in Kishangarh painting are often identified with __________.", "options": ["Radha and Krishna", "Shiva and Parvati", "Rama and Sita", "Akbar and Jodha"], "correct_index": 0, "solution": "The Kishangarh lovers are often depicted as Radha and Krishna.", "difficulty": "hard"},
-  {"stem": "Rajasthani painting is a form of __________ art.", "options": ["miniature", "mural", "sculpture", "architecture"], "correct_index": 0, "solution": "Rajasthani painting is a miniature (small-scale) art form.", "difficulty": "medium"},
-  {"stem": "The colours in Rajasthani painting were prepared from __________.", "options": ["minerals, vegetables and even gold", "oil paints", "acrylics", "synthetic dyes only"], "correct_index": 0, "solution": "Rajasthani colours came from mineral and vegetable sources, with gold for highlights.", "difficulty": "medium"},
-  {"stem": "The Bundi school is noted for its rich depiction of __________.", "options": ["monsoon skies and lush vegetation", "deserts only", "snow", "sea"], "correct_index": 0, "solution": "The Bundi school is noted for lush vegetation and dramatic monsoon skies.", "difficulty": "hard"},
-  {"stem": "The distinctive feature of Bani Thani is the __________.", "options": ["exaggerated, elegant elongation of features", "European realism", "flat round face", "muscular body"], "correct_index": 0, "solution": "Bani Thani is marked by the exaggerated, refined elongation of the face and features.", "difficulty": "medium"},
-  {"stem": "The Rajasthani schools drew their themes largely from __________.", "options": ["Hindu religion, epics and Sanskrit/Hindi poetry", "Mughal chronicles", "European novels", "trade records"], "correct_index": 0, "solution": "Rajasthani themes come from Hindu religion, epics and devotional/courtly poetry.", "difficulty": "medium"},
-  {"stem": "The Mewar school is one of the __________ Rajasthani schools.", "options": ["oldest and most important", "youngest", "smallest", "least studied"], "correct_index": 0, "solution": "Mewar is one of the oldest and most important Rajasthani schools.", "difficulty": "medium"},
-  {"stem": "A common device in Rajasthani painting is showing several episodes of a story __________.", "options": ["within a single frame (continuous narration)", "in separate books", "in sculpture", "on coins"], "correct_index": 0, "solution": "Rajasthani painting often uses continuous narration, showing several episodes in one frame.", "difficulty": "hard"},
-  {"stem": "The Jaipur school later absorbed __________ influences due to closeness to the Mughal court.", "options": ["Mughal", "European", "Chinese", "Deccan only"], "correct_index": 0, "solution": "The Jaipur school absorbed Mughal influences owing to its Mughal ties.", "difficulty": "hard"},
-  {"stem": "The theme 'Krishna lifting Mount Govardhan' is a popular __________ subject.", "options": ["Krishna-lila", "Ragamala", "Barahmasa", "Nayika"], "correct_index": 0, "solution": "Krishna lifting Govardhan is a favourite Krishna-lila subject.", "difficulty": "medium"},
-  {"stem": "The bright red and yellow borders are a common feature of __________ paintings.", "options": ["Rajasthani (Mewar)", "Mughal", "European", "Chinese"], "correct_index": 0, "solution": "Bold red and yellow borders are common in early Mewar/Rajasthani paintings.", "difficulty": "hard"},
-  {"stem": "Rajasthani painting is distinguished from Mughal painting by its greater emphasis on __________.", "options": ["bold colour, emotion and religious themes", "realistic portraiture", "European perspective", "monochrome"], "correct_index": 0, "solution": "Rajasthani painting stresses bold colour, emotion and religious themes over Mughal realism.", "difficulty": "hard"},
-  {"stem": "The heroines (nayikas) in Rajasthani painting are often shown against the backdrop of __________.", "options": ["gardens, palaces and nature", "battlefields", "markets", "ships"], "correct_index": 0, "solution": "Nayikas are usually set against gardens, palaces and natural backdrops.", "difficulty": "medium"},
-  {"stem": "The Rajasthani schools flourished mainly from the __________ centuries.", "options": ["16th to 19th", "1st to 3rd", "20th", "10th to 12th"], "correct_index": 0, "solution": "Rajasthani painting flourished mainly from the 16th to the 19th centuries.", "difficulty": "hard"},
-  {"stem": "The intimate scale of Rajput miniatures suited them for __________.", "options": ["private viewing and albums", "public display on walls", "temple facades", "coins"], "correct_index": 0, "solution": "The small scale suited private viewing in albums and manuscripts.", "difficulty": "medium"},
-  {"stem": "The Rajasthani painters worked in royal __________ (workshops).", "options": ["ateliers/karkhanas", "temples only", "markets", "forts as soldiers"], "correct_index": 0, "solution": "Rajasthani painters worked in royal ateliers (karkhanas) under court patronage.", "difficulty": "hard"},
-  {"stem": "The bold, dramatic use of the colour __________ is characteristic of early Mewar painting.", "options": ["red", "grey", "brown", "black"], "correct_index": 0, "solution": "Early Mewar painting is characterised by bold use of red.", "difficulty": "hard"},
-  {"stem": "The subject of a lonely heroine longing for her absent lover in the rains is a __________ theme.", "options": ["Barahmasa / viraha", "hunting", "durbar", "battle"], "correct_index": 0, "solution": "The longing heroine in the monsoon is a Barahmasa (viraha, separation) theme.", "difficulty": "hard"},
-  {"stem": "The Rajasthani schools together reflect the __________ of the Rajput courts.", "options": ["cultural and religious life", "military defeats", "trade deficits", "European contacts"], "correct_index": 0, "solution": "The schools reflect the cultural and religious life of the Rajput courts.", "difficulty": "medium"},
-  {"stem": "The distinguishing element of the Kota hunting scenes is the depiction of __________.", "options": ["dense forest and dramatic animal movement", "the sea", "snow-capped mountains", "deserts only"], "correct_index": 0, "solution": "Kota hunting scenes show dense forests and dramatic animal movement.", "difficulty": "hard"},
-  {"stem": "The Rajasthani schools are grouped by the __________ where they developed.", "options": ["princely states/regions (Mewar, Bundi, Kishangarh, etc.)", "religions", "languages", "trade routes"], "correct_index": 0, "solution": "The Rajasthani schools are named after the princely states/regions where they developed.", "difficulty": "medium"},
-  {"stem": "The overall character of Rajasthani painting is __________.", "options": ["devotional, romantic and richly coloured", "realistic and monochrome", "purely abstract", "European"], "correct_index": 0, "solution": "Rajasthani painting is devotional, romantic and richly coloured.", "difficulty": "easy"},
-  {"stem": "The most iconic single work of Rajasthani painting for Prelims is the __________ of Kishangarh.", "options": ["Bani Thani", "Hamzanama", "Baburnama", "Kalpasutra"], "correct_index": 0, "solution": "The Bani Thani of the Kishangarh school is the most iconic Rajasthani work.", "difficulty": "easy"},
-  {"stem": "The Rajasthani painting tradition is important as a major branch of Indian __________ art.", "options": ["miniature", "mural", "temple", "colonial"], "correct_index": 0, "solution": "Rajasthani painting is a major branch of Indian miniature art.", "difficulty": "easy"}
+  {
+    "stem": "The Rajasthani schools of painting are also known as __________ painting.",
+    "options": [
+      "Rajput",
+      "Mughal",
+      "Deccan",
+      "Company"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting is also called Rajput painting.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Kishangarh school is most famous for the painting of __________.",
+    "options": [
+      "Bani Thani",
+      "the Hamzanama",
+      "the Padshahnama",
+      "Arjuna's Penance"
+    ],
+    "correct_index": 0,
+    "solution": "The Kishangarh school is famous for the 'Bani Thani' portrait.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Bani Thani' painting is associated with the artist __________.",
+    "options": [
+      "Nihal Chand",
+      "Abanindranath Tagore",
+      "Raja Ravi Varma",
+      "Ustad Mansur"
+    ],
+    "correct_index": 0,
+    "solution": "Nihal Chand painted the famous Bani Thani of the Kishangarh school.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bani Thani is sometimes called the '__________ of India' for her idealised beauty.",
+    "options": [
+      "Mona Lisa",
+      "Venus",
+      "queen",
+      "goddess"
+    ],
+    "correct_index": 0,
+    "solution": "The Bani Thani is often called the 'Indian Mona Lisa'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A hallmark of Kishangarh painting is the depiction of figures with __________.",
+    "options": [
+      "elongated faces, arched eyebrows and long eyes",
+      "European features",
+      "flat round faces",
+      "abstract forms"
+    ],
+    "correct_index": 0,
+    "solution": "Kishangarh figures have elongated faces, arched eyebrows and long, curved eyes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mewar school of painting was centred at __________.",
+    "options": [
+      "Udaipur",
+      "Kota",
+      "Jaipur",
+      "Bikaner"
+    ],
+    "correct_index": 0,
+    "solution": "The Mewar school was centred at Udaipur.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bundi and Kota schools are especially known for their vivid depictions of __________.",
+    "options": [
+      "hunting scenes and lush landscapes",
+      "Mughal courts",
+      "European ships",
+      "abstract patterns"
+    ],
+    "correct_index": 0,
+    "solution": "The Bundi and Kota schools are famous for hunting scenes and lush green landscapes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A very common theme of Rajasthani painting is the life of __________.",
+    "options": [
+      "Krishna (Krishna-lila)",
+      "the Buddha",
+      "Mahavira",
+      "Roman gods"
+    ],
+    "correct_index": 0,
+    "solution": "Krishna-lila (the life of Krishna) is a very common theme in Rajasthani painting.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A set of paintings visualising musical modes (melodies) is called a __________.",
+    "options": [
+      "Ragamala",
+      "Baburnama",
+      "Kalpasutra",
+      "Padshahnama"
+    ],
+    "correct_index": 0,
+    "solution": "Ragamala ('garland of ragas') paintings visualise musical modes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Ragamala paintings link __________ with visual imagery.",
+    "options": [
+      "music (ragas) and moods",
+      "warfare",
+      "trade",
+      "coinage"
+    ],
+    "correct_index": 0,
+    "solution": "Ragamala paintings associate musical ragas with visual imagery and moods.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The theme depicting the hero and heroine and their emotional states is called __________.",
+    "options": [
+      "Nayaka-Nayika bheda",
+      "Ragamala",
+      "Barahmasa",
+      "Baburnama"
+    ],
+    "correct_index": 0,
+    "solution": "The Nayaka-Nayika bheda classifies heroes and heroines by their moods and situations.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Barahmasa' paintings depict the __________.",
+    "options": [
+      "twelve months and their moods",
+      "twelve gods",
+      "twelve kings",
+      "twelve battles"
+    ],
+    "correct_index": 0,
+    "solution": "Barahmasa paintings depict the moods and activities of the twelve months.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajasthani painters used bright, __________ colours.",
+    "options": [
+      "bold and flat",
+      "muted European",
+      "monochrome",
+      "metallic only"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting uses bold, bright, flat colours.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Marwar school of painting was centred at __________.",
+    "options": [
+      "Jodhpur",
+      "Udaipur",
+      "Kota",
+      "Jaipur"
+    ],
+    "correct_index": 0,
+    "solution": "The Marwar school was centred at Jodhpur.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bikaner school shows a strong __________ influence due to its artists.",
+    "options": [
+      "Mughal (Deccani-Mughal)",
+      "European",
+      "Chinese",
+      "Pala"
+    ],
+    "correct_index": 0,
+    "solution": "The Bikaner school shows Mughal (and Deccani) influence, as many artists trained in Mughal ateliers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rajasthani painting flourished mainly under the patronage of __________.",
+    "options": [
+      "Rajput rulers and their courts",
+      "the British",
+      "Buddhist monasteries",
+      "merchant guilds only"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting flourished under the patronage of Rajput rulers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Gita Govinda of Jayadeva, a favourite text for Rajasthani painters, deals with __________.",
+    "options": [
+      "the love of Radha and Krishna",
+      "Mughal history",
+      "war strategy",
+      "Jain doctrine"
+    ],
+    "correct_index": 0,
+    "solution": "The Gita Govinda celebrates the love of Radha and Krishna.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Chaurapanchasika' style forms an early basis for the __________ school.",
+    "options": [
+      "Rajasthani (Mewar)",
+      "Mughal",
+      "Company",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "The bold Chaurapanchasika style is an early basis for the Mewar/Rajasthani school.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A famous early dated Mewar Ragamala set was painted by the artist __________.",
+    "options": [
+      "Nisardi (Nasiruddin)",
+      "Nihal Chand",
+      "Mansur",
+      "Bichitr"
+    ],
+    "correct_index": 0,
+    "solution": "The early Mewar Ragamala (Chawand) was painted by Nisardi (Nasiruddin).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Kota school is particularly celebrated for its energetic __________ scenes.",
+    "options": [
+      "tiger and elephant hunt",
+      "sea battle",
+      "temple ritual",
+      "court durbar"
+    ],
+    "correct_index": 0,
+    "solution": "The Kota school is famous for dynamic tiger and elephant hunting scenes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The women in Rajasthani painting are typically shown with __________.",
+    "options": [
+      "large expressive eyes and colourful attire",
+      "European gowns",
+      "plain robes",
+      "no ornaments"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani women are shown with large expressive eyes and richly coloured attire.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The landscape in Rajasthani painting is often depicted in a __________ manner.",
+    "options": [
+      "stylised and decorative",
+      "photographically realistic",
+      "monochrome",
+      "abstract cubist"
+    ],
+    "correct_index": 0,
+    "solution": "Landscapes in Rajasthani painting are stylised and decorative rather than realistic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Amber-Jaipur school of painting developed in the state of __________.",
+    "options": [
+      "Rajasthan (Jaipur)",
+      "Gujarat",
+      "Punjab",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "The Amber-Jaipur school developed at the Jaipur (Amber) court in Rajasthan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajasthani schools are broadly a __________ tradition of painting.",
+    "options": [
+      "Hindu (devotional and courtly)",
+      "Islamic",
+      "Buddhist",
+      "Christian"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting is largely a Hindu devotional and courtly tradition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Rasikapriya' and 'Rasamanjari', illustrated by Rajput painters, are texts on __________.",
+    "options": [
+      "love and aesthetics (rasa)",
+      "warfare",
+      "medicine",
+      "astronomy"
+    ],
+    "correct_index": 0,
+    "solution": "The Rasikapriya and Rasamanjari are texts on love and aesthetic sentiment (rasa).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Kishangarh school flourished under the patronage of Raja __________.",
+    "options": [
+      "Sawant Singh (Nagari Das)",
+      "Man Singh",
+      "Jai Singh",
+      "Udai Singh"
+    ],
+    "correct_index": 0,
+    "solution": "Kishangarh painting flourished under Raja Sawant Singh (the poet Nagari Das).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The idealised lovers in Kishangarh painting are often identified with __________.",
+    "options": [
+      "Radha and Krishna",
+      "Shiva and Parvati",
+      "Rama and Sita",
+      "Akbar and Jodha"
+    ],
+    "correct_index": 0,
+    "solution": "The Kishangarh lovers are often depicted as Radha and Krishna.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rajasthani painting is a form of __________ art.",
+    "options": [
+      "miniature",
+      "mural",
+      "sculpture",
+      "architecture"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting is a miniature (small-scale) art form.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The colours in Rajasthani painting were prepared from __________.",
+    "options": [
+      "minerals, vegetables and even gold",
+      "oil paints",
+      "acrylics",
+      "synthetic dyes only"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani colours came from mineral and vegetable sources, with gold for highlights.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bundi school is noted for its rich depiction of __________.",
+    "options": [
+      "monsoon skies and lush vegetation",
+      "deserts only",
+      "snow",
+      "sea"
+    ],
+    "correct_index": 0,
+    "solution": "The Bundi school is noted for lush vegetation and dramatic monsoon skies.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The distinctive feature of Bani Thani is the __________.",
+    "options": [
+      "exaggerated, elegant elongation of features",
+      "European realism",
+      "flat round face",
+      "muscular body"
+    ],
+    "correct_index": 0,
+    "solution": "Bani Thani is marked by the exaggerated, refined elongation of the face and features.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajasthani schools drew their themes largely from __________.",
+    "options": [
+      "Hindu religion, epics and Sanskrit/Hindi poetry",
+      "Mughal chronicles",
+      "European novels",
+      "trade records"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani themes come from Hindu religion, epics and devotional/courtly poetry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mewar school is one of the __________ Rajasthani schools.",
+    "options": [
+      "oldest and most important",
+      "youngest",
+      "smallest",
+      "least studied"
+    ],
+    "correct_index": 0,
+    "solution": "Mewar is one of the oldest and most important Rajasthani schools.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A common device in Rajasthani painting is showing several episodes of a story __________.",
+    "options": [
+      "within a single frame (continuous narration)",
+      "in separate books",
+      "in sculpture",
+      "on coins"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting often uses continuous narration, showing several episodes in one frame.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Jaipur school later absorbed __________ influences due to closeness to the Mughal court.",
+    "options": [
+      "Mughal",
+      "European",
+      "Chinese",
+      "Deccan only"
+    ],
+    "correct_index": 0,
+    "solution": "The Jaipur school absorbed Mughal influences owing to its Mughal ties.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The theme 'Krishna lifting Mount Govardhan' is a popular __________ subject.",
+    "options": [
+      "Krishna-lila",
+      "Ragamala",
+      "Barahmasa",
+      "Nayika"
+    ],
+    "correct_index": 0,
+    "solution": "Krishna lifting Govardhan is a favourite Krishna-lila subject.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bright red and yellow borders are a common feature of __________ paintings.",
+    "options": [
+      "Rajasthani (Mewar)",
+      "Mughal",
+      "European",
+      "Chinese"
+    ],
+    "correct_index": 0,
+    "solution": "Bold red and yellow borders are common in early Mewar/Rajasthani paintings.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rajasthani painting is distinguished from Mughal painting by its greater emphasis on __________.",
+    "options": [
+      "bold colour, emotion and religious themes",
+      "realistic portraiture",
+      "European perspective",
+      "monochrome"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting stresses bold colour, emotion and religious themes over Mughal realism.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The heroines (nayikas) in Rajasthani painting are often shown against the backdrop of __________.",
+    "options": [
+      "gardens, palaces and nature",
+      "battlefields",
+      "markets",
+      "ships"
+    ],
+    "correct_index": 0,
+    "solution": "Nayikas are usually set against gardens, palaces and natural backdrops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajasthani schools flourished mainly from the __________ centuries.",
+    "options": [
+      "16th to 19th",
+      "1st to 3rd",
+      "20th",
+      "10th to 12th"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting flourished mainly from the 16th to the 19th centuries.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The intimate scale of Rajput miniatures suited them for __________.",
+    "options": [
+      "private viewing and albums",
+      "public display on walls",
+      "temple facades",
+      "coins"
+    ],
+    "correct_index": 0,
+    "solution": "The small scale suited private viewing in albums and manuscripts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajasthani painters worked in royal __________ (workshops).",
+    "options": [
+      "ateliers/karkhanas",
+      "temples only",
+      "markets",
+      "forts as soldiers"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painters worked in royal ateliers (karkhanas) under court patronage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The bold, dramatic use of the colour __________ is characteristic of early Mewar painting.",
+    "options": [
+      "red",
+      "grey",
+      "brown",
+      "black"
+    ],
+    "correct_index": 0,
+    "solution": "Early Mewar painting is characterised by bold use of red.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The subject of a lonely heroine longing for her absent lover in the rains is a __________ theme.",
+    "options": [
+      "Barahmasa / viraha",
+      "hunting",
+      "durbar",
+      "battle"
+    ],
+    "correct_index": 0,
+    "solution": "The longing heroine in the monsoon is a Barahmasa (viraha, separation) theme.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajasthani schools together reflect the __________ of the Rajput courts.",
+    "options": [
+      "cultural and religious life",
+      "military defeats",
+      "trade deficits",
+      "European contacts"
+    ],
+    "correct_index": 0,
+    "solution": "The schools reflect the cultural and religious life of the Rajput courts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The distinguishing element of the Kota hunting scenes is the depiction of __________.",
+    "options": [
+      "dense forest and dramatic animal movement",
+      "the sea",
+      "snow-capped mountains",
+      "deserts only"
+    ],
+    "correct_index": 0,
+    "solution": "Kota hunting scenes show dense forests and dramatic animal movement.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajasthani schools are grouped by the __________ where they developed.",
+    "options": [
+      "princely states/regions (Mewar, Bundi, Kishangarh, etc.)",
+      "religions",
+      "languages",
+      "trade routes"
+    ],
+    "correct_index": 0,
+    "solution": "The Rajasthani schools are named after the princely states/regions where they developed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall character of Rajasthani painting is __________.",
+    "options": [
+      "devotional, romantic and richly coloured",
+      "realistic and monochrome",
+      "purely abstract",
+      "European"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting is devotional, romantic and richly coloured.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The most iconic single work of Rajasthani painting for Prelims is the __________ of Kishangarh.",
+    "options": [
+      "Bani Thani",
+      "Hamzanama",
+      "Baburnama",
+      "Kalpasutra"
+    ],
+    "correct_index": 0,
+    "solution": "The Bani Thani of the Kishangarh school is the most iconic Rajasthani work.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Rajasthani painting tradition is important as a major branch of Indian __________ art.",
+    "options": [
+      "miniature",
+      "mural",
+      "temple",
+      "colonial"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting is a major branch of Indian miniature art.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Mewar master painter who illustrated the Ramayana for Maharana Jagat Singh was __________.",
+    "options": [
+      "Sahibdin",
+      "Nihal Chand",
+      "Nasiruddin",
+      "Nainsukh"
+    ],
+    "correct_index": 0,
+    "solution": "Sahibdin was the great Mewar painter who illustrated the Ramayana under Maharana Jagat Singh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bundi school is especially noted for its distinctive treatment of __________.",
+    "options": [
+      "skies, water and lush vegetation",
+      "deserts",
+      "snow",
+      "battle machines"
+    ],
+    "correct_index": 0,
+    "solution": "The Bundi school is noted for its rich skies, water bodies and lush vegetation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bikaner school employed many __________ artists trained in the Mughal style.",
+    "options": [
+      "Usta (Muslim)",
+      "European",
+      "Chinese",
+      "Tibetan"
+    ],
+    "correct_index": 0,
+    "solution": "The Bikaner school employed Usta (Muslim) artists trained in the Mughal tradition.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Jaipur (Amber) school is especially known for its __________.",
+    "options": [
+      "royal portraits and large court scenes",
+      "tribal art",
+      "abstract patterns",
+      "hunting only"
+    ],
+    "correct_index": 0,
+    "solution": "The Jaipur school is known for royal portraits and grand court scenes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The romantic folk tale of __________ was a popular theme in Marwar/Rajasthani painting.",
+    "options": [
+      "Dhola-Maru",
+      "the Hamzanama",
+      "the Razmnama",
+      "the Baburnama"
+    ],
+    "correct_index": 0,
+    "solution": "The love story of Dhola and Maru was a popular Rajasthani (Marwar) theme.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The distinctive costume shown in Rajasthani male portraits includes the __________.",
+    "options": [
+      "turban (safa/pagri) and jama",
+      "Roman toga",
+      "European suit",
+      "Mughal only crown"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani men are shown in the safa/pagri turban and the jama robe.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Ras Panchadhyayi and Bhagavata Purana, illustrated by Rajasthani painters, deal with __________.",
+    "options": [
+      "Krishna's life and the rasa-lila",
+      "Mughal history",
+      "European voyages",
+      "Jain doctrine"
+    ],
+    "correct_index": 0,
+    "solution": "These texts illustrate Krishna's life and the rasa-lila (circle dance).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Kota school reached its height under the ruler __________.",
+    "options": [
+      "Ram Singh II",
+      "Sawant Singh",
+      "Jagat Singh",
+      "Man Singh"
+    ],
+    "correct_index": 0,
+    "solution": "The Kota school flourished notably under Maharao Ram Singh II.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The early Mewar Ragamala painted at Chawand is significant as a __________ dated set.",
+    "options": [
+      "securely (early)",
+      "Mughal",
+      "modern",
+      "European"
+    ],
+    "correct_index": 0,
+    "solution": "The Chawand Ragamala is an important securely dated early Mewar set.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajasthani schools are collectively part of the __________ tradition (as opposed to Pahari).",
+    "options": [
+      "plains Rajput",
+      "hill Pahari",
+      "Mughal",
+      "Deccan"
+    ],
+    "correct_index": 0,
+    "solution": "The Rajasthani schools are the plains branch of Rajput painting, distinct from the hill (Pahari) branch.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The colour blue in Rajasthani painting was often obtained from __________.",
+    "options": [
+      "indigo (and lapis)",
+      "iron",
+      "charcoal",
+      "lime"
+    ],
+    "correct_index": 0,
+    "solution": "Blue in Rajasthani painting came from indigo and, for richer works, lapis.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Nathdwara Pichwai tradition, closely linked to Rajasthani painting, depicts __________.",
+    "options": [
+      "Shrinathji (Krishna)",
+      "the Buddha",
+      "Mahavira",
+      "Mughal emperors"
+    ],
+    "correct_index": 0,
+    "solution": "Nathdwara Pichwai paintings depict Shrinathji, a form of Krishna.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sub-schools of Rajasthani painting include Devgarh, Uniara and __________.",
+    "options": [
+      "Sirohi",
+      "Kangra",
+      "Basohli",
+      "Bijapur"
+    ],
+    "correct_index": 0,
+    "solution": "Devgarh, Uniara and Sirohi were sub-schools of Rajasthani painting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajasthani painters often depicted the __________ against a strip of sky at the top.",
+    "options": [
+      "high horizon composition",
+      "single-point perspective",
+      "aerial photograph",
+      "reverse perspective"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting typically uses a high horizon with a narrow strip of sky at the top.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The theme of Krishna sporting with the gopis in the forest is called the __________.",
+    "options": [
+      "rasa-lila",
+      "durbar",
+      "shikar",
+      "Barahmasa"
+    ],
+    "correct_index": 0,
+    "solution": "The rasa-lila is Krishna's circle dance and play with the gopis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajasthani painting tradition was closely tied to the __________ of the Rajput courts.",
+    "options": [
+      "Vaishnava (Krishna) devotion",
+      "Buddhist monasteries",
+      "European trade",
+      "Mughal administration"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting was closely tied to Vaishnava (Krishna) devotion at the Rajput courts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Kishangarh style's idealised landscape often features a __________ setting.",
+    "options": [
+      "lake (Gundalao) and hilly",
+      "desert only",
+      "sea",
+      "snow"
+    ],
+    "correct_index": 0,
+    "solution": "Kishangarh painting often features an idealised lake-and-hill landscape.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mewar school is associated with the capital city of __________.",
+    "options": [
+      "Udaipur",
+      "Jaipur",
+      "Jodhpur",
+      "Bikaner"
+    ],
+    "correct_index": 0,
+    "solution": "The Mewar school is associated with Udaipur.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The vigorous, bold, somewhat folk quality is most associated with the __________ school.",
+    "options": [
+      "Marwar",
+      "Kishangarh",
+      "Bikaner",
+      "Jaipur"
+    ],
+    "correct_index": 0,
+    "solution": "The Marwar (Jodhpur) school has a bold, vigorous, folk-influenced quality.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rajasthani painting frequently uses __________ to separate scenes within one composition.",
+    "options": [
+      "architectural or colour-band dividers",
+      "photographs",
+      "written chapters",
+      "gold frames only"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painters use architectural elements or colour bands to divide scenes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The animated hunting compositions of Kota are set in __________.",
+    "options": [
+      "dense, tangled forest",
+      "open desert",
+      "the sea",
+      "snow mountains"
+    ],
+    "correct_index": 0,
+    "solution": "Kota's dynamic hunts are set in dense, tangled forest.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajasthani schools flourished under the patronage of the __________ (Rajput chiefs).",
+    "options": [
+      "Rajas and Maharanas",
+      "Nawabs",
+      "Peshwas",
+      "Sultans"
+    ],
+    "correct_index": 0,
+    "solution": "Rajasthani painting flourished under the Rajas and Maharanas of the Rajput states.",
+    "difficulty": "medium"
+  }
 ]
