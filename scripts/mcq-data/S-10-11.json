@@ -1,0 +1,602 @@
+[
+  {
+    "stem": "The flow of electric charge is called __________.",
+    "options": [
+      "electric current",
+      "voltage",
+      "resistance",
+      "power"
+    ],
+    "correct_index": 0,
+    "solution": "Electric current is the rate of flow of electric charge.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The SI unit of electric current is the __________.",
+    "options": [
+      "ampere (A)",
+      "volt",
+      "ohm",
+      "watt"
+    ],
+    "correct_index": 0,
+    "solution": "Electric current is measured in amperes (A).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Electric current is measured using an instrument called the __________.",
+    "options": [
+      "ammeter",
+      "voltmeter",
+      "galvanometer only",
+      "thermometer"
+    ],
+    "correct_index": 0,
+    "solution": "An ammeter measures electric current and is connected in series in a circuit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The potential difference (voltage) between two points is measured in __________.",
+    "options": [
+      "volts (V)",
+      "amperes",
+      "ohms",
+      "watts"
+    ],
+    "correct_index": 0,
+    "solution": "Potential difference is measured in volts (V).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The potential difference is measured using a __________, connected in parallel.",
+    "options": [
+      "voltmeter",
+      "ammeter",
+      "galvanometer",
+      "thermometer"
+    ],
+    "correct_index": 0,
+    "solution": "A voltmeter measures potential difference and is connected in parallel across the component.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ohm's law states that the current through a conductor is directly proportional to the __________ across it, at constant temperature.",
+    "options": [
+      "potential difference",
+      "resistance",
+      "length",
+      "colour"
+    ],
+    "correct_index": 0,
+    "solution": "Ohm's law: at constant temperature, current (I) is directly proportional to potential difference (V).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "According to Ohm's law, V = __________.",
+    "options": [
+      "IR",
+      "I/R",
+      "R/I",
+      "I + R"
+    ],
+    "correct_index": 0,
+    "solution": "Ohm's law is V = IR, where V is voltage, I is current and R is resistance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The property of a conductor that opposes the flow of current is called __________.",
+    "options": [
+      "resistance",
+      "voltage",
+      "power",
+      "current"
+    ],
+    "correct_index": 0,
+    "solution": "Resistance opposes the flow of electric current in a conductor.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The SI unit of resistance is the __________.",
+    "options": [
+      "ohm (Ω)",
+      "ampere",
+      "volt",
+      "watt"
+    ],
+    "correct_index": 0,
+    "solution": "Resistance is measured in ohms (Ω).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The resistance of a wire is directly proportional to its __________.",
+    "options": [
+      "length",
+      "area of cross-section",
+      "colour",
+      "shape only"
+    ],
+    "correct_index": 0,
+    "solution": "Resistance increases with the length of the wire (R ∝ L).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The resistance of a wire is inversely proportional to its __________.",
+    "options": [
+      "area of cross-section",
+      "length",
+      "temperature only",
+      "colour"
+    ],
+    "correct_index": 0,
+    "solution": "Resistance decreases as the cross-sectional area increases (R ∝ 1/A) — a thicker wire has less resistance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The resistance of a material depends on a property called its __________.",
+    "options": [
+      "resistivity",
+      "conductivity only",
+      "mass",
+      "colour"
+    ],
+    "correct_index": 0,
+    "solution": "Resistivity is a property of the material that, along with length and area, determines resistance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Materials with very low resistivity, used for wiring, are __________.",
+    "options": [
+      "good conductors like copper and aluminium",
+      "insulators",
+      "semiconductors",
+      "resistors"
+    ],
+    "correct_index": 0,
+    "solution": "Copper and aluminium have low resistivity and are used for electrical wiring.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Alloys like nichrome have __________ resistivity, so they are used in heating elements.",
+    "options": [
+      "high",
+      "very low",
+      "zero",
+      "negative"
+    ],
+    "correct_index": 0,
+    "solution": "Nichrome has high resistivity and a high melting point, so it is used in heaters and toasters.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In a series combination of resistors, the total resistance is the __________ of individual resistances.",
+    "options": [
+      "sum",
+      "reciprocal of the sum",
+      "product",
+      "difference"
+    ],
+    "correct_index": 0,
+    "solution": "In series, total resistance R = R1 + R2 + R3 + …",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In a parallel combination of resistors, the total resistance is __________ than the smallest individual resistance.",
+    "options": [
+      "less",
+      "greater",
+      "equal to",
+      "double"
+    ],
+    "correct_index": 0,
+    "solution": "In parallel, the total resistance is less than the smallest resistance in the combination.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The formula for total resistance in parallel is __________.",
+    "options": [
+      "1/R = 1/R1 + 1/R2 + …",
+      "R = R1 + R2",
+      "R = R1 × R2",
+      "R = R1 − R2"
+    ],
+    "correct_index": 0,
+    "solution": "In parallel, 1/R = 1/R1 + 1/R2 + 1/R3 + …",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In a series circuit, the current through each component is __________.",
+    "options": [
+      "the same",
+      "different",
+      "zero",
+      "doubled"
+    ],
+    "correct_index": 0,
+    "solution": "In a series circuit, the same current flows through all components.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In a parallel circuit, the voltage across each component is __________.",
+    "options": [
+      "the same",
+      "different",
+      "zero",
+      "doubled"
+    ],
+    "correct_index": 0,
+    "solution": "In a parallel circuit, the same voltage appears across each component.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Household appliances are connected in __________ so that each can be operated independently at the same voltage.",
+    "options": [
+      "parallel",
+      "series",
+      "a single loop",
+      "reverse"
+    ],
+    "correct_index": 0,
+    "solution": "Domestic appliances are connected in parallel to receive the same voltage and work independently.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The heating effect of electric current is given by Joule's law: heat produced is proportional to __________.",
+    "options": [
+      "I²Rt (current squared × resistance × time)",
+      "IRt",
+      "I/R",
+      "V/R"
+    ],
+    "correct_index": 0,
+    "solution": "Joule's law of heating: H = I²Rt, where I is current, R is resistance and t is time.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The heating effect of current is used in appliances such as __________.",
+    "options": [
+      "electric heaters, irons and toasters",
+      "fans",
+      "refrigerators",
+      "radios"
+    ],
+    "correct_index": 0,
+    "solution": "Electric heaters, irons and toasters use the heating effect of current.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The filament of an electric bulb is made of __________ because of its high melting point.",
+    "options": [
+      "tungsten",
+      "copper",
+      "aluminium",
+      "iron"
+    ],
+    "correct_index": 0,
+    "solution": "Tungsten is used for bulb filaments due to its very high melting point.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rate at which electrical energy is consumed is called __________.",
+    "options": [
+      "electric power",
+      "current",
+      "resistance",
+      "voltage"
+    ],
+    "correct_index": 0,
+    "solution": "Electric power is the rate at which electrical energy is consumed or dissipated.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The SI unit of electric power is the __________.",
+    "options": [
+      "watt (W)",
+      "volt",
+      "ampere",
+      "ohm"
+    ],
+    "correct_index": 0,
+    "solution": "Electric power is measured in watts (W); 1 W = 1 J/s.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The formula for electric power is __________.",
+    "options": [
+      "P = VI",
+      "P = V/I",
+      "P = I/V",
+      "P = V + I"
+    ],
+    "correct_index": 0,
+    "solution": "Electric power P = VI (voltage × current); also P = I²R = V²/R.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The commercial unit of electrical energy is the __________.",
+    "options": [
+      "kilowatt-hour (kWh)",
+      "watt",
+      "joule",
+      "volt"
+    ],
+    "correct_index": 0,
+    "solution": "The kilowatt-hour (kWh), or 'unit', is the commercial unit of electrical energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "1 kilowatt-hour is equal to __________ joules.",
+    "options": [
+      "3.6 × 10⁶ J",
+      "1000 J",
+      "3600 J",
+      "1 J"
+    ],
+    "correct_index": 0,
+    "solution": "1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 60 W bulb operating at 120 V draws a current of __________.",
+    "options": [
+      "0.5 A",
+      "2 A",
+      "60 A",
+      "180 A"
+    ],
+    "correct_index": 0,
+    "solution": "I = P/V = 60/120 = 0.5 A.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The direction of conventional current is taken from the __________ terminal of the battery through the circuit.",
+    "options": [
+      "positive",
+      "negative",
+      "middle",
+      "either"
+    ],
+    "correct_index": 0,
+    "solution": "Conventional current flows from the positive terminal through the external circuit to the negative terminal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A device that protects a circuit by melting when excess current flows is a __________.",
+    "options": [
+      "fuse",
+      "switch",
+      "resistor",
+      "battery"
+    ],
+    "correct_index": 0,
+    "solution": "A fuse melts and breaks the circuit if the current exceeds a safe limit, protecting appliances.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The resistance of a conductor generally __________ when its temperature increases.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "becomes zero"
+    ],
+    "correct_index": 0,
+    "solution": "For most conductors, resistance increases with rising temperature.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Two resistors of 4 Ω and 6 Ω connected in series have a total resistance of __________.",
+    "options": [
+      "10 Ω",
+      "2.4 Ω",
+      "24 Ω",
+      "2 Ω"
+    ],
+    "correct_index": 0,
+    "solution": "In series, R = 4 + 6 = 10 Ω.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Two resistors of 6 Ω each connected in parallel give a total resistance of __________.",
+    "options": [
+      "3 Ω",
+      "12 Ω",
+      "6 Ω",
+      "36 Ω"
+    ],
+    "correct_index": 0,
+    "solution": "For two equal resistors in parallel, R = 6/2 = 3 Ω.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The material that neither conducts electricity well nor blocks it fully is a __________.",
+    "options": [
+      "semiconductor",
+      "conductor",
+      "insulator",
+      "superconductor"
+    ],
+    "correct_index": 0,
+    "solution": "A semiconductor, like silicon, has conductivity between that of conductors and insulators.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A good conductor of electricity has __________ resistance.",
+    "options": [
+      "low",
+      "high",
+      "infinite",
+      "negative"
+    ],
+    "correct_index": 0,
+    "solution": "Good conductors have low resistance, allowing current to flow easily.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The potential difference required to move one coulomb of charge doing one joule of work is __________.",
+    "options": [
+      "one volt",
+      "one ampere",
+      "one ohm",
+      "one watt"
+    ],
+    "correct_index": 0,
+    "solution": "One volt is the potential difference that does one joule of work in moving one coulomb of charge.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The amount of charge is measured in __________.",
+    "options": [
+      "coulombs",
+      "amperes",
+      "volts",
+      "ohms"
+    ],
+    "correct_index": 0,
+    "solution": "Electric charge is measured in coulombs (C).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The current in a circuit is related to charge and time by I = __________.",
+    "options": [
+      "Q/t",
+      "Qt",
+      "t/Q",
+      "Q + t"
+    ],
+    "correct_index": 0,
+    "solution": "Current I = charge (Q) ÷ time (t).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The wire used in a fuse has a __________ melting point so that it melts quickly during overload.",
+    "options": [
+      "low",
+      "high",
+      "infinite",
+      "changing"
+    ],
+    "correct_index": 0,
+    "solution": "A fuse wire has a low melting point so it melts and breaks the circuit at the safe current limit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why are the coils of an electric heater made of nichrome and not copper?",
+    "options": [
+      "Nichrome has high resistance and high melting point, producing more heat without melting",
+      "Copper produces more heat",
+      "Nichrome is cheaper only",
+      "Copper has a higher melting point"
+    ],
+    "correct_index": 0,
+    "solution": "Nichrome's high resistance produces good heat, and its high melting point stops it from melting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following will consume the most electrical energy?",
+    "options": [
+      "A 100 W bulb used for 10 hours",
+      "A 100 W bulb used for 1 hour",
+      "A 40 W bulb used for 5 hours",
+      "A 60 W bulb used for 2 hours"
+    ],
+    "correct_index": 0,
+    "solution": "Energy = power × time = 100 × 10 = 1000 Wh, the largest of the options.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A device that stores electrical energy chemically and supplies current is a __________.",
+    "options": [
+      "cell (battery)",
+      "resistor",
+      "fuse",
+      "bulb"
+    ],
+    "correct_index": 0,
+    "solution": "A cell (or battery) stores chemical energy and converts it to electrical energy to drive current.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The earth wire in household wiring is a safety measure that __________.",
+    "options": [
+      "carries leakage current safely to the ground, preventing shocks",
+      "increases current",
+      "reduces voltage",
+      "produces heat"
+    ],
+    "correct_index": 0,
+    "solution": "The earth wire provides a low-resistance path to the ground for leakage current, preventing electric shocks.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The three wires in a household circuit are the live, neutral and __________ wires.",
+    "options": [
+      "earth",
+      "signal",
+      "resistance",
+      "power"
+    ],
+    "correct_index": 0,
+    "solution": "Household wiring uses live, neutral and earth wires.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A short circuit occurs when the live and neutral wires touch directly, causing a __________ current.",
+    "options": [
+      "very large (dangerous)",
+      "very small",
+      "zero",
+      "reverse"
+    ],
+    "correct_index": 0,
+    "solution": "A short circuit gives a very low resistance path, so a large, dangerous current flows, which the fuse cuts off.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The heating effect of current in an electric bulb converts electrical energy into __________.",
+    "options": [
+      "light and heat",
+      "sound",
+      "chemical energy",
+      "magnetic energy"
+    ],
+    "correct_index": 0,
+    "solution": "The bulb's filament heats up and glows, converting electrical energy into light and heat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a quantity with its unit?",
+    "options": [
+      "Current – ampere; Resistance – ohm; Power – watt",
+      "Current – volt; Resistance – ampere",
+      "Power – ohm; Current – watt",
+      "Resistance – ampere; Power – volt"
+    ],
+    "correct_index": 0,
+    "solution": "Current is measured in amperes, resistance in ohms and power in watts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ohm's law states that V = __________.",
+    "options": [
+      "IR",
+      "I/R",
+      "R/I",
+      "I+R"
+    ],
+    "correct_index": 0,
+    "solution": "Ohm's law: V = IR (voltage = current x resistance).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Electricity' is that:",
+    "options": [
+      "electric current, potential difference and resistance are related by Ohm's law; resistors combine in series and parallel; and electric power and the heating effect explain everyday electrical devices",
+      "electricity has no rules",
+      "resistance does not affect current",
+      "electric power cannot be measured"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter covers current, potential difference, resistance, Ohm's law, combinations of resistors, electric power and the heating effect of current.",
+    "difficulty": "easy"
+  }
+]
