@@ -1,52 +1,818 @@
 [
-  {"stem": "The largest and best-known prehistoric rock painting site in India is located at __________.", "options": ["Bhimbetka", "Ajanta", "Ellora", "Sanchi"], "correct_index": 0, "solution": "The Bhimbetka caves in Madhya Pradesh have the richest and best-known prehistoric rock paintings in India.", "difficulty": "easy"},
-  {"stem": "The Bhimbetka rock shelters are located in the state of __________.", "options": ["Madhya Pradesh", "Maharashtra", "Uttar Pradesh", "Odisha"], "correct_index": 0, "solution": "Bhimbetka is situated in the Raisen district of Madhya Pradesh, in the Vindhya hills.", "difficulty": "medium"},
-  {"stem": "Bhimbetka has been recognised by UNESCO as a __________.", "options": ["World Heritage Site", "Biosphere Reserve", "Ramsar site", "National Park"], "correct_index": 0, "solution": "The Rock Shelters of Bhimbetka are a UNESCO World Heritage Site.", "difficulty": "medium"},
-  {"stem": "The prehistoric rock paintings are broadly classified according to the periods: Upper Palaeolithic, Mesolithic and __________.", "options": ["Chalcolithic", "Neolithic only", "Iron Age", "Harappan"], "correct_index": 0, "solution": "The paintings span the Upper Palaeolithic, Mesolithic and Chalcolithic periods.", "difficulty": "hard"},
-  {"stem": "The largest number of rock paintings at Bhimbetka belong to the __________ period.", "options": ["Mesolithic", "Upper Palaeolithic", "Chalcolithic", "Neolithic"], "correct_index": 0, "solution": "The Mesolithic period has the largest number of paintings, rich in themes and colours.", "difficulty": "hard"},
-  {"stem": "The most common colours used in prehistoric rock paintings were __________.", "options": ["various shades of white, red and green", "blue and gold", "black and silver", "purple and orange"], "correct_index": 0, "solution": "The paintings mainly use natural colours — white, red (from haematite/geru) and green.", "difficulty": "medium"},
-  {"stem": "The red colour used in prehistoric paintings was obtained from __________.", "options": ["haematite (geru)", "lapis lazuli", "charcoal", "turmeric"], "correct_index": 0, "solution": "Red was derived from haematite (known as geru in India).", "difficulty": "hard"},
-  {"stem": "The green colour in prehistoric rock paintings was obtained from a green variety of a stone called __________.", "options": ["chalcedony", "haematite", "limestone", "granite"], "correct_index": 0, "solution": "Green came from a green variety of a chalcedony (a form of quartz).", "difficulty": "hard"},
-  {"stem": "The subjects most commonly depicted in Upper Palaeolithic rock paintings were __________.", "options": ["large animals like bison, elephants and rhinos", "gods and goddesses", "battle scenes with guns", "temples"], "correct_index": 0, "solution": "Upper Palaeolithic paintings show large animal figures such as bisons, tigers, elephants and rhinos.", "difficulty": "medium"},
-  {"stem": "Mesolithic rock paintings are characterised by the depiction of __________.", "options": ["hunting scenes and smaller, more numerous figures", "only geometric patterns", "only single large animals", "written script"], "correct_index": 0, "solution": "Mesolithic paintings show lively hunting scenes with smaller, more numerous human and animal figures.", "difficulty": "medium"},
-  {"stem": "The prehistoric rock paintings at Lakhudiyar are located in the state of __________.", "options": ["Uttarakhand", "Rajasthan", "Kerala", "Assam"], "correct_index": 0, "solution": "Lakhudiyar, on the banks of the River Suyal, is in Uttarakhand.", "difficulty": "hard"},
-  {"stem": "At Lakhudiyar, the paintings are done in three colours: white, black and __________.", "options": ["red ochre", "green", "blue", "yellow"], "correct_index": 0, "solution": "Lakhudiyar paintings use white, black and red ochre.", "difficulty": "hard"},
-  {"stem": "The wavy lines, rectangle-filled geometric designs and groups of dots at Lakhudiyar are examples of __________ in prehistoric art.", "options": ["hand-linked dancing human figures and patterns", "written inscriptions", "royal portraits", "religious idols"], "correct_index": 0, "solution": "Lakhudiyar shows humans, animals and geometric patterns including hand-linked dancing figures.", "difficulty": "hard"},
-  {"stem": "Prehistoric people made paintings mainly on the walls and ceilings of __________.", "options": ["rock shelters and caves", "wooden houses", "brick temples", "palaces"], "correct_index": 0, "solution": "Early humans painted on the walls and ceilings of natural rock shelters and caves.", "difficulty": "easy"},
-  {"stem": "The prehistoric rock shelters of Kupgallu, Piklihal and Tekkalkota are located in __________.", "options": ["South India (Karnataka/Andhra region)", "the Himalayas", "the Thar Desert", "the Gangetic plains"], "correct_index": 0, "solution": "These rock painting sites are in South India (the Karnataka–Andhra region).", "difficulty": "hard"},
-  {"stem": "The paintings that superimpose newer figures over older ones show that the caves were __________.", "options": ["used and painted over many periods", "painted in a single day", "never inhabited", "made in modern times"], "correct_index": 0, "solution": "Superimposition of paintings indicates repeated use of the same surfaces over many periods.", "difficulty": "hard"},
-  {"stem": "One of the most striking scenes at Bhimbetka is a large __________ surrounded by hunters.", "options": ["wild boar (or bison)", "temple", "chariot", "ship"], "correct_index": 0, "solution": "A famous Bhimbetka scene depicts a large animal (a boar/bison) surrounded by tiny human hunters.", "difficulty": "medium"},
-  {"stem": "The brushes used by prehistoric painters were most likely made from __________.", "options": ["plant fibre and animal hair", "metal", "feathers dipped in ink", "modern bristles"], "correct_index": 0, "solution": "Prehistoric painters likely used brushes of plant fibre or hair.", "difficulty": "medium"},
-  {"stem": "The scientific study of prehistoric paintings tells us mainly about the __________ of early humans.", "options": ["daily life, hunting and social activities", "modern religions", "written languages", "coinage"], "correct_index": 0, "solution": "The paintings reveal the hunting, food, and social life of prehistoric humans.", "difficulty": "medium"},
-  {"stem": "The prehistoric caves of Jogimara, with paintings, are located in __________.", "options": ["Chhattisgarh", "Gujarat", "Punjab", "Tamil Nadu"], "correct_index": 0, "solution": "The Jogimara caves with early paintings are in the Amarnath area of Chhattisgarh.", "difficulty": "hard"},
-  {"stem": "Which of the following was NOT a colour commonly used by prehistoric rock painters?", "options": ["Bright blue", "White", "Red", "Green"], "correct_index": 0, "solution": "Bright blue was not available; the palette was mainly white, red and green from natural minerals.", "difficulty": "medium"},
-  {"stem": "The pigments used for prehistoric paintings were ground and mixed with __________ to make them stick.", "options": ["a binding medium such as animal fat or gum", "cement", "oil paint", "acrylic"], "correct_index": 0, "solution": "Natural pigments were mixed with a binder like animal fat or plant gum.", "difficulty": "hard"},
-  {"stem": "The white pigment used in prehistoric paintings was often obtained from __________.", "options": ["limestone (or lime)", "haematite", "charcoal", "copper"], "correct_index": 0, "solution": "White was obtained from limestone or lime-based materials.", "difficulty": "hard"},
-  {"stem": "The Bhimbetka caves were discovered by the archaeologist __________.", "options": ["V. S. Wakankar", "John Marshall", "Alexander Cunningham", "Mortimer Wheeler"], "correct_index": 0, "solution": "V. S. Wakankar discovered the Bhimbetka rock shelters in 1957–58.", "difficulty": "hard"},
-  {"stem": "The theme of dance in a group of joined human figures is most typical of the __________ period paintings.", "options": ["Mesolithic", "Upper Palaeolithic", "Chalcolithic", "Neolithic"], "correct_index": 0, "solution": "Group dancing and community scenes are characteristic of the Mesolithic paintings.", "difficulty": "hard"},
-  {"stem": "Chalcolithic paintings at Bhimbetka show evidence of __________ between cave dwellers and settled agricultural communities.", "options": ["contact and exchange", "warfare only", "no relation", "trade with Europe"], "correct_index": 0, "solution": "Chalcolithic paintings reveal contact and exchange between the cave people and settled farming communities.", "difficulty": "hard"},
-  {"stem": "The animals shown in prehistoric paintings are often depicted with great __________.", "options": ["accuracy and liveliness", "abstraction only", "religious symbolism only", "written labels"], "correct_index": 0, "solution": "Prehistoric artists depicted animals with remarkable accuracy and vitality.", "difficulty": "medium"},
-  {"stem": "Prehistoric rock art in India is important because it represents the __________ of Indian art.", "options": ["earliest beginnings", "final phase", "medieval peak", "colonial revival"], "correct_index": 0, "solution": "Rock paintings mark the earliest beginnings of art in the Indian subcontinent.", "difficulty": "easy"},
-  {"stem": "The prehistoric paintings were usually made at places that were __________.", "options": ["easily accessible and near water", "on remote mountain peaks", "underground only", "in deserts only"], "correct_index": 0, "solution": "The shelters chosen were generally accessible and located near water sources.", "difficulty": "medium"},
-  {"stem": "Which period's paintings are the oldest at Bhimbetka?", "options": ["Upper Palaeolithic", "Mesolithic", "Chalcolithic", "Historic"], "correct_index": 0, "solution": "The Upper Palaeolithic paintings are the oldest at Bhimbetka.", "difficulty": "medium"},
-  {"stem": "The green and yellow tinges in some animal figures were used to depict __________.", "options": ["animals like rhinos and cattle in swaying movement", "the sky", "water bodies", "fire"], "correct_index": 0, "solution": "Green and dark red were often used to depict swaying animals such as rhinos and cattle.", "difficulty": "hard"},
-  {"stem": "The rock painting sites indicate that prehistoric humans had a well-developed sense of __________.", "options": ["observation and artistic expression", "written communication", "metallurgy", "coin minting"], "correct_index": 0, "solution": "The detailed paintings show a keen sense of observation and artistic expression.", "difficulty": "medium"},
-  {"stem": "The tradition of rock painting in India continued into the __________ period at some sites.", "options": ["historic", "colonial", "modern industrial", "post-independence"], "correct_index": 0, "solution": "At some sites, the rock painting tradition continued into the historic period.", "difficulty": "hard"},
-  {"stem": "The human figures in Mesolithic paintings are often shown __________.", "options": ["in dynamic activity such as hunting and dancing", "seated and still", "as portraits of kings", "worshipping idols"], "correct_index": 0, "solution": "Mesolithic humans are shown in lively activities like hunting, dancing and food gathering.", "difficulty": "medium"},
-  {"stem": "The prehistoric artist obtained black colour from __________.", "options": ["charcoal (or manganese)", "haematite", "limestone", "chalcedony"], "correct_index": 0, "solution": "Black was obtained from charcoal or manganese.", "difficulty": "hard"},
-  {"stem": "The concentration of hand prints and finger markings in some shelters may represent __________.", "options": ["early symbolic or ritual expression", "modern graffiti", "written scripts", "maps of cities"], "correct_index": 0, "solution": "Hand prints and finger markings are interpreted as early symbolic or ritual expression.", "difficulty": "hard"},
-  {"stem": "The subjects of prehistoric paintings rarely include __________.", "options": ["temples and written texts", "animals", "hunting scenes", "human figures"], "correct_index": 0, "solution": "Temples and written texts do not appear; the art predates them, focusing on animals and daily life.", "difficulty": "medium"},
-  {"stem": "The rock shelters of Bhimbetka lie within a __________ forest region.", "options": ["dense deciduous (sal and teak)", "coastal mangrove", "alpine", "desert scrub"], "correct_index": 0, "solution": "Bhimbetka lies amid dense deciduous forest in the Vindhya hills.", "difficulty": "hard"},
-  {"stem": "Prehistoric paintings are a valuable source for reconstructing the __________ of ancient India.", "options": ["cultural and environmental history", "political constitution", "tax records", "trade treaties"], "correct_index": 0, "solution": "They help reconstruct the cultural life and environment of prehistoric India.", "difficulty": "medium"},
-  {"stem": "The number of rock shelters identified at Bhimbetka runs into __________.", "options": ["several hundred", "just two or three", "exactly ten", "over a million"], "correct_index": 0, "solution": "Bhimbetka has several hundred rock shelters, many with paintings.", "difficulty": "medium"},
-  {"stem": "The images of animals like the elephant and bison at Bhimbetka are usually painted in __________.", "options": ["red and white", "blue and gold", "black and silver", "green and purple"], "correct_index": 0, "solution": "Large animals are typically rendered in red and white.", "difficulty": "medium"},
-  {"stem": "The theme of a wounded animal or a hunting accident in the paintings reflects the __________ of early life.", "options": ["dangers of the hunt", "peaceful agriculture", "urban trade", "temple worship"], "correct_index": 0, "solution": "Such scenes reflect the dangers faced during hunting in prehistoric life.", "difficulty": "medium"},
-  {"stem": "The oldest paintings are found on the __________ of the rock shelters, less exposed to weather.", "options": ["inner walls and ceilings", "outer edges only", "floors", "nearby river beds"], "correct_index": 0, "solution": "The older, better-preserved paintings survive on protected inner walls and ceilings.", "difficulty": "hard"},
-  {"stem": "Prehistoric rock art demonstrates that art is a __________ human activity.", "options": ["very ancient and universal", "recent and rare", "purely modern", "exclusively religious"], "correct_index": 0, "solution": "Rock art shows that artistic expression is very ancient and found across human cultures.", "difficulty": "easy"},
-  {"stem": "The prehistoric painters often depicted animals __________ human figures in size, emphasising their importance.", "options": ["larger than", "smaller than", "the same size as", "hidden behind"], "correct_index": 0, "solution": "Animals were frequently drawn larger than humans, showing their central role in early life.", "difficulty": "medium"},
-  {"stem": "The rock shelters were used by prehistoric humans mainly as __________.", "options": ["dwellings and shelters", "burial pyramids", "temples", "trading posts"], "correct_index": 0, "solution": "The shelters served as dwellings for prehistoric humans.", "difficulty": "easy"},
-  {"stem": "The continuity of the rock painting tradition over thousands of years shows its role in __________.", "options": ["cultural transmission", "warfare", "coin minting", "irrigation"], "correct_index": 0, "solution": "The long tradition reflects the transmission of culture across generations.", "difficulty": "medium"},
-  {"stem": "Which Indian state, besides Madhya Pradesh, is well known for prehistoric rock art at sites like Lakhudiyar?", "options": ["Uttarakhand", "Punjab", "Haryana", "Goa"], "correct_index": 0, "solution": "Uttarakhand (Lakhudiyar) is another important prehistoric rock art region.", "difficulty": "hard"},
-  {"stem": "The importance of Bhimbetka lies in its __________ record of continuous human occupation and art.", "options": ["unbroken", "very brief", "purely modern", "undocumented"], "correct_index": 0, "solution": "Bhimbetka preserves a long, continuous record of human occupation and artistic activity.", "difficulty": "medium"},
-  {"stem": "Prehistoric rock paintings are considered '__________ art' because they were made before the invention of writing.", "options": ["pre-historic", "medieval", "colonial", "folk revival"], "correct_index": 0, "solution": "They are called prehistoric because they predate written records.", "difficulty": "easy"}
+  {
+    "stem": "The largest and best-known prehistoric rock painting site in India is located at __________.",
+    "options": [
+      "Bhimbetka",
+      "Ajanta",
+      "Ellora",
+      "Sanchi"
+    ],
+    "correct_index": 0,
+    "solution": "The Bhimbetka caves in Madhya Pradesh have the richest and best-known prehistoric rock paintings in India.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Bhimbetka rock shelters are located in the state of __________.",
+    "options": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Bhimbetka is situated in the Raisen district of Madhya Pradesh, in the Vindhya hills.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bhimbetka has been recognised by UNESCO as a __________.",
+    "options": [
+      "World Heritage Site",
+      "Biosphere Reserve",
+      "Ramsar site",
+      "National Park"
+    ],
+    "correct_index": 0,
+    "solution": "The Rock Shelters of Bhimbetka are a UNESCO World Heritage Site.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prehistoric rock paintings are broadly classified according to the periods: Upper Palaeolithic, Mesolithic and __________.",
+    "options": [
+      "Chalcolithic",
+      "Neolithic only",
+      "Iron Age",
+      "Harappan"
+    ],
+    "correct_index": 0,
+    "solution": "The paintings span the Upper Palaeolithic, Mesolithic and Chalcolithic periods.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The largest number of rock paintings at Bhimbetka belong to the __________ period.",
+    "options": [
+      "Mesolithic",
+      "Upper Palaeolithic",
+      "Chalcolithic",
+      "Neolithic"
+    ],
+    "correct_index": 0,
+    "solution": "The Mesolithic period has the largest number of paintings, rich in themes and colours.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most common colours used in prehistoric rock paintings were __________.",
+    "options": [
+      "various shades of white, red and green",
+      "blue and gold",
+      "black and silver",
+      "purple and orange"
+    ],
+    "correct_index": 0,
+    "solution": "The paintings mainly use natural colours — white, red (from haematite/geru) and green.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The red colour used in prehistoric paintings was obtained from __________.",
+    "options": [
+      "haematite (geru)",
+      "lapis lazuli",
+      "charcoal",
+      "turmeric"
+    ],
+    "correct_index": 0,
+    "solution": "Red was derived from haematite (known as geru in India).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The green colour in prehistoric rock paintings was obtained from a green variety of a stone called __________.",
+    "options": [
+      "chalcedony",
+      "haematite",
+      "limestone",
+      "granite"
+    ],
+    "correct_index": 0,
+    "solution": "Green came from a green variety of a chalcedony (a form of quartz).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The subjects most commonly depicted in Upper Palaeolithic rock paintings were __________.",
+    "options": [
+      "large animals like bison, elephants and rhinos",
+      "gods and goddesses",
+      "battle scenes with guns",
+      "temples"
+    ],
+    "correct_index": 0,
+    "solution": "Upper Palaeolithic paintings show large animal figures such as bisons, tigers, elephants and rhinos.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mesolithic rock paintings are characterised by the depiction of __________.",
+    "options": [
+      "hunting scenes and smaller, more numerous figures",
+      "only geometric patterns",
+      "only single large animals",
+      "written script"
+    ],
+    "correct_index": 0,
+    "solution": "Mesolithic paintings show lively hunting scenes with smaller, more numerous human and animal figures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prehistoric rock paintings at Lakhudiyar are located in the state of __________.",
+    "options": [
+      "Uttarakhand",
+      "Rajasthan",
+      "Kerala",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Lakhudiyar, on the banks of the River Suyal, is in Uttarakhand.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "At Lakhudiyar, the paintings are done in three colours: white, black and __________.",
+    "options": [
+      "red ochre",
+      "green",
+      "blue",
+      "yellow"
+    ],
+    "correct_index": 0,
+    "solution": "Lakhudiyar paintings use white, black and red ochre.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The wavy lines, rectangle-filled geometric designs and groups of dots at Lakhudiyar are examples of __________ in prehistoric art.",
+    "options": [
+      "hand-linked dancing human figures and patterns",
+      "written inscriptions",
+      "royal portraits",
+      "religious idols"
+    ],
+    "correct_index": 0,
+    "solution": "Lakhudiyar shows humans, animals and geometric patterns including hand-linked dancing figures.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Prehistoric people made paintings mainly on the walls and ceilings of __________.",
+    "options": [
+      "rock shelters and caves",
+      "wooden houses",
+      "brick temples",
+      "palaces"
+    ],
+    "correct_index": 0,
+    "solution": "Early humans painted on the walls and ceilings of natural rock shelters and caves.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The prehistoric rock shelters of Kupgallu, Piklihal and Tekkalkota are located in __________.",
+    "options": [
+      "South India (Karnataka/Andhra region)",
+      "the Himalayas",
+      "the Thar Desert",
+      "the Gangetic plains"
+    ],
+    "correct_index": 0,
+    "solution": "These rock painting sites are in South India (the Karnataka–Andhra region).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The paintings that superimpose newer figures over older ones show that the caves were __________.",
+    "options": [
+      "used and painted over many periods",
+      "painted in a single day",
+      "never inhabited",
+      "made in modern times"
+    ],
+    "correct_index": 0,
+    "solution": "Superimposition of paintings indicates repeated use of the same surfaces over many periods.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "One of the most striking scenes at Bhimbetka is a large __________ surrounded by hunters.",
+    "options": [
+      "wild boar (or bison)",
+      "temple",
+      "chariot",
+      "ship"
+    ],
+    "correct_index": 0,
+    "solution": "A famous Bhimbetka scene depicts a large animal (a boar/bison) surrounded by tiny human hunters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The brushes used by prehistoric painters were most likely made from __________.",
+    "options": [
+      "plant fibre and animal hair",
+      "metal",
+      "feathers dipped in ink",
+      "modern bristles"
+    ],
+    "correct_index": 0,
+    "solution": "Prehistoric painters likely used brushes of plant fibre or hair.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scientific study of prehistoric paintings tells us mainly about the __________ of early humans.",
+    "options": [
+      "daily life, hunting and social activities",
+      "modern religions",
+      "written languages",
+      "coinage"
+    ],
+    "correct_index": 0,
+    "solution": "The paintings reveal the hunting, food, and social life of prehistoric humans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prehistoric caves of Jogimara, with paintings, are located in __________.",
+    "options": [
+      "Chhattisgarh",
+      "Gujarat",
+      "Punjab",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "The Jogimara caves with early paintings are in the Amarnath area of Chhattisgarh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following was NOT a colour commonly used by prehistoric rock painters?",
+    "options": [
+      "Bright blue",
+      "White",
+      "Red",
+      "Green"
+    ],
+    "correct_index": 0,
+    "solution": "Bright blue was not available; the palette was mainly white, red and green from natural minerals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The pigments used for prehistoric paintings were ground and mixed with __________ to make them stick.",
+    "options": [
+      "a binding medium such as animal fat or gum",
+      "cement",
+      "oil paint",
+      "acrylic"
+    ],
+    "correct_index": 0,
+    "solution": "Natural pigments were mixed with a binder like animal fat or plant gum.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The white pigment used in prehistoric paintings was often obtained from __________.",
+    "options": [
+      "limestone (or lime)",
+      "haematite",
+      "charcoal",
+      "copper"
+    ],
+    "correct_index": 0,
+    "solution": "White was obtained from limestone or lime-based materials.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Bhimbetka caves were discovered by the archaeologist __________.",
+    "options": [
+      "V. S. Wakankar",
+      "John Marshall",
+      "Alexander Cunningham",
+      "Mortimer Wheeler"
+    ],
+    "correct_index": 0,
+    "solution": "V. S. Wakankar discovered the Bhimbetka rock shelters in 1957–58.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The theme of dance in a group of joined human figures is most typical of the __________ period paintings.",
+    "options": [
+      "Mesolithic",
+      "Upper Palaeolithic",
+      "Chalcolithic",
+      "Neolithic"
+    ],
+    "correct_index": 0,
+    "solution": "Group dancing and community scenes are characteristic of the Mesolithic paintings.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Chalcolithic paintings at Bhimbetka show evidence of __________ between cave dwellers and settled agricultural communities.",
+    "options": [
+      "contact and exchange",
+      "warfare only",
+      "no relation",
+      "trade with Europe"
+    ],
+    "correct_index": 0,
+    "solution": "Chalcolithic paintings reveal contact and exchange between the cave people and settled farming communities.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The animals shown in prehistoric paintings are often depicted with great __________.",
+    "options": [
+      "accuracy and liveliness",
+      "abstraction only",
+      "religious symbolism only",
+      "written labels"
+    ],
+    "correct_index": 0,
+    "solution": "Prehistoric artists depicted animals with remarkable accuracy and vitality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Prehistoric rock art in India is important because it represents the __________ of Indian art.",
+    "options": [
+      "earliest beginnings",
+      "final phase",
+      "medieval peak",
+      "colonial revival"
+    ],
+    "correct_index": 0,
+    "solution": "Rock paintings mark the earliest beginnings of art in the Indian subcontinent.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The prehistoric paintings were usually made at places that were __________.",
+    "options": [
+      "easily accessible and near water",
+      "on remote mountain peaks",
+      "underground only",
+      "in deserts only"
+    ],
+    "correct_index": 0,
+    "solution": "The shelters chosen were generally accessible and located near water sources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which period's paintings are the oldest at Bhimbetka?",
+    "options": [
+      "Upper Palaeolithic",
+      "Mesolithic",
+      "Chalcolithic",
+      "Historic"
+    ],
+    "correct_index": 0,
+    "solution": "The Upper Palaeolithic paintings are the oldest at Bhimbetka.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The green and yellow tinges in some animal figures were used to depict __________.",
+    "options": [
+      "animals like rhinos and cattle in swaying movement",
+      "the sky",
+      "water bodies",
+      "fire"
+    ],
+    "correct_index": 0,
+    "solution": "Green and dark red were often used to depict swaying animals such as rhinos and cattle.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rock painting sites indicate that prehistoric humans had a well-developed sense of __________.",
+    "options": [
+      "observation and artistic expression",
+      "written communication",
+      "metallurgy",
+      "coin minting"
+    ],
+    "correct_index": 0,
+    "solution": "The detailed paintings show a keen sense of observation and artistic expression.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tradition of rock painting in India continued into the __________ period at some sites.",
+    "options": [
+      "historic",
+      "colonial",
+      "modern industrial",
+      "post-independence"
+    ],
+    "correct_index": 0,
+    "solution": "At some sites, the rock painting tradition continued into the historic period.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The human figures in Mesolithic paintings are often shown __________.",
+    "options": [
+      "in dynamic activity such as hunting and dancing",
+      "seated and still",
+      "as portraits of kings",
+      "worshipping idols"
+    ],
+    "correct_index": 0,
+    "solution": "Mesolithic humans are shown in lively activities like hunting, dancing and food gathering.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prehistoric artist obtained black colour from __________.",
+    "options": [
+      "charcoal (or manganese)",
+      "haematite",
+      "limestone",
+      "chalcedony"
+    ],
+    "correct_index": 0,
+    "solution": "Black was obtained from charcoal or manganese.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The concentration of hand prints and finger markings in some shelters may represent __________.",
+    "options": [
+      "early symbolic or ritual expression",
+      "modern graffiti",
+      "written scripts",
+      "maps of cities"
+    ],
+    "correct_index": 0,
+    "solution": "Hand prints and finger markings are interpreted as early symbolic or ritual expression.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The subjects of prehistoric paintings rarely include __________.",
+    "options": [
+      "temples and written texts",
+      "animals",
+      "hunting scenes",
+      "human figures"
+    ],
+    "correct_index": 0,
+    "solution": "Temples and written texts do not appear; the art predates them, focusing on animals and daily life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rock shelters of Bhimbetka lie within a __________ forest region.",
+    "options": [
+      "dense deciduous (sal and teak)",
+      "coastal mangrove",
+      "alpine",
+      "desert scrub"
+    ],
+    "correct_index": 0,
+    "solution": "Bhimbetka lies amid dense deciduous forest in the Vindhya hills.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Prehistoric paintings are a valuable source for reconstructing the __________ of ancient India.",
+    "options": [
+      "cultural and environmental history",
+      "political constitution",
+      "tax records",
+      "trade treaties"
+    ],
+    "correct_index": 0,
+    "solution": "They help reconstruct the cultural life and environment of prehistoric India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of rock shelters identified at Bhimbetka runs into __________.",
+    "options": [
+      "several hundred",
+      "just two or three",
+      "exactly ten",
+      "over a million"
+    ],
+    "correct_index": 0,
+    "solution": "Bhimbetka has several hundred rock shelters, many with paintings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The images of animals like the elephant and bison at Bhimbetka are usually painted in __________.",
+    "options": [
+      "red and white",
+      "blue and gold",
+      "black and silver",
+      "green and purple"
+    ],
+    "correct_index": 0,
+    "solution": "Large animals are typically rendered in red and white.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The theme of a wounded animal or a hunting accident in the paintings reflects the __________ of early life.",
+    "options": [
+      "dangers of the hunt",
+      "peaceful agriculture",
+      "urban trade",
+      "temple worship"
+    ],
+    "correct_index": 0,
+    "solution": "Such scenes reflect the dangers faced during hunting in prehistoric life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The oldest paintings are found on the __________ of the rock shelters, less exposed to weather.",
+    "options": [
+      "inner walls and ceilings",
+      "outer edges only",
+      "floors",
+      "nearby river beds"
+    ],
+    "correct_index": 0,
+    "solution": "The older, better-preserved paintings survive on protected inner walls and ceilings.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Prehistoric rock art demonstrates that art is a __________ human activity.",
+    "options": [
+      "very ancient and universal",
+      "recent and rare",
+      "purely modern",
+      "exclusively religious"
+    ],
+    "correct_index": 0,
+    "solution": "Rock art shows that artistic expression is very ancient and found across human cultures.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The prehistoric painters often depicted animals __________ human figures in size, emphasising their importance.",
+    "options": [
+      "larger than",
+      "smaller than",
+      "the same size as",
+      "hidden behind"
+    ],
+    "correct_index": 0,
+    "solution": "Animals were frequently drawn larger than humans, showing their central role in early life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rock shelters were used by prehistoric humans mainly as __________.",
+    "options": [
+      "dwellings and shelters",
+      "burial pyramids",
+      "temples",
+      "trading posts"
+    ],
+    "correct_index": 0,
+    "solution": "The shelters served as dwellings for prehistoric humans.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The continuity of the rock painting tradition over thousands of years shows its role in __________.",
+    "options": [
+      "cultural transmission",
+      "warfare",
+      "coin minting",
+      "irrigation"
+    ],
+    "correct_index": 0,
+    "solution": "The long tradition reflects the transmission of culture across generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which Indian state, besides Madhya Pradesh, is well known for prehistoric rock art at sites like Lakhudiyar?",
+    "options": [
+      "Uttarakhand",
+      "Punjab",
+      "Haryana",
+      "Goa"
+    ],
+    "correct_index": 0,
+    "solution": "Uttarakhand (Lakhudiyar) is another important prehistoric rock art region.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The importance of Bhimbetka lies in its __________ record of continuous human occupation and art.",
+    "options": [
+      "unbroken",
+      "very brief",
+      "purely modern",
+      "undocumented"
+    ],
+    "correct_index": 0,
+    "solution": "Bhimbetka preserves a long, continuous record of human occupation and artistic activity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Prehistoric rock paintings are considered '__________ art' because they were made before the invention of writing.",
+    "options": [
+      "pre-historic",
+      "medieval",
+      "colonial",
+      "folk revival"
+    ],
+    "correct_index": 0,
+    "solution": "They are called prehistoric because they predate written records.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The prehistoric rock paintings were discovered at Bhimbetka in the year __________.",
+    "options": [
+      "1957–58",
+      "1922",
+      "1901",
+      "1975"
+    ],
+    "correct_index": 0,
+    "solution": "V. S. Wakankar discovered the Bhimbetka paintings in 1957–58.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The prehistoric period during which humans first used tools of chipped stone and made the earliest paintings is the __________.",
+    "options": [
+      "Palaeolithic (Old Stone Age)",
+      "Neolithic",
+      "Chalcolithic",
+      "Iron Age"
+    ],
+    "correct_index": 0,
+    "solution": "The Palaeolithic (Old Stone Age) is when the earliest rock paintings appear.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The subjects of Mesolithic rock paintings show that people lived mainly by __________.",
+    "options": [
+      "hunting and food-gathering",
+      "settled agriculture",
+      "trade in cities",
+      "metalworking"
+    ],
+    "correct_index": 0,
+    "solution": "The hunting scenes reflect a hunting-and-gathering way of life in the Mesolithic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The animals in prehistoric paintings are shown __________ in relation to the tiny human figures.",
+    "options": [
+      "large and dominant",
+      "small and hidden",
+      "the same size",
+      "absent"
+    ],
+    "correct_index": 0,
+    "solution": "Animals are shown large and dominant compared with the small human hunters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bright colour absent from the prehistoric palette, due to lack of natural sources, was __________.",
+    "options": [
+      "blue",
+      "red",
+      "white",
+      "black"
+    ],
+    "correct_index": 0,
+    "solution": "Blue was largely absent; the palette was red, white, green, yellow and black.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The green pigment in prehistoric painting was derived from a green variety of __________.",
+    "options": [
+      "chalcedony",
+      "sandstone",
+      "granite",
+      "limestone"
+    ],
+    "correct_index": 0,
+    "solution": "Green came from a green variety of chalcedony (a quartz mineral).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The prehistoric artist most likely used __________ to apply paint to the rock.",
+    "options": [
+      "fingers and simple brushes of fibre/hair",
+      "metal pens",
+      "printing blocks",
+      "spray tools"
+    ],
+    "correct_index": 0,
+    "solution": "Prehistoric artists used fingers and simple brushes of plant fibre or animal hair.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rock paintings depict community activities such as __________.",
+    "options": [
+      "dancing, group hunting and rituals",
+      "coin minting",
+      "temple worship",
+      "sea trade"
+    ],
+    "correct_index": 0,
+    "solution": "The paintings show dancing, group hunting and community rituals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prehistoric paintings help us understand the __________ of early humans, since they left no writing.",
+    "options": [
+      "way of life and environment",
+      "kings and dynasties",
+      "trade treaties",
+      "coinage"
+    ],
+    "correct_index": 0,
+    "solution": "The paintings are a key source for the way of life and environment of pre-literate humans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prehistoric rock shelters continued to be painted into the __________ period at some sites.",
+    "options": [
+      "early historic",
+      "Mughal",
+      "colonial",
+      "modern"
+    ],
+    "correct_index": 0,
+    "solution": "At some sites the tradition of painting continued into the early historic period.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The superimposition of layers of paintings at Bhimbetka indicates that the shelters were used __________.",
+    "options": [
+      "over a very long span of time",
+      "for a single generation",
+      "in modern times only",
+      "never"
+    ],
+    "correct_index": 0,
+    "solution": "Layered, overlapping paintings show use over a very long span of time.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The prehistoric paintings of Kupgallu, Piklihal and Tekkalkota are located in __________ India.",
+    "options": [
+      "South",
+      "North",
+      "North-East",
+      "West"
+    ],
+    "correct_index": 0,
+    "solution": "These rock-painting sites are in South India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The colours have survived for thousands of years because they were made from __________ that bond with the rock.",
+    "options": [
+      "mineral oxides",
+      "vegetable dyes only",
+      "synthetic paint",
+      "chalk only"
+    ],
+    "correct_index": 0,
+    "solution": "Durable mineral oxides (like haematite) bonded with the rock and survived for millennia.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The prehistoric artists chose to paint deep inside shelters partly to __________.",
+    "options": [
+      "protect the paintings from weathering",
+      "hide from animals",
+      "keep warm",
+      "store food"
+    ],
+    "correct_index": 0,
+    "solution": "Painting on protected inner surfaces helped shield the images from weathering.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The recurring depiction of the horse and rider appears mainly in the __________ paintings.",
+    "options": [
+      "later (Chalcolithic/historic)",
+      "earliest Palaeolithic",
+      "no",
+      "modern only"
+    ],
+    "correct_index": 0,
+    "solution": "Horses and riders appear in the later (Chalcolithic and historic) phase paintings.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The subject matter of the earliest (Upper Palaeolithic) paintings is dominated by __________.",
+    "options": [
+      "large wild animals",
+      "farming scenes",
+      "cities",
+      "religious idols"
+    ],
+    "correct_index": 0,
+    "solution": "The earliest paintings are dominated by large wild animals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Prehistoric rock art is significant as the __________ evidence of artistic activity in India.",
+    "options": [
+      "earliest",
+      "latest",
+      "only religious",
+      "colonial"
+    ],
+    "correct_index": 0,
+    "solution": "Rock art is the earliest evidence of artistic activity in India.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The rock shelters at Bhimbetka were also used by prehistoric people as __________.",
+    "options": [
+      "dwellings",
+      "burial pyramids",
+      "granaries only",
+      "forts"
+    ],
+    "correct_index": 0,
+    "solution": "The shelters served as dwellings for prehistoric people.",
+    "difficulty": "easy"
+  }
 ]
