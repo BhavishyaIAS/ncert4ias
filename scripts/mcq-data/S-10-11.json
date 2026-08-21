@@ -598,5 +598,353 @@
     "correct_index": 0,
     "solution": "The chapter covers current, potential difference, resistance, Ohm's law, combinations of resistors, electric power and the heating effect of current.",
     "difficulty": "easy"
+  },
+  {
+    "stem": "The rate of flow of electric charge through a conductor is called electric __________.",
+    "options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
+    ],
+    "correct_index": 0,
+    "solution": "Electric current is the rate of flow of charge through a conductor.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The SI unit of electric charge is the __________.",
+    "options": [
+      "coulomb",
+      "ampere",
+      "volt",
+      "joule"
+    ],
+    "correct_index": 0,
+    "solution": "The coulomb (C) is the SI unit of electric charge.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The work done to move a unit charge between two points is called the __________.",
+    "options": [
+      "potential difference (voltage)",
+      "current",
+      "resistance",
+      "power"
+    ],
+    "correct_index": 0,
+    "solution": "Potential difference is the work done per unit charge between two points.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The SI unit of potential difference is the __________.",
+    "options": [
+      "volt",
+      "ampere",
+      "ohm",
+      "watt"
+    ],
+    "correct_index": 0,
+    "solution": "The volt (V) is the SI unit of potential difference.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The instrument used to measure electric current is the __________.",
+    "options": [
+      "ammeter",
+      "voltmeter",
+      "galvanometer only",
+      "potentiometer"
+    ],
+    "correct_index": 0,
+    "solution": "An ammeter measures electric current and is connected in series.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An ammeter is always connected in __________ in a circuit.",
+    "options": [
+      "series",
+      "parallel",
+      "either way",
+      "a loop of its own"
+    ],
+    "correct_index": 0,
+    "solution": "An ammeter is connected in series so the full current flows through it.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The instrument used to measure potential difference is the __________.",
+    "options": [
+      "voltmeter",
+      "ammeter",
+      "galvanometer",
+      "rheostat"
+    ],
+    "correct_index": 0,
+    "solution": "A voltmeter measures potential difference and is connected in parallel.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A voltmeter is always connected in __________ across a component.",
+    "options": [
+      "parallel",
+      "series",
+      "either way",
+      "a separate circuit"
+    ],
+    "correct_index": 0,
+    "solution": "A voltmeter is connected in parallel to measure the potential difference across a component.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "According to Ohm's law, the current through a conductor is directly proportional to the __________ across it, at constant temperature.",
+    "options": [
+      "potential difference",
+      "resistance",
+      "power",
+      "charge"
+    ],
+    "correct_index": 0,
+    "solution": "Ohm's law: V = IR; current is proportional to voltage at constant temperature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The resistance of a conductor increases when its length is __________.",
+    "options": [
+      "increased",
+      "decreased",
+      "halved",
+      "unchanged"
+    ],
+    "correct_index": 0,
+    "solution": "Resistance is directly proportional to length, so a longer conductor has more resistance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The resistance of a conductor __________ when its area of cross-section is increased.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "becomes infinite"
+    ],
+    "correct_index": 0,
+    "solution": "Resistance is inversely proportional to the area of cross-section.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The resistance of most conductors __________ with a rise in temperature.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "becomes zero"
+    ],
+    "correct_index": 0,
+    "solution": "The resistance of most metallic conductors increases with temperature.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The property of a material's resistance for unit length and unit area is called its __________.",
+    "options": [
+      "resistivity",
+      "conductivity only",
+      "capacitance",
+      "power"
+    ],
+    "correct_index": 0,
+    "solution": "Resistivity is a material property, independent of the dimensions of the conductor.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Materials with very low resistivity, used in wires, are __________.",
+    "options": [
+      "good conductors like copper",
+      "insulators",
+      "semiconductors only",
+      "alloys of high resistance"
+    ],
+    "correct_index": 0,
+    "solution": "Good conductors like copper and aluminium have low resistivity and are used in wires.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The heating elements of appliances are made of alloys like nichrome because they have __________.",
+    "options": [
+      "high resistivity and high melting point",
+      "very low resistivity",
+      "no resistance",
+      "low melting point"
+    ],
+    "correct_index": 0,
+    "solution": "High resistivity and high melting point let nichrome produce heat without melting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When resistors are connected in series, the total resistance is __________ the individual resistances.",
+    "options": [
+      "the sum of",
+      "less than",
+      "the reciprocal sum of",
+      "the product of"
+    ],
+    "correct_index": 0,
+    "solution": "In series, resistances add up: R = R₁ + R₂ + R₃.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When resistors are connected in parallel, the total resistance is __________ the smallest individual resistance.",
+    "options": [
+      "less than",
+      "greater than",
+      "equal to",
+      "twice"
+    ],
+    "correct_index": 0,
+    "solution": "The combined resistance in parallel is less than the smallest resistor.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Household appliances are connected in __________ so each can be operated independently at the same voltage.",
+    "options": [
+      "parallel",
+      "series",
+      "a single loop",
+      "opposition"
+    ],
+    "correct_index": 0,
+    "solution": "Parallel connection gives each appliance the full voltage and independent operation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The heat produced in a resistor is given by Joule's law of heating: H = I²Rt, showing heat depends on the square of the __________.",
+    "options": [
+      "current",
+      "resistance",
+      "time",
+      "voltage only"
+    ],
+    "correct_index": 0,
+    "solution": "Joule's law H = I²Rt shows heat is proportional to the square of the current.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rate at which electrical energy is consumed is called electric __________.",
+    "options": [
+      "power",
+      "current",
+      "charge",
+      "resistance"
+    ],
+    "correct_index": 0,
+    "solution": "Electric power is the rate of consumption of electrical energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Electric power can be calculated as P = __________.",
+    "options": [
+      "VI",
+      "V/I",
+      "I/V",
+      "V+I"
+    ],
+    "correct_index": 0,
+    "solution": "Power P = VI (voltage times current); also P = I²R = V²/R.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "One kilowatt-hour is equal to __________ joules.",
+    "options": [
+      "3.6 × 10⁶",
+      "1000",
+      "60",
+      "3600"
+    ],
+    "correct_index": 0,
+    "solution": "1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A fuse wire is connected in __________ with an appliance for protection.",
+    "options": [
+      "series",
+      "parallel",
+      "a separate loop",
+      "opposition"
+    ],
+    "correct_index": 0,
+    "solution": "A fuse is connected in series so it breaks the circuit when the current is too high.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A device that offers negligible resistance is called a __________.",
+    "options": [
+      "good conductor",
+      "insulator",
+      "resistor",
+      "capacitor"
+    ],
+    "correct_index": 0,
+    "solution": "A good conductor offers very little resistance to current.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The conventional direction of electric current is taken as the direction of flow of __________ charge.",
+    "options": [
+      "positive",
+      "negative",
+      "neutral",
+      "no"
+    ],
+    "correct_index": 0,
+    "solution": "Conventional current flows in the direction of positive charge, opposite to electron flow.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Electrons in a metallic conductor actually flow from the __________ terminal to the positive terminal.",
+    "options": [
+      "negative",
+      "positive",
+      "neutral",
+      "either"
+    ],
+    "correct_index": 0,
+    "solution": "Electrons move from the negative to the positive terminal, opposite to conventional current.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "For a fixed voltage, a higher resistance results in a __________ current.",
+    "options": [
+      "smaller",
+      "larger",
+      "unchanged",
+      "infinite"
+    ],
+    "correct_index": 0,
+    "solution": "By Ohm's law I = V/R, higher resistance gives a smaller current for a fixed voltage.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A rheostat is used in a circuit to __________.",
+    "options": [
+      "vary the current by changing resistance",
+      "measure current",
+      "measure voltage",
+      "store charge"
+    ],
+    "correct_index": 0,
+    "solution": "A rheostat is a variable resistor used to change the current in a circuit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The filament of an electric bulb is made of __________ because of its very high melting point.",
+    "options": [
+      "tungsten",
+      "copper",
+      "aluminium",
+      "nichrome"
+    ],
+    "correct_index": 0,
+    "solution": "Tungsten's very high melting point lets the filament glow without melting.",
+    "difficulty": "medium"
   }
 ]

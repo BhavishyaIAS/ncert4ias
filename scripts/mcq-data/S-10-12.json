@@ -610,5 +610,365 @@
     "correct_index": 0,
     "solution": "The chapter links electricity and magnetism: magnetic effect of current, force on conductors (motor), electromagnetic induction (generator), and domestic electric circuits and safety.",
     "difficulty": "easy"
+  },
+  {
+    "stem": "A magnet has two poles: north and __________.",
+    "options": [
+      "south",
+      "east",
+      "west",
+      "positive"
+    ],
+    "correct_index": 0,
+    "solution": "Every magnet has a north pole and a south pole.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The direction of the magnetic field at a point is taken as the direction in which the __________ pole of a compass points.",
+    "options": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ],
+    "correct_index": 0,
+    "solution": "The field direction is defined by the direction the north pole of a compass needle points.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Magnetic field lines emerge from the __________ pole and merge into the south pole outside a magnet.",
+    "options": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ],
+    "correct_index": 0,
+    "solution": "Field lines run from north to south outside the magnet.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two magnetic field lines can __________.",
+    "options": [
+      "never intersect each other",
+      "always cross",
+      "form loops that cross",
+      "meet at the poles"
+    ],
+    "correct_index": 0,
+    "solution": "Field lines never intersect, because the field has only one direction at each point.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A current-carrying conductor produces a __________ around it.",
+    "options": [
+      "magnetic field",
+      "electric charge only",
+      "sound wave",
+      "shadow"
+    ],
+    "correct_index": 0,
+    "solution": "A magnetic field is produced around a wire carrying an electric current.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rule used to find the direction of the magnetic field around a straight current-carrying conductor is the __________ rule.",
+    "options": [
+      "right-hand thumb",
+      "left-hand",
+      "Fleming's left-hand",
+      "Lenz's"
+    ],
+    "correct_index": 0,
+    "solution": "The right-hand thumb rule gives the direction of the magnetic field around a wire.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The magnetic field due to a current-carrying wire is stronger when the current is __________.",
+    "options": [
+      "increased",
+      "decreased",
+      "reversed",
+      "zero"
+    ],
+    "correct_index": 0,
+    "solution": "A larger current produces a stronger magnetic field.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A coil of many turns of insulated wire is called a __________.",
+    "options": [
+      "solenoid",
+      "resistor",
+      "capacitor",
+      "galvanometer"
+    ],
+    "correct_index": 0,
+    "solution": "A solenoid is a coil of many turns; it behaves like a bar magnet when current flows.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The magnetic field inside a current-carrying solenoid is __________.",
+    "options": [
+      "uniform and strong",
+      "zero",
+      "weak and varying",
+      "opposite to a magnet"
+    ],
+    "correct_index": 0,
+    "solution": "Inside a solenoid the field is uniform and strong, like that of a bar magnet.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A soft iron core inside a current-carrying solenoid makes a strong __________.",
+    "options": [
+      "electromagnet",
+      "permanent magnet",
+      "insulator",
+      "resistor"
+    ],
+    "correct_index": 0,
+    "solution": "A solenoid with a soft iron core forms a strong electromagnet.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rule to find the direction of force on a current-carrying conductor in a magnetic field is __________.",
+    "options": [
+      "Fleming's left-hand rule",
+      "right-hand thumb rule",
+      "Fleming's right-hand rule",
+      "Lenz's law"
+    ],
+    "correct_index": 0,
+    "solution": "Fleming's left-hand rule gives the direction of force on a current-carrying conductor.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The force on a current-carrying conductor is maximum when it is placed __________ to the magnetic field.",
+    "options": [
+      "perpendicular",
+      "parallel",
+      "at 45°",
+      "along"
+    ],
+    "correct_index": 0,
+    "solution": "The force is maximum when the conductor is perpendicular to the field.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A device that converts electrical energy into mechanical energy is an electric __________.",
+    "options": [
+      "motor",
+      "generator",
+      "transformer",
+      "cell"
+    ],
+    "correct_index": 0,
+    "solution": "An electric motor converts electrical energy into mechanical (rotational) energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The production of an induced current by a changing magnetic field is called electromagnetic __________.",
+    "options": [
+      "induction",
+      "repulsion",
+      "conduction",
+      "resistance"
+    ],
+    "correct_index": 0,
+    "solution": "Electromagnetic induction is the generation of current by a changing magnetic field.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The phenomenon of electromagnetic induction was discovered by __________.",
+    "options": [
+      "Michael Faraday",
+      "Oersted",
+      "Ohm",
+      "Ampere"
+    ],
+    "correct_index": 0,
+    "solution": "Michael Faraday discovered electromagnetic induction.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rule to find the direction of induced current is __________.",
+    "options": [
+      "Fleming's right-hand rule",
+      "Fleming's left-hand rule",
+      "right-hand thumb rule",
+      "Ohm's law"
+    ],
+    "correct_index": 0,
+    "solution": "Fleming's right-hand rule gives the direction of induced current.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A device that converts mechanical energy into electrical energy is an electric __________.",
+    "options": [
+      "generator",
+      "motor",
+      "cell",
+      "transformer"
+    ],
+    "correct_index": 0,
+    "solution": "An electric generator converts mechanical energy into electrical energy by induction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The current that reverses its direction periodically is called __________ current.",
+    "options": [
+      "alternating (AC)",
+      "direct (DC)",
+      "induced only",
+      "static"
+    ],
+    "correct_index": 0,
+    "solution": "Alternating current (AC) reverses direction periodically.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The current that flows in one direction only is called __________ current.",
+    "options": [
+      "direct (DC)",
+      "alternating (AC)",
+      "induced",
+      "eddy"
+    ],
+    "correct_index": 0,
+    "solution": "Direct current (DC), such as from a cell, flows in only one direction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In India, the frequency of the domestic AC supply is __________.",
+    "options": [
+      "50 Hz",
+      "60 Hz",
+      "100 Hz",
+      "25 Hz"
+    ],
+    "correct_index": 0,
+    "solution": "The domestic AC supply in India has a frequency of 50 Hz.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In a domestic circuit, the wire kept at a high potential is the __________ wire.",
+    "options": [
+      "live",
+      "neutral",
+      "earth",
+      "return"
+    ],
+    "correct_index": 0,
+    "solution": "The live wire (usually red) carries current at high potential.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The earth wire in domestic wiring is used as a __________ measure.",
+    "options": [
+      "safety",
+      "cost-saving",
+      "decorative",
+      "current-increasing"
+    ],
+    "correct_index": 0,
+    "solution": "The earth wire provides a safe path for leakage current, preventing shocks.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A short circuit occurs when the live and neutral wires __________.",
+    "options": [
+      "touch directly, causing a sudden large current",
+      "are far apart",
+      "are earthed",
+      "carry no current"
+    ],
+    "correct_index": 0,
+    "solution": "A short circuit is a direct contact of live and neutral wires, causing a large current.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Overloading of an electric circuit occurs when __________.",
+    "options": [
+      "too many appliances draw excessive current",
+      "one appliance is off",
+      "the fuse is intact",
+      "voltage is low"
+    ],
+    "correct_index": 0,
+    "solution": "Overloading happens when too many appliances draw more current than the wiring can handle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The magnetic field around a bar magnet is strongest at its __________.",
+    "options": [
+      "poles",
+      "centre",
+      "edges of the middle",
+      "surface only"
+    ],
+    "correct_index": 0,
+    "solution": "The field is strongest near the poles, where the field lines are closest together.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Closely spaced magnetic field lines indicate a __________ magnetic field.",
+    "options": [
+      "strong",
+      "weak",
+      "zero",
+      "reversed"
+    ],
+    "correct_index": 0,
+    "solution": "The closer the field lines, the stronger the magnetic field.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In an electric motor, the device that reverses the current direction in the coil each half rotation is the __________.",
+    "options": [
+      "split-ring commutator",
+      "brush only",
+      "armature",
+      "field magnet"
+    ],
+    "correct_index": 0,
+    "solution": "The split-ring commutator reverses the current in the coil to keep the motor rotating.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The strength of an electromagnet can be increased by increasing the number of __________ in the coil.",
+    "options": [
+      "turns",
+      "cores",
+      "brushes",
+      "magnets"
+    ],
+    "correct_index": 0,
+    "solution": "More turns of wire (and more current) increase the strength of an electromagnet.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fleming's left-hand rule is used for a __________, while the right-hand rule is used for a generator.",
+    "options": [
+      "motor",
+      "transformer",
+      "cell",
+      "resistor"
+    ],
+    "correct_index": 0,
+    "solution": "Fleming's left-hand rule applies to the motor (force); right-hand rule applies to the generator (induced current).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A magnetic compass placed near a current-carrying wire shows deflection, demonstrating the __________ effect of current.",
+    "options": [
+      "magnetic",
+      "heating",
+      "chemical",
+      "sound"
+    ],
+    "correct_index": 0,
+    "solution": "The deflection of a compass near a wire shows the magnetic effect of current (Oersted's experiment).",
+    "difficulty": "medium"
   }
 ]
