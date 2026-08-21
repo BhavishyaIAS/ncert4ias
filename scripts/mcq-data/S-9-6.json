@@ -610,5 +610,317 @@
     "correct_index": 0,
     "solution": "The chapter explains Newton's three laws of motion, inertia, momentum, force (F = ma), and conservation of momentum, applied to everyday situations.",
     "difficulty": "easy"
+  },
+  {
+    "stem": "A push or pull that can change the state of motion of an object is called a __________.",
+    "options": [
+      "force",
+      "velocity",
+      "momentum",
+      "energy"
+    ],
+    "correct_index": 0,
+    "solution": "A force is a push or pull that can change an object's motion or shape.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The tendency of a body to resist change in its state of rest or motion is called __________.",
+    "options": [
+      "inertia",
+      "momentum",
+      "acceleration",
+      "force"
+    ],
+    "correct_index": 0,
+    "solution": "Inertia is the property of a body to resist a change in its state of motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "According to Newton's first law, an object continues in its state of rest or uniform motion unless acted upon by a(n) __________ force.",
+    "options": [
+      "unbalanced (net)",
+      "balanced",
+      "zero",
+      "internal"
+    ],
+    "correct_index": 0,
+    "solution": "A net (unbalanced) external force is needed to change an object's state of motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The product of mass and velocity of an object is called its __________.",
+    "options": [
+      "momentum",
+      "force",
+      "energy",
+      "acceleration"
+    ],
+    "correct_index": 0,
+    "solution": "Momentum = mass × velocity, a vector quantity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Newton's second law states that the rate of change of momentum is proportional to the __________.",
+    "options": [
+      "applied force",
+      "mass only",
+      "velocity only",
+      "distance"
+    ],
+    "correct_index": 0,
+    "solution": "Newton's second law: the rate of change of momentum equals the applied force.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The mathematical form of Newton's second law is F = __________.",
+    "options": [
+      "ma",
+      "mv",
+      "m/a",
+      "a/m"
+    ],
+    "correct_index": 0,
+    "solution": "Force equals mass times acceleration: F = ma.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "One newton is the force that produces an acceleration of 1 m/s² in a mass of __________.",
+    "options": [
+      "1 kg",
+      "1 g",
+      "10 kg",
+      "100 kg"
+    ],
+    "correct_index": 0,
+    "solution": "1 N = 1 kg × 1 m/s².",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Newton's third law states that to every action there is an equal and __________ reaction.",
+    "options": [
+      "opposite",
+      "same",
+      "larger",
+      "smaller"
+    ],
+    "correct_index": 0,
+    "solution": "Newton's third law: every action has an equal and opposite reaction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A gun recoils when fired due to __________.",
+    "options": [
+      "conservation of momentum (Newton's third law)",
+      "friction",
+      "gravity",
+      "inertia of rest only"
+    ],
+    "correct_index": 0,
+    "solution": "The forward momentum of the bullet is balanced by the backward recoil of the gun.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In an isolated system, the total momentum before and after a collision is __________.",
+    "options": [
+      "conserved (unchanged)",
+      "increased",
+      "decreased",
+      "zero always"
+    ],
+    "correct_index": 0,
+    "solution": "The law of conservation of momentum states total momentum stays constant in an isolated system.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When a bus suddenly starts, passengers tend to fall backward due to inertia of __________.",
+    "options": [
+      "rest",
+      "motion",
+      "direction",
+      "mass"
+    ],
+    "correct_index": 0,
+    "solution": "The body tends to stay at rest (inertia of rest) while the bus moves forward.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When a moving bus suddenly stops, passengers tend to fall forward due to inertia of __________.",
+    "options": [
+      "motion",
+      "rest",
+      "direction",
+      "gravity"
+    ],
+    "correct_index": 0,
+    "solution": "The body tends to keep moving (inertia of motion) when the bus stops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Forces that are equal in magnitude and opposite in direction, giving zero net force, are called __________ forces.",
+    "options": [
+      "balanced",
+      "unbalanced",
+      "net",
+      "action"
+    ],
+    "correct_index": 0,
+    "solution": "Balanced forces cancel out, producing no change in motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An unbalanced force acting on a body produces __________ in it.",
+    "options": [
+      "acceleration",
+      "no change",
+      "constant velocity",
+      "inertia"
+    ],
+    "correct_index": 0,
+    "solution": "An unbalanced (net) force causes acceleration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A cricketer pulls his hands back while catching a fast ball to __________.",
+    "options": [
+      "increase the time and reduce the force",
+      "increase the force",
+      "reduce the ball's mass",
+      "increase momentum"
+    ],
+    "correct_index": 0,
+    "solution": "Increasing the time of catch reduces the rate of change of momentum, lowering the force felt.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The greater the mass of an object, the __________ force needed to produce the same acceleration.",
+    "options": [
+      "greater the",
+      "smaller the",
+      "same",
+      "no"
+    ],
+    "correct_index": 0,
+    "solution": "By F = ma, a larger mass needs a greater force for the same acceleration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A rocket moves forward by pushing out hot gases backward, illustrating Newton's __________ law.",
+    "options": [
+      "third",
+      "first",
+      "second only",
+      "zeroth"
+    ],
+    "correct_index": 0,
+    "solution": "The backward thrust of gases pushes the rocket forward — Newton's third law.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The force acting on an object is zero if it moves with __________.",
+    "options": [
+      "constant velocity",
+      "increasing velocity",
+      "decreasing velocity",
+      "changing direction"
+    ],
+    "correct_index": 0,
+    "solution": "Constant velocity means zero acceleration, so the net force is zero.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Momentum is a __________ quantity.",
+    "options": [
+      "vector",
+      "scalar",
+      "unit-less",
+      "dimensionless"
+    ],
+    "correct_index": 0,
+    "solution": "Momentum has both magnitude and direction, so it is a vector.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Seat belts in cars reduce injury by __________ the time over which the passenger's momentum changes.",
+    "options": [
+      "increasing",
+      "decreasing",
+      "removing",
+      "doubling"
+    ],
+    "correct_index": 0,
+    "solution": "Seat belts increase the stopping time, reducing the force experienced in a sudden stop.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A karate expert breaks a slab in a very short time to deliver a __________ force.",
+    "options": [
+      "large",
+      "small",
+      "zero",
+      "constant"
+    ],
+    "correct_index": 0,
+    "solution": "A short contact time gives a large rate of change of momentum, hence a large force.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When two balanced forces act on a stationary object, the object __________.",
+    "options": [
+      "remains at rest",
+      "accelerates",
+      "moves at constant speed",
+      "changes direction"
+    ],
+    "correct_index": 0,
+    "solution": "Balanced forces give zero net force, so a stationary object stays at rest.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The change in momentum of an object is equal to the product of the force and the __________ for which it acts.",
+    "options": [
+      "time",
+      "distance",
+      "mass",
+      "acceleration"
+    ],
+    "correct_index": 0,
+    "solution": "Change in momentum = force × time (impulse).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A heavy truck and a small car moving at the same velocity have different momenta because of different __________.",
+    "options": [
+      "masses",
+      "colours",
+      "speeds",
+      "shapes"
+    ],
+    "correct_index": 0,
+    "solution": "The truck has greater mass, so at the same velocity it has more momentum.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A body will not accelerate if the net force acting on it is __________.",
+    "options": [
+      "zero",
+      "large",
+      "constant and non-zero",
+      "increasing"
+    ],
+    "correct_index": 0,
+    "solution": "Zero net force means no acceleration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Friction is an example of a force that __________ motion.",
+    "options": [
+      "opposes",
+      "always aids",
+      "produces",
+      "creates from rest"
+    ],
+    "correct_index": 0,
+    "solution": "Friction opposes the relative motion between surfaces.",
+    "difficulty": "easy"
   }
 ]

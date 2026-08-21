@@ -610,5 +610,317 @@
     "correct_index": 0,
     "solution": "The chapter describes motion using scalar and vector quantities (distance, displacement, speed, velocity, acceleration), graphs, and the equations of motion.",
     "difficulty": "easy"
+  },
+  {
+    "stem": "The change in position of an object with time is called __________.",
+    "options": [
+      "motion",
+      "rest",
+      "force",
+      "energy"
+    ],
+    "correct_index": 0,
+    "solution": "Motion is the change in the position of an object with respect to time.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The actual length of the path travelled by an object is called __________.",
+    "options": [
+      "distance",
+      "displacement",
+      "speed",
+      "velocity"
+    ],
+    "correct_index": 0,
+    "solution": "Distance is the total path length covered, a scalar quantity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The shortest straight-line distance between the initial and final positions is called __________.",
+    "options": [
+      "displacement",
+      "distance",
+      "speed",
+      "acceleration"
+    ],
+    "correct_index": 0,
+    "solution": "Displacement is the shortest distance from start to finish, with direction (a vector).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The distance travelled per unit time is called __________.",
+    "options": [
+      "speed",
+      "displacement",
+      "acceleration",
+      "force"
+    ],
+    "correct_index": 0,
+    "solution": "Speed is the distance covered per unit time, a scalar.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The SI unit of speed is __________.",
+    "options": [
+      "metre per second",
+      "metre",
+      "second",
+      "kilogram"
+    ],
+    "correct_index": 0,
+    "solution": "The SI unit of speed is metre per second (m/s).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rate of change of displacement is called __________.",
+    "options": [
+      "velocity",
+      "speed",
+      "distance",
+      "acceleration"
+    ],
+    "correct_index": 0,
+    "solution": "Velocity is the rate of change of displacement, a vector.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rate of change of velocity is called __________.",
+    "options": [
+      "acceleration",
+      "speed",
+      "displacement",
+      "momentum"
+    ],
+    "correct_index": 0,
+    "solution": "Acceleration is the rate of change of velocity with time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If the velocity of an object decreases with time, its acceleration is called __________.",
+    "options": [
+      "negative (retardation)",
+      "positive",
+      "zero",
+      "uniform positive"
+    ],
+    "correct_index": 0,
+    "solution": "Decreasing velocity means negative acceleration, also called retardation or deceleration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An object moving with a constant velocity has __________ acceleration.",
+    "options": [
+      "zero",
+      "positive",
+      "negative",
+      "increasing"
+    ],
+    "correct_index": 0,
+    "solution": "Constant velocity means no change in velocity, so acceleration is zero.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Uniform motion means an object covers __________ distances in equal intervals of time.",
+    "options": [
+      "equal",
+      "unequal",
+      "increasing",
+      "decreasing"
+    ],
+    "correct_index": 0,
+    "solution": "In uniform motion, equal distances are covered in equal time intervals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a distance-time graph, a straight line indicates __________ motion.",
+    "options": [
+      "uniform",
+      "non-uniform",
+      "accelerated",
+      "circular"
+    ],
+    "correct_index": 0,
+    "solution": "A straight-line distance-time graph indicates uniform (constant-speed) motion.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The slope of a distance-time graph gives the __________.",
+    "options": [
+      "speed",
+      "acceleration",
+      "displacement",
+      "force"
+    ],
+    "correct_index": 0,
+    "solution": "The slope of a distance-time graph gives the speed of the object.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The slope of a velocity-time graph gives the __________.",
+    "options": [
+      "acceleration",
+      "speed",
+      "distance",
+      "displacement"
+    ],
+    "correct_index": 0,
+    "solution": "The slope of a velocity-time graph gives acceleration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The area under a velocity-time graph gives the __________.",
+    "options": [
+      "distance (displacement)",
+      "acceleration",
+      "speed",
+      "force"
+    ],
+    "correct_index": 0,
+    "solution": "The area under a velocity-time graph gives the distance/displacement covered.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The first equation of motion is __________.",
+    "options": [
+      "v = u + at",
+      "s = ut + ½at²",
+      "v² = u² + 2as",
+      "s = vt"
+    ],
+    "correct_index": 0,
+    "solution": "The first equation of motion relating velocity, acceleration and time is v = u + at.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Motion of an object in a circular path at constant speed is called __________ circular motion.",
+    "options": [
+      "uniform",
+      "non-uniform",
+      "accelerated linear",
+      "random"
+    ],
+    "correct_index": 0,
+    "solution": "Uniform circular motion is motion in a circle at constant speed.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Even at constant speed, circular motion is accelerated because the __________ changes continuously.",
+    "options": [
+      "direction of velocity",
+      "speed",
+      "mass",
+      "distance"
+    ],
+    "correct_index": 0,
+    "solution": "In circular motion the direction of velocity changes, so it is accelerated.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The state of rest and motion are __________.",
+    "options": [
+      "relative",
+      "absolute",
+      "the same",
+      "unrelated"
+    ],
+    "correct_index": 0,
+    "solution": "Rest and motion are relative; they depend on the reference point (observer).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "An object thrown vertically upward experiences an acceleration due to __________.",
+    "options": [
+      "gravity, directed downward",
+      "gravity, directed upward",
+      "friction only",
+      "no force"
+    ],
+    "correct_index": 0,
+    "solution": "Gravity acts downward, decelerating the rising object and accelerating it as it falls.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The value of acceleration due to gravity near the Earth's surface is about __________.",
+    "options": [
+      "9.8 m/s²",
+      "9.8 m/s",
+      "98 m/s²",
+      "1 m/s²"
+    ],
+    "correct_index": 0,
+    "solution": "The acceleration due to gravity is about 9.8 m/s² near the Earth's surface.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The odometer of a vehicle measures the __________ travelled.",
+    "options": [
+      "distance",
+      "displacement",
+      "speed",
+      "velocity"
+    ],
+    "correct_index": 0,
+    "solution": "An odometer records the total distance travelled by a vehicle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The speedometer of a vehicle indicates the __________.",
+    "options": [
+      "instantaneous speed",
+      "distance",
+      "displacement",
+      "acceleration"
+    ],
+    "correct_index": 0,
+    "solution": "A speedometer shows the instantaneous speed of the vehicle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The total distance divided by the total time gives the __________ speed.",
+    "options": [
+      "average",
+      "instantaneous",
+      "maximum",
+      "uniform"
+    ],
+    "correct_index": 0,
+    "solution": "Average speed is total distance divided by total time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A body has uniform acceleration if its velocity changes by __________ amounts in equal time intervals.",
+    "options": [
+      "equal",
+      "unequal",
+      "increasing",
+      "random"
+    ],
+    "correct_index": 0,
+    "solution": "Uniform acceleration means velocity changes by equal amounts in equal times.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The distance-time graph for a stationary object is a __________.",
+    "options": [
+      "straight horizontal line",
+      "straight sloping line",
+      "curve",
+      "vertical line"
+    ],
+    "correct_index": 0,
+    "solution": "For a stationary object, distance does not change with time, giving a horizontal line.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Two objects are said to be in relative motion if their positions change with respect to __________.",
+    "options": [
+      "each other",
+      "the ground only",
+      "the Sun only",
+      "a fixed star only"
+    ],
+    "correct_index": 0,
+    "solution": "Relative motion is a change in position of objects with respect to each other.",
+    "difficulty": "hard"
   }
 ]
