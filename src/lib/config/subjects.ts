@@ -77,6 +77,14 @@ export const SUBJECTS: SubjectConfig[] = [
     blurb: "General Science & Technology — the base for GS-III.",
   },
 
+  {
+    slug: "art-culture",
+    name: "Art & Culture",
+    codePrefix: "AC",
+    enabled: true,
+    blurb: "Indian art, architecture & heritage — a high-yield slice of GS-I.",
+  },
+
   // ── Registered but NOT built yet (disabled). Flip `enabled` to onboard. ──
   {
     slug: "sociology",
@@ -84,13 +92,6 @@ export const SUBJECTS: SubjectConfig[] = [
     codePrefix: "SO",
     enabled: false,
     blurb: "Social structures — coming later.",
-  },
-  {
-    slug: "art-culture",
-    name: "Art & Culture",
-    codePrefix: "AC",
-    enabled: false,
-    blurb: "Indian heritage & culture — coming later.",
   },
 ];
 
