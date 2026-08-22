@@ -19,6 +19,7 @@ export type SubjectSlug =
   | "geography"
   | "economy"
   | "science"
+  | "ecology-environment"
   | "sociology"
   | "art-culture";
 
@@ -83,6 +84,14 @@ export const SUBJECTS: SubjectConfig[] = [
     codePrefix: "AC",
     enabled: true,
     blurb: "Indian art, architecture & heritage — a high-yield slice of GS-I.",
+  },
+
+  {
+    slug: "ecology-environment",
+    name: "Ecology & Environment",
+    codePrefix: "EE",
+    enabled: true,
+    blurb: "Ecology, biodiversity, climate & environmental governance — a top-weight GS-III area.",
   },
 
   // ── Registered but NOT built yet (disabled). Flip `enabled` to onboard. ──
