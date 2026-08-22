@@ -1,52 +1,938 @@
 [
-  { "stem": "The system of exchanging goods and services directly for other goods and services, without using money, is called the:", "options": ["Credit system", "Barter system", "Banking system", "Market system"], "correct_index": 1, "solution": "Barter is the direct exchange of one good or service for another, without money.", "difficulty": "easy" },
-  { "stem": "The main problem of the barter system, requiring both parties to want exactly what the other offers, is called the:", "options": ["Double coincidence of wants", "Law of demand", "Division of labour", "Diminishing returns"], "correct_index": 0, "solution": "Barter needs a 'double coincidence of wants' — each person must have what the other wants and want what the other has, which is often difficult.", "difficulty": "medium" },
-  { "stem": "Before modern coins, objects like cowrie shells, cattle and grain were used as:", "options": ["Ornaments only", "Early forms of money (commodity money)", "Weapons", "Writing material"], "correct_index": 1, "solution": "In early economies, commodities such as cowrie shells, cattle and grain served as money to overcome the problems of barter.", "difficulty": "medium" },
-  { "stem": "Which of the following shows the correct order in the evolution of exchange?", "options": ["Paper money → coins → barter", "Barter → commodity money → metal coins → paper money", "Coins → barter → digital money", "Digital money → barter → coins"], "correct_index": 1, "solution": "Exchange evolved from barter to commodity money, then metal coins, then paper currency, and now digital/electronic money.", "difficulty": "medium" },
-  { "stem": "The main advantage of money over barter is that money:", "options": ["Can only be used once", "Serves as a common medium of exchange accepted by all", "Removes the need for markets", "Is heavier to carry"], "correct_index": 1, "solution": "Money acts as a universally accepted medium of exchange, so people need not find someone who wants exactly what they have.", "difficulty": "medium" },
-  { "stem": "Money paid or received electronically, without physical cash, is known as:", "options": ["Barter", "Commodity money", "Digital / electronic money", "Metal money"], "correct_index": 2, "solution": "Digital (electronic) money is transferred through cards, apps and online systems without exchanging physical cash.", "difficulty": "easy" },
-  { "stem": "The 'barter system' means:", "options": ["Buying goods with money", "Directly exchanging one good or service for another without using money", "Saving money in a bank", "Printing currency"], "correct_index": 1, "solution": "The BARTER SYSTEM means DIRECTLY EXCHANGING one good or service for ANOTHER WITHOUT using MONEY. So option 2 is correct.", "difficulty": "easy" },
-  { "stem": "The biggest problem in the barter system is the need for a:", "options": ["Bank account", "'Double coincidence of wants'", "Printing press", "Credit card"], "correct_index": 1, "solution": "The main problem in BARTER is the DOUBLE COINCIDENCE of WANTS — both people must want exactly what the other has to offer at the same time. So option 2 is correct.", "difficulty": "medium" },
-  { "stem": "'Double coincidence of wants' means:", "options": ["Two people happening to want exactly what the other has to offer", "Two coins of the same value", "Wanting something twice", "A market held twice"], "correct_index": 0, "solution": "DOUBLE COINCIDENCE of WANTS means TWO people each WANT exactly what the OTHER HAS to offer, at the same time — necessary for barter to work. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Barter is difficult in a large, complex economy. Reason (R): Finding a person who both has what you want and wants what you have becomes very hard. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — barter is hard in a complex economy. R is TRUE and EXPLAINS A: FINDING someone who BOTH has what you want and WANTS what you have becomes VERY HARD. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Before coins, people sometimes used goods like grain, cattle, or shells as money. This is called:", "options": ["Commodity money", "Paper money", "Digital money", "Fiat money"], "correct_index": 0, "solution": "Using GOODS such as GRAIN, CATTLE, or SHELLS as a medium of exchange is called COMMODITY MONEY. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a limitation of using commodity money like grain or cattle?", "options": ["It may be perishable, hard to divide, or difficult to carry", "It is accepted everywhere forever", "It never loses value", "It is easy to store in unlimited amounts"], "correct_index": 0, "solution": "COMMODITY MONEY like grain or cattle may be PERISHABLE, hard to DIVIDE, and difficult to CARRY or store — its limitations led to metal coins. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Metal coins became popular as money because metals are:", "options": ["Durable, divisible, portable and widely accepted", "Perishable and heavy only", "Impossible to divide", "Rejected by everyone"], "correct_index": 0, "solution": "METAL COINS became popular because metals are DURABLE, DIVISIBLE, PORTABLE, and WIDELY ACCEPTED. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Match List-I (Form of money) with List-II (Example/Feature): P. Commodity money Q. Metal coins R. Paper money S. Digital money | 1. Notes issued by the central bank 2. Grain, cattle, shells 3. Gold and silver coins 4. Card and app-based payments", "options": ["P-2, Q-3, R-1, S-4", "P-1, Q-2, R-3, S-4", "P-3, Q-4, R-1, S-2", "P-4, Q-1, R-2, S-3"], "correct_index": 0, "solution": "Commodity money → grain, cattle, shells (P-2); Metal coins → gold and silver coins (Q-3); Paper money → notes issued by central bank (R-1); Digital money → card and app payments (S-4). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "In India, currency notes are issued by the:", "options": ["Reserve Bank of India (RBI)", "Local shopkeepers", "State governments individually", "Private companies"], "correct_index": 0, "solution": "In India, CURRENCY NOTES are issued by the RESERVE BANK of INDIA (RBI), the country's central bank. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Money that is accepted as a medium of exchange because the government declares it legal tender is called:", "options": ["Fiat money", "Barter goods", "Cattle money", "Shell money"], "correct_index": 0, "solution": "Money accepted because the GOVERNMENT declares it LEGAL TENDER (not for its own material value) is FIAT MONEY, like modern paper currency. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Consider the following functions of money: 1. Medium of exchange 2. Measure of value 3. Store of value. How many of these are true functions of money?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are functions of money: MEDIUM of EXCHANGE, MEASURE of VALUE (unit of account), and STORE of VALUE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Money acts as a 'measure of value', which means it:", "options": ["Lets us compare the worth of different goods in a common unit (price)", "Can be eaten", "Removes all prices", "Cannot be counted"], "correct_index": 0, "solution": "As a MEASURE of VALUE, money lets us COMPARE the WORTH of different goods using a COMMON UNIT — their PRICE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Money acts as a 'store of value' because it:", "options": ["Can be saved and used later to buy goods", "Loses all value instantly", "Cannot be kept", "Must be spent the same day"], "correct_index": 0, "solution": "As a STORE of VALUE, money can be SAVED and USED LATER to buy goods — unlike perishable barter items. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Money makes trade and specialisation easier. Reason (R): People can sell their goods for money and use it to buy whatever they need from anyone. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — money eases trade and specialisation. R is TRUE and EXPLAINS A: people can SELL goods for MONEY and USE it to BUY whatever they need from ANYONE, without needing a matching swap. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is an example of digital money?", "options": ["Payment made through a mobile UPI app", "A bag of rice given in exchange", "A cow traded for grain", "A gold coin handed over"], "correct_index": 0, "solution": "A payment made through a MOBILE UPI APP is DIGITAL (electronic) MONEY — no physical cash changes hands. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The move from barter to money mainly helped society by:", "options": ["Making exchange easier, faster and more efficient", "Making trade impossible", "Removing all goods", "Reducing the number of markets"], "correct_index": 0, "solution": "Moving from BARTER to MONEY made EXCHANGE EASIER, FASTER, and more EFFICIENT, supporting growth of trade. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. Barter — direct goods-for-goods exchange 2. Coin — metal money 3. UPI — digital payment. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE match: BARTER → direct goods-for-goods; COIN → metal money; UPI → digital payment. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A cheque or bank transfer is a way of paying that shows money can also exist as:", "options": ["A record of value in bank accounts, not just physical cash", "Only grain", "Only cattle", "Nothing"], "correct_index": 0, "solution": "A CHEQUE or BANK TRANSFER shows money can exist as a RECORD of VALUE in BANK ACCOUNTS, not just as physical cash. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is modern paper money accepted even though the paper itself has little value?", "options": ["Because the government guarantees it and everyone trusts and accepts it", "Because it is made of gold", "Because it can be eaten", "Because it is very heavy"], "correct_index": 0, "solution": "Modern PAPER MONEY is accepted because the GOVERNMENT GUARANTEES it and EVERYONE TRUSTS and ACCEPTS it as legal tender — not for the paper's own worth. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "In a barter economy, if a farmer with wheat wants cloth, he must find a weaver who:", "options": ["Wants wheat in exchange for cloth", "Has no interest in wheat", "Only accepts money", "Wants cattle only"], "correct_index": 0, "solution": "In BARTER, the wheat farmer must find a WEAVER who WANTS WHEAT in exchange for CLOTH — the double coincidence of wants. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a disadvantage of barter that money solves?", "options": ["Difficulty in storing wealth in perishable goods", "Too much money in circulation", "Everyone accepting money", "Prices being clear"], "correct_index": 0, "solution": "Barter makes STORING WEALTH hard because goods can be PERISHABLE; MONEY solves this by acting as a durable STORE of VALUE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Barter also made it hard to fix the value of goods because there was:", "options": ["No common measure to compare different goods", "Too much money", "Only one good to trade", "A central bank"], "correct_index": 0, "solution": "Barter had NO COMMON MEASURE of value, making it hard to COMPARE different goods; money provides a common unit (price). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The earliest coins in India were made mainly of:", "options": ["Metals like silver and copper", "Plastic", "Paper", "Wood"], "correct_index": 0, "solution": "The EARLIEST COINS in India were made of METALS like SILVER and COPPER (and later gold). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A key feature that any good money must have is that it should be:", "options": ["Widely accepted by people", "Rejected by everyone", "Perishable quickly", "Impossible to carry"], "correct_index": 0, "solution": "Good money must be WIDELY ACCEPTED by people, along with being durable, divisible and portable. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the following statements: 1. Money must be divisible so it can be used for small and large payments. 2. Money must be easy to carry (portable). Which is/are correct?", "options": ["Both 1 and 2", "1 only", "2 only", "Neither"], "correct_index": 0, "solution": "BOTH are correct: money must be DIVISIBLE (for small and large payments) and PORTABLE (easy to carry). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The value printed on a currency note is its:", "options": ["Denomination", "Weight", "Colour", "Serial only"], "correct_index": 0, "solution": "The VALUE printed on a currency note (like ₹100) is its DENOMINATION. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Assertion (A): The Reserve Bank of India controls the issue of currency. Reason (R): A single trusted authority is needed to maintain confidence in the money supply. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — the RBI controls currency issue. R is TRUE and EXPLAINS A: a SINGLE TRUSTED AUTHORITY is needed to maintain CONFIDENCE in the money supply. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of these best shows the store-of-value function of money?", "options": ["Saving money now to buy something next year", "Eating money", "Throwing money away", "Bartering fish for rice immediately"], "correct_index": 0, "solution": "SAVING money NOW to buy something NEXT YEAR shows the STORE-of-VALUE function. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of these best shows the medium-of-exchange function of money?", "options": ["Buying vegetables by paying cash", "Comparing the prices of two items", "Keeping savings in a bank", "Measuring the worth of a house"], "correct_index": 0, "solution": "BUYING vegetables by PAYING CASH shows money as a MEDIUM of EXCHANGE. (Comparing prices = measure of value; savings = store of value.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The gradual replacement of barter by money is an example of how societies:", "options": ["Develop better systems to meet their growing needs", "Go backward over time", "Stop trading", "Abandon all markets"], "correct_index": 0, "solution": "Replacing barter with money shows how SOCIETIES DEVELOP BETTER SYSTEMS to meet their GROWING NEEDS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Match List-I with List-II: P. Medium of exchange Q. Measure of value R. Store of value | 1. Comparing worth via price 2. Saving for future use 3. Paying for goods now", "options": ["P-3, Q-1, R-2", "P-1, Q-2, R-3", "P-2, Q-3, R-1", "P-3, Q-2, R-1"], "correct_index": 0, "solution": "Medium of exchange → paying for goods now (P-3); Measure of value → comparing worth via price (Q-1); Store of value → saving for future use (R-2). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is TRUE about digital money?", "options": ["It allows payments without carrying physical cash, using cards, apps or online transfers", "It is a type of grain", "It cannot be used to buy anything", "It exists only as coins"], "correct_index": 0, "solution": "DIGITAL MONEY allows PAYMENTS WITHOUT carrying physical CASH, using CARDS, APPS, or ONLINE transfers. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "One risk or requirement of digital money compared to cash is that it needs:", "options": ["Technology such as phones, internet or banking systems to work", "Nothing at all", "Only gold backing", "A barter partner"], "correct_index": 0, "solution": "DIGITAL MONEY NEEDS TECHNOLOGY — PHONES, INTERNET, or BANKING systems — to function, unlike simple cash. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In ancient times, cowrie shells were used in some regions as:", "options": ["A form of money (commodity money)", "Food", "Weapons", "Clothing"], "correct_index": 0, "solution": "COWRIE SHELLS were used in some regions as a FORM of MONEY — a type of commodity money. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the following statements: 1. Money removes the need for a double coincidence of wants. 2. Money makes it harder to trade. Which is/are correct?", "options": ["1 only", "2 only", "Both", "Neither"], "correct_index": 0, "solution": "Statement 1 is TRUE — money REMOVES the need for a double coincidence of wants. Statement 2 is FALSE — money makes trade EASIER. So only 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why did people move from commodity money to metal coins?", "options": ["Coins were more durable, easier to standardise, carry and divide", "Coins were perishable", "Coins could be eaten", "Commodity money never existed"], "correct_index": 0, "solution": "People moved to METAL COINS because they were more DURABLE, easier to STANDARDISE, CARRY, and DIVIDE than perishable commodity money. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The value of money ultimately depends on:", "options": ["People's trust and acceptance of it in exchange", "Its colour", "Its smell", "Its weight only"], "correct_index": 0, "solution": "The VALUE of MONEY ultimately depends on people's TRUST and ACCEPTANCE of it in EXCHANGE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A person who specialises in making pots and sells them for money can then buy food, clothes and tools. This shows money supports:", "options": ["Specialisation and division of labour", "The end of all trade", "Barter only", "Self-sufficiency without trade"], "correct_index": 0, "solution": "A potter selling pots for money to buy other needs shows money SUPPORTS SPECIALISATION and the DIVISION of LABOUR. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following correctly lists forms of money from oldest to newest?", "options": ["Commodity money → metal coins → paper money → digital money", "Digital money → paper money → coins → barter", "Paper money → digital money → commodity money", "Coins → commodity money → barter"], "correct_index": 0, "solution": "From OLDEST to NEWEST: COMMODITY MONEY → METAL COINS → PAPER MONEY → DIGITAL MONEY. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main reason money is more convenient than barter for a modern economy is that it:", "options": ["Is universally accepted, easy to carry, and lets any two people trade indirectly", "Requires matching wants exactly", "Can only buy one type of good", "Cannot be saved"], "correct_index": 0, "solution": "MONEY is more convenient because it is UNIVERSALLY ACCEPTED, EASY to CARRY, and lets any two people TRADE INDIRECTLY without matching wants. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): With money, a teacher can be paid a salary and use it to buy food. Reason (R): Money allows people to exchange their services for goods indirectly. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — a teacher's salary buys food. R is TRUE and EXPLAINS A: MONEY lets people EXCHANGE their SERVICES for GOODS INDIRECTLY. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which statement about barter and money is TRUE?", "options": ["Money overcame the main problems of barter and became the basis of modern exchange", "Barter is better than money in every way", "Money made trade impossible", "Barter needs no matching of wants"], "correct_index": 0, "solution": "It is TRUE that MONEY OVERCAME the main problems of BARTER (double coincidence of wants, storage, common value) and became the BASIS of MODERN EXCHANGE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The study of how exchange evolved from barter to money helps us understand:", "options": ["How trade, markets and the economy developed over time", "Only how to grow crops", "Nothing useful", "How to make pottery"], "correct_index": 0, "solution": "Studying the evolution from barter to money helps us understand how TRADE, MARKETS, and the ECONOMY DEVELOPED over TIME. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The overall message of the chapter 'From Barter to Money' is that:", "options": ["Barter is the best system", "Exchange evolved from the difficult barter system — which needed a double coincidence of wants — to money, which serves as a common medium of exchange, measure of value and store of value; over time money took the forms of commodity money, metal coins, paper currency and now digital money, making trade far easier and more efficient", "Money has no uses", "People never traded goods"], "correct_index": 1, "solution": "The OVERALL MESSAGE is that EXCHANGE EVOLVED from the difficult BARTER system — which needed a DOUBLE COINCIDENCE of WANTS — to MONEY, which serves as a common MEDIUM of EXCHANGE, MEASURE of VALUE, and STORE of VALUE. Over time money took the forms of COMMODITY MONEY, METAL COINS, PAPER CURRENCY, and now DIGITAL MONEY, making TRADE far EASIER and more EFFICIENT. So option 2 is correct.", "difficulty": "medium" }
+  {
+    "stem": "The system of exchanging goods and services directly for other goods and services, without using money, is called the:",
+    "options": [
+      "Credit system",
+      "Barter system",
+      "Banking system",
+      "Market system"
+    ],
+    "correct_index": 1,
+    "solution": "Barter is the direct exchange of one good or service for another, without money.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The main problem of the barter system, requiring both parties to want exactly what the other offers, is called the:",
+    "options": [
+      "Double coincidence of wants",
+      "Law of demand",
+      "Division of labour",
+      "Diminishing returns"
+    ],
+    "correct_index": 0,
+    "solution": "Barter needs a 'double coincidence of wants' — each person must have what the other wants and want what the other has, which is often difficult.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Before modern coins, objects like cowrie shells, cattle and grain were used as:",
+    "options": [
+      "Ornaments only",
+      "Early forms of money (commodity money)",
+      "Weapons",
+      "Writing material"
+    ],
+    "correct_index": 1,
+    "solution": "In early economies, commodities such as cowrie shells, cattle and grain served as money to overcome the problems of barter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following shows the correct order in the evolution of exchange?",
+    "options": [
+      "Paper money → coins → barter",
+      "Barter → commodity money → metal coins → paper money",
+      "Coins → barter → digital money",
+      "Digital money → barter → coins"
+    ],
+    "correct_index": 1,
+    "solution": "Exchange evolved from barter to commodity money, then metal coins, then paper currency, and now digital/electronic money.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main advantage of money over barter is that money:",
+    "options": [
+      "Can only be used once",
+      "Serves as a common medium of exchange accepted by all",
+      "Removes the need for markets",
+      "Is heavier to carry"
+    ],
+    "correct_index": 1,
+    "solution": "Money acts as a universally accepted medium of exchange, so people need not find someone who wants exactly what they have.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Money paid or received electronically, without physical cash, is known as:",
+    "options": [
+      "Barter",
+      "Commodity money",
+      "Digital / electronic money",
+      "Metal money"
+    ],
+    "correct_index": 2,
+    "solution": "Digital (electronic) money is transferred through cards, apps and online systems without exchanging physical cash.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'barter system' means:",
+    "options": [
+      "Buying goods with money",
+      "Directly exchanging one good or service for another without using money",
+      "Saving money in a bank",
+      "Printing currency"
+    ],
+    "correct_index": 1,
+    "solution": "The BARTER SYSTEM means DIRECTLY EXCHANGING one good or service for ANOTHER WITHOUT using MONEY. So option 2 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The biggest problem in the barter system is the need for a:",
+    "options": [
+      "Bank account",
+      "'Double coincidence of wants'",
+      "Printing press",
+      "Credit card"
+    ],
+    "correct_index": 1,
+    "solution": "The main problem in BARTER is the DOUBLE COINCIDENCE of WANTS — both people must want exactly what the other has to offer at the same time. So option 2 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Double coincidence of wants' means:",
+    "options": [
+      "Two people happening to want exactly what the other has to offer",
+      "Two coins of the same value",
+      "Wanting something twice",
+      "A market held twice"
+    ],
+    "correct_index": 0,
+    "solution": "DOUBLE COINCIDENCE of WANTS means TWO people each WANT exactly what the OTHER HAS to offer, at the same time — necessary for barter to work. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Barter is difficult in a large, complex economy. Reason (R): Finding a person who both has what you want and wants what you have becomes very hard. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — barter is hard in a complex economy. R is TRUE and EXPLAINS A: FINDING someone who BOTH has what you want and WANTS what you have becomes VERY HARD. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Before coins, people sometimes used goods like grain, cattle, or shells as money. This is called:",
+    "options": [
+      "Commodity money",
+      "Paper money",
+      "Digital money",
+      "Fiat money"
+    ],
+    "correct_index": 0,
+    "solution": "Using GOODS such as GRAIN, CATTLE, or SHELLS as a medium of exchange is called COMMODITY MONEY. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a limitation of using commodity money like grain or cattle?",
+    "options": [
+      "It may be perishable, hard to divide, or difficult to carry",
+      "It is accepted everywhere forever",
+      "It never loses value",
+      "It is easy to store in unlimited amounts"
+    ],
+    "correct_index": 0,
+    "solution": "COMMODITY MONEY like grain or cattle may be PERISHABLE, hard to DIVIDE, and difficult to CARRY or store — its limitations led to metal coins. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Metal coins became popular as money because metals are:",
+    "options": [
+      "Durable, divisible, portable and widely accepted",
+      "Perishable and heavy only",
+      "Impossible to divide",
+      "Rejected by everyone"
+    ],
+    "correct_index": 0,
+    "solution": "METAL COINS became popular because metals are DURABLE, DIVISIBLE, PORTABLE, and WIDELY ACCEPTED. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match List-I (Form of money) with List-II (Example/Feature): P. Commodity money Q. Metal coins R. Paper money S. Digital money | 1. Notes issued by the central bank 2. Grain, cattle, shells 3. Gold and silver coins 4. Card and app-based payments",
+    "options": [
+      "P-2, Q-3, R-1, S-4",
+      "P-1, Q-2, R-3, S-4",
+      "P-3, Q-4, R-1, S-2",
+      "P-4, Q-1, R-2, S-3"
+    ],
+    "correct_index": 0,
+    "solution": "Commodity money → grain, cattle, shells (P-2); Metal coins → gold and silver coins (Q-3); Paper money → notes issued by central bank (R-1); Digital money → card and app payments (S-4). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In India, currency notes are issued by the:",
+    "options": [
+      "Reserve Bank of India (RBI)",
+      "Local shopkeepers",
+      "State governments individually",
+      "Private companies"
+    ],
+    "correct_index": 0,
+    "solution": "In India, CURRENCY NOTES are issued by the RESERVE BANK of INDIA (RBI), the country's central bank. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Money that is accepted as a medium of exchange because the government declares it legal tender is called:",
+    "options": [
+      "Fiat money",
+      "Barter goods",
+      "Cattle money",
+      "Shell money"
+    ],
+    "correct_index": 0,
+    "solution": "Money accepted because the GOVERNMENT declares it LEGAL TENDER (not for its own material value) is FIAT MONEY, like modern paper currency. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Consider the following functions of money: 1. Medium of exchange 2. Measure of value 3. Store of value. How many of these are true functions of money?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are functions of money: MEDIUM of EXCHANGE, MEASURE of VALUE (unit of account), and STORE of VALUE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Money acts as a 'measure of value', which means it:",
+    "options": [
+      "Lets us compare the worth of different goods in a common unit (price)",
+      "Can be eaten",
+      "Removes all prices",
+      "Cannot be counted"
+    ],
+    "correct_index": 0,
+    "solution": "As a MEASURE of VALUE, money lets us COMPARE the WORTH of different goods using a COMMON UNIT — their PRICE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Money acts as a 'store of value' because it:",
+    "options": [
+      "Can be saved and used later to buy goods",
+      "Loses all value instantly",
+      "Cannot be kept",
+      "Must be spent the same day"
+    ],
+    "correct_index": 0,
+    "solution": "As a STORE of VALUE, money can be SAVED and USED LATER to buy goods — unlike perishable barter items. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Money makes trade and specialisation easier. Reason (R): People can sell their goods for money and use it to buy whatever they need from anyone. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — money eases trade and specialisation. R is TRUE and EXPLAINS A: people can SELL goods for MONEY and USE it to BUY whatever they need from ANYONE, without needing a matching swap. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is an example of digital money?",
+    "options": [
+      "Payment made through a mobile UPI app",
+      "A bag of rice given in exchange",
+      "A cow traded for grain",
+      "A gold coin handed over"
+    ],
+    "correct_index": 0,
+    "solution": "A payment made through a MOBILE UPI APP is DIGITAL (electronic) MONEY — no physical cash changes hands. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The move from barter to money mainly helped society by:",
+    "options": [
+      "Making exchange easier, faster and more efficient",
+      "Making trade impossible",
+      "Removing all goods",
+      "Reducing the number of markets"
+    ],
+    "correct_index": 0,
+    "solution": "Moving from BARTER to MONEY made EXCHANGE EASIER, FASTER, and more EFFICIENT, supporting growth of trade. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Barter — direct goods-for-goods exchange 2. Coin — metal money 3. UPI — digital payment. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE match: BARTER → direct goods-for-goods; COIN → metal money; UPI → digital payment. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A cheque or bank transfer is a way of paying that shows money can also exist as:",
+    "options": [
+      "A record of value in bank accounts, not just physical cash",
+      "Only grain",
+      "Only cattle",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "A CHEQUE or BANK TRANSFER shows money can exist as a RECORD of VALUE in BANK ACCOUNTS, not just as physical cash. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is modern paper money accepted even though the paper itself has little value?",
+    "options": [
+      "Because the government guarantees it and everyone trusts and accepts it",
+      "Because it is made of gold",
+      "Because it can be eaten",
+      "Because it is very heavy"
+    ],
+    "correct_index": 0,
+    "solution": "Modern PAPER MONEY is accepted because the GOVERNMENT GUARANTEES it and EVERYONE TRUSTS and ACCEPTS it as legal tender — not for the paper's own worth. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In a barter economy, if a farmer with wheat wants cloth, he must find a weaver who:",
+    "options": [
+      "Wants wheat in exchange for cloth",
+      "Has no interest in wheat",
+      "Only accepts money",
+      "Wants cattle only"
+    ],
+    "correct_index": 0,
+    "solution": "In BARTER, the wheat farmer must find a WEAVER who WANTS WHEAT in exchange for CLOTH — the double coincidence of wants. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a disadvantage of barter that money solves?",
+    "options": [
+      "Difficulty in storing wealth in perishable goods",
+      "Too much money in circulation",
+      "Everyone accepting money",
+      "Prices being clear"
+    ],
+    "correct_index": 0,
+    "solution": "Barter makes STORING WEALTH hard because goods can be PERISHABLE; MONEY solves this by acting as a durable STORE of VALUE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Barter also made it hard to fix the value of goods because there was:",
+    "options": [
+      "No common measure to compare different goods",
+      "Too much money",
+      "Only one good to trade",
+      "A central bank"
+    ],
+    "correct_index": 0,
+    "solution": "Barter had NO COMMON MEASURE of value, making it hard to COMPARE different goods; money provides a common unit (price). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The earliest coins in India were made mainly of:",
+    "options": [
+      "Metals like silver and copper",
+      "Plastic",
+      "Paper",
+      "Wood"
+    ],
+    "correct_index": 0,
+    "solution": "The EARLIEST COINS in India were made of METALS like SILVER and COPPER (and later gold). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A key feature that any good money must have is that it should be:",
+    "options": [
+      "Widely accepted by people",
+      "Rejected by everyone",
+      "Perishable quickly",
+      "Impossible to carry"
+    ],
+    "correct_index": 0,
+    "solution": "Good money must be WIDELY ACCEPTED by people, along with being durable, divisible and portable. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the following statements: 1. Money must be divisible so it can be used for small and large payments. 2. Money must be easy to carry (portable). Which is/are correct?",
+    "options": [
+      "Both 1 and 2",
+      "1 only",
+      "2 only",
+      "Neither"
+    ],
+    "correct_index": 0,
+    "solution": "BOTH are correct: money must be DIVISIBLE (for small and large payments) and PORTABLE (easy to carry). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The value printed on a currency note is its:",
+    "options": [
+      "Denomination",
+      "Weight",
+      "Colour",
+      "Serial only"
+    ],
+    "correct_index": 0,
+    "solution": "The VALUE printed on a currency note (like ₹100) is its DENOMINATION. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Assertion (A): The Reserve Bank of India controls the issue of currency. Reason (R): A single trusted authority is needed to maintain confidence in the money supply. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — the RBI controls currency issue. R is TRUE and EXPLAINS A: a SINGLE TRUSTED AUTHORITY is needed to maintain CONFIDENCE in the money supply. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of these best shows the store-of-value function of money?",
+    "options": [
+      "Saving money now to buy something next year",
+      "Eating money",
+      "Throwing money away",
+      "Bartering fish for rice immediately"
+    ],
+    "correct_index": 0,
+    "solution": "SAVING money NOW to buy something NEXT YEAR shows the STORE-of-VALUE function. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of these best shows the medium-of-exchange function of money?",
+    "options": [
+      "Buying vegetables by paying cash",
+      "Comparing the prices of two items",
+      "Keeping savings in a bank",
+      "Measuring the worth of a house"
+    ],
+    "correct_index": 0,
+    "solution": "BUYING vegetables by PAYING CASH shows money as a MEDIUM of EXCHANGE. (Comparing prices = measure of value; savings = store of value.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gradual replacement of barter by money is an example of how societies:",
+    "options": [
+      "Develop better systems to meet their growing needs",
+      "Go backward over time",
+      "Stop trading",
+      "Abandon all markets"
+    ],
+    "correct_index": 0,
+    "solution": "Replacing barter with money shows how SOCIETIES DEVELOP BETTER SYSTEMS to meet their GROWING NEEDS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match List-I with List-II: P. Medium of exchange Q. Measure of value R. Store of value | 1. Comparing worth via price 2. Saving for future use 3. Paying for goods now",
+    "options": [
+      "P-3, Q-1, R-2",
+      "P-1, Q-2, R-3",
+      "P-2, Q-3, R-1",
+      "P-3, Q-2, R-1"
+    ],
+    "correct_index": 0,
+    "solution": "Medium of exchange → paying for goods now (P-3); Measure of value → comparing worth via price (Q-1); Store of value → saving for future use (R-2). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is TRUE about digital money?",
+    "options": [
+      "It allows payments without carrying physical cash, using cards, apps or online transfers",
+      "It is a type of grain",
+      "It cannot be used to buy anything",
+      "It exists only as coins"
+    ],
+    "correct_index": 0,
+    "solution": "DIGITAL MONEY allows PAYMENTS WITHOUT carrying physical CASH, using CARDS, APPS, or ONLINE transfers. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "One risk or requirement of digital money compared to cash is that it needs:",
+    "options": [
+      "Technology such as phones, internet or banking systems to work",
+      "Nothing at all",
+      "Only gold backing",
+      "A barter partner"
+    ],
+    "correct_index": 0,
+    "solution": "DIGITAL MONEY NEEDS TECHNOLOGY — PHONES, INTERNET, or BANKING systems — to function, unlike simple cash. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In ancient times, cowrie shells were used in some regions as:",
+    "options": [
+      "A form of money (commodity money)",
+      "Food",
+      "Weapons",
+      "Clothing"
+    ],
+    "correct_index": 0,
+    "solution": "COWRIE SHELLS were used in some regions as a FORM of MONEY — a type of commodity money. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the following statements: 1. Money removes the need for a double coincidence of wants. 2. Money makes it harder to trade. Which is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both",
+      "Neither"
+    ],
+    "correct_index": 0,
+    "solution": "Statement 1 is TRUE — money REMOVES the need for a double coincidence of wants. Statement 2 is FALSE — money makes trade EASIER. So only 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why did people move from commodity money to metal coins?",
+    "options": [
+      "Coins were more durable, easier to standardise, carry and divide",
+      "Coins were perishable",
+      "Coins could be eaten",
+      "Commodity money never existed"
+    ],
+    "correct_index": 0,
+    "solution": "People moved to METAL COINS because they were more DURABLE, easier to STANDARDISE, CARRY, and DIVIDE than perishable commodity money. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The value of money ultimately depends on:",
+    "options": [
+      "People's trust and acceptance of it in exchange",
+      "Its colour",
+      "Its smell",
+      "Its weight only"
+    ],
+    "correct_index": 0,
+    "solution": "The VALUE of MONEY ultimately depends on people's TRUST and ACCEPTANCE of it in EXCHANGE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A person who specialises in making pots and sells them for money can then buy food, clothes and tools. This shows money supports:",
+    "options": [
+      "Specialisation and division of labour",
+      "The end of all trade",
+      "Barter only",
+      "Self-sufficiency without trade"
+    ],
+    "correct_index": 0,
+    "solution": "A potter selling pots for money to buy other needs shows money SUPPORTS SPECIALISATION and the DIVISION of LABOUR. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly lists forms of money from oldest to newest?",
+    "options": [
+      "Commodity money → metal coins → paper money → digital money",
+      "Digital money → paper money → coins → barter",
+      "Paper money → digital money → commodity money",
+      "Coins → commodity money → barter"
+    ],
+    "correct_index": 0,
+    "solution": "From OLDEST to NEWEST: COMMODITY MONEY → METAL COINS → PAPER MONEY → DIGITAL MONEY. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason money is more convenient than barter for a modern economy is that it:",
+    "options": [
+      "Is universally accepted, easy to carry, and lets any two people trade indirectly",
+      "Requires matching wants exactly",
+      "Can only buy one type of good",
+      "Cannot be saved"
+    ],
+    "correct_index": 0,
+    "solution": "MONEY is more convenient because it is UNIVERSALLY ACCEPTED, EASY to CARRY, and lets any two people TRADE INDIRECTLY without matching wants. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): With money, a teacher can be paid a salary and use it to buy food. Reason (R): Money allows people to exchange their services for goods indirectly. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — a teacher's salary buys food. R is TRUE and EXPLAINS A: MONEY lets people EXCHANGE their SERVICES for GOODS INDIRECTLY. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which statement about barter and money is TRUE?",
+    "options": [
+      "Money overcame the main problems of barter and became the basis of modern exchange",
+      "Barter is better than money in every way",
+      "Money made trade impossible",
+      "Barter needs no matching of wants"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that MONEY OVERCAME the main problems of BARTER (double coincidence of wants, storage, common value) and became the BASIS of MODERN EXCHANGE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The study of how exchange evolved from barter to money helps us understand:",
+    "options": [
+      "How trade, markets and the economy developed over time",
+      "Only how to grow crops",
+      "Nothing useful",
+      "How to make pottery"
+    ],
+    "correct_index": 0,
+    "solution": "Studying the evolution from barter to money helps us understand how TRADE, MARKETS, and the ECONOMY DEVELOPED over TIME. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall message of the chapter 'From Barter to Money' is that:",
+    "options": [
+      "Barter is the best system",
+      "Exchange evolved from the difficult barter system — which needed a double coincidence of wants — to money, which serves as a common medium of exchange, measure of value and store of value; over time money took the forms of commodity money, metal coins, paper currency and now digital money, making trade far easier and more efficient",
+      "Money has no uses",
+      "People never traded goods"
+    ],
+    "correct_index": 1,
+    "solution": "The OVERALL MESSAGE is that EXCHANGE EVOLVED from the difficult BARTER system — which needed a DOUBLE COINCIDENCE of WANTS — to MONEY, which serves as a common MEDIUM of EXCHANGE, MEASURE of VALUE, and STORE of VALUE. Over time money took the forms of COMMODITY MONEY, METAL COINS, PAPER CURRENCY, and now DIGITAL MONEY, making TRADE far EASIER and more EFFICIENT. So option 2 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Before money was invented, goods were exchanged directly for other goods in a system called:",
+    "options": [
+      "Trade",
+      "Barter system",
+      "Banking",
+      "Credit"
+    ],
+    "correct_index": 1,
+    "solution": "The barter system is the direct exchange of goods and services for other goods and services without using money.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A major problem of the barter system was the lack of a:",
+    "options": [
+      "Buyer",
+      "Double coincidence of wants",
+      "Seller",
+      "Market"
+    ],
+    "correct_index": 1,
+    "solution": "Barter required a 'double coincidence of wants' — both parties had to want exactly what the other offered at the same time — which made exchange difficult.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Money is anything that is generally accepted as a medium of:",
+    "options": [
+      "Storage",
+      "Exchange",
+      "Transport",
+      "Communication"
+    ],
+    "correct_index": 1,
+    "solution": "Money is any item generally accepted as a medium of exchange for goods and services, solving the problems of the barter system.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is a function of money?",
+    "options": [
+      "Medium of exchange",
+      "Measure of value",
+      "Store of value",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "solution": "Money serves as a medium of exchange, a measure/unit of value (pricing), a store of value (saving), and a standard for deferred payments (credit).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In early times, people used commodities like cattle, salt and shells as money; this is called:",
+    "options": [
+      "Paper money",
+      "Commodity money",
+      "Bank money",
+      "Digital money"
+    ],
+    "correct_index": 1,
+    "solution": "Commodity money refers to using valuable commodities (cattle, grain, salt, cowrie shells, metals) as a medium of exchange before standardised coins and paper money.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Metallic coins were introduced because commodity money had drawbacks; metals like gold and silver were suitable because they are:",
+    "options": [
+      "Perishable",
+      "Durable, divisible and portable",
+      "Heavy and useless",
+      "Impossible to divide"
+    ],
+    "correct_index": 1,
+    "solution": "Metals like gold and silver made good money because they are durable, divisible, portable and have a stable value, unlike perishable commodities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Paper currency is a form of money that:",
+    "options": [
+      "Has value only as paper",
+      "Is accepted because it is issued/guaranteed by the government/central bank",
+      "Is worthless",
+      "Cannot be used"
+    ],
+    "correct_index": 1,
+    "solution": "Paper currency has no value as paper itself; it is accepted as money because it is issued and guaranteed by the government/central bank (in India, the Reserve Bank of India).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A cheque is an instrument that instructs a bank to:",
+    "options": [
+      "Print money",
+      "Pay a specified amount from the account holder's account",
+      "Lend money",
+      "Store goods"
+    ],
+    "correct_index": 1,
+    "solution": "A cheque is a written order directing a bank to pay a specified sum from the drawer's account to the person named on it — a form of bank money.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Money deposited in a bank account that can be withdrawn on demand is called a:",
+    "options": [
+      "Fixed deposit",
+      "Demand deposit",
+      "Loan",
+      "Cash reserve"
+    ],
+    "correct_index": 1,
+    "solution": "Demand deposits are funds in bank accounts (like savings/current accounts) that can be withdrawn on demand, and are treated as money because they can be used for payments (e.g. via cheque).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Modern electronic forms of money include debit/credit cards, net banking and:",
+    "options": [
+      "Barter",
+      "UPI (Unified Payments Interface) and mobile wallets",
+      "Cattle",
+      "Shells"
+    ],
+    "correct_index": 1,
+    "solution": "Modern digital money includes debit and credit cards, internet banking, mobile wallets and UPI (Unified Payments Interface), enabling cashless transactions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'UPI' (Unified Payments Interface), widely used in India, enables:",
+    "options": [
+      "Barter only",
+      "Instant money transfer between bank accounts through mobile phones",
+      "Printing currency",
+      "Storing goods"
+    ],
+    "correct_index": 1,
+    "solution": "UPI allows instant, real-time transfer of money between bank accounts through a mobile phone, making digital payments quick and easy; it has revolutionised payments in India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main advantage of money over barter is that it:",
+    "options": [
+      "Is harder to use",
+      "Removes the need for a double coincidence of wants and makes exchange easy",
+      "Cannot store value",
+      "Reduces trade"
+    ],
+    "correct_index": 1,
+    "solution": "Money removes the need for a double coincidence of wants, acts as a common measure of value, and can store value — making buying, selling and saving far easier than barter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Banks help the economy by accepting deposits and:",
+    "options": [
+      "Hiding money",
+      "Giving loans (lending money) to people and businesses",
+      "Destroying money",
+      "Printing currency"
+    ],
+    "correct_index": 1,
+    "solution": "Banks accept deposits from savers and lend money to borrowers (for businesses, farming, housing), channelling savings into productive investment and helping the economy grow.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The interest a bank pays to a depositor is:",
+    "options": [
+      "A fee charged to the depositor",
+      "A reward for keeping money in the bank",
+      "A loan",
+      "A tax"
+    ],
+    "correct_index": 1,
+    "solution": "Interest paid on deposits is the reward the bank gives depositors for keeping their money with it; banks charge higher interest on loans than they pay on deposits.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The evolution of money from barter to digital payments shows:",
+    "options": [
+      "No change",
+      "How exchange systems have developed to become more convenient over time",
+      "That barter is best",
+      "That money is useless"
+    ],
+    "correct_index": 1,
+    "solution": "The journey from barter to commodity money, coins, paper currency and now digital payments shows how exchange systems have continuously evolved to become more convenient and efficient.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Cowrie shells' were historically used in parts of India and Africa as:",
+    "options": [
+      "Food",
+      "A form of money (commodity money)",
+      "Weapons",
+      "Tools"
+    ],
+    "correct_index": 1,
+    "solution": "Cowrie shells were widely used as a form of commodity money in ancient India, Africa and other regions before coins and paper money became common.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key quality that anything used as money must have is that it should be:",
+    "options": [
+      "Perishable",
+      "Generally accepted by people",
+      "Impossible to carry",
+      "Available to no one"
+    ],
+    "correct_index": 1,
+    "solution": "For anything to function as money, it must be generally accepted by people in exchange for goods and services; other desirable qualities are durability, divisibility and portability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Deferred payment' (a function of money) means money can be used for:",
+    "options": [
+      "Immediate payment only",
+      "Future payments (like paying back loans over time)",
+      "No payment",
+      "Barter only"
+    ],
+    "correct_index": 1,
+    "solution": "Money serves as a standard of deferred payment, allowing transactions to be settled in the future (e.g. repaying loans in instalments), which supports credit and modern finance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly orders the evolution of money?",
+    "options": [
+      "Barter → commodity money → coins → paper money → digital money",
+      "Digital money → barter → coins",
+      "Coins → barter → paper money",
+      "Paper money → barter → coins"
+    ],
+    "correct_index": 0,
+    "solution": "Money evolved from barter to commodity money, then metallic coins, then paper currency, and now digital/electronic money — each stage making exchange more convenient.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The problem of storing wealth in the barter system was that many goods were:",
+    "options": [
+      "Easy to store",
+      "Perishable and hard to store for a long time",
+      "Made of gold",
+      "Always valuable"
+    ],
+    "correct_index": 1,
+    "solution": "In barter, storing wealth was difficult because many goods (like grain, animals) were perishable or bulky; money solved this by acting as a durable store of value.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Digital and cashless transactions are encouraged in India because they:",
+    "options": [
+      "Are unsafe",
+      "Are convenient, transparent and reduce the need to carry cash",
+      "Cannot be tracked",
+      "Waste money"
+    ],
+    "correct_index": 1,
+    "solution": "Cashless/digital transactions are convenient, quick, transparent and reduce the need to carry cash, helping formalise the economy and curb black money.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which institution regulates banks and the money supply in India?",
+    "options": [
+      "SEBI",
+      "Reserve Bank of India (RBI)",
+      "SBI",
+      "LIC"
+    ],
+    "correct_index": 1,
+    "solution": "The Reserve Bank of India (RBI), the central bank, regulates the banking system, issues currency and controls the money supply and monetary policy in India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason money is called a 'medium of exchange' is that it:",
+    "options": [
+      "Cannot be exchanged",
+      "Is used as an intermediary to buy and sell goods and services",
+      "Only stores value",
+      "Is only for saving"
+    ],
+    "correct_index": 1,
+    "solution": "Money is a medium of exchange because it acts as an intermediary that everyone accepts, allowing people to sell goods for money and use that money to buy other goods — replacing barter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The shift from barter to money greatly helped ______ to grow.",
+    "options": [
+      "isolation",
+      "trade and commerce",
+      "poverty",
+      "conflict"
+    ],
+    "correct_index": 1,
+    "solution": "The use of money greatly facilitated trade and commerce by making exchange easy and efficient, enabling markets, specialisation and economic growth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'fixed deposit' in a bank differs from a savings deposit in that a fixed deposit:",
+    "options": [
+      "Can be withdrawn anytime",
+      "Is kept for a fixed period and usually earns higher interest",
+      "Earns no interest",
+      "Is not a deposit"
+    ],
+    "correct_index": 1,
+    "solution": "A fixed deposit is money kept in the bank for a fixed period (locked in), usually earning higher interest than a savings account, which allows withdrawals anytime.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about money is correct? (i) It removes the need for double coincidence of wants (ii) It is a store of value (iii) It is issued by the RBI in India",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: money removes the need for a double coincidence of wants, acts as a store of value, and (in India) currency is issued by the RBI.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall importance of money in the economy is that it:",
+    "options": [
+      "Has no importance",
+      "Facilitates exchange, saving, investment and the smooth functioning of the economy",
+      "Only causes problems",
+      "Reduces trade"
+    ],
+    "correct_index": 1,
+    "solution": "Money is fundamental to the economy — it facilitates exchange, measures value, enables saving and investment, and supports the smooth functioning of trade, markets and finance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Black money' refers to income on which:",
+    "options": [
+      "Tax has been paid",
+      "Tax has been evaded / that is hidden from authorities",
+      "No income exists",
+      "Only coins are used"
+    ],
+    "correct_index": 1,
+    "solution": "Black money is income earned through legal or illegal means on which tax has not been paid or which is concealed from authorities; digital transactions and formalisation help curb it.",
+    "difficulty": "hard"
+  }
 ]
