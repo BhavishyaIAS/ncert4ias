@@ -1,52 +1,902 @@
 [
-  { "stem": "Which of the following is an element of weather?", "options": ["Temperature", "Population", "Language", "Soil type"], "correct_index": 0, "solution": "The main elements of weather are temperature, atmospheric pressure, humidity, wind and precipitation.", "difficulty": "easy" },
-  { "stem": "The instrument used to measure temperature is the:", "options": ["Barometer", "Thermometer", "Rain gauge", "Anemometer"], "correct_index": 1, "solution": "A thermometer measures temperature; a barometer measures air pressure.", "difficulty": "easy" },
-  { "stem": "Atmospheric pressure is measured using a:", "options": ["Thermometer", "Barometer", "Wind vane", "Rain gauge"], "correct_index": 1, "solution": "A barometer is the instrument used to measure atmospheric (air) pressure.", "difficulty": "medium" },
-  { "stem": "The amount of rainfall received at a place is measured with a:", "options": ["Rain gauge", "Anemometer", "Thermometer", "Barometer"], "correct_index": 0, "solution": "A rain gauge measures the amount of rainfall over a given period.", "difficulty": "medium" },
-  { "stem": "The instrument used to measure wind speed is the:", "options": ["Wind vane", "Anemometer", "Barometer", "Hygrometer"], "correct_index": 1, "solution": "An anemometer measures wind speed; a wind vane shows wind direction.", "difficulty": "hard" },
-  { "stem": "The direction from which the wind is blowing is shown by a:", "options": ["Wind vane", "Rain gauge", "Thermometer", "Barometer"], "correct_index": 0, "solution": "A wind vane (weather vane) indicates the direction from which the wind is coming.", "difficulty": "medium" },
-  { "stem": "Weather is best described as the condition of the atmosphere over a:", "options": ["Short period (day to day)", "Period of at least 30 years", "Century", "Single decade only"], "correct_index": 0, "solution": "Weather is the short-term, day-to-day state of the atmosphere, unlike climate which is the long-term average.", "difficulty": "easy" },
-  { "stem": "The amount of water vapour in the air, an element of weather, is called:", "options": ["Pressure", "Humidity", "Temperature", "Velocity"], "correct_index": 1, "solution": "Humidity is the measure of moisture (water vapour) present in the atmosphere.", "difficulty": "medium" },
-  { "stem": "The main elements of weather are temperature, pressure, humidity, wind and:", "options": ["Precipitation (rainfall)", "Population", "Language", "Roads"], "correct_index": 0, "solution": "The MAIN ELEMENTS of WEATHER are TEMPERATURE, air PRESSURE, HUMIDITY, WIND, and PRECIPITATION (rainfall). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The instrument used to measure humidity is the:", "options": ["Hygrometer", "Barometer", "Rain gauge", "Wind vane"], "correct_index": 0, "solution": "The instrument used to measure HUMIDITY (moisture in the air) is the HYGROMETER. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Consider the pairs: 1. Thermometer — temperature 2. Barometer — pressure 3. Anemometer — wind speed 4. Rain gauge — rainfall. How many are correctly matched?", "options": ["All four", "Only two", "Only three", "None"], "correct_index": 0, "solution": "ALL FOUR are correct: THERMOMETER → TEMPERATURE; BAROMETER → PRESSURE; ANEMOMETER → WIND SPEED; RAIN GAUGE → RAINFALL. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Temperature is the measure of:", "options": ["How hot or cold the air is", "The amount of rain", "The speed of wind", "The moisture in the air"], "correct_index": 0, "solution": "TEMPERATURE is the measure of HOW HOT or COLD the AIR (or a place) is, usually measured in degrees Celsius. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Weather affects our daily lives by influencing:", "options": ["What we wear, our activities, farming and travel", "Nothing", "Only the night sky", "Only our names"], "correct_index": 0, "solution": "WEATHER affects our DAILY LIVES by influencing WHAT we WEAR, our ACTIVITIES, FARMING, and TRAVEL — so people check the weather forecast. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "A weather forecast is:", "options": ["A prediction of what the weather will be like in the near future", "A record of the past only", "A type of rain", "A kind of wind"], "correct_index": 0, "solution": "A WEATHER FORECAST is a PREDICTION of what the WEATHER will be like in the NEAR FUTURE, based on observations and scientific analysis. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Weather forecasts are useful because they help people to:", "options": ["Prepare for storms, plan farming and daily activities", "Do nothing", "Ignore the weather", "Cause rain"], "correct_index": 0, "solution": "WEATHER FORECASTS are useful because they help people PREPARE for STORMS (warnings), PLAN FARMING (sowing, harvesting), and organise DAILY ACTIVITIES and travel. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The daily changes we notice — sunny, cloudy, rainy, windy — are all part of:", "options": ["The weather", "The climate over 30 years", "The rock cycle", "Plate movement"], "correct_index": 0, "solution": "The DAILY CHANGES we notice — SUNNY, CLOUDY, RAINY, WINDY — are all part of the WEATHER, the short-term state of the atmosphere. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Weather data is collected at special stations called:", "options": ["Weather (meteorological) stations", "Petrol stations", "Bus stations", "Fire stations"], "correct_index": 0, "solution": "WEATHER DATA is collected at special stations called WEATHER (METEOROLOGICAL) STATIONS, using instruments to record temperature, pressure, rainfall, and wind. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The scientific study of the weather and atmosphere is called:", "options": ["Meteorology", "Geology", "Biology", "Astronomy"], "correct_index": 0, "solution": "The SCIENTIFIC STUDY of the WEATHER and ATMOSPHERE is called METEOROLOGY, and a scientist who studies it is a meteorologist. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Modern weather forecasting uses tools such as:", "options": ["Satellites, radar and computers", "Only guessing", "Only old books", "Nothing"], "correct_index": 0, "solution": "MODERN WEATHER FORECASTING uses tools such as SATELLITES (viewing clouds from space), RADAR (tracking rain), and COMPUTERS (running weather models) to predict the weather. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Weather changes from day to day. Reason (R): The elements of weather — temperature, pressure, humidity, wind and rain — are always changing. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — weather changes from day to day. R is TRUE and correctly EXPLAINS A: the ELEMENTS of weather (temperature, pressure, humidity, wind, rain) are ALWAYS CHANGING, which is exactly why the weather changes. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "High temperature and high humidity together make the weather feel:", "options": ["Hot and uncomfortable (muggy)", "Cold and dry", "Pleasant always", "Freezing"], "correct_index": 0, "solution": "HIGH TEMPERATURE and HIGH HUMIDITY together make the weather feel HOT and UNCOMFORTABLE (MUGGY), because sweat evaporates slowly in the moist air. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is an example of a weather warning that saves lives?", "options": ["A cyclone or storm warning", "A holiday notice", "A cricket score", "A film review"], "correct_index": 0, "solution": "A CYCLONE or STORM WARNING is an example of a weather warning that SAVES LIVES, giving people time to move to safety before a dangerous storm arrives. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The temperature of a place is usually measured in:", "options": ["Degrees Celsius (°C)", "Litres", "Kilograms", "Metres"], "correct_index": 0, "solution": "The TEMPERATURE of a place is usually measured in DEGREES CELSIUS (°C) — the common unit for weather temperature. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Wind is caused by:", "options": ["Differences in air pressure due to uneven heating", "The Moon only", "Nothing", "Rocks moving"], "correct_index": 0, "solution": "WIND is caused by DIFFERENCES in AIR PRESSURE due to the UNEVEN HEATING of the Earth — air flows from high to low pressure. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly pairs a weather instrument with what it measures?", "options": ["Thermometer → temperature; Hygrometer → humidity; Anemometer → wind speed", "Thermometer → rainfall; Hygrometer → wind; Anemometer → temperature", "All measure the same thing", "None measure anything"], "correct_index": 0, "solution": "The correct pairings are: THERMOMETER → TEMPERATURE; HYGROMETER → HUMIDITY; ANEMOMETER → WIND SPEED. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Clouds form part of the weather because they:", "options": ["Indicate moisture in the air and can bring rain", "Have no effect", "Are always dry", "Never bring rain"], "correct_index": 0, "solution": "CLOUDS form part of the weather because they INDICATE MOISTURE in the AIR and can BRING RAIN when the water droplets in them grow heavy. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Farmers depend on weather information especially for:", "options": ["Deciding when to sow, irrigate and harvest crops", "Nothing", "Only entertainment", "Building roads"], "correct_index": 0, "solution": "FARMERS depend on WEATHER INFORMATION especially for DECIDING WHEN to SOW, IRRIGATE, and HARVEST crops — timing that depends on rain and temperature. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A sudden drop in air pressure often indicates:", "options": ["The approach of a storm or bad weather", "Clear sunny skies", "No change", "A holiday"], "correct_index": 0, "solution": "A SUDDEN DROP in AIR PRESSURE often INDICATES the APPROACH of a STORM or BAD WEATHER — which is why barometers help in forecasting. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following statements about weather is correct?", "options": ["Weather is the short-term, changing state of the atmosphere at a place", "Weather never changes", "Weather is the same everywhere", "Weather is measured over 100 years"], "correct_index": 0, "solution": "It is correct that WEATHER is the SHORT-TERM, CHANGING STATE of the ATMOSPHERE at a place — differing from day to day and place to place. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The difference between weather and climate is that weather is short-term, while climate is:", "options": ["The average weather of a place over a long period (about 30 years)", "The weather of one day", "The same as weather", "Only about wind"], "correct_index": 0, "solution": "WEATHER is SHORT-TERM (day-to-day), while CLIMATE is the AVERAGE weather of a place over a LONG PERIOD (usually about 30 years). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is understanding the weather important for aviation (aeroplanes)?", "options": ["Pilots need weather information for safe flying (avoiding storms)", "It has no use in aviation", "Aeroplanes ignore weather", "Weather stops all flights always"], "correct_index": 0, "solution": "Understanding the WEATHER is important for AVIATION because PILOTS need weather INFORMATION for SAFE FLYING — avoiding STORMS, fog, and dangerous winds. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The rising of warm, moist air, its cooling and condensation, leads to:", "options": ["The formation of clouds and rain", "Clear skies always", "No change in weather", "The Sun going down"], "correct_index": 0, "solution": "The RISING of WARM, MOIST AIR, its COOLING and CONDENSATION, leads to the FORMATION of CLOUDS and RAIN — a key weather process. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is measured to describe the weather of a place?", "options": ["Temperature, rainfall, humidity, wind and pressure", "Only the population", "Only the language", "Only the soil"], "correct_index": 0, "solution": "To DESCRIBE the WEATHER of a place, we MEASURE TEMPERATURE, RAINFALL, HUMIDITY, WIND, and PRESSURE — the elements of weather. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The reason weather differs from place to place is mainly due to differences in:", "options": ["Location, altitude, distance from the sea and other factors", "The colour of houses", "The number of people", "The names of places"], "correct_index": 0, "solution": "WEATHER differs from place to place mainly due to differences in LOCATION (latitude), ALTITUDE (height), DISTANCE from the SEA, and other geographic factors. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The India Meteorological Department (IMD) is responsible for:", "options": ["Observing and forecasting weather in India", "Building roads", "Running schools", "Mining coal"], "correct_index": 0, "solution": "The INDIA METEOROLOGICAL DEPARTMENT (IMD) is responsible for OBSERVING and FORECASTING WEATHER in India, and issuing warnings about storms and cyclones. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is TRUE about weather instruments?", "options": ["Each measures a specific element of the weather", "They all measure the same thing", "They measure nothing", "They are decorations only"], "correct_index": 0, "solution": "It is TRUE that EACH WEATHER INSTRUMENT MEASURES a SPECIFIC ELEMENT of the weather (thermometer → temperature, rain gauge → rainfall, etc.). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Studying the weather helps people to:", "options": ["Understand, predict and prepare for atmospheric changes", "Ignore the sky", "Waste time", "Do nothing useful"], "correct_index": 0, "solution": "Studying the WEATHER helps people UNDERSTAND, PREDICT, and PREPARE for ATMOSPHERIC CHANGES — protecting lives, crops, and activities. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "During the day, the land heats up faster than the sea, causing a:", "options": ["Sea breeze (cool air blowing from sea to land)", "Land breeze", "No wind", "A storm always"], "correct_index": 0, "solution": "During the DAY, the LAND HEATS UP faster than the sea; the warm air over land rises and COOL AIR blows from the SEA to the LAND — a SEA BREEZE. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "At night, the land cools faster than the sea, causing a:", "options": ["Land breeze (air blowing from land to sea)", "Sea breeze", "No wind", "Heavy snow"], "correct_index": 0, "solution": "At NIGHT, the LAND COOLS faster than the sea; air then blows from the LAND to the SEA — a LAND BREEZE. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Dew forms when:", "options": ["Water vapour condenses on cool surfaces at night", "It rains heavily", "The wind blows", "The Sun shines strongly"], "correct_index": 0, "solution": "DEW forms when WATER VAPOUR in the air CONDENSES on COOL SURFACES (like grass and leaves) at NIGHT, when temperatures drop. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Fog is essentially:", "options": ["A cloud that forms close to the ground, reducing visibility", "Heavy rain", "Strong wind", "Bright sunshine"], "correct_index": 0, "solution": "FOG is essentially a CLOUD that forms CLOSE to the GROUND (from condensed water vapour), REDUCING VISIBILITY — common on cold mornings. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a form of precipitation?", "options": ["Rain, snow, sleet or hail", "Wind", "Sunshine", "Fog"], "correct_index": 0, "solution": "Forms of PRECIPITATION include RAIN, SNOW, SLEET, and HAIL — water falling from clouds to the ground. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A cyclone is a weather system marked by:", "options": ["Strong winds spiralling around a low-pressure centre, often with heavy rain", "Clear calm skies", "No wind", "Only sunshine"], "correct_index": 0, "solution": "A CYCLONE is a weather system marked by STRONG WINDS SPIRALLING around a LOW-PRESSURE CENTRE, often bringing HEAVY RAIN and destruction to coastal areas. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Weather symbols on a map help by:", "options": ["Showing at a glance the expected weather (sun, clouds, rain) for different places", "Confusing people", "Showing nothing", "Only decorating the map"], "correct_index": 0, "solution": "WEATHER SYMBOLS on a map help by SHOWING at a GLANCE the EXPECTED WEATHER (sun, clouds, rain, wind) for DIFFERENT PLACES in a simple, visual way. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following would raise the temperature of a place?", "options": ["Strong sunshine and clear skies", "Heavy cloud cover at night", "Snowfall", "Cold winds"], "correct_index": 0, "solution": "STRONG SUNSHINE and CLEAR SKIES would RAISE the TEMPERATURE of a place, as the Sun heats the ground directly. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The recording of weather over many days helps to:", "options": ["Identify patterns and understand a place's climate", "Waste time", "Predict lottery numbers", "Do nothing"], "correct_index": 0, "solution": "RECORDING WEATHER over MANY DAYS helps IDENTIFY PATTERNS and UNDERSTAND a place's CLIMATE (its average, long-term weather). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why do mountain tops have colder weather than the plains below?", "options": ["Temperature decreases with height (altitude)", "The Sun avoids mountains", "Mountains have no air", "Plains are always cold"], "correct_index": 0, "solution": "MOUNTAIN TOPS have COLDER weather than the plains because TEMPERATURE DECREASES with HEIGHT (ALTITUDE) — the air gets thinner and cooler higher up. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The knowledge of weather helps fishermen because:", "options": ["Storm warnings tell them when it is unsafe to go to sea", "It has no use for them", "It stops all fishing", "It causes storms"], "correct_index": 0, "solution": "Knowledge of the WEATHER helps FISHERMEN because STORM WARNINGS tell them when it is UNSAFE to go to SEA, protecting their lives. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The best summary of this chapter is that:", "options": ["Weather is measurable, changeable and important to understand and forecast", "Weather cannot be understood", "Weather never matters", "Weather is always the same"], "correct_index": 0, "solution": "The best SUMMARY is that WEATHER is MEASURABLE (with instruments), CHANGEABLE (day to day), and IMPORTANT to UNDERSTAND and FORECAST for our safety and planning. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Understanding the Weather' is that:", "options": ["The weather cannot be studied", "WEATHER is the SHORT-TERM, day-to-day state of the ATMOSPHERE at a place, described by its ELEMENTS — TEMPERATURE, air PRESSURE, HUMIDITY, WIND, and PRECIPITATION — each measured by a special instrument (thermometer, barometer, hygrometer, anemometer/wind vane and rain gauge); the scientific study of weather (METEOROLOGY) uses weather stations, satellites, radar and computers to make FORECASTS that help people prepare for storms, plan farming, travel and daily life; weather differs from place to place and changes constantly, and is distinct from CLIMATE, which is the average weather over a long period", "Weather has no elements", "Weather never changes"], "correct_index": 1, "solution": "The chapter's overall message is that WEATHER is the SHORT-TERM, DAY-to-DAY state of the ATMOSPHERE at a place, described by its ELEMENTS — TEMPERATURE (thermometer), air PRESSURE (barometer), HUMIDITY (hygrometer), WIND (anemometer for speed, wind vane for direction), and PRECIPITATION/rainfall (rain gauge). The SCIENTIFIC STUDY of weather, METEOROLOGY, uses WEATHER STATIONS, SATELLITES, RADAR, and COMPUTERS to make FORECASTS that help people PREPARE for STORMS (warnings), PLAN FARMING, TRAVEL, and daily life. Weather DIFFERS from place to place (due to location, altitude, and distance from the sea) and CHANGES CONSTANTLY, and it is DISTINCT from CLIMATE, which is the AVERAGE weather over a LONG PERIOD (about 30 years). So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "Which of the following is an element of weather?",
+    "options": [
+      "Temperature",
+      "Population",
+      "Language",
+      "Soil type"
+    ],
+    "correct_index": 0,
+    "solution": "The main elements of weather are temperature, atmospheric pressure, humidity, wind and precipitation.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The instrument used to measure temperature is the:",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Rain gauge",
+      "Anemometer"
+    ],
+    "correct_index": 1,
+    "solution": "A thermometer measures temperature; a barometer measures air pressure.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Atmospheric pressure is measured using a:",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Wind vane",
+      "Rain gauge"
+    ],
+    "correct_index": 1,
+    "solution": "A barometer is the instrument used to measure atmospheric (air) pressure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The amount of rainfall received at a place is measured with a:",
+    "options": [
+      "Rain gauge",
+      "Anemometer",
+      "Thermometer",
+      "Barometer"
+    ],
+    "correct_index": 0,
+    "solution": "A rain gauge measures the amount of rainfall over a given period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument used to measure wind speed is the:",
+    "options": [
+      "Wind vane",
+      "Anemometer",
+      "Barometer",
+      "Hygrometer"
+    ],
+    "correct_index": 1,
+    "solution": "An anemometer measures wind speed; a wind vane shows wind direction.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The direction from which the wind is blowing is shown by a:",
+    "options": [
+      "Wind vane",
+      "Rain gauge",
+      "Thermometer",
+      "Barometer"
+    ],
+    "correct_index": 0,
+    "solution": "A wind vane (weather vane) indicates the direction from which the wind is coming.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Weather is best described as the condition of the atmosphere over a:",
+    "options": [
+      "Short period (day to day)",
+      "Period of at least 30 years",
+      "Century",
+      "Single decade only"
+    ],
+    "correct_index": 0,
+    "solution": "Weather is the short-term, day-to-day state of the atmosphere, unlike climate which is the long-term average.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The amount of water vapour in the air, an element of weather, is called:",
+    "options": [
+      "Pressure",
+      "Humidity",
+      "Temperature",
+      "Velocity"
+    ],
+    "correct_index": 1,
+    "solution": "Humidity is the measure of moisture (water vapour) present in the atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main elements of weather are temperature, pressure, humidity, wind and:",
+    "options": [
+      "Precipitation (rainfall)",
+      "Population",
+      "Language",
+      "Roads"
+    ],
+    "correct_index": 0,
+    "solution": "The MAIN ELEMENTS of WEATHER are TEMPERATURE, air PRESSURE, HUMIDITY, WIND, and PRECIPITATION (rainfall). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument used to measure humidity is the:",
+    "options": [
+      "Hygrometer",
+      "Barometer",
+      "Rain gauge",
+      "Wind vane"
+    ],
+    "correct_index": 0,
+    "solution": "The instrument used to measure HUMIDITY (moisture in the air) is the HYGROMETER. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Consider the pairs: 1. Thermometer — temperature 2. Barometer — pressure 3. Anemometer — wind speed 4. Rain gauge — rainfall. How many are correctly matched?",
+    "options": [
+      "All four",
+      "Only two",
+      "Only three",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL FOUR are correct: THERMOMETER → TEMPERATURE; BAROMETER → PRESSURE; ANEMOMETER → WIND SPEED; RAIN GAUGE → RAINFALL. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Temperature is the measure of:",
+    "options": [
+      "How hot or cold the air is",
+      "The amount of rain",
+      "The speed of wind",
+      "The moisture in the air"
+    ],
+    "correct_index": 0,
+    "solution": "TEMPERATURE is the measure of HOW HOT or COLD the AIR (or a place) is, usually measured in degrees Celsius. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Weather affects our daily lives by influencing:",
+    "options": [
+      "What we wear, our activities, farming and travel",
+      "Nothing",
+      "Only the night sky",
+      "Only our names"
+    ],
+    "correct_index": 0,
+    "solution": "WEATHER affects our DAILY LIVES by influencing WHAT we WEAR, our ACTIVITIES, FARMING, and TRAVEL — so people check the weather forecast. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A weather forecast is:",
+    "options": [
+      "A prediction of what the weather will be like in the near future",
+      "A record of the past only",
+      "A type of rain",
+      "A kind of wind"
+    ],
+    "correct_index": 0,
+    "solution": "A WEATHER FORECAST is a PREDICTION of what the WEATHER will be like in the NEAR FUTURE, based on observations and scientific analysis. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Weather forecasts are useful because they help people to:",
+    "options": [
+      "Prepare for storms, plan farming and daily activities",
+      "Do nothing",
+      "Ignore the weather",
+      "Cause rain"
+    ],
+    "correct_index": 0,
+    "solution": "WEATHER FORECASTS are useful because they help people PREPARE for STORMS (warnings), PLAN FARMING (sowing, harvesting), and organise DAILY ACTIVITIES and travel. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The daily changes we notice — sunny, cloudy, rainy, windy — are all part of:",
+    "options": [
+      "The weather",
+      "The climate over 30 years",
+      "The rock cycle",
+      "Plate movement"
+    ],
+    "correct_index": 0,
+    "solution": "The DAILY CHANGES we notice — SUNNY, CLOUDY, RAINY, WINDY — are all part of the WEATHER, the short-term state of the atmosphere. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Weather data is collected at special stations called:",
+    "options": [
+      "Weather (meteorological) stations",
+      "Petrol stations",
+      "Bus stations",
+      "Fire stations"
+    ],
+    "correct_index": 0,
+    "solution": "WEATHER DATA is collected at special stations called WEATHER (METEOROLOGICAL) STATIONS, using instruments to record temperature, pressure, rainfall, and wind. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scientific study of the weather and atmosphere is called:",
+    "options": [
+      "Meteorology",
+      "Geology",
+      "Biology",
+      "Astronomy"
+    ],
+    "correct_index": 0,
+    "solution": "The SCIENTIFIC STUDY of the WEATHER and ATMOSPHERE is called METEOROLOGY, and a scientist who studies it is a meteorologist. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Modern weather forecasting uses tools such as:",
+    "options": [
+      "Satellites, radar and computers",
+      "Only guessing",
+      "Only old books",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "MODERN WEATHER FORECASTING uses tools such as SATELLITES (viewing clouds from space), RADAR (tracking rain), and COMPUTERS (running weather models) to predict the weather. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Weather changes from day to day. Reason (R): The elements of weather — temperature, pressure, humidity, wind and rain — are always changing. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — weather changes from day to day. R is TRUE and correctly EXPLAINS A: the ELEMENTS of weather (temperature, pressure, humidity, wind, rain) are ALWAYS CHANGING, which is exactly why the weather changes. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "High temperature and high humidity together make the weather feel:",
+    "options": [
+      "Hot and uncomfortable (muggy)",
+      "Cold and dry",
+      "Pleasant always",
+      "Freezing"
+    ],
+    "correct_index": 0,
+    "solution": "HIGH TEMPERATURE and HIGH HUMIDITY together make the weather feel HOT and UNCOMFORTABLE (MUGGY), because sweat evaporates slowly in the moist air. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an example of a weather warning that saves lives?",
+    "options": [
+      "A cyclone or storm warning",
+      "A holiday notice",
+      "A cricket score",
+      "A film review"
+    ],
+    "correct_index": 0,
+    "solution": "A CYCLONE or STORM WARNING is an example of a weather warning that SAVES LIVES, giving people time to move to safety before a dangerous storm arrives. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperature of a place is usually measured in:",
+    "options": [
+      "Degrees Celsius (°C)",
+      "Litres",
+      "Kilograms",
+      "Metres"
+    ],
+    "correct_index": 0,
+    "solution": "The TEMPERATURE of a place is usually measured in DEGREES CELSIUS (°C) — the common unit for weather temperature. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Wind is caused by:",
+    "options": [
+      "Differences in air pressure due to uneven heating",
+      "The Moon only",
+      "Nothing",
+      "Rocks moving"
+    ],
+    "correct_index": 0,
+    "solution": "WIND is caused by DIFFERENCES in AIR PRESSURE due to the UNEVEN HEATING of the Earth — air flows from high to low pressure. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs a weather instrument with what it measures?",
+    "options": [
+      "Thermometer → temperature; Hygrometer → humidity; Anemometer → wind speed",
+      "Thermometer → rainfall; Hygrometer → wind; Anemometer → temperature",
+      "All measure the same thing",
+      "None measure anything"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: THERMOMETER → TEMPERATURE; HYGROMETER → HUMIDITY; ANEMOMETER → WIND SPEED. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Clouds form part of the weather because they:",
+    "options": [
+      "Indicate moisture in the air and can bring rain",
+      "Have no effect",
+      "Are always dry",
+      "Never bring rain"
+    ],
+    "correct_index": 0,
+    "solution": "CLOUDS form part of the weather because they INDICATE MOISTURE in the AIR and can BRING RAIN when the water droplets in them grow heavy. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Farmers depend on weather information especially for:",
+    "options": [
+      "Deciding when to sow, irrigate and harvest crops",
+      "Nothing",
+      "Only entertainment",
+      "Building roads"
+    ],
+    "correct_index": 0,
+    "solution": "FARMERS depend on WEATHER INFORMATION especially for DECIDING WHEN to SOW, IRRIGATE, and HARVEST crops — timing that depends on rain and temperature. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A sudden drop in air pressure often indicates:",
+    "options": [
+      "The approach of a storm or bad weather",
+      "Clear sunny skies",
+      "No change",
+      "A holiday"
+    ],
+    "correct_index": 0,
+    "solution": "A SUDDEN DROP in AIR PRESSURE often INDICATES the APPROACH of a STORM or BAD WEATHER — which is why barometers help in forecasting. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following statements about weather is correct?",
+    "options": [
+      "Weather is the short-term, changing state of the atmosphere at a place",
+      "Weather never changes",
+      "Weather is the same everywhere",
+      "Weather is measured over 100 years"
+    ],
+    "correct_index": 0,
+    "solution": "It is correct that WEATHER is the SHORT-TERM, CHANGING STATE of the ATMOSPHERE at a place — differing from day to day and place to place. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The difference between weather and climate is that weather is short-term, while climate is:",
+    "options": [
+      "The average weather of a place over a long period (about 30 years)",
+      "The weather of one day",
+      "The same as weather",
+      "Only about wind"
+    ],
+    "correct_index": 0,
+    "solution": "WEATHER is SHORT-TERM (day-to-day), while CLIMATE is the AVERAGE weather of a place over a LONG PERIOD (usually about 30 years). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is understanding the weather important for aviation (aeroplanes)?",
+    "options": [
+      "Pilots need weather information for safe flying (avoiding storms)",
+      "It has no use in aviation",
+      "Aeroplanes ignore weather",
+      "Weather stops all flights always"
+    ],
+    "correct_index": 0,
+    "solution": "Understanding the WEATHER is important for AVIATION because PILOTS need weather INFORMATION for SAFE FLYING — avoiding STORMS, fog, and dangerous winds. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rising of warm, moist air, its cooling and condensation, leads to:",
+    "options": [
+      "The formation of clouds and rain",
+      "Clear skies always",
+      "No change in weather",
+      "The Sun going down"
+    ],
+    "correct_index": 0,
+    "solution": "The RISING of WARM, MOIST AIR, its COOLING and CONDENSATION, leads to the FORMATION of CLOUDS and RAIN — a key weather process. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is measured to describe the weather of a place?",
+    "options": [
+      "Temperature, rainfall, humidity, wind and pressure",
+      "Only the population",
+      "Only the language",
+      "Only the soil"
+    ],
+    "correct_index": 0,
+    "solution": "To DESCRIBE the WEATHER of a place, we MEASURE TEMPERATURE, RAINFALL, HUMIDITY, WIND, and PRESSURE — the elements of weather. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The reason weather differs from place to place is mainly due to differences in:",
+    "options": [
+      "Location, altitude, distance from the sea and other factors",
+      "The colour of houses",
+      "The number of people",
+      "The names of places"
+    ],
+    "correct_index": 0,
+    "solution": "WEATHER differs from place to place mainly due to differences in LOCATION (latitude), ALTITUDE (height), DISTANCE from the SEA, and other geographic factors. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The India Meteorological Department (IMD) is responsible for:",
+    "options": [
+      "Observing and forecasting weather in India",
+      "Building roads",
+      "Running schools",
+      "Mining coal"
+    ],
+    "correct_index": 0,
+    "solution": "The INDIA METEOROLOGICAL DEPARTMENT (IMD) is responsible for OBSERVING and FORECASTING WEATHER in India, and issuing warnings about storms and cyclones. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is TRUE about weather instruments?",
+    "options": [
+      "Each measures a specific element of the weather",
+      "They all measure the same thing",
+      "They measure nothing",
+      "They are decorations only"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that EACH WEATHER INSTRUMENT MEASURES a SPECIFIC ELEMENT of the weather (thermometer → temperature, rain gauge → rainfall, etc.). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Studying the weather helps people to:",
+    "options": [
+      "Understand, predict and prepare for atmospheric changes",
+      "Ignore the sky",
+      "Waste time",
+      "Do nothing useful"
+    ],
+    "correct_index": 0,
+    "solution": "Studying the WEATHER helps people UNDERSTAND, PREDICT, and PREPARE for ATMOSPHERIC CHANGES — protecting lives, crops, and activities. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During the day, the land heats up faster than the sea, causing a:",
+    "options": [
+      "Sea breeze (cool air blowing from sea to land)",
+      "Land breeze",
+      "No wind",
+      "A storm always"
+    ],
+    "correct_index": 0,
+    "solution": "During the DAY, the LAND HEATS UP faster than the sea; the warm air over land rises and COOL AIR blows from the SEA to the LAND — a SEA BREEZE. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "At night, the land cools faster than the sea, causing a:",
+    "options": [
+      "Land breeze (air blowing from land to sea)",
+      "Sea breeze",
+      "No wind",
+      "Heavy snow"
+    ],
+    "correct_index": 0,
+    "solution": "At NIGHT, the LAND COOLS faster than the sea; air then blows from the LAND to the SEA — a LAND BREEZE. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Dew forms when:",
+    "options": [
+      "Water vapour condenses on cool surfaces at night",
+      "It rains heavily",
+      "The wind blows",
+      "The Sun shines strongly"
+    ],
+    "correct_index": 0,
+    "solution": "DEW forms when WATER VAPOUR in the air CONDENSES on COOL SURFACES (like grass and leaves) at NIGHT, when temperatures drop. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fog is essentially:",
+    "options": [
+      "A cloud that forms close to the ground, reducing visibility",
+      "Heavy rain",
+      "Strong wind",
+      "Bright sunshine"
+    ],
+    "correct_index": 0,
+    "solution": "FOG is essentially a CLOUD that forms CLOSE to the GROUND (from condensed water vapour), REDUCING VISIBILITY — common on cold mornings. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a form of precipitation?",
+    "options": [
+      "Rain, snow, sleet or hail",
+      "Wind",
+      "Sunshine",
+      "Fog"
+    ],
+    "correct_index": 0,
+    "solution": "Forms of PRECIPITATION include RAIN, SNOW, SLEET, and HAIL — water falling from clouds to the ground. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A cyclone is a weather system marked by:",
+    "options": [
+      "Strong winds spiralling around a low-pressure centre, often with heavy rain",
+      "Clear calm skies",
+      "No wind",
+      "Only sunshine"
+    ],
+    "correct_index": 0,
+    "solution": "A CYCLONE is a weather system marked by STRONG WINDS SPIRALLING around a LOW-PRESSURE CENTRE, often bringing HEAVY RAIN and destruction to coastal areas. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Weather symbols on a map help by:",
+    "options": [
+      "Showing at a glance the expected weather (sun, clouds, rain) for different places",
+      "Confusing people",
+      "Showing nothing",
+      "Only decorating the map"
+    ],
+    "correct_index": 0,
+    "solution": "WEATHER SYMBOLS on a map help by SHOWING at a GLANCE the EXPECTED WEATHER (sun, clouds, rain, wind) for DIFFERENT PLACES in a simple, visual way. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following would raise the temperature of a place?",
+    "options": [
+      "Strong sunshine and clear skies",
+      "Heavy cloud cover at night",
+      "Snowfall",
+      "Cold winds"
+    ],
+    "correct_index": 0,
+    "solution": "STRONG SUNSHINE and CLEAR SKIES would RAISE the TEMPERATURE of a place, as the Sun heats the ground directly. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The recording of weather over many days helps to:",
+    "options": [
+      "Identify patterns and understand a place's climate",
+      "Waste time",
+      "Predict lottery numbers",
+      "Do nothing"
+    ],
+    "correct_index": 0,
+    "solution": "RECORDING WEATHER over MANY DAYS helps IDENTIFY PATTERNS and UNDERSTAND a place's CLIMATE (its average, long-term weather). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why do mountain tops have colder weather than the plains below?",
+    "options": [
+      "Temperature decreases with height (altitude)",
+      "The Sun avoids mountains",
+      "Mountains have no air",
+      "Plains are always cold"
+    ],
+    "correct_index": 0,
+    "solution": "MOUNTAIN TOPS have COLDER weather than the plains because TEMPERATURE DECREASES with HEIGHT (ALTITUDE) — the air gets thinner and cooler higher up. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The knowledge of weather helps fishermen because:",
+    "options": [
+      "Storm warnings tell them when it is unsafe to go to sea",
+      "It has no use for them",
+      "It stops all fishing",
+      "It causes storms"
+    ],
+    "correct_index": 0,
+    "solution": "Knowledge of the WEATHER helps FISHERMEN because STORM WARNINGS tell them when it is UNSAFE to go to SEA, protecting their lives. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The best summary of this chapter is that:",
+    "options": [
+      "Weather is measurable, changeable and important to understand and forecast",
+      "Weather cannot be understood",
+      "Weather never matters",
+      "Weather is always the same"
+    ],
+    "correct_index": 0,
+    "solution": "The best SUMMARY is that WEATHER is MEASURABLE (with instruments), CHANGEABLE (day to day), and IMPORTANT to UNDERSTAND and FORECAST for our safety and planning. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Understanding the Weather' is that:",
+    "options": [
+      "The weather cannot be studied",
+      "WEATHER is the SHORT-TERM, day-to-day state of the ATMOSPHERE at a place, described by its ELEMENTS — TEMPERATURE, air PRESSURE, HUMIDITY, WIND, and PRECIPITATION — each measured by a special instrument (thermometer, barometer, hygrometer, anemometer/wind vane and rain gauge); the scientific study of weather (METEOROLOGY) uses weather stations, satellites, radar and computers to make FORECASTS that help people prepare for storms, plan farming, travel and daily life; weather differs from place to place and changes constantly, and is distinct from CLIMATE, which is the average weather over a long period",
+      "Weather has no elements",
+      "Weather never changes"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that WEATHER is the SHORT-TERM, DAY-to-DAY state of the ATMOSPHERE at a place, described by its ELEMENTS — TEMPERATURE (thermometer), air PRESSURE (barometer), HUMIDITY (hygrometer), WIND (anemometer for speed, wind vane for direction), and PRECIPITATION/rainfall (rain gauge). The SCIENTIFIC STUDY of weather, METEOROLOGY, uses WEATHER STATIONS, SATELLITES, RADAR, and COMPUTERS to make FORECASTS that help people PREPARE for STORMS (warnings), PLAN FARMING, TRAVEL, and daily life. Weather DIFFERS from place to place (due to location, altitude, and distance from the sea) and CHANGES CONSTANTLY, and it is DISTINCT from CLIMATE, which is the AVERAGE weather over a LONG PERIOD (about 30 years). So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Weather' refers to the state of the atmosphere at a place over a:",
+    "options": [
+      "Long period (30 years)",
+      "Short period (day-to-day)",
+      "Century",
+      "Decade"
+    ],
+    "correct_index": 1,
+    "solution": "Weather is the day-to-day (short-term) condition of the atmosphere at a place — its temperature, humidity, rainfall, wind and cloudiness.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The main elements of weather include temperature, humidity, air pressure, wind and:",
+    "options": [
+      "Vegetation",
+      "Precipitation (rainfall)",
+      "Soil",
+      "Rocks"
+    ],
+    "correct_index": 1,
+    "solution": "The key elements of weather are temperature, atmospheric pressure, wind, humidity and precipitation (rainfall), which together describe the atmospheric condition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The degree of hotness or coldness of the air is measured by:",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Rain gauge",
+      "Anemometer"
+    ],
+    "correct_index": 1,
+    "solution": "Temperature (the degree of hotness or coldness) is measured with a thermometer, usually in degrees Celsius (°C).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The instrument used to measure the amount of rainfall is a:",
+    "options": [
+      "Thermometer",
+      "Rain gauge",
+      "Anemometer",
+      "Barometer"
+    ],
+    "correct_index": 1,
+    "solution": "A rain gauge measures the amount of rainfall received at a place, usually in millimetres.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Air (atmospheric) pressure is measured with a:",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Rain gauge",
+      "Wind vane"
+    ],
+    "correct_index": 1,
+    "solution": "A barometer measures atmospheric pressure; a falling barometer often indicates approaching bad weather.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wind speed is measured with an:",
+    "options": [
+      "Anemometer",
+      "Thermometer",
+      "Barometer",
+      "Rain gauge"
+    ],
+    "correct_index": 0,
+    "solution": "An anemometer measures wind speed; a wind vane (weather vane) shows the direction from which the wind is blowing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The direction of the wind is shown by a:",
+    "options": [
+      "Rain gauge",
+      "Wind vane",
+      "Thermometer",
+      "Barometer"
+    ],
+    "correct_index": 1,
+    "solution": "A wind vane (weather vane) indicates the direction from which the wind is blowing; winds are named after the direction they come from.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The daily weather report and forecast in India is provided by the:",
+    "options": [
+      "ISRO",
+      "India Meteorological Department (IMD)",
+      "RBI",
+      "CPCB"
+    ],
+    "correct_index": 1,
+    "solution": "The India Meteorological Department (IMD) records weather data and issues weather forecasts and warnings (e.g. for cyclones and heatwaves) for the country.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The amount of water vapour in the air is called:",
+    "options": [
+      "Temperature",
+      "Humidity",
+      "Pressure",
+      "Wind"
+    ],
+    "correct_index": 1,
+    "solution": "Humidity is the amount of water vapour present in the air; high humidity makes the air feel sultry and can lead to rainfall.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Weather forecasting is useful because it helps:",
+    "options": [
+      "No one",
+      "Farmers, fishermen, travellers and disaster management to plan and stay safe",
+      "Only scientists",
+      "Only in cities"
+    ],
+    "correct_index": 1,
+    "solution": "Weather forecasts help farmers plan sowing and harvesting, warn fishermen and travellers, and enable disaster management (e.g. cyclone warnings), protecting lives and property.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Clouds are formed when water vapour in the air:",
+    "options": [
+      "Disappears",
+      "Rises, cools and condenses into tiny droplets",
+      "Freezes on the ground",
+      "Turns into soil"
+    ],
+    "correct_index": 1,
+    "solution": "Clouds form when water vapour rises, cools at higher altitudes, and condenses into tiny water droplets or ice crystals around dust particles.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Temperature during the day usually is highest in the:",
+    "options": [
+      "Early morning",
+      "Afternoon",
+      "Midnight",
+      "Just before sunrise"
+    ],
+    "correct_index": 1,
+    "solution": "Temperature usually rises through the morning and is highest in the early afternoon (after the Sun has heated the surface), then falls towards evening and night.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Modern weather forecasting uses data collected by:",
+    "options": [
+      "Only humans looking at the sky",
+      "Weather stations, balloons, satellites and radar",
+      "Only newspapers",
+      "Only phones"
+    ],
+    "correct_index": 1,
+    "solution": "Modern forecasting relies on data from ground weather stations, weather balloons, satellites and radar, analysed by computers to predict future weather.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Weather satellites help by:",
+    "options": [
+      "Growing crops",
+      "Providing images and data of clouds, storms and atmospheric conditions from space",
+      "Building roads",
+      "Measuring soil"
+    ],
+    "correct_index": 1,
+    "solution": "Weather satellites provide images and data of cloud cover, storms, cyclones and atmospheric conditions from space, greatly improving the accuracy of forecasts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When the sky is covered with thick dark clouds, it usually indicates:",
+    "options": [
+      "Clear weather",
+      "Likely rain",
+      "Snow only",
+      "Drought"
+    ],
+    "correct_index": 1,
+    "solution": "Thick, dark clouds (cumulonimbus/nimbus clouds) usually indicate that rainfall is likely, as they contain a large amount of condensed water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperature difference between the maximum and minimum in a day is called the diurnal:",
+    "options": [
+      "Range of temperature",
+      "Pressure",
+      "Humidity",
+      "Rainfall"
+    ],
+    "correct_index": 0,
+    "solution": "The diurnal range of temperature is the difference between the maximum (day) and minimum (night) temperatures recorded in a day; it is large in deserts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Why does weather change from day to day?",
+    "options": [
+      "It never changes",
+      "Because atmospheric conditions (temperature, pressure, humidity, wind) keep changing",
+      "Because of the calendar",
+      "Because of vegetation only"
+    ],
+    "correct_index": 1,
+    "solution": "Weather changes from day to day because the atmospheric elements — temperature, pressure, humidity, wind and cloud cover — are constantly changing due to the movement of air masses and other factors.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'heat wave', an extreme weather condition, is a period of:",
+    "options": [
+      "Very low temperatures",
+      "Abnormally high temperatures",
+      "Heavy rainfall",
+      "Strong winds only"
+    ],
+    "correct_index": 1,
+    "solution": "A heat wave is a period of abnormally high temperatures, which can be dangerous to health; the IMD issues heat-wave warnings in summer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'cyclone', a severe weather system, is characterised by:",
+    "options": [
+      "Clear skies",
+      "Strong winds circling a low-pressure centre, with heavy rain",
+      "No wind",
+      "Dry weather"
+    ],
+    "correct_index": 1,
+    "solution": "A cyclone is a system of strong winds spiralling around a centre of low pressure, bringing heavy rain and, in severe cases, storm surges along coasts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Understanding the weather is important for ______, which depends heavily on rainfall.",
+    "options": [
+      "banking",
+      "agriculture",
+      "mining",
+      "publishing"
+    ],
+    "correct_index": 1,
+    "solution": "Agriculture depends heavily on weather, especially rainfall and temperature, so understanding and forecasting the weather is vital for farmers to plan their activities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about weather is correct? (i) It is the short-term state of the atmosphere (ii) Its elements include temperature and rainfall (iii) It is forecast by the IMD",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: weather is the short-term atmospheric state, its elements include temperature, humidity, pressure, wind and rainfall, and in India it is forecast by the IMD.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sun is the main source of ______, which drives weather changes.",
+    "options": [
+      "water",
+      "heat/energy",
+      "minerals",
+      "soil"
+    ],
+    "correct_index": 1,
+    "solution": "The Sun is the main source of heat and energy for the Earth; the uneven heating of the atmosphere and surface drives the changes in weather.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which weather instrument would a farmer find most useful to know how much water crops received?",
+    "options": [
+      "Anemometer",
+      "Rain gauge",
+      "Barometer",
+      "Wind vane"
+    ],
+    "correct_index": 1,
+    "solution": "A rain gauge, which measures rainfall, would help a farmer know how much water the crops have received from rain, aiding irrigation decisions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The knowledge of weather helps in disaster preparedness by:",
+    "options": [
+      "Ignoring warnings",
+      "Giving advance warnings of cyclones, floods and heat waves to save lives",
+      "Causing disasters",
+      "Doing nothing"
+    ],
+    "correct_index": 1,
+    "solution": "Weather forecasting provides advance warnings of extreme events like cyclones, floods and heat waves, enabling authorities and people to prepare and reduce loss of life and property.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall reason for studying and forecasting the weather is to:",
+    "options": [
+      "Waste time",
+      "Plan daily activities, protect agriculture and lives, and prepare for extreme events",
+      "Change the seasons",
+      "Control the Sun"
+    ],
+    "correct_index": 1,
+    "solution": "Studying and forecasting weather helps people plan daily activities, protects agriculture, aviation and shipping, and enables preparation for extreme weather events — safeguarding lives and livelihoods.",
+    "difficulty": "medium"
+  }
 ]

@@ -1,52 +1,950 @@
 [
-  { "stem": "Forces that originate in the interior of the Earth are called:", "options": ["Exogenic forces", "Endogenic forces", "Gravitational forces", "Tidal forces"], "correct_index": 1, "solution": "Endogenic forces act from within the Earth (e.g. those causing earthquakes and volcanoes); exogenic forces act on the surface (e.g. erosion).", "difficulty": "medium" },
-  { "stem": "The point inside the Earth where an earthquake originates is called the:", "options": ["Epicentre", "Focus (hypocentre)", "Fault", "Crater"], "correct_index": 1, "solution": "The focus (hypocentre) is the point of origin of an earthquake below the surface; the point directly above it on the surface is the epicentre.", "difficulty": "medium" },
-  { "stem": "The point on the Earth's surface directly above the origin of an earthquake is the:", "options": ["Focus", "Epicentre", "Fault line", "Vent"], "correct_index": 1, "solution": "The epicentre is the point on the surface immediately above the focus; it usually experiences the strongest shaking.", "difficulty": "medium" },
-  { "stem": "The instrument used to record earthquake waves is the:", "options": ["Barometer", "Seismograph", "Thermometer", "Anemometer"], "correct_index": 1, "solution": "A seismograph records the vibrations (seismic waves) produced by an earthquake.", "difficulty": "medium" },
-  { "stem": "A curved bend formed by a river in its plain course is called a:", "options": ["Delta", "Meander", "Beach", "Moraine"], "correct_index": 1, "solution": "A meander is a large bend in a river; when cut off, it can form an ox-bow lake.", "difficulty": "medium" },
-  { "stem": "The landform made of sediment deposited by a river as it enters the sea is a:", "options": ["Ox-bow lake", "Delta", "Sand dune", "Beach"], "correct_index": 1, "solution": "A delta is a triangular deposit of sediment formed at the mouth of a river where it meets the sea.", "difficulty": "medium" },
-  { "stem": "Rock material carried and deposited by a glacier is known as:", "options": ["Loess", "Moraine", "Alluvium", "Sand dune"], "correct_index": 1, "solution": "Moraines are deposits of rock and debris carried and left behind by glaciers.", "difficulty": "hard" },
-  { "stem": "The mushroom-shaped rocks found in deserts are formed mainly by the erosive action of:", "options": ["Rivers", "Wind", "Glaciers", "Sea waves"], "correct_index": 1, "solution": "In deserts, wind erosion wears away the softer lower part of rocks faster, producing mushroom rocks.", "difficulty": "medium" },
-  { "stem": "Fine, fertile soil deposited by wind, forming thick deposits, is called:", "options": ["Loess", "Moraine", "Delta", "Beach"], "correct_index": 0, "solution": "Loess consists of very fine wind-blown deposits of silt, forming fertile soils (e.g. in northern China).", "difficulty": "hard" },
-  { "stem": "Coastal landforms such as sea caves, sea arches and stacks are produced by the erosion caused by:", "options": ["Rivers", "Sea waves", "Wind", "Ice"], "correct_index": 1, "solution": "The erosional force of sea waves creates coastal features like sea caves, arches, stacks and cliffs.", "difficulty": "medium" },
-  { "stem": "Exogenic forces are those that act on the Earth's surface and include:", "options": ["Erosion and deposition by rivers, wind, glaciers and waves", "Earthquakes only", "Volcanoes only", "Nothing"], "correct_index": 0, "solution": "EXOGENIC forces act on the Earth's SURFACE and include EROSION and DEPOSITION by RIVERS, WIND, GLACIERS, and WAVES — slowly reshaping the land. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Endogenic forces are those that operate inside the Earth and cause:", "options": ["Sudden movements like earthquakes and volcanoes, and slow movements building mountains", "Only rainfall", "Only erosion", "Nothing"], "correct_index": 0, "solution": "ENDOGENIC forces operate INSIDE the Earth and cause SUDDEN movements (EARTHQUAKES, VOLCANOES) and SLOW movements (like the building of MOUNTAINS by plate movement). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Earth's outer shell is broken into large pieces called:", "options": ["Lithospheric (tectonic) plates", "Continents only", "Oceans only", "Craters"], "correct_index": 0, "solution": "The Earth's outer shell (lithosphere) is broken into large pieces called LITHOSPHERIC (TECTONIC) PLATES, which move slowly and cause earthquakes, volcanoes, and mountain-building. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Earthquakes and volcanoes occur most often at the:", "options": ["Boundaries where tectonic plates meet", "Centre of the oceans only", "Poles only", "Deserts only"], "correct_index": 0, "solution": "EARTHQUAKES and VOLCANOES occur most often at the BOUNDARIES where TECTONIC PLATES MEET, because the movement and pressure of plates is greatest there. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The strength of an earthquake is measured on the:", "options": ["Richter scale", "Celsius scale", "Beaufort scale", "pH scale"], "correct_index": 0, "solution": "The STRENGTH (magnitude) of an EARTHQUAKE is measured on the RICHTER SCALE — the higher the number, the stronger the quake. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A volcano is a vent in the Earth's crust through which:", "options": ["Molten lava, gases and ash erupt onto the surface", "Only water flows", "Only air escapes", "Nothing happens"], "correct_index": 0, "solution": "A VOLCANO is a VENT in the Earth's crust through which MOLTEN LAVA, GASES, and ASH ERUPT onto the SURFACE from the interior. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The three main agents of erosion and deposition that shape the land are rivers, wind and:", "options": ["Glaciers (ice) and sea waves", "The Sun", "Clouds", "Coins"], "correct_index": 0, "solution": "The main AGENTS of EROSION and DEPOSITION are RIVERS, WIND, GLACIERS (ice), and SEA WAVES — each shaping distinctive landforms. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In its upper (mountain) course, a river mainly does the work of:", "options": ["Erosion, cutting deep V-shaped valleys and gorges", "Only deposition", "Nothing", "Only flooding"], "correct_index": 0, "solution": "In its UPPER (mountain) course, a river flows swiftly and mainly does the work of EROSION, cutting deep V-SHAPED VALLEYS, GORGES, and forming waterfalls. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A waterfall is formed when a river:", "options": ["Falls from a great height, often over hard rock", "Flows on flat land", "Stops flowing", "Turns into a lake"], "correct_index": 0, "solution": "A WATERFALL is formed when a RIVER FALLS from a GREAT HEIGHT, often where it flows over a band of HARD ROCK onto softer rock below. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "An ox-bow lake is formed when:", "options": ["A meander (river bend) is cut off from the main river", "A glacier melts", "The wind blows sand", "The sea rises"], "correct_index": 0, "solution": "An OX-BOW LAKE is formed when a large MEANDER (river bend) is CUT OFF from the main river, leaving a curved lake behind. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. River → delta and meanders 2. Wind → mushroom rocks and sand dunes 3. Glacier → moraines. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: RIVER → DELTAS and MEANDERS; WIND → MUSHROOM ROCKS and SAND DUNES; GLACIER → MORAINES. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Sand dunes are hills of sand formed by the deposition action of:", "options": ["Wind (in deserts)", "Rivers", "Glaciers", "Sea waves"], "correct_index": 0, "solution": "SAND DUNES are hills of sand formed by the DEPOSITION action of WIND, especially in DESERTS where sand is plentiful and dry. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In its lower course (plains and mouth), a river mainly does the work of:", "options": ["Deposition, forming flood plains and deltas", "Only erosion", "Nothing", "Only cutting gorges"], "correct_index": 0, "solution": "In its LOWER course (plains and mouth), a river flows slowly and mainly does the work of DEPOSITION, forming FLOOD PLAINS, meanders, and DELTAS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The fertile plains built up by rivers depositing silt are called:", "options": ["Flood plains (alluvial plains)", "Deserts", "Glaciers", "Plateaus"], "correct_index": 0, "solution": "The fertile plains built up by RIVERS DEPOSITING SILT (alluvium) are called FLOOD PLAINS or ALLUVIAL PLAINS — among the most productive farmland. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Earthquakes and volcanoes are common along plate boundaries. Reason (R): The movement and collision of tectonic plates release energy and molten rock there. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — earthquakes and volcanoes are common along plate boundaries. R is TRUE and correctly EXPLAINS A: the MOVEMENT and COLLISION of TECTONIC PLATES RELEASE ENERGY and MOLTEN ROCK there — the very cause of these events. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The landforms of the Earth are the result of two opposing sets of forces:", "options": ["Endogenic (building up) and exogenic (wearing down)", "Only wind and rain", "Only the Sun and Moon", "Nothing"], "correct_index": 0, "solution": "The LANDFORMS of the Earth result from TWO OPPOSING sets of forces: ENDOGENIC forces (BUILDING UP land, e.g., mountains, volcanoes) and EXOGENIC forces (WEARING DOWN land, e.g., erosion). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A gorge is a:", "options": ["Deep, narrow valley with steep sides, cut by a river", "A wide flat plain", "A sand hill", "A lake"], "correct_index": 0, "solution": "A GORGE is a DEEP, NARROW VALLEY with STEEP SIDES, cut by a RIVER (usually in its mountainous upper course). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Glaciers shape the land by:", "options": ["Eroding valleys into U-shapes and depositing moraines as they move and melt", "Doing nothing", "Only flooding", "Only blowing sand"], "correct_index": 0, "solution": "GLACIERS shape the land by ERODING valleys into U-SHAPES (unlike rivers' V-shapes) and DEPOSITING MORAINES (rock debris) as they move and melt. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The changing of the Earth's surface is a process that happens:", "options": ["Continuously, but usually very slowly over long periods", "Only once", "Overnight everywhere", "Never"], "correct_index": 0, "solution": "The CHANGING of the Earth's surface happens CONTINUOUSLY, but USUALLY very SLOWLY over LONG PERIODS — though sudden events like earthquakes and volcanoes can change it quickly. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs a landform with the agent that makes it?", "options": ["Delta → river; Sand dune → wind; Moraine → glacier; Sea cave → waves", "Delta → wind; Sand dune → river; Moraine → waves; Sea cave → glacier", "All made by the Sun", "None have agents"], "correct_index": 0, "solution": "The correct matches are: DELTA → RIVER; SAND DUNE → WIND; MORAINE → GLACIER; SEA CAVE → WAVES. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The mushroom rocks of deserts have a narrow base and broad top because:", "options": ["Wind carrying sand erodes the lower part more strongly", "Rivers cut the top", "Glaciers push them up", "They grow like plants"], "correct_index": 0, "solution": "MUSHROOM ROCKS have a NARROW BASE and BROAD TOP because WIND carrying SAND blows close to the ground and ERODES the LOWER PART more strongly, wearing it thin. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Sea cliffs are formed when:", "options": ["Waves erode the base of a coastal rock, causing the upper part to form a steep face", "Rivers deposit silt", "Wind piles up sand", "Glaciers melt"], "correct_index": 0, "solution": "SEA CLIFFS are formed when WAVES ERODE the BASE of a coastal rock, undercutting it so the upper part forms a STEEP, vertical FACE. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Why should people living in earthquake-prone areas take precautions?", "options": ["Earthquakes can cause great destruction, so preparedness saves lives", "Earthquakes are harmless", "There is nothing to do", "Precautions increase danger"], "correct_index": 0, "solution": "People in EARTHQUAKE-PRONE areas should take PRECAUTIONS (safe buildings, drills, awareness) because EARTHQUAKES can cause GREAT DESTRUCTION, and PREPAREDNESS SAVES LIVES. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Himalayas were formed by which type of force?", "options": ["Endogenic forces (collision of tectonic plates folding the crust)", "Wind only", "River deposition", "Sea waves"], "correct_index": 0, "solution": "The HIMALAYAS were formed by ENDOGENIC forces — the COLLISION of TECTONIC PLATES (the Indian and Eurasian plates) that FOLDED the crust upward over millions of years. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is an example of a sudden change to the Earth's surface?", "options": ["An earthquake or a volcanic eruption", "The slow flow of a river", "Gradual weathering", "Slow dune formation"], "correct_index": 0, "solution": "A SUDDEN CHANGE to the Earth's surface is an EARTHQUAKE or a VOLCANIC ERUPTION — happening quickly, unlike the slow work of rivers, weathering, and wind. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The deposition of material by rivers, wind, glaciers and waves generally results in:", "options": ["The building of new landforms like plains, deltas, dunes and beaches", "The wearing away of land only", "No change", "The end of all landforms"], "correct_index": 0, "solution": "DEPOSITION by rivers, wind, glaciers, and waves generally results in the BUILDING of NEW LANDFORMS — PLAINS, DELTAS, DUNES, and BEACHES. (Erosion, by contrast, wears land away.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The difference between erosion and deposition is that erosion:", "options": ["Wears away and removes material, while deposition lays it down elsewhere", "Lays down material, while deposition removes it", "They are the same", "Neither changes the land"], "correct_index": 0, "solution": "EROSION WEARS AWAY and REMOVES material from one place, while DEPOSITION LAYS it DOWN elsewhere — together they constantly reshape the land. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The seismograph is important because it:", "options": ["Records earthquakes, helping scientists study and warn about them", "Predicts rain", "Measures temperature", "Measures wind speed"], "correct_index": 0, "solution": "The SEISMOGRAPH is important because it RECORDS EARTHQUAKES (their waves and magnitude), HELPING scientists STUDY them and improve WARNING and safety. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A beach is a coastal landform formed by the:", "options": ["Deposition of sand and pebbles by sea waves", "Erosion by rivers", "Melting of glaciers", "Blowing of desert wind only"], "correct_index": 0, "solution": "A BEACH is a coastal landform formed by the DEPOSITION of SAND and PEBBLES by SEA WAVES along the shore. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A sea arch is formed when:", "options": ["Waves erode through a headland, leaving an arch of rock", "A river deposits silt", "Wind piles sand", "A glacier melts"], "correct_index": 0, "solution": "A SEA ARCH is formed when WAVES ERODE THROUGH a HEADLAND (a rocky point), cutting a hole that leaves an ARCH of rock; when it collapses, a stack is left. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "When a sea arch collapses, the isolated pillar of rock left standing in the sea is called a:", "options": ["Sea stack", "Delta", "Dune", "Moraine"], "correct_index": 0, "solution": "When a SEA ARCH COLLAPSES, the isolated PILLAR of ROCK left standing in the sea is called a SEA STACK. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The energy released during an earthquake travels in the form of:", "options": ["Seismic waves", "Ocean currents", "Wind", "Sunlight"], "correct_index": 0, "solution": "The ENERGY released during an EARTHQUAKE travels through the Earth in the form of SEISMIC WAVES, which cause the ground to shake and are recorded by seismographs. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The molten rock, ash and gases thrown out during a volcanic eruption can:", "options": ["Build new landforms but also cause destruction", "Do nothing", "Only help farming", "Only cause rain"], "correct_index": 0, "solution": "The MOLTEN ROCK, ASH, and GASES from a VOLCANIC ERUPTION can BUILD NEW LANDFORMS (like volcanic mountains and fertile soil) but also CAUSE DESTRUCTION to life and property. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The lower part of a river's course, where it meets the sea, is called its:", "options": ["Mouth", "Source", "Bend", "Waterfall"], "correct_index": 0, "solution": "The LOWER part of a river's course, where it MEETS the SEA, is called its MOUTH — often where a delta forms. (The starting point is the source.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The place where a river begins (often in the mountains) is called its:", "options": ["Source", "Mouth", "Delta", "Bank"], "correct_index": 0, "solution": "The PLACE where a RIVER BEGINS — often in the MOUNTAINS from a spring, glacier, or lake — is called its SOURCE. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following correctly describes how the same river erodes and deposits?", "options": ["It erodes mostly in its upper (steep) course and deposits mostly in its lower (flat) course", "It only erodes everywhere", "It only deposits everywhere", "It does neither"], "correct_index": 0, "solution": "The same RIVER ERODES mostly in its UPPER (STEEP, fast) course, cutting valleys, and DEPOSITS mostly in its LOWER (FLAT, slow) course, building plains and deltas. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The building up of mountains over millions of years is an example of:", "options": ["A slow endogenic process", "A sudden event", "Wind erosion", "River deposition"], "correct_index": 0, "solution": "The BUILDING UP of MOUNTAINS over millions of years (by folding and plate collision) is an example of a SLOW ENDOGENIC PROCESS, driven by forces within the Earth. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Why do the landforms of the Earth keep changing?", "options": ["Because the forces that build up and wear down the land act continuously", "Because they are man-made", "Because of magic", "They do not change"], "correct_index": 0, "solution": "The LANDFORMS keep CHANGING because the FORCES that BUILD UP (endogenic) and WEAR DOWN (exogenic) the land ACT CONTINUOUSLY over time. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is TRUE about the Earth's changing surface?", "options": ["It is shaped by both internal and external forces over time", "It is fixed and unchanging", "Only humans change it", "It changes only in deserts"], "correct_index": 0, "solution": "It is TRUE that the Earth's SURFACE is SHAPED by BOTH INTERNAL (endogenic) and EXTERNAL (exogenic) FORCES over TIME. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Our Changing Earth' is that:", "options": ["The Earth's surface never changes", "The Earth's surface is CONSTANTLY CHANGING through the action of two sets of forces — ENDOGENIC forces from within (moving TECTONIC PLATES that cause EARTHQUAKES, VOLCANOES and mountain-building) and EXOGENIC forces on the surface (EROSION and DEPOSITION by RIVERS, WIND, GLACIERS and SEA WAVES); these agents wear down and build up the land, creating a variety of LANDFORMS — river valleys, gorges, waterfalls, meanders, ox-bow lakes, flood plains and DELTAS; wind-made mushroom rocks, sand dunes and loess; glacial moraines; and coastal cliffs, caves and beaches — so the Earth's face is always being reshaped, sometimes suddenly (earthquakes, eruptions) and mostly very slowly", "Only rivers change the Earth", "Landforms are permanent"], "correct_index": 1, "solution": "The chapter's overall message is that the Earth's SURFACE is CONSTANTLY CHANGING through the action of TWO SETS of FORCES: ENDOGENIC forces from WITHIN the Earth (the movement of TECTONIC PLATES that causes EARTHQUAKES — measured on the Richter scale, with a FOCUS and EPICENTRE — VOLCANOES, and the BUILDING of MOUNTAINS like the Himalayas) and EXOGENIC forces on the SURFACE (EROSION and DEPOSITION by RIVERS, WIND, GLACIERS, and SEA WAVES). These agents WEAR DOWN and BUILD UP the land, creating a variety of LANDFORMS: river GORGES, WATERFALLS, MEANDERS, OX-BOW LAKES, FLOOD PLAINS, and DELTAS; wind-made MUSHROOM ROCKS, SAND DUNES, and LOESS; glacial MORAINES; and coastal CLIFFS, CAVES, arches, and BEACHES. Thus the Earth's face is ALWAYS being RESHAPED — SOMETIMES SUDDENLY (earthquakes, eruptions) and MOSTLY very SLOWLY. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "Forces that originate in the interior of the Earth are called:",
+    "options": [
+      "Exogenic forces",
+      "Endogenic forces",
+      "Gravitational forces",
+      "Tidal forces"
+    ],
+    "correct_index": 1,
+    "solution": "Endogenic forces act from within the Earth (e.g. those causing earthquakes and volcanoes); exogenic forces act on the surface (e.g. erosion).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The point inside the Earth where an earthquake originates is called the:",
+    "options": [
+      "Epicentre",
+      "Focus (hypocentre)",
+      "Fault",
+      "Crater"
+    ],
+    "correct_index": 1,
+    "solution": "The focus (hypocentre) is the point of origin of an earthquake below the surface; the point directly above it on the surface is the epicentre.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The point on the Earth's surface directly above the origin of an earthquake is the:",
+    "options": [
+      "Focus",
+      "Epicentre",
+      "Fault line",
+      "Vent"
+    ],
+    "correct_index": 1,
+    "solution": "The epicentre is the point on the surface immediately above the focus; it usually experiences the strongest shaking.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument used to record earthquake waves is the:",
+    "options": [
+      "Barometer",
+      "Seismograph",
+      "Thermometer",
+      "Anemometer"
+    ],
+    "correct_index": 1,
+    "solution": "A seismograph records the vibrations (seismic waves) produced by an earthquake.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A curved bend formed by a river in its plain course is called a:",
+    "options": [
+      "Delta",
+      "Meander",
+      "Beach",
+      "Moraine"
+    ],
+    "correct_index": 1,
+    "solution": "A meander is a large bend in a river; when cut off, it can form an ox-bow lake.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The landform made of sediment deposited by a river as it enters the sea is a:",
+    "options": [
+      "Ox-bow lake",
+      "Delta",
+      "Sand dune",
+      "Beach"
+    ],
+    "correct_index": 1,
+    "solution": "A delta is a triangular deposit of sediment formed at the mouth of a river where it meets the sea.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rock material carried and deposited by a glacier is known as:",
+    "options": [
+      "Loess",
+      "Moraine",
+      "Alluvium",
+      "Sand dune"
+    ],
+    "correct_index": 1,
+    "solution": "Moraines are deposits of rock and debris carried and left behind by glaciers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The mushroom-shaped rocks found in deserts are formed mainly by the erosive action of:",
+    "options": [
+      "Rivers",
+      "Wind",
+      "Glaciers",
+      "Sea waves"
+    ],
+    "correct_index": 1,
+    "solution": "In deserts, wind erosion wears away the softer lower part of rocks faster, producing mushroom rocks.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fine, fertile soil deposited by wind, forming thick deposits, is called:",
+    "options": [
+      "Loess",
+      "Moraine",
+      "Delta",
+      "Beach"
+    ],
+    "correct_index": 0,
+    "solution": "Loess consists of very fine wind-blown deposits of silt, forming fertile soils (e.g. in northern China).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Coastal landforms such as sea caves, sea arches and stacks are produced by the erosion caused by:",
+    "options": [
+      "Rivers",
+      "Sea waves",
+      "Wind",
+      "Ice"
+    ],
+    "correct_index": 1,
+    "solution": "The erosional force of sea waves creates coastal features like sea caves, arches, stacks and cliffs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Exogenic forces are those that act on the Earth's surface and include:",
+    "options": [
+      "Erosion and deposition by rivers, wind, glaciers and waves",
+      "Earthquakes only",
+      "Volcanoes only",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "EXOGENIC forces act on the Earth's SURFACE and include EROSION and DEPOSITION by RIVERS, WIND, GLACIERS, and WAVES — slowly reshaping the land. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Endogenic forces are those that operate inside the Earth and cause:",
+    "options": [
+      "Sudden movements like earthquakes and volcanoes, and slow movements building mountains",
+      "Only rainfall",
+      "Only erosion",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "ENDOGENIC forces operate INSIDE the Earth and cause SUDDEN movements (EARTHQUAKES, VOLCANOES) and SLOW movements (like the building of MOUNTAINS by plate movement). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Earth's outer shell is broken into large pieces called:",
+    "options": [
+      "Lithospheric (tectonic) plates",
+      "Continents only",
+      "Oceans only",
+      "Craters"
+    ],
+    "correct_index": 0,
+    "solution": "The Earth's outer shell (lithosphere) is broken into large pieces called LITHOSPHERIC (TECTONIC) PLATES, which move slowly and cause earthquakes, volcanoes, and mountain-building. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Earthquakes and volcanoes occur most often at the:",
+    "options": [
+      "Boundaries where tectonic plates meet",
+      "Centre of the oceans only",
+      "Poles only",
+      "Deserts only"
+    ],
+    "correct_index": 0,
+    "solution": "EARTHQUAKES and VOLCANOES occur most often at the BOUNDARIES where TECTONIC PLATES MEET, because the movement and pressure of plates is greatest there. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The strength of an earthquake is measured on the:",
+    "options": [
+      "Richter scale",
+      "Celsius scale",
+      "Beaufort scale",
+      "pH scale"
+    ],
+    "correct_index": 0,
+    "solution": "The STRENGTH (magnitude) of an EARTHQUAKE is measured on the RICHTER SCALE — the higher the number, the stronger the quake. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A volcano is a vent in the Earth's crust through which:",
+    "options": [
+      "Molten lava, gases and ash erupt onto the surface",
+      "Only water flows",
+      "Only air escapes",
+      "Nothing happens"
+    ],
+    "correct_index": 0,
+    "solution": "A VOLCANO is a VENT in the Earth's crust through which MOLTEN LAVA, GASES, and ASH ERUPT onto the SURFACE from the interior. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three main agents of erosion and deposition that shape the land are rivers, wind and:",
+    "options": [
+      "Glaciers (ice) and sea waves",
+      "The Sun",
+      "Clouds",
+      "Coins"
+    ],
+    "correct_index": 0,
+    "solution": "The main AGENTS of EROSION and DEPOSITION are RIVERS, WIND, GLACIERS (ice), and SEA WAVES — each shaping distinctive landforms. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In its upper (mountain) course, a river mainly does the work of:",
+    "options": [
+      "Erosion, cutting deep V-shaped valleys and gorges",
+      "Only deposition",
+      "Nothing",
+      "Only flooding"
+    ],
+    "correct_index": 0,
+    "solution": "In its UPPER (mountain) course, a river flows swiftly and mainly does the work of EROSION, cutting deep V-SHAPED VALLEYS, GORGES, and forming waterfalls. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A waterfall is formed when a river:",
+    "options": [
+      "Falls from a great height, often over hard rock",
+      "Flows on flat land",
+      "Stops flowing",
+      "Turns into a lake"
+    ],
+    "correct_index": 0,
+    "solution": "A WATERFALL is formed when a RIVER FALLS from a GREAT HEIGHT, often where it flows over a band of HARD ROCK onto softer rock below. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An ox-bow lake is formed when:",
+    "options": [
+      "A meander (river bend) is cut off from the main river",
+      "A glacier melts",
+      "The wind blows sand",
+      "The sea rises"
+    ],
+    "correct_index": 0,
+    "solution": "An OX-BOW LAKE is formed when a large MEANDER (river bend) is CUT OFF from the main river, leaving a curved lake behind. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. River → delta and meanders 2. Wind → mushroom rocks and sand dunes 3. Glacier → moraines. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: RIVER → DELTAS and MEANDERS; WIND → MUSHROOM ROCKS and SAND DUNES; GLACIER → MORAINES. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sand dunes are hills of sand formed by the deposition action of:",
+    "options": [
+      "Wind (in deserts)",
+      "Rivers",
+      "Glaciers",
+      "Sea waves"
+    ],
+    "correct_index": 0,
+    "solution": "SAND DUNES are hills of sand formed by the DEPOSITION action of WIND, especially in DESERTS where sand is plentiful and dry. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In its lower course (plains and mouth), a river mainly does the work of:",
+    "options": [
+      "Deposition, forming flood plains and deltas",
+      "Only erosion",
+      "Nothing",
+      "Only cutting gorges"
+    ],
+    "correct_index": 0,
+    "solution": "In its LOWER course (plains and mouth), a river flows slowly and mainly does the work of DEPOSITION, forming FLOOD PLAINS, meanders, and DELTAS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The fertile plains built up by rivers depositing silt are called:",
+    "options": [
+      "Flood plains (alluvial plains)",
+      "Deserts",
+      "Glaciers",
+      "Plateaus"
+    ],
+    "correct_index": 0,
+    "solution": "The fertile plains built up by RIVERS DEPOSITING SILT (alluvium) are called FLOOD PLAINS or ALLUVIAL PLAINS — among the most productive farmland. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Earthquakes and volcanoes are common along plate boundaries. Reason (R): The movement and collision of tectonic plates release energy and molten rock there. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — earthquakes and volcanoes are common along plate boundaries. R is TRUE and correctly EXPLAINS A: the MOVEMENT and COLLISION of TECTONIC PLATES RELEASE ENERGY and MOLTEN ROCK there — the very cause of these events. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The landforms of the Earth are the result of two opposing sets of forces:",
+    "options": [
+      "Endogenic (building up) and exogenic (wearing down)",
+      "Only wind and rain",
+      "Only the Sun and Moon",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The LANDFORMS of the Earth result from TWO OPPOSING sets of forces: ENDOGENIC forces (BUILDING UP land, e.g., mountains, volcanoes) and EXOGENIC forces (WEARING DOWN land, e.g., erosion). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A gorge is a:",
+    "options": [
+      "Deep, narrow valley with steep sides, cut by a river",
+      "A wide flat plain",
+      "A sand hill",
+      "A lake"
+    ],
+    "correct_index": 0,
+    "solution": "A GORGE is a DEEP, NARROW VALLEY with STEEP SIDES, cut by a RIVER (usually in its mountainous upper course). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Glaciers shape the land by:",
+    "options": [
+      "Eroding valleys into U-shapes and depositing moraines as they move and melt",
+      "Doing nothing",
+      "Only flooding",
+      "Only blowing sand"
+    ],
+    "correct_index": 0,
+    "solution": "GLACIERS shape the land by ERODING valleys into U-SHAPES (unlike rivers' V-shapes) and DEPOSITING MORAINES (rock debris) as they move and melt. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The changing of the Earth's surface is a process that happens:",
+    "options": [
+      "Continuously, but usually very slowly over long periods",
+      "Only once",
+      "Overnight everywhere",
+      "Never"
+    ],
+    "correct_index": 0,
+    "solution": "The CHANGING of the Earth's surface happens CONTINUOUSLY, but USUALLY very SLOWLY over LONG PERIODS — though sudden events like earthquakes and volcanoes can change it quickly. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs a landform with the agent that makes it?",
+    "options": [
+      "Delta → river; Sand dune → wind; Moraine → glacier; Sea cave → waves",
+      "Delta → wind; Sand dune → river; Moraine → waves; Sea cave → glacier",
+      "All made by the Sun",
+      "None have agents"
+    ],
+    "correct_index": 0,
+    "solution": "The correct matches are: DELTA → RIVER; SAND DUNE → WIND; MORAINE → GLACIER; SEA CAVE → WAVES. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The mushroom rocks of deserts have a narrow base and broad top because:",
+    "options": [
+      "Wind carrying sand erodes the lower part more strongly",
+      "Rivers cut the top",
+      "Glaciers push them up",
+      "They grow like plants"
+    ],
+    "correct_index": 0,
+    "solution": "MUSHROOM ROCKS have a NARROW BASE and BROAD TOP because WIND carrying SAND blows close to the ground and ERODES the LOWER PART more strongly, wearing it thin. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sea cliffs are formed when:",
+    "options": [
+      "Waves erode the base of a coastal rock, causing the upper part to form a steep face",
+      "Rivers deposit silt",
+      "Wind piles up sand",
+      "Glaciers melt"
+    ],
+    "correct_index": 0,
+    "solution": "SEA CLIFFS are formed when WAVES ERODE the BASE of a coastal rock, undercutting it so the upper part forms a STEEP, vertical FACE. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Why should people living in earthquake-prone areas take precautions?",
+    "options": [
+      "Earthquakes can cause great destruction, so preparedness saves lives",
+      "Earthquakes are harmless",
+      "There is nothing to do",
+      "Precautions increase danger"
+    ],
+    "correct_index": 0,
+    "solution": "People in EARTHQUAKE-PRONE areas should take PRECAUTIONS (safe buildings, drills, awareness) because EARTHQUAKES can cause GREAT DESTRUCTION, and PREPAREDNESS SAVES LIVES. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Himalayas were formed by which type of force?",
+    "options": [
+      "Endogenic forces (collision of tectonic plates folding the crust)",
+      "Wind only",
+      "River deposition",
+      "Sea waves"
+    ],
+    "correct_index": 0,
+    "solution": "The HIMALAYAS were formed by ENDOGENIC forces — the COLLISION of TECTONIC PLATES (the Indian and Eurasian plates) that FOLDED the crust upward over millions of years. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is an example of a sudden change to the Earth's surface?",
+    "options": [
+      "An earthquake or a volcanic eruption",
+      "The slow flow of a river",
+      "Gradual weathering",
+      "Slow dune formation"
+    ],
+    "correct_index": 0,
+    "solution": "A SUDDEN CHANGE to the Earth's surface is an EARTHQUAKE or a VOLCANIC ERUPTION — happening quickly, unlike the slow work of rivers, weathering, and wind. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The deposition of material by rivers, wind, glaciers and waves generally results in:",
+    "options": [
+      "The building of new landforms like plains, deltas, dunes and beaches",
+      "The wearing away of land only",
+      "No change",
+      "The end of all landforms"
+    ],
+    "correct_index": 0,
+    "solution": "DEPOSITION by rivers, wind, glaciers, and waves generally results in the BUILDING of NEW LANDFORMS — PLAINS, DELTAS, DUNES, and BEACHES. (Erosion, by contrast, wears land away.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The difference between erosion and deposition is that erosion:",
+    "options": [
+      "Wears away and removes material, while deposition lays it down elsewhere",
+      "Lays down material, while deposition removes it",
+      "They are the same",
+      "Neither changes the land"
+    ],
+    "correct_index": 0,
+    "solution": "EROSION WEARS AWAY and REMOVES material from one place, while DEPOSITION LAYS it DOWN elsewhere — together they constantly reshape the land. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The seismograph is important because it:",
+    "options": [
+      "Records earthquakes, helping scientists study and warn about them",
+      "Predicts rain",
+      "Measures temperature",
+      "Measures wind speed"
+    ],
+    "correct_index": 0,
+    "solution": "The SEISMOGRAPH is important because it RECORDS EARTHQUAKES (their waves and magnitude), HELPING scientists STUDY them and improve WARNING and safety. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A beach is a coastal landform formed by the:",
+    "options": [
+      "Deposition of sand and pebbles by sea waves",
+      "Erosion by rivers",
+      "Melting of glaciers",
+      "Blowing of desert wind only"
+    ],
+    "correct_index": 0,
+    "solution": "A BEACH is a coastal landform formed by the DEPOSITION of SAND and PEBBLES by SEA WAVES along the shore. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A sea arch is formed when:",
+    "options": [
+      "Waves erode through a headland, leaving an arch of rock",
+      "A river deposits silt",
+      "Wind piles sand",
+      "A glacier melts"
+    ],
+    "correct_index": 0,
+    "solution": "A SEA ARCH is formed when WAVES ERODE THROUGH a HEADLAND (a rocky point), cutting a hole that leaves an ARCH of rock; when it collapses, a stack is left. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When a sea arch collapses, the isolated pillar of rock left standing in the sea is called a:",
+    "options": [
+      "Sea stack",
+      "Delta",
+      "Dune",
+      "Moraine"
+    ],
+    "correct_index": 0,
+    "solution": "When a SEA ARCH COLLAPSES, the isolated PILLAR of ROCK left standing in the sea is called a SEA STACK. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The energy released during an earthquake travels in the form of:",
+    "options": [
+      "Seismic waves",
+      "Ocean currents",
+      "Wind",
+      "Sunlight"
+    ],
+    "correct_index": 0,
+    "solution": "The ENERGY released during an EARTHQUAKE travels through the Earth in the form of SEISMIC WAVES, which cause the ground to shake and are recorded by seismographs. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The molten rock, ash and gases thrown out during a volcanic eruption can:",
+    "options": [
+      "Build new landforms but also cause destruction",
+      "Do nothing",
+      "Only help farming",
+      "Only cause rain"
+    ],
+    "correct_index": 0,
+    "solution": "The MOLTEN ROCK, ASH, and GASES from a VOLCANIC ERUPTION can BUILD NEW LANDFORMS (like volcanic mountains and fertile soil) but also CAUSE DESTRUCTION to life and property. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lower part of a river's course, where it meets the sea, is called its:",
+    "options": [
+      "Mouth",
+      "Source",
+      "Bend",
+      "Waterfall"
+    ],
+    "correct_index": 0,
+    "solution": "The LOWER part of a river's course, where it MEETS the SEA, is called its MOUTH — often where a delta forms. (The starting point is the source.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The place where a river begins (often in the mountains) is called its:",
+    "options": [
+      "Source",
+      "Mouth",
+      "Delta",
+      "Bank"
+    ],
+    "correct_index": 0,
+    "solution": "The PLACE where a RIVER BEGINS — often in the MOUNTAINS from a spring, glacier, or lake — is called its SOURCE. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following correctly describes how the same river erodes and deposits?",
+    "options": [
+      "It erodes mostly in its upper (steep) course and deposits mostly in its lower (flat) course",
+      "It only erodes everywhere",
+      "It only deposits everywhere",
+      "It does neither"
+    ],
+    "correct_index": 0,
+    "solution": "The same RIVER ERODES mostly in its UPPER (STEEP, fast) course, cutting valleys, and DEPOSITS mostly in its LOWER (FLAT, slow) course, building plains and deltas. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The building up of mountains over millions of years is an example of:",
+    "options": [
+      "A slow endogenic process",
+      "A sudden event",
+      "Wind erosion",
+      "River deposition"
+    ],
+    "correct_index": 0,
+    "solution": "The BUILDING UP of MOUNTAINS over millions of years (by folding and plate collision) is an example of a SLOW ENDOGENIC PROCESS, driven by forces within the Earth. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Why do the landforms of the Earth keep changing?",
+    "options": [
+      "Because the forces that build up and wear down the land act continuously",
+      "Because they are man-made",
+      "Because of magic",
+      "They do not change"
+    ],
+    "correct_index": 0,
+    "solution": "The LANDFORMS keep CHANGING because the FORCES that BUILD UP (endogenic) and WEAR DOWN (exogenic) the land ACT CONTINUOUSLY over time. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is TRUE about the Earth's changing surface?",
+    "options": [
+      "It is shaped by both internal and external forces over time",
+      "It is fixed and unchanging",
+      "Only humans change it",
+      "It changes only in deserts"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that the Earth's SURFACE is SHAPED by BOTH INTERNAL (endogenic) and EXTERNAL (exogenic) FORCES over TIME. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Our Changing Earth' is that:",
+    "options": [
+      "The Earth's surface never changes",
+      "The Earth's surface is CONSTANTLY CHANGING through the action of two sets of forces — ENDOGENIC forces from within (moving TECTONIC PLATES that cause EARTHQUAKES, VOLCANOES and mountain-building) and EXOGENIC forces on the surface (EROSION and DEPOSITION by RIVERS, WIND, GLACIERS and SEA WAVES); these agents wear down and build up the land, creating a variety of LANDFORMS — river valleys, gorges, waterfalls, meanders, ox-bow lakes, flood plains and DELTAS; wind-made mushroom rocks, sand dunes and loess; glacial moraines; and coastal cliffs, caves and beaches — so the Earth's face is always being reshaped, sometimes suddenly (earthquakes, eruptions) and mostly very slowly",
+      "Only rivers change the Earth",
+      "Landforms are permanent"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that the Earth's SURFACE is CONSTANTLY CHANGING through the action of TWO SETS of FORCES: ENDOGENIC forces from WITHIN the Earth (the movement of TECTONIC PLATES that causes EARTHQUAKES — measured on the Richter scale, with a FOCUS and EPICENTRE — VOLCANOES, and the BUILDING of MOUNTAINS like the Himalayas) and EXOGENIC forces on the SURFACE (EROSION and DEPOSITION by RIVERS, WIND, GLACIERS, and SEA WAVES). These agents WEAR DOWN and BUILD UP the land, creating a variety of LANDFORMS: river GORGES, WATERFALLS, MEANDERS, OX-BOW LAKES, FLOOD PLAINS, and DELTAS; wind-made MUSHROOM ROCKS, SAND DUNES, and LOESS; glacial MORAINES; and coastal CLIFFS, CAVES, arches, and BEACHES. Thus the Earth's face is ALWAYS being RESHAPED — SOMETIMES SUDDENLY (earthquakes, eruptions) and MOSTLY very SLOWLY. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The forces that shape the Earth's surface are of two types: internal (endogenic) forces and:",
+    "options": [
+      "External (exogenic) forces",
+      "Only volcanic forces",
+      "Only human forces",
+      "Ocean forces"
+    ],
+    "correct_index": 0,
+    "solution": "Endogenic (internal) forces originate inside the Earth (e.g. earthquakes, volcanoes), while exogenic (external) forces act on the surface (e.g. weathering, erosion by water and wind).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sudden internal forces that cause rapid changes include earthquakes and:",
+    "options": [
+      "Weathering",
+      "Volcanic eruptions",
+      "Erosion",
+      "Deposition"
+    ],
+    "correct_index": 1,
+    "solution": "Sudden endogenic forces like earthquakes and volcanic eruptions cause rapid, often dramatic changes to the Earth's surface.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The vibrations or shaking of the Earth's surface caused by movements within the crust is called a(n):",
+    "options": [
+      "Volcano",
+      "Earthquake",
+      "Tsunami",
+      "Landslide"
+    ],
+    "correct_index": 1,
+    "solution": "An earthquake is the shaking of the Earth's surface caused by the sudden release of energy along faults due to the movement of tectonic plates.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The point on the Earth's surface directly above the focus of an earthquake is the:",
+    "options": [
+      "Focus",
+      "Epicentre",
+      "Crater",
+      "Vent"
+    ],
+    "correct_index": 1,
+    "solution": "The epicentre is the point on the Earth's surface vertically above the focus; it usually experiences the strongest shaking.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Earthquake waves are recorded by an instrument called a:",
+    "options": [
+      "Barometer",
+      "Seismograph (seismometer)",
+      "Thermometer",
+      "Anemometer"
+    ],
+    "correct_index": 1,
+    "solution": "A seismograph records the vibrations (seismic waves) of an earthquake; the magnitude is measured on the Richter scale.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The magnitude of an earthquake is commonly measured on the:",
+    "options": [
+      "Beaufort scale",
+      "Richter scale",
+      "Celsius scale",
+      "pH scale"
+    ],
+    "correct_index": 1,
+    "solution": "The Richter scale measures the magnitude (energy released) of an earthquake; the Mercalli scale measures its intensity (effects).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A vent in the Earth's crust through which molten lava, gases and ash erupt is a:",
+    "options": [
+      "Fault",
+      "Volcano",
+      "Geyser",
+      "Crater"
+    ],
+    "correct_index": 1,
+    "solution": "A volcano is an opening (vent) in the Earth's crust through which molten rock (lava), gases, ash and other materials erupt onto the surface.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The bowl-shaped depression at the mouth of a volcano is called the:",
+    "options": [
+      "Crater",
+      "Epicentre",
+      "Delta",
+      "Meander"
+    ],
+    "correct_index": 0,
+    "solution": "The crater is the bowl-shaped depression at the top of a volcano's vent through which volcanic material is ejected.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Slow external forces that wear down the Earth's surface over long periods include weathering and:",
+    "options": [
+      "Volcanoes",
+      "Erosion",
+      "Earthquakes",
+      "Plate movement"
+    ],
+    "correct_index": 1,
+    "solution": "Weathering (breaking down of rocks in place) and erosion (wearing away and transport of material by agents like water, wind and ice) are slow exogenic processes that reshape the surface.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The breaking up of rocks on the Earth's surface (in place) is called:",
+    "options": [
+      "Erosion",
+      "Weathering",
+      "Deposition",
+      "Eruption"
+    ],
+    "correct_index": 1,
+    "solution": "Weathering is the breaking down and disintegration of rocks in their original place by the action of temperature, water, wind and living organisms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The wearing away of the land surface by agents like rivers, wind and glaciers is called:",
+    "options": [
+      "Weathering",
+      "Erosion",
+      "Deposition",
+      "Folding"
+    ],
+    "correct_index": 1,
+    "solution": "Erosion is the removal and transport of weathered material by moving agents — running water, wind, glaciers and sea waves — that continuously reshape the landscape.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The laying down of eroded material (sediments) in a new location is called:",
+    "options": [
+      "Erosion",
+      "Weathering",
+      "Deposition",
+      "Eruption"
+    ],
+    "correct_index": 2,
+    "solution": "Deposition is the process by which eroded material carried by agents like rivers and wind is dropped and accumulated in a new location, forming landforms like deltas and plains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A landform created where a river deposits its sediment as it enters the sea, often triangular, is a:",
+    "options": [
+      "Meander",
+      "Delta",
+      "Ox-bow lake",
+      "Waterfall"
+    ],
+    "correct_index": 1,
+    "solution": "A delta is a triangular landform of deposited sediment (alluvium) formed where a river meets the sea and its flow slows; the Ganga-Brahmaputra delta (Sundarbans) is the world's largest.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The large bends or loops that a river forms in its plains are called:",
+    "options": [
+      "Deltas",
+      "Meanders",
+      "Gorges",
+      "Cliffs"
+    ],
+    "correct_index": 1,
+    "solution": "Meanders are the large loop-like bends a river develops as it flows across flat plains, formed by erosion on the outer bank and deposition on the inner bank.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A cut-off meander loop that becomes a separate curved lake is called a(n):",
+    "options": [
+      "Delta",
+      "Ox-bow lake",
+      "Waterfall",
+      "Gorge"
+    ],
+    "correct_index": 1,
+    "solution": "An ox-bow lake forms when a meander loop is cut off from the main river, leaving a crescent-shaped body of water beside the river.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When a river falls steeply over hard rock, it forms a:",
+    "options": [
+      "Delta",
+      "Waterfall",
+      "Meander",
+      "Beach"
+    ],
+    "correct_index": 1,
+    "solution": "A waterfall forms where a river flows over a steep drop or a band of hard rock, cascading down; the Kunchikal and Jog falls are Indian examples.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wind is an important agent of erosion and deposition especially in:",
+    "options": [
+      "Rainforests",
+      "Deserts (arid regions)",
+      "Oceans",
+      "Glaciers"
+    ],
+    "correct_index": 1,
+    "solution": "Wind is the chief agent shaping landforms in deserts (arid regions), where it erodes, transports sand and deposits it as dunes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hills of sand deposited by wind in deserts are called:",
+    "options": [
+      "Deltas",
+      "Sand dunes",
+      "Beaches",
+      "Meanders"
+    ],
+    "correct_index": 1,
+    "solution": "Sand dunes are mounds or ridges of sand deposited and shaped by wind in desert regions; barchans are crescent-shaped dunes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fine, fertile wind-deposited soil, common in parts of northern China and elsewhere, is called:",
+    "options": [
+      "Loess",
+      "Silt",
+      "Clay",
+      "Gravel"
+    ],
+    "correct_index": 0,
+    "solution": "Loess is fine, fertile, wind-blown deposit of silt; large deposits are found in northern China, contributing to fertile agricultural land.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Glaciers, which are moving masses of ice, erode the land and form features like:",
+    "options": [
+      "Deltas",
+      "U-shaped valleys and moraines",
+      "Sand dunes",
+      "Ox-bow lakes"
+    ],
+    "correct_index": 1,
+    "solution": "Glaciers carve U-shaped valleys and deposit rock debris as moraines; they are powerful agents of erosion and deposition in mountainous and polar regions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sea waves erode coasts to form features like sea caves, sea arches and:",
+    "options": [
+      "Deltas",
+      "Sea cliffs and stacks",
+      "Sand dunes",
+      "Meanders"
+    ],
+    "correct_index": 1,
+    "solution": "The erosive action of sea waves creates coastal features like sea cliffs, sea caves, sea arches and sea stacks; deposition by waves forms beaches.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A beach is a coastal landform formed by the ______ action of sea waves.",
+    "options": [
+      "erosional",
+      "depositional",
+      "volcanic",
+      "glacial"
+    ],
+    "correct_index": 1,
+    "solution": "A beach is formed by the depositional action of sea waves, which deposit sand and pebbles along the shore.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three stages of a river's course are the upper (mountain), middle and:",
+    "options": [
+      "Lower (plain) course",
+      "Underground course",
+      "Ocean course",
+      "Desert course"
+    ],
+    "correct_index": 0,
+    "solution": "A river typically has an upper course (steep, erosional, in mountains), a middle course (meanders on plains) and a lower course (depositional, forming deltas near the sea).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In its upper (mountainous) course, a river mainly causes ______, forming gorges and waterfalls.",
+    "options": [
+      "deposition",
+      "erosion",
+      "meandering",
+      "delta formation"
+    ],
+    "correct_index": 1,
+    "solution": "In its upper course, a fast-flowing river erodes vertically, cutting deep V-shaped valleys, gorges and waterfalls in the mountains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A deep, narrow valley with steep sides carved by a river in mountains is a:",
+    "options": [
+      "Delta",
+      "Gorge (or V-shaped valley)",
+      "Plain",
+      "Beach"
+    ],
+    "correct_index": 1,
+    "solution": "A gorge (or deep V-shaped valley) is carved by a river's vertical erosion in its upper mountainous course, with steep rocky sides.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Earth's surface is constantly changing due to the combined action of:",
+    "options": [
+      "Only internal forces",
+      "Both internal (endogenic) and external (exogenic) forces",
+      "Only human activity",
+      "No forces"
+    ],
+    "correct_index": 1,
+    "solution": "The Earth's surface is continuously reshaped by both internal forces (earthquakes, volcanoes) building up land and external forces (weathering, erosion, deposition) wearing it down and rebuilding it elsewhere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a landform formed by river deposition?",
+    "options": [
+      "Gorge",
+      "Delta and floodplain",
+      "Sea cliff",
+      "Sand dune"
+    ],
+    "correct_index": 1,
+    "solution": "Deltas and floodplains are formed by the depositional action of rivers; gorges are erosional, sea cliffs are made by waves, and dunes by wind.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about earthquakes and volcanoes is correct? (i) They are endogenic (internal) forces (ii) They cause sudden changes (iii) They are common along plate boundaries",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: earthquakes and volcanoes are endogenic forces causing sudden changes, and both occur most frequently along the boundaries of tectonic plates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall effect of external forces (weathering, erosion, deposition) over long periods is to:",
+    "options": [
+      "Build mountains",
+      "Wear down elevated areas and build up new landforms (levelling the surface)",
+      "Cause earthquakes",
+      "Do nothing"
+    ],
+    "correct_index": 1,
+    "solution": "Over long periods, external (exogenic) forces wear down elevated regions and deposit the material elsewhere, tending to level the Earth's surface and continually reshape landforms.",
+    "difficulty": "medium"
+  }
 ]

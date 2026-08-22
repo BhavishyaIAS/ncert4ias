@@ -1,52 +1,950 @@
 [
-  { "stem": "The type and density of natural vegetation in a region depends primarily on:", "options": ["Soil colour only", "Climate (temperature and rainfall)", "Human population", "The number of roads"], "correct_index": 1, "solution": "Natural vegetation is largely determined by climate — mainly temperature and moisture (rainfall).", "difficulty": "easy" },
-  { "stem": "Dense tropical evergreen forests (rainforests) are found in areas with:", "options": ["Very low rainfall", "Heavy rainfall and high temperatures throughout the year", "Cold, dry climate", "Seasonal drought"], "correct_index": 1, "solution": "Tropical evergreen (rain)forests grow in hot regions with heavy rainfall, e.g. the Amazon basin; they remain green all year.", "difficulty": "medium" },
-  { "stem": "Coniferous forests, valued for softwood, are also known as:", "options": ["Taiga", "Savanna", "Tundra", "Mangrove"], "correct_index": 0, "solution": "The coniferous forests of high northern latitudes are called taiga and yield softwood used for paper and furniture.", "difficulty": "hard" },
-  { "stem": "The tropical grasslands of Africa are known as the:", "options": ["Prairies", "Savanna", "Steppes", "Pampas"], "correct_index": 1, "solution": "Savanna is the name for tropical grasslands, most extensively found in Africa.", "difficulty": "medium" },
-  { "stem": "The temperate grasslands of North America are called the:", "options": ["Pampas", "Prairies", "Downs", "Veld"], "correct_index": 1, "solution": "Prairies are the temperate grasslands of North America. (Pampas = South America, Downs = Australia, Veld = South Africa.)", "difficulty": "hard" },
-  { "stem": "The vegetation of the cold polar (tundra) regions consists mainly of:", "options": ["Tall evergreen trees", "Mosses, lichens and small shrubs", "Dense rainforest", "Palm trees"], "correct_index": 1, "solution": "In the extremely cold tundra, only mosses, lichens and low shrubs can survive.", "difficulty": "medium" },
-  { "stem": "Thorny bushes and scrub with long roots and thick stems are typical of which region?", "options": ["Equatorial rainforest", "Dry desert regions", "Polar tundra", "Coniferous belt"], "correct_index": 1, "solution": "Thorny bushes and scrub, adapted to conserve water (long roots, waxy/thick stems), are found in hot, dry desert areas.", "difficulty": "medium" },
-  { "stem": "Which of the following best explains why wildlife conservation is important?", "options": ["Animals have no role in nature", "To maintain ecological balance and protect species from extinction", "To increase deforestation", "To reduce the number of national parks"], "correct_index": 1, "solution": "Conserving wildlife maintains the ecological balance of nature and prevents species from becoming endangered or extinct.", "difficulty": "easy" },
-  { "stem": "'Natural vegetation' means:", "options": ["Plants that grow on their own without human help", "Only planted crops", "Only garden flowers", "Only trees in cities"], "correct_index": 0, "solution": "NATURAL VEGETATION means the PLANTS that GROW on their OWN, WITHOUT HUMAN HELP, in response to the climate and soil of a region. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The main types of natural vegetation are forests, grasslands, scrub/thorny bushes and:", "options": ["Tundra vegetation", "Only crops", "Only cactus", "Only moss"], "correct_index": 0, "solution": "The MAIN TYPES of NATURAL VEGETATION are FORESTS, GRASSLANDS, SCRUB/THORNY BUSHES, and TUNDRA vegetation (mosses and lichens) — each suited to a climate. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Tropical evergreen forests are called 'evergreen' because:", "options": ["The trees do not shed all their leaves at the same time, so the forest stays green all year", "They are always brown", "They have no leaves", "They shed all leaves at once"], "correct_index": 0, "solution": "TROPICAL EVERGREEN forests are called 'evergreen' because the TREES do NOT SHED all their LEAVES at the SAME TIME, so the forest STAYS GREEN ALL YEAR ROUND. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Tropical deciduous forests (monsoon forests) are so called because their trees:", "options": ["Shed their leaves in the dry season to conserve water", "Never lose leaves", "Are always dead", "Have no seasons"], "correct_index": 0, "solution": "TROPICAL DECIDUOUS (MONSOON) forests are so called because their trees SHED their LEAVES in the DRY SEASON to CONSERVE WATER. Teak and sal are examples. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a valuable tree of the tropical deciduous (monsoon) forest?", "options": ["Teak and sal", "Pine and fir", "Cactus", "Moss"], "correct_index": 0, "solution": "TEAK and SAL are valuable hardwood trees of the TROPICAL DECIDUOUS (MONSOON) forests, widely used for furniture and building. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Coniferous forests are found in the cold high-latitude regions and have trees with:", "options": ["Needle-like leaves and cone-shaped shapes (softwood)", "Broad flat leaves", "No leaves at all", "Only flowers"], "correct_index": 0, "solution": "CONIFEROUS forests are found in COLD HIGH-LATITUDE regions and have trees (like pine, fir, spruce) with NEEDLE-LIKE LEAVES and a CONE SHAPE, yielding SOFTWOOD. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. Savanna — tropical grassland (Africa) 2. Prairies — temperate grassland (N. America) 3. Taiga — coniferous forest. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: SAVANNA → TROPICAL GRASSLAND (Africa); PRAIRIES → TEMPERATE GRASSLAND (North America); TAIGA → CONIFEROUS FOREST. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The temperate grasslands of South America are called the:", "options": ["Pampas", "Prairies", "Steppes", "Downs"], "correct_index": 0, "solution": "The TEMPERATE GRASSLANDS of SOUTH AMERICA are called the PAMPAS. (Prairies = North America; Steppes = Central Asia/Europe; Downs = Australia.) So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The temperate grasslands of Central Asia are called the:", "options": ["Steppes", "Pampas", "Veld", "Savanna"], "correct_index": 0, "solution": "The TEMPERATE GRASSLANDS of CENTRAL ASIA (and eastern Europe) are called the STEPPES. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Grasslands are important because they:", "options": ["Support grazing animals and are used for rearing cattle and farming", "Support no life", "Are useless", "Are always frozen"], "correct_index": 0, "solution": "GRASSLANDS are important because they SUPPORT GRAZING ANIMALS (like deer, zebra, cattle) and are used for REARING CATTLE and FARMING (they are among the world's great agricultural regions). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The vegetation of hot deserts is adapted to conserve water through features like:", "options": ["Thick, waxy stems, spines instead of leaves, and long roots", "Broad flat leaves", "Needing lots of water", "Growing very tall"], "correct_index": 0, "solution": "DESERT vegetation (like cactus) is adapted to CONSERVE WATER through THICK, WAXY STEMS, SPINES instead of leaves (to reduce water loss), and LONG ROOTS to reach deep water. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Mangrove forests are found:", "options": ["In coastal and tidal areas (like river deltas)", "On high mountains", "In deserts", "In polar regions"], "correct_index": 0, "solution": "MANGROVE forests are found in COASTAL and TIDAL AREAS (like river DELTAS, e.g., the Sundarbans), where trees are adapted to grow in salty, waterlogged conditions. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Wildlife refers to:", "options": ["The animals and birds that live naturally in the wild", "Only pets", "Only farm animals", "Only zoo animals"], "correct_index": 0, "solution": "WILDLIFE refers to the ANIMALS and BIRDS (and other creatures) that LIVE NATURALLY in the WILD, in forests, grasslands, wetlands, and other habitats. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Different types of vegetation support different wildlife because:", "options": ["Each habitat provides food and shelter suited to particular animals", "Animals live anywhere equally", "Vegetation has no effect on animals", "All animals eat the same food"], "correct_index": 0, "solution": "Different types of VEGETATION support different WILDLIFE because EACH HABITAT provides the FOOD and SHELTER SUITED to PARTICULAR ANIMALS — e.g., rainforests, grasslands, and deserts each have their own creatures. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The lion, giraffe and zebra are typical wildlife of the:", "options": ["Savanna grasslands", "Polar tundra", "Coniferous forest", "Ocean"], "correct_index": 0, "solution": "The LION, GIRAFFE, and ZEBRA are typical wildlife of the SAVANNA GRASSLANDS of Africa, where open grass and scattered trees suit grazing and hunting. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Animals like the polar bear and reindeer are found in the:", "options": ["Cold tundra (polar) regions", "Hot desert", "Tropical rainforest", "Grassland"], "correct_index": 0, "solution": "Animals like the POLAR BEAR and REINDEER are found in the COLD TUNDRA (POLAR) REGIONS, adapted to survive extreme cold. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Natural vegetation varies from region to region. Reason (R): It depends on climate factors like temperature and rainfall. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — natural vegetation varies from region to region. R is TRUE and correctly EXPLAINS A: it DEPENDS on CLIMATE factors like TEMPERATURE and RAINFALL, which differ from place to place — the very reason vegetation varies. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Species that are in danger of extinction are called:", "options": ["Endangered species", "Common species", "Extinct species", "Domestic species"], "correct_index": 0, "solution": "Species that are in DANGER of EXTINCTION (very few left) are called ENDANGERED SPECIES — like the tiger, one-horned rhino, and Asiatic lion in India. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "To protect wildlife, governments set up:", "options": ["National parks, wildlife sanctuaries and biosphere reserves", "Only factories", "Only cities", "Only farms"], "correct_index": 0, "solution": "To PROTECT WILDLIFE, governments set up NATIONAL PARKS, WILDLIFE SANCTUARIES, and BIOSPHERE RESERVES, where animals and plants are protected from harm. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main threats to natural vegetation and wildlife include:", "options": ["Deforestation, hunting/poaching, and destruction of habitats", "Planting trees", "Protecting animals", "Cleaning rivers"], "correct_index": 0, "solution": "The main THREATS to natural vegetation and wildlife include DEFORESTATION (cutting forests), HUNTING/POACHING, and the DESTRUCTION of HABITATS by human activity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Forests are valuable because they provide:", "options": ["Timber, oxygen, medicines, wildlife habitat and help regulate climate", "Nothing", "Only firewood", "Only shade"], "correct_index": 0, "solution": "FORESTS are valuable because they provide TIMBER, OXYGEN, MEDICINES, and HABITAT for WILDLIFE, and they HELP REGULATE CLIMATE and rainfall while preventing soil erosion. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly pairs a vegetation type with its wildlife?", "options": ["Rainforest → monkeys and colourful birds; Savanna → lions and zebras; Tundra → polar bears", "Rainforest → polar bears; Savanna → penguins; Tundra → monkeys", "All have the same animals", "None have wildlife"], "correct_index": 0, "solution": "The correct pairings are: RAINFOREST → MONKEYS and COLOURFUL BIRDS; SAVANNA → LIONS and ZEBRAS; TUNDRA → POLAR BEARS (and reindeer). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Migratory birds travel long distances between regions because they:", "options": ["Move to find suitable climate, food and breeding grounds", "Have no reason", "Cannot fly", "Never move"], "correct_index": 0, "solution": "MIGRATORY BIRDS travel long distances to MOVE to find SUITABLE CLIMATE, FOOD, and BREEDING GROUNDS as seasons change — many visit India's wetlands in winter. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The loss of forests (deforestation) harms wildlife because it:", "options": ["Destroys the habitats animals need to live", "Helps animals", "Has no effect", "Increases wildlife"], "correct_index": 0, "solution": "DEFORESTATION harms wildlife because it DESTROYS the HABITATS (homes) that animals NEED to LIVE, find food, and reproduce — pushing many species toward extinction. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The vegetation of a region and its wildlife together form a(n):", "options": ["Ecosystem / biome", "Desert only", "Ocean only", "City"], "correct_index": 0, "solution": "The VEGETATION of a region and its WILDLIFE together form an ECOSYSTEM (or a large biome), in which plants and animals depend on one another. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why do rainforests have the greatest variety (biodiversity) of plants and animals?", "options": ["Their hot, wet climate all year supports abundant life", "They are cold and dry", "They have no water", "They are frozen"], "correct_index": 0, "solution": "RAINFORESTS have the greatest BIODIVERSITY because their HOT, WET CLIMATE ALL YEAR supports ABUNDANT plant and animal LIFE — dense forests with countless species. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "India protects its wildlife through projects such as:", "options": ["Project Tiger and Project Elephant", "Only building roads", "Only mining", "Only farming"], "correct_index": 0, "solution": "India PROTECTS its wildlife through PROJECTS like PROJECT TIGER and PROJECT ELEPHANT, aimed at conserving these endangered animals and their habitats. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The tundra vegetation is limited to mosses and lichens because:", "options": ["The climate is extremely cold with little growing season", "It is too hot", "There is too much rain", "The soil is too rich"], "correct_index": 0, "solution": "The TUNDRA vegetation is LIMITED to MOSSES and LICHENS because the CLIMATE is EXTREMELY COLD with a very short GROWING SEASON, so tall plants cannot survive. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is TRUE about the link between climate and vegetation?", "options": ["Different climates produce different types of natural vegetation and wildlife", "Climate has no effect on vegetation", "All regions have the same vegetation", "Vegetation depends only on humans"], "correct_index": 0, "solution": "It is TRUE that DIFFERENT CLIMATES produce DIFFERENT types of NATURAL VEGETATION (rainforest, grassland, desert, tundra) and, in turn, different WILDLIFE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The temperate grasslands of Australia are called the:", "options": ["Downs", "Pampas", "Prairies", "Veld"], "correct_index": 0, "solution": "The TEMPERATE GRASSLANDS of AUSTRALIA are called the DOWNS. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The temperate grasslands of South Africa are called the:", "options": ["Veld", "Pampas", "Prairies", "Steppes"], "correct_index": 0, "solution": "The TEMPERATE GRASSLANDS of SOUTH AFRICA are called the VELD. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Trees in tropical rainforests grow very tall and form a dense canopy because:", "options": ["They compete for sunlight in the warm, wet climate", "There is no sunlight", "It is cold", "There is no water"], "correct_index": 0, "solution": "Trees in TROPICAL RAINFORESTS grow very TALL and form a dense CANOPY because they COMPETE for SUNLIGHT in the warm, wet climate — reaching upward to catch the light. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The camel is well adapted to desert life because it:", "options": ["Can survive long without water and walk on sand", "Needs lots of water daily", "Lives only in cold regions", "Cannot walk on sand"], "correct_index": 0, "solution": "The CAMEL is well adapted to DESERT life because it can SURVIVE LONG WITHOUT WATER and has broad feet to WALK on SAND — the 'ship of the desert'. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Sundarbans, famous for the Royal Bengal Tiger, is an example of which vegetation?", "options": ["Mangrove forest", "Coniferous forest", "Desert scrub", "Tundra"], "correct_index": 0, "solution": "The SUNDARBANS (in the Ganga–Brahmaputra delta), famous for the ROYAL BENGAL TIGER, is an example of MANGROVE FOREST. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Why should we plant more trees (afforestation)?", "options": ["To restore forests, provide habitat, and improve the environment", "To harm nature", "It is useless", "To increase pollution"], "correct_index": 0, "solution": "We should PLANT MORE TREES (AFFORESTATION) to RESTORE FORESTS, PROVIDE HABITAT for wildlife, and IMPROVE the ENVIRONMENT (cleaner air, more rain, less erosion). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a way ordinary people can help protect wildlife?", "options": ["Not buying products made from endangered animals and supporting conservation", "Hunting animals", "Destroying forests", "Polluting rivers"], "correct_index": 0, "solution": "Ordinary people can HELP PROTECT WILDLIFE by NOT BUYING PRODUCTS made from ENDANGERED ANIMALS (ivory, fur) and by SUPPORTING CONSERVATION efforts. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The variety of plant and animal life in a region is called its:", "options": ["Biodiversity", "Climate", "Landform", "Soil"], "correct_index": 0, "solution": "The VARIETY of PLANT and ANIMAL LIFE in a region is called its BIODIVERSITY — a measure of the richness of its living things. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs a grassland with its region correctly?", "options": ["Savanna → Africa; Prairies → North America; Steppes → Central Asia", "Savanna → Asia; Prairies → Africa; Steppes → Australia", "All are in one country", "None have regions"], "correct_index": 0, "solution": "The correct pairings are: SAVANNA → AFRICA; PRAIRIES → NORTH AMERICA; STEPPES → CENTRAL ASIA. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The natural vegetation of India ranges from tropical forests in the wet areas to:", "options": ["Thorny scrub in the dry areas and alpine vegetation in the mountains", "Only deserts", "Only ice", "One type everywhere"], "correct_index": 0, "solution": "India's NATURAL VEGETATION ranges from TROPICAL FORESTS in the wet areas to THORNY SCRUB in the DRY areas (like Rajasthan) and ALPINE vegetation in the high MOUNTAINS — reflecting its climatic diversity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Wildlife and forests together are important for humans because they:", "options": ["Provide resources, maintain ecological balance, and enrich our lives", "Are of no use", "Only cause harm", "Should be destroyed"], "correct_index": 0, "solution": "WILDLIFE and FORESTS together are important because they PROVIDE RESOURCES (wood, medicine, food), MAINTAIN ECOLOGICAL BALANCE (the web of life), and ENRICH our LIVES (beauty, recreation, knowledge). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The best summary of this chapter's theme is that:", "options": ["Climate shapes natural vegetation and wildlife, which are precious and must be conserved", "Vegetation is unrelated to climate", "Wildlife should be hunted freely", "Forests have no value"], "correct_index": 0, "solution": "The best SUMMARY of this chapter's THEME is that CLIMATE SHAPES NATURAL VEGETATION and WILDLIFE, which are PRECIOUS resources that must be CONSERVED for the future. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Natural Vegetation and Wildlife' is that:", "options": ["Vegetation and wildlife are unimportant", "NATURAL VEGETATION — the plant life that grows on its own — and the WILDLIFE it supports depend chiefly on CLIMATE (temperature and rainfall), so they vary from region to region: dense TROPICAL EVERGREEN and DECIDUOUS forests in hot, wet areas; CONIFEROUS forests (taiga) in cold lands; GRASSLANDS (savanna in the tropics; prairies, pampas and steppes in temperate zones) supporting grazing animals; thorny SCRUB in deserts; and mosses and lichens in the TUNDRA — each with its own wildlife; because forests and wildlife are precious (giving oxygen, timber, medicines, habitats and ecological balance) but threatened by deforestation and poaching, they must be CONSERVED through national parks, sanctuaries and projects", "Only forests matter", "Climate has no effect on plants"], "correct_index": 1, "solution": "The chapter's overall message is that NATURAL VEGETATION — the plant life that GROWS on its OWN — and the WILDLIFE it supports depend chiefly on CLIMATE (mainly TEMPERATURE and RAINFALL), so they VARY from region to region. These include dense TROPICAL EVERGREEN forests (in hot, wet areas, green all year) and TROPICAL DECIDUOUS/MONSOON forests (teak, sal, shedding leaves in the dry season); CONIFEROUS forests (TAIGA, with needle-leaved softwood trees) in cold high latitudes; GRASSLANDS — SAVANNA in the tropics (Africa) and PRAIRIES, PAMPAS, and STEPPES in temperate zones — which support grazing animals; thorny SCRUB and cactus in hot DESERTS; MANGROVES in coastal deltas; and MOSSES and LICHENS in the cold TUNDRA — each habitat with its own WILDLIFE (lions and zebras in the savanna, polar bears in the tundra, monkeys and birds in the rainforest). Because FORESTS and WILDLIFE are PRECIOUS (giving OXYGEN, TIMBER, MEDICINES, HABITATS, and ECOLOGICAL BALANCE) but THREATENED by DEFORESTATION and POACHING, they must be CONSERVED through NATIONAL PARKS, WILDLIFE SANCTUARIES, biosphere reserves, and projects like Project Tiger. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "The type and density of natural vegetation in a region depends primarily on:",
+    "options": [
+      "Soil colour only",
+      "Climate (temperature and rainfall)",
+      "Human population",
+      "The number of roads"
+    ],
+    "correct_index": 1,
+    "solution": "Natural vegetation is largely determined by climate — mainly temperature and moisture (rainfall).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Dense tropical evergreen forests (rainforests) are found in areas with:",
+    "options": [
+      "Very low rainfall",
+      "Heavy rainfall and high temperatures throughout the year",
+      "Cold, dry climate",
+      "Seasonal drought"
+    ],
+    "correct_index": 1,
+    "solution": "Tropical evergreen (rain)forests grow in hot regions with heavy rainfall, e.g. the Amazon basin; they remain green all year.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coniferous forests, valued for softwood, are also known as:",
+    "options": [
+      "Taiga",
+      "Savanna",
+      "Tundra",
+      "Mangrove"
+    ],
+    "correct_index": 0,
+    "solution": "The coniferous forests of high northern latitudes are called taiga and yield softwood used for paper and furniture.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The tropical grasslands of Africa are known as the:",
+    "options": [
+      "Prairies",
+      "Savanna",
+      "Steppes",
+      "Pampas"
+    ],
+    "correct_index": 1,
+    "solution": "Savanna is the name for tropical grasslands, most extensively found in Africa.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperate grasslands of North America are called the:",
+    "options": [
+      "Pampas",
+      "Prairies",
+      "Downs",
+      "Veld"
+    ],
+    "correct_index": 1,
+    "solution": "Prairies are the temperate grasslands of North America. (Pampas = South America, Downs = Australia, Veld = South Africa.)",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The vegetation of the cold polar (tundra) regions consists mainly of:",
+    "options": [
+      "Tall evergreen trees",
+      "Mosses, lichens and small shrubs",
+      "Dense rainforest",
+      "Palm trees"
+    ],
+    "correct_index": 1,
+    "solution": "In the extremely cold tundra, only mosses, lichens and low shrubs can survive.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Thorny bushes and scrub with long roots and thick stems are typical of which region?",
+    "options": [
+      "Equatorial rainforest",
+      "Dry desert regions",
+      "Polar tundra",
+      "Coniferous belt"
+    ],
+    "correct_index": 1,
+    "solution": "Thorny bushes and scrub, adapted to conserve water (long roots, waxy/thick stems), are found in hot, dry desert areas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best explains why wildlife conservation is important?",
+    "options": [
+      "Animals have no role in nature",
+      "To maintain ecological balance and protect species from extinction",
+      "To increase deforestation",
+      "To reduce the number of national parks"
+    ],
+    "correct_index": 1,
+    "solution": "Conserving wildlife maintains the ecological balance of nature and prevents species from becoming endangered or extinct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Natural vegetation' means:",
+    "options": [
+      "Plants that grow on their own without human help",
+      "Only planted crops",
+      "Only garden flowers",
+      "Only trees in cities"
+    ],
+    "correct_index": 0,
+    "solution": "NATURAL VEGETATION means the PLANTS that GROW on their OWN, WITHOUT HUMAN HELP, in response to the climate and soil of a region. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The main types of natural vegetation are forests, grasslands, scrub/thorny bushes and:",
+    "options": [
+      "Tundra vegetation",
+      "Only crops",
+      "Only cactus",
+      "Only moss"
+    ],
+    "correct_index": 0,
+    "solution": "The MAIN TYPES of NATURAL VEGETATION are FORESTS, GRASSLANDS, SCRUB/THORNY BUSHES, and TUNDRA vegetation (mosses and lichens) — each suited to a climate. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tropical evergreen forests are called 'evergreen' because:",
+    "options": [
+      "The trees do not shed all their leaves at the same time, so the forest stays green all year",
+      "They are always brown",
+      "They have no leaves",
+      "They shed all leaves at once"
+    ],
+    "correct_index": 0,
+    "solution": "TROPICAL EVERGREEN forests are called 'evergreen' because the TREES do NOT SHED all their LEAVES at the SAME TIME, so the forest STAYS GREEN ALL YEAR ROUND. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tropical deciduous forests (monsoon forests) are so called because their trees:",
+    "options": [
+      "Shed their leaves in the dry season to conserve water",
+      "Never lose leaves",
+      "Are always dead",
+      "Have no seasons"
+    ],
+    "correct_index": 0,
+    "solution": "TROPICAL DECIDUOUS (MONSOON) forests are so called because their trees SHED their LEAVES in the DRY SEASON to CONSERVE WATER. Teak and sal are examples. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a valuable tree of the tropical deciduous (monsoon) forest?",
+    "options": [
+      "Teak and sal",
+      "Pine and fir",
+      "Cactus",
+      "Moss"
+    ],
+    "correct_index": 0,
+    "solution": "TEAK and SAL are valuable hardwood trees of the TROPICAL DECIDUOUS (MONSOON) forests, widely used for furniture and building. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coniferous forests are found in the cold high-latitude regions and have trees with:",
+    "options": [
+      "Needle-like leaves and cone-shaped shapes (softwood)",
+      "Broad flat leaves",
+      "No leaves at all",
+      "Only flowers"
+    ],
+    "correct_index": 0,
+    "solution": "CONIFEROUS forests are found in COLD HIGH-LATITUDE regions and have trees (like pine, fir, spruce) with NEEDLE-LIKE LEAVES and a CONE SHAPE, yielding SOFTWOOD. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Savanna — tropical grassland (Africa) 2. Prairies — temperate grassland (N. America) 3. Taiga — coniferous forest. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: SAVANNA → TROPICAL GRASSLAND (Africa); PRAIRIES → TEMPERATE GRASSLAND (North America); TAIGA → CONIFEROUS FOREST. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The temperate grasslands of South America are called the:",
+    "options": [
+      "Pampas",
+      "Prairies",
+      "Steppes",
+      "Downs"
+    ],
+    "correct_index": 0,
+    "solution": "The TEMPERATE GRASSLANDS of SOUTH AMERICA are called the PAMPAS. (Prairies = North America; Steppes = Central Asia/Europe; Downs = Australia.) So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The temperate grasslands of Central Asia are called the:",
+    "options": [
+      "Steppes",
+      "Pampas",
+      "Veld",
+      "Savanna"
+    ],
+    "correct_index": 0,
+    "solution": "The TEMPERATE GRASSLANDS of CENTRAL ASIA (and eastern Europe) are called the STEPPES. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Grasslands are important because they:",
+    "options": [
+      "Support grazing animals and are used for rearing cattle and farming",
+      "Support no life",
+      "Are useless",
+      "Are always frozen"
+    ],
+    "correct_index": 0,
+    "solution": "GRASSLANDS are important because they SUPPORT GRAZING ANIMALS (like deer, zebra, cattle) and are used for REARING CATTLE and FARMING (they are among the world's great agricultural regions). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The vegetation of hot deserts is adapted to conserve water through features like:",
+    "options": [
+      "Thick, waxy stems, spines instead of leaves, and long roots",
+      "Broad flat leaves",
+      "Needing lots of water",
+      "Growing very tall"
+    ],
+    "correct_index": 0,
+    "solution": "DESERT vegetation (like cactus) is adapted to CONSERVE WATER through THICK, WAXY STEMS, SPINES instead of leaves (to reduce water loss), and LONG ROOTS to reach deep water. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mangrove forests are found:",
+    "options": [
+      "In coastal and tidal areas (like river deltas)",
+      "On high mountains",
+      "In deserts",
+      "In polar regions"
+    ],
+    "correct_index": 0,
+    "solution": "MANGROVE forests are found in COASTAL and TIDAL AREAS (like river DELTAS, e.g., the Sundarbans), where trees are adapted to grow in salty, waterlogged conditions. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Wildlife refers to:",
+    "options": [
+      "The animals and birds that live naturally in the wild",
+      "Only pets",
+      "Only farm animals",
+      "Only zoo animals"
+    ],
+    "correct_index": 0,
+    "solution": "WILDLIFE refers to the ANIMALS and BIRDS (and other creatures) that LIVE NATURALLY in the WILD, in forests, grasslands, wetlands, and other habitats. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Different types of vegetation support different wildlife because:",
+    "options": [
+      "Each habitat provides food and shelter suited to particular animals",
+      "Animals live anywhere equally",
+      "Vegetation has no effect on animals",
+      "All animals eat the same food"
+    ],
+    "correct_index": 0,
+    "solution": "Different types of VEGETATION support different WILDLIFE because EACH HABITAT provides the FOOD and SHELTER SUITED to PARTICULAR ANIMALS — e.g., rainforests, grasslands, and deserts each have their own creatures. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lion, giraffe and zebra are typical wildlife of the:",
+    "options": [
+      "Savanna grasslands",
+      "Polar tundra",
+      "Coniferous forest",
+      "Ocean"
+    ],
+    "correct_index": 0,
+    "solution": "The LION, GIRAFFE, and ZEBRA are typical wildlife of the SAVANNA GRASSLANDS of Africa, where open grass and scattered trees suit grazing and hunting. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Animals like the polar bear and reindeer are found in the:",
+    "options": [
+      "Cold tundra (polar) regions",
+      "Hot desert",
+      "Tropical rainforest",
+      "Grassland"
+    ],
+    "correct_index": 0,
+    "solution": "Animals like the POLAR BEAR and REINDEER are found in the COLD TUNDRA (POLAR) REGIONS, adapted to survive extreme cold. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Natural vegetation varies from region to region. Reason (R): It depends on climate factors like temperature and rainfall. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — natural vegetation varies from region to region. R is TRUE and correctly EXPLAINS A: it DEPENDS on CLIMATE factors like TEMPERATURE and RAINFALL, which differ from place to place — the very reason vegetation varies. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Species that are in danger of extinction are called:",
+    "options": [
+      "Endangered species",
+      "Common species",
+      "Extinct species",
+      "Domestic species"
+    ],
+    "correct_index": 0,
+    "solution": "Species that are in DANGER of EXTINCTION (very few left) are called ENDANGERED SPECIES — like the tiger, one-horned rhino, and Asiatic lion in India. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "To protect wildlife, governments set up:",
+    "options": [
+      "National parks, wildlife sanctuaries and biosphere reserves",
+      "Only factories",
+      "Only cities",
+      "Only farms"
+    ],
+    "correct_index": 0,
+    "solution": "To PROTECT WILDLIFE, governments set up NATIONAL PARKS, WILDLIFE SANCTUARIES, and BIOSPHERE RESERVES, where animals and plants are protected from harm. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main threats to natural vegetation and wildlife include:",
+    "options": [
+      "Deforestation, hunting/poaching, and destruction of habitats",
+      "Planting trees",
+      "Protecting animals",
+      "Cleaning rivers"
+    ],
+    "correct_index": 0,
+    "solution": "The main THREATS to natural vegetation and wildlife include DEFORESTATION (cutting forests), HUNTING/POACHING, and the DESTRUCTION of HABITATS by human activity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Forests are valuable because they provide:",
+    "options": [
+      "Timber, oxygen, medicines, wildlife habitat and help regulate climate",
+      "Nothing",
+      "Only firewood",
+      "Only shade"
+    ],
+    "correct_index": 0,
+    "solution": "FORESTS are valuable because they provide TIMBER, OXYGEN, MEDICINES, and HABITAT for WILDLIFE, and they HELP REGULATE CLIMATE and rainfall while preventing soil erosion. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs a vegetation type with its wildlife?",
+    "options": [
+      "Rainforest → monkeys and colourful birds; Savanna → lions and zebras; Tundra → polar bears",
+      "Rainforest → polar bears; Savanna → penguins; Tundra → monkeys",
+      "All have the same animals",
+      "None have wildlife"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: RAINFOREST → MONKEYS and COLOURFUL BIRDS; SAVANNA → LIONS and ZEBRAS; TUNDRA → POLAR BEARS (and reindeer). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Migratory birds travel long distances between regions because they:",
+    "options": [
+      "Move to find suitable climate, food and breeding grounds",
+      "Have no reason",
+      "Cannot fly",
+      "Never move"
+    ],
+    "correct_index": 0,
+    "solution": "MIGRATORY BIRDS travel long distances to MOVE to find SUITABLE CLIMATE, FOOD, and BREEDING GROUNDS as seasons change — many visit India's wetlands in winter. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The loss of forests (deforestation) harms wildlife because it:",
+    "options": [
+      "Destroys the habitats animals need to live",
+      "Helps animals",
+      "Has no effect",
+      "Increases wildlife"
+    ],
+    "correct_index": 0,
+    "solution": "DEFORESTATION harms wildlife because it DESTROYS the HABITATS (homes) that animals NEED to LIVE, find food, and reproduce — pushing many species toward extinction. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The vegetation of a region and its wildlife together form a(n):",
+    "options": [
+      "Ecosystem / biome",
+      "Desert only",
+      "Ocean only",
+      "City"
+    ],
+    "correct_index": 0,
+    "solution": "The VEGETATION of a region and its WILDLIFE together form an ECOSYSTEM (or a large biome), in which plants and animals depend on one another. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why do rainforests have the greatest variety (biodiversity) of plants and animals?",
+    "options": [
+      "Their hot, wet climate all year supports abundant life",
+      "They are cold and dry",
+      "They have no water",
+      "They are frozen"
+    ],
+    "correct_index": 0,
+    "solution": "RAINFORESTS have the greatest BIODIVERSITY because their HOT, WET CLIMATE ALL YEAR supports ABUNDANT plant and animal LIFE — dense forests with countless species. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India protects its wildlife through projects such as:",
+    "options": [
+      "Project Tiger and Project Elephant",
+      "Only building roads",
+      "Only mining",
+      "Only farming"
+    ],
+    "correct_index": 0,
+    "solution": "India PROTECTS its wildlife through PROJECTS like PROJECT TIGER and PROJECT ELEPHANT, aimed at conserving these endangered animals and their habitats. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tundra vegetation is limited to mosses and lichens because:",
+    "options": [
+      "The climate is extremely cold with little growing season",
+      "It is too hot",
+      "There is too much rain",
+      "The soil is too rich"
+    ],
+    "correct_index": 0,
+    "solution": "The TUNDRA vegetation is LIMITED to MOSSES and LICHENS because the CLIMATE is EXTREMELY COLD with a very short GROWING SEASON, so tall plants cannot survive. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is TRUE about the link between climate and vegetation?",
+    "options": [
+      "Different climates produce different types of natural vegetation and wildlife",
+      "Climate has no effect on vegetation",
+      "All regions have the same vegetation",
+      "Vegetation depends only on humans"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that DIFFERENT CLIMATES produce DIFFERENT types of NATURAL VEGETATION (rainforest, grassland, desert, tundra) and, in turn, different WILDLIFE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperate grasslands of Australia are called the:",
+    "options": [
+      "Downs",
+      "Pampas",
+      "Prairies",
+      "Veld"
+    ],
+    "correct_index": 0,
+    "solution": "The TEMPERATE GRASSLANDS of AUSTRALIA are called the DOWNS. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The temperate grasslands of South Africa are called the:",
+    "options": [
+      "Veld",
+      "Pampas",
+      "Prairies",
+      "Steppes"
+    ],
+    "correct_index": 0,
+    "solution": "The TEMPERATE GRASSLANDS of SOUTH AFRICA are called the VELD. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Trees in tropical rainforests grow very tall and form a dense canopy because:",
+    "options": [
+      "They compete for sunlight in the warm, wet climate",
+      "There is no sunlight",
+      "It is cold",
+      "There is no water"
+    ],
+    "correct_index": 0,
+    "solution": "Trees in TROPICAL RAINFORESTS grow very TALL and form a dense CANOPY because they COMPETE for SUNLIGHT in the warm, wet climate — reaching upward to catch the light. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The camel is well adapted to desert life because it:",
+    "options": [
+      "Can survive long without water and walk on sand",
+      "Needs lots of water daily",
+      "Lives only in cold regions",
+      "Cannot walk on sand"
+    ],
+    "correct_index": 0,
+    "solution": "The CAMEL is well adapted to DESERT life because it can SURVIVE LONG WITHOUT WATER and has broad feet to WALK on SAND — the 'ship of the desert'. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sundarbans, famous for the Royal Bengal Tiger, is an example of which vegetation?",
+    "options": [
+      "Mangrove forest",
+      "Coniferous forest",
+      "Desert scrub",
+      "Tundra"
+    ],
+    "correct_index": 0,
+    "solution": "The SUNDARBANS (in the Ganga–Brahmaputra delta), famous for the ROYAL BENGAL TIGER, is an example of MANGROVE FOREST. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Why should we plant more trees (afforestation)?",
+    "options": [
+      "To restore forests, provide habitat, and improve the environment",
+      "To harm nature",
+      "It is useless",
+      "To increase pollution"
+    ],
+    "correct_index": 0,
+    "solution": "We should PLANT MORE TREES (AFFORESTATION) to RESTORE FORESTS, PROVIDE HABITAT for wildlife, and IMPROVE the ENVIRONMENT (cleaner air, more rain, less erosion). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a way ordinary people can help protect wildlife?",
+    "options": [
+      "Not buying products made from endangered animals and supporting conservation",
+      "Hunting animals",
+      "Destroying forests",
+      "Polluting rivers"
+    ],
+    "correct_index": 0,
+    "solution": "Ordinary people can HELP PROTECT WILDLIFE by NOT BUYING PRODUCTS made from ENDANGERED ANIMALS (ivory, fur) and by SUPPORTING CONSERVATION efforts. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The variety of plant and animal life in a region is called its:",
+    "options": [
+      "Biodiversity",
+      "Climate",
+      "Landform",
+      "Soil"
+    ],
+    "correct_index": 0,
+    "solution": "The VARIETY of PLANT and ANIMAL LIFE in a region is called its BIODIVERSITY — a measure of the richness of its living things. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs a grassland with its region correctly?",
+    "options": [
+      "Savanna → Africa; Prairies → North America; Steppes → Central Asia",
+      "Savanna → Asia; Prairies → Africa; Steppes → Australia",
+      "All are in one country",
+      "None have regions"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: SAVANNA → AFRICA; PRAIRIES → NORTH AMERICA; STEPPES → CENTRAL ASIA. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The natural vegetation of India ranges from tropical forests in the wet areas to:",
+    "options": [
+      "Thorny scrub in the dry areas and alpine vegetation in the mountains",
+      "Only deserts",
+      "Only ice",
+      "One type everywhere"
+    ],
+    "correct_index": 0,
+    "solution": "India's NATURAL VEGETATION ranges from TROPICAL FORESTS in the wet areas to THORNY SCRUB in the DRY areas (like Rajasthan) and ALPINE vegetation in the high MOUNTAINS — reflecting its climatic diversity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wildlife and forests together are important for humans because they:",
+    "options": [
+      "Provide resources, maintain ecological balance, and enrich our lives",
+      "Are of no use",
+      "Only cause harm",
+      "Should be destroyed"
+    ],
+    "correct_index": 0,
+    "solution": "WILDLIFE and FORESTS together are important because they PROVIDE RESOURCES (wood, medicine, food), MAINTAIN ECOLOGICAL BALANCE (the web of life), and ENRICH our LIVES (beauty, recreation, knowledge). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The best summary of this chapter's theme is that:",
+    "options": [
+      "Climate shapes natural vegetation and wildlife, which are precious and must be conserved",
+      "Vegetation is unrelated to climate",
+      "Wildlife should be hunted freely",
+      "Forests have no value"
+    ],
+    "correct_index": 0,
+    "solution": "The best SUMMARY of this chapter's THEME is that CLIMATE SHAPES NATURAL VEGETATION and WILDLIFE, which are PRECIOUS resources that must be CONSERVED for the future. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Natural Vegetation and Wildlife' is that:",
+    "options": [
+      "Vegetation and wildlife are unimportant",
+      "NATURAL VEGETATION — the plant life that grows on its own — and the WILDLIFE it supports depend chiefly on CLIMATE (temperature and rainfall), so they vary from region to region: dense TROPICAL EVERGREEN and DECIDUOUS forests in hot, wet areas; CONIFEROUS forests (taiga) in cold lands; GRASSLANDS (savanna in the tropics; prairies, pampas and steppes in temperate zones) supporting grazing animals; thorny SCRUB in deserts; and mosses and lichens in the TUNDRA — each with its own wildlife; because forests and wildlife are precious (giving oxygen, timber, medicines, habitats and ecological balance) but threatened by deforestation and poaching, they must be CONSERVED through national parks, sanctuaries and projects",
+      "Only forests matter",
+      "Climate has no effect on plants"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that NATURAL VEGETATION — the plant life that GROWS on its OWN — and the WILDLIFE it supports depend chiefly on CLIMATE (mainly TEMPERATURE and RAINFALL), so they VARY from region to region. These include dense TROPICAL EVERGREEN forests (in hot, wet areas, green all year) and TROPICAL DECIDUOUS/MONSOON forests (teak, sal, shedding leaves in the dry season); CONIFEROUS forests (TAIGA, with needle-leaved softwood trees) in cold high latitudes; GRASSLANDS — SAVANNA in the tropics (Africa) and PRAIRIES, PAMPAS, and STEPPES in temperate zones — which support grazing animals; thorny SCRUB and cactus in hot DESERTS; MANGROVES in coastal deltas; and MOSSES and LICHENS in the cold TUNDRA — each habitat with its own WILDLIFE (lions and zebras in the savanna, polar bears in the tundra, monkeys and birds in the rainforest). Because FORESTS and WILDLIFE are PRECIOUS (giving OXYGEN, TIMBER, MEDICINES, HABITATS, and ECOLOGICAL BALANCE) but THREATENED by DEFORESTATION and POACHING, they must be CONSERVED through NATIONAL PARKS, WILDLIFE SANCTUARIES, biosphere reserves, and projects like Project Tiger. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Natural vegetation' refers to plants that:",
+    "options": [
+      "Are planted by humans",
+      "Grow on their own without human help, adapted to the local climate",
+      "Are grown in gardens",
+      "Grow only in cities"
+    ],
+    "correct_index": 1,
+    "solution": "Natural vegetation is the plant life that grows naturally, without human interference, adapted to the region's climate and soil.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The type of natural vegetation in a region depends mainly on its:",
+    "options": [
+      "Population",
+      "Climate (temperature and rainfall) and soil",
+      "Buildings",
+      "Roads"
+    ],
+    "correct_index": 1,
+    "solution": "The nature of vegetation is determined chiefly by climate (temperature, rainfall, sunlight) and soil; different climates support different types of vegetation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three broad types of natural vegetation are forests, grasslands and:",
+    "options": [
+      "Deserts (thorny bushes and scrub)",
+      "Cities",
+      "Oceans",
+      "Rivers"
+    ],
+    "correct_index": 0,
+    "solution": "Natural vegetation is broadly classified into forests (abundant rainfall), grasslands (moderate rainfall) and shrubs/thorny bushes (dry desert regions).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Dense forests with tall evergreen trees are found in regions with:",
+    "options": [
+      "Very low rainfall",
+      "Heavy rainfall and high temperatures (tropical equatorial regions)",
+      "Cold desert climate",
+      "No rainfall"
+    ],
+    "correct_index": 1,
+    "solution": "Tropical evergreen (rainforest) vegetation with dense, tall evergreen trees grows in hot, humid regions with heavy rainfall throughout the year (e.g. the Amazon, Congo, Western Ghats).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tropical deciduous forests (monsoon forests) shed their leaves in the:",
+    "options": [
+      "Rainy season",
+      "Dry season",
+      "Winter only",
+      "Summer only"
+    ],
+    "correct_index": 1,
+    "solution": "Tropical deciduous (monsoon) forests shed their leaves in the dry season to conserve water; teak and sal are important trees of these forests, common in much of India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which valuable timber tree is characteristic of tropical deciduous (monsoon) forests in India?",
+    "options": [
+      "Cactus",
+      "Teak",
+      "Pine",
+      "Coconut"
+    ],
+    "correct_index": 1,
+    "solution": "Teak (and sal) are valuable hardwood trees of tropical deciduous forests, widely found in India and important for timber.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The coniferous forests found in cold, high-latitude and mountainous regions have trees that are:",
+    "options": [
+      "Broad-leaved",
+      "Cone-bearing (needle-like leaves, e.g. pine, fir)",
+      "Leafless",
+      "Aquatic"
+    ],
+    "correct_index": 1,
+    "solution": "Coniferous (taiga) forests have cone-bearing evergreen trees with needle-like leaves (pine, fir, spruce, cedar) adapted to cold climates; their soft wood is used for paper and construction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mediterranean vegetation is found in regions with:",
+    "options": [
+      "Hot wet summers",
+      "Hot dry summers and mild wet winters",
+      "Cold dry climate",
+      "Equatorial climate"
+    ],
+    "correct_index": 1,
+    "solution": "Mediterranean vegetation (citrus fruits, olives) grows in areas with hot, dry summers and mild, wet winters, such as the lands around the Mediterranean Sea, California and parts of Australia.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Tropical grasslands are known as:",
+    "options": [
+      "Steppes",
+      "Savanna",
+      "Prairies",
+      "Pampas"
+    ],
+    "correct_index": 1,
+    "solution": "Tropical grasslands are called savanna (e.g. in Africa); they have tall grasses and scattered trees, and support large herbivores like zebras and elephants.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The temperate grasslands of North America are called:",
+    "options": [
+      "Savanna",
+      "Prairies",
+      "Steppes",
+      "Downs"
+    ],
+    "correct_index": 1,
+    "solution": "Temperate grasslands have different regional names — Prairies (North America), Steppes (Central Asia/Europe), Pampas (South America), Downs (Australia) and Velds (South Africa).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The vegetation of hot deserts consists mainly of:",
+    "options": [
+      "Tall trees",
+      "Thorny bushes, cacti and scanty scrub adapted to dry conditions",
+      "Grasslands",
+      "Rainforest"
+    ],
+    "correct_index": 1,
+    "solution": "Hot deserts have sparse vegetation of thorny bushes, cacti and drought-resistant plants (xerophytes) that store water and have reduced leaves to minimise water loss.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Cactus plants survive in deserts because they:",
+    "options": [
+      "Have large leaves",
+      "Store water in thick stems and have spines instead of leaves to reduce water loss",
+      "Need lots of water",
+      "Grow in oceans"
+    ],
+    "correct_index": 1,
+    "solution": "Cacti are adapted to deserts by storing water in fleshy stems, having spines (modified leaves) to reduce water loss, and having deep or spreading roots to absorb water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tundra vegetation of the cold polar regions consists of:",
+    "options": [
+      "Tall forests",
+      "Mosses, lichens and low shrubs",
+      "Cacti",
+      "Palm trees"
+    ],
+    "correct_index": 1,
+    "solution": "Tundra regions, being extremely cold with a short growing season and permafrost, support only mosses, lichens, sedges and small hardy shrubs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mangrove (tidal) forests grow in:",
+    "options": [
+      "Cold deserts",
+      "Coastal areas and river deltas influenced by tides",
+      "High mountains",
+      "Dry deserts"
+    ],
+    "correct_index": 1,
+    "solution": "Mangrove (tidal) forests grow in coastal and deltaic areas affected by tides; they are salt-tolerant, with breathing roots. The Sundarbans is the world's largest mangrove forest.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wildlife (animals) of a region depends on its:",
+    "options": [
+      "Buildings",
+      "Natural vegetation and climate",
+      "Roads",
+      "Population only"
+    ],
+    "correct_index": 1,
+    "solution": "The wildlife of a region is closely linked to its natural vegetation and climate, which provide the habitat and food that support particular animals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Large herbivores like elephants, giraffes and zebras are characteristic of the:",
+    "options": [
+      "Tundra",
+      "Tropical grasslands (savanna)",
+      "Cold desert",
+      "Coniferous forest"
+    ],
+    "correct_index": 1,
+    "solution": "The tropical grasslands (savanna), especially in Africa, support large herbivores like elephants, giraffes, zebras and their predators like lions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The polar bear and seal are animals adapted to the:",
+    "options": [
+      "Tropical rainforest",
+      "Polar (tundra) regions",
+      "Desert",
+      "Grassland"
+    ],
+    "correct_index": 1,
+    "solution": "Polar bears, seals, walruses and reindeer are adapted to the extreme cold of the polar/tundra regions with thick fur or fat layers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The importance of forests includes providing oxygen, timber, and:",
+    "options": [
+      "Only shade",
+      "Habitat for wildlife, checking soil erosion and influencing rainfall",
+      "Only decoration",
+      "Nothing"
+    ],
+    "correct_index": 1,
+    "solution": "Forests provide oxygen, timber and other products, harbour wildlife, prevent soil erosion, help regulate the water cycle and rainfall, and absorb carbon dioxide.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main cause of the destruction of natural vegetation and wildlife is:",
+    "options": [
+      "Natural growth",
+      "Human activities like deforestation, hunting and habitat destruction",
+      "Rainfall",
+      "Sunlight"
+    ],
+    "correct_index": 1,
+    "solution": "Human activities — deforestation for agriculture and settlements, over-hunting, pollution and habitat destruction — are the main threats to natural vegetation and wildlife.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "To protect wildlife, governments establish:",
+    "options": [
+      "Factories",
+      "National parks, wildlife sanctuaries and biosphere reserves",
+      "Highways",
+      "Markets"
+    ],
+    "correct_index": 1,
+    "solution": "To conserve wildlife and their habitats, governments set up protected areas such as national parks, wildlife sanctuaries and biosphere reserves.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Migratory birds visit India in winter from regions like Siberia; this shows that wildlife:",
+    "options": [
+      "Never moves",
+      "Can migrate long distances seasonally in search of favourable conditions",
+      "Only lives in one place",
+      "Cannot fly"
+    ],
+    "correct_index": 1,
+    "solution": "Many birds migrate thousands of kilometres seasonally (e.g. Siberian cranes to India in winter) in search of food and suitable climate, highlighting the interconnectedness of ecosystems.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tropical rainforest is often called the 'lungs of the Earth' because it:",
+    "options": [
+      "Consumes oxygen",
+      "Produces large amounts of oxygen and absorbs carbon dioxide",
+      "Has no plants",
+      "Is cold"
+    ],
+    "correct_index": 1,
+    "solution": "Tropical rainforests like the Amazon are called the 'lungs of the Earth' because their dense vegetation produces vast amounts of oxygen and absorbs carbon dioxide through photosynthesis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches vegetation with a region? (i) Rainforest – equatorial (ii) Savanna – tropical grassland (iii) Tundra – polar",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: tropical rainforests occur in equatorial regions, savanna is tropical grassland, and tundra vegetation is found in the cold polar regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main factor causing different types of natural vegetation across the world is variation in:",
+    "options": [
+      "Only population",
+      "Climate (especially temperature and rainfall)",
+      "Only soil colour",
+      "Only altitude"
+    ],
+    "correct_index": 1,
+    "solution": "Variation in climate — particularly temperature and rainfall — across different latitudes and altitudes is the main factor producing the world's diverse types of natural vegetation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Conserving natural vegetation and wildlife is important because they:",
+    "options": [
+      "Have no value",
+      "Maintain ecological balance, biodiversity and provide resources and services",
+      "Waste land",
+      "Harm humans"
+    ],
+    "correct_index": 1,
+    "solution": "Natural vegetation and wildlife maintain ecological balance and biodiversity, provide resources (food, medicine, timber) and ecosystem services, making their conservation essential.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coniferous forests are also called 'taiga' and are found mainly in the ______ hemisphere.",
+    "options": [
+      "Southern",
+      "Northern (high latitudes)",
+      "Both equally",
+      "Neither"
+    ],
+    "correct_index": 1,
+    "solution": "Coniferous (taiga) forests form a broad belt across the high latitudes of the Northern Hemisphere (Canada, Scandinavia, Russia), where the climate is cold.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which vegetation type would you expect in an area with very heavy year-round rainfall near the equator?",
+    "options": [
+      "Desert scrub",
+      "Tropical evergreen rainforest",
+      "Tundra",
+      "Grassland"
+    ],
+    "correct_index": 1,
+    "solution": "Areas near the equator with heavy year-round rainfall and high temperatures support dense tropical evergreen rainforests.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'one-horned rhinoceros' is associated with the tall grasslands and forests of:",
+    "options": [
+      "Rajasthan desert",
+      "Assam (Kaziranga)",
+      "Kerala coast",
+      "Punjab plains"
+    ],
+    "correct_index": 1,
+    "solution": "The one-horned rhinoceros inhabits the tall wet grasslands and forests of Assam, especially Kaziranga National Park.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall relationship between climate, vegetation and wildlife is that:",
+    "options": [
+      "They are unrelated",
+      "Climate shapes vegetation, which in turn supports particular wildlife",
+      "Wildlife controls climate",
+      "Vegetation has no role"
+    ],
+    "correct_index": 1,
+    "solution": "Climate determines the type of natural vegetation, which in turn provides the habitat and food that support particular kinds of wildlife — an interconnected ecological relationship.",
+    "difficulty": "medium"
+  }
 ]

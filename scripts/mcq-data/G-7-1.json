@@ -1,52 +1,902 @@
 [
-  { "stem": "The four major domains of the environment are the lithosphere, atmosphere, biosphere and the:", "options": ["Stratosphere", "Hydrosphere", "Mesosphere", "Ionosphere"], "correct_index": 1, "solution": "The four domains are the lithosphere (land), hydrosphere (water), atmosphere (air) and biosphere (life).", "difficulty": "easy" },
-  { "stem": "The domain of the environment that consists of all living organisms is the:", "options": ["Lithosphere", "Hydrosphere", "Biosphere", "Atmosphere"], "correct_index": 2, "solution": "The biosphere is the narrow zone where land, water and air interact and support all living beings.", "difficulty": "easy" },
-  { "stem": "The solid, rocky outer crust of the Earth forms the:", "options": ["Atmosphere", "Hydrosphere", "Lithosphere", "Biosphere"], "correct_index": 2, "solution": "The lithosphere is the solid crust or hard top layer of the Earth, made of rocks and soil.", "difficulty": "easy" },
-  { "stem": "A system formed by the interaction of all living organisms with their physical environment is called a(n):", "options": ["Biome only", "Ecosystem", "Atmosphere", "Continent"], "correct_index": 1, "solution": "An ecosystem is a community of living organisms interacting with one another and with their non-living surroundings.", "difficulty": "medium" },
-  { "stem": "Which of the following is an example of the human-made environment?", "options": ["A river", "Mountains", "Buildings, roads and bridges", "Forests"], "correct_index": 2, "solution": "The human-made environment consists of things created by people — buildings, roads, bridges, parks, industries, etc.", "difficulty": "easy" },
-  { "stem": "Non-living components of the environment such as land, water and air are described as:", "options": ["Biotic", "Abiotic", "Organic", "Cultural"], "correct_index": 1, "solution": "Abiotic components are the non-living elements (land, water, air); biotic components are the living ones (plants, animals).", "difficulty": "medium" },
-  { "stem": "The natural environment refers to:", "options": ["Only things made by humans", "All natural surroundings — land, water, air and living things — not made by humans", "Only cities and factories", "Only farmland"], "correct_index": 1, "solution": "The natural environment includes all naturally occurring surroundings — landforms, water bodies, air, plants and animals.", "difficulty": "easy" },
-  { "stem": "The gaseous layer that surrounds the Earth and is essential for life is the:", "options": ["Lithosphere", "Hydrosphere", "Atmosphere", "Biosphere"], "correct_index": 2, "solution": "The atmosphere is the blanket of air surrounding the Earth, providing gases needed for life and protection from harmful radiation.", "difficulty": "easy" },
-  { "stem": "The word 'environment' broadly means:", "options": ["Everything that surrounds and affects us — natural and human-made", "Only the sky", "Only forests", "Only cities"], "correct_index": 0, "solution": "The ENVIRONMENT broadly means EVERYTHING that SURROUNDS and AFFECTS us — both the NATURAL (land, water, air, life) and the HUMAN-MADE surroundings. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The hydrosphere includes:", "options": ["All water bodies — oceans, rivers, lakes and groundwater", "Only the land", "Only the air", "Only living things"], "correct_index": 0, "solution": "The HYDROSPHERE includes ALL WATER BODIES — OCEANS, RIVERS, LAKES, and GROUNDWATER — the water domain of the environment. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The biosphere is special because it is:", "options": ["The zone where land, water and air meet and support life", "The hottest layer", "Only underground", "Only in the ocean"], "correct_index": 0, "solution": "The BIOSPHERE is special because it is the NARROW ZONE where LAND (lithosphere), WATER (hydrosphere), and AIR (atmosphere) MEET and SUPPORT LIFE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Living components of the environment (plants, animals, humans) are called:", "options": ["Biotic components", "Abiotic components", "Human-made components", "Mineral components"], "correct_index": 0, "solution": "LIVING components of the environment — PLANTS, ANIMALS, and HUMANS — are called BIOTIC components. (Non-living ones are abiotic.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In an ecosystem, plants are called producers because they:", "options": ["Make their own food through photosynthesis", "Eat other animals", "Do nothing", "Only decompose"], "correct_index": 0, "solution": "In an ECOSYSTEM, PLANTS are called PRODUCERS because they MAKE their OWN FOOD through PHOTOSYNTHESIS, using sunlight, water, and carbon dioxide. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Animals that eat plants or other animals are called:", "options": ["Consumers", "Producers", "Decomposers", "Abiotic"], "correct_index": 0, "solution": "ANIMALS that EAT plants or other animals are called CONSUMERS in an ecosystem, depending on producers for their food. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Organisms like bacteria and fungi that break down dead matter are called:", "options": ["Decomposers", "Producers", "Consumers", "Herbivores"], "correct_index": 0, "solution": "Organisms like BACTERIA and FUNGI that BREAK DOWN DEAD matter (returning nutrients to the soil) are called DECOMPOSERS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The transfer of food and energy from one organism to another in a sequence is called a:", "options": ["Food chain", "Water cycle", "Rock cycle", "Time chain"], "correct_index": 0, "solution": "The TRANSFER of FOOD and ENERGY from one organism to another in a sequence (e.g., plant → deer → tiger) is called a FOOD CHAIN. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. Lithosphere — land 2. Hydrosphere — water 3. Atmosphere — air 4. Biosphere — life. How many are correctly matched?", "options": ["All four", "Only two", "Only three", "None"], "correct_index": 0, "solution": "ALL FOUR are correct: LITHOSPHERE → LAND; HYDROSPHERE → WATER; ATMOSPHERE → AIR; BIOSPHERE → LIFE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The natural environment and the human-made environment together with people form the:", "options": ["Human environment / total environment", "Only the atmosphere", "Only the ocean", "A single rock"], "correct_index": 0, "solution": "The NATURAL environment, the HUMAN-MADE environment, and PEOPLE (and their social/cultural life) together form the TOTAL or HUMAN ENVIRONMENT in which we live. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is an abiotic (non-living) component of the environment?", "options": ["Sunlight, water and soil", "Plants", "Animals", "Bacteria"], "correct_index": 0, "solution": "SUNLIGHT, WATER, and SOIL are ABIOTIC (non-living) components. Plants, animals, and bacteria are BIOTIC (living). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Human beings affect the environment by:", "options": ["Using resources, building, farming, and sometimes causing pollution", "Having no effect", "Only helping it always", "Only living underground"], "correct_index": 0, "solution": "HUMAN BEINGS AFFECT the environment by USING RESOURCES, BUILDING (cities, roads), FARMING, and sometimes CAUSING POLLUTION and damage — so our actions must be responsible. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is it important to protect the environment?", "options": ["Because all life, including humans, depends on a healthy environment", "It is not important", "Only animals need it", "It has no effect on us"], "correct_index": 0, "solution": "It is important to PROTECT the environment because ALL LIFE, INCLUDING HUMANS, DEPENDS on a HEALTHY environment for air, water, food, and resources. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The interaction between the biotic and abiotic components of an area forms an:", "options": ["Ecosystem", "Empire", "Ocean", "Atmosphere"], "correct_index": 0, "solution": "The INTERACTION between the BIOTIC (living) and ABIOTIC (non-living) components of an area forms an ECOSYSTEM — a self-sustaining unit of life and environment. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): The biosphere supports life. Reason (R): It is the zone where the lithosphere, hydrosphere and atmosphere interact. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — the biosphere supports life. R is TRUE and correctly EXPLAINS A: it is the ZONE where the LITHOSPHERE, HYDROSPHERE, and ATMOSPHERE INTERACT, providing the land, water, and air that make life possible. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is an example of interaction between the domains of the environment?", "options": ["A tree (biosphere) growing in soil (lithosphere), drinking water (hydrosphere) and using air (atmosphere)", "A rock lying alone forever", "Nothing interacting", "Only the sky"], "correct_index": 0, "solution": "A good example of INTERACTION is a TREE (biosphere) GROWING in SOIL (lithosphere), DRINKING WATER (hydrosphere), and USING AIR (atmosphere) — showing all four domains working together. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The human-made (built) environment includes things like:", "options": ["Houses, roads, dams, factories and parks", "Rivers and mountains", "Wild forests", "Ocean currents"], "correct_index": 0, "solution": "The HUMAN-MADE (built) environment includes things CREATED by people — HOUSES, ROADS, DAMS, FACTORIES, and PARKS. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Air pollution, water pollution and deforestation are examples of:", "options": ["Human damage to the environment", "Natural improvement", "Things that help nature", "Non-existent problems"], "correct_index": 0, "solution": "AIR POLLUTION, WATER POLLUTION, and DEFORESTATION are examples of HUMAN DAMAGE to the environment, which harm ecosystems and human health. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The balance of nature is maintained when:", "options": ["Producers, consumers and decomposers function in a healthy ecosystem", "One species destroys all others", "Pollution increases", "Forests are cleared"], "correct_index": 0, "solution": "The BALANCE of NATURE is maintained when PRODUCERS, CONSUMERS, and DECOMPOSERS FUNCTION together in a HEALTHY ECOSYSTEM, keeping energy and nutrients flowing. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly describes the role of the atmosphere?", "options": ["It provides gases for life and protects Earth from harmful rays and extreme temperatures", "It has no use", "It only causes storms", "It blocks all sunlight"], "correct_index": 0, "solution": "The ATMOSPHERE PROVIDES GASES (oxygen, carbon dioxide) needed for LIFE and PROTECTS Earth from HARMFUL RAYS (like UV) and EXTREME TEMPERATURES, keeping the planet habitable. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Human activities that harm one domain of the environment often:", "options": ["Affect the other domains too, because they are interconnected", "Have no wider effect", "Help all other domains", "Are always harmless"], "correct_index": 0, "solution": "Human activities that harm ONE DOMAIN often AFFECT the OTHER DOMAINS too, because the domains are INTERCONNECTED — e.g., cutting forests affects soil, water, air, and wildlife alike. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The cultural environment refers to:", "options": ["The ways of life, beliefs, customs and social organisation of people", "Only the physical land", "Only the weather", "Only water bodies"], "correct_index": 0, "solution": "The CULTURAL ENVIRONMENT refers to the WAYS of LIFE, BELIEFS, CUSTOMS, and SOCIAL ORGANISATION of people — the human, social dimension of the total environment. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following statements is TRUE about the environment?", "options": ["It is made of interconnected natural and human-made components on which life depends", "It is only the sky", "It has no components", "It is unrelated to living things"], "correct_index": 0, "solution": "It is TRUE that the ENVIRONMENT is made of INTERCONNECTED NATURAL and HUMAN-MADE components on which ALL LIFE DEPENDS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The health of the biosphere depends on:", "options": ["A balance among all its living and non-living parts", "Removing all plants", "Increasing pollution", "Destroying ecosystems"], "correct_index": 0, "solution": "The HEALTH of the BIOSPHERE depends on a BALANCE among all its LIVING and NON-LIVING parts — a disturbance in one part can upset the whole system. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A simple food chain in a grassland might be:", "options": ["Grass → grasshopper → frog → snake", "Snake → grass → frog", "Frog → grass only", "Grass alone"], "correct_index": 0, "solution": "A simple GRASSLAND FOOD CHAIN might be GRASS (producer) → GRASSHOPPER → FROG → SNAKE — showing the flow of energy from one organism to the next. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main reason the biosphere is a 'narrow zone' is that life exists only where:", "options": ["Land, water and air together provide suitable conditions", "There is only rock", "There is only air", "There is nothing"], "correct_index": 0, "solution": "The BIOSPHERE is a NARROW ZONE because LIFE exists ONLY where LAND, WATER, and AIR TOGETHER provide SUITABLE CONDITIONS (right temperature, water, oxygen) — a thin band around the Earth's surface. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following pairs a domain with a correct example?", "options": ["Lithosphere → a mountain; Hydrosphere → a lake; Atmosphere → clouds; Biosphere → a bird", "Lithosphere → a bird; Hydrosphere → a rock; Atmosphere → a lake; Biosphere → clouds", "All are the same domain", "None have examples"], "correct_index": 0, "solution": "The correct matches are: LITHOSPHERE → a MOUNTAIN (land); HYDROSPHERE → a LAKE (water); ATMOSPHERE → CLOUDS (air); BIOSPHERE → a BIRD (life). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Sustainable use of the environment means using resources in a way that:", "options": ["Meets present needs without harming the ability of future generations to meet theirs", "Uses everything up now", "Ignores the future", "Wastes resources"], "correct_index": 0, "solution": "SUSTAINABLE USE means using resources to MEET PRESENT NEEDS WITHOUT HARMING the ability of FUTURE GENERATIONS to meet THEIRS — caring for the environment for the long term. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The study of the environment is important for students because it helps them:", "options": ["Understand how nature works and how to protect it", "Ignore nature", "Harm the planet", "Learn nothing useful"], "correct_index": 0, "solution": "Studying the ENVIRONMENT is important because it helps students UNDERSTAND how NATURE WORKS and how to PROTECT it — essential for a sustainable future. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The energy that drives most processes in the environment (the food chain, the water cycle) comes from the:", "options": ["Sun", "Moon", "Ocean floor", "Underground caves"], "correct_index": 0, "solution": "The ENERGY that drives most environmental processes — the FOOD CHAIN (via photosynthesis) and the WATER CYCLE (via evaporation) — comes from the SUN. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The lithosphere is important for living things because it provides:", "options": ["Soil for plants, minerals, and a surface to live on", "Only air", "Only water", "Nothing"], "correct_index": 0, "solution": "The LITHOSPHERE is important because it provides SOIL for PLANTS to grow, MINERALS and resources, and a SURFACE for living things to LIVE on. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is the correct order of a food chain?", "options": ["Producer → primary consumer → secondary consumer", "Secondary consumer → producer → primary consumer", "Consumer → decomposer → producer", "Decomposer → producer → consumer"], "correct_index": 0, "solution": "The correct order of a FOOD CHAIN is PRODUCER (plant) → PRIMARY CONSUMER (herbivore) → SECONDARY CONSUMER (carnivore) — showing energy flowing from plants upward. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Herbivores are animals that:", "options": ["Eat only plants", "Eat only meat", "Eat nothing", "Make their own food"], "correct_index": 0, "solution": "HERBIVORES are animals that EAT ONLY PLANTS (like cows, deer, and goats) — they are primary consumers in a food chain. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Carnivores are animals that:", "options": ["Eat other animals (meat)", "Eat only plants", "Make their own food", "Eat nothing"], "correct_index": 0, "solution": "CARNIVORES are animals that EAT OTHER ANIMALS (meat) — like lions, tigers, and eagles — occupying higher levels of the food chain. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The natural environment provides humans with resources such as:", "options": ["Air, water, food, minerals and energy", "Nothing", "Only pollution", "Only buildings"], "correct_index": 0, "solution": "The NATURAL ENVIRONMENT provides humans with essential RESOURCES — AIR, WATER, FOOD, MINERALS, and ENERGY — on which our survival and development depend. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "An omnivore is an animal that:", "options": ["Eats both plants and animals", "Eats only plants", "Eats only meat", "Eats nothing"], "correct_index": 0, "solution": "An OMNIVORE is an animal that EATS BOTH PLANTS and ANIMALS — like humans, bears, and crows. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The recycling of nutrients in nature depends heavily on:", "options": ["Decomposers breaking down dead matter", "Producers only", "The Sun only", "Pollution"], "correct_index": 0, "solution": "The RECYCLING of NUTRIENTS in nature depends heavily on DECOMPOSERS (bacteria, fungi) BREAKING DOWN DEAD MATTER and returning nutrients to the soil for plants to use again. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main difference between the natural and human-made environment is that the human-made environment is:", "options": ["Created by people, while the natural one exists on its own", "The same as the natural one", "Older than the Earth", "Found only in oceans"], "correct_index": 0, "solution": "The main difference is that the HUMAN-MADE environment is CREATED by PEOPLE (buildings, roads, machines), while the NATURAL environment EXISTS on its OWN (land, water, air, life). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following actions helps protect the environment?", "options": ["Planting trees, saving water, and reducing pollution", "Cutting all forests", "Wasting water", "Increasing pollution"], "correct_index": 0, "solution": "Actions that HELP PROTECT the environment include PLANTING TREES, SAVING WATER, and REDUCING POLLUTION — responsible behaviour that keeps ecosystems healthy. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The interdependence of living things in an ecosystem means that:", "options": ["Each organism depends on others for food, shelter or balance", "Organisms never affect each other", "Only one species matters", "Nothing is connected"], "correct_index": 0, "solution": "The INTERDEPENDENCE of living things means EACH ORGANISM DEPENDS on OTHERS for FOOD, SHELTER, or the BALANCE of the ecosystem — a web of connections. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Earth is unique among the planets because it:", "options": ["Has the conditions (air, water, temperature) that support life", "Has no atmosphere", "Is closest to the Sun", "Has no water"], "correct_index": 0, "solution": "The EARTH is unique because it has the CONDITIONS — the right AIR, WATER, and TEMPERATURE — that SUPPORT LIFE, making it the only known living planet. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Environment' is that:", "options": ["The environment is unimportant", "The ENVIRONMENT is everything that surrounds us, made up of the NATURAL environment (its four interconnected domains — the LITHOSPHERE/land, HYDROSPHERE/water, ATMOSPHERE/air and BIOSPHERE/life) and the HUMAN-MADE environment; the BIOSPHERE, where land, water and air meet, supports all life, and within it living (BIOTIC) and non-living (ABIOTIC) components interact in ECOSYSTEMS through food chains of producers, consumers and decomposers; since all life depends on this delicate, interconnected system, and human activities can harm it, it is our responsibility to use resources wisely and PROTECT the environment", "Only the land matters", "Humans have no effect on nature"], "correct_index": 1, "solution": "The chapter's overall message is that the ENVIRONMENT is EVERYTHING that SURROUNDS us, made up of the NATURAL ENVIRONMENT — with its FOUR INTERCONNECTED DOMAINS, the LITHOSPHERE (land), HYDROSPHERE (water), ATMOSPHERE (air), and BIOSPHERE (life) — and the HUMAN-MADE ENVIRONMENT (buildings, roads, farms). The BIOSPHERE, the narrow zone where LAND, WATER, and AIR MEET, SUPPORTS ALL LIFE; within it, LIVING (BIOTIC) and NON-LIVING (ABIOTIC) components INTERACT in ECOSYSTEMS through FOOD CHAINS of PRODUCERS, CONSUMERS, and DECOMPOSERS. Since ALL LIFE DEPENDS on this DELICATE, INTERCONNECTED system, and human activities can HARM it (through pollution, deforestation, etc.), it is our RESPONSIBILITY to use resources WISELY and PROTECT the environment for present and future generations. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "The four major domains of the environment are the lithosphere, atmosphere, biosphere and the:",
+    "options": [
+      "Stratosphere",
+      "Hydrosphere",
+      "Mesosphere",
+      "Ionosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The four domains are the lithosphere (land), hydrosphere (water), atmosphere (air) and biosphere (life).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The domain of the environment that consists of all living organisms is the:",
+    "options": [
+      "Lithosphere",
+      "Hydrosphere",
+      "Biosphere",
+      "Atmosphere"
+    ],
+    "correct_index": 2,
+    "solution": "The biosphere is the narrow zone where land, water and air interact and support all living beings.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The solid, rocky outer crust of the Earth forms the:",
+    "options": [
+      "Atmosphere",
+      "Hydrosphere",
+      "Lithosphere",
+      "Biosphere"
+    ],
+    "correct_index": 2,
+    "solution": "The lithosphere is the solid crust or hard top layer of the Earth, made of rocks and soil.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A system formed by the interaction of all living organisms with their physical environment is called a(n):",
+    "options": [
+      "Biome only",
+      "Ecosystem",
+      "Atmosphere",
+      "Continent"
+    ],
+    "correct_index": 1,
+    "solution": "An ecosystem is a community of living organisms interacting with one another and with their non-living surroundings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an example of the human-made environment?",
+    "options": [
+      "A river",
+      "Mountains",
+      "Buildings, roads and bridges",
+      "Forests"
+    ],
+    "correct_index": 2,
+    "solution": "The human-made environment consists of things created by people — buildings, roads, bridges, parks, industries, etc.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Non-living components of the environment such as land, water and air are described as:",
+    "options": [
+      "Biotic",
+      "Abiotic",
+      "Organic",
+      "Cultural"
+    ],
+    "correct_index": 1,
+    "solution": "Abiotic components are the non-living elements (land, water, air); biotic components are the living ones (plants, animals).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The natural environment refers to:",
+    "options": [
+      "Only things made by humans",
+      "All natural surroundings — land, water, air and living things — not made by humans",
+      "Only cities and factories",
+      "Only farmland"
+    ],
+    "correct_index": 1,
+    "solution": "The natural environment includes all naturally occurring surroundings — landforms, water bodies, air, plants and animals.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The gaseous layer that surrounds the Earth and is essential for life is the:",
+    "options": [
+      "Lithosphere",
+      "Hydrosphere",
+      "Atmosphere",
+      "Biosphere"
+    ],
+    "correct_index": 2,
+    "solution": "The atmosphere is the blanket of air surrounding the Earth, providing gases needed for life and protection from harmful radiation.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The word 'environment' broadly means:",
+    "options": [
+      "Everything that surrounds and affects us — natural and human-made",
+      "Only the sky",
+      "Only forests",
+      "Only cities"
+    ],
+    "correct_index": 0,
+    "solution": "The ENVIRONMENT broadly means EVERYTHING that SURROUNDS and AFFECTS us — both the NATURAL (land, water, air, life) and the HUMAN-MADE surroundings. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The hydrosphere includes:",
+    "options": [
+      "All water bodies — oceans, rivers, lakes and groundwater",
+      "Only the land",
+      "Only the air",
+      "Only living things"
+    ],
+    "correct_index": 0,
+    "solution": "The HYDROSPHERE includes ALL WATER BODIES — OCEANS, RIVERS, LAKES, and GROUNDWATER — the water domain of the environment. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The biosphere is special because it is:",
+    "options": [
+      "The zone where land, water and air meet and support life",
+      "The hottest layer",
+      "Only underground",
+      "Only in the ocean"
+    ],
+    "correct_index": 0,
+    "solution": "The BIOSPHERE is special because it is the NARROW ZONE where LAND (lithosphere), WATER (hydrosphere), and AIR (atmosphere) MEET and SUPPORT LIFE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Living components of the environment (plants, animals, humans) are called:",
+    "options": [
+      "Biotic components",
+      "Abiotic components",
+      "Human-made components",
+      "Mineral components"
+    ],
+    "correct_index": 0,
+    "solution": "LIVING components of the environment — PLANTS, ANIMALS, and HUMANS — are called BIOTIC components. (Non-living ones are abiotic.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In an ecosystem, plants are called producers because they:",
+    "options": [
+      "Make their own food through photosynthesis",
+      "Eat other animals",
+      "Do nothing",
+      "Only decompose"
+    ],
+    "correct_index": 0,
+    "solution": "In an ECOSYSTEM, PLANTS are called PRODUCERS because they MAKE their OWN FOOD through PHOTOSYNTHESIS, using sunlight, water, and carbon dioxide. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Animals that eat plants or other animals are called:",
+    "options": [
+      "Consumers",
+      "Producers",
+      "Decomposers",
+      "Abiotic"
+    ],
+    "correct_index": 0,
+    "solution": "ANIMALS that EAT plants or other animals are called CONSUMERS in an ecosystem, depending on producers for their food. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Organisms like bacteria and fungi that break down dead matter are called:",
+    "options": [
+      "Decomposers",
+      "Producers",
+      "Consumers",
+      "Herbivores"
+    ],
+    "correct_index": 0,
+    "solution": "Organisms like BACTERIA and FUNGI that BREAK DOWN DEAD matter (returning nutrients to the soil) are called DECOMPOSERS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The transfer of food and energy from one organism to another in a sequence is called a:",
+    "options": [
+      "Food chain",
+      "Water cycle",
+      "Rock cycle",
+      "Time chain"
+    ],
+    "correct_index": 0,
+    "solution": "The TRANSFER of FOOD and ENERGY from one organism to another in a sequence (e.g., plant → deer → tiger) is called a FOOD CHAIN. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Lithosphere — land 2. Hydrosphere — water 3. Atmosphere — air 4. Biosphere — life. How many are correctly matched?",
+    "options": [
+      "All four",
+      "Only two",
+      "Only three",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL FOUR are correct: LITHOSPHERE → LAND; HYDROSPHERE → WATER; ATMOSPHERE → AIR; BIOSPHERE → LIFE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The natural environment and the human-made environment together with people form the:",
+    "options": [
+      "Human environment / total environment",
+      "Only the atmosphere",
+      "Only the ocean",
+      "A single rock"
+    ],
+    "correct_index": 0,
+    "solution": "The NATURAL environment, the HUMAN-MADE environment, and PEOPLE (and their social/cultural life) together form the TOTAL or HUMAN ENVIRONMENT in which we live. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an abiotic (non-living) component of the environment?",
+    "options": [
+      "Sunlight, water and soil",
+      "Plants",
+      "Animals",
+      "Bacteria"
+    ],
+    "correct_index": 0,
+    "solution": "SUNLIGHT, WATER, and SOIL are ABIOTIC (non-living) components. Plants, animals, and bacteria are BIOTIC (living). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Human beings affect the environment by:",
+    "options": [
+      "Using resources, building, farming, and sometimes causing pollution",
+      "Having no effect",
+      "Only helping it always",
+      "Only living underground"
+    ],
+    "correct_index": 0,
+    "solution": "HUMAN BEINGS AFFECT the environment by USING RESOURCES, BUILDING (cities, roads), FARMING, and sometimes CAUSING POLLUTION and damage — so our actions must be responsible. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is it important to protect the environment?",
+    "options": [
+      "Because all life, including humans, depends on a healthy environment",
+      "It is not important",
+      "Only animals need it",
+      "It has no effect on us"
+    ],
+    "correct_index": 0,
+    "solution": "It is important to PROTECT the environment because ALL LIFE, INCLUDING HUMANS, DEPENDS on a HEALTHY environment for air, water, food, and resources. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The interaction between the biotic and abiotic components of an area forms an:",
+    "options": [
+      "Ecosystem",
+      "Empire",
+      "Ocean",
+      "Atmosphere"
+    ],
+    "correct_index": 0,
+    "solution": "The INTERACTION between the BIOTIC (living) and ABIOTIC (non-living) components of an area forms an ECOSYSTEM — a self-sustaining unit of life and environment. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The biosphere supports life. Reason (R): It is the zone where the lithosphere, hydrosphere and atmosphere interact. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — the biosphere supports life. R is TRUE and correctly EXPLAINS A: it is the ZONE where the LITHOSPHERE, HYDROSPHERE, and ATMOSPHERE INTERACT, providing the land, water, and air that make life possible. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is an example of interaction between the domains of the environment?",
+    "options": [
+      "A tree (biosphere) growing in soil (lithosphere), drinking water (hydrosphere) and using air (atmosphere)",
+      "A rock lying alone forever",
+      "Nothing interacting",
+      "Only the sky"
+    ],
+    "correct_index": 0,
+    "solution": "A good example of INTERACTION is a TREE (biosphere) GROWING in SOIL (lithosphere), DRINKING WATER (hydrosphere), and USING AIR (atmosphere) — showing all four domains working together. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The human-made (built) environment includes things like:",
+    "options": [
+      "Houses, roads, dams, factories and parks",
+      "Rivers and mountains",
+      "Wild forests",
+      "Ocean currents"
+    ],
+    "correct_index": 0,
+    "solution": "The HUMAN-MADE (built) environment includes things CREATED by people — HOUSES, ROADS, DAMS, FACTORIES, and PARKS. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Air pollution, water pollution and deforestation are examples of:",
+    "options": [
+      "Human damage to the environment",
+      "Natural improvement",
+      "Things that help nature",
+      "Non-existent problems"
+    ],
+    "correct_index": 0,
+    "solution": "AIR POLLUTION, WATER POLLUTION, and DEFORESTATION are examples of HUMAN DAMAGE to the environment, which harm ecosystems and human health. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The balance of nature is maintained when:",
+    "options": [
+      "Producers, consumers and decomposers function in a healthy ecosystem",
+      "One species destroys all others",
+      "Pollution increases",
+      "Forests are cleared"
+    ],
+    "correct_index": 0,
+    "solution": "The BALANCE of NATURE is maintained when PRODUCERS, CONSUMERS, and DECOMPOSERS FUNCTION together in a HEALTHY ECOSYSTEM, keeping energy and nutrients flowing. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly describes the role of the atmosphere?",
+    "options": [
+      "It provides gases for life and protects Earth from harmful rays and extreme temperatures",
+      "It has no use",
+      "It only causes storms",
+      "It blocks all sunlight"
+    ],
+    "correct_index": 0,
+    "solution": "The ATMOSPHERE PROVIDES GASES (oxygen, carbon dioxide) needed for LIFE and PROTECTS Earth from HARMFUL RAYS (like UV) and EXTREME TEMPERATURES, keeping the planet habitable. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Human activities that harm one domain of the environment often:",
+    "options": [
+      "Affect the other domains too, because they are interconnected",
+      "Have no wider effect",
+      "Help all other domains",
+      "Are always harmless"
+    ],
+    "correct_index": 0,
+    "solution": "Human activities that harm ONE DOMAIN often AFFECT the OTHER DOMAINS too, because the domains are INTERCONNECTED — e.g., cutting forests affects soil, water, air, and wildlife alike. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The cultural environment refers to:",
+    "options": [
+      "The ways of life, beliefs, customs and social organisation of people",
+      "Only the physical land",
+      "Only the weather",
+      "Only water bodies"
+    ],
+    "correct_index": 0,
+    "solution": "The CULTURAL ENVIRONMENT refers to the WAYS of LIFE, BELIEFS, CUSTOMS, and SOCIAL ORGANISATION of people — the human, social dimension of the total environment. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following statements is TRUE about the environment?",
+    "options": [
+      "It is made of interconnected natural and human-made components on which life depends",
+      "It is only the sky",
+      "It has no components",
+      "It is unrelated to living things"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that the ENVIRONMENT is made of INTERCONNECTED NATURAL and HUMAN-MADE components on which ALL LIFE DEPENDS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The health of the biosphere depends on:",
+    "options": [
+      "A balance among all its living and non-living parts",
+      "Removing all plants",
+      "Increasing pollution",
+      "Destroying ecosystems"
+    ],
+    "correct_index": 0,
+    "solution": "The HEALTH of the BIOSPHERE depends on a BALANCE among all its LIVING and NON-LIVING parts — a disturbance in one part can upset the whole system. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A simple food chain in a grassland might be:",
+    "options": [
+      "Grass → grasshopper → frog → snake",
+      "Snake → grass → frog",
+      "Frog → grass only",
+      "Grass alone"
+    ],
+    "correct_index": 0,
+    "solution": "A simple GRASSLAND FOOD CHAIN might be GRASS (producer) → GRASSHOPPER → FROG → SNAKE — showing the flow of energy from one organism to the next. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason the biosphere is a 'narrow zone' is that life exists only where:",
+    "options": [
+      "Land, water and air together provide suitable conditions",
+      "There is only rock",
+      "There is only air",
+      "There is nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The BIOSPHERE is a NARROW ZONE because LIFE exists ONLY where LAND, WATER, and AIR TOGETHER provide SUITABLE CONDITIONS (right temperature, water, oxygen) — a thin band around the Earth's surface. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following pairs a domain with a correct example?",
+    "options": [
+      "Lithosphere → a mountain; Hydrosphere → a lake; Atmosphere → clouds; Biosphere → a bird",
+      "Lithosphere → a bird; Hydrosphere → a rock; Atmosphere → a lake; Biosphere → clouds",
+      "All are the same domain",
+      "None have examples"
+    ],
+    "correct_index": 0,
+    "solution": "The correct matches are: LITHOSPHERE → a MOUNTAIN (land); HYDROSPHERE → a LAKE (water); ATMOSPHERE → CLOUDS (air); BIOSPHERE → a BIRD (life). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sustainable use of the environment means using resources in a way that:",
+    "options": [
+      "Meets present needs without harming the ability of future generations to meet theirs",
+      "Uses everything up now",
+      "Ignores the future",
+      "Wastes resources"
+    ],
+    "correct_index": 0,
+    "solution": "SUSTAINABLE USE means using resources to MEET PRESENT NEEDS WITHOUT HARMING the ability of FUTURE GENERATIONS to meet THEIRS — caring for the environment for the long term. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The study of the environment is important for students because it helps them:",
+    "options": [
+      "Understand how nature works and how to protect it",
+      "Ignore nature",
+      "Harm the planet",
+      "Learn nothing useful"
+    ],
+    "correct_index": 0,
+    "solution": "Studying the ENVIRONMENT is important because it helps students UNDERSTAND how NATURE WORKS and how to PROTECT it — essential for a sustainable future. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The energy that drives most processes in the environment (the food chain, the water cycle) comes from the:",
+    "options": [
+      "Sun",
+      "Moon",
+      "Ocean floor",
+      "Underground caves"
+    ],
+    "correct_index": 0,
+    "solution": "The ENERGY that drives most environmental processes — the FOOD CHAIN (via photosynthesis) and the WATER CYCLE (via evaporation) — comes from the SUN. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lithosphere is important for living things because it provides:",
+    "options": [
+      "Soil for plants, minerals, and a surface to live on",
+      "Only air",
+      "Only water",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The LITHOSPHERE is important because it provides SOIL for PLANTS to grow, MINERALS and resources, and a SURFACE for living things to LIVE on. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the correct order of a food chain?",
+    "options": [
+      "Producer → primary consumer → secondary consumer",
+      "Secondary consumer → producer → primary consumer",
+      "Consumer → decomposer → producer",
+      "Decomposer → producer → consumer"
+    ],
+    "correct_index": 0,
+    "solution": "The correct order of a FOOD CHAIN is PRODUCER (plant) → PRIMARY CONSUMER (herbivore) → SECONDARY CONSUMER (carnivore) — showing energy flowing from plants upward. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Herbivores are animals that:",
+    "options": [
+      "Eat only plants",
+      "Eat only meat",
+      "Eat nothing",
+      "Make their own food"
+    ],
+    "correct_index": 0,
+    "solution": "HERBIVORES are animals that EAT ONLY PLANTS (like cows, deer, and goats) — they are primary consumers in a food chain. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Carnivores are animals that:",
+    "options": [
+      "Eat other animals (meat)",
+      "Eat only plants",
+      "Make their own food",
+      "Eat nothing"
+    ],
+    "correct_index": 0,
+    "solution": "CARNIVORES are animals that EAT OTHER ANIMALS (meat) — like lions, tigers, and eagles — occupying higher levels of the food chain. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The natural environment provides humans with resources such as:",
+    "options": [
+      "Air, water, food, minerals and energy",
+      "Nothing",
+      "Only pollution",
+      "Only buildings"
+    ],
+    "correct_index": 0,
+    "solution": "The NATURAL ENVIRONMENT provides humans with essential RESOURCES — AIR, WATER, FOOD, MINERALS, and ENERGY — on which our survival and development depend. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "An omnivore is an animal that:",
+    "options": [
+      "Eats both plants and animals",
+      "Eats only plants",
+      "Eats only meat",
+      "Eats nothing"
+    ],
+    "correct_index": 0,
+    "solution": "An OMNIVORE is an animal that EATS BOTH PLANTS and ANIMALS — like humans, bears, and crows. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The recycling of nutrients in nature depends heavily on:",
+    "options": [
+      "Decomposers breaking down dead matter",
+      "Producers only",
+      "The Sun only",
+      "Pollution"
+    ],
+    "correct_index": 0,
+    "solution": "The RECYCLING of NUTRIENTS in nature depends heavily on DECOMPOSERS (bacteria, fungi) BREAKING DOWN DEAD MATTER and returning nutrients to the soil for plants to use again. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main difference between the natural and human-made environment is that the human-made environment is:",
+    "options": [
+      "Created by people, while the natural one exists on its own",
+      "The same as the natural one",
+      "Older than the Earth",
+      "Found only in oceans"
+    ],
+    "correct_index": 0,
+    "solution": "The main difference is that the HUMAN-MADE environment is CREATED by PEOPLE (buildings, roads, machines), while the NATURAL environment EXISTS on its OWN (land, water, air, life). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following actions helps protect the environment?",
+    "options": [
+      "Planting trees, saving water, and reducing pollution",
+      "Cutting all forests",
+      "Wasting water",
+      "Increasing pollution"
+    ],
+    "correct_index": 0,
+    "solution": "Actions that HELP PROTECT the environment include PLANTING TREES, SAVING WATER, and REDUCING POLLUTION — responsible behaviour that keeps ecosystems healthy. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The interdependence of living things in an ecosystem means that:",
+    "options": [
+      "Each organism depends on others for food, shelter or balance",
+      "Organisms never affect each other",
+      "Only one species matters",
+      "Nothing is connected"
+    ],
+    "correct_index": 0,
+    "solution": "The INTERDEPENDENCE of living things means EACH ORGANISM DEPENDS on OTHERS for FOOD, SHELTER, or the BALANCE of the ecosystem — a web of connections. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Earth is unique among the planets because it:",
+    "options": [
+      "Has the conditions (air, water, temperature) that support life",
+      "Has no atmosphere",
+      "Is closest to the Sun",
+      "Has no water"
+    ],
+    "correct_index": 0,
+    "solution": "The EARTH is unique because it has the CONDITIONS — the right AIR, WATER, and TEMPERATURE — that SUPPORT LIFE, making it the only known living planet. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Environment' is that:",
+    "options": [
+      "The environment is unimportant",
+      "The ENVIRONMENT is everything that surrounds us, made up of the NATURAL environment (its four interconnected domains — the LITHOSPHERE/land, HYDROSPHERE/water, ATMOSPHERE/air and BIOSPHERE/life) and the HUMAN-MADE environment; the BIOSPHERE, where land, water and air meet, supports all life, and within it living (BIOTIC) and non-living (ABIOTIC) components interact in ECOSYSTEMS through food chains of producers, consumers and decomposers; since all life depends on this delicate, interconnected system, and human activities can harm it, it is our responsibility to use resources wisely and PROTECT the environment",
+      "Only the land matters",
+      "Humans have no effect on nature"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that the ENVIRONMENT is EVERYTHING that SURROUNDS us, made up of the NATURAL ENVIRONMENT — with its FOUR INTERCONNECTED DOMAINS, the LITHOSPHERE (land), HYDROSPHERE (water), ATMOSPHERE (air), and BIOSPHERE (life) — and the HUMAN-MADE ENVIRONMENT (buildings, roads, farms). The BIOSPHERE, the narrow zone where LAND, WATER, and AIR MEET, SUPPORTS ALL LIFE; within it, LIVING (BIOTIC) and NON-LIVING (ABIOTIC) components INTERACT in ECOSYSTEMS through FOOD CHAINS of PRODUCERS, CONSUMERS, and DECOMPOSERS. Since ALL LIFE DEPENDS on this DELICATE, INTERCONNECTED system, and human activities can HARM it (through pollution, deforestation, etc.), it is our RESPONSIBILITY to use resources WISELY and PROTECT the environment for present and future generations. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'environment' refers to:",
+    "options": [
+      "Only living things",
+      "Our surroundings — both natural (physical/biological) and human-made",
+      "Only buildings",
+      "Only the atmosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The environment is everything that surrounds us — the natural environment (land, water, air, plants, animals) and the human-made environment (buildings, roads), and the social/cultural surroundings.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The natural environment consists of the lithosphere, hydrosphere, atmosphere and:",
+    "options": [
+      "Biosphere",
+      "Technology",
+      "Cities",
+      "Roads"
+    ],
+    "correct_index": 0,
+    "solution": "The natural environment comprises the four domains — lithosphere (land), hydrosphere (water), atmosphere (air) and biosphere (life) — which interact to support living things.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The components of the environment are broadly natural components, human components and:",
+    "options": [
+      "Human-made components",
+      "Only air",
+      "Only water",
+      "Only minerals"
+    ],
+    "correct_index": 0,
+    "solution": "The environment has natural components (land, water, air, life), human-made components (buildings, roads, industries) and human components (individuals, families, communities and their activities).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The domain of the environment where all living organisms exist is the:",
+    "options": [
+      "Lithosphere",
+      "Hydrosphere",
+      "Atmosphere",
+      "Biosphere"
+    ],
+    "correct_index": 3,
+    "solution": "The biosphere is the narrow zone where land, water and air interact to support life; it is the living part of the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An 'ecosystem' is a system formed by the interaction of:",
+    "options": [
+      "Only plants",
+      "Living organisms with each other and with their physical environment",
+      "Only rocks",
+      "Only the atmosphere"
+    ],
+    "correct_index": 1,
+    "solution": "An ecosystem is a community of living organisms interacting with one another and with their non-living physical environment (soil, water, air, sunlight) as a unit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A forest, a pond and a desert are all examples of:",
+    "options": [
+      "Continents",
+      "Ecosystems",
+      "Oceans",
+      "Planets"
+    ],
+    "correct_index": 1,
+    "solution": "A forest, pond, desert, grassland and ocean are all examples of ecosystems — each a distinct community of organisms interacting with their environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The natural environment provides humans with essential resources such as:",
+    "options": [
+      "Nothing",
+      "Air, water, food, land and raw materials",
+      "Only entertainment",
+      "Only buildings"
+    ],
+    "correct_index": 1,
+    "solution": "The natural environment supplies vital resources — air to breathe, water to drink, land for living and farming, food, and raw materials for our needs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The human-made environment includes:",
+    "options": [
+      "Rivers and mountains",
+      "Buildings, roads, bridges, parks and industries",
+      "Forests",
+      "Oceans"
+    ],
+    "correct_index": 1,
+    "solution": "The human-made (built) environment consists of things people create — houses, buildings, roads, bridges, dams, parks, industries — by using and modifying the natural environment.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Humans have modified the natural environment through activities like:",
+    "options": [
+      "Only breathing",
+      "Agriculture, building cities, industries and transport",
+      "Only sleeping",
+      "Nothing"
+    ],
+    "correct_index": 1,
+    "solution": "Over time, humans have greatly modified the natural environment through farming, building settlements and cities, industries, transport networks, and using natural resources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When humans overuse or misuse natural resources, it leads to:",
+    "options": [
+      "No effect",
+      "Environmental problems like pollution, deforestation and resource depletion",
+      "More resources",
+      "Better environment automatically"
+    ],
+    "correct_index": 1,
+    "solution": "Overuse and misuse of resources cause environmental problems — pollution, deforestation, loss of biodiversity, and depletion of resources — threatening the balance of nature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A healthy relationship between humans and the environment requires:",
+    "options": [
+      "Exploiting resources fully",
+      "Sustainable use of resources and protecting the environment",
+      "Ignoring nature",
+      "Wasting resources"
+    ],
+    "correct_index": 1,
+    "solution": "A balanced relationship requires using natural resources sustainably (without exhausting them) and protecting the environment so it can continue to support life now and in the future.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sun is the primary source of ______ for the environment.",
+    "options": [
+      "water",
+      "energy",
+      "minerals",
+      "soil"
+    ],
+    "correct_index": 1,
+    "solution": "The Sun is the primary source of energy that drives most environmental processes — it powers the water cycle, winds, weather and, through photosynthesis, the food chains of ecosystems.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The interaction between the biotic (living) and abiotic (non-living) components maintains the:",
+    "options": [
+      "Chaos",
+      "Balance of nature (ecological balance)",
+      "Pollution",
+      "Deserts"
+    ],
+    "correct_index": 1,
+    "solution": "The continuous interaction between biotic (plants, animals) and abiotic (air, water, soil, sunlight) components maintains the balance of nature (ecological balance), which sustains life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Biotic' components of the environment are the:",
+    "options": [
+      "Non-living things",
+      "Living things (plants, animals, microorganisms)",
+      "Rocks only",
+      "Air only"
+    ],
+    "correct_index": 1,
+    "solution": "Biotic components are the living parts of the environment — plants, animals and microorganisms; abiotic components are the non-living parts (air, water, soil, sunlight).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Abiotic' components of the environment include:",
+    "options": [
+      "Plants and animals",
+      "Air, water, soil, sunlight and temperature",
+      "Only humans",
+      "Only bacteria"
+    ],
+    "correct_index": 1,
+    "solution": "Abiotic (non-living) components include air, water, soil, sunlight, temperature and minerals, which together with biotic components make up the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is it important to conserve the environment?",
+    "options": [
+      "It is unimportant",
+      "It sustains all life and provides resources for present and future generations",
+      "Only for tourism",
+      "Only for animals"
+    ],
+    "correct_index": 1,
+    "solution": "Conserving the environment is vital because it sustains all life, maintains ecological balance and provides the resources on which present and future generations depend.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Human beings depend on the environment for:",
+    "options": [
+      "Nothing",
+      "Basic needs like food, water, air, shelter and resources",
+      "Only luxury goods",
+      "Only entertainment"
+    ],
+    "correct_index": 1,
+    "solution": "Humans depend on the environment for all their basic needs — food, water, air, shelter, clothing and the raw materials for industry — making a healthy environment essential.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "An example of humans adapting to their environment is:",
+    "options": [
+      "Ignoring the climate",
+      "Building igloos in cold regions and wearing light clothes in hot regions",
+      "Doing nothing",
+      "Living the same everywhere"
+    ],
+    "correct_index": 1,
+    "solution": "People adapt to their environment — e.g. building igloos or wearing warm clothes in cold regions, and light clothing and airy houses in hot regions — showing how environment shapes ways of life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three domains of the environment interact to create conditions for life; this interaction occurs mainly in the:",
+    "options": [
+      "Core of the Earth",
+      "Biosphere",
+      "Outer space",
+      "Deep mantle"
+    ],
+    "correct_index": 1,
+    "solution": "The lithosphere, hydrosphere and atmosphere interact in the biosphere — the narrow life-supporting zone — creating the conditions that sustain living organisms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the environment is correct? (i) It includes natural and human-made components (ii) Humans depend on and modify it (iii) It must be conserved",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: the environment includes natural and human-made components, humans both depend on and modify it, and it must be conserved for sustainability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pollution of the environment can be of which types?",
+    "options": [
+      "Only air pollution",
+      "Air, water, land (soil) and noise pollution",
+      "Only water pollution",
+      "No types"
+    ],
+    "correct_index": 1,
+    "solution": "Environmental pollution occurs in several forms — air pollution, water pollution, land (soil) pollution and noise pollution — all harmful to living things and the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason to maintain harmony between humans and the environment is to:",
+    "options": [
+      "Waste resources",
+      "Ensure a healthy planet and sustainable life for the future",
+      "Increase pollution",
+      "Ignore nature"
+    ],
+    "correct_index": 1,
+    "solution": "Maintaining harmony between humans and the environment ensures a healthy planet, preserves natural resources and biodiversity, and secures a sustainable future for coming generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An ecosystem includes both a community of organisms and their:",
+    "options": [
+      "Political system",
+      "Physical (non-living) environment",
+      "Language",
+      "Religion"
+    ],
+    "correct_index": 1,
+    "solution": "An ecosystem consists of a community of living organisms together with the physical (non-living) environment they interact with, functioning together as a unit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The environment we live in today is shaped by the interaction of:",
+    "options": [
+      "Only humans",
+      "Natural forces and human activities over time",
+      "Only animals",
+      "Only machines"
+    ],
+    "correct_index": 1,
+    "solution": "Today's environment is the result of the interaction between natural forces (physical and biological) and human activities over long periods, both shaping our surroundings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of studying the environment is that:",
+    "options": [
+      "Nature is unimportant",
+      "Humans and nature are interdependent and must live in balance",
+      "We should exploit nature fully",
+      "The environment does not change"
+    ],
+    "correct_index": 1,
+    "solution": "The key message is that humans and nature are interdependent — we depend on the environment and affect it — so we must live in balance with it and protect it for a sustainable future.",
+    "difficulty": "medium"
+  }
 ]

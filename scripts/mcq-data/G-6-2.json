@@ -1,52 +1,902 @@
 [
-  { "stem": "How many continents are there on the Earth?", "options": ["Five", "Six", "Seven", "Eight"], "correct_index": 2, "solution": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia.", "difficulty": "easy" },
-  { "stem": "Which is the largest continent by area?", "options": ["Africa", "Asia", "North America", "Antarctica"], "correct_index": 1, "solution": "Asia is the largest continent, covering about one-third of the Earth's land area.", "difficulty": "easy" },
-  { "stem": "Which is the smallest continent?", "options": ["Europe", "Antarctica", "Australia", "South America"], "correct_index": 2, "solution": "Australia is the smallest continent.", "difficulty": "medium" },
-  { "stem": "Which is the largest ocean on the Earth?", "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"], "correct_index": 2, "solution": "The Pacific Ocean is the largest and deepest ocean.", "difficulty": "easy" },
-  { "stem": "How many oceans are recognised on the Earth?", "options": ["Three", "Four", "Five", "Six"], "correct_index": 2, "solution": "Five oceans are recognised: Pacific, Atlantic, Indian, Southern (Antarctic) and Arctic.", "difficulty": "medium" },
-  { "stem": "The Indian Ocean is unique among the major oceans because it is:", "options": ["The largest ocean", "The only ocean named after a country", "Entirely frozen", "Located only in the Northern Hemisphere"], "correct_index": 1, "solution": "The Indian Ocean is the only ocean named after a country (India).", "difficulty": "medium" },
-  { "stem": "Which continent is almost entirely covered with ice and has no permanent human population?", "options": ["Antarctica", "Australia", "Europe", "Africa"], "correct_index": 0, "solution": "Antarctica, surrounding the South Pole, is covered by a thick ice sheet and has no permanent residents.", "difficulty": "easy" },
-  { "stem": "The imaginary line/continent-like division aside, which ocean lies to the south of India?", "options": ["Arctic Ocean", "Atlantic Ocean", "Indian Ocean", "Southern Ocean"], "correct_index": 2, "solution": "The Indian Ocean lies to the south of the Indian subcontinent.", "difficulty": "easy" },
-  { "stem": "Roughly what proportion of the Earth's surface is covered by water?", "options": ["About one-fourth", "About one-half", "About two-thirds (71%)", "About nine-tenths"], "correct_index": 2, "solution": "Water covers about 71% (roughly two-thirds) of the Earth's surface, which is why Earth is called the 'blue planet'.", "difficulty": "medium" },
-  { "stem": "Which is the smallest and shallowest ocean?", "options": ["Arctic Ocean", "Indian Ocean", "Atlantic Ocean", "Southern Ocean"], "correct_index": 0, "solution": "The Arctic Ocean, around the North Pole, is the smallest and shallowest of the oceans.", "difficulty": "hard" },
-  { "stem": "Which is the second largest continent by area?", "options": ["Africa", "North America", "Europe", "Australia"], "correct_index": 0, "solution": "AFRICA is the SECOND LARGEST continent by area, after Asia. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The second largest ocean in the world is the:", "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Southern Ocean"], "correct_index": 0, "solution": "The ATLANTIC OCEAN is the SECOND LARGEST ocean, after the Pacific. It is 'S'-shaped and separates the Americas from Europe and Africa. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The huge landmasses on Earth are called continents; the large water bodies are called:", "options": ["Oceans", "Rivers", "Lakes", "Ponds"], "correct_index": 0, "solution": "The huge LANDMASSES are called CONTINENTS, and the large WATER BODIES that surround them are called OCEANS. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which continent is known as the 'Dark Continent' and has the river Nile?", "options": ["Africa", "Asia", "Europe", "Australia"], "correct_index": 0, "solution": "AFRICA was once called the 'DARK CONTINENT' (because much of it was long unknown to outsiders) and has the river NILE, the longest river in the world. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The continent of Australia is unique because it is also known as an:", "options": ["Island continent", "Ice continent", "Desert continent only", "Frozen continent"], "correct_index": 0, "solution": "AUSTRALIA is called the ISLAND CONTINENT because it is the only continent that is also a single large island, surrounded entirely by water. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which two continents together are sometimes called 'Eurasia'?", "options": ["Europe and Asia", "Africa and Asia", "North and South America", "Australia and Antarctica"], "correct_index": 0, "solution": "EUROPE and ASIA together form one continuous landmass sometimes called EURASIA, as they are not separated by an ocean. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "North America and South America are joined by a narrow strip of land called the Isthmus of:", "options": ["Panama", "Suez", "Kutch", "Malacca"], "correct_index": 0, "solution": "NORTH and SOUTH AMERICA are joined by the narrow ISTHMUS of PANAMA. (The Isthmus of Suez joins Africa and Asia.) So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which continent has the highest mountain, Mount Everest?", "options": ["Asia", "Africa", "Europe", "South America"], "correct_index": 0, "solution": "ASIA has the HIGHEST mountain, MOUNT EVEREST (in the Himalayas), the tallest peak on Earth. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Earth is called the 'blue planet' because:", "options": ["Most of its surface is covered by water, which looks blue from space", "It is cold", "It is small", "It has no land"], "correct_index": 0, "solution": "Earth is called the 'BLUE PLANET' because MOST of its SURFACE (about 71%) is covered by WATER, which appears BLUE from space. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which continent is entirely in the Southern Hemisphere and is the coldest?", "options": ["Antarctica", "Africa", "Asia", "Europe"], "correct_index": 0, "solution": "ANTARCTICA lies entirely in the SOUTHERN HEMISPHERE, around the South Pole, and is the COLDEST continent, covered by a thick ice sheet. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The imaginary supercontinent that is believed to have existed long ago, before splitting into today's continents, is called:", "options": ["Pangaea", "Eurasia", "Gondwana city", "Atlantis"], "correct_index": 0, "solution": "PANGAEA was the single supercontinent believed to have existed long ago, before it SPLIT and DRIFTED apart to form today's continents. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Southern Ocean surrounds which continent?", "options": ["Antarctica", "Australia", "Africa", "Asia"], "correct_index": 0, "solution": "The SOUTHERN (ANTARCTIC) OCEAN surrounds the continent of ANTARCTICA at the far south of the globe. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Oceans are important to life on Earth because they:", "options": ["Influence climate, provide water for the water cycle, and support marine life", "Have no use", "Only cause floods", "Are always frozen"], "correct_index": 0, "solution": "OCEANS are important because they INFLUENCE CLIMATE, provide WATER for the WATER CYCLE (through evaporation and rain), and SUPPORT MARINE LIFE and human activities like fishing and trade. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which ocean lies between Africa, Asia and Australia?", "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"], "correct_index": 0, "solution": "The INDIAN OCEAN lies between AFRICA (west), ASIA (north), and AUSTRALIA (east) — bordering India to its south. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which ocean lies between the Americas and Europe/Africa?", "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"], "correct_index": 0, "solution": "The ATLANTIC OCEAN lies between the AMERICAS (west) and EUROPE and AFRICA (east). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. Largest continent — Asia 2. Smallest continent — Australia 3. Largest ocean — Pacific. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: the LARGEST continent is ASIA, the SMALLEST continent is AUSTRALIA, and the LARGEST ocean is the PACIFIC. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The narrow water body that connects two large water bodies is called a:", "options": ["Strait", "Continent", "Plateau", "Peninsula"], "correct_index": 0, "solution": "A STRAIT is a NARROW WATER BODY that CONNECTS two large water bodies (e.g., the Strait of Malacca). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A landmass surrounded by water on three sides is called a:", "options": ["Peninsula", "Island", "Continent", "Strait"], "correct_index": 0, "solution": "A PENINSULA is a landmass surrounded by water on THREE SIDES (like the Indian Peninsula). An ISLAND is surrounded by water on all sides. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A piece of land completely surrounded by water is called a(n):", "options": ["Island", "Peninsula", "Isthmus", "Continent"], "correct_index": 0, "solution": "A piece of land COMPLETELY SURROUNDED by WATER is called an ISLAND. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Europe is separated from Asia by mountains such as the:", "options": ["Ural Mountains", "Himalayas", "Andes", "Alps only"], "correct_index": 0, "solution": "EUROPE is traditionally separated from ASIA by the URAL MOUNTAINS (and Ural River), which mark the boundary between the two continents. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Pacific Ocean is the largest ocean and contains the deepest point on Earth, the:", "options": ["Mariana Trench", "Nile Valley", "Grand Canyon", "Dead Sea"], "correct_index": 0, "solution": "The PACIFIC OCEAN contains the MARIANA TRENCH, the DEEPEST known point on Earth. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which continent lies mostly in the Northern Hemisphere and includes India, China and Japan?", "options": ["Asia", "Africa", "Europe", "Australia"], "correct_index": 0, "solution": "ASIA lies mostly in the NORTHERN HEMISPHERE and includes INDIA, CHINA, JAPAN, and many other countries — the largest and most populous continent. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The continent of South America contains which great river and rainforest?", "options": ["The Amazon river and rainforest", "The Nile and Sahara", "The Ganga and Thar", "The Yangtze and Gobi"], "correct_index": 0, "solution": "SOUTH AMERICA contains the AMAZON RIVER and the AMAZON RAINFOREST, the largest tropical rainforest in the world. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The saltiness of ocean water is due to:", "options": ["Dissolved salts and minerals carried by rivers and from the sea bed", "Added sugar", "Rainwater only", "Ice"], "correct_index": 0, "solution": "Ocean water is SALTY because of DISSOLVED SALTS and MINERALS carried into the sea by RIVERS and released from the SEA BED over millions of years. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly lists the seven continents?", "options": ["Asia, Africa, North America, South America, Antarctica, Europe, Australia", "Asia, Africa, India, China, Europe, Russia, Australia", "Pacific, Atlantic, Indian, Arctic, Southern, Asia, Africa", "Only Asia and Africa"], "correct_index": 0, "solution": "The SEVEN CONTINENTS are ASIA, AFRICA, NORTH AMERICA, SOUTH AMERICA, ANTARCTICA, EUROPE, and AUSTRALIA. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Equator passes through which of the following continents?", "options": ["Africa, South America and Asia (through islands)", "Only Europe", "Only Antarctica", "Only Australia"], "correct_index": 0, "solution": "The EQUATOR passes through AFRICA, SOUTH AMERICA, and parts of ASIA (through Indonesian islands) — placing parts of these continents in the hot Torrid Zone. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Oceans help in transport and trade because:", "options": ["Ships carry goods between countries across the seas", "Ships cannot travel on water", "Oceans block all trade", "Only air travel is possible"], "correct_index": 0, "solution": "OCEANS help TRANSPORT and TRADE because SHIPS carry GOODS between COUNTRIES across the seas — a cheap and important way to move large cargoes worldwide. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Assertion (A): Asia is the largest continent. Reason (R): It covers about one-third of the Earth's total land area. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — ASIA is the largest continent. R is TRUE and correctly EXPLAINS A: it covers about ONE-THIRD of the Earth's total LAND AREA, which is precisely why it is the largest. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The imaginary belt where many earthquakes and volcanoes occur around the Pacific Ocean is called the:", "options": ["Ring of Fire", "Prime Meridian", "Equator", "Great Barrier Reef"], "correct_index": 0, "solution": "The RING of FIRE is a belt around the PACIFIC OCEAN where many EARTHQUAKES and VOLCANOES occur, due to the movement of the Earth's plates. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which continent is the most populated in the world?", "options": ["Asia", "Africa", "Europe", "Antarctica"], "correct_index": 0, "solution": "ASIA is the MOST POPULATED continent, home to the majority of the world's people, including India and China. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The Arctic Ocean is located around the:", "options": ["North Pole", "South Pole", "Equator", "Prime Meridian"], "correct_index": 0, "solution": "The ARCTIC OCEAN is located around the NORTH POLE and is largely covered with ice. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following is the correct order of oceans from largest to smallest?", "options": ["Pacific, Atlantic, Indian, Southern, Arctic", "Arctic, Indian, Pacific, Atlantic, Southern", "Indian, Pacific, Arctic, Atlantic, Southern", "Atlantic, Pacific, Southern, Arctic, Indian"], "correct_index": 0, "solution": "From LARGEST to SMALLEST, the oceans are: PACIFIC, ATLANTIC, INDIAN, SOUTHERN, and ARCTIC. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The continents and oceans are shown on a map or globe to help us understand:", "options": ["The distribution of land and water on Earth", "Only the weather", "Only one country", "Nothing useful"], "correct_index": 0, "solution": "Continents and oceans on a map or globe help us understand the DISTRIBUTION of LAND and WATER on Earth and where different places are located. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which continent has the Sahara, the world's largest hot desert?", "options": ["Africa", "Asia", "Australia", "South America"], "correct_index": 0, "solution": "AFRICA has the SAHARA, the world's LARGEST HOT DESERT, stretching across its northern part. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Coral reefs, like the Great Barrier Reef, are found in which ocean near Australia?", "options": ["Pacific Ocean", "Arctic Ocean", "Atlantic Ocean", "Southern Ocean"], "correct_index": 0, "solution": "The GREAT BARRIER REEF, the world's largest coral reef, lies off the coast of Australia in the PACIFIC OCEAN. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The continents are believed to have reached their present positions through the slow process of:", "options": ["Continental drift (movement of plates over millions of years)", "Sudden overnight change", "Human construction", "Rainfall"], "correct_index": 0, "solution": "The continents reached their present positions through CONTINENTAL DRIFT — the very SLOW MOVEMENT of the Earth's PLATES over MILLIONS of YEARS, splitting the ancient supercontinent Pangaea. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following separates two landmasses but allows ships to pass, like the one at Suez?", "options": ["A canal or strait", "A mountain", "A desert", "A forest"], "correct_index": 0, "solution": "A CANAL (like the Suez Canal) or a STRAIT separates two landmasses (or joins two seas) while ALLOWING SHIPS to PASS, shortening sea routes. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is it important to study continents and oceans?", "options": ["To understand the Earth's geography, climate, resources and how people and places are connected", "It has no importance", "Only to memorise names", "To confuse students"], "correct_index": 0, "solution": "Studying CONTINENTS and OCEANS helps us understand the Earth's GEOGRAPHY, CLIMATE, RESOURCES, and how PEOPLE and PLACES are CONNECTED across the world. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which continent is called the 'continent of contrasts' and includes countries like France and Germany?", "options": ["Europe", "Africa", "Asia", "Antarctica"], "correct_index": 0, "solution": "EUROPE, which includes countries like FRANCE and GERMANY, is a relatively small but densely populated continent, sometimes noted for its variety within a small area. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Oceans and Continents' is that:", "options": ["Earth has no land or water", "The Earth's surface is made up of SEVEN CONTINENTS (Asia the largest, Australia the smallest; also Africa, North America, South America, Antarctica and Europe) and FIVE OCEANS (Pacific the largest, then Atlantic, Indian, Southern and Arctic the smallest); water covers about 71% of the Earth (the 'blue planet'); continents and oceans are separated and connected by features like straits, isthmuses, peninsulas and islands; the continents drifted to their present positions from an ancient supercontinent; and understanding this distribution of land and water is key to studying the Earth's geography, climate and resources", "There is only one continent", "Oceans are unimportant"], "correct_index": 1, "solution": "The chapter's overall message is that the Earth's surface is made up of SEVEN CONTINENTS — ASIA (the largest), AFRICA, NORTH AMERICA, SOUTH AMERICA, ANTARCTICA (the coldest), EUROPE, and AUSTRALIA (the smallest, the 'island continent') — and FIVE OCEANS — the PACIFIC (the largest and deepest), the ATLANTIC, the INDIAN (the only one named after a country), the SOUTHERN, and the ARCTIC (the smallest). WATER covers about 71% of the Earth, earning it the name the 'BLUE PLANET'. Continents and oceans are separated and connected by features like STRAITS, ISTHMUSES, PENINSULAS, and ISLANDS, and the continents DRIFTED to their present positions from an ancient supercontinent (PANGAEA). Understanding this DISTRIBUTION of LAND and WATER is key to studying the Earth's GEOGRAPHY, CLIMATE, and RESOURCES. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "How many continents are there on the Earth?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correct_index": 2,
+    "solution": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which is the largest continent by area?",
+    "options": [
+      "Africa",
+      "Asia",
+      "North America",
+      "Antarctica"
+    ],
+    "correct_index": 1,
+    "solution": "Asia is the largest continent, covering about one-third of the Earth's land area.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which is the smallest continent?",
+    "options": [
+      "Europe",
+      "Antarctica",
+      "Australia",
+      "South America"
+    ],
+    "correct_index": 2,
+    "solution": "Australia is the smallest continent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which is the largest ocean on the Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 2,
+    "solution": "The Pacific Ocean is the largest and deepest ocean.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "How many oceans are recognised on the Earth?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correct_index": 2,
+    "solution": "Five oceans are recognised: Pacific, Atlantic, Indian, Southern (Antarctic) and Arctic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Indian Ocean is unique among the major oceans because it is:",
+    "options": [
+      "The largest ocean",
+      "The only ocean named after a country",
+      "Entirely frozen",
+      "Located only in the Northern Hemisphere"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian Ocean is the only ocean named after a country (India).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which continent is almost entirely covered with ice and has no permanent human population?",
+    "options": [
+      "Antarctica",
+      "Australia",
+      "Europe",
+      "Africa"
+    ],
+    "correct_index": 0,
+    "solution": "Antarctica, surrounding the South Pole, is covered by a thick ice sheet and has no permanent residents.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The imaginary line/continent-like division aside, which ocean lies to the south of India?",
+    "options": [
+      "Arctic Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
+    "correct_index": 2,
+    "solution": "The Indian Ocean lies to the south of the Indian subcontinent.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Roughly what proportion of the Earth's surface is covered by water?",
+    "options": [
+      "About one-fourth",
+      "About one-half",
+      "About two-thirds (71%)",
+      "About nine-tenths"
+    ],
+    "correct_index": 2,
+    "solution": "Water covers about 71% (roughly two-thirds) of the Earth's surface, which is why Earth is called the 'blue planet'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which is the smallest and shallowest ocean?",
+    "options": [
+      "Arctic Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Southern Ocean"
+    ],
+    "correct_index": 0,
+    "solution": "The Arctic Ocean, around the North Pole, is the smallest and shallowest of the oceans.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which is the second largest continent by area?",
+    "options": [
+      "Africa",
+      "North America",
+      "Europe",
+      "Australia"
+    ],
+    "correct_index": 0,
+    "solution": "AFRICA is the SECOND LARGEST continent by area, after Asia. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The second largest ocean in the world is the:",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Southern Ocean"
+    ],
+    "correct_index": 0,
+    "solution": "The ATLANTIC OCEAN is the SECOND LARGEST ocean, after the Pacific. It is 'S'-shaped and separates the Americas from Europe and Africa. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The huge landmasses on Earth are called continents; the large water bodies are called:",
+    "options": [
+      "Oceans",
+      "Rivers",
+      "Lakes",
+      "Ponds"
+    ],
+    "correct_index": 0,
+    "solution": "The huge LANDMASSES are called CONTINENTS, and the large WATER BODIES that surround them are called OCEANS. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which continent is known as the 'Dark Continent' and has the river Nile?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Australia"
+    ],
+    "correct_index": 0,
+    "solution": "AFRICA was once called the 'DARK CONTINENT' (because much of it was long unknown to outsiders) and has the river NILE, the longest river in the world. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The continent of Australia is unique because it is also known as an:",
+    "options": [
+      "Island continent",
+      "Ice continent",
+      "Desert continent only",
+      "Frozen continent"
+    ],
+    "correct_index": 0,
+    "solution": "AUSTRALIA is called the ISLAND CONTINENT because it is the only continent that is also a single large island, surrounded entirely by water. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which two continents together are sometimes called 'Eurasia'?",
+    "options": [
+      "Europe and Asia",
+      "Africa and Asia",
+      "North and South America",
+      "Australia and Antarctica"
+    ],
+    "correct_index": 0,
+    "solution": "EUROPE and ASIA together form one continuous landmass sometimes called EURASIA, as they are not separated by an ocean. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "North America and South America are joined by a narrow strip of land called the Isthmus of:",
+    "options": [
+      "Panama",
+      "Suez",
+      "Kutch",
+      "Malacca"
+    ],
+    "correct_index": 0,
+    "solution": "NORTH and SOUTH AMERICA are joined by the narrow ISTHMUS of PANAMA. (The Isthmus of Suez joins Africa and Asia.) So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which continent has the highest mountain, Mount Everest?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "South America"
+    ],
+    "correct_index": 0,
+    "solution": "ASIA has the HIGHEST mountain, MOUNT EVEREST (in the Himalayas), the tallest peak on Earth. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Earth is called the 'blue planet' because:",
+    "options": [
+      "Most of its surface is covered by water, which looks blue from space",
+      "It is cold",
+      "It is small",
+      "It has no land"
+    ],
+    "correct_index": 0,
+    "solution": "Earth is called the 'BLUE PLANET' because MOST of its SURFACE (about 71%) is covered by WATER, which appears BLUE from space. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which continent is entirely in the Southern Hemisphere and is the coldest?",
+    "options": [
+      "Antarctica",
+      "Africa",
+      "Asia",
+      "Europe"
+    ],
+    "correct_index": 0,
+    "solution": "ANTARCTICA lies entirely in the SOUTHERN HEMISPHERE, around the South Pole, and is the COLDEST continent, covered by a thick ice sheet. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The imaginary supercontinent that is believed to have existed long ago, before splitting into today's continents, is called:",
+    "options": [
+      "Pangaea",
+      "Eurasia",
+      "Gondwana city",
+      "Atlantis"
+    ],
+    "correct_index": 0,
+    "solution": "PANGAEA was the single supercontinent believed to have existed long ago, before it SPLIT and DRIFTED apart to form today's continents. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Southern Ocean surrounds which continent?",
+    "options": [
+      "Antarctica",
+      "Australia",
+      "Africa",
+      "Asia"
+    ],
+    "correct_index": 0,
+    "solution": "The SOUTHERN (ANTARCTIC) OCEAN surrounds the continent of ANTARCTICA at the far south of the globe. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Oceans are important to life on Earth because they:",
+    "options": [
+      "Influence climate, provide water for the water cycle, and support marine life",
+      "Have no use",
+      "Only cause floods",
+      "Are always frozen"
+    ],
+    "correct_index": 0,
+    "solution": "OCEANS are important because they INFLUENCE CLIMATE, provide WATER for the WATER CYCLE (through evaporation and rain), and SUPPORT MARINE LIFE and human activities like fishing and trade. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which ocean lies between Africa, Asia and Australia?",
+    "options": [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 0,
+    "solution": "The INDIAN OCEAN lies between AFRICA (west), ASIA (north), and AUSTRALIA (east) — bordering India to its south. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which ocean lies between the Americas and Europe/Africa?",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 0,
+    "solution": "The ATLANTIC OCEAN lies between the AMERICAS (west) and EUROPE and AFRICA (east). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Largest continent — Asia 2. Smallest continent — Australia 3. Largest ocean — Pacific. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: the LARGEST continent is ASIA, the SMALLEST continent is AUSTRALIA, and the LARGEST ocean is the PACIFIC. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The narrow water body that connects two large water bodies is called a:",
+    "options": [
+      "Strait",
+      "Continent",
+      "Plateau",
+      "Peninsula"
+    ],
+    "correct_index": 0,
+    "solution": "A STRAIT is a NARROW WATER BODY that CONNECTS two large water bodies (e.g., the Strait of Malacca). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A landmass surrounded by water on three sides is called a:",
+    "options": [
+      "Peninsula",
+      "Island",
+      "Continent",
+      "Strait"
+    ],
+    "correct_index": 0,
+    "solution": "A PENINSULA is a landmass surrounded by water on THREE SIDES (like the Indian Peninsula). An ISLAND is surrounded by water on all sides. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A piece of land completely surrounded by water is called a(n):",
+    "options": [
+      "Island",
+      "Peninsula",
+      "Isthmus",
+      "Continent"
+    ],
+    "correct_index": 0,
+    "solution": "A piece of land COMPLETELY SURROUNDED by WATER is called an ISLAND. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Europe is separated from Asia by mountains such as the:",
+    "options": [
+      "Ural Mountains",
+      "Himalayas",
+      "Andes",
+      "Alps only"
+    ],
+    "correct_index": 0,
+    "solution": "EUROPE is traditionally separated from ASIA by the URAL MOUNTAINS (and Ural River), which mark the boundary between the two continents. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Pacific Ocean is the largest ocean and contains the deepest point on Earth, the:",
+    "options": [
+      "Mariana Trench",
+      "Nile Valley",
+      "Grand Canyon",
+      "Dead Sea"
+    ],
+    "correct_index": 0,
+    "solution": "The PACIFIC OCEAN contains the MARIANA TRENCH, the DEEPEST known point on Earth. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which continent lies mostly in the Northern Hemisphere and includes India, China and Japan?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "correct_index": 0,
+    "solution": "ASIA lies mostly in the NORTHERN HEMISPHERE and includes INDIA, CHINA, JAPAN, and many other countries — the largest and most populous continent. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The continent of South America contains which great river and rainforest?",
+    "options": [
+      "The Amazon river and rainforest",
+      "The Nile and Sahara",
+      "The Ganga and Thar",
+      "The Yangtze and Gobi"
+    ],
+    "correct_index": 0,
+    "solution": "SOUTH AMERICA contains the AMAZON RIVER and the AMAZON RAINFOREST, the largest tropical rainforest in the world. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The saltiness of ocean water is due to:",
+    "options": [
+      "Dissolved salts and minerals carried by rivers and from the sea bed",
+      "Added sugar",
+      "Rainwater only",
+      "Ice"
+    ],
+    "correct_index": 0,
+    "solution": "Ocean water is SALTY because of DISSOLVED SALTS and MINERALS carried into the sea by RIVERS and released from the SEA BED over millions of years. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly lists the seven continents?",
+    "options": [
+      "Asia, Africa, North America, South America, Antarctica, Europe, Australia",
+      "Asia, Africa, India, China, Europe, Russia, Australia",
+      "Pacific, Atlantic, Indian, Arctic, Southern, Asia, Africa",
+      "Only Asia and Africa"
+    ],
+    "correct_index": 0,
+    "solution": "The SEVEN CONTINENTS are ASIA, AFRICA, NORTH AMERICA, SOUTH AMERICA, ANTARCTICA, EUROPE, and AUSTRALIA. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Equator passes through which of the following continents?",
+    "options": [
+      "Africa, South America and Asia (through islands)",
+      "Only Europe",
+      "Only Antarctica",
+      "Only Australia"
+    ],
+    "correct_index": 0,
+    "solution": "The EQUATOR passes through AFRICA, SOUTH AMERICA, and parts of ASIA (through Indonesian islands) — placing parts of these continents in the hot Torrid Zone. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Oceans help in transport and trade because:",
+    "options": [
+      "Ships carry goods between countries across the seas",
+      "Ships cannot travel on water",
+      "Oceans block all trade",
+      "Only air travel is possible"
+    ],
+    "correct_index": 0,
+    "solution": "OCEANS help TRANSPORT and TRADE because SHIPS carry GOODS between COUNTRIES across the seas — a cheap and important way to move large cargoes worldwide. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Assertion (A): Asia is the largest continent. Reason (R): It covers about one-third of the Earth's total land area. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — ASIA is the largest continent. R is TRUE and correctly EXPLAINS A: it covers about ONE-THIRD of the Earth's total LAND AREA, which is precisely why it is the largest. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The imaginary belt where many earthquakes and volcanoes occur around the Pacific Ocean is called the:",
+    "options": [
+      "Ring of Fire",
+      "Prime Meridian",
+      "Equator",
+      "Great Barrier Reef"
+    ],
+    "correct_index": 0,
+    "solution": "The RING of FIRE is a belt around the PACIFIC OCEAN where many EARTHQUAKES and VOLCANOES occur, due to the movement of the Earth's plates. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which continent is the most populated in the world?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Antarctica"
+    ],
+    "correct_index": 0,
+    "solution": "ASIA is the MOST POPULATED continent, home to the majority of the world's people, including India and China. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Arctic Ocean is located around the:",
+    "options": [
+      "North Pole",
+      "South Pole",
+      "Equator",
+      "Prime Meridian"
+    ],
+    "correct_index": 0,
+    "solution": "The ARCTIC OCEAN is located around the NORTH POLE and is largely covered with ice. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is the correct order of oceans from largest to smallest?",
+    "options": [
+      "Pacific, Atlantic, Indian, Southern, Arctic",
+      "Arctic, Indian, Pacific, Atlantic, Southern",
+      "Indian, Pacific, Arctic, Atlantic, Southern",
+      "Atlantic, Pacific, Southern, Arctic, Indian"
+    ],
+    "correct_index": 0,
+    "solution": "From LARGEST to SMALLEST, the oceans are: PACIFIC, ATLANTIC, INDIAN, SOUTHERN, and ARCTIC. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The continents and oceans are shown on a map or globe to help us understand:",
+    "options": [
+      "The distribution of land and water on Earth",
+      "Only the weather",
+      "Only one country",
+      "Nothing useful"
+    ],
+    "correct_index": 0,
+    "solution": "Continents and oceans on a map or globe help us understand the DISTRIBUTION of LAND and WATER on Earth and where different places are located. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which continent has the Sahara, the world's largest hot desert?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Australia",
+      "South America"
+    ],
+    "correct_index": 0,
+    "solution": "AFRICA has the SAHARA, the world's LARGEST HOT DESERT, stretching across its northern part. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coral reefs, like the Great Barrier Reef, are found in which ocean near Australia?",
+    "options": [
+      "Pacific Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean",
+      "Southern Ocean"
+    ],
+    "correct_index": 0,
+    "solution": "The GREAT BARRIER REEF, the world's largest coral reef, lies off the coast of Australia in the PACIFIC OCEAN. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The continents are believed to have reached their present positions through the slow process of:",
+    "options": [
+      "Continental drift (movement of plates over millions of years)",
+      "Sudden overnight change",
+      "Human construction",
+      "Rainfall"
+    ],
+    "correct_index": 0,
+    "solution": "The continents reached their present positions through CONTINENTAL DRIFT — the very SLOW MOVEMENT of the Earth's PLATES over MILLIONS of YEARS, splitting the ancient supercontinent Pangaea. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following separates two landmasses but allows ships to pass, like the one at Suez?",
+    "options": [
+      "A canal or strait",
+      "A mountain",
+      "A desert",
+      "A forest"
+    ],
+    "correct_index": 0,
+    "solution": "A CANAL (like the Suez Canal) or a STRAIT separates two landmasses (or joins two seas) while ALLOWING SHIPS to PASS, shortening sea routes. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is it important to study continents and oceans?",
+    "options": [
+      "To understand the Earth's geography, climate, resources and how people and places are connected",
+      "It has no importance",
+      "Only to memorise names",
+      "To confuse students"
+    ],
+    "correct_index": 0,
+    "solution": "Studying CONTINENTS and OCEANS helps us understand the Earth's GEOGRAPHY, CLIMATE, RESOURCES, and how PEOPLE and PLACES are CONNECTED across the world. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which continent is called the 'continent of contrasts' and includes countries like France and Germany?",
+    "options": [
+      "Europe",
+      "Africa",
+      "Asia",
+      "Antarctica"
+    ],
+    "correct_index": 0,
+    "solution": "EUROPE, which includes countries like FRANCE and GERMANY, is a relatively small but densely populated continent, sometimes noted for its variety within a small area. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Oceans and Continents' is that:",
+    "options": [
+      "Earth has no land or water",
+      "The Earth's surface is made up of SEVEN CONTINENTS (Asia the largest, Australia the smallest; also Africa, North America, South America, Antarctica and Europe) and FIVE OCEANS (Pacific the largest, then Atlantic, Indian, Southern and Arctic the smallest); water covers about 71% of the Earth (the 'blue planet'); continents and oceans are separated and connected by features like straits, isthmuses, peninsulas and islands; the continents drifted to their present positions from an ancient supercontinent; and understanding this distribution of land and water is key to studying the Earth's geography, climate and resources",
+      "There is only one continent",
+      "Oceans are unimportant"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that the Earth's surface is made up of SEVEN CONTINENTS — ASIA (the largest), AFRICA, NORTH AMERICA, SOUTH AMERICA, ANTARCTICA (the coldest), EUROPE, and AUSTRALIA (the smallest, the 'island continent') — and FIVE OCEANS — the PACIFIC (the largest and deepest), the ATLANTIC, the INDIAN (the only one named after a country), the SOUTHERN, and the ARCTIC (the smallest). WATER covers about 71% of the Earth, earning it the name the 'BLUE PLANET'. Continents and oceans are separated and connected by features like STRAITS, ISTHMUSES, PENINSULAS, and ISLANDS, and the continents DRIFTED to their present positions from an ancient supercontinent (PANGAEA). Understanding this DISTRIBUTION of LAND and WATER is key to studying the Earth's GEOGRAPHY, CLIMATE, and RESOURCES. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Earth's surface is made up of large landmasses called continents and large water bodies called:",
+    "options": [
+      "Rivers",
+      "Oceans",
+      "Lakes",
+      "Ponds"
+    ],
+    "correct_index": 1,
+    "solution": "The Earth's surface consists of continents (large landmasses) and oceans (vast water bodies); about 71% is water and 29% is land.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "How many continents are there on Earth?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correct_index": 2,
+    "solution": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The largest continent in the world is:",
+    "options": [
+      "Africa",
+      "Asia",
+      "North America",
+      "Europe"
+    ],
+    "correct_index": 1,
+    "solution": "Asia is the largest continent, covering about one-third of the Earth's land area; India is located in Asia.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The smallest continent is:",
+    "options": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "correct_index": 1,
+    "solution": "Australia is the smallest continent; it is also the only continent that is a single country and lies entirely in the Southern Hemisphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "How many oceans are there on Earth?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Seven"
+    ],
+    "correct_index": 2,
+    "solution": "There are five oceans: the Pacific, the Atlantic, the Indian, the Southern (Antarctic) and the Arctic Ocean.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The largest and deepest ocean in the world is the:",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 1,
+    "solution": "The Pacific Ocean is the largest and deepest ocean; it contains the Mariana Trench, the deepest known point on Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ocean named after a country (India) is the:",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian Ocean is the only ocean named after a country (India); India occupies a strategic central position along its northern shores.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The smallest and shallowest ocean, located around the North Pole, is the:",
+    "options": [
+      "Arctic Ocean",
+      "Southern Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean"
+    ],
+    "correct_index": 0,
+    "solution": "The Arctic Ocean, around the North Pole, is the smallest and shallowest ocean; much of it is covered with ice.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'S'-shaped ocean between the Americas and Europe/Africa is the:",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 1,
+    "solution": "The Atlantic Ocean, roughly 'S'-shaped, lies between the Americas to the west and Europe/Africa to the east; it is the second-largest ocean and busiest for trade.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The continent that lies entirely in the Southern Hemisphere and is covered with ice is:",
+    "options": [
+      "Australia",
+      "Antarctica",
+      "Africa",
+      "Europe"
+    ],
+    "correct_index": 1,
+    "solution": "Antarctica, around the South Pole, is almost entirely covered with thick ice; it is uninhabited except for scientific research stations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The continent through which the equator, Tropic of Cancer and Tropic of Capricorn all pass is:",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "correct_index": 1,
+    "solution": "Africa is the only continent through which the equator, the Tropic of Cancer and the Tropic of Capricorn all pass; it is the second-largest continent.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The imaginary line that separates Asia and Europe is often taken along the ______ mountains.",
+    "options": [
+      "Himalayas",
+      "Ural",
+      "Andes",
+      "Alps"
+    ],
+    "correct_index": 1,
+    "solution": "The Ural Mountains (and Ural river) are commonly taken as the boundary separating the continents of Asia and Europe, which together form the landmass of Eurasia.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'domains of the Earth' are the land (lithosphere), water (hydrosphere), air (atmosphere) and:",
+    "options": [
+      "Biosphere (life)",
+      "Ionosphere",
+      "Magnetosphere",
+      "Ozone layer"
+    ],
+    "correct_index": 0,
+    "solution": "The four domains of the Earth are the lithosphere (land), hydrosphere (water), atmosphere (air) and biosphere (the zone of life), which interact to support living organisms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The narrow zone where land, water and air meet and where life exists is the:",
+    "options": [
+      "Lithosphere",
+      "Hydrosphere",
+      "Biosphere",
+      "Atmosphere"
+    ],
+    "correct_index": 2,
+    "solution": "The biosphere is the narrow zone of contact between land, water and air where all living organisms exist; it is unique to the Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The domain of water on the Earth is called the:",
+    "options": [
+      "Lithosphere",
+      "Hydrosphere",
+      "Atmosphere",
+      "Biosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The hydrosphere is the domain of water — comprising the oceans, seas, rivers, lakes, groundwater and water vapour.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The solid land portion of the Earth's surface is the:",
+    "options": [
+      "Hydrosphere",
+      "Lithosphere",
+      "Atmosphere",
+      "Biosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The lithosphere is the solid crust or hard top layer of the Earth, made up of rocks and minerals and covered by a thin layer of soil, on which landforms exist.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India is located in which continent?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Australia"
+    ],
+    "correct_index": 1,
+    "solution": "India is located in the continent of Asia, specifically in South Asia, along the northern shores of the Indian Ocean.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'Southern Ocean' surrounds which continent?",
+    "options": [
+      "Asia",
+      "Antarctica",
+      "Africa",
+      "Europe"
+    ],
+    "correct_index": 1,
+    "solution": "The Southern (Antarctic) Ocean surrounds the continent of Antarctica; it was officially recognised as the fifth ocean.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The continent of Asia is separated from Africa by the:",
+    "options": [
+      "Panama Canal",
+      "Suez Canal (and Red Sea)",
+      "English Channel",
+      "Strait of Gibraltar"
+    ],
+    "correct_index": 1,
+    "solution": "Asia is separated from Africa by the Suez Canal and the Red Sea; the Suez Canal is an important artificial waterway for global shipping.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "North America and South America are connected by the narrow strip of land called the:",
+    "options": [
+      "Isthmus of Panama",
+      "Isthmus of Suez",
+      "Strait of Malacca",
+      "Bering Strait"
+    ],
+    "correct_index": 0,
+    "solution": "The Isthmus of Panama is the narrow strip of land connecting North and South America; the Panama Canal cuts across it to link the Pacific and Atlantic Oceans.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which statement about continents and oceans is correct? (i) Asia is the largest continent (ii) The Pacific is the largest ocean (iii) There are seven continents and five oceans",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Asia is the largest continent, the Pacific is the largest ocean, and there are seven continents and five oceans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The oceans are important because they:",
+    "options": [
+      "Have no use",
+      "Regulate climate, support marine life, and provide routes for trade and resources",
+      "Only cause storms",
+      "Are empty"
+    ],
+    "correct_index": 1,
+    "solution": "Oceans regulate the Earth's climate, support vast marine biodiversity, provide food, minerals and energy, and serve as major routes for transport and trade.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Europe is sometimes grouped with Asia as a single landmass called:",
+    "options": [
+      "Gondwana",
+      "Eurasia",
+      "Pangaea",
+      "Laurasia"
+    ],
+    "correct_index": 1,
+    "solution": "Europe and Asia together form one continuous landmass called Eurasia, though they are conventionally treated as two separate continents.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The domain that contains the gases we breathe is the:",
+    "options": [
+      "Lithosphere",
+      "Hydrosphere",
+      "Atmosphere",
+      "Biosphere"
+    ],
+    "correct_index": 2,
+    "solution": "The atmosphere is the domain of air surrounding the Earth, containing the gases (oxygen, nitrogen, etc.) essential for life.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The interaction of the four domains (land, water, air and life) is important because it:",
+    "options": [
+      "Has no effect",
+      "Makes the Earth suitable for life",
+      "Destroys the Earth",
+      "Only causes disasters"
+    ],
+    "correct_index": 1,
+    "solution": "The interaction and balance among the lithosphere, hydrosphere, atmosphere and biosphere create the conditions that make the Earth the only known planet capable of supporting life.",
+    "difficulty": "medium"
+  }
 ]

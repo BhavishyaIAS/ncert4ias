@@ -1,52 +1,950 @@
 [
-  { "stem": "Which gas makes up the largest proportion of the Earth's atmosphere?", "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"], "correct_index": 1, "solution": "Nitrogen forms about 78% of the atmosphere, while oxygen makes up about 21%.", "difficulty": "easy" },
-  { "stem": "Oxygen constitutes approximately what percentage of the atmosphere?", "options": ["78%", "21%", "1%", "50%"], "correct_index": 1, "solution": "Oxygen makes up about 21% of the air; nitrogen about 78%; other gases about 1%.", "difficulty": "easy" },
-  { "stem": "The lowest layer of the atmosphere, in which almost all weather phenomena occur, is the:", "options": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"], "correct_index": 1, "solution": "The troposphere is the lowest layer where clouds, rain and other weather events take place.", "difficulty": "medium" },
-  { "stem": "The ozone layer, which absorbs harmful ultraviolet rays, lies in which atmospheric layer?", "options": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"], "correct_index": 1, "solution": "The ozone layer is found in the stratosphere and protects life by absorbing most of the Sun's harmful ultraviolet radiation.", "difficulty": "medium" },
-  { "stem": "The day-to-day condition of the atmosphere of a place is called its:", "options": ["Climate", "Weather", "Season", "Temperature"], "correct_index": 1, "solution": "Weather is the short-term, day-to-day state of the atmosphere; climate is the average weather over a long period.", "difficulty": "easy" },
-  { "stem": "Winds that blow from the subtropical high-pressure belts towards the equatorial low-pressure belt are the:", "options": ["Westerlies", "Trade winds", "Polar easterlies", "Loo"], "correct_index": 1, "solution": "The trade winds are permanent winds blowing from the subtropical high-pressure areas towards the equatorial low-pressure belt.", "difficulty": "hard" },
-  { "stem": "Air always moves from areas of:", "options": ["Low pressure to high pressure", "High pressure to low pressure", "Cold to hot only", "East to west only"], "correct_index": 1, "solution": "Wind blows from high-pressure areas to low-pressure areas.", "difficulty": "medium" },
-  { "stem": "The hot and dry local wind that blows in northern India during summer is called the:", "options": ["Loo", "Monsoon", "Chinook", "Foehn"], "correct_index": 0, "solution": "The 'loo' is a hot, dry local wind that blows over the northern plains of India in summer.", "difficulty": "medium" },
-  { "stem": "The amount of water vapour present in the air is called:", "options": ["Precipitation", "Humidity", "Pressure", "Insolation"], "correct_index": 1, "solution": "Humidity is the measure of moisture (water vapour) in the atmosphere.", "difficulty": "medium" },
-  { "stem": "When water vapour rises, cools and condenses to fall as water droplets, it is called:", "options": ["Evaporation", "Precipitation (rainfall)", "Transpiration", "Sublimation"], "correct_index": 1, "solution": "Precipitation (such as rain) occurs when condensed water droplets in clouds become heavy and fall to the ground.", "difficulty": "medium" },
-  { "stem": "The blanket of air surrounding the Earth is called the:", "options": ["Atmosphere", "Hydrosphere", "Lithosphere", "Biosphere"], "correct_index": 0, "solution": "The blanket of AIR surrounding the Earth is called the ATMOSPHERE, which provides gases for life and shields us from the Sun's harmful rays. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The five layers of the atmosphere, from lowest to highest, are troposphere, stratosphere, mesosphere, thermosphere and:", "options": ["Exosphere", "Lithosphere", "Hydrosphere", "Biosphere"], "correct_index": 0, "solution": "The FIVE LAYERS of the atmosphere, from lowest to highest, are the TROPOSPHERE, STRATOSPHERE, MESOSPHERE, THERMOSPHERE, and EXOSPHERE. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The atmosphere is important for life because it:", "options": ["Provides oxygen, protects from harmful rays, and keeps the Earth warm", "Has no use", "Only causes storms", "Blocks all light"], "correct_index": 0, "solution": "The ATMOSPHERE is important because it PROVIDES OXYGEN (for breathing) and carbon dioxide (for plants), PROTECTS us from HARMFUL RAYS (via the ozone layer), and KEEPS the Earth WARM (like a blanket). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The gas that plants use to make food and animals give out is:", "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Argon"], "correct_index": 0, "solution": "CARBON DIOXIDE is the gas that PLANTS USE to make food (photosynthesis) and that animals and humans GIVE OUT when breathing. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The weight of air on a unit area of the Earth's surface is called:", "options": ["Air (atmospheric) pressure", "Humidity", "Temperature", "Wind"], "correct_index": 0, "solution": "The WEIGHT of AIR on a unit area of the Earth's surface is called AIR (ATMOSPHERIC) PRESSURE, measured with a barometer. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Air pressure is highest at:", "options": ["Sea level, and decreases with height", "The top of mountains", "The middle of the atmosphere", "Everywhere equally"], "correct_index": 0, "solution": "AIR PRESSURE is HIGHEST at SEA LEVEL (where the air column is thickest) and DECREASES with HEIGHT — this is why the air is 'thinner' on high mountains. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The horizontal movement of air from high to low pressure is called:", "options": ["Wind", "Rain", "Cloud", "Fog"], "correct_index": 0, "solution": "The HORIZONTAL MOVEMENT of AIR from HIGH to LOW PRESSURE is called WIND. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Winds are named after the direction from which they blow. A wind blowing from the west is called a:", "options": ["Westerly", "Easterly", "Northerly", "Southerly"], "correct_index": 0, "solution": "WINDS are named after the direction from WHICH they blow — so a wind blowing FROM the WEST is called a WESTERLY. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The three types of winds are permanent winds, seasonal winds and:", "options": ["Local winds", "Ocean winds", "Space winds", "Underground winds"], "correct_index": 0, "solution": "The THREE TYPES of WINDS are PERMANENT winds (trade winds, westerlies, easterlies), SEASONAL winds (like the monsoon), and LOCAL winds (like the loo). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The monsoon winds of India are an example of:", "options": ["Seasonal winds", "Permanent winds", "Local winds", "Space winds"], "correct_index": 0, "solution": "The MONSOON winds of India are an example of SEASONAL WINDS — they change direction with the seasons, bringing rain in summer. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. Trade winds — permanent 2. Monsoon — seasonal 3. Loo — local. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: TRADE WINDS → PERMANENT; MONSOON → SEASONAL; LOO → LOCAL wind. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The instrument used to measure air pressure is the:", "options": ["Barometer", "Thermometer", "Rain gauge", "Wind vane"], "correct_index": 0, "solution": "The instrument used to measure AIR PRESSURE is the BAROMETER. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The instrument used to measure temperature is the:", "options": ["Thermometer", "Barometer", "Anemometer", "Rain gauge"], "correct_index": 0, "solution": "The instrument used to measure TEMPERATURE is the THERMOMETER. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The instrument used to measure the amount of rainfall is the:", "options": ["Rain gauge", "Barometer", "Thermometer", "Wind vane"], "correct_index": 0, "solution": "The instrument used to measure the amount of RAINFALL is the RAIN GAUGE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The instrument that shows the direction of the wind is the:", "options": ["Wind vane", "Rain gauge", "Barometer", "Thermometer"], "correct_index": 0, "solution": "The instrument that shows the DIRECTION of the WIND is the WIND VANE (weathercock). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The temperature of the air is affected mainly by heat from the:", "options": ["Sun (insolation)", "Moon", "Ocean floor", "Underground caves"], "correct_index": 0, "solution": "The TEMPERATURE of the air is affected mainly by HEAT from the SUN (called INSOLATION — incoming solar radiation), which warms the Earth's surface and the air above it. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "As we go higher up in the troposphere, the temperature generally:", "options": ["Decreases", "Increases", "Stays the same", "Doubles"], "correct_index": 0, "solution": "As we go HIGHER up in the TROPOSPHERE, the TEMPERATURE generally DECREASES (about 1°C for every 165 metres) — which is why mountain tops are cold. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): The ozone layer is important for life. Reason (R): It absorbs most of the Sun's harmful ultraviolet radiation. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — the ozone layer is important for life. R is TRUE and correctly EXPLAINS A: it ABSORBS most of the Sun's HARMFUL ULTRAVIOLET RADIATION, protecting living things — which is precisely why it is important. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The difference between weather and climate is that weather is short-term while climate is:", "options": ["The average weather of a place over a long period", "The weather of one hour", "The same as weather", "Only about wind"], "correct_index": 0, "solution": "WEATHER is the SHORT-TERM (day-to-day) state of the atmosphere, while CLIMATE is the AVERAGE WEATHER of a place over a LONG PERIOD (many years). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The formation of clouds occurs when:", "options": ["Water vapour rises, cools and condenses into tiny droplets", "The Sun goes down", "The wind stops", "Rocks melt"], "correct_index": 0, "solution": "CLOUDS form when WATER VAPOUR RISES, COOLS, and CONDENSES into TINY DROPLETS (or ice crystals) around dust particles in the air. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main gases that make up the atmosphere are nitrogen, oxygen and small amounts of:", "options": ["Carbon dioxide, argon, water vapour and dust", "Only gold", "Only iron", "Only helium"], "correct_index": 0, "solution": "The atmosphere is mainly NITROGEN (78%) and OXYGEN (21%), with small amounts of CARBON DIOXIDE, ARGON, WATER VAPOUR, and DUST particles (about 1% together). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which layer of the atmosphere is important for radio communication because it reflects radio waves?", "options": ["The thermosphere (ionosphere)", "The troposphere", "The stratosphere", "The exosphere"], "correct_index": 0, "solution": "The THERMOSPHERE (which contains the IONOSPHERE) is important for RADIO COMMUNICATION because it REFLECTS RADIO WAVES back to Earth, enabling long-distance transmission. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Why does air move (create wind)?", "options": ["Because uneven heating of the Earth creates differences in air pressure", "Because of no reason", "Because of the Moon only", "Because rocks push it"], "correct_index": 0, "solution": "AIR MOVES (creating WIND) because the UNEVEN HEATING of the Earth by the Sun creates DIFFERENCES in AIR PRESSURE, and air flows from high to low pressure to balance them. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The moisture (water vapour) in the air is highest:", "options": ["Near the equator and over water bodies", "Over deserts", "At the poles", "On mountain tops"], "correct_index": 0, "solution": "The MOISTURE (HUMIDITY) in the air is HIGHEST near the EQUATOR and over WATER BODIES (oceans, lakes), where warm temperatures cause much evaporation. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The three main types of rainfall are convectional, orographic (relief) and:", "options": ["Cyclonic (frontal)", "Solar", "Underground", "Desert"], "correct_index": 0, "solution": "The THREE MAIN TYPES of RAINFALL are CONVECTIONAL (from rising hot air), OROGRAPHIC/RELIEF (from air rising over mountains), and CYCLONIC (FRONTAL) rainfall. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Orographic (relief) rainfall occurs when:", "options": ["Moist air is forced to rise over mountains, cools and rains", "The ground shakes", "The Sun sets", "Wind stops"], "correct_index": 0, "solution": "OROGRAPHIC (RELIEF) RAINFALL occurs when MOIST AIR is FORCED to RISE over MOUNTAINS; as it rises, it COOLS, condenses, and RAINS on the windward side. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Air is a mixture of gases, water vapour and:", "options": ["Dust particles", "Rocks", "Water only", "Metals"], "correct_index": 0, "solution": "AIR is a MIXTURE of GASES (nitrogen, oxygen, etc.), WATER VAPOUR, and DUST PARTICLES, which help in the formation of clouds and rain. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly pairs a weather element with its measuring instrument?", "options": ["Temperature → thermometer; Pressure → barometer; Rainfall → rain gauge; Wind direction → wind vane", "Temperature → barometer; Pressure → thermometer", "All measured by one instrument", "None can be measured"], "correct_index": 0, "solution": "The correct pairings are: TEMPERATURE → THERMOMETER; PRESSURE → BAROMETER; RAINFALL → RAIN GAUGE; WIND DIRECTION → WIND VANE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Air pollution occurs when:", "options": ["Harmful gases, smoke and dust are released into the air", "The air is clean", "There is more oxygen", "Nothing happens"], "correct_index": 0, "solution": "AIR POLLUTION occurs when HARMFUL GASES (from vehicles, factories), SMOKE, and DUST are RELEASED into the AIR, making it unhealthy to breathe and harming the environment. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Convectional rainfall is common in which region?", "options": ["Equatorial (hot) regions", "The poles", "Deserts only", "Mountain tops only"], "correct_index": 0, "solution": "CONVECTIONAL RAINFALL — caused by hot air rising, cooling, and condensing — is common in EQUATORIAL (HOT) REGIONS, where strong heating leads to afternoon thunderstorms. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The windward side of a mountain receives more rain than the leeward side because:", "options": ["The moist air rises and rains on the windward side, leaving the leeward side dry", "The leeward side is hotter", "The windward side is a desert", "Rain avoids mountains"], "correct_index": 0, "solution": "The WINDWARD side receives MORE RAIN because MOIST AIR RISES and RAINS there; by the time the air crosses to the LEEWARD side, it is DRY (a rain shadow). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The gases of the atmosphere are held close to the Earth by:", "options": ["The force of gravity", "The wind", "The Sun", "The ocean"], "correct_index": 0, "solution": "The GASES of the atmosphere are held close to the Earth by the FORCE of GRAVITY, which prevents them from escaping into space. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a harmful effect of air pollution?", "options": ["Breathing problems, acid rain and harm to the environment", "Cleaner air", "Better health", "No effect"], "correct_index": 0, "solution": "Harmful effects of AIR POLLUTION include BREATHING PROBLEMS and diseases, ACID RAIN (harming plants and buildings), and general HARM to the ENVIRONMENT. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The greenhouse effect keeps the Earth warm, but too much greenhouse gas causes:", "options": ["Global warming (excessive heating)", "An ice age immediately", "No change", "Cooling of the Earth"], "correct_index": 0, "solution": "The GREENHOUSE EFFECT naturally keeps the Earth WARM, but TOO MUCH greenhouse gas (like carbon dioxide) traps extra heat, causing GLOBAL WARMING (excessive heating of the planet). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "We can reduce air pollution by:", "options": ["Using public transport, planting trees and controlling factory emissions", "Burning more fuel", "Cutting all trees", "Ignoring the problem"], "correct_index": 0, "solution": "We can REDUCE AIR POLLUTION by using PUBLIC TRANSPORT (fewer vehicles), PLANTING TREES (which clean the air), and CONTROLLING FACTORY EMISSIONS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The layer where temperature increases with height because of the ozone absorbing UV rays is the:", "options": ["Stratosphere", "Troposphere", "Mesosphere", "Exosphere"], "correct_index": 0, "solution": "In the STRATOSPHERE, TEMPERATURE INCREASES with HEIGHT because the OZONE layer there ABSORBS the Sun's UV RAYS, warming the layer. (In the troposphere, temperature falls with height.) So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Why is oxygen essential in the atmosphere?", "options": ["Living things need it to breathe and it is needed for burning", "It is used to make coins", "It has no use", "It only causes storms"], "correct_index": 0, "solution": "OXYGEN is essential because LIVING THINGS NEED it to BREATHE (respiration) and it is also NEEDED for BURNING (combustion). So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The daily changes we experience — sunny, cloudy, rainy, windy — are all part of:", "options": ["The weather", "The rock cycle", "Plate movement", "Nothing"], "correct_index": 0, "solution": "The DAILY CHANGES we experience — SUNNY, CLOUDY, RAINY, WINDY — are all part of the WEATHER, the short-term state of the atmosphere. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following is TRUE about the atmosphere?", "options": ["It is essential for life and its layers each have special features", "It is not needed for life", "It has only one layer", "It is made of solid rock"], "correct_index": 0, "solution": "It is TRUE that the ATMOSPHERE is ESSENTIAL for LIFE and that its LAYERS each have SPECIAL FEATURES (weather in the troposphere, ozone in the stratosphere, etc.). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Air' is that:", "options": ["Air is unimportant", "The ATMOSPHERE is the blanket of AIR around the Earth, made mostly of NITROGEN (78%) and OXYGEN (21%) with small amounts of carbon dioxide, argon, water vapour and dust; it has FIVE LAYERS (troposphere, stratosphere with the protective OZONE layer, mesosphere, thermosphere, exosphere) and is essential for life — providing gases, shielding us from harmful rays, and keeping the Earth warm; the key elements of weather — TEMPERATURE, AIR PRESSURE, WINDS (permanent, seasonal and local), MOISTURE (humidity) and rainfall — interact to produce the day-to-day WEATHER and the long-term CLIMATE, measured by instruments like the thermometer, barometer, rain gauge and wind vane", "Only oxygen exists in air", "Air has no layers"], "correct_index": 1, "solution": "The chapter's overall message is that the ATMOSPHERE is the BLANKET of AIR around the Earth, made mostly of NITROGEN (about 78%) and OXYGEN (about 21%), with small amounts of CARBON DIOXIDE, ARGON, WATER VAPOUR, and DUST. It has FIVE LAYERS — the TROPOSPHERE (where weather occurs), the STRATOSPHERE (containing the protective OZONE LAYER that absorbs harmful UV rays), the MESOSPHERE, the THERMOSPHERE (ionosphere, reflecting radio waves), and the EXOSPHERE. The atmosphere is ESSENTIAL for LIFE — providing GASES, SHIELDING us from harmful rays, and KEEPING the Earth WARM. The key ELEMENTS of WEATHER — TEMPERATURE, AIR PRESSURE, WINDS (PERMANENT like trade winds, SEASONAL like the monsoon, and LOCAL like the loo), MOISTURE (HUMIDITY), and RAINFALL — interact to produce the day-to-day WEATHER and the long-term CLIMATE, measured by instruments like the THERMOMETER, BAROMETER, RAIN GAUGE, and WIND VANE. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "Which gas makes up the largest proportion of the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen forms about 78% of the atmosphere, while oxygen makes up about 21%.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Oxygen constitutes approximately what percentage of the atmosphere?",
+    "options": [
+      "78%",
+      "21%",
+      "1%",
+      "50%"
+    ],
+    "correct_index": 1,
+    "solution": "Oxygen makes up about 21% of the air; nitrogen about 78%; other gases about 1%.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The lowest layer of the atmosphere, in which almost all weather phenomena occur, is the:",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The troposphere is the lowest layer where clouds, rain and other weather events take place.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ozone layer, which absorbs harmful ultraviolet rays, lies in which atmospheric layer?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Exosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The ozone layer is found in the stratosphere and protects life by absorbing most of the Sun's harmful ultraviolet radiation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The day-to-day condition of the atmosphere of a place is called its:",
+    "options": [
+      "Climate",
+      "Weather",
+      "Season",
+      "Temperature"
+    ],
+    "correct_index": 1,
+    "solution": "Weather is the short-term, day-to-day state of the atmosphere; climate is the average weather over a long period.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Winds that blow from the subtropical high-pressure belts towards the equatorial low-pressure belt are the:",
+    "options": [
+      "Westerlies",
+      "Trade winds",
+      "Polar easterlies",
+      "Loo"
+    ],
+    "correct_index": 1,
+    "solution": "The trade winds are permanent winds blowing from the subtropical high-pressure areas towards the equatorial low-pressure belt.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Air always moves from areas of:",
+    "options": [
+      "Low pressure to high pressure",
+      "High pressure to low pressure",
+      "Cold to hot only",
+      "East to west only"
+    ],
+    "correct_index": 1,
+    "solution": "Wind blows from high-pressure areas to low-pressure areas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The hot and dry local wind that blows in northern India during summer is called the:",
+    "options": [
+      "Loo",
+      "Monsoon",
+      "Chinook",
+      "Foehn"
+    ],
+    "correct_index": 0,
+    "solution": "The 'loo' is a hot, dry local wind that blows over the northern plains of India in summer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The amount of water vapour present in the air is called:",
+    "options": [
+      "Precipitation",
+      "Humidity",
+      "Pressure",
+      "Insolation"
+    ],
+    "correct_index": 1,
+    "solution": "Humidity is the measure of moisture (water vapour) in the atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When water vapour rises, cools and condenses to fall as water droplets, it is called:",
+    "options": [
+      "Evaporation",
+      "Precipitation (rainfall)",
+      "Transpiration",
+      "Sublimation"
+    ],
+    "correct_index": 1,
+    "solution": "Precipitation (such as rain) occurs when condensed water droplets in clouds become heavy and fall to the ground.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The blanket of air surrounding the Earth is called the:",
+    "options": [
+      "Atmosphere",
+      "Hydrosphere",
+      "Lithosphere",
+      "Biosphere"
+    ],
+    "correct_index": 0,
+    "solution": "The blanket of AIR surrounding the Earth is called the ATMOSPHERE, which provides gases for life and shields us from the Sun's harmful rays. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The five layers of the atmosphere, from lowest to highest, are troposphere, stratosphere, mesosphere, thermosphere and:",
+    "options": [
+      "Exosphere",
+      "Lithosphere",
+      "Hydrosphere",
+      "Biosphere"
+    ],
+    "correct_index": 0,
+    "solution": "The FIVE LAYERS of the atmosphere, from lowest to highest, are the TROPOSPHERE, STRATOSPHERE, MESOSPHERE, THERMOSPHERE, and EXOSPHERE. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The atmosphere is important for life because it:",
+    "options": [
+      "Provides oxygen, protects from harmful rays, and keeps the Earth warm",
+      "Has no use",
+      "Only causes storms",
+      "Blocks all light"
+    ],
+    "correct_index": 0,
+    "solution": "The ATMOSPHERE is important because it PROVIDES OXYGEN (for breathing) and carbon dioxide (for plants), PROTECTS us from HARMFUL RAYS (via the ozone layer), and KEEPS the Earth WARM (like a blanket). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gas that plants use to make food and animals give out is:",
+    "options": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Argon"
+    ],
+    "correct_index": 0,
+    "solution": "CARBON DIOXIDE is the gas that PLANTS USE to make food (photosynthesis) and that animals and humans GIVE OUT when breathing. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The weight of air on a unit area of the Earth's surface is called:",
+    "options": [
+      "Air (atmospheric) pressure",
+      "Humidity",
+      "Temperature",
+      "Wind"
+    ],
+    "correct_index": 0,
+    "solution": "The WEIGHT of AIR on a unit area of the Earth's surface is called AIR (ATMOSPHERIC) PRESSURE, measured with a barometer. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Air pressure is highest at:",
+    "options": [
+      "Sea level, and decreases with height",
+      "The top of mountains",
+      "The middle of the atmosphere",
+      "Everywhere equally"
+    ],
+    "correct_index": 0,
+    "solution": "AIR PRESSURE is HIGHEST at SEA LEVEL (where the air column is thickest) and DECREASES with HEIGHT — this is why the air is 'thinner' on high mountains. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The horizontal movement of air from high to low pressure is called:",
+    "options": [
+      "Wind",
+      "Rain",
+      "Cloud",
+      "Fog"
+    ],
+    "correct_index": 0,
+    "solution": "The HORIZONTAL MOVEMENT of AIR from HIGH to LOW PRESSURE is called WIND. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Winds are named after the direction from which they blow. A wind blowing from the west is called a:",
+    "options": [
+      "Westerly",
+      "Easterly",
+      "Northerly",
+      "Southerly"
+    ],
+    "correct_index": 0,
+    "solution": "WINDS are named after the direction from WHICH they blow — so a wind blowing FROM the WEST is called a WESTERLY. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three types of winds are permanent winds, seasonal winds and:",
+    "options": [
+      "Local winds",
+      "Ocean winds",
+      "Space winds",
+      "Underground winds"
+    ],
+    "correct_index": 0,
+    "solution": "The THREE TYPES of WINDS are PERMANENT winds (trade winds, westerlies, easterlies), SEASONAL winds (like the monsoon), and LOCAL winds (like the loo). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The monsoon winds of India are an example of:",
+    "options": [
+      "Seasonal winds",
+      "Permanent winds",
+      "Local winds",
+      "Space winds"
+    ],
+    "correct_index": 0,
+    "solution": "The MONSOON winds of India are an example of SEASONAL WINDS — they change direction with the seasons, bringing rain in summer. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Trade winds — permanent 2. Monsoon — seasonal 3. Loo — local. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: TRADE WINDS → PERMANENT; MONSOON → SEASONAL; LOO → LOCAL wind. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument used to measure air pressure is the:",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Rain gauge",
+      "Wind vane"
+    ],
+    "correct_index": 0,
+    "solution": "The instrument used to measure AIR PRESSURE is the BAROMETER. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument used to measure temperature is the:",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Anemometer",
+      "Rain gauge"
+    ],
+    "correct_index": 0,
+    "solution": "The instrument used to measure TEMPERATURE is the THERMOMETER. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The instrument used to measure the amount of rainfall is the:",
+    "options": [
+      "Rain gauge",
+      "Barometer",
+      "Thermometer",
+      "Wind vane"
+    ],
+    "correct_index": 0,
+    "solution": "The instrument used to measure the amount of RAINFALL is the RAIN GAUGE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument that shows the direction of the wind is the:",
+    "options": [
+      "Wind vane",
+      "Rain gauge",
+      "Barometer",
+      "Thermometer"
+    ],
+    "correct_index": 0,
+    "solution": "The instrument that shows the DIRECTION of the WIND is the WIND VANE (weathercock). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperature of the air is affected mainly by heat from the:",
+    "options": [
+      "Sun (insolation)",
+      "Moon",
+      "Ocean floor",
+      "Underground caves"
+    ],
+    "correct_index": 0,
+    "solution": "The TEMPERATURE of the air is affected mainly by HEAT from the SUN (called INSOLATION — incoming solar radiation), which warms the Earth's surface and the air above it. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "As we go higher up in the troposphere, the temperature generally:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Stays the same",
+      "Doubles"
+    ],
+    "correct_index": 0,
+    "solution": "As we go HIGHER up in the TROPOSPHERE, the TEMPERATURE generally DECREASES (about 1°C for every 165 metres) — which is why mountain tops are cold. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The ozone layer is important for life. Reason (R): It absorbs most of the Sun's harmful ultraviolet radiation. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — the ozone layer is important for life. R is TRUE and correctly EXPLAINS A: it ABSORBS most of the Sun's HARMFUL ULTRAVIOLET RADIATION, protecting living things — which is precisely why it is important. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The difference between weather and climate is that weather is short-term while climate is:",
+    "options": [
+      "The average weather of a place over a long period",
+      "The weather of one hour",
+      "The same as weather",
+      "Only about wind"
+    ],
+    "correct_index": 0,
+    "solution": "WEATHER is the SHORT-TERM (day-to-day) state of the atmosphere, while CLIMATE is the AVERAGE WEATHER of a place over a LONG PERIOD (many years). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The formation of clouds occurs when:",
+    "options": [
+      "Water vapour rises, cools and condenses into tiny droplets",
+      "The Sun goes down",
+      "The wind stops",
+      "Rocks melt"
+    ],
+    "correct_index": 0,
+    "solution": "CLOUDS form when WATER VAPOUR RISES, COOLS, and CONDENSES into TINY DROPLETS (or ice crystals) around dust particles in the air. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main gases that make up the atmosphere are nitrogen, oxygen and small amounts of:",
+    "options": [
+      "Carbon dioxide, argon, water vapour and dust",
+      "Only gold",
+      "Only iron",
+      "Only helium"
+    ],
+    "correct_index": 0,
+    "solution": "The atmosphere is mainly NITROGEN (78%) and OXYGEN (21%), with small amounts of CARBON DIOXIDE, ARGON, WATER VAPOUR, and DUST particles (about 1% together). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which layer of the atmosphere is important for radio communication because it reflects radio waves?",
+    "options": [
+      "The thermosphere (ionosphere)",
+      "The troposphere",
+      "The stratosphere",
+      "The exosphere"
+    ],
+    "correct_index": 0,
+    "solution": "The THERMOSPHERE (which contains the IONOSPHERE) is important for RADIO COMMUNICATION because it REFLECTS RADIO WAVES back to Earth, enabling long-distance transmission. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Why does air move (create wind)?",
+    "options": [
+      "Because uneven heating of the Earth creates differences in air pressure",
+      "Because of no reason",
+      "Because of the Moon only",
+      "Because rocks push it"
+    ],
+    "correct_index": 0,
+    "solution": "AIR MOVES (creating WIND) because the UNEVEN HEATING of the Earth by the Sun creates DIFFERENCES in AIR PRESSURE, and air flows from high to low pressure to balance them. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The moisture (water vapour) in the air is highest:",
+    "options": [
+      "Near the equator and over water bodies",
+      "Over deserts",
+      "At the poles",
+      "On mountain tops"
+    ],
+    "correct_index": 0,
+    "solution": "The MOISTURE (HUMIDITY) in the air is HIGHEST near the EQUATOR and over WATER BODIES (oceans, lakes), where warm temperatures cause much evaporation. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three main types of rainfall are convectional, orographic (relief) and:",
+    "options": [
+      "Cyclonic (frontal)",
+      "Solar",
+      "Underground",
+      "Desert"
+    ],
+    "correct_index": 0,
+    "solution": "The THREE MAIN TYPES of RAINFALL are CONVECTIONAL (from rising hot air), OROGRAPHIC/RELIEF (from air rising over mountains), and CYCLONIC (FRONTAL) rainfall. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Orographic (relief) rainfall occurs when:",
+    "options": [
+      "Moist air is forced to rise over mountains, cools and rains",
+      "The ground shakes",
+      "The Sun sets",
+      "Wind stops"
+    ],
+    "correct_index": 0,
+    "solution": "OROGRAPHIC (RELIEF) RAINFALL occurs when MOIST AIR is FORCED to RISE over MOUNTAINS; as it rises, it COOLS, condenses, and RAINS on the windward side. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Air is a mixture of gases, water vapour and:",
+    "options": [
+      "Dust particles",
+      "Rocks",
+      "Water only",
+      "Metals"
+    ],
+    "correct_index": 0,
+    "solution": "AIR is a MIXTURE of GASES (nitrogen, oxygen, etc.), WATER VAPOUR, and DUST PARTICLES, which help in the formation of clouds and rain. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs a weather element with its measuring instrument?",
+    "options": [
+      "Temperature → thermometer; Pressure → barometer; Rainfall → rain gauge; Wind direction → wind vane",
+      "Temperature → barometer; Pressure → thermometer",
+      "All measured by one instrument",
+      "None can be measured"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: TEMPERATURE → THERMOMETER; PRESSURE → BAROMETER; RAINFALL → RAIN GAUGE; WIND DIRECTION → WIND VANE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Air pollution occurs when:",
+    "options": [
+      "Harmful gases, smoke and dust are released into the air",
+      "The air is clean",
+      "There is more oxygen",
+      "Nothing happens"
+    ],
+    "correct_index": 0,
+    "solution": "AIR POLLUTION occurs when HARMFUL GASES (from vehicles, factories), SMOKE, and DUST are RELEASED into the AIR, making it unhealthy to breathe and harming the environment. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Convectional rainfall is common in which region?",
+    "options": [
+      "Equatorial (hot) regions",
+      "The poles",
+      "Deserts only",
+      "Mountain tops only"
+    ],
+    "correct_index": 0,
+    "solution": "CONVECTIONAL RAINFALL — caused by hot air rising, cooling, and condensing — is common in EQUATORIAL (HOT) REGIONS, where strong heating leads to afternoon thunderstorms. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The windward side of a mountain receives more rain than the leeward side because:",
+    "options": [
+      "The moist air rises and rains on the windward side, leaving the leeward side dry",
+      "The leeward side is hotter",
+      "The windward side is a desert",
+      "Rain avoids mountains"
+    ],
+    "correct_index": 0,
+    "solution": "The WINDWARD side receives MORE RAIN because MOIST AIR RISES and RAINS there; by the time the air crosses to the LEEWARD side, it is DRY (a rain shadow). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The gases of the atmosphere are held close to the Earth by:",
+    "options": [
+      "The force of gravity",
+      "The wind",
+      "The Sun",
+      "The ocean"
+    ],
+    "correct_index": 0,
+    "solution": "The GASES of the atmosphere are held close to the Earth by the FORCE of GRAVITY, which prevents them from escaping into space. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a harmful effect of air pollution?",
+    "options": [
+      "Breathing problems, acid rain and harm to the environment",
+      "Cleaner air",
+      "Better health",
+      "No effect"
+    ],
+    "correct_index": 0,
+    "solution": "Harmful effects of AIR POLLUTION include BREATHING PROBLEMS and diseases, ACID RAIN (harming plants and buildings), and general HARM to the ENVIRONMENT. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The greenhouse effect keeps the Earth warm, but too much greenhouse gas causes:",
+    "options": [
+      "Global warming (excessive heating)",
+      "An ice age immediately",
+      "No change",
+      "Cooling of the Earth"
+    ],
+    "correct_index": 0,
+    "solution": "The GREENHOUSE EFFECT naturally keeps the Earth WARM, but TOO MUCH greenhouse gas (like carbon dioxide) traps extra heat, causing GLOBAL WARMING (excessive heating of the planet). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "We can reduce air pollution by:",
+    "options": [
+      "Using public transport, planting trees and controlling factory emissions",
+      "Burning more fuel",
+      "Cutting all trees",
+      "Ignoring the problem"
+    ],
+    "correct_index": 0,
+    "solution": "We can REDUCE AIR POLLUTION by using PUBLIC TRANSPORT (fewer vehicles), PLANTING TREES (which clean the air), and CONTROLLING FACTORY EMISSIONS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The layer where temperature increases with height because of the ozone absorbing UV rays is the:",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Exosphere"
+    ],
+    "correct_index": 0,
+    "solution": "In the STRATOSPHERE, TEMPERATURE INCREASES with HEIGHT because the OZONE layer there ABSORBS the Sun's UV RAYS, warming the layer. (In the troposphere, temperature falls with height.) So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Why is oxygen essential in the atmosphere?",
+    "options": [
+      "Living things need it to breathe and it is needed for burning",
+      "It is used to make coins",
+      "It has no use",
+      "It only causes storms"
+    ],
+    "correct_index": 0,
+    "solution": "OXYGEN is essential because LIVING THINGS NEED it to BREATHE (respiration) and it is also NEEDED for BURNING (combustion). So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The daily changes we experience — sunny, cloudy, rainy, windy — are all part of:",
+    "options": [
+      "The weather",
+      "The rock cycle",
+      "Plate movement",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The DAILY CHANGES we experience — SUNNY, CLOUDY, RAINY, WINDY — are all part of the WEATHER, the short-term state of the atmosphere. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is TRUE about the atmosphere?",
+    "options": [
+      "It is essential for life and its layers each have special features",
+      "It is not needed for life",
+      "It has only one layer",
+      "It is made of solid rock"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that the ATMOSPHERE is ESSENTIAL for LIFE and that its LAYERS each have SPECIAL FEATURES (weather in the troposphere, ozone in the stratosphere, etc.). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Air' is that:",
+    "options": [
+      "Air is unimportant",
+      "The ATMOSPHERE is the blanket of AIR around the Earth, made mostly of NITROGEN (78%) and OXYGEN (21%) with small amounts of carbon dioxide, argon, water vapour and dust; it has FIVE LAYERS (troposphere, stratosphere with the protective OZONE layer, mesosphere, thermosphere, exosphere) and is essential for life — providing gases, shielding us from harmful rays, and keeping the Earth warm; the key elements of weather — TEMPERATURE, AIR PRESSURE, WINDS (permanent, seasonal and local), MOISTURE (humidity) and rainfall — interact to produce the day-to-day WEATHER and the long-term CLIMATE, measured by instruments like the thermometer, barometer, rain gauge and wind vane",
+      "Only oxygen exists in air",
+      "Air has no layers"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that the ATMOSPHERE is the BLANKET of AIR around the Earth, made mostly of NITROGEN (about 78%) and OXYGEN (about 21%), with small amounts of CARBON DIOXIDE, ARGON, WATER VAPOUR, and DUST. It has FIVE LAYERS — the TROPOSPHERE (where weather occurs), the STRATOSPHERE (containing the protective OZONE LAYER that absorbs harmful UV rays), the MESOSPHERE, the THERMOSPHERE (ionosphere, reflecting radio waves), and the EXOSPHERE. The atmosphere is ESSENTIAL for LIFE — providing GASES, SHIELDING us from harmful rays, and KEEPING the Earth WARM. The key ELEMENTS of WEATHER — TEMPERATURE, AIR PRESSURE, WINDS (PERMANENT like trade winds, SEASONAL like the monsoon, and LOCAL like the loo), MOISTURE (HUMIDITY), and RAINFALL — interact to produce the day-to-day WEATHER and the long-term CLIMATE, measured by instruments like the THERMOMETER, BAROMETER, RAIN GAUGE, and WIND VANE. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The thin layer of air surrounding the Earth is called the:",
+    "options": [
+      "Hydrosphere",
+      "Atmosphere",
+      "Lithosphere",
+      "Biosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The atmosphere is the envelope of gases (air) surrounding the Earth, held by gravity; it sustains life, provides weather and shields us from harmful radiation.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The two most abundant gases in the atmosphere are nitrogen and:",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen",
+      "Argon"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen (about 78%) and oxygen (about 21%) are the two most abundant gases in the atmosphere; the rest includes argon, carbon dioxide and other trace gases.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Approximately what percentage of the atmosphere is nitrogen?",
+    "options": [
+      "21%",
+      "78%",
+      "1%",
+      "50%"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen makes up about 78% of the atmosphere, oxygen about 21%, and the remaining ~1% consists of argon, carbon dioxide, water vapour and other gases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gas essential for breathing (respiration) that makes up about 21% of air is:",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Ozone"
+    ],
+    "correct_index": 1,
+    "solution": "Oxygen, about 21% of the atmosphere, is essential for the respiration of living organisms and for combustion.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The gas used by plants for photosynthesis and important in the greenhouse effect is:",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correct_index": 1,
+    "solution": "Carbon dioxide, though a small fraction of air, is essential for plant photosynthesis and is an important greenhouse gas that traps heat in the atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The layer of the atmosphere closest to the Earth, where weather occurs, is the:",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The troposphere is the lowest atmospheric layer (up to about 13 km) where we live and where all weather phenomena (clouds, rain, storms) occur.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The atmospheric layer above the troposphere, which contains the ozone layer, is the:",
+    "options": [
+      "Mesosphere",
+      "Stratosphere",
+      "Thermosphere",
+      "Exosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The stratosphere lies above the troposphere and contains the ozone layer, which absorbs harmful ultraviolet radiation from the Sun; jet aircraft fly in its lower part.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The correct order of atmospheric layers from the surface upward is:",
+    "options": [
+      "Stratosphere → troposphere → mesosphere",
+      "Troposphere → stratosphere → mesosphere → thermosphere → exosphere",
+      "Thermosphere → troposphere → stratosphere",
+      "Exosphere → troposphere → stratosphere"
+    ],
+    "correct_index": 1,
+    "solution": "From the Earth's surface upward, the atmospheric layers are the troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The condition of the atmosphere at a particular place and time is called:",
+    "options": [
+      "Climate",
+      "Weather",
+      "Season",
+      "Wind"
+    ],
+    "correct_index": 1,
+    "solution": "Weather is the day-to-day state of the atmosphere (temperature, humidity, rainfall, wind) at a particular place and time; climate is its long-term average.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The average weather condition of a place over a long period (about 25-30 years) is called:",
+    "options": [
+      "Weather",
+      "Climate",
+      "Season",
+      "Storm"
+    ],
+    "correct_index": 1,
+    "solution": "Climate is the average of weather conditions over a long period (typically 25-30 years) for a place or region, describing its general atmospheric pattern.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The degree of hotness or coldness of the air is called:",
+    "options": [
+      "Humidity",
+      "Temperature",
+      "Pressure",
+      "Rainfall"
+    ],
+    "correct_index": 1,
+    "solution": "Temperature is the measure of the degree of hotness or coldness of the air; it is measured with a thermometer and varies with latitude, altitude and time.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Air temperature generally ______ as one goes higher up in the troposphere.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "doubles"
+    ],
+    "correct_index": 1,
+    "solution": "In the troposphere, temperature normally decreases with increasing altitude (about 1°C per 165 m), which is why high mountains are cold even in the tropics.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The pressure exerted by the weight of air on the Earth's surface is called:",
+    "options": [
+      "Air pressure (atmospheric pressure)",
+      "Humidity",
+      "Temperature",
+      "Rainfall"
+    ],
+    "correct_index": 0,
+    "solution": "Air (atmospheric) pressure is the weight of the column of air pressing down on a unit area of the Earth's surface; it is measured with a barometer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Atmospheric pressure is measured using a:",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Anemometer",
+      "Rain gauge"
+    ],
+    "correct_index": 1,
+    "solution": "A barometer measures atmospheric pressure; changes in pressure help forecast weather (falling pressure often signals storms).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Air pressure ______ as altitude increases.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays constant",
+      "doubles"
+    ],
+    "correct_index": 1,
+    "solution": "Air pressure decreases as altitude increases because there is less air above pressing down; this is why the air is 'thinner' on high mountains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Moving air is called:",
+    "options": [
+      "Rain",
+      "Wind",
+      "Cloud",
+      "Fog"
+    ],
+    "correct_index": 1,
+    "solution": "Wind is air in motion, caused by differences in air pressure; air moves from high-pressure areas to low-pressure areas.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Wind always blows from areas of ______ pressure to areas of ______ pressure.",
+    "options": [
+      "low; high",
+      "high; low",
+      "equal; equal",
+      "no; some"
+    ],
+    "correct_index": 1,
+    "solution": "Wind blows from high-pressure areas to low-pressure areas; the greater the pressure difference, the stronger the wind.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument used to measure wind speed is the:",
+    "options": [
+      "Barometer",
+      "Anemometer",
+      "Thermometer",
+      "Rain gauge"
+    ],
+    "correct_index": 1,
+    "solution": "An anemometer measures wind speed; a wind vane shows wind direction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Winds that blow in the same direction throughout the year are called:",
+    "options": [
+      "Seasonal winds",
+      "Permanent (planetary) winds",
+      "Local winds",
+      "Cyclones"
+    ],
+    "correct_index": 1,
+    "solution": "Permanent (planetary) winds — the trade winds, westerlies and easterlies — blow constantly throughout the year in fixed directions across the globe.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The seasonal winds that reverse direction with the seasons and bring rain to India are the:",
+    "options": [
+      "Trade winds",
+      "Monsoon winds",
+      "Westerlies",
+      "Loo"
+    ],
+    "correct_index": 1,
+    "solution": "Monsoon winds are seasonal winds that change direction with the seasons; the south-west summer monsoon brings the bulk of India's rainfall.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The hot, dry local wind that blows over northern India in summer is called the:",
+    "options": [
+      "Loo",
+      "Monsoon",
+      "Chinook",
+      "Mistral"
+    ],
+    "correct_index": 0,
+    "solution": "The 'Loo' is a hot, dry and often dangerous local wind that blows over the northern plains of India during summer afternoons.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When water vapour in the air condenses and falls to the ground as rain, snow or hail, it is called:",
+    "options": [
+      "Evaporation",
+      "Precipitation",
+      "Humidity",
+      "Transpiration"
+    ],
+    "correct_index": 1,
+    "solution": "Precipitation is the falling of condensed water vapour from the atmosphere to the ground as rain, snow, sleet or hail.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The instrument used to measure rainfall is the:",
+    "options": [
+      "Barometer",
+      "Rain gauge",
+      "Anemometer",
+      "Thermometer"
+    ],
+    "correct_index": 1,
+    "solution": "A rain gauge measures the amount of rainfall received at a place over a period, usually expressed in millimetres or centimetres.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rainfall caused when moist air is forced to rise over mountains, cools and condenses is called:",
+    "options": [
+      "Convectional rainfall",
+      "Orographic (relief) rainfall",
+      "Cyclonic rainfall",
+      "Frontal rainfall"
+    ],
+    "correct_index": 1,
+    "solution": "Orographic (relief) rainfall occurs when moist air is forced up a mountain barrier, cools and condenses, dropping heavy rain on the windward side (e.g. the Western Ghats).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Clouds are formed by the ______ of water vapour in the atmosphere.",
+    "options": [
+      "evaporation",
+      "condensation",
+      "precipitation",
+      "erosion"
+    ],
+    "correct_index": 1,
+    "solution": "Clouds form when water vapour rises, cools and condenses into tiny water droplets or ice crystals around dust particles in the atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The greenhouse effect keeps the Earth warm because certain gases in the atmosphere:",
+    "options": [
+      "Reflect all heat away",
+      "Trap some of the outgoing heat radiation",
+      "Cool the Earth",
+      "Produce oxygen"
+    ],
+    "correct_index": 1,
+    "solution": "Greenhouse gases (like CO2 and water vapour) trap part of the outgoing heat (infrared) radiation, keeping the Earth warm enough to support life — the natural greenhouse effect.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ozone layer in the stratosphere is important because it:",
+    "options": [
+      "Traps heat near the surface",
+      "Absorbs harmful ultraviolet (UV) radiation from the Sun",
+      "Produces rain",
+      "Causes wind"
+    ],
+    "correct_index": 1,
+    "solution": "The ozone layer absorbs most of the Sun's harmful ultraviolet radiation, protecting living organisms from its damaging effects.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the atmosphere is correct? (i) It is held by gravity (ii) Weather occurs in the troposphere (iii) The ozone layer is in the stratosphere",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: the atmosphere is held by Earth's gravity, weather occurs in the troposphere, and the ozone layer lies in the stratosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The atmosphere is essential for life because it:",
+    "options": [
+      "Has no role",
+      "Provides gases for respiration/photosynthesis, regulates temperature and blocks harmful radiation",
+      "Only causes storms",
+      "Only holds clouds"
+    ],
+    "correct_index": 1,
+    "solution": "The atmosphere sustains life by supplying oxygen and CO2, regulating the Earth's temperature (greenhouse effect), shielding us from harmful UV radiation, and driving weather and the water cycle.",
+    "difficulty": "medium"
+  }
 ]

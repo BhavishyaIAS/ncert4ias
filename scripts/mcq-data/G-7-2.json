@@ -1,52 +1,926 @@
 [
-  { "stem": "The Earth's interior is made up of how many main layers?", "options": ["Two", "Three", "Four", "Five"], "correct_index": 1, "solution": "The Earth has three layers: the crust (outermost), the mantle (middle) and the core (innermost).", "difficulty": "easy" },
-  { "stem": "Which is the outermost layer of the Earth?", "options": ["Core", "Mantle", "Crust", "Magma"], "correct_index": 2, "solution": "The crust is the thin, outermost solid layer on which we live.", "difficulty": "easy" },
-  { "stem": "The innermost and hottest layer of the Earth is the:", "options": ["Crust", "Mantle", "Core", "Lithosphere"], "correct_index": 2, "solution": "The core is the innermost layer; its inner part is extremely hot and is made mainly of nickel and iron ('nife').", "difficulty": "medium" },
-  { "stem": "The continental crust is composed mainly of silica and alumina, referred to as:", "options": ["Sima", "Sial", "Nife", "Basalt"], "correct_index": 1, "solution": "The continental crust ('sial') is rich in silica (si) and alumina (al); the oceanic crust ('sima') is rich in silica and magnesium.", "difficulty": "hard" },
-  { "stem": "The central core of the Earth is made up largely of which metals?", "options": ["Silica and alumina", "Nickel and iron", "Copper and zinc", "Gold and silver"], "correct_index": 1, "solution": "The core is composed mainly of nickel (ni) and iron (fe), hence called 'nife'.", "difficulty": "medium" },
-  { "stem": "Rocks formed from the cooling and solidification of molten magma are called:", "options": ["Sedimentary rocks", "Igneous rocks", "Metamorphic rocks", "Mineral ores"], "correct_index": 1, "solution": "Igneous rocks form when hot molten magma/lava cools and hardens (e.g. basalt, granite).", "difficulty": "medium" },
-  { "stem": "Rocks formed by the accumulation and compression of sediments over long periods are:", "options": ["Igneous rocks", "Sedimentary rocks", "Metamorphic rocks", "Volcanic rocks"], "correct_index": 1, "solution": "Sedimentary rocks (e.g. sandstone) form from layers of sediment that get compacted and cemented over time.", "difficulty": "medium" },
-  { "stem": "When existing rocks change form under great heat and pressure, the new rocks formed are called:", "options": ["Igneous", "Sedimentary", "Metamorphic", "Molten"], "correct_index": 2, "solution": "Metamorphic rocks form when igneous or sedimentary rocks are transformed by intense heat and pressure (e.g. marble from limestone).", "difficulty": "medium" },
-  { "stem": "The continuous process by which one type of rock changes into another over time is called the:", "options": ["Water cycle", "Rock cycle", "Nitrogen cycle", "Carbon cycle"], "correct_index": 1, "solution": "The rock cycle describes how igneous, sedimentary and metamorphic rocks transform into one another over geological time.", "difficulty": "medium" },
-  { "stem": "Naturally occurring substances with definite chemical composition, of which rocks are made, are called:", "options": ["Minerals", "Fossils", "Sediments", "Metals only"], "correct_index": 0, "solution": "Minerals are naturally occurring substances with a specific chemical composition; rocks are aggregates of one or more minerals.", "difficulty": "medium" },
-  { "stem": "The middle layer of the Earth, between the crust and the core, is the:", "options": ["Mantle", "Atmosphere", "Hydrosphere", "Biosphere"], "correct_index": 0, "solution": "The MANTLE is the MIDDLE layer of the Earth, lying BETWEEN the CRUST and the CORE, and extends to a great depth. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The crust is the thinnest layer of the Earth, being thicker under the:", "options": ["Continents than under the oceans", "Oceans than under the continents", "Poles only", "Equator only"], "correct_index": 0, "solution": "The CRUST is the THINNEST layer, and it is THICKER under the CONTINENTS (about 35 km) than under the OCEANS (about 5 km). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The molten (semi-liquid) material found below the Earth's crust is called:", "options": ["Magma", "Ice", "Air", "Water"], "correct_index": 0, "solution": "The MOLTEN (semi-liquid, very hot) material found BELOW the Earth's crust is called MAGMA; when it flows out onto the surface, it is called lava. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "When magma reaches the Earth's surface (e.g. through a volcano), it is called:", "options": ["Lava", "Sediment", "Fossil", "Mineral"], "correct_index": 0, "solution": "When MAGMA reaches the Earth's SURFACE (through a volcano or crack), it is called LAVA, which then cools to form igneous rock. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Igneous rocks are also called 'primary rocks' because they:", "options": ["Were the first rocks to form, from cooling magma", "Are the newest rocks", "Are always underwater", "Have no minerals"], "correct_index": 0, "solution": "IGNEOUS rocks are called 'PRIMARY ROCKS' because they were the FIRST rocks to FORM, from the COOLING of MAGMA/lava — other rock types later formed from them. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Igneous rocks are classified into intrusive and extrusive types. Extrusive igneous rocks form:", "options": ["When lava cools on the Earth's surface", "Deep inside the Earth", "Under the ocean floor only", "From sediments"], "correct_index": 0, "solution": "EXTRUSIVE igneous rocks form when LAVA COOLS on the Earth's SURFACE (e.g., basalt), cooling quickly with small crystals. INTRUSIVE rocks (e.g., granite) form when magma cools slowly deep inside. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Basalt is an example of which type of rock?", "options": ["Igneous (extrusive)", "Sedimentary", "Metamorphic", "Fossil"], "correct_index": 0, "solution": "BASALT is an example of an IGNEOUS (EXTRUSIVE) rock, formed from lava that cooled on the surface — the Deccan Traps of India are made of basalt. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Granite is an example of which type of rock?", "options": ["Igneous (intrusive)", "Sedimentary", "Metamorphic", "Molten"], "correct_index": 0, "solution": "GRANITE is an example of an IGNEOUS (INTRUSIVE) rock, formed when magma cooled SLOWLY deep inside the Earth, producing large crystals. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. Crust — outermost 2. Mantle — middle 3. Core — innermost. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: CRUST → OUTERMOST; MANTLE → MIDDLE; CORE → INNERMOST layer of the Earth. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Sedimentary rocks often contain fossils, which are:", "options": ["The preserved remains or impressions of ancient plants and animals", "Types of metal", "Molten rock", "Modern coins"], "correct_index": 0, "solution": "SEDIMENTARY rocks often contain FOSSILS — the PRESERVED REMAINS or IMPRESSIONS of ANCIENT PLANTS and ANIMALS — because sediments buried them over time. Fossils help us study the past. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly pairs a rock with its type?", "options": ["Sandstone → sedimentary; Marble → metamorphic; Granite → igneous", "Sandstone → igneous; Marble → sedimentary; Granite → metamorphic", "All are igneous", "None have types"], "correct_index": 0, "solution": "The correct pairings are: SANDSTONE → SEDIMENTARY; MARBLE → METAMORPHIC (from limestone); GRANITE → IGNEOUS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Marble, used in monuments like the Taj Mahal, is a metamorphic rock formed from:", "options": ["Limestone", "Sandstone", "Granite", "Basalt"], "correct_index": 0, "solution": "MARBLE is a METAMORPHIC rock formed from LIMESTONE (a sedimentary rock) under heat and pressure. It was used in the Taj Mahal and many monuments. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In the rock cycle, igneous and sedimentary rocks can become metamorphic rocks through:", "options": ["Great heat and pressure", "Simple cooling", "Rainfall only", "Nothing"], "correct_index": 0, "solution": "In the ROCK CYCLE, IGNEOUS and SEDIMENTARY rocks can become METAMORPHIC rocks through GREAT HEAT and PRESSURE deep in the Earth. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In the rock cycle, when rocks melt into magma and then cool, they form:", "options": ["Igneous rocks again", "Fossils", "Water", "Air"], "correct_index": 0, "solution": "In the ROCK CYCLE, when rocks MELT into MAGMA and then COOL, they form IGNEOUS ROCKS again — completing the cycle of transformation. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The temperature and pressure inside the Earth generally:", "options": ["Increase as we go deeper toward the core", "Decrease with depth", "Stay the same everywhere", "Are highest at the surface"], "correct_index": 0, "solution": "The TEMPERATURE and PRESSURE inside the Earth generally INCREASE as we go DEEPER toward the CORE, which is extremely hot and under immense pressure. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): The Earth's core is very hot. Reason (R): It is the innermost layer, under great pressure and made of nickel and iron. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — the core is very hot. R is TRUE and correctly EXPLAINS A: it is the INNERMOST layer, under GREAT PRESSURE and made of NICKEL and IRON, conditions that make it extremely hot. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The oceanic crust ('sima') is rich in silica and:", "options": ["Magnesium", "Alumina", "Gold", "Nickel"], "correct_index": 0, "solution": "The OCEANIC CRUST ('SIMA') is rich in SILICA (si) and MAGNESIUM (ma). The continental crust ('sial') is rich in silica and alumina. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Rocks are useful to humans because they:", "options": ["Provide minerals, building materials and fertile soil (when weathered)", "Have no use", "Only cause harm", "Are only decorative"], "correct_index": 0, "solution": "ROCKS are useful because they PROVIDE MINERALS (metals, coal), BUILDING MATERIALS (stone, marble), and, when WEATHERED, form the FERTILE SOIL on which plants grow. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The breaking down of rocks into smaller pieces by weather over time is called:", "options": ["Weathering", "The rock cycle", "Melting", "Fossilisation"], "correct_index": 0, "solution": "The BREAKING DOWN of ROCKS into SMALLER PIECES by the WEATHER (heat, cold, water, wind) over time is called WEATHERING — a key step in forming soil and sediments. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Soil is formed over a long time from:", "options": ["The weathering of rocks mixed with organic matter", "Only water", "Only air", "Melted metal"], "correct_index": 0, "solution": "SOIL is formed over a LONG TIME from the WEATHERING of ROCKS mixed with ORGANIC MATTER (decayed plants and animals) — the thin, life-supporting top layer. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about the Earth's layers is correct?", "options": ["The crust is thin and solid, the mantle is thick and hot, and the core is the hottest and densest", "The crust is the hottest", "The core is the coldest", "All layers are identical"], "correct_index": 0, "solution": "It is correct that the CRUST is THIN and SOLID, the MANTLE is THICK and HOT, and the CORE is the HOTTEST and DENSEST layer of the Earth. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Coal and petroleum are found in which type of rock formation?", "options": ["Sedimentary rocks", "Igneous rocks", "Metamorphic rocks", "Molten magma"], "correct_index": 0, "solution": "COAL and PETROLEUM are found in SEDIMENTARY ROCK formations, having formed from the remains of ancient plants and organisms buried in sediments over millions of years. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is an example of a metamorphic rock?", "options": ["Marble (from limestone) or slate (from clay)", "Basalt", "Sandstone", "Granite"], "correct_index": 0, "solution": "Examples of METAMORPHIC rocks are MARBLE (from LIMESTONE) and SLATE (from clay/shale) — formed under heat and pressure. Basalt and granite are igneous; sandstone is sedimentary. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The study of the Earth's interior is difficult because:", "options": ["We cannot dig very deep, so scientists use indirect evidence like earthquakes and volcanoes", "The Earth has no interior", "It is easy to reach the core", "There is nothing to study"], "correct_index": 0, "solution": "Studying the Earth's INTERIOR is difficult because we CANNOT DIG very DEEP, so scientists use INDIRECT EVIDENCE like EARTHQUAKE waves and VOLCANIC material to learn about the layers. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is the correct order from the surface to the centre of the Earth?", "options": ["Crust → mantle → core", "Core → mantle → crust", "Mantle → crust → core", "Crust → core → mantle"], "correct_index": 0, "solution": "From the SURFACE to the CENTRE, the correct order is CRUST → MANTLE → CORE. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The rock cycle shows that rocks are:", "options": ["Constantly changing from one type to another over long periods", "Never changing", "Only igneous", "Made by humans"], "correct_index": 0, "solution": "The ROCK CYCLE shows that rocks are CONSTANTLY CHANGING from one type to another (igneous ↔ sedimentary ↔ metamorphic) over LONG PERIODS of time. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is knowledge of the Earth's interior and rocks important?", "options": ["It helps us find minerals, understand earthquakes and volcanoes, and use resources", "It has no use", "It only concerns other planets", "It cannot be applied"], "correct_index": 0, "solution": "Knowledge of the Earth's INTERIOR and ROCKS is important because it helps us FIND MINERALS (for industry), UNDERSTAND EARTHQUAKES and VOLCANOES, and USE the Earth's RESOURCES wisely. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs a layer with its main material correctly?", "options": ["Crust → rocks/soil (sial and sima); Core → nickel and iron (nife)", "Crust → nickel and iron; Core → soil", "Both are made of water", "Neither has material"], "correct_index": 0, "solution": "The correct pairing is: CRUST → ROCKS and SOIL (SIAL and SIMA); CORE → NICKEL and IRON (NIFE). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The rocks and minerals of the Earth's crust are the source of most of our:", "options": ["Metals, fuels and building materials", "Air", "Sunlight", "Rain"], "correct_index": 0, "solution": "The ROCKS and MINERALS of the Earth's CRUST are the source of most of our METALS (iron, copper), FUELS (coal, petroleum), and BUILDING MATERIALS (stone, cement) — vital for human life and industry. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The deepest mine or borehole made by humans reaches only a small way into the:", "options": ["Crust (never the mantle or core)", "Core", "Mantle", "Atmosphere"], "correct_index": 0, "solution": "Even the DEEPEST mine or borehole made by humans reaches only a SMALL WAY into the CRUST — we have never reached the mantle or core, which is why we use indirect methods to study them. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following best describes a rock?", "options": ["A natural mass made of one or more minerals", "A man-made object", "A living thing", "A type of gas"], "correct_index": 0, "solution": "A ROCK is a NATURAL MASS made of ONE or MORE MINERALS — the solid material that forms the Earth's crust. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The Deccan Plateau of India is largely made of which rock?", "options": ["Basalt (igneous)", "Marble", "Sandstone", "Slate"], "correct_index": 0, "solution": "The DECCAN PLATEAU of India is largely made of BASALT, an IGNEOUS rock formed from vast ancient lava flows (the Deccan Traps). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following minerals is a source of iron?", "options": ["Iron ore (like haematite)", "Marble", "Coal", "Salt"], "correct_index": 0, "solution": "IRON ORE (like HAEMATITE and magnetite) is the mineral source of IRON, extracted from certain rocks and used to make steel. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Sediments that form sedimentary rocks are usually deposited by:", "options": ["Water, wind and ice", "The Sun", "Fire only", "Magma"], "correct_index": 0, "solution": "The SEDIMENTS that form SEDIMENTARY ROCKS are usually deposited by WATER (rivers, seas), WIND, and ICE (glaciers), which carry and lay down small particles that later harden. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The gradual transformation of rocks in the rock cycle is driven by processes both inside and outside the Earth, such as:", "options": ["Heat and pressure (inside) and weathering and erosion (outside)", "Only rainfall", "Only sunlight", "Nothing"], "correct_index": 0, "solution": "The ROCK CYCLE is driven by processes both INSIDE the Earth (HEAT and PRESSURE, melting) and OUTSIDE it (WEATHERING and EROSION by water, wind, and ice). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following correctly matches a rock type with how it forms?", "options": ["Igneous → cooling magma; Sedimentary → compressed sediments; Metamorphic → heat and pressure", "Igneous → sediments; Sedimentary → heat; Metamorphic → cooling magma", "All form the same way", "None form naturally"], "correct_index": 0, "solution": "The correct matches are: IGNEOUS → from COOLING MAGMA; SEDIMENTARY → from COMPRESSED SEDIMENTS; METAMORPHIC → from HEAT and PRESSURE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The crust and the uppermost solid part of the mantle together form the:", "options": ["Lithosphere", "Hydrosphere", "Atmosphere", "Core"], "correct_index": 0, "solution": "The CRUST and the UPPERMOST SOLID PART of the MANTLE together form the LITHOSPHERE — the rigid outer shell of the Earth. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Fossils found in sedimentary rocks are useful because they:", "options": ["Tell us about ancient life and the age of the rocks", "Are made of gold", "Are modern coins", "Have no value"], "correct_index": 0, "solution": "FOSSILS in sedimentary rocks are useful because they TELL us about ANCIENT LIFE (extinct plants and animals) and help determine the AGE of the ROCKS — key evidence for studying Earth's history. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is TRUE about the Earth's structure?", "options": ["It is layered, with each layer differing in material, temperature and state", "It is uniform throughout", "It has no layers", "It is entirely liquid"], "correct_index": 0, "solution": "It is TRUE that the Earth's structure is LAYERED, with EACH LAYER (crust, mantle, core) DIFFERING in MATERIAL, TEMPERATURE, and physical STATE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Inside Our Earth' is that:", "options": ["The Earth's interior cannot be understood", "The EARTH has THREE main layers — the thin, solid CRUST (of sial and sima) on which we live, the thick, hot MANTLE below it, and the innermost, hottest CORE (of nickel and iron, 'nife'), with temperature and pressure rising toward the centre; the crust is made of ROCKS, which are aggregates of MINERALS and occur in three types — IGNEOUS (from cooled magma/lava, e.g. granite, basalt), SEDIMENTARY (from compressed sediments, often with fossils, e.g. sandstone) and METAMORPHIC (from heat and pressure, e.g. marble from limestone) — all of which change into one another over long periods through the ROCK CYCLE; these rocks and minerals are the source of soil, metals, fuels and building materials essential to human life", "The Earth is made of only one layer", "Rocks never change"], "correct_index": 1, "solution": "The chapter's overall message is that the EARTH has THREE MAIN LAYERS — the thin, solid CRUST (made of SIAL, rich in silica and alumina, and SIMA, rich in silica and magnesium) on which we live; the thick, hot MANTLE below it; and the innermost, HOTTEST CORE (made mainly of NICKEL and IRON, called 'NIFE') — with TEMPERATURE and PRESSURE rising toward the centre. The crust is made of ROCKS, which are aggregates of MINERALS and occur in THREE TYPES: IGNEOUS rocks (formed from cooled MAGMA/LAVA — e.g., granite and basalt), SEDIMENTARY rocks (formed from compressed SEDIMENTS, often containing FOSSILS — e.g., sandstone, and holding coal and petroleum), and METAMORPHIC rocks (formed under HEAT and PRESSURE — e.g., marble from limestone). Through the ROCK CYCLE, these rocks CHANGE into ONE ANOTHER over LONG PERIODS. These rocks and minerals are the source of SOIL, METALS, FUELS, and BUILDING MATERIALS essential to human life. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "The Earth's interior is made up of how many main layers?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correct_index": 1,
+    "solution": "The Earth has three layers: the crust (outermost), the mantle (middle) and the core (innermost).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which is the outermost layer of the Earth?",
+    "options": [
+      "Core",
+      "Mantle",
+      "Crust",
+      "Magma"
+    ],
+    "correct_index": 2,
+    "solution": "The crust is the thin, outermost solid layer on which we live.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The innermost and hottest layer of the Earth is the:",
+    "options": [
+      "Crust",
+      "Mantle",
+      "Core",
+      "Lithosphere"
+    ],
+    "correct_index": 2,
+    "solution": "The core is the innermost layer; its inner part is extremely hot and is made mainly of nickel and iron ('nife').",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The continental crust is composed mainly of silica and alumina, referred to as:",
+    "options": [
+      "Sima",
+      "Sial",
+      "Nife",
+      "Basalt"
+    ],
+    "correct_index": 1,
+    "solution": "The continental crust ('sial') is rich in silica (si) and alumina (al); the oceanic crust ('sima') is rich in silica and magnesium.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The central core of the Earth is made up largely of which metals?",
+    "options": [
+      "Silica and alumina",
+      "Nickel and iron",
+      "Copper and zinc",
+      "Gold and silver"
+    ],
+    "correct_index": 1,
+    "solution": "The core is composed mainly of nickel (ni) and iron (fe), hence called 'nife'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rocks formed from the cooling and solidification of molten magma are called:",
+    "options": [
+      "Sedimentary rocks",
+      "Igneous rocks",
+      "Metamorphic rocks",
+      "Mineral ores"
+    ],
+    "correct_index": 1,
+    "solution": "Igneous rocks form when hot molten magma/lava cools and hardens (e.g. basalt, granite).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rocks formed by the accumulation and compression of sediments over long periods are:",
+    "options": [
+      "Igneous rocks",
+      "Sedimentary rocks",
+      "Metamorphic rocks",
+      "Volcanic rocks"
+    ],
+    "correct_index": 1,
+    "solution": "Sedimentary rocks (e.g. sandstone) form from layers of sediment that get compacted and cemented over time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When existing rocks change form under great heat and pressure, the new rocks formed are called:",
+    "options": [
+      "Igneous",
+      "Sedimentary",
+      "Metamorphic",
+      "Molten"
+    ],
+    "correct_index": 2,
+    "solution": "Metamorphic rocks form when igneous or sedimentary rocks are transformed by intense heat and pressure (e.g. marble from limestone).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The continuous process by which one type of rock changes into another over time is called the:",
+    "options": [
+      "Water cycle",
+      "Rock cycle",
+      "Nitrogen cycle",
+      "Carbon cycle"
+    ],
+    "correct_index": 1,
+    "solution": "The rock cycle describes how igneous, sedimentary and metamorphic rocks transform into one another over geological time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Naturally occurring substances with definite chemical composition, of which rocks are made, are called:",
+    "options": [
+      "Minerals",
+      "Fossils",
+      "Sediments",
+      "Metals only"
+    ],
+    "correct_index": 0,
+    "solution": "Minerals are naturally occurring substances with a specific chemical composition; rocks are aggregates of one or more minerals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The middle layer of the Earth, between the crust and the core, is the:",
+    "options": [
+      "Mantle",
+      "Atmosphere",
+      "Hydrosphere",
+      "Biosphere"
+    ],
+    "correct_index": 0,
+    "solution": "The MANTLE is the MIDDLE layer of the Earth, lying BETWEEN the CRUST and the CORE, and extends to a great depth. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The crust is the thinnest layer of the Earth, being thicker under the:",
+    "options": [
+      "Continents than under the oceans",
+      "Oceans than under the continents",
+      "Poles only",
+      "Equator only"
+    ],
+    "correct_index": 0,
+    "solution": "The CRUST is the THINNEST layer, and it is THICKER under the CONTINENTS (about 35 km) than under the OCEANS (about 5 km). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The molten (semi-liquid) material found below the Earth's crust is called:",
+    "options": [
+      "Magma",
+      "Ice",
+      "Air",
+      "Water"
+    ],
+    "correct_index": 0,
+    "solution": "The MOLTEN (semi-liquid, very hot) material found BELOW the Earth's crust is called MAGMA; when it flows out onto the surface, it is called lava. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When magma reaches the Earth's surface (e.g. through a volcano), it is called:",
+    "options": [
+      "Lava",
+      "Sediment",
+      "Fossil",
+      "Mineral"
+    ],
+    "correct_index": 0,
+    "solution": "When MAGMA reaches the Earth's SURFACE (through a volcano or crack), it is called LAVA, which then cools to form igneous rock. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Igneous rocks are also called 'primary rocks' because they:",
+    "options": [
+      "Were the first rocks to form, from cooling magma",
+      "Are the newest rocks",
+      "Are always underwater",
+      "Have no minerals"
+    ],
+    "correct_index": 0,
+    "solution": "IGNEOUS rocks are called 'PRIMARY ROCKS' because they were the FIRST rocks to FORM, from the COOLING of MAGMA/lava — other rock types later formed from them. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Igneous rocks are classified into intrusive and extrusive types. Extrusive igneous rocks form:",
+    "options": [
+      "When lava cools on the Earth's surface",
+      "Deep inside the Earth",
+      "Under the ocean floor only",
+      "From sediments"
+    ],
+    "correct_index": 0,
+    "solution": "EXTRUSIVE igneous rocks form when LAVA COOLS on the Earth's SURFACE (e.g., basalt), cooling quickly with small crystals. INTRUSIVE rocks (e.g., granite) form when magma cools slowly deep inside. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Basalt is an example of which type of rock?",
+    "options": [
+      "Igneous (extrusive)",
+      "Sedimentary",
+      "Metamorphic",
+      "Fossil"
+    ],
+    "correct_index": 0,
+    "solution": "BASALT is an example of an IGNEOUS (EXTRUSIVE) rock, formed from lava that cooled on the surface — the Deccan Traps of India are made of basalt. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Granite is an example of which type of rock?",
+    "options": [
+      "Igneous (intrusive)",
+      "Sedimentary",
+      "Metamorphic",
+      "Molten"
+    ],
+    "correct_index": 0,
+    "solution": "GRANITE is an example of an IGNEOUS (INTRUSIVE) rock, formed when magma cooled SLOWLY deep inside the Earth, producing large crystals. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Crust — outermost 2. Mantle — middle 3. Core — innermost. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: CRUST → OUTERMOST; MANTLE → MIDDLE; CORE → INNERMOST layer of the Earth. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Sedimentary rocks often contain fossils, which are:",
+    "options": [
+      "The preserved remains or impressions of ancient plants and animals",
+      "Types of metal",
+      "Molten rock",
+      "Modern coins"
+    ],
+    "correct_index": 0,
+    "solution": "SEDIMENTARY rocks often contain FOSSILS — the PRESERVED REMAINS or IMPRESSIONS of ANCIENT PLANTS and ANIMALS — because sediments buried them over time. Fossils help us study the past. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs a rock with its type?",
+    "options": [
+      "Sandstone → sedimentary; Marble → metamorphic; Granite → igneous",
+      "Sandstone → igneous; Marble → sedimentary; Granite → metamorphic",
+      "All are igneous",
+      "None have types"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: SANDSTONE → SEDIMENTARY; MARBLE → METAMORPHIC (from limestone); GRANITE → IGNEOUS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Marble, used in monuments like the Taj Mahal, is a metamorphic rock formed from:",
+    "options": [
+      "Limestone",
+      "Sandstone",
+      "Granite",
+      "Basalt"
+    ],
+    "correct_index": 0,
+    "solution": "MARBLE is a METAMORPHIC rock formed from LIMESTONE (a sedimentary rock) under heat and pressure. It was used in the Taj Mahal and many monuments. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the rock cycle, igneous and sedimentary rocks can become metamorphic rocks through:",
+    "options": [
+      "Great heat and pressure",
+      "Simple cooling",
+      "Rainfall only",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "In the ROCK CYCLE, IGNEOUS and SEDIMENTARY rocks can become METAMORPHIC rocks through GREAT HEAT and PRESSURE deep in the Earth. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the rock cycle, when rocks melt into magma and then cool, they form:",
+    "options": [
+      "Igneous rocks again",
+      "Fossils",
+      "Water",
+      "Air"
+    ],
+    "correct_index": 0,
+    "solution": "In the ROCK CYCLE, when rocks MELT into MAGMA and then COOL, they form IGNEOUS ROCKS again — completing the cycle of transformation. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperature and pressure inside the Earth generally:",
+    "options": [
+      "Increase as we go deeper toward the core",
+      "Decrease with depth",
+      "Stay the same everywhere",
+      "Are highest at the surface"
+    ],
+    "correct_index": 0,
+    "solution": "The TEMPERATURE and PRESSURE inside the Earth generally INCREASE as we go DEEPER toward the CORE, which is extremely hot and under immense pressure. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): The Earth's core is very hot. Reason (R): It is the innermost layer, under great pressure and made of nickel and iron. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — the core is very hot. R is TRUE and correctly EXPLAINS A: it is the INNERMOST layer, under GREAT PRESSURE and made of NICKEL and IRON, conditions that make it extremely hot. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The oceanic crust ('sima') is rich in silica and:",
+    "options": [
+      "Magnesium",
+      "Alumina",
+      "Gold",
+      "Nickel"
+    ],
+    "correct_index": 0,
+    "solution": "The OCEANIC CRUST ('SIMA') is rich in SILICA (si) and MAGNESIUM (ma). The continental crust ('sial') is rich in silica and alumina. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rocks are useful to humans because they:",
+    "options": [
+      "Provide minerals, building materials and fertile soil (when weathered)",
+      "Have no use",
+      "Only cause harm",
+      "Are only decorative"
+    ],
+    "correct_index": 0,
+    "solution": "ROCKS are useful because they PROVIDE MINERALS (metals, coal), BUILDING MATERIALS (stone, marble), and, when WEATHERED, form the FERTILE SOIL on which plants grow. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The breaking down of rocks into smaller pieces by weather over time is called:",
+    "options": [
+      "Weathering",
+      "The rock cycle",
+      "Melting",
+      "Fossilisation"
+    ],
+    "correct_index": 0,
+    "solution": "The BREAKING DOWN of ROCKS into SMALLER PIECES by the WEATHER (heat, cold, water, wind) over time is called WEATHERING — a key step in forming soil and sediments. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Soil is formed over a long time from:",
+    "options": [
+      "The weathering of rocks mixed with organic matter",
+      "Only water",
+      "Only air",
+      "Melted metal"
+    ],
+    "correct_index": 0,
+    "solution": "SOIL is formed over a LONG TIME from the WEATHERING of ROCKS mixed with ORGANIC MATTER (decayed plants and animals) — the thin, life-supporting top layer. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about the Earth's layers is correct?",
+    "options": [
+      "The crust is thin and solid, the mantle is thick and hot, and the core is the hottest and densest",
+      "The crust is the hottest",
+      "The core is the coldest",
+      "All layers are identical"
+    ],
+    "correct_index": 0,
+    "solution": "It is correct that the CRUST is THIN and SOLID, the MANTLE is THICK and HOT, and the CORE is the HOTTEST and DENSEST layer of the Earth. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coal and petroleum are found in which type of rock formation?",
+    "options": [
+      "Sedimentary rocks",
+      "Igneous rocks",
+      "Metamorphic rocks",
+      "Molten magma"
+    ],
+    "correct_index": 0,
+    "solution": "COAL and PETROLEUM are found in SEDIMENTARY ROCK formations, having formed from the remains of ancient plants and organisms buried in sediments over millions of years. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is an example of a metamorphic rock?",
+    "options": [
+      "Marble (from limestone) or slate (from clay)",
+      "Basalt",
+      "Sandstone",
+      "Granite"
+    ],
+    "correct_index": 0,
+    "solution": "Examples of METAMORPHIC rocks are MARBLE (from LIMESTONE) and SLATE (from clay/shale) — formed under heat and pressure. Basalt and granite are igneous; sandstone is sedimentary. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The study of the Earth's interior is difficult because:",
+    "options": [
+      "We cannot dig very deep, so scientists use indirect evidence like earthquakes and volcanoes",
+      "The Earth has no interior",
+      "It is easy to reach the core",
+      "There is nothing to study"
+    ],
+    "correct_index": 0,
+    "solution": "Studying the Earth's INTERIOR is difficult because we CANNOT DIG very DEEP, so scientists use INDIRECT EVIDENCE like EARTHQUAKE waves and VOLCANIC material to learn about the layers. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is the correct order from the surface to the centre of the Earth?",
+    "options": [
+      "Crust → mantle → core",
+      "Core → mantle → crust",
+      "Mantle → crust → core",
+      "Crust → core → mantle"
+    ],
+    "correct_index": 0,
+    "solution": "From the SURFACE to the CENTRE, the correct order is CRUST → MANTLE → CORE. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The rock cycle shows that rocks are:",
+    "options": [
+      "Constantly changing from one type to another over long periods",
+      "Never changing",
+      "Only igneous",
+      "Made by humans"
+    ],
+    "correct_index": 0,
+    "solution": "The ROCK CYCLE shows that rocks are CONSTANTLY CHANGING from one type to another (igneous ↔ sedimentary ↔ metamorphic) over LONG PERIODS of time. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is knowledge of the Earth's interior and rocks important?",
+    "options": [
+      "It helps us find minerals, understand earthquakes and volcanoes, and use resources",
+      "It has no use",
+      "It only concerns other planets",
+      "It cannot be applied"
+    ],
+    "correct_index": 0,
+    "solution": "Knowledge of the Earth's INTERIOR and ROCKS is important because it helps us FIND MINERALS (for industry), UNDERSTAND EARTHQUAKES and VOLCANOES, and USE the Earth's RESOURCES wisely. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs a layer with its main material correctly?",
+    "options": [
+      "Crust → rocks/soil (sial and sima); Core → nickel and iron (nife)",
+      "Crust → nickel and iron; Core → soil",
+      "Both are made of water",
+      "Neither has material"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairing is: CRUST → ROCKS and SOIL (SIAL and SIMA); CORE → NICKEL and IRON (NIFE). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rocks and minerals of the Earth's crust are the source of most of our:",
+    "options": [
+      "Metals, fuels and building materials",
+      "Air",
+      "Sunlight",
+      "Rain"
+    ],
+    "correct_index": 0,
+    "solution": "The ROCKS and MINERALS of the Earth's CRUST are the source of most of our METALS (iron, copper), FUELS (coal, petroleum), and BUILDING MATERIALS (stone, cement) — vital for human life and industry. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The deepest mine or borehole made by humans reaches only a small way into the:",
+    "options": [
+      "Crust (never the mantle or core)",
+      "Core",
+      "Mantle",
+      "Atmosphere"
+    ],
+    "correct_index": 0,
+    "solution": "Even the DEEPEST mine or borehole made by humans reaches only a SMALL WAY into the CRUST — we have never reached the mantle or core, which is why we use indirect methods to study them. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following best describes a rock?",
+    "options": [
+      "A natural mass made of one or more minerals",
+      "A man-made object",
+      "A living thing",
+      "A type of gas"
+    ],
+    "correct_index": 0,
+    "solution": "A ROCK is a NATURAL MASS made of ONE or MORE MINERALS — the solid material that forms the Earth's crust. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Deccan Plateau of India is largely made of which rock?",
+    "options": [
+      "Basalt (igneous)",
+      "Marble",
+      "Sandstone",
+      "Slate"
+    ],
+    "correct_index": 0,
+    "solution": "The DECCAN PLATEAU of India is largely made of BASALT, an IGNEOUS rock formed from vast ancient lava flows (the Deccan Traps). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following minerals is a source of iron?",
+    "options": [
+      "Iron ore (like haematite)",
+      "Marble",
+      "Coal",
+      "Salt"
+    ],
+    "correct_index": 0,
+    "solution": "IRON ORE (like HAEMATITE and magnetite) is the mineral source of IRON, extracted from certain rocks and used to make steel. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sediments that form sedimentary rocks are usually deposited by:",
+    "options": [
+      "Water, wind and ice",
+      "The Sun",
+      "Fire only",
+      "Magma"
+    ],
+    "correct_index": 0,
+    "solution": "The SEDIMENTS that form SEDIMENTARY ROCKS are usually deposited by WATER (rivers, seas), WIND, and ICE (glaciers), which carry and lay down small particles that later harden. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gradual transformation of rocks in the rock cycle is driven by processes both inside and outside the Earth, such as:",
+    "options": [
+      "Heat and pressure (inside) and weathering and erosion (outside)",
+      "Only rainfall",
+      "Only sunlight",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The ROCK CYCLE is driven by processes both INSIDE the Earth (HEAT and PRESSURE, melting) and OUTSIDE it (WEATHERING and EROSION by water, wind, and ice). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly matches a rock type with how it forms?",
+    "options": [
+      "Igneous → cooling magma; Sedimentary → compressed sediments; Metamorphic → heat and pressure",
+      "Igneous → sediments; Sedimentary → heat; Metamorphic → cooling magma",
+      "All form the same way",
+      "None form naturally"
+    ],
+    "correct_index": 0,
+    "solution": "The correct matches are: IGNEOUS → from COOLING MAGMA; SEDIMENTARY → from COMPRESSED SEDIMENTS; METAMORPHIC → from HEAT and PRESSURE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The crust and the uppermost solid part of the mantle together form the:",
+    "options": [
+      "Lithosphere",
+      "Hydrosphere",
+      "Atmosphere",
+      "Core"
+    ],
+    "correct_index": 0,
+    "solution": "The CRUST and the UPPERMOST SOLID PART of the MANTLE together form the LITHOSPHERE — the rigid outer shell of the Earth. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Fossils found in sedimentary rocks are useful because they:",
+    "options": [
+      "Tell us about ancient life and the age of the rocks",
+      "Are made of gold",
+      "Are modern coins",
+      "Have no value"
+    ],
+    "correct_index": 0,
+    "solution": "FOSSILS in sedimentary rocks are useful because they TELL us about ANCIENT LIFE (extinct plants and animals) and help determine the AGE of the ROCKS — key evidence for studying Earth's history. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is TRUE about the Earth's structure?",
+    "options": [
+      "It is layered, with each layer differing in material, temperature and state",
+      "It is uniform throughout",
+      "It has no layers",
+      "It is entirely liquid"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that the Earth's structure is LAYERED, with EACH LAYER (crust, mantle, core) DIFFERING in MATERIAL, TEMPERATURE, and physical STATE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Inside Our Earth' is that:",
+    "options": [
+      "The Earth's interior cannot be understood",
+      "The EARTH has THREE main layers — the thin, solid CRUST (of sial and sima) on which we live, the thick, hot MANTLE below it, and the innermost, hottest CORE (of nickel and iron, 'nife'), with temperature and pressure rising toward the centre; the crust is made of ROCKS, which are aggregates of MINERALS and occur in three types — IGNEOUS (from cooled magma/lava, e.g. granite, basalt), SEDIMENTARY (from compressed sediments, often with fossils, e.g. sandstone) and METAMORPHIC (from heat and pressure, e.g. marble from limestone) — all of which change into one another over long periods through the ROCK CYCLE; these rocks and minerals are the source of soil, metals, fuels and building materials essential to human life",
+      "The Earth is made of only one layer",
+      "Rocks never change"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that the EARTH has THREE MAIN LAYERS — the thin, solid CRUST (made of SIAL, rich in silica and alumina, and SIMA, rich in silica and magnesium) on which we live; the thick, hot MANTLE below it; and the innermost, HOTTEST CORE (made mainly of NICKEL and IRON, called 'NIFE') — with TEMPERATURE and PRESSURE rising toward the centre. The crust is made of ROCKS, which are aggregates of MINERALS and occur in THREE TYPES: IGNEOUS rocks (formed from cooled MAGMA/LAVA — e.g., granite and basalt), SEDIMENTARY rocks (formed from compressed SEDIMENTS, often containing FOSSILS — e.g., sandstone, and holding coal and petroleum), and METAMORPHIC rocks (formed under HEAT and PRESSURE — e.g., marble from limestone). Through the ROCK CYCLE, these rocks CHANGE into ONE ANOTHER over LONG PERIODS. These rocks and minerals are the source of SOIL, METALS, FUELS, and BUILDING MATERIALS essential to human life. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Earth is made up of three main layers: the crust, the mantle and the:",
+    "options": [
+      "Atmosphere",
+      "Core",
+      "Ocean",
+      "Biosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The Earth's interior has three concentric layers — the crust (outermost), the mantle (middle) and the core (innermost).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The outermost thin solid layer of the Earth is the:",
+    "options": [
+      "Mantle",
+      "Crust",
+      "Core",
+      "Magma"
+    ],
+    "correct_index": 1,
+    "solution": "The crust is the thin, solid, outermost layer of the Earth on which we live; it is thicker under continents and thinner under oceans.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The crust under the continents is mainly made of ______ and is called SIAL.",
+    "options": [
+      "silica and alumina",
+      "silica and magnesium",
+      "iron and nickel",
+      "gold and silver"
+    ],
+    "correct_index": 0,
+    "solution": "The continental crust (SIAL) is composed mainly of silica (Si) and alumina (Al); the oceanic crust (SIMA) is made of silica and magnesium.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The oceanic crust is mainly composed of silica and magnesium and is called:",
+    "options": [
+      "SIAL",
+      "SIMA",
+      "NIFE",
+      "Mantle"
+    ],
+    "correct_index": 1,
+    "solution": "The oceanic crust is called SIMA (silica + magnesium); it is denser than the continental SIAL (silica + alumina).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The layer just below the crust, extending to about 2,900 km depth, is the:",
+    "options": [
+      "Core",
+      "Mantle",
+      "Atmosphere",
+      "Biosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The mantle lies beneath the crust and extends to a depth of about 2,900 km; it contains semi-molten rock (magma) in its upper part.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The innermost layer of the Earth, the core, is mainly composed of:",
+    "options": [
+      "Silica and alumina",
+      "Iron and nickel (NIFE)",
+      "Water",
+      "Air"
+    ],
+    "correct_index": 1,
+    "solution": "The core is made mainly of iron (Ni-Fe) and nickel and is called NIFE; the outer core is liquid while the inner core is solid.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Molten rock (magma) found beneath the Earth's surface is called ______ when it flows out onto the surface.",
+    "options": [
+      "Lava",
+      "Sediment",
+      "Ash",
+      "Silt"
+    ],
+    "correct_index": 0,
+    "solution": "Molten rock below the surface is called magma; when it erupts and flows out onto the surface (as in a volcano), it is called lava.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rocks are broadly classified into three types: igneous, sedimentary and:",
+    "options": [
+      "Metamorphic",
+      "Volcanic only",
+      "Mineral",
+      "Fossil"
+    ],
+    "correct_index": 0,
+    "solution": "The three main rock types are igneous (from cooled magma/lava), sedimentary (from compacted sediments) and metamorphic (formed by heat and pressure changing existing rocks).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rocks formed by the cooling and solidification of molten magma or lava are called:",
+    "options": [
+      "Sedimentary rocks",
+      "Igneous rocks",
+      "Metamorphic rocks",
+      "Fossil rocks"
+    ],
+    "correct_index": 1,
+    "solution": "Igneous ('fire-formed') rocks form when molten magma or lava cools and solidifies; examples include granite (intrusive) and basalt (extrusive).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rocks formed by the compaction of sediments over time, often containing fossils, are:",
+    "options": [
+      "Igneous rocks",
+      "Sedimentary rocks",
+      "Metamorphic rocks",
+      "Molten rocks"
+    ],
+    "correct_index": 1,
+    "solution": "Sedimentary rocks (e.g. sandstone, limestone) form from the compaction and cementation of sediments deposited in layers; they often contain fossils.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When existing rocks are transformed by great heat and pressure, they become:",
+    "options": [
+      "Igneous rocks",
+      "Metamorphic rocks",
+      "Sedimentary rocks",
+      "Magma"
+    ],
+    "correct_index": 1,
+    "solution": "Metamorphic rocks form when igneous or sedimentary rocks are changed by intense heat and pressure — e.g. limestone becomes marble, and coal becomes diamond/graphite.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A naturally occurring substance with a definite chemical composition, of which rocks are made, is a:",
+    "options": [
+      "Fossil",
+      "Mineral",
+      "Sediment",
+      "Magma"
+    ],
+    "correct_index": 1,
+    "solution": "A mineral is a naturally occurring substance with a definite chemical composition and properties; rocks are aggregates of one or more minerals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coal, petroleum and natural gas are examples of ______ found within the Earth.",
+    "options": [
+      "Metamorphic rocks",
+      "Fossil fuels / mineral resources",
+      "Igneous rocks",
+      "Water resources"
+    ],
+    "correct_index": 1,
+    "solution": "Coal, petroleum and natural gas are fossil fuels — valuable mineral energy resources formed from the remains of ancient organisms buried within the Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The remains or impressions of ancient plants and animals preserved in rocks are called:",
+    "options": [
+      "Minerals",
+      "Fossils",
+      "Magma",
+      "Sediments"
+    ],
+    "correct_index": 1,
+    "solution": "Fossils are the preserved remains or impressions of ancient organisms found mainly in sedimentary rocks; they help scientists study the history of life on Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The crust is broken into large pieces called:",
+    "options": [
+      "Rocks",
+      "Lithospheric (tectonic) plates",
+      "Fossils",
+      "Minerals"
+    ],
+    "correct_index": 1,
+    "solution": "The Earth's rigid outer shell (lithosphere) is broken into several large and small pieces called tectonic (lithospheric) plates, which move slowly over the semi-molten mantle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The layer of the Earth on which we can find life is the:",
+    "options": [
+      "Core",
+      "Mantle",
+      "Crust",
+      "Outer core"
+    ],
+    "correct_index": 2,
+    "solution": "The crust is the only layer that supports life; its surface holds the land, water and, along with the atmosphere, the conditions for living organisms.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Granite, a common continental rock used in construction, is an example of a(n):",
+    "options": [
+      "Sedimentary rock",
+      "Igneous (intrusive) rock",
+      "Metamorphic rock",
+      "Fossil"
+    ],
+    "correct_index": 1,
+    "solution": "Granite is an intrusive igneous rock that cooled slowly beneath the surface, forming large crystals; it is hard and widely used in construction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Basalt, which forms much of the oceanic crust and the Deccan Plateau, is a(n):",
+    "options": [
+      "Metamorphic rock",
+      "Extrusive igneous rock",
+      "Sedimentary rock",
+      "Fossil"
+    ],
+    "correct_index": 1,
+    "solution": "Basalt is an extrusive igneous rock formed from rapidly cooled lava; the Deccan Traps of peninsular India are made of basalt.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The thickness of the Earth's crust is:",
+    "options": [
+      "Uniform everywhere",
+      "Greater under continents (mountains) and thinner under oceans",
+      "Thinner under continents",
+      "Zero"
+    ],
+    "correct_index": 1,
+    "solution": "The crust is not uniform — it is thicker under the continents (especially mountains) and thinner under the oceans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly orders the Earth's layers from outside to inside?",
+    "options": [
+      "Core → mantle → crust",
+      "Crust → mantle → core",
+      "Mantle → crust → core",
+      "Crust → core → mantle"
+    ],
+    "correct_index": 1,
+    "solution": "From the outside inward, the Earth's layers are the crust, the mantle and the core.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The temperature and pressure inside the Earth generally ______ with depth.",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Stay constant",
+      "Disappear"
+    ],
+    "correct_index": 1,
+    "solution": "Both temperature and pressure increase as one goes deeper into the Earth, which is why the interior contains molten material and a very hot core.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coal is formed from the remains of ancient ______ buried and compressed over millions of years.",
+    "options": [
+      "Marine animals",
+      "Plants (vegetation/forests)",
+      "Minerals",
+      "Rocks"
+    ],
+    "correct_index": 1,
+    "solution": "Coal is a fossil fuel formed from the remains of ancient plants and forests buried under sediment and subjected to heat and pressure over millions of years.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Petroleum and natural gas are usually found trapped in:",
+    "options": [
+      "Igneous rocks",
+      "Sedimentary rock formations",
+      "Metamorphic rocks",
+      "The core"
+    ],
+    "correct_index": 1,
+    "solution": "Petroleum and natural gas form from the remains of tiny marine organisms and are typically found trapped within porous sedimentary rock formations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the Earth's interior is correct? (i) The crust is the outermost layer (ii) The mantle lies below the crust (iii) The core is made of iron and nickel",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: the crust is outermost, the mantle lies below it, and the core is composed mainly of iron and nickel (NIFE).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Minerals are important because they are used as:",
+    "options": [
+      "Only decorations",
+      "Raw materials for industries, fuels and construction",
+      "Only fossils",
+      "Nothing useful"
+    ],
+    "correct_index": 1,
+    "solution": "Minerals are vital raw materials — metals for industry, fuels (coal, petroleum) for energy, and materials for construction — making them valuable natural resources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'lithosphere' refers to the:",
+    "options": [
+      "Water layer",
+      "Solid crust and the rigid upper mantle",
+      "Air layer",
+      "Life layer only"
+    ],
+    "correct_index": 1,
+    "solution": "The lithosphere is the solid, rigid outer shell of the Earth, comprising the crust and the uppermost solid part of the mantle, broken into tectonic plates.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The correct sequence in the rock cycle from magma is:",
+    "options": [
+      "Magma → igneous rock → (weathering) sediments → sedimentary rock → (heat/pressure) metamorphic rock → (melting) magma",
+      "Sedimentary → magma directly",
+      "Metamorphic → fossils only",
+      "Fossils → magma directly"
+    ],
+    "correct_index": 0,
+    "solution": "In the rock cycle, magma cools to igneous rock, which weathers into sediments forming sedimentary rock, which under heat and pressure becomes metamorphic rock, which can melt back into magma.",
+    "difficulty": "hard"
+  }
 ]
