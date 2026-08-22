@@ -1,52 +1,1082 @@
 [
-  {"stem": "The ancient Indian classification (Natya Shastra) divides musical instruments into __________ categories.", "options": ["four", "two", "three", "five"], "correct_index": 0, "solution": "Indian instruments are classified into four: Tata (string), Sushira (wind), Avanaddha (percussion) and Ghana (solid).", "difficulty": "hard"},
-  {"stem": "Stringed instruments (chordophones) are classified as __________ vadya.", "options": ["Tata", "Sushira", "Avanaddha", "Ghana"], "correct_index": 0, "solution": "Tata Vadya are the stringed instruments.", "difficulty": "hard"},
-  {"stem": "Wind instruments (aerophones) are classified as __________ vadya.", "options": ["Sushira", "Tata", "Avanaddha", "Ghana"], "correct_index": 0, "solution": "Sushira Vadya are the wind (blown) instruments.", "difficulty": "hard"},
-  {"stem": "Membrane-covered percussion instruments are classified as __________ vadya.", "options": ["Avanaddha", "Ghana", "Tata", "Sushira"], "correct_index": 0, "solution": "Avanaddha Vadya are the membranophone (drum) instruments.", "difficulty": "hard"},
-  {"stem": "Solid instruments that resonate without a membrane (idiophones) are classified as __________ vadya.", "options": ["Ghana", "Tata", "Sushira", "Avanaddha"], "correct_index": 0, "solution": "Ghana Vadya are the solid (idiophone) instruments like cymbals and the ghatam.", "difficulty": "hard"},
-  {"stem": "The sitar is a __________ instrument.", "options": ["stringed (Tata)", "wind", "percussion", "idiophone"], "correct_index": 0, "solution": "The sitar is a plucked stringed (Tata) instrument.", "difficulty": "easy"},
-  {"stem": "The sitar maestro who popularised Indian classical music globally was __________.", "options": ["Ravi Shankar", "Bismillah Khan", "Zakir Hussain", "Amjad Ali Khan"], "correct_index": 0, "solution": "Pandit Ravi Shankar was the great sitar maestro who took Indian music worldwide.", "difficulty": "medium"},
-  {"stem": "The sarod is a fretless stringed instrument mastered by __________.", "options": ["Amjad Ali Khan (and Ali Akbar Khan)", "Bismillah Khan", "Hariprasad Chaurasia", "Shivkumar Sharma"], "correct_index": 0, "solution": "Ustad Amjad Ali Khan and Ustad Ali Akbar Khan are famous sarod maestros.", "difficulty": "hard"},
-  {"stem": "The Saraswati veena is chiefly associated with __________ music.", "options": ["Carnatic", "Hindustani", "folk", "Sufi"], "correct_index": 0, "solution": "The Saraswati veena is the principal stringed instrument of Carnatic music.", "difficulty": "hard"},
-  {"stem": "The bowed stringed instrument known for closely imitating the human voice is the __________.", "options": ["sarangi", "sitar", "santoor", "veena"], "correct_index": 0, "solution": "The sarangi, a bowed instrument, is famous for imitating the human voice.", "difficulty": "hard"},
-  {"stem": "The santoor, a hammered-string instrument, originates from the region of __________.", "options": ["Kashmir", "Kerala", "Assam", "Rajasthan"], "correct_index": 0, "solution": "The santoor is a trapezoid hammered-string instrument from Kashmir.", "difficulty": "hard"},
-  {"stem": "The santoor was raised to classical concert status by __________.", "options": ["Shivkumar Sharma", "Ravi Shankar", "Bismillah Khan", "Ram Narayan"], "correct_index": 0, "solution": "Pandit Shivkumar Sharma established the santoor as a classical concert instrument.", "difficulty": "hard"},
-  {"stem": "The drone instrument that provides the pitch reference in Indian classical music is the __________.", "options": ["tanpura", "sitar", "sarangi", "veena"], "correct_index": 0, "solution": "The tanpura provides the continuous drone (tonic) in Indian classical music.", "difficulty": "medium"},
-  {"stem": "The bamboo flute of North Indian classical music is the __________.", "options": ["bansuri", "shehnai", "nadaswaram", "pungi"], "correct_index": 0, "solution": "The bansuri is the North Indian bamboo transverse flute.", "difficulty": "medium"},
-  {"stem": "The bansuri maestro who brought the flute to the concert stage was __________.", "options": ["Hariprasad Chaurasia", "Bismillah Khan", "Zakir Hussain", "Amjad Ali Khan"], "correct_index": 0, "solution": "Pandit Hariprasad Chaurasia is the renowned bansuri (flute) maestro.", "difficulty": "hard"},
-  {"stem": "The double-reed wind instrument played on auspicious occasions, mastered by Bismillah Khan, is the __________.", "options": ["shehnai", "bansuri", "nadaswaram", "harmonium"], "correct_index": 0, "solution": "The shehnai is a reed wind instrument; Ustad Bismillah Khan was its greatest exponent.", "difficulty": "medium"},
-  {"stem": "The South Indian counterpart of the shehnai, a long wind instrument used in temples, is the __________.", "options": ["nadaswaram", "bansuri", "pungi", "sarangi"], "correct_index": 0, "solution": "The nadaswaram is the large South Indian wind instrument used in temple and festive music.", "difficulty": "hard"},
-  {"stem": "The pair of drums central to Hindustani classical percussion is the __________.", "options": ["tabla", "mridangam", "pakhawaj", "chenda"], "correct_index": 0, "solution": "The tabla (a pair of drums) is the main Hindustani percussion instrument.", "difficulty": "easy"},
-  {"stem": "The tabla maestro renowned worldwide, son of Ustad Alla Rakha, is __________.", "options": ["Zakir Hussain", "Bismillah Khan", "Ravi Shankar", "Ram Narayan"], "correct_index": 0, "solution": "Ustad Zakir Hussain is a world-renowned tabla maestro.", "difficulty": "hard"},
-  {"stem": "The main percussion instrument of Carnatic music is the __________.", "options": ["mridangam", "tabla", "pakhawaj", "dholak"], "correct_index": 0, "solution": "The mridangam is the primary percussion instrument of Carnatic music.", "difficulty": "medium"},
-  {"stem": "The barrel drum used to accompany Dhrupad singing is the __________.", "options": ["pakhawaj", "tabla", "chenda", "pung"], "correct_index": 0, "solution": "The pakhawaj is the barrel drum used with Dhrupad.", "difficulty": "hard"},
-  {"stem": "The cylindrical drum played with sticks in Kerala's Kathakali and temple arts is the __________.", "options": ["chenda", "tabla", "mridangam", "dholak"], "correct_index": 0, "solution": "The chenda is the loud cylindrical drum of Kerala arts like Kathakali.", "difficulty": "hard"},
-  {"stem": "The clay-pot idiophone used in Carnatic music is the __________.", "options": ["ghatam", "mridangam", "tabla", "dholak"], "correct_index": 0, "solution": "The ghatam, a clay pot, is a Ghana (idiophone) instrument of Carnatic music.", "difficulty": "hard"},
-  {"stem": "The small frame drum with a single jingle used in Carnatic percussion is the __________.", "options": ["kanjira", "ghatam", "chenda", "dhol"], "correct_index": 0, "solution": "The kanjira is a small South Indian frame drum with a jingle.", "difficulty": "hard"},
-  {"stem": "The small hand cymbals used in devotional and classical music are the __________.", "options": ["manjira (jhanj)", "ghungroo", "morsing", "kartal"], "correct_index": 0, "solution": "The manjira (small cymbals) are Ghana instruments used in devotional music.", "difficulty": "hard"},
-  {"stem": "The instrument consisting of a set of tuned ceramic or metal bowls filled with water is the __________.", "options": ["jaltarang", "santoor", "ghatam", "sarod"], "correct_index": 0, "solution": "The jaltarang is a melodic idiophone of tuned water-filled bowls.", "difficulty": "hard"},
-  {"stem": "The ankle-bells worn by classical dancers are called __________.", "options": ["ghungroo", "manjira", "kartal", "morsing"], "correct_index": 0, "solution": "Ghungroos are the ankle bells worn by classical dancers.", "difficulty": "medium"},
-  {"stem": "The 'been' or 'pungi', associated with snake charmers, is a __________ instrument.", "options": ["wind (Sushira)", "string", "percussion", "idiophone"], "correct_index": 0, "solution": "The pungi (been) is a wind instrument associated with snake charmers.", "difficulty": "medium"},
-  {"stem": "The single-stringed folk instrument, one of the oldest, is the __________.", "options": ["ektara", "sarod", "santoor", "veena"], "correct_index": 0, "solution": "The ektara is a simple one-stringed drone/folk instrument.", "difficulty": "medium"},
-  {"stem": "The violin, though of European origin, is a major __________ concert instrument in India.", "options": ["Carnatic", "Dhrupad", "folk-only", "temple-only"], "correct_index": 0, "solution": "The violin was adapted into Carnatic music and is a major concert instrument there.", "difficulty": "hard"},
-  {"stem": "The sarangi maestro renowned in Hindustani music was __________.", "options": ["Ram Narayan", "Bismillah Khan", "Zakir Hussain", "Shivkumar Sharma"], "correct_index": 0, "solution": "Pandit Ram Narayan was a legendary sarangi maestro.", "difficulty": "hard"},
-  {"stem": "The Rudra veena (Been) is chiefly associated with the __________ style.", "options": ["Dhrupad", "Khayal", "Thumri", "Carnatic kriti"], "correct_index": 0, "solution": "The Rudra veena (Been) is chiefly associated with the Dhrupad tradition.", "difficulty": "hard"},
-  {"stem": "The morsing, a small metal idiophone played in the mouth, is a kind of __________.", "options": ["Jew's harp", "flute", "drum", "cymbal"], "correct_index": 0, "solution": "The morsing is a Jew's-harp type idiophone used in Carnatic percussion.", "difficulty": "hard"},
-  {"stem": "The reed-and-bellows keyboard instrument widely used to accompany Hindustani vocal music is the __________.", "options": ["harmonium", "santoor", "sarangi", "veena"], "correct_index": 0, "solution": "The harmonium (a free-reed keyboard) is widely used to accompany Hindustani vocal music.", "difficulty": "medium"},
-  {"stem": "The sarod evolved in India from the Central Asian __________.", "options": ["rabab", "oud only", "violin", "guitar"], "correct_index": 0, "solution": "The sarod evolved from the Central Asian rabab.", "difficulty": "hard"},
-  {"stem": "The number of main playing strings that gives the sitar its resonance is enhanced by __________ strings.", "options": ["sympathetic (tarab)", "no extra", "metal-only bass", "gut"], "correct_index": 0, "solution": "The sitar has additional sympathetic (tarab) strings that resonate to enrich the sound.", "difficulty": "hard"},
-  {"stem": "The dhol and dholak are __________ instruments used widely in folk music.", "options": ["percussion (drum)", "string", "wind", "idiophone"], "correct_index": 0, "solution": "The dhol and dholak are folk drums (Avanaddha/percussion).", "difficulty": "medium"},
-  {"stem": "The nagara (naqqara) is a __________ used historically in royal ensembles.", "options": ["kettledrum (percussion)", "flute", "veena", "cymbal"], "correct_index": 0, "solution": "The nagara is a large kettledrum used in the naubat (royal) ensemble.", "difficulty": "hard"},
-  {"stem": "The small hourglass drum associated with Shiva is the __________.", "options": ["damaru", "mridangam", "tabla", "ghatam"], "correct_index": 0, "solution": "The damaru is the small hourglass drum associated with Shiva.", "difficulty": "medium"},
-  {"stem": "The Carnatic violin exponent among the following is __________.", "options": ["N. Rajam / Lalgudi Jayaraman", "Bismillah Khan", "Zakir Hussain", "Ravi Shankar"], "correct_index": 0, "solution": "N. Rajam and Lalgudi Jayaraman are noted for the violin in Indian classical music.", "difficulty": "hard"},
-  {"stem": "Instruments classified as 'Ghana Vadya' produce sound by __________.", "options": ["the vibration of the solid body itself", "a stretched membrane", "a plucked string", "blown air"], "correct_index": 0, "solution": "Ghana Vadya (idiophones) sound by the vibration of the solid body (e.g. cymbals).", "difficulty": "hard"},
-  {"stem": "The instrument 'santoor' is played by striking the strings with __________.", "options": ["a pair of light mallets", "a bow", "the fingers only", "a plectrum"], "correct_index": 0, "solution": "The santoor is played by striking its strings with a pair of light wooden mallets.", "difficulty": "hard"},
-  {"stem": "The 'Ravanahatha', considered an ancestor of the violin, is a __________ folk instrument.", "options": ["bowed string", "wind", "percussion", "idiophone"], "correct_index": 0, "solution": "The Ravanahatha is an ancient bowed string folk instrument of Rajasthan.", "difficulty": "hard"},
-  {"stem": "The instrument used to keep the tala (rhythm) by clapping-like sounds in folk/devotional music is the __________.", "options": ["kartal", "veena", "bansuri", "sarangi"], "correct_index": 0, "solution": "The kartal (wooden clappers) keeps the rhythm in folk and devotional music.", "difficulty": "hard"},
-  {"stem": "The instrument 'Pung' is the barrel drum used in __________ dance.", "options": ["Manipuri", "Bharatanatyam", "Kathak", "Odissi"], "correct_index": 0, "solution": "The Pung is the barrel drum central to Manipuri dance.", "difficulty": "hard"},
-  {"stem": "The Ustad who was awarded the Bharat Ratna for the shehnai was __________.", "options": ["Bismillah Khan", "Amjad Ali Khan", "Zakir Hussain", "Ali Akbar Khan"], "correct_index": 0, "solution": "Ustad Bismillah Khan, the shehnai maestro, was awarded the Bharat Ratna.", "difficulty": "hard"},
-  {"stem": "The classification of Indian instruments into four groups is one of the __________ in the world.", "options": ["oldest such systems", "newest systems", "European systems", "unknown systems"], "correct_index": 0, "solution": "The four-fold classification (Natya Shastra) is one of the oldest instrument classification systems.", "difficulty": "medium"},
-  {"stem": "The stringed instrument with the largest resonating gourds, held vertically and played sitting, in Carnatic music is the __________.", "options": ["Saraswati veena", "sitar", "sarod", "santoor"], "correct_index": 0, "solution": "The Saraswati veena, with its resonating gourd, is the classic Carnatic string instrument.", "difficulty": "hard"},
-  {"stem": "The instruments that accompany a vocalist typically include a melodic drone, a rhythmic drum and a __________ instrument.", "options": ["melodic supporting (e.g. harmonium/sarangi)", "no other", "wind-only", "idiophone-only"], "correct_index": 0, "solution": "A vocalist is usually accompanied by a drone (tanpura), a drum (tabla) and a melodic support (harmonium/sarangi).", "difficulty": "medium"},
-  {"stem": "The rich variety of Indian musical instruments reflects the country's __________.", "options": ["deep and diverse musical heritage", "recent industrialisation", "European influence only", "lack of tradition"], "correct_index": 0, "solution": "The variety of instruments reflects India's deep and diverse musical heritage.", "difficulty": "easy"}
+  {
+    "stem": "The ancient Indian classification (Natya Shastra) divides musical instruments into __________ categories.",
+    "options": [
+      "four",
+      "two",
+      "three",
+      "five"
+    ],
+    "correct_index": 0,
+    "solution": "Indian instruments are classified into four: Tata (string), Sushira (wind), Avanaddha (percussion) and Ghana (solid).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Stringed instruments (chordophones) are classified as __________ vadya.",
+    "options": [
+      "Tata",
+      "Sushira",
+      "Avanaddha",
+      "Ghana"
+    ],
+    "correct_index": 0,
+    "solution": "Tata Vadya are the stringed instruments.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Wind instruments (aerophones) are classified as __________ vadya.",
+    "options": [
+      "Sushira",
+      "Tata",
+      "Avanaddha",
+      "Ghana"
+    ],
+    "correct_index": 0,
+    "solution": "Sushira Vadya are the wind (blown) instruments.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Membrane-covered percussion instruments are classified as __________ vadya.",
+    "options": [
+      "Avanaddha",
+      "Ghana",
+      "Tata",
+      "Sushira"
+    ],
+    "correct_index": 0,
+    "solution": "Avanaddha Vadya are the membranophone (drum) instruments.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Solid instruments that resonate without a membrane (idiophones) are classified as __________ vadya.",
+    "options": [
+      "Ghana",
+      "Tata",
+      "Sushira",
+      "Avanaddha"
+    ],
+    "correct_index": 0,
+    "solution": "Ghana Vadya are the solid (idiophone) instruments like cymbals and the ghatam.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The sitar is a __________ instrument.",
+    "options": [
+      "stringed (Tata)",
+      "wind",
+      "percussion",
+      "idiophone"
+    ],
+    "correct_index": 0,
+    "solution": "The sitar is a plucked stringed (Tata) instrument.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The sitar maestro who popularised Indian classical music globally was __________.",
+    "options": [
+      "Ravi Shankar",
+      "Bismillah Khan",
+      "Zakir Hussain",
+      "Amjad Ali Khan"
+    ],
+    "correct_index": 0,
+    "solution": "Pandit Ravi Shankar was the great sitar maestro who took Indian music worldwide.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sarod is a fretless stringed instrument mastered by __________.",
+    "options": [
+      "Amjad Ali Khan (and Ali Akbar Khan)",
+      "Bismillah Khan",
+      "Hariprasad Chaurasia",
+      "Shivkumar Sharma"
+    ],
+    "correct_index": 0,
+    "solution": "Ustad Amjad Ali Khan and Ustad Ali Akbar Khan are famous sarod maestros.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Saraswati veena is chiefly associated with __________ music.",
+    "options": [
+      "Carnatic",
+      "Hindustani",
+      "folk",
+      "Sufi"
+    ],
+    "correct_index": 0,
+    "solution": "The Saraswati veena is the principal stringed instrument of Carnatic music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The bowed stringed instrument known for closely imitating the human voice is the __________.",
+    "options": [
+      "sarangi",
+      "sitar",
+      "santoor",
+      "veena"
+    ],
+    "correct_index": 0,
+    "solution": "The sarangi, a bowed instrument, is famous for imitating the human voice.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The santoor, a hammered-string instrument, originates from the region of __________.",
+    "options": [
+      "Kashmir",
+      "Kerala",
+      "Assam",
+      "Rajasthan"
+    ],
+    "correct_index": 0,
+    "solution": "The santoor is a trapezoid hammered-string instrument from Kashmir.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The santoor was raised to classical concert status by __________.",
+    "options": [
+      "Shivkumar Sharma",
+      "Ravi Shankar",
+      "Bismillah Khan",
+      "Ram Narayan"
+    ],
+    "correct_index": 0,
+    "solution": "Pandit Shivkumar Sharma established the santoor as a classical concert instrument.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The drone instrument that provides the pitch reference in Indian classical music is the __________.",
+    "options": [
+      "tanpura",
+      "sitar",
+      "sarangi",
+      "veena"
+    ],
+    "correct_index": 0,
+    "solution": "The tanpura provides the continuous drone (tonic) in Indian classical music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bamboo flute of North Indian classical music is the __________.",
+    "options": [
+      "bansuri",
+      "shehnai",
+      "nadaswaram",
+      "pungi"
+    ],
+    "correct_index": 0,
+    "solution": "The bansuri is the North Indian bamboo transverse flute.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bansuri maestro who brought the flute to the concert stage was __________.",
+    "options": [
+      "Hariprasad Chaurasia",
+      "Bismillah Khan",
+      "Zakir Hussain",
+      "Amjad Ali Khan"
+    ],
+    "correct_index": 0,
+    "solution": "Pandit Hariprasad Chaurasia is the renowned bansuri (flute) maestro.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The double-reed wind instrument played on auspicious occasions, mastered by Bismillah Khan, is the __________.",
+    "options": [
+      "shehnai",
+      "bansuri",
+      "nadaswaram",
+      "harmonium"
+    ],
+    "correct_index": 0,
+    "solution": "The shehnai is a reed wind instrument; Ustad Bismillah Khan was its greatest exponent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The South Indian counterpart of the shehnai, a long wind instrument used in temples, is the __________.",
+    "options": [
+      "nadaswaram",
+      "bansuri",
+      "pungi",
+      "sarangi"
+    ],
+    "correct_index": 0,
+    "solution": "The nadaswaram is the large South Indian wind instrument used in temple and festive music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The pair of drums central to Hindustani classical percussion is the __________.",
+    "options": [
+      "tabla",
+      "mridangam",
+      "pakhawaj",
+      "chenda"
+    ],
+    "correct_index": 0,
+    "solution": "The tabla (a pair of drums) is the main Hindustani percussion instrument.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The tabla maestro renowned worldwide, son of Ustad Alla Rakha, is __________.",
+    "options": [
+      "Zakir Hussain",
+      "Bismillah Khan",
+      "Ravi Shankar",
+      "Ram Narayan"
+    ],
+    "correct_index": 0,
+    "solution": "Ustad Zakir Hussain is a world-renowned tabla maestro.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main percussion instrument of Carnatic music is the __________.",
+    "options": [
+      "mridangam",
+      "tabla",
+      "pakhawaj",
+      "dholak"
+    ],
+    "correct_index": 0,
+    "solution": "The mridangam is the primary percussion instrument of Carnatic music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The barrel drum used to accompany Dhrupad singing is the __________.",
+    "options": [
+      "pakhawaj",
+      "tabla",
+      "chenda",
+      "pung"
+    ],
+    "correct_index": 0,
+    "solution": "The pakhawaj is the barrel drum used with Dhrupad.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The cylindrical drum played with sticks in Kerala's Kathakali and temple arts is the __________.",
+    "options": [
+      "chenda",
+      "tabla",
+      "mridangam",
+      "dholak"
+    ],
+    "correct_index": 0,
+    "solution": "The chenda is the loud cylindrical drum of Kerala arts like Kathakali.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The clay-pot idiophone used in Carnatic music is the __________.",
+    "options": [
+      "ghatam",
+      "mridangam",
+      "tabla",
+      "dholak"
+    ],
+    "correct_index": 0,
+    "solution": "The ghatam, a clay pot, is a Ghana (idiophone) instrument of Carnatic music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The small frame drum with a single jingle used in Carnatic percussion is the __________.",
+    "options": [
+      "kanjira",
+      "ghatam",
+      "chenda",
+      "dhol"
+    ],
+    "correct_index": 0,
+    "solution": "The kanjira is a small South Indian frame drum with a jingle.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The small hand cymbals used in devotional and classical music are the __________.",
+    "options": [
+      "manjira (jhanj)",
+      "ghungroo",
+      "morsing",
+      "kartal"
+    ],
+    "correct_index": 0,
+    "solution": "The manjira (small cymbals) are Ghana instruments used in devotional music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The instrument consisting of a set of tuned ceramic or metal bowls filled with water is the __________.",
+    "options": [
+      "jaltarang",
+      "santoor",
+      "ghatam",
+      "sarod"
+    ],
+    "correct_index": 0,
+    "solution": "The jaltarang is a melodic idiophone of tuned water-filled bowls.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The ankle-bells worn by classical dancers are called __________.",
+    "options": [
+      "ghungroo",
+      "manjira",
+      "kartal",
+      "morsing"
+    ],
+    "correct_index": 0,
+    "solution": "Ghungroos are the ankle bells worn by classical dancers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'been' or 'pungi', associated with snake charmers, is a __________ instrument.",
+    "options": [
+      "wind (Sushira)",
+      "string",
+      "percussion",
+      "idiophone"
+    ],
+    "correct_index": 0,
+    "solution": "The pungi (been) is a wind instrument associated with snake charmers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The single-stringed folk instrument, one of the oldest, is the __________.",
+    "options": [
+      "ektara",
+      "sarod",
+      "santoor",
+      "veena"
+    ],
+    "correct_index": 0,
+    "solution": "The ektara is a simple one-stringed drone/folk instrument.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The violin, though of European origin, is a major __________ concert instrument in India.",
+    "options": [
+      "Carnatic",
+      "Dhrupad",
+      "folk-only",
+      "temple-only"
+    ],
+    "correct_index": 0,
+    "solution": "The violin was adapted into Carnatic music and is a major concert instrument there.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The sarangi maestro renowned in Hindustani music was __________.",
+    "options": [
+      "Ram Narayan",
+      "Bismillah Khan",
+      "Zakir Hussain",
+      "Shivkumar Sharma"
+    ],
+    "correct_index": 0,
+    "solution": "Pandit Ram Narayan was a legendary sarangi maestro.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rudra veena (Been) is chiefly associated with the __________ style.",
+    "options": [
+      "Dhrupad",
+      "Khayal",
+      "Thumri",
+      "Carnatic kriti"
+    ],
+    "correct_index": 0,
+    "solution": "The Rudra veena (Been) is chiefly associated with the Dhrupad tradition.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The morsing, a small metal idiophone played in the mouth, is a kind of __________.",
+    "options": [
+      "Jew's harp",
+      "flute",
+      "drum",
+      "cymbal"
+    ],
+    "correct_index": 0,
+    "solution": "The morsing is a Jew's-harp type idiophone used in Carnatic percussion.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The reed-and-bellows keyboard instrument widely used to accompany Hindustani vocal music is the __________.",
+    "options": [
+      "harmonium",
+      "santoor",
+      "sarangi",
+      "veena"
+    ],
+    "correct_index": 0,
+    "solution": "The harmonium (a free-reed keyboard) is widely used to accompany Hindustani vocal music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sarod evolved in India from the Central Asian __________.",
+    "options": [
+      "rabab",
+      "oud only",
+      "violin",
+      "guitar"
+    ],
+    "correct_index": 0,
+    "solution": "The sarod evolved from the Central Asian rabab.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The number of main playing strings that gives the sitar its resonance is enhanced by __________ strings.",
+    "options": [
+      "sympathetic (tarab)",
+      "no extra",
+      "metal-only bass",
+      "gut"
+    ],
+    "correct_index": 0,
+    "solution": "The sitar has additional sympathetic (tarab) strings that resonate to enrich the sound.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The dhol and dholak are __________ instruments used widely in folk music.",
+    "options": [
+      "percussion (drum)",
+      "string",
+      "wind",
+      "idiophone"
+    ],
+    "correct_index": 0,
+    "solution": "The dhol and dholak are folk drums (Avanaddha/percussion).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The nagara (naqqara) is a __________ used historically in royal ensembles.",
+    "options": [
+      "kettledrum (percussion)",
+      "flute",
+      "veena",
+      "cymbal"
+    ],
+    "correct_index": 0,
+    "solution": "The nagara is a large kettledrum used in the naubat (royal) ensemble.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The small hourglass drum associated with Shiva is the __________.",
+    "options": [
+      "damaru",
+      "mridangam",
+      "tabla",
+      "ghatam"
+    ],
+    "correct_index": 0,
+    "solution": "The damaru is the small hourglass drum associated with Shiva.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Carnatic violin exponent among the following is __________.",
+    "options": [
+      "N. Rajam / Lalgudi Jayaraman",
+      "Bismillah Khan",
+      "Zakir Hussain",
+      "Ravi Shankar"
+    ],
+    "correct_index": 0,
+    "solution": "N. Rajam and Lalgudi Jayaraman are noted for the violin in Indian classical music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Instruments classified as 'Ghana Vadya' produce sound by __________.",
+    "options": [
+      "the vibration of the solid body itself",
+      "a stretched membrane",
+      "a plucked string",
+      "blown air"
+    ],
+    "correct_index": 0,
+    "solution": "Ghana Vadya (idiophones) sound by the vibration of the solid body (e.g. cymbals).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The instrument 'santoor' is played by striking the strings with __________.",
+    "options": [
+      "a pair of light mallets",
+      "a bow",
+      "the fingers only",
+      "a plectrum"
+    ],
+    "correct_index": 0,
+    "solution": "The santoor is played by striking its strings with a pair of light wooden mallets.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Ravanahatha', considered an ancestor of the violin, is a __________ folk instrument.",
+    "options": [
+      "bowed string",
+      "wind",
+      "percussion",
+      "idiophone"
+    ],
+    "correct_index": 0,
+    "solution": "The Ravanahatha is an ancient bowed string folk instrument of Rajasthan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The instrument used to keep the tala (rhythm) by clapping-like sounds in folk/devotional music is the __________.",
+    "options": [
+      "kartal",
+      "veena",
+      "bansuri",
+      "sarangi"
+    ],
+    "correct_index": 0,
+    "solution": "The kartal (wooden clappers) keeps the rhythm in folk and devotional music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The instrument 'Pung' is the barrel drum used in __________ dance.",
+    "options": [
+      "Manipuri",
+      "Bharatanatyam",
+      "Kathak",
+      "Odissi"
+    ],
+    "correct_index": 0,
+    "solution": "The Pung is the barrel drum central to Manipuri dance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Ustad who was awarded the Bharat Ratna for the shehnai was __________.",
+    "options": [
+      "Bismillah Khan",
+      "Amjad Ali Khan",
+      "Zakir Hussain",
+      "Ali Akbar Khan"
+    ],
+    "correct_index": 0,
+    "solution": "Ustad Bismillah Khan, the shehnai maestro, was awarded the Bharat Ratna.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The classification of Indian instruments into four groups is one of the __________ in the world.",
+    "options": [
+      "oldest such systems",
+      "newest systems",
+      "European systems",
+      "unknown systems"
+    ],
+    "correct_index": 0,
+    "solution": "The four-fold classification (Natya Shastra) is one of the oldest instrument classification systems.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The stringed instrument with the largest resonating gourds, held vertically and played sitting, in Carnatic music is the __________.",
+    "options": [
+      "Saraswati veena",
+      "sitar",
+      "sarod",
+      "santoor"
+    ],
+    "correct_index": 0,
+    "solution": "The Saraswati veena, with its resonating gourd, is the classic Carnatic string instrument.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The instruments that accompany a vocalist typically include a melodic drone, a rhythmic drum and a __________ instrument.",
+    "options": [
+      "melodic supporting (e.g. harmonium/sarangi)",
+      "no other",
+      "wind-only",
+      "idiophone-only"
+    ],
+    "correct_index": 0,
+    "solution": "A vocalist is usually accompanied by a drone (tanpura), a drum (tabla) and a melodic support (harmonium/sarangi).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rich variety of Indian musical instruments reflects the country's __________.",
+    "options": [
+      "deep and diverse musical heritage",
+      "recent industrialisation",
+      "European influence only",
+      "lack of tradition"
+    ],
+    "correct_index": 0,
+    "solution": "The variety of instruments reflects India's deep and diverse musical heritage.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Indian musical instruments are traditionally classified into four categories; a stringed instrument like the veena belongs to the:",
+    "options": [
+      "Avanaddha (membrane)",
+      "Tata (chordophones/stringed)",
+      "Sushira (wind)",
+      "Ghana (solid)"
+    ],
+    "correct_index": 1,
+    "solution": "The ancient fourfold classification is Tata (stringed), Sushira (wind), Avanaddha (percussion/membrane) and Ghana (solid/idiophones). Stringed instruments like the veena are Tata Vadya.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Drums and other membrane-covered percussion instruments (like the tabla and mridangam) fall under which category?",
+    "options": [
+      "Tata",
+      "Sushira",
+      "Avanaddha",
+      "Ghana"
+    ],
+    "correct_index": 2,
+    "solution": "Avanaddha Vadya are percussion instruments with a stretched membrane (drums) — tabla, mridangam, pakhawaj, dholak — struck to produce rhythm.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wind instruments such as the flute (bansuri) and shehnai belong to which category?",
+    "options": [
+      "Ghana",
+      "Sushira",
+      "Tata",
+      "Avanaddha"
+    ],
+    "correct_index": 1,
+    "solution": "Sushira Vadya are wind (aerophone) instruments — bansuri, shehnai, nadaswaram — sounded by blowing air.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Solid instruments without strings or membranes that produce sound by striking (like cymbals and the jaltarang) are classified as:",
+    "options": [
+      "Tata",
+      "Ghana",
+      "Sushira",
+      "Avanaddha"
+    ],
+    "correct_index": 1,
+    "solution": "Ghana Vadya are solid, self-resonating idiophones — cymbals (manjira), jaltarang, ghatam, morsing — that produce sound by being struck or shaken without needing tuning of a string/membrane.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'tabla', the principal percussion of Hindustani music, is a pair consisting of the dayan and:",
+    "options": [
+      "Bayan",
+      "Mridangam",
+      "Ghatam",
+      "Dholak"
+    ],
+    "correct_index": 0,
+    "solution": "The tabla comprises the dayan (right, treble drum) and the bayan (left, bass drum), together producing the intricate rhythmic patterns of Hindustani music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'ghatam', a clay-pot percussion instrument, is used in which classical tradition?",
+    "options": [
+      "Hindustani",
+      "Carnatic",
+      "Sufi",
+      "Punjabi folk"
+    ],
+    "correct_index": 1,
+    "solution": "The ghatam, an earthen-pot idiophone, is a percussion instrument of Carnatic music, played alongside the mridangam.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'sarod', a fretless plucked string instrument of Hindustani music, is associated with maestros like:",
+    "options": [
+      "Ravi Shankar",
+      "Ali Akbar Khan and Amjad Ali Khan",
+      "Bismillah Khan",
+      "Hariprasad Chaurasia"
+    ],
+    "correct_index": 1,
+    "solution": "The sarod, a fretless, deep-toned plucked instrument, is associated with Ustad Ali Akbar Khan and Ustad Amjad Ali Khan among others.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bowed string instrument often used to accompany Hindustani vocal music, known for its voice-like tone, is the:",
+    "options": [
+      "Sitar",
+      "Sarangi",
+      "Sarod",
+      "Santoor"
+    ],
+    "correct_index": 1,
+    "solution": "The sarangi is a bowed string instrument whose tone closely mimics the human voice, making it a favoured accompaniment for Hindustani vocal music, especially thumri.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'santoor', a hammered dulcimer popularised by Shivkumar Sharma, originates from:",
+    "options": [
+      "Tamil Nadu",
+      "Kashmir",
+      "Assam",
+      "Gujarat"
+    ],
+    "correct_index": 1,
+    "solution": "The santoor, a trapezoid hammered-string instrument from Kashmir (used in Sufiana music), was brought to the Hindustani classical stage by Pandit Shivkumar Sharma.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Ustad Bismillah Khan', a Bharat Ratna, was the celebrated maestro of which instrument?",
+    "options": [
+      "Flute",
+      "Shehnai",
+      "Sarod",
+      "Tabla"
+    ],
+    "correct_index": 1,
+    "solution": "Ustad Bismillah Khan elevated the shehnai — a double-reed wind instrument traditionally played at weddings and temples — to the concert stage; he was awarded the Bharat Ratna.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bamboo transverse flute of Hindustani music, mastered by Hariprasad Chaurasia, is the:",
+    "options": [
+      "Nadaswaram",
+      "Bansuri",
+      "Shehnai",
+      "Pungi"
+    ],
+    "correct_index": 1,
+    "solution": "The bansuri is the bamboo transverse flute central to Hindustani music; Pandit Hariprasad Chaurasia is its most celebrated modern exponent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'nadaswaram', a large double-reed wind instrument, is prominent in:",
+    "options": [
+      "North Indian weddings only",
+      "South Indian temple and auspicious ceremonies",
+      "Kashmiri music",
+      "Assamese folk"
+    ],
+    "correct_index": 1,
+    "solution": "The nadaswaram, one of the loudest non-brass acoustic instruments, is a staple of South Indian temple rituals and auspicious occasions, often paired with the thavil drum.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'thavil' is a percussion instrument that accompanies which wind instrument in South India?",
+    "options": [
+      "Bansuri",
+      "Nadaswaram",
+      "Shehnai",
+      "Pungi"
+    ],
+    "correct_index": 1,
+    "solution": "The thavil, a barrel drum, traditionally accompanies the nadaswaram in South Indian temple and ceremonial music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'pungi' (been), a wind instrument, is famously associated with:",
+    "options": [
+      "Classical concerts",
+      "Snake charmers of Rajasthan",
+      "Temple rituals",
+      "Sufi shrines"
+    ],
+    "correct_index": 1,
+    "solution": "The pungi or been is a reed wind instrument traditionally associated with snake charmers, especially in Rajasthan and North India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'morsing' (jaw harp) used in Carnatic percussion is classified as a:",
+    "options": [
+      "Tata Vadya",
+      "Ghana Vadya (idiophone)",
+      "Sushira Vadya",
+      "Avanaddha Vadya"
+    ],
+    "correct_index": 1,
+    "solution": "The morsing, a small jaw/mouth harp, is an idiophone (Ghana Vadya) used as a supporting percussion instrument in Carnatic music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'jaltarang', producing melody from water-filled bowls, is an example of which category?",
+    "options": [
+      "Tata",
+      "Ghana",
+      "Sushira",
+      "Avanaddha"
+    ],
+    "correct_index": 1,
+    "solution": "The jaltarang consists of tuned porcelain/metal bowls filled with varying amounts of water, struck to produce melody — an idiophone (Ghana Vadya).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'ektara', a single-stringed drone instrument, is associated with which wandering minstrels?",
+    "options": [
+      "Bauls of Bengal",
+      "Nadaswaram players",
+      "Qawwals",
+      "Dhrupad singers"
+    ],
+    "correct_index": 0,
+    "solution": "The ektara ('one string') is a simple drone instrument used by the Baul minstrels of Bengal and other wandering singers to accompany devotional folk songs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'rudra veena' (been), an ancient stick-zither, is associated primarily with:",
+    "options": [
+      "Khayal",
+      "Dhrupad",
+      "Thumri",
+      "Ghazal"
+    ],
+    "correct_index": 1,
+    "solution": "The rudra veena, a large ancient plucked stick-zither, is traditionally associated with the Dhrupad style of Hindustani music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'sarangi' and 'sarod' differ in that the sarangi is ______ while the sarod is ______.",
+    "options": [
+      "plucked; bowed",
+      "bowed; plucked",
+      "a drum; a flute",
+      "a wind; a string"
+    ],
+    "correct_index": 1,
+    "solution": "The sarangi is a bowed string instrument (played with a bow), whereas the sarod is a plucked string instrument (played with a plectrum) — both fretless, both Hindustani.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'dilruba' and 'esraj' are bowed string instruments associated with:",
+    "options": [
+      "Carnatic temple music",
+      "North Indian and Sikh devotional (Gurmat Sangeet) music",
+      "Snake charming",
+      "Tamil cinema"
+    ],
+    "correct_index": 1,
+    "solution": "The dilruba and esraj are bowed string instruments used in North Indian light-classical and Sikh devotional (Gurmat Sangeet) traditions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'chenda', a cylindrical percussion instrument, is central to the performing arts of which state?",
+    "options": [
+      "Punjab",
+      "Kerala",
+      "Gujarat",
+      "Bihar"
+    ],
+    "correct_index": 1,
+    "solution": "The chenda is a loud cylindrical drum central to Kerala's temple festivals and art forms like Kathakali, Theyyam and the percussion ensemble Chenda Melam.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'idakka' (edakka), an hourglass drum whose pitch can be modulated, belongs to:",
+    "options": [
+      "Punjab",
+      "Kerala temple music",
+      "Rajasthan",
+      "Assam"
+    ],
+    "correct_index": 1,
+    "solution": "The idakka is an hourglass-shaped pressure drum of Kerala temple music, capable of producing melodic, voice-like modulations by squeezing the lacing.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'dhol' and 'dholak' are double-headed drums widely used in:",
+    "options": [
+      "Classical concerts only",
+      "Folk music, festivals and celebrations across India",
+      "Temple rituals in the south only",
+      "Sufi shrines only"
+    ],
+    "correct_index": 1,
+    "solution": "The dhol (large, played with sticks) and dholak (smaller, hand-played) are folk percussion drums used in celebrations, bhangra, and folk music across India.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Manjira' (or taal), small hand cymbals, are used to keep rhythm in:",
+    "options": [
+      "Western orchestras",
+      "Bhajans, kirtans and folk music",
+      "Solo sitar recitals",
+      "Silent meditation"
+    ],
+    "correct_index": 1,
+    "solution": "Manjira are small metal cymbals (Ghana Vadya) used to mark rhythm in devotional bhajans, kirtans and folk performances.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'ravanahatha', an ancient bowed instrument said to originate in Rajasthan/Sri Lanka, is considered a precursor of the:",
+    "options": [
+      "Tabla",
+      "Violin (bowed strings)",
+      "Flute",
+      "Cymbals"
+    ],
+    "correct_index": 1,
+    "solution": "The ravanahatha, an ancient bowed string instrument, is regarded by some as an ancestor of bowed instruments like the violin; it survives in Rajasthani folk music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'mridangam' and 'pakhawaj' are related in that both are:",
+    "options": [
+      "Wind instruments",
+      "Double-headed barrel drums (percussion)",
+      "Stringed instruments",
+      "Cymbals"
+    ],
+    "correct_index": 1,
+    "solution": "Both the mridangam (Carnatic) and pakhawaj (Hindustani Dhrupad) are double-headed barrel drums; the tabla is believed to have evolved from splitting the pakhawaj.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'surbahar', a bass version of a plucked string instrument, is essentially a larger:",
+    "options": [
+      "Sarod",
+      "Sitar",
+      "Santoor",
+      "Tanpura"
+    ],
+    "correct_index": 1,
+    "solution": "The surbahar is a large, bass-register plucked string instrument, essentially a bigger sitar, used for the slow alaap in Hindustani music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'been' or 'tumbi' single-string instrument is popular in the folk music of:",
+    "options": [
+      "Kerala",
+      "Punjab",
+      "Tamil Nadu",
+      "Odisha"
+    ],
+    "correct_index": 1,
+    "solution": "The tumbi, a high-pitched single-string plucked instrument, is a hallmark of Punjabi folk music and bhangra.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'gettu vadyam' / 'jalra' and similar instruments in temple ensembles are examples of:",
+    "options": [
+      "Wind instruments",
+      "Idiophone/percussion accompaniment",
+      "Bowed strings",
+      "Flutes"
+    ],
+    "correct_index": 1,
+    "solution": "Instruments like jalra (cymbals) provide idiophonic percussion accompaniment in South Indian temple and devotional music ensembles.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Modern innovations brought the 'violin' and 'mandolin' into Carnatic music; the violin is now used as:",
+    "options": [
+      "A rare novelty",
+      "A standard accompaniment to vocal concerts",
+      "A percussion instrument",
+      "A drone"
+    ],
+    "correct_index": 1,
+    "solution": "The Western violin, adapted and held differently, became a standard melodic accompaniment in Carnatic concerts; U. Srinivas famously adapted the mandolin too.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'gopichand' (khamak/ektara variant) used by Baul singers produces sound by:",
+    "options": [
+      "Blowing air",
+      "Plucking a string whose tension is varied to change pitch",
+      "Striking a membrane only",
+      "Water"
+    ],
+    "correct_index": 1,
+    "solution": "The gopichand/khamak is a plucked drone-percussion instrument where the player varies the tension of the string to change pitch — used by Baul and folk singers of Bengal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'harmonium', though of European origin, became widely used in Indian:",
+    "options": [
+      "Only Western music",
+      "Devotional, semi-classical and light-classical music",
+      "Only Carnatic classical",
+      "Snake charming"
+    ],
+    "correct_index": 1,
+    "solution": "The hand-pumped harmonium, introduced from Europe, was adopted widely in Indian devotional (bhajan, qawwali) and semi-classical music, though it is sometimes debated in strict classical settings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'kanjira', a small frame drum, is used in Carnatic music and is classified as:",
+    "options": [
+      "Tata Vadya",
+      "Avanaddha Vadya (membrane percussion)",
+      "Ghana Vadya",
+      "Sushira Vadya"
+    ],
+    "correct_index": 1,
+    "solution": "The kanjira, a small single-headed frame drum with jingles, is a membrane percussion instrument (Avanaddha Vadya) used in Carnatic ensembles.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The instrument classification system (Tata, Sushira, Avanaddha, Ghana) is first described in the:",
+    "options": [
+      "Arthashastra",
+      "Natyashastra",
+      "Rigveda",
+      "Ain-i-Akbari"
+    ],
+    "correct_index": 1,
+    "solution": "The fourfold classification of musical instruments is described in Bharata's Natyashastra, one of the earliest systematic treatments of the subject.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'sursingar' and 'rabab' are ancestors of which modern instrument?",
+    "options": [
+      "Tabla",
+      "Sarod",
+      "Flute",
+      "Santoor"
+    ],
+    "correct_index": 1,
+    "solution": "The rabab (a Central Asian plucked instrument) and sursingar are considered precursors of the modern sarod, which evolved in India from these instruments.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'dotara', a plucked string instrument (literally 'two strings'), is popular in the folk music of:",
+    "options": [
+      "Bengal, Assam and eastern India",
+      "Tamil Nadu",
+      "Kerala",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "The dotara is a plucked folk string instrument common in Bengal, Assam and eastern India, used by Baul and folk musicians.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly pairs an instrument with its category? (i) Bansuri – Sushira (ii) Tabla – Avanaddha (iii) Manjira – Ghana",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: the bansuri is a wind (Sushira) instrument, the tabla is a membrane percussion (Avanaddha) instrument, and manjira cymbals are idiophones (Ghana).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'saraswati veena' and 'rudra veena' differ in that the saraswati veena is used in ______ music.",
+    "options": [
+      "Hindustani Dhrupad",
+      "Carnatic",
+      "Sufi",
+      "Punjabi folk"
+    ],
+    "correct_index": 1,
+    "solution": "The saraswati veena is the principal veena of Carnatic music, while the rudra veena (been) is associated with Hindustani Dhrupad.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'shankh' (conch) used in rituals produces sound as a:",
+    "options": [
+      "Stringed instrument",
+      "Wind instrument (Sushira Vadya)",
+      "Membrane drum",
+      "Idiophone"
+    ],
+    "correct_index": 1,
+    "solution": "The shankh (conch shell), blown in temple and ritual contexts, functions as a natural wind instrument (Sushira Vadya).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The revival and global spread of Indian instrumental music in the 20th century owed much to maestros like Ravi Shankar (sitar) and:",
+    "options": [
+      "No one",
+      "Ali Akbar Khan (sarod) and Bismillah Khan (shehnai)",
+      "Only film composers",
+      "Western musicians"
+    ],
+    "correct_index": 1,
+    "solution": "Maestros like Ravi Shankar (sitar), Ali Akbar Khan (sarod), Bismillah Khan (shehnai) and later Zakir Hussain (tabla) brought Indian instrumental music to global audiences.",
+    "difficulty": "medium"
+  }
 ]

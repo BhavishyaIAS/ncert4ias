@@ -1,52 +1,1082 @@
 [
-  {"stem": "The energetic harvest folk dance of Punjab performed by men is __________.", "options": ["Bhangra", "Giddha", "Garba", "Lavani"], "correct_index": 0, "solution": "Bhangra is the vigorous male harvest folk dance of Punjab.", "difficulty": "easy"},
-  {"stem": "The folk dance of Punjab performed by women is __________.", "options": ["Giddha", "Bhangra", "Ghoomar", "Kalbelia"], "correct_index": 0, "solution": "Giddha is the women's folk dance of Punjab.", "difficulty": "medium"},
-  {"stem": "The folk dance 'Garba' is associated with the state of __________.", "options": ["Gujarat", "Rajasthan", "Maharashtra", "Punjab"], "correct_index": 0, "solution": "Garba is a folk dance of Gujarat, performed especially during Navratri.", "difficulty": "easy"},
-  {"stem": "The stick dance 'Dandiya Raas' belongs to __________.", "options": ["Gujarat", "Kerala", "Assam", "Odisha"], "correct_index": 0, "solution": "Dandiya Raas, danced with sticks, belongs to Gujarat.", "difficulty": "medium"},
-  {"stem": "The graceful pirouetting folk dance 'Ghoomar' is associated with __________.", "options": ["Rajasthan", "Punjab", "Bengal", "Tamil Nadu"], "correct_index": 0, "solution": "Ghoomar is a traditional folk dance of Rajasthan.", "difficulty": "medium"},
-  {"stem": "The 'Kalbelia' snake-charmer dance of Rajasthan is on the UNESCO list of __________.", "options": ["Intangible Cultural Heritage", "World Heritage Sites", "Memory of the World", "Ramsar sites"], "correct_index": 0, "solution": "Kalbelia is inscribed on the UNESCO Intangible Cultural Heritage list.", "difficulty": "hard"},
-  {"stem": "The folk dance 'Lavani', known for powerful rhythm, belongs to __________.", "options": ["Maharashtra", "Gujarat", "Kerala", "Assam"], "correct_index": 0, "solution": "Lavani is a folk dance and song form of Maharashtra.", "difficulty": "medium"},
-  {"stem": "The theatrical folk form 'Tamasha' belongs to the state of __________.", "options": ["Maharashtra", "Rajasthan", "Bihar", "Odisha"], "correct_index": 0, "solution": "Tamasha is a folk theatre-dance form of Maharashtra.", "difficulty": "hard"},
-  {"stem": "The folk dance 'Bihu' is associated with __________.", "options": ["Assam", "Bihar", "Bengal", "Manipur"], "correct_index": 0, "solution": "Bihu is the folk dance of Assam, tied to the Bihu festival.", "difficulty": "easy"},
-  {"stem": "The devotional wandering minstrels of Bengal, whose music is a UNESCO Intangible Cultural Heritage, are the __________.", "options": ["Bauls", "Patuas", "Kathaks", "Bhopas"], "correct_index": 0, "solution": "Baul music of Bengal is inscribed on the UNESCO Intangible Cultural Heritage list.", "difficulty": "hard"},
-  {"stem": "The masked/martial folk dance with Purulia, Seraikella and Mayurbhanj styles is __________.", "options": ["Chhau", "Bihu", "Garba", "Lavani"], "correct_index": 0, "solution": "Chhau, with three regional styles, is a UNESCO-listed masked/martial dance of eastern India.", "difficulty": "hard"},
-  {"stem": "The bamboo dance 'Cheraw' belongs to the state of __________.", "options": ["Mizoram", "Nagaland", "Manipur", "Assam"], "correct_index": 0, "solution": "Cheraw, the bamboo dance, is the traditional dance of Mizoram.", "difficulty": "hard"},
-  {"stem": "The 'Rouf' folk dance is associated with __________.", "options": ["Jammu & Kashmir", "Himachal Pradesh", "Punjab", "Rajasthan"], "correct_index": 0, "solution": "Rouf is a traditional folk dance of Jammu & Kashmir.", "difficulty": "hard"},
-  {"stem": "The 'Nati' folk dance, which entered the Guinness records for the largest folk dance, belongs to __________.", "options": ["Himachal Pradesh", "Uttarakhand", "Sikkim", "Meghalaya"], "correct_index": 0, "solution": "The Kullu Nati of Himachal Pradesh set a Guinness record for the largest folk dance.", "difficulty": "hard"},
-  {"stem": "The ritual dance 'Theyyam' belongs to the state of __________.", "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"], "correct_index": 0, "solution": "Theyyam is a ritual dance-worship form of Kerala.", "difficulty": "hard"},
-  {"stem": "The women's circular dance 'Kaikottikali', performed during Onam, belongs to __________.", "options": ["Kerala", "Tamil Nadu", "Karnataka", "Goa"], "correct_index": 0, "solution": "Kaikottikali (Thiruvathirakali) is a Kerala folk dance performed during Onam.", "difficulty": "hard"},
-  {"stem": "The vigorous drum dance 'Dollu Kunitha' belongs to the state of __________.", "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"], "correct_index": 0, "solution": "Dollu Kunitha is a popular drum folk dance of Karnataka.", "difficulty": "hard"},
-  {"stem": "The peacock dance 'Mayilattam' belongs to __________.", "options": ["Tamil Nadu", "Kerala", "Odisha", "Assam"], "correct_index": 0, "solution": "Mayilattam (peacock dance) is a folk dance of Tamil Nadu.", "difficulty": "hard"},
-  {"stem": "The pot dance 'Karagattam' is a folk dance of __________.", "options": ["Tamil Nadu", "Gujarat", "Rajasthan", "Punjab"], "correct_index": 0, "solution": "Karagattam, balancing a pot, is a folk dance of Tamil Nadu.", "difficulty": "hard"},
-  {"stem": "The martial folk dance 'Thang Ta' belongs to the state of __________.", "options": ["Manipur", "Nagaland", "Mizoram", "Assam"], "correct_index": 0, "solution": "Thang Ta is the martial art/dance of Manipur.", "difficulty": "hard"},
-  {"stem": "The 'Singhi Chham' (lion dance) is a folk dance of __________.", "options": ["Sikkim", "Arunachal Pradesh", "Meghalaya", "Nagaland"], "correct_index": 0, "solution": "The Singhi Chham (snow-lion dance) is a folk dance of Sikkim.", "difficulty": "hard"},
-  {"stem": "The 'Wangala' (hundred drums) festival dance belongs to the __________ tribe of Meghalaya.", "options": ["Garo", "Khasi", "Jaintia", "Naga"], "correct_index": 0, "solution": "The Wangala (Hundred Drums) festival is celebrated by the Garo tribe of Meghalaya.", "difficulty": "hard"},
-  {"stem": "The 'Nongkrem' dance is associated with the __________ tribe of Meghalaya.", "options": ["Khasi", "Garo", "Naga", "Bodo"], "correct_index": 0, "solution": "The Nongkrem dance is performed by the Khasi tribe of Meghalaya.", "difficulty": "hard"},
-  {"stem": "The devotional narrative folk form 'Pandavani', popularised by Teejan Bai, belongs to __________.", "options": ["Chhattisgarh", "Madhya Pradesh", "Bihar", "Jharkhand"], "correct_index": 0, "solution": "Pandavani, a narration of the Mahabharata, is from Chhattisgarh; Teejan Bai is its famous exponent.", "difficulty": "hard"},
-  {"stem": "The folk ballad 'Powada', narrating heroic deeds, belongs to __________.", "options": ["Maharashtra", "Rajasthan", "Punjab", "Bengal"], "correct_index": 0, "solution": "Powada is a Marathi folk ballad narrating heroic deeds, notably of Shivaji.", "difficulty": "hard"},
-  {"stem": "The devotional song tradition 'Baul' is centred in __________.", "options": ["Bengal", "Rajasthan", "Punjab", "Assam"], "correct_index": 0, "solution": "Baul is a mystical devotional music tradition of Bengal.", "difficulty": "medium"},
-  {"stem": "The folk dance 'Chholiya', a sword dance, belongs to __________.", "options": ["Uttarakhand", "Himachal Pradesh", "Punjab", "Haryana"], "correct_index": 0, "solution": "Chholiya is a sword folk dance of Uttarakhand (Kumaon).", "difficulty": "hard"},
-  {"stem": "The devotional 'Panthi' dance of the Satnami community belongs to __________.", "options": ["Chhattisgarh", "Odisha", "Bihar", "Jharkhand"], "correct_index": 0, "solution": "Panthi is a devotional folk dance of the Satnami community of Chhattisgarh.", "difficulty": "hard"},
-  {"stem": "The 'Cheraw' bamboo dance requires performers to move between __________.", "options": ["clapping bamboo staves", "burning coals", "water pots", "swords"], "correct_index": 0, "solution": "In Cheraw, dancers step nimbly between bamboo staves clapped in rhythm.", "difficulty": "hard"},
-  {"stem": "The classical-folk dance-drama 'Yakshagana' belongs to __________.", "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"], "correct_index": 0, "solution": "Yakshagana is a traditional dance-drama of Karnataka.", "difficulty": "medium"},
-  {"stem": "The 'Perini Shivatandavam', a warrior dance dedicated to Shiva, is being revived in __________.", "options": ["Telangana", "Kerala", "Odisha", "Assam"], "correct_index": 0, "solution": "Perini Shivatandavam is a warrior dance of Telangana.", "difficulty": "hard"},
-  {"stem": "The 'Bhavai' folk dance, with pots balanced on the head, belongs to __________.", "options": ["Rajasthan/Gujarat", "Kerala", "Assam", "Punjab"], "correct_index": 0, "solution": "Bhavai, balancing several pots on the head, is a folk dance of Rajasthan and Gujarat.", "difficulty": "hard"},
-  {"stem": "The 'Terah Taali' dance, performed with cymbals tied to the body, is from __________.", "options": ["Rajasthan", "Gujarat", "Bengal", "Bihar"], "correct_index": 0, "solution": "Terah Taali is a Rajasthani folk dance using thirteen small cymbals.", "difficulty": "hard"},
-  {"stem": "The 'Raut Nacha' folk dance of cowherds belongs to __________.", "options": ["Chhattisgarh", "Madhya Pradesh", "Odisha", "Jharkhand"], "correct_index": 0, "solution": "Raut Nacha is a folk dance of the Yadav (cowherd) community of Chhattisgarh.", "difficulty": "hard"},
-  {"stem": "The 'Fugdi' and 'Dekhni' folk dances belong to __________.", "options": ["Goa", "Kerala", "Maharashtra", "Karnataka"], "correct_index": 0, "solution": "Fugdi and Dekhni are folk dances of Goa.", "difficulty": "hard"},
-  {"stem": "The solo satirical dance-story form 'Ottamthullal' was created in __________.", "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"], "correct_index": 0, "solution": "Ottamthullal is a solo performance art of Kerala, created by Kunchan Nambiar.", "difficulty": "hard"},
-  {"stem": "The folk music form 'Maand' is a classical folk singing style of __________.", "options": ["Rajasthan", "Punjab", "Bengal", "Kerala"], "correct_index": 0, "solution": "Maand is a semi-classical folk singing style of Rajasthan.", "difficulty": "hard"},
-  {"stem": "The folk song forms 'Kajri' and 'Chaiti', tied to seasons, belong to the __________ region.", "options": ["Uttar Pradesh/Bihar (Bhojpuri)", "Punjab", "Kerala", "Assam"], "correct_index": 0, "solution": "Kajri (monsoon) and Chaiti (spring) are seasonal folk songs of the UP–Bihar (Bhojpuri) region.", "difficulty": "hard"},
-  {"stem": "The 'Alha' folk ballad narrates the heroism of __________.", "options": ["the warriors Alha and Udal", "Shivaji", "Rana Pratap", "Prithviraj only"], "correct_index": 0, "solution": "The Alha ballad narrates the deeds of the medieval heroes Alha and Udal.", "difficulty": "hard"},
-  {"stem": "The 'Jhumar' and 'Jhijhian' folk dances are associated with __________.", "options": ["Bihar/eastern India", "Kerala", "Goa", "Gujarat"], "correct_index": 0, "solution": "Jhumar and Jhijhian are folk dances of the Bihar/eastern region.", "difficulty": "hard"},
-  {"stem": "The 'Hojagiri' folk dance is performed by the Reang community of __________.", "options": ["Tripura", "Mizoram", "Nagaland", "Assam"], "correct_index": 0, "solution": "Hojagiri is a folk dance of the Reang community of Tripura.", "difficulty": "hard"},
-  {"stem": "The martial folk dance 'Paika' belongs to __________.", "options": ["Odisha (and Jharkhand)", "Kerala", "Punjab", "Rajasthan"], "correct_index": 0, "solution": "Paika is a martial folk dance of Odisha and Jharkhand.", "difficulty": "hard"},
-  {"stem": "The 'Charkula' folk dance, in which women balance a multi-tiered lamp, belongs to __________.", "options": ["Uttar Pradesh (Braj)", "Rajasthan", "Bengal", "Assam"], "correct_index": 0, "solution": "Charkula is a folk dance of the Braj region of Uttar Pradesh, balancing a lamp-pyramid.", "difficulty": "hard"},
-  {"stem": "The devotional folk dance 'Garba' is performed especially during the festival of __________.", "options": ["Navratri", "Diwali", "Holi", "Onam"], "correct_index": 0, "solution": "Garba is performed during Navratri in Gujarat.", "difficulty": "medium"},
-  {"stem": "The lion/tiger folk dance 'Puli Kali' (or Kaduvakali) belongs to __________.", "options": ["Kerala", "Tamil Nadu", "Karnataka", "Goa"], "correct_index": 0, "solution": "Puli Kali (tiger dance) is a folk art of Kerala performed during Onam.", "difficulty": "hard"},
-  {"stem": "The 'Lai Haraoba' ritual dance is associated with __________.", "options": ["Manipur", "Assam", "Nagaland", "Tripura"], "correct_index": 0, "solution": "Lai Haraoba is an ancient ritual festival-dance of Manipur.", "difficulty": "hard"},
-  {"stem": "The folk theatre 'Nautanki' is popular in __________.", "options": ["Uttar Pradesh (and North India)", "Kerala", "Assam", "Goa"], "correct_index": 0, "solution": "Nautanki is a popular folk theatre form of Uttar Pradesh and North India.", "difficulty": "hard"},
-  {"stem": "Folk dances of India are generally associated with __________.", "options": ["festivals, seasons and community life", "royal courts only", "temples only", "foreign trade"], "correct_index": 0, "solution": "Folk dances are generally tied to festivals, seasons, harvests and community life.", "difficulty": "easy"},
-  {"stem": "The 'Sambalpuri' and 'Ghumura' folk dances belong to __________.", "options": ["Odisha", "Chhattisgarh", "Bengal", "Jharkhand"], "correct_index": 0, "solution": "Sambalpuri and Ghumura are folk dances of Odisha.", "difficulty": "hard"},
-  {"stem": "The main difference between folk and classical dance is that folk dance is __________.", "options": ["community-based and not bound by codified rules", "governed by the Natya Shastra", "always solo", "performed only in temples"], "correct_index": 0, "solution": "Folk dance is community-based and spontaneous, not bound by the codified rules of the Natya Shastra.", "difficulty": "medium"}
+  {
+    "stem": "The energetic harvest folk dance of Punjab performed by men is __________.",
+    "options": [
+      "Bhangra",
+      "Giddha",
+      "Garba",
+      "Lavani"
+    ],
+    "correct_index": 0,
+    "solution": "Bhangra is the vigorous male harvest folk dance of Punjab.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The folk dance of Punjab performed by women is __________.",
+    "options": [
+      "Giddha",
+      "Bhangra",
+      "Ghoomar",
+      "Kalbelia"
+    ],
+    "correct_index": 0,
+    "solution": "Giddha is the women's folk dance of Punjab.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The folk dance 'Garba' is associated with the state of __________.",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Maharashtra",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Garba is a folk dance of Gujarat, performed especially during Navratri.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The stick dance 'Dandiya Raas' belongs to __________.",
+    "options": [
+      "Gujarat",
+      "Kerala",
+      "Assam",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Dandiya Raas, danced with sticks, belongs to Gujarat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The graceful pirouetting folk dance 'Ghoomar' is associated with __________.",
+    "options": [
+      "Rajasthan",
+      "Punjab",
+      "Bengal",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "Ghoomar is a traditional folk dance of Rajasthan.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Kalbelia' snake-charmer dance of Rajasthan is on the UNESCO list of __________.",
+    "options": [
+      "Intangible Cultural Heritage",
+      "World Heritage Sites",
+      "Memory of the World",
+      "Ramsar sites"
+    ],
+    "correct_index": 0,
+    "solution": "Kalbelia is inscribed on the UNESCO Intangible Cultural Heritage list.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The folk dance 'Lavani', known for powerful rhythm, belongs to __________.",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Kerala",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Lavani is a folk dance and song form of Maharashtra.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The theatrical folk form 'Tamasha' belongs to the state of __________.",
+    "options": [
+      "Maharashtra",
+      "Rajasthan",
+      "Bihar",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Tamasha is a folk theatre-dance form of Maharashtra.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The folk dance 'Bihu' is associated with __________.",
+    "options": [
+      "Assam",
+      "Bihar",
+      "Bengal",
+      "Manipur"
+    ],
+    "correct_index": 0,
+    "solution": "Bihu is the folk dance of Assam, tied to the Bihu festival.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The devotional wandering minstrels of Bengal, whose music is a UNESCO Intangible Cultural Heritage, are the __________.",
+    "options": [
+      "Bauls",
+      "Patuas",
+      "Kathaks",
+      "Bhopas"
+    ],
+    "correct_index": 0,
+    "solution": "Baul music of Bengal is inscribed on the UNESCO Intangible Cultural Heritage list.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The masked/martial folk dance with Purulia, Seraikella and Mayurbhanj styles is __________.",
+    "options": [
+      "Chhau",
+      "Bihu",
+      "Garba",
+      "Lavani"
+    ],
+    "correct_index": 0,
+    "solution": "Chhau, with three regional styles, is a UNESCO-listed masked/martial dance of eastern India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The bamboo dance 'Cheraw' belongs to the state of __________.",
+    "options": [
+      "Mizoram",
+      "Nagaland",
+      "Manipur",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Cheraw, the bamboo dance, is the traditional dance of Mizoram.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Rouf' folk dance is associated with __________.",
+    "options": [
+      "Jammu & Kashmir",
+      "Himachal Pradesh",
+      "Punjab",
+      "Rajasthan"
+    ],
+    "correct_index": 0,
+    "solution": "Rouf is a traditional folk dance of Jammu & Kashmir.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Nati' folk dance, which entered the Guinness records for the largest folk dance, belongs to __________.",
+    "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Sikkim",
+      "Meghalaya"
+    ],
+    "correct_index": 0,
+    "solution": "The Kullu Nati of Himachal Pradesh set a Guinness record for the largest folk dance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The ritual dance 'Theyyam' belongs to the state of __________.",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 0,
+    "solution": "Theyyam is a ritual dance-worship form of Kerala.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The women's circular dance 'Kaikottikali', performed during Onam, belongs to __________.",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Goa"
+    ],
+    "correct_index": 0,
+    "solution": "Kaikottikali (Thiruvathirakali) is a Kerala folk dance performed during Onam.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The vigorous drum dance 'Dollu Kunitha' belongs to the state of __________.",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 0,
+    "solution": "Dollu Kunitha is a popular drum folk dance of Karnataka.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The peacock dance 'Mayilattam' belongs to __________.",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Odisha",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Mayilattam (peacock dance) is a folk dance of Tamil Nadu.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The pot dance 'Karagattam' is a folk dance of __________.",
+    "options": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Rajasthan",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Karagattam, balancing a pot, is a folk dance of Tamil Nadu.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial folk dance 'Thang Ta' belongs to the state of __________.",
+    "options": [
+      "Manipur",
+      "Nagaland",
+      "Mizoram",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Thang Ta is the martial art/dance of Manipur.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Singhi Chham' (lion dance) is a folk dance of __________.",
+    "options": [
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "correct_index": 0,
+    "solution": "The Singhi Chham (snow-lion dance) is a folk dance of Sikkim.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Wangala' (hundred drums) festival dance belongs to the __________ tribe of Meghalaya.",
+    "options": [
+      "Garo",
+      "Khasi",
+      "Jaintia",
+      "Naga"
+    ],
+    "correct_index": 0,
+    "solution": "The Wangala (Hundred Drums) festival is celebrated by the Garo tribe of Meghalaya.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Nongkrem' dance is associated with the __________ tribe of Meghalaya.",
+    "options": [
+      "Khasi",
+      "Garo",
+      "Naga",
+      "Bodo"
+    ],
+    "correct_index": 0,
+    "solution": "The Nongkrem dance is performed by the Khasi tribe of Meghalaya.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The devotional narrative folk form 'Pandavani', popularised by Teejan Bai, belongs to __________.",
+    "options": [
+      "Chhattisgarh",
+      "Madhya Pradesh",
+      "Bihar",
+      "Jharkhand"
+    ],
+    "correct_index": 0,
+    "solution": "Pandavani, a narration of the Mahabharata, is from Chhattisgarh; Teejan Bai is its famous exponent.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The folk ballad 'Powada', narrating heroic deeds, belongs to __________.",
+    "options": [
+      "Maharashtra",
+      "Rajasthan",
+      "Punjab",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Powada is a Marathi folk ballad narrating heroic deeds, notably of Shivaji.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The devotional song tradition 'Baul' is centred in __________.",
+    "options": [
+      "Bengal",
+      "Rajasthan",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Baul is a mystical devotional music tradition of Bengal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The folk dance 'Chholiya', a sword dance, belongs to __________.",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Punjab",
+      "Haryana"
+    ],
+    "correct_index": 0,
+    "solution": "Chholiya is a sword folk dance of Uttarakhand (Kumaon).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The devotional 'Panthi' dance of the Satnami community belongs to __________.",
+    "options": [
+      "Chhattisgarh",
+      "Odisha",
+      "Bihar",
+      "Jharkhand"
+    ],
+    "correct_index": 0,
+    "solution": "Panthi is a devotional folk dance of the Satnami community of Chhattisgarh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Cheraw' bamboo dance requires performers to move between __________.",
+    "options": [
+      "clapping bamboo staves",
+      "burning coals",
+      "water pots",
+      "swords"
+    ],
+    "correct_index": 0,
+    "solution": "In Cheraw, dancers step nimbly between bamboo staves clapped in rhythm.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The classical-folk dance-drama 'Yakshagana' belongs to __________.",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 0,
+    "solution": "Yakshagana is a traditional dance-drama of Karnataka.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Perini Shivatandavam', a warrior dance dedicated to Shiva, is being revived in __________.",
+    "options": [
+      "Telangana",
+      "Kerala",
+      "Odisha",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Perini Shivatandavam is a warrior dance of Telangana.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Bhavai' folk dance, with pots balanced on the head, belongs to __________.",
+    "options": [
+      "Rajasthan/Gujarat",
+      "Kerala",
+      "Assam",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Bhavai, balancing several pots on the head, is a folk dance of Rajasthan and Gujarat.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Terah Taali' dance, performed with cymbals tied to the body, is from __________.",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Bengal",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "solution": "Terah Taali is a Rajasthani folk dance using thirteen small cymbals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Raut Nacha' folk dance of cowherds belongs to __________.",
+    "options": [
+      "Chhattisgarh",
+      "Madhya Pradesh",
+      "Odisha",
+      "Jharkhand"
+    ],
+    "correct_index": 0,
+    "solution": "Raut Nacha is a folk dance of the Yadav (cowherd) community of Chhattisgarh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Fugdi' and 'Dekhni' folk dances belong to __________.",
+    "options": [
+      "Goa",
+      "Kerala",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "correct_index": 0,
+    "solution": "Fugdi and Dekhni are folk dances of Goa.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The solo satirical dance-story form 'Ottamthullal' was created in __________.",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 0,
+    "solution": "Ottamthullal is a solo performance art of Kerala, created by Kunchan Nambiar.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The folk music form 'Maand' is a classical folk singing style of __________.",
+    "options": [
+      "Rajasthan",
+      "Punjab",
+      "Bengal",
+      "Kerala"
+    ],
+    "correct_index": 0,
+    "solution": "Maand is a semi-classical folk singing style of Rajasthan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The folk song forms 'Kajri' and 'Chaiti', tied to seasons, belong to the __________ region.",
+    "options": [
+      "Uttar Pradesh/Bihar (Bhojpuri)",
+      "Punjab",
+      "Kerala",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Kajri (monsoon) and Chaiti (spring) are seasonal folk songs of the UP–Bihar (Bhojpuri) region.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Alha' folk ballad narrates the heroism of __________.",
+    "options": [
+      "the warriors Alha and Udal",
+      "Shivaji",
+      "Rana Pratap",
+      "Prithviraj only"
+    ],
+    "correct_index": 0,
+    "solution": "The Alha ballad narrates the deeds of the medieval heroes Alha and Udal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Jhumar' and 'Jhijhian' folk dances are associated with __________.",
+    "options": [
+      "Bihar/eastern India",
+      "Kerala",
+      "Goa",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Jhumar and Jhijhian are folk dances of the Bihar/eastern region.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Hojagiri' folk dance is performed by the Reang community of __________.",
+    "options": [
+      "Tripura",
+      "Mizoram",
+      "Nagaland",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Hojagiri is a folk dance of the Reang community of Tripura.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial folk dance 'Paika' belongs to __________.",
+    "options": [
+      "Odisha (and Jharkhand)",
+      "Kerala",
+      "Punjab",
+      "Rajasthan"
+    ],
+    "correct_index": 0,
+    "solution": "Paika is a martial folk dance of Odisha and Jharkhand.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Charkula' folk dance, in which women balance a multi-tiered lamp, belongs to __________.",
+    "options": [
+      "Uttar Pradesh (Braj)",
+      "Rajasthan",
+      "Bengal",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Charkula is a folk dance of the Braj region of Uttar Pradesh, balancing a lamp-pyramid.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The devotional folk dance 'Garba' is performed especially during the festival of __________.",
+    "options": [
+      "Navratri",
+      "Diwali",
+      "Holi",
+      "Onam"
+    ],
+    "correct_index": 0,
+    "solution": "Garba is performed during Navratri in Gujarat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lion/tiger folk dance 'Puli Kali' (or Kaduvakali) belongs to __________.",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Goa"
+    ],
+    "correct_index": 0,
+    "solution": "Puli Kali (tiger dance) is a folk art of Kerala performed during Onam.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Lai Haraoba' ritual dance is associated with __________.",
+    "options": [
+      "Manipur",
+      "Assam",
+      "Nagaland",
+      "Tripura"
+    ],
+    "correct_index": 0,
+    "solution": "Lai Haraoba is an ancient ritual festival-dance of Manipur.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The folk theatre 'Nautanki' is popular in __________.",
+    "options": [
+      "Uttar Pradesh (and North India)",
+      "Kerala",
+      "Assam",
+      "Goa"
+    ],
+    "correct_index": 0,
+    "solution": "Nautanki is a popular folk theatre form of Uttar Pradesh and North India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Folk dances of India are generally associated with __________.",
+    "options": [
+      "festivals, seasons and community life",
+      "royal courts only",
+      "temples only",
+      "foreign trade"
+    ],
+    "correct_index": 0,
+    "solution": "Folk dances are generally tied to festivals, seasons, harvests and community life.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'Sambalpuri' and 'Ghumura' folk dances belong to __________.",
+    "options": [
+      "Odisha",
+      "Chhattisgarh",
+      "Bengal",
+      "Jharkhand"
+    ],
+    "correct_index": 0,
+    "solution": "Sambalpuri and Ghumura are folk dances of Odisha.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main difference between folk and classical dance is that folk dance is __________.",
+    "options": [
+      "community-based and not bound by codified rules",
+      "governed by the Natya Shastra",
+      "always solo",
+      "performed only in temples"
+    ],
+    "correct_index": 0,
+    "solution": "Folk dance is community-based and spontaneous, not bound by the codified rules of the Natya Shastra.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Bhangra' and 'Giddha' are the vibrant folk dances of:",
+    "options": [
+      "Gujarat",
+      "Punjab",
+      "Rajasthan",
+      "Kerala"
+    ],
+    "correct_index": 1,
+    "solution": "Bhangra (traditionally male) and Giddha (female) are the energetic folk dances of Punjab, performed at harvest and festive occasions like Baisakhi.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'Garba' and 'Dandiya Raas' folk dances, performed during Navratri, belong to:",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Bengal",
+      "Assam"
+    ],
+    "correct_index": 1,
+    "solution": "Garba (circular dance around a lamp/idol) and Dandiya Raas (with sticks) are the celebrated Navratri folk dances of Gujarat.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'Bihu' dance, performed during the Bihu festival, is the folk dance of:",
+    "options": [
+      "Odisha",
+      "Assam",
+      "Manipur",
+      "Tripura"
+    ],
+    "correct_index": 1,
+    "solution": "The Bihu dance is Assam's joyous folk dance performed during the Bihu festival marking the Assamese new year and harvest, with brisk steps and drum (dhol) accompaniment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Ghoomar', a graceful twirling folk dance traditionally performed by women, is from:",
+    "options": [
+      "Rajasthan",
+      "Kerala",
+      "Tamil Nadu",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Ghoomar is a traditional folk dance of Rajasthan (of the Bhil and Rajput communities), performed by women twirling in flowing ghagras.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Lavani' folk dance-song form, known for powerful rhythm and performed to the dholki, is from:",
+    "options": [
+      "Maharashtra",
+      "Punjab",
+      "Gujarat",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Lavani is a popular folk form of Maharashtra combining song and dance, performed to the beat of the dholki, often with themes of love and social commentary.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Chhau' dance, a semi-classical masked martial dance, is associated with West Bengal, Jharkhand and:",
+    "options": [
+      "Kerala",
+      "Odisha",
+      "Punjab",
+      "Gujarat"
+    ],
+    "correct_index": 1,
+    "solution": "Chhau is a martial, masked/semi-classical dance of the tri-junction of West Bengal (Purulia), Jharkhand (Seraikella) and Odisha (Mayurbhanj); it is on UNESCO's list.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Chhau' dance was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in:",
+    "options": [
+      "2008",
+      "2010",
+      "2015",
+      "2021"
+    ],
+    "correct_index": 1,
+    "solution": "Chhau dance was inscribed on the UNESCO Intangible Cultural Heritage list in 2010, recognising its blend of martial arts, folk and tribal traditions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Rouf' is a graceful folk dance performed by women of:",
+    "options": [
+      "Kashmir",
+      "Kerala",
+      "Karnataka",
+      "Nagaland"
+    ],
+    "correct_index": 0,
+    "solution": "Rouf (Ruf) is a traditional folk dance of Kashmir performed by women, especially during Eid and spring, involving rhythmic footwork in facing rows.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Cheraw' or bamboo dance, in which dancers step between clapping bamboo poles, is from:",
+    "options": [
+      "Mizoram",
+      "Kerala",
+      "Rajasthan",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "solution": "Cheraw, the famous bamboo dance of Mizoram, involves dancers stepping deftly between bamboo staves clapped together in rhythm.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Bidesia' is a folk theatre-dance form of:",
+    "options": [
+      "Bihar",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Bidesia is a popular folk theatre-cum-dance form of Bihar, developed by Bhikhari Thakur, dealing with social themes like migration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Padayani' (Padeni), a ritual folk art with colourful masks (kolams), is from:",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 0,
+    "solution": "Padayani is a traditional ritual folk dance of central Kerala performed in Bhagavati temples, featuring large, elaborately painted masks (kolams).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Theyyam', a ritualistic dance-worship form where the performer embodies a deity, belongs to:",
+    "options": [
+      "North Kerala",
+      "Punjab",
+      "Bengal",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Theyyam is a vibrant ritual art of North Kerala in which the elaborately costumed and painted performer is believed to become a manifestation of the deity, worshipped by devotees.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Dollu Kunitha' drum dance is a folk form of:",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Odisha",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Dollu Kunitha is a popular drum dance of Karnataka, performed with large drums slung around the neck, combining vigorous movement and powerful rhythm.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Karagattam' / 'Karagam', a folk dance balancing a decorated pot on the head, is from:",
+    "options": [
+      "Tamil Nadu",
+      "Punjab",
+      "Bengal",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Karagattam is a Tamil Nadu folk dance in which performers balance a decorated pot (karagam) on their heads, traditionally honouring the rain goddess Mariamman.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Ghumura' dance, a blend of folk and tribal traditions, belongs to which state?",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Punjab",
+      "Manipur"
+    ],
+    "correct_index": 0,
+    "solution": "Ghumura is a folk dance of Odisha (Kalahandi region), performed with the ghumura drum, blending tribal and folk elements, often at Nuakhai and Dussehra.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Hojagiri', a folk dance performed by women balancing on earthen pitchers, is from:",
+    "options": [
+      "Tripura",
+      "Kerala",
+      "Rajasthan",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "solution": "Hojagiri is a graceful folk dance of the Reang community of Tripura, in which women dance while balancing on earthen pitchers with bottles and lamps on their heads.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Kalbelia' dance, performed by a snake-charmer community and recognised by UNESCO, is from:",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Punjab",
+      "Haryana"
+    ],
+    "correct_index": 0,
+    "solution": "Kalbelia is the sinuous dance of the Kalbelia (snake-charmer) community of Rajasthan, inscribed on UNESCO's Intangible Cultural Heritage list in 2010.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Bardo Chham' and 'Aji Lamu' are folk/masked dances of which northeastern state?",
+    "options": [
+      "Arunachal Pradesh",
+      "Kerala",
+      "Gujarat",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Bardo Chham and Aji Lamu are traditional folk and mask dances of Arunachal Pradesh, reflecting the state's tribal and Buddhist cultural heritage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Cham' dance, a masked ritual dance, is performed in the monasteries of:",
+    "options": [
+      "Ladakh, Sikkim and Buddhist Himalayan regions",
+      "Tamil Nadu",
+      "Kerala",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "The Cham dance is a vibrant masked ritual dance performed by Buddhist monks in the monasteries (gompas) of Ladakh, Sikkim, Arunachal and other Himalayan regions during festivals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Fugdi' and 'Dekhni' are folk dances of:",
+    "options": [
+      "Goa",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Fugdi and Dekhni are traditional folk dances of Goa, performed by women during festivals, blending Indian and Portuguese-influenced cultural elements.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Sattriya'-linked folk and the 'Jhumur' dances are found in:",
+    "options": [
+      "Assam and eastern tea-garden regions",
+      "Kerala",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Jhumur is a folk dance of the tea-garden communities of Assam and eastern India; Assam is also home to the classical Sattriya, distinguishing folk from classical forms.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Raut Nacha' is a folk dance of the Yadav/cowherd community in:",
+    "options": [
+      "Chhattisgarh",
+      "Kerala",
+      "Tamil Nadu",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Raut Nacha is a folk dance of the Yadav (cowherd) community of Chhattisgarh, performed around Diwali, symbolically linked to Krishna's cowherd traditions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Panthi' dance, associated with the Satnami community, is from:",
+    "options": [
+      "Chhattisgarh",
+      "Kerala",
+      "Bengal",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Panthi is a devotional folk dance of the Satnami community of Chhattisgarh, performed in honour of their guru Baba Ghasidas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Tarangamel' and folk revelry dances during Shigmo/Carnival are associated with:",
+    "options": [
+      "Goa",
+      "Kerala",
+      "Assam",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "solution": "Tarangamel is a colourful folk dance of Goa performed during Shigmo and the Carnival, with youths waving flags and streamers, celebrating unity and joy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The folk dance 'Cheraw' and 'Khuallam' represent the culture of the:",
+    "options": [
+      "Mizo people",
+      "Tamil people",
+      "Rajputs",
+      "Bengalis"
+    ],
+    "correct_index": 0,
+    "solution": "Cheraw (bamboo dance) and Khuallam are traditional dances of the Mizo people of Mizoram, reflecting their community and hospitality traditions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Wangala', the harvest festival dance of the Garo tribe with the 'hundred drums', is celebrated in:",
+    "options": [
+      "Meghalaya",
+      "Kerala",
+      "Punjab",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Wangala is the harvest festival of the Garo people of Meghalaya, featuring the '100 drums' dance in honour of Saljong, the sun-god of fertility.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Nongkrem' dance is a religious festival dance of the Khasi people of:",
+    "options": [
+      "Meghalaya",
+      "Nagaland",
+      "Manipur",
+      "Mizoram"
+    ],
+    "correct_index": 0,
+    "solution": "The Nongkrem dance is performed during the Ka Pomblang Nongkrem festival by the Khasi people of Meghalaya to thank the deity for a good harvest.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Hornbill'-associated war dances and folk performances are showcased at the Hornbill Festival of:",
+    "options": [
+      "Nagaland",
+      "Kerala",
+      "Gujarat",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "solution": "The Hornbill Festival of Nagaland showcases the folk dances, war dances, music and culture of the state's Naga tribes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Dalkhai' is a popular folk dance of the tribal women of western:",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Dalkhai is a vibrant folk dance of western Odisha (Sambalpur region), performed by tribal women during festivals like Dussehra, accompanied by the dhol.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Bhavai', a folk dance where performers balance multiple pots while dancing on the edge of a plate/glass, is from:",
+    "options": [
+      "Rajasthan/Gujarat",
+      "Kerala",
+      "Assam",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Bhavai is a spectacular folk dance of Rajasthan and Gujarat in which women balance many earthen pots on their heads while dancing on the rim of a plate or glass edges.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The folk song-dance 'Maand' is a classical folk style of Rajasthan associated with singers like:",
+    "options": [
+      "Allah Jilai Bai",
+      "Lata Mangeshkar",
+      "M.S. Subbulakshmi",
+      "Begum Akhtar"
+    ],
+    "correct_index": 0,
+    "solution": "Maand is a refined folk-classical singing style of Rajasthan (e.g. the song 'Kesariya Balam'), with Allah Jilai Bai among its noted exponents.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Jawara' folk dance, performed with baskets of wheat symbolising a good harvest, is from:",
+    "options": [
+      "Madhya Pradesh (Bundelkhand)",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Jawara is a harvest folk dance of the Bundelkhand region of Madhya Pradesh, where women balance baskets of jawara (wheat) on their heads.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Matki' and 'Phulpati' dances are folk forms of:",
+    "options": [
+      "Madhya Pradesh",
+      "Kerala",
+      "Assam",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Matki (dancing while balancing a matki/pot) and Phulpati are folk dances of Madhya Pradesh, particularly of the Malwa region.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Charkula' dance, in which women balance a large multi-tiered lamp on their heads, is from the Braj region of:",
+    "options": [
+      "Uttar Pradesh",
+      "Kerala",
+      "Tamil Nadu",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Charkula is a folk dance of the Braj region (Uttar Pradesh) in which veiled women dance balancing a large pyramid-shaped structure of lit lamps on their heads.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Kummi' and 'Kolattam' are folk dances of:",
+    "options": [
+      "Tamil Nadu",
+      "Punjab",
+      "Bengal",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Kummi (clapping in a circle) and Kolattam (with sticks, similar to Dandiya) are traditional women's folk dances of Tamil Nadu, performed during festivals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Tippani' folk dance, performed by women workers using long sticks (tippani), originates from:",
+    "options": [
+      "Gujarat (Saurashtra)",
+      "Kerala",
+      "Assam",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Tippani is a folk dance of the Saurashtra region of Gujarat, originally performed by women labourers who used the tippani (a long stick) to beat the floor.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Rauf' and 'Hikat' folk dances belong to which region's cultural tradition?",
+    "options": [
+      "Kashmir",
+      "Kerala",
+      "Tamil Nadu",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Rauf and Hikat are traditional folk dances of Kashmir, performed by women during festive and spring occasions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Singhi Chham', the snow lion dance, is a masked dance of:",
+    "options": [
+      "Sikkim",
+      "Kerala",
+      "Gujarat",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "Singhi Chham is a masked snow-lion dance of Sikkim, performed by the Bhutia community, symbolising Mount Khangchendzonga and its guardian.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Folk music instruments like the 'algoza' (double flute) and 'khartal' are characteristic of:",
+    "options": [
+      "Rajasthan/Punjab folk music",
+      "Carnatic classical",
+      "Kerala temple music",
+      "Bengali baul"
+    ],
+    "correct_index": 0,
+    "solution": "The algoza (paired flute) and khartal (wooden clappers) are characteristic folk instruments of Rajasthan and Punjab, accompanying their folk songs and dances.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly matches a folk dance with its state? (i) Bihu – Assam (ii) Ghoomar – Rajasthan (iii) Lavani – Maharashtra",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Bihu (Assam), Ghoomar (Rajasthan) and Lavani (Maharashtra) are classic folk dances of their respective states.",
+    "difficulty": "medium"
+  }
 ]

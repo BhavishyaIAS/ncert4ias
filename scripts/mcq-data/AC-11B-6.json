@@ -1,52 +1,1082 @@
 [
-  {"stem": "The four traditional types of Indian puppetry are string, shadow, rod and __________.", "options": ["glove (hand)", "electronic", "paper", "metal"], "correct_index": 0, "solution": "Indian puppetry has four types: string, shadow, rod and glove (hand) puppets.", "difficulty": "medium"},
-  {"stem": "The string-puppet (marionette) tradition 'Kathputli' belongs to __________.", "options": ["Rajasthan", "Kerala", "Bengal", "Andhra Pradesh"], "correct_index": 0, "solution": "Kathputli is the famous string-puppet tradition of Rajasthan.", "difficulty": "medium"},
-  {"stem": "The string puppets of Odisha are called __________.", "options": ["Kundhei", "Kathputli", "Gombeyatta", "Bommalattam"], "correct_index": 0, "solution": "Kundhei are the string puppets of Odisha.", "difficulty": "hard"},
-  {"stem": "The string-puppet form 'Gombeyatta' belongs to __________.", "options": ["Karnataka", "Tamil Nadu", "Kerala", "Rajasthan"], "correct_index": 0, "solution": "Gombeyatta is the string-puppet tradition of Karnataka.", "difficulty": "hard"},
-  {"stem": "The shadow-puppet tradition 'Tholu Bommalata' belongs to __________.", "options": ["Andhra Pradesh", "Rajasthan", "Bengal", "Assam"], "correct_index": 0, "solution": "Tholu Bommalata is the leather shadow-puppet tradition of Andhra Pradesh.", "difficulty": "hard"},
-  {"stem": "The shadow-puppet form 'Ravanachhaya' belongs to __________.", "options": ["Odisha", "Kerala", "Karnataka", "Tamil Nadu"], "correct_index": 0, "solution": "Ravanachhaya is the shadow-puppet tradition of Odisha.", "difficulty": "hard"},
-  {"stem": "The shadow-puppet tradition 'Tholpavakoothu' belongs to __________.", "options": ["Kerala", "Andhra Pradesh", "Karnataka", "Maharashtra"], "correct_index": 0, "solution": "Tholpavakoothu is the shadow-puppet tradition of Kerala, performed in temples.", "difficulty": "hard"},
-  {"stem": "The shadow puppets of Karnataka are called __________.", "options": ["Togalu Gombeyatta", "Tholu Bommalata", "Ravanachhaya", "Kundhei"], "correct_index": 0, "solution": "Togalu Gombeyatta are the shadow puppets of Karnataka.", "difficulty": "hard"},
-  {"stem": "The rod-puppet tradition 'Putul Nautch' belongs to __________.", "options": ["West Bengal", "Rajasthan", "Kerala", "Punjab"], "correct_index": 0, "solution": "Putul Nautch (Putul Nach) is the rod-puppet tradition of West Bengal.", "difficulty": "hard"},
-  {"stem": "The rod-puppet tradition 'Yampuri' belongs to __________.", "options": ["Bihar", "Odisha", "Assam", "Gujarat"], "correct_index": 0, "solution": "Yampuri is the wooden rod-puppet tradition of Bihar.", "difficulty": "hard"},
-  {"stem": "The glove-puppet tradition 'Pavakoothu' belongs to __________.", "options": ["Kerala", "Rajasthan", "Bengal", "Karnataka"], "correct_index": 0, "solution": "Pavakoothu is the glove-puppet tradition of Kerala.", "difficulty": "hard"},
-  {"stem": "The puppet tradition 'Bommalattam' of Tamil Nadu combines rod and __________ puppets.", "options": ["string", "shadow", "glove", "paper"], "correct_index": 0, "solution": "Bommalattam of Tamil Nadu combines rod and string puppetry.", "difficulty": "hard"},
-  {"stem": "Shadow puppets are made of __________ and shown against a lit screen.", "options": ["leather (translucent)", "cloth", "metal", "clay"], "correct_index": 0, "solution": "Shadow puppets are cut from translucent leather and shown against a back-lit screen.", "difficulty": "medium"},
-  {"stem": "Traditional Indian puppet plays usually draw their stories from the __________.", "options": ["epics and local legends", "Mughal chronicles", "European tales", "modern news"], "correct_index": 0, "solution": "Puppet plays usually enact stories from the epics (Ramayana, Mahabharata) and local legends.", "difficulty": "medium"},
-  {"stem": "The ancient martial art of Kerala, considered one of the oldest in the world, is __________.", "options": ["Kalaripayattu", "Silambam", "Gatka", "Thang-Ta"], "correct_index": 0, "solution": "Kalaripayattu of Kerala is one of the oldest martial arts in the world.", "difficulty": "medium"},
-  {"stem": "The stick/staff martial art 'Silambam' belongs to __________.", "options": ["Tamil Nadu", "Kerala", "Punjab", "Manipur"], "correct_index": 0, "solution": "Silambam is a staff-fighting martial art of Tamil Nadu.", "difficulty": "hard"},
-  {"stem": "The martial art 'Gatka', using swords and sticks, is associated with the __________ of Punjab.", "options": ["Sikhs", "Jats only", "Rajputs", "Marathas"], "correct_index": 0, "solution": "Gatka is a martial art associated with the Sikhs of Punjab.", "difficulty": "hard"},
-  {"stem": "The martial art 'Thang-Ta' (Huyen Langlon) belongs to __________.", "options": ["Manipur", "Mizoram", "Nagaland", "Assam"], "correct_index": 0, "solution": "Thang-Ta (Huyen Langlon) is the martial art of Manipur.", "difficulty": "hard"},
-  {"stem": "The martial art 'Mardani Khel' is associated with __________.", "options": ["Maharashtra", "Punjab", "Kerala", "Tamil Nadu"], "correct_index": 0, "solution": "Mardani Khel is a martial art of Maharashtra, associated with the Marathas.", "difficulty": "hard"},
-  {"stem": "The traditional Indian wrestling practised in akharas is called __________.", "options": ["Kushti (Pehlwani)", "Silambam", "Gatka", "Mallakhamba"], "correct_index": 0, "solution": "Kushti (Pehlwani) is traditional Indian wrestling practised in akharas.", "difficulty": "medium"},
-  {"stem": "The traditional sport in which a gymnast performs feats on a vertical wooden pole or rope is __________.", "options": ["Mallakhamba", "Silambam", "Gatka", "Kalaripayattu"], "correct_index": 0, "solution": "Mallakhamba involves gymnastic feats on a pole or hanging rope.", "difficulty": "hard"},
-  {"stem": "Mallakhamba is especially associated with the state of __________.", "options": ["Maharashtra", "Kerala", "Punjab", "Manipur"], "correct_index": 0, "solution": "Mallakhamba is especially associated with Maharashtra and Madhya Pradesh.", "difficulty": "hard"},
-  {"stem": "The archery-based festival martial tradition 'Thoda' belongs to __________.", "options": ["Himachal Pradesh", "Uttarakhand", "Sikkim", "Manipur"], "correct_index": 0, "solution": "Thoda is an archery-based martial tradition of Himachal Pradesh.", "difficulty": "hard"},
-  {"stem": "The traditional wrestling 'Inbuan' belongs to __________.", "options": ["Mizoram", "Nagaland", "Assam", "Tripura"], "correct_index": 0, "solution": "Inbuan is a traditional wrestling form of Mizoram.", "difficulty": "hard"},
-  {"stem": "According to legend, Kalaripayattu is linked to the spread of martial arts to __________ through Bodhidharma.", "options": ["East Asia (China)", "Europe", "Africa", "the Americas"], "correct_index": 0, "solution": "Legend links Kalaripayattu (via Bodhidharma) to the martial arts traditions of East Asia.", "difficulty": "hard"},
-  {"stem": "The martial art 'Cheibi Gad-ga' (sword and shield) belongs to __________.", "options": ["Manipur", "Kerala", "Punjab", "Tamil Nadu"], "correct_index": 0, "solution": "Cheibi Gad-ga is a sword-and-shield martial art of Manipur.", "difficulty": "hard"},
-  {"stem": "The martial-art dance 'Chhau' incorporates movements derived from __________.", "options": ["martial training and combat", "temple ritual only", "farming", "hunting only"], "correct_index": 0, "solution": "Chhau incorporates martial and combat-based movements in its dance.", "difficulty": "medium"},
-  {"stem": "The wrestling-boxing martial art 'Musti Yuddha' is traditionally practised in __________.", "options": ["Varanasi", "Amritsar", "Madurai", "Imphal"], "correct_index": 0, "solution": "Musti Yuddha, an unarmed martial art, is traditionally associated with Varanasi.", "difficulty": "hard"},
-  {"stem": "Kalaripayattu is practised in a training arena called a __________.", "options": ["kalari", "akhara", "gharana", "sattra"], "correct_index": 0, "solution": "Kalaripayattu is practised in a kalari (training pit/arena).", "difficulty": "hard"},
-  {"stem": "The puppeteers manipulate string puppets (marionettes) using __________.", "options": ["strings attached to the puppet's joints", "rods from below", "their hands inside the puppet", "a lit screen"], "correct_index": 0, "solution": "String puppets are controlled by strings attached to the puppet's joints from above.", "difficulty": "medium"},
-  {"stem": "In glove puppetry, the puppet is worn on the __________.", "options": ["hand like a glove", "head", "foot", "a rod"], "correct_index": 0, "solution": "Glove (hand) puppets are worn on the hand and manipulated by the fingers.", "difficulty": "medium"},
-  {"stem": "In rod puppetry, the puppet is supported and moved by __________.", "options": ["rods from below", "strings from above", "the hand inside", "a screen"], "correct_index": 0, "solution": "Rod puppets are supported and moved by rods, usually from below.", "difficulty": "medium"},
-  {"stem": "The Kathputli puppeteers of Rajasthan traditionally belong to the __________ community.", "options": ["Bhat", "Bhopa", "Manganiyar", "Langa"], "correct_index": 0, "solution": "The Bhat community traditionally performs Kathputli puppetry in Rajasthan.", "difficulty": "hard"},
-  {"stem": "The martial arts of India were traditionally linked with __________.", "options": ["warrior training and physical culture", "temple painting", "manuscript writing", "trade"], "correct_index": 0, "solution": "Indian martial arts were linked with warrior training and physical culture.", "difficulty": "medium"},
-  {"stem": "The shadow-puppet play is performed with the puppets held between a lamp and a __________.", "options": ["white cloth screen", "mirror", "wall of stone", "pool of water"], "correct_index": 0, "solution": "Shadow puppets are held between a lamp and a white cloth screen, casting shadows for the audience.", "difficulty": "medium"},
-  {"stem": "The martial art 'Lathi' khela (stick fighting) is popular in __________.", "options": ["Bengal and Punjab", "Kerala", "Manipur", "Goa"], "correct_index": 0, "solution": "Lathi (stick) fighting is a traditional martial practice in Bengal and Punjab.", "difficulty": "hard"},
-  {"stem": "The martial art of Kerala, Kalaripayattu, integrates combat with __________.", "options": ["healing (marma therapy) and yoga", "puppetry", "painting", "music only"], "correct_index": 0, "solution": "Kalaripayattu integrates combat techniques with marma (pressure-point) healing and body control.", "difficulty": "hard"},
-  {"stem": "The puppet form used in temple rituals in Kerala to narrate the Ramayana is __________.", "options": ["Tholpavakoothu", "Kathputli", "Putul Nautch", "Yampuri"], "correct_index": 0, "solution": "Tholpavakoothu is the ritual shadow-puppet form of Kerala temples, narrating the Ramayana.", "difficulty": "hard"},
-  {"stem": "The largest puppets, worked with rods, in Bengal are the __________.", "options": ["Putul Nach rod puppets", "shadow puppets", "glove puppets", "Kathputli"], "correct_index": 0, "solution": "Bengal's Putul Nach uses large rod puppets.", "difficulty": "hard"},
-  {"stem": "Indian puppetry is significant as a __________ folk art that preserves storytelling traditions.", "options": ["living", "extinct", "foreign", "purely modern"], "correct_index": 0, "solution": "Puppetry is a living folk art that preserves traditional storytelling.", "difficulty": "easy"},
-  {"stem": "The martial art 'Kalaripayattu' is believed to be __________ years old, one of the oldest.", "options": ["over a thousand", "less than a hundred", "exactly fifty", "recent"], "correct_index": 0, "solution": "Kalaripayattu is regarded as over a thousand years old, among the oldest surviving martial arts.", "difficulty": "medium"},
-  {"stem": "The traditional glove-puppet play of Odisha, Uttar Pradesh and Kerala uses puppets made of __________.", "options": ["cloth and papier-mâché heads", "leather", "metal", "glass"], "correct_index": 0, "solution": "Glove puppets typically have cloth bodies with papier-mâché or wooden heads.", "difficulty": "hard"},
-  {"stem": "Which of the following is a shadow-puppet tradition?", "options": ["Ravanachhaya (Odisha)", "Kathputli (Rajasthan)", "Putul Nautch (Bengal)", "Yampuri (Bihar)"], "correct_index": 0, "solution": "Ravanachhaya of Odisha is a shadow-puppet tradition; the others are string/rod puppetry.", "difficulty": "medium"},
-  {"stem": "Which of the following is a string-puppet tradition?", "options": ["Kathputli (Rajasthan)", "Tholu Bommalata (Andhra)", "Ravanachhaya (Odisha)", "Tholpavakoothu (Kerala)"], "correct_index": 0, "solution": "Kathputli of Rajasthan is a string-puppet tradition; the others are shadow puppetry.", "difficulty": "medium"},
-  {"stem": "Martial arts in India are often accompanied by __________ during performance/festivals.", "options": ["drums and music", "silence only", "puppets", "shadow screens"], "correct_index": 0, "solution": "Indian martial arts performances are often accompanied by drums and music.", "difficulty": "medium"},
-  {"stem": "The martial dance 'Paika Akhada' is associated with __________.", "options": ["Odisha", "Kerala", "Punjab", "Manipur"], "correct_index": 0, "solution": "Paika Akhada is a martial dance tradition of Odisha.", "difficulty": "hard"},
-  {"stem": "Puppetry and martial traditions together form part of India's __________ heritage.", "options": ["living performing-arts", "architectural", "literary only", "colonial"], "correct_index": 0, "solution": "Puppetry and martial arts are part of India's living performing-arts heritage.", "difficulty": "easy"},
-  {"stem": "The martial art associated with the Nihang Sikhs and displayed at Hola Mohalla is __________.", "options": ["Gatka", "Silambam", "Kalaripayattu", "Thang-Ta"], "correct_index": 0, "solution": "Gatka is displayed by the Nihang Sikhs during the Hola Mohalla festival.", "difficulty": "hard"},
-  {"stem": "The primary purpose of traditional puppet theatre was to __________.", "options": ["entertain and educate through moral/epic stories", "record taxes", "train soldiers", "map trade"], "correct_index": 0, "solution": "Puppet theatre entertained and educated audiences through moral and epic stories.", "difficulty": "medium"},
-  {"stem": "The martial art most associated with the state of Kerala is __________.", "options": ["Kalaripayattu", "Silambam", "Gatka", "Mardani Khel"], "correct_index": 0, "solution": "Kalaripayattu is the martial art most associated with Kerala.", "difficulty": "easy"}
+  {
+    "stem": "The four traditional types of Indian puppetry are string, shadow, rod and __________.",
+    "options": [
+      "glove (hand)",
+      "electronic",
+      "paper",
+      "metal"
+    ],
+    "correct_index": 0,
+    "solution": "Indian puppetry has four types: string, shadow, rod and glove (hand) puppets.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The string-puppet (marionette) tradition 'Kathputli' belongs to __________.",
+    "options": [
+      "Rajasthan",
+      "Kerala",
+      "Bengal",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 0,
+    "solution": "Kathputli is the famous string-puppet tradition of Rajasthan.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The string puppets of Odisha are called __________.",
+    "options": [
+      "Kundhei",
+      "Kathputli",
+      "Gombeyatta",
+      "Bommalattam"
+    ],
+    "correct_index": 0,
+    "solution": "Kundhei are the string puppets of Odisha.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The string-puppet form 'Gombeyatta' belongs to __________.",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Kerala",
+      "Rajasthan"
+    ],
+    "correct_index": 0,
+    "solution": "Gombeyatta is the string-puppet tradition of Karnataka.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The shadow-puppet tradition 'Tholu Bommalata' belongs to __________.",
+    "options": [
+      "Andhra Pradesh",
+      "Rajasthan",
+      "Bengal",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Tholu Bommalata is the leather shadow-puppet tradition of Andhra Pradesh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The shadow-puppet form 'Ravanachhaya' belongs to __________.",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "Ravanachhaya is the shadow-puppet tradition of Odisha.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The shadow-puppet tradition 'Tholpavakoothu' belongs to __________.",
+    "options": [
+      "Kerala",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Maharashtra"
+    ],
+    "correct_index": 0,
+    "solution": "Tholpavakoothu is the shadow-puppet tradition of Kerala, performed in temples.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The shadow puppets of Karnataka are called __________.",
+    "options": [
+      "Togalu Gombeyatta",
+      "Tholu Bommalata",
+      "Ravanachhaya",
+      "Kundhei"
+    ],
+    "correct_index": 0,
+    "solution": "Togalu Gombeyatta are the shadow puppets of Karnataka.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rod-puppet tradition 'Putul Nautch' belongs to __________.",
+    "options": [
+      "West Bengal",
+      "Rajasthan",
+      "Kerala",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Putul Nautch (Putul Nach) is the rod-puppet tradition of West Bengal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rod-puppet tradition 'Yampuri' belongs to __________.",
+    "options": [
+      "Bihar",
+      "Odisha",
+      "Assam",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Yampuri is the wooden rod-puppet tradition of Bihar.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The glove-puppet tradition 'Pavakoothu' belongs to __________.",
+    "options": [
+      "Kerala",
+      "Rajasthan",
+      "Bengal",
+      "Karnataka"
+    ],
+    "correct_index": 0,
+    "solution": "Pavakoothu is the glove-puppet tradition of Kerala.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The puppet tradition 'Bommalattam' of Tamil Nadu combines rod and __________ puppets.",
+    "options": [
+      "string",
+      "shadow",
+      "glove",
+      "paper"
+    ],
+    "correct_index": 0,
+    "solution": "Bommalattam of Tamil Nadu combines rod and string puppetry.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Shadow puppets are made of __________ and shown against a lit screen.",
+    "options": [
+      "leather (translucent)",
+      "cloth",
+      "metal",
+      "clay"
+    ],
+    "correct_index": 0,
+    "solution": "Shadow puppets are cut from translucent leather and shown against a back-lit screen.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Traditional Indian puppet plays usually draw their stories from the __________.",
+    "options": [
+      "epics and local legends",
+      "Mughal chronicles",
+      "European tales",
+      "modern news"
+    ],
+    "correct_index": 0,
+    "solution": "Puppet plays usually enact stories from the epics (Ramayana, Mahabharata) and local legends.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ancient martial art of Kerala, considered one of the oldest in the world, is __________.",
+    "options": [
+      "Kalaripayattu",
+      "Silambam",
+      "Gatka",
+      "Thang-Ta"
+    ],
+    "correct_index": 0,
+    "solution": "Kalaripayattu of Kerala is one of the oldest martial arts in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The stick/staff martial art 'Silambam' belongs to __________.",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Punjab",
+      "Manipur"
+    ],
+    "correct_index": 0,
+    "solution": "Silambam is a staff-fighting martial art of Tamil Nadu.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial art 'Gatka', using swords and sticks, is associated with the __________ of Punjab.",
+    "options": [
+      "Sikhs",
+      "Jats only",
+      "Rajputs",
+      "Marathas"
+    ],
+    "correct_index": 0,
+    "solution": "Gatka is a martial art associated with the Sikhs of Punjab.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial art 'Thang-Ta' (Huyen Langlon) belongs to __________.",
+    "options": [
+      "Manipur",
+      "Mizoram",
+      "Nagaland",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Thang-Ta (Huyen Langlon) is the martial art of Manipur.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial art 'Mardani Khel' is associated with __________.",
+    "options": [
+      "Maharashtra",
+      "Punjab",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "Mardani Khel is a martial art of Maharashtra, associated with the Marathas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The traditional Indian wrestling practised in akharas is called __________.",
+    "options": [
+      "Kushti (Pehlwani)",
+      "Silambam",
+      "Gatka",
+      "Mallakhamba"
+    ],
+    "correct_index": 0,
+    "solution": "Kushti (Pehlwani) is traditional Indian wrestling practised in akharas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The traditional sport in which a gymnast performs feats on a vertical wooden pole or rope is __________.",
+    "options": [
+      "Mallakhamba",
+      "Silambam",
+      "Gatka",
+      "Kalaripayattu"
+    ],
+    "correct_index": 0,
+    "solution": "Mallakhamba involves gymnastic feats on a pole or hanging rope.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Mallakhamba is especially associated with the state of __________.",
+    "options": [
+      "Maharashtra",
+      "Kerala",
+      "Punjab",
+      "Manipur"
+    ],
+    "correct_index": 0,
+    "solution": "Mallakhamba is especially associated with Maharashtra and Madhya Pradesh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The archery-based festival martial tradition 'Thoda' belongs to __________.",
+    "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Sikkim",
+      "Manipur"
+    ],
+    "correct_index": 0,
+    "solution": "Thoda is an archery-based martial tradition of Himachal Pradesh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The traditional wrestling 'Inbuan' belongs to __________.",
+    "options": [
+      "Mizoram",
+      "Nagaland",
+      "Assam",
+      "Tripura"
+    ],
+    "correct_index": 0,
+    "solution": "Inbuan is a traditional wrestling form of Mizoram.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "According to legend, Kalaripayattu is linked to the spread of martial arts to __________ through Bodhidharma.",
+    "options": [
+      "East Asia (China)",
+      "Europe",
+      "Africa",
+      "the Americas"
+    ],
+    "correct_index": 0,
+    "solution": "Legend links Kalaripayattu (via Bodhidharma) to the martial arts traditions of East Asia.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial art 'Cheibi Gad-ga' (sword and shield) belongs to __________.",
+    "options": [
+      "Manipur",
+      "Kerala",
+      "Punjab",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "Cheibi Gad-ga is a sword-and-shield martial art of Manipur.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial-art dance 'Chhau' incorporates movements derived from __________.",
+    "options": [
+      "martial training and combat",
+      "temple ritual only",
+      "farming",
+      "hunting only"
+    ],
+    "correct_index": 0,
+    "solution": "Chhau incorporates martial and combat-based movements in its dance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The wrestling-boxing martial art 'Musti Yuddha' is traditionally practised in __________.",
+    "options": [
+      "Varanasi",
+      "Amritsar",
+      "Madurai",
+      "Imphal"
+    ],
+    "correct_index": 0,
+    "solution": "Musti Yuddha, an unarmed martial art, is traditionally associated with Varanasi.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Kalaripayattu is practised in a training arena called a __________.",
+    "options": [
+      "kalari",
+      "akhara",
+      "gharana",
+      "sattra"
+    ],
+    "correct_index": 0,
+    "solution": "Kalaripayattu is practised in a kalari (training pit/arena).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The puppeteers manipulate string puppets (marionettes) using __________.",
+    "options": [
+      "strings attached to the puppet's joints",
+      "rods from below",
+      "their hands inside the puppet",
+      "a lit screen"
+    ],
+    "correct_index": 0,
+    "solution": "String puppets are controlled by strings attached to the puppet's joints from above.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In glove puppetry, the puppet is worn on the __________.",
+    "options": [
+      "hand like a glove",
+      "head",
+      "foot",
+      "a rod"
+    ],
+    "correct_index": 0,
+    "solution": "Glove (hand) puppets are worn on the hand and manipulated by the fingers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In rod puppetry, the puppet is supported and moved by __________.",
+    "options": [
+      "rods from below",
+      "strings from above",
+      "the hand inside",
+      "a screen"
+    ],
+    "correct_index": 0,
+    "solution": "Rod puppets are supported and moved by rods, usually from below.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Kathputli puppeteers of Rajasthan traditionally belong to the __________ community.",
+    "options": [
+      "Bhat",
+      "Bhopa",
+      "Manganiyar",
+      "Langa"
+    ],
+    "correct_index": 0,
+    "solution": "The Bhat community traditionally performs Kathputli puppetry in Rajasthan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial arts of India were traditionally linked with __________.",
+    "options": [
+      "warrior training and physical culture",
+      "temple painting",
+      "manuscript writing",
+      "trade"
+    ],
+    "correct_index": 0,
+    "solution": "Indian martial arts were linked with warrior training and physical culture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The shadow-puppet play is performed with the puppets held between a lamp and a __________.",
+    "options": [
+      "white cloth screen",
+      "mirror",
+      "wall of stone",
+      "pool of water"
+    ],
+    "correct_index": 0,
+    "solution": "Shadow puppets are held between a lamp and a white cloth screen, casting shadows for the audience.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The martial art 'Lathi' khela (stick fighting) is popular in __________.",
+    "options": [
+      "Bengal and Punjab",
+      "Kerala",
+      "Manipur",
+      "Goa"
+    ],
+    "correct_index": 0,
+    "solution": "Lathi (stick) fighting is a traditional martial practice in Bengal and Punjab.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial art of Kerala, Kalaripayattu, integrates combat with __________.",
+    "options": [
+      "healing (marma therapy) and yoga",
+      "puppetry",
+      "painting",
+      "music only"
+    ],
+    "correct_index": 0,
+    "solution": "Kalaripayattu integrates combat techniques with marma (pressure-point) healing and body control.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The puppet form used in temple rituals in Kerala to narrate the Ramayana is __________.",
+    "options": [
+      "Tholpavakoothu",
+      "Kathputli",
+      "Putul Nautch",
+      "Yampuri"
+    ],
+    "correct_index": 0,
+    "solution": "Tholpavakoothu is the ritual shadow-puppet form of Kerala temples, narrating the Ramayana.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The largest puppets, worked with rods, in Bengal are the __________.",
+    "options": [
+      "Putul Nach rod puppets",
+      "shadow puppets",
+      "glove puppets",
+      "Kathputli"
+    ],
+    "correct_index": 0,
+    "solution": "Bengal's Putul Nach uses large rod puppets.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Indian puppetry is significant as a __________ folk art that preserves storytelling traditions.",
+    "options": [
+      "living",
+      "extinct",
+      "foreign",
+      "purely modern"
+    ],
+    "correct_index": 0,
+    "solution": "Puppetry is a living folk art that preserves traditional storytelling.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The martial art 'Kalaripayattu' is believed to be __________ years old, one of the oldest.",
+    "options": [
+      "over a thousand",
+      "less than a hundred",
+      "exactly fifty",
+      "recent"
+    ],
+    "correct_index": 0,
+    "solution": "Kalaripayattu is regarded as over a thousand years old, among the oldest surviving martial arts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The traditional glove-puppet play of Odisha, Uttar Pradesh and Kerala uses puppets made of __________.",
+    "options": [
+      "cloth and papier-mâché heads",
+      "leather",
+      "metal",
+      "glass"
+    ],
+    "correct_index": 0,
+    "solution": "Glove puppets typically have cloth bodies with papier-mâché or wooden heads.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a shadow-puppet tradition?",
+    "options": [
+      "Ravanachhaya (Odisha)",
+      "Kathputli (Rajasthan)",
+      "Putul Nautch (Bengal)",
+      "Yampuri (Bihar)"
+    ],
+    "correct_index": 0,
+    "solution": "Ravanachhaya of Odisha is a shadow-puppet tradition; the others are string/rod puppetry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a string-puppet tradition?",
+    "options": [
+      "Kathputli (Rajasthan)",
+      "Tholu Bommalata (Andhra)",
+      "Ravanachhaya (Odisha)",
+      "Tholpavakoothu (Kerala)"
+    ],
+    "correct_index": 0,
+    "solution": "Kathputli of Rajasthan is a string-puppet tradition; the others are shadow puppetry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Martial arts in India are often accompanied by __________ during performance/festivals.",
+    "options": [
+      "drums and music",
+      "silence only",
+      "puppets",
+      "shadow screens"
+    ],
+    "correct_index": 0,
+    "solution": "Indian martial arts performances are often accompanied by drums and music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The martial dance 'Paika Akhada' is associated with __________.",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Punjab",
+      "Manipur"
+    ],
+    "correct_index": 0,
+    "solution": "Paika Akhada is a martial dance tradition of Odisha.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Puppetry and martial traditions together form part of India's __________ heritage.",
+    "options": [
+      "living performing-arts",
+      "architectural",
+      "literary only",
+      "colonial"
+    ],
+    "correct_index": 0,
+    "solution": "Puppetry and martial arts are part of India's living performing-arts heritage.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The martial art associated with the Nihang Sikhs and displayed at Hola Mohalla is __________.",
+    "options": [
+      "Gatka",
+      "Silambam",
+      "Kalaripayattu",
+      "Thang-Ta"
+    ],
+    "correct_index": 0,
+    "solution": "Gatka is displayed by the Nihang Sikhs during the Hola Mohalla festival.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The primary purpose of traditional puppet theatre was to __________.",
+    "options": [
+      "entertain and educate through moral/epic stories",
+      "record taxes",
+      "train soldiers",
+      "map trade"
+    ],
+    "correct_index": 0,
+    "solution": "Puppet theatre entertained and educated audiences through moral and epic stories.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The martial art most associated with the state of Kerala is __________.",
+    "options": [
+      "Kalaripayattu",
+      "Silambam",
+      "Gatka",
+      "Mardani Khel"
+    ],
+    "correct_index": 0,
+    "solution": "Kalaripayattu is the martial art most associated with Kerala.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The traditional Indian puppetry forms are classified into four main types; puppets manipulated by strings are called:",
+    "options": [
+      "Glove puppets",
+      "String puppets (marionettes)",
+      "Rod puppets",
+      "Shadow puppets"
+    ],
+    "correct_index": 1,
+    "solution": "The four types are string (marionette), shadow, rod and glove puppets. String puppets are controlled by strings attached to the puppeteer's fingers/control bar.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Kathputli', the famous string puppet tradition, is associated with:",
+    "options": [
+      "Rajasthan",
+      "Kerala",
+      "Odisha",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Kathputli is the well-known string-puppet (marionette) tradition of Rajasthan, depicting folk tales and legends of Rajasthani heroes, with wooden puppets in colourful attire.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Tholu Bommalata', a shadow puppetry tradition using large leather puppets, belongs to:",
+    "options": [
+      "Andhra Pradesh",
+      "Punjab",
+      "Bengal",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Tholu Bommalata is the shadow-puppet theatre of Andhra Pradesh, using large, translucent, colourful leather puppets to enact stories from the epics.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Tholpavakoothu', a shadow puppet form performed in temples, is from:",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Tholpavakoothu is a temple shadow-puppetry of Kerala, traditionally performed in Bhagavati temples, dramatising the Ramayana with leather puppets against a lamp-lit screen.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Ravanachhaya', an ancient shadow puppet form using one-piece leather puppets without joints, is from:",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Ravanachhaya is the shadow puppetry of Odisha, using slim, single-piece (non-jointed) deer-skin puppets that cast delicate, expressive shadows depicting the Ramayana.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Pavakathakali', glove puppets styled after Kathakali characters, is a puppet tradition of:",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 0,
+    "solution": "Pavakathakali is a glove-puppet tradition of Kerala, in which the puppets are modelled on Kathakali characters, enacting episodes from the epics with music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Putul Nautch' / 'Putul Nach', a rod-and-string puppet tradition, is found in:",
+    "options": [
+      "West Bengal, Odisha and Assam",
+      "Kerala",
+      "Punjab",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Putul Nach (Putul Nautch) is the rod-puppet tradition of West Bengal, Odisha and Assam, featuring large puppets manipulated by rods, often with the puppeteer partly visible.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Yampuri', a wooden rod puppet tradition, is associated with:",
+    "options": [
+      "Bihar",
+      "Kerala",
+      "Punjab",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Yampuri is a traditional rod-puppet form of Bihar, distinctive for using puppets carved from a single piece of wood, without joints.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Bommalattam' (Bommalatta), which combines rod and string puppetry, is a tradition of:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Bommalattam of Tamil Nadu combines rod and string puppetry, using some of the largest and heaviest puppets in India, controlled from an overhead perch.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Sakhi Kundhei' string puppets belong to which state?",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Punjab",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Sakhi Kundhei is the string-puppet tradition of Odisha, using wooden marionettes with many strings, accompanied by music and dance-like movement.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Gombeyatta', a string-puppet form styled on Yakshagana characters, is from:",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Gombeyatta is the string-puppet theatre of Karnataka, with puppets styled after Yakshagana characters, enacting episodes from the epics with music and dialogue.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Shadow puppets are traditionally made from ______ and viewed against a lit screen.",
+    "options": [
+      "Cloth",
+      "Treated/translucent leather (hide)",
+      "Metal",
+      "Glass"
+    ],
+    "correct_index": 1,
+    "solution": "Shadow puppets are typically made from treated animal hide (leather), often perforated and coloured, and their shadows are projected on a screen using a light source behind them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Martial art traditions in India are broadly linked to both combat and:",
+    "options": [
+      "Only warfare",
+      "Performance, ritual, dance and physical culture",
+      "Agriculture",
+      "Trade"
+    ],
+    "correct_index": 1,
+    "solution": "Indian martial arts blend combat skill with performance, ritual, dance and physical/spiritual discipline, many surviving as living traditions in the performing-arts realm.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Kalaripayattu', considered one of the oldest martial arts in the world, is from:",
+    "options": [
+      "Kerala",
+      "Punjab",
+      "Manipur",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "Kalaripayattu, from Kerala, is among the oldest surviving martial arts, combining strikes, weaponry, grappling and healing (marma) techniques; it influenced Kathakali training.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The training arena/school where Kalaripayattu is practised is called a:",
+    "options": [
+      "Akhara",
+      "Kalari",
+      "Garadi",
+      "Thang-ta hall"
+    ],
+    "correct_index": 1,
+    "solution": "A 'kalari' is the traditional training ground/school for Kalaripayattu; the art derives its name from it ('kalari' + 'payattu' meaning practice/exercise).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Thang-Ta' and 'Sarit Sarak', martial art traditions, are from:",
+    "options": [
+      "Manipur",
+      "Kerala",
+      "Punjab",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Thang-Ta (using the sword 'thang' and spear 'ta') and the unarmed Sarit Sarak are the martial arts of Manipur, linked to its ritual and performance traditions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Gatka', a martial art using the sword and stick, is associated with the:",
+    "options": [
+      "Sikhs of Punjab",
+      "Tamil people",
+      "Nagas",
+      "Bengalis"
+    ],
+    "correct_index": 0,
+    "solution": "Gatka is a Sikh martial art of Punjab using weapons like the sword (kirpan) and stick (soti), often demonstrated at festivals and Gurpurabs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Silambam', a weapon-based martial art using bamboo staves, is from:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Silambam is a stick/staff-fighting martial art of Tamil Nadu with ancient roots, using the bamboo staff (silambam) and other weapons.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Mardani Khel', a martial art associated with the Marathas, is from:",
+    "options": [
+      "Maharashtra",
+      "Kerala",
+      "Punjab",
+      "Odisha"
+    ],
+    "correct_index": 0,
+    "solution": "Mardani Khel is an armed martial art of Maharashtra developed by the Marathas, suited to the region's hilly terrain, using weapons like the sword and the patta.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Thoda', a martial art combining archery with dance, is from:",
+    "options": [
+      "Himachal Pradesh",
+      "Kerala",
+      "Tamil Nadu",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Thoda is a traditional martial art of Himachal Pradesh combining archery, music and dance, performed during festivals like Baisakhi.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Cheibi Gad-ga', a martial art using a sword and shield, is from:",
+    "options": [
+      "Manipur",
+      "Kerala",
+      "Punjab",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Cheibi Gad-ga is a Manipuri martial art performed with a sword ('cheibi') wrapped in leather and a shield, blending combat with performance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Paika Akhada', a martial art tradition associated with the Paikas (warriors) who led an 1817 rebellion, is from:",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Paika Akhada is a martial-art gymnasium tradition of Odisha, linked to the Paika warriors who staged the Paika Rebellion (1817) against the British.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Kalaripayattu' has a healing component based on knowledge of vital points called:",
+    "options": [
+      "Chakras",
+      "Marmas (marma points)",
+      "Nadis",
+      "Doshas"
+    ],
+    "correct_index": 1,
+    "solution": "Kalaripayattu incorporates knowledge of marma (vital points) of the body, used both in combat and in a traditional healing/massage system associated with the art.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which martial art strongly influenced the training and movements of Kathakali dancers?",
+    "options": [
+      "Gatka",
+      "Kalaripayattu",
+      "Silambam",
+      "Thang-Ta"
+    ],
+    "correct_index": 1,
+    "solution": "Kalaripayattu's rigorous physical training, footwork and body control deeply influenced Kathakali, whose performers often undergo similar conditioning.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Inbuan', a form of wrestling, is a traditional martial sport of:",
+    "options": [
+      "Mizoram",
+      "Kerala",
+      "Punjab",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "solution": "Inbuan is a traditional form of wrestling from Mizoram with strict rules, requiring competitors to grip a belt and avoid certain moves.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Kushti' (Pehlwani), traditional wrestling practised in mud pits, is trained in a:",
+    "options": [
+      "Kalari",
+      "Akhara",
+      "Kalari-payattu",
+      "Garadi"
+    ],
+    "correct_index": 1,
+    "solution": "Kushti/Pehlwani, Indian traditional wrestling, is practised and trained in an 'akhara' (wrestling arena), a tradition prominent across North India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Musti Yuddha', a form of unarmed combat/boxing, has ancient roots and is associated with:",
+    "options": [
+      "Varanasi and North India",
+      "Kerala",
+      "Assam",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "Musti Yuddha is a traditional unarmed martial art/boxing form with ancient roots, historically associated with Varanasi and parts of North India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The puppet form that uses puppets worn on the hand like a glove is the:",
+    "options": [
+      "Marionette",
+      "Glove puppet",
+      "Shadow puppet",
+      "Rod puppet"
+    ],
+    "correct_index": 1,
+    "solution": "Glove (hand) puppets are worn on and manipulated by the puppeteer's hand and fingers; Pavakathakali of Kerala and Bengal's glove puppetry are examples.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The largest and heaviest traditional puppets in India are used in:",
+    "options": [
+      "Kathputli (Rajasthan)",
+      "Bommalattam (Tamil Nadu)",
+      "Ravanachhaya (Odisha)",
+      "Tholpavakoothu (Kerala)"
+    ],
+    "correct_index": 1,
+    "solution": "Bommalattam of Tamil Nadu uses some of the largest and heaviest puppets, combining rod and string manipulation, with puppeteers operating from an overhead platform.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Shadow puppetry in India predominantly enacts stories from the:",
+    "options": [
+      "Modern novels",
+      "Ramayana and Mahabharata",
+      "Foreign folklore",
+      "Political events"
+    ],
+    "correct_index": 1,
+    "solution": "Indian shadow-puppet traditions (Tholu Bommalata, Tholpavakoothu, Ravanachhaya) predominantly dramatise episodes from the Ramayana and Mahabharata.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Kathputli' puppets are typically made of:",
+    "options": [
+      "Leather",
+      "Wood (with cloth costumes)",
+      "Metal",
+      "Paper only"
+    ],
+    "correct_index": 1,
+    "solution": "Kathputli marionettes are carved from wood, brightly painted and dressed in colourful Rajasthani cloth costumes, controlled by strings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The decline of traditional puppetry has been countered by its use in:",
+    "options": [
+      "Only museums",
+      "Education, social messaging and cultural revival programmes",
+      "Warfare",
+      "Banking"
+    ],
+    "correct_index": 1,
+    "solution": "Traditional puppetry is being revived and repurposed for education, health/social-awareness campaigns and cultural tourism, helping sustain the art and its practitioners.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Chholiya', a martial dance performed with swords and shields at weddings, is from:",
+    "options": [
+      "Uttarakhand (Kumaon)",
+      "Kerala",
+      "Tamil Nadu",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "Chholiya is a martial sword-and-shield dance of the Kumaon region of Uttarakhand, traditionally performed in wedding processions of the Rajput community.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The martial art 'Kalaripayattu' is broadly divided into northern and southern styles known as:",
+    "options": [
+      "Vadakkan and Thekkan",
+      "Thang and Ta",
+      "Silambam and Adithada",
+      "Gatka and Shastar Vidya"
+    ],
+    "correct_index": 0,
+    "solution": "Kalaripayattu has regional styles — Vadakkan (northern) and Thekkan (southern) — differing in techniques, emphasis and lineage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Shastar Vidya', an ancient battlefield martial art, is associated with the:",
+    "options": [
+      "Sikhs (Nihang tradition)",
+      "Tamils",
+      "Nagas",
+      "Bengalis"
+    ],
+    "correct_index": 0,
+    "solution": "Shastar Vidya is a traditional Sikh battlefield martial art preserved by the Nihang order, focusing on weaponry and combat techniques.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Puppetry and martial-art performances are often supported and documented by which national body?",
+    "options": [
+      "Lalit Kala Akademi",
+      "Sangeet Natak Akademi",
+      "Sahitya Akademi",
+      "National Book Trust"
+    ],
+    "correct_index": 1,
+    "solution": "The Sangeet Natak Akademi supports, documents and awards performing arts including traditional puppetry and martial-art performance traditions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Adithada', a martial art form involving strikes and locks, is from:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Punjab",
+      "Assam"
+    ],
+    "correct_index": 0,
+    "solution": "Adithada is a Tamil Nadu martial art incorporating kicks, punches, locks and grappling, related to the region's broader martial traditions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The distinguishing feature of Odisha's Ravanachhaya shadow puppets is that they are:",
+    "options": [
+      "Coloured and jointed",
+      "Uncoloured, single-piece and without joints, casting monochrome shadows",
+      "Made of metal",
+      "Very large"
+    ],
+    "correct_index": 1,
+    "solution": "Ravanachhaya puppets are made of deer skin, are non-jointed and uncoloured, producing delicate, expressive black-and-white shadows — the most stylised of Indian shadow puppetry.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The traditional martial art of Kerala, Kalaripayattu, is believed by some to have influenced Asian martial arts via the monk:",
+    "options": [
+      "Xuanzang",
+      "Bodhidharma",
+      "Fa-Hien",
+      "Ashoka"
+    ],
+    "correct_index": 1,
+    "solution": "By tradition, Bodhidharma, a monk linked to South India, is said to have carried martial-arts knowledge to China (Shaolin), though this is legendary; it reflects Kalaripayattu's antiquity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly matches a puppet form with its state? (i) Kathputli – Rajasthan (ii) Tholu Bommalata – Andhra Pradesh (iii) Ravanachhaya – Odisha",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Kathputli (Rajasthan, string), Tholu Bommalata (Andhra Pradesh, shadow) and Ravanachhaya (Odisha, shadow) are traditional puppet forms of their states.",
+    "difficulty": "medium"
+  }
 ]

@@ -1,62 +1,1202 @@
 [
-  {"stem": "The two main systems of Indian classical music are Hindustani and __________.", "options": ["Carnatic", "Sufi", "Folk", "Dhrupad"], "correct_index": 0, "solution": "Indian classical music has two great systems: Hindustani (North) and Carnatic (South).", "difficulty": "easy"},
-  {"stem": "Indian classical music is traditionally traced to the __________.", "options": ["Samaveda", "Rigveda", "Arthashastra", "Natya Shastra only"], "correct_index": 0, "solution": "Indian music is traditionally traced to the chanting of the Samaveda.", "difficulty": "medium"},
-  {"stem": "The melodic framework of Indian classical music is called the __________.", "options": ["raga", "tala", "shruti", "gharana"], "correct_index": 0, "solution": "A raga is the melodic framework (mode) of Indian classical music.", "difficulty": "medium"},
-  {"stem": "The rhythmic cycle in Indian classical music is called the __________.", "options": ["tala", "raga", "swara", "shruti"], "correct_index": 0, "solution": "A tala is the rhythmic cycle in Indian classical music.", "difficulty": "medium"},
-  {"stem": "The seven basic notes (swaras) of Indian music are Sa, Re, Ga, Ma, Pa, Dha and __________.", "options": ["Ni", "Sa (again)", "Om", "Ta"], "correct_index": 0, "solution": "The seven swaras are Sa, Re, Ga, Ma, Pa, Dha, Ni.", "difficulty": "medium"},
-  {"stem": "The smallest audible interval or microtone in Indian music is called a __________.", "options": ["shruti", "swara", "tala", "raga"], "correct_index": 0, "solution": "A shruti is the smallest perceptible microtonal interval; there are traditionally 22 shrutis.", "difficulty": "hard"},
-  {"stem": "The Hindustani system developed with a strong influence of __________ music.", "options": ["Persian and Central Asian", "European", "Chinese", "African"], "correct_index": 0, "solution": "Hindustani music absorbed Persian and Central Asian influences over the medieval period.", "difficulty": "medium"},
-  {"stem": "The musician-scholar often credited (by tradition) with introducing the khayal, tarana and instruments like the sitar was __________.", "options": ["Amir Khusrau", "Tansen", "Tyagaraja", "Purandara Dasa"], "correct_index": 0, "solution": "Amir Khusrau is traditionally credited with the khayal, tarana and the sitar/tabla.", "difficulty": "hard"},
-  {"stem": "The oldest surviving form of Hindustani vocal music is __________.", "options": ["Dhrupad", "Khayal", "Thumri", "Ghazal"], "correct_index": 0, "solution": "Dhrupad is the oldest surviving style of Hindustani classical vocal music.", "difficulty": "hard"},
-  {"stem": "The most popular form of Hindustani classical vocal music today is the __________.", "options": ["Khayal", "Dhrupad", "Dhamar", "Tarana"], "correct_index": 0, "solution": "Khayal is the dominant and most popular form of Hindustani vocal music today.", "difficulty": "hard"},
-  {"stem": "The semi-classical, romantic Hindustani vocal form often based on love themes is __________.", "options": ["Thumri", "Dhrupad", "Kriti", "Varnam"], "correct_index": 0, "solution": "Thumri is a semi-classical, romantic and expressive Hindustani vocal form.", "difficulty": "hard"},
-  {"stem": "The famous musician of Akbar's court, associated with the Gwalior tradition, was __________.", "options": ["Tansen", "Amir Khusrau", "Tyagaraja", "Baiju Bawra only"], "correct_index": 0, "solution": "Tansen, one of Akbar's navaratnas, was a legendary Hindustani musician.", "difficulty": "medium"},
-  {"stem": "The oldest gharana of Hindustani khayal singing is the __________ gharana.", "options": ["Gwalior", "Kirana", "Patiala", "Agra"], "correct_index": 0, "solution": "The Gwalior gharana is considered the oldest khayal gharana.", "difficulty": "hard"},
-  {"stem": "A 'gharana' in Hindustani music refers to a __________.", "options": ["stylistic school/lineage of musicians", "musical instrument", "rhythm cycle", "raga family"], "correct_index": 0, "solution": "A gharana is a stylistic school or lineage passing down a distinctive musical style.", "difficulty": "medium"},
-  {"stem": "In Hindustani music, ragas are traditionally associated with particular __________.", "options": ["times of day and seasons", "colours only", "gods only", "castes"], "correct_index": 0, "solution": "Hindustani ragas are traditionally linked with specific times of day and seasons.", "difficulty": "hard"},
-  {"stem": "The Carnatic system of classical music is prevalent in __________ India.", "options": ["southern", "northern", "western", "eastern"], "correct_index": 0, "solution": "Carnatic music is the classical music of South India.", "difficulty": "easy"},
-  {"stem": "Carnatic music is more __________ than Hindustani music.", "options": ["composition-based (kriti-oriented)", "improvisation-only", "instrumental-only", "Persian-influenced"], "correct_index": 0, "solution": "Carnatic music is more composition-based, centred on fixed compositions (kritis).", "difficulty": "hard"},
-  {"stem": "The 'Trinity of Carnatic music' consists of Tyagaraja, Muthuswami Dikshitar and __________.", "options": ["Syama Sastri", "Purandara Dasa", "Tansen", "Amir Khusrau"], "correct_index": 0, "solution": "The Carnatic Trinity is Tyagaraja, Muthuswami Dikshitar and Syama Sastri.", "difficulty": "hard"},
-  {"stem": "The saint-composer regarded as the 'Pitamaha' (grandfather/father) of Carnatic music is __________.", "options": ["Purandara Dasa", "Tyagaraja", "Tansen", "Swati Tirunal"], "correct_index": 0, "solution": "Purandara Dasa is regarded as the Pitamaha (grandsire) of Carnatic music.", "difficulty": "hard"},
-  {"stem": "The principal compositional form of Carnatic music is the __________.", "options": ["kriti (kirtana)", "khayal", "dhrupad", "ghazal"], "correct_index": 0, "solution": "The kriti (kirtana) is the main compositional form of Carnatic music.", "difficulty": "hard"},
-  {"stem": "The system of 72 parent (fundamental) ragas in Carnatic music is called the __________ scheme.", "options": ["Melakarta", "Thaat", "Gharana", "Tala"], "correct_index": 0, "solution": "The 72 Melakarta ragas are the parent scale system of Carnatic music.", "difficulty": "hard"},
-  {"stem": "The corresponding system of parent scales (that classify ragas) in Hindustani music is the __________ system.", "options": ["Thaat", "Melakarta", "Gharana", "Kriti"], "correct_index": 0, "solution": "Hindustani music uses the Thaat system (ten thaats) to classify ragas.", "difficulty": "hard"},
-  {"stem": "The number of principal Thaats in Hindustani music (as classified by V. N. Bhatkhande) is __________.", "options": ["ten", "seven", "seventy-two", "twelve"], "correct_index": 0, "solution": "V. N. Bhatkhande classified Hindustani ragas under ten Thaats.", "difficulty": "hard"},
-  {"stem": "The scholar who systematised and documented Hindustani music in the early 20th century was __________.", "options": ["V. N. Bhatkhande", "Amir Khusrau", "Tyagaraja", "Purandara Dasa"], "correct_index": 0, "solution": "Vishnu Narayan Bhatkhande systematised and documented modern Hindustani music theory.", "difficulty": "hard"},
-  {"stem": "The ascending order of notes in a raga is called the aroha, and the descending order is the __________.", "options": ["avaroha", "vadi", "samvadi", "pakad"], "correct_index": 0, "solution": "The aroha is the ascending scale and the avaroha is the descending scale of a raga.", "difficulty": "hard"},
-  {"stem": "The most important (dominant) note of a raga is called the __________.", "options": ["vadi", "samvadi", "shruti", "pakad"], "correct_index": 0, "solution": "The vadi is the most prominent (king) note of a raga; the samvadi is the second most important.", "difficulty": "hard"},
-  {"stem": "The characteristic phrase that identifies a raga is called the __________.", "options": ["pakad", "aroha", "avaroha", "tala"], "correct_index": 0, "solution": "The pakad is the catch-phrase that captures the identity of a raga.", "difficulty": "hard"},
-  {"stem": "The improvised, slow, unmetred introduction that unfolds a raga at the start of a Hindustani performance is the __________.", "options": ["alap", "tarana", "gat", "bandish"], "correct_index": 0, "solution": "The alap is the slow, improvised, unmetred exposition of a raga.", "difficulty": "hard"},
-  {"stem": "A fixed composition set to a raga and tala in Hindustani music is called a __________.", "options": ["bandish", "shruti", "gharana", "thaat"], "correct_index": 0, "solution": "A bandish is a fixed composition in a raga and tala in Hindustani music.", "difficulty": "hard"},
-  {"stem": "The most common tala in Hindustani music, with 16 beats, is __________.", "options": ["Teentaal", "Ektaal", "Jhaptaal", "Rupak"], "correct_index": 0, "solution": "Teentaal, with 16 beats (matras), is the most common Hindustani tala.", "difficulty": "hard"},
-  {"stem": "The Carnatic composer Tyagaraja composed most of his works in the __________ language.", "options": ["Telugu", "Tamil", "Kannada", "Sanskrit only"], "correct_index": 0, "solution": "Tyagaraja composed mostly in Telugu, in praise of Rama.", "difficulty": "hard"},
-  {"stem": "The Carnatic music festival held annually in December in Chennai is the __________.", "options": ["Margazhi (Music Season)", "Khajuraho festival", "Konark festival", "Hornbill festival"], "correct_index": 0, "solution": "The Margazhi music season (December) in Chennai is a major Carnatic music festival.", "difficulty": "hard"},
-  {"stem": "The elaborate improvised centrepiece of a Carnatic concert combining raga, rhythm and melody is the __________.", "options": ["Ragam-Tanam-Pallavi", "Alap", "Thumri", "Dhamar"], "correct_index": 0, "solution": "The Ragam-Tanam-Pallavi (RTP) is the improvisational centrepiece of a Carnatic concert.", "difficulty": "hard"},
-  {"stem": "The Hindustani vocal form 'Tarana' uses __________ instead of meaningful words.", "options": ["rhythmic syllables (like 'ta na dir')", "Sanskrit verses", "Persian couplets", "raga names"], "correct_index": 0, "solution": "The Tarana uses meaningless rhythmic syllables sung at a fast pace.", "difficulty": "hard"},
-  {"stem": "The devotional character is generally stronger in __________ music.", "options": ["Carnatic", "Hindustani", "Ghazal", "Qawwali only"], "correct_index": 0, "solution": "Carnatic music is generally more overtly devotional (bhakti) in character.", "difficulty": "hard"},
-  {"stem": "The Kirana gharana is famous for its emphasis on __________.", "options": ["slow, elaborate development of notes (swara)", "fast rhythmic play", "loud percussion", "drama"], "correct_index": 0, "solution": "The Kirana gharana is known for its slow, melodic, note-by-note elaboration.", "difficulty": "hard"},
-  {"stem": "The saint-composer Swati Tirunal, a patron and composer of Carnatic (and Hindustani) music, was a king of __________.", "options": ["Travancore", "Mysore", "Tanjore", "Vijayanagara"], "correct_index": 0, "solution": "Swati Tirunal was the king of Travancore and a noted composer.", "difficulty": "hard"},
-  {"stem": "The famous Hindustani classical vocalist associated with the Kirana gharana, Bhimsen Joshi, was awarded the __________.", "options": ["Bharat Ratna", "Nobel Prize", "Booker Prize", "Oscar"], "correct_index": 0, "solution": "Bharat Ratna Pandit Bhimsen Joshi was a legendary Kirana gharana vocalist.", "difficulty": "hard"},
-  {"stem": "The raga traditionally associated with the rainy season in Hindustani music is __________.", "options": ["Megh (Malhar)", "Bhairav", "Todi", "Yaman"], "correct_index": 0, "solution": "Raga Megh/Malhar is traditionally associated with the monsoon and rain.", "difficulty": "hard"},
-  {"stem": "The raga traditionally sung at dawn in Hindustani music is __________.", "options": ["Bhairav", "Yaman", "Malkauns", "Darbari"], "correct_index": 0, "solution": "Raga Bhairav is traditionally a morning (dawn) raga.", "difficulty": "hard"},
-  {"stem": "The Dhrupad style is traditionally accompanied by the __________ drum.", "options": ["Pakhawaj", "Tabla", "Mridangam", "Chenda"], "correct_index": 0, "solution": "Dhrupad is accompanied by the Pakhawaj, a barrel drum, rather than the tabla.", "difficulty": "hard"},
-  {"stem": "The Dagar family is famous for keeping alive the __________ tradition.", "options": ["Dhrupad", "Thumri", "Ghazal", "Carnatic kriti"], "correct_index": 0, "solution": "The Dagar family is renowned for preserving the Dhrupad tradition.", "difficulty": "hard"},
-  {"stem": "The Qawwali, a devotional song form, is associated with __________ tradition.", "options": ["Sufi", "Vaishnava only", "Jain", "Buddhist"], "correct_index": 0, "solution": "Qawwali is a Sufi devotional music form, popularised by Amir Khusrau.", "difficulty": "medium"},
-  {"stem": "A key difference is that Carnatic music has a __________ tradition, while Hindustani music has many distinct gharanas.", "options": ["more uniform (single main) stylistic", "more fragmented", "Persian", "European"], "correct_index": 0, "solution": "Carnatic music is more uniform stylistically, whereas Hindustani music has many gharanas.", "difficulty": "hard"},
-  {"stem": "The introductory improvised section in Carnatic music that develops the raga is called __________.", "options": ["alapana", "bandish", "gat", "bol"], "correct_index": 0, "solution": "The raga alapana is the improvised exposition of a raga in Carnatic music.", "difficulty": "hard"},
-  {"stem": "The 'Vachanas' and 'Devaranamas' that enriched Carnatic music were composed by the __________ saints.", "options": ["Haridasa", "Sufi", "Alvar only", "Nayanar only"], "correct_index": 0, "solution": "The Haridasa saints (like Purandara Dasa) composed Devaranamas that shaped Carnatic music.", "difficulty": "hard"},
-  {"stem": "The octave (set of seven notes) in Indian music is called the __________.", "options": ["saptak", "tala", "gharana", "thaat"], "correct_index": 0, "solution": "The saptak is the octave, the set of seven notes in Indian music.", "difficulty": "hard"},
-  {"stem": "The three registers of the voice in Indian music are mandra (low), madhya (middle) and __________.", "options": ["tara (high)", "vadi", "shruti", "pakad"], "correct_index": 0, "solution": "The three registers are mandra (low), madhya (middle) and tara (high).", "difficulty": "hard"},
-  {"stem": "The main pitch reference (tonic) in Indian classical music is provided by the __________.", "options": ["tanpura (drone)", "tabla", "harmonium only", "violin"], "correct_index": 0, "solution": "The tanpura provides the continuous drone (tonic) reference in Indian classical music.", "difficulty": "medium"},
-  {"stem": "The Ghazal, a poetic song form popular in the subcontinent, deals mainly with themes of __________.", "options": ["love and longing", "war", "farming", "science"], "correct_index": 0, "solution": "The Ghazal is a lyrical poetic form dealing chiefly with love and longing.", "difficulty": "medium"},
-  {"stem": "The Carnatic composer Muthuswami Dikshitar composed largely in the __________ language.", "options": ["Sanskrit", "Telugu", "Tamil", "Kannada"], "correct_index": 0, "solution": "Muthuswami Dikshitar composed chiefly in Sanskrit.", "difficulty": "hard"},
-  {"stem": "The 'jugalbandi' in Indian classical music refers to a __________.", "options": ["duet between two soloists/instruments", "solo alap", "drum solo only", "vocal warm-up"], "correct_index": 0, "solution": "A jugalbandi is a duet/dialogue between two soloists or instruments.", "difficulty": "hard"},
-  {"stem": "The Patiala gharana is especially famous for its style of __________.", "options": ["Khayal and Thumri (ornamented singing)", "Dhrupad", "Carnatic kriti", "instrumental gat"], "correct_index": 0, "solution": "The Patiala gharana is known for ornamented Khayal and Thumri singing.", "difficulty": "hard"},
-  {"stem": "The music form 'Bhajan' is a __________ song.", "options": ["Hindu devotional", "court", "martial", "folk-comedy"], "correct_index": 0, "solution": "A Bhajan is a Hindu devotional song.", "difficulty": "easy"},
-  {"stem": "The composition immediately preceding the main item, used to warm up in a Carnatic concert, is the __________.", "options": ["Varnam", "Tillana", "Pallavi", "Alapana"], "correct_index": 0, "solution": "The Varnam is a warm-up composition presented early in a Carnatic concert.", "difficulty": "hard"},
-  {"stem": "The main difference in accompaniment is that Hindustani percussion uses the tabla, while Carnatic uses the __________.", "options": ["mridangam", "chenda", "pung", "pakhawaj"], "correct_index": 0, "solution": "Carnatic percussion centres on the mridangam, unlike the Hindustani tabla.", "difficulty": "medium"},
-  {"stem": "The Ellora and Ajanta caves show that music and dance were __________ in ancient India.", "options": ["depicted and valued", "unknown", "banned", "foreign"], "correct_index": 0, "solution": "Sculptures and paintings show that music and dance were valued and depicted in ancient India.", "difficulty": "medium"},
-  {"stem": "A raga must have a minimum of __________ notes.", "options": ["five", "three", "two", "seven"], "correct_index": 0, "solution": "A raga must have at least five notes (a pentatonic minimum).", "difficulty": "hard"},
-  {"stem": "The famous sitar maestro who popularised Indian classical music worldwide was __________.", "options": ["Ravi Shankar", "Bhimsen Joshi", "Tyagaraja", "Tansen"], "correct_index": 0, "solution": "Pandit Ravi Shankar popularised Indian classical (sitar) music worldwide.", "difficulty": "medium"},
-  {"stem": "The two systems of Indian classical music share the common concepts of __________.", "options": ["raga and tala", "gharana and thaat", "kriti and khayal", "gat and bandish"], "correct_index": 0, "solution": "Both Hindustani and Carnatic music share the fundamental concepts of raga and tala.", "difficulty": "medium"}
+  {
+    "stem": "The two main systems of Indian classical music are Hindustani and __________.",
+    "options": [
+      "Carnatic",
+      "Sufi",
+      "Folk",
+      "Dhrupad"
+    ],
+    "correct_index": 0,
+    "solution": "Indian classical music has two great systems: Hindustani (North) and Carnatic (South).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Indian classical music is traditionally traced to the __________.",
+    "options": [
+      "Samaveda",
+      "Rigveda",
+      "Arthashastra",
+      "Natya Shastra only"
+    ],
+    "correct_index": 0,
+    "solution": "Indian music is traditionally traced to the chanting of the Samaveda.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The melodic framework of Indian classical music is called the __________.",
+    "options": [
+      "raga",
+      "tala",
+      "shruti",
+      "gharana"
+    ],
+    "correct_index": 0,
+    "solution": "A raga is the melodic framework (mode) of Indian classical music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rhythmic cycle in Indian classical music is called the __________.",
+    "options": [
+      "tala",
+      "raga",
+      "swara",
+      "shruti"
+    ],
+    "correct_index": 0,
+    "solution": "A tala is the rhythmic cycle in Indian classical music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The seven basic notes (swaras) of Indian music are Sa, Re, Ga, Ma, Pa, Dha and __________.",
+    "options": [
+      "Ni",
+      "Sa (again)",
+      "Om",
+      "Ta"
+    ],
+    "correct_index": 0,
+    "solution": "The seven swaras are Sa, Re, Ga, Ma, Pa, Dha, Ni.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The smallest audible interval or microtone in Indian music is called a __________.",
+    "options": [
+      "shruti",
+      "swara",
+      "tala",
+      "raga"
+    ],
+    "correct_index": 0,
+    "solution": "A shruti is the smallest perceptible microtonal interval; there are traditionally 22 shrutis.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Hindustani system developed with a strong influence of __________ music.",
+    "options": [
+      "Persian and Central Asian",
+      "European",
+      "Chinese",
+      "African"
+    ],
+    "correct_index": 0,
+    "solution": "Hindustani music absorbed Persian and Central Asian influences over the medieval period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The musician-scholar often credited (by tradition) with introducing the khayal, tarana and instruments like the sitar was __________.",
+    "options": [
+      "Amir Khusrau",
+      "Tansen",
+      "Tyagaraja",
+      "Purandara Dasa"
+    ],
+    "correct_index": 0,
+    "solution": "Amir Khusrau is traditionally credited with the khayal, tarana and the sitar/tabla.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The oldest surviving form of Hindustani vocal music is __________.",
+    "options": [
+      "Dhrupad",
+      "Khayal",
+      "Thumri",
+      "Ghazal"
+    ],
+    "correct_index": 0,
+    "solution": "Dhrupad is the oldest surviving style of Hindustani classical vocal music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most popular form of Hindustani classical vocal music today is the __________.",
+    "options": [
+      "Khayal",
+      "Dhrupad",
+      "Dhamar",
+      "Tarana"
+    ],
+    "correct_index": 0,
+    "solution": "Khayal is the dominant and most popular form of Hindustani vocal music today.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The semi-classical, romantic Hindustani vocal form often based on love themes is __________.",
+    "options": [
+      "Thumri",
+      "Dhrupad",
+      "Kriti",
+      "Varnam"
+    ],
+    "correct_index": 0,
+    "solution": "Thumri is a semi-classical, romantic and expressive Hindustani vocal form.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The famous musician of Akbar's court, associated with the Gwalior tradition, was __________.",
+    "options": [
+      "Tansen",
+      "Amir Khusrau",
+      "Tyagaraja",
+      "Baiju Bawra only"
+    ],
+    "correct_index": 0,
+    "solution": "Tansen, one of Akbar's navaratnas, was a legendary Hindustani musician.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The oldest gharana of Hindustani khayal singing is the __________ gharana.",
+    "options": [
+      "Gwalior",
+      "Kirana",
+      "Patiala",
+      "Agra"
+    ],
+    "correct_index": 0,
+    "solution": "The Gwalior gharana is considered the oldest khayal gharana.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 'gharana' in Hindustani music refers to a __________.",
+    "options": [
+      "stylistic school/lineage of musicians",
+      "musical instrument",
+      "rhythm cycle",
+      "raga family"
+    ],
+    "correct_index": 0,
+    "solution": "A gharana is a stylistic school or lineage passing down a distinctive musical style.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In Hindustani music, ragas are traditionally associated with particular __________.",
+    "options": [
+      "times of day and seasons",
+      "colours only",
+      "gods only",
+      "castes"
+    ],
+    "correct_index": 0,
+    "solution": "Hindustani ragas are traditionally linked with specific times of day and seasons.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Carnatic system of classical music is prevalent in __________ India.",
+    "options": [
+      "southern",
+      "northern",
+      "western",
+      "eastern"
+    ],
+    "correct_index": 0,
+    "solution": "Carnatic music is the classical music of South India.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Carnatic music is more __________ than Hindustani music.",
+    "options": [
+      "composition-based (kriti-oriented)",
+      "improvisation-only",
+      "instrumental-only",
+      "Persian-influenced"
+    ],
+    "correct_index": 0,
+    "solution": "Carnatic music is more composition-based, centred on fixed compositions (kritis).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Trinity of Carnatic music' consists of Tyagaraja, Muthuswami Dikshitar and __________.",
+    "options": [
+      "Syama Sastri",
+      "Purandara Dasa",
+      "Tansen",
+      "Amir Khusrau"
+    ],
+    "correct_index": 0,
+    "solution": "The Carnatic Trinity is Tyagaraja, Muthuswami Dikshitar and Syama Sastri.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The saint-composer regarded as the 'Pitamaha' (grandfather/father) of Carnatic music is __________.",
+    "options": [
+      "Purandara Dasa",
+      "Tyagaraja",
+      "Tansen",
+      "Swati Tirunal"
+    ],
+    "correct_index": 0,
+    "solution": "Purandara Dasa is regarded as the Pitamaha (grandsire) of Carnatic music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The principal compositional form of Carnatic music is the __________.",
+    "options": [
+      "kriti (kirtana)",
+      "khayal",
+      "dhrupad",
+      "ghazal"
+    ],
+    "correct_index": 0,
+    "solution": "The kriti (kirtana) is the main compositional form of Carnatic music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The system of 72 parent (fundamental) ragas in Carnatic music is called the __________ scheme.",
+    "options": [
+      "Melakarta",
+      "Thaat",
+      "Gharana",
+      "Tala"
+    ],
+    "correct_index": 0,
+    "solution": "The 72 Melakarta ragas are the parent scale system of Carnatic music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The corresponding system of parent scales (that classify ragas) in Hindustani music is the __________ system.",
+    "options": [
+      "Thaat",
+      "Melakarta",
+      "Gharana",
+      "Kriti"
+    ],
+    "correct_index": 0,
+    "solution": "Hindustani music uses the Thaat system (ten thaats) to classify ragas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The number of principal Thaats in Hindustani music (as classified by V. N. Bhatkhande) is __________.",
+    "options": [
+      "ten",
+      "seven",
+      "seventy-two",
+      "twelve"
+    ],
+    "correct_index": 0,
+    "solution": "V. N. Bhatkhande classified Hindustani ragas under ten Thaats.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The scholar who systematised and documented Hindustani music in the early 20th century was __________.",
+    "options": [
+      "V. N. Bhatkhande",
+      "Amir Khusrau",
+      "Tyagaraja",
+      "Purandara Dasa"
+    ],
+    "correct_index": 0,
+    "solution": "Vishnu Narayan Bhatkhande systematised and documented modern Hindustani music theory.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The ascending order of notes in a raga is called the aroha, and the descending order is the __________.",
+    "options": [
+      "avaroha",
+      "vadi",
+      "samvadi",
+      "pakad"
+    ],
+    "correct_index": 0,
+    "solution": "The aroha is the ascending scale and the avaroha is the descending scale of a raga.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most important (dominant) note of a raga is called the __________.",
+    "options": [
+      "vadi",
+      "samvadi",
+      "shruti",
+      "pakad"
+    ],
+    "correct_index": 0,
+    "solution": "The vadi is the most prominent (king) note of a raga; the samvadi is the second most important.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The characteristic phrase that identifies a raga is called the __________.",
+    "options": [
+      "pakad",
+      "aroha",
+      "avaroha",
+      "tala"
+    ],
+    "correct_index": 0,
+    "solution": "The pakad is the catch-phrase that captures the identity of a raga.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The improvised, slow, unmetred introduction that unfolds a raga at the start of a Hindustani performance is the __________.",
+    "options": [
+      "alap",
+      "tarana",
+      "gat",
+      "bandish"
+    ],
+    "correct_index": 0,
+    "solution": "The alap is the slow, improvised, unmetred exposition of a raga.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A fixed composition set to a raga and tala in Hindustani music is called a __________.",
+    "options": [
+      "bandish",
+      "shruti",
+      "gharana",
+      "thaat"
+    ],
+    "correct_index": 0,
+    "solution": "A bandish is a fixed composition in a raga and tala in Hindustani music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most common tala in Hindustani music, with 16 beats, is __________.",
+    "options": [
+      "Teentaal",
+      "Ektaal",
+      "Jhaptaal",
+      "Rupak"
+    ],
+    "correct_index": 0,
+    "solution": "Teentaal, with 16 beats (matras), is the most common Hindustani tala.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Carnatic composer Tyagaraja composed most of his works in the __________ language.",
+    "options": [
+      "Telugu",
+      "Tamil",
+      "Kannada",
+      "Sanskrit only"
+    ],
+    "correct_index": 0,
+    "solution": "Tyagaraja composed mostly in Telugu, in praise of Rama.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Carnatic music festival held annually in December in Chennai is the __________.",
+    "options": [
+      "Margazhi (Music Season)",
+      "Khajuraho festival",
+      "Konark festival",
+      "Hornbill festival"
+    ],
+    "correct_index": 0,
+    "solution": "The Margazhi music season (December) in Chennai is a major Carnatic music festival.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The elaborate improvised centrepiece of a Carnatic concert combining raga, rhythm and melody is the __________.",
+    "options": [
+      "Ragam-Tanam-Pallavi",
+      "Alap",
+      "Thumri",
+      "Dhamar"
+    ],
+    "correct_index": 0,
+    "solution": "The Ragam-Tanam-Pallavi (RTP) is the improvisational centrepiece of a Carnatic concert.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Hindustani vocal form 'Tarana' uses __________ instead of meaningful words.",
+    "options": [
+      "rhythmic syllables (like 'ta na dir')",
+      "Sanskrit verses",
+      "Persian couplets",
+      "raga names"
+    ],
+    "correct_index": 0,
+    "solution": "The Tarana uses meaningless rhythmic syllables sung at a fast pace.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The devotional character is generally stronger in __________ music.",
+    "options": [
+      "Carnatic",
+      "Hindustani",
+      "Ghazal",
+      "Qawwali only"
+    ],
+    "correct_index": 0,
+    "solution": "Carnatic music is generally more overtly devotional (bhakti) in character.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Kirana gharana is famous for its emphasis on __________.",
+    "options": [
+      "slow, elaborate development of notes (swara)",
+      "fast rhythmic play",
+      "loud percussion",
+      "drama"
+    ],
+    "correct_index": 0,
+    "solution": "The Kirana gharana is known for its slow, melodic, note-by-note elaboration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The saint-composer Swati Tirunal, a patron and composer of Carnatic (and Hindustani) music, was a king of __________.",
+    "options": [
+      "Travancore",
+      "Mysore",
+      "Tanjore",
+      "Vijayanagara"
+    ],
+    "correct_index": 0,
+    "solution": "Swati Tirunal was the king of Travancore and a noted composer.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The famous Hindustani classical vocalist associated with the Kirana gharana, Bhimsen Joshi, was awarded the __________.",
+    "options": [
+      "Bharat Ratna",
+      "Nobel Prize",
+      "Booker Prize",
+      "Oscar"
+    ],
+    "correct_index": 0,
+    "solution": "Bharat Ratna Pandit Bhimsen Joshi was a legendary Kirana gharana vocalist.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The raga traditionally associated with the rainy season in Hindustani music is __________.",
+    "options": [
+      "Megh (Malhar)",
+      "Bhairav",
+      "Todi",
+      "Yaman"
+    ],
+    "correct_index": 0,
+    "solution": "Raga Megh/Malhar is traditionally associated with the monsoon and rain.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The raga traditionally sung at dawn in Hindustani music is __________.",
+    "options": [
+      "Bhairav",
+      "Yaman",
+      "Malkauns",
+      "Darbari"
+    ],
+    "correct_index": 0,
+    "solution": "Raga Bhairav is traditionally a morning (dawn) raga.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Dhrupad style is traditionally accompanied by the __________ drum.",
+    "options": [
+      "Pakhawaj",
+      "Tabla",
+      "Mridangam",
+      "Chenda"
+    ],
+    "correct_index": 0,
+    "solution": "Dhrupad is accompanied by the Pakhawaj, a barrel drum, rather than the tabla.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Dagar family is famous for keeping alive the __________ tradition.",
+    "options": [
+      "Dhrupad",
+      "Thumri",
+      "Ghazal",
+      "Carnatic kriti"
+    ],
+    "correct_index": 0,
+    "solution": "The Dagar family is renowned for preserving the Dhrupad tradition.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Qawwali, a devotional song form, is associated with __________ tradition.",
+    "options": [
+      "Sufi",
+      "Vaishnava only",
+      "Jain",
+      "Buddhist"
+    ],
+    "correct_index": 0,
+    "solution": "Qawwali is a Sufi devotional music form, popularised by Amir Khusrau.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A key difference is that Carnatic music has a __________ tradition, while Hindustani music has many distinct gharanas.",
+    "options": [
+      "more uniform (single main) stylistic",
+      "more fragmented",
+      "Persian",
+      "European"
+    ],
+    "correct_index": 0,
+    "solution": "Carnatic music is more uniform stylistically, whereas Hindustani music has many gharanas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The introductory improvised section in Carnatic music that develops the raga is called __________.",
+    "options": [
+      "alapana",
+      "bandish",
+      "gat",
+      "bol"
+    ],
+    "correct_index": 0,
+    "solution": "The raga alapana is the improvised exposition of a raga in Carnatic music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Vachanas' and 'Devaranamas' that enriched Carnatic music were composed by the __________ saints.",
+    "options": [
+      "Haridasa",
+      "Sufi",
+      "Alvar only",
+      "Nayanar only"
+    ],
+    "correct_index": 0,
+    "solution": "The Haridasa saints (like Purandara Dasa) composed Devaranamas that shaped Carnatic music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The octave (set of seven notes) in Indian music is called the __________.",
+    "options": [
+      "saptak",
+      "tala",
+      "gharana",
+      "thaat"
+    ],
+    "correct_index": 0,
+    "solution": "The saptak is the octave, the set of seven notes in Indian music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The three registers of the voice in Indian music are mandra (low), madhya (middle) and __________.",
+    "options": [
+      "tara (high)",
+      "vadi",
+      "shruti",
+      "pakad"
+    ],
+    "correct_index": 0,
+    "solution": "The three registers are mandra (low), madhya (middle) and tara (high).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main pitch reference (tonic) in Indian classical music is provided by the __________.",
+    "options": [
+      "tanpura (drone)",
+      "tabla",
+      "harmonium only",
+      "violin"
+    ],
+    "correct_index": 0,
+    "solution": "The tanpura provides the continuous drone (tonic) reference in Indian classical music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Ghazal, a poetic song form popular in the subcontinent, deals mainly with themes of __________.",
+    "options": [
+      "love and longing",
+      "war",
+      "farming",
+      "science"
+    ],
+    "correct_index": 0,
+    "solution": "The Ghazal is a lyrical poetic form dealing chiefly with love and longing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Carnatic composer Muthuswami Dikshitar composed largely in the __________ language.",
+    "options": [
+      "Sanskrit",
+      "Telugu",
+      "Tamil",
+      "Kannada"
+    ],
+    "correct_index": 0,
+    "solution": "Muthuswami Dikshitar composed chiefly in Sanskrit.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'jugalbandi' in Indian classical music refers to a __________.",
+    "options": [
+      "duet between two soloists/instruments",
+      "solo alap",
+      "drum solo only",
+      "vocal warm-up"
+    ],
+    "correct_index": 0,
+    "solution": "A jugalbandi is a duet/dialogue between two soloists or instruments.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Patiala gharana is especially famous for its style of __________.",
+    "options": [
+      "Khayal and Thumri (ornamented singing)",
+      "Dhrupad",
+      "Carnatic kriti",
+      "instrumental gat"
+    ],
+    "correct_index": 0,
+    "solution": "The Patiala gharana is known for ornamented Khayal and Thumri singing.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The music form 'Bhajan' is a __________ song.",
+    "options": [
+      "Hindu devotional",
+      "court",
+      "martial",
+      "folk-comedy"
+    ],
+    "correct_index": 0,
+    "solution": "A Bhajan is a Hindu devotional song.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The composition immediately preceding the main item, used to warm up in a Carnatic concert, is the __________.",
+    "options": [
+      "Varnam",
+      "Tillana",
+      "Pallavi",
+      "Alapana"
+    ],
+    "correct_index": 0,
+    "solution": "The Varnam is a warm-up composition presented early in a Carnatic concert.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main difference in accompaniment is that Hindustani percussion uses the tabla, while Carnatic uses the __________.",
+    "options": [
+      "mridangam",
+      "chenda",
+      "pung",
+      "pakhawaj"
+    ],
+    "correct_index": 0,
+    "solution": "Carnatic percussion centres on the mridangam, unlike the Hindustani tabla.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Ellora and Ajanta caves show that music and dance were __________ in ancient India.",
+    "options": [
+      "depicted and valued",
+      "unknown",
+      "banned",
+      "foreign"
+    ],
+    "correct_index": 0,
+    "solution": "Sculptures and paintings show that music and dance were valued and depicted in ancient India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A raga must have a minimum of __________ notes.",
+    "options": [
+      "five",
+      "three",
+      "two",
+      "seven"
+    ],
+    "correct_index": 0,
+    "solution": "A raga must have at least five notes (a pentatonic minimum).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The famous sitar maestro who popularised Indian classical music worldwide was __________.",
+    "options": [
+      "Ravi Shankar",
+      "Bhimsen Joshi",
+      "Tyagaraja",
+      "Tansen"
+    ],
+    "correct_index": 0,
+    "solution": "Pandit Ravi Shankar popularised Indian classical (sitar) music worldwide.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two systems of Indian classical music share the common concepts of __________.",
+    "options": [
+      "raga and tala",
+      "gharana and thaat",
+      "kriti and khayal",
+      "gat and bandish"
+    ],
+    "correct_index": 0,
+    "solution": "Both Hindustani and Carnatic music share the fundamental concepts of raga and tala.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two main systems of Indian classical music are:",
+    "options": [
+      "Hindustani and Carnatic",
+      "Dhrupad and Thumri",
+      "Raga and Tala",
+      "Veena and Sitar"
+    ],
+    "correct_index": 0,
+    "solution": "Indian classical music has two great traditions — Hindustani (North India) and Carnatic (South India) — both rooted in the concepts of raga (melody) and tala (rhythm).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The melodic framework or mode in Indian classical music is called:",
+    "options": [
+      "Tala",
+      "Raga",
+      "Sruti",
+      "Laya"
+    ],
+    "correct_index": 1,
+    "solution": "A raga is the melodic framework — a specific arrangement of notes with characteristic phrases, mood and time — on which improvisation is built. Tala is the rhythmic cycle.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The rhythmic cycle in Indian classical music is known as:",
+    "options": [
+      "Raga",
+      "Tala",
+      "Alaap",
+      "Gharana"
+    ],
+    "correct_index": 1,
+    "solution": "Tala is the cyclical rhythmic framework measured in beats (matras); common talas include Teentaal (16 beats) in Hindustani and Adi tala in Carnatic music.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The seven basic notes (swaras) of Indian music are collectively called:",
+    "options": [
+      "Sruti",
+      "Saptak / Sargam (Sa Re Ga Ma Pa Dha Ni)",
+      "Tala",
+      "Raga"
+    ],
+    "correct_index": 1,
+    "solution": "The seven swaras — Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata, Nishada (Sa Re Ga Ma Pa Dha Ni) — form the sargam, the basis of melody in Indian music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The oldest surviving form of Hindustani classical vocal music, austere and devotional, is:",
+    "options": [
+      "Thumri",
+      "Khayal",
+      "Dhrupad",
+      "Ghazal"
+    ],
+    "correct_index": 2,
+    "solution": "Dhrupad is the oldest and most austere genre of Hindustani vocal music, marked by elaborate alaap and devotional themes; it predates the more ornamental khayal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most prevalent genre of Hindustani classical vocal music today, allowing greater improvisation, is:",
+    "options": [
+      "Dhrupad",
+      "Khayal",
+      "Dhamar",
+      "Tarana"
+    ],
+    "correct_index": 1,
+    "solution": "Khayal (meaning 'imagination') is the dominant Hindustani vocal genre, offering scope for elaborate improvisation; it rose to prominence from the 18th century.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Thumri' is a semi-classical Hindustani vocal form characterised by:",
+    "options": [
+      "Martial themes",
+      "Romantic and devotional expression, often love of Radha-Krishna",
+      "War songs",
+      "Marching rhythm"
+    ],
+    "correct_index": 1,
+    "solution": "Thumri is a lyrical, semi-classical genre expressing romantic and devotional sentiments (often the Radha-Krishna theme), associated with Lucknow and Banaras.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Carnatic music genre that is the equivalent of the main composed piece, often devotional, is the:",
+    "options": [
+      "Kriti",
+      "Ghazal",
+      "Qawwali",
+      "Dhrupad"
+    ],
+    "correct_index": 0,
+    "solution": "The kriti (or kirtana) is the principal composed form of Carnatic music, usually devotional, with sections like pallavi, anupallavi and charanam.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Trinity' of Carnatic music comprises Tyagaraja, Muthuswami Dikshitar and:",
+    "options": [
+      "Purandara Dasa",
+      "Syama Sastri",
+      "Swathi Thirunal",
+      "Annamacharya"
+    ],
+    "correct_index": 1,
+    "solution": "The Carnatic Trinity — Tyagaraja, Muthuswami Dikshitar and Syama Sastri — were the towering 18th–19th century composers who shaped the tradition.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Purandara Dasa', revered as the 'Pitamaha' (grandfather) of Carnatic music, systematised its:",
+    "options": [
+      "Instruments",
+      "Pedagogy and basic lessons (swaravalis, gitams)",
+      "Dance",
+      "Poetry only"
+    ],
+    "correct_index": 1,
+    "solution": "Purandara Dasa is called the father/grandfather of Carnatic music for systematising its teaching method — the graded exercises still used to train students.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 'gharana' in Hindustani music refers to a:",
+    "options": [
+      "Musical instrument",
+      "Lineage or school of music with a distinctive style",
+      "Type of raga",
+      "Concert hall"
+    ],
+    "correct_index": 1,
+    "solution": "A gharana is a stylistic school or lineage of Hindustani music (e.g. Gwalior, Kirana, Agra, Patiala), each with characteristic techniques passed down through generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The oldest gharana of Hindustani khayal singing is generally regarded to be the:",
+    "options": [
+      "Kirana gharana",
+      "Gwalior gharana",
+      "Patiala gharana",
+      "Jaipur gharana"
+    ],
+    "correct_index": 1,
+    "solution": "The Gwalior gharana is considered the oldest khayal gharana, from which many other gharanas evolved. It emphasises clarity, a balanced approach and the full development of the raga.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The ancient treatise that is the foundational text on Indian music, dance and drama is the:",
+    "options": [
+      "Arthashastra",
+      "Natyashastra of Bharata",
+      "Rigveda",
+      "Manusmriti"
+    ],
+    "correct_index": 1,
+    "solution": "Bharata's Natyashastra is the foundational treatise on the performing arts (natya, nritya, sangita), laying down the theory of rasa, and is a key source for classical music and dance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The medieval scholar-musician who wrote the 'Sangita Ratnakara', a key musicological text, was:",
+    "options": [
+      "Amir Khusrau",
+      "Sharngadeva",
+      "Tansen",
+      "Swami Haridas"
+    ],
+    "correct_index": 1,
+    "solution": "Sharngadeva's Sangita Ratnakara (13th century) is a landmark musicological treatise revered by both Hindustani and Carnatic traditions, written at the Yadava court of Devagiri.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Amir Khusrau', the 13th–14th century Sufi poet-musician, is traditionally credited with developing:",
+    "options": [
+      "The veena",
+      "The sitar, tabla and the qawwali form",
+      "Carnatic music",
+      "The mridangam"
+    ],
+    "correct_index": 1,
+    "solution": "Amir Khusrau is credited by tradition with contributions to the sitar and tabla and with developing the qawwali and khayal, blending Persian and Indian musical elements.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Tansen', the legendary musician, was one of the 'nine jewels' (Navaratnas) in the court of:",
+    "options": [
+      "Shah Jahan",
+      "Akbar",
+      "Aurangzeb",
+      "Krishnadevaraya"
+    ],
+    "correct_index": 1,
+    "solution": "Miyan Tansen, a master of Dhrupad, was among the Navaratnas of Emperor Akbar's court; several ragas (e.g. Miyan ki Todi, Miyan ki Malhar) are attributed to him.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Qawwali', devotional Sufi music, is typically performed at:",
+    "options": [
+      "Temples",
+      "Dargahs (Sufi shrines)",
+      "Churches",
+      "Gurudwaras"
+    ],
+    "correct_index": 1,
+    "solution": "Qawwali is Sufi devotional music performed at dargahs, expressing mystical love for the divine; it was popularised by Amir Khusrau and later masters like Nusrat Fateh Ali Khan.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In Carnatic music, the improvised, rhythm-free elaboration of a raga is called:",
+    "options": [
+      "Alapana",
+      "Kriti",
+      "Tala",
+      "Sruti"
+    ],
+    "correct_index": 0,
+    "solution": "Alapana (Hindustani: alaap) is the free-flowing, unmetered improvisation exploring a raga's character before the composed piece begins.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 72 'melakarta' ragas form the parent-scale system of which classical tradition?",
+    "options": [
+      "Hindustani",
+      "Carnatic",
+      "Folk music",
+      "Sufi music"
+    ],
+    "correct_index": 1,
+    "solution": "The melakarta system of 72 parent (janaka) ragas, from which derivative (janya) ragas are formed, is a distinctive feature of Carnatic music theory.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Hindustani classification of ragas by parent scales uses the ten:",
+    "options": [
+      "Melakartas",
+      "Thaats",
+      "Talas",
+      "Gharanas"
+    ],
+    "correct_index": 1,
+    "solution": "Hindustani music (per Bhatkhande) organises ragas under ten thaats (parent scales), such as Bilawal, Kalyan, Bhairav and Todi.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'V.N. Bhatkhande' is renowned for:",
+    "options": [
+      "Inventing the sitar",
+      "Systematising and documenting Hindustani classical music (the thaat system)",
+      "Composing qawwalis",
+      "Founding Carnatic music"
+    ],
+    "correct_index": 1,
+    "solution": "Vishnu Narayan Bhatkhande systematised Hindustani classical music in the early 20th century, creating the thaat classification and a comprehensive notation and pedagogy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Ragas in Indian classical music are traditionally associated with specific:",
+    "options": [
+      "Colours only",
+      "Times of day and seasons",
+      "Countries",
+      "Numbers"
+    ],
+    "correct_index": 1,
+    "solution": "Ragas are linked to particular times of day (e.g. morning, evening) and seasons (e.g. Megh Malhar with the monsoon), believed to evoke corresponding moods.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept of 'rasa' in music and performing arts refers to:",
+    "options": [
+      "Rhythm",
+      "The aesthetic emotion or mood evoked in the audience",
+      "A type of drum",
+      "A raga's name"
+    ],
+    "correct_index": 1,
+    "solution": "Rasa, a central concept from the Natyashastra, is the emotional flavour or aesthetic experience (e.g. shringara-love, karuna-compassion) that a performance evokes in the audience.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Dhrupad' is traditionally accompanied by which drum?",
+    "options": [
+      "Tabla",
+      "Pakhawaj",
+      "Mridangam",
+      "Dholak"
+    ],
+    "correct_index": 1,
+    "solution": "Dhrupad is accompanied by the pakhawaj, a barrel drum, giving it a solemn, weighty character distinct from the tabla-accompanied khayal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The principal percussion instrument of Carnatic music is the:",
+    "options": [
+      "Tabla",
+      "Mridangam",
+      "Pakhawaj",
+      "Dholak"
+    ],
+    "correct_index": 1,
+    "solution": "The mridangam, a double-headed barrel drum, is the main percussion of Carnatic music, providing the rhythmic foundation for concerts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Swami Haridas', a saint-musician, is remembered as the guru of:",
+    "options": [
+      "Amir Khusrau",
+      "Tansen",
+      "Purandara Dasa",
+      "Tyagaraja"
+    ],
+    "correct_index": 1,
+    "solution": "Swami Haridas, a Dhrupad master and Bhakti saint of Vrindavan, is traditionally regarded as the guru of Tansen.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The genre of fast, rhythmic Hindustani vocal music using meaningless syllables is:",
+    "options": [
+      "Thumri",
+      "Tarana",
+      "Dhrupad",
+      "Ghazal"
+    ],
+    "correct_index": 1,
+    "solution": "Tarana is a lively Hindustani vocal genre using rhythmic, meaningless syllables (bols), often performed to conclude a concert; it is attributed to Amir Khusrau.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Ghazal', a poetic and musical form popular in the subcontinent, is characterised by:",
+    "options": [
+      "War themes",
+      "Couplets on love and longing set to music",
+      "Devotional temple songs",
+      "Marching songs"
+    ],
+    "correct_index": 1,
+    "solution": "The ghazal is a form of Urdu/Persian poetry — couplets (shers) on love, loss and longing — set to semi-classical melody, popularised by singers like Begum Akhtar and Mehdi Hassan.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Sufiana Kalam' is a classical music tradition of which region?",
+    "options": [
+      "Tamil Nadu",
+      "Kashmir",
+      "Kerala",
+      "Assam"
+    ],
+    "correct_index": 1,
+    "solution": "Sufiana Kalam (or Sufiana Mausiqi) is the classical/devotional music tradition of Kashmir, blending Persian and Central Asian influences, using the santoor and saz-e-Kashmir.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The devotional 'Bhajan' and 'Kirtan' forms are associated with the:",
+    "options": [
+      "Mughal court",
+      "Bhakti movement",
+      "British era",
+      "Sangam age"
+    ],
+    "correct_index": 1,
+    "solution": "Bhajans and kirtans — congregational devotional songs — flowered with the Bhakti movement, spreading devotion in the vernacular through accessible melody.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Haveli Sangeet' is a temple music tradition associated with the worship of:",
+    "options": [
+      "Shiva",
+      "Krishna (in Pushtimarg/Vallabh tradition)",
+      "Durga",
+      "Surya"
+    ],
+    "correct_index": 1,
+    "solution": "Haveli Sangeet is a Dhrupad-based devotional temple music of the Pushtimarg (Vallabhacharya) tradition, sung in the havelis (temples) of Krishna, notably at Nathdwara.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Ashtachhap' poets, whose compositions are central to Haveli Sangeet, included the blind poet-singer:",
+    "options": [
+      "Kabir",
+      "Surdas",
+      "Tulsidas",
+      "Mirabai"
+    ],
+    "correct_index": 1,
+    "solution": "Surdas, the blind Bhakti poet-singer, was among the Ashtachhap (eight poets) of the Vallabh sampradaya, whose Krishna-devotional compositions form the core of Haveli Sangeet.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Carnatic' concerts often conclude with lighter pieces like tillana and:",
+    "options": [
+      "Alaap",
+      "Thillana and ragamalika/bhajan",
+      "Dhrupad",
+      "Qawwali"
+    ],
+    "correct_index": 1,
+    "solution": "A Carnatic concert (kutcheri) typically ends with lighter items — thillana (rhythmic, like tarana), ragamalika (garland of ragas) and devotional pieces — after the weighty main compositions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which stringed instrument is central to Hindustani classical music and was popularised by masters like Ravi Shankar?",
+    "options": [
+      "Veena",
+      "Sitar",
+      "Sarod",
+      "Santoor"
+    ],
+    "correct_index": 1,
+    "solution": "The sitar is a plucked string instrument central to Hindustani music, brought to global fame by Pandit Ravi Shankar.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'veena', an ancient plucked string instrument, is especially central to which tradition?",
+    "options": [
+      "Carnatic music",
+      "Qawwali",
+      "Sufi music",
+      "Folk music of Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "The (Saraswati) veena is a principal melodic instrument of Carnatic music, associated with the goddess Saraswati and revered as among the oldest Indian instruments.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Sruti' in Indian classical music refers to:",
+    "options": [
+      "The rhythmic cycle",
+      "The smallest perceptible interval of pitch / the tonic reference",
+      "The name of a raga",
+      "A type of song"
+    ],
+    "correct_index": 1,
+    "solution": "Sruti denotes the microtonal pitch intervals (traditionally 22 in an octave) and also the fixed tonic/drone pitch to which a performance is tuned.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The drone instrument providing the constant tonic backdrop in Indian classical music is the:",
+    "options": [
+      "Tabla",
+      "Tanpura",
+      "Sitar",
+      "Sarangi"
+    ],
+    "correct_index": 1,
+    "solution": "The tanpura (tambura) is a long-necked plucked instrument that continuously sounds the tonic and its fifth, providing the drone against which melody unfolds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Baiju Bawra' and 'Gopal Nayak' are legendary figures associated with:",
+    "options": [
+      "Carnatic music only",
+      "The Dhrupad tradition of Hindustani music",
+      "Modern film music",
+      "Folk theatre"
+    ],
+    "correct_index": 1,
+    "solution": "Baiju Bawra and Gopal Nayak are legendary Dhrupad musicians in Hindustani music lore, celebrated for their mastery and contests of musical skill.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Annamacharya', an early composer of devotional kritis in Telugu, is associated with the temple of:",
+    "options": [
+      "Madurai",
+      "Tirupati (Venkateswara)",
+      "Puri",
+      "Guruvayur"
+    ],
+    "correct_index": 1,
+    "solution": "Annamacharya (Annamayya) composed thousands of devotional keertanas in praise of Lord Venkateswara of Tirupati, an early pillar of Carnatic devotional music.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which Kerala royal was also a noted Carnatic composer, known by his kritis?",
+    "options": [
+      "Marthanda Varma",
+      "Swathi Thirunal",
+      "Shivaji",
+      "Krishnadevaraya"
+    ],
+    "correct_index": 1,
+    "solution": "Maharaja Swathi Thirunal of Travancore was a prolific composer of Carnatic (and Hindustani) music, contributing kritis, padams and varnams in multiple languages.",
+    "difficulty": "hard"
+  }
 ]
