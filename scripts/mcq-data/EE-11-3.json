@@ -1,53 +1,1178 @@
 [
-  {"stem": "The variety and variability of life forms at all levels of biological organisation is called __________.", "options": ["biodiversity", "ecology", "biomass", "productivity"], "correct_index": 0, "solution": "Biodiversity is the variety and variability of life at all levels.", "difficulty": "easy"},
-  {"stem": "The term 'biodiversity' was popularised by the ecologist __________.", "options": ["Edward O. Wilson", "Ernst Haeckel", "Charles Darwin", "Norman Myers"], "correct_index": 0, "solution": "Edward O. Wilson popularised the term biodiversity (coined by Walter Rosen).", "difficulty": "hard"},
-  {"stem": "The three levels of biodiversity are genetic, species and __________ diversity.", "options": ["ecosystem", "population", "community", "regional"], "correct_index": 0, "solution": "Biodiversity is studied at genetic, species and ecosystem levels.", "difficulty": "medium"},
-  {"stem": "The variety of genes within a species is called __________ diversity.", "options": ["genetic", "species", "ecosystem", "gamma"], "correct_index": 0, "solution": "Genetic diversity is the variation of genes within a species.", "difficulty": "medium"},
-  {"stem": "The number and variety of species in a region is called __________ diversity.", "options": ["species", "genetic", "ecosystem", "beta"], "correct_index": 0, "solution": "Species diversity refers to the variety of species in a region.", "difficulty": "medium"},
-  {"stem": "Diversity within a single community or habitat is called __________ diversity.", "options": ["alpha", "beta", "gamma", "delta"], "correct_index": 0, "solution": "Alpha diversity is the diversity within a community or habitat.", "difficulty": "hard"},
-  {"stem": "The diversity between different communities along an environmental gradient is called __________ diversity.", "options": ["beta", "alpha", "gamma", "genetic"], "correct_index": 0, "solution": "Beta diversity is the change in species composition between communities.", "difficulty": "hard"},
-  {"stem": "The total diversity of a large geographic region is called __________ diversity.", "options": ["gamma", "alpha", "beta", "genetic"], "correct_index": 0, "solution": "Gamma diversity is the overall diversity of a large region.", "difficulty": "hard"},
-  {"stem": "Species diversity generally __________ as one moves from the poles to the equator.", "options": ["increases", "decreases", "stays the same", "becomes zero"], "correct_index": 0, "solution": "The latitudinal gradient means diversity increases towards the equator (tropics).", "difficulty": "medium"},
-  {"stem": "The region with the greatest species diversity on Earth is the __________.", "options": ["tropics (equatorial region)", "polar region", "temperate zone", "deserts"], "correct_index": 0, "solution": "The tropics have the highest species diversity.", "difficulty": "medium"},
-  {"stem": "Species found only in a particular geographic area and nowhere else are called __________.", "options": ["endemic", "invasive", "cosmopolitan", "migratory"], "correct_index": 0, "solution": "Endemic species are restricted to a particular area.", "difficulty": "medium"},
-  {"stem": "The concept of biodiversity 'hotspots' was proposed by __________.", "options": ["Norman Myers", "E. O. Wilson", "Charles Darwin", "Rachel Carson"], "correct_index": 0, "solution": "Norman Myers proposed the biodiversity hotspot concept.", "difficulty": "hard"},
-  {"stem": "To qualify as a biodiversity hotspot, a region must have at least __________ endemic vascular plant species.", "options": ["1,500", "500", "100", "5,000"], "correct_index": 0, "solution": "A hotspot must have at least 1,500 endemic vascular plant species.", "difficulty": "hard"},
-  {"stem": "The second criterion for a biodiversity hotspot is that it must have lost at least __________ of its original habitat.", "options": ["70%", "30%", "10%", "50%"], "correct_index": 0, "solution": "A hotspot must have lost at least 70% of its original primary vegetation.", "difficulty": "hard"},
-  {"stem": "The number of biodiversity hotspots in India is __________.", "options": ["four", "two", "ten", "one"], "correct_index": 0, "solution": "India has four biodiversity hotspots.", "difficulty": "medium"},
-  {"stem": "Which of the following is a biodiversity hotspot in India?", "options": ["The Western Ghats", "The Thar Desert", "The Gangetic plains", "The Deccan plateau"], "correct_index": 0, "solution": "The Western Ghats and Sri Lanka form one of India's biodiversity hotspots.", "difficulty": "medium"},
-  {"stem": "India's four biodiversity hotspots are the Himalaya, the Western Ghats, Indo-Burma and __________.", "options": ["Sundaland (Nicobar Islands)", "the Thar Desert", "the Deccan", "the Gangetic plain"], "correct_index": 0, "solution": "India's four hotspots are the Himalaya, Western Ghats, Indo-Burma and Sundaland (Nicobar Islands).", "difficulty": "hard"},
-  {"stem": "India is one of the world's __________ mega-diverse countries.", "options": ["17", "5", "50", "100"], "correct_index": 0, "solution": "India is among the 17 identified mega-diverse countries.", "difficulty": "hard"},
-  {"stem": "India, with about 2.4% of the world's land area, harbours roughly __________ of the world's recorded species.", "options": ["7–8%", "50%", "25%", "less than 1%"], "correct_index": 0, "solution": "India holds about 7–8% of the world's recorded species on 2.4% of the land.", "difficulty": "hard"},
-  {"stem": "The relationship stating that larger areas tend to have more species was described by __________.", "options": ["Alexander von Humboldt", "Norman Myers", "Charles Elton", "Rachel Carson"], "correct_index": 0, "solution": "Alexander von Humboldt described the species-area relationship.", "difficulty": "hard"},
-  {"stem": "The species-area curve is usually a __________.", "options": ["rectangular hyperbola", "straight line through the origin", "circle", "parabola opening down"], "correct_index": 0, "solution": "The species-area relationship is typically a rectangular hyperbola (a straight line on a log-log plot).", "difficulty": "hard"},
-  {"stem": "The four major causes of biodiversity loss are together called the __________.", "options": ["'Evil Quartet'", "'Fatal Four rivers'", "'Big Five'", "'Silent Spring'"], "correct_index": 0, "solution": "Habitat loss, over-exploitation, invasive species and co-extinctions are the 'Evil Quartet'.", "difficulty": "hard"},
-  {"stem": "The single most important cause of biodiversity loss is __________.", "options": ["habitat loss and fragmentation", "over-exploitation", "invasive species", "co-extinction"], "correct_index": 0, "solution": "Habitat loss and fragmentation is the leading cause of biodiversity loss.", "difficulty": "medium"},
-  {"stem": "The introduction of alien species that harm native biodiversity is called the problem of __________ species.", "options": ["invasive (alien)", "endemic", "keystone", "indicator"], "correct_index": 0, "solution": "Invasive alien species are a major cause of biodiversity loss.", "difficulty": "medium"},
-  {"stem": "The extinction of one species leading to the loss of another dependent species is called __________.", "options": ["co-extinction", "mass extinction", "pseudo-extinction", "background extinction"], "correct_index": 0, "solution": "Co-extinction is the loss of a species when another it depends on becomes extinct.", "difficulty": "hard"},
-  {"stem": "An example of an invasive alien species in Indian water bodies is __________.", "options": ["water hyacinth", "the lotus", "the Bengal tiger", "the neem"], "correct_index": 0, "solution": "Water hyacinth (Eichhornia) is a notorious invasive species clogging Indian water bodies.", "difficulty": "hard"},
-  {"stem": "The direct economic benefits from biodiversity (food, medicine, timber) are called its __________ value.", "options": ["consumptive/productive use", "aesthetic", "ethical", "option"], "correct_index": 0, "solution": "Consumptive and productive-use values are the direct economic benefits of biodiversity.", "difficulty": "hard"},
-  {"stem": "The value of keeping biodiversity for possible future uses (e.g. undiscovered medicines) is its __________ value.", "options": ["option", "consumptive", "aesthetic", "social"], "correct_index": 0, "solution": "Option value is the potential future use value of biodiversity.", "difficulty": "hard"},
-  {"stem": "The benefits nature provides to humans, such as pollination and climate regulation, are called __________.", "options": ["ecosystem services", "keystone effects", "productivity", "succession"], "correct_index": 0, "solution": "Ecosystem services are the benefits (pollination, water purification, etc.) provided by nature.", "difficulty": "medium"},
-  {"stem": "The Western Ghats are especially rich in __________.", "options": ["endemic amphibians and plants", "desert cacti", "coral reefs", "coniferous forests"], "correct_index": 0, "solution": "The Western Ghats have exceptionally high endemism, especially of amphibians and plants.", "difficulty": "hard"},
-  {"stem": "The scientist whose book 'Silent Spring' drew attention to pesticide harm to biodiversity was __________.", "options": ["Rachel Carson", "Norman Myers", "E. O. Wilson", "Charles Darwin"], "correct_index": 0, "solution": "Rachel Carson's 'Silent Spring' (1962) warned about pesticides (DDT) harming wildlife.", "difficulty": "hard"},
-  {"stem": "The reduction of a continuous habitat into small, isolated patches is called habitat __________.", "options": ["fragmentation", "restoration", "succession", "creation"], "correct_index": 0, "solution": "Habitat fragmentation breaks continuous habitat into isolated patches, harming biodiversity.", "difficulty": "medium"},
-  {"stem": "A region with a high proportion of endemic species that is under threat is a biodiversity __________.", "options": ["hotspot", "biome", "ecotone", "reserve"], "correct_index": 0, "solution": "A biodiversity hotspot is a threatened region with high endemism.", "difficulty": "medium"},
-  {"stem": "The number of biodiversity hotspots recognised globally is about __________.", "options": ["36", "4", "100", "17"], "correct_index": 0, "solution": "There are about 36 biodiversity hotspots recognised worldwide.", "difficulty": "hard"},
-  {"stem": "India is a centre of origin (a Vavilov centre) for crops such as __________.", "options": ["rice and several millets", "maize and potato", "wheat and barley only", "coffee and cocoa"], "correct_index": 0, "solution": "India is a Vavilov centre of origin/diversity for rice, millets, pulses and many other crops.", "difficulty": "hard"},
-  {"stem": "The Himalaya hotspot is important for its __________.", "options": ["high-altitude flora and fauna and endemism", "coral reefs", "mangroves", "desert species"], "correct_index": 0, "solution": "The Himalaya hotspot is rich in high-altitude endemic flora and fauna.", "difficulty": "hard"},
-  {"stem": "The rich diversity of the Indo-Burma hotspot includes parts of __________ India.", "options": ["north-eastern", "north-western", "southern coastal", "central"], "correct_index": 0, "solution": "The Indo-Burma hotspot covers north-eastern India and neighbouring regions.", "difficulty": "hard"},
-  {"stem": "The greatest species richness among ecosystems is found in the __________.", "options": ["tropical rainforests", "tundra", "deserts", "grasslands"], "correct_index": 0, "solution": "Tropical rainforests hold the greatest species richness.", "difficulty": "medium"},
-  {"stem": "The steady, low-level rate of extinction throughout geological history is called __________ extinction.", "options": ["background", "mass", "co-extinction", "pseudo"], "correct_index": 0, "solution": "Background extinction is the natural, steady rate of species loss over time.", "difficulty": "hard"},
-  {"stem": "The current, human-driven loss of species is often called the __________ mass extinction.", "options": ["sixth", "first", "third", "tenth"], "correct_index": 0, "solution": "The ongoing biodiversity crisis is often termed the sixth mass extinction.", "difficulty": "hard"},
-  {"stem": "The variety of ecosystems (forests, wetlands, deserts, etc.) in a region is __________ diversity.", "options": ["ecosystem", "genetic", "species", "alpha"], "correct_index": 0, "solution": "Ecosystem diversity is the variety of ecosystems in a region.", "difficulty": "medium"},
-  {"stem": "The value of biodiversity for its beauty and recreation is its __________ value.", "options": ["aesthetic", "consumptive", "option", "productive"], "correct_index": 0, "solution": "Aesthetic value is the recreational and beauty value of biodiversity.", "difficulty": "medium"},
-  {"stem": "The view that all species have an inherent right to exist reflects the __________ value of biodiversity.", "options": ["ethical (intrinsic)", "economic", "consumptive", "option"], "correct_index": 0, "solution": "The ethical/intrinsic value holds that species have a right to exist regardless of use to humans.", "difficulty": "hard"},
-  {"stem": "The largest number of described species among animals belongs to __________.", "options": ["insects", "mammals", "birds", "fish"], "correct_index": 0, "solution": "Insects make up the largest group of described animal species.", "difficulty": "medium"},
-  {"stem": "The most species-rich biodiversity in the oceans is found in __________.", "options": ["coral reefs", "the deep abyss", "polar seas", "open ocean surface"], "correct_index": 0, "solution": "Coral reefs are the most biodiverse marine ecosystems, the 'rainforests of the sea'.", "difficulty": "medium"},
-  {"stem": "Rivet-popper hypothesis (by Paul Ehrlich) compares species in an ecosystem to __________.", "options": ["rivets holding an aircraft together", "bricks in a wall", "stars in the sky", "coins in a purse"], "correct_index": 0, "solution": "The rivet-popper hypothesis likens species to rivets on a plane; losing them weakens the ecosystem.", "difficulty": "hard"},
-  {"stem": "The high diversity of the tropics is partly explained by the __________ of tropical environments.", "options": ["long evolutionary time and stable climate", "recent glaciation", "extreme cold", "low sunlight"], "correct_index": 0, "solution": "Long undisturbed evolutionary time and a warm, stable climate favour high tropical diversity.", "difficulty": "hard"},
-  {"stem": "Conserving biodiversity hotspots is a priority because they contain __________.", "options": ["exceptional endemism under severe threat", "the most minerals", "no endemic species", "only common species"], "correct_index": 0, "solution": "Hotspots concentrate exceptional endemism and are under severe threat, making them conservation priorities.", "difficulty": "medium"},
-  {"stem": "The greatest threat from invasive species is that they __________.", "options": ["out-compete and displace native species", "improve native diversity", "add nutrients", "have no effect"], "correct_index": 0, "solution": "Invasive species out-compete and displace native species, reducing biodiversity.", "difficulty": "medium"},
-  {"stem": "Biodiversity is highest at the level of __________ within most ecosystems.", "options": ["species (especially insects and microbes)", "large mammals", "birds only", "reptiles only"], "correct_index": 0, "solution": "The bulk of biodiversity lies in the vast numbers of insects, microbes and other small organisms.", "difficulty": "medium"},
-  {"stem": "The overall importance of biodiversity is that it __________.", "options": ["sustains ecosystem functions and human well-being", "has no practical value", "only matters for tourism", "is a modern invention"], "correct_index": 0, "solution": "Biodiversity sustains ecosystem functions and services essential to human well-being.", "difficulty": "easy"}
+  {
+    "stem": "The variety and variability of life forms at all levels of biological organisation is called __________.",
+    "options": [
+      "biodiversity",
+      "ecology",
+      "biomass",
+      "productivity"
+    ],
+    "correct_index": 0,
+    "solution": "Biodiversity is the variety and variability of life at all levels.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The term 'biodiversity' was popularised by the ecologist __________.",
+    "options": [
+      "Edward O. Wilson",
+      "Ernst Haeckel",
+      "Charles Darwin",
+      "Norman Myers"
+    ],
+    "correct_index": 0,
+    "solution": "Edward O. Wilson popularised the term biodiversity (coined by Walter Rosen).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The three levels of biodiversity are genetic, species and __________ diversity.",
+    "options": [
+      "ecosystem",
+      "population",
+      "community",
+      "regional"
+    ],
+    "correct_index": 0,
+    "solution": "Biodiversity is studied at genetic, species and ecosystem levels.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The variety of genes within a species is called __________ diversity.",
+    "options": [
+      "genetic",
+      "species",
+      "ecosystem",
+      "gamma"
+    ],
+    "correct_index": 0,
+    "solution": "Genetic diversity is the variation of genes within a species.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number and variety of species in a region is called __________ diversity.",
+    "options": [
+      "species",
+      "genetic",
+      "ecosystem",
+      "beta"
+    ],
+    "correct_index": 0,
+    "solution": "Species diversity refers to the variety of species in a region.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Diversity within a single community or habitat is called __________ diversity.",
+    "options": [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta"
+    ],
+    "correct_index": 0,
+    "solution": "Alpha diversity is the diversity within a community or habitat.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The diversity between different communities along an environmental gradient is called __________ diversity.",
+    "options": [
+      "beta",
+      "alpha",
+      "gamma",
+      "genetic"
+    ],
+    "correct_index": 0,
+    "solution": "Beta diversity is the change in species composition between communities.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The total diversity of a large geographic region is called __________ diversity.",
+    "options": [
+      "gamma",
+      "alpha",
+      "beta",
+      "genetic"
+    ],
+    "correct_index": 0,
+    "solution": "Gamma diversity is the overall diversity of a large region.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Species diversity generally __________ as one moves from the poles to the equator.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "becomes zero"
+    ],
+    "correct_index": 0,
+    "solution": "The latitudinal gradient means diversity increases towards the equator (tropics).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The region with the greatest species diversity on Earth is the __________.",
+    "options": [
+      "tropics (equatorial region)",
+      "polar region",
+      "temperate zone",
+      "deserts"
+    ],
+    "correct_index": 0,
+    "solution": "The tropics have the highest species diversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Species found only in a particular geographic area and nowhere else are called __________.",
+    "options": [
+      "endemic",
+      "invasive",
+      "cosmopolitan",
+      "migratory"
+    ],
+    "correct_index": 0,
+    "solution": "Endemic species are restricted to a particular area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept of biodiversity 'hotspots' was proposed by __________.",
+    "options": [
+      "Norman Myers",
+      "E. O. Wilson",
+      "Charles Darwin",
+      "Rachel Carson"
+    ],
+    "correct_index": 0,
+    "solution": "Norman Myers proposed the biodiversity hotspot concept.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "To qualify as a biodiversity hotspot, a region must have at least __________ endemic vascular plant species.",
+    "options": [
+      "1,500",
+      "500",
+      "100",
+      "5,000"
+    ],
+    "correct_index": 0,
+    "solution": "A hotspot must have at least 1,500 endemic vascular plant species.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The second criterion for a biodiversity hotspot is that it must have lost at least __________ of its original habitat.",
+    "options": [
+      "70%",
+      "30%",
+      "10%",
+      "50%"
+    ],
+    "correct_index": 0,
+    "solution": "A hotspot must have lost at least 70% of its original primary vegetation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The number of biodiversity hotspots in India is __________.",
+    "options": [
+      "four",
+      "two",
+      "ten",
+      "one"
+    ],
+    "correct_index": 0,
+    "solution": "India has four biodiversity hotspots.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a biodiversity hotspot in India?",
+    "options": [
+      "The Western Ghats",
+      "The Thar Desert",
+      "The Gangetic plains",
+      "The Deccan plateau"
+    ],
+    "correct_index": 0,
+    "solution": "The Western Ghats and Sri Lanka form one of India's biodiversity hotspots.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's four biodiversity hotspots are the Himalaya, the Western Ghats, Indo-Burma and __________.",
+    "options": [
+      "Sundaland (Nicobar Islands)",
+      "the Thar Desert",
+      "the Deccan",
+      "the Gangetic plain"
+    ],
+    "correct_index": 0,
+    "solution": "India's four hotspots are the Himalaya, Western Ghats, Indo-Burma and Sundaland (Nicobar Islands).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India is one of the world's __________ mega-diverse countries.",
+    "options": [
+      "17",
+      "5",
+      "50",
+      "100"
+    ],
+    "correct_index": 0,
+    "solution": "India is among the 17 identified mega-diverse countries.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India, with about 2.4% of the world's land area, harbours roughly __________ of the world's recorded species.",
+    "options": [
+      "7–8%",
+      "50%",
+      "25%",
+      "less than 1%"
+    ],
+    "correct_index": 0,
+    "solution": "India holds about 7–8% of the world's recorded species on 2.4% of the land.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The relationship stating that larger areas tend to have more species was described by __________.",
+    "options": [
+      "Alexander von Humboldt",
+      "Norman Myers",
+      "Charles Elton",
+      "Rachel Carson"
+    ],
+    "correct_index": 0,
+    "solution": "Alexander von Humboldt described the species-area relationship.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The species-area curve is usually a __________.",
+    "options": [
+      "rectangular hyperbola",
+      "straight line through the origin",
+      "circle",
+      "parabola opening down"
+    ],
+    "correct_index": 0,
+    "solution": "The species-area relationship is typically a rectangular hyperbola (a straight line on a log-log plot).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The four major causes of biodiversity loss are together called the __________.",
+    "options": [
+      "'Evil Quartet'",
+      "'Fatal Four rivers'",
+      "'Big Five'",
+      "'Silent Spring'"
+    ],
+    "correct_index": 0,
+    "solution": "Habitat loss, over-exploitation, invasive species and co-extinctions are the 'Evil Quartet'.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The single most important cause of biodiversity loss is __________.",
+    "options": [
+      "habitat loss and fragmentation",
+      "over-exploitation",
+      "invasive species",
+      "co-extinction"
+    ],
+    "correct_index": 0,
+    "solution": "Habitat loss and fragmentation is the leading cause of biodiversity loss.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The introduction of alien species that harm native biodiversity is called the problem of __________ species.",
+    "options": [
+      "invasive (alien)",
+      "endemic",
+      "keystone",
+      "indicator"
+    ],
+    "correct_index": 0,
+    "solution": "Invasive alien species are a major cause of biodiversity loss.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The extinction of one species leading to the loss of another dependent species is called __________.",
+    "options": [
+      "co-extinction",
+      "mass extinction",
+      "pseudo-extinction",
+      "background extinction"
+    ],
+    "correct_index": 0,
+    "solution": "Co-extinction is the loss of a species when another it depends on becomes extinct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "An example of an invasive alien species in Indian water bodies is __________.",
+    "options": [
+      "water hyacinth",
+      "the lotus",
+      "the Bengal tiger",
+      "the neem"
+    ],
+    "correct_index": 0,
+    "solution": "Water hyacinth (Eichhornia) is a notorious invasive species clogging Indian water bodies.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The direct economic benefits from biodiversity (food, medicine, timber) are called its __________ value.",
+    "options": [
+      "consumptive/productive use",
+      "aesthetic",
+      "ethical",
+      "option"
+    ],
+    "correct_index": 0,
+    "solution": "Consumptive and productive-use values are the direct economic benefits of biodiversity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The value of keeping biodiversity for possible future uses (e.g. undiscovered medicines) is its __________ value.",
+    "options": [
+      "option",
+      "consumptive",
+      "aesthetic",
+      "social"
+    ],
+    "correct_index": 0,
+    "solution": "Option value is the potential future use value of biodiversity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The benefits nature provides to humans, such as pollination and climate regulation, are called __________.",
+    "options": [
+      "ecosystem services",
+      "keystone effects",
+      "productivity",
+      "succession"
+    ],
+    "correct_index": 0,
+    "solution": "Ecosystem services are the benefits (pollination, water purification, etc.) provided by nature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Western Ghats are especially rich in __________.",
+    "options": [
+      "endemic amphibians and plants",
+      "desert cacti",
+      "coral reefs",
+      "coniferous forests"
+    ],
+    "correct_index": 0,
+    "solution": "The Western Ghats have exceptionally high endemism, especially of amphibians and plants.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The scientist whose book 'Silent Spring' drew attention to pesticide harm to biodiversity was __________.",
+    "options": [
+      "Rachel Carson",
+      "Norman Myers",
+      "E. O. Wilson",
+      "Charles Darwin"
+    ],
+    "correct_index": 0,
+    "solution": "Rachel Carson's 'Silent Spring' (1962) warned about pesticides (DDT) harming wildlife.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The reduction of a continuous habitat into small, isolated patches is called habitat __________.",
+    "options": [
+      "fragmentation",
+      "restoration",
+      "succession",
+      "creation"
+    ],
+    "correct_index": 0,
+    "solution": "Habitat fragmentation breaks continuous habitat into isolated patches, harming biodiversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A region with a high proportion of endemic species that is under threat is a biodiversity __________.",
+    "options": [
+      "hotspot",
+      "biome",
+      "ecotone",
+      "reserve"
+    ],
+    "correct_index": 0,
+    "solution": "A biodiversity hotspot is a threatened region with high endemism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of biodiversity hotspots recognised globally is about __________.",
+    "options": [
+      "36",
+      "4",
+      "100",
+      "17"
+    ],
+    "correct_index": 0,
+    "solution": "There are about 36 biodiversity hotspots recognised worldwide.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India is a centre of origin (a Vavilov centre) for crops such as __________.",
+    "options": [
+      "rice and several millets",
+      "maize and potato",
+      "wheat and barley only",
+      "coffee and cocoa"
+    ],
+    "correct_index": 0,
+    "solution": "India is a Vavilov centre of origin/diversity for rice, millets, pulses and many other crops.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Himalaya hotspot is important for its __________.",
+    "options": [
+      "high-altitude flora and fauna and endemism",
+      "coral reefs",
+      "mangroves",
+      "desert species"
+    ],
+    "correct_index": 0,
+    "solution": "The Himalaya hotspot is rich in high-altitude endemic flora and fauna.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rich diversity of the Indo-Burma hotspot includes parts of __________ India.",
+    "options": [
+      "north-eastern",
+      "north-western",
+      "southern coastal",
+      "central"
+    ],
+    "correct_index": 0,
+    "solution": "The Indo-Burma hotspot covers north-eastern India and neighbouring regions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The greatest species richness among ecosystems is found in the __________.",
+    "options": [
+      "tropical rainforests",
+      "tundra",
+      "deserts",
+      "grasslands"
+    ],
+    "correct_index": 0,
+    "solution": "Tropical rainforests hold the greatest species richness.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The steady, low-level rate of extinction throughout geological history is called __________ extinction.",
+    "options": [
+      "background",
+      "mass",
+      "co-extinction",
+      "pseudo"
+    ],
+    "correct_index": 0,
+    "solution": "Background extinction is the natural, steady rate of species loss over time.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The current, human-driven loss of species is often called the __________ mass extinction.",
+    "options": [
+      "sixth",
+      "first",
+      "third",
+      "tenth"
+    ],
+    "correct_index": 0,
+    "solution": "The ongoing biodiversity crisis is often termed the sixth mass extinction.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The variety of ecosystems (forests, wetlands, deserts, etc.) in a region is __________ diversity.",
+    "options": [
+      "ecosystem",
+      "genetic",
+      "species",
+      "alpha"
+    ],
+    "correct_index": 0,
+    "solution": "Ecosystem diversity is the variety of ecosystems in a region.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The value of biodiversity for its beauty and recreation is its __________ value.",
+    "options": [
+      "aesthetic",
+      "consumptive",
+      "option",
+      "productive"
+    ],
+    "correct_index": 0,
+    "solution": "Aesthetic value is the recreational and beauty value of biodiversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The view that all species have an inherent right to exist reflects the __________ value of biodiversity.",
+    "options": [
+      "ethical (intrinsic)",
+      "economic",
+      "consumptive",
+      "option"
+    ],
+    "correct_index": 0,
+    "solution": "The ethical/intrinsic value holds that species have a right to exist regardless of use to humans.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The largest number of described species among animals belongs to __________.",
+    "options": [
+      "insects",
+      "mammals",
+      "birds",
+      "fish"
+    ],
+    "correct_index": 0,
+    "solution": "Insects make up the largest group of described animal species.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most species-rich biodiversity in the oceans is found in __________.",
+    "options": [
+      "coral reefs",
+      "the deep abyss",
+      "polar seas",
+      "open ocean surface"
+    ],
+    "correct_index": 0,
+    "solution": "Coral reefs are the most biodiverse marine ecosystems, the 'rainforests of the sea'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rivet-popper hypothesis (by Paul Ehrlich) compares species in an ecosystem to __________.",
+    "options": [
+      "rivets holding an aircraft together",
+      "bricks in a wall",
+      "stars in the sky",
+      "coins in a purse"
+    ],
+    "correct_index": 0,
+    "solution": "The rivet-popper hypothesis likens species to rivets on a plane; losing them weakens the ecosystem.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The high diversity of the tropics is partly explained by the __________ of tropical environments.",
+    "options": [
+      "long evolutionary time and stable climate",
+      "recent glaciation",
+      "extreme cold",
+      "low sunlight"
+    ],
+    "correct_index": 0,
+    "solution": "Long undisturbed evolutionary time and a warm, stable climate favour high tropical diversity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Conserving biodiversity hotspots is a priority because they contain __________.",
+    "options": [
+      "exceptional endemism under severe threat",
+      "the most minerals",
+      "no endemic species",
+      "only common species"
+    ],
+    "correct_index": 0,
+    "solution": "Hotspots concentrate exceptional endemism and are under severe threat, making them conservation priorities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The greatest threat from invasive species is that they __________.",
+    "options": [
+      "out-compete and displace native species",
+      "improve native diversity",
+      "add nutrients",
+      "have no effect"
+    ],
+    "correct_index": 0,
+    "solution": "Invasive species out-compete and displace native species, reducing biodiversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Biodiversity is highest at the level of __________ within most ecosystems.",
+    "options": [
+      "species (especially insects and microbes)",
+      "large mammals",
+      "birds only",
+      "reptiles only"
+    ],
+    "correct_index": 0,
+    "solution": "The bulk of biodiversity lies in the vast numbers of insects, microbes and other small organisms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall importance of biodiversity is that it __________.",
+    "options": [
+      "sustains ecosystem functions and human well-being",
+      "has no practical value",
+      "only matters for tourism",
+      "is a modern invention"
+    ],
+    "correct_index": 0,
+    "solution": "Biodiversity sustains ecosystem functions and services essential to human well-being.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The term 'biodiversity' (biological diversity) was popularised by which biologist?",
+    "options": [
+      "Charles Darwin",
+      "Edward O. Wilson",
+      "Gregor Mendel",
+      "Alfred Wallace"
+    ],
+    "correct_index": 1,
+    "solution": "Edward O. Wilson popularised the term 'biodiversity' in the 1980s; he is often called the 'father of biodiversity'. The concept covers genetic, species and ecosystem diversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three fundamental levels of biodiversity are genetic diversity, species diversity and:",
+    "options": [
+      "Population diversity",
+      "Ecosystem diversity",
+      "Regional diversity",
+      "Global diversity"
+    ],
+    "correct_index": 1,
+    "solution": "Biodiversity is measured at three levels: genetic (variation within a species), species (variety of species) and ecosystem (variety of habitats/ecosystems in a region).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Genetic diversity refers to variation:",
+    "options": [
+      "Between different ecosystems",
+      "Among individuals within a species (in their genes)",
+      "Between continents",
+      "Among climates"
+    ],
+    "correct_index": 1,
+    "solution": "Genetic diversity is the variation in genes within a species — e.g. the many varieties of rice or mango in India — which underpins adaptability and breeding potential.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Alpha diversity' refers to the diversity:",
+    "options": [
+      "Between two ecosystems",
+      "Within a particular area or community (local species richness)",
+      "Across an entire region",
+      "Of genes only"
+    ],
+    "correct_index": 1,
+    "solution": "Alpha diversity is the species diversity within a single community or habitat. Beta diversity is the change in species between habitats, and gamma is the total diversity of a region/landscape.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Beta diversity' measures the:",
+    "options": [
+      "Diversity within one habitat",
+      "Rate of change in species composition between different habitats/along a gradient",
+      "Total regional diversity",
+      "Genetic variety"
+    ],
+    "correct_index": 1,
+    "solution": "Beta diversity quantifies the turnover or difference in species composition between habitats or along an environmental gradient — high beta diversity means very different species between sites.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Gamma diversity' refers to the:",
+    "options": [
+      "Diversity within a single site",
+      "Total species diversity across a large region or landscape",
+      "Difference between two sites",
+      "Genetic mutation rate"
+    ],
+    "correct_index": 1,
+    "solution": "Gamma diversity is the overall diversity of a large geographic area or landscape, encompassing the combined alpha diversity of its communities and the beta diversity among them.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which latitudinal pattern of biodiversity is generally observed?",
+    "options": [
+      "Diversity increases toward the poles",
+      "Diversity is highest at the equator and decreases toward the poles",
+      "Diversity is uniform everywhere",
+      "Diversity is highest at the poles"
+    ],
+    "correct_index": 1,
+    "solution": "Species diversity generally shows a latitudinal gradient — highest in the tropics (near the equator) and declining toward the poles, due to greater warmth, stability, productivity and evolutionary time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most species-rich terrestrial ecosystem on Earth is the:",
+    "options": [
+      "Temperate forest",
+      "Tropical rainforest (e.g. Amazon)",
+      "Tundra",
+      "Desert"
+    ],
+    "correct_index": 1,
+    "solution": "Tropical rainforests, especially the Amazon, harbour the greatest terrestrial biodiversity, containing a large share of the world's species despite covering a small land area.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The number of biodiversity hotspots recognised globally (by Conservation International) is about:",
+    "options": [
+      "10",
+      "25",
+      "36",
+      "100"
+    ],
+    "correct_index": 2,
+    "solution": "There are around 36 biodiversity hotspots worldwide — regions with exceptional endemism (≥1,500 endemic plants) that have lost at least 70% of their original habitat.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following biodiversity hotspots lies partly or wholly within India?",
+    "options": [
+      "Only the Western Ghats",
+      "Western Ghats-Sri Lanka, Himalaya, Indo-Burma and Sundaland",
+      "Only the Himalaya",
+      "Only Indo-Burma"
+    ],
+    "correct_index": 1,
+    "solution": "Four global hotspots extend into India: the Western Ghats & Sri Lanka, the Himalaya, Indo-Burma, and Sundaland (the Nicobar Islands part).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept of biodiversity 'hotspots' was proposed by:",
+    "options": [
+      "E.O. Wilson",
+      "Norman Myers",
+      "Charles Elton",
+      "Robert MacArthur"
+    ],
+    "correct_index": 1,
+    "solution": "Norman Myers introduced the biodiversity hotspot concept in 1988 to prioritise conservation in regions of high endemism facing severe habitat loss.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Endemism' is highest in which of the following Indian regions?",
+    "options": [
+      "Thar Desert",
+      "Western Ghats and Northeastern Himalaya",
+      "Indo-Gangetic plains",
+      "Deccan lava plateau"
+    ],
+    "correct_index": 1,
+    "solution": "The Western Ghats and the northeastern Himalaya show very high endemism — many species found nowhere else — making them priority conservation areas within India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Species richness' refers to the:",
+    "options": [
+      "Relative abundance of each species",
+      "Total number of different species in an area",
+      "Genetic variety within a species",
+      "Biomass of an ecosystem"
+    ],
+    "correct_index": 1,
+    "solution": "Species richness is simply the count of different species present. Species diversity also incorporates evenness (relative abundance) of those species.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India, with about 2.4% of the world's land area, harbours roughly what share of global recorded species?",
+    "options": [
+      "Less than 1%",
+      "About 7–8%",
+      "About 25%",
+      "About 50%"
+    ],
+    "correct_index": 1,
+    "solution": "India, one of 17 'megadiverse' countries, holds around 7–8% of the world's recorded species on just ~2.4% of its land area, reflecting its rich biodiversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'megadiverse country' is one that:",
+    "options": [
+      "Has the largest land area",
+      "Harbours a very large proportion of Earth's species, including high endemism",
+      "Has the most people",
+      "Has no biodiversity"
+    ],
+    "correct_index": 1,
+    "solution": "Megadiverse countries (17 in all, including India) together contain most of Earth's species. The designation is based on high endemism and species numbers, especially with a tropical/marine component.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two 'biodiversity hotspots' that are entirely within India's biogeographic realm and richest in endemic amphibians/reptiles include the:",
+    "options": [
+      "Thar and Deccan",
+      "Western Ghats",
+      "Gangetic plain",
+      "Coromandel coast"
+    ],
+    "correct_index": 1,
+    "solution": "The Western Ghats are exceptionally rich in endemic amphibians, reptiles and plants; recent decades have seen many new frog species described there, underlining its irreplaceability.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The utilitarian argument for conserving biodiversity emphasises:",
+    "options": [
+      "The intrinsic right of species to exist",
+      "Direct economic benefits like food, medicine and industrial products",
+      "Aesthetic value only",
+      "No benefits"
+    ],
+    "correct_index": 1,
+    "solution": "The narrowly utilitarian view stresses direct economic goods humans derive — food, fibre, firewood, medicines and industrial products — from biodiversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'broadly utilitarian' argument for biodiversity highlights:",
+    "options": [
+      "Only cash crops",
+      "Ecosystem services like oxygen, pollination, climate regulation and water purification",
+      "Only tourism",
+      "Genetic uniformity"
+    ],
+    "correct_index": 1,
+    "solution": "The broadly utilitarian argument values ecosystem services — oxygen production, pollination, nutrient cycling, climate and water regulation — that biodiversity provides to all life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'ethical/intrinsic' argument for conserving biodiversity holds that:",
+    "options": [
+      "Species have value only if useful to humans",
+      "Every species has intrinsic value and we have a moral duty to protect it",
+      "Only beautiful species matter",
+      "Biodiversity has no value"
+    ],
+    "correct_index": 1,
+    "solution": "The ethical argument asserts that every form of life has intrinsic worth and that humans have a moral responsibility to pass on the biological legacy to future generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'rivet popper hypothesis' (by Paul Ehrlich) compares species in an ecosystem to:",
+    "options": [
+      "Bricks in a wall",
+      "Rivets holding an aeroplane together",
+      "Drops of water",
+      "Grains of sand"
+    ],
+    "correct_index": 1,
+    "solution": "Ehrlich's rivet popper hypothesis likens species to rivets on an aircraft — losing a few may be tolerated, but continued loss (especially of key 'rivets'/keystone species) risks catastrophic ecosystem collapse.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The current, human-driven loss of species is often called the:",
+    "options": [
+      "First mass extinction",
+      "Sixth mass extinction (Anthropocene extinction)",
+      "Ice age",
+      "Cambrian explosion"
+    ],
+    "correct_index": 1,
+    "solution": "Scientists warn that human activities are driving a 'sixth mass extinction' — the Anthropocene extinction — with extinction rates far above the natural background rate.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The species-area relationship, described by Alexander von Humboldt, shows that species richness:",
+    "options": [
+      "Decreases with area",
+      "Increases with area, but the curve flattens (a rising then plateauing relationship)",
+      "Is unrelated to area",
+      "Falls to zero with large area"
+    ],
+    "correct_index": 1,
+    "solution": "The species-area relationship shows richness rising with sampled area along a curve that becomes a straight line on a log-log plot (S = CA^Z), reflecting how larger areas support more species.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is India's contribution of endemic species highest in?",
+    "options": [
+      "Amphibians and flowering plants of the Western Ghats/Himalaya",
+      "Polar species",
+      "Desert cacti",
+      "Deep-sea fish"
+    ],
+    "correct_index": 0,
+    "solution": "India's endemism is concentrated in the Western Ghats and Himalaya, especially among amphibians, reptiles and flowering plants — a large fraction found nowhere else.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Andaman and Nicobar Islands are biologically significant because of their:",
+    "options": [
+      "Absence of species",
+      "High endemism and island biodiversity, including part of the Sundaland hotspot",
+      "Desert ecosystems",
+      "Glaciers"
+    ],
+    "correct_index": 1,
+    "solution": "The isolated Andaman and Nicobar Islands host many endemic species and unique island ecosystems; the Nicobars fall within the Sundaland biodiversity hotspot.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Loss of biodiversity can reduce ecosystem 'productivity' and 'stability' because:",
+    "options": [
+      "Fewer species always means more stability",
+      "Diverse communities are generally more productive and resilient to disturbance",
+      "Diversity has no effect",
+      "Only one species matters"
+    ],
+    "correct_index": 1,
+    "solution": "Experimental studies show that more diverse communities tend to be more productive and better able to withstand and recover from disturbances (like drought or invasion) than species-poor ones.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'In-situ' methods to conserve biodiversity include all EXCEPT:",
+    "options": [
+      "Biosphere reserves",
+      "National parks and sanctuaries",
+      "Sacred groves",
+      "Botanical gardens"
+    ],
+    "correct_index": 3,
+    "solution": "Botanical gardens are ex-situ (off-site) conservation. In-situ methods protect biodiversity within natural habitats — biosphere reserves, national parks, sanctuaries and sacred groves.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of biosphere reserves in India (as of the mid-2020s) is about:",
+    "options": [
+      "5",
+      "18",
+      "36",
+      "50"
+    ],
+    "correct_index": 1,
+    "solution": "India has 18 biosphere reserves; twelve of these are also part of the UNESCO World Network of Biosphere Reserves.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Cryopreservation' and 'seed banks' are examples of conserving which level of biodiversity ex-situ?",
+    "options": [
+      "Ecosystem diversity",
+      "Genetic and species diversity",
+      "Only habitat diversity",
+      "No diversity"
+    ],
+    "correct_index": 1,
+    "solution": "Seed banks, gene banks and cryopreservation store genetic material and species outside their habitat, conserving genetic and species diversity for future use and restoration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Hotspots' are prioritised for conservation because they combine:",
+    "options": [
+      "Low diversity and low threat",
+      "High endemism (irreplaceability) with high levels of threat/habitat loss",
+      "High rainfall only",
+      "Large size only"
+    ],
+    "correct_index": 1,
+    "solution": "Biodiversity hotspots are chosen where exceptional endemism (irreplaceable species) coincides with severe habitat loss (high threat), maximising conservation impact per unit effort.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which taxonomic group has the greatest number of described species on Earth?",
+    "options": [
+      "Mammals",
+      "Insects",
+      "Birds",
+      "Fish"
+    ],
+    "correct_index": 1,
+    "solution": "Insects are the most species-rich group, making up over half of all described species; among them beetles are famously numerous.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Biopiracy' refers to the:",
+    "options": [
+      "Legal trade in timber",
+      "Unauthorised commercial exploitation of biological resources or traditional knowledge without fair benefit-sharing",
+      "Fishing",
+      "Poaching only"
+    ],
+    "correct_index": 1,
+    "solution": "Biopiracy is the appropriation of biological resources or associated traditional knowledge (often from developing countries) without permission or fair benefit-sharing — countered by the CBD/Nagoya Protocol and India's Biological Diversity Act.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The turmeric and neem patent cases are famous Indian examples of successfully challenging:",
+    "options": [
+      "Deforestation",
+      "Biopiracy (patents on traditional knowledge)",
+      "Air pollution",
+      "Overfishing"
+    ],
+    "correct_index": 1,
+    "solution": "India successfully challenged foreign patents on the wound-healing use of turmeric and the antifungal use of neem, landmark cases against biopiracy that spurred the Traditional Knowledge Digital Library.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Traditional Knowledge Digital Library (TKDL)' was created by India to:",
+    "options": [
+      "Store weather data",
+      "Document traditional knowledge (e.g. Ayurveda) to prevent its wrongful patenting abroad",
+      "Sell medicines",
+      "Map forests"
+    ],
+    "correct_index": 1,
+    "solution": "The TKDL is a database documenting India's traditional medicinal knowledge (Ayurveda, Unani, Siddha, Yoga) to serve as prior art and block biopiracy patents in foreign patent offices.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is an example of high genetic diversity conserved in India?",
+    "options": [
+      "A single crop variety",
+      "Thousands of traditional varieties (landraces) of rice and mango",
+      "One species of tiger",
+      "A single forest"
+    ],
+    "correct_index": 1,
+    "solution": "India's agricultural heritage includes tens of thousands of rice landraces and hundreds of mango varieties — a rich reservoir of genetic diversity valuable for breeding and food security.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'latitudinal gradient in diversity' is explained partly because tropical regions have:",
+    "options": [
+      "Less solar energy",
+      "More evolutionary time, stable climate and higher productivity",
+      "Frequent glaciation",
+      "No niches"
+    ],
+    "correct_index": 1,
+    "solution": "The tropics have had a longer, relatively undisturbed evolutionary history, a stable and warm climate, and higher productivity — all favouring greater speciation and species accumulation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Ecosystem services' provided by biodiversity include which of the following? (i) Pollination (ii) Climate regulation (iii) Nutrient cycling",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Biodiversity underpins pollination of crops, climate and water regulation, nutrient cycling, soil formation and more — services essential to human wellbeing and often taken for granted.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's 'People's Biodiversity Registers' primarily document:",
+    "options": [
+      "Only wildlife crimes",
+      "Local biodiversity and associated traditional knowledge at the village level",
+      "Only forest area",
+      "Air quality"
+    ],
+    "correct_index": 1,
+    "solution": "Under the Biological Diversity Act, Biodiversity Management Committees prepare People's Biodiversity Registers recording local flora, fauna and traditional knowledge, aiding conservation and benefit-sharing.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 'threatened' species, in conservation terms, is one that is:",
+    "options": [
+      "Increasing rapidly",
+      "At risk of extinction (vulnerable, endangered or critically endangered)",
+      "Common everywhere",
+      "Newly discovered"
+    ],
+    "correct_index": 1,
+    "solution": "Threatened species are those in the IUCN categories Vulnerable, Endangered or Critically Endangered — facing a heightened risk of extinction.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The disproportionate loss of biodiversity when a habitat is destroyed is worsened by:",
+    "options": [
+      "Increased habitat",
+      "Habitat fragmentation, which isolates populations and shrinks viable areas",
+      "More corridors",
+      "Larger reserves"
+    ],
+    "correct_index": 1,
+    "solution": "Fragmentation breaks habitats into small, isolated patches, cutting off populations, reducing gene flow and shrinking areas below what species need — accelerating local extinctions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wildlife corridors help conserve biodiversity by:",
+    "options": [
+      "Blocking animal movement",
+      "Connecting fragmented habitats to allow movement, migration and gene flow",
+      "Increasing isolation",
+      "Encouraging poaching"
+    ],
+    "correct_index": 1,
+    "solution": "Corridors link isolated habitat patches, enabling animals to move, disperse, find mates and maintain gene flow — countering the harmful effects of fragmentation (e.g. elephant corridors in India).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best distinguishes species diversity from genetic diversity?",
+    "options": [
+      "They are identical",
+      "Species diversity is variety among species; genetic diversity is variety within a species",
+      "Genetic diversity is between ecosystems",
+      "Species diversity is within one organism"
+    ],
+    "correct_index": 1,
+    "solution": "Species diversity counts the variety of different species in an area, while genetic diversity captures the range of genetic variation among individuals within a single species.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Convention on Biological Diversity' recognises countries' sovereign rights over their:",
+    "options": [
+      "Airspace only",
+      "Biological resources",
+      "Oceans only",
+      "Minerals only"
+    ],
+    "correct_index": 1,
+    "solution": "The CBD affirms that nations have sovereign rights over their biological resources and can regulate access, ensuring fair and equitable sharing of benefits from their use.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Western Ghats were declared a UNESCO World Heritage Site primarily for their:",
+    "options": [
+      "Mineral wealth",
+      "Exceptional biodiversity and endemism",
+      "Desert landscapes",
+      "Industrial value"
+    ],
+    "correct_index": 1,
+    "solution": "The Western Ghats, older than the Himalayas, were inscribed as a UNESCO World Heritage Site for their outstanding biodiversity, high endemism and influence on the monsoon.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An 'indicator species' is one whose presence or condition:",
+    "options": [
+      "Has no meaning",
+      "Reflects the health or particular condition of its environment",
+      "Only indicates temperature",
+      "Is always invasive"
+    ],
+    "correct_index": 1,
+    "solution": "Indicator species (e.g. lichens for air quality, amphibians for wetland health) signal environmental conditions; their decline warns of ecosystem stress or pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which factor, unique to islands, makes island species especially vulnerable to extinction?",
+    "options": [
+      "Large populations",
+      "Small, isolated populations with narrow ranges and no escape from threats/invasives",
+      "Abundant predators",
+      "Continental connections"
+    ],
+    "correct_index": 1,
+    "solution": "Island species often have small, geographically restricted populations, limited genetic diversity and no defence against introduced predators/competitors — making them highly extinction-prone.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Coldspots' of biodiversity, though species-poor, may still merit conservation because they:",
+    "options": [
+      "Have no value",
+      "Provide unique habitats, services or harbour specialised species (e.g. deserts, tundra)",
+      "Are always hotspots",
+      "Cannot support life"
+    ],
+    "correct_index": 1,
+    "solution": "Low-diversity regions like deserts, tundra and polar areas host uniquely adapted, often endemic species and provide important ecosystem functions, so they too warrant conservation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main direct driver behind the projected 'sixth mass extinction' is:",
+    "options": [
+      "Natural climate cycles",
+      "Human activities — habitat destruction, overexploitation, pollution, invasives and climate change",
+      "Asteroid impact",
+      "Volcanic winter"
+    ],
+    "correct_index": 1,
+    "solution": "Unlike the five previous mass extinctions, the current one is driven predominantly by human activities — habitat loss, overexploitation, pollution, invasive species and human-caused climate change.",
+    "difficulty": "medium"
+  }
 ]

@@ -1,51 +1,1154 @@
 [
-  {"stem":"The first major international conference on the human environment, which led to the creation of UNEP, was held in 1972 at:","options":["Rio de Janeiro","Stockholm","Nairobi","Johannesburg"],"correct_index":1,"solution":"The 1972 United Nations Conference on the Human Environment in Stockholm was the first global environment summit; it led to the founding of the UN Environment Programme (UNEP) and is commemorated by World Environment Day (5 June).","difficulty":"medium"},
-  {"stem":"The United Nations Environment Programme (UNEP) is headquartered in:","options":["Geneva","Nairobi, Kenya","New York","Paris"],"correct_index":1,"solution":"UNEP, the leading global environmental authority within the UN, is headquartered in Nairobi, Kenya — the first UN agency to be based in a developing country.","difficulty":"medium"},
-  {"stem":"World Environment Day is observed every year on:","options":["22 April","5 June","2 February","16 September"],"correct_index":1,"solution":"World Environment Day (5 June), led by UNEP, marks the anniversary of the 1972 Stockholm Conference and is the UN's flagship day for environmental awareness.","difficulty":"easy"},
-  {"stem":"The 1992 'Earth Summit' (UN Conference on Environment and Development) in Rio de Janeiro produced all of the following EXCEPT:","options":["UNFCCC","Convention on Biological Diversity","Agenda 21","The Montreal Protocol"],"correct_index":3,"solution":"The Rio Earth Summit (1992) opened the UNFCCC and CBD for signature and adopted Agenda 21 and the Rio Declaration. The Montreal Protocol predates it (1987) and deals with ozone.","difficulty":"medium"},
-  {"stem":"'Agenda 21', adopted at the Rio Earth Summit, is:","options":["A binding emissions treaty","A non-binding global action plan for sustainable development in the 21st century","A trade agreement","A ban on plastics"],"correct_index":1,"solution":"Agenda 21 is a comprehensive, non-binding action plan for sustainable development to be implemented globally, nationally and locally by governments and organisations.","difficulty":"medium"},
-  {"stem":"The Convention on Biological Diversity (CBD) has three main objectives: conservation of biodiversity, sustainable use of its components, and:","options":["Banning all trade","Fair and equitable sharing of benefits arising from genetic resources","Building zoos","Promoting monoculture"],"correct_index":1,"solution":"The CBD's three goals are conservation of biological diversity, sustainable use, and fair and equitable sharing of benefits from the use of genetic resources (access and benefit-sharing).","difficulty":"medium"},
-  {"stem":"The Cartagena Protocol (2000) under the CBD deals with the safe handling and transboundary movement of:","options":["Hazardous chemicals","Living Modified Organisms (LMOs)/GMOs","Endangered species","Ozone-depleting substances"],"correct_index":1,"solution":"The Cartagena Protocol on Biosafety governs the safe transfer, handling and use of Living Modified Organisms (products of modern biotechnology) that may affect biodiversity, using the precautionary approach.","difficulty":"hard"},
-  {"stem":"The Nagoya Protocol (2010) under the CBD addresses:","options":["Climate finance","Access to genetic resources and fair, equitable sharing of benefits (ABS)","Ozone depletion","Marine pollution"],"correct_index":1,"solution":"The Nagoya Protocol provides a legal framework for Access and Benefit-Sharing (ABS) — ensuring that benefits from using genetic resources are shared fairly with the countries and communities providing them.","difficulty":"hard"},
-  {"stem":"The 'Kunming-Montreal Global Biodiversity Framework' (2022) set a headline target to protect what fraction of land and seas by 2030?","options":["10%","30% (the '30x30' target)","50%","100%"],"correct_index":1,"solution":"The Kunming-Montreal Global Biodiversity Framework, adopted at CBD COP15, includes the '30x30' goal — conserving at least 30% of land, inland waters and coastal/marine areas by 2030.","difficulty":"hard"},
-  {"stem":"CITES, which regulates international trade in endangered species, stands for the Convention on International Trade in Endangered Species of:","options":["Wild Fauna and Flora","Wild Forests","Wetland Fauna","Water and Forests"],"correct_index":0,"solution":"CITES (1973) — the Convention on International Trade in Endangered Species of Wild Fauna and Flora — regulates cross-border trade to ensure it does not threaten species survival. Its secretariat is in Geneva.","difficulty":"medium"},
-  {"stem":"Under CITES, species threatened with extinction and barred from commercial international trade are listed in:","options":["Appendix I","Appendix II","Appendix III","Schedule A"],"correct_index":0,"solution":"CITES Appendix I lists species threatened with extinction; their commercial international trade is generally prohibited. Appendix II covers species that may become threatened; Appendix III covers species protected in at least one country.","difficulty":"hard"},
-  {"stem":"The Convention on Migratory Species (CMS), also called the Bonn Convention, protects:","options":["Only marine fish","Migratory species and their habitats across national boundaries","Ozone layer","Wetlands only"],"correct_index":1,"solution":"The CMS (Bonn Convention, 1979) conserves migratory species (birds, marine mammals, etc.) that cross national borders, encouraging range states to cooperate. India hosted CMS COP13 in 2020 (Gandhinagar).","difficulty":"medium"},
-  {"stem":"India hosted the 13th Conference of Parties (COP13) of the CMS in 2020 at Gandhinagar; its mascot was the:","options":["Tiger","Great Indian Bustard ('Gibi')","Elephant","Snow leopard"],"correct_index":1,"solution":"CMS COP13 (Gandhinagar, 2020) had the Great Indian Bustard as its mascot 'Gibi', highlighting the plight of this critically endangered migratory bird.","difficulty":"hard"},
-  {"stem":"The Stockholm Convention (2001) targets the elimination or restriction of:","options":["Greenhouse gases","Persistent Organic Pollutants (POPs)","Ozone-depleting substances","Radioactive waste"],"correct_index":1,"solution":"The Stockholm Convention on Persistent Organic Pollutants restricts or eliminates POPs — toxic, long-lived, bioaccumulative chemicals (e.g. DDT, PCBs, dioxins) that travel globally.","difficulty":"medium"},
-  {"stem":"The Basel Convention (1989) regulates the transboundary movement of:","options":["Endangered species","Hazardous wastes","Migratory birds","Greenhouse gases"],"correct_index":1,"solution":"The Basel Convention controls transboundary movements of hazardous and other wastes and their disposal, curbing the dumping of toxic waste from richer to poorer nations.","difficulty":"medium"},
-  {"stem":"The Rotterdam Convention promotes shared responsibility in the international trade of hazardous chemicals through the principle of:","options":["Prior Informed Consent (PIC)","Free trade","Polluter pays","Common heritage"],"correct_index":0,"solution":"The Rotterdam Convention uses the Prior Informed Consent procedure, requiring exporters to obtain the importing country's informed agreement before shipping listed hazardous chemicals and pesticides.","difficulty":"hard"},
-  {"stem":"The 'Basel, Rotterdam and Stockholm' conventions together form a cluster dealing broadly with:","options":["Climate change","Sound management of chemicals and hazardous wastes","Biodiversity","Ozone"],"correct_index":1,"solution":"The BRS conventions (Basel–wastes, Rotterdam–chemical trade, Stockholm–POPs) are jointly administered to promote the environmentally sound management of chemicals and wastes throughout their life cycle.","difficulty":"hard"},
-  {"stem":"The Minamata Convention (2013) aims to protect human health and the environment from emissions of:","options":["Lead","Mercury","Arsenic","Cadmium"],"correct_index":1,"solution":"The Minamata Convention on Mercury controls and reduces anthropogenic mercury emissions and releases, named after the Japanese city that suffered mercury poisoning. It restricts mercury mining, use and trade.","difficulty":"medium"},
-  {"stem":"The Vienna Convention (1985) is the framework treaty under which which protocol was adopted?","options":["Kyoto Protocol","Montreal Protocol","Cartagena Protocol","Nagoya Protocol"],"correct_index":1,"solution":"The Vienna Convention for the Protection of the Ozone Layer (1985) is the framework under which the Montreal Protocol (1987) was adopted to phase out ozone-depleting substances.","difficulty":"medium"},
-  {"stem":"The UN Convention to Combat Desertification (UNCCD) primarily addresses:","options":["Ocean pollution","Land degradation and desertification, especially in drylands","Air pollution","Nuclear waste"],"correct_index":1,"solution":"The UNCCD (1994), the third Rio Convention, combats desertification and land degradation and mitigates drought effects, particularly in Africa and other dryland regions. India hosted its COP14 in 2019.","difficulty":"medium"},
-  {"stem":"The three 'Rio Conventions' emerging from or linked to the 1992 Earth Summit are the UNFCCC, the CBD and the:","options":["Ramsar Convention","UNCCD (Convention to Combat Desertification)","CITES","Basel Convention"],"correct_index":1,"solution":"The three Rio Conventions are the UNFCCC (climate), CBD (biodiversity) and UNCCD (desertification), reflecting the interlinked global environmental challenges identified at Rio.","difficulty":"hard"},
-  {"stem":"The IUCN (International Union for Conservation of Nature), which produces the Red List, is:","options":["A UN agency","A union of governments and civil-society organisations focused on nature conservation","A trading body","A climate fund"],"correct_index":1,"solution":"The IUCN is a membership union of government and civil-society organisations, best known for the Red List of Threatened Species and for setting protected-area categories. Its headquarters is at Gland, Switzerland.","difficulty":"medium"},
-  {"stem":"The World Wide Fund for Nature (WWF), known for its panda logo, is:","options":["A UN body","An international NGO working on wilderness preservation and reducing human impact on the environment","A carbon-trading exchange","A government agency"],"correct_index":1,"solution":"WWF is a leading international non-governmental conservation organisation (panda logo), working on biodiversity, forests, oceans, wildlife and climate.","difficulty":"easy"},
-  {"stem":"The 'Sustainable Development Goals (SDGs)', adopted in 2015, number:","options":["8","17","30","50"],"correct_index":1,"solution":"The 2030 Agenda for Sustainable Development sets 17 SDGs (with 169 targets), succeeding the Millennium Development Goals. Several (e.g. SDG 13 Climate Action, 14 Life Below Water, 15 Life on Land) are environmental.","difficulty":"medium"},
-  {"stem":"The term 'Sustainable Development' was popularised by the 1987 report of the World Commission on Environment and Development, known as the:","options":["Stern Review","Brundtland Report ('Our Common Future')","Kyoto Report","Rio Declaration"],"correct_index":1,"solution":"The Brundtland Report 'Our Common Future' (1987) defined sustainable development as development that meets present needs without compromising the ability of future generations to meet their own needs.","difficulty":"medium"},
-  {"stem":"The 'Global Environment Facility (GEF)' functions primarily as a:","options":["Trade tribunal","Financial mechanism funding environmental projects in developing countries under several conventions","Weather agency","Research lab"],"correct_index":1,"solution":"The GEF provides funding to developing countries for projects addressing biodiversity, climate change, land degradation, chemicals and international waters, serving as a financial mechanism for the CBD, UNFCCC, UNCCD and others.","difficulty":"hard"},
-  {"stem":"The 'Green Climate Fund (GCF)' was established under the UNFCCC to:","options":["Fund fossil fuels","Channel climate finance from developed to developing countries for mitigation and adaptation","Trade endangered species","Regulate ozone"],"correct_index":1,"solution":"The Green Climate Fund helps developing countries reduce emissions and adapt to climate change, operationalising the goal of mobilising climate finance under the UNFCCC/Paris framework.","difficulty":"medium"},
-  {"stem":"The 'IPBES' is often called the 'IPCC for biodiversity'; it is the Intergovernmental Science-Policy Platform on Biodiversity and:","options":["Energy Services","Ecosystem Services","Economic Systems","Environmental Sanitation"],"correct_index":1,"solution":"IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services) assesses the state of biodiversity and ecosystem services for policymakers, paralleling the IPCC's role for climate.","difficulty":"hard"},
-  {"stem":"The 'REDD+' mechanism under the UNFCCC incentivises developing countries to:","options":["Increase deforestation","Reduce emissions from deforestation and forest degradation, and enhance forest carbon stocks","Build coal plants","Drain wetlands"],"correct_index":1,"solution":"REDD+ (Reducing Emissions from Deforestation and forest Degradation, plus conservation and sustainable forest management) provides results-based finance to developing countries that protect and enhance forest carbon sinks.","difficulty":"hard"},
-  {"stem":"The 'World Meteorological Organization (WMO)', a co-parent of the IPCC, is a specialised agency dealing with:","options":["Trade","Weather, climate and water resources","Health","Migration"],"correct_index":1,"solution":"The WMO is the UN specialised agency for weather, climate and the hydrological cycle; with UNEP it established the IPCC and coordinates global meteorological observation.","difficulty":"medium"},
-  {"stem":"India's flagship international grouping to make infrastructure resilient to disasters and climate is the:","options":["ISA","Coalition for Disaster Resilient Infrastructure (CDRI)","OPEC","ASEAN"],"correct_index":1,"solution":"India launched the Coalition for Disaster Resilient Infrastructure (CDRI) in 2019 to promote infrastructure systems that withstand climate and disaster risks; it is headquartered in New Delhi.","difficulty":"hard"},
-  {"stem":"The 'Ramsar', 'World Heritage' and 'Biosphere Reserve' designations are, respectively, associated with which bodies?","options":["Ramsar Convention, UNESCO, UNESCO-MAB","IUCN, WWF, UNEP","CITES, CMS, GEF","WMO, WHO, FAO"],"correct_index":0,"solution":"Ramsar sites fall under the Ramsar Convention; World Heritage Sites under UNESCO's World Heritage Convention; and Biosphere Reserves under UNESCO's Man and the Biosphere (MAB) Programme.","difficulty":"medium"},
-  {"stem":"The 'Bonn Challenge' is a global effort to:","options":["Restore degraded and deforested land (forest landscape restoration)","Reduce ocean plastic","Ban CFCs","Protect coral reefs"],"correct_index":0,"solution":"The Bonn Challenge aims to bring degraded and deforested landscapes into restoration (350 million hectares by 2030), contributing to climate, biodiversity and livelihood goals. India has made a large pledge under it.","difficulty":"hard"},
-  {"stem":"The 'One Sun One World One Grid (OSOWOG)' initiative, backed by India, envisions:","options":["A single global nuclear grid","An interconnected transnational solar power grid","A coal alliance","An oil cartel"],"correct_index":1,"solution":"OSOWOG proposes interconnecting solar energy grids across regions and countries so that 'the sun never sets' on the network, enabling reliable, round-the-clock renewable power sharing.","difficulty":"hard"},
-  {"stem":"The 'Paris Agreement' was concluded at which COP?","options":["COP15 (Copenhagen)","COP21 (Paris)","COP26 (Glasgow)","COP3 (Kyoto)"],"correct_index":1,"solution":"The Paris Agreement was adopted at COP21 in Paris in December 2015. (COP3 gave the Kyoto Protocol; COP15 Copenhagen failed to reach a binding deal; COP26 was Glasgow 2021.)","difficulty":"medium"},
-  {"stem":"The 'Stern Review' (2006) is notable for framing climate change as:","options":["A minor issue","The greatest and widest-ranging market failure, urging early economic action","A purely scientific matter","A political fabrication"],"correct_index":1,"solution":"The Stern Review on the Economics of Climate Change argued that the costs of inaction far outweigh the costs of early action, describing climate change as the greatest market failure ever seen.","difficulty":"hard"},
-  {"stem":"Which organisation maintains the 'World Network of Biosphere Reserves'?","options":["IUCN","UNESCO (Man and the Biosphere Programme)","WWF","FAO"],"correct_index":1,"solution":"UNESCO's Man and the Biosphere (MAB) Programme maintains the World Network of Biosphere Reserves. Twelve of India's biosphere reserves are part of this network.","difficulty":"medium"},
-  {"stem":"The 'Aichi Biodiversity Targets' were a set of 20 targets adopted under the CBD's Strategic Plan for:","options":["2011–2020","1990–2000","2030–2040","2000–2010"],"correct_index":0,"solution":"The Aichi Targets (adopted at Nagoya, 2010) formed the CBD's Strategic Plan for Biodiversity 2011–2020. They were largely unmet, leading to the new Kunming-Montreal framework (2022).","difficulty":"hard"},
-  {"stem":"The 'High Seas Treaty' (BBNJ Agreement, 2023) aims to conserve biodiversity in:","options":["Rivers","Areas of the ocean beyond national jurisdiction (the high seas)","Wetlands","Forests"],"correct_index":1,"solution":"The BBNJ (Biodiversity Beyond National Jurisdiction) or 'High Seas Treaty' (2023) provides for conservation and sustainable use of marine biodiversity in international waters, including marine protected areas on the high seas.","difficulty":"hard"},
-  {"stem":"Which convention is directly responsible for the 'Montreux Record' of threatened wetlands?","options":["CITES","Ramsar Convention","CBD","CMS"],"correct_index":1,"solution":"The Montreux Record is maintained under the Ramsar Convention, listing Ramsar sites whose ecological character is changing or likely to change due to human interference.","difficulty":"medium"},
-  {"stem":"The 'Kyoto Protocol' vs 'Paris Agreement' key difference is that Paris:","options":["Is binding on developed countries only","Applies to all countries via nationally determined contributions (bottom-up), unlike Kyoto's top-down targets on developed nations","Bans emissions trading","Sets no temperature goal"],"correct_index":1,"solution":"Kyoto imposed top-down binding targets only on developed (Annex I) countries; Paris takes a universal, bottom-up approach where all countries submit their own NDCs, aiming for well below 2°C.","difficulty":"hard"},
-  {"stem":"The 'Doha Amendment' extended which climate treaty into a second commitment period?","options":["Paris Agreement","Kyoto Protocol","Montreal Protocol","CBD"],"correct_index":1,"solution":"The Doha Amendment (2012) established the second commitment period of the Kyoto Protocol (2013–2020), though ratification was slow and its coverage limited.","difficulty":"hard"},
-  {"stem":"India's per-capita greenhouse-gas emissions, relevant to climate negotiations, are:","options":["The highest in the world","Well below the world average despite India's large total emissions","Zero","Equal to the USA's"],"correct_index":1,"solution":"India's per-capita emissions remain well below the global average and far below developed nations', a point India stresses in negotiations invoking equity and CBDR, even though its total emissions are among the highest due to population and development needs.","difficulty":"medium"},
-  {"stem":"'Carbon markets' under Article 6 of the Paris Agreement allow countries to:","options":["Avoid all action","Cooperate and trade emission-reduction outcomes to meet their NDCs cost-effectively","Increase emissions freely","Ban trade"],"correct_index":1,"solution":"Article 6 provides mechanisms for voluntary cooperation, including trading Internationally Transferred Mitigation Outcomes (ITMOs) and a centralised crediting mechanism, to help countries meet NDCs efficiently.","difficulty":"hard"},
-  {"stem":"The 'LeadIT' (Leadership Group for Industry Transition), co-founded by India and Sweden, focuses on decarbonising:","options":["Agriculture","Heavy industry (steel, cement, etc.)","Aviation only","Households"],"correct_index":1,"solution":"LeadIT brings together countries and companies committed to low-carbon transition of hard-to-abate heavy industries such as steel and cement, targeting net-zero industrial emissions.","difficulty":"hard"},
-  {"stem":"Which UN body adopted the resolution recognising a 'clean, healthy and sustainable environment' as a human right in 2022?","options":["Security Council","UN General Assembly","IMF","WTO"],"correct_index":1,"solution":"In 2022 the UN General Assembly adopted a landmark resolution recognising access to a clean, healthy and sustainable environment as a universal human right, building on an earlier Human Rights Council resolution.","difficulty":"hard"},
-  {"stem":"The 'Global Tiger Forum (GTF)', the only inter-governmental body for tiger conservation, is headquartered in:","options":["Geneva","New Delhi","Nairobi","Bangkok"],"correct_index":1,"solution":"The Global Tiger Forum, the sole intergovernmental international body dedicated to tiger conservation among tiger-range countries, is headquartered in New Delhi, India.","difficulty":"hard"},
-  {"stem":"The 'CoP' host and the '30x30' target are associated with which convention's 2022 summit?","options":["UNFCCC","Convention on Biological Diversity (Kunming-Montreal)","CITES","Ramsar"],"correct_index":1,"solution":"The '30x30' target is the flagship of the Kunming-Montreal Global Biodiversity Framework adopted at CBD COP15 (2022), presided over by China and held in Montreal.","difficulty":"medium"},
-  {"stem":"Which of the following correctly pairs a convention with its subject? (i) CITES – wildlife trade (ii) Ramsar – wetlands (iii) Basel – hazardous waste","options":["Only (i)","Only (i) and (ii)","(i), (ii) and (iii)","Only (iii)"],"correct_index":2,"solution":"All three pairings are correct: CITES governs trade in endangered species, Ramsar protects wetlands, and Basel regulates transboundary hazardous-waste movement.","difficulty":"medium"}
+  {
+    "stem": "The first major international conference on the human environment, which led to the creation of UNEP, was held in 1972 at:",
+    "options": [
+      "Rio de Janeiro",
+      "Stockholm",
+      "Nairobi",
+      "Johannesburg"
+    ],
+    "correct_index": 1,
+    "solution": "The 1972 United Nations Conference on the Human Environment in Stockholm was the first global environment summit; it led to the founding of the UN Environment Programme (UNEP) and is commemorated by World Environment Day (5 June).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The United Nations Environment Programme (UNEP) is headquartered in:",
+    "options": [
+      "Geneva",
+      "Nairobi, Kenya",
+      "New York",
+      "Paris"
+    ],
+    "correct_index": 1,
+    "solution": "UNEP, the leading global environmental authority within the UN, is headquartered in Nairobi, Kenya — the first UN agency to be based in a developing country.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "World Environment Day is observed every year on:",
+    "options": [
+      "22 April",
+      "5 June",
+      "2 February",
+      "16 September"
+    ],
+    "correct_index": 1,
+    "solution": "World Environment Day (5 June), led by UNEP, marks the anniversary of the 1972 Stockholm Conference and is the UN's flagship day for environmental awareness.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 1992 'Earth Summit' (UN Conference on Environment and Development) in Rio de Janeiro produced all of the following EXCEPT:",
+    "options": [
+      "UNFCCC",
+      "Convention on Biological Diversity",
+      "Agenda 21",
+      "The Montreal Protocol"
+    ],
+    "correct_index": 3,
+    "solution": "The Rio Earth Summit (1992) opened the UNFCCC and CBD for signature and adopted Agenda 21 and the Rio Declaration. The Montreal Protocol predates it (1987) and deals with ozone.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Agenda 21', adopted at the Rio Earth Summit, is:",
+    "options": [
+      "A binding emissions treaty",
+      "A non-binding global action plan for sustainable development in the 21st century",
+      "A trade agreement",
+      "A ban on plastics"
+    ],
+    "correct_index": 1,
+    "solution": "Agenda 21 is a comprehensive, non-binding action plan for sustainable development to be implemented globally, nationally and locally by governments and organisations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Convention on Biological Diversity (CBD) has three main objectives: conservation of biodiversity, sustainable use of its components, and:",
+    "options": [
+      "Banning all trade",
+      "Fair and equitable sharing of benefits arising from genetic resources",
+      "Building zoos",
+      "Promoting monoculture"
+    ],
+    "correct_index": 1,
+    "solution": "The CBD's three goals are conservation of biological diversity, sustainable use, and fair and equitable sharing of benefits from the use of genetic resources (access and benefit-sharing).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Cartagena Protocol (2000) under the CBD deals with the safe handling and transboundary movement of:",
+    "options": [
+      "Hazardous chemicals",
+      "Living Modified Organisms (LMOs)/GMOs",
+      "Endangered species",
+      "Ozone-depleting substances"
+    ],
+    "correct_index": 1,
+    "solution": "The Cartagena Protocol on Biosafety governs the safe transfer, handling and use of Living Modified Organisms (products of modern biotechnology) that may affect biodiversity, using the precautionary approach.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Nagoya Protocol (2010) under the CBD addresses:",
+    "options": [
+      "Climate finance",
+      "Access to genetic resources and fair, equitable sharing of benefits (ABS)",
+      "Ozone depletion",
+      "Marine pollution"
+    ],
+    "correct_index": 1,
+    "solution": "The Nagoya Protocol provides a legal framework for Access and Benefit-Sharing (ABS) — ensuring that benefits from using genetic resources are shared fairly with the countries and communities providing them.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Kunming-Montreal Global Biodiversity Framework' (2022) set a headline target to protect what fraction of land and seas by 2030?",
+    "options": [
+      "10%",
+      "30% (the '30x30' target)",
+      "50%",
+      "100%"
+    ],
+    "correct_index": 1,
+    "solution": "The Kunming-Montreal Global Biodiversity Framework, adopted at CBD COP15, includes the '30x30' goal — conserving at least 30% of land, inland waters and coastal/marine areas by 2030.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "CITES, which regulates international trade in endangered species, stands for the Convention on International Trade in Endangered Species of:",
+    "options": [
+      "Wild Fauna and Flora",
+      "Wild Forests",
+      "Wetland Fauna",
+      "Water and Forests"
+    ],
+    "correct_index": 0,
+    "solution": "CITES (1973) — the Convention on International Trade in Endangered Species of Wild Fauna and Flora — regulates cross-border trade to ensure it does not threaten species survival. Its secretariat is in Geneva.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under CITES, species threatened with extinction and barred from commercial international trade are listed in:",
+    "options": [
+      "Appendix I",
+      "Appendix II",
+      "Appendix III",
+      "Schedule A"
+    ],
+    "correct_index": 0,
+    "solution": "CITES Appendix I lists species threatened with extinction; their commercial international trade is generally prohibited. Appendix II covers species that may become threatened; Appendix III covers species protected in at least one country.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Convention on Migratory Species (CMS), also called the Bonn Convention, protects:",
+    "options": [
+      "Only marine fish",
+      "Migratory species and their habitats across national boundaries",
+      "Ozone layer",
+      "Wetlands only"
+    ],
+    "correct_index": 1,
+    "solution": "The CMS (Bonn Convention, 1979) conserves migratory species (birds, marine mammals, etc.) that cross national borders, encouraging range states to cooperate. India hosted CMS COP13 in 2020 (Gandhinagar).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India hosted the 13th Conference of Parties (COP13) of the CMS in 2020 at Gandhinagar; its mascot was the:",
+    "options": [
+      "Tiger",
+      "Great Indian Bustard ('Gibi')",
+      "Elephant",
+      "Snow leopard"
+    ],
+    "correct_index": 1,
+    "solution": "CMS COP13 (Gandhinagar, 2020) had the Great Indian Bustard as its mascot 'Gibi', highlighting the plight of this critically endangered migratory bird.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Stockholm Convention (2001) targets the elimination or restriction of:",
+    "options": [
+      "Greenhouse gases",
+      "Persistent Organic Pollutants (POPs)",
+      "Ozone-depleting substances",
+      "Radioactive waste"
+    ],
+    "correct_index": 1,
+    "solution": "The Stockholm Convention on Persistent Organic Pollutants restricts or eliminates POPs — toxic, long-lived, bioaccumulative chemicals (e.g. DDT, PCBs, dioxins) that travel globally.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Basel Convention (1989) regulates the transboundary movement of:",
+    "options": [
+      "Endangered species",
+      "Hazardous wastes",
+      "Migratory birds",
+      "Greenhouse gases"
+    ],
+    "correct_index": 1,
+    "solution": "The Basel Convention controls transboundary movements of hazardous and other wastes and their disposal, curbing the dumping of toxic waste from richer to poorer nations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rotterdam Convention promotes shared responsibility in the international trade of hazardous chemicals through the principle of:",
+    "options": [
+      "Prior Informed Consent (PIC)",
+      "Free trade",
+      "Polluter pays",
+      "Common heritage"
+    ],
+    "correct_index": 0,
+    "solution": "The Rotterdam Convention uses the Prior Informed Consent procedure, requiring exporters to obtain the importing country's informed agreement before shipping listed hazardous chemicals and pesticides.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Basel, Rotterdam and Stockholm' conventions together form a cluster dealing broadly with:",
+    "options": [
+      "Climate change",
+      "Sound management of chemicals and hazardous wastes",
+      "Biodiversity",
+      "Ozone"
+    ],
+    "correct_index": 1,
+    "solution": "The BRS conventions (Basel–wastes, Rotterdam–chemical trade, Stockholm–POPs) are jointly administered to promote the environmentally sound management of chemicals and wastes throughout their life cycle.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Minamata Convention (2013) aims to protect human health and the environment from emissions of:",
+    "options": [
+      "Lead",
+      "Mercury",
+      "Arsenic",
+      "Cadmium"
+    ],
+    "correct_index": 1,
+    "solution": "The Minamata Convention on Mercury controls and reduces anthropogenic mercury emissions and releases, named after the Japanese city that suffered mercury poisoning. It restricts mercury mining, use and trade.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Vienna Convention (1985) is the framework treaty under which which protocol was adopted?",
+    "options": [
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Cartagena Protocol",
+      "Nagoya Protocol"
+    ],
+    "correct_index": 1,
+    "solution": "The Vienna Convention for the Protection of the Ozone Layer (1985) is the framework under which the Montreal Protocol (1987) was adopted to phase out ozone-depleting substances.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The UN Convention to Combat Desertification (UNCCD) primarily addresses:",
+    "options": [
+      "Ocean pollution",
+      "Land degradation and desertification, especially in drylands",
+      "Air pollution",
+      "Nuclear waste"
+    ],
+    "correct_index": 1,
+    "solution": "The UNCCD (1994), the third Rio Convention, combats desertification and land degradation and mitigates drought effects, particularly in Africa and other dryland regions. India hosted its COP14 in 2019.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three 'Rio Conventions' emerging from or linked to the 1992 Earth Summit are the UNFCCC, the CBD and the:",
+    "options": [
+      "Ramsar Convention",
+      "UNCCD (Convention to Combat Desertification)",
+      "CITES",
+      "Basel Convention"
+    ],
+    "correct_index": 1,
+    "solution": "The three Rio Conventions are the UNFCCC (climate), CBD (biodiversity) and UNCCD (desertification), reflecting the interlinked global environmental challenges identified at Rio.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The IUCN (International Union for Conservation of Nature), which produces the Red List, is:",
+    "options": [
+      "A UN agency",
+      "A union of governments and civil-society organisations focused on nature conservation",
+      "A trading body",
+      "A climate fund"
+    ],
+    "correct_index": 1,
+    "solution": "The IUCN is a membership union of government and civil-society organisations, best known for the Red List of Threatened Species and for setting protected-area categories. Its headquarters is at Gland, Switzerland.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The World Wide Fund for Nature (WWF), known for its panda logo, is:",
+    "options": [
+      "A UN body",
+      "An international NGO working on wilderness preservation and reducing human impact on the environment",
+      "A carbon-trading exchange",
+      "A government agency"
+    ],
+    "correct_index": 1,
+    "solution": "WWF is a leading international non-governmental conservation organisation (panda logo), working on biodiversity, forests, oceans, wildlife and climate.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'Sustainable Development Goals (SDGs)', adopted in 2015, number:",
+    "options": [
+      "8",
+      "17",
+      "30",
+      "50"
+    ],
+    "correct_index": 1,
+    "solution": "The 2030 Agenda for Sustainable Development sets 17 SDGs (with 169 targets), succeeding the Millennium Development Goals. Several (e.g. SDG 13 Climate Action, 14 Life Below Water, 15 Life on Land) are environmental.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'Sustainable Development' was popularised by the 1987 report of the World Commission on Environment and Development, known as the:",
+    "options": [
+      "Stern Review",
+      "Brundtland Report ('Our Common Future')",
+      "Kyoto Report",
+      "Rio Declaration"
+    ],
+    "correct_index": 1,
+    "solution": "The Brundtland Report 'Our Common Future' (1987) defined sustainable development as development that meets present needs without compromising the ability of future generations to meet their own needs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Global Environment Facility (GEF)' functions primarily as a:",
+    "options": [
+      "Trade tribunal",
+      "Financial mechanism funding environmental projects in developing countries under several conventions",
+      "Weather agency",
+      "Research lab"
+    ],
+    "correct_index": 1,
+    "solution": "The GEF provides funding to developing countries for projects addressing biodiversity, climate change, land degradation, chemicals and international waters, serving as a financial mechanism for the CBD, UNFCCC, UNCCD and others.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Green Climate Fund (GCF)' was established under the UNFCCC to:",
+    "options": [
+      "Fund fossil fuels",
+      "Channel climate finance from developed to developing countries for mitigation and adaptation",
+      "Trade endangered species",
+      "Regulate ozone"
+    ],
+    "correct_index": 1,
+    "solution": "The Green Climate Fund helps developing countries reduce emissions and adapt to climate change, operationalising the goal of mobilising climate finance under the UNFCCC/Paris framework.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'IPBES' is often called the 'IPCC for biodiversity'; it is the Intergovernmental Science-Policy Platform on Biodiversity and:",
+    "options": [
+      "Energy Services",
+      "Ecosystem Services",
+      "Economic Systems",
+      "Environmental Sanitation"
+    ],
+    "correct_index": 1,
+    "solution": "IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services) assesses the state of biodiversity and ecosystem services for policymakers, paralleling the IPCC's role for climate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'REDD+' mechanism under the UNFCCC incentivises developing countries to:",
+    "options": [
+      "Increase deforestation",
+      "Reduce emissions from deforestation and forest degradation, and enhance forest carbon stocks",
+      "Build coal plants",
+      "Drain wetlands"
+    ],
+    "correct_index": 1,
+    "solution": "REDD+ (Reducing Emissions from Deforestation and forest Degradation, plus conservation and sustainable forest management) provides results-based finance to developing countries that protect and enhance forest carbon sinks.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'World Meteorological Organization (WMO)', a co-parent of the IPCC, is a specialised agency dealing with:",
+    "options": [
+      "Trade",
+      "Weather, climate and water resources",
+      "Health",
+      "Migration"
+    ],
+    "correct_index": 1,
+    "solution": "The WMO is the UN specialised agency for weather, climate and the hydrological cycle; with UNEP it established the IPCC and coordinates global meteorological observation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's flagship international grouping to make infrastructure resilient to disasters and climate is the:",
+    "options": [
+      "ISA",
+      "Coalition for Disaster Resilient Infrastructure (CDRI)",
+      "OPEC",
+      "ASEAN"
+    ],
+    "correct_index": 1,
+    "solution": "India launched the Coalition for Disaster Resilient Infrastructure (CDRI) in 2019 to promote infrastructure systems that withstand climate and disaster risks; it is headquartered in New Delhi.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Ramsar', 'World Heritage' and 'Biosphere Reserve' designations are, respectively, associated with which bodies?",
+    "options": [
+      "Ramsar Convention, UNESCO, UNESCO-MAB",
+      "IUCN, WWF, UNEP",
+      "CITES, CMS, GEF",
+      "WMO, WHO, FAO"
+    ],
+    "correct_index": 0,
+    "solution": "Ramsar sites fall under the Ramsar Convention; World Heritage Sites under UNESCO's World Heritage Convention; and Biosphere Reserves under UNESCO's Man and the Biosphere (MAB) Programme.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Bonn Challenge' is a global effort to:",
+    "options": [
+      "Restore degraded and deforested land (forest landscape restoration)",
+      "Reduce ocean plastic",
+      "Ban CFCs",
+      "Protect coral reefs"
+    ],
+    "correct_index": 0,
+    "solution": "The Bonn Challenge aims to bring degraded and deforested landscapes into restoration (350 million hectares by 2030), contributing to climate, biodiversity and livelihood goals. India has made a large pledge under it.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'One Sun One World One Grid (OSOWOG)' initiative, backed by India, envisions:",
+    "options": [
+      "A single global nuclear grid",
+      "An interconnected transnational solar power grid",
+      "A coal alliance",
+      "An oil cartel"
+    ],
+    "correct_index": 1,
+    "solution": "OSOWOG proposes interconnecting solar energy grids across regions and countries so that 'the sun never sets' on the network, enabling reliable, round-the-clock renewable power sharing.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Paris Agreement' was concluded at which COP?",
+    "options": [
+      "COP15 (Copenhagen)",
+      "COP21 (Paris)",
+      "COP26 (Glasgow)",
+      "COP3 (Kyoto)"
+    ],
+    "correct_index": 1,
+    "solution": "The Paris Agreement was adopted at COP21 in Paris in December 2015. (COP3 gave the Kyoto Protocol; COP15 Copenhagen failed to reach a binding deal; COP26 was Glasgow 2021.)",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Stern Review' (2006) is notable for framing climate change as:",
+    "options": [
+      "A minor issue",
+      "The greatest and widest-ranging market failure, urging early economic action",
+      "A purely scientific matter",
+      "A political fabrication"
+    ],
+    "correct_index": 1,
+    "solution": "The Stern Review on the Economics of Climate Change argued that the costs of inaction far outweigh the costs of early action, describing climate change as the greatest market failure ever seen.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which organisation maintains the 'World Network of Biosphere Reserves'?",
+    "options": [
+      "IUCN",
+      "UNESCO (Man and the Biosphere Programme)",
+      "WWF",
+      "FAO"
+    ],
+    "correct_index": 1,
+    "solution": "UNESCO's Man and the Biosphere (MAB) Programme maintains the World Network of Biosphere Reserves. Twelve of India's biosphere reserves are part of this network.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Aichi Biodiversity Targets' were a set of 20 targets adopted under the CBD's Strategic Plan for:",
+    "options": [
+      "2011–2020",
+      "1990–2000",
+      "2030–2040",
+      "2000–2010"
+    ],
+    "correct_index": 0,
+    "solution": "The Aichi Targets (adopted at Nagoya, 2010) formed the CBD's Strategic Plan for Biodiversity 2011–2020. They were largely unmet, leading to the new Kunming-Montreal framework (2022).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'High Seas Treaty' (BBNJ Agreement, 2023) aims to conserve biodiversity in:",
+    "options": [
+      "Rivers",
+      "Areas of the ocean beyond national jurisdiction (the high seas)",
+      "Wetlands",
+      "Forests"
+    ],
+    "correct_index": 1,
+    "solution": "The BBNJ (Biodiversity Beyond National Jurisdiction) or 'High Seas Treaty' (2023) provides for conservation and sustainable use of marine biodiversity in international waters, including marine protected areas on the high seas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which convention is directly responsible for the 'Montreux Record' of threatened wetlands?",
+    "options": [
+      "CITES",
+      "Ramsar Convention",
+      "CBD",
+      "CMS"
+    ],
+    "correct_index": 1,
+    "solution": "The Montreux Record is maintained under the Ramsar Convention, listing Ramsar sites whose ecological character is changing or likely to change due to human interference.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Kyoto Protocol' vs 'Paris Agreement' key difference is that Paris:",
+    "options": [
+      "Is binding on developed countries only",
+      "Applies to all countries via nationally determined contributions (bottom-up), unlike Kyoto's top-down targets on developed nations",
+      "Bans emissions trading",
+      "Sets no temperature goal"
+    ],
+    "correct_index": 1,
+    "solution": "Kyoto imposed top-down binding targets only on developed (Annex I) countries; Paris takes a universal, bottom-up approach where all countries submit their own NDCs, aiming for well below 2°C.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Doha Amendment' extended which climate treaty into a second commitment period?",
+    "options": [
+      "Paris Agreement",
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "CBD"
+    ],
+    "correct_index": 1,
+    "solution": "The Doha Amendment (2012) established the second commitment period of the Kyoto Protocol (2013–2020), though ratification was slow and its coverage limited.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India's per-capita greenhouse-gas emissions, relevant to climate negotiations, are:",
+    "options": [
+      "The highest in the world",
+      "Well below the world average despite India's large total emissions",
+      "Zero",
+      "Equal to the USA's"
+    ],
+    "correct_index": 1,
+    "solution": "India's per-capita emissions remain well below the global average and far below developed nations', a point India stresses in negotiations invoking equity and CBDR, even though its total emissions are among the highest due to population and development needs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Carbon markets' under Article 6 of the Paris Agreement allow countries to:",
+    "options": [
+      "Avoid all action",
+      "Cooperate and trade emission-reduction outcomes to meet their NDCs cost-effectively",
+      "Increase emissions freely",
+      "Ban trade"
+    ],
+    "correct_index": 1,
+    "solution": "Article 6 provides mechanisms for voluntary cooperation, including trading Internationally Transferred Mitigation Outcomes (ITMOs) and a centralised crediting mechanism, to help countries meet NDCs efficiently.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'LeadIT' (Leadership Group for Industry Transition), co-founded by India and Sweden, focuses on decarbonising:",
+    "options": [
+      "Agriculture",
+      "Heavy industry (steel, cement, etc.)",
+      "Aviation only",
+      "Households"
+    ],
+    "correct_index": 1,
+    "solution": "LeadIT brings together countries and companies committed to low-carbon transition of hard-to-abate heavy industries such as steel and cement, targeting net-zero industrial emissions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which UN body adopted the resolution recognising a 'clean, healthy and sustainable environment' as a human right in 2022?",
+    "options": [
+      "Security Council",
+      "UN General Assembly",
+      "IMF",
+      "WTO"
+    ],
+    "correct_index": 1,
+    "solution": "In 2022 the UN General Assembly adopted a landmark resolution recognising access to a clean, healthy and sustainable environment as a universal human right, building on an earlier Human Rights Council resolution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Global Tiger Forum (GTF)', the only inter-governmental body for tiger conservation, is headquartered in:",
+    "options": [
+      "Geneva",
+      "New Delhi",
+      "Nairobi",
+      "Bangkok"
+    ],
+    "correct_index": 1,
+    "solution": "The Global Tiger Forum, the sole intergovernmental international body dedicated to tiger conservation among tiger-range countries, is headquartered in New Delhi, India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'CoP' host and the '30x30' target are associated with which convention's 2022 summit?",
+    "options": [
+      "UNFCCC",
+      "Convention on Biological Diversity (Kunming-Montreal)",
+      "CITES",
+      "Ramsar"
+    ],
+    "correct_index": 1,
+    "solution": "The '30x30' target is the flagship of the Kunming-Montreal Global Biodiversity Framework adopted at CBD COP15 (2022), presided over by China and held in Montreal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs a convention with its subject? (i) CITES – wildlife trade (ii) Ramsar – wetlands (iii) Basel – hazardous waste",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "Only (iii)"
+    ],
+    "correct_index": 2,
+    "solution": "All three pairings are correct: CITES governs trade in endangered species, Ramsar protects wetlands, and Basel regulates transboundary hazardous-waste movement.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 1972 Stockholm Conference produced which foundational declaration?",
+    "options": [
+      "Rio Declaration",
+      "Stockholm Declaration on the Human Environment",
+      "Paris Declaration",
+      "Nairobi Declaration"
+    ],
+    "correct_index": 1,
+    "solution": "The Stockholm Declaration (1972), with its principles linking environment and development, was the first major international statement on environmental protection and led to the creation of UNEP.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's Prime Minister Indira Gandhi, at the 1972 Stockholm Conference, famously linked environmental degradation to:",
+    "options": [
+      "Space exploration",
+      "Poverty (calling poverty the greatest polluter)",
+      "Trade wars",
+      "Tourism"
+    ],
+    "correct_index": 1,
+    "solution": "Indira Gandhi's Stockholm address argued that poverty and underdevelopment were major causes of environmental degradation — 'are not poverty and need the greatest polluters?' — shaping the developing world's stance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "UNEP's flagship annual report on the gap between emission pledges and required cuts is the:",
+    "options": [
+      "World Bank Report",
+      "Emissions Gap Report",
+      "Human Development Report",
+      "World Investment Report"
+    ],
+    "correct_index": 1,
+    "solution": "UNEP's Emissions Gap Report annually assesses the gap between countries' emission-reduction pledges and the cuts needed to meet the Paris temperature goals — highlighting the shortfall.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The IUCN's four protected-area related outputs include the Red List of Threatened Species and the:",
+    "options": [
+      "Kyoto Protocol",
+      "Green List of Protected and Conserved Areas / protected-area categories",
+      "Montreal Protocol",
+      "Paris Agreement"
+    ],
+    "correct_index": 1,
+    "solution": "Besides the Red List, IUCN maintains protected-area management categories and the IUCN Green List recognising well-managed protected and conserved areas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "CITES came into force in 1975; a species can be listed in its appendices based on the level of:",
+    "options": [
+      "Its beauty",
+      "Threat from international trade",
+      "Its size",
+      "Its colour"
+    ],
+    "correct_index": 1,
+    "solution": "CITES lists species in Appendices I, II or III according to how threatened they are by international trade, regulating or banning trade accordingly to ensure survival.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An 'Appendix II' species under CITES is one that:",
+    "options": [
+      "Is already extinct",
+      "Is not necessarily threatened now but may become so unless trade is regulated",
+      "Faces a total trade ban",
+      "Is protected in only one country"
+    ],
+    "correct_index": 1,
+    "solution": "Appendix II covers species not currently threatened with extinction but which could be if trade is unregulated; trade is allowed with permits ensuring it is sustainable and legal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The elephant and tiger are listed in CITES Appendix I, meaning international commercial trade in them is:",
+    "options": [
+      "Freely allowed",
+      "Generally prohibited",
+      "Encouraged",
+      "Unregulated"
+    ],
+    "correct_index": 1,
+    "solution": "Appendix I species like the tiger and (Asian) elephant are threatened with extinction, so commercial international trade in specimens is generally banned, with only exceptional non-commercial permits.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Convention on Migratory Species (CMS) lists migratory species in Appendix I (threatened) and Appendix II, which covers species that:",
+    "options": [
+      "Are extinct",
+      "Would benefit from international cooperation via agreements",
+      "Never migrate",
+      "Are domestic"
+    ],
+    "correct_index": 1,
+    "solution": "CMS Appendix II lists migratory species with an unfavourable conservation status that would significantly benefit from international agreements among their range states.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India is a party to several CMS-linked agreements/MoUs, including those for the conservation of:",
+    "options": [
+      "Domestic cattle",
+      "Dugongs, marine turtles and Siberian cranes",
+      "Pet dogs",
+      "Farm chickens"
+    ],
+    "correct_index": 1,
+    "solution": "Under the CMS, India has signed MoUs for the conservation of migratory species such as dugongs, marine turtles, raptors and the Siberian crane.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Convention on Biological Diversity was opened for signature at the 1992 Rio Summit and entered into force in:",
+    "options": [
+      "1990",
+      "1993",
+      "2000",
+      "2010"
+    ],
+    "correct_index": 1,
+    "solution": "The CBD entered into force in December 1993. Its secretariat is in Montreal, Canada, and it now has three protocols/frameworks addressing biosafety, benefit-sharing and biodiversity targets.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Aichi Targets' failure led to the adoption in 2022 of the:",
+    "options": [
+      "Kyoto Protocol",
+      "Kunming-Montreal Global Biodiversity Framework",
+      "Ramsar Convention",
+      "Paris Agreement"
+    ],
+    "correct_index": 1,
+    "solution": "After the largely unmet Aichi Biodiversity Targets (2011–2020), the Kunming-Montreal Global Biodiversity Framework (2022) set new goals including the '30x30' target.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Cartagena Protocol's guiding approach for handling Living Modified Organisms is the:",
+    "options": [
+      "Free-trade principle",
+      "Precautionary approach",
+      "Polluter pays only",
+      "Common heritage"
+    ],
+    "correct_index": 1,
+    "solution": "The Cartagena Protocol on Biosafety applies the precautionary approach, allowing countries to restrict imports of LMOs where there is scientific uncertainty about risks to biodiversity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Stockholm Convention's initial list of persistent organic pollutants (the 'dirty dozen') included pesticides like DDT and industrial chemicals like:",
+    "options": [
+      "Table salt",
+      "PCBs (polychlorinated biphenyls)",
+      "Oxygen",
+      "Water"
+    ],
+    "correct_index": 1,
+    "solution": "The Stockholm Convention's original 'dirty dozen' POPs included pesticides (DDT, aldrin, dieldrin) and industrial chemicals/by-products such as PCBs, dioxins and furans.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which convention would govern the export of used lead-acid batteries or hazardous e-waste across borders?",
+    "options": [
+      "Ramsar",
+      "Basel Convention",
+      "CITES",
+      "CMS"
+    ],
+    "correct_index": 1,
+    "solution": "The Basel Convention regulates the transboundary movement of hazardous wastes such as used batteries and e-waste, requiring prior informed consent and preventing dumping in poorer nations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Basel Ban Amendment' specifically prohibits the export of hazardous wastes from:",
+    "options": [
+      "Developing to developed countries",
+      "Developed (OECD/EU) to developing countries",
+      "Within Europe only",
+      "Cities to villages"
+    ],
+    "correct_index": 1,
+    "solution": "The Basel Ban Amendment bans the export of hazardous wastes from developed (largely OECD/EU) countries to developing countries, closing a loophole for toxic-waste dumping.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Minamata Convention on Mercury restricts mercury use in products including:",
+    "options": [
+      "Solar panels",
+      "Thermometers, some batteries, and small-scale gold mining",
+      "Bicycles",
+      "Books"
+    ],
+    "correct_index": 1,
+    "solution": "The Minamata Convention phases down mercury in products (thermometers, some batteries, cosmetics) and processes, and addresses artisanal gold mining, a major mercury-emission source.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The three Rio Conventions (UNFCCC, CBD, UNCCD) are linked because they all address:",
+    "options": [
+      "Trade",
+      "Interconnected global environmental challenges from the 1992 Earth Summit",
+      "Space",
+      "Health only"
+    ],
+    "correct_index": 1,
+    "solution": "The three Rio Conventions tackle climate change, biodiversity loss and desertification/land degradation respectively — interlinked challenges recognised at the 1992 Rio Earth Summit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India hosted the UNCCD COP14 in 2019 at Greater Noida, where it committed to restore degraded land amounting to:",
+    "options": [
+      "1 million hectares",
+      "26 million hectares by 2030",
+      "No target",
+      "500 hectares"
+    ],
+    "correct_index": 1,
+    "solution": "At UNCCD COP14, India raised its land-restoration ambition, committing to restore 26 million hectares of degraded land by 2030, aligning with land-degradation-neutrality goals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Land Degradation Neutrality (LDN)' is a target associated with which convention?",
+    "options": [
+      "Ramsar",
+      "UNCCD",
+      "CITES",
+      "Montreal Protocol"
+    ],
+    "correct_index": 1,
+    "solution": "Land Degradation Neutrality — a state where healthy, productive land is maintained or restored — is a key target under the UN Convention to Combat Desertification (UNCCD) and SDG 15.3.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'IPBES Global Assessment' (2019) warned that around how many species face extinction?",
+    "options": [
+      "1,000",
+      "About 1 million",
+      "10",
+      "100"
+    ],
+    "correct_index": 1,
+    "solution": "The IPBES Global Assessment (2019) warned that around 1 million animal and plant species are threatened with extinction, many within decades — the most comprehensive biodiversity review of its kind.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Green Climate Fund' is headquartered in:",
+    "options": [
+      "Nairobi",
+      "Songdo, South Korea",
+      "Geneva",
+      "New York"
+    ],
+    "correct_index": 1,
+    "solution": "The Green Climate Fund, the world's largest dedicated climate fund, is headquartered in Songdo, Incheon, South Korea, channelling finance to developing countries for mitigation and adaptation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Kunming-Montreal' framework's targets also include reducing harmful government subsidies by at least how much?",
+    "options": [
+      "US$5 billion",
+      "US$500 billion per year",
+      "US$1 million",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "The Global Biodiversity Framework targets reducing subsidies harmful to biodiversity by at least US$500 billion per year and mobilising US$200 billion annually for biodiversity by 2030.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Debt-for-nature swaps' are an innovative conservation-finance tool in which:",
+    "options": [
+      "Nature is sold",
+      "A portion of a country's debt is forgiven in exchange for domestic investment in conservation",
+      "Debt is doubled",
+      "Forests are cut"
+    ],
+    "correct_index": 1,
+    "solution": "In a debt-for-nature swap, creditors forgive or restructure part of a developing country's debt in return for its commitment to fund conservation, linking financial relief with environmental protection.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'World Heritage Convention' (1972) is administered by:",
+    "options": [
+      "IUCN",
+      "UNESCO",
+      "WWF",
+      "UNEP"
+    ],
+    "correct_index": 1,
+    "solution": "The Convention Concerning the Protection of the World Cultural and Natural Heritage (1972) is administered by UNESCO, which maintains the World Heritage List of cultural and natural sites.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A UNESCO World Heritage Site can be placed on the 'List of World Heritage in Danger' when it:",
+    "options": [
+      "Is well-managed",
+      "Faces serious and specific threats (like development, conflict or disaster)",
+      "Attracts tourists",
+      "Is newly listed"
+    ],
+    "correct_index": 1,
+    "solution": "The Danger List flags World Heritage Sites facing grave threats — armed conflict, natural disasters, pollution, uncontrolled development — to mobilise corrective international attention and assistance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India's 'LiFE' movement was presented internationally as a way to complement climate policy by focusing on:",
+    "options": [
+      "Industrial output",
+      "Individual and community behaviour (sustainable lifestyles)",
+      "Military spending",
+      "Space missions"
+    ],
+    "correct_index": 1,
+    "solution": "Mission LiFE (Lifestyle for Environment), championed by India at global forums, promotes mindful, sustainable consumption at the individual/community level as a bottom-up complement to top-down policy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Coalition for Disaster Resilient Infrastructure (CDRI)', launched by India, is headquartered in:",
+    "options": [
+      "Geneva",
+      "New Delhi",
+      "Tokyo",
+      "Paris"
+    ],
+    "correct_index": 1,
+    "solution": "The CDRI, launched by India in 2019, is headquartered in New Delhi and works to make infrastructure systems resilient to climate and disaster risks globally.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'International Solar Alliance' achieved treaty-based status and is the first international intergovernmental organisation headquartered in:",
+    "options": [
+      "France",
+      "India (Gurugram)",
+      "USA",
+      "China"
+    ],
+    "correct_index": 1,
+    "solution": "The International Solar Alliance, co-founded by India and France, is the first treaty-based international organisation to be headquartered in India (Gurugram, Haryana).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'REDD+' finance rewards countries for verified reductions in emissions from:",
+    "options": [
+      "Industry",
+      "Deforestation and forest degradation (plus forest conservation)",
+      "Shipping",
+      "Aviation"
+    ],
+    "correct_index": 1,
+    "solution": "REDD+ provides results-based payments to developing countries that reduce deforestation and forest degradation and enhance forest carbon stocks through conservation and sustainable management.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'polluter pays' and 'common but differentiated responsibilities' are examples of:",
+    "options": [
+      "Trade rules",
+      "Principles of international environmental law",
+      "Military doctrines",
+      "Tax laws"
+    ],
+    "correct_index": 1,
+    "solution": "CBDR, the polluter-pays principle, the precautionary principle and sustainable development are foundational principles of international environmental law, shaping treaties and negotiations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Ramsar', 'CMS' and 'CITES' conventions are sometimes together termed the:",
+    "options": [
+      "Climate conventions",
+      "Biodiversity-related conventions",
+      "Trade conventions",
+      "Ocean treaties"
+    ],
+    "correct_index": 1,
+    "solution": "Ramsar (wetlands), CMS (migratory species), CITES (trade in species), CBD and the World Heritage Convention are collectively called the biodiversity-related conventions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'BBNJ / High Seas Treaty' (2023) is significant because it enables the creation of:",
+    "options": [
+      "High-seas fishing fleets",
+      "Marine Protected Areas in international waters beyond national jurisdiction",
+      "Oil rigs",
+      "Shipping lanes"
+    ],
+    "correct_index": 1,
+    "solution": "The High Seas Treaty (BBNJ) allows establishing marine protected areas and requires environmental impact assessments in the high seas — filling a major governance gap for the two-thirds of the ocean beyond national jurisdiction.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Nagoya Protocol' complements the CBD by operationalising which of its three objectives?",
+    "options": [
+      "Only conservation",
+      "Fair and equitable sharing of benefits from genetic resources (ABS)",
+      "Only sustainable use",
+      "Trade liberalisation"
+    ],
+    "correct_index": 1,
+    "solution": "The Nagoya Protocol provides the international framework for Access and Benefit-Sharing (ABS), operationalising the CBD's third objective — fair sharing of benefits from genetic resources.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'IPBES' and 'IPCC' differ in that IPBES focuses on biodiversity/ecosystem services while IPCC focuses on:",
+    "options": [
+      "Trade",
+      "Climate change science",
+      "Wildlife trade",
+      "Wetlands"
+    ],
+    "correct_index": 1,
+    "solution": "IPCC assesses the science of climate change; IPBES ('the IPCC for biodiversity') assesses the state of biodiversity and ecosystem services — both inform policy but on different domains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Montreal Protocol's Multilateral Fund helps ______ countries meet their phase-out obligations.",
+    "options": [
+      "Developed",
+      "Developing",
+      "Only European",
+      "Only island"
+    ],
+    "correct_index": 1,
+    "solution": "The Multilateral Fund provides financial and technical assistance to developing countries to help them phase out ozone-depleting substances, embodying differentiated responsibilities.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'World Wide Fund for Nature (WWF)' runs which well-known biennial global awareness event?",
+    "options": [
+      "Earth Hour",
+      "World Cup",
+      "Olympics",
+      "Davos"
+    ],
+    "correct_index": 0,
+    "solution": "WWF organises Earth Hour, an annual event in which people switch off lights for an hour to raise awareness about climate change and environmental protection.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Bonn Challenge' target and India's pledge under it relate to restoring:",
+    "options": [
+      "Oceans",
+      "Degraded and deforested land (forest landscape restoration)",
+      "Deserts only",
+      "Rivers"
+    ],
+    "correct_index": 1,
+    "solution": "The Bonn Challenge is a global goal to restore 350 million hectares of degraded/deforested land by 2030; India has pledged to restore a large area under it, contributing to climate and biodiversity goals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Loss and Damage' finance differs from adaptation finance because it addresses:",
+    "options": [
+      "Preventable risks only",
+      "Unavoidable, often irreversible climate impacts that have already occurred",
+      "Military losses",
+      "Trade losses"
+    ],
+    "correct_index": 1,
+    "solution": "Loss and Damage refers to the unavoidable harms of climate change that go beyond adaptation (e.g. loss of land, culture, lives), for which the dedicated fund was created at COP27/28.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Sustainable Development Goals' most directly focused on the environment include SDG 13 (Climate), SDG 14 (Life Below Water) and:",
+    "options": [
+      "SDG 1 (Poverty)",
+      "SDG 15 (Life on Land)",
+      "SDG 4 (Education)",
+      "SDG 8 (Work)"
+    ],
+    "correct_index": 1,
+    "solution": "SDG 15 (Life on Land) targets protecting terrestrial ecosystems, forests and biodiversity; together with SDG 13 (Climate Action) and SDG 14 (Life Below Water) it forms the core environmental SDGs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Ecosystem-based adaptation', promoted in international forums, uses ______ to help societies adapt to climate change.",
+    "options": [
+      "Concrete only",
+      "Biodiversity and ecosystem services (e.g. mangroves, wetlands)",
+      "Fossil fuels",
+      "Nuclear power"
+    ],
+    "correct_index": 1,
+    "solution": "Ecosystem-based adaptation harnesses nature — restoring mangroves, wetlands and forests — to reduce climate risks like floods and storms while providing co-benefits, a nature-based approach.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'World Meteorological Organization' issues authoritative statements on the state of the:",
+    "options": [
+      "Economy",
+      "Global climate and weather",
+      "Stock market",
+      "Population"
+    ],
+    "correct_index": 1,
+    "solution": "The WMO publishes State of the Global Climate reports and greenhouse-gas bulletins, providing authoritative data on temperature, sea level, greenhouse gases and extreme weather.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's stance in climate negotiations strongly invokes 'equity' and 'CBDR-RC', the latter adding which qualifier?",
+    "options": [
+      "Reduced Cost",
+      "Respective Capabilities",
+      "Rapid Compliance",
+      "Regional Control"
+    ],
+    "correct_index": 1,
+    "solution": "CBDR-RC stands for Common But Differentiated Responsibilities and Respective Capabilities — recognising that countries' obligations should reflect both historical responsibility and their differing national circumstances/capacities.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Montreal' city hosts the secretariat of which biodiversity treaty?",
+    "options": [
+      "Ramsar",
+      "Convention on Biological Diversity",
+      "CITES",
+      "CMS"
+    ],
+    "correct_index": 1,
+    "solution": "The CBD Secretariat is in Montreal, Canada. (CITES and Ramsar secretariats are in the Geneva/Gland area of Switzerland; CMS is in Bonn, Germany.)",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'CMS Secretariat' is located in which German city, giving the convention its alternative name?",
+    "options": [
+      "Berlin",
+      "Bonn",
+      "Munich",
+      "Hamburg"
+    ],
+    "correct_index": 1,
+    "solution": "The CMS Secretariat is in Bonn, Germany, which is why the Convention on Migratory Species is also called the Bonn Convention.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Article 6' of the Paris Agreement enables international carbon-market cooperation through mechanisms including:",
+    "options": [
+      "Military alliances",
+      "Internationally Transferred Mitigation Outcomes (ITMOs)",
+      "Trade tariffs",
+      "Fishing quotas"
+    ],
+    "correct_index": 1,
+    "solution": "Article 6 allows countries to cooperate via carbon markets, including trading ITMOs, to help meet their NDCs more cost-effectively while avoiding double counting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overarching goal linking most modern environmental treaties is:",
+    "options": [
+      "Maximising trade",
+      "Sustainable development balancing environment and economy",
+      "Military security",
+      "Space colonisation"
+    ],
+    "correct_index": 1,
+    "solution": "From Stockholm (1972) through Rio (1992) to the SDGs (2015), international environmental governance is anchored in sustainable development — reconciling environmental protection with economic and social progress.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a body with its function? (i) IUCN – Red List (ii) IPCC – climate assessments (iii) Ramsar STRP – wetland science advice",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: IUCN produces the Red List, the IPCC produces climate assessments, and the Ramsar Scientific and Technical Review Panel advises on wetland science.",
+    "difficulty": "medium"
+  }
 ]

@@ -1,52 +1,1190 @@
 [
-  {"stem":"Which article of the Indian Constitution places a Directive Principle duty on the State to protect and improve the environment and safeguard forests and wildlife?","options":["Article 21","Article 48A","Article 39","Article 14"],"correct_index":1,"solution":"Article 48A, a Directive Principle inserted by the 42nd Amendment (1976), directs the State to protect and improve the environment and safeguard forests and wildlife.","difficulty":"medium"},
-  {"stem":"The Fundamental Duty of every citizen to protect and improve the natural environment is contained in:","options":["Article 51A(g)","Article 19","Article 25","Article 300A"],"correct_index":0,"solution":"Article 51A(g), a Fundamental Duty added by the 42nd Amendment (1976), makes it the duty of every citizen to protect and improve the natural environment including forests, lakes, rivers and wildlife.","difficulty":"medium"},
-  {"stem":"The Supreme Court has read the 'right to a clean/healthy environment' as part of which Fundamental Right?","options":["Right to Equality (Art 14)","Right to Life (Art 21)","Right to Freedom (Art 19)","Right against Exploitation (Art 23)"],"correct_index":1,"solution":"Through cases like Subhash Kumar and M.C. Mehta, the Supreme Court held that the Right to Life under Article 21 includes the right to a wholesome environment and pollution-free water and air.","difficulty":"medium"},
-  {"stem":"The 42nd Constitutional Amendment (1976) is significant for the environment because it:","options":["Removed forests from state control entirely","Added Articles 48A and 51A(g) and moved 'forests' and 'protection of wild animals and birds' to the Concurrent List","Abolished pollution boards","Banned all industries"],"correct_index":1,"solution":"The 42nd Amendment added the environmental Directive Principle (48A) and Fundamental Duty (51A(g)) and shifted 'forests' and 'protection of wild animals and birds' from the State List to the Concurrent List, enabling central legislation.","difficulty":"hard"},
-  {"stem":"The Environment (Protection) Act, 1986 is called an 'umbrella legislation' because it:","options":["Covers only air","Gives the Central Government wide powers to take all measures to protect and improve the environment","Deals only with forests","Only sets up tribunals"],"correct_index":1,"solution":"The EPA, 1986 empowers the Centre to lay down standards, regulate industries, handle hazardous substances and coordinate action across all environmental domains — an umbrella over air, water, land and other laws.","difficulty":"medium"},
-  {"stem":"The Environment (Protection) Act, 1986 was enacted largely as a response to which event?","options":["Chernobyl disaster","Bhopal Gas Tragedy (1984)","Chipko movement","Silent Valley protest"],"correct_index":1,"solution":"The EPA, 1986 followed the 1984 Bhopal Gas Tragedy (and honoured commitments made at the 1972 Stockholm Conference), giving the Centre broad powers to prevent such disasters.","difficulty":"medium"},
-  {"stem":"'Environmental Impact Assessment (EIA)' is required in India for certain projects primarily to:","options":["Increase project cost","Evaluate the likely environmental effects of a project before approval and suggest mitigation","Ban all projects","Speed up construction"],"correct_index":1,"solution":"EIA is a planning tool to predict and evaluate a project's environmental consequences before it is cleared, ensuring mitigation measures and public consultation. It operates under EIA Notifications issued under the EPA, 1986.","difficulty":"medium"},
-  {"stem":"Public consultation/public hearing is a key stage of the EIA process because it:","options":["Is optional and never held","Gives affected people and the public a chance to voice concerns before clearance","Only involves the developer","Replaces scientific study"],"correct_index":1,"solution":"The public hearing stage lets local communities and stakeholders raise environmental and social concerns, which must be considered before environmental clearance is granted (except for exempted categories).","difficulty":"medium"},
-  {"stem":"Under the EIA framework, projects are categorised as 'Category A' and 'Category B' mainly based on:","options":["Their colour","Their potential environmental impact and scale, deciding whether clearance is granted by the Centre or the State","Their profit","Their owner"],"correct_index":1,"solution":"Category A projects (larger impact) are appraised and cleared at the Central level (MoEFCC/Expert Appraisal Committee); Category B (smaller) are handled by State Environment Impact Assessment Authorities.","difficulty":"hard"},
-  {"stem":"The Wildlife (Protection) Act was enacted in the year:","options":["1972","1980","1986","1927"],"correct_index":0,"solution":"The Wildlife (Protection) Act, 1972 provides for the protection of wild animals, birds and plants and establishes protected areas (national parks, sanctuaries) and schedules of protected species.","difficulty":"easy"},
-  {"stem":"The Forest (Conservation) Act was passed in:","options":["1972","1980","1986","2006"],"correct_index":1,"solution":"The Forest (Conservation) Act, 1980 restricts the de-reservation of forests and the diversion of forest land for non-forest purposes without prior Central Government approval, curbing deforestation.","difficulty":"medium"},
-  {"stem":"The 'Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006' — the Forest Rights Act — chiefly recognises:","options":["Corporate mining rights","The rights of forest-dwelling communities over forest land and resources they traditionally use","Rights of tourists","Foreign investment"],"correct_index":1,"solution":"The Forest Rights Act, 2006 recognises and vests forest rights (individual and community) in Scheduled Tribes and other traditional forest dwellers, correcting historical injustice and giving Gram Sabhas a role in forest governance.","difficulty":"medium"},
-  {"stem":"Under the Forest Rights Act, the power to give consent for diversion of forest land often rests with the:","options":["District Collector alone","Gram Sabha (village assembly)","Forest contractor","Supreme Court"],"correct_index":1,"solution":"The FRA empowers the Gram Sabha to protect forests and, in many cases, its consent is required before forest land is diverted — as upheld in the Niyamgiri (Vedanta) case where Gram Sabhas rejected bauxite mining.","difficulty":"hard"},
-  {"stem":"The Biological Diversity Act, 2002 was enacted to give effect to which international convention?","options":["CITES","Convention on Biological Diversity (CBD)","Ramsar Convention","UNFCCC"],"correct_index":1,"solution":"The Biological Diversity Act, 2002 implements India's obligations under the CBD, regulating access to biological resources and associated knowledge and ensuring fair benefit-sharing.","difficulty":"medium"},
-  {"stem":"The three-tier structure under the Biological Diversity Act comprises the National Biodiversity Authority, State Biodiversity Boards and:","options":["Gram Panchayats","Biodiversity Management Committees (BMCs)","Pollution Control Boards","Wildlife Wardens"],"correct_index":1,"solution":"The Act creates a three-tier system: the National Biodiversity Authority (Chennai), State Biodiversity Boards, and local Biodiversity Management Committees which prepare People's Biodiversity Registers.","difficulty":"hard"},
-  {"stem":"The National Biodiversity Authority (NBA) is headquartered in:","options":["New Delhi","Chennai","Hyderabad","Bengaluru"],"correct_index":1,"solution":"The National Biodiversity Authority, the apex body under the Biological Diversity Act, is headquartered in Chennai, Tamil Nadu.","difficulty":"hard"},
-  {"stem":"The Central Pollution Control Board (CPCB) and State Pollution Control Boards were first constituted under the:","options":["Air Act, 1981","Water (Prevention and Control of Pollution) Act, 1974","EPA, 1986","Wildlife Act, 1972"],"correct_index":1,"solution":"The Water Act, 1974 established the CPCB and SPCBs; the Air Act, 1981 later entrusted them with air-pollution functions as well.","difficulty":"medium"},
-  {"stem":"The National Green Tribunal (NGT) was established under an Act of:","options":["2006","2010","1986","2016"],"correct_index":1,"solution":"The National Green Tribunal Act, 2010 created the NGT for effective and expeditious disposal of cases relating to environmental protection and conservation of forests and other natural resources.","difficulty":"medium"},
-  {"stem":"Appeals against orders of the National Green Tribunal lie to the:","options":["High Court","Supreme Court","District Court","No appeal is allowed"],"correct_index":1,"solution":"Appeals against NGT decisions go directly to the Supreme Court of India (generally within 90 days), reflecting the Tribunal's specialised, high-level status.","difficulty":"hard"},
-  {"stem":"The 'Compensatory Afforestation Fund' (CAMPA) is used to:","options":["Build roads","Fund afforestation and forest regeneration to compensate for forest land diverted to non-forest use","Pay industry subsidies","Import timber"],"correct_index":1,"solution":"CAMPA manages funds collected from user agencies (as compensatory afforestation and net present value) when forest land is diverted, channelling them into afforestation, wildlife protection and forest management.","difficulty":"hard"},
-  {"stem":"The 'National Action Plan on Climate Change (NAPCC)' includes the 'Green India Mission', which aims to:","options":["Build highways","Increase forest/tree cover and improve ecosystem services","Promote coal","Ban farming"],"correct_index":1,"solution":"The National Mission for a Green India under the NAPCC aims to protect, restore and enhance India's forest cover and respond to climate change through afforestation and ecosystem restoration.","difficulty":"medium"},
-  {"stem":"The 'Coastal Regulation Zone (CRZ)' notifications regulate development along:","options":["Riverbanks in the interior","The coastline and intertidal zones to protect coastal ecology and communities","Mountain slopes","Deserts"],"correct_index":1,"solution":"CRZ notifications (under the EPA, 1986) classify and regulate activities in coastal stretches and tidal-influenced water bodies to protect coastal ecosystems, fisher communities and to manage coastal hazards.","difficulty":"medium"},
-  {"stem":"The Ministry responsible for environmental policy and clearances at the Centre is the:","options":["Ministry of Agriculture","Ministry of Environment, Forest and Climate Change (MoEFCC)","Ministry of Home Affairs","Ministry of Power"],"correct_index":1,"solution":"The MoEFCC is the nodal ministry for planning, promotion, coordination and overseeing the implementation of India's environmental and forestry policies and programmes.","difficulty":"easy"},
-  {"stem":"The 'Chipko Movement' of the 1970s, a landmark environmental movement, involved villagers:","options":["Mining coal","Hugging trees to prevent them from being felled","Building dams","Fishing"],"correct_index":1,"solution":"The Chipko ('to embrace') Movement in Uttarakhand saw villagers, notably women, hug trees to prevent logging, becoming a symbol of grassroots conservation and forest rights. Sunderlal Bahuguna and Chandi Prasad Bhatt were key figures.","difficulty":"medium"},
-  {"stem":"The 'Silent Valley' movement in Kerala successfully prevented a:","options":["Coal mine","Hydroelectric dam that would have submerged a pristine tropical rainforest","Highway","Airport"],"correct_index":1,"solution":"Public agitation in the late 1970s–80s stopped a proposed hydroelectric project in Kerala's Silent Valley, saving its rainforest and lion-tailed macaques; it was later declared a national park.","difficulty":"hard"},
-  {"stem":"The 'Narmada Bachao Andolan', led by Medha Patkar, protested against:","options":["Deforestation in the Himalayas","Large dams on the Narmada river and displacement of communities","Air pollution in Delhi","Coastal mining"],"correct_index":1,"solution":"The Narmada Bachao Andolan opposed the construction of large dams (notably Sardar Sarovar) on the Narmada, highlighting displacement, rehabilitation and environmental concerns.","difficulty":"medium"},
-  {"stem":"The 'Jal Jeevan Mission' primarily aims to provide:","options":["Electricity to villages","Functional tap water connections to every rural household","Roads","Internet"],"correct_index":1,"solution":"The Jal Jeevan Mission (Har Ghar Jal) aims to provide safe and adequate drinking water through individual household tap connections to all rural homes, reducing dependence on unsafe sources.","difficulty":"medium"},
-  {"stem":"The 'FAME' scheme in India promotes:","options":["Fossil fuels","Faster Adoption and Manufacturing of (hybrid and) Electric vehicles","Forest management","Fisheries"],"correct_index":1,"solution":"FAME (Faster Adoption and Manufacturing of Electric Vehicles) offers incentives to boost electric and hybrid vehicle adoption and charging infrastructure, cutting transport emissions and oil dependence.","difficulty":"medium"},
-  {"stem":"The 'Perform, Achieve and Trade (PAT)' scheme improves:","options":["Water quality","Energy efficiency in energy-intensive industries via tradable efficiency certificates","Forest cover","Air monitoring"],"correct_index":1,"solution":"The PAT scheme, under the National Mission for Enhanced Energy Efficiency, sets energy-saving targets for large industries; overachievers earn tradable Energy Saving Certificates (ESCerts).","difficulty":"hard"},
-  {"stem":"The 'Star Labelling' programme run by the Bureau of Energy Efficiency helps consumers by:","options":["Rating restaurants","Rating appliances for energy efficiency (1 to 5 stars)","Rating cars for safety","Rating hotels"],"correct_index":1,"solution":"The BEE Star Labelling scheme rates appliances (ACs, refrigerators, fans) from 1 to 5 stars based on energy efficiency, guiding consumers toward lower-consumption products.","difficulty":"medium"},
-  {"stem":"The 'Swachh Bharat Mission' is chiefly aimed at:","options":["Air pollution control","Sanitation, elimination of open defecation and solid waste management","Wildlife protection","River interlinking"],"correct_index":1,"solution":"The Swachh Bharat Mission targets universal sanitation coverage, ending open defecation and improving solid-waste management in rural and urban areas, with public-health and environmental benefits.","difficulty":"easy"},
-  {"stem":"The 'National Afforestation Programme' and 'Nagar Van Yojana' both aim to:","options":["Increase mining","Enhance green/forest cover (the latter creating urban forests in cities)","Build dams","Expand deserts"],"correct_index":1,"solution":"The Nagar Van Yojana aims to develop urban forests ('Nagar Vans') in cities and towns to improve green cover, biodiversity and air quality, complementing broader afforestation programmes.","difficulty":"hard"},
-  {"stem":"'Project Great Indian Bustard' and 'Project Dolphin' are species-specific conservation programmes; Project Dolphin (2020) covers:","options":["Only marine dolphins","Both riverine (Gangetic) and oceanic dolphins","Only Ganga water quality","Only fishing rights"],"correct_index":1,"solution":"Project Dolphin, announced in 2020, aims to conserve both riverine (Gangetic and Indus) and oceanic dolphins through habitat protection and reduction of threats, complementing the National Aquatic Animal's protection.","difficulty":"hard"},
-  {"stem":"The concept of 'Absolute Liability', evolved by the Indian Supreme Court, holds that an enterprise engaged in a hazardous activity is:","options":["Not liable if it was careful","Absolutely liable for harm caused, without exceptions, if an accident occurs","Liable only if negligent","Liable only up to insurance"],"correct_index":1,"solution":"In M.C. Mehta v. Union of India (Oleum Gas Leak case), the Court laid down the principle of absolute liability — an enterprise in a hazardous activity is fully liable for any harm, with no exceptions (a stricter form than 'strict liability').","difficulty":"hard"},
-  {"stem":"The 'Public Trust Doctrine', invoked by Indian courts, holds that:","options":["Natural resources are private property","Certain natural resources (air, water, forests) are held by the State in trust for public use and cannot be freely privatised","The government can sell all resources","Citizens have no environmental rights"],"correct_index":1,"solution":"The Public Trust Doctrine (affirmed in M.C. Mehta v. Kamal Nath) says the State is a trustee of natural resources like rivers, forests and air for the benefit of the public and future generations.","difficulty":"hard"},
-  {"stem":"'Sustainable development' as a legal principle balances:","options":["Only economic growth","Environmental protection and economic development for present and future generations","Only conservation","Only industrialisation"],"correct_index":1,"solution":"Indian courts (e.g. Vellore Citizens' Welfare Forum) have adopted sustainable development — reconciling development with environmental protection — as part of the law of the land, alongside the precautionary and polluter-pays principles.","difficulty":"medium"},
-  {"stem":"The landmark 'Vellore Citizens' Welfare Forum v. Union of India' case is associated with:","options":["Recognising the precautionary principle and polluter pays principle in Indian law","Wildlife trade","Ozone protection","River interlinking"],"correct_index":0,"solution":"In Vellore Citizens' Welfare Forum (1996), concerning tannery pollution in Tamil Nadu, the Supreme Court expressly incorporated the precautionary principle and the polluter pays principle into Indian environmental jurisprudence.","difficulty":"hard"},
-  {"stem":"The 'National Clean Air Programme (NCAP)' is spearheaded by which body?","options":["NTCA","Central Pollution Control Board / MoEFCC","NBA","CAMPA"],"correct_index":1,"solution":"NCAP is a national framework led by the MoEFCC and CPCB to reduce particulate pollution across identified non-attainment cities through city-specific action plans.","difficulty":"medium"},
-  {"stem":"The 'Green Credit Programme' (2023) incentivises:","options":["Coal use","Voluntary environmental actions (like tree plantation) by awarding tradable green credits","Deforestation","Water pollution"],"correct_index":1,"solution":"The Green Credit Programme, notified in 2023, rewards individuals, industries and local bodies with tradable green credits for voluntary pro-environment actions such as afforestation and water conservation.","difficulty":"hard"},
-  {"stem":"The 'Wetlands (Conservation and Management) Rules, 2017' are framed under which parent Act?","options":["Wildlife Act, 1972","Environment (Protection) Act, 1986","Forest Act, 1927","Water Act, 1974"],"correct_index":1,"solution":"The Wetlands (Conservation and Management) Rules, 2017 are made under the Environment (Protection) Act, 1986, and empower State/UT Wetland Authorities to regulate activities in notified wetlands.","difficulty":"medium"},
-  {"stem":"The 'Hazardous and Other Wastes (Management and Transboundary Movement) Rules' implement India's obligations under which convention?","options":["Ramsar","Basel Convention","CITES","Montreal Protocol"],"correct_index":1,"solution":"These Rules give effect to the Basel Convention, regulating the generation, handling, import/export and disposal of hazardous wastes in India.","difficulty":"hard"},
-  {"stem":"The 'Namami Gange' programme is implemented by the:","options":["Central Pollution Control Board","National Mission for Clean Ganga (NMCG)","National Biodiversity Authority","NTCA"],"correct_index":1,"solution":"Namami Gange is implemented by the National Mission for Clean Ganga (NMCG) and its state-level counterparts, working on sewage treatment, riverfront management, afforestation and biodiversity.","difficulty":"medium"},
-  {"stem":"India's 'National Solar Mission' set an ambitious target for installed solar capacity as part of the:","options":["Green India Mission","National Action Plan on Climate Change (NAPCC)","Swachh Bharat Mission","Jal Jeevan Mission"],"correct_index":1,"solution":"The Jawaharlal Nehru National Solar Mission is one of the eight missions under the NAPCC, aiming to rapidly scale up solar power generation and reduce the cost of solar energy.","difficulty":"medium"},
-  {"stem":"Which programme aims to restore India's soil health through balanced fertiliser use and organic inputs?","options":["Soil Health Card Scheme","FAME","PAT","CAMPA"],"correct_index":0,"solution":"The Soil Health Card Scheme provides farmers with information on the nutrient status of their soil and recommendations on fertiliser use, promoting balanced, sustainable soil management.","difficulty":"medium"},
-  {"stem":"The doctrine that gives 'inter-generational equity' its meaning holds that:","options":["Only the present generation matters","The present generation holds natural resources in trust for future generations","Resources should be exhausted quickly","Future generations have no claim"],"correct_index":1,"solution":"Inter-generational equity — a facet of sustainable development recognised by Indian courts — requires that the present generation use resources so as not to deprive future generations of a healthy environment.","difficulty":"hard"},
-  {"stem":"The 'National Ganga Council', the apex body for the Ganga, is chaired by the:","options":["Environment Minister","Prime Minister","Chief Justice","President"],"correct_index":1,"solution":"The National Ganga Council (formally the National Council for Rejuvenation, Protection and Management of the River Ganga), the apex decision-making body, is chaired by the Prime Minister.","difficulty":"hard"},
-  {"stem":"Which of the following statements is correct about the EIA process in India? (i) It requires screening and scoping (ii) It includes public consultation (iii) It ends with appraisal and a decision on clearance","options":["Only (i)","Only (ii)","(i), (ii) and (iii)","None"],"correct_index":2,"solution":"The EIA cycle involves screening and scoping (deciding what to study), impact assessment, public consultation, and appraisal leading to grant or refusal of environmental clearance with conditions.","difficulty":"medium"},
-  {"stem":"'People's Biodiversity Registers (PBRs)' are prepared at the local level by:","options":["The National Biodiversity Authority","Biodiversity Management Committees, documenting local biological resources and traditional knowledge","Pollution Control Boards","Forest contractors"],"correct_index":1,"solution":"Under the Biological Diversity Act, Biodiversity Management Committees prepare People's Biodiversity Registers documenting local biodiversity, its uses and associated traditional knowledge, aiding conservation and benefit-sharing.","difficulty":"hard"},
-  {"stem":"The Water Act, 1974 and Air Act, 1981 both derive constitutional authority partly from Article 252 because environment was then largely a:","options":["Central subject","State subject requiring states' resolutions for Parliament to legislate","Concurrent subject","Foreign matter"],"correct_index":1,"solution":"Since these matters fell in the State List, Parliament used Article 252 (legislation with the consent of state legislatures) to enact the Water and Air Acts uniformly; the 42nd Amendment later moved forests/wildlife to the Concurrent List.","difficulty":"hard"},
-  {"stem":"The 'Van (Sanrakshan Evam Samvardhan) Adhiniyam, 2023' amended which parent law?","options":["Wildlife Act, 1972","Forest (Conservation) Act, 1980","Water Act, 1974","EPA, 1986"],"correct_index":1,"solution":"The 2023 amendment (renaming it the Van Sanrakshan Evam Samvardhan Adhiniyam) modified the Forest (Conservation) Act, 1980, changing the scope of lands covered and exemptions for certain projects — a change that generated conservation debate.","difficulty":"hard"}
+  {
+    "stem": "Which article of the Indian Constitution places a Directive Principle duty on the State to protect and improve the environment and safeguard forests and wildlife?",
+    "options": [
+      "Article 21",
+      "Article 48A",
+      "Article 39",
+      "Article 14"
+    ],
+    "correct_index": 1,
+    "solution": "Article 48A, a Directive Principle inserted by the 42nd Amendment (1976), directs the State to protect and improve the environment and safeguard forests and wildlife.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Fundamental Duty of every citizen to protect and improve the natural environment is contained in:",
+    "options": [
+      "Article 51A(g)",
+      "Article 19",
+      "Article 25",
+      "Article 300A"
+    ],
+    "correct_index": 0,
+    "solution": "Article 51A(g), a Fundamental Duty added by the 42nd Amendment (1976), makes it the duty of every citizen to protect and improve the natural environment including forests, lakes, rivers and wildlife.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Supreme Court has read the 'right to a clean/healthy environment' as part of which Fundamental Right?",
+    "options": [
+      "Right to Equality (Art 14)",
+      "Right to Life (Art 21)",
+      "Right to Freedom (Art 19)",
+      "Right against Exploitation (Art 23)"
+    ],
+    "correct_index": 1,
+    "solution": "Through cases like Subhash Kumar and M.C. Mehta, the Supreme Court held that the Right to Life under Article 21 includes the right to a wholesome environment and pollution-free water and air.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 42nd Constitutional Amendment (1976) is significant for the environment because it:",
+    "options": [
+      "Removed forests from state control entirely",
+      "Added Articles 48A and 51A(g) and moved 'forests' and 'protection of wild animals and birds' to the Concurrent List",
+      "Abolished pollution boards",
+      "Banned all industries"
+    ],
+    "correct_index": 1,
+    "solution": "The 42nd Amendment added the environmental Directive Principle (48A) and Fundamental Duty (51A(g)) and shifted 'forests' and 'protection of wild animals and birds' from the State List to the Concurrent List, enabling central legislation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Environment (Protection) Act, 1986 is called an 'umbrella legislation' because it:",
+    "options": [
+      "Covers only air",
+      "Gives the Central Government wide powers to take all measures to protect and improve the environment",
+      "Deals only with forests",
+      "Only sets up tribunals"
+    ],
+    "correct_index": 1,
+    "solution": "The EPA, 1986 empowers the Centre to lay down standards, regulate industries, handle hazardous substances and coordinate action across all environmental domains — an umbrella over air, water, land and other laws.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Environment (Protection) Act, 1986 was enacted largely as a response to which event?",
+    "options": [
+      "Chernobyl disaster",
+      "Bhopal Gas Tragedy (1984)",
+      "Chipko movement",
+      "Silent Valley protest"
+    ],
+    "correct_index": 1,
+    "solution": "The EPA, 1986 followed the 1984 Bhopal Gas Tragedy (and honoured commitments made at the 1972 Stockholm Conference), giving the Centre broad powers to prevent such disasters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Environmental Impact Assessment (EIA)' is required in India for certain projects primarily to:",
+    "options": [
+      "Increase project cost",
+      "Evaluate the likely environmental effects of a project before approval and suggest mitigation",
+      "Ban all projects",
+      "Speed up construction"
+    ],
+    "correct_index": 1,
+    "solution": "EIA is a planning tool to predict and evaluate a project's environmental consequences before it is cleared, ensuring mitigation measures and public consultation. It operates under EIA Notifications issued under the EPA, 1986.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Public consultation/public hearing is a key stage of the EIA process because it:",
+    "options": [
+      "Is optional and never held",
+      "Gives affected people and the public a chance to voice concerns before clearance",
+      "Only involves the developer",
+      "Replaces scientific study"
+    ],
+    "correct_index": 1,
+    "solution": "The public hearing stage lets local communities and stakeholders raise environmental and social concerns, which must be considered before environmental clearance is granted (except for exempted categories).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under the EIA framework, projects are categorised as 'Category A' and 'Category B' mainly based on:",
+    "options": [
+      "Their colour",
+      "Their potential environmental impact and scale, deciding whether clearance is granted by the Centre or the State",
+      "Their profit",
+      "Their owner"
+    ],
+    "correct_index": 1,
+    "solution": "Category A projects (larger impact) are appraised and cleared at the Central level (MoEFCC/Expert Appraisal Committee); Category B (smaller) are handled by State Environment Impact Assessment Authorities.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Wildlife (Protection) Act was enacted in the year:",
+    "options": [
+      "1972",
+      "1980",
+      "1986",
+      "1927"
+    ],
+    "correct_index": 0,
+    "solution": "The Wildlife (Protection) Act, 1972 provides for the protection of wild animals, birds and plants and establishes protected areas (national parks, sanctuaries) and schedules of protected species.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Forest (Conservation) Act was passed in:",
+    "options": [
+      "1972",
+      "1980",
+      "1986",
+      "2006"
+    ],
+    "correct_index": 1,
+    "solution": "The Forest (Conservation) Act, 1980 restricts the de-reservation of forests and the diversion of forest land for non-forest purposes without prior Central Government approval, curbing deforestation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006' — the Forest Rights Act — chiefly recognises:",
+    "options": [
+      "Corporate mining rights",
+      "The rights of forest-dwelling communities over forest land and resources they traditionally use",
+      "Rights of tourists",
+      "Foreign investment"
+    ],
+    "correct_index": 1,
+    "solution": "The Forest Rights Act, 2006 recognises and vests forest rights (individual and community) in Scheduled Tribes and other traditional forest dwellers, correcting historical injustice and giving Gram Sabhas a role in forest governance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under the Forest Rights Act, the power to give consent for diversion of forest land often rests with the:",
+    "options": [
+      "District Collector alone",
+      "Gram Sabha (village assembly)",
+      "Forest contractor",
+      "Supreme Court"
+    ],
+    "correct_index": 1,
+    "solution": "The FRA empowers the Gram Sabha to protect forests and, in many cases, its consent is required before forest land is diverted — as upheld in the Niyamgiri (Vedanta) case where Gram Sabhas rejected bauxite mining.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Biological Diversity Act, 2002 was enacted to give effect to which international convention?",
+    "options": [
+      "CITES",
+      "Convention on Biological Diversity (CBD)",
+      "Ramsar Convention",
+      "UNFCCC"
+    ],
+    "correct_index": 1,
+    "solution": "The Biological Diversity Act, 2002 implements India's obligations under the CBD, regulating access to biological resources and associated knowledge and ensuring fair benefit-sharing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three-tier structure under the Biological Diversity Act comprises the National Biodiversity Authority, State Biodiversity Boards and:",
+    "options": [
+      "Gram Panchayats",
+      "Biodiversity Management Committees (BMCs)",
+      "Pollution Control Boards",
+      "Wildlife Wardens"
+    ],
+    "correct_index": 1,
+    "solution": "The Act creates a three-tier system: the National Biodiversity Authority (Chennai), State Biodiversity Boards, and local Biodiversity Management Committees which prepare People's Biodiversity Registers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The National Biodiversity Authority (NBA) is headquartered in:",
+    "options": [
+      "New Delhi",
+      "Chennai",
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "correct_index": 1,
+    "solution": "The National Biodiversity Authority, the apex body under the Biological Diversity Act, is headquartered in Chennai, Tamil Nadu.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Central Pollution Control Board (CPCB) and State Pollution Control Boards were first constituted under the:",
+    "options": [
+      "Air Act, 1981",
+      "Water (Prevention and Control of Pollution) Act, 1974",
+      "EPA, 1986",
+      "Wildlife Act, 1972"
+    ],
+    "correct_index": 1,
+    "solution": "The Water Act, 1974 established the CPCB and SPCBs; the Air Act, 1981 later entrusted them with air-pollution functions as well.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The National Green Tribunal (NGT) was established under an Act of:",
+    "options": [
+      "2006",
+      "2010",
+      "1986",
+      "2016"
+    ],
+    "correct_index": 1,
+    "solution": "The National Green Tribunal Act, 2010 created the NGT for effective and expeditious disposal of cases relating to environmental protection and conservation of forests and other natural resources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Appeals against orders of the National Green Tribunal lie to the:",
+    "options": [
+      "High Court",
+      "Supreme Court",
+      "District Court",
+      "No appeal is allowed"
+    ],
+    "correct_index": 1,
+    "solution": "Appeals against NGT decisions go directly to the Supreme Court of India (generally within 90 days), reflecting the Tribunal's specialised, high-level status.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Compensatory Afforestation Fund' (CAMPA) is used to:",
+    "options": [
+      "Build roads",
+      "Fund afforestation and forest regeneration to compensate for forest land diverted to non-forest use",
+      "Pay industry subsidies",
+      "Import timber"
+    ],
+    "correct_index": 1,
+    "solution": "CAMPA manages funds collected from user agencies (as compensatory afforestation and net present value) when forest land is diverted, channelling them into afforestation, wildlife protection and forest management.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'National Action Plan on Climate Change (NAPCC)' includes the 'Green India Mission', which aims to:",
+    "options": [
+      "Build highways",
+      "Increase forest/tree cover and improve ecosystem services",
+      "Promote coal",
+      "Ban farming"
+    ],
+    "correct_index": 1,
+    "solution": "The National Mission for a Green India under the NAPCC aims to protect, restore and enhance India's forest cover and respond to climate change through afforestation and ecosystem restoration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Coastal Regulation Zone (CRZ)' notifications regulate development along:",
+    "options": [
+      "Riverbanks in the interior",
+      "The coastline and intertidal zones to protect coastal ecology and communities",
+      "Mountain slopes",
+      "Deserts"
+    ],
+    "correct_index": 1,
+    "solution": "CRZ notifications (under the EPA, 1986) classify and regulate activities in coastal stretches and tidal-influenced water bodies to protect coastal ecosystems, fisher communities and to manage coastal hazards.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Ministry responsible for environmental policy and clearances at the Centre is the:",
+    "options": [
+      "Ministry of Agriculture",
+      "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+      "Ministry of Home Affairs",
+      "Ministry of Power"
+    ],
+    "correct_index": 1,
+    "solution": "The MoEFCC is the nodal ministry for planning, promotion, coordination and overseeing the implementation of India's environmental and forestry policies and programmes.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'Chipko Movement' of the 1970s, a landmark environmental movement, involved villagers:",
+    "options": [
+      "Mining coal",
+      "Hugging trees to prevent them from being felled",
+      "Building dams",
+      "Fishing"
+    ],
+    "correct_index": 1,
+    "solution": "The Chipko ('to embrace') Movement in Uttarakhand saw villagers, notably women, hug trees to prevent logging, becoming a symbol of grassroots conservation and forest rights. Sunderlal Bahuguna and Chandi Prasad Bhatt were key figures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Silent Valley' movement in Kerala successfully prevented a:",
+    "options": [
+      "Coal mine",
+      "Hydroelectric dam that would have submerged a pristine tropical rainforest",
+      "Highway",
+      "Airport"
+    ],
+    "correct_index": 1,
+    "solution": "Public agitation in the late 1970s–80s stopped a proposed hydroelectric project in Kerala's Silent Valley, saving its rainforest and lion-tailed macaques; it was later declared a national park.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Narmada Bachao Andolan', led by Medha Patkar, protested against:",
+    "options": [
+      "Deforestation in the Himalayas",
+      "Large dams on the Narmada river and displacement of communities",
+      "Air pollution in Delhi",
+      "Coastal mining"
+    ],
+    "correct_index": 1,
+    "solution": "The Narmada Bachao Andolan opposed the construction of large dams (notably Sardar Sarovar) on the Narmada, highlighting displacement, rehabilitation and environmental concerns.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Jal Jeevan Mission' primarily aims to provide:",
+    "options": [
+      "Electricity to villages",
+      "Functional tap water connections to every rural household",
+      "Roads",
+      "Internet"
+    ],
+    "correct_index": 1,
+    "solution": "The Jal Jeevan Mission (Har Ghar Jal) aims to provide safe and adequate drinking water through individual household tap connections to all rural homes, reducing dependence on unsafe sources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'FAME' scheme in India promotes:",
+    "options": [
+      "Fossil fuels",
+      "Faster Adoption and Manufacturing of (hybrid and) Electric vehicles",
+      "Forest management",
+      "Fisheries"
+    ],
+    "correct_index": 1,
+    "solution": "FAME (Faster Adoption and Manufacturing of Electric Vehicles) offers incentives to boost electric and hybrid vehicle adoption and charging infrastructure, cutting transport emissions and oil dependence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Perform, Achieve and Trade (PAT)' scheme improves:",
+    "options": [
+      "Water quality",
+      "Energy efficiency in energy-intensive industries via tradable efficiency certificates",
+      "Forest cover",
+      "Air monitoring"
+    ],
+    "correct_index": 1,
+    "solution": "The PAT scheme, under the National Mission for Enhanced Energy Efficiency, sets energy-saving targets for large industries; overachievers earn tradable Energy Saving Certificates (ESCerts).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Star Labelling' programme run by the Bureau of Energy Efficiency helps consumers by:",
+    "options": [
+      "Rating restaurants",
+      "Rating appliances for energy efficiency (1 to 5 stars)",
+      "Rating cars for safety",
+      "Rating hotels"
+    ],
+    "correct_index": 1,
+    "solution": "The BEE Star Labelling scheme rates appliances (ACs, refrigerators, fans) from 1 to 5 stars based on energy efficiency, guiding consumers toward lower-consumption products.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Swachh Bharat Mission' is chiefly aimed at:",
+    "options": [
+      "Air pollution control",
+      "Sanitation, elimination of open defecation and solid waste management",
+      "Wildlife protection",
+      "River interlinking"
+    ],
+    "correct_index": 1,
+    "solution": "The Swachh Bharat Mission targets universal sanitation coverage, ending open defecation and improving solid-waste management in rural and urban areas, with public-health and environmental benefits.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'National Afforestation Programme' and 'Nagar Van Yojana' both aim to:",
+    "options": [
+      "Increase mining",
+      "Enhance green/forest cover (the latter creating urban forests in cities)",
+      "Build dams",
+      "Expand deserts"
+    ],
+    "correct_index": 1,
+    "solution": "The Nagar Van Yojana aims to develop urban forests ('Nagar Vans') in cities and towns to improve green cover, biodiversity and air quality, complementing broader afforestation programmes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Project Great Indian Bustard' and 'Project Dolphin' are species-specific conservation programmes; Project Dolphin (2020) covers:",
+    "options": [
+      "Only marine dolphins",
+      "Both riverine (Gangetic) and oceanic dolphins",
+      "Only Ganga water quality",
+      "Only fishing rights"
+    ],
+    "correct_index": 1,
+    "solution": "Project Dolphin, announced in 2020, aims to conserve both riverine (Gangetic and Indus) and oceanic dolphins through habitat protection and reduction of threats, complementing the National Aquatic Animal's protection.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The concept of 'Absolute Liability', evolved by the Indian Supreme Court, holds that an enterprise engaged in a hazardous activity is:",
+    "options": [
+      "Not liable if it was careful",
+      "Absolutely liable for harm caused, without exceptions, if an accident occurs",
+      "Liable only if negligent",
+      "Liable only up to insurance"
+    ],
+    "correct_index": 1,
+    "solution": "In M.C. Mehta v. Union of India (Oleum Gas Leak case), the Court laid down the principle of absolute liability — an enterprise in a hazardous activity is fully liable for any harm, with no exceptions (a stricter form than 'strict liability').",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Public Trust Doctrine', invoked by Indian courts, holds that:",
+    "options": [
+      "Natural resources are private property",
+      "Certain natural resources (air, water, forests) are held by the State in trust for public use and cannot be freely privatised",
+      "The government can sell all resources",
+      "Citizens have no environmental rights"
+    ],
+    "correct_index": 1,
+    "solution": "The Public Trust Doctrine (affirmed in M.C. Mehta v. Kamal Nath) says the State is a trustee of natural resources like rivers, forests and air for the benefit of the public and future generations.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Sustainable development' as a legal principle balances:",
+    "options": [
+      "Only economic growth",
+      "Environmental protection and economic development for present and future generations",
+      "Only conservation",
+      "Only industrialisation"
+    ],
+    "correct_index": 1,
+    "solution": "Indian courts (e.g. Vellore Citizens' Welfare Forum) have adopted sustainable development — reconciling development with environmental protection — as part of the law of the land, alongside the precautionary and polluter-pays principles.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The landmark 'Vellore Citizens' Welfare Forum v. Union of India' case is associated with:",
+    "options": [
+      "Recognising the precautionary principle and polluter pays principle in Indian law",
+      "Wildlife trade",
+      "Ozone protection",
+      "River interlinking"
+    ],
+    "correct_index": 0,
+    "solution": "In Vellore Citizens' Welfare Forum (1996), concerning tannery pollution in Tamil Nadu, the Supreme Court expressly incorporated the precautionary principle and the polluter pays principle into Indian environmental jurisprudence.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'National Clean Air Programme (NCAP)' is spearheaded by which body?",
+    "options": [
+      "NTCA",
+      "Central Pollution Control Board / MoEFCC",
+      "NBA",
+      "CAMPA"
+    ],
+    "correct_index": 1,
+    "solution": "NCAP is a national framework led by the MoEFCC and CPCB to reduce particulate pollution across identified non-attainment cities through city-specific action plans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Green Credit Programme' (2023) incentivises:",
+    "options": [
+      "Coal use",
+      "Voluntary environmental actions (like tree plantation) by awarding tradable green credits",
+      "Deforestation",
+      "Water pollution"
+    ],
+    "correct_index": 1,
+    "solution": "The Green Credit Programme, notified in 2023, rewards individuals, industries and local bodies with tradable green credits for voluntary pro-environment actions such as afforestation and water conservation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Wetlands (Conservation and Management) Rules, 2017' are framed under which parent Act?",
+    "options": [
+      "Wildlife Act, 1972",
+      "Environment (Protection) Act, 1986",
+      "Forest Act, 1927",
+      "Water Act, 1974"
+    ],
+    "correct_index": 1,
+    "solution": "The Wetlands (Conservation and Management) Rules, 2017 are made under the Environment (Protection) Act, 1986, and empower State/UT Wetland Authorities to regulate activities in notified wetlands.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Hazardous and Other Wastes (Management and Transboundary Movement) Rules' implement India's obligations under which convention?",
+    "options": [
+      "Ramsar",
+      "Basel Convention",
+      "CITES",
+      "Montreal Protocol"
+    ],
+    "correct_index": 1,
+    "solution": "These Rules give effect to the Basel Convention, regulating the generation, handling, import/export and disposal of hazardous wastes in India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Namami Gange' programme is implemented by the:",
+    "options": [
+      "Central Pollution Control Board",
+      "National Mission for Clean Ganga (NMCG)",
+      "National Biodiversity Authority",
+      "NTCA"
+    ],
+    "correct_index": 1,
+    "solution": "Namami Gange is implemented by the National Mission for Clean Ganga (NMCG) and its state-level counterparts, working on sewage treatment, riverfront management, afforestation and biodiversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's 'National Solar Mission' set an ambitious target for installed solar capacity as part of the:",
+    "options": [
+      "Green India Mission",
+      "National Action Plan on Climate Change (NAPCC)",
+      "Swachh Bharat Mission",
+      "Jal Jeevan Mission"
+    ],
+    "correct_index": 1,
+    "solution": "The Jawaharlal Nehru National Solar Mission is one of the eight missions under the NAPCC, aiming to rapidly scale up solar power generation and reduce the cost of solar energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which programme aims to restore India's soil health through balanced fertiliser use and organic inputs?",
+    "options": [
+      "Soil Health Card Scheme",
+      "FAME",
+      "PAT",
+      "CAMPA"
+    ],
+    "correct_index": 0,
+    "solution": "The Soil Health Card Scheme provides farmers with information on the nutrient status of their soil and recommendations on fertiliser use, promoting balanced, sustainable soil management.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The doctrine that gives 'inter-generational equity' its meaning holds that:",
+    "options": [
+      "Only the present generation matters",
+      "The present generation holds natural resources in trust for future generations",
+      "Resources should be exhausted quickly",
+      "Future generations have no claim"
+    ],
+    "correct_index": 1,
+    "solution": "Inter-generational equity — a facet of sustainable development recognised by Indian courts — requires that the present generation use resources so as not to deprive future generations of a healthy environment.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'National Ganga Council', the apex body for the Ganga, is chaired by the:",
+    "options": [
+      "Environment Minister",
+      "Prime Minister",
+      "Chief Justice",
+      "President"
+    ],
+    "correct_index": 1,
+    "solution": "The National Ganga Council (formally the National Council for Rejuvenation, Protection and Management of the River Ganga), the apex decision-making body, is chaired by the Prime Minister.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following statements is correct about the EIA process in India? (i) It requires screening and scoping (ii) It includes public consultation (iii) It ends with appraisal and a decision on clearance",
+    "options": [
+      "Only (i)",
+      "Only (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "The EIA cycle involves screening and scoping (deciding what to study), impact assessment, public consultation, and appraisal leading to grant or refusal of environmental clearance with conditions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'People's Biodiversity Registers (PBRs)' are prepared at the local level by:",
+    "options": [
+      "The National Biodiversity Authority",
+      "Biodiversity Management Committees, documenting local biological resources and traditional knowledge",
+      "Pollution Control Boards",
+      "Forest contractors"
+    ],
+    "correct_index": 1,
+    "solution": "Under the Biological Diversity Act, Biodiversity Management Committees prepare People's Biodiversity Registers documenting local biodiversity, its uses and associated traditional knowledge, aiding conservation and benefit-sharing.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Water Act, 1974 and Air Act, 1981 both derive constitutional authority partly from Article 252 because environment was then largely a:",
+    "options": [
+      "Central subject",
+      "State subject requiring states' resolutions for Parliament to legislate",
+      "Concurrent subject",
+      "Foreign matter"
+    ],
+    "correct_index": 1,
+    "solution": "Since these matters fell in the State List, Parliament used Article 252 (legislation with the consent of state legislatures) to enact the Water and Air Acts uniformly; the 42nd Amendment later moved forests/wildlife to the Concurrent List.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Van (Sanrakshan Evam Samvardhan) Adhiniyam, 2023' amended which parent law?",
+    "options": [
+      "Wildlife Act, 1972",
+      "Forest (Conservation) Act, 1980",
+      "Water Act, 1974",
+      "EPA, 1986"
+    ],
+    "correct_index": 1,
+    "solution": "The 2023 amendment (renaming it the Van Sanrakshan Evam Samvardhan Adhiniyam) modified the Forest (Conservation) Act, 1980, changing the scope of lands covered and exemptions for certain projects — a change that generated conservation debate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Stockholm Conference' (1972) commitments prompted India to insert environmental provisions into the Constitution via which amendment?",
+    "options": [
+      "44th Amendment",
+      "42nd Amendment (1976)",
+      "73rd Amendment",
+      "1st Amendment"
+    ],
+    "correct_index": 1,
+    "solution": "The 42nd Amendment (1976) added Article 48A (Directive Principle) and Article 51A(g) (Fundamental Duty) on the environment and moved forests/wildlife to the Concurrent List — partly fulfilling Stockholm commitments.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which case is a landmark for judicial activism on environmental issues, involving tanneries polluting the Ganga?",
+    "options": [
+      "Kesavananda Bharati",
+      "M.C. Mehta v. Union of India (Ganga pollution cases)",
+      "Golaknath case",
+      "Minerva Mills case"
+    ],
+    "correct_index": 1,
+    "solution": "The M.C. Mehta v. Union of India cases (including the Ganga tanneries and Kanpur pollution matters) are landmarks where the Supreme Court enforced environmental protection and pollution control.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Oleum Gas Leak case' (M.C. Mehta v. Union of India, 1986) established which principle?",
+    "options": [
+      "Strict liability with exceptions",
+      "Absolute liability for hazardous enterprises",
+      "No liability",
+      "Vicarious liability only"
+    ],
+    "correct_index": 1,
+    "solution": "Following the Shriram/Oleum gas leak in Delhi, the Supreme Court evolved the principle of absolute liability, holding hazardous enterprises fully liable for harm without the exceptions available under strict liability.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Public Interest Litigation (PIL)' has been important for the environment because it allows:",
+    "options": [
+      "Only the affected party to sue",
+      "Any public-spirited citizen to approach the court on behalf of the environment/community",
+      "No one to sue",
+      "Only the government to sue"
+    ],
+    "correct_index": 1,
+    "solution": "PIL relaxed the rule of locus standi, letting any public-spirited person or NGO petition the courts on environmental matters affecting the public — a key driver of environmental jurisprudence in India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The National Green Tribunal is composed of both judicial members and:",
+    "options": [
+      "Only lawyers",
+      "Expert members with environmental/scientific expertise",
+      "Only bureaucrats",
+      "Police officers"
+    ],
+    "correct_index": 1,
+    "solution": "The NGT uniquely combines judicial members with expert members having scientific and environmental expertise, enabling technically informed adjudication of environmental disputes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The NGT has principal benches; its principal seat is at:",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Chennai",
+      "Kolkata"
+    ],
+    "correct_index": 1,
+    "solution": "The NGT's principal bench is in New Delhi, with zonal benches in Bhopal, Pune, Kolkata and Chennai to provide accessible environmental justice across regions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Water (Prevention and Control of Pollution) Cess Act, 1977 was enacted to:",
+    "options": [
+      "Ban water use",
+      "Levy a cess on water consumed by industries to fund pollution-control boards",
+      "Provide free water",
+      "Tax rainfall"
+    ],
+    "correct_index": 1,
+    "solution": "The Water Cess Act, 1977 imposed a cess on water consumed by specified industries and local authorities to augment the resources of the central and state pollution-control boards.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'consent to establish' and 'consent to operate' mechanisms for industries are administered by:",
+    "options": [
+      "The judiciary",
+      "State Pollution Control Boards under the Water and Air Acts",
+      "Panchayats",
+      "The army"
+    ],
+    "correct_index": 1,
+    "solution": "State Pollution Control Boards grant 'consent to establish' and 'consent to operate' to industries under the Water and Air Acts, ensuring pollution-control conditions are met.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Environmental Impact Assessment process in India is governed by notifications issued under which Act?",
+    "options": [
+      "Wildlife Act, 1972",
+      "Environment (Protection) Act, 1986",
+      "Factories Act",
+      "Mines Act"
+    ],
+    "correct_index": 1,
+    "solution": "EIA Notifications (2006, and proposed revisions) are issued under the Environment (Protection) Act, 1986, which empowers the Centre to regulate industries and projects to protect the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under the EIA process, the term of reference and scope of studies are decided during the ______ stage.",
+    "options": [
+      "Screening",
+      "Scoping",
+      "Public consultation",
+      "Appraisal"
+    ],
+    "correct_index": 1,
+    "solution": "Scoping determines the detailed terms of reference — the specific environmental impacts and issues the EIA study must address — after screening decides whether an EIA is needed.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Certain projects are exempt from public consultation under EIA rules; a controversial feature of proposed reforms was allowing:",
+    "options": [
+      "More public hearings",
+      "Post-facto (ex-post) environmental clearance for projects that started without prior clearance",
+      "Complete bans",
+      "No clearances at all"
+    ],
+    "correct_index": 1,
+    "solution": "A contentious element of EIA reform proposals was permitting post-facto clearance — regularising projects that began operations without prior environmental clearance — criticised as weakening the precautionary approach.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Coastal Regulation Zone' notifications classify the coast into zones based on:",
+    "options": [
+      "Rainfall",
+      "Ecological sensitivity and development status (CRZ-I to CRZ-IV)",
+      "Population only",
+      "Temperature"
+    ],
+    "correct_index": 1,
+    "solution": "CRZ notifications divide coastal areas into categories (CRZ-I ecologically sensitive, CRZ-II developed, CRZ-III rural/undeveloped, CRZ-IV water area) with differing regulations to protect coastal ecology.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'CRZ-I' areas, receiving the highest protection, include:",
+    "options": [
+      "Built-up city areas",
+      "Ecologically sensitive zones like mangroves, coral reefs and turtle nesting sites",
+      "Industrial ports",
+      "Highways"
+    ],
+    "correct_index": 1,
+    "solution": "CRZ-I comprises the most ecologically sensitive and important coastal areas — mangroves, corals, salt marshes, turtle nesting grounds — where development is most tightly restricted.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Wildlife (Protection) Amendment Act, 2022' rationalised the number of species schedules to:",
+    "options": [
+      "Ten",
+      "Four (for species) plus one for CITES specimens",
+      "Twenty",
+      "One"
+    ],
+    "correct_index": 1,
+    "solution": "The 2022 amendment reduced the species schedules to four and added a schedule listing CITES-covered specimens, streamlining protection and implementing CITES obligations.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Biological Diversity (Amendment) Act, 2023 aimed to:",
+    "options": [
+      "Abolish the NBA",
+      "Ease compliance for AYUSH practitioners and encourage research/investment while regulating access",
+      "Ban all biodiversity use",
+      "Privatise forests"
+    ],
+    "correct_index": 1,
+    "solution": "The 2023 amendment sought to reduce compliance burdens (especially for the AYUSH/traditional-medicine sector), encourage Indian research and investment, and decriminalise certain offences, while retaining benefit-sharing — though it drew criticism over dilution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Access and Benefit Sharing (ABS)' under the Biological Diversity Act ensures that benefits from using India's bioresources are shared with:",
+    "options": [
+      "Foreign firms only",
+      "Local communities and the country (via the NBA/State Boards)",
+      "Only the central government",
+      "No one"
+    ],
+    "correct_index": 1,
+    "solution": "ABS provisions require that a share of the benefits from commercial or research use of India's biological resources and associated knowledge flows back to the country and to the local/indigenous communities conserving them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Forest (Conservation) Act, 1980's core requirement is that diversion of forest land for non-forest use needs:",
+    "options": [
+      "No approval",
+      "Prior approval of the Central Government",
+      "Only state approval",
+      "Only local approval"
+    ],
+    "correct_index": 1,
+    "solution": "The Act mandates prior Central Government approval for de-reservation of forests or diversion of forest land to non-forest purposes, restraining states from unchecked deforestation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Supreme Court's 'Godavarman' case (1996) is significant for broadening the definition of 'forest' to mean:",
+    "options": [
+      "Only notified forests",
+      "Forest in its 'dictionary' sense — all areas that are forests regardless of ownership or notification",
+      "Only government land",
+      "Only plantations"
+    ],
+    "correct_index": 1,
+    "solution": "In T.N. Godavarman Thirumulpad v. Union of India, the Supreme Court held that 'forest' must be understood in its dictionary sense, extending Forest Conservation Act protection to all forest-like areas irrespective of ownership or official notification.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'compensatory afforestation' requirement means that when forest land is diverted, the user agency must:",
+    "options": [
+      "Pay nothing",
+      "Fund afforestation on equivalent non-forest/degraded land and pay Net Present Value",
+      "Cut more forests",
+      "Build roads"
+    ],
+    "correct_index": 1,
+    "solution": "User agencies diverting forest land must provide funds for compensatory afforestation (on equivalent land) and pay the Net Present Value of the forest, managed under the CAMPA framework.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Forest Rights Act, 2006 recognises 'community forest resource' rights, empowering Gram Sabhas to:",
+    "options": [
+      "Sell forests",
+      "Protect, manage and conserve community forest resources",
+      "Ban all use",
+      "Privatise land"
+    ],
+    "correct_index": 1,
+    "solution": "The FRA vests rights (including community forest resource rights) in forest dwellers and empowers Gram Sabhas to protect and manage forests they traditionally use — decentralising forest governance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Niyamgiri' case is a landmark example of the Forest Rights Act because:",
+    "options": [
+      "Mining was approved unconditionally",
+      "Gram Sabhas of the Dongria Kondh rejected bauxite mining, and their decision was upheld",
+      "No community was consulted",
+      "Forests were cleared"
+    ],
+    "correct_index": 1,
+    "solution": "In the Niyamgiri (Vedanta) case, the Supreme Court held that the Gram Sabhas must decide on the community's religious and cultural rights; the Dongria Kondh Gram Sabhas rejected bauxite mining, and the decision stood — a milestone for community consent.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'National Ganga Council' replaced which earlier authority for Ganga management?",
+    "options": [
+      "CPCB",
+      "National Ganga River Basin Authority (NGRBA)",
+      "NGT",
+      "NBA"
+    ],
+    "correct_index": 1,
+    "solution": "The National Ganga Council (2016), chaired by the Prime Minister, replaced the earlier National Ganga River Basin Authority as the apex body for the Ganga's rejuvenation and management.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Environment (Protection) Act, 1986 empowers the Central Government to set standards for:",
+    "options": [
+      "Only air",
+      "Emission and effluent discharge, ambient quality, and handling of hazardous substances",
+      "Only water",
+      "Only noise"
+    ],
+    "correct_index": 1,
+    "solution": "The EPA gives the Centre wide powers to lay down standards for emissions and effluents, ambient environmental quality, and the handling and disposal of hazardous substances — hence 'umbrella' legislation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'National Environment Policy, 2006' articulates key principles including sustainable development and:",
+    "options": [
+      "Maximising pollution",
+      "The precautionary approach, polluter pays and public trust",
+      "Unlimited resource use",
+      "Privatising all forests"
+    ],
+    "correct_index": 1,
+    "solution": "The National Environment Policy, 2006 enshrines principles like sustainable development, the precautionary approach, polluter pays, equity and the public trust doctrine to guide environmental governance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Environmental clearance' for a Category A project is granted by the:",
+    "options": [
+      "State authority",
+      "Union Ministry (MoEFCC) on the recommendation of the Expert Appraisal Committee",
+      "Panchayat",
+      "District Collector"
+    ],
+    "correct_index": 1,
+    "solution": "Category A projects (larger, higher-impact) are appraised by the central Expert Appraisal Committee and cleared by the MoEFCC; Category B projects are handled by State Environment Impact Assessment Authorities.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Hazardous Waste (Management) Rules' and 'E-Waste (Management) Rules' operate under which parent Act?",
+    "options": [
+      "Wildlife Act",
+      "Environment (Protection) Act, 1986",
+      "Water Act",
+      "Forest Act"
+    ],
+    "correct_index": 1,
+    "solution": "These rules, like the Plastic Waste, Solid Waste and Bio-Medical Waste rules, are framed under the Environment (Protection) Act, 1986, the umbrella law enabling subordinate environmental regulation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Star rating' for appliances and the 'PAT scheme' for industries are administered by the:",
+    "options": [
+      "CPCB",
+      "Bureau of Energy Efficiency (BEE)",
+      "NTCA",
+      "NBA"
+    ],
+    "correct_index": 1,
+    "solution": "The Bureau of Energy Efficiency, under the Ministry of Power, runs the appliance Star Labelling programme and the Perform-Achieve-Trade (PAT) scheme for industrial energy efficiency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Ganga' was accorded the status of a living entity by which court, granting it legal personhood (later stayed)?",
+    "options": [
+      "Supreme Court",
+      "Uttarakhand High Court",
+      "Delhi High Court",
+      "NGT"
+    ],
+    "correct_index": 1,
+    "solution": "In 2017 the Uttarakhand High Court declared the Ganga and Yamuna as living legal entities with rights, though the Supreme Court later stayed the order over practical difficulties.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'precautionary principle' shifts the burden of proof onto the:",
+    "options": [
+      "Victim",
+      "Developer/actor to show that an activity is environmentally benign",
+      "Court",
+      "Public"
+    ],
+    "correct_index": 1,
+    "solution": "Under the precautionary principle as applied in India, the onus is on the developer or industrialist to demonstrate that their action is environmentally benign, rather than on others to prove harm.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which body is the apex advisory body on wildlife, chaired by the Prime Minister, whose clearance is needed for projects in/around protected areas?",
+    "options": [
+      "CPCB",
+      "National Board for Wildlife (Standing Committee)",
+      "NGT",
+      "BEE"
+    ],
+    "correct_index": 1,
+    "solution": "The National Board for Wildlife, chaired by the PM, is the apex wildlife body; its Standing Committee clears projects affecting protected areas and eco-sensitive zones.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Eco-Sensitive Zones' around protected areas are notified under which Act?",
+    "options": [
+      "Wildlife Act directly",
+      "Environment (Protection) Act, 1986",
+      "Forest Act",
+      "Water Act"
+    ],
+    "correct_index": 1,
+    "solution": "Eco-Sensitive Zones (buffer areas around national parks and sanctuaries) are notified under the Environment (Protection) Act, 1986, regulating potentially harmful activities near protected areas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Chipko' and 'Appiko' movements were grassroots efforts to:",
+    "options": [
+      "Promote mining",
+      "Protect forests from commercial felling",
+      "Build dams",
+      "Expand cities"
+    ],
+    "correct_index": 1,
+    "solution": "Chipko (Uttarakhand) and its southern counterpart Appiko (Karnataka) were community movements where people embraced/hugged trees to prevent commercial felling, championing forest conservation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Bishnoi' community of Rajasthan is historically famous for the Khejarli sacrifice (1730), where villagers died protecting:",
+    "options": [
+      "Rivers",
+      "Khejri trees from being felled",
+      "Temples",
+      "Wells"
+    ],
+    "correct_index": 1,
+    "solution": "In the 1730 Khejarli incident, 363 Bishnois led by Amrita Devi gave their lives hugging khejri trees to prevent them being cut — an early and iconic instance of community conservation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Silent Valley' movement's success led to the area being declared a:",
+    "options": [
+      "Dam site",
+      "National Park",
+      "Mining zone",
+      "City"
+    ],
+    "correct_index": 1,
+    "solution": "The movement stopped a hydroelectric project and the pristine rainforest of Silent Valley in Kerala was declared a national park in 1984, protecting its biodiversity including the lion-tailed macaque.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'National Afforestation Programme' is implemented through decentralised bodies called:",
+    "options": [
+      "Panchayats only",
+      "Forest Development Agencies and Joint Forest Management Committees",
+      "Municipalities",
+      "Cantonment boards"
+    ],
+    "correct_index": 1,
+    "solution": "The National Afforestation Programme works through Forest Development Agencies at the district level and village-level Joint Forest Management Committees, involving communities in afforestation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Green Credit Rules, 2023' allow generation of green credits for activities such as:",
+    "options": [
+      "Building factories",
+      "Tree plantation, water conservation and sustainable agriculture",
+      "Mining",
+      "Deforestation"
+    ],
+    "correct_index": 1,
+    "solution": "The Green Credit Programme rewards voluntary environmental actions — tree plantation, water conservation, sustainable agriculture, waste management — with tradable green credits, incentivising pro-environment behaviour.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Extended Producer Responsibility' is now a legal obligation in India for plastic packaging, e-waste, batteries and:",
+    "options": [
+      "Food only",
+      "Used tyres/end-of-life vehicles (under respective rules)",
+      "Books",
+      "Furniture"
+    ],
+    "correct_index": 1,
+    "solution": "EPR obligations extend across plastic packaging, e-waste, battery waste and used tyres, requiring producers to manage the end-of-life collection and recycling of these products.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India's approach of recognising the 'right to a clean environment' aligns with the 2022 UN resolution recognising it as a:",
+    "options": [
+      "Trade right",
+      "Human right",
+      "Property right",
+      "Military right"
+    ],
+    "correct_index": 1,
+    "solution": "The 2022 UN General Assembly resolution recognising a clean, healthy and sustainable environment as a human right resonates with Indian jurisprudence reading environmental protection into the Article 21 right to life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Wildlife Crime Control Bureau' assists in enforcement of which convention within India?",
+    "options": [
+      "Ramsar",
+      "CITES",
+      "UNFCCC",
+      "UNCCD"
+    ],
+    "correct_index": 1,
+    "solution": "The Wildlife Crime Control Bureau helps enforce CITES within India by combating illegal wildlife trade and coordinating with enforcement agencies against wildlife crime.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Van (Sanrakshan Evam Samvardhan) Adhiniyam, 2023' amendment exempted certain lands from forest-clearance requirements, including land near:",
+    "options": [
+      "Only cities",
+      "International borders/Line of Actual Control (for strategic projects)",
+      "Only rivers",
+      "Only deserts"
+    ],
+    "correct_index": 1,
+    "solution": "The 2023 amendment to the Forest Conservation Act exempted certain categories — such as land within 100 km of international borders/LAC for strategic and security projects — from clearance, a change that generated environmental debate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Inter-generational equity' as applied by Indian courts requires the present generation to:",
+    "options": [
+      "Use up all resources",
+      "Hold natural resources in trust and conserve them for future generations",
+      "Ignore the future",
+      "Privatise resources"
+    ],
+    "correct_index": 1,
+    "solution": "Inter-generational equity, a facet of sustainable development, requires the present generation to conserve resources and environmental quality as a trust for future generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Doctrine of Public Trust', applied in M.C. Mehta v. Kamal Nath, holds that the State cannot:",
+    "options": [
+      "Protect rivers",
+      "Abdicate its trusteeship by allotting ecologically fragile common resources for private commercial use",
+      "Enforce laws",
+      "Plant trees"
+    ],
+    "correct_index": 1,
+    "solution": "In M.C. Mehta v. Kamal Nath, the Supreme Court applied the public trust doctrine, ruling that the State as trustee cannot convert ecologically important common resources (like a riverbank) to private commercial use.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'National Clean Air Programme' sets targets for reducing particulate pollution across:",
+    "options": [
+      "All rural villages",
+      "Identified 'non-attainment' cities that exceed air-quality standards",
+      "Only Delhi",
+      "Only ports"
+    ],
+    "correct_index": 1,
+    "solution": "NCAP focuses on non-attainment cities (those consistently exceeding National Ambient Air Quality Standards), setting particulate-reduction targets through city-specific clean-air action plans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's environmental federalism places 'water' (supplies, irrigation) primarily in the:",
+    "options": [
+      "Union List",
+      "State List",
+      "Concurrent List",
+      "No list"
+    ],
+    "correct_index": 1,
+    "solution": "Water (including supplies, irrigation and drainage) is largely a State List subject (Entry 17), subject to Union control over inter-state rivers (Entry 56) — a source of centre-state and inter-state water disputes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'National Water Policy' promotes which principle for water use?",
+    "options": [
+      "Unlimited extraction",
+      "Integrated water resource management and treating water as an economic and ecological good",
+      "Wasting water",
+      "Ignoring groundwater"
+    ],
+    "correct_index": 1,
+    "solution": "India's National Water Policy advocates integrated water resource management, conservation, equitable distribution and recognising water as a scarce economic and ecological resource.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Ozone-depleting substances (Regulation and Control) Rules' implement India's obligations under the:",
+    "options": [
+      "Ramsar Convention",
+      "Montreal Protocol",
+      "Basel Convention",
+      "CITES"
+    ],
+    "correct_index": 1,
+    "solution": "India's Ozone-Depleting Substances Rules give effect to the Montreal Protocol, regulating the production, trade and use of ozone-depleting substances domestically.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which statement about India's environmental governance is correct? (i) NGT hears environmental cases (ii) CPCB/SPCBs enforce pollution laws (iii) MoEFCC is the nodal ministry",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: the NGT adjudicates environmental disputes, the CPCB and State Pollution Control Boards enforce pollution laws, and the MoEFCC is the nodal ministry for environmental policy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main criticism of diluting EIA norms is that it may:",
+    "options": [
+      "Improve conservation",
+      "Weaken environmental safeguards and public participation in favour of faster project clearances",
+      "Increase forests",
+      "Reduce pollution"
+    ],
+    "correct_index": 1,
+    "solution": "Critics argue that diluting EIA norms — reducing public consultation, allowing post-facto clearance, exempting projects — weakens environmental safeguards and democratic participation for the sake of expediting projects.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overarching purpose of India's environmental laws and institutions is to:",
+    "options": [
+      "Maximise industrial output at any cost",
+      "Balance development with environmental protection and the right to a healthy environment",
+      "Ban all development",
+      "Privatise natural resources"
+    ],
+    "correct_index": 1,
+    "solution": "India's environmental legal framework aims to reconcile development with environmental protection, upholding sustainable development and the constitutionally derived right to a clean and healthy environment.",
+    "difficulty": "medium"
+  }
 ]

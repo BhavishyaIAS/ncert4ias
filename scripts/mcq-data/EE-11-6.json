@@ -1,51 +1,1178 @@
 [
-  {"stem":"Any undesirable change in the physical, chemical or biological characteristics of air, water or land that harms life is called:","options":["Erosion","Pollution","Succession","Weathering"],"correct_index":1,"solution":"Pollution is the introduction of contaminants (pollutants) causing undesirable changes in the environment that adversely affect organisms and ecosystems.","difficulty":"easy"},
-  {"stem":"Pollutants that cannot be broken down by natural processes and persist in the environment are called:","options":["Biodegradable pollutants","Non-biodegradable pollutants","Primary producers","Nutrients"],"correct_index":1,"solution":"Non-biodegradable pollutants (e.g. DDT, plastics, heavy metals, radioactive waste) resist natural decomposition, accumulate in the environment and often undergo biomagnification.","difficulty":"easy"},
-  {"stem":"The increasing concentration of a non-degradable pollutant at successive trophic levels of a food chain is called:","options":["Bioaccumulation","Biomagnification","Eutrophication","Bioremediation"],"correct_index":1,"solution":"Biomagnification is the rise in concentration of persistent pollutants (e.g. DDT, mercury) at each higher trophic level, so top predators carry the highest loads. Bioaccumulation is build-up within a single organism over time.","difficulty":"medium"},
-  {"stem":"The Air (Prevention and Control of Pollution) Act was enacted in:","options":["1974","1981","1986","1972"],"correct_index":1,"solution":"The Air Act was passed in 1981. The Water Act came in 1974 and the umbrella Environment (Protection) Act in 1986 (following the Bhopal disaster and the Stockholm Conference commitments).","difficulty":"medium"},
-  {"stem":"Which pollutant is the primary cause of the greenhouse effect intensification but is NOT itself a criteria 'air-quality' toxic pollutant in the usual sense?","options":["Carbon monoxide","Carbon dioxide","Sulphur dioxide","Ground-level ozone"],"correct_index":1,"solution":"CO2 is the chief anthropogenic greenhouse gas but is non-toxic at ambient levels; the criteria air pollutants harmful to health include PM, SO2, NO2, CO, O3, Pb.","difficulty":"medium"},
-  {"stem":"Particulate matter of diameter 2.5 micrometres or less (PM2.5) is especially dangerous because it:","options":["Settles quickly and is harmless","Penetrates deep into the lungs and can enter the bloodstream","Is visible to the eye","Only affects plants"],"correct_index":1,"solution":"PM2.5 (fine particulates) penetrates deep into the alveoli and can enter the bloodstream, causing respiratory and cardiovascular disease. It is a key parameter in the National Air Quality Index.","difficulty":"medium"},
-  {"stem":"The gas mainly responsible for the Bhopal Gas Tragedy (1984) was:","options":["Carbon monoxide","Methyl isocyanate (MIC)","Chlorine","Sulphur dioxide"],"correct_index":1,"solution":"The 1984 Bhopal disaster involved a leak of methyl isocyanate (MIC) from the Union Carbide plant, killing thousands — the world's worst industrial disaster. It spurred the Environment (Protection) Act, 1986.","difficulty":"medium"},
-  {"stem":"Photochemical smog, common in sunny cities with heavy traffic, is chiefly formed from the reaction of sunlight with:","options":["CO2 and water vapour","Nitrogen oxides and volatile organic compounds","Methane and oxygen","Ozone and CFCs"],"correct_index":1,"solution":"Photochemical smog forms when sunlight drives reactions among NOx and VOCs from vehicles, producing ground-level ozone, PAN and other oxidants that irritate eyes and lungs.","difficulty":"medium"},
-  {"stem":"Ground-level (tropospheric) ozone is considered:","options":["A beneficial gas that protects us from UV","A harmful secondary pollutant and greenhouse gas","Harmless","A primary pollutant emitted directly by vehicles"],"correct_index":1,"solution":"Tropospheric ozone is a harmful secondary pollutant (formed from NOx + VOCs + sunlight) that damages lungs and crops and acts as a greenhouse gas — 'bad ozone', unlike beneficial stratospheric ozone.","difficulty":"medium"},
-  {"stem":"'Acid rain' is caused mainly by the atmospheric conversion of which two gases into acids?","options":["CO2 and CH4","SO2 and NOx","O2 and N2","CFCs and O3"],"correct_index":1,"solution":"Sulphur dioxide and nitrogen oxides (from burning fossil fuels) react with water vapour to form sulphuric and nitric acids, falling as acid rain that damages forests, lakes, soils and monuments.","difficulty":"medium"},
-  {"stem":"The Taj Mahal's discolouration prompted the creation of the 'Taj Trapezium Zone' mainly to curb:","options":["Water pollution","Air pollution (SO2 and particulates from industries/refineries)","Noise pollution","Radioactive pollution"],"correct_index":1,"solution":"The Taj Trapezium Zone restricts polluting industries around Agra to protect the Taj Mahal from acid rain and particulate deposition that yellow the marble ('marble cancer').","difficulty":"medium"},
-  {"stem":"The Central Pollution Control Board (CPCB) functions under which statute/ministry framework?","options":["Ministry of Home Affairs","Ministry of Environment, Forest and Climate Change (under the Water Act, 1974)","Ministry of Defence","Ministry of Finance"],"correct_index":1,"solution":"The CPCB, established under the Water Act, 1974, works under the MoEFCC and coordinates State Pollution Control Boards, sets standards and monitors air/water quality.","difficulty":"medium"},
-  {"stem":"The 'National Air Quality Index (AQI)' launched in 2015 categorises air with how many bands from 'Good' to 'Severe'?","options":["Three","Six","Ten","Two"],"correct_index":1,"solution":"India's AQI has six categories — Good, Satisfactory, Moderate, Poor, Very Poor and Severe — based on eight pollutants (PM10, PM2.5, NO2, SO2, CO, O3, NH3, Pb).","difficulty":"medium"},
-  {"stem":"Biological Oxygen Demand (BOD) is a measure of water pollution indicating:","options":["The amount of oxygen needed by microbes to decompose organic matter","The pH of water","Water temperature","Salinity"],"correct_index":0,"solution":"BOD is the amount of dissolved oxygen microorganisms require to decompose organic matter in water. High BOD indicates heavy organic pollution and low water quality.","difficulty":"medium"},
-  {"stem":"A high BOD in a river generally indicates:","options":["Clean, well-oxygenated water","Heavy organic pollution and low dissolved oxygen","High salinity","Radioactive contamination"],"correct_index":1,"solution":"High BOD means microbes are consuming lots of oxygen to break down abundant organic waste (sewage), leaving little dissolved oxygen for fish and other aquatic life — a sign of severe pollution.","difficulty":"medium"},
-  {"stem":"Which disease is caused by mercury poisoning, famously linked to industrial effluent in Minamata Bay, Japan?","options":["Itai-itai disease","Minamata disease","Fluorosis","Black lung"],"correct_index":1,"solution":"Minamata disease results from methylmercury poisoning (a neurological disorder) caused by consuming fish contaminated by industrial mercury discharge — a classic case of biomagnification.","difficulty":"medium"},
-  {"stem":"'Itai-itai' disease, marked by bone softening and kidney damage, is caused by chronic poisoning with:","options":["Lead","Cadmium","Arsenic","Mercury"],"correct_index":1,"solution":"Itai-itai ('ouch-ouch') disease in Japan resulted from cadmium poisoning via contaminated rice grown with mine-polluted water, causing painful bone and kidney damage.","difficulty":"hard"},
-  {"stem":"Fluorosis, causing mottled teeth and skeletal deformities, is caused by excess of which element in drinking water?","options":["Iron","Fluoride","Chlorine","Calcium"],"correct_index":1,"solution":"Excess fluoride in groundwater causes dental and skeletal fluorosis, a widespread problem in parts of Rajasthan, Andhra Pradesh and other Indian states.","difficulty":"medium"},
-  {"stem":"Arsenic contamination of groundwater, a serious health hazard causing skin lesions and cancer, is most severe in India in the:","options":["Thar desert","Ganga–Brahmaputra plains (esp. West Bengal, Bihar)","Deccan plateau","Himalayan cold desert"],"correct_index":1,"solution":"Arsenic contamination of tube-well water is acute in the Ganga–Brahmaputra floodplains (West Bengal, Bihar, Assam, UP), causing arsenicosis and increased cancer risk.","difficulty":"hard"},
-  {"stem":"'Eutrophication' of lakes leads to which visible symptom?","options":["Clearing of water","Excessive algal blooms and depletion of oxygen","Rise in fish population","Decrease in nutrients"],"correct_index":1,"solution":"Nutrient enrichment (N, P) causes algal blooms; their decay depletes dissolved oxygen, killing fish. Cultural eutrophication is accelerated by sewage and fertiliser runoff.","difficulty":"medium"},
-  {"stem":"Which of these is a persistent organic pollutant (POP) banned/restricted under the Stockholm Convention?","options":["Carbon dioxide","DDT","Oxygen","Nitrogen"],"correct_index":1,"solution":"DDT is a persistent organic pollutant (POP) targeted by the Stockholm Convention (2001). POPs resist degradation, biomagnify and travel long distances; DDT retains a limited exemption for malaria control.","difficulty":"medium"},
-  {"stem":"Thermal pollution of water bodies (e.g. from power-plant cooling water) harms aquatic life mainly by:","options":["Increasing dissolved oxygen","Decreasing dissolved oxygen and stressing temperature-sensitive organisms","Adding nutrients","Lowering temperature"],"correct_index":1,"solution":"Warm discharge lowers the water's dissolved oxygen (gases are less soluble in warm water) and disrupts the metabolism and breeding of aquatic organisms — this is thermal pollution.","difficulty":"medium"},
-  {"stem":"Noise pollution is measured in:","options":["Hertz","Decibels (dB)","Lumens","Pascals only"],"correct_index":1,"solution":"Sound intensity/loudness is measured in decibels (dB), a logarithmic unit. Prolonged exposure above ~85 dB can damage hearing; WHO recommends limits for residential zones.","difficulty":"easy"},
-  {"stem":"The 'polluter pays principle', upheld by Indian courts, means:","options":["The government pays for all pollution","The polluter bears the cost of preventing and remedying the pollution it causes","Citizens pay taxes for pollution","No one is liable"],"correct_index":1,"solution":"The polluter pays principle makes the party responsible for pollution liable for the costs of controlling and cleaning it up, and for compensating victims — a core principle of environmental jurisprudence in India.","difficulty":"medium"},
-  {"stem":"The 'precautionary principle' in environmental law holds that:","options":["Action should wait for full scientific certainty of harm","Lack of full scientific certainty should not postpone measures to prevent environmental degradation","Only proven harms matter","Economic growth overrides all"],"correct_index":1,"solution":"The precautionary principle states that where there are threats of serious or irreversible damage, lack of scientific certainty should not be used to postpone cost-effective preventive measures.","difficulty":"medium"},
-  {"stem":"The specialised quasi-judicial body set up in 2010 to handle environmental disputes and enforce environmental rights in India is the:","options":["Supreme Court Green Bench","National Green Tribunal (NGT)","CPCB","National Human Rights Commission"],"correct_index":1,"solution":"The National Green Tribunal, established by the NGT Act, 2010, is a specialised body for effective and expeditious disposal of cases relating to environmental protection and conservation of forests and natural resources.","difficulty":"medium"},
-  {"stem":"Which principle underlies the '3 Rs' hierarchy of waste management?","options":["Reduce, Reuse, Recycle","Remove, Replace, Restore","Reclaim, React, Remit","Rinse, Rack, Ready"],"correct_index":0,"solution":"The waste hierarchy prioritises Reduce (minimise waste), then Reuse, then Recycle — cutting resource use and landfill burden. Recovery and disposal come last.","difficulty":"easy"},
-  {"stem":"'Extended Producer Responsibility (EPR)' makes which party responsible for the end-of-life management of products like plastics and e-waste?","options":["The consumer only","The producer/manufacturer","The municipality only","The retailer only"],"correct_index":1,"solution":"EPR shifts responsibility for collecting and processing post-consumer waste (plastic packaging, e-waste, batteries) onto producers, incentivising eco-design and recycling. It underpins India's Plastic Waste and E-Waste Management Rules.","difficulty":"medium"},
-  {"stem":"E-waste (electronic waste) is hazardous mainly because it contains:","options":["Only paper","Toxic heavy metals like lead, mercury and cadmium","Only organic matter","Pure gold safely"],"correct_index":1,"solution":"E-waste contains toxic heavy metals (lead, mercury, cadmium, chromium) and flame retardants; unsafe informal recycling releases these, harming workers and the environment. India regulates it via E-Waste (Management) Rules.","difficulty":"medium"},
-  {"stem":"India banned identified 'single-use plastic' items from July 2022 primarily to tackle:","options":["Air pollution","Plastic waste and marine litter","Noise pollution","Radioactive waste"],"correct_index":1,"solution":"The ban on specified single-use plastics (straws, cutlery, thin carry bags, etc.) targets persistent plastic waste that chokes drains, harms wildlife and pollutes oceans, under the Plastic Waste Management Rules.","difficulty":"medium"},
-  {"stem":"'Microplastics' are:","options":["Large plastic drums","Plastic particles smaller than 5 mm that pollute water and enter food chains","Biodegradable plastics","A type of algae"],"correct_index":1,"solution":"Microplastics (<5 mm) come from the breakdown of larger plastics and from microbeads/fibres; they pervade oceans and freshwater, are ingested by organisms and enter human food chains.","difficulty":"medium"},
-  {"stem":"'Bioremediation' is the use of which agents to clean up pollutants?","options":["Heavy machinery","Living organisms (microbes/plants) to degrade or remove contaminants","Chemical incineration","Landfilling"],"correct_index":1,"solution":"Bioremediation uses microorganisms or plants to break down or accumulate pollutants (e.g. oil-eating bacteria, phytoremediation of metals) — an eco-friendly clean-up technology.","difficulty":"medium"},
-  {"stem":"'Phytoremediation' specifically uses ______ to remove or stabilise pollutants such as heavy metals from soil and water.","options":["Bacteria","Plants","Fungi only","Animals"],"correct_index":1,"solution":"Phytoremediation employs plants (hyperaccumulators) to absorb, concentrate or stabilise contaminants (metals, organics) from soil and water — a subset of bioremediation.","difficulty":"medium"},
-  {"stem":"The 'Swachh Bharat Mission' and solid waste rules promote 'waste to wealth' via composting and:","options":["Ocean dumping","Waste-to-energy and recycling","Open burning","Illegal export"],"correct_index":1,"solution":"India's solid waste framework encourages source segregation, composting of wet waste, recycling of dry waste, and waste-to-energy plants, moving away from open dumping and burning.","difficulty":"medium"},
-  {"stem":"Stubble (parali) burning in Punjab and Haryana is a major seasonal cause of:","options":["Water pollution in the south","Severe air pollution/smog in the National Capital Region in autumn","Soil salinity","Noise pollution"],"correct_index":1,"solution":"Post-harvest burning of paddy stubble in the northwest releases large amounts of particulates and gases, contributing significantly to Delhi-NCR's severe air pollution each October–November.","difficulty":"medium"},
-  {"stem":"The 'Graded Response Action Plan (GRAP)' is implemented to combat:","options":["River pollution in the Ganga","Air pollution episodes in Delhi-NCR","Noise in airports","E-waste"],"correct_index":1,"solution":"GRAP is a set of escalating emergency measures (e.g. halting construction, restricting vehicles) triggered by worsening AQI categories to control severe air pollution in Delhi-NCR.","difficulty":"medium"},
-  {"stem":"The 'National Clean Air Programme (NCAP)', launched in 2019, set a target to reduce particulate pollution in non-attainment cities by:","options":["No specific target","20–30% (later revised to 40%) by a target year","100% immediately","5%"],"correct_index":1,"solution":"NCAP aimed initially at a 20–30% reduction in PM2.5/PM10 concentrations by 2024 (base 2017), later revised to a 40% reduction by 2025–26, across identified non-attainment cities.","difficulty":"hard"},
-  {"stem":"Which of these best defines a 'point source' of water pollution?","options":["Runoff from many farms","Discharge from a single identifiable outlet like a factory pipe","Atmospheric deposition","Diffuse urban runoff"],"correct_index":1,"solution":"A point source is a single, identifiable discharge point (a factory effluent pipe, a sewage outfall). Non-point (diffuse) sources — farm runoff, urban stormwater — are harder to regulate.","difficulty":"medium"},
-  {"stem":"'Fly ash', a pollutant and also a resource, is generated mainly by:","options":["Automobiles","Coal-based thermal power plants","Cement kilns only","Sewage plants"],"correct_index":1,"solution":"Fly ash is the fine residue from burning pulverised coal in thermal power stations; it is a pollutant if dumped, but is reused in cement, bricks and road construction under fly-ash utilisation rules.","difficulty":"medium"},
-  {"stem":"The 'Namami Gange' programme is an integrated mission to:","options":["Build dams on the Ganga","Clean and rejuvenate the river Ganga and its tributaries","Divert the Ganga","Promote fishing"],"correct_index":1,"solution":"Namami Gange (2014), under the National Mission for Clean Ganga, aims to abate pollution and rejuvenate the Ganga through sewage treatment, riverfront development, afforestation and biodiversity conservation.","difficulty":"medium"},
-  {"stem":"Radioactive pollution is particularly hazardous because radiation can cause:","options":["Only temporary irritation","Mutations, cancer and genetic damage that persist for long periods","Instant biodegradation","Improved health"],"correct_index":1,"solution":"Ionising radiation from radioactive pollutants damages DNA, causing mutations, cancer and hereditary effects; radioactive waste remains hazardous for very long half-lives, requiring secure containment.","difficulty":"medium"},
-  {"stem":"Which international convention specifically addresses the transboundary movement of hazardous wastes?","options":["Basel Convention","Ramsar Convention","CITES","Vienna Convention"],"correct_index":0,"solution":"The Basel Convention (1989) controls transboundary movements of hazardous wastes and their disposal, preventing dumping of toxic waste from developed to developing countries.","difficulty":"medium"},
-  {"stem":"Light pollution primarily affects:","options":["Soil fertility","Nocturnal wildlife behaviour and astronomical observation","Water pH","Air pressure"],"correct_index":1,"solution":"Excess artificial light at night disrupts the behaviour of nocturnal animals (birds, turtles, insects), harms human circadian rhythms and hampers astronomy — a lesser-known form of pollution.","difficulty":"medium"},
-  {"stem":"Which is the correct chronology of India's core environmental legislation?","options":["Environment Act 1986 → Water Act 1974 → Air Act 1981","Water Act 1974 → Air Act 1981 → Environment (Protection) Act 1986","Air Act 1981 → Water Act 1974 → Environment Act 1986","All in 1986"],"correct_index":1,"solution":"The sequence is Water Act (1974) → Air Act (1981) → Environment (Protection) Act (1986). The EPA, an umbrella law, followed the Bhopal disaster and gave the Centre broad powers.","difficulty":"medium"},
-  {"stem":"Which gas, a product of incomplete combustion, binds to haemoglobin far more strongly than oxygen, causing suffocation?","options":["Carbon dioxide","Carbon monoxide","Nitrogen","Ozone"],"correct_index":1,"solution":"Carbon monoxide (CO), from incomplete fuel combustion, binds haemoglobin ~200+ times more strongly than oxygen, forming carboxyhaemoglobin and starving tissues of oxygen — potentially fatal.","difficulty":"medium"},
-  {"stem":"Plastic in the ocean tends to accumulate in large rotating current systems called:","options":["Estuaries","Ocean gyres (garbage patches)","Fjords","Trenches only"],"correct_index":1,"solution":"Rotating ocean currents (gyres) concentrate floating plastic into 'garbage patches' — most famously the Great Pacific Garbage Patch — harming marine life through entanglement and ingestion.","difficulty":"medium"},
-  {"stem":"Which pollutant is chiefly responsible for the reddish-brown haze and is a marker of vehicular emissions?","options":["Sulphur dioxide","Nitrogen dioxide (NO2)","Methane","Carbon dioxide"],"correct_index":1,"solution":"Nitrogen dioxide (NO2), largely from vehicle exhaust and combustion, gives smog its brownish tinge, irritates airways and is a precursor to ozone and acid rain.","difficulty":"medium"},
-  {"stem":"'Zero liquid discharge' (ZLD) norms require polluting industries to:","options":["Dump untreated effluent into rivers","Recover and reuse all wastewater so that no liquid effluent leaves the plant","Only treat air emissions","Increase water discharge"],"correct_index":1,"solution":"Zero liquid discharge mandates that industries treat and recycle all wastewater on-site, leaving no liquid effluent to be discharged — a strict measure for highly polluting sectors like textiles.","difficulty":"hard"},
-  {"stem":"Which of the following correctly matches a disease with its causative pollutant? (i) Blue baby syndrome – Nitrates (ii) Minamata – Mercury (iii) Fluorosis – Fluoride","options":["Only (i)","Only (ii) and (iii)","(i), (ii) and (iii)","Only (i) and (ii)"],"correct_index":2,"solution":"All three match: nitrate contamination of water causes methaemoglobinaemia (blue baby syndrome), mercury causes Minamata disease, and excess fluoride causes fluorosis.","difficulty":"hard"}
+  {
+    "stem": "Any undesirable change in the physical, chemical or biological characteristics of air, water or land that harms life is called:",
+    "options": [
+      "Erosion",
+      "Pollution",
+      "Succession",
+      "Weathering"
+    ],
+    "correct_index": 1,
+    "solution": "Pollution is the introduction of contaminants (pollutants) causing undesirable changes in the environment that adversely affect organisms and ecosystems.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Pollutants that cannot be broken down by natural processes and persist in the environment are called:",
+    "options": [
+      "Biodegradable pollutants",
+      "Non-biodegradable pollutants",
+      "Primary producers",
+      "Nutrients"
+    ],
+    "correct_index": 1,
+    "solution": "Non-biodegradable pollutants (e.g. DDT, plastics, heavy metals, radioactive waste) resist natural decomposition, accumulate in the environment and often undergo biomagnification.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The increasing concentration of a non-degradable pollutant at successive trophic levels of a food chain is called:",
+    "options": [
+      "Bioaccumulation",
+      "Biomagnification",
+      "Eutrophication",
+      "Bioremediation"
+    ],
+    "correct_index": 1,
+    "solution": "Biomagnification is the rise in concentration of persistent pollutants (e.g. DDT, mercury) at each higher trophic level, so top predators carry the highest loads. Bioaccumulation is build-up within a single organism over time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Air (Prevention and Control of Pollution) Act was enacted in:",
+    "options": [
+      "1974",
+      "1981",
+      "1986",
+      "1972"
+    ],
+    "correct_index": 1,
+    "solution": "The Air Act was passed in 1981. The Water Act came in 1974 and the umbrella Environment (Protection) Act in 1986 (following the Bhopal disaster and the Stockholm Conference commitments).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which pollutant is the primary cause of the greenhouse effect intensification but is NOT itself a criteria 'air-quality' toxic pollutant in the usual sense?",
+    "options": [
+      "Carbon monoxide",
+      "Carbon dioxide",
+      "Sulphur dioxide",
+      "Ground-level ozone"
+    ],
+    "correct_index": 1,
+    "solution": "CO2 is the chief anthropogenic greenhouse gas but is non-toxic at ambient levels; the criteria air pollutants harmful to health include PM, SO2, NO2, CO, O3, Pb.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Particulate matter of diameter 2.5 micrometres or less (PM2.5) is especially dangerous because it:",
+    "options": [
+      "Settles quickly and is harmless",
+      "Penetrates deep into the lungs and can enter the bloodstream",
+      "Is visible to the eye",
+      "Only affects plants"
+    ],
+    "correct_index": 1,
+    "solution": "PM2.5 (fine particulates) penetrates deep into the alveoli and can enter the bloodstream, causing respiratory and cardiovascular disease. It is a key parameter in the National Air Quality Index.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gas mainly responsible for the Bhopal Gas Tragedy (1984) was:",
+    "options": [
+      "Carbon monoxide",
+      "Methyl isocyanate (MIC)",
+      "Chlorine",
+      "Sulphur dioxide"
+    ],
+    "correct_index": 1,
+    "solution": "The 1984 Bhopal disaster involved a leak of methyl isocyanate (MIC) from the Union Carbide plant, killing thousands — the world's worst industrial disaster. It spurred the Environment (Protection) Act, 1986.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Photochemical smog, common in sunny cities with heavy traffic, is chiefly formed from the reaction of sunlight with:",
+    "options": [
+      "CO2 and water vapour",
+      "Nitrogen oxides and volatile organic compounds",
+      "Methane and oxygen",
+      "Ozone and CFCs"
+    ],
+    "correct_index": 1,
+    "solution": "Photochemical smog forms when sunlight drives reactions among NOx and VOCs from vehicles, producing ground-level ozone, PAN and other oxidants that irritate eyes and lungs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ground-level (tropospheric) ozone is considered:",
+    "options": [
+      "A beneficial gas that protects us from UV",
+      "A harmful secondary pollutant and greenhouse gas",
+      "Harmless",
+      "A primary pollutant emitted directly by vehicles"
+    ],
+    "correct_index": 1,
+    "solution": "Tropospheric ozone is a harmful secondary pollutant (formed from NOx + VOCs + sunlight) that damages lungs and crops and acts as a greenhouse gas — 'bad ozone', unlike beneficial stratospheric ozone.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Acid rain' is caused mainly by the atmospheric conversion of which two gases into acids?",
+    "options": [
+      "CO2 and CH4",
+      "SO2 and NOx",
+      "O2 and N2",
+      "CFCs and O3"
+    ],
+    "correct_index": 1,
+    "solution": "Sulphur dioxide and nitrogen oxides (from burning fossil fuels) react with water vapour to form sulphuric and nitric acids, falling as acid rain that damages forests, lakes, soils and monuments.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Taj Mahal's discolouration prompted the creation of the 'Taj Trapezium Zone' mainly to curb:",
+    "options": [
+      "Water pollution",
+      "Air pollution (SO2 and particulates from industries/refineries)",
+      "Noise pollution",
+      "Radioactive pollution"
+    ],
+    "correct_index": 1,
+    "solution": "The Taj Trapezium Zone restricts polluting industries around Agra to protect the Taj Mahal from acid rain and particulate deposition that yellow the marble ('marble cancer').",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Central Pollution Control Board (CPCB) functions under which statute/ministry framework?",
+    "options": [
+      "Ministry of Home Affairs",
+      "Ministry of Environment, Forest and Climate Change (under the Water Act, 1974)",
+      "Ministry of Defence",
+      "Ministry of Finance"
+    ],
+    "correct_index": 1,
+    "solution": "The CPCB, established under the Water Act, 1974, works under the MoEFCC and coordinates State Pollution Control Boards, sets standards and monitors air/water quality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'National Air Quality Index (AQI)' launched in 2015 categorises air with how many bands from 'Good' to 'Severe'?",
+    "options": [
+      "Three",
+      "Six",
+      "Ten",
+      "Two"
+    ],
+    "correct_index": 1,
+    "solution": "India's AQI has six categories — Good, Satisfactory, Moderate, Poor, Very Poor and Severe — based on eight pollutants (PM10, PM2.5, NO2, SO2, CO, O3, NH3, Pb).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Biological Oxygen Demand (BOD) is a measure of water pollution indicating:",
+    "options": [
+      "The amount of oxygen needed by microbes to decompose organic matter",
+      "The pH of water",
+      "Water temperature",
+      "Salinity"
+    ],
+    "correct_index": 0,
+    "solution": "BOD is the amount of dissolved oxygen microorganisms require to decompose organic matter in water. High BOD indicates heavy organic pollution and low water quality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A high BOD in a river generally indicates:",
+    "options": [
+      "Clean, well-oxygenated water",
+      "Heavy organic pollution and low dissolved oxygen",
+      "High salinity",
+      "Radioactive contamination"
+    ],
+    "correct_index": 1,
+    "solution": "High BOD means microbes are consuming lots of oxygen to break down abundant organic waste (sewage), leaving little dissolved oxygen for fish and other aquatic life — a sign of severe pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which disease is caused by mercury poisoning, famously linked to industrial effluent in Minamata Bay, Japan?",
+    "options": [
+      "Itai-itai disease",
+      "Minamata disease",
+      "Fluorosis",
+      "Black lung"
+    ],
+    "correct_index": 1,
+    "solution": "Minamata disease results from methylmercury poisoning (a neurological disorder) caused by consuming fish contaminated by industrial mercury discharge — a classic case of biomagnification.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Itai-itai' disease, marked by bone softening and kidney damage, is caused by chronic poisoning with:",
+    "options": [
+      "Lead",
+      "Cadmium",
+      "Arsenic",
+      "Mercury"
+    ],
+    "correct_index": 1,
+    "solution": "Itai-itai ('ouch-ouch') disease in Japan resulted from cadmium poisoning via contaminated rice grown with mine-polluted water, causing painful bone and kidney damage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Fluorosis, causing mottled teeth and skeletal deformities, is caused by excess of which element in drinking water?",
+    "options": [
+      "Iron",
+      "Fluoride",
+      "Chlorine",
+      "Calcium"
+    ],
+    "correct_index": 1,
+    "solution": "Excess fluoride in groundwater causes dental and skeletal fluorosis, a widespread problem in parts of Rajasthan, Andhra Pradesh and other Indian states.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Arsenic contamination of groundwater, a serious health hazard causing skin lesions and cancer, is most severe in India in the:",
+    "options": [
+      "Thar desert",
+      "Ganga–Brahmaputra plains (esp. West Bengal, Bihar)",
+      "Deccan plateau",
+      "Himalayan cold desert"
+    ],
+    "correct_index": 1,
+    "solution": "Arsenic contamination of tube-well water is acute in the Ganga–Brahmaputra floodplains (West Bengal, Bihar, Assam, UP), causing arsenicosis and increased cancer risk.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Eutrophication' of lakes leads to which visible symptom?",
+    "options": [
+      "Clearing of water",
+      "Excessive algal blooms and depletion of oxygen",
+      "Rise in fish population",
+      "Decrease in nutrients"
+    ],
+    "correct_index": 1,
+    "solution": "Nutrient enrichment (N, P) causes algal blooms; their decay depletes dissolved oxygen, killing fish. Cultural eutrophication is accelerated by sewage and fertiliser runoff.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of these is a persistent organic pollutant (POP) banned/restricted under the Stockholm Convention?",
+    "options": [
+      "Carbon dioxide",
+      "DDT",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correct_index": 1,
+    "solution": "DDT is a persistent organic pollutant (POP) targeted by the Stockholm Convention (2001). POPs resist degradation, biomagnify and travel long distances; DDT retains a limited exemption for malaria control.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Thermal pollution of water bodies (e.g. from power-plant cooling water) harms aquatic life mainly by:",
+    "options": [
+      "Increasing dissolved oxygen",
+      "Decreasing dissolved oxygen and stressing temperature-sensitive organisms",
+      "Adding nutrients",
+      "Lowering temperature"
+    ],
+    "correct_index": 1,
+    "solution": "Warm discharge lowers the water's dissolved oxygen (gases are less soluble in warm water) and disrupts the metabolism and breeding of aquatic organisms — this is thermal pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Noise pollution is measured in:",
+    "options": [
+      "Hertz",
+      "Decibels (dB)",
+      "Lumens",
+      "Pascals only"
+    ],
+    "correct_index": 1,
+    "solution": "Sound intensity/loudness is measured in decibels (dB), a logarithmic unit. Prolonged exposure above ~85 dB can damage hearing; WHO recommends limits for residential zones.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'polluter pays principle', upheld by Indian courts, means:",
+    "options": [
+      "The government pays for all pollution",
+      "The polluter bears the cost of preventing and remedying the pollution it causes",
+      "Citizens pay taxes for pollution",
+      "No one is liable"
+    ],
+    "correct_index": 1,
+    "solution": "The polluter pays principle makes the party responsible for pollution liable for the costs of controlling and cleaning it up, and for compensating victims — a core principle of environmental jurisprudence in India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'precautionary principle' in environmental law holds that:",
+    "options": [
+      "Action should wait for full scientific certainty of harm",
+      "Lack of full scientific certainty should not postpone measures to prevent environmental degradation",
+      "Only proven harms matter",
+      "Economic growth overrides all"
+    ],
+    "correct_index": 1,
+    "solution": "The precautionary principle states that where there are threats of serious or irreversible damage, lack of scientific certainty should not be used to postpone cost-effective preventive measures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The specialised quasi-judicial body set up in 2010 to handle environmental disputes and enforce environmental rights in India is the:",
+    "options": [
+      "Supreme Court Green Bench",
+      "National Green Tribunal (NGT)",
+      "CPCB",
+      "National Human Rights Commission"
+    ],
+    "correct_index": 1,
+    "solution": "The National Green Tribunal, established by the NGT Act, 2010, is a specialised body for effective and expeditious disposal of cases relating to environmental protection and conservation of forests and natural resources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which principle underlies the '3 Rs' hierarchy of waste management?",
+    "options": [
+      "Reduce, Reuse, Recycle",
+      "Remove, Replace, Restore",
+      "Reclaim, React, Remit",
+      "Rinse, Rack, Ready"
+    ],
+    "correct_index": 0,
+    "solution": "The waste hierarchy prioritises Reduce (minimise waste), then Reuse, then Recycle — cutting resource use and landfill burden. Recovery and disposal come last.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Extended Producer Responsibility (EPR)' makes which party responsible for the end-of-life management of products like plastics and e-waste?",
+    "options": [
+      "The consumer only",
+      "The producer/manufacturer",
+      "The municipality only",
+      "The retailer only"
+    ],
+    "correct_index": 1,
+    "solution": "EPR shifts responsibility for collecting and processing post-consumer waste (plastic packaging, e-waste, batteries) onto producers, incentivising eco-design and recycling. It underpins India's Plastic Waste and E-Waste Management Rules.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "E-waste (electronic waste) is hazardous mainly because it contains:",
+    "options": [
+      "Only paper",
+      "Toxic heavy metals like lead, mercury and cadmium",
+      "Only organic matter",
+      "Pure gold safely"
+    ],
+    "correct_index": 1,
+    "solution": "E-waste contains toxic heavy metals (lead, mercury, cadmium, chromium) and flame retardants; unsafe informal recycling releases these, harming workers and the environment. India regulates it via E-Waste (Management) Rules.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India banned identified 'single-use plastic' items from July 2022 primarily to tackle:",
+    "options": [
+      "Air pollution",
+      "Plastic waste and marine litter",
+      "Noise pollution",
+      "Radioactive waste"
+    ],
+    "correct_index": 1,
+    "solution": "The ban on specified single-use plastics (straws, cutlery, thin carry bags, etc.) targets persistent plastic waste that chokes drains, harms wildlife and pollutes oceans, under the Plastic Waste Management Rules.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Microplastics' are:",
+    "options": [
+      "Large plastic drums",
+      "Plastic particles smaller than 5 mm that pollute water and enter food chains",
+      "Biodegradable plastics",
+      "A type of algae"
+    ],
+    "correct_index": 1,
+    "solution": "Microplastics (<5 mm) come from the breakdown of larger plastics and from microbeads/fibres; they pervade oceans and freshwater, are ingested by organisms and enter human food chains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Bioremediation' is the use of which agents to clean up pollutants?",
+    "options": [
+      "Heavy machinery",
+      "Living organisms (microbes/plants) to degrade or remove contaminants",
+      "Chemical incineration",
+      "Landfilling"
+    ],
+    "correct_index": 1,
+    "solution": "Bioremediation uses microorganisms or plants to break down or accumulate pollutants (e.g. oil-eating bacteria, phytoremediation of metals) — an eco-friendly clean-up technology.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Phytoremediation' specifically uses ______ to remove or stabilise pollutants such as heavy metals from soil and water.",
+    "options": [
+      "Bacteria",
+      "Plants",
+      "Fungi only",
+      "Animals"
+    ],
+    "correct_index": 1,
+    "solution": "Phytoremediation employs plants (hyperaccumulators) to absorb, concentrate or stabilise contaminants (metals, organics) from soil and water — a subset of bioremediation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Swachh Bharat Mission' and solid waste rules promote 'waste to wealth' via composting and:",
+    "options": [
+      "Ocean dumping",
+      "Waste-to-energy and recycling",
+      "Open burning",
+      "Illegal export"
+    ],
+    "correct_index": 1,
+    "solution": "India's solid waste framework encourages source segregation, composting of wet waste, recycling of dry waste, and waste-to-energy plants, moving away from open dumping and burning.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Stubble (parali) burning in Punjab and Haryana is a major seasonal cause of:",
+    "options": [
+      "Water pollution in the south",
+      "Severe air pollution/smog in the National Capital Region in autumn",
+      "Soil salinity",
+      "Noise pollution"
+    ],
+    "correct_index": 1,
+    "solution": "Post-harvest burning of paddy stubble in the northwest releases large amounts of particulates and gases, contributing significantly to Delhi-NCR's severe air pollution each October–November.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Graded Response Action Plan (GRAP)' is implemented to combat:",
+    "options": [
+      "River pollution in the Ganga",
+      "Air pollution episodes in Delhi-NCR",
+      "Noise in airports",
+      "E-waste"
+    ],
+    "correct_index": 1,
+    "solution": "GRAP is a set of escalating emergency measures (e.g. halting construction, restricting vehicles) triggered by worsening AQI categories to control severe air pollution in Delhi-NCR.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'National Clean Air Programme (NCAP)', launched in 2019, set a target to reduce particulate pollution in non-attainment cities by:",
+    "options": [
+      "No specific target",
+      "20–30% (later revised to 40%) by a target year",
+      "100% immediately",
+      "5%"
+    ],
+    "correct_index": 1,
+    "solution": "NCAP aimed initially at a 20–30% reduction in PM2.5/PM10 concentrations by 2024 (base 2017), later revised to a 40% reduction by 2025–26, across identified non-attainment cities.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of these best defines a 'point source' of water pollution?",
+    "options": [
+      "Runoff from many farms",
+      "Discharge from a single identifiable outlet like a factory pipe",
+      "Atmospheric deposition",
+      "Diffuse urban runoff"
+    ],
+    "correct_index": 1,
+    "solution": "A point source is a single, identifiable discharge point (a factory effluent pipe, a sewage outfall). Non-point (diffuse) sources — farm runoff, urban stormwater — are harder to regulate.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Fly ash', a pollutant and also a resource, is generated mainly by:",
+    "options": [
+      "Automobiles",
+      "Coal-based thermal power plants",
+      "Cement kilns only",
+      "Sewage plants"
+    ],
+    "correct_index": 1,
+    "solution": "Fly ash is the fine residue from burning pulverised coal in thermal power stations; it is a pollutant if dumped, but is reused in cement, bricks and road construction under fly-ash utilisation rules.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Namami Gange' programme is an integrated mission to:",
+    "options": [
+      "Build dams on the Ganga",
+      "Clean and rejuvenate the river Ganga and its tributaries",
+      "Divert the Ganga",
+      "Promote fishing"
+    ],
+    "correct_index": 1,
+    "solution": "Namami Gange (2014), under the National Mission for Clean Ganga, aims to abate pollution and rejuvenate the Ganga through sewage treatment, riverfront development, afforestation and biodiversity conservation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Radioactive pollution is particularly hazardous because radiation can cause:",
+    "options": [
+      "Only temporary irritation",
+      "Mutations, cancer and genetic damage that persist for long periods",
+      "Instant biodegradation",
+      "Improved health"
+    ],
+    "correct_index": 1,
+    "solution": "Ionising radiation from radioactive pollutants damages DNA, causing mutations, cancer and hereditary effects; radioactive waste remains hazardous for very long half-lives, requiring secure containment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which international convention specifically addresses the transboundary movement of hazardous wastes?",
+    "options": [
+      "Basel Convention",
+      "Ramsar Convention",
+      "CITES",
+      "Vienna Convention"
+    ],
+    "correct_index": 0,
+    "solution": "The Basel Convention (1989) controls transboundary movements of hazardous wastes and their disposal, preventing dumping of toxic waste from developed to developing countries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Light pollution primarily affects:",
+    "options": [
+      "Soil fertility",
+      "Nocturnal wildlife behaviour and astronomical observation",
+      "Water pH",
+      "Air pressure"
+    ],
+    "correct_index": 1,
+    "solution": "Excess artificial light at night disrupts the behaviour of nocturnal animals (birds, turtles, insects), harms human circadian rhythms and hampers astronomy — a lesser-known form of pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which is the correct chronology of India's core environmental legislation?",
+    "options": [
+      "Environment Act 1986 → Water Act 1974 → Air Act 1981",
+      "Water Act 1974 → Air Act 1981 → Environment (Protection) Act 1986",
+      "Air Act 1981 → Water Act 1974 → Environment Act 1986",
+      "All in 1986"
+    ],
+    "correct_index": 1,
+    "solution": "The sequence is Water Act (1974) → Air Act (1981) → Environment (Protection) Act (1986). The EPA, an umbrella law, followed the Bhopal disaster and gave the Centre broad powers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which gas, a product of incomplete combustion, binds to haemoglobin far more strongly than oxygen, causing suffocation?",
+    "options": [
+      "Carbon dioxide",
+      "Carbon monoxide",
+      "Nitrogen",
+      "Ozone"
+    ],
+    "correct_index": 1,
+    "solution": "Carbon monoxide (CO), from incomplete fuel combustion, binds haemoglobin ~200+ times more strongly than oxygen, forming carboxyhaemoglobin and starving tissues of oxygen — potentially fatal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Plastic in the ocean tends to accumulate in large rotating current systems called:",
+    "options": [
+      "Estuaries",
+      "Ocean gyres (garbage patches)",
+      "Fjords",
+      "Trenches only"
+    ],
+    "correct_index": 1,
+    "solution": "Rotating ocean currents (gyres) concentrate floating plastic into 'garbage patches' — most famously the Great Pacific Garbage Patch — harming marine life through entanglement and ingestion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which pollutant is chiefly responsible for the reddish-brown haze and is a marker of vehicular emissions?",
+    "options": [
+      "Sulphur dioxide",
+      "Nitrogen dioxide (NO2)",
+      "Methane",
+      "Carbon dioxide"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen dioxide (NO2), largely from vehicle exhaust and combustion, gives smog its brownish tinge, irritates airways and is a precursor to ozone and acid rain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Zero liquid discharge' (ZLD) norms require polluting industries to:",
+    "options": [
+      "Dump untreated effluent into rivers",
+      "Recover and reuse all wastewater so that no liquid effluent leaves the plant",
+      "Only treat air emissions",
+      "Increase water discharge"
+    ],
+    "correct_index": 1,
+    "solution": "Zero liquid discharge mandates that industries treat and recycle all wastewater on-site, leaving no liquid effluent to be discharged — a strict measure for highly polluting sectors like textiles.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly matches a disease with its causative pollutant? (i) Blue baby syndrome – Nitrates (ii) Minamata – Mercury (iii) Fluorosis – Fluoride",
+    "options": [
+      "Only (i)",
+      "Only (ii) and (iii)",
+      "(i), (ii) and (iii)",
+      "Only (i) and (ii)"
+    ],
+    "correct_index": 2,
+    "solution": "All three match: nitrate contamination of water causes methaemoglobinaemia (blue baby syndrome), mercury causes Minamata disease, and excess fluoride causes fluorosis.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Pollutants can be classified by origin as:",
+    "options": [
+      "Only man-made",
+      "Natural (e.g. volcanic ash) and anthropogenic (human-made)",
+      "Only gaseous",
+      "Only liquid"
+    ],
+    "correct_index": 1,
+    "solution": "Pollutants may arise naturally (volcanic eruptions, dust storms, forest fires) or from human (anthropogenic) activities; the latter are the main concern in environmental pollution.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 'primary pollutant' is one that is:",
+    "options": [
+      "Formed in the atmosphere by reactions",
+      "Emitted directly from a source (e.g. CO, SO2, NOx)",
+      "Always harmless",
+      "Only found in water"
+    ],
+    "correct_index": 1,
+    "solution": "Primary pollutants (CO, SO2, NOx, particulates) are released directly from sources. Secondary pollutants (e.g. ozone, PAN, acid rain) form in the atmosphere from primary ones.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ground-level ozone and PAN (peroxyacetyl nitrate) are examples of:",
+    "options": [
+      "Primary pollutants",
+      "Secondary pollutants",
+      "Biodegradable waste",
+      "Nutrients"
+    ],
+    "correct_index": 1,
+    "solution": "Ozone and PAN are secondary pollutants, formed in the atmosphere from reactions among primary pollutants (NOx, VOCs) in sunlight — key components of photochemical smog.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The eight pollutants monitored under India's National Air Quality Index include PM10, PM2.5, NO2, SO2, CO, O3, and:",
+    "options": [
+      "CO2 and helium",
+      "NH3 (ammonia) and Pb (lead)",
+      "Argon and neon",
+      "Water vapour"
+    ],
+    "correct_index": 1,
+    "solution": "The National AQI is based on eight pollutants: PM10, PM2.5, NO2, SO2, CO, O3, NH3 and Pb — with the worst sub-index determining the overall AQI.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which agency issues the National Air Quality Index and sets ambient air-quality standards in India?",
+    "options": [
+      "IMD",
+      "Central Pollution Control Board (CPCB)",
+      "ISRO",
+      "NITI Aayog"
+    ],
+    "correct_index": 1,
+    "solution": "The Central Pollution Control Board (CPCB) issues the National AQI and lays down the National Ambient Air Quality Standards under the Air Act, 1981.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Smog' is a portmanteau of which two words?",
+    "options": [
+      "Smoke and fog",
+      "Smell and gas",
+      "Small and dog",
+      "Smooth and fog"
+    ],
+    "correct_index": 0,
+    "solution": "Smog combines 'smoke' and 'fog'. Classic (London/sulphurous) smog is smoke + fog + SO2; photochemical (Los Angeles) smog forms from vehicle emissions in sunlight.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Classic 'London smog' (1952) was primarily a:",
+    "options": [
+      "Photochemical smog",
+      "Sulphurous/reducing smog from coal burning and fog",
+      "Dust storm",
+      "Ozone event"
+    ],
+    "correct_index": 1,
+    "solution": "The Great Smog of London (1952) was a sulphurous, reducing smog from coal combustion combined with cold, foggy, still air, causing thousands of deaths and prompting clean-air laws.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which is a natural process that can worsen urban air pollution by trapping pollutants near the ground?",
+    "options": [
+      "Strong winds",
+      "Temperature inversion",
+      "Heavy rain",
+      "High turbulence"
+    ],
+    "correct_index": 1,
+    "solution": "A temperature inversion — where a warm air layer sits above cooler surface air — prevents vertical mixing, trapping pollutants near the ground and intensifying smog episodes (e.g. Delhi in winter).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Indoor air pollution in rural India is caused chiefly by:",
+    "options": [
+      "Air conditioners",
+      "Burning solid biomass (wood, dung, crop residue) for cooking",
+      "Refrigerators",
+      "Electric lights"
+    ],
+    "correct_index": 1,
+    "solution": "Combustion of solid biomass fuels in poorly ventilated homes releases smoke and particulates, causing severe indoor air pollution — a major health hazard tackled by clean-cooking schemes like Ujjwala.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Water pollution' indicators include BOD, COD and:",
+    "options": [
+      "Wind speed",
+      "Dissolved oxygen (DO) and coliform count",
+      "Air pressure",
+      "Rainfall"
+    ],
+    "correct_index": 1,
+    "solution": "Water quality is assessed by dissolved oxygen (DO), biochemical oxygen demand (BOD), chemical oxygen demand (COD) and the presence of faecal coliform bacteria, among other parameters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Chemical Oxygen Demand (COD) measures the oxygen needed to:",
+    "options": [
+      "Only break down organic matter biologically",
+      "Chemically oxidise both biodegradable and non-biodegradable matter in water",
+      "Freeze the water",
+      "Measure salinity"
+    ],
+    "correct_index": 1,
+    "solution": "COD measures the total oxygen required to chemically oxidise all oxidisable matter (organic and inorganic), so it is generally higher than BOD (which is only the biodegradable fraction).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The presence of 'coliform bacteria' in water indicates:",
+    "options": [
+      "Clean water",
+      "Faecal (sewage) contamination and possible pathogens",
+      "High oxygen",
+      "Low temperature"
+    ],
+    "correct_index": 1,
+    "solution": "Coliform bacteria (e.g. E. coli) signal faecal contamination of water and the potential presence of disease-causing pathogens — a key indicator of sewage pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Blue baby syndrome' (methaemoglobinaemia) in infants is caused by high levels of ______ in drinking water.",
+    "options": [
+      "Fluoride",
+      "Nitrate",
+      "Iron",
+      "Calcium"
+    ],
+    "correct_index": 1,
+    "solution": "Excess nitrate (from fertiliser runoff/sewage) in drinking water impairs the blood's oxygen-carrying capacity in infants, causing methaemoglobinaemia or 'blue baby syndrome'.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which heavy metal, released from industries and batteries, causes neurological damage especially in children?",
+    "options": [
+      "Iron",
+      "Lead",
+      "Zinc",
+      "Calcium"
+    ],
+    "correct_index": 1,
+    "solution": "Lead is a neurotoxin causing developmental and neurological harm, particularly in children; it prompted the phase-out of leaded petrol and is monitored in air and water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Bioremediation' of an oil spill using oil-degrading bacteria is an example of:",
+    "options": [
+      "Chemical incineration",
+      "Using living organisms to clean up pollution",
+      "Landfilling",
+      "Dumping at sea"
+    ],
+    "correct_index": 1,
+    "solution": "Bioremediation harnesses microbes (or plants) to degrade pollutants; oil-eating bacteria breaking down spilled hydrocarbons is a classic example of this eco-friendly clean-up.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Great Smog' events and the Bhopal disaster both drove:",
+    "options": [
+      "More pollution",
+      "Stronger environmental legislation and pollution-control measures",
+      "Less regulation",
+      "Industrial expansion"
+    ],
+    "correct_index": 1,
+    "solution": "Major disasters like London's Great Smog and Bhopal spurred landmark laws (Clean Air Acts; India's Environment Protection Act, 1986) and stronger pollution-control regimes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Fly ash' from thermal power plants is best managed by:",
+    "options": [
+      "Dumping in rivers",
+      "Reusing it in cement, bricks and road construction",
+      "Burning it",
+      "Releasing to air"
+    ],
+    "correct_index": 1,
+    "solution": "Fly ash is productively reused in cement, fly-ash bricks, road embankments and land reclamation; India mandates its utilisation to prevent land and water pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'polluter pays' and 'precautionary' principles were incorporated into Indian environmental law through:",
+    "options": [
+      "The Constitution's Preamble",
+      "Supreme Court judgments (e.g. Vellore Citizens' case)",
+      "The Air Act only",
+      "Foreign treaties only"
+    ],
+    "correct_index": 1,
+    "solution": "The Supreme Court, in cases like Vellore Citizens' Welfare Forum (1996), incorporated the polluter pays and precautionary principles as part of India's environmental jurisprudence.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Noise pollution' regulation in India specifies permissible decibel limits for which zones?",
+    "options": [
+      "Only industrial",
+      "Industrial, commercial, residential and silence zones",
+      "Only residential",
+      "Only rural"
+    ],
+    "correct_index": 1,
+    "solution": "The Noise Pollution (Regulation and Control) Rules, 2000 set day/night decibel limits for industrial, commercial, residential and silence zones (e.g. near hospitals and schools).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'PM10' refers to particulate matter with diameter:",
+    "options": [
+      "More than 100 micrometres",
+      "10 micrometres or less",
+      "1 metre",
+      "Exactly 1 micrometre"
+    ],
+    "correct_index": 1,
+    "solution": "PM10 is coarse particulate matter ≤10 micrometres in diameter (inhalable). PM2.5 (≤2.5 μm) is finer and penetrates deeper into the lungs and bloodstream, being more dangerous.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which sector is a major source of NOx and particulate emissions in Indian cities?",
+    "options": [
+      "Agriculture only",
+      "Transport/vehicles (and thermal power, industry)",
+      "Fishing",
+      "Tourism"
+    ],
+    "correct_index": 1,
+    "solution": "Vehicular transport is a leading urban source of NOx, CO and particulates; along with thermal power, industry, construction dust and biomass burning, it drives poor urban air quality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'BS-VI' (Bharat Stage VI) emission norms, adopted by India, aim to:",
+    "options": [
+      "Increase vehicle emissions",
+      "Sharply reduce vehicular pollutant emissions (like sulphur and particulates)",
+      "Ban all vehicles",
+      "Promote leaded fuel"
+    ],
+    "correct_index": 1,
+    "solution": "Bharat Stage VI norms (implemented 2020) drastically cut permissible vehicular emissions of sulphur, NOx and particulates, aligning India with stringent global (Euro-VI) standards.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Commission for Air Quality Management (CAQM)' is a statutory body for air-quality management in:",
+    "options": [
+      "The whole country",
+      "The National Capital Region and adjoining areas",
+      "Only Mumbai",
+      "Only Kolkata"
+    ],
+    "correct_index": 1,
+    "solution": "The CAQM is a statutory body for better coordination, research and resolution of air-quality problems in the National Capital Region (Delhi) and adjoining areas, superseding earlier ad hoc bodies.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Thermal pollution' can be reduced by:",
+    "options": [
+      "Discharging hotter water",
+      "Using cooling towers/ponds to cool water before discharge",
+      "Adding more heat",
+      "Removing all water"
+    ],
+    "correct_index": 1,
+    "solution": "Cooling towers, cooling ponds and closed-cycle systems lower the temperature of industrial cooling water before it is returned to water bodies, reducing thermal pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Radioactive pollution' sources include nuclear power accidents, mining and:",
+    "options": [
+      "Photosynthesis",
+      "Improper disposal of radioactive medical/industrial waste and nuclear weapons testing",
+      "Rainfall",
+      "Wind"
+    ],
+    "correct_index": 1,
+    "solution": "Radioactive pollution arises from nuclear accidents (Chernobyl, Fukushima), uranium mining, weapons testing and unsafe disposal of radioactive waste from medicine and industry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a 'non-point source' of water pollution?",
+    "options": [
+      "A factory outfall pipe",
+      "A sewage treatment plant discharge",
+      "Agricultural runoff spread over a large area",
+      "A single drainpipe"
+    ],
+    "correct_index": 2,
+    "solution": "Non-point (diffuse) sources like agricultural runoff, urban stormwater and atmospheric deposition come from broad areas and lack a single discharge point, making them hard to regulate.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Plastic pollution' persists in the environment because plastics are:",
+    "options": [
+      "Quickly biodegradable",
+      "Non-biodegradable and only break into smaller pieces (microplastics)",
+      "Nutrient-rich",
+      "Soluble in water"
+    ],
+    "correct_index": 1,
+    "solution": "Conventional plastics resist biodegradation, persisting for centuries and fragmenting into microplastics that pervade soil, water and food chains — a growing global pollution crisis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Extended Producer Responsibility (EPR) for plastic waste places the obligation to collect and recycle on the:",
+    "options": [
+      "Consumer",
+      "Producers, importers and brand-owners",
+      "Municipality only",
+      "Retailer only"
+    ],
+    "correct_index": 1,
+    "solution": "Under EPR (in the Plastic Waste Management Rules), producers, importers and brand-owners must ensure collection and environmentally sound processing of the plastic they put on the market.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following waste streams requires segregation into biodegradable and non-biodegradable at source under Indian rules?",
+    "options": [
+      "Only industrial waste",
+      "Municipal solid waste",
+      "Only e-waste",
+      "Only medical waste"
+    ],
+    "correct_index": 1,
+    "solution": "The Solid Waste Management Rules, 2016 mandate segregation of municipal solid waste at source into wet (biodegradable), dry (recyclable) and domestic hazardous fractions for proper processing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Composting' is a method of managing which type of waste?",
+    "options": [
+      "Radioactive",
+      "Biodegradable (organic) waste",
+      "Plastic",
+      "Metal"
+    ],
+    "correct_index": 1,
+    "solution": "Composting decomposes biodegradable organic waste (food scraps, garden waste) into nutrient-rich compost through microbial action, reducing landfill burden and returning nutrients to soil.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Incineration' of waste is controversial because, if not controlled, it can release:",
+    "options": [
+      "Only water vapour",
+      "Toxic gases like dioxins and furans, and particulates",
+      "Oxygen",
+      "Nitrogen only"
+    ],
+    "correct_index": 1,
+    "solution": "Uncontrolled incineration can emit toxic dioxins, furans, heavy metals and particulates; modern waste-to-energy plants use pollution controls to minimise these emissions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Sanitary landfills' differ from open dumps because they:",
+    "options": [
+      "Are the same",
+      "Have engineered liners and leachate/gas collection to prevent groundwater and air pollution",
+      "Have no controls",
+      "Are always burning"
+    ],
+    "correct_index": 1,
+    "solution": "Sanitary landfills use impermeable liners, daily soil cover, leachate collection and landfill-gas capture to prevent contamination of soil, groundwater and air — unlike unregulated open dumps.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Leachate' from landfills is:",
+    "options": [
+      "Clean rainwater",
+      "Contaminated liquid that percolates through waste, which can pollute groundwater",
+      "Compost",
+      "Biogas"
+    ],
+    "correct_index": 1,
+    "solution": "Leachate is the polluted liquid formed as water percolates through decomposing waste; if not collected and treated, it can contaminate soil and groundwater with toxins.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Biomedical waste' must be managed carefully because it may contain:",
+    "options": [
+      "Only paper",
+      "Infectious and hazardous materials (needles, pathogens, chemicals)",
+      "Only food",
+      "Only glass"
+    ],
+    "correct_index": 1,
+    "solution": "Biomedical waste (used syringes, blood-soaked material, pathological waste) can spread infection and contains hazardous substances; it is regulated under the Bio-Medical Waste Management Rules with colour-coded segregation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which colour-coded bin, under India's biomedical waste rules, is generally used for infectious plastic waste?",
+    "options": [
+      "Yellow only",
+      "Red (for contaminated recyclable plastic waste)",
+      "Blue for food",
+      "Green for metal"
+    ],
+    "correct_index": 1,
+    "solution": "Under the Bio-Medical Waste Rules, red bins hold contaminated recyclable plastic waste (tubing, catheters), yellow for infectious/anatomical waste, and white/blue for sharps and glass respectively.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Acid rain' damages the Taj Mahal by:",
+    "options": [
+      "Cooling it",
+      "Reacting with the marble (calcium carbonate), causing 'marble cancer'",
+      "Painting it",
+      "Strengthening it"
+    ],
+    "correct_index": 1,
+    "solution": "Acidic pollutants react with the Taj's marble (CaCO3), corroding and yellowing it — 'marble cancer' — prompting the Taj Trapezium Zone restrictions on nearby polluting industries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Montreal Protocol' addresses which pollution issue?",
+    "options": [
+      "Ocean plastic",
+      "Ozone-depleting substances",
+      "Noise",
+      "Radioactive waste"
+    ],
+    "correct_index": 1,
+    "solution": "The Montreal Protocol phases out ozone-depleting substances (CFCs, halons) — an atmospheric pollution issue distinct from the greenhouse-gas problem.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which pollutant is chiefly responsible for 'brown haze' over cities and is a marker of combustion?",
+    "options": [
+      "Oxygen",
+      "Nitrogen dioxide (NO2)",
+      "Argon",
+      "Helium"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen dioxide, from vehicles and combustion, gives urban smog its brownish tinge, irritates airways, and is a precursor to ground-level ozone and acid rain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Bioindicators' of air pollution include:",
+    "options": [
+      "Cars",
+      "Lichens (sensitive to SO2)",
+      "Rocks",
+      "Plastics"
+    ],
+    "correct_index": 1,
+    "solution": "Lichens are sensitive to sulphur dioxide and are used as bioindicators; their absence in an area often signals high air pollution.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Waste hierarchy' places which option as the most preferred?",
+    "options": [
+      "Disposal (landfill)",
+      "Prevention/reduction of waste at source",
+      "Incineration",
+      "Recycling only"
+    ],
+    "correct_index": 1,
+    "solution": "The waste hierarchy prioritises prevention/reduction first, then reuse, recycling, recovery, and finally disposal as the least preferred option.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Namami Gange' programme tackles water pollution of the Ganga primarily by:",
+    "options": [
+      "Damming the river",
+      "Building sewage-treatment infrastructure and abating industrial effluent",
+      "Diverting the river",
+      "Increasing fishing"
+    ],
+    "correct_index": 1,
+    "solution": "Namami Gange focuses on intercepting and treating sewage, controlling industrial pollution, riverfront development, afforestation and biodiversity conservation to clean and rejuvenate the Ganga.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Zero Liquid Discharge' is especially mandated for which highly water-polluting industry?",
+    "options": [
+      "Software",
+      "Textile dyeing, tanneries and similar effluent-heavy industries",
+      "Banking",
+      "Publishing"
+    ],
+    "correct_index": 1,
+    "solution": "Effluent-intensive industries like textile dyeing, tanneries and distilleries are often required to achieve zero liquid discharge — recycling all wastewater so none is released.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Microplastics' enter the human body mainly through:",
+    "options": [
+      "Sunlight",
+      "Contaminated food, water and even air",
+      "Sound",
+      "Radio waves"
+    ],
+    "correct_index": 1,
+    "solution": "Microplastics reach humans via seafood, drinking water, salt and airborne particles, raising health concerns; they originate from the breakdown of larger plastics and microbeads/fibres.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Ganga Action Plan (1985)' was India's first major river-cleaning programme; its limited success led to the creation of:",
+    "options": [
+      "The Air Act",
+      "The National Mission for Clean Ganga / Namami Gange",
+      "The Wildlife Act",
+      "CITES"
+    ],
+    "correct_index": 1,
+    "solution": "The earlier Ganga Action Plan's shortcomings led to a more integrated approach under the National Mission for Clean Ganga and the Namami Gange programme (2014).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Eutrophication' can be reversed or reduced by:",
+    "options": [
+      "Adding more nutrients",
+      "Reducing nutrient (N, P) inflow, aerating water and removing algae/sediment",
+      "Warming the water",
+      "Dumping sewage"
+    ],
+    "correct_index": 1,
+    "solution": "Controlling nutrient inputs (sewage, fertiliser runoff), aeration, removing nutrient-rich sediment and harvesting algae/weeds can reverse eutrophication and restore water bodies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'stubble-burning' contribution to Delhi's air pollution is worst during which season?",
+    "options": [
+      "Summer",
+      "Post-monsoon autumn (October–November)",
+      "Monsoon",
+      "Spring"
+    ],
+    "correct_index": 1,
+    "solution": "Paddy-stubble burning in Punjab and Haryana peaks in October–November, coinciding with cooler, calmer weather and inversions that trap pollutants, severely worsening Delhi-NCR air quality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which technology helps farmers avoid stubble burning by sowing without removing residue?",
+    "options": [
+      "Combine harvester only",
+      "Happy Seeder / Super Seeder machines",
+      "Tractor plough only",
+      "Manual burning"
+    ],
+    "correct_index": 1,
+    "solution": "The Happy Seeder and Super Seeder allow direct sowing of the next crop through standing/loose stubble, incorporating residue into the soil and eliminating the need to burn it.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly pairs a pollution disaster with its pollutant? (i) Bhopal – methyl isocyanate (ii) Minamata – mercury (iii) Chernobyl – radioactive material",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three pairings are correct: Bhopal (methyl isocyanate gas), Minamata (methylmercury), and Chernobyl (radioactive fallout) are landmark pollution disasters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overarching aim of pollution-control laws and the 'circular economy' is to:",
+    "options": [
+      "Maximise waste",
+      "Prevent pollution and keep resources in use, reducing waste and environmental harm",
+      "Increase landfills",
+      "Ban recycling"
+    ],
+    "correct_index": 1,
+    "solution": "Pollution-control laws and the circular-economy approach both aim to prevent pollution at source and keep materials in productive use (reduce, reuse, recycle), minimising waste and environmental damage.",
+    "difficulty": "medium"
+  }
 ]

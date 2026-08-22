@@ -1,54 +1,1190 @@
 [
-  {"stem": "The cyclic movement of nutrients between the living and non-living components of the environment is called a __________ cycle.", "options": ["biogeochemical", "hydrological only", "carbon only", "food"], "correct_index": 0, "solution": "Biogeochemical cycles move nutrients between biotic and abiotic components.", "difficulty": "medium"},
-  {"stem": "Biogeochemical cycles are broadly of two types: gaseous and __________.", "options": ["sedimentary", "aquatic", "terrestrial", "chemical"], "correct_index": 0, "solution": "Cycles are gaseous (reservoir in atmosphere) or sedimentary (reservoir in rocks/soil).", "difficulty": "hard"},
-  {"stem": "The reservoir of the carbon cycle is mainly the __________.", "options": ["atmosphere and oceans", "rocks only", "soil only", "living organisms only"], "correct_index": 0, "solution": "The main carbon reservoirs are the atmosphere (CO₂) and the oceans.", "difficulty": "medium"},
-  {"stem": "Carbon is removed from the atmosphere mainly by the process of __________.", "options": ["photosynthesis", "respiration", "combustion", "decomposition"], "correct_index": 0, "solution": "Photosynthesis fixes atmospheric CO₂ into organic matter.", "difficulty": "medium"},
-  {"stem": "Carbon is returned to the atmosphere by respiration, decomposition and __________.", "options": ["combustion of fuels", "photosynthesis", "nitrogen fixation", "transpiration"], "correct_index": 0, "solution": "Respiration, decomposition and burning of fuels return CO₂ to the atmosphere.", "difficulty": "medium"},
-  {"stem": "The conversion of atmospheric nitrogen into ammonia/usable compounds is called nitrogen __________.", "options": ["fixation", "nitrification", "denitrification", "assimilation"], "correct_index": 0, "solution": "Nitrogen fixation converts atmospheric N₂ into usable nitrogen compounds.", "difficulty": "medium"},
-  {"stem": "The symbiotic bacterium that fixes nitrogen in the root nodules of legumes is __________.", "options": ["Rhizobium", "Nitrobacter", "Pseudomonas", "Nitrosomonas"], "correct_index": 0, "solution": "Rhizobium fixes nitrogen symbiotically in legume root nodules.", "difficulty": "hard"},
-  {"stem": "A free-living (non-symbiotic) nitrogen-fixing soil bacterium is __________.", "options": ["Azotobacter", "Rhizobium", "Nitrobacter", "Pseudomonas"], "correct_index": 0, "solution": "Azotobacter is a free-living nitrogen-fixing bacterium.", "difficulty": "hard"},
-  {"stem": "Nitrogen fixation in nature also occurs through __________ during thunderstorms.", "options": ["lightning", "rainfall alone", "wind", "sunlight only"], "correct_index": 0, "solution": "Lightning fixes atmospheric nitrogen into oxides that dissolve in rain.", "difficulty": "hard"},
-  {"stem": "The industrial process that fixes nitrogen to make fertilisers is the __________ process.", "options": ["Haber (Haber-Bosch)", "Ostwald", "Contact", "Solvay"], "correct_index": 0, "solution": "The Haber-Bosch process industrially fixes nitrogen to make ammonia for fertilisers.", "difficulty": "hard"},
-  {"stem": "The conversion of ammonia to nitrite and then nitrate in the soil is called __________.", "options": ["nitrification", "denitrification", "ammonification", "fixation"], "correct_index": 0, "solution": "Nitrification is the conversion of ammonia → nitrite → nitrate by bacteria.", "difficulty": "hard"},
-  {"stem": "The bacterium that converts ammonia to nitrite during nitrification is __________.", "options": ["Nitrosomonas", "Nitrobacter", "Rhizobium", "Pseudomonas"], "correct_index": 0, "solution": "Nitrosomonas converts ammonia to nitrite; Nitrobacter then converts nitrite to nitrate.", "difficulty": "hard"},
-  {"stem": "The conversion of nitrates back into atmospheric nitrogen is called __________.", "options": ["denitrification", "nitrification", "fixation", "assimilation"], "correct_index": 0, "solution": "Denitrification converts nitrates back to gaseous nitrogen, returning it to the atmosphere.", "difficulty": "hard"},
-  {"stem": "Denitrification is carried out mainly by the bacterium __________.", "options": ["Pseudomonas", "Rhizobium", "Nitrosomonas", "Azotobacter"], "correct_index": 0, "solution": "Pseudomonas (and Thiobacillus) carry out denitrification.", "difficulty": "hard"},
-  {"stem": "The decomposition of organic nitrogen (from dead matter) into ammonia is called __________.", "options": ["ammonification", "nitrification", "denitrification", "fixation"], "correct_index": 0, "solution": "Ammonification is the release of ammonia from decomposing organic matter.", "difficulty": "hard"},
-  {"stem": "The phosphorus cycle is a __________ cycle.", "options": ["sedimentary (no significant atmospheric phase)", "gaseous", "aquatic only", "atmospheric"], "correct_index": 0, "solution": "The phosphorus cycle is sedimentary, lacking a significant gaseous/atmospheric phase.", "difficulty": "hard"},
-  {"stem": "The main reservoir of phosphorus is __________.", "options": ["rocks and sediments", "the atmosphere", "the oceans as gas", "living matter"], "correct_index": 0, "solution": "The main phosphorus reservoir is in rocks and sediments.", "difficulty": "hard"},
-  {"stem": "The continuous movement of water through evaporation, condensation and precipitation is the __________ cycle.", "options": ["hydrological (water)", "carbon", "nitrogen", "phosphorus"], "correct_index": 0, "solution": "The hydrological (water) cycle circulates water through the environment.", "difficulty": "easy"},
-  {"stem": "The gradual and predictable change in the species structure of a community over time is called ecological __________.", "options": ["succession", "adaptation", "migration", "speciation"], "correct_index": 0, "solution": "Ecological succession is the orderly, gradual change in community structure over time.", "difficulty": "medium"},
-  {"stem": "Succession that begins on a bare surface with no pre-existing soil (e.g. bare rock, lava) is called __________ succession.", "options": ["primary", "secondary", "tertiary", "cyclic"], "correct_index": 0, "solution": "Primary succession begins on a lifeless surface with no soil.", "difficulty": "hard"},
-  {"stem": "Succession that occurs on a previously inhabited area where soil already exists (e.g. after a fire) is __________ succession.", "options": ["secondary", "primary", "hydrarch", "xerarch"], "correct_index": 0, "solution": "Secondary succession occurs where soil is already present, after a disturbance.", "difficulty": "hard"},
-  {"stem": "Secondary succession is __________ than primary succession.", "options": ["faster", "slower", "the same speed as", "impossible compared to"], "correct_index": 0, "solution": "Secondary succession is faster because soil and some organisms already exist.", "difficulty": "medium"},
-  {"stem": "The first species to colonise a bare area during succession are called __________ species.", "options": ["pioneer", "climax", "keystone", "invasive"], "correct_index": 0, "solution": "Pioneer species are the first colonisers of a bare habitat.", "difficulty": "medium"},
-  {"stem": "The common pioneer species on bare rock during primary succession are __________.", "options": ["lichens", "large trees", "grasses only", "shrubs"], "correct_index": 0, "solution": "Lichens are typical pioneer species on bare rock, helping form soil.", "difficulty": "hard"},
-  {"stem": "The stable, final community that develops at the end of succession is the __________ community.", "options": ["climax", "pioneer", "seral", "transitional"], "correct_index": 0, "solution": "The climax community is the stable, self-perpetuating final stage of succession.", "difficulty": "medium"},
-  {"stem": "The whole sequence of communities that successively change in an area is called a __________.", "options": ["sere", "biome", "niche", "guild"], "correct_index": 0, "solution": "A sere is the entire sequence of communities during succession.", "difficulty": "hard"},
-  {"stem": "Each intermediate community stage in succession is called a __________ stage.", "options": ["seral", "climax", "pioneer", "final"], "correct_index": 0, "solution": "Each transitional community in a sere is a seral stage.", "difficulty": "hard"},
-  {"stem": "Succession that begins in a water body and proceeds towards land is called __________.", "options": ["hydrarch", "xerarch", "mesarch", "lithosere"], "correct_index": 0, "solution": "Hydrarch succession starts in water and moves towards a terrestrial climax.", "difficulty": "hard"},
-  {"stem": "Succession that begins in a dry area with little moisture is called __________.", "options": ["xerarch", "hydrarch", "mesarch", "hydrosere"], "correct_index": 0, "solution": "Xerarch succession begins in a dry (xeric) habitat.", "difficulty": "hard"},
-  {"stem": "Both hydrarch and xerarch succession tend to converge towards a __________ (moderate) climax.", "options": ["mesic", "xeric", "hydric", "arctic"], "correct_index": 0, "solution": "Both types of succession converge towards a mesic (moderate-moisture) climax community.", "difficulty": "hard"},
-  {"stem": "The nitrogen cycle is a __________ cycle.", "options": ["gaseous", "sedimentary", "aquatic only", "hydrological"], "correct_index": 0, "solution": "The nitrogen cycle is a gaseous cycle, with the atmosphere as its main reservoir.", "difficulty": "hard"},
-  {"stem": "The largest reservoir of nitrogen is the __________.", "options": ["atmosphere", "soil", "oceans", "living organisms"], "correct_index": 0, "solution": "The atmosphere, about 78% nitrogen, is the largest nitrogen reservoir.", "difficulty": "medium"},
-  {"stem": "Plants absorb nitrogen mainly in the form of __________.", "options": ["nitrates and ammonium", "nitrogen gas", "ammonia gas only", "urea only"], "correct_index": 0, "solution": "Plants absorb nitrogen mainly as nitrates (and ammonium ions).", "difficulty": "hard"},
-  {"stem": "Cyanobacteria (blue-green algae) such as Anabaena and Nostoc are important because they __________.", "options": ["fix atmospheric nitrogen", "cause denitrification", "decompose rock", "produce phosphorus"], "correct_index": 0, "solution": "Cyanobacteria like Anabaena and Nostoc fix atmospheric nitrogen.", "difficulty": "hard"},
-  {"stem": "The phosphorus cycle is the __________ of the major nutrient cycles.", "options": ["slowest", "fastest", "only gaseous", "most cyclic"], "correct_index": 0, "solution": "The phosphorus cycle is among the slowest, being sedimentary and lacking an atmospheric phase.", "difficulty": "hard"},
-  {"stem": "During succession, the total biomass and species diversity generally __________.", "options": ["increase towards the climax", "decrease", "stay constant", "become zero"], "correct_index": 0, "solution": "Biomass and diversity generally increase as succession progresses towards the climax.", "difficulty": "hard"},
-  {"stem": "The climax community is in a state of __________ with its environment.", "options": ["equilibrium (stability)", "constant collapse", "rapid change", "decline"], "correct_index": 0, "solution": "The climax community is in dynamic equilibrium (relative stability) with the environment.", "difficulty": "medium"},
-  {"stem": "Succession beginning on newly cooled volcanic lava is an example of __________ succession.", "options": ["primary", "secondary", "hydrarch on land", "cyclic"], "correct_index": 0, "solution": "Bare volcanic lava with no soil supports primary succession.", "difficulty": "hard"},
-  {"stem": "Succession on an abandoned agricultural field is an example of __________ succession.", "options": ["secondary", "primary", "xerarch primary", "hydrarch"], "correct_index": 0, "solution": "An abandoned field already has soil, so it undergoes secondary succession.", "difficulty": "hard"},
-  {"stem": "The oxygen cycle is closely linked with the __________ cycle.", "options": ["carbon", "phosphorus", "sulphur only", "sedimentary"], "correct_index": 0, "solution": "The oxygen cycle is closely coupled with the carbon cycle through photosynthesis and respiration.", "difficulty": "medium"},
-  {"stem": "The sulphur cycle is mainly a __________ cycle.", "options": ["sedimentary (with a gaseous phase)", "purely gaseous", "aquatic only", "hydrological"], "correct_index": 0, "solution": "The sulphur cycle is mainly sedimentary but has a gaseous phase (SO₂, H₂S).", "difficulty": "hard"},
-  {"stem": "The addition of nitrogen fertilisers to farmland is a human interference in the __________ cycle.", "options": ["nitrogen", "carbon", "phosphorus", "water"], "correct_index": 0, "solution": "Nitrogen fertilisers add fixed nitrogen, interfering with the nitrogen cycle.", "difficulty": "medium"},
-  {"stem": "Excess nutrients (nitrogen, phosphorus) washing into water bodies cause __________.", "options": ["eutrophication", "desertification", "succession", "nitrogen fixation"], "correct_index": 0, "solution": "Excess nutrients cause eutrophication (nutrient enrichment) of water bodies.", "difficulty": "hard"},
-  {"stem": "The decomposers play a key role in nutrient cycles by __________.", "options": ["releasing nutrients from dead matter back to the soil", "producing energy", "fixing carbon", "creating new elements"], "correct_index": 0, "solution": "Decomposers release nutrients from dead matter, returning them to the soil for reuse.", "difficulty": "medium"},
-  {"stem": "In the water cycle, water returns to the atmosphere from plants through __________.", "options": ["transpiration", "photosynthesis", "respiration", "condensation"], "correct_index": 0, "solution": "Transpiration releases water vapour from plants to the atmosphere.", "difficulty": "medium"},
-  {"stem": "A community that appears stable but is maintained by a recurring disturbance (like fire) is called a __________ climax.", "options": ["disclimax (plagioclimax)", "true climax", "pioneer", "seral"], "correct_index": 0, "solution": "A disclimax (plagioclimax) is a stable community maintained by continued disturbance.", "difficulty": "hard"},
-  {"stem": "The concept that succession leads towards a single stable climax determined by climate is the __________ theory.", "options": ["monoclimax", "polyclimax only", "cyclic", "random"], "correct_index": 0, "solution": "The monoclimax theory holds that succession ends in a single climate-determined climax.", "difficulty": "hard"},
-  {"stem": "Nutrient cycling is important because nutrients on Earth are __________.", "options": ["finite and must be reused", "unlimited", "constantly created", "not needed by life"], "correct_index": 0, "solution": "Nutrients are finite, so their cycling and reuse is essential to sustain life.", "difficulty": "medium"},
-  {"stem": "The main difference between energy flow and nutrient cycling is that energy is __________.", "options": ["lost and not recycled, while nutrients are recycled", "recycled while nutrients are lost", "unlimited", "the same as nutrients"], "correct_index": 0, "solution": "Energy flows one way and is lost as heat, while nutrients are recycled.", "difficulty": "medium"},
-  {"stem": "During primary succession, soil formation is aided by pioneer species that __________.", "options": ["break down rock and add organic matter", "consume other animals", "produce oxygen only", "fix phosphorus"], "correct_index": 0, "solution": "Pioneers like lichens break down rock and add organic matter, forming soil.", "difficulty": "hard"},
-  {"stem": "The reservoir pool of a nutrient cycle is generally __________ than the exchange (cycling) pool.", "options": ["larger and slower-moving", "smaller and faster", "identical to", "unrelated to"], "correct_index": 0, "solution": "The reservoir pool is large and slow-moving, while the exchange pool cycles rapidly among organisms.", "difficulty": "hard"},
-  {"stem": "The final climax community of a hydrarch succession is usually a __________.", "options": ["forest (land community)", "pond", "lake", "bare rock"], "correct_index": 0, "solution": "Hydrarch succession fills in a water body and ends in a terrestrial (forest) climax.", "difficulty": "hard"}
+  {
+    "stem": "The cyclic movement of nutrients between the living and non-living components of the environment is called a __________ cycle.",
+    "options": [
+      "biogeochemical",
+      "hydrological only",
+      "carbon only",
+      "food"
+    ],
+    "correct_index": 0,
+    "solution": "Biogeochemical cycles move nutrients between biotic and abiotic components.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Biogeochemical cycles are broadly of two types: gaseous and __________.",
+    "options": [
+      "sedimentary",
+      "aquatic",
+      "terrestrial",
+      "chemical"
+    ],
+    "correct_index": 0,
+    "solution": "Cycles are gaseous (reservoir in atmosphere) or sedimentary (reservoir in rocks/soil).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The reservoir of the carbon cycle is mainly the __________.",
+    "options": [
+      "atmosphere and oceans",
+      "rocks only",
+      "soil only",
+      "living organisms only"
+    ],
+    "correct_index": 0,
+    "solution": "The main carbon reservoirs are the atmosphere (CO₂) and the oceans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Carbon is removed from the atmosphere mainly by the process of __________.",
+    "options": [
+      "photosynthesis",
+      "respiration",
+      "combustion",
+      "decomposition"
+    ],
+    "correct_index": 0,
+    "solution": "Photosynthesis fixes atmospheric CO₂ into organic matter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Carbon is returned to the atmosphere by respiration, decomposition and __________.",
+    "options": [
+      "combustion of fuels",
+      "photosynthesis",
+      "nitrogen fixation",
+      "transpiration"
+    ],
+    "correct_index": 0,
+    "solution": "Respiration, decomposition and burning of fuels return CO₂ to the atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The conversion of atmospheric nitrogen into ammonia/usable compounds is called nitrogen __________.",
+    "options": [
+      "fixation",
+      "nitrification",
+      "denitrification",
+      "assimilation"
+    ],
+    "correct_index": 0,
+    "solution": "Nitrogen fixation converts atmospheric N₂ into usable nitrogen compounds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The symbiotic bacterium that fixes nitrogen in the root nodules of legumes is __________.",
+    "options": [
+      "Rhizobium",
+      "Nitrobacter",
+      "Pseudomonas",
+      "Nitrosomonas"
+    ],
+    "correct_index": 0,
+    "solution": "Rhizobium fixes nitrogen symbiotically in legume root nodules.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A free-living (non-symbiotic) nitrogen-fixing soil bacterium is __________.",
+    "options": [
+      "Azotobacter",
+      "Rhizobium",
+      "Nitrobacter",
+      "Pseudomonas"
+    ],
+    "correct_index": 0,
+    "solution": "Azotobacter is a free-living nitrogen-fixing bacterium.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nitrogen fixation in nature also occurs through __________ during thunderstorms.",
+    "options": [
+      "lightning",
+      "rainfall alone",
+      "wind",
+      "sunlight only"
+    ],
+    "correct_index": 0,
+    "solution": "Lightning fixes atmospheric nitrogen into oxides that dissolve in rain.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The industrial process that fixes nitrogen to make fertilisers is the __________ process.",
+    "options": [
+      "Haber (Haber-Bosch)",
+      "Ostwald",
+      "Contact",
+      "Solvay"
+    ],
+    "correct_index": 0,
+    "solution": "The Haber-Bosch process industrially fixes nitrogen to make ammonia for fertilisers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The conversion of ammonia to nitrite and then nitrate in the soil is called __________.",
+    "options": [
+      "nitrification",
+      "denitrification",
+      "ammonification",
+      "fixation"
+    ],
+    "correct_index": 0,
+    "solution": "Nitrification is the conversion of ammonia → nitrite → nitrate by bacteria.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The bacterium that converts ammonia to nitrite during nitrification is __________.",
+    "options": [
+      "Nitrosomonas",
+      "Nitrobacter",
+      "Rhizobium",
+      "Pseudomonas"
+    ],
+    "correct_index": 0,
+    "solution": "Nitrosomonas converts ammonia to nitrite; Nitrobacter then converts nitrite to nitrate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The conversion of nitrates back into atmospheric nitrogen is called __________.",
+    "options": [
+      "denitrification",
+      "nitrification",
+      "fixation",
+      "assimilation"
+    ],
+    "correct_index": 0,
+    "solution": "Denitrification converts nitrates back to gaseous nitrogen, returning it to the atmosphere.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Denitrification is carried out mainly by the bacterium __________.",
+    "options": [
+      "Pseudomonas",
+      "Rhizobium",
+      "Nitrosomonas",
+      "Azotobacter"
+    ],
+    "correct_index": 0,
+    "solution": "Pseudomonas (and Thiobacillus) carry out denitrification.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The decomposition of organic nitrogen (from dead matter) into ammonia is called __________.",
+    "options": [
+      "ammonification",
+      "nitrification",
+      "denitrification",
+      "fixation"
+    ],
+    "correct_index": 0,
+    "solution": "Ammonification is the release of ammonia from decomposing organic matter.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The phosphorus cycle is a __________ cycle.",
+    "options": [
+      "sedimentary (no significant atmospheric phase)",
+      "gaseous",
+      "aquatic only",
+      "atmospheric"
+    ],
+    "correct_index": 0,
+    "solution": "The phosphorus cycle is sedimentary, lacking a significant gaseous/atmospheric phase.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main reservoir of phosphorus is __________.",
+    "options": [
+      "rocks and sediments",
+      "the atmosphere",
+      "the oceans as gas",
+      "living matter"
+    ],
+    "correct_index": 0,
+    "solution": "The main phosphorus reservoir is in rocks and sediments.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The continuous movement of water through evaporation, condensation and precipitation is the __________ cycle.",
+    "options": [
+      "hydrological (water)",
+      "carbon",
+      "nitrogen",
+      "phosphorus"
+    ],
+    "correct_index": 0,
+    "solution": "The hydrological (water) cycle circulates water through the environment.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The gradual and predictable change in the species structure of a community over time is called ecological __________.",
+    "options": [
+      "succession",
+      "adaptation",
+      "migration",
+      "speciation"
+    ],
+    "correct_index": 0,
+    "solution": "Ecological succession is the orderly, gradual change in community structure over time.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Succession that begins on a bare surface with no pre-existing soil (e.g. bare rock, lava) is called __________ succession.",
+    "options": [
+      "primary",
+      "secondary",
+      "tertiary",
+      "cyclic"
+    ],
+    "correct_index": 0,
+    "solution": "Primary succession begins on a lifeless surface with no soil.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Succession that occurs on a previously inhabited area where soil already exists (e.g. after a fire) is __________ succession.",
+    "options": [
+      "secondary",
+      "primary",
+      "hydrarch",
+      "xerarch"
+    ],
+    "correct_index": 0,
+    "solution": "Secondary succession occurs where soil is already present, after a disturbance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Secondary succession is __________ than primary succession.",
+    "options": [
+      "faster",
+      "slower",
+      "the same speed as",
+      "impossible compared to"
+    ],
+    "correct_index": 0,
+    "solution": "Secondary succession is faster because soil and some organisms already exist.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first species to colonise a bare area during succession are called __________ species.",
+    "options": [
+      "pioneer",
+      "climax",
+      "keystone",
+      "invasive"
+    ],
+    "correct_index": 0,
+    "solution": "Pioneer species are the first colonisers of a bare habitat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The common pioneer species on bare rock during primary succession are __________.",
+    "options": [
+      "lichens",
+      "large trees",
+      "grasses only",
+      "shrubs"
+    ],
+    "correct_index": 0,
+    "solution": "Lichens are typical pioneer species on bare rock, helping form soil.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The stable, final community that develops at the end of succession is the __________ community.",
+    "options": [
+      "climax",
+      "pioneer",
+      "seral",
+      "transitional"
+    ],
+    "correct_index": 0,
+    "solution": "The climax community is the stable, self-perpetuating final stage of succession.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The whole sequence of communities that successively change in an area is called a __________.",
+    "options": [
+      "sere",
+      "biome",
+      "niche",
+      "guild"
+    ],
+    "correct_index": 0,
+    "solution": "A sere is the entire sequence of communities during succession.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Each intermediate community stage in succession is called a __________ stage.",
+    "options": [
+      "seral",
+      "climax",
+      "pioneer",
+      "final"
+    ],
+    "correct_index": 0,
+    "solution": "Each transitional community in a sere is a seral stage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Succession that begins in a water body and proceeds towards land is called __________.",
+    "options": [
+      "hydrarch",
+      "xerarch",
+      "mesarch",
+      "lithosere"
+    ],
+    "correct_index": 0,
+    "solution": "Hydrarch succession starts in water and moves towards a terrestrial climax.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Succession that begins in a dry area with little moisture is called __________.",
+    "options": [
+      "xerarch",
+      "hydrarch",
+      "mesarch",
+      "hydrosere"
+    ],
+    "correct_index": 0,
+    "solution": "Xerarch succession begins in a dry (xeric) habitat.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Both hydrarch and xerarch succession tend to converge towards a __________ (moderate) climax.",
+    "options": [
+      "mesic",
+      "xeric",
+      "hydric",
+      "arctic"
+    ],
+    "correct_index": 0,
+    "solution": "Both types of succession converge towards a mesic (moderate-moisture) climax community.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The nitrogen cycle is a __________ cycle.",
+    "options": [
+      "gaseous",
+      "sedimentary",
+      "aquatic only",
+      "hydrological"
+    ],
+    "correct_index": 0,
+    "solution": "The nitrogen cycle is a gaseous cycle, with the atmosphere as its main reservoir.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The largest reservoir of nitrogen is the __________.",
+    "options": [
+      "atmosphere",
+      "soil",
+      "oceans",
+      "living organisms"
+    ],
+    "correct_index": 0,
+    "solution": "The atmosphere, about 78% nitrogen, is the largest nitrogen reservoir.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Plants absorb nitrogen mainly in the form of __________.",
+    "options": [
+      "nitrates and ammonium",
+      "nitrogen gas",
+      "ammonia gas only",
+      "urea only"
+    ],
+    "correct_index": 0,
+    "solution": "Plants absorb nitrogen mainly as nitrates (and ammonium ions).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Cyanobacteria (blue-green algae) such as Anabaena and Nostoc are important because they __________.",
+    "options": [
+      "fix atmospheric nitrogen",
+      "cause denitrification",
+      "decompose rock",
+      "produce phosphorus"
+    ],
+    "correct_index": 0,
+    "solution": "Cyanobacteria like Anabaena and Nostoc fix atmospheric nitrogen.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The phosphorus cycle is the __________ of the major nutrient cycles.",
+    "options": [
+      "slowest",
+      "fastest",
+      "only gaseous",
+      "most cyclic"
+    ],
+    "correct_index": 0,
+    "solution": "The phosphorus cycle is among the slowest, being sedimentary and lacking an atmospheric phase.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During succession, the total biomass and species diversity generally __________.",
+    "options": [
+      "increase towards the climax",
+      "decrease",
+      "stay constant",
+      "become zero"
+    ],
+    "correct_index": 0,
+    "solution": "Biomass and diversity generally increase as succession progresses towards the climax.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The climax community is in a state of __________ with its environment.",
+    "options": [
+      "equilibrium (stability)",
+      "constant collapse",
+      "rapid change",
+      "decline"
+    ],
+    "correct_index": 0,
+    "solution": "The climax community is in dynamic equilibrium (relative stability) with the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Succession beginning on newly cooled volcanic lava is an example of __________ succession.",
+    "options": [
+      "primary",
+      "secondary",
+      "hydrarch on land",
+      "cyclic"
+    ],
+    "correct_index": 0,
+    "solution": "Bare volcanic lava with no soil supports primary succession.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Succession on an abandoned agricultural field is an example of __________ succession.",
+    "options": [
+      "secondary",
+      "primary",
+      "xerarch primary",
+      "hydrarch"
+    ],
+    "correct_index": 0,
+    "solution": "An abandoned field already has soil, so it undergoes secondary succession.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The oxygen cycle is closely linked with the __________ cycle.",
+    "options": [
+      "carbon",
+      "phosphorus",
+      "sulphur only",
+      "sedimentary"
+    ],
+    "correct_index": 0,
+    "solution": "The oxygen cycle is closely coupled with the carbon cycle through photosynthesis and respiration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sulphur cycle is mainly a __________ cycle.",
+    "options": [
+      "sedimentary (with a gaseous phase)",
+      "purely gaseous",
+      "aquatic only",
+      "hydrological"
+    ],
+    "correct_index": 0,
+    "solution": "The sulphur cycle is mainly sedimentary but has a gaseous phase (SO₂, H₂S).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The addition of nitrogen fertilisers to farmland is a human interference in the __________ cycle.",
+    "options": [
+      "nitrogen",
+      "carbon",
+      "phosphorus",
+      "water"
+    ],
+    "correct_index": 0,
+    "solution": "Nitrogen fertilisers add fixed nitrogen, interfering with the nitrogen cycle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Excess nutrients (nitrogen, phosphorus) washing into water bodies cause __________.",
+    "options": [
+      "eutrophication",
+      "desertification",
+      "succession",
+      "nitrogen fixation"
+    ],
+    "correct_index": 0,
+    "solution": "Excess nutrients cause eutrophication (nutrient enrichment) of water bodies.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The decomposers play a key role in nutrient cycles by __________.",
+    "options": [
+      "releasing nutrients from dead matter back to the soil",
+      "producing energy",
+      "fixing carbon",
+      "creating new elements"
+    ],
+    "correct_index": 0,
+    "solution": "Decomposers release nutrients from dead matter, returning them to the soil for reuse.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the water cycle, water returns to the atmosphere from plants through __________.",
+    "options": [
+      "transpiration",
+      "photosynthesis",
+      "respiration",
+      "condensation"
+    ],
+    "correct_index": 0,
+    "solution": "Transpiration releases water vapour from plants to the atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A community that appears stable but is maintained by a recurring disturbance (like fire) is called a __________ climax.",
+    "options": [
+      "disclimax (plagioclimax)",
+      "true climax",
+      "pioneer",
+      "seral"
+    ],
+    "correct_index": 0,
+    "solution": "A disclimax (plagioclimax) is a stable community maintained by continued disturbance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The concept that succession leads towards a single stable climax determined by climate is the __________ theory.",
+    "options": [
+      "monoclimax",
+      "polyclimax only",
+      "cyclic",
+      "random"
+    ],
+    "correct_index": 0,
+    "solution": "The monoclimax theory holds that succession ends in a single climate-determined climax.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nutrient cycling is important because nutrients on Earth are __________.",
+    "options": [
+      "finite and must be reused",
+      "unlimited",
+      "constantly created",
+      "not needed by life"
+    ],
+    "correct_index": 0,
+    "solution": "Nutrients are finite, so their cycling and reuse is essential to sustain life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main difference between energy flow and nutrient cycling is that energy is __________.",
+    "options": [
+      "lost and not recycled, while nutrients are recycled",
+      "recycled while nutrients are lost",
+      "unlimited",
+      "the same as nutrients"
+    ],
+    "correct_index": 0,
+    "solution": "Energy flows one way and is lost as heat, while nutrients are recycled.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During primary succession, soil formation is aided by pioneer species that __________.",
+    "options": [
+      "break down rock and add organic matter",
+      "consume other animals",
+      "produce oxygen only",
+      "fix phosphorus"
+    ],
+    "correct_index": 0,
+    "solution": "Pioneers like lichens break down rock and add organic matter, forming soil.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The reservoir pool of a nutrient cycle is generally __________ than the exchange (cycling) pool.",
+    "options": [
+      "larger and slower-moving",
+      "smaller and faster",
+      "identical to",
+      "unrelated to"
+    ],
+    "correct_index": 0,
+    "solution": "The reservoir pool is large and slow-moving, while the exchange pool cycles rapidly among organisms.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The final climax community of a hydrarch succession is usually a __________.",
+    "options": [
+      "forest (land community)",
+      "pond",
+      "lake",
+      "bare rock"
+    ],
+    "correct_index": 0,
+    "solution": "Hydrarch succession fills in a water body and ends in a terrestrial (forest) climax.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Biogeochemical cycles are called 'biogeochemical' because they involve the movement of elements through:",
+    "options": [
+      "Only living organisms",
+      "Living organisms (bio), rocks/soil (geo) and chemical forms",
+      "Only the atmosphere",
+      "Only water"
+    ],
+    "correct_index": 1,
+    "solution": "Biogeochemical cycles trace the circulation of chemical elements through the biotic (living) and abiotic (geological, atmospheric, hydrological) components of the environment.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Nutrient cycles in which the reservoir is the atmosphere are called:",
+    "options": [
+      "Sedimentary cycles",
+      "Gaseous cycles",
+      "Hydrological cycles",
+      "Rock cycles"
+    ],
+    "correct_index": 1,
+    "solution": "Gaseous cycles (carbon, nitrogen, oxygen) have the atmosphere or ocean as their main reservoir, whereas sedimentary cycles (phosphorus, sulphur) have the Earth's crust/rocks as the reservoir.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The phosphorus cycle is described as a 'sedimentary cycle' because its main reservoir is:",
+    "options": [
+      "The atmosphere",
+      "Rocks and sediments",
+      "The ocean surface",
+      "Living tissue"
+    ],
+    "correct_index": 1,
+    "solution": "Phosphorus has no significant gaseous phase; its reservoir is phosphate rock/sediment, released by weathering — making it a sedimentary cycle that is slow and easily depleted.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which gas is the largest reservoir of nitrogen on Earth?",
+    "options": [
+      "Carbon dioxide in oceans",
+      "Atmospheric nitrogen gas (N2, ~78%)",
+      "Methane",
+      "Ammonia in soil"
+    ],
+    "correct_index": 1,
+    "solution": "About 78% of the atmosphere is nitrogen gas (N2), the vast reservoir of the nitrogen cycle. However, most organisms cannot use N2 directly and depend on nitrogen fixation.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The conversion of atmospheric nitrogen (N2) into ammonia by microorganisms is called:",
+    "options": [
+      "Nitrification",
+      "Nitrogen fixation",
+      "Denitrification",
+      "Ammonification"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen fixation converts inert N2 into usable ammonia/ammonium, carried out biologically by bacteria (e.g. Rhizobium, Azotobacter, cyanobacteria) and physically by lightning.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The symbiotic nitrogen-fixing bacterium found in root nodules of leguminous plants is:",
+    "options": [
+      "Nitrosomonas",
+      "Rhizobium",
+      "Pseudomonas",
+      "Nitrobacter"
+    ],
+    "correct_index": 1,
+    "solution": "Rhizobium lives symbiotically in the root nodules of legumes (pulses, beans), fixing atmospheric nitrogen and enriching the soil — the basis of crop rotation with legumes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The conversion of ammonia to nitrites and then nitrates in the soil is called:",
+    "options": [
+      "Nitrogen fixation",
+      "Nitrification",
+      "Denitrification",
+      "Assimilation"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrification is the aerobic bacterial oxidation of ammonia to nitrite (by Nitrosomonas) and then to nitrate (by Nitrobacter), the form most readily absorbed by plants.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The process that returns nitrogen from the soil back to the atmosphere as N2 gas is:",
+    "options": [
+      "Nitrification",
+      "Denitrification",
+      "Ammonification",
+      "Fixation"
+    ],
+    "correct_index": 1,
+    "solution": "Denitrification, carried out by anaerobic bacteria (e.g. Pseudomonas), converts soil nitrates back to gaseous nitrogen, completing the nitrogen cycle and returning N2 to the atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The decomposition of dead organic matter releasing ammonia is called:",
+    "options": [
+      "Nitrification",
+      "Ammonification",
+      "Fixation",
+      "Denitrification"
+    ],
+    "correct_index": 1,
+    "solution": "Ammonification (mineralisation) is the microbial breakdown of nitrogen-containing organic matter (proteins) into ammonia/ammonium, returning nitrogen to the soil pool.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Besides bacteria, nitrogen can be fixed in nature by:",
+    "options": [
+      "Wind",
+      "Lightning (atmospheric fixation)",
+      "Rainfall alone",
+      "Ocean currents"
+    ],
+    "correct_index": 1,
+    "solution": "Lightning provides energy to combine atmospheric N2 and O2 into nitrogen oxides, which dissolve in rain as nitrates — a physical (atmospheric) route of nitrogen fixation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The carbon cycle's main atmospheric form of carbon is:",
+    "options": [
+      "Carbon monoxide",
+      "Carbon dioxide (CO2)",
+      "Methane only",
+      "Carbonate rock"
+    ],
+    "correct_index": 1,
+    "solution": "Carbon dioxide is the principal atmospheric carbon form, taken up by photosynthesis and released by respiration, decomposition and combustion.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which process removes carbon dioxide from the atmosphere?",
+    "options": [
+      "Respiration",
+      "Combustion",
+      "Photosynthesis",
+      "Decomposition"
+    ],
+    "correct_index": 2,
+    "solution": "Photosynthesis by producers fixes atmospheric CO2 into organic compounds, the main biological route by which carbon leaves the atmosphere. Respiration, combustion and decomposition release it.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The largest store (reservoir) of carbon on Earth is in:",
+    "options": [
+      "The atmosphere",
+      "Sedimentary rocks and fossil fuels (and the oceans)",
+      "Living plants",
+      "Animals"
+    ],
+    "correct_index": 1,
+    "solution": "Most of Earth's carbon is locked in sedimentary rocks (carbonates) and fossil fuels, with the oceans as the largest active reservoir — far exceeding the atmosphere and biosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Burning fossil fuels disturbs the carbon cycle chiefly by:",
+    "options": [
+      "Removing CO2 from the air",
+      "Releasing long-stored carbon rapidly as CO2, raising atmospheric levels",
+      "Fixing nitrogen",
+      "Cooling the planet"
+    ],
+    "correct_index": 1,
+    "solution": "Combustion of fossil fuels transfers carbon stored over millions of years into the atmosphere as CO2 far faster than natural sinks can absorb it, driving global warming.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a major carbon sink in the oceans?",
+    "options": [
+      "Salt",
+      "Dissolved CO2 and marine organisms/carbonate shells",
+      "Plastic",
+      "Oil"
+    ],
+    "correct_index": 1,
+    "solution": "Oceans absorb CO2 directly and via phytoplankton photosynthesis; carbon is stored as dissolved CO2, in marine biomass and in carbonate shells/sediments — the ocean is a huge carbon sink.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The water (hydrological) cycle is powered mainly by:",
+    "options": [
+      "The Moon's gravity",
+      "Solar energy driving evaporation",
+      "Volcanic heat",
+      "Wind alone"
+    ],
+    "correct_index": 1,
+    "solution": "Solar energy evaporates water from oceans and surfaces; it condenses into clouds and returns as precipitation — the Sun drives the hydrological cycle, with gravity returning water via runoff.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The release of water vapour from plants to the atmosphere is called:",
+    "options": [
+      "Evaporation",
+      "Transpiration",
+      "Condensation",
+      "Precipitation"
+    ],
+    "correct_index": 1,
+    "solution": "Transpiration is the loss of water vapour from plant leaves (via stomata); together with evaporation ('evapotranspiration') it returns large amounts of water to the atmosphere.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Ecological succession is best defined as the:",
+    "options": [
+      "Sudden extinction of all species",
+      "Gradual and orderly change in community composition of an area over time",
+      "Random mixing of species",
+      "Seasonal migration"
+    ],
+    "correct_index": 1,
+    "solution": "Ecological succession is the predictable, progressive change in species composition and community structure at a site over time until a stable climax community is reached.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Succession that begins on a bare, lifeless area with no soil (e.g. bare rock, lava) is:",
+    "options": [
+      "Secondary succession",
+      "Primary succession",
+      "Retrogressive succession",
+      "Cyclic succession"
+    ],
+    "correct_index": 1,
+    "solution": "Primary succession starts on newly exposed or created substrate with no pre-existing soil or life (bare rock, sand dunes, cooled lava), so soil must form first — a very slow process.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Succession that occurs on land where a community previously existed but was disturbed (e.g. abandoned farmland, after fire) is:",
+    "options": [
+      "Primary succession",
+      "Secondary succession",
+      "Autogenic only",
+      "Allogenic only"
+    ],
+    "correct_index": 1,
+    "solution": "Secondary succession occurs where a community was removed but soil and some life remain (after fire, flood, farming), so it proceeds faster than primary succession.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first species to colonise a bare area during primary succession are called:",
+    "options": [
+      "Climax species",
+      "Pioneer species",
+      "Keystone species",
+      "Invasive species"
+    ],
+    "correct_index": 1,
+    "solution": "Pioneer species (often lichens and mosses on rock) are the first colonisers; they tolerate harsh conditions and begin building soil, paving the way for later species.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "On bare rock, the usual pioneer organisms are:",
+    "options": [
+      "Large trees",
+      "Lichens and mosses",
+      "Grasses only",
+      "Shrubs"
+    ],
+    "correct_index": 1,
+    "solution": "Lichens (crustose) colonise bare rock first, secreting acids that weather it; mosses follow, and accumulating organic matter and weathered rock gradually form soil.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The final, stable and self-perpetuating community at the end of succession is the:",
+    "options": [
+      "Pioneer community",
+      "Sere",
+      "Climax community",
+      "Ecotone"
+    ],
+    "correct_index": 2,
+    "solution": "The climax community is the stable, mature end-stage of succession, in equilibrium with the prevailing climate and largely self-sustaining until a major disturbance occurs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The entire sequence of communities that successively change in a given area during succession is called a:",
+    "options": [
+      "Niche",
+      "Sere",
+      "Biome",
+      "Guild"
+    ],
+    "correct_index": 1,
+    "solution": "A sere is the whole series of transitional communities (seral stages) that develop during succession from pioneer to climax.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Succession that starts in a water body (pond/lake) is called:",
+    "options": [
+      "Xerarch (xerosere)",
+      "Hydrarch (hydrosere)",
+      "Lithosere",
+      "Psammosere"
+    ],
+    "correct_index": 1,
+    "solution": "Hydrarch succession (hydrosere) begins in water and proceeds toward a terrestrial climax as the water body fills in. Xerarch succession begins in dry areas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Succession beginning on bare rock is specifically termed a:",
+    "options": [
+      "Hydrosere",
+      "Lithosere",
+      "Halosere",
+      "Psammosere"
+    ],
+    "correct_index": 1,
+    "solution": "A lithosere is xerarch succession starting on bare rock. A psammosere starts on sand, a halosere in saline environments, and a hydrosere in water.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During succession, the general trend in species diversity and biomass is to:",
+    "options": [
+      "Decrease steadily",
+      "Increase from pioneer to climax stage",
+      "Stay constant",
+      "Fluctuate randomly"
+    ],
+    "correct_index": 1,
+    "solution": "As succession proceeds, species diversity, biomass, community complexity and nutrient retention generally increase, peaking at or near the climax stage.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'climatic climax' concept holds that the climax community is ultimately determined by the region's:",
+    "options": [
+      "Soil colour",
+      "Climate",
+      "Human population",
+      "Altitude only"
+    ],
+    "correct_index": 1,
+    "solution": "According to the monoclimax (climatic climax) theory, the nature of the final stable community in a region is governed mainly by its climate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nitrogen-fixing cyanobacteria (blue-green algae) are important because they:",
+    "options": [
+      "Cannot fix nitrogen",
+      "Fix atmospheric nitrogen, enriching soils and water (e.g. in paddy fields)",
+      "Only cause pollution",
+      "Are decomposers"
+    ],
+    "correct_index": 1,
+    "solution": "Cyanobacteria like Anabaena and Nostoc fix atmospheric nitrogen; some (e.g. Azolla-Anabaena in rice paddies) are used as biofertilisers to enrich soils naturally.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Excess reactive nitrogen from fertilisers entering water bodies primarily causes:",
+    "options": [
+      "Ozone depletion",
+      "Eutrophication and algal blooms",
+      "Global cooling",
+      "Desertification"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen (and phosphorus) runoff enriches water, triggering algal blooms whose decay depletes oxygen (eutrophication) — a major consequence of human disruption of the nitrogen cycle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which human activity most disrupts the nitrogen cycle?",
+    "options": [
+      "Photosynthesis",
+      "Industrial fertiliser production (Haber process) and fossil-fuel burning",
+      "Rainfall",
+      "Ocean currents"
+    ],
+    "correct_index": 1,
+    "solution": "The Haber-Bosch process for synthetic fertilisers, plus fossil-fuel combustion, adds enormous amounts of reactive nitrogen to the environment, disturbing the natural nitrogen balance.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The sulphur cycle contributes to which environmental problem when sulphur compounds are released by burning fossil fuels?",
+    "options": [
+      "Ozone hole",
+      "Acid rain",
+      "Eutrophication",
+      "Desertification"
+    ],
+    "correct_index": 1,
+    "solution": "Sulphur dioxide from fossil-fuel combustion forms sulphuric acid in the atmosphere, a major component of acid rain that damages ecosystems, soils and monuments.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Assimilation' in the nitrogen cycle refers to:",
+    "options": [
+      "Return of nitrogen to the air",
+      "Uptake and incorporation of nitrate/ammonium by plants into organic molecules",
+      "Breakdown of proteins",
+      "Fixation by lightning"
+    ],
+    "correct_index": 1,
+    "solution": "Assimilation is the process by which plants absorb nitrates/ammonium and build them into proteins and nucleic acids; animals then obtain nitrogen by eating plants.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A key difference between the carbon cycle and the phosphorus cycle is that:",
+    "options": [
+      "Both have large atmospheric phases",
+      "Carbon has a significant gaseous (atmospheric) phase while phosphorus does not",
+      "Phosphorus is faster",
+      "Carbon has no gaseous phase"
+    ],
+    "correct_index": 1,
+    "solution": "Carbon cycles readily through the atmosphere as CO2 (gaseous cycle), whereas phosphorus lacks a meaningful gaseous phase and moves slowly through rocks, soil and water (sedimentary cycle).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Decomposers play a critical role in nutrient cycles by:",
+    "options": [
+      "Fixing nitrogen only",
+      "Breaking down dead matter to release nutrients back into the cycle",
+      "Producing oxygen",
+      "Capturing sunlight"
+    ],
+    "correct_index": 1,
+    "solution": "Decomposers mineralise dead organic matter, releasing carbon, nitrogen, phosphorus and other nutrients back into the environment for reuse by producers — closing the loops of biogeochemical cycles.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following correctly orders a hydrarch succession's typical stages?",
+    "options": [
+      "Forest → shrub → grass → phytoplankton",
+      "Phytoplankton → rooted submerged → floating → reed-swamp → marsh → forest",
+      "Marsh → forest → phytoplankton",
+      "Bare rock → lichen → forest"
+    ],
+    "correct_index": 1,
+    "solution": "Hydrosere proceeds from phytoplankton and submerged plants, through floating and reed-swamp stages, to marsh meadow, scrub and finally a terrestrial climax forest as the water body fills in.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The stability of a climax community means it is:",
+    "options": [
+      "Constantly changing",
+      "In relative equilibrium and self-maintaining until major disturbance",
+      "Devoid of life",
+      "Always a grassland"
+    ],
+    "correct_index": 1,
+    "solution": "A climax community maintains a steady-state equilibrium with its environment, persisting and renewing itself until a significant disturbance resets succession.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which nutrient is often the 'limiting nutrient' for plant growth in many terrestrial and freshwater ecosystems?",
+    "options": [
+      "Carbon",
+      "Nitrogen or phosphorus",
+      "Oxygen",
+      "Silicon"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen and phosphorus are frequently the limiting nutrients — the ones in shortest supply relative to need — so their addition (as fertiliser) boosts growth but can cause eutrophication in water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'seral community' refers to:",
+    "options": [
+      "The final climax stage",
+      "Any of the transitional (intermediate) communities during succession",
+      "A dead community",
+      "A marine community"
+    ],
+    "correct_index": 1,
+    "solution": "Seral communities (seral stages) are the temporary, transitional communities that replace one another during succession before the climax is reached.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which biogeochemical cycle is most directly linked to the greenhouse effect and climate change?",
+    "options": [
+      "Phosphorus cycle",
+      "Carbon cycle",
+      "Sulphur cycle",
+      "Calcium cycle"
+    ],
+    "correct_index": 1,
+    "solution": "The carbon cycle is central to climate: human disruption (fossil-fuel burning, deforestation) raises atmospheric CO2, intensifying the greenhouse effect and driving global warming.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Weathering of rocks is the main natural process that releases which nutrient into ecosystems?",
+    "options": [
+      "Nitrogen",
+      "Phosphorus",
+      "Carbon dioxide",
+      "Oxygen"
+    ],
+    "correct_index": 1,
+    "solution": "Since phosphorus lacks a gaseous phase, its entry into ecosystems depends chiefly on the slow weathering of phosphate-bearing rocks, making it a limiting nutrient.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Autogenic succession is driven by:",
+    "options": [
+      "External factors like climate change",
+      "The organisms themselves modifying their environment",
+      "Volcanic eruptions",
+      "Human activity only"
+    ],
+    "correct_index": 1,
+    "solution": "In autogenic succession, the resident organisms modify their own environment (soil, light, moisture), driving the change to the next stage. Allogenic succession is driven by external environmental factors.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following pairs a bacterium with its correct role? (i) Nitrosomonas – ammonia to nitrite (ii) Nitrobacter – nitrite to nitrate (iii) Pseudomonas – denitrification",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Nitrosomonas oxidises ammonia to nitrite, Nitrobacter oxidises nitrite to nitrate (nitrification), and Pseudomonas carries out denitrification back to N2.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During succession, soil depth, organic content and water-holding capacity generally:",
+    "options": [
+      "Decrease",
+      "Increase progressively toward the climax",
+      "Remain unchanged",
+      "Disappear"
+    ],
+    "correct_index": 1,
+    "solution": "As succession advances, soil develops greater depth, organic matter, nutrient content and moisture retention, supporting increasingly complex communities up to the climax.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The disturbance of the phosphorus cycle by humans occurs mainly through:",
+    "options": [
+      "Burning coal",
+      "Mining phosphate rock for fertilisers and detergents",
+      "Lightning",
+      "Nitrogen fixation"
+    ],
+    "correct_index": 1,
+    "solution": "Humans accelerate the phosphorus cycle by mining phosphate rock for fertilisers and detergents; runoff of this phosphorus into water bodies is a leading cause of eutrophication.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about energy and matter in biogeochemical cycles is correct?",
+    "options": [
+      "Matter is lost from Earth in each cycle",
+      "Matter (nutrients) is conserved and recycled repeatedly through the cycles",
+      "Nutrients are created anew each cycle",
+      "Cycles require no living organisms"
+    ],
+    "correct_index": 1,
+    "solution": "Biogeochemical cycles recycle a finite pool of matter repeatedly between living and non-living components; matter is conserved (neither created nor destroyed), unlike energy which flows through and is lost as heat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A forest regrowing on land cleared by a landslide but retaining soil is an example of:",
+    "options": [
+      "Primary succession",
+      "Secondary succession",
+      "Climax without succession",
+      "Retrogression"
+    ],
+    "correct_index": 1,
+    "solution": "Because soil and some propagules remain after the landslide (unlike bare rock), the regrowth is secondary succession, which is faster than primary succession.",
+    "difficulty": "medium"
+  }
 ]

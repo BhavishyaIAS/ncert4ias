@@ -1,54 +1,1202 @@
 [
-  {"stem": "The branch of biology that studies the interactions of organisms with one another and their environment is __________.", "options": ["ecology", "taxonomy", "physiology", "genetics"], "correct_index": 0, "solution": "Ecology is the study of interactions among organisms and between organisms and their environment.", "difficulty": "easy"},
-  {"stem": "The term 'ecology' was coined by __________.", "options": ["Ernst Haeckel", "Charles Darwin", "Arthur Tansley", "Odum"], "correct_index": 0, "solution": "The term ecology was coined by Ernst Haeckel.", "difficulty": "hard"},
-  {"stem": "The term 'ecosystem' was coined by __________.", "options": ["Arthur Tansley", "Ernst Haeckel", "Charles Elton", "Lindeman"], "correct_index": 0, "solution": "The term ecosystem was coined by A. G. Tansley.", "difficulty": "hard"},
-  {"stem": "A functional unit of nature comprising living organisms and their non-living environment interacting together is a(n) __________.", "options": ["ecosystem", "population", "biome", "niche"], "correct_index": 0, "solution": "An ecosystem is the functional unit of biotic and abiotic components interacting.", "difficulty": "medium"},
-  {"stem": "The two components of an ecosystem are biotic and __________.", "options": ["abiotic", "aquatic", "terrestrial", "chemical only"], "correct_index": 0, "solution": "An ecosystem has biotic (living) and abiotic (non-living) components.", "difficulty": "easy"},
-  {"stem": "Organisms that synthesise their own food are called __________.", "options": ["producers (autotrophs)", "consumers", "decomposers", "detritivores"], "correct_index": 0, "solution": "Producers (autotrophs), mainly green plants, make their own food.", "difficulty": "easy"},
-  {"stem": "Organisms that break down dead organic matter and recycle nutrients are __________.", "options": ["decomposers", "producers", "primary consumers", "carnivores"], "correct_index": 0, "solution": "Decomposers (saprotrophs) break down dead matter and recycle nutrients.", "difficulty": "medium"},
-  {"stem": "In a food chain, herbivores occupy the __________ trophic level.", "options": ["second (primary consumers)", "first", "third", "fourth"], "correct_index": 0, "solution": "Herbivores (primary consumers) occupy the second trophic level; producers are the first.", "difficulty": "medium"},
-  {"stem": "The interconnected network of many food chains in an ecosystem is called a __________.", "options": ["food web", "trophic pyramid", "biome", "niche"], "correct_index": 0, "solution": "A food web is the network of interconnected food chains.", "difficulty": "easy"},
-  {"stem": "A food chain that begins with dead organic matter is called a __________ food chain.", "options": ["detritus", "grazing", "predator", "parasitic"], "correct_index": 0, "solution": "The detritus food chain begins with dead organic matter (detritus).", "difficulty": "hard"},
-  {"stem": "According to Lindeman's ten per cent law, the energy transferred to the next trophic level is about __________.", "options": ["10%", "50%", "90%", "100%"], "correct_index": 0, "solution": "About 10% of energy is transferred to the next trophic level; the rest is lost as heat.", "difficulty": "medium"},
-  {"stem": "Energy flow in an ecosystem is __________.", "options": ["unidirectional", "cyclic", "bidirectional", "random"], "correct_index": 0, "solution": "Energy flows in one direction through an ecosystem, unlike nutrients which cycle.", "difficulty": "medium"},
-  {"stem": "The ultimate source of energy for almost all ecosystems is the __________.", "options": ["Sun", "soil", "wind", "decomposers"], "correct_index": 0, "solution": "The Sun is the ultimate energy source for nearly all ecosystems.", "difficulty": "easy"},
-  {"stem": "The total amount of organic matter produced by producers per unit area per unit time is the __________.", "options": ["gross primary productivity", "net secondary productivity", "standing crop", "biomass only"], "correct_index": 0, "solution": "Gross primary productivity (GPP) is the total organic matter produced by producers.", "difficulty": "hard"},
-  {"stem": "Net primary productivity (NPP) equals GPP minus __________.", "options": ["respiration by producers", "consumer biomass", "decomposition", "solar input"], "correct_index": 0, "solution": "NPP = GPP − respiration losses by producers; it is the biomass available to consumers.", "difficulty": "hard"},
-  {"stem": "The graphical representation of trophic levels showing number, biomass or energy is an __________.", "options": ["ecological pyramid", "food web", "biome map", "niche diagram"], "correct_index": 0, "solution": "Ecological pyramids depict trophic structure by number, biomass or energy.", "difficulty": "medium"},
-  {"stem": "The ecological pyramid that is always upright (never inverted) is the pyramid of __________.", "options": ["energy", "number", "biomass", "productivity only"], "correct_index": 0, "solution": "The pyramid of energy is always upright because energy is lost at each level.", "difficulty": "hard"},
-  {"stem": "The pyramid of biomass in an ocean (sea) ecosystem is usually __________.", "options": ["inverted", "upright", "spindle-shaped only", "absent"], "correct_index": 0, "solution": "In oceans the biomass pyramid is inverted, as tiny phytoplankton support larger consumers.", "difficulty": "hard"},
-  {"stem": "The pyramid of numbers in a single large tree ecosystem is typically __________.", "options": ["inverted", "upright", "linear", "flat"], "correct_index": 0, "solution": "In a tree ecosystem the pyramid of numbers is inverted (one tree supports many insects/birds).", "difficulty": "hard"},
-  {"stem": "The zone of transition between two ecosystems is called an __________.", "options": ["ecotone", "ecad", "ecotype", "niche"], "correct_index": 0, "solution": "An ecotone is the transition zone between two ecosystems.", "difficulty": "hard"},
-  {"stem": "The greater diversity of species found in the transition zone (ecotone) is called the __________ effect.", "options": ["edge", "greenhouse", "founder", "bottleneck"], "correct_index": 0, "solution": "The edge effect refers to the higher species diversity often found in ecotones.", "difficulty": "hard"},
-  {"stem": "A species whose presence is essential for maintaining the structure of an ecological community is a __________ species.", "options": ["keystone", "flagship", "indicator", "endemic"], "correct_index": 0, "solution": "A keystone species has a disproportionately large role in maintaining community structure.", "difficulty": "hard"},
-  {"stem": "The functional role and position of a species in its ecosystem is called its __________.", "options": ["ecological niche", "habitat", "biome", "population"], "correct_index": 0, "solution": "The ecological niche is the functional role and position of a species in its ecosystem.", "difficulty": "hard"},
-  {"stem": "The physical place where an organism lives is its __________.", "options": ["habitat", "niche", "biome", "ecotone"], "correct_index": 0, "solution": "A habitat is the physical location where an organism lives.", "difficulty": "medium"},
-  {"stem": "A large regional ecosystem characterised by a distinct climate and vegetation is a __________.", "options": ["biome", "niche", "population", "guild"], "correct_index": 0, "solution": "A biome is a large-scale ecosystem defined by climate and dominant vegetation.", "difficulty": "medium"},
-  {"stem": "The biome with the highest biodiversity on Earth is the __________.", "options": ["tropical rainforest", "tundra", "desert", "taiga"], "correct_index": 0, "solution": "Tropical rainforests have the highest biodiversity of all biomes.", "difficulty": "medium"},
-  {"stem": "The cold, treeless biome found in the far north is the __________.", "options": ["tundra", "savanna", "chaparral", "taiga"], "correct_index": 0, "solution": "The tundra is the cold, treeless biome of the far north (and high mountains).", "difficulty": "medium"},
-  {"stem": "The coniferous forest biome, also called boreal forest, is the __________.", "options": ["taiga", "tundra", "savanna", "steppe"], "correct_index": 0, "solution": "The taiga (boreal forest) is the coniferous forest biome.", "difficulty": "hard"},
-  {"stem": "The increase in concentration of a toxicant at successive trophic levels is called __________.", "options": ["biomagnification", "bioaccumulation", "eutrophication", "succession"], "correct_index": 0, "solution": "Biomagnification is the increasing concentration of toxins up the food chain.", "difficulty": "hard"},
-  {"stem": "The build-up of a toxic substance within the tissues of a single organism over time is called __________.", "options": ["bioaccumulation", "biomagnification", "eutrophication", "assimilation"], "correct_index": 0, "solution": "Bioaccumulation is the accumulation of a toxin within one organism over its lifetime.", "difficulty": "hard"},
-  {"stem": "A group of organisms of the same species living in a particular area is a __________.", "options": ["population", "community", "ecosystem", "biome"], "correct_index": 0, "solution": "A population is a group of individuals of one species in an area.", "difficulty": "easy"},
-  {"stem": "All the interacting populations of different species in an area form a __________.", "options": ["community", "population", "biome", "niche"], "correct_index": 0, "solution": "A biological community is all interacting populations in an area.", "difficulty": "medium"},
-  {"stem": "The part of the Earth and its atmosphere where life exists is the __________.", "options": ["biosphere", "lithosphere", "hydrosphere", "atmosphere"], "correct_index": 0, "solution": "The biosphere is the global zone where life exists.", "difficulty": "medium"},
-  {"stem": "The amount of living matter (biomass) present in an ecosystem at a given time is the __________.", "options": ["standing crop", "productivity", "GPP", "energy flow"], "correct_index": 0, "solution": "The standing crop is the total biomass present in an ecosystem at a given moment.", "difficulty": "hard"},
-  {"stem": "Animals that feed on both plants and animals are called __________.", "options": ["omnivores", "herbivores", "carnivores", "detritivores"], "correct_index": 0, "solution": "Omnivores eat both plants and animals.", "difficulty": "easy"},
-  {"stem": "Organisms like earthworms that feed on detritus (dead matter) are called __________.", "options": ["detritivores", "producers", "carnivores", "autotrophs"], "correct_index": 0, "solution": "Detritivores such as earthworms feed on detritus.", "difficulty": "medium"},
-  {"stem": "The vast majority of energy at each trophic level is lost as __________.", "options": ["heat (through respiration)", "light", "biomass", "chemical fuel"], "correct_index": 0, "solution": "Most energy at each level is lost as heat via respiration and metabolic activity.", "difficulty": "medium"},
-  {"stem": "A species used to indicate the health or quality of an environment is a(n) __________ species.", "options": ["indicator", "keystone", "flagship", "invasive"], "correct_index": 0, "solution": "An indicator species reflects the condition of its environment (e.g. lichens for air quality).", "difficulty": "hard"},
-  {"stem": "A charismatic species used to raise support for conservation is a __________ species.", "options": ["flagship", "indicator", "keystone", "pioneer"], "correct_index": 0, "solution": "A flagship species (e.g. the tiger) is used to rally public support for conservation.", "difficulty": "hard"},
-  {"stem": "Grazing food chains usually begin with __________.", "options": ["green plants (producers)", "dead matter", "carnivores", "decomposers"], "correct_index": 0, "solution": "Grazing food chains start with living green plants (producers).", "difficulty": "medium"},
-  {"stem": "The maximum number of trophic levels in a food chain is limited by __________.", "options": ["the loss of energy at each level", "the number of species", "the amount of sunlight only", "water availability"], "correct_index": 0, "solution": "Energy loss (~90%) at each level limits food chains to usually 3–4 trophic levels.", "difficulty": "hard"},
-  {"stem": "The productivity of consumers (their formation of new biomass) is called __________ productivity.", "options": ["secondary", "primary", "gross", "net primary"], "correct_index": 0, "solution": "Secondary productivity is the rate of biomass formation by consumers.", "difficulty": "hard"},
-  {"stem": "In an ecosystem, nutrients such as carbon and nitrogen are __________.", "options": ["recycled (cyclic)", "lost permanently", "created continuously", "one-directional like energy"], "correct_index": 0, "solution": "Nutrients cycle within the ecosystem, unlike energy which flows one way.", "difficulty": "medium"},
-  {"stem": "The most productive natural ecosystems on Earth are __________.", "options": ["tropical rainforests and coral reefs", "deserts", "tundra", "open oceans"], "correct_index": 0, "solution": "Tropical rainforests, coral reefs and estuaries are among the most productive ecosystems.", "difficulty": "hard"},
-  {"stem": "A desert ecosystem is characterised by __________.", "options": ["low rainfall and sparse vegetation", "high rainfall", "dense forests", "permanent ice"], "correct_index": 0, "solution": "Deserts have very low rainfall and sparse, drought-adapted vegetation.", "difficulty": "easy"},
-  {"stem": "The pyramid of energy is expressed in units of __________.", "options": ["energy per unit area per unit time", "number of individuals", "grams of biomass", "percentage"], "correct_index": 0, "solution": "The energy pyramid uses energy per unit area per unit time (e.g. kcal/m²/yr).", "difficulty": "hard"},
-  {"stem": "The 'law of the minimum' (Liebig's law) states that growth is limited by the __________.", "options": ["scarcest essential resource", "most abundant resource", "average of resources", "total energy"], "correct_index": 0, "solution": "Liebig's law of the minimum states that growth is limited by the scarcest essential nutrient/resource.", "difficulty": "hard"},
-  {"stem": "The abiotic factors of an ecosystem include light, temperature, water and __________.", "options": ["soil (and minerals)", "producers", "consumers", "decomposers"], "correct_index": 0, "solution": "Abiotic factors include light, temperature, water, soil and minerals.", "difficulty": "medium"},
-  {"stem": "Primary consumers in a grassland ecosystem are typically __________.", "options": ["grasshoppers and grazing animals", "hawks", "snakes", "fungi"], "correct_index": 0, "solution": "Primary consumers (herbivores) in a grassland include grasshoppers and grazing animals.", "difficulty": "medium"},
-  {"stem": "An organism that occupies more than one trophic level in a food web is usually a(n) __________.", "options": ["omnivore", "producer", "decomposer only", "autotroph"], "correct_index": 0, "solution": "Omnivores can occupy more than one trophic level as they eat plants and animals.", "difficulty": "hard"},
-  {"stem": "The overall study of the structure and function of ecosystems is central to understanding __________.", "options": ["how nature sustains life", "human history", "coin minting", "architecture"], "correct_index": 0, "solution": "Ecosystem ecology explains how nature sustains life through energy flow and nutrient cycling.", "difficulty": "easy"},
-  {"stem": "The 'trophic level' of an organism refers to its __________.", "options": ["position in the food chain", "geographic location", "body size", "lifespan"], "correct_index": 0, "solution": "A trophic level is an organism's feeding position in the food chain.", "difficulty": "medium"}
+  {
+    "stem": "The branch of biology that studies the interactions of organisms with one another and their environment is __________.",
+    "options": [
+      "ecology",
+      "taxonomy",
+      "physiology",
+      "genetics"
+    ],
+    "correct_index": 0,
+    "solution": "Ecology is the study of interactions among organisms and between organisms and their environment.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The term 'ecology' was coined by __________.",
+    "options": [
+      "Ernst Haeckel",
+      "Charles Darwin",
+      "Arthur Tansley",
+      "Odum"
+    ],
+    "correct_index": 0,
+    "solution": "The term ecology was coined by Ernst Haeckel.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The term 'ecosystem' was coined by __________.",
+    "options": [
+      "Arthur Tansley",
+      "Ernst Haeckel",
+      "Charles Elton",
+      "Lindeman"
+    ],
+    "correct_index": 0,
+    "solution": "The term ecosystem was coined by A. G. Tansley.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A functional unit of nature comprising living organisms and their non-living environment interacting together is a(n) __________.",
+    "options": [
+      "ecosystem",
+      "population",
+      "biome",
+      "niche"
+    ],
+    "correct_index": 0,
+    "solution": "An ecosystem is the functional unit of biotic and abiotic components interacting.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two components of an ecosystem are biotic and __________.",
+    "options": [
+      "abiotic",
+      "aquatic",
+      "terrestrial",
+      "chemical only"
+    ],
+    "correct_index": 0,
+    "solution": "An ecosystem has biotic (living) and abiotic (non-living) components.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms that synthesise their own food are called __________.",
+    "options": [
+      "producers (autotrophs)",
+      "consumers",
+      "decomposers",
+      "detritivores"
+    ],
+    "correct_index": 0,
+    "solution": "Producers (autotrophs), mainly green plants, make their own food.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms that break down dead organic matter and recycle nutrients are __________.",
+    "options": [
+      "decomposers",
+      "producers",
+      "primary consumers",
+      "carnivores"
+    ],
+    "correct_index": 0,
+    "solution": "Decomposers (saprotrophs) break down dead matter and recycle nutrients.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a food chain, herbivores occupy the __________ trophic level.",
+    "options": [
+      "second (primary consumers)",
+      "first",
+      "third",
+      "fourth"
+    ],
+    "correct_index": 0,
+    "solution": "Herbivores (primary consumers) occupy the second trophic level; producers are the first.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The interconnected network of many food chains in an ecosystem is called a __________.",
+    "options": [
+      "food web",
+      "trophic pyramid",
+      "biome",
+      "niche"
+    ],
+    "correct_index": 0,
+    "solution": "A food web is the network of interconnected food chains.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A food chain that begins with dead organic matter is called a __________ food chain.",
+    "options": [
+      "detritus",
+      "grazing",
+      "predator",
+      "parasitic"
+    ],
+    "correct_index": 0,
+    "solution": "The detritus food chain begins with dead organic matter (detritus).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "According to Lindeman's ten per cent law, the energy transferred to the next trophic level is about __________.",
+    "options": [
+      "10%",
+      "50%",
+      "90%",
+      "100%"
+    ],
+    "correct_index": 0,
+    "solution": "About 10% of energy is transferred to the next trophic level; the rest is lost as heat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Energy flow in an ecosystem is __________.",
+    "options": [
+      "unidirectional",
+      "cyclic",
+      "bidirectional",
+      "random"
+    ],
+    "correct_index": 0,
+    "solution": "Energy flows in one direction through an ecosystem, unlike nutrients which cycle.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ultimate source of energy for almost all ecosystems is the __________.",
+    "options": [
+      "Sun",
+      "soil",
+      "wind",
+      "decomposers"
+    ],
+    "correct_index": 0,
+    "solution": "The Sun is the ultimate energy source for nearly all ecosystems.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The total amount of organic matter produced by producers per unit area per unit time is the __________.",
+    "options": [
+      "gross primary productivity",
+      "net secondary productivity",
+      "standing crop",
+      "biomass only"
+    ],
+    "correct_index": 0,
+    "solution": "Gross primary productivity (GPP) is the total organic matter produced by producers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Net primary productivity (NPP) equals GPP minus __________.",
+    "options": [
+      "respiration by producers",
+      "consumer biomass",
+      "decomposition",
+      "solar input"
+    ],
+    "correct_index": 0,
+    "solution": "NPP = GPP − respiration losses by producers; it is the biomass available to consumers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The graphical representation of trophic levels showing number, biomass or energy is an __________.",
+    "options": [
+      "ecological pyramid",
+      "food web",
+      "biome map",
+      "niche diagram"
+    ],
+    "correct_index": 0,
+    "solution": "Ecological pyramids depict trophic structure by number, biomass or energy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ecological pyramid that is always upright (never inverted) is the pyramid of __________.",
+    "options": [
+      "energy",
+      "number",
+      "biomass",
+      "productivity only"
+    ],
+    "correct_index": 0,
+    "solution": "The pyramid of energy is always upright because energy is lost at each level.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The pyramid of biomass in an ocean (sea) ecosystem is usually __________.",
+    "options": [
+      "inverted",
+      "upright",
+      "spindle-shaped only",
+      "absent"
+    ],
+    "correct_index": 0,
+    "solution": "In oceans the biomass pyramid is inverted, as tiny phytoplankton support larger consumers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The pyramid of numbers in a single large tree ecosystem is typically __________.",
+    "options": [
+      "inverted",
+      "upright",
+      "linear",
+      "flat"
+    ],
+    "correct_index": 0,
+    "solution": "In a tree ecosystem the pyramid of numbers is inverted (one tree supports many insects/birds).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The zone of transition between two ecosystems is called an __________.",
+    "options": [
+      "ecotone",
+      "ecad",
+      "ecotype",
+      "niche"
+    ],
+    "correct_index": 0,
+    "solution": "An ecotone is the transition zone between two ecosystems.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The greater diversity of species found in the transition zone (ecotone) is called the __________ effect.",
+    "options": [
+      "edge",
+      "greenhouse",
+      "founder",
+      "bottleneck"
+    ],
+    "correct_index": 0,
+    "solution": "The edge effect refers to the higher species diversity often found in ecotones.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A species whose presence is essential for maintaining the structure of an ecological community is a __________ species.",
+    "options": [
+      "keystone",
+      "flagship",
+      "indicator",
+      "endemic"
+    ],
+    "correct_index": 0,
+    "solution": "A keystone species has a disproportionately large role in maintaining community structure.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The functional role and position of a species in its ecosystem is called its __________.",
+    "options": [
+      "ecological niche",
+      "habitat",
+      "biome",
+      "population"
+    ],
+    "correct_index": 0,
+    "solution": "The ecological niche is the functional role and position of a species in its ecosystem.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The physical place where an organism lives is its __________.",
+    "options": [
+      "habitat",
+      "niche",
+      "biome",
+      "ecotone"
+    ],
+    "correct_index": 0,
+    "solution": "A habitat is the physical location where an organism lives.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A large regional ecosystem characterised by a distinct climate and vegetation is a __________.",
+    "options": [
+      "biome",
+      "niche",
+      "population",
+      "guild"
+    ],
+    "correct_index": 0,
+    "solution": "A biome is a large-scale ecosystem defined by climate and dominant vegetation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The biome with the highest biodiversity on Earth is the __________.",
+    "options": [
+      "tropical rainforest",
+      "tundra",
+      "desert",
+      "taiga"
+    ],
+    "correct_index": 0,
+    "solution": "Tropical rainforests have the highest biodiversity of all biomes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The cold, treeless biome found in the far north is the __________.",
+    "options": [
+      "tundra",
+      "savanna",
+      "chaparral",
+      "taiga"
+    ],
+    "correct_index": 0,
+    "solution": "The tundra is the cold, treeless biome of the far north (and high mountains).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The coniferous forest biome, also called boreal forest, is the __________.",
+    "options": [
+      "taiga",
+      "tundra",
+      "savanna",
+      "steppe"
+    ],
+    "correct_index": 0,
+    "solution": "The taiga (boreal forest) is the coniferous forest biome.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The increase in concentration of a toxicant at successive trophic levels is called __________.",
+    "options": [
+      "biomagnification",
+      "bioaccumulation",
+      "eutrophication",
+      "succession"
+    ],
+    "correct_index": 0,
+    "solution": "Biomagnification is the increasing concentration of toxins up the food chain.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The build-up of a toxic substance within the tissues of a single organism over time is called __________.",
+    "options": [
+      "bioaccumulation",
+      "biomagnification",
+      "eutrophication",
+      "assimilation"
+    ],
+    "correct_index": 0,
+    "solution": "Bioaccumulation is the accumulation of a toxin within one organism over its lifetime.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A group of organisms of the same species living in a particular area is a __________.",
+    "options": [
+      "population",
+      "community",
+      "ecosystem",
+      "biome"
+    ],
+    "correct_index": 0,
+    "solution": "A population is a group of individuals of one species in an area.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "All the interacting populations of different species in an area form a __________.",
+    "options": [
+      "community",
+      "population",
+      "biome",
+      "niche"
+    ],
+    "correct_index": 0,
+    "solution": "A biological community is all interacting populations in an area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The part of the Earth and its atmosphere where life exists is the __________.",
+    "options": [
+      "biosphere",
+      "lithosphere",
+      "hydrosphere",
+      "atmosphere"
+    ],
+    "correct_index": 0,
+    "solution": "The biosphere is the global zone where life exists.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The amount of living matter (biomass) present in an ecosystem at a given time is the __________.",
+    "options": [
+      "standing crop",
+      "productivity",
+      "GPP",
+      "energy flow"
+    ],
+    "correct_index": 0,
+    "solution": "The standing crop is the total biomass present in an ecosystem at a given moment.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Animals that feed on both plants and animals are called __________.",
+    "options": [
+      "omnivores",
+      "herbivores",
+      "carnivores",
+      "detritivores"
+    ],
+    "correct_index": 0,
+    "solution": "Omnivores eat both plants and animals.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms like earthworms that feed on detritus (dead matter) are called __________.",
+    "options": [
+      "detritivores",
+      "producers",
+      "carnivores",
+      "autotrophs"
+    ],
+    "correct_index": 0,
+    "solution": "Detritivores such as earthworms feed on detritus.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The vast majority of energy at each trophic level is lost as __________.",
+    "options": [
+      "heat (through respiration)",
+      "light",
+      "biomass",
+      "chemical fuel"
+    ],
+    "correct_index": 0,
+    "solution": "Most energy at each level is lost as heat via respiration and metabolic activity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A species used to indicate the health or quality of an environment is a(n) __________ species.",
+    "options": [
+      "indicator",
+      "keystone",
+      "flagship",
+      "invasive"
+    ],
+    "correct_index": 0,
+    "solution": "An indicator species reflects the condition of its environment (e.g. lichens for air quality).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A charismatic species used to raise support for conservation is a __________ species.",
+    "options": [
+      "flagship",
+      "indicator",
+      "keystone",
+      "pioneer"
+    ],
+    "correct_index": 0,
+    "solution": "A flagship species (e.g. the tiger) is used to rally public support for conservation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Grazing food chains usually begin with __________.",
+    "options": [
+      "green plants (producers)",
+      "dead matter",
+      "carnivores",
+      "decomposers"
+    ],
+    "correct_index": 0,
+    "solution": "Grazing food chains start with living green plants (producers).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The maximum number of trophic levels in a food chain is limited by __________.",
+    "options": [
+      "the loss of energy at each level",
+      "the number of species",
+      "the amount of sunlight only",
+      "water availability"
+    ],
+    "correct_index": 0,
+    "solution": "Energy loss (~90%) at each level limits food chains to usually 3–4 trophic levels.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The productivity of consumers (their formation of new biomass) is called __________ productivity.",
+    "options": [
+      "secondary",
+      "primary",
+      "gross",
+      "net primary"
+    ],
+    "correct_index": 0,
+    "solution": "Secondary productivity is the rate of biomass formation by consumers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In an ecosystem, nutrients such as carbon and nitrogen are __________.",
+    "options": [
+      "recycled (cyclic)",
+      "lost permanently",
+      "created continuously",
+      "one-directional like energy"
+    ],
+    "correct_index": 0,
+    "solution": "Nutrients cycle within the ecosystem, unlike energy which flows one way.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most productive natural ecosystems on Earth are __________.",
+    "options": [
+      "tropical rainforests and coral reefs",
+      "deserts",
+      "tundra",
+      "open oceans"
+    ],
+    "correct_index": 0,
+    "solution": "Tropical rainforests, coral reefs and estuaries are among the most productive ecosystems.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A desert ecosystem is characterised by __________.",
+    "options": [
+      "low rainfall and sparse vegetation",
+      "high rainfall",
+      "dense forests",
+      "permanent ice"
+    ],
+    "correct_index": 0,
+    "solution": "Deserts have very low rainfall and sparse, drought-adapted vegetation.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The pyramid of energy is expressed in units of __________.",
+    "options": [
+      "energy per unit area per unit time",
+      "number of individuals",
+      "grams of biomass",
+      "percentage"
+    ],
+    "correct_index": 0,
+    "solution": "The energy pyramid uses energy per unit area per unit time (e.g. kcal/m²/yr).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'law of the minimum' (Liebig's law) states that growth is limited by the __________.",
+    "options": [
+      "scarcest essential resource",
+      "most abundant resource",
+      "average of resources",
+      "total energy"
+    ],
+    "correct_index": 0,
+    "solution": "Liebig's law of the minimum states that growth is limited by the scarcest essential nutrient/resource.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The abiotic factors of an ecosystem include light, temperature, water and __________.",
+    "options": [
+      "soil (and minerals)",
+      "producers",
+      "consumers",
+      "decomposers"
+    ],
+    "correct_index": 0,
+    "solution": "Abiotic factors include light, temperature, water, soil and minerals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Primary consumers in a grassland ecosystem are typically __________.",
+    "options": [
+      "grasshoppers and grazing animals",
+      "hawks",
+      "snakes",
+      "fungi"
+    ],
+    "correct_index": 0,
+    "solution": "Primary consumers (herbivores) in a grassland include grasshoppers and grazing animals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An organism that occupies more than one trophic level in a food web is usually a(n) __________.",
+    "options": [
+      "omnivore",
+      "producer",
+      "decomposer only",
+      "autotroph"
+    ],
+    "correct_index": 0,
+    "solution": "Omnivores can occupy more than one trophic level as they eat plants and animals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall study of the structure and function of ecosystems is central to understanding __________.",
+    "options": [
+      "how nature sustains life",
+      "human history",
+      "coin minting",
+      "architecture"
+    ],
+    "correct_index": 0,
+    "solution": "Ecosystem ecology explains how nature sustains life through energy flow and nutrient cycling.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'trophic level' of an organism refers to its __________.",
+    "options": [
+      "position in the food chain",
+      "geographic location",
+      "body size",
+      "lifespan"
+    ],
+    "correct_index": 0,
+    "solution": "A trophic level is an organism's feeding position in the food chain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'ecology' was coined by the German biologist:",
+    "options": [
+      "Charles Darwin",
+      "Ernst Haeckel",
+      "Arthur Tansley",
+      "Eugene Odum"
+    ],
+    "correct_index": 1,
+    "solution": "Ernst Haeckel coined the term 'ecology' (Oekologie) in 1866, from the Greek 'oikos' (house) and 'logos' (study) — the study of organisms in relation to their environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'ecosystem' was coined by:",
+    "options": [
+      "Ernst Haeckel",
+      "Arthur George Tansley",
+      "Eugene Odum",
+      "Charles Elton"
+    ],
+    "correct_index": 1,
+    "solution": "A.G. Tansley coined 'ecosystem' in 1935, describing the integrated system of living organisms and their physical environment interacting as a unit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most basic level of ecological organisation among the following is the:",
+    "options": [
+      "Community",
+      "Population",
+      "Individual organism",
+      "Biome"
+    ],
+    "correct_index": 2,
+    "solution": "The hierarchy runs organism → population → community → ecosystem → biome → biosphere. The individual organism is the most basic ecological level listed.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A group of organisms of the same species living in a given area is a:",
+    "options": [
+      "Community",
+      "Population",
+      "Ecosystem",
+      "Biome"
+    ],
+    "correct_index": 1,
+    "solution": "A population is a group of interbreeding individuals of the same species occupying a particular area at a given time.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "All the interacting populations of different species in an area form a:",
+    "options": [
+      "Population",
+      "Biological community",
+      "Niche",
+      "Biome"
+    ],
+    "correct_index": 1,
+    "solution": "A biological community is the assemblage of all populations of different species living and interacting in a common area.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The functional role and position of a species in its ecosystem (its 'profession') is called its:",
+    "options": [
+      "Habitat",
+      "Ecological niche",
+      "Biome",
+      "Territory"
+    ],
+    "correct_index": 1,
+    "solution": "The ecological niche describes the functional role of a species — how it obtains food, its interactions and conditions it needs. The habitat is its 'address', the niche its 'profession'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'competitive exclusion principle' (Gause's principle) states that:",
+    "options": [
+      "Two species can share an identical niche indefinitely",
+      "Two species competing for the same limiting resource cannot coexist indefinitely",
+      "Predators always exclude prey",
+      "Species never compete"
+    ],
+    "correct_index": 1,
+    "solution": "Gause's competitive exclusion principle holds that two species with identical niches cannot coexist indefinitely; one will out-compete the other, or they must diverge (resource partitioning).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Organisms that can tolerate a wide range of an environmental factor (e.g. temperature) are described as:",
+    "options": [
+      "Steno-thermal",
+      "Eury-thermal",
+      "Steno-haline",
+      "Oligotrophic"
+    ],
+    "correct_index": 1,
+    "solution": "The prefix 'eury' denotes a wide tolerance range (eurythermal = wide temperature tolerance; euryhaline = wide salinity tolerance). 'Steno' denotes a narrow range.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Warm-blooded animals that maintain a constant body temperature are called:",
+    "options": [
+      "Poikilotherms (ectotherms)",
+      "Homeotherms (endotherms)",
+      "Stenotherms",
+      "Hydrophytes"
+    ],
+    "correct_index": 1,
+    "solution": "Homeotherms (endotherms) — birds and mammals — regulate a constant internal temperature metabolically. Poikilotherms (ectotherms) like reptiles vary with the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "According to Allen's rule, mammals in colder climates tend to have:",
+    "options": [
+      "Longer ears and limbs",
+      "Shorter ears and limbs to reduce heat loss",
+      "No fur",
+      "Larger surface area"
+    ],
+    "correct_index": 1,
+    "solution": "Allen's rule states that endotherms in cold climates have shorter extremities (ears, limbs) to reduce surface area and conserve heat. Bergmann's rule adds that they tend to be larger-bodied.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The dormancy that helps some animals survive cold winters by lowering metabolism is called:",
+    "options": [
+      "Aestivation",
+      "Hibernation",
+      "Migration",
+      "Camouflage"
+    ],
+    "correct_index": 1,
+    "solution": "Hibernation is winter dormancy (e.g. bears, some rodents) to escape cold; aestivation is summer dormancy to escape heat and desiccation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Plants adapted to grow in dry, arid conditions are called:",
+    "options": [
+      "Hydrophytes",
+      "Xerophytes",
+      "Mesophytes",
+      "Halophytes"
+    ],
+    "correct_index": 1,
+    "solution": "Xerophytes (e.g. cacti) are adapted to dry conditions with features like reduced leaves, thick cuticles and water storage. Hydrophytes live in water; halophytes in saline soils.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The energy that enters almost all ecosystems ultimately comes from:",
+    "options": [
+      "Geothermal heat",
+      "The Sun",
+      "Chemical bonds in rocks",
+      "Lightning"
+    ],
+    "correct_index": 1,
+    "solution": "Solar energy, captured by producers through photosynthesis, is the primary energy source for nearly all ecosystems (deep-sea chemosynthetic vents being a rare exception).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms that synthesise their own food using inorganic substances and light/chemical energy are:",
+    "options": [
+      "Heterotrophs",
+      "Autotrophs",
+      "Detritivores",
+      "Decomposers"
+    ],
+    "correct_index": 1,
+    "solution": "Autotrophs (producers) — green plants, algae, cyanobacteria — make their own organic food. Heterotrophs (consumers) depend on others for food.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In an ecosystem, herbivores are classified as:",
+    "options": [
+      "Producers",
+      "Primary consumers",
+      "Secondary consumers",
+      "Decomposers"
+    ],
+    "correct_index": 1,
+    "solution": "Herbivores that feed directly on producers (plants) are primary consumers. Carnivores eating herbivores are secondary consumers, and so on.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms that feed on dead and decaying organic matter, breaking it down, are:",
+    "options": [
+      "Producers",
+      "Decomposers (saprotrophs)",
+      "Primary consumers",
+      "Autotrophs"
+    ],
+    "correct_index": 1,
+    "solution": "Decomposers (saprotrophs) — bacteria and fungi — break down dead organic matter, recycling nutrients back to the soil and completing nutrient cycles.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The role of decomposers in an ecosystem is chiefly to:",
+    "options": [
+      "Produce oxygen",
+      "Recycle nutrients by breaking down dead organic matter",
+      "Capture solar energy",
+      "Prey on herbivores"
+    ],
+    "correct_index": 1,
+    "solution": "Decomposers release nutrients locked in dead organisms back into the soil and atmosphere, making them available again to producers — essential for nutrient cycling.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'standing crop' of a trophic level refers to the:",
+    "options": [
+      "Rate of energy flow",
+      "Amount of living biomass present at a given time",
+      "Number of species",
+      "Rainfall received"
+    ],
+    "correct_index": 1,
+    "solution": "Standing crop is the biomass (or number of individuals) present in a trophic level at any given time, usually expressed as mass of living matter per unit area.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "According to the '10 per cent law' of energy transfer (Lindeman), the energy passed to the next trophic level is about:",
+    "options": [
+      "1%",
+      "10%",
+      "50%",
+      "90%"
+    ],
+    "correct_index": 1,
+    "solution": "Lindeman's 10% law states that only about 10% of the energy at one trophic level is transferred to the next; the rest is lost mainly as heat in metabolism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Because of the 10% energy law, food chains rarely have more than:",
+    "options": [
+      "2 trophic levels",
+      "4–5 trophic levels",
+      "10 trophic levels",
+      "20 trophic levels"
+    ],
+    "correct_index": 1,
+    "solution": "Since energy declines sharply at each level, little remains after 4–5 levels to support further consumers, so food chains are typically short.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An ecological pyramid of energy is always:",
+    "options": [
+      "Inverted",
+      "Upright (never inverted)",
+      "Spherical",
+      "Flat"
+    ],
+    "correct_index": 1,
+    "solution": "A pyramid of energy is always upright because usable energy decreases at each successive trophic level (10% law) and can never increase upward.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The pyramid of numbers in a single large tree ecosystem (tree → birds → parasites) is:",
+    "options": [
+      "Always upright",
+      "Inverted",
+      "Impossible",
+      "Always spherical"
+    ],
+    "correct_index": 1,
+    "solution": "In a tree-based food chain, one tree supports many herbivorous birds, which support even more parasites, giving an inverted pyramid of numbers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A food web is more stable than a simple food chain because it:",
+    "options": [
+      "Has only one path of energy flow",
+      "Provides alternative feeding pathways, buffering against species loss",
+      "Has no decomposers",
+      "Ignores producers"
+    ],
+    "correct_index": 1,
+    "solution": "A food web's interconnected feeding relationships offer alternative energy routes, so the loss of one species is less likely to collapse the whole system — giving greater stability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two basic types of food chains are the grazing food chain and the:",
+    "options": [
+      "Marine food chain",
+      "Detritus food chain",
+      "Aerial food chain",
+      "Parasitic food chain"
+    ],
+    "correct_index": 1,
+    "solution": "The grazing food chain starts with living producers; the detritus food chain starts with dead organic matter (detritus) consumed by detritivores and decomposers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gross primary productivity (GPP) minus respiration equals:",
+    "options": [
+      "Standing crop",
+      "Net primary productivity (NPP)",
+      "Secondary productivity",
+      "Biomass"
+    ],
+    "correct_index": 1,
+    "solution": "NPP = GPP − respiration losses. NPP is the energy/biomass available to consumers (herbivores and decomposers) after producers meet their own metabolic needs.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which ecosystem has the highest net primary productivity per unit area?",
+    "options": [
+      "Open ocean",
+      "Desert",
+      "Tropical rainforest / coral reef",
+      "Tundra"
+    ],
+    "correct_index": 2,
+    "solution": "Tropical rainforests and coral reefs (and estuaries) have among the highest primary productivity, thanks to abundant light, warmth, water and nutrients. Deserts and open oceans are low.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'edge effect' in ecology refers to the:",
+    "options": [
+      "Loss of the ocean edge",
+      "Greater diversity often found at the boundary (ecotone) between two ecosystems",
+      "Extinction of edge species",
+      "Absence of life at borders"
+    ],
+    "correct_index": 1,
+    "solution": "An ecotone is the transition zone between two communities; it often shows greater species richness and density (the edge effect), including some 'edge species' unique to it.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Symbiotic relationship in which both interacting species benefit is:",
+    "options": [
+      "Commensalism",
+      "Mutualism",
+      "Parasitism",
+      "Amensalism"
+    ],
+    "correct_index": 1,
+    "solution": "In mutualism both partners benefit (e.g. pollinators and flowering plants, mycorrhizae). Commensalism benefits one with no effect on the other; parasitism benefits one at the other's cost.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The relationship between a cattle egret and grazing cattle (the egret feeds on insects flushed by the cattle) is an example of:",
+    "options": [
+      "Mutualism",
+      "Commensalism",
+      "Parasitism",
+      "Predation"
+    ],
+    "correct_index": 1,
+    "solution": "This is commensalism — the egret benefits by catching disturbed insects, while the cattle are essentially unaffected.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Lichens, a classic example of mutualism, are an association between a fungus and:",
+    "options": [
+      "A virus",
+      "An alga or cyanobacterium",
+      "An insect",
+      "A moss"
+    ],
+    "correct_index": 1,
+    "solution": "A lichen is a mutualistic partnership: the fungus provides structure and protection, while the photosynthetic alga/cyanobacterium provides food. Lichens are also sensitive pollution indicators.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mycorrhizae represent a mutualism between fungi and:",
+    "options": [
+      "Animal guts",
+      "Plant roots",
+      "Rocks",
+      "Bacteria only"
+    ],
+    "correct_index": 1,
+    "solution": "Mycorrhizae are mutualistic associations between fungi and plant roots; the fungus aids water/mineral (especially phosphorus) uptake while receiving sugars from the plant.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An interaction where one species is harmed and the other is unaffected is:",
+    "options": [
+      "Mutualism",
+      "Commensalism",
+      "Amensalism",
+      "Predation"
+    ],
+    "correct_index": 2,
+    "solution": "Amensalism harms one species while the other is unaffected — e.g. Penicillium releasing antibiotics that kill nearby bacteria without benefit or harm to itself.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A biome is best defined as a:",
+    "options": [
+      "Single population",
+      "Large regional ecosystem characterised by its dominant vegetation and climate",
+      "Small pond",
+      "A food web"
+    ],
+    "correct_index": 1,
+    "solution": "A biome is a large geographic biotic unit — e.g. tropical rainforest, desert, tundra, grassland — defined by its climate and characteristic vegetation and animal life.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The tundra biome is characterised by:",
+    "options": [
+      "Dense tropical forest",
+      "Permafrost, low temperatures and treeless vegetation",
+      "Hot deserts",
+      "Coral reefs"
+    ],
+    "correct_index": 1,
+    "solution": "The tundra (Arctic and alpine) has permanently frozen subsoil (permafrost), very cold temperatures, short growing seasons and low, treeless vegetation like mosses and lichens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The layer of Earth that supports all life — including parts of the land, water and air — is the:",
+    "options": [
+      "Lithosphere",
+      "Biosphere",
+      "Stratosphere",
+      "Mesosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The biosphere is the global sum of all ecosystems — the zone of life encompassing parts of the lithosphere, hydrosphere and atmosphere where organisms exist.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Abiotic components of an ecosystem include all EXCEPT:",
+    "options": [
+      "Sunlight and temperature",
+      "Water and soil minerals",
+      "Bacteria and fungi",
+      "Air and pH"
+    ],
+    "correct_index": 2,
+    "solution": "Abiotic (non-living) components are physical/chemical factors like light, temperature, water, air, soil and pH. Bacteria and fungi are biotic (living) components.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Productivity' in an aquatic ecosystem is often limited by the availability of:",
+    "options": [
+      "Carbon dioxide",
+      "Light and nutrients (like nitrogen and phosphorus)",
+      "Oxygen only",
+      "Salt only"
+    ],
+    "correct_index": 1,
+    "solution": "Light penetration and nutrient (N, P) availability commonly limit aquatic primary productivity, which is why nutrient-rich upwelling zones and estuaries are highly productive.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'keystone species' is defined by its:",
+    "options": [
+      "Large population size",
+      "Disproportionately large effect on community structure relative to its abundance",
+      "Bright colour",
+      "Economic value"
+    ],
+    "correct_index": 1,
+    "solution": "A keystone species exerts an outsized influence on its ecosystem's structure and function relative to its numbers; its removal can cause dramatic changes (e.g. sea otters, tigers, figs).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nocturnal desert animals stay in burrows during the day mainly to:",
+    "options": [
+      "Find light",
+      "Avoid extreme daytime heat and water loss",
+      "Escape rain",
+      "Hibernate for winter"
+    ],
+    "correct_index": 1,
+    "solution": "Desert animals are often nocturnal or fossorial (burrowing) to avoid intense daytime heat and reduce water loss, emerging at night when it is cooler.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The process by which lake ecosystems naturally age and fill in over long periods, becoming marshes and eventually land, is called:",
+    "options": [
+      "Eutrophication/natural succession (pond-to-forest)",
+      "Desertification",
+      "Salinisation",
+      "Glaciation"
+    ],
+    "correct_index": 0,
+    "solution": "Over time, sediment and organic matter accumulate, nutrients enrich the water (natural eutrophication), and hydrarch succession converts a lake into marsh and eventually terrestrial community.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a density-dependent factor regulating population size?",
+    "options": [
+      "A flood",
+      "An earthquake",
+      "Competition, predation and disease",
+      "A volcanic eruption"
+    ],
+    "correct_index": 2,
+    "solution": "Density-dependent factors (competition, predation, disease, food supply) intensify as population density rises. Density-independent factors (floods, fires, disasters) act regardless of density.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "An 'exponential' (J-shaped) growth curve of a population changes to a 'logistic' (S-shaped) curve because of:",
+    "options": [
+      "Unlimited resources",
+      "Environmental resistance and carrying capacity limits",
+      "Absence of predators",
+      "Constant immigration"
+    ],
+    "correct_index": 1,
+    "solution": "As a population grows, limited resources and environmental resistance slow growth, producing an S-shaped logistic curve that levels off at the carrying capacity (K).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The maximum population size an environment can sustainably support is its:",
+    "options": [
+      "Biotic potential",
+      "Carrying capacity (K)",
+      "Standing crop",
+      "Trophic level"
+    ],
+    "correct_index": 1,
+    "solution": "Carrying capacity (K) is the maximum number of individuals of a species that an environment can support indefinitely given its resources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Trophic level of an organism refers to its:",
+    "options": [
+      "Body size",
+      "Position in the food chain based on feeding relationship",
+      "Colour",
+      "Geographic range"
+    ],
+    "correct_index": 1,
+    "solution": "A trophic level indicates an organism's feeding position — producer, primary consumer, secondary consumer, etc. — in the food chain.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In deep-sea hydrothermal vent ecosystems, the primary producers obtain energy through:",
+    "options": [
+      "Photosynthesis",
+      "Chemosynthesis (using chemicals like hydrogen sulphide)",
+      "Absorbing sunlight",
+      "Eating detritus only"
+    ],
+    "correct_index": 1,
+    "solution": "Without sunlight, deep-sea vent producers are chemosynthetic bacteria that oxidise inorganic chemicals (e.g. H2S) to make food — one of the rare non-solar-based ecosystems.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Bioaccumulation' differs from 'biomagnification' in that bioaccumulation refers to the build-up of a pollutant:",
+    "options": [
+      "Across trophic levels",
+      "Within a single organism over its lifetime",
+      "In the soil only",
+      "In the atmosphere"
+    ],
+    "correct_index": 1,
+    "solution": "Bioaccumulation is the gradual build-up of a substance within one organism over time; biomagnification is the increase in concentration up successive trophic levels of a food chain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The two ecosystems generally regarded as the most productive on Earth are:",
+    "options": [
+      "Deserts and tundra",
+      "Estuaries and coral reefs (with tropical rainforests on land)",
+      "Open oceans and ice caps",
+      "Grasslands and savannas"
+    ],
+    "correct_index": 1,
+    "solution": "Estuaries, coral reefs, tropical rainforests and swamps/marshes rank as the most productive ecosystems, while open oceans, deserts and tundra are among the least productive per unit area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the flow of energy and nutrients in an ecosystem is correct?",
+    "options": [
+      "Both energy and nutrients are recycled",
+      "Energy flows one way (and is lost as heat) while nutrients are recycled",
+      "Both flow one way only",
+      "Nutrients flow one way, energy is recycled"
+    ],
+    "correct_index": 1,
+    "solution": "Energy flow is unidirectional — entering as sunlight and dissipating as heat, so it must be continuously supplied. Nutrients, by contrast, are cycled repeatedly through biogeochemical cycles.",
+    "difficulty": "medium"
+  }
 ]

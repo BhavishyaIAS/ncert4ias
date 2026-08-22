@@ -1,51 +1,1166 @@
 [
-  {"stem":"The 'greenhouse effect' refers to:","options":["Cooling of the Earth by clouds","Trapping of outgoing infrared (heat) radiation by atmospheric gases, warming the surface","Reflection of sunlight by ice","Absorption of UV by ozone"],"correct_index":1,"solution":"Greenhouse gases allow incoming solar (short-wave) radiation to pass but absorb and re-emit outgoing infrared (long-wave) radiation, warming the lower atmosphere and surface. Without it Earth would be about 33°C colder.","difficulty":"easy"},
-  {"stem":"Which of the following is the most abundant anthropogenic greenhouse gas driving global warming?","options":["Methane","Carbon dioxide","Nitrous oxide","CFCs"],"correct_index":1,"solution":"Carbon dioxide, mainly from fossil-fuel burning and deforestation, is the largest contributor to anthropogenic warming by total effect, though methane and others have higher per-molecule potency.","difficulty":"easy"},
-  {"stem":"Methane (CH4) is a potent greenhouse gas whose major sources include all EXCEPT:","options":["Paddy fields and livestock (enteric fermentation)","Landfills and wetlands","Fossil-fuel extraction","Photosynthesis by plants"],"correct_index":3,"solution":"Methane comes from rice paddies, ruminant livestock, wetlands, landfills and fossil-fuel operations. Photosynthesis absorbs CO2 and is not a methane source.","difficulty":"medium"},
-  {"stem":"'Global Warming Potential (GWP)' of a gas measures its:","options":["Toxicity to humans","Heat-trapping ability relative to CO2 over a time horizon","Ozone-depleting ability","Acidity"],"correct_index":1,"solution":"GWP compares the heat trapped by a gas to that trapped by the same mass of CO2 over a period (usually 100 years). CO2 has a GWP of 1; methane's is far higher over a century.","difficulty":"medium"},
-  {"stem":"Which greenhouse gas has the highest Global Warming Potential per molecule among the following?","options":["Carbon dioxide","Methane","Sulphur hexafluoride (SF6)","Water vapour"],"correct_index":2,"solution":"Fluorinated gases like SF6 have extremely high GWPs (thousands of times CO2) and very long atmospheric lifetimes, though they are present in tiny quantities.","difficulty":"hard"},
-  {"stem":"The Intergovernmental Panel on Climate Change (IPCC) was established in 1988 by:","options":["UNEP and WMO","WHO and FAO","WTO and World Bank","UNESCO and ILO"],"correct_index":0,"solution":"The IPCC was set up by the UN Environment Programme (UNEP) and the World Meteorological Organization (WMO) to assess climate science. It produces Assessment Reports but does not conduct original research.","difficulty":"medium"},
-  {"stem":"The IPCC's role is to:","options":["Set binding emission targets","Assess and synthesise scientific literature on climate change for policymakers","Fund clean energy projects","Trade carbon credits"],"correct_index":1,"solution":"The IPCC assesses published science and provides policy-relevant (not policy-prescriptive) reports; it does not set targets or fund projects — those are done under the UNFCCC process.","difficulty":"medium"},
-  {"stem":"The United Nations Framework Convention on Climate Change (UNFCCC) was adopted at the 1992 Earth Summit held in:","options":["Stockholm","Rio de Janeiro","Kyoto","Paris"],"correct_index":1,"solution":"The UNFCCC was adopted at the 1992 Rio Earth Summit (UN Conference on Environment and Development), setting the framework for international climate cooperation.","difficulty":"medium"},
-  {"stem":"The principle of 'Common But Differentiated Responsibilities' (CBDR) under the UNFCCC means:","options":["All countries have identical obligations","Developed and developing countries share responsibility but developed nations must lead given their historical emissions","Only developing countries must act","No country is responsible"],"correct_index":1,"solution":"CBDR recognises that while all nations share responsibility for the climate, developed countries — having contributed most historical emissions and having greater capacity — must take the lead in mitigation and support developing nations.","difficulty":"medium"},
-  {"stem":"The Kyoto Protocol (1997) was significant because it:","options":["Set no targets","Set legally binding emission-reduction targets for developed (Annex I) countries","Applied equally to all countries","Banned fossil fuels"],"correct_index":1,"solution":"The Kyoto Protocol imposed binding GHG reduction targets on developed (Annex I) countries for its commitment periods, introducing market mechanisms like emissions trading and the Clean Development Mechanism.","difficulty":"medium"},
-  {"stem":"The Clean Development Mechanism (CDM) under the Kyoto Protocol allowed:","options":["Developed countries to invest in emission-reduction projects in developing countries and earn credits","Free pollution","Banning of all industries","Trading of endangered species"],"correct_index":0,"solution":"The CDM let developed countries meet part of their targets by funding emission-cutting projects in developing countries, earning Certified Emission Reductions (CERs) — combining mitigation with sustainable development.","difficulty":"hard"},
-  {"stem":"The Paris Agreement (2015) aims to hold the global average temperature rise to:","options":["Below 5°C","Well below 2°C above pre-industrial levels, pursuing efforts to limit it to 1.5°C","Exactly 3°C","No target"],"correct_index":1,"solution":"The Paris Agreement's central goal is to keep warming well below 2°C above pre-industrial levels and to pursue efforts to limit it to 1.5°C, through Nationally Determined Contributions (NDCs).","difficulty":"medium"},
-  {"stem":"Under the Paris Agreement, each country sets its own climate pledges known as:","options":["Kyoto targets","Nationally Determined Contributions (NDCs)","Carbon credits","Green bonds"],"correct_index":1,"solution":"NDCs are the self-determined, periodically updated climate action pledges each Paris signatory submits; they are meant to be progressively more ambitious ('ratchet mechanism').","difficulty":"medium"},
-  {"stem":"'Net zero emissions' means:","options":["Zero emissions of any kind","Balancing emitted greenhouse gases with an equivalent amount removed from the atmosphere","Only zero CO2","Doubling emissions"],"correct_index":1,"solution":"Net zero is reached when anthropogenic GHG emissions are balanced by removals (via sinks, afforestation, carbon capture), so net addition to the atmosphere is zero. India has pledged net zero by 2070.","difficulty":"medium"},
-  {"stem":"India, at COP26 (Glasgow, 2021), announced 'Panchamrit' commitments including a target to achieve net-zero emissions by the year:","options":["2050","2060","2070","2100"],"correct_index":2,"solution":"India's Panchamrit (five nectar elements) at COP26 included reaching net zero by 2070, 500 GW non-fossil capacity by 2030, meeting 50% of energy needs from renewables by 2030, cutting projected emissions by 1 billion tonnes, and reducing emissions intensity by 45%.","difficulty":"medium"},
-  {"stem":"Which of the following is a likely consequence of global warming?","options":["Falling sea levels","Rising sea levels, glacial retreat and more frequent extreme weather","Global cooling","Expansion of polar ice"],"correct_index":1,"solution":"Global warming causes thermal expansion of oceans and melting of glaciers/ice sheets (raising sea level), retreat of Himalayan glaciers, and more intense heatwaves, droughts, floods and cyclones.","difficulty":"easy"},
-  {"stem":"Rising sea levels from global warming result from two main processes:","options":["Increased rainfall and evaporation","Thermal expansion of seawater and melting of land ice (glaciers and ice sheets)","Volcanic activity and tides","Wind and ocean currents"],"correct_index":1,"solution":"Sea-level rise is driven mainly by thermal expansion (warmer water occupies more volume) and the addition of meltwater from glaciers and the Greenland/Antarctic ice sheets.","difficulty":"medium"},
-  {"stem":"'Ocean acidification', linked to rising CO2, is sometimes called the 'other CO2 problem' because it:","options":["Warms the ocean","Lowers seawater pH, harming corals and shell-forming organisms","Raises sea level","Increases oxygen"],"correct_index":1,"solution":"As oceans absorb CO2, carbonic acid forms and lowers pH, reducing carbonate availability for corals, molluscs and plankton — a consequence of rising CO2 distinct from warming.","difficulty":"medium"},
-  {"stem":"Melting permafrost is a climate concern because it can:","options":["Absorb methane","Release large stores of methane and CO2, amplifying warming (a positive feedback)","Cool the atmosphere","Stop glacial melt"],"correct_index":1,"solution":"Thawing permafrost releases trapped methane and CO2, further warming the atmosphere and thawing more permafrost — a dangerous positive feedback loop.","difficulty":"hard"},
-  {"stem":"The 'albedo feedback' accelerates warming because melting ice:","options":["Increases surface reflectivity","Exposes darker land/ocean that absorbs more heat, reducing reflectivity","Has no effect","Cools the poles"],"correct_index":1,"solution":"Ice and snow are highly reflective (high albedo). As they melt, darker land and ocean are exposed, absorbing more solar heat and causing further melting — the ice-albedo positive feedback.","difficulty":"medium"},
-  {"stem":"The stratospheric ozone layer is important because it:","options":["Traps heat near the surface","Absorbs most of the Sun's harmful ultraviolet (UV) radiation","Produces oxygen for breathing","Causes acid rain"],"correct_index":1,"solution":"The ozone layer in the stratosphere absorbs most harmful UV-B and UV-C radiation, protecting living organisms from skin cancer, cataracts and ecosystem damage.","difficulty":"easy"},
-  {"stem":"The main chemicals responsible for stratospheric ozone depletion are:","options":["Carbon dioxide","Chlorofluorocarbons (CFCs) and halons","Methane","Sulphur dioxide"],"correct_index":1,"solution":"CFCs, halons, carbon tetrachloride and methyl chloroform release chlorine and bromine in the stratosphere, which catalytically destroy ozone. One chlorine atom can destroy thousands of ozone molecules.","difficulty":"medium"},
-  {"stem":"The 'ozone hole' is most pronounced over which region?","options":["The Arctic","Antarctica","The Equator","The Himalayas"],"correct_index":1,"solution":"The severe seasonal ozone depletion ('ozone hole') occurs over Antarctica each spring, driven by polar stratospheric clouds and special cold-weather chemistry that activates chlorine.","difficulty":"medium"},
-  {"stem":"The 1987 international treaty to phase out ozone-depleting substances is the:","options":["Kyoto Protocol","Montreal Protocol","Paris Agreement","Basel Convention"],"correct_index":1,"solution":"The Montreal Protocol (1987), under the Vienna Convention, phases out CFCs and other ozone-depleting substances. It is regarded as the most successful environmental treaty, with near-universal ratification.","difficulty":"medium"},
-  {"stem":"The Montreal Protocol is considered the most successful environmental agreement because:","options":["It failed to reduce CFCs","Global CFC use has fallen sharply and the ozone layer is projected to recover","It banned CO2","No country joined"],"correct_index":1,"solution":"Under the Montreal Protocol, ozone-depleting substances have been dramatically cut, and the ozone layer is on track to recover to 1980 levels by mid-century — a rare global environmental success.","difficulty":"medium"},
-  {"stem":"The Kigali Amendment (2016) to the Montreal Protocol targets the phase-down of:","options":["CFCs","Hydrofluorocarbons (HFCs), potent greenhouse gases","Carbon dioxide","Methane"],"correct_index":1,"solution":"The Kigali Amendment adds HFCs — non-ozone-depleting but powerful greenhouse gases used as CFC substitutes in refrigeration — to the phase-down schedule, linking ozone protection with climate action.","difficulty":"hard"},
-  {"stem":"HFCs were introduced as substitutes for CFCs but are problematic because they:","options":["Deplete ozone strongly","Are potent greenhouse gases with high global warming potential","Are toxic to breathe","Cause acid rain"],"correct_index":1,"solution":"HFCs do not harm the ozone layer but have very high global warming potentials, so their unchecked growth would worsen climate change — hence their phase-down under the Kigali Amendment.","difficulty":"medium"},
-  {"stem":"'Carbon sequestration' refers to:","options":["Releasing carbon into the air","Capturing and storing atmospheric carbon in sinks like forests, soils or underground","Burning fossil fuels","Producing carbon"],"correct_index":1,"solution":"Carbon sequestration is the long-term capture and storage of CO2 — naturally by forests, oceans and soils, or artificially via carbon capture and storage (CCS) — to reduce atmospheric concentrations.","difficulty":"medium"},
-  {"stem":"The largest natural sinks of carbon dioxide on Earth are the:","options":["Deserts and glaciers","Oceans and forests","Cities and roads","Volcanoes"],"correct_index":1,"solution":"The oceans and forests (and soils) are the major carbon sinks, absorbing much of anthropogenic CO2. Their degradation reduces this capacity and accelerates warming.","difficulty":"medium"},
-  {"stem":"A 'carbon credit' represents:","options":["A tonne of gold","A permit/certificate for one tonne of CO2 (or equivalent) that can be traded","A tax refund","A renewable energy plant"],"correct_index":1,"solution":"A carbon credit equals one tonne of CO2-equivalent emissions reduced or avoided; credits can be traded in carbon markets, allowing emitters to offset emissions and creating financial incentives to cut them.","difficulty":"medium"},
-  {"stem":"'Carbon footprint' measures:","options":["Total land area of forests","The total greenhouse gases emitted directly and indirectly by an individual, product or activity","Only CO2 in oceans","Number of trees planted"],"correct_index":1,"solution":"A carbon footprint is the total GHG emissions (expressed as CO2-equivalent) associated with a person, organisation, product or event, used to gauge and reduce climate impact.","difficulty":"easy"},
-  {"stem":"India's 'National Action Plan on Climate Change (NAPCC)', launched in 2008, comprises how many national missions?","options":["Four","Eight","Twelve","Two"],"correct_index":1,"solution":"The NAPCC (2008) has eight missions: Solar, Enhanced Energy Efficiency, Sustainable Habitat, Water, Sustaining the Himalayan Ecosystem, Green India, Sustainable Agriculture, and Strategic Knowledge for Climate Change.","difficulty":"medium"},
-  {"stem":"The 'International Solar Alliance (ISA)', co-founded by India and France, aims to:","options":["Explore the Sun","Promote solar energy deployment among sun-rich (mainly tropical) countries","Build nuclear plants","Regulate oil prices"],"correct_index":1,"solution":"The ISA, launched at COP21 (2015), is an alliance of solar-resource-rich countries to mobilise investment and scale up solar power. Its headquarters is in Gurugram, India.","difficulty":"medium"},
-  {"stem":"'Mission LiFE' (Lifestyle for Environment), championed by India, promotes:","options":["Mass consumption","Mindful and sustainable individual lifestyles to combat climate change","Fossil-fuel subsidies","Deforestation"],"correct_index":1,"solution":"Mission LiFE encourages pro-environment behaviour and sustainable consumption at the individual and community level as a bottom-up complement to climate policy.","difficulty":"medium"},
-  {"stem":"The 'Global Stocktake', a feature of the Paris Agreement, is a process to:","options":["Count fossil-fuel reserves","Periodically assess collective progress towards the Agreement's long-term goals (every 5 years)","Trade carbon credits","Set national budgets"],"correct_index":1,"solution":"The Global Stocktake, conducted every five years (first concluded at COP28, 2023), evaluates collective progress on mitigation, adaptation and finance, informing more ambitious NDCs.","difficulty":"hard"},
-  {"stem":"The 'Loss and Damage Fund', a landmark outcome at COP27/COP28, is meant to:","options":["Fund fossil-fuel expansion","Help vulnerable developing countries cope with climate-change losses and damages","Pay for space research","Subsidise coal"],"correct_index":1,"solution":"The Loss and Damage Fund, agreed at COP27 (2022) and operationalised at COP28 (2023), provides financial support to developing countries suffering irreversible climate impacts.","difficulty":"hard"},
-  {"stem":"'Climate change adaptation' differs from 'mitigation' in that adaptation:","options":["Reduces emissions at source","Adjusts systems and practices to cope with climate impacts (e.g. drought-resistant crops, sea walls)","Removes CO2 from air","Bans industries"],"correct_index":1,"solution":"Mitigation reduces or removes GHG emissions to limit warming; adaptation involves adjusting to actual or expected climate impacts — building resilience through measures like flood defences and resilient crops.","difficulty":"medium"},
-  {"stem":"Which of the following statements about the difference between weather and climate is correct?","options":["Weather is long-term; climate is day-to-day","Weather is the short-term state of the atmosphere; climate is the long-term average pattern","They are the same","Climate changes hourly"],"correct_index":1,"solution":"Weather is the atmospheric condition over hours/days at a place; climate is the average of weather over decades (typically 30 years). Climate change refers to long-term shifts in these averages.","difficulty":"easy"},
-  {"stem":"The 'El Niño' phenomenon, part of natural climate variability, is characterised by:","options":["Cooling of the eastern Pacific","Abnormal warming of the central and eastern equatorial Pacific Ocean, disrupting weather worldwide","Increased Indian monsoon","Arctic ice growth"],"correct_index":1,"solution":"El Niño is the periodic warming of the eastern-central equatorial Pacific, altering global weather — often weakening the Indian monsoon and causing droughts/floods elsewhere. La Niña is its cool counterpart.","difficulty":"medium"},
-  {"stem":"Deforestation contributes to climate change primarily by:","options":["Increasing carbon sinks","Releasing stored carbon and reducing the forest's capacity to absorb CO2","Cooling the planet","Reducing methane"],"correct_index":1,"solution":"Cutting and burning forests releases stored carbon as CO2 and removes a vital carbon sink, so deforestation is a significant source of greenhouse emissions and warming.","difficulty":"medium"},
-  {"stem":"The Himalayan glaciers are important as they:","options":["Have no ecological role","Feed major perennial rivers (Ganga, Indus, Brahmaputra) so their retreat threatens water security","Are made of salt","Increase every year"],"correct_index":1,"solution":"Himalayan glaciers ('the Third Pole') feed major Asian rivers; their accelerated melting from warming threatens long-term water availability and increases short-term flood/GLOF risks.","difficulty":"medium"},
-  {"stem":"A 'Glacial Lake Outburst Flood' (GLOF) is a hazard associated with:","options":["Ocean warming","Sudden release of water from a glacial lake, causing catastrophic downstream flooding","Desertification","Ozone depletion"],"correct_index":1,"solution":"GLOFs occur when the natural dam (moraine or ice) holding a glacial lake fails, releasing a sudden torrent — a growing Himalayan risk as glaciers melt and lakes expand (e.g. the 2023 Sikkim disaster).","difficulty":"hard"},
-  {"stem":"'Carbon neutrality' for an entity is achieved when its:","options":["Emissions are doubled","Net CO2 emissions are reduced to zero through cuts and offsets","Emissions are ignored","Only methane is cut"],"correct_index":1,"solution":"Carbon neutrality means balancing CO2 emissions with an equivalent amount of removals or offsets so the net CO2 contribution is zero, often used interchangeably with 'net zero CO2'.","difficulty":"medium"},
-  {"stem":"Which of the following is an example of a 'nature-based solution' to climate change?","options":["Building coal plants","Afforestation, mangrove restoration and wetland conservation to store carbon and build resilience","Increasing car use","Draining wetlands"],"correct_index":1,"solution":"Nature-based solutions use ecosystems — planting forests, restoring mangroves and wetlands — to sequester carbon and reduce climate risks, providing biodiversity and livelihood co-benefits.","difficulty":"medium"},
-  {"stem":"COP (Conference of the Parties) meetings are held under the framework of the:","options":["World Bank","UNFCCC","WTO","IMF"],"correct_index":1,"solution":"COP is the supreme decision-making body of the UNFCCC, meeting annually to assess progress and negotiate climate action (e.g. COP21 Paris 2015, COP26 Glasgow 2021, COP28 Dubai 2023).","difficulty":"medium"},
-  {"stem":"India's climate stance emphasises 'climate justice' and 'equity', which essentially argues that:","options":["All countries emit equally","Developed countries owe an ecological/historical debt and should support developing nations' green transition","Developing countries must cut most","Emissions do not matter"],"correct_index":1,"solution":"Climate justice holds that those least responsible for emissions often suffer the worst impacts; developed nations, having emitted most historically, should bear greater responsibility and provide finance and technology to developing countries.","difficulty":"medium"},
-  {"stem":"'Green hydrogen' is considered a clean fuel because it is produced by:","options":["Burning coal","Electrolysis of water using renewable electricity, emitting no CO2","Reforming natural gas with CO2 release","Nuclear fission"],"correct_index":1,"solution":"Green hydrogen is made by splitting water via electrolysis powered by renewable energy, producing no carbon emissions. India's National Green Hydrogen Mission aims to make the country a hub for its production.","difficulty":"medium"},
-  {"stem":"The overall difference between the ozone-layer problem and global warming is that:","options":["They are identical","Ozone depletion is caused mainly by CFCs damaging stratospheric ozone (UV shield), while warming is driven by heat-trapping greenhouse gases","Both are caused only by CO2","Both are solved by the Montreal Protocol"],"correct_index":1,"solution":"Ozone depletion (stratospheric) is chiefly due to CFCs/halons and lets in harmful UV; global warming (tropospheric) is due to greenhouse gases trapping heat. They are distinct, though some gases (like HFCs) link the two issues.","difficulty":"medium"},
-  {"stem":"Which unit is used to measure the total ozone in a vertical column of the atmosphere?","options":["Decibel","Dobson Unit","Richter","Becquerel"],"correct_index":1,"solution":"Total column ozone is measured in Dobson Units (DU). The 'ozone hole' is defined as the region where total column ozone falls below 220 DU.","difficulty":"hard"}
+  {
+    "stem": "The 'greenhouse effect' refers to:",
+    "options": [
+      "Cooling of the Earth by clouds",
+      "Trapping of outgoing infrared (heat) radiation by atmospheric gases, warming the surface",
+      "Reflection of sunlight by ice",
+      "Absorption of UV by ozone"
+    ],
+    "correct_index": 1,
+    "solution": "Greenhouse gases allow incoming solar (short-wave) radiation to pass but absorb and re-emit outgoing infrared (long-wave) radiation, warming the lower atmosphere and surface. Without it Earth would be about 33°C colder.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is the most abundant anthropogenic greenhouse gas driving global warming?",
+    "options": [
+      "Methane",
+      "Carbon dioxide",
+      "Nitrous oxide",
+      "CFCs"
+    ],
+    "correct_index": 1,
+    "solution": "Carbon dioxide, mainly from fossil-fuel burning and deforestation, is the largest contributor to anthropogenic warming by total effect, though methane and others have higher per-molecule potency.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Methane (CH4) is a potent greenhouse gas whose major sources include all EXCEPT:",
+    "options": [
+      "Paddy fields and livestock (enteric fermentation)",
+      "Landfills and wetlands",
+      "Fossil-fuel extraction",
+      "Photosynthesis by plants"
+    ],
+    "correct_index": 3,
+    "solution": "Methane comes from rice paddies, ruminant livestock, wetlands, landfills and fossil-fuel operations. Photosynthesis absorbs CO2 and is not a methane source.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Global Warming Potential (GWP)' of a gas measures its:",
+    "options": [
+      "Toxicity to humans",
+      "Heat-trapping ability relative to CO2 over a time horizon",
+      "Ozone-depleting ability",
+      "Acidity"
+    ],
+    "correct_index": 1,
+    "solution": "GWP compares the heat trapped by a gas to that trapped by the same mass of CO2 over a period (usually 100 years). CO2 has a GWP of 1; methane's is far higher over a century.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which greenhouse gas has the highest Global Warming Potential per molecule among the following?",
+    "options": [
+      "Carbon dioxide",
+      "Methane",
+      "Sulphur hexafluoride (SF6)",
+      "Water vapour"
+    ],
+    "correct_index": 2,
+    "solution": "Fluorinated gases like SF6 have extremely high GWPs (thousands of times CO2) and very long atmospheric lifetimes, though they are present in tiny quantities.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Intergovernmental Panel on Climate Change (IPCC) was established in 1988 by:",
+    "options": [
+      "UNEP and WMO",
+      "WHO and FAO",
+      "WTO and World Bank",
+      "UNESCO and ILO"
+    ],
+    "correct_index": 0,
+    "solution": "The IPCC was set up by the UN Environment Programme (UNEP) and the World Meteorological Organization (WMO) to assess climate science. It produces Assessment Reports but does not conduct original research.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The IPCC's role is to:",
+    "options": [
+      "Set binding emission targets",
+      "Assess and synthesise scientific literature on climate change for policymakers",
+      "Fund clean energy projects",
+      "Trade carbon credits"
+    ],
+    "correct_index": 1,
+    "solution": "The IPCC assesses published science and provides policy-relevant (not policy-prescriptive) reports; it does not set targets or fund projects — those are done under the UNFCCC process.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The United Nations Framework Convention on Climate Change (UNFCCC) was adopted at the 1992 Earth Summit held in:",
+    "options": [
+      "Stockholm",
+      "Rio de Janeiro",
+      "Kyoto",
+      "Paris"
+    ],
+    "correct_index": 1,
+    "solution": "The UNFCCC was adopted at the 1992 Rio Earth Summit (UN Conference on Environment and Development), setting the framework for international climate cooperation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The principle of 'Common But Differentiated Responsibilities' (CBDR) under the UNFCCC means:",
+    "options": [
+      "All countries have identical obligations",
+      "Developed and developing countries share responsibility but developed nations must lead given their historical emissions",
+      "Only developing countries must act",
+      "No country is responsible"
+    ],
+    "correct_index": 1,
+    "solution": "CBDR recognises that while all nations share responsibility for the climate, developed countries — having contributed most historical emissions and having greater capacity — must take the lead in mitigation and support developing nations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Kyoto Protocol (1997) was significant because it:",
+    "options": [
+      "Set no targets",
+      "Set legally binding emission-reduction targets for developed (Annex I) countries",
+      "Applied equally to all countries",
+      "Banned fossil fuels"
+    ],
+    "correct_index": 1,
+    "solution": "The Kyoto Protocol imposed binding GHG reduction targets on developed (Annex I) countries for its commitment periods, introducing market mechanisms like emissions trading and the Clean Development Mechanism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Clean Development Mechanism (CDM) under the Kyoto Protocol allowed:",
+    "options": [
+      "Developed countries to invest in emission-reduction projects in developing countries and earn credits",
+      "Free pollution",
+      "Banning of all industries",
+      "Trading of endangered species"
+    ],
+    "correct_index": 0,
+    "solution": "The CDM let developed countries meet part of their targets by funding emission-cutting projects in developing countries, earning Certified Emission Reductions (CERs) — combining mitigation with sustainable development.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Paris Agreement (2015) aims to hold the global average temperature rise to:",
+    "options": [
+      "Below 5°C",
+      "Well below 2°C above pre-industrial levels, pursuing efforts to limit it to 1.5°C",
+      "Exactly 3°C",
+      "No target"
+    ],
+    "correct_index": 1,
+    "solution": "The Paris Agreement's central goal is to keep warming well below 2°C above pre-industrial levels and to pursue efforts to limit it to 1.5°C, through Nationally Determined Contributions (NDCs).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under the Paris Agreement, each country sets its own climate pledges known as:",
+    "options": [
+      "Kyoto targets",
+      "Nationally Determined Contributions (NDCs)",
+      "Carbon credits",
+      "Green bonds"
+    ],
+    "correct_index": 1,
+    "solution": "NDCs are the self-determined, periodically updated climate action pledges each Paris signatory submits; they are meant to be progressively more ambitious ('ratchet mechanism').",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Net zero emissions' means:",
+    "options": [
+      "Zero emissions of any kind",
+      "Balancing emitted greenhouse gases with an equivalent amount removed from the atmosphere",
+      "Only zero CO2",
+      "Doubling emissions"
+    ],
+    "correct_index": 1,
+    "solution": "Net zero is reached when anthropogenic GHG emissions are balanced by removals (via sinks, afforestation, carbon capture), so net addition to the atmosphere is zero. India has pledged net zero by 2070.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India, at COP26 (Glasgow, 2021), announced 'Panchamrit' commitments including a target to achieve net-zero emissions by the year:",
+    "options": [
+      "2050",
+      "2060",
+      "2070",
+      "2100"
+    ],
+    "correct_index": 2,
+    "solution": "India's Panchamrit (five nectar elements) at COP26 included reaching net zero by 2070, 500 GW non-fossil capacity by 2030, meeting 50% of energy needs from renewables by 2030, cutting projected emissions by 1 billion tonnes, and reducing emissions intensity by 45%.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a likely consequence of global warming?",
+    "options": [
+      "Falling sea levels",
+      "Rising sea levels, glacial retreat and more frequent extreme weather",
+      "Global cooling",
+      "Expansion of polar ice"
+    ],
+    "correct_index": 1,
+    "solution": "Global warming causes thermal expansion of oceans and melting of glaciers/ice sheets (raising sea level), retreat of Himalayan glaciers, and more intense heatwaves, droughts, floods and cyclones.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Rising sea levels from global warming result from two main processes:",
+    "options": [
+      "Increased rainfall and evaporation",
+      "Thermal expansion of seawater and melting of land ice (glaciers and ice sheets)",
+      "Volcanic activity and tides",
+      "Wind and ocean currents"
+    ],
+    "correct_index": 1,
+    "solution": "Sea-level rise is driven mainly by thermal expansion (warmer water occupies more volume) and the addition of meltwater from glaciers and the Greenland/Antarctic ice sheets.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Ocean acidification', linked to rising CO2, is sometimes called the 'other CO2 problem' because it:",
+    "options": [
+      "Warms the ocean",
+      "Lowers seawater pH, harming corals and shell-forming organisms",
+      "Raises sea level",
+      "Increases oxygen"
+    ],
+    "correct_index": 1,
+    "solution": "As oceans absorb CO2, carbonic acid forms and lowers pH, reducing carbonate availability for corals, molluscs and plankton — a consequence of rising CO2 distinct from warming.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Melting permafrost is a climate concern because it can:",
+    "options": [
+      "Absorb methane",
+      "Release large stores of methane and CO2, amplifying warming (a positive feedback)",
+      "Cool the atmosphere",
+      "Stop glacial melt"
+    ],
+    "correct_index": 1,
+    "solution": "Thawing permafrost releases trapped methane and CO2, further warming the atmosphere and thawing more permafrost — a dangerous positive feedback loop.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'albedo feedback' accelerates warming because melting ice:",
+    "options": [
+      "Increases surface reflectivity",
+      "Exposes darker land/ocean that absorbs more heat, reducing reflectivity",
+      "Has no effect",
+      "Cools the poles"
+    ],
+    "correct_index": 1,
+    "solution": "Ice and snow are highly reflective (high albedo). As they melt, darker land and ocean are exposed, absorbing more solar heat and causing further melting — the ice-albedo positive feedback.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The stratospheric ozone layer is important because it:",
+    "options": [
+      "Traps heat near the surface",
+      "Absorbs most of the Sun's harmful ultraviolet (UV) radiation",
+      "Produces oxygen for breathing",
+      "Causes acid rain"
+    ],
+    "correct_index": 1,
+    "solution": "The ozone layer in the stratosphere absorbs most harmful UV-B and UV-C radiation, protecting living organisms from skin cancer, cataracts and ecosystem damage.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The main chemicals responsible for stratospheric ozone depletion are:",
+    "options": [
+      "Carbon dioxide",
+      "Chlorofluorocarbons (CFCs) and halons",
+      "Methane",
+      "Sulphur dioxide"
+    ],
+    "correct_index": 1,
+    "solution": "CFCs, halons, carbon tetrachloride and methyl chloroform release chlorine and bromine in the stratosphere, which catalytically destroy ozone. One chlorine atom can destroy thousands of ozone molecules.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'ozone hole' is most pronounced over which region?",
+    "options": [
+      "The Arctic",
+      "Antarctica",
+      "The Equator",
+      "The Himalayas"
+    ],
+    "correct_index": 1,
+    "solution": "The severe seasonal ozone depletion ('ozone hole') occurs over Antarctica each spring, driven by polar stratospheric clouds and special cold-weather chemistry that activates chlorine.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 1987 international treaty to phase out ozone-depleting substances is the:",
+    "options": [
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Paris Agreement",
+      "Basel Convention"
+    ],
+    "correct_index": 1,
+    "solution": "The Montreal Protocol (1987), under the Vienna Convention, phases out CFCs and other ozone-depleting substances. It is regarded as the most successful environmental treaty, with near-universal ratification.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Montreal Protocol is considered the most successful environmental agreement because:",
+    "options": [
+      "It failed to reduce CFCs",
+      "Global CFC use has fallen sharply and the ozone layer is projected to recover",
+      "It banned CO2",
+      "No country joined"
+    ],
+    "correct_index": 1,
+    "solution": "Under the Montreal Protocol, ozone-depleting substances have been dramatically cut, and the ozone layer is on track to recover to 1980 levels by mid-century — a rare global environmental success.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Kigali Amendment (2016) to the Montreal Protocol targets the phase-down of:",
+    "options": [
+      "CFCs",
+      "Hydrofluorocarbons (HFCs), potent greenhouse gases",
+      "Carbon dioxide",
+      "Methane"
+    ],
+    "correct_index": 1,
+    "solution": "The Kigali Amendment adds HFCs — non-ozone-depleting but powerful greenhouse gases used as CFC substitutes in refrigeration — to the phase-down schedule, linking ozone protection with climate action.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "HFCs were introduced as substitutes for CFCs but are problematic because they:",
+    "options": [
+      "Deplete ozone strongly",
+      "Are potent greenhouse gases with high global warming potential",
+      "Are toxic to breathe",
+      "Cause acid rain"
+    ],
+    "correct_index": 1,
+    "solution": "HFCs do not harm the ozone layer but have very high global warming potentials, so their unchecked growth would worsen climate change — hence their phase-down under the Kigali Amendment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Carbon sequestration' refers to:",
+    "options": [
+      "Releasing carbon into the air",
+      "Capturing and storing atmospheric carbon in sinks like forests, soils or underground",
+      "Burning fossil fuels",
+      "Producing carbon"
+    ],
+    "correct_index": 1,
+    "solution": "Carbon sequestration is the long-term capture and storage of CO2 — naturally by forests, oceans and soils, or artificially via carbon capture and storage (CCS) — to reduce atmospheric concentrations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The largest natural sinks of carbon dioxide on Earth are the:",
+    "options": [
+      "Deserts and glaciers",
+      "Oceans and forests",
+      "Cities and roads",
+      "Volcanoes"
+    ],
+    "correct_index": 1,
+    "solution": "The oceans and forests (and soils) are the major carbon sinks, absorbing much of anthropogenic CO2. Their degradation reduces this capacity and accelerates warming.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'carbon credit' represents:",
+    "options": [
+      "A tonne of gold",
+      "A permit/certificate for one tonne of CO2 (or equivalent) that can be traded",
+      "A tax refund",
+      "A renewable energy plant"
+    ],
+    "correct_index": 1,
+    "solution": "A carbon credit equals one tonne of CO2-equivalent emissions reduced or avoided; credits can be traded in carbon markets, allowing emitters to offset emissions and creating financial incentives to cut them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Carbon footprint' measures:",
+    "options": [
+      "Total land area of forests",
+      "The total greenhouse gases emitted directly and indirectly by an individual, product or activity",
+      "Only CO2 in oceans",
+      "Number of trees planted"
+    ],
+    "correct_index": 1,
+    "solution": "A carbon footprint is the total GHG emissions (expressed as CO2-equivalent) associated with a person, organisation, product or event, used to gauge and reduce climate impact.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "India's 'National Action Plan on Climate Change (NAPCC)', launched in 2008, comprises how many national missions?",
+    "options": [
+      "Four",
+      "Eight",
+      "Twelve",
+      "Two"
+    ],
+    "correct_index": 1,
+    "solution": "The NAPCC (2008) has eight missions: Solar, Enhanced Energy Efficiency, Sustainable Habitat, Water, Sustaining the Himalayan Ecosystem, Green India, Sustainable Agriculture, and Strategic Knowledge for Climate Change.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'International Solar Alliance (ISA)', co-founded by India and France, aims to:",
+    "options": [
+      "Explore the Sun",
+      "Promote solar energy deployment among sun-rich (mainly tropical) countries",
+      "Build nuclear plants",
+      "Regulate oil prices"
+    ],
+    "correct_index": 1,
+    "solution": "The ISA, launched at COP21 (2015), is an alliance of solar-resource-rich countries to mobilise investment and scale up solar power. Its headquarters is in Gurugram, India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Mission LiFE' (Lifestyle for Environment), championed by India, promotes:",
+    "options": [
+      "Mass consumption",
+      "Mindful and sustainable individual lifestyles to combat climate change",
+      "Fossil-fuel subsidies",
+      "Deforestation"
+    ],
+    "correct_index": 1,
+    "solution": "Mission LiFE encourages pro-environment behaviour and sustainable consumption at the individual and community level as a bottom-up complement to climate policy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Global Stocktake', a feature of the Paris Agreement, is a process to:",
+    "options": [
+      "Count fossil-fuel reserves",
+      "Periodically assess collective progress towards the Agreement's long-term goals (every 5 years)",
+      "Trade carbon credits",
+      "Set national budgets"
+    ],
+    "correct_index": 1,
+    "solution": "The Global Stocktake, conducted every five years (first concluded at COP28, 2023), evaluates collective progress on mitigation, adaptation and finance, informing more ambitious NDCs.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Loss and Damage Fund', a landmark outcome at COP27/COP28, is meant to:",
+    "options": [
+      "Fund fossil-fuel expansion",
+      "Help vulnerable developing countries cope with climate-change losses and damages",
+      "Pay for space research",
+      "Subsidise coal"
+    ],
+    "correct_index": 1,
+    "solution": "The Loss and Damage Fund, agreed at COP27 (2022) and operationalised at COP28 (2023), provides financial support to developing countries suffering irreversible climate impacts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Climate change adaptation' differs from 'mitigation' in that adaptation:",
+    "options": [
+      "Reduces emissions at source",
+      "Adjusts systems and practices to cope with climate impacts (e.g. drought-resistant crops, sea walls)",
+      "Removes CO2 from air",
+      "Bans industries"
+    ],
+    "correct_index": 1,
+    "solution": "Mitigation reduces or removes GHG emissions to limit warming; adaptation involves adjusting to actual or expected climate impacts — building resilience through measures like flood defences and resilient crops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about the difference between weather and climate is correct?",
+    "options": [
+      "Weather is long-term; climate is day-to-day",
+      "Weather is the short-term state of the atmosphere; climate is the long-term average pattern",
+      "They are the same",
+      "Climate changes hourly"
+    ],
+    "correct_index": 1,
+    "solution": "Weather is the atmospheric condition over hours/days at a place; climate is the average of weather over decades (typically 30 years). Climate change refers to long-term shifts in these averages.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'El Niño' phenomenon, part of natural climate variability, is characterised by:",
+    "options": [
+      "Cooling of the eastern Pacific",
+      "Abnormal warming of the central and eastern equatorial Pacific Ocean, disrupting weather worldwide",
+      "Increased Indian monsoon",
+      "Arctic ice growth"
+    ],
+    "correct_index": 1,
+    "solution": "El Niño is the periodic warming of the eastern-central equatorial Pacific, altering global weather — often weakening the Indian monsoon and causing droughts/floods elsewhere. La Niña is its cool counterpart.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Deforestation contributes to climate change primarily by:",
+    "options": [
+      "Increasing carbon sinks",
+      "Releasing stored carbon and reducing the forest's capacity to absorb CO2",
+      "Cooling the planet",
+      "Reducing methane"
+    ],
+    "correct_index": 1,
+    "solution": "Cutting and burning forests releases stored carbon as CO2 and removes a vital carbon sink, so deforestation is a significant source of greenhouse emissions and warming.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Himalayan glaciers are important as they:",
+    "options": [
+      "Have no ecological role",
+      "Feed major perennial rivers (Ganga, Indus, Brahmaputra) so their retreat threatens water security",
+      "Are made of salt",
+      "Increase every year"
+    ],
+    "correct_index": 1,
+    "solution": "Himalayan glaciers ('the Third Pole') feed major Asian rivers; their accelerated melting from warming threatens long-term water availability and increases short-term flood/GLOF risks.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'Glacial Lake Outburst Flood' (GLOF) is a hazard associated with:",
+    "options": [
+      "Ocean warming",
+      "Sudden release of water from a glacial lake, causing catastrophic downstream flooding",
+      "Desertification",
+      "Ozone depletion"
+    ],
+    "correct_index": 1,
+    "solution": "GLOFs occur when the natural dam (moraine or ice) holding a glacial lake fails, releasing a sudden torrent — a growing Himalayan risk as glaciers melt and lakes expand (e.g. the 2023 Sikkim disaster).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Carbon neutrality' for an entity is achieved when its:",
+    "options": [
+      "Emissions are doubled",
+      "Net CO2 emissions are reduced to zero through cuts and offsets",
+      "Emissions are ignored",
+      "Only methane is cut"
+    ],
+    "correct_index": 1,
+    "solution": "Carbon neutrality means balancing CO2 emissions with an equivalent amount of removals or offsets so the net CO2 contribution is zero, often used interchangeably with 'net zero CO2'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an example of a 'nature-based solution' to climate change?",
+    "options": [
+      "Building coal plants",
+      "Afforestation, mangrove restoration and wetland conservation to store carbon and build resilience",
+      "Increasing car use",
+      "Draining wetlands"
+    ],
+    "correct_index": 1,
+    "solution": "Nature-based solutions use ecosystems — planting forests, restoring mangroves and wetlands — to sequester carbon and reduce climate risks, providing biodiversity and livelihood co-benefits.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "COP (Conference of the Parties) meetings are held under the framework of the:",
+    "options": [
+      "World Bank",
+      "UNFCCC",
+      "WTO",
+      "IMF"
+    ],
+    "correct_index": 1,
+    "solution": "COP is the supreme decision-making body of the UNFCCC, meeting annually to assess progress and negotiate climate action (e.g. COP21 Paris 2015, COP26 Glasgow 2021, COP28 Dubai 2023).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's climate stance emphasises 'climate justice' and 'equity', which essentially argues that:",
+    "options": [
+      "All countries emit equally",
+      "Developed countries owe an ecological/historical debt and should support developing nations' green transition",
+      "Developing countries must cut most",
+      "Emissions do not matter"
+    ],
+    "correct_index": 1,
+    "solution": "Climate justice holds that those least responsible for emissions often suffer the worst impacts; developed nations, having emitted most historically, should bear greater responsibility and provide finance and technology to developing countries.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Green hydrogen' is considered a clean fuel because it is produced by:",
+    "options": [
+      "Burning coal",
+      "Electrolysis of water using renewable electricity, emitting no CO2",
+      "Reforming natural gas with CO2 release",
+      "Nuclear fission"
+    ],
+    "correct_index": 1,
+    "solution": "Green hydrogen is made by splitting water via electrolysis powered by renewable energy, producing no carbon emissions. India's National Green Hydrogen Mission aims to make the country a hub for its production.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall difference between the ozone-layer problem and global warming is that:",
+    "options": [
+      "They are identical",
+      "Ozone depletion is caused mainly by CFCs damaging stratospheric ozone (UV shield), while warming is driven by heat-trapping greenhouse gases",
+      "Both are caused only by CO2",
+      "Both are solved by the Montreal Protocol"
+    ],
+    "correct_index": 1,
+    "solution": "Ozone depletion (stratospheric) is chiefly due to CFCs/halons and lets in harmful UV; global warming (tropospheric) is due to greenhouse gases trapping heat. They are distinct, though some gases (like HFCs) link the two issues.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which unit is used to measure the total ozone in a vertical column of the atmosphere?",
+    "options": [
+      "Decibel",
+      "Dobson Unit",
+      "Richter",
+      "Becquerel"
+    ],
+    "correct_index": 1,
+    "solution": "Total column ozone is measured in Dobson Units (DU). The 'ozone hole' is defined as the region where total column ozone falls below 220 DU.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The naturally occurring greenhouse effect is essential because without it Earth's average temperature would be about:",
+    "options": [
+      "The same",
+      "33°C colder (around -18°C)",
+      "10°C warmer",
+      "100°C colder"
+    ],
+    "correct_index": 1,
+    "solution": "Without the natural greenhouse effect, Earth's average surface temperature would be roughly -18°C instead of ~15°C — about 33°C colder — making it largely uninhabitable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is NOT a greenhouse gas?",
+    "options": [
+      "Carbon dioxide",
+      "Methane",
+      "Nitrogen (N2)",
+      "Nitrous oxide"
+    ],
+    "correct_index": 2,
+    "solution": "Molecular nitrogen (N2), though ~78% of the atmosphere, is not a greenhouse gas. CO2, methane, nitrous oxide, water vapour, ozone and fluorinated gases are greenhouse gases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Water vapour is a greenhouse gas whose concentration is controlled mainly by:",
+    "options": [
+      "Human emissions directly",
+      "Temperature (a feedback), rising as the planet warms",
+      "Volcanoes only",
+      "Deforestation only"
+    ],
+    "correct_index": 1,
+    "solution": "Water vapour acts as a powerful feedback: warming increases evaporation and atmospheric water vapour, which amplifies warming further — but its level is governed by temperature, not directly by emissions.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nitrous oxide (N2O), a potent greenhouse gas, comes largely from:",
+    "options": [
+      "Solar panels",
+      "Agricultural fertilisers and soil management",
+      "Wind turbines",
+      "Ocean waves"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrous oxide, with a high global warming potential and long lifetime, comes mainly from nitrogen fertilisers, manure and soil microbial processes, plus some industrial sources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The IPCC's Assessment Reports are produced by three Working Groups covering the physical science basis, impacts/adaptation, and:",
+    "options": [
+      "Space exploration",
+      "Mitigation of climate change",
+      "Ocean mapping",
+      "Weather forecasting"
+    ],
+    "correct_index": 1,
+    "solution": "IPCC Working Group I covers the physical science, WG II impacts/adaptation/vulnerability, and WG III mitigation. A Synthesis Report integrates all three.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The IPCC and former US Vice-President Al Gore jointly received which honour in 2007?",
+    "options": [
+      "Fields Medal",
+      "Nobel Peace Prize",
+      "Booker Prize",
+      "Turing Award"
+    ],
+    "correct_index": 1,
+    "solution": "The IPCC and Al Gore shared the 2007 Nobel Peace Prize for building and disseminating knowledge about human-caused climate change and laying foundations for countermeasures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The pre-industrial baseline used for measuring global temperature rise refers to roughly the period:",
+    "options": [
+      "1990–2000",
+      "1850–1900",
+      "1950–1980",
+      "2000–2020"
+    ],
+    "correct_index": 1,
+    "solution": "The pre-industrial baseline is generally taken as 1850–1900, before large-scale fossil-fuel emissions; the Paris goals of 1.5°C and 2°C are measured against this reference.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The current atmospheric CO2 concentration has risen above which level (unprecedented in human history)?",
+    "options": [
+      "100 ppm",
+      "280 ppm",
+      "420 ppm",
+      "50 ppm"
+    ],
+    "correct_index": 2,
+    "solution": "Atmospheric CO2 has exceeded 420 ppm, up from the pre-industrial ~280 ppm — the highest in at least 800,000 years, driving global warming.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Keeling Curve' famously records the:",
+    "options": [
+      "Rising sea level",
+      "Steady rise (with seasonal wiggles) in atmospheric CO2 measured at Mauna Loa",
+      "Ozone hole",
+      "Temperature of the ocean"
+    ],
+    "correct_index": 1,
+    "solution": "The Keeling Curve, from measurements begun by Charles Keeling at Mauna Loa, Hawaii, shows the steady long-term rise in atmospheric CO2 with annual seasonal oscillations.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Radiative forcing' measures the:",
+    "options": [
+      "Wind speed",
+      "Change in energy balance of the Earth caused by a factor (like a greenhouse gas)",
+      "Ocean salinity",
+      "Rainfall"
+    ],
+    "correct_index": 1,
+    "solution": "Radiative forcing quantifies how much a factor (e.g. added CO2) alters the balance of incoming and outgoing energy in the atmosphere; positive forcing warms the planet.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a positive feedback that amplifies global warming?",
+    "options": [
+      "Increased ice cover",
+      "Melting of ice reducing albedo (ice-albedo feedback)",
+      "More reflective clouds only",
+      "Reduced water vapour"
+    ],
+    "correct_index": 1,
+    "solution": "The ice-albedo feedback amplifies warming: melting ice exposes darker surfaces that absorb more heat, causing further warming and melting. Permafrost methane release is another positive feedback.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Coral reefs are considered highly vulnerable to climate change because of:",
+    "options": [
+      "Cooling seas",
+      "Warming (bleaching) and ocean acidification",
+      "Rising albedo",
+      "Freshwater floods"
+    ],
+    "correct_index": 1,
+    "solution": "Rising sea temperatures cause mass coral bleaching, while ocean acidification impairs skeleton formation — making reefs among the ecosystems most threatened by climate change.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Paris Agreement's 'ratchet mechanism' requires countries to:",
+    "options": [
+      "Weaken pledges over time",
+      "Progressively strengthen their NDCs every five years",
+      "Never revise pledges",
+      "Ignore targets"
+    ],
+    "correct_index": 1,
+    "solution": "The ratchet mechanism obliges parties to submit new or updated NDCs every five years, each representing a progression beyond the previous — steadily increasing ambition over time.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Paris Agreement entered into force in:",
+    "options": [
+      "2015",
+      "2016",
+      "2020",
+      "2010"
+    ],
+    "correct_index": 1,
+    "solution": "Adopted at COP21 in December 2015, the Paris Agreement entered into force in November 2016 after ratification by enough countries covering the required share of global emissions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's updated NDC targets reducing the emissions intensity of its GDP by 2030 (from 2005 levels) by:",
+    "options": [
+      "10%",
+      "45%",
+      "100%",
+      "5%"
+    ],
+    "correct_index": 1,
+    "solution": "India's updated NDC pledges a 45% reduction in the emissions intensity of GDP by 2030 (over 2005) and 50% cumulative non-fossil electricity capacity, reflecting the Panchamrit commitments.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'carbon budget' concept refers to the:",
+    "options": [
+      "Government spending on carbon",
+      "Total cumulative CO2 that can still be emitted while keeping warming below a target",
+      "Number of trees",
+      "Price of carbon"
+    ],
+    "correct_index": 1,
+    "solution": "The remaining carbon budget is the finite total amount of additional CO2 the world can emit while keeping warming within a chosen limit (e.g. 1.5°C) with some probability.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which sector is globally the largest source of greenhouse-gas emissions?",
+    "options": [
+      "Aviation alone",
+      "Energy (electricity, heat and fossil-fuel use)",
+      "Fishing",
+      "Tourism"
+    ],
+    "correct_index": 1,
+    "solution": "The energy sector — burning fossil fuels for electricity, heat, industry and transport — is the largest source of global greenhouse-gas emissions, followed by agriculture, land use and industry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Climate refugees' or climate-displaced persons are people forced to move due to:",
+    "options": [
+      "Wars only",
+      "Climate impacts like sea-level rise, floods, droughts and storms",
+      "Sports events",
+      "Elections"
+    ],
+    "correct_index": 1,
+    "solution": "Climate-induced displacement occurs when sea-level rise, extreme weather, desertification or resource scarcity make areas uninhabitable, forcing people to migrate — a growing humanitarian concern.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Small Island Developing States (SIDS) are especially vocal in climate negotiations because they:",
+    "options": [
+      "Have no coastline",
+      "Face existential threat from sea-level rise despite negligible emissions",
+      "Are the biggest emitters",
+      "Are landlocked"
+    ],
+    "correct_index": 1,
+    "solution": "Low-lying island nations (e.g. Maldives, Tuvalu) contribute little to emissions but face submergence from sea-level rise, so they push hardest for the 1.5°C limit and loss-and-damage support.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The stratospheric ozone layer lies within which atmospheric layer?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correct_index": 1,
+    "solution": "The ozone layer, which absorbs harmful UV radiation, is concentrated in the stratosphere (roughly 15–35 km altitude), above the troposphere where we live and weather occurs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ozone (O3) in the stratosphere is continuously formed and destroyed in a natural cycle driven by:",
+    "options": [
+      "Moonlight",
+      "Ultraviolet radiation acting on oxygen",
+      "Ocean currents",
+      "Volcanic ash"
+    ],
+    "correct_index": 1,
+    "solution": "UV radiation splits O2 into oxygen atoms that combine with O2 to form ozone; ozone also absorbs UV and breaks down — a dynamic natural balance (the Chapman cycle) that shields the surface from UV.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Good ozone' and 'bad ozone' refer respectively to ozone in the:",
+    "options": [
+      "Troposphere and stratosphere",
+      "Stratosphere (protective) and troposphere (harmful pollutant)",
+      "Ocean and land",
+      "North and South"
+    ],
+    "correct_index": 1,
+    "solution": "'Good' (stratospheric) ozone shields us from UV; 'bad' (tropospheric/ground-level) ozone is a harmful secondary pollutant and greenhouse gas damaging lungs and crops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The severe Antarctic ozone depletion occurs mainly in which season?",
+    "options": [
+      "Antarctic summer",
+      "Antarctic spring (September–October)",
+      "Antarctic winter night",
+      "All year equally"
+    ],
+    "correct_index": 1,
+    "solution": "The Antarctic ozone hole forms in the spring (September–October) when returning sunlight activates chlorine on polar stratospheric clouds that formed during the cold, dark winter.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "CFCs deplete ozone because ultraviolet light releases from them highly reactive:",
+    "options": [
+      "Oxygen atoms",
+      "Chlorine (and bromine) atoms",
+      "Nitrogen",
+      "Carbon"
+    ],
+    "correct_index": 1,
+    "solution": "UV radiation frees chlorine atoms from CFCs; each chlorine atom can catalytically destroy thousands of ozone molecules before being removed, making CFCs potent ozone-depleters.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Vienna Convention' (1985) and 'Montreal Protocol' (1987) are related in that the Convention is the:",
+    "options": [
+      "Same as the Protocol",
+      "Framework treaty, with the Montreal Protocol being the implementing agreement",
+      "Trade deal",
+      "Weather body"
+    ],
+    "correct_index": 1,
+    "solution": "The Vienna Convention set the cooperative framework for protecting the ozone layer; the Montreal Protocol is the binding implementing agreement that phases out specific ozone-depleting substances.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Montreal Protocol has near-universal ratification, making it the first UN treaty to achieve:",
+    "options": [
+      "Zero members",
+      "Universal (all-country) ratification",
+      "Failure",
+      "Only regional support"
+    ],
+    "correct_index": 1,
+    "solution": "The Montreal Protocol achieved universal ratification by every UN member state — a unique success — and is projected to restore the ozone layer to 1980 levels by around the middle of this century.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hydrochlorofluorocarbons (HCFCs), interim CFC substitutes, are being phased out because they:",
+    "options": [
+      "Are harmless",
+      "Still deplete ozone (though less than CFCs) and are greenhouse gases",
+      "Cool the planet",
+      "Produce oxygen"
+    ],
+    "correct_index": 1,
+    "solution": "HCFCs have lower ozone-depleting potential than CFCs but still harm the ozone layer and act as greenhouse gases, so the Montreal Protocol schedules their phase-out too.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Kigali Amendment's importance lies in it being expected to avoid up to how much warming by 2100?",
+    "options": [
+      "No warming",
+      "Up to about 0.5°C of warming",
+      "10°C",
+      "No effect"
+    ],
+    "correct_index": 1,
+    "solution": "By phasing down HFCs (potent greenhouse gases), the Kigali Amendment could avoid up to ~0.5°C of global warming by 2100, making it a significant climate measure within an ozone treaty.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India ratified the Kigali Amendment and will phase down HFCs; India's phase-down is scheduled to begin around:",
+    "options": [
+      "1990",
+      "2032",
+      "2100",
+      "2010"
+    ],
+    "correct_index": 1,
+    "solution": "Under the Kigali Amendment's differentiated schedule, India (a developing country) is set to begin its HFC phase-down around 2032, with cuts continuing thereafter.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Increased ultraviolet radiation from ozone depletion can cause which harm to humans?",
+    "options": [
+      "Improved eyesight",
+      "Skin cancer, cataracts and weakened immunity",
+      "Stronger bones",
+      "Better hearing"
+    ],
+    "correct_index": 1,
+    "solution": "Excess UV-B from ozone depletion increases risks of skin cancer, cataracts and immune suppression in humans, and harms phytoplankton, crops and other organisms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Afforestation helps mitigate climate change primarily by:",
+    "options": [
+      "Releasing CO2",
+      "Absorbing and storing atmospheric CO2 in biomass and soil",
+      "Increasing methane",
+      "Warming the air"
+    ],
+    "correct_index": 1,
+    "solution": "Growing forests act as carbon sinks, absorbing CO2 through photosynthesis and storing carbon in wood and soil — a key nature-based mitigation strategy.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "'Adaptation' measures for agriculture under climate change include:",
+    "options": [
+      "Ignoring climate",
+      "Drought/flood-resistant crop varieties, changed sowing times and efficient irrigation",
+      "Increasing emissions",
+      "Deforestation"
+    ],
+    "correct_index": 1,
+    "solution": "Climate adaptation in agriculture involves resilient crop varieties, adjusted cropping calendars, water-efficient irrigation, crop diversification and insurance to cope with climate variability.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Global Stocktake' concluded at COP28 (2023) notably called for:",
+    "options": [
+      "Increasing coal",
+      "Transitioning away from fossil fuels in energy systems",
+      "Banning renewables",
+      "Ending the Paris Agreement"
+    ],
+    "correct_index": 1,
+    "solution": "The first Global Stocktake at COP28 (Dubai, 2023) produced a landmark call to transition away from fossil fuels, triple renewables and double energy efficiency by 2030 — though progress remains off-track for 1.5°C.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Carbon sinks' among the following include all EXCEPT:",
+    "options": [
+      "Oceans",
+      "Forests",
+      "Soils",
+      "Coal-fired power plants"
+    ],
+    "correct_index": 3,
+    "solution": "Oceans, forests and soils absorb and store carbon (sinks). A coal-fired power plant is a carbon source, releasing CO2 into the atmosphere.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "India's 'Panchamrit' at COP26 included a target to reduce total projected carbon emissions by ______ by 2030.",
+    "options": [
+      "100 million tonnes",
+      "1 billion tonnes",
+      "10 billion tonnes",
+      "No target"
+    ],
+    "correct_index": 1,
+    "solution": "One of the five Panchamrit commitments is reducing India's total projected carbon emissions by one billion tonnes by 2030, alongside the net-zero-by-2070 and renewable-capacity goals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'thermohaline circulation' (ocean conveyor belt) could be disrupted by climate change because:",
+    "options": [
+      "It is unaffected by climate",
+      "Freshwater from melting ice can alter ocean density and slow the circulation",
+      "It runs on electricity",
+      "It is in the atmosphere"
+    ],
+    "correct_index": 1,
+    "solution": "Melting ice adds freshwater that reduces surface-water density in key regions (e.g. the North Atlantic), potentially weakening the density-driven thermohaline circulation and disrupting global climate patterns.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Ocean warming reduces the ocean's capacity to hold ______, stressing marine life.",
+    "options": [
+      "Salt",
+      "Dissolved oxygen",
+      "Sunlight",
+      "Sand"
+    ],
+    "correct_index": 1,
+    "solution": "Warmer water holds less dissolved oxygen, contributing to ocean deoxygenation and expanding 'dead zones', which stress and displace marine species.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of these Indian regions is most vulnerable to sea-level rise?",
+    "options": [
+      "The Thar Desert",
+      "Low-lying coastal areas and islands (e.g. Sundarbans, Lakshadweep)",
+      "The Himalayas",
+      "The Deccan plateau"
+    ],
+    "correct_index": 1,
+    "solution": "Densely populated low-lying coasts (like the Sundarbans and coastal cities) and coral islands (Lakshadweep) are highly exposed to sea-level rise, salinity intrusion and storm surges.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Climate finance' commitments by developed countries under the UNFCCC aimed to mobilise how much per year for developing countries?",
+    "options": [
+      "US$1 billion",
+      "US$100 billion",
+      "US$1 trillion",
+      "No commitment"
+    ],
+    "correct_index": 1,
+    "solution": "Developed countries pledged to jointly mobilise US$100 billion per year (a goal set at Copenhagen 2009, reaffirmed at Paris) to support developing countries' climate action, though delivery has lagged.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'New Collective Quantified Goal' discussed in recent COPs concerns setting a new, higher target for:",
+    "options": [
+      "Emissions increase",
+      "Post-2025 climate finance for developing countries",
+      "Fossil-fuel subsidies",
+      "Deforestation"
+    ],
+    "correct_index": 1,
+    "solution": "The New Collective Quantified Goal (NCQG) aims to set a new, more ambitious post-2025 climate-finance target beyond the US$100 billion, a central issue in recent climate negotiations.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Methane's importance in near-term climate action stems from the fact that it:",
+    "options": [
+      "Lasts thousands of years",
+      "Has a much higher short-term warming potential but a shorter atmospheric lifetime than CO2",
+      "Is not a greenhouse gas",
+      "Cools the planet"
+    ],
+    "correct_index": 1,
+    "solution": "Methane traps far more heat than CO2 over 20 years but breaks down within about a decade, so cutting methane offers rapid near-term climate benefit — the logic behind the Global Methane Pledge.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Global Methane Pledge' (2021) aims to cut global methane emissions by ______ by 2030.",
+    "options": [
+      "5%",
+      "At least 30%",
+      "100%",
+      "No target"
+    ],
+    "correct_index": 1,
+    "solution": "The Global Methane Pledge, launched at COP26, seeks to reduce global methane emissions by at least 30% from 2020 levels by 2030 to curb near-term warming. India has not joined it, citing agricultural concerns.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which greenhouse gas is most associated with rice paddies and livestock in the Indian context?",
+    "options": [
+      "CO2",
+      "Methane",
+      "Ozone",
+      "CFCs"
+    ],
+    "correct_index": 1,
+    "solution": "Flooded rice paddies (anaerobic decomposition) and ruminant livestock (enteric fermentation) are major methane sources, relevant to India's large agricultural sector.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Net zero' by 2070 is India's target, whereas many developed countries have pledged net zero by:",
+    "options": [
+      "2100",
+      "2050",
+      "2030",
+      "2200"
+    ],
+    "correct_index": 1,
+    "solution": "Most developed countries and the EU target net zero by 2050; India, citing developmental needs and equity, pledged net zero by 2070, while China targets around 2060.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Blue carbon' is relevant to climate mitigation because coastal ecosystems:",
+    "options": [
+      "Emit carbon",
+      "Sequester carbon efficiently in mangroves, seagrasses and salt marshes",
+      "Have no carbon",
+      "Only store nitrogen"
+    ],
+    "correct_index": 1,
+    "solution": "Blue-carbon ecosystems capture and store disproportionately large amounts of carbon in their sediments, so conserving and restoring them (e.g. mangroves) is a valuable mitigation measure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the difference between the ozone hole and global warming is correct?",
+    "options": [
+      "They are the same problem",
+      "The ozone hole (from CFCs) does not by itself cause global warming, and CO2 does not cause the ozone hole",
+      "CFCs cause both equally",
+      "CO2 causes the ozone hole"
+    ],
+    "correct_index": 1,
+    "solution": "They are distinct: the ozone hole results from CFCs/halons destroying stratospheric ozone (a UV-shield issue), while global warming is driven by heat-trapping greenhouse gases like CO2 and methane.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'tipping points' in the climate system refer to:",
+    "options": [
+      "Minor changes",
+      "Thresholds beyond which changes become self-perpetuating and potentially irreversible (e.g. ice-sheet collapse)",
+      "Daily weather",
+      "Seasonal cycles"
+    ],
+    "correct_index": 1,
+    "solution": "Climate tipping points are critical thresholds (e.g. Greenland/West Antarctic ice-sheet collapse, Amazon dieback, permafrost thaw) beyond which abrupt, self-reinforcing and largely irreversible changes occur.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly matches a climate agreement with its feature? (i) Kyoto – binding targets on developed nations (ii) Paris – universal NDCs (iii) Montreal – ozone protection",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Kyoto set binding targets on developed nations, Paris uses universal NDCs, and Montreal protects the ozone layer.",
+    "difficulty": "medium"
+  }
 ]
