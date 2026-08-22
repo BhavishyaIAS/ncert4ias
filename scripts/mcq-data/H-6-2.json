@@ -1,52 +1,962 @@
 [
-  { "stem": "The name 'India' is derived from which river?", "options": ["Ganga", "Sindhu (Indus)", "Yamuna", "Narmada"], "correct_index": 1, "solution": "'India' comes from the river Sindhu (Indus). The Persians and Greeks referred to the land beyond the Sindhu as Hind/Indos, which became 'India'.", "difficulty": "easy" },
-  { "stem": "The name 'Hindustan' is of which linguistic origin?", "options": ["Greek", "Persian", "Latin", "Chinese"], "correct_index": 1, "solution": "'Hindustan' is of Persian origin — the Persians called the Sindhu the 'Hindu' and the land around it 'Hindustan'.", "difficulty": "medium" },
-  { "stem": "In ancient Indian tradition, the term 'Bharatavarsha' referred to:", "options": ["Only the Gangetic plains", "The land of the Bharatas / the Indian subcontinent", "The Himalayan region alone", "The Deccan plateau"], "correct_index": 1, "solution": "'Bharatavarsha' meant the land of the Bharatas, used in ancient texts for the larger Indian subcontinent.", "difficulty": "medium" },
-  { "stem": "In ancient Indian cosmography, 'Jambudvipa' was a name used for:", "options": ["A city in South India", "The landmass/continent that included India", "A trading port", "A mountain range"], "correct_index": 1, "solution": "Jambudvipa (the 'land of the jambu/rose-apple tree') was the ancient Indian name for the continent/landmass that included the Indian subcontinent.", "difficulty": "medium" },
-  { "stem": "The Greeks referred to the people living beyond the river Sindhu by a name that eventually gave rise to which word?", "options": ["Hindustan", "Indoi / India", "Bharata", "Aryavarta"], "correct_index": 1, "solution": "The Greeks called the river 'Indos' and its people 'Indoi', from which the words 'Indus' and 'India' developed.", "difficulty": "medium" },
-  { "stem": "Which of the following is NOT a traditional name for India?", "options": ["Bharata", "Hindustan", "Jambudvipa", "Mesopotamia"], "correct_index": 3, "solution": "Mesopotamia refers to the land between the Tigris and Euphrates (modern Iraq region), not India. Bharata, Hindustan and Jambudvipa are all names associated with India.", "difficulty": "easy" },
-  { "stem": "The term 'Aryavarta', used in ancient texts, broadly referred to:", "options": ["The southern peninsula", "The northern part of India / land of noble people", "Sri Lanka", "The eastern coast"], "correct_index": 1, "solution": "'Aryavarta' (the 'abode of the aryas/noble ones') referred largely to the northern part of the Indian subcontinent in ancient literature.", "difficulty": "hard" },
-  { "stem": "Consider the following statements: 1. The word 'India' has a foreign (Greek/Persian) route of origin from the river Sindhu. 2. The word 'Bharata' has an indigenous origin in Indian tradition. Which statement(s) is/are correct?", "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "correct_index": 2, "solution": "Both are correct: 'India' came via Persian/Greek usage of the Sindhu, while 'Bharata'/'Bharatavarsha' is rooted in indigenous Indian tradition.", "difficulty": "medium" },
-  { "stem": "The very first Article of the Constitution of India declares:", "options": ["'India, that is Bharat, shall be a Union of States'", "'India is a foreign land'", "'Bharat is separate from India'", "'India has no name'"], "correct_index": 0, "solution": "ARTICLE 1 of the Constitution of India begins, 'INDIA, that is BHARAT, shall be a UNION of STATES', formally recognising both names for the country. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The name 'Bharata' is traditionally linked to:", "options": ["A legendary ancient king/ancestor named Bharata", "A foreign trader", "A mountain", "A river only"], "correct_index": 0, "solution": "The name BHARATA is traditionally linked to a legendary ancient KING/ANCESTOR named Bharata, from whom the land came to be called Bharatavarsha ('the land of Bharata'). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The suffix '-varsha' in 'Bharatavarsha' means:", "options": ["A land or region", "A river", "A king", "A mountain"], "correct_index": 0, "solution": "In 'BHARATAVARSHA', the suffix '-VARSHA' means a LAND or REGION. So Bharatavarsha means 'the land of Bharata'. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Jambudvipa' literally means the land of the:", "options": ["Jambu (rose-apple) tree", "Lotus flower", "Elephant", "Ocean"], "correct_index": 0, "solution": "JAMBUDVIPA literally means the 'land (dvipa) of the JAMBU (ROSE-APPLE) TREE'. It was an ancient name for the continent/landmass that included India. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Arabs and Persians called the land beyond the Sindhu 'Al-Hind' or 'Hind'. From which word is this derived?", "options": ["Sindhu (the river)", "Ganga", "Himalaya", "Bharata"], "correct_index": 0, "solution": "The names AL-HIND and HIND used by Arabs and Persians derive from SINDHU (the river Indus) — the Persians pronounced 'Sindhu' as 'Hindu', giving Hind and Hindustan. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The word 'dvipa' in names like 'Jambudvipa' means:", "options": ["Island or continent", "River", "City", "Forest"], "correct_index": 0, "solution": "The Sanskrit word DVIPA means 'ISLAND' or 'CONTINENT' (landmass). So Jambudvipa is the 'continent of the jambu tree'. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which mountain range forms the great natural boundary in the north of the Indian subcontinent?", "options": ["The Himalayas", "The Western Ghats", "The Aravallis", "The Vindhyas"], "correct_index": 0, "solution": "The HIMALAYAS form the great natural boundary in the NORTH of the Indian subcontinent, historically shaping its geography and its sense of identity. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The many different names of India (Bharata, Jambudvipa, Hindustan, India) tell us that:", "options": ["The land has a long history and was known to many different peoples over time", "The country never had a name", "All names are foreign", "The names are meaningless"], "correct_index": 0, "solution": "The MANY NAMES of India show that the land has a LONG HISTORY and was known and named by MANY DIFFERENT PEOPLES over time — reflecting its antiquity and its many contacts with the wider world. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The river Sindhu is known in English as the:", "options": ["Indus", "Ganges", "Brahmaputra", "Godavari"], "correct_index": 0, "solution": "The river SINDHU is known in English as the INDUS. It gave its name, through Persian and Greek usage, to 'Hind', 'Indos', and 'India'. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which ancient text is famously associated with descriptions of Bharatavarsha and its extent?", "options": ["The Puranas (and epics like the Mahabharata)", "A modern newspaper", "A European atlas", "A Chinese poem"], "correct_index": 0, "solution": "Ancient Indian texts such as the PURANAS (and epics like the MAHABHARATA) describe BHARATAVARSHA and its geographical extent. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. Hindustan — Persian origin 2. India — Greek/Persian origin from Sindhu 3. Bharatavarsha — indigenous Indian origin. How many pairs are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correctly matched: HINDUSTAN is of Persian origin; INDIA came via Greek/Persian usage of the Sindhu; and BHARATAVARSHA is of indigenous Indian origin. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The idea that India has been seen as one cultural land despite its diversity is reflected in the tradition of:", "options": ["Pilgrimage sites (tirthas) spread across the whole subcontinent", "Having no shared traditions", "Complete isolation of regions", "A single language only"], "correct_index": 0, "solution": "The sense of India as ONE CULTURAL LAND is reflected in traditions like PILGRIMAGE SITES (tirthas) spread from the north to the south and east to west, which linked distant regions into a shared sacred geography. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "'Aryavarta' literally means:", "options": ["The abode/land of the aryas (noble ones)", "The land of coins", "The land of the sea", "The southern land"], "correct_index": 0, "solution": "ARYAVARTA literally means the 'ABODE/LAND of the ARYAS (noble ones)' and referred largely to the northern part of the subcontinent in ancient literature. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following names for India was used by the GREEKS?", "options": ["Indoi / India", "Bharatavarsha", "Jambudvipa", "Aryavarta"], "correct_index": 0, "solution": "The GREEKS used INDOI / INDIA (from the river Indos/Sindhu). Bharatavarsha, Jambudvipa, and Aryavarta are indigenous Indian names. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The subcontinent's name 'India' spread to the wider world largely because of:", "options": ["Contacts with Persians and Greeks who named the land after the Sindhu", "Modern television", "The internet", "European sports"], "correct_index": 0, "solution": "The name INDIA spread to the wider world largely through ancient CONTACTS with PERSIANS and GREEKS, who named the land after the river SINDHU (Hind/Indos → India). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Constitution's phrase 'India, that is Bharat' signifies that:", "options": ["Both names refer to the same country", "India and Bharat are two different countries", "Bharat is a foreign land", "The country has no official name"], "correct_index": 0, "solution": "The phrase 'INDIA, that is BHARAT' signifies that BOTH NAMES refer to the SAME country — recognising the land's ancient indigenous name (Bharat) alongside the internationally known name (India). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which physical feature is often described as India's boundary in the south?", "options": ["The Indian Ocean (and its seas)", "The Himalayas", "The Thar Desert", "The Ganga"], "correct_index": 0, "solution": "In the SOUTH, the Indian subcontinent is bounded by the INDIAN OCEAN (with the Arabian Sea to the west and the Bay of Bengal to the east), while the Himalayas bound it in the north. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The rich variety of names for India across languages and cultures is a sign of India's:", "options": ["Antiquity and its wide connections with other civilisations", "Recent origin", "Lack of history", "Isolation from the world"], "correct_index": 0, "solution": "The many names of India across languages and cultures reflect its ANTIQUITY and its WIDE CONNECTIONS with other civilisations (Persian, Greek, Arab, and its own indigenous traditions). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The term 'subcontinent' is used for India because it:", "options": ["Is a large, distinct landmass marked off by mountains and seas, yet part of Asia", "Is smaller than a village", "Is not part of any continent", "Floats in the ocean"], "correct_index": 0, "solution": "India is called a SUBCONTINENT because it is a LARGE, DISTINCT LANDMASS — marked off by the HIMALAYAS in the north and SEAS on other sides — yet forms part of the continent of ASIA. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly lists names by which India has been known?", "options": ["Bharata, Bharatavarsha, Jambudvipa, Aryavarta, Hindustan, India", "Only India", "Only Bharat", "Mesopotamia and Egypt"], "correct_index": 0, "solution": "India has been known by many names — BHARATA, BHARATAVARSHA, JAMBUDVIPA, ARYAVARTA, HINDUSTAN, and INDIA. (Mesopotamia and Egypt are other ancient lands, not India.) So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Persians pronounced the 'S' of 'Sindhu' as:", "options": ["'H', giving 'Hindu' and then 'Hind'", "'K'", "'T'", "'M'"], "correct_index": 0, "solution": "The PERSIANS pronounced the 'S' of SINDHU as 'H', turning 'Sindhu' into 'HINDU', from which came 'Hind' and 'Hindustan'. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): India is called a subcontinent. Reason (R): It is a large landmass separated from the rest of Asia by the Himalayas and surrounded by seas. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — India is called a subcontinent. R is TRUE and correctly EXPLAINS A: it is a LARGE LANDMASS SEPARATED from the rest of Asia by the HIMALAYAS and surrounded by SEAS, which is exactly why it is treated as a distinct 'subcontinent'. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following best explains why India had contacts with distant civilisations in ancient times?", "options": ["Its rivers, coasts and mountain passes allowed trade and movement of people and ideas", "It was cut off from everything", "It had no rivers or coasts", "It banned all travel"], "correct_index": 0, "solution": "India had contacts with distant civilisations because its RIVERS, long COASTS, and mountain PASSES allowed TRADE and the MOVEMENT of people, goods, and ideas in and out of the subcontinent. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The name 'Hindustan' historically referred to:", "options": ["The land around and beyond the Sindhu (largely northern India)", "Only the southern tip of India", "A city in Persia", "An ocean"], "correct_index": 0, "solution": "HINDUSTAN historically referred to the LAND around and beyond the SINDHU — used especially for NORTHERN India, though later for the wider subcontinent. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which statement about the names of India is INCORRECT?", "options": ["'Mesopotamia' is an ancient name for India", "'Bharata' is an indigenous name", "'India' derives from the Sindhu", "'Jambudvipa' is an ancient Indian name"], "correct_index": 0, "solution": "The INCORRECT statement is that 'Mesopotamia' is an ancient name for India — Mesopotamia is the land between the Tigris and Euphrates (modern Iraq region), NOT India. The other statements are all correct. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The shared sacred geography of India (pilgrimage from Kedarnath in the north to Rameswaram in the south) shows that Indians long felt:", "options": ["A sense of the whole land as one connected cultural space", "That regions were unrelated", "That travel was impossible", "That there was no shared culture"], "correct_index": 0, "solution": "The tradition of PILGRIMAGE across the whole land — from Kedarnath in the north to Rameswaram in the south — shows that Indians long felt a sense of the WHOLE LAND as ONE CONNECTED CULTURAL SPACE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The word 'India' is used today mainly as the country's:", "options": ["Internationally recognised name, alongside Bharat", "Secret code name", "Only ancient name", "Name for a river"], "correct_index": 0, "solution": "Today INDIA is used mainly as the country's INTERNATIONALLY RECOGNISED name, used ALONGSIDE BHARAT (as recognised in Article 1 of the Constitution). So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following rivers is most directly connected to the origin of the name 'India'?", "options": ["Sindhu (Indus)", "Kaveri", "Mahanadi", "Tapi"], "correct_index": 0, "solution": "The SINDHU (INDUS) is most directly connected to the origin of the name INDIA — through Persian 'Hind' and Greek 'Indos/India'. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The many names of India remind students of history that place-names often:", "options": ["Carry the memory of geography, peoples and contacts across centuries", "Are invented randomly with no meaning", "Never change", "Come only from one language"], "correct_index": 0, "solution": "The many names of India remind us that PLACE-NAMES often CARRY the MEMORY of GEOGRAPHY (like the Sindhu), of the PEOPLES who named the land, and of CONTACTS across centuries — each name has a story. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In ancient Indian geography, the subcontinent was often imagined as part of a larger scheme of 'dvipas' (continents), of which India's was:", "options": ["Jambudvipa", "Hindustan", "Aryavarta", "Sindhu"], "correct_index": 0, "solution": "In ancient Indian geography, the subcontinent was imagined as part of JAMBUDVIPA — the 'continent of the jambu tree' — within a larger scheme of dvipas (continents). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is it meaningful that the Constitution uses both 'India' and 'Bharat'?", "options": ["It honours both the internationally known name and the ancient indigenous name of the land", "It shows confusion", "It creates two countries", "It rejects all history"], "correct_index": 0, "solution": "Using BOTH names is meaningful because it HONOURS the INTERNATIONALLY KNOWN name (India) AND the ancient INDIGENOUS name (Bharat) of the land, linking the modern nation to its deep past. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following was a name used by ARABS/PERSIANS for India?", "options": ["Al-Hind / Hind", "Jambudvipa", "Bharatavarsha", "Aryavarta"], "correct_index": 0, "solution": "The ARABS and PERSIANS used AL-HIND / HIND for India (from the Sindhu). Jambudvipa, Bharatavarsha, and Aryavarta are indigenous Indian names. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The natural boundaries of the Indian subcontinent include the Himalayas in the north and, on the other sides, largely:", "options": ["Seas and oceans", "Deserts on every side", "Ice sheets", "Dense jungle only"], "correct_index": 0, "solution": "The Indian subcontinent is bounded by the HIMALAYAS in the north and by SEAS and OCEANS (the Arabian Sea, Indian Ocean, and Bay of Bengal) on the other sides — natural boundaries that gave it a distinct identity. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The name 'Bharata' is used today as:", "options": ["The official Indian-language name of the country (Bharat)", "The name of a foreign country", "The name of an ocean", "A type of coin"], "correct_index": 0, "solution": "BHARATA (Bharat) is used today as the OFFICIAL Indian-language NAME of the country, recognised alongside 'India' in the Constitution. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following statements is correct about ancient Indian names for the land?", "options": ["They reflect both geographical features and cultural/legendary traditions", "They were all borrowed from Europe", "They had no connection to Indian tradition", "They referred to other continents"], "correct_index": 0, "solution": "Ancient Indian names for the land reflect BOTH GEOGRAPHICAL features (e.g., the jambu tree in Jambudvipa) and CULTURAL/LEGENDARY traditions (e.g., King Bharata in Bharatavarsha). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The study of the names of India helps us understand that India is:", "options": ["An ancient civilisation with deep roots and a strong sense of shared identity", "A very new country with no past", "A land known only recently", "A place with no culture"], "correct_index": 0, "solution": "Studying the names of India helps us see that India is an ANCIENT CIVILISATION with DEEP ROOTS and a strong sense of SHARED IDENTITY across its regions and history. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of these correctly pairs a name with the people who used it?", "options": ["India → Greeks/Persians; Hindustan → Persians; Bharatavarsha → Indians", "India → Indians only; Hindustan → Greeks; Bharatavarsha → Arabs", "All names were used only by Chinese", "None of the names had any users"], "correct_index": 0, "solution": "The correct pairing is: INDIA → used by GREEKS/PERSIANS (from Sindhu); HINDUSTAN → used by PERSIANS; and BHARATAVARSHA → used by INDIANS (indigenous). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The idea of India as 'many in the one' begins to appear even in its names because:", "options": ["Different names from different peoples all point to the same land", "Each name is a different country", "The names contradict each other", "There is only one name ever used"], "correct_index": 0, "solution": "The idea of 'MANY in the ONE' appears in India's names because DIFFERENT NAMES from DIFFERENT PEOPLES (Greek, Persian, Arab, indigenous) all POINT to the SAME LAND — unity amid diversity even in naming. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is the best description of 'Bharatavarsha' as understood in ancient texts?", "options": ["A large land, roughly the Indian subcontinent, seen as a single cultural unit", "A small village", "A foreign empire", "An imaginary place with no location"], "correct_index": 0, "solution": "In ancient texts, BHARATAVARSHA is best described as a LARGE LAND — roughly the Indian SUBCONTINENT — seen as a single CULTURAL UNIT (the land of the Bharatas). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The term 'Hind' survives today in words and names such as:", "options": ["Hindustani, Hindi, and Hindu", "Only in foreign countries", "Nowhere at all", "Only in ancient coins"], "correct_index": 0, "solution": "The term HIND survives today in words and names such as HINDUSTANI, HINDI (the language), and HINDU — all ultimately connected to the Sindhu/Hind. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The land between the two rivers Ganga and Yamuna, part of the northern plains, is traditionally called the:", "options": ["Doab", "Delta", "Desert", "Plateau"], "correct_index": 0, "solution": "The fertile land between two rivers is called a DOAB (do = two, ab = water). The Ganga–Yamuna Doab is a famous, fertile part of the northern plains of Bharatavarsha. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'India, That Is Bharat' is that:", "options": ["India has no history worth studying", "India — one of the world's oldest civilisations — has been known by MANY NAMES: the indigenous BHARATA/BHARATAVARSHA (land of the legendary Bharata), JAMBUDVIPA and ARYAVARTA of ancient texts, and INDIA/HIND/HINDUSTAN derived by Greeks, Persians and Arabs from the river SINDHU; bounded by the Himalayas and the seas, it has long been felt as one connected cultural land, and its Constitution honours this heritage in the words 'India, that is Bharat'", "India is a brand-new country with one name", "All names of India are foreign inventions"], "correct_index": 1, "solution": "The chapter's overall message is that INDIA — one of the world's OLDEST CIVILISATIONS — has been known by MANY NAMES: the INDIGENOUS names BHARATA and BHARATAVARSHA (the land of the legendary King Bharata), JAMBUDVIPA (the continent of the jambu tree) and ARYAVARTA (the land of the noble ones) from ancient texts, and INDIA, HIND, and HINDUSTAN, which the GREEKS, PERSIANS, and ARABS derived from the river SINDHU (Indus). Bounded by the HIMALAYAS in the north and the SEAS on other sides, the subcontinent has long been felt as ONE CONNECTED CULTURAL LAND (as shown by pilgrimage traditions), and the Constitution of India honours this heritage in Article 1's words, 'INDIA, that is BHARAT'. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "The name 'India' is derived from which river?",
+    "options": [
+      "Ganga",
+      "Sindhu (Indus)",
+      "Yamuna",
+      "Narmada"
+    ],
+    "correct_index": 1,
+    "solution": "'India' comes from the river Sindhu (Indus). The Persians and Greeks referred to the land beyond the Sindhu as Hind/Indos, which became 'India'.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The name 'Hindustan' is of which linguistic origin?",
+    "options": [
+      "Greek",
+      "Persian",
+      "Latin",
+      "Chinese"
+    ],
+    "correct_index": 1,
+    "solution": "'Hindustan' is of Persian origin — the Persians called the Sindhu the 'Hindu' and the land around it 'Hindustan'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In ancient Indian tradition, the term 'Bharatavarsha' referred to:",
+    "options": [
+      "Only the Gangetic plains",
+      "The land of the Bharatas / the Indian subcontinent",
+      "The Himalayan region alone",
+      "The Deccan plateau"
+    ],
+    "correct_index": 1,
+    "solution": "'Bharatavarsha' meant the land of the Bharatas, used in ancient texts for the larger Indian subcontinent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In ancient Indian cosmography, 'Jambudvipa' was a name used for:",
+    "options": [
+      "A city in South India",
+      "The landmass/continent that included India",
+      "A trading port",
+      "A mountain range"
+    ],
+    "correct_index": 1,
+    "solution": "Jambudvipa (the 'land of the jambu/rose-apple tree') was the ancient Indian name for the continent/landmass that included the Indian subcontinent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Greeks referred to the people living beyond the river Sindhu by a name that eventually gave rise to which word?",
+    "options": [
+      "Hindustan",
+      "Indoi / India",
+      "Bharata",
+      "Aryavarta"
+    ],
+    "correct_index": 1,
+    "solution": "The Greeks called the river 'Indos' and its people 'Indoi', from which the words 'Indus' and 'India' developed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is NOT a traditional name for India?",
+    "options": [
+      "Bharata",
+      "Hindustan",
+      "Jambudvipa",
+      "Mesopotamia"
+    ],
+    "correct_index": 3,
+    "solution": "Mesopotamia refers to the land between the Tigris and Euphrates (modern Iraq region), not India. Bharata, Hindustan and Jambudvipa are all names associated with India.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The term 'Aryavarta', used in ancient texts, broadly referred to:",
+    "options": [
+      "The southern peninsula",
+      "The northern part of India / land of noble people",
+      "Sri Lanka",
+      "The eastern coast"
+    ],
+    "correct_index": 1,
+    "solution": "'Aryavarta' (the 'abode of the aryas/noble ones') referred largely to the northern part of the Indian subcontinent in ancient literature.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Consider the following statements: 1. The word 'India' has a foreign (Greek/Persian) route of origin from the river Sindhu. 2. The word 'Bharata' has an indigenous origin in Indian tradition. Which statement(s) is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_index": 2,
+    "solution": "Both are correct: 'India' came via Persian/Greek usage of the Sindhu, while 'Bharata'/'Bharatavarsha' is rooted in indigenous Indian tradition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The very first Article of the Constitution of India declares:",
+    "options": [
+      "'India, that is Bharat, shall be a Union of States'",
+      "'India is a foreign land'",
+      "'Bharat is separate from India'",
+      "'India has no name'"
+    ],
+    "correct_index": 0,
+    "solution": "ARTICLE 1 of the Constitution of India begins, 'INDIA, that is BHARAT, shall be a UNION of STATES', formally recognising both names for the country. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The name 'Bharata' is traditionally linked to:",
+    "options": [
+      "A legendary ancient king/ancestor named Bharata",
+      "A foreign trader",
+      "A mountain",
+      "A river only"
+    ],
+    "correct_index": 0,
+    "solution": "The name BHARATA is traditionally linked to a legendary ancient KING/ANCESTOR named Bharata, from whom the land came to be called Bharatavarsha ('the land of Bharata'). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The suffix '-varsha' in 'Bharatavarsha' means:",
+    "options": [
+      "A land or region",
+      "A river",
+      "A king",
+      "A mountain"
+    ],
+    "correct_index": 0,
+    "solution": "In 'BHARATAVARSHA', the suffix '-VARSHA' means a LAND or REGION. So Bharatavarsha means 'the land of Bharata'. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Jambudvipa' literally means the land of the:",
+    "options": [
+      "Jambu (rose-apple) tree",
+      "Lotus flower",
+      "Elephant",
+      "Ocean"
+    ],
+    "correct_index": 0,
+    "solution": "JAMBUDVIPA literally means the 'land (dvipa) of the JAMBU (ROSE-APPLE) TREE'. It was an ancient name for the continent/landmass that included India. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Arabs and Persians called the land beyond the Sindhu 'Al-Hind' or 'Hind'. From which word is this derived?",
+    "options": [
+      "Sindhu (the river)",
+      "Ganga",
+      "Himalaya",
+      "Bharata"
+    ],
+    "correct_index": 0,
+    "solution": "The names AL-HIND and HIND used by Arabs and Persians derive from SINDHU (the river Indus) — the Persians pronounced 'Sindhu' as 'Hindu', giving Hind and Hindustan. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The word 'dvipa' in names like 'Jambudvipa' means:",
+    "options": [
+      "Island or continent",
+      "River",
+      "City",
+      "Forest"
+    ],
+    "correct_index": 0,
+    "solution": "The Sanskrit word DVIPA means 'ISLAND' or 'CONTINENT' (landmass). So Jambudvipa is the 'continent of the jambu tree'. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which mountain range forms the great natural boundary in the north of the Indian subcontinent?",
+    "options": [
+      "The Himalayas",
+      "The Western Ghats",
+      "The Aravallis",
+      "The Vindhyas"
+    ],
+    "correct_index": 0,
+    "solution": "The HIMALAYAS form the great natural boundary in the NORTH of the Indian subcontinent, historically shaping its geography and its sense of identity. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The many different names of India (Bharata, Jambudvipa, Hindustan, India) tell us that:",
+    "options": [
+      "The land has a long history and was known to many different peoples over time",
+      "The country never had a name",
+      "All names are foreign",
+      "The names are meaningless"
+    ],
+    "correct_index": 0,
+    "solution": "The MANY NAMES of India show that the land has a LONG HISTORY and was known and named by MANY DIFFERENT PEOPLES over time — reflecting its antiquity and its many contacts with the wider world. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The river Sindhu is known in English as the:",
+    "options": [
+      "Indus",
+      "Ganges",
+      "Brahmaputra",
+      "Godavari"
+    ],
+    "correct_index": 0,
+    "solution": "The river SINDHU is known in English as the INDUS. It gave its name, through Persian and Greek usage, to 'Hind', 'Indos', and 'India'. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which ancient text is famously associated with descriptions of Bharatavarsha and its extent?",
+    "options": [
+      "The Puranas (and epics like the Mahabharata)",
+      "A modern newspaper",
+      "A European atlas",
+      "A Chinese poem"
+    ],
+    "correct_index": 0,
+    "solution": "Ancient Indian texts such as the PURANAS (and epics like the MAHABHARATA) describe BHARATAVARSHA and its geographical extent. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Hindustan — Persian origin 2. India — Greek/Persian origin from Sindhu 3. Bharatavarsha — indigenous Indian origin. How many pairs are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correctly matched: HINDUSTAN is of Persian origin; INDIA came via Greek/Persian usage of the Sindhu; and BHARATAVARSHA is of indigenous Indian origin. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that India has been seen as one cultural land despite its diversity is reflected in the tradition of:",
+    "options": [
+      "Pilgrimage sites (tirthas) spread across the whole subcontinent",
+      "Having no shared traditions",
+      "Complete isolation of regions",
+      "A single language only"
+    ],
+    "correct_index": 0,
+    "solution": "The sense of India as ONE CULTURAL LAND is reflected in traditions like PILGRIMAGE SITES (tirthas) spread from the north to the south and east to west, which linked distant regions into a shared sacred geography. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Aryavarta' literally means:",
+    "options": [
+      "The abode/land of the aryas (noble ones)",
+      "The land of coins",
+      "The land of the sea",
+      "The southern land"
+    ],
+    "correct_index": 0,
+    "solution": "ARYAVARTA literally means the 'ABODE/LAND of the ARYAS (noble ones)' and referred largely to the northern part of the subcontinent in ancient literature. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following names for India was used by the GREEKS?",
+    "options": [
+      "Indoi / India",
+      "Bharatavarsha",
+      "Jambudvipa",
+      "Aryavarta"
+    ],
+    "correct_index": 0,
+    "solution": "The GREEKS used INDOI / INDIA (from the river Indos/Sindhu). Bharatavarsha, Jambudvipa, and Aryavarta are indigenous Indian names. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The subcontinent's name 'India' spread to the wider world largely because of:",
+    "options": [
+      "Contacts with Persians and Greeks who named the land after the Sindhu",
+      "Modern television",
+      "The internet",
+      "European sports"
+    ],
+    "correct_index": 0,
+    "solution": "The name INDIA spread to the wider world largely through ancient CONTACTS with PERSIANS and GREEKS, who named the land after the river SINDHU (Hind/Indos → India). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Constitution's phrase 'India, that is Bharat' signifies that:",
+    "options": [
+      "Both names refer to the same country",
+      "India and Bharat are two different countries",
+      "Bharat is a foreign land",
+      "The country has no official name"
+    ],
+    "correct_index": 0,
+    "solution": "The phrase 'INDIA, that is BHARAT' signifies that BOTH NAMES refer to the SAME country — recognising the land's ancient indigenous name (Bharat) alongside the internationally known name (India). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which physical feature is often described as India's boundary in the south?",
+    "options": [
+      "The Indian Ocean (and its seas)",
+      "The Himalayas",
+      "The Thar Desert",
+      "The Ganga"
+    ],
+    "correct_index": 0,
+    "solution": "In the SOUTH, the Indian subcontinent is bounded by the INDIAN OCEAN (with the Arabian Sea to the west and the Bay of Bengal to the east), while the Himalayas bound it in the north. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The rich variety of names for India across languages and cultures is a sign of India's:",
+    "options": [
+      "Antiquity and its wide connections with other civilisations",
+      "Recent origin",
+      "Lack of history",
+      "Isolation from the world"
+    ],
+    "correct_index": 0,
+    "solution": "The many names of India across languages and cultures reflect its ANTIQUITY and its WIDE CONNECTIONS with other civilisations (Persian, Greek, Arab, and its own indigenous traditions). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'subcontinent' is used for India because it:",
+    "options": [
+      "Is a large, distinct landmass marked off by mountains and seas, yet part of Asia",
+      "Is smaller than a village",
+      "Is not part of any continent",
+      "Floats in the ocean"
+    ],
+    "correct_index": 0,
+    "solution": "India is called a SUBCONTINENT because it is a LARGE, DISTINCT LANDMASS — marked off by the HIMALAYAS in the north and SEAS on other sides — yet forms part of the continent of ASIA. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly lists names by which India has been known?",
+    "options": [
+      "Bharata, Bharatavarsha, Jambudvipa, Aryavarta, Hindustan, India",
+      "Only India",
+      "Only Bharat",
+      "Mesopotamia and Egypt"
+    ],
+    "correct_index": 0,
+    "solution": "India has been known by many names — BHARATA, BHARATAVARSHA, JAMBUDVIPA, ARYAVARTA, HINDUSTAN, and INDIA. (Mesopotamia and Egypt are other ancient lands, not India.) So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Persians pronounced the 'S' of 'Sindhu' as:",
+    "options": [
+      "'H', giving 'Hindu' and then 'Hind'",
+      "'K'",
+      "'T'",
+      "'M'"
+    ],
+    "correct_index": 0,
+    "solution": "The PERSIANS pronounced the 'S' of SINDHU as 'H', turning 'Sindhu' into 'HINDU', from which came 'Hind' and 'Hindustan'. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): India is called a subcontinent. Reason (R): It is a large landmass separated from the rest of Asia by the Himalayas and surrounded by seas. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — India is called a subcontinent. R is TRUE and correctly EXPLAINS A: it is a LARGE LANDMASS SEPARATED from the rest of Asia by the HIMALAYAS and surrounded by SEAS, which is exactly why it is treated as a distinct 'subcontinent'. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following best explains why India had contacts with distant civilisations in ancient times?",
+    "options": [
+      "Its rivers, coasts and mountain passes allowed trade and movement of people and ideas",
+      "It was cut off from everything",
+      "It had no rivers or coasts",
+      "It banned all travel"
+    ],
+    "correct_index": 0,
+    "solution": "India had contacts with distant civilisations because its RIVERS, long COASTS, and mountain PASSES allowed TRADE and the MOVEMENT of people, goods, and ideas in and out of the subcontinent. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The name 'Hindustan' historically referred to:",
+    "options": [
+      "The land around and beyond the Sindhu (largely northern India)",
+      "Only the southern tip of India",
+      "A city in Persia",
+      "An ocean"
+    ],
+    "correct_index": 0,
+    "solution": "HINDUSTAN historically referred to the LAND around and beyond the SINDHU — used especially for NORTHERN India, though later for the wider subcontinent. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the names of India is INCORRECT?",
+    "options": [
+      "'Mesopotamia' is an ancient name for India",
+      "'Bharata' is an indigenous name",
+      "'India' derives from the Sindhu",
+      "'Jambudvipa' is an ancient Indian name"
+    ],
+    "correct_index": 0,
+    "solution": "The INCORRECT statement is that 'Mesopotamia' is an ancient name for India — Mesopotamia is the land between the Tigris and Euphrates (modern Iraq region), NOT India. The other statements are all correct. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The shared sacred geography of India (pilgrimage from Kedarnath in the north to Rameswaram in the south) shows that Indians long felt:",
+    "options": [
+      "A sense of the whole land as one connected cultural space",
+      "That regions were unrelated",
+      "That travel was impossible",
+      "That there was no shared culture"
+    ],
+    "correct_index": 0,
+    "solution": "The tradition of PILGRIMAGE across the whole land — from Kedarnath in the north to Rameswaram in the south — shows that Indians long felt a sense of the WHOLE LAND as ONE CONNECTED CULTURAL SPACE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The word 'India' is used today mainly as the country's:",
+    "options": [
+      "Internationally recognised name, alongside Bharat",
+      "Secret code name",
+      "Only ancient name",
+      "Name for a river"
+    ],
+    "correct_index": 0,
+    "solution": "Today INDIA is used mainly as the country's INTERNATIONALLY RECOGNISED name, used ALONGSIDE BHARAT (as recognised in Article 1 of the Constitution). So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following rivers is most directly connected to the origin of the name 'India'?",
+    "options": [
+      "Sindhu (Indus)",
+      "Kaveri",
+      "Mahanadi",
+      "Tapi"
+    ],
+    "correct_index": 0,
+    "solution": "The SINDHU (INDUS) is most directly connected to the origin of the name INDIA — through Persian 'Hind' and Greek 'Indos/India'. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The many names of India remind students of history that place-names often:",
+    "options": [
+      "Carry the memory of geography, peoples and contacts across centuries",
+      "Are invented randomly with no meaning",
+      "Never change",
+      "Come only from one language"
+    ],
+    "correct_index": 0,
+    "solution": "The many names of India remind us that PLACE-NAMES often CARRY the MEMORY of GEOGRAPHY (like the Sindhu), of the PEOPLES who named the land, and of CONTACTS across centuries — each name has a story. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In ancient Indian geography, the subcontinent was often imagined as part of a larger scheme of 'dvipas' (continents), of which India's was:",
+    "options": [
+      "Jambudvipa",
+      "Hindustan",
+      "Aryavarta",
+      "Sindhu"
+    ],
+    "correct_index": 0,
+    "solution": "In ancient Indian geography, the subcontinent was imagined as part of JAMBUDVIPA — the 'continent of the jambu tree' — within a larger scheme of dvipas (continents). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is it meaningful that the Constitution uses both 'India' and 'Bharat'?",
+    "options": [
+      "It honours both the internationally known name and the ancient indigenous name of the land",
+      "It shows confusion",
+      "It creates two countries",
+      "It rejects all history"
+    ],
+    "correct_index": 0,
+    "solution": "Using BOTH names is meaningful because it HONOURS the INTERNATIONALLY KNOWN name (India) AND the ancient INDIGENOUS name (Bharat) of the land, linking the modern nation to its deep past. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following was a name used by ARABS/PERSIANS for India?",
+    "options": [
+      "Al-Hind / Hind",
+      "Jambudvipa",
+      "Bharatavarsha",
+      "Aryavarta"
+    ],
+    "correct_index": 0,
+    "solution": "The ARABS and PERSIANS used AL-HIND / HIND for India (from the Sindhu). Jambudvipa, Bharatavarsha, and Aryavarta are indigenous Indian names. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The natural boundaries of the Indian subcontinent include the Himalayas in the north and, on the other sides, largely:",
+    "options": [
+      "Seas and oceans",
+      "Deserts on every side",
+      "Ice sheets",
+      "Dense jungle only"
+    ],
+    "correct_index": 0,
+    "solution": "The Indian subcontinent is bounded by the HIMALAYAS in the north and by SEAS and OCEANS (the Arabian Sea, Indian Ocean, and Bay of Bengal) on the other sides — natural boundaries that gave it a distinct identity. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The name 'Bharata' is used today as:",
+    "options": [
+      "The official Indian-language name of the country (Bharat)",
+      "The name of a foreign country",
+      "The name of an ocean",
+      "A type of coin"
+    ],
+    "correct_index": 0,
+    "solution": "BHARATA (Bharat) is used today as the OFFICIAL Indian-language NAME of the country, recognised alongside 'India' in the Constitution. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following statements is correct about ancient Indian names for the land?",
+    "options": [
+      "They reflect both geographical features and cultural/legendary traditions",
+      "They were all borrowed from Europe",
+      "They had no connection to Indian tradition",
+      "They referred to other continents"
+    ],
+    "correct_index": 0,
+    "solution": "Ancient Indian names for the land reflect BOTH GEOGRAPHICAL features (e.g., the jambu tree in Jambudvipa) and CULTURAL/LEGENDARY traditions (e.g., King Bharata in Bharatavarsha). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The study of the names of India helps us understand that India is:",
+    "options": [
+      "An ancient civilisation with deep roots and a strong sense of shared identity",
+      "A very new country with no past",
+      "A land known only recently",
+      "A place with no culture"
+    ],
+    "correct_index": 0,
+    "solution": "Studying the names of India helps us see that India is an ANCIENT CIVILISATION with DEEP ROOTS and a strong sense of SHARED IDENTITY across its regions and history. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of these correctly pairs a name with the people who used it?",
+    "options": [
+      "India → Greeks/Persians; Hindustan → Persians; Bharatavarsha → Indians",
+      "India → Indians only; Hindustan → Greeks; Bharatavarsha → Arabs",
+      "All names were used only by Chinese",
+      "None of the names had any users"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairing is: INDIA → used by GREEKS/PERSIANS (from Sindhu); HINDUSTAN → used by PERSIANS; and BHARATAVARSHA → used by INDIANS (indigenous). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea of India as 'many in the one' begins to appear even in its names because:",
+    "options": [
+      "Different names from different peoples all point to the same land",
+      "Each name is a different country",
+      "The names contradict each other",
+      "There is only one name ever used"
+    ],
+    "correct_index": 0,
+    "solution": "The idea of 'MANY in the ONE' appears in India's names because DIFFERENT NAMES from DIFFERENT PEOPLES (Greek, Persian, Arab, indigenous) all POINT to the SAME LAND — unity amid diversity even in naming. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the best description of 'Bharatavarsha' as understood in ancient texts?",
+    "options": [
+      "A large land, roughly the Indian subcontinent, seen as a single cultural unit",
+      "A small village",
+      "A foreign empire",
+      "An imaginary place with no location"
+    ],
+    "correct_index": 0,
+    "solution": "In ancient texts, BHARATAVARSHA is best described as a LARGE LAND — roughly the Indian SUBCONTINENT — seen as a single CULTURAL UNIT (the land of the Bharatas). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'Hind' survives today in words and names such as:",
+    "options": [
+      "Hindustani, Hindi, and Hindu",
+      "Only in foreign countries",
+      "Nowhere at all",
+      "Only in ancient coins"
+    ],
+    "correct_index": 0,
+    "solution": "The term HIND survives today in words and names such as HINDUSTANI, HINDI (the language), and HINDU — all ultimately connected to the Sindhu/Hind. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The land between the two rivers Ganga and Yamuna, part of the northern plains, is traditionally called the:",
+    "options": [
+      "Doab",
+      "Delta",
+      "Desert",
+      "Plateau"
+    ],
+    "correct_index": 0,
+    "solution": "The fertile land between two rivers is called a DOAB (do = two, ab = water). The Ganga–Yamuna Doab is a famous, fertile part of the northern plains of Bharatavarsha. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'India, That Is Bharat' is that:",
+    "options": [
+      "India has no history worth studying",
+      "India — one of the world's oldest civilisations — has been known by MANY NAMES: the indigenous BHARATA/BHARATAVARSHA (land of the legendary Bharata), JAMBUDVIPA and ARYAVARTA of ancient texts, and INDIA/HIND/HINDUSTAN derived by Greeks, Persians and Arabs from the river SINDHU; bounded by the Himalayas and the seas, it has long been felt as one connected cultural land, and its Constitution honours this heritage in the words 'India, that is Bharat'",
+      "India is a brand-new country with one name",
+      "All names of India are foreign inventions"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that INDIA — one of the world's OLDEST CIVILISATIONS — has been known by MANY NAMES: the INDIGENOUS names BHARATA and BHARATAVARSHA (the land of the legendary King Bharata), JAMBUDVIPA (the continent of the jambu tree) and ARYAVARTA (the land of the noble ones) from ancient texts, and INDIA, HIND, and HINDUSTAN, which the GREEKS, PERSIANS, and ARABS derived from the river SINDHU (Indus). Bounded by the HIMALAYAS in the north and the SEAS on other sides, the subcontinent has long been felt as ONE CONNECTED CULTURAL LAND (as shown by pilgrimage traditions), and the Constitution of India honours this heritage in Article 1's words, 'INDIA, that is BHARAT'. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The name 'Bharat' (Bharata), used for India, is derived from:",
+    "options": [
+      "A river",
+      "The legendary King Bharata / the Bharata tribe mentioned in ancient texts",
+      "A foreign ruler",
+      "A mountain"
+    ],
+    "correct_index": 1,
+    "solution": "The name 'Bharata' is associated with the legendary king Bharata and the Bharata tribe (Bharatas) mentioned in the Rigveda and later texts; Article 1 of the Constitution says 'India, that is Bharat'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The name 'India' is derived from the river:",
+    "options": [
+      "Ganga",
+      "Indus (Sindhu)",
+      "Yamuna",
+      "Saraswati"
+    ],
+    "correct_index": 1,
+    "solution": "'India' derives from 'Indus', which comes from 'Sindhu', the ancient name of the river; the Persians and Greeks called the land beyond the Sindhu 'Hindu/Indos', giving 'India'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'Hindustan' originated from the Persian usage referring to the land of the:",
+    "options": [
+      "Ganga",
+      "Sindhu (Indus) river region",
+      "Himalayas",
+      "Deccan"
+    ],
+    "correct_index": 1,
+    "solution": "'Hindustan' comes from the Persian 'Hindu' (from Sindhu/Indus), meaning the land of the Indus; it was used by Persians and later widely for the subcontinent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ancient Greeks referred to India as:",
+    "options": [
+      "Indoi/Indike",
+      "Cathay",
+      "Serica",
+      "Meluhha"
+    ],
+    "correct_index": 0,
+    "solution": "The Greeks called the land 'Indike' and its people 'Indoi', derived from the Indus river, from which the modern word 'India' descends.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In ancient texts, the term 'Jambudvipa' referred to:",
+    "options": [
+      "A foreign land",
+      "The land/continent that includes India",
+      "An ocean",
+      "A mountain"
+    ],
+    "correct_index": 1,
+    "solution": "'Jambudvipa' is an ancient term in Indian cosmography for the land that includes the Indian subcontinent, used in Hindu, Buddhist and Jain texts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Himalayas form India's boundary in the:",
+    "options": [
+      "South",
+      "North",
+      "East",
+      "West"
+    ],
+    "correct_index": 1,
+    "solution": "The Himalayas, the world's highest mountain range, form India's northern boundary, protecting the subcontinent and giving rise to major rivers.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The three great river systems of northern India are the Indus, the Ganga and the:",
+    "options": [
+      "Kaveri",
+      "Brahmaputra",
+      "Godavari",
+      "Narmada"
+    ],
+    "correct_index": 1,
+    "solution": "The Indus, the Ganga and the Brahmaputra are the three great Himalayan river systems that shaped the civilisation and agriculture of northern India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Indian subcontinent is bounded by which ocean to the south?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian subcontinent is bounded by the Indian Ocean to the south, with the Arabian Sea to the west and the Bay of Bengal to the east.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The concept of the Indian subcontinent as a distinct geographical unit is due to its being:",
+    "options": [
+      "Small and flat",
+      "Separated by the Himalayas and seas, forming a distinct landmass",
+      "Part of Africa",
+      "An island"
+    ],
+    "correct_index": 1,
+    "solution": "The Indian subcontinent is a distinct geographical unit, bounded by the Himalayas in the north and the seas on the other sides, giving it a degree of natural separation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ancient Indian texts describe the land between the Himalayas and the seas; this reflects an early sense of:",
+    "options": [
+      "No geography",
+      "Geographical and cultural unity of the land (Bharatavarsha)",
+      "Foreign rule",
+      "Isolation from culture"
+    ],
+    "correct_index": 1,
+    "solution": "Ancient texts refer to 'Bharatavarsha' — the land stretching from the Himalayas to the seas — reflecting an early conception of the geographical and cultural unity of India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Bharatavarsha' in ancient texts refers to:",
+    "options": [
+      "A single village",
+      "The land of India/the subcontinent",
+      "A foreign empire",
+      "An ocean"
+    ],
+    "correct_index": 1,
+    "solution": "'Bharatavarsha' is the ancient name for the Indian subcontinent — 'the land of Bharata' — reflecting a long-standing sense of this land as a distinct entity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pilgrimage sites spread across the four corners of India (Char Dham) reflect the idea of:",
+    "options": [
+      "Regional isolation",
+      "A sense of cultural unity across the land through shared sacred geography",
+      "Foreign influence",
+      "Trade only"
+    ],
+    "correct_index": 1,
+    "solution": "The Char Dham (Badrinath-north, Dwarka-west, Puri-east, Rameswaram-south) and other pan-Indian pilgrimage circuits reflect a shared sacred geography binding the land culturally.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following mountain ranges lies in peninsular (southern) India?",
+    "options": [
+      "Himalayas",
+      "Western Ghats and Eastern Ghats",
+      "Karakoram",
+      "Hindu Kush"
+    ],
+    "correct_index": 1,
+    "solution": "The Western Ghats and Eastern Ghats run along the western and eastern edges of the Deccan plateau in peninsular India, distinct from the Himalayas in the north.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Deccan Plateau lies in which part of India?",
+    "options": [
+      "Northern plains",
+      "Peninsular (southern) India",
+      "Himalayan region",
+      "Coastal Bengal"
+    ],
+    "correct_index": 1,
+    "solution": "The Deccan Plateau is a large plateau in southern (peninsular) India, bordered by the Western and Eastern Ghats, forming a major physiographic region.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's fertile northern plains were formed by the:",
+    "options": [
+      "Volcanic activity",
+      "Deposition of sediment (alluvium) by rivers",
+      "Glaciers only",
+      "Wind only"
+    ],
+    "correct_index": 1,
+    "solution": "The vast, fertile Indo-Gangetic plains were formed by the alluvium (silt) deposited by the Indus, Ganga and Brahmaputra river systems, making them highly productive for agriculture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The monsoon winds are important to India because they:",
+    "options": [
+      "Cause earthquakes",
+      "Bring the seasonal rainfall vital for agriculture",
+      "Cause volcanoes",
+      "Freeze the land"
+    ],
+    "correct_index": 1,
+    "solution": "The monsoon winds bring most of India's annual rainfall, which is crucial for agriculture and the water supply; Indian civilisation and its festivals are closely tied to the monsoon.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's geographical diversity includes mountains, plains, plateaus, deserts and:",
+    "options": [
+      "Only forests",
+      "Coasts and islands",
+      "Only cities",
+      "Only rivers"
+    ],
+    "correct_index": 1,
+    "solution": "India has remarkable geographical diversity — the Himalayas, the plains, the Deccan plateau, the Thar desert, long coastlines and island groups (Andaman-Nicobar and Lakshadweep).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Thar Desert is located in which part of India?",
+    "options": [
+      "North-west (Rajasthan)",
+      "South",
+      "East",
+      "Central"
+    ],
+    "correct_index": 0,
+    "solution": "The Thar (Great Indian) Desert lies in north-western India, mainly in Rajasthan, forming a distinct arid region of the subcontinent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's two major island groups are the Lakshadweep (in the Arabian Sea) and the:",
+    "options": [
+      "Andaman and Nicobar Islands (in the Bay of Bengal)",
+      "Maldives",
+      "Sri Lanka",
+      "Java"
+    ],
+    "correct_index": 0,
+    "solution": "India's two island groups are Lakshadweep (coral islands in the Arabian Sea) and the Andaman and Nicobar Islands (in the Bay of Bengal).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India has been called a 'subcontinent' because it:",
+    "options": [
+      "Is a small country",
+      "Is a large, distinct landmass with diverse geography and peoples",
+      "Is an island",
+      "Is part of Europe"
+    ],
+    "correct_index": 1,
+    "solution": "India is called a subcontinent because it is a large, geographically distinct region with great diversity in landforms, climate, languages and cultures, set apart by the Himalayas and seas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The diversity of India in languages, religions, food and dress is often summed up by the phrase:",
+    "options": [
+      "Unity in Diversity",
+      "Divide and rule",
+      "Isolation",
+      "Uniformity"
+    ],
+    "correct_index": 0,
+    "solution": "'Unity in Diversity' captures India's characteristic — immense diversity of languages, religions, cuisines and customs bound together by an underlying cultural unity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The great rivers of India have historically been important as:",
+    "options": [
+      "Barriers only",
+      "Sources of water, fertile soil, transport and cultural/religious significance",
+      "Useless features",
+      "Only for tourism"
+    ],
+    "correct_index": 1,
+    "solution": "India's rivers provided water and fertile alluvial soil for agriculture, routes for transport and trade, and held deep cultural and religious significance (e.g. the Ganga).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The seasonal reversal of winds that brings rain to India is called the:",
+    "options": [
+      "Cyclone",
+      "Monsoon",
+      "Tsunami",
+      "Blizzard"
+    ],
+    "correct_index": 1,
+    "solution": "The monsoon is the seasonal reversal of winds; the south-west summer monsoon brings the bulk of India's rainfall, shaping its agriculture and way of life.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "India's long coastline touches the Arabian Sea, the Bay of Bengal and the:",
+    "options": [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Mediterranean Sea",
+      "Red Sea"
+    ],
+    "correct_index": 0,
+    "solution": "India's long coastline borders the Arabian Sea (west), the Bay of Bengal (east) and the Indian Ocean (south), historically supporting trade and maritime contact.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The name 'Aryavarta', used in ancient texts, referred to:",
+    "options": [
+      "Southern India",
+      "The land of northern India (the abode of the Aryas)",
+      "A foreign country",
+      "An ocean"
+    ],
+    "correct_index": 1,
+    "solution": "'Aryavarta' ('abode of the Aryas') was an ancient name for the northern part of India, particularly the Indo-Gangetic plain, in Sanskrit texts.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Foreign travellers and traders knew India by different names, reflecting India's:",
+    "options": [
+      "Isolation",
+      "Long history of contact with the wider world",
+      "Lack of culture",
+      "Small size"
+    ],
+    "correct_index": 1,
+    "solution": "India was known by various names (India, Hindustan, Bharat, Jambudvipa, Indoi) to different peoples, reflecting its long history of contact and exchange with other civilisations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Tropic of Cancer passes through the middle of India, which means India has both:",
+    "options": [
+      "Only tropical climate",
+      "Tropical and subtropical climatic zones",
+      "Only polar climate",
+      "Only desert"
+    ],
+    "correct_index": 1,
+    "solution": "The Tropic of Cancer roughly divides India, giving it both tropical (south) and subtropical (north) climatic characteristics, contributing to its climatic diversity.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "India's neighbouring countries include Pakistan, China, Nepal, Bhutan, Bangladesh and:",
+    "options": [
+      "Myanmar",
+      "Japan",
+      "Thailand",
+      "Iran"
+    ],
+    "correct_index": 0,
+    "solution": "India shares land borders with Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar and Afghanistan, and maritime boundaries with Sri Lanka and the Maldives.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea of the unity of India despite its diversity is strengthened by shared:",
+    "options": [
+      "Only one language",
+      "Cultural traditions, sacred geography, epics and festivals across regions",
+      "Only one religion",
+      "Isolation of regions"
+    ],
+    "correct_index": 1,
+    "solution": "Despite diversity, India's unity is reinforced by shared cultural traditions, pan-Indian epics (Ramayana, Mahabharata), pilgrimage sites and festivals that cut across regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the names of India is correct? (i) 'India' comes from the Indus (ii) 'Bharat' from King Bharata (iii) 'Hindustan' from Sindhu via Persian",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: 'India' derives from the Indus (Sindhu), 'Bharat' from the legendary Bharata/Bharata tribe, and 'Hindustan' from Sindhu via Persian usage.",
+    "difficulty": "medium"
+  }
 ]

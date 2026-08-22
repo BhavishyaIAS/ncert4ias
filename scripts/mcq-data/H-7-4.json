@@ -1,52 +1,1082 @@
 [
-  { "stem": "The founder of the Mughal empire in India, who won the First Battle of Panipat in 1526, was:", "options": ["Akbar", "Babur", "Humayun", "Aurangzeb"], "correct_index": 1, "solution": "Babur defeated Ibrahim Lodi at the First Battle of Panipat in 1526 and founded the Mughal empire.", "difficulty": "easy" },
-  { "stem": "Arrange the following Mughal emperors in correct order of succession: 1. Jahangir 2. Akbar 3. Shah Jahan 4. Aurangzeb", "options": ["2 → 1 → 3 → 4", "1 → 2 → 3 → 4", "2 → 3 → 1 → 4", "1 → 3 → 2 → 4"], "correct_index": 0, "solution": "The order was Akbar → Jahangir → Shah Jahan → Aurangzeb (following Babur and Humayun).", "difficulty": "medium" },
-  { "stem": "The Mughal administrative system of ranking nobles, based on 'zat' and 'sawar', was called the:", "options": ["Iqta system", "Mansabdari system", "Jagirdari of the Sultans", "Ryotwari system"], "correct_index": 1, "solution": "The mansabdari system ranked officials by 'zat' (personal status/pay) and 'sawar' (number of cavalry to maintain).", "difficulty": "medium" },
-  { "stem": "Akbar's policy of religious tolerance and peace among all faiths was known as:", "options": ["Sulh-i-kul", "Jizya", "Zabt", "Sijda"], "correct_index": 0, "solution": "'Sulh-i-kul' meant 'universal peace' — Akbar's ideal of tolerance and impartiality towards all religions.", "difficulty": "medium" },
-  { "stem": "The 'Akbarnama' and 'Ain-i-Akbari', key sources on Akbar's reign, were written by:", "options": ["Abul Fazl", "Badauni", "Amir Khusrau", "Faizi"], "correct_index": 0, "solution": "Abul Fazl, one of Akbar's Nine Jewels (Navaratnas), authored the Akbarnama, whose third volume is the Ain-i-Akbari.", "difficulty": "medium" },
-  { "stem": "The land revenue system introduced under Akbar (associated with Todar Mal), based on measurement and average produce, was called:", "options": ["Zabt", "Iqta", "Batai", "Kankut"], "correct_index": 0, "solution": "The 'zabt' system fixed revenue based on measured land and average produce over ten years, developed under Raja Todar Mal.", "difficulty": "hard" },
-  { "stem": "The young Akbar's affairs, in the early years of his reign, were managed by his regent:", "options": ["Bairam Khan", "Man Singh", "Todar Mal", "Birbal"], "correct_index": 0, "solution": "Bairam Khan acted as regent during the early years of Akbar's reign after he became emperor in 1556.", "difficulty": "medium" },
-  { "stem": "A 'jagir' in the Mughal system referred to:", "options": ["A revenue assignment given to a mansabdar in lieu of salary", "A religious endowment", "A royal workshop", "A market tax"], "correct_index": 0, "solution": "A jagir was an assignment of revenue from a piece of land, granted to a mansabdar in place of a cash salary.", "difficulty": "hard" },
-  { "stem": "The First Battle of Panipat (1526) was fought between Babur and:", "options": ["Rana Sanga", "Ibrahim Lodi", "Hemu", "Sher Shah Suri"], "correct_index": 1, "solution": "Babur defeated Ibrahim Lodi, the last Lodi Sultan of Delhi, at the First Battle of Panipat in 1526.", "difficulty": "easy" },
-  { "stem": "Under the Mughals, intermediaries who collected revenue from peasants and held local power were broadly termed:", "options": ["Zamindars", "Mansabdars", "Sarrafs", "Karkhanas"], "correct_index": 0, "solution": "Zamindars were the local landed intermediaries who held rights over land and helped collect revenue from the peasantry.", "difficulty": "medium" },
-  { "stem": "Babur belonged to which lineage on his father's and mother's sides?", "options": ["Timurid (father) and Mongol/Chingizid (mother)", "Persian and Greek", "Arab and Roman", "Chinese and Turkish"], "correct_index": 0, "solution": "BABUR was descended from TIMUR (Tamerlane) on his father's side and from CHINGIZ KHAN (the Mongols) on his mother's side — a proud dual heritage. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Mughal emperor Humayun lost his empire to Sher Shah Suri but later:", "options": ["Regained it with Persian help", "Gave up kingship", "Never returned", "Died in Persia"], "correct_index": 0, "solution": "HUMAYUN lost the empire to SHER SHAH SURI (of the Sur dynasty) but later REGAINED it with PERSIAN (Safavid) HELP, restoring Mughal rule shortly before his death. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Second Battle of Panipat (1556) was won by Akbar's forces against:", "options": ["Hemu", "Ibrahim Lodi", "Rana Pratap", "Sher Shah"], "correct_index": 0, "solution": "The SECOND BATTLE of PANIPAT (1556) was won by AKBAR's forces (under Bairam Khan) against HEMU, securing the Mughal throne for the young Akbar. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "In the mansabdari system, 'zat' referred to:", "options": ["The rank and personal status/pay of a mansabdar", "The number of horses", "A land tax", "A religious duty"], "correct_index": 0, "solution": "In the MANSABDARI system, ZAT referred to the RANK and personal STATUS/PAY of a mansabdar, while SAWAR indicated the number of cavalrymen (horsemen) he had to maintain. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'jizya' that Akbar abolished was a:", "options": ["Tax formerly levied on non-Muslims", "Land tax on all", "Trade duty", "Temple offering"], "correct_index": 0, "solution": "The JIZYA was a TAX formerly levied on NON-MUSLIMS. AKBAR ABOLISHED it as part of his policy of tolerance (sulh-i-kul), treating people of all faiths more equally. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Akbar's building of a new capital at Fatehpur Sikri, with a hall for religious discussions (Ibadat Khana), reflected his interest in:", "options": ["Dialogue among different religions", "Making war", "Trade only", "Ignoring religion"], "correct_index": 0, "solution": "AKBAR's FATEHPUR SIKRI, with its IBADAT KHANA (Hall of Worship) for religious DISCUSSIONS among scholars of different faiths, reflected his deep interest in DIALOGUE among RELIGIONS and the search for truth. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Akbar's blend of ideas from various religions into a set of ethical principles was called:", "options": ["Din-i-Ilahi (Tauhid-i-Ilahi)", "Sulh-i-kul", "Zabt", "Mansab"], "correct_index": 0, "solution": "AKBAR developed DIN-I-ILAHI (Tauhid-i-Ilahi), a small set of ETHICAL PRINCIPLES drawing on various religions, promoting a spiritual ideal centred on the emperor — though it had very few followers. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Mughal empire reached its greatest territorial extent under:", "options": ["Aurangzeb", "Babur", "Humayun", "Jahangir"], "correct_index": 0, "solution": "The Mughal empire reached its GREATEST TERRITORIAL EXTENT under AURANGZEB, who extended it deep into the Deccan and the south — though this over-expansion also strained the empire. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The magnificent Taj Mahal at Agra was built by which Mughal emperor?", "options": ["Shah Jahan", "Akbar", "Babur", "Aurangzeb"], "correct_index": 0, "solution": "The TAJ MAHAL at Agra was built by SHAH JAHAN in memory of his wife Mumtaz Mahal — a masterpiece of Mughal architecture. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The 'Ain-i-Akbari' is valuable to historians because it gives detailed information about:", "options": ["The administration, revenue, army and society of Akbar's empire", "Only battles", "Only the Taj Mahal", "European trade only"], "correct_index": 0, "solution": "The AIN-I-AKBARI (by Abul Fazl) is valuable because it gives DETAILED information about the ADMINISTRATION, REVENUE, ARMY, and SOCIETY of Akbar's empire — a rich statistical and descriptive source. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Akbar sought to win the loyalty of the Rajputs through:", "options": ["Alliances, marriages and giving them high posts", "Constant war only", "Ignoring them", "Expelling them"], "correct_index": 0, "solution": "AKBAR sought to win the loyalty of the RAJPUTS through ALLIANCES, MARRIAGE ties, and giving them HIGH POSTS (as mansabdars and governors) — a policy that broadened the empire's base. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mughal emperor Jahangir is especially associated with the patronage of:", "options": ["Painting (miniature art)", "Shipbuilding", "Coin-clipping", "Astronomy only"], "correct_index": 0, "solution": "JAHANGIR is especially associated with the patronage of PAINTING — Mughal MINIATURE ART flourished under him, with fine portraits and nature studies. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The reversal of Akbar's tolerant policies, including the re-imposition of the jizya, is associated with:", "options": ["Aurangzeb", "Akbar", "Jahangir", "Shah Jahan"], "correct_index": 0, "solution": "AURANGZEB is associated with a more orthodox policy, including the RE-IMPOSITION of the JIZYA on non-Muslims — a reversal of Akbar's tolerant approach. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The mansabdars were paid mostly by:", "options": ["The assignment of a jagir (land revenue) rather than cash", "Gold coins only", "Foreign aid", "Free food only"], "correct_index": 0, "solution": "The MANSABDARS were paid mostly through the ASSIGNMENT of a JAGIR (the revenue of a piece of land) rather than in cash, from which they maintained their troops and household. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Consider the pairs: 1. Akbar — sulh-i-kul 2. Shah Jahan — Taj Mahal 3. Aurangzeb — Deccan expansion. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: AKBAR → SULH-I-KUL (universal peace/tolerance); SHAH JAHAN → the TAJ MAHAL; and AURANGZEB → DECCAN EXPANSION. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The prosperity of the Mughal empire was based largely on:", "options": ["A rich agrarian economy, land revenue and flourishing trade and crafts", "Only foreign gifts", "Piracy", "A desert economy"], "correct_index": 0, "solution": "The PROSPERITY of the Mughal empire was based on a RICH AGRARIAN economy, systematic LAND REVENUE, and FLOURISHING TRADE and CRAFTS (textiles, handicrafts) that made India famous worldwide. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mughal capital cities included Agra, Delhi (Shahjahanabad) and:", "options": ["Lahore and Fatehpur Sikri", "Only Madras", "Only Kolkata", "Only Mumbai"], "correct_index": 0, "solution": "The MUGHAL CAPITALS at various times included AGRA, DELHI (SHAHJAHANABAD, built by Shah Jahan), LAHORE, and FATEHPUR SIKRI (built by Akbar). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Akbar followed a policy of religious tolerance. Reason (R): He believed that peace among all faiths (sulh-i-kul) would strengthen his diverse empire. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — Akbar followed religious tolerance. R is TRUE and correctly EXPLAINS A: he believed that PEACE among ALL FAITHS (SULH-I-KUL) would STRENGTHEN his DIVERSE EMPIRE — which is precisely why he adopted tolerance. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Mughals maintained a strong central administration through officials such as:", "options": ["The wazir (revenue), the diwan, and provincial governors (subadars)", "Only village priests", "Only foreign traders", "No officials"], "correct_index": 0, "solution": "The Mughals maintained a strong central administration through officials like the WAZIR/DIWAN (in charge of REVENUE and finance) and PROVINCIAL GOVERNORS (SUBADARS) who ran the provinces (subas). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The empire was divided into provinces called:", "options": ["Subas", "Continents", "Iqtas only", "Villages only"], "correct_index": 0, "solution": "The Mughal empire was divided into PROVINCES called SUBAS, each governed by a subadar and further divided into smaller units (sarkars and parganas). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a reason for the decline of the Mughal empire after Aurangzeb?", "options": ["Weak successors, over-expansion, revolts, and a financial and administrative crisis", "Too much unity", "The absence of any enemies", "A single strong ruler forever"], "correct_index": 0, "solution": "The Mughal DECLINE after Aurangzeb was caused by WEAK SUCCESSORS, OVER-EXPANSION (especially into the Deccan), REVOLTS (Marathas, Sikhs, Jats, etc.), and a FINANCIAL and ADMINISTRATIVE CRISIS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Mughal painting was notable for combining Persian style with:", "options": ["Indian themes and techniques", "European oil painting only", "Chinese calligraphy only", "No other style"], "correct_index": 0, "solution": "MUGHAL PAINTING was notable for combining PERSIAN style with INDIAN THEMES and TECHNIQUES (and later some European influence), producing a distinctive, refined miniature art. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'zabt' revenue system fixed the state's share based on:", "options": ["Measured land and the average produce and prices over several years", "The king's mood", "A random guess", "The colour of the soil only"], "correct_index": 0, "solution": "The ZABT system (developed under Todar Mal) fixed the state's share based on MEASURED LAND and the AVERAGE PRODUCE and PRICES over several (about ten) YEARS — a systematic, fairer revenue assessment. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following correctly pairs a Mughal emperor with his reign feature?", "options": ["Babur → founded the empire; Akbar → tolerance and administration; Shah Jahan → architecture; Aurangzeb → greatest extent", "Babur → Taj Mahal; Akbar → founded empire; Aurangzeb → tolerance", "All built the Taj Mahal", "None ruled India"], "correct_index": 0, "solution": "The correct pairings are: BABUR → FOUNDED the empire; AKBAR → TOLERANCE and strong ADMINISTRATION; SHAH JAHAN → great ARCHITECTURE (Taj Mahal); AURANGZEB → the GREATEST territorial EXTENT. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mughal court and nobility were made up of people from:", "options": ["Diverse origins — Turks, Persians, Afghans, Rajputs and Indian Muslims", "Only one group", "Only Europeans", "Only farmers"], "correct_index": 0, "solution": "The Mughal court and NOBILITY were DIVERSE — including TURKS, PERSIANS (Iranis), AFGHANS, RAJPUTS, and Indian Muslims — reflecting the empire's broad, inclusive character (especially under Akbar). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mughal emperors are remembered for their contribution to:", "options": ["Architecture, painting, literature and a rich composite culture", "Nothing", "Only warfare", "Destroying culture"], "correct_index": 0, "solution": "The Mughal emperors are remembered for their great contribution to ARCHITECTURE (forts, mosques, tombs, gardens), PAINTING, LITERATURE, and a rich COMPOSITE (Indo-Islamic) CULTURE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The peasants who cultivated the land under the Mughals were called:", "options": ["Ryots (raiyat)", "Mansabdars", "Subadars", "Sarrafs"], "correct_index": 0, "solution": "The PEASANTS who cultivated the land under the Mughals were called RYOTS (raiyat) — they paid land revenue and formed the base of the agrarian economy. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The relationship between the Mughal emperor and the zamindars was that zamindars:", "options": ["Helped collect revenue and often held local power, but were expected to be loyal", "Ruled over the emperor", "Had no role", "Were foreign kings"], "correct_index": 0, "solution": "The ZAMINDARS HELPED COLLECT REVENUE and often held LOCAL POWER and armed men, but were EXPECTED to be LOYAL to the emperor — a relationship that could turn to rebellion if strained. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mughal empire is considered significant in Indian history because it:", "options": ["Unified much of the subcontinent under one administration and created a lasting cultural legacy", "Had no impact", "Ruled only Delhi", "Existed for one year"], "correct_index": 0, "solution": "The MUGHAL EMPIRE is significant because it UNIFIED much of the SUBCONTINENT under ONE ADMINISTRATION for a long period and created a LASTING CULTURAL LEGACY in art, architecture, language, and cuisine. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Akbar's 'Nine Jewels' (Navaratnas) were:", "options": ["Nine talented persons in his court, including Abul Fazl, Birbal and Tansen", "Nine kinds of gems", "Nine forts", "Nine rivers"], "correct_index": 0, "solution": "Akbar's NINE JEWELS (NAVARATNAS) were NINE TALENTED PERSONS in his court — including ABUL FAZL (historian), BIRBAL (wit and adviser), and TANSEN (musician) — reflecting his patronage of talent. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following was a source of conflict between the Mughals and regional powers in the later period?", "options": ["The rise of the Marathas, Sikhs, Jats and others against Mughal authority", "Complete peace everywhere", "No regional powers existed", "Only foreign trade"], "correct_index": 0, "solution": "In the later period, the RISE of the MARATHAS, SIKHS, JATS, and other regional powers AGAINST Mughal authority was a major source of CONFLICT, contributing to the empire's decline. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mughal gardens (like the Shalimar Bagh) reflect the Mughal love of:", "options": ["Symmetry, water and nature (the char-bagh design)", "Warfare only", "Barren land", "Ignoring nature"], "correct_index": 0, "solution": "The MUGHAL GARDENS (like Shalimar Bagh) reflect the Mughal love of SYMMETRY, WATER (channels and fountains), and NATURE, laid out in the four-part CHAR-BAGH design symbolising paradise. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The main aim of the Mughal revenue system was to:", "options": ["Assess and collect the land revenue fairly and efficiently to fund the state", "Ruin the peasants", "Avoid all taxes", "Collect no money"], "correct_index": 0, "solution": "The main AIM of the Mughal REVENUE system was to ASSESS and COLLECT the LAND REVENUE FAIRLY and EFFICIENTLY to FUND the STATE (army, administration, court) while keeping the peasants productive. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about the Mughal empire is correct?", "options": ["It was a powerful, wealthy, and culturally rich empire that ruled much of India for over two centuries", "It ruled only for a decade", "It was poor and weak throughout", "It had no culture"], "correct_index": 0, "solution": "It is correct that the MUGHAL EMPIRE was a POWERFUL, WEALTHY, and CULTURALLY RICH empire that RULED much of INDIA for OVER TWO CENTURIES (from 1526, with its peak in the 16th–17th centuries). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mughals encouraged the growth of a common cultural language that blended Persian, Arabic and Indian words, contributing to:", "options": ["The development of Urdu", "The end of all languages", "Only Sanskrit", "No linguistic change"], "correct_index": 0, "solution": "The Mughal era encouraged a BLEND of PERSIAN, ARABIC, and INDIAN words, contributing to the DEVELOPMENT of URDU as a rich composite language. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Sher Shah Suri, who briefly interrupted Mughal rule, is remembered for:", "options": ["Administrative reforms and building the Grand Trunk Road", "Building the Taj Mahal", "Founding the Mughal empire", "Defeating Babur"], "correct_index": 0, "solution": "SHER SHAH SURI, who defeated Humayun and ruled briefly, is remembered for his ADMINISTRATIVE and revenue REFORMS and for building/improving the GRAND TRUNK ROAD — reforms later adopted by the Mughals. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Mughal emperor who wrote his memoirs, the 'Baburnama', was:", "options": ["Babur", "Akbar", "Aurangzeb", "Shah Jahan"], "correct_index": 0, "solution": "BABUR wrote his memoirs, the BABURNAMA, in Turkish — a lively account of his life, campaigns, and observations of India, and a valuable historical source. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mughal empire's wealth attracted the attention of European trading companies such as the:", "options": ["English and Dutch East India Companies", "American navy", "Roman legions", "Chinese fleet"], "correct_index": 0, "solution": "The Mughal empire's WEALTH and rich TRADE (especially textiles and spices) attracted EUROPEAN TRADING COMPANIES like the ENGLISH and DUTCH EAST INDIA COMPANIES, who set up trading posts. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The strength of the Mughal army lay in its use of:", "options": ["Cavalry, artillery (cannon) and firearms", "Only swords", "Only elephants", "No weapons"], "correct_index": 0, "solution": "The strength of the MUGHAL ARMY lay in its combination of CAVALRY (horsemen), ARTILLERY (CANNON), and FIREARMS (matchlocks) — a decisive advantage from Babur's time onward. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'The Mughals (16th to 17th Century)' is that:", "options": ["The Mughals were unimportant", "The MUGHAL EMPIRE, founded by BABUR (1526) and consolidated by AKBAR, became one of the greatest empires in Indian history — ruling through the MANSABDARI system (ranking nobles by zat and sawar, paid via JAGIRS), a systematic land-revenue system (ZABT, under Todar Mal), and a diverse nobility; AKBAR's policy of SULH-I-KUL (tolerance), alliances with the Rajputs and abolition of the jizya broadened its base, while emperors like JAHANGIR, SHAH JAHAN (Taj Mahal) and AURANGZEB (greatest extent) left a rich legacy of architecture, painting and composite culture, before the empire declined under weak successors and regional challenges", "It ruled only one village", "It had no administration"], "correct_index": 1, "solution": "The chapter's overall message is that the MUGHAL EMPIRE — founded by BABUR after the First Battle of Panipat (1526), briefly lost and regained by HUMAYUN, and consolidated by AKBAR — became one of the GREATEST EMPIRES in Indian history. It ruled through the MANSABDARI system (ranking nobles by ZAT and SAWAR, paid through JAGIRS), a systematic LAND-REVENUE system (ZABT, developed under RAJA TODAR MAL), and a DIVERSE NOBILITY (Turks, Persians, Afghans, Rajputs, Indian Muslims) governing provinces called SUBAS. AKBAR's policy of SULH-I-KUL (universal peace/tolerance), his ALLIANCES with the RAJPUTS, and his ABOLITION of the JIZYA broadened the empire's base, while emperors like JAHANGIR (painting), SHAH JAHAN (the TAJ MAHAL and grand architecture), and AURANGZEB (the greatest territorial EXTENT) left a rich legacy of ARCHITECTURE, PAINTING, and COMPOSITE CULTURE. The empire eventually DECLINED under WEAK SUCCESSORS, over-expansion, and rising REGIONAL POWERS (Marathas, Sikhs, and others). So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "The founder of the Mughal empire in India, who won the First Battle of Panipat in 1526, was:",
+    "options": [
+      "Akbar",
+      "Babur",
+      "Humayun",
+      "Aurangzeb"
+    ],
+    "correct_index": 1,
+    "solution": "Babur defeated Ibrahim Lodi at the First Battle of Panipat in 1526 and founded the Mughal empire.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Arrange the following Mughal emperors in correct order of succession: 1. Jahangir 2. Akbar 3. Shah Jahan 4. Aurangzeb",
+    "options": [
+      "2 → 1 → 3 → 4",
+      "1 → 2 → 3 → 4",
+      "2 → 3 → 1 → 4",
+      "1 → 3 → 2 → 4"
+    ],
+    "correct_index": 0,
+    "solution": "The order was Akbar → Jahangir → Shah Jahan → Aurangzeb (following Babur and Humayun).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal administrative system of ranking nobles, based on 'zat' and 'sawar', was called the:",
+    "options": [
+      "Iqta system",
+      "Mansabdari system",
+      "Jagirdari of the Sultans",
+      "Ryotwari system"
+    ],
+    "correct_index": 1,
+    "solution": "The mansabdari system ranked officials by 'zat' (personal status/pay) and 'sawar' (number of cavalry to maintain).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Akbar's policy of religious tolerance and peace among all faiths was known as:",
+    "options": [
+      "Sulh-i-kul",
+      "Jizya",
+      "Zabt",
+      "Sijda"
+    ],
+    "correct_index": 0,
+    "solution": "'Sulh-i-kul' meant 'universal peace' — Akbar's ideal of tolerance and impartiality towards all religions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Akbarnama' and 'Ain-i-Akbari', key sources on Akbar's reign, were written by:",
+    "options": [
+      "Abul Fazl",
+      "Badauni",
+      "Amir Khusrau",
+      "Faizi"
+    ],
+    "correct_index": 0,
+    "solution": "Abul Fazl, one of Akbar's Nine Jewels (Navaratnas), authored the Akbarnama, whose third volume is the Ain-i-Akbari.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The land revenue system introduced under Akbar (associated with Todar Mal), based on measurement and average produce, was called:",
+    "options": [
+      "Zabt",
+      "Iqta",
+      "Batai",
+      "Kankut"
+    ],
+    "correct_index": 0,
+    "solution": "The 'zabt' system fixed revenue based on measured land and average produce over ten years, developed under Raja Todar Mal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The young Akbar's affairs, in the early years of his reign, were managed by his regent:",
+    "options": [
+      "Bairam Khan",
+      "Man Singh",
+      "Todar Mal",
+      "Birbal"
+    ],
+    "correct_index": 0,
+    "solution": "Bairam Khan acted as regent during the early years of Akbar's reign after he became emperor in 1556.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'jagir' in the Mughal system referred to:",
+    "options": [
+      "A revenue assignment given to a mansabdar in lieu of salary",
+      "A religious endowment",
+      "A royal workshop",
+      "A market tax"
+    ],
+    "correct_index": 0,
+    "solution": "A jagir was an assignment of revenue from a piece of land, granted to a mansabdar in place of a cash salary.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The First Battle of Panipat (1526) was fought between Babur and:",
+    "options": [
+      "Rana Sanga",
+      "Ibrahim Lodi",
+      "Hemu",
+      "Sher Shah Suri"
+    ],
+    "correct_index": 1,
+    "solution": "Babur defeated Ibrahim Lodi, the last Lodi Sultan of Delhi, at the First Battle of Panipat in 1526.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Under the Mughals, intermediaries who collected revenue from peasants and held local power were broadly termed:",
+    "options": [
+      "Zamindars",
+      "Mansabdars",
+      "Sarrafs",
+      "Karkhanas"
+    ],
+    "correct_index": 0,
+    "solution": "Zamindars were the local landed intermediaries who held rights over land and helped collect revenue from the peasantry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Babur belonged to which lineage on his father's and mother's sides?",
+    "options": [
+      "Timurid (father) and Mongol/Chingizid (mother)",
+      "Persian and Greek",
+      "Arab and Roman",
+      "Chinese and Turkish"
+    ],
+    "correct_index": 0,
+    "solution": "BABUR was descended from TIMUR (Tamerlane) on his father's side and from CHINGIZ KHAN (the Mongols) on his mother's side — a proud dual heritage. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mughal emperor Humayun lost his empire to Sher Shah Suri but later:",
+    "options": [
+      "Regained it with Persian help",
+      "Gave up kingship",
+      "Never returned",
+      "Died in Persia"
+    ],
+    "correct_index": 0,
+    "solution": "HUMAYUN lost the empire to SHER SHAH SURI (of the Sur dynasty) but later REGAINED it with PERSIAN (Safavid) HELP, restoring Mughal rule shortly before his death. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Second Battle of Panipat (1556) was won by Akbar's forces against:",
+    "options": [
+      "Hemu",
+      "Ibrahim Lodi",
+      "Rana Pratap",
+      "Sher Shah"
+    ],
+    "correct_index": 0,
+    "solution": "The SECOND BATTLE of PANIPAT (1556) was won by AKBAR's forces (under Bairam Khan) against HEMU, securing the Mughal throne for the young Akbar. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In the mansabdari system, 'zat' referred to:",
+    "options": [
+      "The rank and personal status/pay of a mansabdar",
+      "The number of horses",
+      "A land tax",
+      "A religious duty"
+    ],
+    "correct_index": 0,
+    "solution": "In the MANSABDARI system, ZAT referred to the RANK and personal STATUS/PAY of a mansabdar, while SAWAR indicated the number of cavalrymen (horsemen) he had to maintain. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'jizya' that Akbar abolished was a:",
+    "options": [
+      "Tax formerly levied on non-Muslims",
+      "Land tax on all",
+      "Trade duty",
+      "Temple offering"
+    ],
+    "correct_index": 0,
+    "solution": "The JIZYA was a TAX formerly levied on NON-MUSLIMS. AKBAR ABOLISHED it as part of his policy of tolerance (sulh-i-kul), treating people of all faiths more equally. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Akbar's building of a new capital at Fatehpur Sikri, with a hall for religious discussions (Ibadat Khana), reflected his interest in:",
+    "options": [
+      "Dialogue among different religions",
+      "Making war",
+      "Trade only",
+      "Ignoring religion"
+    ],
+    "correct_index": 0,
+    "solution": "AKBAR's FATEHPUR SIKRI, with its IBADAT KHANA (Hall of Worship) for religious DISCUSSIONS among scholars of different faiths, reflected his deep interest in DIALOGUE among RELIGIONS and the search for truth. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Akbar's blend of ideas from various religions into a set of ethical principles was called:",
+    "options": [
+      "Din-i-Ilahi (Tauhid-i-Ilahi)",
+      "Sulh-i-kul",
+      "Zabt",
+      "Mansab"
+    ],
+    "correct_index": 0,
+    "solution": "AKBAR developed DIN-I-ILAHI (Tauhid-i-Ilahi), a small set of ETHICAL PRINCIPLES drawing on various religions, promoting a spiritual ideal centred on the emperor — though it had very few followers. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mughal empire reached its greatest territorial extent under:",
+    "options": [
+      "Aurangzeb",
+      "Babur",
+      "Humayun",
+      "Jahangir"
+    ],
+    "correct_index": 0,
+    "solution": "The Mughal empire reached its GREATEST TERRITORIAL EXTENT under AURANGZEB, who extended it deep into the Deccan and the south — though this over-expansion also strained the empire. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The magnificent Taj Mahal at Agra was built by which Mughal emperor?",
+    "options": [
+      "Shah Jahan",
+      "Akbar",
+      "Babur",
+      "Aurangzeb"
+    ],
+    "correct_index": 0,
+    "solution": "The TAJ MAHAL at Agra was built by SHAH JAHAN in memory of his wife Mumtaz Mahal — a masterpiece of Mughal architecture. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The 'Ain-i-Akbari' is valuable to historians because it gives detailed information about:",
+    "options": [
+      "The administration, revenue, army and society of Akbar's empire",
+      "Only battles",
+      "Only the Taj Mahal",
+      "European trade only"
+    ],
+    "correct_index": 0,
+    "solution": "The AIN-I-AKBARI (by Abul Fazl) is valuable because it gives DETAILED information about the ADMINISTRATION, REVENUE, ARMY, and SOCIETY of Akbar's empire — a rich statistical and descriptive source. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Akbar sought to win the loyalty of the Rajputs through:",
+    "options": [
+      "Alliances, marriages and giving them high posts",
+      "Constant war only",
+      "Ignoring them",
+      "Expelling them"
+    ],
+    "correct_index": 0,
+    "solution": "AKBAR sought to win the loyalty of the RAJPUTS through ALLIANCES, MARRIAGE ties, and giving them HIGH POSTS (as mansabdars and governors) — a policy that broadened the empire's base. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal emperor Jahangir is especially associated with the patronage of:",
+    "options": [
+      "Painting (miniature art)",
+      "Shipbuilding",
+      "Coin-clipping",
+      "Astronomy only"
+    ],
+    "correct_index": 0,
+    "solution": "JAHANGIR is especially associated with the patronage of PAINTING — Mughal MINIATURE ART flourished under him, with fine portraits and nature studies. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reversal of Akbar's tolerant policies, including the re-imposition of the jizya, is associated with:",
+    "options": [
+      "Aurangzeb",
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "correct_index": 0,
+    "solution": "AURANGZEB is associated with a more orthodox policy, including the RE-IMPOSITION of the JIZYA on non-Muslims — a reversal of Akbar's tolerant approach. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The mansabdars were paid mostly by:",
+    "options": [
+      "The assignment of a jagir (land revenue) rather than cash",
+      "Gold coins only",
+      "Foreign aid",
+      "Free food only"
+    ],
+    "correct_index": 0,
+    "solution": "The MANSABDARS were paid mostly through the ASSIGNMENT of a JAGIR (the revenue of a piece of land) rather than in cash, from which they maintained their troops and household. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Consider the pairs: 1. Akbar — sulh-i-kul 2. Shah Jahan — Taj Mahal 3. Aurangzeb — Deccan expansion. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: AKBAR → SULH-I-KUL (universal peace/tolerance); SHAH JAHAN → the TAJ MAHAL; and AURANGZEB → DECCAN EXPANSION. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prosperity of the Mughal empire was based largely on:",
+    "options": [
+      "A rich agrarian economy, land revenue and flourishing trade and crafts",
+      "Only foreign gifts",
+      "Piracy",
+      "A desert economy"
+    ],
+    "correct_index": 0,
+    "solution": "The PROSPERITY of the Mughal empire was based on a RICH AGRARIAN economy, systematic LAND REVENUE, and FLOURISHING TRADE and CRAFTS (textiles, handicrafts) that made India famous worldwide. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal capital cities included Agra, Delhi (Shahjahanabad) and:",
+    "options": [
+      "Lahore and Fatehpur Sikri",
+      "Only Madras",
+      "Only Kolkata",
+      "Only Mumbai"
+    ],
+    "correct_index": 0,
+    "solution": "The MUGHAL CAPITALS at various times included AGRA, DELHI (SHAHJAHANABAD, built by Shah Jahan), LAHORE, and FATEHPUR SIKRI (built by Akbar). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Akbar followed a policy of religious tolerance. Reason (R): He believed that peace among all faiths (sulh-i-kul) would strengthen his diverse empire. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — Akbar followed religious tolerance. R is TRUE and correctly EXPLAINS A: he believed that PEACE among ALL FAITHS (SULH-I-KUL) would STRENGTHEN his DIVERSE EMPIRE — which is precisely why he adopted tolerance. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mughals maintained a strong central administration through officials such as:",
+    "options": [
+      "The wazir (revenue), the diwan, and provincial governors (subadars)",
+      "Only village priests",
+      "Only foreign traders",
+      "No officials"
+    ],
+    "correct_index": 0,
+    "solution": "The Mughals maintained a strong central administration through officials like the WAZIR/DIWAN (in charge of REVENUE and finance) and PROVINCIAL GOVERNORS (SUBADARS) who ran the provinces (subas). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The empire was divided into provinces called:",
+    "options": [
+      "Subas",
+      "Continents",
+      "Iqtas only",
+      "Villages only"
+    ],
+    "correct_index": 0,
+    "solution": "The Mughal empire was divided into PROVINCES called SUBAS, each governed by a subadar and further divided into smaller units (sarkars and parganas). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a reason for the decline of the Mughal empire after Aurangzeb?",
+    "options": [
+      "Weak successors, over-expansion, revolts, and a financial and administrative crisis",
+      "Too much unity",
+      "The absence of any enemies",
+      "A single strong ruler forever"
+    ],
+    "correct_index": 0,
+    "solution": "The Mughal DECLINE after Aurangzeb was caused by WEAK SUCCESSORS, OVER-EXPANSION (especially into the Deccan), REVOLTS (Marathas, Sikhs, Jats, etc.), and a FINANCIAL and ADMINISTRATIVE CRISIS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mughal painting was notable for combining Persian style with:",
+    "options": [
+      "Indian themes and techniques",
+      "European oil painting only",
+      "Chinese calligraphy only",
+      "No other style"
+    ],
+    "correct_index": 0,
+    "solution": "MUGHAL PAINTING was notable for combining PERSIAN style with INDIAN THEMES and TECHNIQUES (and later some European influence), producing a distinctive, refined miniature art. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'zabt' revenue system fixed the state's share based on:",
+    "options": [
+      "Measured land and the average produce and prices over several years",
+      "The king's mood",
+      "A random guess",
+      "The colour of the soil only"
+    ],
+    "correct_index": 0,
+    "solution": "The ZABT system (developed under Todar Mal) fixed the state's share based on MEASURED LAND and the AVERAGE PRODUCE and PRICES over several (about ten) YEARS — a systematic, fairer revenue assessment. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly pairs a Mughal emperor with his reign feature?",
+    "options": [
+      "Babur → founded the empire; Akbar → tolerance and administration; Shah Jahan → architecture; Aurangzeb → greatest extent",
+      "Babur → Taj Mahal; Akbar → founded empire; Aurangzeb → tolerance",
+      "All built the Taj Mahal",
+      "None ruled India"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: BABUR → FOUNDED the empire; AKBAR → TOLERANCE and strong ADMINISTRATION; SHAH JAHAN → great ARCHITECTURE (Taj Mahal); AURANGZEB → the GREATEST territorial EXTENT. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal court and nobility were made up of people from:",
+    "options": [
+      "Diverse origins — Turks, Persians, Afghans, Rajputs and Indian Muslims",
+      "Only one group",
+      "Only Europeans",
+      "Only farmers"
+    ],
+    "correct_index": 0,
+    "solution": "The Mughal court and NOBILITY were DIVERSE — including TURKS, PERSIANS (Iranis), AFGHANS, RAJPUTS, and Indian Muslims — reflecting the empire's broad, inclusive character (especially under Akbar). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal emperors are remembered for their contribution to:",
+    "options": [
+      "Architecture, painting, literature and a rich composite culture",
+      "Nothing",
+      "Only warfare",
+      "Destroying culture"
+    ],
+    "correct_index": 0,
+    "solution": "The Mughal emperors are remembered for their great contribution to ARCHITECTURE (forts, mosques, tombs, gardens), PAINTING, LITERATURE, and a rich COMPOSITE (Indo-Islamic) CULTURE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The peasants who cultivated the land under the Mughals were called:",
+    "options": [
+      "Ryots (raiyat)",
+      "Mansabdars",
+      "Subadars",
+      "Sarrafs"
+    ],
+    "correct_index": 0,
+    "solution": "The PEASANTS who cultivated the land under the Mughals were called RYOTS (raiyat) — they paid land revenue and formed the base of the agrarian economy. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The relationship between the Mughal emperor and the zamindars was that zamindars:",
+    "options": [
+      "Helped collect revenue and often held local power, but were expected to be loyal",
+      "Ruled over the emperor",
+      "Had no role",
+      "Were foreign kings"
+    ],
+    "correct_index": 0,
+    "solution": "The ZAMINDARS HELPED COLLECT REVENUE and often held LOCAL POWER and armed men, but were EXPECTED to be LOYAL to the emperor — a relationship that could turn to rebellion if strained. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal empire is considered significant in Indian history because it:",
+    "options": [
+      "Unified much of the subcontinent under one administration and created a lasting cultural legacy",
+      "Had no impact",
+      "Ruled only Delhi",
+      "Existed for one year"
+    ],
+    "correct_index": 0,
+    "solution": "The MUGHAL EMPIRE is significant because it UNIFIED much of the SUBCONTINENT under ONE ADMINISTRATION for a long period and created a LASTING CULTURAL LEGACY in art, architecture, language, and cuisine. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Akbar's 'Nine Jewels' (Navaratnas) were:",
+    "options": [
+      "Nine talented persons in his court, including Abul Fazl, Birbal and Tansen",
+      "Nine kinds of gems",
+      "Nine forts",
+      "Nine rivers"
+    ],
+    "correct_index": 0,
+    "solution": "Akbar's NINE JEWELS (NAVARATNAS) were NINE TALENTED PERSONS in his court — including ABUL FAZL (historian), BIRBAL (wit and adviser), and TANSEN (musician) — reflecting his patronage of talent. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following was a source of conflict between the Mughals and regional powers in the later period?",
+    "options": [
+      "The rise of the Marathas, Sikhs, Jats and others against Mughal authority",
+      "Complete peace everywhere",
+      "No regional powers existed",
+      "Only foreign trade"
+    ],
+    "correct_index": 0,
+    "solution": "In the later period, the RISE of the MARATHAS, SIKHS, JATS, and other regional powers AGAINST Mughal authority was a major source of CONFLICT, contributing to the empire's decline. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal gardens (like the Shalimar Bagh) reflect the Mughal love of:",
+    "options": [
+      "Symmetry, water and nature (the char-bagh design)",
+      "Warfare only",
+      "Barren land",
+      "Ignoring nature"
+    ],
+    "correct_index": 0,
+    "solution": "The MUGHAL GARDENS (like Shalimar Bagh) reflect the Mughal love of SYMMETRY, WATER (channels and fountains), and NATURE, laid out in the four-part CHAR-BAGH design symbolising paradise. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main aim of the Mughal revenue system was to:",
+    "options": [
+      "Assess and collect the land revenue fairly and efficiently to fund the state",
+      "Ruin the peasants",
+      "Avoid all taxes",
+      "Collect no money"
+    ],
+    "correct_index": 0,
+    "solution": "The main AIM of the Mughal REVENUE system was to ASSESS and COLLECT the LAND REVENUE FAIRLY and EFFICIENTLY to FUND the STATE (army, administration, court) while keeping the peasants productive. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about the Mughal empire is correct?",
+    "options": [
+      "It was a powerful, wealthy, and culturally rich empire that ruled much of India for over two centuries",
+      "It ruled only for a decade",
+      "It was poor and weak throughout",
+      "It had no culture"
+    ],
+    "correct_index": 0,
+    "solution": "It is correct that the MUGHAL EMPIRE was a POWERFUL, WEALTHY, and CULTURALLY RICH empire that RULED much of INDIA for OVER TWO CENTURIES (from 1526, with its peak in the 16th–17th centuries). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughals encouraged the growth of a common cultural language that blended Persian, Arabic and Indian words, contributing to:",
+    "options": [
+      "The development of Urdu",
+      "The end of all languages",
+      "Only Sanskrit",
+      "No linguistic change"
+    ],
+    "correct_index": 0,
+    "solution": "The Mughal era encouraged a BLEND of PERSIAN, ARABIC, and INDIAN words, contributing to the DEVELOPMENT of URDU as a rich composite language. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sher Shah Suri, who briefly interrupted Mughal rule, is remembered for:",
+    "options": [
+      "Administrative reforms and building the Grand Trunk Road",
+      "Building the Taj Mahal",
+      "Founding the Mughal empire",
+      "Defeating Babur"
+    ],
+    "correct_index": 0,
+    "solution": "SHER SHAH SURI, who defeated Humayun and ruled briefly, is remembered for his ADMINISTRATIVE and revenue REFORMS and for building/improving the GRAND TRUNK ROAD — reforms later adopted by the Mughals. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mughal emperor who wrote his memoirs, the 'Baburnama', was:",
+    "options": [
+      "Babur",
+      "Akbar",
+      "Aurangzeb",
+      "Shah Jahan"
+    ],
+    "correct_index": 0,
+    "solution": "BABUR wrote his memoirs, the BABURNAMA, in Turkish — a lively account of his life, campaigns, and observations of India, and a valuable historical source. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal empire's wealth attracted the attention of European trading companies such as the:",
+    "options": [
+      "English and Dutch East India Companies",
+      "American navy",
+      "Roman legions",
+      "Chinese fleet"
+    ],
+    "correct_index": 0,
+    "solution": "The Mughal empire's WEALTH and rich TRADE (especially textiles and spices) attracted EUROPEAN TRADING COMPANIES like the ENGLISH and DUTCH EAST INDIA COMPANIES, who set up trading posts. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The strength of the Mughal army lay in its use of:",
+    "options": [
+      "Cavalry, artillery (cannon) and firearms",
+      "Only swords",
+      "Only elephants",
+      "No weapons"
+    ],
+    "correct_index": 0,
+    "solution": "The strength of the MUGHAL ARMY lay in its combination of CAVALRY (horsemen), ARTILLERY (CANNON), and FIREARMS (matchlocks) — a decisive advantage from Babur's time onward. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'The Mughals (16th to 17th Century)' is that:",
+    "options": [
+      "The Mughals were unimportant",
+      "The MUGHAL EMPIRE, founded by BABUR (1526) and consolidated by AKBAR, became one of the greatest empires in Indian history — ruling through the MANSABDARI system (ranking nobles by zat and sawar, paid via JAGIRS), a systematic land-revenue system (ZABT, under Todar Mal), and a diverse nobility; AKBAR's policy of SULH-I-KUL (tolerance), alliances with the Rajputs and abolition of the jizya broadened its base, while emperors like JAHANGIR, SHAH JAHAN (Taj Mahal) and AURANGZEB (greatest extent) left a rich legacy of architecture, painting and composite culture, before the empire declined under weak successors and regional challenges",
+      "It ruled only one village",
+      "It had no administration"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that the MUGHAL EMPIRE — founded by BABUR after the First Battle of Panipat (1526), briefly lost and regained by HUMAYUN, and consolidated by AKBAR — became one of the GREATEST EMPIRES in Indian history. It ruled through the MANSABDARI system (ranking nobles by ZAT and SAWAR, paid through JAGIRS), a systematic LAND-REVENUE system (ZABT, developed under RAJA TODAR MAL), and a DIVERSE NOBILITY (Turks, Persians, Afghans, Rajputs, Indian Muslims) governing provinces called SUBAS. AKBAR's policy of SULH-I-KUL (universal peace/tolerance), his ALLIANCES with the RAJPUTS, and his ABOLITION of the JIZYA broadened the empire's base, while emperors like JAHANGIR (painting), SHAH JAHAN (the TAJ MAHAL and grand architecture), and AURANGZEB (the greatest territorial EXTENT) left a rich legacy of ARCHITECTURE, PAINTING, and COMPOSITE CULTURE. The empire eventually DECLINED under WEAK SUCCESSORS, over-expansion, and rising REGIONAL POWERS (Marathas, Sikhs, and others). So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal Empire in India was founded by:",
+    "options": [
+      "Akbar",
+      "Babur",
+      "Humayun",
+      "Shah Jahan"
+    ],
+    "correct_index": 1,
+    "solution": "Babur founded the Mughal Empire after defeating Ibrahim Lodi at the First Battle of Panipat in 1526.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Babur defeated Ibrahim Lodi at the First Battle of Panipat in:",
+    "options": [
+      "1526",
+      "1556",
+      "1600",
+      "1707"
+    ],
+    "correct_index": 0,
+    "solution": "Babur defeated Ibrahim Lodi at the First Battle of Panipat (1526), using field artillery and the tulughma tactic, establishing Mughal rule.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Babur's memoirs, an important historical source, are called the:",
+    "options": [
+      "Akbarnama",
+      "Baburnama (Tuzuk-i-Baburi)",
+      "Ain-i-Akbari",
+      "Humayun-nama"
+    ],
+    "correct_index": 1,
+    "solution": "The Baburnama (Tuzuk-i-Baburi), Babur's autobiography written in Chagatai Turkish, is a vivid and valuable historical source.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Humayun was temporarily driven out of India by the Afghan ruler:",
+    "options": [
+      "Sher Shah Suri",
+      "Ibrahim Lodi",
+      "Hemu",
+      "Bahlul Lodi"
+    ],
+    "correct_index": 0,
+    "solution": "Sher Shah Suri defeated Humayun (battles of Chausa 1539 and Kannauj 1540) and established the Sur Empire; Humayun later regained the throne in 1555.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sher Shah Suri is remembered for administrative reforms including the building of the:",
+    "options": [
+      "Taj Mahal",
+      "Grand Trunk Road (revival) and a sound revenue system",
+      "Red Fort",
+      "Qutb Minar"
+    ],
+    "correct_index": 1,
+    "solution": "Sher Shah Suri revived and extended the Grand Trunk Road, introduced the silver rupiya, and set up an efficient revenue (land-measurement) system that influenced later Mughal administration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The greatest Mughal emperor, who expanded the empire and promoted religious tolerance, was:",
+    "options": [
+      "Babur",
+      "Akbar",
+      "Aurangzeb",
+      "Bahadur Shah"
+    ],
+    "correct_index": 1,
+    "solution": "Akbar (r. 1556–1605) greatly expanded the empire and is celebrated for his policy of religious tolerance and administrative reforms.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Akbar became emperor after the Second Battle of Panipat (1556), in which his forces defeated:",
+    "options": [
+      "Hemu (Hemchandra Vikramaditya)",
+      "Ibrahim Lodi",
+      "Rana Pratap",
+      "Sher Shah"
+    ],
+    "correct_index": 0,
+    "solution": "At the Second Battle of Panipat (1556), Akbar's forces (led by Bairam Khan) defeated Hemu, consolidating Mughal rule.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Akbar's policy towards different religions was reflected in his abolition of the:",
+    "options": [
+      "Land tax",
+      "Jizya (tax on non-Muslims) and pilgrimage tax",
+      "Salt tax",
+      "Trade tax"
+    ],
+    "correct_index": 1,
+    "solution": "Akbar abolished the jizya (tax on non-Muslims) and the pilgrimage tax, reflecting his policy of tolerance and 'sulh-i-kul' (peace with all).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Akbar's religious philosophy promoting harmony among faiths was called:",
+    "options": [
+      "Din-i-Ilahi and Sulh-i-Kul",
+      "Sharia",
+      "Bhakti",
+      "Jihad"
+    ],
+    "correct_index": 0,
+    "solution": "Akbar propounded 'Din-i-Ilahi' (a syncretic set of ethical ideas) and the policy of 'Sulh-i-Kul' (universal peace/tolerance), reflecting his inclusive outlook.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Akbar's revenue system, based on land measurement and average produce, was developed by his minister:",
+    "options": [
+      "Todar Mal",
+      "Birbal",
+      "Abul Fazl",
+      "Man Singh"
+    ],
+    "correct_index": 0,
+    "solution": "Raja Todar Mal developed Akbar's land revenue system (the zabti/dahsala system), based on careful measurement and assessment of average produce.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'mansabdari system' introduced by Akbar was a system of:",
+    "options": [
+      "Land ownership",
+      "Ranking of officials/nobles determining their status, salary and military obligation",
+      "Religious hierarchy",
+      "Trade guilds"
+    ],
+    "correct_index": 1,
+    "solution": "The mansabdari system ranked officials by 'zat' (personal rank/status) and 'sawar' (cavalry to maintain), determining their pay and military duties — the backbone of Mughal administration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Akbar's court chronicle 'Akbarnama' and the administrative gazetteer 'Ain-i-Akbari' were written by:",
+    "options": [
+      "Abul Fazl",
+      "Badauni",
+      "Faizi",
+      "Todar Mal"
+    ],
+    "correct_index": 0,
+    "solution": "Abul Fazl, one of Akbar's Navaratnas, wrote the Akbarnama (history of Akbar's reign) and its third volume, the Ain-i-Akbari (a detailed account of administration and society).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Akbar founded a new capital city near Agra called:",
+    "options": [
+      "Fatehpur Sikri",
+      "Shahjahanabad",
+      "Allahabad",
+      "Lahore"
+    ],
+    "correct_index": 0,
+    "solution": "Akbar built Fatehpur Sikri as his capital (with the Buland Darwaza and Jama Masjid), though it was later abandoned largely due to water scarcity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal emperor Jahangir was known for his interest in:",
+    "options": [
+      "Painting and the arts (a great patron of miniature painting)",
+      "Only warfare",
+      "Astronomy only",
+      "Trade only"
+    ],
+    "correct_index": 0,
+    "solution": "Jahangir was a great patron of Mughal miniature painting, which flourished under him; his memoirs are the Tuzuk-i-Jahangiri.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Jahangir's influential wife, who wielded considerable political power, was:",
+    "options": [
+      "Mumtaz Mahal",
+      "Nur Jahan",
+      "Jodha Bai",
+      "Razia Sultan"
+    ],
+    "correct_index": 1,
+    "solution": "Nur Jahan, Jahangir's wife, was a powerful figure who effectively influenced the administration and even had coins issued in her name.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal emperor who built the Taj Mahal was:",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correct_index": 2,
+    "solution": "Shah Jahan built the Taj Mahal at Agra in memory of his wife Mumtaz Mahal; his reign is called the 'golden age' of Mughal architecture.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Taj Mahal was built by Shah Jahan in memory of his wife:",
+    "options": [
+      "Nur Jahan",
+      "Mumtaz Mahal",
+      "Jodha Bai",
+      "Jahanara"
+    ],
+    "correct_index": 1,
+    "solution": "The Taj Mahal, a UNESCO World Heritage Site and a marvel of Mughal architecture, was built by Shah Jahan as a mausoleum for his beloved wife Mumtaz Mahal.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Shah Jahan shifted the Mughal capital to Delhi, building a new city called:",
+    "options": [
+      "Fatehpur Sikri",
+      "Shahjahanabad (Old Delhi)",
+      "Allahabad",
+      "Lahore"
+    ],
+    "correct_index": 1,
+    "solution": "Shah Jahan built Shahjahanabad (present-day Old Delhi) with the Red Fort (Lal Qila) and the Jama Masjid, shifting the capital there from Agra.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Peacock Throne (Takht-i-Taus) was commissioned by:",
+    "options": [
+      "Akbar",
+      "Shah Jahan",
+      "Aurangzeb",
+      "Babur"
+    ],
+    "correct_index": 1,
+    "solution": "The famous jewel-studded Peacock Throne was commissioned by Shah Jahan; it was later carried away by Nadir Shah after his 1739 invasion.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The last of the 'Great Mughals', whose long reign saw the empire's greatest extent but also strains, was:",
+    "options": [
+      "Jahangir",
+      "Aurangzeb",
+      "Bahadur Shah I",
+      "Shah Jahan"
+    ],
+    "correct_index": 1,
+    "solution": "Aurangzeb (r. 1658–1707) expanded the empire to its greatest territorial extent, but his long wars in the Deccan and religious policies strained the empire, which declined after him.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Aurangzeb reimposed which tax that Akbar had abolished?",
+    "options": [
+      "Land tax",
+      "Jizya (on non-Muslims)",
+      "Salt tax",
+      "Trade tax"
+    ],
+    "correct_index": 1,
+    "solution": "Aurangzeb reimposed the jizya on non-Muslims (1679), reversing Akbar's policy; his reign is generally seen as less tolerant than his predecessors'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Aurangzeb spent his later years fighting long wars in the ______ against the Marathas and Deccan sultanates.",
+    "options": [
+      "Punjab",
+      "Deccan",
+      "Bengal",
+      "Kashmir"
+    ],
+    "correct_index": 1,
+    "solution": "Aurangzeb spent his last 25 years in the Deccan, campaigning against the Marathas and annexing Bijapur and Golconda; these costly wars weakened the empire.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Maratha leader who challenged Aurangzeb and founded the Maratha kingdom was:",
+    "options": [
+      "Shivaji",
+      "Rana Pratap",
+      "Guru Gobind Singh",
+      "Hemu"
+    ],
+    "correct_index": 0,
+    "solution": "Chhatrapati Shivaji founded the Maratha kingdom and used guerrilla warfare (ganimi kava) to resist Mughal power, becoming a symbol of resistance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "After Aurangzeb's death in 1707, the Mughal Empire:",
+    "options": [
+      "Grew stronger",
+      "Declined rapidly amid weak successors, invasions and rising regional powers",
+      "Ended immediately",
+      "Moved to Persia"
+    ],
+    "correct_index": 1,
+    "solution": "After Aurangzeb, the Mughal Empire declined rapidly due to weak successors, wars of succession, invasions (Nadir Shah, Ahmad Shah Abdali) and the rise of regional powers like the Marathas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Persian ruler who invaded India in 1739, sacked Delhi and took away the Peacock Throne and Kohinoor was:",
+    "options": [
+      "Nadir Shah",
+      "Ahmad Shah Abdali",
+      "Timur",
+      "Genghis Khan"
+    ],
+    "correct_index": 0,
+    "solution": "Nadir Shah of Persia invaded India in 1739, defeated the Mughals at Karnal, sacked Delhi, and carried away the Peacock Throne and the Kohinoor diamond.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Third Battle of Panipat (1761) was fought between the Marathas and:",
+    "options": [
+      "Ahmad Shah Abdali (Durrani)",
+      "The British",
+      "The Mughals",
+      "The Portuguese"
+    ],
+    "correct_index": 0,
+    "solution": "The Third Battle of Panipat (1761) was fought between the Marathas and Ahmad Shah Abdali (Durrani) of Afghanistan; the Marathas were defeated, checking their northward expansion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The last Mughal emperor, exiled by the British after the Revolt of 1857, was:",
+    "options": [
+      "Bahadur Shah Zafar",
+      "Akbar II",
+      "Shah Alam II",
+      "Aurangzeb"
+    ],
+    "correct_index": 0,
+    "solution": "Bahadur Shah Zafar II, the last Mughal emperor, was made a nominal leader of the 1857 revolt and later exiled by the British to Rangoon, ending the Mughal dynasty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mughal painting reached its peak as a blend of Persian and Indian styles, especially under:",
+    "options": [
+      "Babur",
+      "Jahangir and Shah Jahan",
+      "Aurangzeb",
+      "Bahadur Shah"
+    ],
+    "correct_index": 1,
+    "solution": "Mughal miniature painting, blending Persian and Indian traditions, flourished especially under Jahangir and Shah Jahan; Aurangzeb, being austere, withdrew patronage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mughal land revenue system's basic unit of assessment was the:",
+    "options": [
+      "Village/estate producing revenue (through zabti/dahsala assessment)",
+      "Individual person",
+      "City",
+      "Province only"
+    ],
+    "correct_index": 0,
+    "solution": "The Mughal zabti/dahsala system assessed land revenue on the basis of measured area and average produce over years, usually collected in cash — a refined and influential system.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Akbar's 'Navaratnas' (nine gems) included Birbal, Tansen, Todar Mal and:",
+    "options": [
+      "Abul Fazl",
+      "Shivaji",
+      "Guru Nanak",
+      "Kabir"
+    ],
+    "correct_index": 0,
+    "solution": "Akbar's Navaratnas (nine gems) included Abul Fazl, Birbal, Tansen, Raja Todar Mal, Raja Man Singh, Faizi and others — talented advisors and artists at his court.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mughal official who governed a province (suba) was called the:",
+    "options": [
+      "Subadar (governor)",
+      "Sarpanch",
+      "Mayor",
+      "Qazi"
+    ],
+    "correct_index": 0,
+    "solution": "A Mughal province (suba) was headed by a Subadar (governor), with a diwan for revenue and other officials — part of Akbar's structured provincial administration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which architectural feature became a hallmark of Mughal buildings, seen in the Taj Mahal?",
+    "options": [
+      "Shikhara",
+      "The bulbous dome, char-bagh gardens and pietra dura inlay",
+      "Gopuram",
+      "Stupa dome"
+    ],
+    "correct_index": 1,
+    "solution": "Mughal architecture is marked by grand bulbous domes, symmetrical char-bagh (four-part) gardens, minarets and pietra dura (inlaid semi-precious stone) decoration, as in the Taj Mahal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'char-bagh' style associated with Mughal gardens means a garden divided into:",
+    "options": [
+      "Two parts",
+      "Four quadrants by walkways/water channels",
+      "Eight parts",
+      "No divisions"
+    ],
+    "correct_index": 1,
+    "solution": "The char-bagh (four-garden) layout divides a garden into four quadrants by walkways or water channels, symbolising paradise; it is central to Mughal garden and tomb design.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mughal emperor Humayun's Tomb in Delhi is significant as it:",
+    "options": [
+      "Was the first grand Mughal garden-tomb, a precursor to the Taj Mahal",
+      "Is a temple",
+      "Is a fort",
+      "Is a mosque only"
+    ],
+    "correct_index": 0,
+    "solution": "Humayun's Tomb (built by his widow Bega Begum) was the first grand Mughal garden-tomb in India and a precursor to the Taj Mahal; it is a UNESCO World Heritage Site.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Sikh Guru executed under Aurangzeb, remembered for defending religious freedom, was:",
+    "options": [
+      "Guru Nanak",
+      "Guru Tegh Bahadur",
+      "Guru Arjan",
+      "Guru Gobind Singh"
+    ],
+    "correct_index": 1,
+    "solution": "Guru Tegh Bahadur, the ninth Sikh Guru, was executed under Aurangzeb for defending religious freedom; his martyrdom is deeply significant in Sikh history.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The founder of the Khalsa (1699), who militarised the Sikh community against Mughal oppression, was:",
+    "options": [
+      "Guru Nanak",
+      "Guru Gobind Singh",
+      "Guru Arjan",
+      "Guru Ram Das"
+    ],
+    "correct_index": 1,
+    "solution": "Guru Gobind Singh, the tenth Sikh Guru, founded the Khalsa in 1699 at Anandpur Sahib, giving the Sikh community a distinct identity and martial spirit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Persian was the official court language of the Mughals, but a new composite language that developed in this period was:",
+    "options": [
+      "Urdu (Hindustani)",
+      "Tamil",
+      "Bengali",
+      "Marathi"
+    ],
+    "correct_index": 0,
+    "solution": "Urdu (Hindustani) developed as a composite language blending Persian, Arabic and Turkish vocabulary with Indian (Khari Boli) grammar, flourishing in the Mughal era.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly orders the Mughal emperors?",
+    "options": [
+      "Babur → Humayun → Akbar → Jahangir → Shah Jahan → Aurangzeb",
+      "Akbar → Babur → Aurangzeb",
+      "Aurangzeb → Akbar → Babur",
+      "Humayun → Babur → Akbar"
+    ],
+    "correct_index": 0,
+    "solution": "The order of the 'Great Mughals' is Babur → Humayun → Akbar → Jahangir → Shah Jahan → Aurangzeb.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason the Mughals could control such a vast empire was their:",
+    "options": [
+      "Lack of administration",
+      "Efficient centralised administration (mansabdari, revenue system) and military strength",
+      "Isolation",
+      "Absence of an army"
+    ],
+    "correct_index": 1,
+    "solution": "The Mughals controlled a vast, diverse empire through an efficient centralised administration (mansabdari, structured provinces, a sound revenue system) backed by military strength and, under Akbar, a policy of inclusion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the Mughals is correct? (i) Babur founded the empire (ii) Akbar promoted tolerance (iii) Shah Jahan built the Taj Mahal",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Babur founded the Mughal Empire, Akbar promoted religious tolerance, and Shah Jahan built the Taj Mahal.",
+    "difficulty": "medium"
+  }
 ]

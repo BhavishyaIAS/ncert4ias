@@ -1,52 +1,1082 @@
 [
-  { "stem": "Which of the following lists the dynasties of the Delhi Sultanate in correct chronological order?", "options": ["Khalji → Slave → Tughlaq → Lodi → Sayyid", "Slave (Mamluk) → Khalji → Tughlaq → Sayyid → Lodi", "Tughlaq → Khalji → Slave → Lodi → Sayyid", "Lodi → Sayyid → Tughlaq → Khalji → Slave"], "correct_index": 1, "solution": "The five dynasties of the Delhi Sultanate in order were: Slave (Mamluk), Khalji, Tughlaq, Sayyid and Lodi.", "difficulty": "medium" },
-  { "stem": "Razia Sultan, the only woman to rule the Delhi Sultanate, was the daughter of which Sultan?", "options": ["Qutbuddin Aibak", "Iltutmish", "Balban", "Alauddin Khalji"], "correct_index": 1, "solution": "Razia (Raziyya) was the daughter of Sultan Iltutmish and the only woman to sit on the throne of Delhi.", "difficulty": "medium" },
-  { "stem": "The construction of the Qutb Minar was begun by Qutbuddin Aibak and completed by:", "options": ["Balban", "Iltutmish", "Alauddin Khalji", "Firoz Shah Tughlaq"], "correct_index": 1, "solution": "Qutbuddin Aibak began the Qutb Minar; it was completed by his successor Iltutmish.", "difficulty": "medium" },
-  { "stem": "Under the Delhi Sultans, an 'iqta' was:", "options": ["A religious tax", "A territorial assignment whose revenue supported a military commander", "A type of coin", "A royal garden"], "correct_index": 1, "solution": "An iqta was a land/revenue assignment given to a commander (iqtadar or muqti) in return for military and administrative service.", "difficulty": "hard" },
-  { "stem": "The Sultan famous for introducing strict market price control and dealing with repeated Mongol invasions was:", "options": ["Iltutmish", "Alauddin Khalji", "Firoz Shah Tughlaq", "Ibrahim Lodi"], "correct_index": 1, "solution": "Alauddin Khalji is known for his market/price control measures and for successfully resisting Mongol invasions.", "difficulty": "medium" },
-  { "stem": "Which ruler is associated with the introduction of a 'token currency' and the transfer of the capital from Delhi to Daulatabad?", "options": ["Muhammad bin Tughlaq", "Balban", "Alauddin Khalji", "Bahlul Lodi"], "correct_index": 0, "solution": "Muhammad bin Tughlaq introduced a token currency and shifted the capital to Daulatabad in the Deccan — both experiments that ultimately failed.", "difficulty": "medium" },
-  { "stem": "The chronicle 'Tabaqat-i-Nasiri', a source for the early Delhi Sultans, was written by:", "options": ["Ziauddin Barani", "Minhaj-i-Siraj", "Amir Khusrau", "Abul Fazl"], "correct_index": 1, "solution": "Minhaj-i-Siraj wrote the Tabaqat-i-Nasiri, an important Persian chronicle of the early Delhi Sultanate.", "difficulty": "hard" },
-  { "stem": "The last dynasty of the Delhi Sultanate, defeated by Babur in 1526, was the:", "options": ["Sayyid dynasty", "Lodi dynasty", "Tughlaq dynasty", "Khalji dynasty"], "correct_index": 1, "solution": "Ibrahim Lodi, of the Lodi dynasty, was defeated and killed by Babur at the First Battle of Panipat in 1526, ending the Sultanate.", "difficulty": "medium" },
-  { "stem": "The special group of the Sultan's trusted slave-officers, appointed to high posts, were known as:", "options": ["Bandagan", "Samantas", "Nayakas", "Zamindars"], "correct_index": 0, "solution": "Bandagan were the specially recruited slaves purchased for military and administrative service, whom Sultans trusted with high office.", "difficulty": "hard" },
-  { "stem": "The first ruler of the Delhi Sultanate (founder of the Slave dynasty) was:", "options": ["Qutbuddin Aibak", "Iltutmish", "Balban", "Razia"], "correct_index": 0, "solution": "QUTBUDDIN AIBAK, a former slave and general of Muhammad Ghori, founded the SLAVE (Mamluk) dynasty and became the first Sultan of Delhi. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which Sultan is regarded as the real consolidator of the early Delhi Sultanate and gave it a capital, coinage and administrative system?", "options": ["Iltutmish", "Qutbuddin Aibak", "Ibrahim Lodi", "Bahlul Lodi"], "correct_index": 0, "solution": "ILTUTMISH is regarded as the real CONSOLIDATOR of the early Sultanate — he secured Delhi as the capital, introduced silver tanka and copper jital coins, and organised the administration. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Delhi Sultanate was established after the defeat of Prithviraj Chauhan by Muhammad Ghori at the:", "options": ["Second Battle of Tarain (1192)", "First Battle of Panipat", "Battle of Plassey", "Battle of Haldighati"], "correct_index": 0, "solution": "Muhammad Ghori defeated PRITHVIRAJ CHAUHAN at the SECOND BATTLE of TARAIN (1192), paving the way for the establishment of the DELHI SULTANATE. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Sultan who transferred the capital to Daulatabad and later reversed the decision was:", "options": ["Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Alauddin Khalji", "Balban"], "correct_index": 0, "solution": "MUHAMMAD BIN TUGHLAQ transferred the capital from Delhi to DAULATABAD (in the Deccan) and later reversed the decision — one of his ambitious but failed experiments. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Alauddin Khalji's market control measures were mainly meant to:", "options": ["Keep prices low so he could maintain a large army cheaply", "Help merchants earn more", "End all trade", "Reward farmers"], "correct_index": 0, "solution": "ALAUDDIN KHALJI's MARKET CONTROL (fixing prices of goods) was mainly meant to KEEP PRICES LOW so he could pay and MAINTAIN a LARGE ARMY CHEAPLY to defend against the Mongols. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Delhi Sultanate faced repeated invasions from which people from Central Asia?", "options": ["The Mongols", "The Portuguese", "The British", "The Greeks"], "correct_index": 0, "solution": "The Delhi Sultanate faced repeated invasions from the MONGOLS of Central Asia, which the Sultans (especially Alauddin Khalji) had to resist with a strong army. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'muqtis' or 'iqtadars' who were given iqtas had the duty to:", "options": ["Collect revenue, maintain soldiers and keep order in their territory", "Only build temples", "Only trade", "Do nothing"], "correct_index": 0, "solution": "The MUQTIS/IQTADARS given IQTAS had the DUTY to COLLECT REVENUE, MAINTAIN SOLDIERS, and KEEP ORDER in their assigned territory — serving the Sultan in return for the land's revenue. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "A major challenge for the Delhi Sultans in controlling distant regions was that:", "options": ["Powerful iqtadars and local chiefs could become independent", "There were no soldiers", "They had no capital", "They could not collect any tax"], "correct_index": 0, "solution": "A major CHALLENGE was that POWERFUL IQTADARS and LOCAL CHIEFS could grow strong and become INDEPENDENT, so the Sultans had to keep transferring officials and watching the provinces closely. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The poet and scholar of the Sultanate court, famous for his Persian and Hindavi verse, was:", "options": ["Amir Khusrau", "Kalidasa", "Tulsidas", "Kabir"], "correct_index": 0, "solution": "AMIR KHUSRAU was a celebrated POET, scholar, and musician of the Delhi Sultanate court, famous for his PERSIAN and HINDAVI verse and often called the 'Parrot of India'. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Why did Razia Sultan face difficulties as a ruler?", "options": ["Nobles were unwilling to accept a woman as ruler", "She had no army", "She was too young", "She refused to rule"], "correct_index": 0, "solution": "RAZIA SULTAN faced difficulties mainly because the NOBLES were UNWILLING to ACCEPT a WOMAN as RULER, despite her ability — leading to opposition that ended her reign. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The administrative and military system of the Sultanate depended heavily on:", "options": ["A strong standing army and revenue from land", "Foreign donations", "Only trade taxes", "No army"], "correct_index": 0, "solution": "The Sultanate depended heavily on a STRONG STANDING ARMY (to defend against Mongols and control provinces) and on REVENUE from LAND (the main source of income). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Sultan Firoz Shah Tughlaq is especially known for:", "options": ["Building canals, towns and public works", "Introducing token currency", "Founding Delhi", "Defeating the Mughals"], "correct_index": 0, "solution": "FIROZ SHAH TUGHLAQ is especially known for BUILDING CANALS (for irrigation), new TOWNS, and PUBLIC WORKS, and for a relatively benevolent administration. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Qutb Minar, a symbol of the Sultanate, is located in:", "options": ["Delhi", "Agra", "Lahore", "Daulatabad"], "correct_index": 0, "solution": "The QUTB MINAR, begun by Qutbuddin Aibak and completed by Iltutmish, is located in DELHI — a towering symbol of the early Sultanate. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Consider the pairs: 1. Slave dynasty — Qutbuddin Aibak 2. Khalji dynasty — Alauddin Khalji 3. Tughlaq dynasty — Muhammad bin Tughlaq. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: the SLAVE dynasty is linked to QUTBUDDIN AIBAK, the KHALJI dynasty to ALAUDDIN KHALJI, and the TUGHLAQ dynasty to MUHAMMAD BIN TUGHLAQ. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Delhi Sultans expanded their control into the south (the Deccan) especially under:", "options": ["Alauddin Khalji and Muhammad bin Tughlaq", "Only Qutbuddin Aibak", "Only the Lodis", "No one"], "correct_index": 0, "solution": "The Delhi Sultans EXPANDED into the SOUTH (Deccan) especially under ALAUDDIN KHALJI (whose general Malik Kafur raided far south) and MUHAMMAD BIN TUGHLAQ. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Why did Muhammad bin Tughlaq's token currency fail?", "options": ["People made fake coins, and the value was hard to control", "It was made of gold", "No one used money", "It was too heavy"], "correct_index": 0, "solution": "MUHAMMAD BIN TUGHLAQ's TOKEN CURRENCY (coins of cheaper metal at the value of silver) FAILED because PEOPLE made FAKE COINS in large numbers, and the value became impossible to control, causing chaos. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Delhi Sultanate is important in Indian history because it:", "options": ["Established a large Muslim-ruled state in north India and shaped later administration and culture", "Had no lasting effect", "Ruled for only one year", "Was based in Europe"], "correct_index": 0, "solution": "The DELHI SULTANATE is important because it ESTABLISHED a large Muslim-ruled state in NORTH INDIA (and beyond) and deeply SHAPED later ADMINISTRATION, architecture, language, and CULTURE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The chronicler Ziauddin Barani, a source for the Sultanate, wrote the:", "options": ["Tarikh-i-Firoz Shahi", "Ain-i-Akbari", "Akbarnama", "Baburnama"], "correct_index": 0, "solution": "ZIAUDDIN BARANI wrote the TARIKH-I-FIROZ SHAHI, an important chronicle of the Delhi Sultanate — though it reflects his own strong opinions. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Assertion (A): Alauddin Khalji maintained a large army. Reason (R): He needed it to resist Mongol invasions and expand his empire. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — Alauddin Khalji maintained a large army. R is TRUE and correctly EXPLAINS A: he NEEDED it to RESIST MONGOL INVASIONS and to EXPAND his empire — which is why he built and cheaply maintained a large standing force (aided by market control). So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The revenue system of the Sultanate was based mainly on a tax on:", "options": ["Agricultural produce (land revenue)", "The air", "Rainfall", "Sunshine"], "correct_index": 0, "solution": "The REVENUE system of the Sultanate was based mainly on a TAX on AGRICULTURAL PRODUCE (LAND REVENUE) — a share of the crop taken from peasants, the state's main income. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The use of Persian as the language of administration and culture in the Sultanate had the effect of:", "options": ["Enriching Indian languages and producing a blended Indo-Persian culture", "Ending all Indian languages", "Isolating India", "Having no effect"], "correct_index": 0, "solution": "The use of PERSIAN in administration and culture ENRICHED INDIAN LANGUAGES (contributing to the growth of Urdu) and produced a blended INDO-PERSIAN CULTURE in art, architecture, and literature. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following architectural features spread in India under the Sultans?", "options": ["Arches, domes and minarets (Indo-Islamic architecture)", "Only wooden huts", "Only caves", "No architecture"], "correct_index": 0, "solution": "Under the Sultans, ARCHES, DOMES, and MINARETS spread in India, giving rise to INDO-ISLAMIC ARCHITECTURE, seen in mosques, tombs, and the Qutb Minar complex. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The First Battle of Panipat (1526) is significant because it:", "options": ["Ended the Delhi Sultanate and began the Mughal Empire", "Started the Sultanate", "Defeated the Mongols", "Founded Delhi"], "correct_index": 0, "solution": "The FIRST BATTLE of PANIPAT (1526), in which BABUR defeated Ibrahim Lodi, is significant because it ENDED the DELHI SULTANATE and BEGAN the MUGHAL EMPIRE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The practice of transferring iqtadars (muqtis) frequently from one region to another was meant to:", "options": ["Prevent them from becoming too powerful or independent", "Reward them", "Give them rest", "Weaken the Sultan"], "correct_index": 0, "solution": "FREQUENTLY TRANSFERRING iqtadars was meant to PREVENT them from becoming TOO POWERFUL or INDEPENDENT by putting down local roots — a way to keep control over the provinces. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Sultans employed 'bandagan' (special slaves) in high posts because such slaves were:", "options": ["Personally loyal to the Sultan and dependent on him", "Untrustworthy", "Foreign kings", "Ordinary peasants"], "correct_index": 0, "solution": "The Sultans employed BANDAGAN (special slaves) in high posts because they were PERSONALLY LOYAL to the Sultan and DEPENDENT on him for their status — making them reliable, though this could change once they gained power. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following correctly pairs a Sultan with an achievement or policy?", "options": ["Iltutmish → silver tanka coin; Alauddin Khalji → market control; Muhammad bin Tughlaq → token currency", "Iltutmish → token currency; Alauddin → founded Delhi; Muhammad bin Tughlaq → market control", "All founded the Mughal Empire", "None did anything"], "correct_index": 0, "solution": "The correct pairings are: ILTUTMISH → introduced the SILVER TANKA (and copper jital); ALAUDDIN KHALJI → MARKET/PRICE CONTROL; and MUHAMMAD BIN TUGHLAQ → TOKEN CURRENCY. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Delhi Sultanate lasted for approximately how long?", "options": ["About 320 years (1206–1526)", "About 10 years", "About 1000 years", "About 50 years"], "correct_index": 0, "solution": "The DELHI SULTANATE lasted for about 320 YEARS, from 1206 (Qutbuddin Aibak) to 1526 (defeat of Ibrahim Lodi at Panipat). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main duty of the peasants (the majority of people) under the Sultanate was to:", "options": ["Cultivate the land and pay revenue to the state", "Rule the country", "Command armies", "Write chronicles"], "correct_index": 0, "solution": "The PEASANTS, the majority of people, had the main duty to CULTIVATE the LAND and PAY REVENUE (a share of their produce) to the state — supporting the whole administration. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Delhi Sultans built mosques and other structures partly to:", "options": ["Display their power and piety and to serve their subjects", "Hide from enemies", "Destroy trade", "Avoid religion"], "correct_index": 0, "solution": "The Delhi Sultans built MOSQUES and other structures partly to DISPLAY their POWER and PIETY and to SERVE their subjects — architecture was a statement of authority and faith. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about the Delhi Sultanate is correct?", "options": ["It was ruled by five successive dynasties over about three centuries", "It had only one dynasty", "It never expanded beyond Delhi", "It was based in south India"], "correct_index": 0, "solution": "It is correct that the DELHI SULTANATE was ruled by FIVE SUCCESSIVE DYNASTIES (Slave, Khalji, Tughlaq, Sayyid, Lodi) over about THREE CENTURIES, expanding across much of the subcontinent. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mongol threat was strongest during the reigns of which Sultans?", "options": ["Alauddin Khalji and the early Tughlaqs", "The Lodis only", "Qutbuddin Aibak only", "The Sayyids only"], "correct_index": 0, "solution": "The MONGOL THREAT was strongest during the reigns of ALAUDDIN KHALJI and the EARLY TUGHLAQS, who had to build strong armies and defences to repel repeated invasions. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The extension of the Sultanate's control was helped by the building of:", "options": ["Forts, roads and garrison towns across the territory", "Only palaces in Delhi", "Nothing", "Only gardens"], "correct_index": 0, "solution": "The extension of the Sultanate's control was helped by building FORTS, ROADS, and GARRISON TOWNS across the territory, allowing troops and revenue to move and provinces to be held. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The decline of the Delhi Sultanate was hastened by:", "options": ["Invasions (like Timur's), weak later rulers and powerful nobles breaking away", "A single strong ruler", "Too much unity", "The absence of any enemies"], "correct_index": 0, "solution": "The DECLINE of the Sultanate was hastened by INVASIONS (such as TIMUR's sack of Delhi in 1398), WEAK LATER RULERS, and POWERFUL NOBLES and provinces BREAKING AWAY — leading finally to Babur's conquest. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 'Sultan' in the Delhi Sultanate was:", "options": ["The supreme ruler and head of the state", "A village headman", "A merchant", "A religious teacher only"], "correct_index": 0, "solution": "The SULTAN was the SUPREME RULER and HEAD of the STATE — holding political, military, and administrative authority over the Sultanate. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following was NOT a dynasty of the Delhi Sultanate?", "options": ["The Mughal dynasty", "The Slave dynasty", "The Khalji dynasty", "The Lodi dynasty"], "correct_index": 0, "solution": "The MUGHAL dynasty was NOT part of the Delhi Sultanate — it came AFTER it (from 1526). The Slave, Khalji, Tughlaq, Sayyid, and Lodi were the five Sultanate dynasties. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Delhi Sultans' relationship with local rulers (like Rajput chiefs) was usually one of:", "options": ["Conflict and, at times, submission or alliance", "Complete friendship always", "No contact", "Total equality"], "correct_index": 0, "solution": "The Delhi Sultans' relationship with LOCAL RULERS (like RAJPUT CHIEFS) was usually one of CONFLICT and, at times, SUBMISSION or ALLIANCE — the Sultans fought, subdued, or made deals with them to control the land. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The invasion of Delhi by Timur (Tamerlane) took place in:", "options": ["1398", "1206", "1526", "1600"], "correct_index": 0, "solution": "TIMUR (Tamerlane) invaded and sacked DELHI in 1398, dealing a severe blow to the Tughlaq Sultanate and hastening its decline. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which Sultan of the Sultanate ended the practice of favouring only the Turkish nobility and recruited more Indians?", "options": ["The Khaljis (breaking Turkish monopoly)", "Qutbuddin Aibak", "Iltutmish", "The Sayyids only"], "correct_index": 0, "solution": "The KHALJIS are noted for BREAKING the monopoly of the TURKISH nobility, opening high offices to a wider group including Indian Muslims — a shift in the Sultanate's ruling class. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Delhi Sultanate's centralised control was strongest in the region around:", "options": ["The heartland near Delhi and the Ganga–Yamuna plains", "The far south only", "Kashmir only", "The oceans"], "correct_index": 0, "solution": "The Sultanate's CENTRALISED CONTROL was STRONGEST in the HEARTLAND near DELHI and the fertile GANGA–YAMUNA PLAINS; distant regions were harder to hold and often broke away. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following best describes the significance of the iqta system?", "options": ["It linked land revenue to military service and helped govern a large territory without cash salaries", "It abolished the army", "It gave land to peasants freely", "It ended all taxes"], "correct_index": 0, "solution": "The IQTA system LINKED LAND REVENUE to MILITARY SERVICE and helped the Sultans GOVERN a LARGE TERRITORY WITHOUT paying CASH SALARIES — muqtis collected revenue and maintained troops from their assignments. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The overall message of the chapter 'The Delhi Sultans' is that:", "options": ["The Sultanate had no importance", "The DELHI SULTANATE (1206–1526), ruled by FIVE dynasties — SLAVE, KHALJI, TUGHLAQ, SAYYID and LODI — established a large state in north India after Muhammad Ghori's victory at Tarain; consolidated by Iltutmish (and briefly ruled by Razia), it developed an administration based on IQTAS (revenue assignments to muqtis), trusted slave-officers (bandagan), a strong army and LAND REVENUE; rulers like Alauddin Khalji (market control, Mongol defence) and Muhammad bin Tughlaq (token currency, capital shift) experimented boldly; it spread Indo-Persian culture and Indo-Islamic architecture (the Qutb Minar), before declining and giving way to the Mughals after the First Battle of Panipat", "It was based in Europe", "It had only peasants and no rulers"], "correct_index": 1, "solution": "The chapter's overall message is that the DELHI SULTANATE (1206–1526), ruled by FIVE successive dynasties — SLAVE (Mamluk), KHALJI, TUGHLAQ, SAYYID, and LODI — established a large state in NORTH INDIA (and beyond) after Muhammad Ghori's victory at the Second Battle of TARAIN (1192). Consolidated by ILTUTMISH (with the Qutb Minar completed and the silver tanka introduced) and briefly ruled by RAZIA, the Sultanate developed an administration based on IQTAS (revenue assignments to MUQTIS/iqtadars), trusted slave-officers (BANDAGAN), a strong STANDING ARMY, and LAND REVENUE. Rulers like ALAUDDIN KHALJI (MARKET CONTROL and MONGOL DEFENCE) and MUHAMMAD BIN TUGHLAQ (TOKEN CURRENCY and the CAPITAL SHIFT to Daulatabad) experimented boldly, with mixed results. The Sultanate spread INDO-PERSIAN CULTURE and INDO-ISLAMIC ARCHITECTURE (arches, domes, minarets, the QUTB MINAR), before DECLINING — hastened by Timur's invasion and weak later rulers — and giving way to the MUGHALS after the FIRST BATTLE of PANIPAT (1526). So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "Which of the following lists the dynasties of the Delhi Sultanate in correct chronological order?",
+    "options": [
+      "Khalji → Slave → Tughlaq → Lodi → Sayyid",
+      "Slave (Mamluk) → Khalji → Tughlaq → Sayyid → Lodi",
+      "Tughlaq → Khalji → Slave → Lodi → Sayyid",
+      "Lodi → Sayyid → Tughlaq → Khalji → Slave"
+    ],
+    "correct_index": 1,
+    "solution": "The five dynasties of the Delhi Sultanate in order were: Slave (Mamluk), Khalji, Tughlaq, Sayyid and Lodi.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Razia Sultan, the only woman to rule the Delhi Sultanate, was the daughter of which Sultan?",
+    "options": [
+      "Qutbuddin Aibak",
+      "Iltutmish",
+      "Balban",
+      "Alauddin Khalji"
+    ],
+    "correct_index": 1,
+    "solution": "Razia (Raziyya) was the daughter of Sultan Iltutmish and the only woman to sit on the throne of Delhi.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The construction of the Qutb Minar was begun by Qutbuddin Aibak and completed by:",
+    "options": [
+      "Balban",
+      "Iltutmish",
+      "Alauddin Khalji",
+      "Firoz Shah Tughlaq"
+    ],
+    "correct_index": 1,
+    "solution": "Qutbuddin Aibak began the Qutb Minar; it was completed by his successor Iltutmish.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under the Delhi Sultans, an 'iqta' was:",
+    "options": [
+      "A religious tax",
+      "A territorial assignment whose revenue supported a military commander",
+      "A type of coin",
+      "A royal garden"
+    ],
+    "correct_index": 1,
+    "solution": "An iqta was a land/revenue assignment given to a commander (iqtadar or muqti) in return for military and administrative service.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Sultan famous for introducing strict market price control and dealing with repeated Mongol invasions was:",
+    "options": [
+      "Iltutmish",
+      "Alauddin Khalji",
+      "Firoz Shah Tughlaq",
+      "Ibrahim Lodi"
+    ],
+    "correct_index": 1,
+    "solution": "Alauddin Khalji is known for his market/price control measures and for successfully resisting Mongol invasions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which ruler is associated with the introduction of a 'token currency' and the transfer of the capital from Delhi to Daulatabad?",
+    "options": [
+      "Muhammad bin Tughlaq",
+      "Balban",
+      "Alauddin Khalji",
+      "Bahlul Lodi"
+    ],
+    "correct_index": 0,
+    "solution": "Muhammad bin Tughlaq introduced a token currency and shifted the capital to Daulatabad in the Deccan — both experiments that ultimately failed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chronicle 'Tabaqat-i-Nasiri', a source for the early Delhi Sultans, was written by:",
+    "options": [
+      "Ziauddin Barani",
+      "Minhaj-i-Siraj",
+      "Amir Khusrau",
+      "Abul Fazl"
+    ],
+    "correct_index": 1,
+    "solution": "Minhaj-i-Siraj wrote the Tabaqat-i-Nasiri, an important Persian chronicle of the early Delhi Sultanate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The last dynasty of the Delhi Sultanate, defeated by Babur in 1526, was the:",
+    "options": [
+      "Sayyid dynasty",
+      "Lodi dynasty",
+      "Tughlaq dynasty",
+      "Khalji dynasty"
+    ],
+    "correct_index": 1,
+    "solution": "Ibrahim Lodi, of the Lodi dynasty, was defeated and killed by Babur at the First Battle of Panipat in 1526, ending the Sultanate.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The special group of the Sultan's trusted slave-officers, appointed to high posts, were known as:",
+    "options": [
+      "Bandagan",
+      "Samantas",
+      "Nayakas",
+      "Zamindars"
+    ],
+    "correct_index": 0,
+    "solution": "Bandagan were the specially recruited slaves purchased for military and administrative service, whom Sultans trusted with high office.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The first ruler of the Delhi Sultanate (founder of the Slave dynasty) was:",
+    "options": [
+      "Qutbuddin Aibak",
+      "Iltutmish",
+      "Balban",
+      "Razia"
+    ],
+    "correct_index": 0,
+    "solution": "QUTBUDDIN AIBAK, a former slave and general of Muhammad Ghori, founded the SLAVE (Mamluk) dynasty and became the first Sultan of Delhi. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which Sultan is regarded as the real consolidator of the early Delhi Sultanate and gave it a capital, coinage and administrative system?",
+    "options": [
+      "Iltutmish",
+      "Qutbuddin Aibak",
+      "Ibrahim Lodi",
+      "Bahlul Lodi"
+    ],
+    "correct_index": 0,
+    "solution": "ILTUTMISH is regarded as the real CONSOLIDATOR of the early Sultanate — he secured Delhi as the capital, introduced silver tanka and copper jital coins, and organised the administration. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Delhi Sultanate was established after the defeat of Prithviraj Chauhan by Muhammad Ghori at the:",
+    "options": [
+      "Second Battle of Tarain (1192)",
+      "First Battle of Panipat",
+      "Battle of Plassey",
+      "Battle of Haldighati"
+    ],
+    "correct_index": 0,
+    "solution": "Muhammad Ghori defeated PRITHVIRAJ CHAUHAN at the SECOND BATTLE of TARAIN (1192), paving the way for the establishment of the DELHI SULTANATE. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Sultan who transferred the capital to Daulatabad and later reversed the decision was:",
+    "options": [
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq",
+      "Alauddin Khalji",
+      "Balban"
+    ],
+    "correct_index": 0,
+    "solution": "MUHAMMAD BIN TUGHLAQ transferred the capital from Delhi to DAULATABAD (in the Deccan) and later reversed the decision — one of his ambitious but failed experiments. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Alauddin Khalji's market control measures were mainly meant to:",
+    "options": [
+      "Keep prices low so he could maintain a large army cheaply",
+      "Help merchants earn more",
+      "End all trade",
+      "Reward farmers"
+    ],
+    "correct_index": 0,
+    "solution": "ALAUDDIN KHALJI's MARKET CONTROL (fixing prices of goods) was mainly meant to KEEP PRICES LOW so he could pay and MAINTAIN a LARGE ARMY CHEAPLY to defend against the Mongols. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Delhi Sultanate faced repeated invasions from which people from Central Asia?",
+    "options": [
+      "The Mongols",
+      "The Portuguese",
+      "The British",
+      "The Greeks"
+    ],
+    "correct_index": 0,
+    "solution": "The Delhi Sultanate faced repeated invasions from the MONGOLS of Central Asia, which the Sultans (especially Alauddin Khalji) had to resist with a strong army. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'muqtis' or 'iqtadars' who were given iqtas had the duty to:",
+    "options": [
+      "Collect revenue, maintain soldiers and keep order in their territory",
+      "Only build temples",
+      "Only trade",
+      "Do nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The MUQTIS/IQTADARS given IQTAS had the DUTY to COLLECT REVENUE, MAINTAIN SOLDIERS, and KEEP ORDER in their assigned territory — serving the Sultan in return for the land's revenue. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A major challenge for the Delhi Sultans in controlling distant regions was that:",
+    "options": [
+      "Powerful iqtadars and local chiefs could become independent",
+      "There were no soldiers",
+      "They had no capital",
+      "They could not collect any tax"
+    ],
+    "correct_index": 0,
+    "solution": "A major CHALLENGE was that POWERFUL IQTADARS and LOCAL CHIEFS could grow strong and become INDEPENDENT, so the Sultans had to keep transferring officials and watching the provinces closely. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The poet and scholar of the Sultanate court, famous for his Persian and Hindavi verse, was:",
+    "options": [
+      "Amir Khusrau",
+      "Kalidasa",
+      "Tulsidas",
+      "Kabir"
+    ],
+    "correct_index": 0,
+    "solution": "AMIR KHUSRAU was a celebrated POET, scholar, and musician of the Delhi Sultanate court, famous for his PERSIAN and HINDAVI verse and often called the 'Parrot of India'. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Why did Razia Sultan face difficulties as a ruler?",
+    "options": [
+      "Nobles were unwilling to accept a woman as ruler",
+      "She had no army",
+      "She was too young",
+      "She refused to rule"
+    ],
+    "correct_index": 0,
+    "solution": "RAZIA SULTAN faced difficulties mainly because the NOBLES were UNWILLING to ACCEPT a WOMAN as RULER, despite her ability — leading to opposition that ended her reign. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The administrative and military system of the Sultanate depended heavily on:",
+    "options": [
+      "A strong standing army and revenue from land",
+      "Foreign donations",
+      "Only trade taxes",
+      "No army"
+    ],
+    "correct_index": 0,
+    "solution": "The Sultanate depended heavily on a STRONG STANDING ARMY (to defend against Mongols and control provinces) and on REVENUE from LAND (the main source of income). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sultan Firoz Shah Tughlaq is especially known for:",
+    "options": [
+      "Building canals, towns and public works",
+      "Introducing token currency",
+      "Founding Delhi",
+      "Defeating the Mughals"
+    ],
+    "correct_index": 0,
+    "solution": "FIROZ SHAH TUGHLAQ is especially known for BUILDING CANALS (for irrigation), new TOWNS, and PUBLIC WORKS, and for a relatively benevolent administration. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Qutb Minar, a symbol of the Sultanate, is located in:",
+    "options": [
+      "Delhi",
+      "Agra",
+      "Lahore",
+      "Daulatabad"
+    ],
+    "correct_index": 0,
+    "solution": "The QUTB MINAR, begun by Qutbuddin Aibak and completed by Iltutmish, is located in DELHI — a towering symbol of the early Sultanate. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Consider the pairs: 1. Slave dynasty — Qutbuddin Aibak 2. Khalji dynasty — Alauddin Khalji 3. Tughlaq dynasty — Muhammad bin Tughlaq. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: the SLAVE dynasty is linked to QUTBUDDIN AIBAK, the KHALJI dynasty to ALAUDDIN KHALJI, and the TUGHLAQ dynasty to MUHAMMAD BIN TUGHLAQ. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Delhi Sultans expanded their control into the south (the Deccan) especially under:",
+    "options": [
+      "Alauddin Khalji and Muhammad bin Tughlaq",
+      "Only Qutbuddin Aibak",
+      "Only the Lodis",
+      "No one"
+    ],
+    "correct_index": 0,
+    "solution": "The Delhi Sultans EXPANDED into the SOUTH (Deccan) especially under ALAUDDIN KHALJI (whose general Malik Kafur raided far south) and MUHAMMAD BIN TUGHLAQ. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Why did Muhammad bin Tughlaq's token currency fail?",
+    "options": [
+      "People made fake coins, and the value was hard to control",
+      "It was made of gold",
+      "No one used money",
+      "It was too heavy"
+    ],
+    "correct_index": 0,
+    "solution": "MUHAMMAD BIN TUGHLAQ's TOKEN CURRENCY (coins of cheaper metal at the value of silver) FAILED because PEOPLE made FAKE COINS in large numbers, and the value became impossible to control, causing chaos. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Delhi Sultanate is important in Indian history because it:",
+    "options": [
+      "Established a large Muslim-ruled state in north India and shaped later administration and culture",
+      "Had no lasting effect",
+      "Ruled for only one year",
+      "Was based in Europe"
+    ],
+    "correct_index": 0,
+    "solution": "The DELHI SULTANATE is important because it ESTABLISHED a large Muslim-ruled state in NORTH INDIA (and beyond) and deeply SHAPED later ADMINISTRATION, architecture, language, and CULTURE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chronicler Ziauddin Barani, a source for the Sultanate, wrote the:",
+    "options": [
+      "Tarikh-i-Firoz Shahi",
+      "Ain-i-Akbari",
+      "Akbarnama",
+      "Baburnama"
+    ],
+    "correct_index": 0,
+    "solution": "ZIAUDDIN BARANI wrote the TARIKH-I-FIROZ SHAHI, an important chronicle of the Delhi Sultanate — though it reflects his own strong opinions. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Assertion (A): Alauddin Khalji maintained a large army. Reason (R): He needed it to resist Mongol invasions and expand his empire. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — Alauddin Khalji maintained a large army. R is TRUE and correctly EXPLAINS A: he NEEDED it to RESIST MONGOL INVASIONS and to EXPAND his empire — which is why he built and cheaply maintained a large standing force (aided by market control). So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The revenue system of the Sultanate was based mainly on a tax on:",
+    "options": [
+      "Agricultural produce (land revenue)",
+      "The air",
+      "Rainfall",
+      "Sunshine"
+    ],
+    "correct_index": 0,
+    "solution": "The REVENUE system of the Sultanate was based mainly on a TAX on AGRICULTURAL PRODUCE (LAND REVENUE) — a share of the crop taken from peasants, the state's main income. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The use of Persian as the language of administration and culture in the Sultanate had the effect of:",
+    "options": [
+      "Enriching Indian languages and producing a blended Indo-Persian culture",
+      "Ending all Indian languages",
+      "Isolating India",
+      "Having no effect"
+    ],
+    "correct_index": 0,
+    "solution": "The use of PERSIAN in administration and culture ENRICHED INDIAN LANGUAGES (contributing to the growth of Urdu) and produced a blended INDO-PERSIAN CULTURE in art, architecture, and literature. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following architectural features spread in India under the Sultans?",
+    "options": [
+      "Arches, domes and minarets (Indo-Islamic architecture)",
+      "Only wooden huts",
+      "Only caves",
+      "No architecture"
+    ],
+    "correct_index": 0,
+    "solution": "Under the Sultans, ARCHES, DOMES, and MINARETS spread in India, giving rise to INDO-ISLAMIC ARCHITECTURE, seen in mosques, tombs, and the Qutb Minar complex. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The First Battle of Panipat (1526) is significant because it:",
+    "options": [
+      "Ended the Delhi Sultanate and began the Mughal Empire",
+      "Started the Sultanate",
+      "Defeated the Mongols",
+      "Founded Delhi"
+    ],
+    "correct_index": 0,
+    "solution": "The FIRST BATTLE of PANIPAT (1526), in which BABUR defeated Ibrahim Lodi, is significant because it ENDED the DELHI SULTANATE and BEGAN the MUGHAL EMPIRE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The practice of transferring iqtadars (muqtis) frequently from one region to another was meant to:",
+    "options": [
+      "Prevent them from becoming too powerful or independent",
+      "Reward them",
+      "Give them rest",
+      "Weaken the Sultan"
+    ],
+    "correct_index": 0,
+    "solution": "FREQUENTLY TRANSFERRING iqtadars was meant to PREVENT them from becoming TOO POWERFUL or INDEPENDENT by putting down local roots — a way to keep control over the provinces. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Sultans employed 'bandagan' (special slaves) in high posts because such slaves were:",
+    "options": [
+      "Personally loyal to the Sultan and dependent on him",
+      "Untrustworthy",
+      "Foreign kings",
+      "Ordinary peasants"
+    ],
+    "correct_index": 0,
+    "solution": "The Sultans employed BANDAGAN (special slaves) in high posts because they were PERSONALLY LOYAL to the Sultan and DEPENDENT on him for their status — making them reliable, though this could change once they gained power. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly pairs a Sultan with an achievement or policy?",
+    "options": [
+      "Iltutmish → silver tanka coin; Alauddin Khalji → market control; Muhammad bin Tughlaq → token currency",
+      "Iltutmish → token currency; Alauddin → founded Delhi; Muhammad bin Tughlaq → market control",
+      "All founded the Mughal Empire",
+      "None did anything"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: ILTUTMISH → introduced the SILVER TANKA (and copper jital); ALAUDDIN KHALJI → MARKET/PRICE CONTROL; and MUHAMMAD BIN TUGHLAQ → TOKEN CURRENCY. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Delhi Sultanate lasted for approximately how long?",
+    "options": [
+      "About 320 years (1206–1526)",
+      "About 10 years",
+      "About 1000 years",
+      "About 50 years"
+    ],
+    "correct_index": 0,
+    "solution": "The DELHI SULTANATE lasted for about 320 YEARS, from 1206 (Qutbuddin Aibak) to 1526 (defeat of Ibrahim Lodi at Panipat). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main duty of the peasants (the majority of people) under the Sultanate was to:",
+    "options": [
+      "Cultivate the land and pay revenue to the state",
+      "Rule the country",
+      "Command armies",
+      "Write chronicles"
+    ],
+    "correct_index": 0,
+    "solution": "The PEASANTS, the majority of people, had the main duty to CULTIVATE the LAND and PAY REVENUE (a share of their produce) to the state — supporting the whole administration. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Delhi Sultans built mosques and other structures partly to:",
+    "options": [
+      "Display their power and piety and to serve their subjects",
+      "Hide from enemies",
+      "Destroy trade",
+      "Avoid religion"
+    ],
+    "correct_index": 0,
+    "solution": "The Delhi Sultans built MOSQUES and other structures partly to DISPLAY their POWER and PIETY and to SERVE their subjects — architecture was a statement of authority and faith. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about the Delhi Sultanate is correct?",
+    "options": [
+      "It was ruled by five successive dynasties over about three centuries",
+      "It had only one dynasty",
+      "It never expanded beyond Delhi",
+      "It was based in south India"
+    ],
+    "correct_index": 0,
+    "solution": "It is correct that the DELHI SULTANATE was ruled by FIVE SUCCESSIVE DYNASTIES (Slave, Khalji, Tughlaq, Sayyid, Lodi) over about THREE CENTURIES, expanding across much of the subcontinent. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mongol threat was strongest during the reigns of which Sultans?",
+    "options": [
+      "Alauddin Khalji and the early Tughlaqs",
+      "The Lodis only",
+      "Qutbuddin Aibak only",
+      "The Sayyids only"
+    ],
+    "correct_index": 0,
+    "solution": "The MONGOL THREAT was strongest during the reigns of ALAUDDIN KHALJI and the EARLY TUGHLAQS, who had to build strong armies and defences to repel repeated invasions. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The extension of the Sultanate's control was helped by the building of:",
+    "options": [
+      "Forts, roads and garrison towns across the territory",
+      "Only palaces in Delhi",
+      "Nothing",
+      "Only gardens"
+    ],
+    "correct_index": 0,
+    "solution": "The extension of the Sultanate's control was helped by building FORTS, ROADS, and GARRISON TOWNS across the territory, allowing troops and revenue to move and provinces to be held. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The decline of the Delhi Sultanate was hastened by:",
+    "options": [
+      "Invasions (like Timur's), weak later rulers and powerful nobles breaking away",
+      "A single strong ruler",
+      "Too much unity",
+      "The absence of any enemies"
+    ],
+    "correct_index": 0,
+    "solution": "The DECLINE of the Sultanate was hastened by INVASIONS (such as TIMUR's sack of Delhi in 1398), WEAK LATER RULERS, and POWERFUL NOBLES and provinces BREAKING AWAY — leading finally to Babur's conquest. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Sultan' in the Delhi Sultanate was:",
+    "options": [
+      "The supreme ruler and head of the state",
+      "A village headman",
+      "A merchant",
+      "A religious teacher only"
+    ],
+    "correct_index": 0,
+    "solution": "The SULTAN was the SUPREME RULER and HEAD of the STATE — holding political, military, and administrative authority over the Sultanate. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following was NOT a dynasty of the Delhi Sultanate?",
+    "options": [
+      "The Mughal dynasty",
+      "The Slave dynasty",
+      "The Khalji dynasty",
+      "The Lodi dynasty"
+    ],
+    "correct_index": 0,
+    "solution": "The MUGHAL dynasty was NOT part of the Delhi Sultanate — it came AFTER it (from 1526). The Slave, Khalji, Tughlaq, Sayyid, and Lodi were the five Sultanate dynasties. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Delhi Sultans' relationship with local rulers (like Rajput chiefs) was usually one of:",
+    "options": [
+      "Conflict and, at times, submission or alliance",
+      "Complete friendship always",
+      "No contact",
+      "Total equality"
+    ],
+    "correct_index": 0,
+    "solution": "The Delhi Sultans' relationship with LOCAL RULERS (like RAJPUT CHIEFS) was usually one of CONFLICT and, at times, SUBMISSION or ALLIANCE — the Sultans fought, subdued, or made deals with them to control the land. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The invasion of Delhi by Timur (Tamerlane) took place in:",
+    "options": [
+      "1398",
+      "1206",
+      "1526",
+      "1600"
+    ],
+    "correct_index": 0,
+    "solution": "TIMUR (Tamerlane) invaded and sacked DELHI in 1398, dealing a severe blow to the Tughlaq Sultanate and hastening its decline. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which Sultan of the Sultanate ended the practice of favouring only the Turkish nobility and recruited more Indians?",
+    "options": [
+      "The Khaljis (breaking Turkish monopoly)",
+      "Qutbuddin Aibak",
+      "Iltutmish",
+      "The Sayyids only"
+    ],
+    "correct_index": 0,
+    "solution": "The KHALJIS are noted for BREAKING the monopoly of the TURKISH nobility, opening high offices to a wider group including Indian Muslims — a shift in the Sultanate's ruling class. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Delhi Sultanate's centralised control was strongest in the region around:",
+    "options": [
+      "The heartland near Delhi and the Ganga–Yamuna plains",
+      "The far south only",
+      "Kashmir only",
+      "The oceans"
+    ],
+    "correct_index": 0,
+    "solution": "The Sultanate's CENTRALISED CONTROL was STRONGEST in the HEARTLAND near DELHI and the fertile GANGA–YAMUNA PLAINS; distant regions were harder to hold and often broke away. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best describes the significance of the iqta system?",
+    "options": [
+      "It linked land revenue to military service and helped govern a large territory without cash salaries",
+      "It abolished the army",
+      "It gave land to peasants freely",
+      "It ended all taxes"
+    ],
+    "correct_index": 0,
+    "solution": "The IQTA system LINKED LAND REVENUE to MILITARY SERVICE and helped the Sultans GOVERN a LARGE TERRITORY WITHOUT paying CASH SALARIES — muqtis collected revenue and maintained troops from their assignments. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall message of the chapter 'The Delhi Sultans' is that:",
+    "options": [
+      "The Sultanate had no importance",
+      "The DELHI SULTANATE (1206–1526), ruled by FIVE dynasties — SLAVE, KHALJI, TUGHLAQ, SAYYID and LODI — established a large state in north India after Muhammad Ghori's victory at Tarain; consolidated by Iltutmish (and briefly ruled by Razia), it developed an administration based on IQTAS (revenue assignments to muqtis), trusted slave-officers (bandagan), a strong army and LAND REVENUE; rulers like Alauddin Khalji (market control, Mongol defence) and Muhammad bin Tughlaq (token currency, capital shift) experimented boldly; it spread Indo-Persian culture and Indo-Islamic architecture (the Qutb Minar), before declining and giving way to the Mughals after the First Battle of Panipat",
+      "It was based in Europe",
+      "It had only peasants and no rulers"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that the DELHI SULTANATE (1206–1526), ruled by FIVE successive dynasties — SLAVE (Mamluk), KHALJI, TUGHLAQ, SAYYID, and LODI — established a large state in NORTH INDIA (and beyond) after Muhammad Ghori's victory at the Second Battle of TARAIN (1192). Consolidated by ILTUTMISH (with the Qutb Minar completed and the silver tanka introduced) and briefly ruled by RAZIA, the Sultanate developed an administration based on IQTAS (revenue assignments to MUQTIS/iqtadars), trusted slave-officers (BANDAGAN), a strong STANDING ARMY, and LAND REVENUE. Rulers like ALAUDDIN KHALJI (MARKET CONTROL and MONGOL DEFENCE) and MUHAMMAD BIN TUGHLAQ (TOKEN CURRENCY and the CAPITAL SHIFT to Daulatabad) experimented boldly, with mixed results. The Sultanate spread INDO-PERSIAN CULTURE and INDO-ISLAMIC ARCHITECTURE (arches, domes, minarets, the QUTB MINAR), before DECLINING — hastened by Timur's invasion and weak later rulers — and giving way to the MUGHALS after the FIRST BATTLE of PANIPAT (1526). So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Delhi Sultanate was established after the defeat of Prithviraj Chauhan by Muhammad Ghori in the:",
+    "options": [
+      "First Battle of Tarain (1191)",
+      "Second Battle of Tarain (1192)",
+      "Battle of Panipat",
+      "Battle of Plassey"
+    ],
+    "correct_index": 1,
+    "solution": "Muhammad Ghori defeated Prithviraj Chauhan in the Second Battle of Tarain (1192), paving the way for Turkish rule and the Delhi Sultanate.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The founder of the Delhi Sultanate and the Slave (Mamluk) Dynasty was:",
+    "options": [
+      "Iltutmish",
+      "Qutbuddin Aibak",
+      "Balban",
+      "Muhammad Ghori"
+    ],
+    "correct_index": 1,
+    "solution": "Qutbuddin Aibak, a general and slave of Muhammad Ghori, founded the Delhi Sultanate and the Slave (Mamluk) Dynasty in 1206.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Qutb Minar was begun by Qutbuddin Aibak and completed by:",
+    "options": [
+      "Balban",
+      "Iltutmish",
+      "Alauddin Khalji",
+      "Firoz Shah Tughlaq"
+    ],
+    "correct_index": 1,
+    "solution": "Qutbuddin Aibak began the Qutb Minar in Delhi; it was completed by his successor Iltutmish. It is a UNESCO World Heritage Site.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first woman ruler of the Delhi Sultanate was:",
+    "options": [
+      "Chand Bibi",
+      "Razia Sultan (Raziyya)",
+      "Nur Jahan",
+      "Rani Durgavati"
+    ],
+    "correct_index": 1,
+    "solution": "Razia Sultan, daughter of Iltutmish, was the first (and only) woman to rule the Delhi Sultanate; her reign faced opposition from the nobility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The five dynasties of the Delhi Sultanate in order were the Slave (Mamluk), Khalji, Tughlaq, Sayyid and:",
+    "options": [
+      "Lodi",
+      "Mughal",
+      "Maratha",
+      "Gupta"
+    ],
+    "correct_index": 0,
+    "solution": "The Delhi Sultanate's five dynasties were the Slave/Mamluk, Khalji, Tughlaq, Sayyid and Lodi dynasties, spanning roughly 1206–1526.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ruler who introduced market (price) control regulations and repelled Mongol invasions was:",
+    "options": [
+      "Iltutmish",
+      "Alauddin Khalji",
+      "Balban",
+      "Firoz Shah Tughlaq"
+    ],
+    "correct_index": 1,
+    "solution": "Alauddin Khalji introduced strict market/price control reforms and successfully defended against repeated Mongol invasions; his general Malik Kafur led campaigns into the south.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Alauddin Khalji's general who led military campaigns into South India was:",
+    "options": [
+      "Malik Kafur",
+      "Ghiyasuddin",
+      "Zafar Khan",
+      "Ulugh Khan"
+    ],
+    "correct_index": 0,
+    "solution": "Malik Kafur was Alauddin Khalji's trusted general who led expeditions deep into the Deccan and South India, extending the Sultanate's influence southward.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Sultan who shifted his capital from Delhi to Daulatabad (Devagiri) and back was:",
+    "options": [
+      "Alauddin Khalji",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq",
+      "Balban"
+    ],
+    "correct_index": 1,
+    "solution": "Muhammad bin Tughlaq shifted the capital to Daulatabad in the Deccan and later reversed the decision — one of his controversial 'experiments' that caused hardship.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Muhammad bin Tughlaq is also known for his failed experiment of introducing:",
+    "options": [
+      "Paper currency",
+      "Token (bronze/copper) currency",
+      "Gold coins only",
+      "Barter"
+    ],
+    "correct_index": 1,
+    "solution": "Muhammad bin Tughlaq introduced token currency (copper/bronze coins to represent silver), which failed due to widespread forgery, causing economic chaos.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Sultan known for public works, canals and founding cities like Firozabad and Hisar was:",
+    "options": [
+      "Alauddin Khalji",
+      "Firoz Shah Tughlaq",
+      "Balban",
+      "Iltutmish"
+    ],
+    "correct_index": 1,
+    "solution": "Firoz Shah Tughlaq focused on public welfare works — canals, cities, hospitals and rest houses — and set up an employment bureau; he also imposed the jizya more strictly.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'iqta' system in the Delhi Sultanate refers to:",
+    "options": [
+      "A tax on trade",
+      "The assignment of revenue from land/territory to officials (iqtadars) in lieu of salary",
+      "A religious tax",
+      "A market"
+    ],
+    "correct_index": 1,
+    "solution": "Under the iqta system, the Sultan assigned revenue from a territory (iqta) to nobles/officers (iqtadars/muqtis) who maintained troops and administered it, in lieu of cash salary.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Iltutmish introduced the silver coin 'tanka' and the copper coin:",
+    "options": [
+      "Jital",
+      "Rupaya",
+      "Dam",
+      "Mohur"
+    ],
+    "correct_index": 0,
+    "solution": "Iltutmish introduced a standardised currency — the silver tanka and the copper jital — which became the basis of the Sultanate's coinage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Delhi Sultan Balban is known for strengthening the monarchy through the theory of:",
+    "options": [
+      "Divine right and the policy of 'blood and iron'",
+      "Democracy",
+      "Republicanism",
+      "Federalism"
+    ],
+    "correct_index": 0,
+    "solution": "Balban strengthened royal authority with the theory of kingship as a divine institution and a stern 'blood and iron' policy, along with court ceremonies like sijda and paibos.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The last dynasty of the Delhi Sultanate, defeated by Babur at the First Battle of Panipat (1526), was the:",
+    "options": [
+      "Khalji",
+      "Lodi",
+      "Tughlaq",
+      "Sayyid"
+    ],
+    "correct_index": 1,
+    "solution": "The Lodi dynasty was the last of the Delhi Sultanate; Ibrahim Lodi was defeated and killed by Babur at the First Battle of Panipat (1526), marking the start of Mughal rule.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The famous Sufi saint of Delhi, associated with the Chishti order, was:",
+    "options": [
+      "Nizamuddin Auliya",
+      "Shankaracharya",
+      "Kabir",
+      "Guru Nanak"
+    ],
+    "correct_index": 0,
+    "solution": "Nizamuddin Auliya was a renowned Chishti Sufi saint of Delhi during the Sultanate period, revered across communities; his dargah remains a major shrine.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The court poet and musician associated with the Delhi Sultanate, credited with developing qawwali, was:",
+    "options": [
+      "Amir Khusrau",
+      "Tulsidas",
+      "Kalidasa",
+      "Tansen"
+    ],
+    "correct_index": 0,
+    "solution": "Amir Khusrau, the multilingual poet, scholar and musician, was associated with the Delhi Sultanate court and Sufi tradition, credited with developing qawwali and contributions to music.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'jizya' during the Sultanate was a:",
+    "options": [
+      "Land tax",
+      "Tax levied on non-Muslims",
+      "Trade tax",
+      "Water tax"
+    ],
+    "correct_index": 1,
+    "solution": "Jizya was a tax levied on non-Muslim subjects (dhimmis) in return for protection and exemption from military service; its imposition varied under different rulers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sultanate's standing army and the branding of horses ('dagh') and descriptive rolls of soldiers ('chehra') were reforms of:",
+    "options": [
+      "Iltutmish",
+      "Alauddin Khalji",
+      "Firoz Shah",
+      "Balban"
+    ],
+    "correct_index": 1,
+    "solution": "Alauddin Khalji introduced the dagh (branding of horses) and chehra (descriptive muster rolls of soldiers) to maintain an efficient standing army and prevent fraud.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Delhi Sultanate is significant in Indian architecture for introducing the:",
+    "options": [
+      "Shikhara temples",
+      "Arch and dome (true arch) and Indo-Islamic architecture",
+      "Stupas",
+      "Rock-cut caves"
+    ],
+    "correct_index": 1,
+    "solution": "The Delhi Sultanate introduced the true arch and dome and gave rise to Indo-Islamic architecture, blending Islamic forms with Indian craftsmanship (e.g. Qutb complex, Alai Darwaza).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Alai Darwaza', a fine example of early Indo-Islamic architecture, was built by:",
+    "options": [
+      "Iltutmish",
+      "Alauddin Khalji",
+      "Balban",
+      "Firoz Shah"
+    ],
+    "correct_index": 1,
+    "solution": "The Alai Darwaza, a gateway in the Qutb complex noted for its true dome and arch, was built by Alauddin Khalji in 1311.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The administrative division of the Sultanate, a province, was headed by an official called the:",
+    "options": [
+      "Sarpanch",
+      "Muqti/Wali (governor)",
+      "Mayor",
+      "Diwan"
+    ],
+    "correct_index": 1,
+    "solution": "Provinces (iqtas) of the Sultanate were governed by muqtis or walis, who maintained order, collected revenue and provided military support to the Sultan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mongol invasions during the Sultanate period were most effectively resisted by:",
+    "options": [
+      "Iltutmish",
+      "Alauddin Khalji",
+      "Firoz Shah",
+      "Ibrahim Lodi"
+    ],
+    "correct_index": 1,
+    "solution": "Alauddin Khalji built strong fortifications and a large standing army, effectively repelling repeated Mongol invasions that threatened Delhi.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The chronicler and historian who wrote the 'Tarikh-i-Firoz Shahi' was:",
+    "options": [
+      "Ziauddin Barani",
+      "Al-Biruni",
+      "Ibn Battuta",
+      "Abul Fazl"
+    ],
+    "correct_index": 0,
+    "solution": "Ziauddin Barani, a Sultanate-era historian, wrote the Tarikh-i-Firoz Shahi, an important source for the history and politics of the Delhi Sultanate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Moroccan traveller who visited India during Muhammad bin Tughlaq's reign and wrote the 'Rihla' was:",
+    "options": [
+      "Marco Polo",
+      "Ibn Battuta",
+      "Fa-Hien",
+      "Megasthenes"
+    ],
+    "correct_index": 1,
+    "solution": "Ibn Battuta, the Moroccan traveller, visited India during Muhammad bin Tughlaq's reign and served as a qazi; his account (Rihla) is a valuable source on the period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Vijayanagara Empire and the Bahmani Sultanate arose in the Deccan during the ______ period.",
+    "options": [
+      "Gupta",
+      "Delhi Sultanate (14th century)",
+      "Mauryan",
+      "British"
+    ],
+    "correct_index": 1,
+    "solution": "The Vijayanagara Empire (Hindu) and the Bahmani Sultanate (Muslim) both arose in the Deccan in the 14th century, partly in response to the Delhi Sultanate's southern campaigns.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Vijayanagara Empire was founded by Harihara and Bukka; its most famous ruler was:",
+    "options": [
+      "Krishnadevaraya",
+      "Prithviraj Chauhan",
+      "Shivaji",
+      "Rana Pratap"
+    ],
+    "correct_index": 0,
+    "solution": "Krishnadevaraya (of the Tuluva dynasty) was the greatest ruler of the Vijayanagara Empire, under whom it reached its zenith in power, art and literature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The capital of the Vijayanagara Empire, now a UNESCO World Heritage Site, was:",
+    "options": [
+      "Hampi",
+      "Delhi",
+      "Golconda",
+      "Bijapur"
+    ],
+    "correct_index": 0,
+    "solution": "Hampi (Vijayanagara) in Karnataka was the magnificent capital of the Vijayanagara Empire, its ruins now a UNESCO World Heritage Site.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Bahmani Sultanate's famous minister and statesman was:",
+    "options": [
+      "Mahmud Gawan",
+      "Malik Kafur",
+      "Todar Mal",
+      "Birbal"
+    ],
+    "correct_index": 0,
+    "solution": "Mahmud Gawan was a notable Persian statesman and minister of the Bahmani Sultanate, known for administrative reforms and patronage of learning.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Sultanate' style of coinage and administration influenced later Indian polities, showing continuity into the:",
+    "options": [
+      "Mauryan period",
+      "Mughal period",
+      "Harappan period",
+      "Vedic period"
+    ],
+    "correct_index": 1,
+    "solution": "Many Sultanate institutions — coinage, revenue administration, the iqta/jagir idea and Indo-Islamic architecture — influenced and were developed further under the Mughals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bhakti and Sufi saints during the Sultanate period contributed to:",
+    "options": [
+      "War",
+      "Social harmony and devotional movements bridging communities",
+      "Trade only",
+      "Isolation"
+    ],
+    "correct_index": 1,
+    "solution": "Bhakti saints (like Kabir, Ravidas) and Sufi saints (like Nizamuddin Auliya) preached devotion, equality and love, fostering social harmony and a composite culture during the Sultanate period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The regional kingdoms that asserted independence as the Delhi Sultanate weakened included Bengal, Jaunpur, Malwa, Gujarat and:",
+    "options": [
+      "The Deccan (Bahmani/Vijayanagara)",
+      "England",
+      "Persia",
+      "Tibet"
+    ],
+    "correct_index": 0,
+    "solution": "As the Sultanate weakened (especially after Timur's invasion in 1398), regional kingdoms like Bengal, Jaunpur, Malwa, Gujarat and the Deccan states asserted independence.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The invasion of Delhi in 1398 that devastated the city and hastened the Tughlaq decline was led by:",
+    "options": [
+      "Timur (Tamerlane)",
+      "Genghis Khan",
+      "Nadir Shah",
+      "Babur"
+    ],
+    "correct_index": 0,
+    "solution": "Timur (Tamerlane) invaded and sacked Delhi in 1398, causing immense destruction and accelerating the decline of the Tughlaq dynasty.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Sayyid dynasty' that ruled Delhi after the Tughlaqs claimed descent from:",
+    "options": [
+      "The Prophet Muhammad",
+      "Genghis Khan",
+      "Alexander",
+      "Ashoka"
+    ],
+    "correct_index": 0,
+    "solution": "The Sayyid dynasty (1414–1451) claimed descent from the Prophet Muhammad; it was a weak dynasty ruling a much-reduced Sultanate before the Lodis.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Lodi dynasty was notable for being the first ______ dynasty to rule the Delhi Sultanate.",
+    "options": [
+      "Turkish",
+      "Afghan",
+      "Mongol",
+      "Persian"
+    ],
+    "correct_index": 1,
+    "solution": "The Lodi dynasty was the first Afghan dynasty to rule the Delhi Sultanate; earlier dynasties were largely of Turkish origin.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sikandar Lodi, an important Lodi ruler, founded which city?",
+    "options": [
+      "Agra",
+      "Jaipur",
+      "Lucknow",
+      "Bhopal"
+    ],
+    "correct_index": 0,
+    "solution": "Sikandar Lodi founded the city of Agra in 1504 and shifted his capital there; Agra later became a major Mughal centre.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The administrative and revenue records of the Sultanate were maintained in which language?",
+    "options": [
+      "Sanskrit only",
+      "Persian",
+      "English",
+      "Tamil"
+    ],
+    "correct_index": 1,
+    "solution": "Persian was the official language of administration and record-keeping in the Delhi Sultanate, a legacy that continued under the Mughals until the British era.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs is correctly matched? (i) Qutbuddin Aibak – Slave dynasty (ii) Alauddin Khalji – Khalji dynasty (iii) Ibrahim Lodi – Lodi dynasty",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correctly matched: Qutbuddin Aibak (Slave/Mamluk dynasty), Alauddin Khalji (Khalji dynasty) and Ibrahim Lodi (Lodi dynasty).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Delhi Sultanate lasted for approximately:",
+    "options": [
+      "50 years",
+      "About 320 years (1206–1526)",
+      "1000 years",
+      "10 years"
+    ],
+    "correct_index": 1,
+    "solution": "The Delhi Sultanate lasted from 1206 (Qutbuddin Aibak) to 1526 (defeat of Ibrahim Lodi by Babur) — roughly 320 years across five dynasties.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main significance of the Delhi Sultanate in Indian history is that it:",
+    "options": [
+      "Left no impact",
+      "Established Turco-Afghan/Islamic rule in North India and fostered a composite Indo-Islamic culture",
+      "Was purely destructive",
+      "Ended all trade"
+    ],
+    "correct_index": 1,
+    "solution": "The Delhi Sultanate established lasting Islamic political power in North India and fostered a composite Indo-Islamic culture in architecture, language (Urdu's roots), music, cuisine and administration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'diwan-i-arz' in the Sultanate administration was the department of:",
+    "options": [
+      "Finance",
+      "The military (army)",
+      "Religion",
+      "Justice"
+    ],
+    "correct_index": 1,
+    "solution": "The diwan-i-arz was the military department of the Sultanate, responsible for the army's recruitment, equipment and administration; the diwan-i-wizarat handled finance.",
+    "difficulty": "hard"
+  }
 ]
