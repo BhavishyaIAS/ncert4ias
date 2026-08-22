@@ -1,52 +1,962 @@
 [
-  { "stem": "Thanjavur, a famous temple town, was the capital of which dynasty?", "options": ["The Cholas", "The Rashtrakutas", "The Chandelas", "The Palas"], "correct_index": 0, "solution": "Thanjavur was the Chola capital, site of the Rajarajeshvara temple and a hub of craft and commerce.", "difficulty": "medium" },
-  { "stem": "Hampi was the magnificent capital city of which empire?", "options": ["The Bahmani Sultanate", "The Vijayanagara empire", "The Mughal empire", "The Maratha kingdom"], "correct_index": 1, "solution": "Hampi, on the Tungabhadra, was the grand capital of the Vijayanagara empire.", "difficulty": "medium" },
-  { "stem": "The bronze images of the Cholas and others were made using which technique?", "options": ["Blown glass", "The lost-wax (cire perdue) technique", "Block printing", "Kiln firing of clay"], "correct_index": 1, "solution": "Craftspersons used the lost-wax technique to cast fine bronze sculptures.", "difficulty": "medium" },
-  { "stem": "The port of Surat on the western coast was known as the:", "options": ["Gateway to the west / to Mecca", "Queen of the Bay", "Gateway of the East", "City of Pearls"], "correct_index": 0, "solution": "Surat was called the 'gateway to the west' and the 'gateway to Mecca', being a major port for trade and Haj pilgrims.", "difficulty": "hard" },
-  { "stem": "Masulipatnam and Surat were important types of which town?", "options": ["Temple towns", "Port towns", "Administrative capitals only", "Mining towns"], "correct_index": 1, "solution": "Masulipatnam (east coast) and Surat (west coast) were leading port towns of trade during this period.", "difficulty": "medium" },
-  { "stem": "In many South Indian towns, associations of craftspersons and merchants who organised production and trade were called:", "options": ["Guilds", "Sabhas", "Iqtas", "Mansabs"], "correct_index": 0, "solution": "Guilds were associations of craftspersons/merchants that regulated their crafts and trade.", "difficulty": "medium" },
-  { "stem": "The 'black towns' that developed near European trading settlements were areas where:", "options": ["European traders lived", "Indian merchants, weavers and artisans lived", "Only soldiers stayed", "Temples were built"], "correct_index": 1, "solution": "As Europeans set up settlements, the fortified 'white towns' housed Europeans while the surrounding 'black towns' housed Indian merchants and artisans.", "difficulty": "hard" },
-  { "stem": "Which famous ruler was associated with the peak of Vijayanagara's power?", "options": ["Krishnadeva Raya", "Rajaraja Chola", "Rani Durgavati", "Baji Rao"], "correct_index": 0, "solution": "Krishnadeva Raya presided over the height of the Vijayanagara empire's power and prosperity.", "difficulty": "medium" },
-  { "stem": "A 'temple town' developed around a temple because the temple:", "options": ["Attracted pilgrims, priests, craftspeople and traders, creating a settlement", "Kept everyone away", "Had no visitors", "Was always empty"], "correct_index": 0, "solution": "A TEMPLE TOWN developed because the TEMPLE ATTRACTED PILGRIMS, PRIESTS, CRAFTSPEOPLE, and TRADERS, and owned land and wealth — drawing people to settle around it. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Temples became centres of settlement partly because they were:", "options": ["Wealthy landowners that employed many people and funded activities", "Poor and empty", "Only for kings", "Never used"], "correct_index": 0, "solution": "TEMPLES became centres of settlement because they were WEALTHY LANDOWNERS that EMPLOYED many PEOPLE (priests, workers, artisans, garland-makers) and FUNDED festivals and activities. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main types of towns in this period included temple towns, administrative centres, and:", "options": ["Commercial (trading) and port towns", "Only villages", "Only forts", "No towns"], "correct_index": 0, "solution": "The main TYPES of TOWNS were TEMPLE TOWNS, ADMINISTRATIVE centres (capitals), COMMERCIAL/trading towns, and PORT towns — each with a distinctive function. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Craftspersons like weavers, potters and metalworkers were important because they:", "options": ["Produced goods for local use and for trade", "Did no useful work", "Only fought wars", "Grew all the food"], "correct_index": 0, "solution": "CRAFTSPERSONS — WEAVERS, POTTERS, METALWORKERS, and others — were important because they PRODUCED GOODS for LOCAL USE and for TRADE, supporting the economy and daily life. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Indian textiles, especially fine cotton cloth, were famous and in demand:", "options": ["Across India and in distant foreign markets", "Only in one village", "Nowhere", "Only among soldiers"], "correct_index": 0, "solution": "Indian TEXTILES — especially fine COTTON CLOTH — were famous and in DEMAND across India and in DISTANT FOREIGN MARKETS (in the Middle East, Southeast Asia, and Europe). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The traders who carried goods over long distances between towns and regions were often organised into:", "options": ["Merchant guilds and caravans", "Single households", "Armies only", "Temples"], "correct_index": 0, "solution": "TRADERS who carried goods over LONG DISTANCES were often organised into MERCHANT GUILDS and travelled in CARAVANS for safety, connecting distant markets. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'banjaras' were:", "options": ["Groups of travelling traders who transported goods on bullocks", "Priests", "Soldiers only", "Farmers only"], "correct_index": 0, "solution": "The BANJARAS were GROUPS of TRAVELLING TRADERS who TRANSPORTED GOODS (like grain and salt) over long distances on herds of BULLOCKS — vital to inland trade. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "European trading companies (Portuguese, Dutch, English, French) came to Indian ports mainly to:", "options": ["Buy Indian goods like textiles and spices for profit", "Build temples", "Farm the land", "Learn Sanskrit"], "correct_index": 0, "solution": "The EUROPEAN TRADING COMPANIES came to Indian ports mainly to BUY Indian GOODS like TEXTILES and SPICES to sell for PROFIT back home, drawn by India's rich trade. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. Thanjavur — temple town 2. Surat — port town 3. Hampi — capital city. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: THANJAVUR → TEMPLE TOWN (Chola capital); SURAT → PORT TOWN; and HAMPI → CAPITAL CITY (of Vijayanagara). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The prosperity of Hampi (Vijayanagara) came from:", "options": ["Trade in cotton, spices and horses, and a rich agricultural hinterland", "The absence of trade", "A desert with no farming", "Piracy only"], "correct_index": 0, "solution": "The PROSPERITY of HAMPI (Vijayanagara) came from TRADE in COTTON, SPICES, and HORSES, and from a RICH AGRICULTURAL HINTERLAND supported by irrigation. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 'nagaram' in south Indian towns was an association of:", "options": ["Merchants", "Farmers only", "Priests only", "Soldiers"], "correct_index": 0, "solution": "The NAGARAM was an association of MERCHANTS in south Indian towns, organising and regulating trade. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following goods were commonly traded from India in this period?", "options": ["Textiles, spices, precious stones and metalwork", "Only ice", "Only machines", "Nothing"], "correct_index": 0, "solution": "Commonly TRADED Indian GOODS included TEXTILES (cotton and silk), SPICES (pepper, cardamom), PRECIOUS STONES, and fine METALWORK — famous the world over. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The fortified European settlement (like Fort St George at Madras) was known as the:", "options": ["White town", "Black town", "Temple town", "Port only"], "correct_index": 0, "solution": "The FORTIFIED EUROPEAN settlement (like FORT ST GEORGE at Madras) was called the 'WHITE TOWN', where Europeans lived, while the surrounding Indian quarters formed the 'BLACK TOWN'. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Craft production was often organised so that:", "options": ["Particular communities or families specialised in particular crafts", "No one had any skill", "Everyone did every craft randomly", "Crafts did not exist"], "correct_index": 0, "solution": "CRAFT PRODUCTION was often organised so that PARTICULAR COMMUNITIES or FAMILIES SPECIALISED in PARTICULAR CRAFTS (weaving, pottery, metalwork), passing skills down the generations. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The bidri work, a famous craft, involves:", "options": ["Inlaying silver and gold into blackened metal", "Weaving silk", "Carving wood", "Making pottery"], "correct_index": 0, "solution": "BIDRI WORK is a famous metal craft that involves INLAYING SILVER and GOLD into BLACKENED METAL (an alloy), producing striking decorative objects (named after Bidar). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The weavers who produced fine cloth for trade often depended on:", "options": ["Merchants who supplied raw materials and bought the finished cloth", "No one", "Only the king's orders", "Foreign soldiers"], "correct_index": 0, "solution": "WEAVERS often DEPENDED on MERCHANTS who SUPPLIED RAW MATERIALS (cotton, yarn) and BOUGHT the FINISHED CLOTH — linking craft production to the wider market. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Temple towns were important centres of settlement. Reason (R): Temples attracted pilgrims and employed many people, drawing craftspeople and traders. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — temple towns were important centres. R is TRUE and correctly EXPLAINS A: temples ATTRACTED PILGRIMS and EMPLOYED many PEOPLE, DRAWING craftspeople and traders — which is precisely why settlements grew around them. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The town of Kanchipuram was famous as a centre of:", "options": ["Silk weaving (and temples)", "Coal mining", "Shipbuilding", "Ice production"], "correct_index": 0, "solution": "KANCHIPURAM was famous as a centre of SILK WEAVING (and as a major temple town) — its silk sarees remain renowned today. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following describes the relationship between towns and their surrounding villages?", "options": ["Towns depended on villages for food and raw materials, and villages on towns for goods and markets", "They had no connection", "Villages ruled towns", "Towns grew all their own food"], "correct_index": 0, "solution": "TOWNS DEPENDED on VILLAGES for FOOD and RAW MATERIALS, and VILLAGES depended on TOWNS for GOODS and MARKETS — a mutual, interdependent relationship. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The gold and silver coins used in trade during this period indicate that:", "options": ["A money economy and long-distance trade were well developed", "There was no trade", "Barter was the only system", "Coins were unknown"], "correct_index": 0, "solution": "The use of GOLD and SILVER COINS in trade indicates that a MONEY ECONOMY and LONG-DISTANCE TRADE were WELL DEVELOPED in this period. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'hundis' used by traders were:", "options": ["Bills of exchange (credit notes) used to transfer money safely", "Types of weapons", "Religious texts", "Farming tools"], "correct_index": 0, "solution": "HUNDIS were BILLS of EXCHANGE (credit notes) used by traders to TRANSFER MONEY SAFELY over long distances without carrying cash — an early banking instrument. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The sarrafs (money-changers/bankers) in towns performed the role of:", "options": ["Changing coins, lending money and handling hundis", "Weaving cloth", "Farming", "Building temples"], "correct_index": 0, "solution": "The SARRAFS (money-changers/bankers) CHANGED COINS, LENT MONEY, and HANDLED HUNDIS — providing financial services that supported trade. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The decline of some old towns and the rise of new ones shows that:", "options": ["Towns rose and fell with changes in trade, politics and patronage", "Towns never changed", "All towns were permanent", "Towns had no economy"], "correct_index": 0, "solution": "The DECLINE of some OLD towns and RISE of NEW ones shows that TOWNS ROSE and FELL with CHANGES in TRADE routes, POLITICS, and royal PATRONAGE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly pairs a town with its type?", "options": ["Thanjavur → temple/capital; Masulipatnam → port; Hampi → imperial capital", "Thanjavur → port; Masulipatnam → temple; Hampi → village", "All were villages", "None were towns"], "correct_index": 0, "solution": "The correct pairings are: THANJAVUR → TEMPLE/CAPITAL town; MASULIPATNAM → PORT town; and HAMPI → IMPERIAL CAPITAL (Vijayanagara). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The arrival of European companies gradually changed Indian trade because they:", "options": ["Sought to control trade and later gained political power", "Left immediately", "Only bought food", "Had no effect"], "correct_index": 0, "solution": "The EUROPEAN COMPANIES gradually changed Indian trade because they SOUGHT to CONTROL trade (setting up fortified settlements) and LATER GAINED POLITICAL POWER — most notably the English East India Company. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The crafts and trade of this period supported the livelihoods of:", "options": ["A large number of artisans, merchants, transporters and others", "Only kings", "No one", "Only soldiers"], "correct_index": 0, "solution": "The CRAFTS and TRADE of this period SUPPORTED the LIVELIHOODS of a LARGE number of ARTISANS, MERCHANTS, TRANSPORTERS, moneylenders, and others — a vast economic network. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about Indian trade in this period is correct?", "options": ["India was a major producer and exporter of goods, connected to Asian and European markets", "India produced nothing", "India had no ports", "India traded only within one village"], "correct_index": 0, "solution": "It is correct that INDIA was a MAJOR PRODUCER and EXPORTER of goods (textiles, spices, etc.), CONNECTED to ASIAN and EUROPEAN MARKETS through its ports and trade routes. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The wealth of temple towns came partly from:", "options": ["Gifts of land, gold and money to the temple by rulers and devotees", "Robbery", "Foreign aid", "Nothing"], "correct_index": 0, "solution": "The WEALTH of TEMPLE TOWNS came partly from GIFTS of LAND, GOLD, and MONEY DONATED to the temple by RULERS and DEVOTEES — making temples rich institutions. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The port towns were important because they:", "options": ["Connected inland trade to overseas markets by sea", "Were far from the sea", "Had no ships", "Blocked all trade"], "correct_index": 0, "solution": "PORT TOWNS were important because they CONNECTED INLAND TRADE to OVERSEAS MARKETS by SEA — goods flowed from the hinterland to ships and then to distant lands. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The variety of crafts (textiles, metalwork, pottery, jewellery, bronze) shows that Indian towns had:", "options": ["Highly skilled artisans and a rich craft tradition", "No skills", "Only one craft", "No artisans"], "correct_index": 0, "solution": "The VARIETY of CRAFTS — textiles, metalwork, pottery, jewellery, bronze — shows that Indian towns had HIGHLY SKILLED ARTISANS and a RICH CRAFT TRADITION admired far and wide. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main reason merchants formed guilds was to:", "options": ["Protect their common interests, regulate trade and travel safely", "Fight the king", "Avoid all trade", "Give away goods"], "correct_index": 0, "solution": "Merchants formed GUILDS to PROTECT their COMMON INTERESTS, REGULATE trade and prices, and TRAVEL SAFELY in groups — strength in numbers for long-distance commerce. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is TRUE about towns in this period?", "options": ["They were centres of administration, religion, craft and trade, each with a distinct character", "They were all identical", "They had no functions", "They were empty"], "correct_index": 0, "solution": "It is TRUE that TOWNS were CENTRES of ADMINISTRATION, RELIGION, CRAFT, and TRADE, each with a DISTINCT CHARACTER (temple town, port, capital, commercial centre). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The presence of skilled craftspersons and rich merchants in towns contributed to:", "options": ["The economic and cultural vibrancy of urban life", "Poverty and decline", "The end of all crafts", "Complete isolation"], "correct_index": 0, "solution": "The presence of SKILLED CRAFTSPERSONS and RICH MERCHANTS contributed to the ECONOMIC and CULTURAL VIBRANCY of URBAN LIFE — towns buzzed with production, trade, art, and festivals. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 'Gujarati merchants' of this period were noted for their role in:", "options": ["Overseas and inland trade, including trade with the Red Sea and Persian Gulf", "Farming only", "Fighting wars only", "Building temples only"], "correct_index": 0, "solution": "The GUJARATI MERCHANTS were noted for their prominent role in OVERSEAS and INLAND TRADE, including with the RED SEA and PERSIAN GULF regions, operating from ports like Surat. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is an example of an administrative town of this period?", "options": ["A capital city where a ruler's court and offices were located", "A remote forest", "An empty desert", "A single farm"], "correct_index": 0, "solution": "An ADMINISTRATIVE TOWN was a CAPITAL CITY where a RULER's COURT and OFFICES were located — the centre of government for a kingdom or province. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The demand for Indian cotton textiles in Europe was so high that it:", "options": ["Made textiles a major export and a key attraction for European traders", "Had no effect", "Reduced Indian production", "Ended trade"], "correct_index": 0, "solution": "The high DEMAND for Indian COTTON TEXTILES in EUROPE made them a MAJOR EXPORT and a KEY ATTRACTION for European traders, who competed to buy Indian cloth. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The skilled saltpetre and indigo trades of this period supplied:", "options": ["Materials in demand for gunpowder and dyeing, including for export", "Only food", "Only water", "Nothing"], "correct_index": 0, "solution": "SALTPETRE (used in GUNPOWDER) and INDIGO (a DYE) were traded goods in demand at home and for EXPORT, showing the range of India's commerce beyond textiles. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The town of Ahmedabad in Gujarat was known as a centre of:", "options": ["Textile production and trade", "Coal mining", "Fishing only", "Ice-making"], "correct_index": 0, "solution": "AHMEDABAD in Gujarat was known as a major centre of TEXTILE PRODUCTION and TRADE, contributing to Gujarat's commercial prosperity. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The exchange of goods between different regions of India shows that:", "options": ["There was a lively network of internal (inland) trade", "Regions never traded", "India had no roads", "Trade was banned"], "correct_index": 0, "solution": "The EXCHANGE of goods between different regions shows there was a LIVELY NETWORK of INTERNAL (INLAND) TRADE, connecting producers and consumers across the subcontinent. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Craftspersons often lived in particular streets or quarters of a town named after their craft because:", "options": ["People of the same craft settled and worked together", "They were forbidden to mix", "There were no crafts", "They had no homes"], "correct_index": 0, "solution": "Craftspersons often lived in STREETS or QUARTERS named after their craft because PEOPLE of the SAME CRAFT SETTLED and WORKED TOGETHER, sharing skills, tools, and markets. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall picture of towns, traders and craftspersons in this period is that:", "options": ["India had a thriving urban and commercial economy with skilled crafts and wide trade", "India had no towns or trade", "India was completely isolated", "Only kings existed"], "correct_index": 0, "solution": "The OVERALL PICTURE is that INDIA had a THRIVING URBAN and COMMERCIAL economy, with SKILLED CRAFTS and WIDE TRADE linking towns, villages, and distant lands. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Towns, Traders and Craftspersons' is that:", "options": ["Towns and trade were unimportant", "During this period, various kinds of TOWNS flourished — TEMPLE TOWNS (like Thanjavur and Kanchipuram, growing around wealthy temples), ADMINISTRATIVE CAPITALS (like Hampi of Vijayanagara), COMMERCIAL towns and PORT TOWNS (like Surat and Masulipatnam); they were hubs of CRAFT production (fine textiles, bronze, metalwork, jewellery) by skilled artisans and of TRADE carried on by merchants, guilds, banjaras, sarrafs (bankers) and hundis (bills of exchange), linking India to Asian and European markets; the coming of European trading companies (with their 'white' and 'black' towns) gradually reshaped this trade — showing a rich urban, commercial and craft economy", "Only farming existed", "Trade never crossed the sea"], "correct_index": 1, "solution": "The chapter's overall message is that during this period, various kinds of TOWNS flourished: TEMPLE TOWNS (like THANJAVUR and KANCHIPURAM, which grew around WEALTHY TEMPLES that attracted pilgrims, priests, craftspeople, and traders), ADMINISTRATIVE CAPITALS (like HAMPI of the VIJAYANAGARA empire, at its peak under KRISHNADEVA RAYA), COMMERCIAL towns, and PORT TOWNS (like SURAT — the 'gateway to Mecca' — and MASULIPATNAM). These towns were HUBS of CRAFT PRODUCTION — fine TEXTILES (cotton and silk), BRONZE (by the lost-wax technique), METALWORK (like bidri), and JEWELLERY — made by SKILLED ARTISANS often organised in communities and GUILDS. They were also centres of TRADE, carried on by MERCHANTS, GUILDS, travelling BANJARAS, and financed by SARRAFS (bankers) using HUNDIS (bills of exchange), linking India to ASIAN and EUROPEAN markets. The coming of EUROPEAN TRADING COMPANIES (with their fortified 'WHITE TOWNS' and Indian 'BLACK TOWNS') gradually RESHAPED this trade — revealing a rich URBAN, COMMERCIAL, and CRAFT economy. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "Thanjavur, a famous temple town, was the capital of which dynasty?",
+    "options": [
+      "The Cholas",
+      "The Rashtrakutas",
+      "The Chandelas",
+      "The Palas"
+    ],
+    "correct_index": 0,
+    "solution": "Thanjavur was the Chola capital, site of the Rajarajeshvara temple and a hub of craft and commerce.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hampi was the magnificent capital city of which empire?",
+    "options": [
+      "The Bahmani Sultanate",
+      "The Vijayanagara empire",
+      "The Mughal empire",
+      "The Maratha kingdom"
+    ],
+    "correct_index": 1,
+    "solution": "Hampi, on the Tungabhadra, was the grand capital of the Vijayanagara empire.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bronze images of the Cholas and others were made using which technique?",
+    "options": [
+      "Blown glass",
+      "The lost-wax (cire perdue) technique",
+      "Block printing",
+      "Kiln firing of clay"
+    ],
+    "correct_index": 1,
+    "solution": "Craftspersons used the lost-wax technique to cast fine bronze sculptures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The port of Surat on the western coast was known as the:",
+    "options": [
+      "Gateway to the west / to Mecca",
+      "Queen of the Bay",
+      "Gateway of the East",
+      "City of Pearls"
+    ],
+    "correct_index": 0,
+    "solution": "Surat was called the 'gateway to the west' and the 'gateway to Mecca', being a major port for trade and Haj pilgrims.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Masulipatnam and Surat were important types of which town?",
+    "options": [
+      "Temple towns",
+      "Port towns",
+      "Administrative capitals only",
+      "Mining towns"
+    ],
+    "correct_index": 1,
+    "solution": "Masulipatnam (east coast) and Surat (west coast) were leading port towns of trade during this period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In many South Indian towns, associations of craftspersons and merchants who organised production and trade were called:",
+    "options": [
+      "Guilds",
+      "Sabhas",
+      "Iqtas",
+      "Mansabs"
+    ],
+    "correct_index": 0,
+    "solution": "Guilds were associations of craftspersons/merchants that regulated their crafts and trade.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'black towns' that developed near European trading settlements were areas where:",
+    "options": [
+      "European traders lived",
+      "Indian merchants, weavers and artisans lived",
+      "Only soldiers stayed",
+      "Temples were built"
+    ],
+    "correct_index": 1,
+    "solution": "As Europeans set up settlements, the fortified 'white towns' housed Europeans while the surrounding 'black towns' housed Indian merchants and artisans.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which famous ruler was associated with the peak of Vijayanagara's power?",
+    "options": [
+      "Krishnadeva Raya",
+      "Rajaraja Chola",
+      "Rani Durgavati",
+      "Baji Rao"
+    ],
+    "correct_index": 0,
+    "solution": "Krishnadeva Raya presided over the height of the Vijayanagara empire's power and prosperity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'temple town' developed around a temple because the temple:",
+    "options": [
+      "Attracted pilgrims, priests, craftspeople and traders, creating a settlement",
+      "Kept everyone away",
+      "Had no visitors",
+      "Was always empty"
+    ],
+    "correct_index": 0,
+    "solution": "A TEMPLE TOWN developed because the TEMPLE ATTRACTED PILGRIMS, PRIESTS, CRAFTSPEOPLE, and TRADERS, and owned land and wealth — drawing people to settle around it. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Temples became centres of settlement partly because they were:",
+    "options": [
+      "Wealthy landowners that employed many people and funded activities",
+      "Poor and empty",
+      "Only for kings",
+      "Never used"
+    ],
+    "correct_index": 0,
+    "solution": "TEMPLES became centres of settlement because they were WEALTHY LANDOWNERS that EMPLOYED many PEOPLE (priests, workers, artisans, garland-makers) and FUNDED festivals and activities. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main types of towns in this period included temple towns, administrative centres, and:",
+    "options": [
+      "Commercial (trading) and port towns",
+      "Only villages",
+      "Only forts",
+      "No towns"
+    ],
+    "correct_index": 0,
+    "solution": "The main TYPES of TOWNS were TEMPLE TOWNS, ADMINISTRATIVE centres (capitals), COMMERCIAL/trading towns, and PORT towns — each with a distinctive function. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Craftspersons like weavers, potters and metalworkers were important because they:",
+    "options": [
+      "Produced goods for local use and for trade",
+      "Did no useful work",
+      "Only fought wars",
+      "Grew all the food"
+    ],
+    "correct_index": 0,
+    "solution": "CRAFTSPERSONS — WEAVERS, POTTERS, METALWORKERS, and others — were important because they PRODUCED GOODS for LOCAL USE and for TRADE, supporting the economy and daily life. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Indian textiles, especially fine cotton cloth, were famous and in demand:",
+    "options": [
+      "Across India and in distant foreign markets",
+      "Only in one village",
+      "Nowhere",
+      "Only among soldiers"
+    ],
+    "correct_index": 0,
+    "solution": "Indian TEXTILES — especially fine COTTON CLOTH — were famous and in DEMAND across India and in DISTANT FOREIGN MARKETS (in the Middle East, Southeast Asia, and Europe). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The traders who carried goods over long distances between towns and regions were often organised into:",
+    "options": [
+      "Merchant guilds and caravans",
+      "Single households",
+      "Armies only",
+      "Temples"
+    ],
+    "correct_index": 0,
+    "solution": "TRADERS who carried goods over LONG DISTANCES were often organised into MERCHANT GUILDS and travelled in CARAVANS for safety, connecting distant markets. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'banjaras' were:",
+    "options": [
+      "Groups of travelling traders who transported goods on bullocks",
+      "Priests",
+      "Soldiers only",
+      "Farmers only"
+    ],
+    "correct_index": 0,
+    "solution": "The BANJARAS were GROUPS of TRAVELLING TRADERS who TRANSPORTED GOODS (like grain and salt) over long distances on herds of BULLOCKS — vital to inland trade. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "European trading companies (Portuguese, Dutch, English, French) came to Indian ports mainly to:",
+    "options": [
+      "Buy Indian goods like textiles and spices for profit",
+      "Build temples",
+      "Farm the land",
+      "Learn Sanskrit"
+    ],
+    "correct_index": 0,
+    "solution": "The EUROPEAN TRADING COMPANIES came to Indian ports mainly to BUY Indian GOODS like TEXTILES and SPICES to sell for PROFIT back home, drawn by India's rich trade. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Thanjavur — temple town 2. Surat — port town 3. Hampi — capital city. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: THANJAVUR → TEMPLE TOWN (Chola capital); SURAT → PORT TOWN; and HAMPI → CAPITAL CITY (of Vijayanagara). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prosperity of Hampi (Vijayanagara) came from:",
+    "options": [
+      "Trade in cotton, spices and horses, and a rich agricultural hinterland",
+      "The absence of trade",
+      "A desert with no farming",
+      "Piracy only"
+    ],
+    "correct_index": 0,
+    "solution": "The PROSPERITY of HAMPI (Vijayanagara) came from TRADE in COTTON, SPICES, and HORSES, and from a RICH AGRICULTURAL HINTERLAND supported by irrigation. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'nagaram' in south Indian towns was an association of:",
+    "options": [
+      "Merchants",
+      "Farmers only",
+      "Priests only",
+      "Soldiers"
+    ],
+    "correct_index": 0,
+    "solution": "The NAGARAM was an association of MERCHANTS in south Indian towns, organising and regulating trade. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following goods were commonly traded from India in this period?",
+    "options": [
+      "Textiles, spices, precious stones and metalwork",
+      "Only ice",
+      "Only machines",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "Commonly TRADED Indian GOODS included TEXTILES (cotton and silk), SPICES (pepper, cardamom), PRECIOUS STONES, and fine METALWORK — famous the world over. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The fortified European settlement (like Fort St George at Madras) was known as the:",
+    "options": [
+      "White town",
+      "Black town",
+      "Temple town",
+      "Port only"
+    ],
+    "correct_index": 0,
+    "solution": "The FORTIFIED EUROPEAN settlement (like FORT ST GEORGE at Madras) was called the 'WHITE TOWN', where Europeans lived, while the surrounding Indian quarters formed the 'BLACK TOWN'. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Craft production was often organised so that:",
+    "options": [
+      "Particular communities or families specialised in particular crafts",
+      "No one had any skill",
+      "Everyone did every craft randomly",
+      "Crafts did not exist"
+    ],
+    "correct_index": 0,
+    "solution": "CRAFT PRODUCTION was often organised so that PARTICULAR COMMUNITIES or FAMILIES SPECIALISED in PARTICULAR CRAFTS (weaving, pottery, metalwork), passing skills down the generations. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bidri work, a famous craft, involves:",
+    "options": [
+      "Inlaying silver and gold into blackened metal",
+      "Weaving silk",
+      "Carving wood",
+      "Making pottery"
+    ],
+    "correct_index": 0,
+    "solution": "BIDRI WORK is a famous metal craft that involves INLAYING SILVER and GOLD into BLACKENED METAL (an alloy), producing striking decorative objects (named after Bidar). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The weavers who produced fine cloth for trade often depended on:",
+    "options": [
+      "Merchants who supplied raw materials and bought the finished cloth",
+      "No one",
+      "Only the king's orders",
+      "Foreign soldiers"
+    ],
+    "correct_index": 0,
+    "solution": "WEAVERS often DEPENDED on MERCHANTS who SUPPLIED RAW MATERIALS (cotton, yarn) and BOUGHT the FINISHED CLOTH — linking craft production to the wider market. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Temple towns were important centres of settlement. Reason (R): Temples attracted pilgrims and employed many people, drawing craftspeople and traders. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — temple towns were important centres. R is TRUE and correctly EXPLAINS A: temples ATTRACTED PILGRIMS and EMPLOYED many PEOPLE, DRAWING craftspeople and traders — which is precisely why settlements grew around them. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The town of Kanchipuram was famous as a centre of:",
+    "options": [
+      "Silk weaving (and temples)",
+      "Coal mining",
+      "Shipbuilding",
+      "Ice production"
+    ],
+    "correct_index": 0,
+    "solution": "KANCHIPURAM was famous as a centre of SILK WEAVING (and as a major temple town) — its silk sarees remain renowned today. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following describes the relationship between towns and their surrounding villages?",
+    "options": [
+      "Towns depended on villages for food and raw materials, and villages on towns for goods and markets",
+      "They had no connection",
+      "Villages ruled towns",
+      "Towns grew all their own food"
+    ],
+    "correct_index": 0,
+    "solution": "TOWNS DEPENDED on VILLAGES for FOOD and RAW MATERIALS, and VILLAGES depended on TOWNS for GOODS and MARKETS — a mutual, interdependent relationship. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gold and silver coins used in trade during this period indicate that:",
+    "options": [
+      "A money economy and long-distance trade were well developed",
+      "There was no trade",
+      "Barter was the only system",
+      "Coins were unknown"
+    ],
+    "correct_index": 0,
+    "solution": "The use of GOLD and SILVER COINS in trade indicates that a MONEY ECONOMY and LONG-DISTANCE TRADE were WELL DEVELOPED in this period. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'hundis' used by traders were:",
+    "options": [
+      "Bills of exchange (credit notes) used to transfer money safely",
+      "Types of weapons",
+      "Religious texts",
+      "Farming tools"
+    ],
+    "correct_index": 0,
+    "solution": "HUNDIS were BILLS of EXCHANGE (credit notes) used by traders to TRANSFER MONEY SAFELY over long distances without carrying cash — an early banking instrument. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The sarrafs (money-changers/bankers) in towns performed the role of:",
+    "options": [
+      "Changing coins, lending money and handling hundis",
+      "Weaving cloth",
+      "Farming",
+      "Building temples"
+    ],
+    "correct_index": 0,
+    "solution": "The SARRAFS (money-changers/bankers) CHANGED COINS, LENT MONEY, and HANDLED HUNDIS — providing financial services that supported trade. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The decline of some old towns and the rise of new ones shows that:",
+    "options": [
+      "Towns rose and fell with changes in trade, politics and patronage",
+      "Towns never changed",
+      "All towns were permanent",
+      "Towns had no economy"
+    ],
+    "correct_index": 0,
+    "solution": "The DECLINE of some OLD towns and RISE of NEW ones shows that TOWNS ROSE and FELL with CHANGES in TRADE routes, POLITICS, and royal PATRONAGE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs a town with its type?",
+    "options": [
+      "Thanjavur → temple/capital; Masulipatnam → port; Hampi → imperial capital",
+      "Thanjavur → port; Masulipatnam → temple; Hampi → village",
+      "All were villages",
+      "None were towns"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: THANJAVUR → TEMPLE/CAPITAL town; MASULIPATNAM → PORT town; and HAMPI → IMPERIAL CAPITAL (Vijayanagara). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The arrival of European companies gradually changed Indian trade because they:",
+    "options": [
+      "Sought to control trade and later gained political power",
+      "Left immediately",
+      "Only bought food",
+      "Had no effect"
+    ],
+    "correct_index": 0,
+    "solution": "The EUROPEAN COMPANIES gradually changed Indian trade because they SOUGHT to CONTROL trade (setting up fortified settlements) and LATER GAINED POLITICAL POWER — most notably the English East India Company. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The crafts and trade of this period supported the livelihoods of:",
+    "options": [
+      "A large number of artisans, merchants, transporters and others",
+      "Only kings",
+      "No one",
+      "Only soldiers"
+    ],
+    "correct_index": 0,
+    "solution": "The CRAFTS and TRADE of this period SUPPORTED the LIVELIHOODS of a LARGE number of ARTISANS, MERCHANTS, TRANSPORTERS, moneylenders, and others — a vast economic network. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about Indian trade in this period is correct?",
+    "options": [
+      "India was a major producer and exporter of goods, connected to Asian and European markets",
+      "India produced nothing",
+      "India had no ports",
+      "India traded only within one village"
+    ],
+    "correct_index": 0,
+    "solution": "It is correct that INDIA was a MAJOR PRODUCER and EXPORTER of goods (textiles, spices, etc.), CONNECTED to ASIAN and EUROPEAN MARKETS through its ports and trade routes. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The wealth of temple towns came partly from:",
+    "options": [
+      "Gifts of land, gold and money to the temple by rulers and devotees",
+      "Robbery",
+      "Foreign aid",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The WEALTH of TEMPLE TOWNS came partly from GIFTS of LAND, GOLD, and MONEY DONATED to the temple by RULERS and DEVOTEES — making temples rich institutions. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The port towns were important because they:",
+    "options": [
+      "Connected inland trade to overseas markets by sea",
+      "Were far from the sea",
+      "Had no ships",
+      "Blocked all trade"
+    ],
+    "correct_index": 0,
+    "solution": "PORT TOWNS were important because they CONNECTED INLAND TRADE to OVERSEAS MARKETS by SEA — goods flowed from the hinterland to ships and then to distant lands. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The variety of crafts (textiles, metalwork, pottery, jewellery, bronze) shows that Indian towns had:",
+    "options": [
+      "Highly skilled artisans and a rich craft tradition",
+      "No skills",
+      "Only one craft",
+      "No artisans"
+    ],
+    "correct_index": 0,
+    "solution": "The VARIETY of CRAFTS — textiles, metalwork, pottery, jewellery, bronze — shows that Indian towns had HIGHLY SKILLED ARTISANS and a RICH CRAFT TRADITION admired far and wide. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason merchants formed guilds was to:",
+    "options": [
+      "Protect their common interests, regulate trade and travel safely",
+      "Fight the king",
+      "Avoid all trade",
+      "Give away goods"
+    ],
+    "correct_index": 0,
+    "solution": "Merchants formed GUILDS to PROTECT their COMMON INTERESTS, REGULATE trade and prices, and TRAVEL SAFELY in groups — strength in numbers for long-distance commerce. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is TRUE about towns in this period?",
+    "options": [
+      "They were centres of administration, religion, craft and trade, each with a distinct character",
+      "They were all identical",
+      "They had no functions",
+      "They were empty"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that TOWNS were CENTRES of ADMINISTRATION, RELIGION, CRAFT, and TRADE, each with a DISTINCT CHARACTER (temple town, port, capital, commercial centre). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The presence of skilled craftspersons and rich merchants in towns contributed to:",
+    "options": [
+      "The economic and cultural vibrancy of urban life",
+      "Poverty and decline",
+      "The end of all crafts",
+      "Complete isolation"
+    ],
+    "correct_index": 0,
+    "solution": "The presence of SKILLED CRAFTSPERSONS and RICH MERCHANTS contributed to the ECONOMIC and CULTURAL VIBRANCY of URBAN LIFE — towns buzzed with production, trade, art, and festivals. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Gujarati merchants' of this period were noted for their role in:",
+    "options": [
+      "Overseas and inland trade, including trade with the Red Sea and Persian Gulf",
+      "Farming only",
+      "Fighting wars only",
+      "Building temples only"
+    ],
+    "correct_index": 0,
+    "solution": "The GUJARATI MERCHANTS were noted for their prominent role in OVERSEAS and INLAND TRADE, including with the RED SEA and PERSIAN GULF regions, operating from ports like Surat. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is an example of an administrative town of this period?",
+    "options": [
+      "A capital city where a ruler's court and offices were located",
+      "A remote forest",
+      "An empty desert",
+      "A single farm"
+    ],
+    "correct_index": 0,
+    "solution": "An ADMINISTRATIVE TOWN was a CAPITAL CITY where a RULER's COURT and OFFICES were located — the centre of government for a kingdom or province. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The demand for Indian cotton textiles in Europe was so high that it:",
+    "options": [
+      "Made textiles a major export and a key attraction for European traders",
+      "Had no effect",
+      "Reduced Indian production",
+      "Ended trade"
+    ],
+    "correct_index": 0,
+    "solution": "The high DEMAND for Indian COTTON TEXTILES in EUROPE made them a MAJOR EXPORT and a KEY ATTRACTION for European traders, who competed to buy Indian cloth. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The skilled saltpetre and indigo trades of this period supplied:",
+    "options": [
+      "Materials in demand for gunpowder and dyeing, including for export",
+      "Only food",
+      "Only water",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "SALTPETRE (used in GUNPOWDER) and INDIGO (a DYE) were traded goods in demand at home and for EXPORT, showing the range of India's commerce beyond textiles. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The town of Ahmedabad in Gujarat was known as a centre of:",
+    "options": [
+      "Textile production and trade",
+      "Coal mining",
+      "Fishing only",
+      "Ice-making"
+    ],
+    "correct_index": 0,
+    "solution": "AHMEDABAD in Gujarat was known as a major centre of TEXTILE PRODUCTION and TRADE, contributing to Gujarat's commercial prosperity. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The exchange of goods between different regions of India shows that:",
+    "options": [
+      "There was a lively network of internal (inland) trade",
+      "Regions never traded",
+      "India had no roads",
+      "Trade was banned"
+    ],
+    "correct_index": 0,
+    "solution": "The EXCHANGE of goods between different regions shows there was a LIVELY NETWORK of INTERNAL (INLAND) TRADE, connecting producers and consumers across the subcontinent. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Craftspersons often lived in particular streets or quarters of a town named after their craft because:",
+    "options": [
+      "People of the same craft settled and worked together",
+      "They were forbidden to mix",
+      "There were no crafts",
+      "They had no homes"
+    ],
+    "correct_index": 0,
+    "solution": "Craftspersons often lived in STREETS or QUARTERS named after their craft because PEOPLE of the SAME CRAFT SETTLED and WORKED TOGETHER, sharing skills, tools, and markets. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall picture of towns, traders and craftspersons in this period is that:",
+    "options": [
+      "India had a thriving urban and commercial economy with skilled crafts and wide trade",
+      "India had no towns or trade",
+      "India was completely isolated",
+      "Only kings existed"
+    ],
+    "correct_index": 0,
+    "solution": "The OVERALL PICTURE is that INDIA had a THRIVING URBAN and COMMERCIAL economy, with SKILLED CRAFTS and WIDE TRADE linking towns, villages, and distant lands. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Towns, Traders and Craftspersons' is that:",
+    "options": [
+      "Towns and trade were unimportant",
+      "During this period, various kinds of TOWNS flourished — TEMPLE TOWNS (like Thanjavur and Kanchipuram, growing around wealthy temples), ADMINISTRATIVE CAPITALS (like Hampi of Vijayanagara), COMMERCIAL towns and PORT TOWNS (like Surat and Masulipatnam); they were hubs of CRAFT production (fine textiles, bronze, metalwork, jewellery) by skilled artisans and of TRADE carried on by merchants, guilds, banjaras, sarrafs (bankers) and hundis (bills of exchange), linking India to Asian and European markets; the coming of European trading companies (with their 'white' and 'black' towns) gradually reshaped this trade — showing a rich urban, commercial and craft economy",
+      "Only farming existed",
+      "Trade never crossed the sea"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that during this period, various kinds of TOWNS flourished: TEMPLE TOWNS (like THANJAVUR and KANCHIPURAM, which grew around WEALTHY TEMPLES that attracted pilgrims, priests, craftspeople, and traders), ADMINISTRATIVE CAPITALS (like HAMPI of the VIJAYANAGARA empire, at its peak under KRISHNADEVA RAYA), COMMERCIAL towns, and PORT TOWNS (like SURAT — the 'gateway to Mecca' — and MASULIPATNAM). These towns were HUBS of CRAFT PRODUCTION — fine TEXTILES (cotton and silk), BRONZE (by the lost-wax technique), METALWORK (like bidri), and JEWELLERY — made by SKILLED ARTISANS often organised in communities and GUILDS. They were also centres of TRADE, carried on by MERCHANTS, GUILDS, travelling BANJARAS, and financed by SARRAFS (bankers) using HUNDIS (bills of exchange), linking India to ASIAN and EUROPEAN markets. The coming of EUROPEAN TRADING COMPANIES (with their fortified 'WHITE TOWNS' and Indian 'BLACK TOWNS') gradually RESHAPED this trade — revealing a rich URBAN, COMMERCIAL, and CRAFT economy. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'temple town' in medieval India developed around a:",
+    "options": [
+      "Fort",
+      "Large temple, which became a hub of settlement and economy",
+      "River only",
+      "Market only"
+    ],
+    "correct_index": 1,
+    "solution": "Temple towns grew around important temples that attracted pilgrims, priests, artisans and traders, becoming centres of settlement, economy and administration (e.g. Thanjavur, Madurai).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Kanchipuram and Madurai are examples of:",
+    "options": [
+      "Port towns",
+      "Temple towns of South India",
+      "Hill forts",
+      "Trading posts only"
+    ],
+    "correct_index": 1,
+    "solution": "Kanchipuram, Madurai and Thanjavur were important temple towns of South India, where large temples became the nucleus of urban life and economy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Temples were centres of economic activity because they:",
+    "options": [
+      "Had no wealth",
+      "Owned land, employed many people and were endowed with donations",
+      "Avoided all money",
+      "Only stored idols"
+    ],
+    "correct_index": 1,
+    "solution": "Temples received grants of land and wealth, employed priests, artisans, cooks and workers, and redistributed resources — functioning as major economic institutions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'pilgrimage town' attracted:",
+    "options": [
+      "Only soldiers",
+      "Devotees/pilgrims, giving rise to services, trade and settlement",
+      "No one",
+      "Only farmers"
+    ],
+    "correct_index": 1,
+    "solution": "Pilgrimage towns (like Vrindavan, Tirupati) drew large numbers of devotees, supporting services, markets, priests and settlements around the sacred sites.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Craftspersons like weavers, potters and metalworkers often organised themselves into:",
+    "options": [
+      "Armies",
+      "Guilds/associations (shrenis) of the same craft",
+      "Political parties",
+      "Religious sects only"
+    ],
+    "correct_index": 1,
+    "solution": "Artisans and craftspersons organised into guilds (shrenis) based on their craft, which regulated production, quality and training, and gave them collective strength.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The famous weavers of South India producing fine textiles included the:",
+    "options": [
+      "Saliyar and other weaving communities",
+      "Only farmers",
+      "Only merchants",
+      "Only soldiers"
+    ],
+    "correct_index": 0,
+    "solution": "Weaving communities like the Saliyar and Kaikkolar produced fine cotton and silk textiles in South India, an important craft and export item.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Bidar' became famous for a distinctive metal craft known as:",
+    "options": [
+      "Bidriware",
+      "Pashmina",
+      "Chikankari",
+      "Zardozi"
+    ],
+    "correct_index": 0,
+    "solution": "Bidar (in present-day Karnataka) gave its name to 'Bidriware', a distinctive craft of inlaying silver into blackened zinc alloy, developed in the Bahmani period.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 'port town' on the coast served mainly as a centre of:",
+    "options": [
+      "Only farming",
+      "Maritime trade (import and export of goods)",
+      "Only worship",
+      "Mining"
+    ],
+    "correct_index": 1,
+    "solution": "Port towns like Surat, Masulipatnam and Calicut were centres of maritime trade, handling the import and export of goods and connecting India to overseas markets.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Surat, a famous port on the west coast, was known as the:",
+    "options": [
+      "Gateway to Mecca (a major port for Haj pilgrims and trade)",
+      "Capital of the Cholas",
+      "Delhi of the south",
+      "A Chola temple town"
+    ],
+    "correct_index": 0,
+    "solution": "Surat, a bustling port in Gujarat, was known as the 'Gateway to Mecca' as many Haj pilgrims embarked from there; it was a major centre of trade with West Asia.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Masulipatnam (Machilipatnam) on the Coromandel coast was famous for:",
+    "options": [
+      "Hill forts",
+      "Textile trade and as a busy port",
+      "Gold mines",
+      "Ice production"
+    ],
+    "correct_index": 1,
+    "solution": "Masulipatnam on the eastern (Coromandel) coast was a major port famous for its textile trade, attracting Dutch, English and other European traders.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Hampi, the capital of Vijayanagara, was also a major:",
+    "options": [
+      "Port town",
+      "Commercial and temple town",
+      "Hill station",
+      "Mining town only"
+    ],
+    "correct_index": 1,
+    "solution": "Hampi (Vijayanagara) was a magnificent capital that was also a bustling commercial centre with markets and temples, trading in horses, textiles, spices and gems.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Traders who carried goods over long distances, often in caravans, were called:",
+    "options": [
+      "Zamindars",
+      "Banjaras (and other itinerant trading communities)",
+      "Priests",
+      "Soldiers"
+    ],
+    "correct_index": 1,
+    "solution": "The Banjaras were an important trading and transport community who moved goods (especially grain) over long distances in large caravans across medieval India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The gold coins issued by the Cholas and other South Indian kingdoms facilitated:",
+    "options": [
+      "Only local barter",
+      "Trade, including long-distance and overseas commerce",
+      "Warfare only",
+      "Nothing"
+    ],
+    "correct_index": 1,
+    "solution": "Coinage (gold, silver and copper) issued by these kingdoms facilitated market exchange and both inland and overseas trade, reflecting a monetised economy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "European trading companies (Portuguese, Dutch, English) came to India mainly to trade in:",
+    "options": [
+      "Ice",
+      "Spices, textiles and other goods",
+      "Snow",
+      "Sand"
+    ],
+    "correct_index": 1,
+    "solution": "European companies came to India seeking spices (pepper, cardamom), fine textiles and other goods, establishing trading posts at ports like Surat, Goa and Masulipatnam.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Portuguese established their first major trading base in India at:",
+    "options": [
+      "Goa",
+      "Delhi",
+      "Agra",
+      "Kanpur"
+    ],
+    "correct_index": 0,
+    "solution": "The Portuguese, led by figures like Afonso de Albuquerque, made Goa their main base in India (captured 1510), controlling parts of the western coast and spice trade.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Vasco da Gama', who opened the sea route to India, first landed at:",
+    "options": [
+      "Calicut (Kozhikode)",
+      "Surat",
+      "Goa",
+      "Chennai"
+    ],
+    "correct_index": 0,
+    "solution": "Vasco da Gama reached Calicut (Kozhikode) on the Malabar coast in 1498, opening the direct sea route from Europe to India around Africa.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The town of Ajmer became important as a:",
+    "options": [
+      "Port",
+      "Pilgrimage centre (dargah of Sufi saint Moinuddin Chishti)",
+      "Mining town",
+      "Hill station"
+    ],
+    "correct_index": 1,
+    "solution": "Ajmer grew as a major pilgrimage town around the dargah of the Sufi saint Khwaja Moinuddin Chishti, attracting devotees of many faiths.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Craft production in towns often catered to the needs of:",
+    "options": [
+      "No one",
+      "The court, temples, the wealthy, and export markets",
+      "Only animals",
+      "Only farmers"
+    ],
+    "correct_index": 1,
+    "solution": "Urban artisans produced goods for royal courts, temples, wealthy patrons and for domestic and export markets — fine textiles, jewellery, metalwork and more.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Kaikkolar' and 'Saliyar' communities in South Indian towns were associated with:",
+    "options": [
+      "Weaving",
+      "Farming",
+      "Priesthood",
+      "Soldiering"
+    ],
+    "correct_index": 0,
+    "solution": "The Kaikkolar and Saliyar were prominent weaving communities in South Indian towns, gaining wealth and social influence through the textile trade.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The wealth generated by trade and crafts in towns supported:",
+    "options": [
+      "Only warfare",
+      "The growth of urban centres, patronage of art, and a prosperous merchant class",
+      "Isolation",
+      "Decline of towns"
+    ],
+    "correct_index": 1,
+    "solution": "Trade and craft wealth fuelled the growth of towns, enabled patronage of temples and art, and gave rise to prosperous, influential merchant communities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Hundis' used by medieval Indian merchants were:",
+    "options": [
+      "Weapons",
+      "Instruments of credit/bills of exchange for transferring money",
+      "Types of cloth",
+      "Coins"
+    ],
+    "correct_index": 1,
+    "solution": "Hundis were bills of exchange or credit instruments used by merchants and bankers to transfer money and facilitate trade over long distances without carrying cash.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'nagaram' in South India was an assembly/settlement of:",
+    "options": [
+      "Farmers",
+      "Merchants and traders",
+      "Priests",
+      "Soldiers"
+    ],
+    "correct_index": 1,
+    "solution": "The nagaram was a town or settlement and assembly of merchants in South India, playing a key role in trade and urban administration.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Towns in medieval India were often characterised by distinct areas for:",
+    "options": [
+      "Nothing in particular",
+      "Markets (bazaars), residential quarters, craft workshops and temples/mosques",
+      "Only farming",
+      "Only forts"
+    ],
+    "correct_index": 1,
+    "solution": "Medieval towns typically had bazaars (markets), residential quarters (often by community/craft), workshops, and religious buildings — reflecting an organised urban life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The prosperity of a town often depended on the presence of:",
+    "options": [
+      "Only deserts",
+      "Trade routes, a temple/court, and craft production",
+      "Only mountains",
+      "No people"
+    ],
+    "correct_index": 1,
+    "solution": "A town's prosperity depended on its location on trade routes, the presence of a major temple or court (attracting patronage and settlement), and thriving craft production.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The decline of certain towns could result from:",
+    "options": [
+      "Better trade",
+      "Shifting trade routes, loss of patronage, wars or invasions",
+      "More rainfall",
+      "More temples"
+    ],
+    "correct_index": 1,
+    "solution": "Towns could decline due to the shifting of trade routes, the fall of a patron dynasty, wars, invasions or natural disasters that disrupted their economic base.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Bazaar' refers to a:",
+    "options": [
+      "Fort",
+      "Marketplace where goods are bought and sold",
+      "Temple",
+      "River"
+    ],
+    "correct_index": 1,
+    "solution": "A bazaar is a marketplace — the commercial heart of a town where merchants and artisans sold their goods, a hub of economic and social activity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Craftspersons often passed on their skills through:",
+    "options": [
+      "Schools only",
+      "The family/hereditary tradition (guru-shishya or parent-to-child)",
+      "Books only",
+      "Random learning"
+    ],
+    "correct_index": 1,
+    "solution": "Craft skills were usually transmitted within families and communities, from parent to child or master to apprentice, preserving specialised knowledge across generations.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a town with its identity? (i) Surat – port town (ii) Madurai – temple town (iii) Bidar – metal-craft (Bidriware) town",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Surat was a major port town, Madurai a famous temple town, and Bidar the home of Bidriware metal craft.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The interaction of temples, trade and crafts in towns reflects that medieval towns were:",
+    "options": [
+      "Isolated and poor",
+      "Vibrant centres integrating religion, economy and culture",
+      "Only military camps",
+      "Empty"
+    ],
+    "correct_index": 1,
+    "solution": "Medieval Indian towns were vibrant, integrated centres where religion (temples/mosques), economy (trade and crafts) and culture flourished together, reflecting a dynamic urban life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall importance of studying towns, traders and craftspersons is that it reveals the:",
+    "options": [
+      "Only kings' lives",
+      "Economic and social life of ordinary people and the workings of the medieval economy",
+      "Only warfare",
+      "Only religion"
+    ],
+    "correct_index": 1,
+    "solution": "Studying towns, traders and craftspersons illuminates the economic and social life of ordinary people and the functioning of the medieval Indian economy, beyond the history of kings and battles.",
+    "difficulty": "medium"
+  }
 ]

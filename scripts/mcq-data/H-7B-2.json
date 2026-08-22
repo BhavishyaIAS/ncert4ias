@@ -1,52 +1,950 @@
 [
-  { "stem": "The founder of the Mauryan empire was:", "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Bimbisara"], "correct_index": 1, "solution": "Chandragupta Maurya founded the Mauryan empire around 321 BCE, with its capital at Pataliputra.", "difficulty": "easy" },
-  { "stem": "Chandragupta Maurya was guided by his mentor and minister:", "options": ["Chanakya (Kautilya)", "Megasthenes", "Harishena", "Abul Fazl"], "correct_index": 0, "solution": "Chanakya (also called Kautilya or Vishnugupta), author of the Arthashastra, guided Chandragupta to power.", "difficulty": "medium" },
-  { "stem": "The 'Arthashastra', a treatise on statecraft and administration, was written by:", "options": ["Kalidasa", "Kautilya (Chanakya)", "Aryabhata", "Banabhatta"], "correct_index": 1, "solution": "The Arthashastra, a manual on economics, politics and administration, is attributed to Kautilya (Chanakya).", "difficulty": "medium" },
-  { "stem": "The Greek ambassador who visited the Mauryan court and wrote an account called 'Indica' was:", "options": ["Fa-Hien", "Hiuen Tsang", "Megasthenes", "Ptolemy"], "correct_index": 2, "solution": "Megasthenes, the ambassador of Seleucus Nicator, stayed at the Mauryan court and described India in his book 'Indica'.", "difficulty": "hard" },
-  { "stem": "The Kalinga War, which caused great bloodshed and transformed the emperor, was fought by:", "options": ["Chandragupta Maurya", "Bindusara", "Ashoka", "Samudragupta"], "correct_index": 2, "solution": "Ashoka fought the devastating Kalinga War; the suffering it caused led him to give up conquest and embrace Dhamma.", "difficulty": "medium" },
-  { "stem": "After the Kalinga War, Ashoka propagated a code of moral conduct that he called:", "options": ["Sulh-i-kul", "Dhamma", "Jizya", "Bhakti"], "correct_index": 1, "solution": "Ashoka promoted 'Dhamma' — a set of ethical principles of tolerance, non-violence and respect — inscribed on rocks and pillars.", "difficulty": "medium" },
-  { "stem": "Ashoka communicated his messages to the public mainly through:", "options": ["Printed pamphlets", "Inscriptions (edicts) on rocks and pillars", "Coins only", "Oral messengers only"], "correct_index": 1, "solution": "Ashoka had his edicts inscribed on rocks and pillars across the empire, mostly in the Brahmi script and Prakrit language.", "difficulty": "medium" },
-  { "stem": "The Lion Capital of Ashoka, adopted as India's national emblem, originally stood at:", "options": ["Sanchi", "Sarnath", "Bodh Gaya", "Ujjain"], "correct_index": 1, "solution": "The Lion Capital was erected by Ashoka at Sarnath; it is now the national emblem of India.", "difficulty": "medium" },
-  { "stem": "The capital of the Mauryan empire was:", "options": ["Pataliputra", "Taxila", "Ujjain", "Kannauj"], "correct_index": 0, "solution": "The capital of the MAURYAN empire was PATALIPUTRA (near modern Patna), a great city on the Ganga described by Megasthenes. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Chandragupta Maurya's successor, who further consolidated the empire, was:", "options": ["Bindusara", "Ashoka", "Bimbisara", "Samudragupta"], "correct_index": 0, "solution": "Chandragupta Maurya was succeeded by his son BINDUSARA, who further CONSOLIDATED and expanded the empire before Ashoka. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Kalinga region conquered by Ashoka corresponds to present-day:", "options": ["Odisha", "Punjab", "Kerala", "Kashmir"], "correct_index": 0, "solution": "The KALINGA region, conquered by Ashoka in a bloody war, corresponds to present-day ODISHA (and parts of nearby areas). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The most important effect of the Kalinga War on Ashoka was that he:", "options": ["Was filled with remorse and gave up war of conquest, embracing Dhamma", "Became more warlike", "Conquered the whole world", "Gave up his throne"], "correct_index": 0, "solution": "The KALINGA WAR filled Ashoka with REMORSE at the SUFFERING it caused, leading him to GIVE UP WARS of CONQUEST and to embrace and spread DHAMMA (moral conduct). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Ashoka's Dhamma emphasised values such as:", "options": ["Non-violence, tolerance, respect for elders, and kindness to all", "War and cruelty", "Greed", "Hatred"], "correct_index": 0, "solution": "Ashoka's DHAMMA emphasised NON-VIOLENCE, TOLERANCE (respect for all religions), RESPECT for ELDERS and teachers, and KINDNESS to all beings, including animals and servants. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Ashoka appointed special officers called 'dhamma mahamatras' to:", "options": ["Spread the message of Dhamma and look after people's welfare", "Collect only taxes", "Fight wars", "Build only palaces"], "correct_index": 0, "solution": "Ashoka appointed DHAMMA MAHAMATRAS (officers of Dhamma) to SPREAD the MESSAGE of DHAMMA and LOOK AFTER the WELFARE of the people. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Mauryan empire was divided into provinces, each usually governed by a:", "options": ["Prince or royal governor", "Merchant", "Farmer", "Foreign king"], "correct_index": 0, "solution": "The MAURYAN empire was divided into PROVINCES, each usually governed by a PRINCE or ROYAL GOVERNOR — a way to control the vast territory from the centre. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Ashoka's edicts were mostly written in which script and language?", "options": ["Brahmi script and Prakrit language", "Devanagari and Sanskrit", "Roman and Latin", "Arabic and Persian"], "correct_index": 0, "solution": "Ashoka's EDICTS were mostly written in the BRAHMI SCRIPT and the PRAKRIT LANGUAGE (with some in other scripts/languages in border regions). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 'Indica' of Megasthenes is a valuable source because it describes:", "options": ["Mauryan society, the city of Pataliputra, and administration", "Only the weather", "Modern India", "European trade"], "correct_index": 0, "solution": "The INDICA of MEGASTHENES is valuable because it DESCRIBES Mauryan SOCIETY, the great city of PATALIPUTRA, and the ADMINISTRATION — a foreign eyewitness account. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Consider the pairs: 1. Chandragupta — founder of the Maurya empire 2. Kautilya — Arthashastra 3. Ashoka — Kalinga War and Dhamma. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: CHANDRAGUPTA → FOUNDER of the Maurya empire; KAUTILYA → author of the ARTHASHASTRA; ASHOKA → the KALINGA WAR and DHAMMA. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mauryan state controlled the economy through, among other things:", "options": ["State-owned lands, mines, and control over trade and crafts", "No economic activity", "Only foreign gifts", "Piracy"], "correct_index": 0, "solution": "The MAURYAN state controlled the economy through STATE-OWNED LANDS, MINES, and CONTROL over TRADE and CRAFTS — a highly organised system described in the Arthashastra. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Ashoka is often regarded as one of the greatest rulers in history because he:", "options": ["Ruled a vast empire and promoted peace, welfare and tolerance", "Fought endless wars", "Destroyed his empire", "Ignored his people"], "correct_index": 0, "solution": "ASHOKA is regarded as one of the GREATEST RULERS because he ruled a VAST EMPIRE and PROMOTED PEACE, WELFARE, and TOLERANCE — a rare example of a powerful king turning to non-violence and public good. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mauryan empire was one of the largest empires in ancient India, extending from Afghanistan in the northwest to:", "options": ["Much of the subcontinent (except the far south)", "Only Delhi", "Only Bengal", "Europe"], "correct_index": 0, "solution": "The MAURYAN empire was one of the LARGEST in ancient India, extending from AFGHANISTAN in the northwest across MUCH of the SUBCONTINENT (except the far south). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The public works undertaken by Ashoka for the people's welfare included:", "options": ["Building roads, rest houses, wells and planting trees", "Nothing", "Only palaces", "Only forts"], "correct_index": 0, "solution": "For the people's WELFARE, Ashoka undertook PUBLIC WORKS like BUILDING ROADS, REST HOUSES, and WELLS, and PLANTING TREES for shade — reflecting his ideal of caring governance. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mauryan army was large and included:", "options": ["Infantry, cavalry, chariots, elephants and a navy", "Only one soldier", "No army", "Only sailors"], "correct_index": 0, "solution": "The MAURYAN ARMY was large and well-organised, including INFANTRY, CAVALRY, CHARIOTS, ELEPHANTS, and even a NAVY — needed to build and hold the vast empire. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Ashoka gave up wars of conquest. Reason (R): The suffering caused by the Kalinga War filled him with remorse and led him to embrace Dhamma. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — Ashoka gave up wars of conquest. R is TRUE and correctly EXPLAINS A: the SUFFERING caused by the KALINGA WAR filled him with REMORSE and led him to embrace DHAMMA — which is precisely why he renounced war. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The information in Ashoka's edicts tells historians about his:", "options": ["Ideas, policies (Dhamma), and concern for his subjects", "Favourite food only", "Nothing", "Only battles"], "correct_index": 0, "solution": "Ashoka's EDICTS tell historians about his IDEAS, his POLICIES (especially DHAMMA), and his CONCERN for his SUBJECTS' welfare — a rare direct voice of an ancient ruler. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mauryan officials called 'dhamma mahamatras' show that Ashoka's government was concerned with:", "options": ["The moral and social welfare of the people, not just administration", "Only collecting taxes", "Only warfare", "Nothing"], "correct_index": 0, "solution": "The DHAMMA MAHAMATRAS show that Ashoka's government was concerned with the MORAL and SOCIAL WELFARE of the PEOPLE, not JUST ADMINISTRATION and revenue — a distinctive feature of his rule. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Mauryan empire declined after Ashoka's death mainly because of:", "options": ["Weak successors, a vast size hard to govern, and financial strain", "Too much unity", "A single strong ruler", "No enemies at all"], "correct_index": 0, "solution": "The MAURYAN empire DECLINED after Ashoka's death mainly because of WEAK SUCCESSORS, its VAST SIZE (hard to govern), and FINANCIAL and administrative STRAIN. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Arthashastra deals mainly with:", "options": ["Statecraft, economy, administration and the art of ruling", "Cooking recipes", "Poetry only", "Astronomy only"], "correct_index": 0, "solution": "The ARTHASHASTRA (by Kautilya) deals mainly with STATECRAFT, ECONOMY, ADMINISTRATION, diplomacy, and the ART of RULING — a remarkable ancient treatise on governance. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mauryan capital Pataliputra was described by Megasthenes as:", "options": ["A large, well-planned and fortified city", "A small village", "An empty desert", "A single house"], "correct_index": 0, "solution": "MEGASTHENES described PATALIPUTRA as a LARGE, WELL-PLANNED, and FORTIFIED CITY — one of the greatest cities of the ancient world, with wooden walls and many gates. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly describes Ashoka's attitude to different religions?", "options": ["He respected and supported all religions (tolerance)", "He banned all religions", "He favoured only one and persecuted others", "He had no interest in religion"], "correct_index": 0, "solution": "Ashoka RESPECTED and SUPPORTED ALL RELIGIONS — his Dhamma promoted TOLERANCE and respect among different faiths, urging people not to disparage others' beliefs. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Ashoka pillars are notable for their:", "options": ["Highly polished stone and finely carved animal capitals", "Rough, unfinished surfaces", "Wooden construction", "Small size"], "correct_index": 0, "solution": "The ASHOKA PILLARS are notable for their HIGHLY POLISHED STONE (a lustrous finish) and finely carved ANIMAL CAPITALS (like the lions at Sarnath) — masterpieces of Mauryan art. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The spread of Buddhism was greatly helped by Ashoka, who:", "options": ["Sent missionaries to spread the Buddha's teachings, including abroad", "Banned Buddhism", "Destroyed Buddhist sites", "Ignored Buddhism"], "correct_index": 0, "solution": "The spread of BUDDHISM was greatly helped by ASHOKA, who SENT MISSIONARIES (including his own children, by tradition, to Sri Lanka) to SPREAD the Buddha's TEACHINGS across India and ABROAD. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs a Mauryan figure with his role correctly?", "options": ["Chandragupta → empire founder; Kautilya → chief minister/adviser; Megasthenes → Greek ambassador", "Chandragupta → Greek ambassador; Kautilya → founder; Megasthenes → minister", "All were kings", "None had a role"], "correct_index": 0, "solution": "The correct pairings are: CHANDRAGUPTA → EMPIRE FOUNDER; KAUTILYA → CHIEF MINISTER/ADVISER (and author of the Arthashastra); MEGASTHENES → GREEK AMBASSADOR (author of Indica). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mauryan empire is considered a landmark in Indian history because it:", "options": ["Was the first large empire to unite most of the subcontinent under one rule", "Ruled only one village", "Had no administration", "Was based in Europe"], "correct_index": 0, "solution": "The MAURYAN EMPIRE is a landmark because it was the FIRST LARGE EMPIRE to UNITE MOST of the SUBCONTINENT under ONE RULE, with a strong central administration. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The revenue for the Mauryan state came mainly from:", "options": ["Taxes on agriculture, trade and other economic activities", "Foreign aid", "No revenue", "Only gifts"], "correct_index": 0, "solution": "The REVENUE for the MAURYAN state came mainly from TAXES on AGRICULTURE (the largest source), TRADE, and other ECONOMIC ACTIVITIES, carefully organised as described in the Arthashastra. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is TRUE about the Mauryan administration?", "options": ["It was highly centralised, with officials, spies and a large army controlling the empire", "It had no officials", "It was completely disorganised", "It was run by foreigners"], "correct_index": 0, "solution": "It is TRUE that the MAURYAN administration was HIGHLY CENTRALISED, with OFFICIALS, SPIES (to gather information), and a LARGE ARMY CONTROLLING the empire from the centre. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The lasting legacy of Ashoka includes:", "options": ["The ideal of a caring, tolerant ruler and India's national emblem and Ashoka Chakra", "Nothing", "Only war", "Only trade"], "correct_index": 0, "solution": "Ashoka's lasting LEGACY includes the IDEAL of a CARING, TOLERANT RULER and, in modern India, the national EMBLEM (the Sarnath Lion Capital) and the ASHOKA CHAKRA on the national flag. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Ashoka Chakra, which appears on the Indian national flag, comes from:", "options": ["The wheel (Dharma Chakra) on Ashoka's pillars", "A Mughal coin", "A British seal", "A modern invention"], "correct_index": 0, "solution": "The ASHOKA CHAKRA on the Indian national flag comes from the WHEEL (DHARMA CHAKRA) depicted on Ashoka's PILLARS (notably the Sarnath capital) — symbolising righteousness and progress. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Chandragupta Maurya, according to tradition, in his later life became a follower of:", "options": ["Jainism", "Christianity", "Islam", "Zoroastrianism"], "correct_index": 0, "solution": "According to tradition, CHANDRAGUPTA MAURYA in his later life became a follower of JAINISM, giving up his throne and travelling south. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Mauryan empire arose from which powerful Mahajanapada?", "options": ["Magadha", "Gandhara", "Avanti", "Kosala"], "correct_index": 0, "solution": "The MAURYAN EMPIRE arose from the powerful Mahajanapada of MAGADHA, whose resources and strategic position formed its base. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The great stupa at Sanchi is associated with which emperor's support of Buddhism?", "options": ["Ashoka", "Babur", "Akbar", "Chandragupta II"], "correct_index": 0, "solution": "The great STUPA at SANCHI is associated with ASHOKA, who built and supported Buddhist stupas as part of his promotion of the faith. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A 'stupa' is a Buddhist structure that:", "options": ["Is a dome-shaped monument, often housing sacred relics", "Is a market", "Is a fort", "Is a coin"], "correct_index": 0, "solution": "A STUPA is a DOME-SHAPED Buddhist MONUMENT, often HOUSING sacred RELICS of the Buddha or holy persons, and a place of worship. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The system of spies in the Mauryan administration was used to:", "options": ["Gather information for the king about officials and the people", "Do nothing", "Only trade", "Only farm"], "correct_index": 0, "solution": "The SYSTEM of SPIES was used to GATHER INFORMATION for the KING about the conduct of OFFICIALS and the mood of the PEOPLE — helping the ruler keep control over a vast empire. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Mauryan empire's control was strongest at the centre and looser at the:", "options": ["Distant frontiers and provinces", "Capital itself", "King's palace", "Nowhere"], "correct_index": 0, "solution": "The MAURYAN empire's CONTROL was STRONGEST at the CENTRE (around Pataliputra) and LOOSER at the DISTANT FRONTIERS and PROVINCES, which were harder to govern directly. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following best describes the significance of Ashoka's edicts as historical sources?", "options": ["They are direct, contemporary records of a ruler's own words and policies", "They are modern forgeries", "They tell us nothing", "They are European accounts"], "correct_index": 0, "solution": "Ashoka's EDICTS are significant because they are DIRECT, CONTEMPORARY RECORDS of a RULER's OWN WORDS and POLICIES — a rare and precious source for ancient Indian history. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Mauryan period saw flourishing trade along routes that connected India to:", "options": ["Central and West Asia and beyond", "Only one village", "Nowhere", "Only the sea floor"], "correct_index": 0, "solution": "The MAURYAN period saw FLOURISHING TRADE along routes that CONNECTED India to CENTRAL and WEST ASIA and BEYOND, carrying goods, ideas, and coins. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Ashoka's message to respect all beings extended even to:", "options": ["Animals, for whom he limited killing and built veterinary care", "No one", "Only kings", "Only soldiers"], "correct_index": 0, "solution": "Ashoka's message of respect extended even to ANIMALS — he LIMITED the KILLING of animals and, by his edicts, provided MEDICAL/veterinary CARE for both humans and animals. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The rise of the Mauryan empire shows that a strong empire needed:", "options": ["A capable ruler, an efficient administration, a strong army and sound revenue", "No rulers", "No army", "No money"], "correct_index": 0, "solution": "The rise of the MAURYAN EMPIRE shows that a strong empire needed a CAPABLE RULER, an EFFICIENT ADMINISTRATION, a STRONG ARMY, and SOUND REVENUE — all of which the Mauryas built. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Ashoka is sometimes called 'Ashoka the Great' or 'Devanampiya Piyadassi', which means:", "options": ["'Beloved of the Gods, of pleasing appearance' — his title in the edicts", "'The cruel king'", "'The foreign ruler'", "'The merchant'"], "correct_index": 0, "solution": "Ashoka is called DEVANAMPIYA PIYADASSI, meaning 'BELOVED of the GODS, of PLEASING APPEARANCE' — the title by which he refers to himself in his EDICTS. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The overall message of the chapter 'The Rise of Empires' is that:", "options": ["No empires ever rose in India", "The MAURYAN EMPIRE — founded by CHANDRAGUPTA MAURYA (guided by KAUTILYA, author of the Arthashastra) around 321 BCE with its capital at PATALIPUTRA — became the FIRST GREAT EMPIRE to unite most of the subcontinent under a highly centralised administration, army and revenue system; its greatest ruler, ASHOKA, after the bloody KALINGA WAR, gave up conquest and promoted DHAMMA (non-violence, tolerance and welfare), spreading it through EDICTS on rocks and pillars (in Brahmi/Prakrit) and dhamma mahamatras, undertaking public works and helping spread Buddhism — leaving a lasting legacy (the Sarnath Lion Capital is India's national emblem) before the empire declined under weak successors", "Only villages existed", "Ashoka loved war"], "correct_index": 1, "solution": "The chapter's overall message is that the MAURYAN EMPIRE — founded by CHANDRAGUPTA MAURYA (guided by his mentor KAUTILYA/Chanakya, author of the ARTHASHASTRA) around 321 BCE, with its capital at PATALIPUTRA — became the FIRST GREAT EMPIRE to UNITE most of the SUBCONTINENT under a HIGHLY CENTRALISED administration, a large ARMY, and an organised REVENUE system (described by the Greek ambassador MEGASTHENES in his 'Indica'). Its greatest ruler, ASHOKA, after the devastating KALINGA WAR (in present-day Odisha), was filled with REMORSE and GAVE UP wars of conquest, instead promoting DHAMMA — a code of NON-VIOLENCE, TOLERANCE, respect, and WELFARE — which he spread through EDICTS inscribed on ROCKS and PILLARS (in the BRAHMI script and PRAKRIT language) and through officers called DHAMMA MAHAMATRAS. He undertook PUBLIC WORKS (roads, rest houses, wells, tree-planting) and helped SPREAD BUDDHISM far and wide. Ashoka left a LASTING LEGACY — the SARNATH LION CAPITAL is India's national emblem and its wheel the Ashoka Chakra — before the empire DECLINED under weak successors. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "The founder of the Mauryan empire was:",
+    "options": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Bimbisara"
+    ],
+    "correct_index": 1,
+    "solution": "Chandragupta Maurya founded the Mauryan empire around 321 BCE, with its capital at Pataliputra.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Chandragupta Maurya was guided by his mentor and minister:",
+    "options": [
+      "Chanakya (Kautilya)",
+      "Megasthenes",
+      "Harishena",
+      "Abul Fazl"
+    ],
+    "correct_index": 0,
+    "solution": "Chanakya (also called Kautilya or Vishnugupta), author of the Arthashastra, guided Chandragupta to power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Arthashastra', a treatise on statecraft and administration, was written by:",
+    "options": [
+      "Kalidasa",
+      "Kautilya (Chanakya)",
+      "Aryabhata",
+      "Banabhatta"
+    ],
+    "correct_index": 1,
+    "solution": "The Arthashastra, a manual on economics, politics and administration, is attributed to Kautilya (Chanakya).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Greek ambassador who visited the Mauryan court and wrote an account called 'Indica' was:",
+    "options": [
+      "Fa-Hien",
+      "Hiuen Tsang",
+      "Megasthenes",
+      "Ptolemy"
+    ],
+    "correct_index": 2,
+    "solution": "Megasthenes, the ambassador of Seleucus Nicator, stayed at the Mauryan court and described India in his book 'Indica'.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Kalinga War, which caused great bloodshed and transformed the emperor, was fought by:",
+    "options": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Samudragupta"
+    ],
+    "correct_index": 2,
+    "solution": "Ashoka fought the devastating Kalinga War; the suffering it caused led him to give up conquest and embrace Dhamma.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "After the Kalinga War, Ashoka propagated a code of moral conduct that he called:",
+    "options": [
+      "Sulh-i-kul",
+      "Dhamma",
+      "Jizya",
+      "Bhakti"
+    ],
+    "correct_index": 1,
+    "solution": "Ashoka promoted 'Dhamma' — a set of ethical principles of tolerance, non-violence and respect — inscribed on rocks and pillars.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka communicated his messages to the public mainly through:",
+    "options": [
+      "Printed pamphlets",
+      "Inscriptions (edicts) on rocks and pillars",
+      "Coins only",
+      "Oral messengers only"
+    ],
+    "correct_index": 1,
+    "solution": "Ashoka had his edicts inscribed on rocks and pillars across the empire, mostly in the Brahmi script and Prakrit language.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Lion Capital of Ashoka, adopted as India's national emblem, originally stood at:",
+    "options": [
+      "Sanchi",
+      "Sarnath",
+      "Bodh Gaya",
+      "Ujjain"
+    ],
+    "correct_index": 1,
+    "solution": "The Lion Capital was erected by Ashoka at Sarnath; it is now the national emblem of India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The capital of the Mauryan empire was:",
+    "options": [
+      "Pataliputra",
+      "Taxila",
+      "Ujjain",
+      "Kannauj"
+    ],
+    "correct_index": 0,
+    "solution": "The capital of the MAURYAN empire was PATALIPUTRA (near modern Patna), a great city on the Ganga described by Megasthenes. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Chandragupta Maurya's successor, who further consolidated the empire, was:",
+    "options": [
+      "Bindusara",
+      "Ashoka",
+      "Bimbisara",
+      "Samudragupta"
+    ],
+    "correct_index": 0,
+    "solution": "Chandragupta Maurya was succeeded by his son BINDUSARA, who further CONSOLIDATED and expanded the empire before Ashoka. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Kalinga region conquered by Ashoka corresponds to present-day:",
+    "options": [
+      "Odisha",
+      "Punjab",
+      "Kerala",
+      "Kashmir"
+    ],
+    "correct_index": 0,
+    "solution": "The KALINGA region, conquered by Ashoka in a bloody war, corresponds to present-day ODISHA (and parts of nearby areas). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most important effect of the Kalinga War on Ashoka was that he:",
+    "options": [
+      "Was filled with remorse and gave up war of conquest, embracing Dhamma",
+      "Became more warlike",
+      "Conquered the whole world",
+      "Gave up his throne"
+    ],
+    "correct_index": 0,
+    "solution": "The KALINGA WAR filled Ashoka with REMORSE at the SUFFERING it caused, leading him to GIVE UP WARS of CONQUEST and to embrace and spread DHAMMA (moral conduct). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka's Dhamma emphasised values such as:",
+    "options": [
+      "Non-violence, tolerance, respect for elders, and kindness to all",
+      "War and cruelty",
+      "Greed",
+      "Hatred"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka's DHAMMA emphasised NON-VIOLENCE, TOLERANCE (respect for all religions), RESPECT for ELDERS and teachers, and KINDNESS to all beings, including animals and servants. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka appointed special officers called 'dhamma mahamatras' to:",
+    "options": [
+      "Spread the message of Dhamma and look after people's welfare",
+      "Collect only taxes",
+      "Fight wars",
+      "Build only palaces"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka appointed DHAMMA MAHAMATRAS (officers of Dhamma) to SPREAD the MESSAGE of DHAMMA and LOOK AFTER the WELFARE of the people. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan empire was divided into provinces, each usually governed by a:",
+    "options": [
+      "Prince or royal governor",
+      "Merchant",
+      "Farmer",
+      "Foreign king"
+    ],
+    "correct_index": 0,
+    "solution": "The MAURYAN empire was divided into PROVINCES, each usually governed by a PRINCE or ROYAL GOVERNOR — a way to control the vast territory from the centre. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka's edicts were mostly written in which script and language?",
+    "options": [
+      "Brahmi script and Prakrit language",
+      "Devanagari and Sanskrit",
+      "Roman and Latin",
+      "Arabic and Persian"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka's EDICTS were mostly written in the BRAHMI SCRIPT and the PRAKRIT LANGUAGE (with some in other scripts/languages in border regions). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Indica' of Megasthenes is a valuable source because it describes:",
+    "options": [
+      "Mauryan society, the city of Pataliputra, and administration",
+      "Only the weather",
+      "Modern India",
+      "European trade"
+    ],
+    "correct_index": 0,
+    "solution": "The INDICA of MEGASTHENES is valuable because it DESCRIBES Mauryan SOCIETY, the great city of PATALIPUTRA, and the ADMINISTRATION — a foreign eyewitness account. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the pairs: 1. Chandragupta — founder of the Maurya empire 2. Kautilya — Arthashastra 3. Ashoka — Kalinga War and Dhamma. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: CHANDRAGUPTA → FOUNDER of the Maurya empire; KAUTILYA → author of the ARTHASHASTRA; ASHOKA → the KALINGA WAR and DHAMMA. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan state controlled the economy through, among other things:",
+    "options": [
+      "State-owned lands, mines, and control over trade and crafts",
+      "No economic activity",
+      "Only foreign gifts",
+      "Piracy"
+    ],
+    "correct_index": 0,
+    "solution": "The MAURYAN state controlled the economy through STATE-OWNED LANDS, MINES, and CONTROL over TRADE and CRAFTS — a highly organised system described in the Arthashastra. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Ashoka is often regarded as one of the greatest rulers in history because he:",
+    "options": [
+      "Ruled a vast empire and promoted peace, welfare and tolerance",
+      "Fought endless wars",
+      "Destroyed his empire",
+      "Ignored his people"
+    ],
+    "correct_index": 0,
+    "solution": "ASHOKA is regarded as one of the GREATEST RULERS because he ruled a VAST EMPIRE and PROMOTED PEACE, WELFARE, and TOLERANCE — a rare example of a powerful king turning to non-violence and public good. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan empire was one of the largest empires in ancient India, extending from Afghanistan in the northwest to:",
+    "options": [
+      "Much of the subcontinent (except the far south)",
+      "Only Delhi",
+      "Only Bengal",
+      "Europe"
+    ],
+    "correct_index": 0,
+    "solution": "The MAURYAN empire was one of the LARGEST in ancient India, extending from AFGHANISTAN in the northwest across MUCH of the SUBCONTINENT (except the far south). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The public works undertaken by Ashoka for the people's welfare included:",
+    "options": [
+      "Building roads, rest houses, wells and planting trees",
+      "Nothing",
+      "Only palaces",
+      "Only forts"
+    ],
+    "correct_index": 0,
+    "solution": "For the people's WELFARE, Ashoka undertook PUBLIC WORKS like BUILDING ROADS, REST HOUSES, and WELLS, and PLANTING TREES for shade — reflecting his ideal of caring governance. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan army was large and included:",
+    "options": [
+      "Infantry, cavalry, chariots, elephants and a navy",
+      "Only one soldier",
+      "No army",
+      "Only sailors"
+    ],
+    "correct_index": 0,
+    "solution": "The MAURYAN ARMY was large and well-organised, including INFANTRY, CAVALRY, CHARIOTS, ELEPHANTS, and even a NAVY — needed to build and hold the vast empire. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Ashoka gave up wars of conquest. Reason (R): The suffering caused by the Kalinga War filled him with remorse and led him to embrace Dhamma. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — Ashoka gave up wars of conquest. R is TRUE and correctly EXPLAINS A: the SUFFERING caused by the KALINGA WAR filled him with REMORSE and led him to embrace DHAMMA — which is precisely why he renounced war. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The information in Ashoka's edicts tells historians about his:",
+    "options": [
+      "Ideas, policies (Dhamma), and concern for his subjects",
+      "Favourite food only",
+      "Nothing",
+      "Only battles"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka's EDICTS tell historians about his IDEAS, his POLICIES (especially DHAMMA), and his CONCERN for his SUBJECTS' welfare — a rare direct voice of an ancient ruler. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan officials called 'dhamma mahamatras' show that Ashoka's government was concerned with:",
+    "options": [
+      "The moral and social welfare of the people, not just administration",
+      "Only collecting taxes",
+      "Only warfare",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The DHAMMA MAHAMATRAS show that Ashoka's government was concerned with the MORAL and SOCIAL WELFARE of the PEOPLE, not JUST ADMINISTRATION and revenue — a distinctive feature of his rule. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan empire declined after Ashoka's death mainly because of:",
+    "options": [
+      "Weak successors, a vast size hard to govern, and financial strain",
+      "Too much unity",
+      "A single strong ruler",
+      "No enemies at all"
+    ],
+    "correct_index": 0,
+    "solution": "The MAURYAN empire DECLINED after Ashoka's death mainly because of WEAK SUCCESSORS, its VAST SIZE (hard to govern), and FINANCIAL and administrative STRAIN. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Arthashastra deals mainly with:",
+    "options": [
+      "Statecraft, economy, administration and the art of ruling",
+      "Cooking recipes",
+      "Poetry only",
+      "Astronomy only"
+    ],
+    "correct_index": 0,
+    "solution": "The ARTHASHASTRA (by Kautilya) deals mainly with STATECRAFT, ECONOMY, ADMINISTRATION, diplomacy, and the ART of RULING — a remarkable ancient treatise on governance. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan capital Pataliputra was described by Megasthenes as:",
+    "options": [
+      "A large, well-planned and fortified city",
+      "A small village",
+      "An empty desert",
+      "A single house"
+    ],
+    "correct_index": 0,
+    "solution": "MEGASTHENES described PATALIPUTRA as a LARGE, WELL-PLANNED, and FORTIFIED CITY — one of the greatest cities of the ancient world, with wooden walls and many gates. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly describes Ashoka's attitude to different religions?",
+    "options": [
+      "He respected and supported all religions (tolerance)",
+      "He banned all religions",
+      "He favoured only one and persecuted others",
+      "He had no interest in religion"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka RESPECTED and SUPPORTED ALL RELIGIONS — his Dhamma promoted TOLERANCE and respect among different faiths, urging people not to disparage others' beliefs. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Ashoka pillars are notable for their:",
+    "options": [
+      "Highly polished stone and finely carved animal capitals",
+      "Rough, unfinished surfaces",
+      "Wooden construction",
+      "Small size"
+    ],
+    "correct_index": 0,
+    "solution": "The ASHOKA PILLARS are notable for their HIGHLY POLISHED STONE (a lustrous finish) and finely carved ANIMAL CAPITALS (like the lions at Sarnath) — masterpieces of Mauryan art. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The spread of Buddhism was greatly helped by Ashoka, who:",
+    "options": [
+      "Sent missionaries to spread the Buddha's teachings, including abroad",
+      "Banned Buddhism",
+      "Destroyed Buddhist sites",
+      "Ignored Buddhism"
+    ],
+    "correct_index": 0,
+    "solution": "The spread of BUDDHISM was greatly helped by ASHOKA, who SENT MISSIONARIES (including his own children, by tradition, to Sri Lanka) to SPREAD the Buddha's TEACHINGS across India and ABROAD. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs a Mauryan figure with his role correctly?",
+    "options": [
+      "Chandragupta → empire founder; Kautilya → chief minister/adviser; Megasthenes → Greek ambassador",
+      "Chandragupta → Greek ambassador; Kautilya → founder; Megasthenes → minister",
+      "All were kings",
+      "None had a role"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: CHANDRAGUPTA → EMPIRE FOUNDER; KAUTILYA → CHIEF MINISTER/ADVISER (and author of the Arthashastra); MEGASTHENES → GREEK AMBASSADOR (author of Indica). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan empire is considered a landmark in Indian history because it:",
+    "options": [
+      "Was the first large empire to unite most of the subcontinent under one rule",
+      "Ruled only one village",
+      "Had no administration",
+      "Was based in Europe"
+    ],
+    "correct_index": 0,
+    "solution": "The MAURYAN EMPIRE is a landmark because it was the FIRST LARGE EMPIRE to UNITE MOST of the SUBCONTINENT under ONE RULE, with a strong central administration. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The revenue for the Mauryan state came mainly from:",
+    "options": [
+      "Taxes on agriculture, trade and other economic activities",
+      "Foreign aid",
+      "No revenue",
+      "Only gifts"
+    ],
+    "correct_index": 0,
+    "solution": "The REVENUE for the MAURYAN state came mainly from TAXES on AGRICULTURE (the largest source), TRADE, and other ECONOMIC ACTIVITIES, carefully organised as described in the Arthashastra. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is TRUE about the Mauryan administration?",
+    "options": [
+      "It was highly centralised, with officials, spies and a large army controlling the empire",
+      "It had no officials",
+      "It was completely disorganised",
+      "It was run by foreigners"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that the MAURYAN administration was HIGHLY CENTRALISED, with OFFICIALS, SPIES (to gather information), and a LARGE ARMY CONTROLLING the empire from the centre. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The lasting legacy of Ashoka includes:",
+    "options": [
+      "The ideal of a caring, tolerant ruler and India's national emblem and Ashoka Chakra",
+      "Nothing",
+      "Only war",
+      "Only trade"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka's lasting LEGACY includes the IDEAL of a CARING, TOLERANT RULER and, in modern India, the national EMBLEM (the Sarnath Lion Capital) and the ASHOKA CHAKRA on the national flag. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Ashoka Chakra, which appears on the Indian national flag, comes from:",
+    "options": [
+      "The wheel (Dharma Chakra) on Ashoka's pillars",
+      "A Mughal coin",
+      "A British seal",
+      "A modern invention"
+    ],
+    "correct_index": 0,
+    "solution": "The ASHOKA CHAKRA on the Indian national flag comes from the WHEEL (DHARMA CHAKRA) depicted on Ashoka's PILLARS (notably the Sarnath capital) — symbolising righteousness and progress. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Chandragupta Maurya, according to tradition, in his later life became a follower of:",
+    "options": [
+      "Jainism",
+      "Christianity",
+      "Islam",
+      "Zoroastrianism"
+    ],
+    "correct_index": 0,
+    "solution": "According to tradition, CHANDRAGUPTA MAURYA in his later life became a follower of JAINISM, giving up his throne and travelling south. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan empire arose from which powerful Mahajanapada?",
+    "options": [
+      "Magadha",
+      "Gandhara",
+      "Avanti",
+      "Kosala"
+    ],
+    "correct_index": 0,
+    "solution": "The MAURYAN EMPIRE arose from the powerful Mahajanapada of MAGADHA, whose resources and strategic position formed its base. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The great stupa at Sanchi is associated with which emperor's support of Buddhism?",
+    "options": [
+      "Ashoka",
+      "Babur",
+      "Akbar",
+      "Chandragupta II"
+    ],
+    "correct_index": 0,
+    "solution": "The great STUPA at SANCHI is associated with ASHOKA, who built and supported Buddhist stupas as part of his promotion of the faith. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'stupa' is a Buddhist structure that:",
+    "options": [
+      "Is a dome-shaped monument, often housing sacred relics",
+      "Is a market",
+      "Is a fort",
+      "Is a coin"
+    ],
+    "correct_index": 0,
+    "solution": "A STUPA is a DOME-SHAPED Buddhist MONUMENT, often HOUSING sacred RELICS of the Buddha or holy persons, and a place of worship. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The system of spies in the Mauryan administration was used to:",
+    "options": [
+      "Gather information for the king about officials and the people",
+      "Do nothing",
+      "Only trade",
+      "Only farm"
+    ],
+    "correct_index": 0,
+    "solution": "The SYSTEM of SPIES was used to GATHER INFORMATION for the KING about the conduct of OFFICIALS and the mood of the PEOPLE — helping the ruler keep control over a vast empire. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan empire's control was strongest at the centre and looser at the:",
+    "options": [
+      "Distant frontiers and provinces",
+      "Capital itself",
+      "King's palace",
+      "Nowhere"
+    ],
+    "correct_index": 0,
+    "solution": "The MAURYAN empire's CONTROL was STRONGEST at the CENTRE (around Pataliputra) and LOOSER at the DISTANT FRONTIERS and PROVINCES, which were harder to govern directly. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best describes the significance of Ashoka's edicts as historical sources?",
+    "options": [
+      "They are direct, contemporary records of a ruler's own words and policies",
+      "They are modern forgeries",
+      "They tell us nothing",
+      "They are European accounts"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka's EDICTS are significant because they are DIRECT, CONTEMPORARY RECORDS of a RULER's OWN WORDS and POLICIES — a rare and precious source for ancient Indian history. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan period saw flourishing trade along routes that connected India to:",
+    "options": [
+      "Central and West Asia and beyond",
+      "Only one village",
+      "Nowhere",
+      "Only the sea floor"
+    ],
+    "correct_index": 0,
+    "solution": "The MAURYAN period saw FLOURISHING TRADE along routes that CONNECTED India to CENTRAL and WEST ASIA and BEYOND, carrying goods, ideas, and coins. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka's message to respect all beings extended even to:",
+    "options": [
+      "Animals, for whom he limited killing and built veterinary care",
+      "No one",
+      "Only kings",
+      "Only soldiers"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka's message of respect extended even to ANIMALS — he LIMITED the KILLING of animals and, by his edicts, provided MEDICAL/veterinary CARE for both humans and animals. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rise of the Mauryan empire shows that a strong empire needed:",
+    "options": [
+      "A capable ruler, an efficient administration, a strong army and sound revenue",
+      "No rulers",
+      "No army",
+      "No money"
+    ],
+    "correct_index": 0,
+    "solution": "The rise of the MAURYAN EMPIRE shows that a strong empire needed a CAPABLE RULER, an EFFICIENT ADMINISTRATION, a STRONG ARMY, and SOUND REVENUE — all of which the Mauryas built. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka is sometimes called 'Ashoka the Great' or 'Devanampiya Piyadassi', which means:",
+    "options": [
+      "'Beloved of the Gods, of pleasing appearance' — his title in the edicts",
+      "'The cruel king'",
+      "'The foreign ruler'",
+      "'The merchant'"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka is called DEVANAMPIYA PIYADASSI, meaning 'BELOVED of the GODS, of PLEASING APPEARANCE' — the title by which he refers to himself in his EDICTS. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall message of the chapter 'The Rise of Empires' is that:",
+    "options": [
+      "No empires ever rose in India",
+      "The MAURYAN EMPIRE — founded by CHANDRAGUPTA MAURYA (guided by KAUTILYA, author of the Arthashastra) around 321 BCE with its capital at PATALIPUTRA — became the FIRST GREAT EMPIRE to unite most of the subcontinent under a highly centralised administration, army and revenue system; its greatest ruler, ASHOKA, after the bloody KALINGA WAR, gave up conquest and promoted DHAMMA (non-violence, tolerance and welfare), spreading it through EDICTS on rocks and pillars (in Brahmi/Prakrit) and dhamma mahamatras, undertaking public works and helping spread Buddhism — leaving a lasting legacy (the Sarnath Lion Capital is India's national emblem) before the empire declined under weak successors",
+      "Only villages existed",
+      "Ashoka loved war"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that the MAURYAN EMPIRE — founded by CHANDRAGUPTA MAURYA (guided by his mentor KAUTILYA/Chanakya, author of the ARTHASHASTRA) around 321 BCE, with its capital at PATALIPUTRA — became the FIRST GREAT EMPIRE to UNITE most of the SUBCONTINENT under a HIGHLY CENTRALISED administration, a large ARMY, and an organised REVENUE system (described by the Greek ambassador MEGASTHENES in his 'Indica'). Its greatest ruler, ASHOKA, after the devastating KALINGA WAR (in present-day Odisha), was filled with REMORSE and GAVE UP wars of conquest, instead promoting DHAMMA — a code of NON-VIOLENCE, TOLERANCE, respect, and WELFARE — which he spread through EDICTS inscribed on ROCKS and PILLARS (in the BRAHMI script and PRAKRIT language) and through officers called DHAMMA MAHAMATRAS. He undertook PUBLIC WORKS (roads, rest houses, wells, tree-planting) and helped SPREAD BUDDHISM far and wide. Ashoka left a LASTING LEGACY — the SARNATH LION CAPITAL is India's national emblem and its wheel the Ashoka Chakra — before the empire DECLINED under weak successors. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan Empire, India's first large empire, was founded by:",
+    "options": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Bimbisara"
+    ],
+    "correct_index": 1,
+    "solution": "Chandragupta Maurya founded the Mauryan Empire around 321 BCE, overthrowing the Nanda dynasty of Magadha with the help of his mentor Chanakya (Kautilya).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Chandragupta Maurya's mentor and adviser, author of the 'Arthashastra', was:",
+    "options": [
+      "Chanakya (Kautilya)",
+      "Megasthenes",
+      "Abul Fazl",
+      "Panini"
+    ],
+    "correct_index": 0,
+    "solution": "Chanakya (Kautilya/Vishnugupta), Chandragupta's mentor, wrote the Arthashastra, a treatise on statecraft, economics and politics.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Arthashastra' is a treatise dealing with:",
+    "options": [
+      "Music",
+      "Statecraft, administration, economics and politics",
+      "Medicine",
+      "Astronomy"
+    ],
+    "correct_index": 1,
+    "solution": "The Arthashastra, attributed to Kautilya, is a comprehensive ancient treatise on statecraft, administration, economics, diplomacy and military strategy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Greek ambassador who visited Chandragupta Maurya's court and wrote the 'Indica' was:",
+    "options": [
+      "Megasthenes",
+      "Fa-Hien",
+      "Hiuen Tsang",
+      "Ibn Battuta"
+    ],
+    "correct_index": 0,
+    "solution": "Megasthenes, the Greek ambassador of Seleucus Nicator, visited Chandragupta Maurya's court and wrote the 'Indica', describing Mauryan society and administration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Chandragupta Maurya reportedly gave up his throne in later life and became a follower of:",
+    "options": [
+      "Buddhism",
+      "Jainism (under Bhadrabahu)",
+      "Christianity",
+      "Islam"
+    ],
+    "correct_index": 1,
+    "solution": "According to tradition, Chandragupta Maurya embraced Jainism in his later years, abdicated, and travelled south to Shravanabelagola with the Jain saint Bhadrabahu.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Chandragupta was succeeded by his son:",
+    "options": [
+      "Ashoka",
+      "Bindusara",
+      "Dasharatha",
+      "Kunala"
+    ],
+    "correct_index": 1,
+    "solution": "Chandragupta was succeeded by his son Bindusara, who maintained and extended the empire; Bindusara was in turn succeeded by his son Ashoka.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The most famous Mauryan emperor, known for embracing Buddhism after a war, was:",
+    "options": [
+      "Chandragupta",
+      "Bindusara",
+      "Ashoka",
+      "Samudragupta"
+    ],
+    "correct_index": 2,
+    "solution": "Ashoka (r. c. 268–232 BCE) is the most celebrated Mauryan emperor, who embraced Buddhism after the Kalinga War and propagated 'Dhamma'.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Ashoka embraced Buddhism and non-violence after witnessing the bloodshed of the:",
+    "options": [
+      "Kalinga War",
+      "Battle of Panipat",
+      "Battle of Plassey",
+      "Tripartite Struggle"
+    ],
+    "correct_index": 0,
+    "solution": "The devastating Kalinga War (c. 261 BCE) so horrified Ashoka that he renounced war, embraced Buddhism and dedicated himself to ruling through 'Dhamma' (moral law).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Kalinga, conquered by Ashoka, corresponds to present-day:",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Punjab",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "solution": "Kalinga, the region conquered by Ashoka in the bloody Kalinga War, corresponds largely to present-day Odisha.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka spread his message of moral conduct and welfare through inscriptions called the:",
+    "options": [
+      "Prashastis",
+      "Ashokan Edicts (rock and pillar edicts)",
+      "Hundis",
+      "Firmans"
+    ],
+    "correct_index": 1,
+    "solution": "Ashoka's message of 'Dhamma' was inscribed on rocks and pillars across the empire — the Ashokan edicts — mostly in Prakrit language and Brahmi script.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka's edicts were mostly written in which language and script?",
+    "options": [
+      "Sanskrit in Devanagari",
+      "Prakrit in Brahmi script",
+      "English in Roman",
+      "Persian in Nastaliq"
+    ],
+    "correct_index": 1,
+    "solution": "Most Ashokan edicts were written in Prakrit using the Brahmi script (some in Kharosthi and Greek/Aramaic in the north-west), making them accessible to common people.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Dhamma' propagated by Ashoka emphasised:",
+    "options": [
+      "Conquest and war",
+      "Moral conduct, non-violence, tolerance, and welfare of subjects",
+      "Only ritual sacrifice",
+      "Trade taxes"
+    ],
+    "correct_index": 1,
+    "solution": "Ashoka's Dhamma was a moral code emphasising non-violence, respect for elders and all religions, kindness to servants and animals, tolerance and the welfare of subjects.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka appointed special officers to spread and oversee Dhamma called:",
+    "options": [
+      "Mansabdars",
+      "Dhamma Mahamatras",
+      "Iqtadars",
+      "Zamindars"
+    ],
+    "correct_index": 1,
+    "solution": "Ashoka appointed 'Dhamma Mahamatras' — special officers tasked with propagating Dhamma, promoting welfare and ensuring justice among the people.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Lion Capital of Ashoka, adopted as India's national emblem, was originally erected at:",
+    "options": [
+      "Sarnath",
+      "Bodh Gaya",
+      "Sanchi",
+      "Lumbini"
+    ],
+    "correct_index": 0,
+    "solution": "The Lion Capital of Ashoka, from a pillar at Sarnath, was adopted as the State Emblem of India; the wheel (Ashoka Chakra) on it appears on the national flag.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Ashoka Chakra' at the centre of the Indian national flag represents the:",
+    "options": [
+      "Sun",
+      "Dharma Chakra (wheel of law/Dhamma) with 24 spokes",
+      "A wheel of a chariot only",
+      "Nothing"
+    ],
+    "correct_index": 1,
+    "solution": "The Ashoka Chakra on the national flag is the 24-spoked Dharma Chakra (wheel of law) from Ashoka's Lion Capital at Sarnath, symbolising righteousness and progress.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan administration was highly centralised, with the empire divided into:",
+    "options": [
+      "No divisions",
+      "Provinces (governed by princes/governors) and further into districts and villages",
+      "Only villages",
+      "Only cities"
+    ],
+    "correct_index": 1,
+    "solution": "The Mauryan Empire had a centralised bureaucratic administration, divided into provinces (headed by princes/governors), districts and villages, with an elaborate network of officials and spies.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The four provincial capitals of the Mauryan Empire included Taxila, Ujjain, Suvarnagiri and:",
+    "options": [
+      "Tosali",
+      "Madurai",
+      "Kanchi",
+      "Delhi"
+    ],
+    "correct_index": 0,
+    "solution": "The Mauryan provincial centres included Taxila (north-west), Ujjain (west), Suvarnagiri (south) and Tosali (east, in Kalinga), besides the capital Pataliputra.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan economy was supported mainly by:",
+    "options": [
+      "Only foreign aid",
+      "Agriculture, taxes, trade and state-controlled industries",
+      "Only fishing",
+      "Only mining"
+    ],
+    "correct_index": 1,
+    "solution": "The Mauryan economy rested on agriculture (the main revenue source through land taxes), trade, and various state-regulated industries and craft production.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ashoka is said to have sent Buddhist missionaries abroad, including his son and daughter to:",
+    "options": [
+      "Sri Lanka",
+      "China",
+      "Persia",
+      "Egypt"
+    ],
+    "correct_index": 0,
+    "solution": "Ashoka sent Buddhist missionaries abroad; his son Mahinda and daughter Sanghamitta are said to have carried Buddhism to Sri Lanka, aiding its spread.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Mauryan pillars are famous for their:",
+    "options": [
+      "Rough finish",
+      "Highly polished stone (Mauryan polish) and animal capitals",
+      "Wooden construction",
+      "Mud bricks"
+    ],
+    "correct_index": 1,
+    "solution": "The Mauryan pillars are renowned for their fine 'Mauryan polish' (mirror-like lustre) and elegant animal capitals (like the lion capital), reflecting advanced stone craftsmanship.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The decline of the Mauryan Empire set in after the death of:",
+    "options": [
+      "Chandragupta",
+      "Bindusara",
+      "Ashoka",
+      "Bimbisara"
+    ],
+    "correct_index": 2,
+    "solution": "The Mauryan Empire declined after Ashoka's death (c. 232 BCE) due to weak successors, administrative and financial strains, and the empire's vast size; it ended around 185 BCE.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The last Mauryan ruler was assassinated by his commander-in-chief, who founded the ______ dynasty.",
+    "options": [
+      "Shunga",
+      "Gupta",
+      "Kushana",
+      "Satavahana"
+    ],
+    "correct_index": 0,
+    "solution": "The last Mauryan ruler, Brihadratha, was assassinated by his general Pushyamitra Shunga, who founded the Shunga dynasty around 185 BCE.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "After the Mauryas, the ______ dynasty ruled the Deccan and was known for trade and rock-cut architecture.",
+    "options": [
+      "Satavahana",
+      "Gupta",
+      "Chola",
+      "Pallava"
+    ],
+    "correct_index": 0,
+    "solution": "The Satavahanas ruled the Deccan after the Mauryas, known for promoting trade, supporting Buddhism (rock-cut caves) and issuing coins.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Kushana ruler famous for patronising Buddhism and the 4th Buddhist Council was:",
+    "options": [
+      "Kanishka",
+      "Ashoka",
+      "Chandragupta",
+      "Harsha"
+    ],
+    "correct_index": 0,
+    "solution": "Kanishka, the greatest Kushana ruler, was a great patron of Mahayana Buddhism, convened the Fourth Buddhist Council, and promoted the Gandhara and Mathura schools of art.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Gandhara school of art, which showed Greco-Roman influence, developed under the:",
+    "options": [
+      "Mauryas",
+      "Kushanas",
+      "Cholas",
+      "Guptas"
+    ],
+    "correct_index": 1,
+    "solution": "The Gandhara school of art, blending Indian themes with Greco-Roman (Hellenistic) styles (e.g. in Buddha images), flourished under the Kushanas in the north-west.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Megasthenes described the Mauryan capital Pataliputra as a:",
+    "options": [
+      "Small village",
+      "Large, well-fortified and well-administered city",
+      "Ruined town",
+      "Desert settlement"
+    ],
+    "correct_index": 1,
+    "solution": "Megasthenes described Pataliputra as a large, prosperous, well-fortified city with wooden walls, many gates and towers, and an organised municipal administration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Mauryan state maintained a large army and an extensive network of ______ to gather information.",
+    "options": [
+      "Traders",
+      "Spies (gudhapurushas)",
+      "Farmers",
+      "Priests"
+    ],
+    "correct_index": 1,
+    "solution": "The Mauryan state, as described in the Arthashastra, maintained a large standing army and an elaborate network of spies (gudhapurushas) to keep the emperor informed.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly matches a Mauryan ruler with a fact? (i) Chandragupta – founder (ii) Ashoka – Kalinga War & Dhamma (iii) Bindusara – Chandragupta's son",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Chandragupta founded the empire, Ashoka fought the Kalinga War and propagated Dhamma, and Bindusara was Chandragupta's son and Ashoka's father.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall significance of the Mauryan Empire is that it:",
+    "options": [
+      "Was very small",
+      "Was India's first large centralised empire, unifying most of the subcontinent",
+      "Left no records",
+      "Was ruled by foreigners"
+    ],
+    "correct_index": 1,
+    "solution": "The Mauryan Empire was India's first large centralised empire, unifying most of the subcontinent under one administration and, under Ashoka, spreading Buddhism and the ideal of moral governance.",
+    "difficulty": "medium"
+  }
 ]

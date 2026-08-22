@@ -1,52 +1,890 @@
 [
-  { "stem": "The Eighth Schedule of the Indian Constitution currently recognises how many languages?", "options": ["18", "22", "24", "28"], "correct_index": 1, "solution": "The Eighth Schedule currently lists 22 scheduled languages.", "difficulty": "medium" },
-  { "stem": "Which of the following is a major language family of India?", "options": ["Dravidian", "Bantu", "Romance", "Slavic"], "correct_index": 0, "solution": "India's major language families include Indo-Aryan, Dravidian, Austroasiatic (Munda) and Tibeto-Burman. Dravidian (e.g. Tamil, Telugu, Kannada, Malayalam) is one of them.", "difficulty": "medium" },
-  { "stem": "Which set of religions originated in India?", "options": ["Hinduism, Buddhism, Jainism, Sikhism", "Christianity, Islam, Judaism, Hinduism", "Zoroastrianism, Islam, Sikhism, Jainism", "Buddhism, Shinto, Taoism, Hinduism"], "correct_index": 0, "solution": "Hinduism, Buddhism, Jainism and Sikhism all originated in the Indian subcontinent.", "difficulty": "medium" },
-  { "stem": "Tamil, Telugu, Kannada and Malayalam belong to which language family?", "options": ["Indo-Aryan", "Dravidian", "Tibeto-Burman", "Austroasiatic"], "correct_index": 1, "solution": "These four major South Indian languages belong to the Dravidian family.", "difficulty": "medium" },
-  { "stem": "The phrase 'unity in diversity' is often used to describe India because:", "options": ["India has only one language and religion", "Despite great diversity of language, religion and culture, there is an underlying sense of oneness", "India has no cultural differences", "Diversity exists only in food"], "correct_index": 1, "solution": "'Unity in diversity' captures how India's many languages, religions, foods and customs coexist within a shared civilisational and national identity.", "difficulty": "easy" },
-  { "stem": "Hindi, Bengali, Marathi and Gujarati belong to which language family?", "options": ["Dravidian", "Indo-Aryan", "Austroasiatic", "Tibeto-Burman"], "correct_index": 1, "solution": "These North Indian languages belong to the Indo-Aryan branch of the Indo-European family.", "difficulty": "medium" },
-  { "stem": "Networks of pilgrimage sites (such as the char dham) across India historically contributed to:", "options": ["Regional isolation", "A sense of cultural unity across the subcontinent", "The decline of trade", "The end of festivals"], "correct_index": 1, "solution": "Pilgrimage circuits linking sites across the country fostered movement, exchange and a shared cultural bond, reinforcing unity across regions.", "difficulty": "medium" },
-  { "stem": "Consider the following statements about India's diversity: 1. India has multiple language families. 2. Several major world religions were founded in India. Which is/are correct?", "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "correct_index": 2, "solution": "Both are correct: India has several language families, and Hinduism, Buddhism, Jainism and Sikhism arose here.", "difficulty": "medium" },
-  { "stem": "The four major language families of India are Indo-Aryan, Dravidian, Austroasiatic and:", "options": ["Tibeto-Burman", "Romance", "Germanic", "Slavic"], "correct_index": 0, "solution": "India's FOUR major LANGUAGE FAMILIES are INDO-ARYAN, DRAVIDIAN, AUSTROASIATIC (Munda), and TIBETO-BURMAN. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The largest language family in India by number of speakers is:", "options": ["Indo-Aryan", "Dravidian", "Austroasiatic", "Tibeto-Burman"], "correct_index": 0, "solution": "The INDO-ARYAN family (including Hindi, Bengali, Marathi, Gujarati, etc.) has the LARGEST number of speakers in India. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The concept of 'many in the one' (unity in diversity) means that:", "options": ["India's many diverse elements are held together by an underlying unity", "India has only one culture", "India has no diversity", "The diverse groups are completely separate"], "correct_index": 0, "solution": "'MANY in the ONE' (unity in diversity) means India's MANY DIVERSE elements — languages, religions, foods, festivals — are HELD TOGETHER by an UNDERLYING UNITY and shared civilisational identity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The tradition of 'char dham' (four sacred abodes) reflects unity because it links pilgrimage sites in the:", "options": ["North, south, east and west of India", "One city only", "A foreign country", "The ocean only"], "correct_index": 0, "solution": "The CHAR DHAM (four sacred abodes — traditionally Badrinath, Dwarka, Puri, and Rameswaram) links pilgrimage sites in the NORTH, WEST, EAST, and SOUTH of India, weaving the whole land into one sacred geography. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is an example of India's culinary (food) diversity?", "options": ["Different regions have their own staple foods, spices and dishes", "Everyone eats exactly the same food", "There is only one dish in all of India", "Food is not part of culture"], "correct_index": 0, "solution": "India's CULINARY DIVERSITY is seen in how DIFFERENT REGIONS have their own STAPLE FOODS (rice, wheat, millets), SPICES, and DISHES — yet share a love of flavour and hospitality. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Sanskrit and most North Indian languages belong to which larger family?", "options": ["Indo-European (Indo-Aryan branch)", "Dravidian", "Sino-Tibetan", "Afro-Asiatic"], "correct_index": 0, "solution": "SANSKRIT and most NORTH INDIAN languages belong to the INDO-EUROPEAN family (the INDO-ARYAN branch). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Festivals in India show unity in diversity because:", "options": ["Many different festivals are celebrated across regions and communities, often sharing common themes", "Only one festival exists", "No festivals are celebrated", "Festivals divide people permanently"], "correct_index": 0, "solution": "India's FESTIVALS show unity in diversity: MANY DIFFERENT festivals (Diwali, Eid, Christmas, Pongal, Bihu, etc.) are celebrated across REGIONS and COMMUNITIES, often SHARING COMMON THEMES like light, harvest, and renewal. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Constitution's recognition of many languages in the Eighth Schedule reflects India's:", "options": ["Respect for its linguistic diversity", "Rejection of all languages", "Use of only one language", "Lack of any languages"], "correct_index": 0, "solution": "The EIGHTH SCHEDULE, which recognises 22 languages, reflects India's RESPECT for its LINGUISTIC DIVERSITY and the value it places on its many languages. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following religions did NOT originate in India?", "options": ["Islam", "Hinduism", "Buddhism", "Sikhism"], "correct_index": 0, "solution": "ISLAM originated in Arabia, NOT in India (though it has a long history in India). Hinduism, Buddhism, Jainism, and Sikhism originated in the Indian subcontinent. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The diversity of India's dress and clothing across regions is influenced by:", "options": ["Climate, local materials, and cultural traditions", "Only one factor everywhere", "No factors at all", "Foreign rule alone"], "correct_index": 0, "solution": "India's diversity of DRESS is influenced by CLIMATE (hot or cold regions), LOCAL MATERIALS (cotton, silk, wool), and CULTURAL TRADITIONS — giving rise to a wide variety of clothing styles. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The variety of India's dance and music forms (like Bharatanatyam, Kathak, Odissi) shows that:", "options": ["Each region has developed its own rich artistic traditions", "There is only one dance in India", "India has no art forms", "Art is banned in India"], "correct_index": 0, "solution": "India's many CLASSICAL DANCE and music forms — BHARATANATYAM (Tamil Nadu), KATHAK (north), ODISSI (Odisha), and others — show that EACH REGION has developed its OWN RICH ARTISTIC TRADITIONS within a shared culture. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which factor has historically helped bind India's diverse regions into a shared civilisation?", "options": ["Trade routes, pilgrimages, shared texts, and cultural exchange", "Complete isolation of regions", "A single language imposed on all", "The absence of any contact"], "correct_index": 0, "solution": "India's diverse regions have been bound together by TRADE ROUTES, PILGRIMAGES, SHARED TEXTS and epics, and continuous CULTURAL EXCHANGE — creating a shared civilisation despite diversity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The epics Ramayana and Mahabharata contribute to India's unity because they are:", "options": ["Known and retold across many regions and languages of India", "Known in only one village", "Written in a foreign language only", "Unknown to Indians"], "correct_index": 0, "solution": "The RAMAYANA and MAHABHARATA contribute to unity because they are KNOWN and RETOLD across MANY REGIONS and LANGUAGES of India, in countless local versions — a shared cultural inheritance. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "India's geographical diversity includes:", "options": ["Mountains, plains, deserts, plateaus and coasts", "Only deserts everywhere", "Only mountains everywhere", "A single flat plain only"], "correct_index": 0, "solution": "India's GEOGRAPHICAL DIVERSITY includes the HIMALAYAN MOUNTAINS, fertile PLAINS, the Thar DESERT, the Deccan PLATEAU, and long COASTS — a wide range of landscapes. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The idea of unity in diversity teaches Indians to:", "options": ["Respect differences while valuing what unites them", "Reject all who are different", "Ignore India's culture", "Believe there is no diversity"], "correct_index": 0, "solution": "The idea of UNITY in DIVERSITY teaches Indians to RESPECT DIFFERENCES (of language, religion, food, custom) while VALUING what UNITES them as one people and nation. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs a language with its correct family?", "options": ["Tamil → Dravidian; Hindi → Indo-Aryan", "Tamil → Indo-Aryan; Hindi → Dravidian", "Both belong to Tibeto-Burman", "Both belong to Austroasiatic"], "correct_index": 0, "solution": "The correct pairing is TAMIL → DRAVIDIAN and HINDI → INDO-ARYAN. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Munda and Santhali languages belong to which family?", "options": ["Austroasiatic", "Indo-Aryan", "Dravidian", "Tibeto-Burman"], "correct_index": 0, "solution": "MUNDA and SANTHALI languages belong to the AUSTROASIATIC family, spoken by several tribal communities of central and eastern India. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Languages of the north-eastern hills, such as many spoken in the region, often belong to which family?", "options": ["Tibeto-Burman", "Dravidian", "Indo-Aryan", "Romance"], "correct_index": 0, "solution": "Many languages of the NORTH-EASTERN HILLS belong to the TIBETO-BURMAN family — part of India's rich linguistic diversity. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Sikhism, one of the religions that originated in India, was founded by:", "options": ["Guru Nanak", "Gautama Buddha", "Mahavira", "Adi Shankara"], "correct_index": 0, "solution": "SIKHISM was founded by GURU NANAK, the first of the ten Sikh Gurus. It originated in the Punjab region of India. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following best shows India's religious diversity?", "options": ["People of many faiths — Hindu, Muslim, Christian, Sikh, Buddhist, Jain and others — live across India", "Everyone follows one religion", "No religion exists in India", "Only foreigners have religion"], "correct_index": 0, "solution": "India's RELIGIOUS DIVERSITY is shown by the fact that people of MANY FAITHS — HINDU, MUSLIM, CHRISTIAN, SIKH, BUDDHIST, JAIN, and others — live together across the country. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Handicrafts and textiles of India (like Banarasi silk, Kanjeevaram sarees, Pashmina) reflect:", "options": ["The distinct skills and traditions of different regions", "A single uniform craft", "No craft traditions", "Only imported goods"], "correct_index": 0, "solution": "India's HANDICRAFTS and TEXTILES — BANARASI silk (UP), KANJEEVARAM sarees (Tamil Nadu), PASHMINA (Kashmir) — reflect the DISTINCT SKILLS and TRADITIONS of DIFFERENT REGIONS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): India is described as 'unity in diversity'. Reason (R): India has great diversity of language, religion and culture, yet a shared civilisational bond. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — India is described as 'unity in diversity'. R is TRUE and correctly EXPLAINS A: India has GREAT DIVERSITY of language, religion, and culture, yet a SHARED CIVILISATIONAL BOND holds it together — which is precisely what the phrase means. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The national festivals like Independence Day and Republic Day promote unity by:", "options": ["Being celebrated together by all Indians regardless of region or religion", "Dividing communities", "Being celebrated by only one group", "Not being celebrated at all"], "correct_index": 0, "solution": "NATIONAL FESTIVALS like INDEPENDENCE DAY and REPUBLIC DAY promote unity by being CELEBRATED TOGETHER by ALL INDIANS, regardless of region or religion, strengthening a shared national identity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The exchange of foods, words, music and customs between India's communities over centuries has led to:", "options": ["A rich, blended culture where traditions influence one another", "Complete separation of all groups", "The loss of all culture", "A single unchanging tradition"], "correct_index": 0, "solution": "Centuries of EXCHANGE of foods, words, music, and customs among India's communities has led to a RICH, BLENDED culture where TRADITIONS INFLUENCE ONE ANOTHER — a hallmark of India's unity in diversity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly lists religions that originated in India?", "options": ["Hinduism, Buddhism, Jainism, Sikhism", "Islam, Christianity, Judaism, Zoroastrianism", "Shinto, Taoism, Confucianism, Islam", "Christianity, Islam, Buddhism, Judaism"], "correct_index": 0, "solution": "The religions that ORIGINATED in India are HINDUISM, BUDDHISM, JAINISM, and SIKHISM. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The diversity of India is best regarded as:", "options": ["A source of strength and richness", "A weakness to be removed", "Something to be ashamed of", "Unimportant"], "correct_index": 0, "solution": "India's DIVERSITY is best regarded as a SOURCE of STRENGTH and RICHNESS — its variety of languages, faiths, arts, and customs makes its culture vibrant and its society resilient. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "How many major biogeographic/geographical zones make India's natural diversity so great?", "options": ["Several — from the Himalayas and deserts to plains, plateaus, coasts and islands", "Only one zone", "None", "Two identical zones"], "correct_index": 0, "solution": "India's natural diversity is great because it has SEVERAL geographical zones — the HIMALAYAS, the THAR DESERT, the fertile PLAINS, the DECCAN PLATEAU, long COASTS, and ISLANDS — supporting varied life and cultures. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The word that best captures India holding together its many peoples and traditions is:", "options": ["Integration (unity in diversity)", "Division", "Isolation", "Uniformity"], "correct_index": 0, "solution": "The word that best captures India holding together its many peoples and traditions is INTEGRATION — the 'UNITY in DIVERSITY' by which diverse elements come together as one. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is it valuable for students to learn about India's diversity?", "options": ["It builds respect, harmony and a sense of shared belonging among all communities", "It creates division", "It has no value", "It should be forgotten"], "correct_index": 0, "solution": "Learning about India's DIVERSITY is valuable because it builds RESPECT, HARMONY, and a sense of SHARED BELONGING among all communities — helping citizens appreciate and celebrate their common heritage. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The concept of 'Vasudhaiva Kutumbakam', reflecting an Indian ideal, means:", "options": ["The world is one family", "The world is divided", "Only my family matters", "Trade is everything"], "correct_index": 0, "solution": "VASUDHAIVA KUTUMBAKAM means 'the WORLD is ONE FAMILY' — an ancient Indian ideal of universal kinship and harmony, reflecting the spirit of inclusiveness. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The wide variety of Indian festivals like Diwali, Eid, Christmas, Pongal and Baisakhi shows that Indians:", "options": ["Share in and often celebrate one another's festivals", "Celebrate nothing", "Have only one festival", "Reject all festivals"], "correct_index": 0, "solution": "The variety of festivals — DIWALI, EID, CHRISTMAS, PONGAL, BAISAKHI — shows that Indians SHARE in and often CELEBRATE one another's festivals, reflecting harmony and mutual respect. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following is an example of India's architectural diversity?", "options": ["Temples, mosques, churches, gurudwaras, stupas and forts of many styles", "Only one type of building", "No buildings at all", "Only modern glass towers"], "correct_index": 0, "solution": "India's ARCHITECTURAL DIVERSITY is seen in its TEMPLES, MOSQUES, CHURCHES, GURUDWARAS, STUPAS, and FORTS of many styles across different regions and periods. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main staple food differs across India, being mainly rice in the east and south and mainly ______ in the north-west.", "options": ["Wheat", "Rubber", "Tea", "Cotton"], "correct_index": 0, "solution": "STAPLE FOODS differ regionally: RICE dominates in the east and south (higher rainfall), while WHEAT is the main staple in the north-west — reflecting climate and agriculture. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The many scripts used to write Indian languages (Devanagari, Tamil, Bengali, etc.) show diversity in:", "options": ["Writing systems", "Food", "Climate", "Coins"], "correct_index": 0, "solution": "The many SCRIPTS — DEVANAGARI, TAMIL, BENGALI, Telugu, Gurmukhi, and others — show India's diversity in WRITING SYSTEMS, each suited to its language. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "How does trade contribute to unity in a diverse country like India?", "options": ["It links distant regions through the exchange of goods and ideas", "It separates regions", "It stops all contact", "It has no cultural effect"], "correct_index": 0, "solution": "TRADE contributes to unity by LINKING DISTANT REGIONS through the EXCHANGE of GOODS and IDEAS — connecting producers and markets across the subcontinent and spreading culture along trade routes. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Classical Indian music has two main systems: Hindustani (north) and:", "options": ["Carnatic (south)", "Western", "Persian only", "None"], "correct_index": 0, "solution": "Indian CLASSICAL MUSIC has two main systems: HINDUSTANI (of the NORTH) and CARNATIC (of the SOUTH) — related yet distinct traditions, another example of unity in diversity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The presence of many communities living together in India for centuries has created a tradition of:", "options": ["Tolerance and coexistence", "Constant separation", "One culture only", "No interaction"], "correct_index": 0, "solution": "The long coexistence of MANY COMMUNITIES has created a tradition of TOLERANCE and COEXISTENCE, where different groups live together, exchange ideas, and enrich one another. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is the best example of a shared cultural symbol across India?", "options": ["Widely known epics, yoga, and festivals of light and harvest", "A single regional dish only", "One local language only", "A single village fair"], "correct_index": 0, "solution": "SHARED CULTURAL SYMBOLS across India include widely known EPICS (Ramayana, Mahabharata), YOGA, and FESTIVALS of LIGHT and HARVEST — recognised and valued across regions. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The idea that India is 'many in the one' is important because it teaches respect for:", "options": ["Both differences and the deeper unity that binds people together", "Only similarities", "Only differences with no unity", "Neither"], "correct_index": 0, "solution": "'MANY in the ONE' teaches respect for BOTH DIFFERENCES (celebrating variety) AND the DEEPER UNITY that binds people together as one nation and civilisation. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about India's diversity is correct?", "options": ["It spans language, religion, food, dress, art, festivals and geography", "It is limited to food only", "It does not exist", "It applies only to one state"], "correct_index": 0, "solution": "India's DIVERSITY spans LANGUAGE, RELIGION, FOOD, DRESS, ART, FESTIVALS, and GEOGRAPHY — a diversity found across the whole country, not just one aspect or one state. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The best way for citizens to strengthen India's unity in diversity is to:", "options": ["Respect all communities and celebrate the shared heritage", "Look down on other communities", "Ignore India's culture", "Promote division"], "correct_index": 0, "solution": "The best way to STRENGTHEN unity in diversity is for citizens to RESPECT ALL COMMUNITIES and CELEBRATE the SHARED HERITAGE, treating diversity as a source of pride and strength. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Unity in Diversity, or Many in the One' is that:", "options": ["India is uniform with no differences", "India is marked by immense DIVERSITY — of GEOGRAPHY (mountains, plains, deserts, plateaus, coasts), LANGUAGES (four families: Indo-Aryan, Dravidian, Austroasiatic, Tibeto-Burman, with 22 recognised in the Eighth Schedule), RELIGIONS (Hinduism, Buddhism, Jainism and Sikhism originated here, alongside Islam, Christianity and others), FOODS, DRESS, FESTIVALS and ARTS — yet all of this is held together by an underlying UNITY: shared epics and texts, pilgrimage networks (like the char dham), trade and cultural exchange, and a common civilisational and national bond, so that India is truly 'many in the one'", "India has only one language and religion", "Diversity is a weakness"], "correct_index": 1, "solution": "The chapter's overall message is that India is marked by IMMENSE DIVERSITY — of GEOGRAPHY (mountains, plains, deserts, plateaus, coasts, islands), of LANGUAGES (FOUR major families — INDO-ARYAN, DRAVIDIAN, AUSTROASIATIC, and TIBETO-BURMAN — with 22 languages recognised in the EIGHTH SCHEDULE), of RELIGIONS (HINDUISM, BUDDHISM, JAINISM, and SIKHISM originated here, alongside Islam, Christianity, and others), and of FOODS, DRESS, FESTIVALS, and ARTS. Yet all of this is HELD TOGETHER by an UNDERLYING UNITY: shared EPICS and TEXTS (Ramayana, Mahabharata), PILGRIMAGE networks (like the CHAR DHAM), TRADE and CULTURAL EXCHANGE, and a common civilisational and national bond. Thus India is truly 'MANY in the ONE' — its diversity a source of strength. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "The Eighth Schedule of the Indian Constitution currently recognises how many languages?",
+    "options": [
+      "18",
+      "22",
+      "24",
+      "28"
+    ],
+    "correct_index": 1,
+    "solution": "The Eighth Schedule currently lists 22 scheduled languages.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a major language family of India?",
+    "options": [
+      "Dravidian",
+      "Bantu",
+      "Romance",
+      "Slavic"
+    ],
+    "correct_index": 0,
+    "solution": "India's major language families include Indo-Aryan, Dravidian, Austroasiatic (Munda) and Tibeto-Burman. Dravidian (e.g. Tamil, Telugu, Kannada, Malayalam) is one of them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which set of religions originated in India?",
+    "options": [
+      "Hinduism, Buddhism, Jainism, Sikhism",
+      "Christianity, Islam, Judaism, Hinduism",
+      "Zoroastrianism, Islam, Sikhism, Jainism",
+      "Buddhism, Shinto, Taoism, Hinduism"
+    ],
+    "correct_index": 0,
+    "solution": "Hinduism, Buddhism, Jainism and Sikhism all originated in the Indian subcontinent.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tamil, Telugu, Kannada and Malayalam belong to which language family?",
+    "options": [
+      "Indo-Aryan",
+      "Dravidian",
+      "Tibeto-Burman",
+      "Austroasiatic"
+    ],
+    "correct_index": 1,
+    "solution": "These four major South Indian languages belong to the Dravidian family.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The phrase 'unity in diversity' is often used to describe India because:",
+    "options": [
+      "India has only one language and religion",
+      "Despite great diversity of language, religion and culture, there is an underlying sense of oneness",
+      "India has no cultural differences",
+      "Diversity exists only in food"
+    ],
+    "correct_index": 1,
+    "solution": "'Unity in diversity' captures how India's many languages, religions, foods and customs coexist within a shared civilisational and national identity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Hindi, Bengali, Marathi and Gujarati belong to which language family?",
+    "options": [
+      "Dravidian",
+      "Indo-Aryan",
+      "Austroasiatic",
+      "Tibeto-Burman"
+    ],
+    "correct_index": 1,
+    "solution": "These North Indian languages belong to the Indo-Aryan branch of the Indo-European family.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Networks of pilgrimage sites (such as the char dham) across India historically contributed to:",
+    "options": [
+      "Regional isolation",
+      "A sense of cultural unity across the subcontinent",
+      "The decline of trade",
+      "The end of festivals"
+    ],
+    "correct_index": 1,
+    "solution": "Pilgrimage circuits linking sites across the country fostered movement, exchange and a shared cultural bond, reinforcing unity across regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Consider the following statements about India's diversity: 1. India has multiple language families. 2. Several major world religions were founded in India. Which is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_index": 2,
+    "solution": "Both are correct: India has several language families, and Hinduism, Buddhism, Jainism and Sikhism arose here.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The four major language families of India are Indo-Aryan, Dravidian, Austroasiatic and:",
+    "options": [
+      "Tibeto-Burman",
+      "Romance",
+      "Germanic",
+      "Slavic"
+    ],
+    "correct_index": 0,
+    "solution": "India's FOUR major LANGUAGE FAMILIES are INDO-ARYAN, DRAVIDIAN, AUSTROASIATIC (Munda), and TIBETO-BURMAN. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The largest language family in India by number of speakers is:",
+    "options": [
+      "Indo-Aryan",
+      "Dravidian",
+      "Austroasiatic",
+      "Tibeto-Burman"
+    ],
+    "correct_index": 0,
+    "solution": "The INDO-ARYAN family (including Hindi, Bengali, Marathi, Gujarati, etc.) has the LARGEST number of speakers in India. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept of 'many in the one' (unity in diversity) means that:",
+    "options": [
+      "India's many diverse elements are held together by an underlying unity",
+      "India has only one culture",
+      "India has no diversity",
+      "The diverse groups are completely separate"
+    ],
+    "correct_index": 0,
+    "solution": "'MANY in the ONE' (unity in diversity) means India's MANY DIVERSE elements — languages, religions, foods, festivals — are HELD TOGETHER by an UNDERLYING UNITY and shared civilisational identity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tradition of 'char dham' (four sacred abodes) reflects unity because it links pilgrimage sites in the:",
+    "options": [
+      "North, south, east and west of India",
+      "One city only",
+      "A foreign country",
+      "The ocean only"
+    ],
+    "correct_index": 0,
+    "solution": "The CHAR DHAM (four sacred abodes — traditionally Badrinath, Dwarka, Puri, and Rameswaram) links pilgrimage sites in the NORTH, WEST, EAST, and SOUTH of India, weaving the whole land into one sacred geography. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an example of India's culinary (food) diversity?",
+    "options": [
+      "Different regions have their own staple foods, spices and dishes",
+      "Everyone eats exactly the same food",
+      "There is only one dish in all of India",
+      "Food is not part of culture"
+    ],
+    "correct_index": 0,
+    "solution": "India's CULINARY DIVERSITY is seen in how DIFFERENT REGIONS have their own STAPLE FOODS (rice, wheat, millets), SPICES, and DISHES — yet share a love of flavour and hospitality. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Sanskrit and most North Indian languages belong to which larger family?",
+    "options": [
+      "Indo-European (Indo-Aryan branch)",
+      "Dravidian",
+      "Sino-Tibetan",
+      "Afro-Asiatic"
+    ],
+    "correct_index": 0,
+    "solution": "SANSKRIT and most NORTH INDIAN languages belong to the INDO-EUROPEAN family (the INDO-ARYAN branch). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Festivals in India show unity in diversity because:",
+    "options": [
+      "Many different festivals are celebrated across regions and communities, often sharing common themes",
+      "Only one festival exists",
+      "No festivals are celebrated",
+      "Festivals divide people permanently"
+    ],
+    "correct_index": 0,
+    "solution": "India's FESTIVALS show unity in diversity: MANY DIFFERENT festivals (Diwali, Eid, Christmas, Pongal, Bihu, etc.) are celebrated across REGIONS and COMMUNITIES, often SHARING COMMON THEMES like light, harvest, and renewal. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Constitution's recognition of many languages in the Eighth Schedule reflects India's:",
+    "options": [
+      "Respect for its linguistic diversity",
+      "Rejection of all languages",
+      "Use of only one language",
+      "Lack of any languages"
+    ],
+    "correct_index": 0,
+    "solution": "The EIGHTH SCHEDULE, which recognises 22 languages, reflects India's RESPECT for its LINGUISTIC DIVERSITY and the value it places on its many languages. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following religions did NOT originate in India?",
+    "options": [
+      "Islam",
+      "Hinduism",
+      "Buddhism",
+      "Sikhism"
+    ],
+    "correct_index": 0,
+    "solution": "ISLAM originated in Arabia, NOT in India (though it has a long history in India). Hinduism, Buddhism, Jainism, and Sikhism originated in the Indian subcontinent. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The diversity of India's dress and clothing across regions is influenced by:",
+    "options": [
+      "Climate, local materials, and cultural traditions",
+      "Only one factor everywhere",
+      "No factors at all",
+      "Foreign rule alone"
+    ],
+    "correct_index": 0,
+    "solution": "India's diversity of DRESS is influenced by CLIMATE (hot or cold regions), LOCAL MATERIALS (cotton, silk, wool), and CULTURAL TRADITIONS — giving rise to a wide variety of clothing styles. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The variety of India's dance and music forms (like Bharatanatyam, Kathak, Odissi) shows that:",
+    "options": [
+      "Each region has developed its own rich artistic traditions",
+      "There is only one dance in India",
+      "India has no art forms",
+      "Art is banned in India"
+    ],
+    "correct_index": 0,
+    "solution": "India's many CLASSICAL DANCE and music forms — BHARATANATYAM (Tamil Nadu), KATHAK (north), ODISSI (Odisha), and others — show that EACH REGION has developed its OWN RICH ARTISTIC TRADITIONS within a shared culture. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which factor has historically helped bind India's diverse regions into a shared civilisation?",
+    "options": [
+      "Trade routes, pilgrimages, shared texts, and cultural exchange",
+      "Complete isolation of regions",
+      "A single language imposed on all",
+      "The absence of any contact"
+    ],
+    "correct_index": 0,
+    "solution": "India's diverse regions have been bound together by TRADE ROUTES, PILGRIMAGES, SHARED TEXTS and epics, and continuous CULTURAL EXCHANGE — creating a shared civilisation despite diversity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The epics Ramayana and Mahabharata contribute to India's unity because they are:",
+    "options": [
+      "Known and retold across many regions and languages of India",
+      "Known in only one village",
+      "Written in a foreign language only",
+      "Unknown to Indians"
+    ],
+    "correct_index": 0,
+    "solution": "The RAMAYANA and MAHABHARATA contribute to unity because they are KNOWN and RETOLD across MANY REGIONS and LANGUAGES of India, in countless local versions — a shared cultural inheritance. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's geographical diversity includes:",
+    "options": [
+      "Mountains, plains, deserts, plateaus and coasts",
+      "Only deserts everywhere",
+      "Only mountains everywhere",
+      "A single flat plain only"
+    ],
+    "correct_index": 0,
+    "solution": "India's GEOGRAPHICAL DIVERSITY includes the HIMALAYAN MOUNTAINS, fertile PLAINS, the Thar DESERT, the Deccan PLATEAU, and long COASTS — a wide range of landscapes. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The idea of unity in diversity teaches Indians to:",
+    "options": [
+      "Respect differences while valuing what unites them",
+      "Reject all who are different",
+      "Ignore India's culture",
+      "Believe there is no diversity"
+    ],
+    "correct_index": 0,
+    "solution": "The idea of UNITY in DIVERSITY teaches Indians to RESPECT DIFFERENCES (of language, religion, food, custom) while VALUING what UNITES them as one people and nation. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs a language with its correct family?",
+    "options": [
+      "Tamil → Dravidian; Hindi → Indo-Aryan",
+      "Tamil → Indo-Aryan; Hindi → Dravidian",
+      "Both belong to Tibeto-Burman",
+      "Both belong to Austroasiatic"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairing is TAMIL → DRAVIDIAN and HINDI → INDO-ARYAN. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Munda and Santhali languages belong to which family?",
+    "options": [
+      "Austroasiatic",
+      "Indo-Aryan",
+      "Dravidian",
+      "Tibeto-Burman"
+    ],
+    "correct_index": 0,
+    "solution": "MUNDA and SANTHALI languages belong to the AUSTROASIATIC family, spoken by several tribal communities of central and eastern India. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Languages of the north-eastern hills, such as many spoken in the region, often belong to which family?",
+    "options": [
+      "Tibeto-Burman",
+      "Dravidian",
+      "Indo-Aryan",
+      "Romance"
+    ],
+    "correct_index": 0,
+    "solution": "Many languages of the NORTH-EASTERN HILLS belong to the TIBETO-BURMAN family — part of India's rich linguistic diversity. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sikhism, one of the religions that originated in India, was founded by:",
+    "options": [
+      "Guru Nanak",
+      "Gautama Buddha",
+      "Mahavira",
+      "Adi Shankara"
+    ],
+    "correct_index": 0,
+    "solution": "SIKHISM was founded by GURU NANAK, the first of the ten Sikh Gurus. It originated in the Punjab region of India. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best shows India's religious diversity?",
+    "options": [
+      "People of many faiths — Hindu, Muslim, Christian, Sikh, Buddhist, Jain and others — live across India",
+      "Everyone follows one religion",
+      "No religion exists in India",
+      "Only foreigners have religion"
+    ],
+    "correct_index": 0,
+    "solution": "India's RELIGIOUS DIVERSITY is shown by the fact that people of MANY FAITHS — HINDU, MUSLIM, CHRISTIAN, SIKH, BUDDHIST, JAIN, and others — live together across the country. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Handicrafts and textiles of India (like Banarasi silk, Kanjeevaram sarees, Pashmina) reflect:",
+    "options": [
+      "The distinct skills and traditions of different regions",
+      "A single uniform craft",
+      "No craft traditions",
+      "Only imported goods"
+    ],
+    "correct_index": 0,
+    "solution": "India's HANDICRAFTS and TEXTILES — BANARASI silk (UP), KANJEEVARAM sarees (Tamil Nadu), PASHMINA (Kashmir) — reflect the DISTINCT SKILLS and TRADITIONS of DIFFERENT REGIONS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): India is described as 'unity in diversity'. Reason (R): India has great diversity of language, religion and culture, yet a shared civilisational bond. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — India is described as 'unity in diversity'. R is TRUE and correctly EXPLAINS A: India has GREAT DIVERSITY of language, religion, and culture, yet a SHARED CIVILISATIONAL BOND holds it together — which is precisely what the phrase means. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The national festivals like Independence Day and Republic Day promote unity by:",
+    "options": [
+      "Being celebrated together by all Indians regardless of region or religion",
+      "Dividing communities",
+      "Being celebrated by only one group",
+      "Not being celebrated at all"
+    ],
+    "correct_index": 0,
+    "solution": "NATIONAL FESTIVALS like INDEPENDENCE DAY and REPUBLIC DAY promote unity by being CELEBRATED TOGETHER by ALL INDIANS, regardless of region or religion, strengthening a shared national identity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The exchange of foods, words, music and customs between India's communities over centuries has led to:",
+    "options": [
+      "A rich, blended culture where traditions influence one another",
+      "Complete separation of all groups",
+      "The loss of all culture",
+      "A single unchanging tradition"
+    ],
+    "correct_index": 0,
+    "solution": "Centuries of EXCHANGE of foods, words, music, and customs among India's communities has led to a RICH, BLENDED culture where TRADITIONS INFLUENCE ONE ANOTHER — a hallmark of India's unity in diversity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly lists religions that originated in India?",
+    "options": [
+      "Hinduism, Buddhism, Jainism, Sikhism",
+      "Islam, Christianity, Judaism, Zoroastrianism",
+      "Shinto, Taoism, Confucianism, Islam",
+      "Christianity, Islam, Buddhism, Judaism"
+    ],
+    "correct_index": 0,
+    "solution": "The religions that ORIGINATED in India are HINDUISM, BUDDHISM, JAINISM, and SIKHISM. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The diversity of India is best regarded as:",
+    "options": [
+      "A source of strength and richness",
+      "A weakness to be removed",
+      "Something to be ashamed of",
+      "Unimportant"
+    ],
+    "correct_index": 0,
+    "solution": "India's DIVERSITY is best regarded as a SOURCE of STRENGTH and RICHNESS — its variety of languages, faiths, arts, and customs makes its culture vibrant and its society resilient. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "How many major biogeographic/geographical zones make India's natural diversity so great?",
+    "options": [
+      "Several — from the Himalayas and deserts to plains, plateaus, coasts and islands",
+      "Only one zone",
+      "None",
+      "Two identical zones"
+    ],
+    "correct_index": 0,
+    "solution": "India's natural diversity is great because it has SEVERAL geographical zones — the HIMALAYAS, the THAR DESERT, the fertile PLAINS, the DECCAN PLATEAU, long COASTS, and ISLANDS — supporting varied life and cultures. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The word that best captures India holding together its many peoples and traditions is:",
+    "options": [
+      "Integration (unity in diversity)",
+      "Division",
+      "Isolation",
+      "Uniformity"
+    ],
+    "correct_index": 0,
+    "solution": "The word that best captures India holding together its many peoples and traditions is INTEGRATION — the 'UNITY in DIVERSITY' by which diverse elements come together as one. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is it valuable for students to learn about India's diversity?",
+    "options": [
+      "It builds respect, harmony and a sense of shared belonging among all communities",
+      "It creates division",
+      "It has no value",
+      "It should be forgotten"
+    ],
+    "correct_index": 0,
+    "solution": "Learning about India's DIVERSITY is valuable because it builds RESPECT, HARMONY, and a sense of SHARED BELONGING among all communities — helping citizens appreciate and celebrate their common heritage. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept of 'Vasudhaiva Kutumbakam', reflecting an Indian ideal, means:",
+    "options": [
+      "The world is one family",
+      "The world is divided",
+      "Only my family matters",
+      "Trade is everything"
+    ],
+    "correct_index": 0,
+    "solution": "VASUDHAIVA KUTUMBAKAM means 'the WORLD is ONE FAMILY' — an ancient Indian ideal of universal kinship and harmony, reflecting the spirit of inclusiveness. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The wide variety of Indian festivals like Diwali, Eid, Christmas, Pongal and Baisakhi shows that Indians:",
+    "options": [
+      "Share in and often celebrate one another's festivals",
+      "Celebrate nothing",
+      "Have only one festival",
+      "Reject all festivals"
+    ],
+    "correct_index": 0,
+    "solution": "The variety of festivals — DIWALI, EID, CHRISTMAS, PONGAL, BAISAKHI — shows that Indians SHARE in and often CELEBRATE one another's festivals, reflecting harmony and mutual respect. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is an example of India's architectural diversity?",
+    "options": [
+      "Temples, mosques, churches, gurudwaras, stupas and forts of many styles",
+      "Only one type of building",
+      "No buildings at all",
+      "Only modern glass towers"
+    ],
+    "correct_index": 0,
+    "solution": "India's ARCHITECTURAL DIVERSITY is seen in its TEMPLES, MOSQUES, CHURCHES, GURUDWARAS, STUPAS, and FORTS of many styles across different regions and periods. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main staple food differs across India, being mainly rice in the east and south and mainly ______ in the north-west.",
+    "options": [
+      "Wheat",
+      "Rubber",
+      "Tea",
+      "Cotton"
+    ],
+    "correct_index": 0,
+    "solution": "STAPLE FOODS differ regionally: RICE dominates in the east and south (higher rainfall), while WHEAT is the main staple in the north-west — reflecting climate and agriculture. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The many scripts used to write Indian languages (Devanagari, Tamil, Bengali, etc.) show diversity in:",
+    "options": [
+      "Writing systems",
+      "Food",
+      "Climate",
+      "Coins"
+    ],
+    "correct_index": 0,
+    "solution": "The many SCRIPTS — DEVANAGARI, TAMIL, BENGALI, Telugu, Gurmukhi, and others — show India's diversity in WRITING SYSTEMS, each suited to its language. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "How does trade contribute to unity in a diverse country like India?",
+    "options": [
+      "It links distant regions through the exchange of goods and ideas",
+      "It separates regions",
+      "It stops all contact",
+      "It has no cultural effect"
+    ],
+    "correct_index": 0,
+    "solution": "TRADE contributes to unity by LINKING DISTANT REGIONS through the EXCHANGE of GOODS and IDEAS — connecting producers and markets across the subcontinent and spreading culture along trade routes. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Classical Indian music has two main systems: Hindustani (north) and:",
+    "options": [
+      "Carnatic (south)",
+      "Western",
+      "Persian only",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Indian CLASSICAL MUSIC has two main systems: HINDUSTANI (of the NORTH) and CARNATIC (of the SOUTH) — related yet distinct traditions, another example of unity in diversity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The presence of many communities living together in India for centuries has created a tradition of:",
+    "options": [
+      "Tolerance and coexistence",
+      "Constant separation",
+      "One culture only",
+      "No interaction"
+    ],
+    "correct_index": 0,
+    "solution": "The long coexistence of MANY COMMUNITIES has created a tradition of TOLERANCE and COEXISTENCE, where different groups live together, exchange ideas, and enrich one another. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is the best example of a shared cultural symbol across India?",
+    "options": [
+      "Widely known epics, yoga, and festivals of light and harvest",
+      "A single regional dish only",
+      "One local language only",
+      "A single village fair"
+    ],
+    "correct_index": 0,
+    "solution": "SHARED CULTURAL SYMBOLS across India include widely known EPICS (Ramayana, Mahabharata), YOGA, and FESTIVALS of LIGHT and HARVEST — recognised and valued across regions. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that India is 'many in the one' is important because it teaches respect for:",
+    "options": [
+      "Both differences and the deeper unity that binds people together",
+      "Only similarities",
+      "Only differences with no unity",
+      "Neither"
+    ],
+    "correct_index": 0,
+    "solution": "'MANY in the ONE' teaches respect for BOTH DIFFERENCES (celebrating variety) AND the DEEPER UNITY that binds people together as one nation and civilisation. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about India's diversity is correct?",
+    "options": [
+      "It spans language, religion, food, dress, art, festivals and geography",
+      "It is limited to food only",
+      "It does not exist",
+      "It applies only to one state"
+    ],
+    "correct_index": 0,
+    "solution": "India's DIVERSITY spans LANGUAGE, RELIGION, FOOD, DRESS, ART, FESTIVALS, and GEOGRAPHY — a diversity found across the whole country, not just one aspect or one state. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The best way for citizens to strengthen India's unity in diversity is to:",
+    "options": [
+      "Respect all communities and celebrate the shared heritage",
+      "Look down on other communities",
+      "Ignore India's culture",
+      "Promote division"
+    ],
+    "correct_index": 0,
+    "solution": "The best way to STRENGTHEN unity in diversity is for citizens to RESPECT ALL COMMUNITIES and CELEBRATE the SHARED HERITAGE, treating diversity as a source of pride and strength. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Unity in Diversity, or Many in the One' is that:",
+    "options": [
+      "India is uniform with no differences",
+      "India is marked by immense DIVERSITY — of GEOGRAPHY (mountains, plains, deserts, plateaus, coasts), LANGUAGES (four families: Indo-Aryan, Dravidian, Austroasiatic, Tibeto-Burman, with 22 recognised in the Eighth Schedule), RELIGIONS (Hinduism, Buddhism, Jainism and Sikhism originated here, alongside Islam, Christianity and others), FOODS, DRESS, FESTIVALS and ARTS — yet all of this is held together by an underlying UNITY: shared epics and texts, pilgrimage networks (like the char dham), trade and cultural exchange, and a common civilisational and national bond, so that India is truly 'many in the one'",
+      "India has only one language and religion",
+      "Diversity is a weakness"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that India is marked by IMMENSE DIVERSITY — of GEOGRAPHY (mountains, plains, deserts, plateaus, coasts, islands), of LANGUAGES (FOUR major families — INDO-ARYAN, DRAVIDIAN, AUSTROASIATIC, and TIBETO-BURMAN — with 22 languages recognised in the EIGHTH SCHEDULE), of RELIGIONS (HINDUISM, BUDDHISM, JAINISM, and SIKHISM originated here, alongside Islam, Christianity, and others), and of FOODS, DRESS, FESTIVALS, and ARTS. Yet all of this is HELD TOGETHER by an UNDERLYING UNITY: shared EPICS and TEXTS (Ramayana, Mahabharata), PILGRIMAGE networks (like the CHAR DHAM), TRADE and CULTURAL EXCHANGE, and a common civilisational and national bond. Thus India is truly 'MANY in the ONE' — its diversity a source of strength. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's 'unity in diversity' refers to the fact that India has:",
+    "options": [
+      "Only one culture",
+      "Great diversity of languages, religions and cultures bound by underlying unity",
+      "No diversity",
+      "No unity"
+    ],
+    "correct_index": 1,
+    "solution": "'Unity in diversity' captures how India, despite immense diversity of languages, religions, customs and regions, is bound together by shared history, culture and values.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Eighth Schedule of the Indian Constitution recognises how many languages (as of recent counts)?",
+    "options": [
+      "12",
+      "22",
+      "30",
+      "50"
+    ],
+    "correct_index": 1,
+    "solution": "The Eighth Schedule of the Constitution currently recognises 22 languages, reflecting India's vast linguistic diversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's diversity in religion includes Hinduism, Islam, Christianity, Sikhism, Buddhism and:",
+    "options": [
+      "Jainism",
+      "Only one religion",
+      "No religion",
+      "Foreign religions only"
+    ],
+    "correct_index": 0,
+    "solution": "India is home to many religions — Hinduism, Islam, Christianity, Sikhism, Buddhism, Jainism, Zoroastrianism and others — coexisting within one nation.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The idea that different communities live together and respect one another's ways of life is called:",
+    "options": [
+      "Isolation",
+      "Pluralism / tolerance",
+      "Uniformity",
+      "Conflict"
+    ],
+    "correct_index": 1,
+    "solution": "Pluralism and tolerance — respecting and accommodating diverse communities, faiths and cultures — are core to India's ethos of unity in diversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The composite culture arising from the mingling of Hindu and Muslim traditions in India is often called:",
+    "options": [
+      "Ganga-Jamuni tehzeeb",
+      "Isolation",
+      "Uniform culture",
+      "Foreign culture"
+    ],
+    "correct_index": 0,
+    "solution": "'Ganga-Jamuni tehzeeb' refers to the syncretic composite culture — in language, music, food, dress and festivals — born of the mingling of Hindu and Muslim traditions in India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which factor has historically contributed to India's unity despite diversity?",
+    "options": [
+      "Complete isolation of regions",
+      "Shared cultural traditions, pilgrimage sites, epics and trade linking regions",
+      "Only military force",
+      "Only one language"
+    ],
+    "correct_index": 1,
+    "solution": "Shared cultural traditions, pan-Indian pilgrimage networks, the epics (Ramayana, Mahabharata), festivals and trade routes have long linked India's diverse regions into a cultural whole.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The diversity of Indian food, clothing and festivals across regions reflects:",
+    "options": [
+      "Cultural poverty",
+      "The rich variety of India's regional cultures and geography",
+      "Foreign rule",
+      "Uniformity"
+    ],
+    "correct_index": 1,
+    "solution": "India's varied cuisines, attire and festivals across regions reflect the richness of its regional cultures, shaped by geography, history and local traditions.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Constitution promotes unity in diversity by guaranteeing:",
+    "options": [
+      "Only one religion",
+      "Fundamental Rights including freedom of religion and cultural/educational rights for all",
+      "No rights",
+      "Uniform culture"
+    ],
+    "correct_index": 1,
+    "solution": "The Constitution safeguards unity in diversity through Fundamental Rights — including the freedom of religion (Articles 25–28) and cultural and educational rights of minorities (Articles 29–30).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Secularism' contributes to India's unity by ensuring the State:",
+    "options": [
+      "Favours one religion",
+      "Treats all religions equally and has no official religion",
+      "Bans religion",
+      "Rules by priests"
+    ],
+    "correct_index": 1,
+    "solution": "Indian secularism, by treating all religions equally and having no state religion, helps diverse religious communities coexist, reinforcing national unity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's languages belong to major families such as Indo-Aryan and:",
+    "options": [
+      "Dravidian",
+      "Only English",
+      "Only Sanskrit",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "India's languages belong mainly to the Indo-Aryan (north) and Dravidian (south) families, along with Austroasiatic and Tibeto-Burman families in some regions — reflecting deep linguistic diversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The classical languages of India recognised by the government include Sanskrit, Tamil, Telugu, Kannada, Malayalam, Odia and:",
+    "options": [
+      "Only English",
+      "Others such as Prakrit, Pali, Assamese, Bengali, Marathi (recently added)",
+      "No others",
+      "Foreign languages"
+    ],
+    "correct_index": 1,
+    "solution": "India has designated several classical languages — Tamil, Sanskrit, Telugu, Kannada, Malayalam, Odia, and recently Marathi, Pali, Prakrit, Assamese and Bengali — recognising their antiquity and heritage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Festivals like Diwali, Eid, Christmas and Baisakhi being celebrated across India reflect:",
+    "options": [
+      "Conflict",
+      "Shared joy and mutual participation across communities",
+      "Isolation",
+      "Uniformity of religion"
+    ],
+    "correct_index": 1,
+    "solution": "The widespread celebration and mutual sharing of festivals across communities exemplifies India's spirit of harmony and unity amid religious and cultural diversity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The geographical diversity of India (mountains, plains, deserts, coasts) has led to:",
+    "options": [
+      "Cultural uniformity",
+      "Diverse ways of life, foods and traditions adapted to local environments",
+      "No culture",
+      "Isolation from the world"
+    ],
+    "correct_index": 1,
+    "solution": "India's varied geography has shaped diverse regional ways of life — in agriculture, cuisine, dress and customs — adapted to different environments, contributing to its cultural richness.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The saints of the Bhakti and Sufi movements contributed to unity by:",
+    "options": [
+      "Spreading conflict",
+      "Preaching love, devotion, equality and harmony across communities",
+      "Encouraging division",
+      "Banning worship"
+    ],
+    "correct_index": 1,
+    "solution": "Bhakti and Sufi saints preached universal love, devotion and human equality, bridging communities and fostering a shared spiritual and cultural heritage.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "India's national symbols (flag, emblem, anthem) serve to:",
+    "options": [
+      "Divide people",
+      "Foster a sense of shared national identity and unity",
+      "Favour one region",
+      "Promote isolation"
+    ],
+    "correct_index": 1,
+    "solution": "National symbols like the flag, the State Emblem, the national anthem and song foster a shared identity and unity among India's diverse peoples.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The concept 'Vasudhaiva Kutumbakam' reflects India's outlook that:",
+    "options": [
+      "Only my community matters",
+      "The whole world is one family",
+      "War is good",
+      "Isolation is best"
+    ],
+    "correct_index": 1,
+    "solution": "'Vasudhaiva Kutumbakam' ('the world is one family') expresses India's inclusive worldview, underlying its embrace of diversity and harmony.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following threatens unity in diversity and must be guarded against?",
+    "options": [
+      "Tolerance",
+      "Communalism, casteism and regionalism (divisive forces)",
+      "Harmony",
+      "Respect for others"
+    ],
+    "correct_index": 1,
+    "solution": "Divisive forces like communalism, casteism, regionalism and linguistic chauvinism threaten India's unity in diversity and must be countered by tolerance and national integration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'National integration' means:",
+    "options": [
+      "Making everyone identical",
+      "A feeling of oneness and unity among people despite their diversity",
+      "Dividing the nation",
+      "Isolating communities"
+    ],
+    "correct_index": 1,
+    "solution": "National integration is the sense of unity, common identity and togetherness among people of diverse backgrounds, essential for a strong and harmonious nation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Trade and cultural exchange within India historically helped unity by:",
+    "options": [
+      "Isolating regions",
+      "Connecting different regions and spreading ideas, goods and traditions",
+      "Ending culture",
+      "Causing only conflict"
+    ],
+    "correct_index": 1,
+    "solution": "Internal trade routes and pilgrimage networks connected India's regions, spreading goods, ideas, art and traditions, and weaving diverse areas into a shared cultural fabric.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which value is essential for sustaining unity in diversity in India?",
+    "options": [
+      "Intolerance",
+      "Mutual respect, tolerance and acceptance of differences",
+      "Hatred",
+      "Uniformity"
+    ],
+    "correct_index": 1,
+    "solution": "Mutual respect, tolerance and the acceptance of differences are essential values for sustaining India's unity in diversity and peaceful coexistence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The phrase describing India as home to many faiths, languages and cultures living together is:",
+    "options": [
+      "Divide and rule",
+      "Unity in diversity",
+      "Isolation and conflict",
+      "Uniform nation"
+    ],
+    "correct_index": 1,
+    "solution": "'Unity in diversity' is the phrase that captures India's character as a nation where many faiths, languages, cuisines and cultures coexist within a shared national identity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "India's approach to its many identities is one of:",
+    "options": [
+      "Suppressing all differences",
+      "Accommodating and celebrating multiple identities within one nation",
+      "Recognising only one identity",
+      "Rejecting diversity"
+    ],
+    "correct_index": 1,
+    "solution": "India accommodates and celebrates multiple identities — linguistic, religious, regional — within a single nation, an inclusive approach central to its unity in diversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about India's diversity is correct? (i) It has many languages (ii) It has many religions (iii) These coexist within one nation",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: India has many languages and many religions, and these coexist within one nation — the essence of unity in diversity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall message of 'unity in diversity' is that India's differences:",
+    "options": [
+      "Must divide it",
+      "Can coexist and together enrich and strengthen the nation",
+      "Are worthless",
+      "Should be erased"
+    ],
+    "correct_index": 1,
+    "solution": "The message of unity in diversity is that India's many differences need not divide it — instead they coexist and together enrich and strengthen the nation.",
+    "difficulty": "medium"
+  }
 ]

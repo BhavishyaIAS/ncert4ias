@@ -1,52 +1,902 @@
 [
-  { "stem": "The influential division of Indian history into 'Hindu', 'Muslim' and 'British' periods was proposed by:", "options": ["James Mill", "Al-Biruni", "Abul Fazl", "Ziauddin Barani"], "correct_index": 0, "solution": "In his 1817 work 'A History of British India', James Mill divided Indian history into Hindu, Muslim and British periods — a periodisation now criticised as misleading.", "difficulty": "medium" },
-  { "stem": "The Arab geographer who prepared a famous world map (including the Indian subcontinent) around 1154 CE was:", "options": ["Ibn Battuta", "Al-Idrisi", "Al-Biruni", "Marco Polo"], "correct_index": 1, "solution": "Al-Idrisi, an Arab cartographer, made a map of the subcontinent around 1154 CE, shown in the chapter.", "difficulty": "hard" },
-  { "stem": "In the medieval period, the term 'Hindustan' was used by chroniclers like Minhaj-i-Siraj to mean:", "options": ["Only the southern peninsula", "The areas of Punjab, Haryana and the lands between the Ganga and Yamuna", "The whole of modern India as a nation-state", "Only the Deccan"], "correct_index": 1, "solution": "In the 13th century, Minhaj-i-Siraj used 'Hindustan' in a political sense for areas of Punjab, Haryana and the Ganga–Yamuna doab under the Delhi Sultans — not the modern national meaning.", "difficulty": "hard" },
-  { "stem": "Which of the following technologies became more common in the subcontinent during 700–1750?", "options": ["The Persian wheel, the spinning wheel and firearms", "The steam engine and railways", "The printing press and telegraph", "Electric power and the aeroplane"], "correct_index": 0, "solution": "New technologies of this era included the Persian wheel (irrigation), the spinning wheel (charkha) and firearms in warfare.", "difficulty": "medium" },
-  { "stem": "Before the age of print, manuscripts were copied by hand by scribes. A consequence of this was that:", "options": ["All copies were identical", "Small errors and changes crept in, so copies of the same text differed", "Books were mass-produced cheaply", "Texts never survived"], "correct_index": 1, "solution": "Hand-copying by scribes introduced variations and errors, so different manuscript copies of the same work often differed, complicating the historian's task.", "difficulty": "medium" },
-  { "stem": "A 'cartographer' is a person who:", "options": ["Copies manuscripts", "Makes maps", "Collects taxes", "Builds temples"], "correct_index": 1, "solution": "A cartographer is a map-maker; cartography is the science of map-making.", "difficulty": "easy" },
-  { "stem": "During this period, the term 'foreigner' (pardesi/ajnabi) generally meant:", "options": ["A person from another country", "Any stranger who was not part of a particular village or society", "A tax collector", "A soldier"], "correct_index": 1, "solution": "In the medieval sense, a 'foreigner' meant any outsider or stranger to a village/society — not specifically a person of another nationality.", "difficulty": "medium" },
-  { "stem": "Documents and records preserved by governments and institutions for reference are kept in:", "options": ["Mints", "Archives", "Sarais", "Bazaars"], "correct_index": 1, "solution": "Archives are places where historical documents and official records are stored and preserved.", "difficulty": "easy" },
-  { "stem": "The period roughly between 700 and 1750 CE is often studied as India's:", "options": ["Ancient period", "Medieval period", "Modern period", "Prehistoric period"], "correct_index": 1, "solution": "The thousand years from about 700 to 1750 CE is broadly treated as the medieval period of Indian history.", "difficulty": "easy" },
-  { "stem": "James Mill's threefold division of Indian history is criticised mainly because it:", "options": ["Wrongly labels whole periods by the religion of the rulers and portrays the earlier ages as backward", "Was too favourable to Indians", "Ignored the British period", "Praised all Indian rulers"], "correct_index": 0, "solution": "James Mill's 'Hindu–Muslim–British' scheme is criticised because it WRONGLY LABELS whole periods by the RELIGION of the RULERS and portrays pre-British India as BACKWARD and in need of British 'civilisation' — a misleading and biased view. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Historians divide the past into periods to:", "options": ["Capture the main features of a time and make the past easier to study", "Hide information", "Confuse students", "Avoid using sources"], "correct_index": 0, "solution": "Historians divide the past into PERIODS to CAPTURE the MAIN FEATURES of a time (economic, social, political) and to make the vast past EASIER to STUDY and understand. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The word 'Hindustan' in the time of Babur was used to mean:", "options": ["The geography, culture and fauna of the subcontinent's inhabitants", "Only Central Asia", "Only Europe", "A single village"], "correct_index": 0, "solution": "In the sixteenth century, BABUR used 'HINDUSTAN' to describe the GEOGRAPHY, CULTURE, and FAUNA (wildlife) of the INHABITANTS of the subcontinent — a broad descriptive sense, close to but not identical with the modern national meaning. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "During 700–1750, major changes took place in which areas of life?", "options": ["Technology, food, economy, society, religion and politics", "Only in clothing", "Only in warfare", "Nothing changed"], "correct_index": 0, "solution": "During 700–1750, major CHANGES took place across many areas — TECHNOLOGY, FOOD (new crops and dishes), the ECONOMY, SOCIETY, RELIGION, and POLITICS — making it a period of great transformation. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "New foods and beverages that came to the subcontinent during this period included:", "options": ["Potatoes, chillies, tea and coffee", "Only wheat", "Only rice", "Nothing new"], "correct_index": 0, "solution": "During this period, NEW FOODS and BEVERAGES entered the subcontinent — POTATOES, CHILLIES, tomatoes, and later TEA and COFFEE — enriching Indian cuisine. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The spinning wheel (charkha) that spread in this period was used for:", "options": ["Spinning thread from cotton", "Grinding grain", "Lifting water", "Making pottery"], "correct_index": 0, "solution": "The SPINNING WHEEL (CHARKHA) was used for SPINNING THREAD from COTTON — an important technology that boosted the textile industry. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Persian wheel that became common in this period was used for:", "options": ["Lifting water for irrigation", "Spinning cotton", "Making coins", "Weaving cloth"], "correct_index": 0, "solution": "The PERSIAN WHEEL was a device for LIFTING WATER for IRRIGATION, helping farmers water their fields more effectively. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is a source used by historians to study this period?", "options": ["Coins, inscriptions, architecture, and texts/chronicles", "Only modern novels", "Only photographs", "Only films"], "correct_index": 0, "solution": "Historians study this period using SOURCES like COINS, INSCRIPTIONS, ARCHITECTURE (buildings and monuments), and TEXTS/CHRONICLES written at the time. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Because paper became more easily available during this period, there was an increase in:", "options": ["The writing and copying of manuscripts and records", "The number of coins only", "The height of buildings only", "The number of rivers"], "correct_index": 0, "solution": "As PAPER became more easily available and cheaper, there was an INCREASE in the WRITING and COPYING of MANUSCRIPTS, chronicles, letters, and official RECORDS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Ziauddin Barani, cited in the chapter, was a:", "options": ["Chronicler (historian) of the Delhi Sultanate period", "Map-maker", "Mughal emperor", "European traveller"], "correct_index": 0, "solution": "ZIAUDDIN BARANI was a CHRONICLER (historian) of the DELHI SULTANATE period, whose writings are an important source for the era. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A major social development of this period was:", "options": ["The growth of new communities, the jati (sub-caste) system, and the spread of regional cultures and languages", "The disappearance of all society", "No change in society", "The end of all languages"], "correct_index": 0, "solution": "A major SOCIAL development of this period was the GROWTH of NEW COMMUNITIES, the elaboration of the JATI (sub-caste) system, and the SPREAD of REGIONAL CULTURES and LANGUAGES. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The rise of regional languages and literatures during this period shows that:", "options": ["Distinct regional cultures were developing across the subcontinent", "Only Sanskrit was used", "No literature existed", "All regions became identical"], "correct_index": 0, "solution": "The RISE of REGIONAL LANGUAGES and LITERATURES (like Bengali, Marathi, Tamil, and others) shows that DISTINCT REGIONAL CULTURES were DEVELOPING across the subcontinent. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The term used for a religious tradition or belief system that spread and evolved in this period includes movements like:", "options": ["The Bhakti and Sufi movements", "The Industrial Revolution", "The French Revolution", "Modern nationalism"], "correct_index": 0, "solution": "This period saw the growth of the BHAKTI (devotional Hindu) and SUFI (mystical Islamic) MOVEMENTS, which stressed devotion, love, and equality before God. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is it a challenge for historians to use manuscripts from this period?", "options": ["Because hand-copying introduced variations, and originals are often lost, so scholars must compare copies", "Because manuscripts never existed", "Because all copies are identical", "Because they are all printed"], "correct_index": 0, "solution": "It is a CHALLENGE because HAND-COPYING introduced VARIATIONS and errors, and the ORIGINAL manuscripts are often LOST, so scholars must COMPARE different COPIES to reconstruct the likely original text. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following correctly describes 'archives'?", "options": ["Places where historical documents and official records are stored and preserved", "Places for making coins", "Rest houses for travellers", "Markets for goods"], "correct_index": 0, "solution": "ARCHIVES are PLACES where HISTORICAL DOCUMENTS and official RECORDS are STORED and PRESERVED, allowing historians to study the past. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The meaning of terms like 'Hindustan' and 'foreigner' in the past reminds us that:", "options": ["The meanings of words can change over time and differ from modern usage", "Words never change meaning", "The past used only modern words", "Words have no history"], "correct_index": 0, "solution": "The changing meanings of terms like 'HINDUSTAN' and 'FOREIGNER' remind us that the MEANINGS of WORDS can CHANGE over TIME and DIFFER from modern usage — so historians must interpret them carefully in context. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "During this period, many new dynasties and kingdoms rose in different regions. This shows that:", "options": ["Political power was often divided among many regional rulers", "There was always one single empire", "No kingdoms existed", "Politics never changed"], "correct_index": 0, "solution": "The rise of MANY NEW DYNASTIES and KINGDOMS in different regions shows that POLITICAL POWER was OFTEN DIVIDED among MANY REGIONAL RULERS, rather than being held by a single empire throughout. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Firearms and gunpowder, which spread during this period, changed:", "options": ["The methods of warfare", "Only farming", "Only cooking", "Nothing"], "correct_index": 0, "solution": "FIREARMS and GUNPOWDER, which spread during this period, CHANGED the METHODS of WARFARE — cannons and guns transformed how battles and sieges were fought. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): James Mill's periodisation of Indian history is problematic. Reason (R): It labels long periods by the religion of rulers and treats pre-British India as backward. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — Mill's periodisation is problematic. R is TRUE and correctly EXPLAINS A: it LABELS long periods by the RELIGION of RULERS and treats pre-British India as BACKWARD, which is precisely why it is criticised. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The study of a 'thousand years' of history shows students that change in the past was:", "options": ["Gradual, complex and varied across regions", "Sudden and identical everywhere", "Non-existent", "Only political"], "correct_index": 0, "solution": "Studying a THOUSAND YEARS of history shows that CHANGE in the past was GRADUAL, COMPLEX, and VARIED across REGIONS — not sudden or uniform. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following pairs is correctly matched?", "options": ["Al-Idrisi → map-maker (cartographer); Minhaj-i-Siraj → chronicler", "Al-Idrisi → chronicler; Minhaj-i-Siraj → map-maker", "Both were Mughal emperors", "Both were European traders"], "correct_index": 0, "solution": "The correct match is AL-IDRISI → MAP-MAKER (cartographer, who made a famous world map c.1154) and MINHAJ-I-SIRAJ → CHRONICLER (historian) of the Sultanate period. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Economic changes in this period included the growth of:", "options": ["Trade, towns, markets and new crafts", "Only farming with no trade", "The disappearance of towns", "No economic activity"], "correct_index": 0, "solution": "ECONOMIC changes in this period included the GROWTH of TRADE, TOWNS, MARKETS, and new CRAFTS — reflecting a lively and expanding economy. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following best explains why the same period can be viewed differently by different historians?", "options": ["They may use different sources, ask different questions, and interpret evidence differently", "History has only one fixed version", "Historians never disagree", "The past cannot be studied"], "correct_index": 0, "solution": "The same period can be viewed DIFFERENTLY because historians may use DIFFERENT SOURCES, ask DIFFERENT QUESTIONS, and INTERPRET the same EVIDENCE DIFFERENTLY — so history is a subject of ongoing debate and revision. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The colours and details on Al-Idrisi's map differ from a modern map because:", "options": ["Knowledge, techniques and viewpoints of map-making were different in the past", "He had modern satellites", "Maps never change", "It was a photograph"], "correct_index": 0, "solution": "AL-IDRISI's MAP differs from a modern map because the KNOWLEDGE, TECHNIQUES, and VIEWPOINTS of map-making were DIFFERENT in the PAST — for example, south was often placed at the top. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is an example of a change in this period that affected ordinary people's daily lives?", "options": ["New crops, foods, tools like the spinning wheel, and beverages such as tea", "Only palace politics", "Only royal marriages", "Nothing affecting daily life"], "correct_index": 0, "solution": "Changes affecting ordinary people's DAILY LIVES included NEW CROPS and FOODS, new TOOLS like the SPINNING WHEEL and Persian wheel, and new BEVERAGES like TEA — touching what people ate, wore, and how they worked. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The growth of the jati (sub-caste) system in this period meant that:", "options": ["Society became more divided into many occupational and social groups", "Caste disappeared", "Everyone became equal", "There were no social groups"], "correct_index": 0, "solution": "The growth of the JATI (sub-caste) system meant SOCIETY became more DIVIDED into MANY OCCUPATIONAL and SOCIAL GROUPS, each with its own rules and status. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why did historians of the medieval period, like Barani, write their chronicles?", "options": ["To record events, glorify rulers, and advise on governance", "To draw maps", "To make coins", "To build temples"], "correct_index": 0, "solution": "Chroniclers like BARANI wrote to RECORD EVENTS, often to GLORIFY the RULERS who patronised them, and to ADVISE on GOVERNANCE and morality — so historians must read them critically. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The reliability of a historical source is judged by:", "options": ["Who wrote it, why, when, and comparing it with other evidence", "Its colour only", "Its length only", "Nothing"], "correct_index": 0, "solution": "The RELIABILITY of a source is judged by WHO WROTE it, WHY, WHEN, and by COMPARING it with OTHER EVIDENCE — since every source has a point of view. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The spread of Islam and the interaction between different faiths in this period led to:", "options": ["New forms of art, architecture, language and shared culture", "The end of all culture", "Complete isolation", "No interaction"], "correct_index": 0, "solution": "The spread of Islam and the INTERACTION between different faiths led to NEW forms of ART, ARCHITECTURE (like Indo-Islamic buildings), LANGUAGE (like Urdu), and a SHARED, blended CULTURE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following statements about the medieval period (700–1750) is correct?", "options": ["It was a time of great change in politics, economy, society, religion and technology", "Nothing changed for a thousand years", "It had no rulers", "It is not studied by historians"], "correct_index": 0, "solution": "It is correct that the MEDIEVAL PERIOD (700–1750) was a time of GREAT CHANGE in POLITICS, ECONOMY, SOCIETY, RELIGION, and TECHNOLOGY — a dynamic and transformative age. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The habit of carefully reading sources 'against the grain' means that historians:", "options": ["Look for information the author did not intend to reveal, and question the author's bias", "Believe every word literally", "Ignore all sources", "Only read the title"], "correct_index": 0, "solution": "Reading sources 'AGAINST the GRAIN' means historians LOOK for INFORMATION the AUTHOR did NOT INTEND to reveal and QUESTION the author's BIAS — reading critically rather than accepting everything at face value. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is the correct chronological label for the years around 700–1750 CE in Indian history?", "options": ["The medieval (early and late medieval) period", "The Stone Age", "The modern period", "Prehistory"], "correct_index": 0, "solution": "The years around 700–1750 CE are labelled the MEDIEVAL PERIOD (often split into early and late medieval) of Indian history. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "Which of the following best captures why the study of this thousand years is important?", "options": ["It shaped the languages, cultures, religions and institutions of modern India", "It has no connection to today", "It should be forgotten", "It only concerns other countries"], "correct_index": 0, "solution": "The study of this thousand years is important because it SHAPED the LANGUAGES, CULTURES, RELIGIONS, and INSTITUTIONS of MODERN INDIA — the roots of much of present-day Indian life lie here. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The main groups of people whose histories are studied for this period include:", "options": ["Rulers, but also peasants, artisans, traders, women and various communities", "Only kings", "Only soldiers", "No one"], "correct_index": 0, "solution": "The histories studied for this period include not only RULERS but also PEASANTS, ARTISANS, TRADERS, WOMEN, and various COMMUNITIES — giving a fuller picture of society. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Historians reconstruct social and economic life partly from:", "options": ["Records of taxes, land grants, trade, and descriptions in texts", "Only palace gossip", "Only weather reports", "Nothing"], "correct_index": 0, "solution": "Historians reconstruct social and economic life from RECORDS of TAXES, LAND GRANTS, TRADE, and DESCRIPTIONS in TEXTS — evidence of how people lived and worked. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The idea that India's history should NOT be divided simply by the rulers' religion is important because:", "options": ["People of different faiths lived together and shared in the making of India's culture", "Religion is the only thing that matters", "Rulers had no religion", "History has no periods"], "correct_index": 0, "solution": "It is important because PEOPLE of DIFFERENT FAITHS LIVED TOGETHER and SHARED in the making of India's culture — so labelling whole periods by the rulers' religion misrepresents this rich, shared history. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A 'chronicle' is a type of source that:", "options": ["Records events in the order in which they happened, often written for a ruler", "Is a kind of coin", "Is a map", "Is a building"], "correct_index": 0, "solution": "A CHRONICLE is a written source that RECORDS EVENTS in the ORDER in which they HAPPENED, often composed by a court historian for a RULER — an important source for medieval history. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following developments in agriculture increased food production in this period?", "options": ["New irrigation devices and the spread of crop cultivation to new areas", "The end of all farming", "Only hunting", "No change in agriculture"], "correct_index": 0, "solution": "AGRICULTURE grew through NEW IRRIGATION devices (like the Persian wheel) and the SPREAD of CROP CULTIVATION to NEW AREAS as forests were cleared — increasing food production. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The interaction of Persian, Arabic and Indian languages in this period contributed to the growth of:", "options": ["New languages and vocabulary (such as Urdu)", "The end of all languages", "Only Latin", "No linguistic change"], "correct_index": 0, "solution": "The INTERACTION of PERSIAN, ARABIC, and INDIAN languages contributed to NEW LANGUAGES and VOCABULARY, including the growth of URDU — a sign of cultural blending. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Studying multiple sources together is important because:", "options": ["Each source is partial, so comparing them gives a fuller and more balanced picture", "One source is always enough", "Sources should never be compared", "It confuses history"], "correct_index": 0, "solution": "Studying MULTIPLE SOURCES together is important because each source is PARTIAL and has a point of view, so COMPARING them gives a FULLER and more BALANCED picture of the past. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Tracing Changes Through a Thousand Years' is that:", "options": ["Nothing changed in India over a thousand years", "The MEDIEVAL period (roughly 700–1750 CE) was a time of GREAT and varied CHANGE in politics, economy, society, religion, technology (the Persian wheel, spinning wheel, firearms) and culture (new foods, regional languages, Bhakti and Sufi movements); the meanings of terms like 'Hindustan' and 'foreigner' were different from today; historians study this age using coins, inscriptions, architecture, chronicles and hand-copied manuscripts (which must be read critically), and they reject simplistic divisions like James Mill's 'Hindu–Muslim–British' scheme, recognising instead a complex, shared history shaped by many communities", "History cannot be studied", "Only kings mattered"], "correct_index": 1, "solution": "The chapter's overall message is that the MEDIEVAL period (roughly 700–1750 CE) was a time of GREAT and VARIED CHANGE — in POLITICS (many new dynasties and kingdoms), ECONOMY (growth of trade, towns, and crafts), SOCIETY (new communities and the jati system), RELIGION (the BHAKTI and SUFI movements, interaction of faiths), TECHNOLOGY (the PERSIAN WHEEL, SPINNING WHEEL, and FIREARMS), and CULTURE (new FOODS, REGIONAL LANGUAGES and literatures). The MEANINGS of terms like 'HINDUSTAN' and 'FOREIGNER' were DIFFERENT from their modern senses. Historians study this age using SOURCES like COINS, INSCRIPTIONS, ARCHITECTURE, CHRONICLES, and hand-copied MANUSCRIPTS (which vary and must be read CRITICALLY), and they REJECT simplistic divisions such as JAMES MILL's 'HINDU–MUSLIM–BRITISH' periodisation, recognising instead a COMPLEX, SHARED history shaped by MANY COMMUNITIES. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "The influential division of Indian history into 'Hindu', 'Muslim' and 'British' periods was proposed by:",
+    "options": [
+      "James Mill",
+      "Al-Biruni",
+      "Abul Fazl",
+      "Ziauddin Barani"
+    ],
+    "correct_index": 0,
+    "solution": "In his 1817 work 'A History of British India', James Mill divided Indian history into Hindu, Muslim and British periods — a periodisation now criticised as misleading.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Arab geographer who prepared a famous world map (including the Indian subcontinent) around 1154 CE was:",
+    "options": [
+      "Ibn Battuta",
+      "Al-Idrisi",
+      "Al-Biruni",
+      "Marco Polo"
+    ],
+    "correct_index": 1,
+    "solution": "Al-Idrisi, an Arab cartographer, made a map of the subcontinent around 1154 CE, shown in the chapter.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In the medieval period, the term 'Hindustan' was used by chroniclers like Minhaj-i-Siraj to mean:",
+    "options": [
+      "Only the southern peninsula",
+      "The areas of Punjab, Haryana and the lands between the Ganga and Yamuna",
+      "The whole of modern India as a nation-state",
+      "Only the Deccan"
+    ],
+    "correct_index": 1,
+    "solution": "In the 13th century, Minhaj-i-Siraj used 'Hindustan' in a political sense for areas of Punjab, Haryana and the Ganga–Yamuna doab under the Delhi Sultans — not the modern national meaning.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following technologies became more common in the subcontinent during 700–1750?",
+    "options": [
+      "The Persian wheel, the spinning wheel and firearms",
+      "The steam engine and railways",
+      "The printing press and telegraph",
+      "Electric power and the aeroplane"
+    ],
+    "correct_index": 0,
+    "solution": "New technologies of this era included the Persian wheel (irrigation), the spinning wheel (charkha) and firearms in warfare.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Before the age of print, manuscripts were copied by hand by scribes. A consequence of this was that:",
+    "options": [
+      "All copies were identical",
+      "Small errors and changes crept in, so copies of the same text differed",
+      "Books were mass-produced cheaply",
+      "Texts never survived"
+    ],
+    "correct_index": 1,
+    "solution": "Hand-copying by scribes introduced variations and errors, so different manuscript copies of the same work often differed, complicating the historian's task.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'cartographer' is a person who:",
+    "options": [
+      "Copies manuscripts",
+      "Makes maps",
+      "Collects taxes",
+      "Builds temples"
+    ],
+    "correct_index": 1,
+    "solution": "A cartographer is a map-maker; cartography is the science of map-making.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "During this period, the term 'foreigner' (pardesi/ajnabi) generally meant:",
+    "options": [
+      "A person from another country",
+      "Any stranger who was not part of a particular village or society",
+      "A tax collector",
+      "A soldier"
+    ],
+    "correct_index": 1,
+    "solution": "In the medieval sense, a 'foreigner' meant any outsider or stranger to a village/society — not specifically a person of another nationality.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Documents and records preserved by governments and institutions for reference are kept in:",
+    "options": [
+      "Mints",
+      "Archives",
+      "Sarais",
+      "Bazaars"
+    ],
+    "correct_index": 1,
+    "solution": "Archives are places where historical documents and official records are stored and preserved.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The period roughly between 700 and 1750 CE is often studied as India's:",
+    "options": [
+      "Ancient period",
+      "Medieval period",
+      "Modern period",
+      "Prehistoric period"
+    ],
+    "correct_index": 1,
+    "solution": "The thousand years from about 700 to 1750 CE is broadly treated as the medieval period of Indian history.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "James Mill's threefold division of Indian history is criticised mainly because it:",
+    "options": [
+      "Wrongly labels whole periods by the religion of the rulers and portrays the earlier ages as backward",
+      "Was too favourable to Indians",
+      "Ignored the British period",
+      "Praised all Indian rulers"
+    ],
+    "correct_index": 0,
+    "solution": "James Mill's 'Hindu–Muslim–British' scheme is criticised because it WRONGLY LABELS whole periods by the RELIGION of the RULERS and portrays pre-British India as BACKWARD and in need of British 'civilisation' — a misleading and biased view. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Historians divide the past into periods to:",
+    "options": [
+      "Capture the main features of a time and make the past easier to study",
+      "Hide information",
+      "Confuse students",
+      "Avoid using sources"
+    ],
+    "correct_index": 0,
+    "solution": "Historians divide the past into PERIODS to CAPTURE the MAIN FEATURES of a time (economic, social, political) and to make the vast past EASIER to STUDY and understand. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The word 'Hindustan' in the time of Babur was used to mean:",
+    "options": [
+      "The geography, culture and fauna of the subcontinent's inhabitants",
+      "Only Central Asia",
+      "Only Europe",
+      "A single village"
+    ],
+    "correct_index": 0,
+    "solution": "In the sixteenth century, BABUR used 'HINDUSTAN' to describe the GEOGRAPHY, CULTURE, and FAUNA (wildlife) of the INHABITANTS of the subcontinent — a broad descriptive sense, close to but not identical with the modern national meaning. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During 700–1750, major changes took place in which areas of life?",
+    "options": [
+      "Technology, food, economy, society, religion and politics",
+      "Only in clothing",
+      "Only in warfare",
+      "Nothing changed"
+    ],
+    "correct_index": 0,
+    "solution": "During 700–1750, major CHANGES took place across many areas — TECHNOLOGY, FOOD (new crops and dishes), the ECONOMY, SOCIETY, RELIGION, and POLITICS — making it a period of great transformation. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "New foods and beverages that came to the subcontinent during this period included:",
+    "options": [
+      "Potatoes, chillies, tea and coffee",
+      "Only wheat",
+      "Only rice",
+      "Nothing new"
+    ],
+    "correct_index": 0,
+    "solution": "During this period, NEW FOODS and BEVERAGES entered the subcontinent — POTATOES, CHILLIES, tomatoes, and later TEA and COFFEE — enriching Indian cuisine. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The spinning wheel (charkha) that spread in this period was used for:",
+    "options": [
+      "Spinning thread from cotton",
+      "Grinding grain",
+      "Lifting water",
+      "Making pottery"
+    ],
+    "correct_index": 0,
+    "solution": "The SPINNING WHEEL (CHARKHA) was used for SPINNING THREAD from COTTON — an important technology that boosted the textile industry. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Persian wheel that became common in this period was used for:",
+    "options": [
+      "Lifting water for irrigation",
+      "Spinning cotton",
+      "Making coins",
+      "Weaving cloth"
+    ],
+    "correct_index": 0,
+    "solution": "The PERSIAN WHEEL was a device for LIFTING WATER for IRRIGATION, helping farmers water their fields more effectively. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a source used by historians to study this period?",
+    "options": [
+      "Coins, inscriptions, architecture, and texts/chronicles",
+      "Only modern novels",
+      "Only photographs",
+      "Only films"
+    ],
+    "correct_index": 0,
+    "solution": "Historians study this period using SOURCES like COINS, INSCRIPTIONS, ARCHITECTURE (buildings and monuments), and TEXTS/CHRONICLES written at the time. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Because paper became more easily available during this period, there was an increase in:",
+    "options": [
+      "The writing and copying of manuscripts and records",
+      "The number of coins only",
+      "The height of buildings only",
+      "The number of rivers"
+    ],
+    "correct_index": 0,
+    "solution": "As PAPER became more easily available and cheaper, there was an INCREASE in the WRITING and COPYING of MANUSCRIPTS, chronicles, letters, and official RECORDS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ziauddin Barani, cited in the chapter, was a:",
+    "options": [
+      "Chronicler (historian) of the Delhi Sultanate period",
+      "Map-maker",
+      "Mughal emperor",
+      "European traveller"
+    ],
+    "correct_index": 0,
+    "solution": "ZIAUDDIN BARANI was a CHRONICLER (historian) of the DELHI SULTANATE period, whose writings are an important source for the era. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A major social development of this period was:",
+    "options": [
+      "The growth of new communities, the jati (sub-caste) system, and the spread of regional cultures and languages",
+      "The disappearance of all society",
+      "No change in society",
+      "The end of all languages"
+    ],
+    "correct_index": 0,
+    "solution": "A major SOCIAL development of this period was the GROWTH of NEW COMMUNITIES, the elaboration of the JATI (sub-caste) system, and the SPREAD of REGIONAL CULTURES and LANGUAGES. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rise of regional languages and literatures during this period shows that:",
+    "options": [
+      "Distinct regional cultures were developing across the subcontinent",
+      "Only Sanskrit was used",
+      "No literature existed",
+      "All regions became identical"
+    ],
+    "correct_index": 0,
+    "solution": "The RISE of REGIONAL LANGUAGES and LITERATURES (like Bengali, Marathi, Tamil, and others) shows that DISTINCT REGIONAL CULTURES were DEVELOPING across the subcontinent. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term used for a religious tradition or belief system that spread and evolved in this period includes movements like:",
+    "options": [
+      "The Bhakti and Sufi movements",
+      "The Industrial Revolution",
+      "The French Revolution",
+      "Modern nationalism"
+    ],
+    "correct_index": 0,
+    "solution": "This period saw the growth of the BHAKTI (devotional Hindu) and SUFI (mystical Islamic) MOVEMENTS, which stressed devotion, love, and equality before God. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is it a challenge for historians to use manuscripts from this period?",
+    "options": [
+      "Because hand-copying introduced variations, and originals are often lost, so scholars must compare copies",
+      "Because manuscripts never existed",
+      "Because all copies are identical",
+      "Because they are all printed"
+    ],
+    "correct_index": 0,
+    "solution": "It is a CHALLENGE because HAND-COPYING introduced VARIATIONS and errors, and the ORIGINAL manuscripts are often LOST, so scholars must COMPARE different COPIES to reconstruct the likely original text. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly describes 'archives'?",
+    "options": [
+      "Places where historical documents and official records are stored and preserved",
+      "Places for making coins",
+      "Rest houses for travellers",
+      "Markets for goods"
+    ],
+    "correct_index": 0,
+    "solution": "ARCHIVES are PLACES where HISTORICAL DOCUMENTS and official RECORDS are STORED and PRESERVED, allowing historians to study the past. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The meaning of terms like 'Hindustan' and 'foreigner' in the past reminds us that:",
+    "options": [
+      "The meanings of words can change over time and differ from modern usage",
+      "Words never change meaning",
+      "The past used only modern words",
+      "Words have no history"
+    ],
+    "correct_index": 0,
+    "solution": "The changing meanings of terms like 'HINDUSTAN' and 'FOREIGNER' remind us that the MEANINGS of WORDS can CHANGE over TIME and DIFFER from modern usage — so historians must interpret them carefully in context. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During this period, many new dynasties and kingdoms rose in different regions. This shows that:",
+    "options": [
+      "Political power was often divided among many regional rulers",
+      "There was always one single empire",
+      "No kingdoms existed",
+      "Politics never changed"
+    ],
+    "correct_index": 0,
+    "solution": "The rise of MANY NEW DYNASTIES and KINGDOMS in different regions shows that POLITICAL POWER was OFTEN DIVIDED among MANY REGIONAL RULERS, rather than being held by a single empire throughout. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Firearms and gunpowder, which spread during this period, changed:",
+    "options": [
+      "The methods of warfare",
+      "Only farming",
+      "Only cooking",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "FIREARMS and GUNPOWDER, which spread during this period, CHANGED the METHODS of WARFARE — cannons and guns transformed how battles and sieges were fought. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): James Mill's periodisation of Indian history is problematic. Reason (R): It labels long periods by the religion of rulers and treats pre-British India as backward. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — Mill's periodisation is problematic. R is TRUE and correctly EXPLAINS A: it LABELS long periods by the RELIGION of RULERS and treats pre-British India as BACKWARD, which is precisely why it is criticised. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The study of a 'thousand years' of history shows students that change in the past was:",
+    "options": [
+      "Gradual, complex and varied across regions",
+      "Sudden and identical everywhere",
+      "Non-existent",
+      "Only political"
+    ],
+    "correct_index": 0,
+    "solution": "Studying a THOUSAND YEARS of history shows that CHANGE in the past was GRADUAL, COMPLEX, and VARIED across REGIONS — not sudden or uniform. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Al-Idrisi → map-maker (cartographer); Minhaj-i-Siraj → chronicler",
+      "Al-Idrisi → chronicler; Minhaj-i-Siraj → map-maker",
+      "Both were Mughal emperors",
+      "Both were European traders"
+    ],
+    "correct_index": 0,
+    "solution": "The correct match is AL-IDRISI → MAP-MAKER (cartographer, who made a famous world map c.1154) and MINHAJ-I-SIRAJ → CHRONICLER (historian) of the Sultanate period. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Economic changes in this period included the growth of:",
+    "options": [
+      "Trade, towns, markets and new crafts",
+      "Only farming with no trade",
+      "The disappearance of towns",
+      "No economic activity"
+    ],
+    "correct_index": 0,
+    "solution": "ECONOMIC changes in this period included the GROWTH of TRADE, TOWNS, MARKETS, and new CRAFTS — reflecting a lively and expanding economy. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best explains why the same period can be viewed differently by different historians?",
+    "options": [
+      "They may use different sources, ask different questions, and interpret evidence differently",
+      "History has only one fixed version",
+      "Historians never disagree",
+      "The past cannot be studied"
+    ],
+    "correct_index": 0,
+    "solution": "The same period can be viewed DIFFERENTLY because historians may use DIFFERENT SOURCES, ask DIFFERENT QUESTIONS, and INTERPRET the same EVIDENCE DIFFERENTLY — so history is a subject of ongoing debate and revision. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The colours and details on Al-Idrisi's map differ from a modern map because:",
+    "options": [
+      "Knowledge, techniques and viewpoints of map-making were different in the past",
+      "He had modern satellites",
+      "Maps never change",
+      "It was a photograph"
+    ],
+    "correct_index": 0,
+    "solution": "AL-IDRISI's MAP differs from a modern map because the KNOWLEDGE, TECHNIQUES, and VIEWPOINTS of map-making were DIFFERENT in the PAST — for example, south was often placed at the top. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an example of a change in this period that affected ordinary people's daily lives?",
+    "options": [
+      "New crops, foods, tools like the spinning wheel, and beverages such as tea",
+      "Only palace politics",
+      "Only royal marriages",
+      "Nothing affecting daily life"
+    ],
+    "correct_index": 0,
+    "solution": "Changes affecting ordinary people's DAILY LIVES included NEW CROPS and FOODS, new TOOLS like the SPINNING WHEEL and Persian wheel, and new BEVERAGES like TEA — touching what people ate, wore, and how they worked. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The growth of the jati (sub-caste) system in this period meant that:",
+    "options": [
+      "Society became more divided into many occupational and social groups",
+      "Caste disappeared",
+      "Everyone became equal",
+      "There were no social groups"
+    ],
+    "correct_index": 0,
+    "solution": "The growth of the JATI (sub-caste) system meant SOCIETY became more DIVIDED into MANY OCCUPATIONAL and SOCIAL GROUPS, each with its own rules and status. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why did historians of the medieval period, like Barani, write their chronicles?",
+    "options": [
+      "To record events, glorify rulers, and advise on governance",
+      "To draw maps",
+      "To make coins",
+      "To build temples"
+    ],
+    "correct_index": 0,
+    "solution": "Chroniclers like BARANI wrote to RECORD EVENTS, often to GLORIFY the RULERS who patronised them, and to ADVISE on GOVERNANCE and morality — so historians must read them critically. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The reliability of a historical source is judged by:",
+    "options": [
+      "Who wrote it, why, when, and comparing it with other evidence",
+      "Its colour only",
+      "Its length only",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "The RELIABILITY of a source is judged by WHO WROTE it, WHY, WHEN, and by COMPARING it with OTHER EVIDENCE — since every source has a point of view. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The spread of Islam and the interaction between different faiths in this period led to:",
+    "options": [
+      "New forms of art, architecture, language and shared culture",
+      "The end of all culture",
+      "Complete isolation",
+      "No interaction"
+    ],
+    "correct_index": 0,
+    "solution": "The spread of Islam and the INTERACTION between different faiths led to NEW forms of ART, ARCHITECTURE (like Indo-Islamic buildings), LANGUAGE (like Urdu), and a SHARED, blended CULTURE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following statements about the medieval period (700–1750) is correct?",
+    "options": [
+      "It was a time of great change in politics, economy, society, religion and technology",
+      "Nothing changed for a thousand years",
+      "It had no rulers",
+      "It is not studied by historians"
+    ],
+    "correct_index": 0,
+    "solution": "It is correct that the MEDIEVAL PERIOD (700–1750) was a time of GREAT CHANGE in POLITICS, ECONOMY, SOCIETY, RELIGION, and TECHNOLOGY — a dynamic and transformative age. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The habit of carefully reading sources 'against the grain' means that historians:",
+    "options": [
+      "Look for information the author did not intend to reveal, and question the author's bias",
+      "Believe every word literally",
+      "Ignore all sources",
+      "Only read the title"
+    ],
+    "correct_index": 0,
+    "solution": "Reading sources 'AGAINST the GRAIN' means historians LOOK for INFORMATION the AUTHOR did NOT INTEND to reveal and QUESTION the author's BIAS — reading critically rather than accepting everything at face value. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is the correct chronological label for the years around 700–1750 CE in Indian history?",
+    "options": [
+      "The medieval (early and late medieval) period",
+      "The Stone Age",
+      "The modern period",
+      "Prehistory"
+    ],
+    "correct_index": 0,
+    "solution": "The years around 700–1750 CE are labelled the MEDIEVAL PERIOD (often split into early and late medieval) of Indian history. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following best captures why the study of this thousand years is important?",
+    "options": [
+      "It shaped the languages, cultures, religions and institutions of modern India",
+      "It has no connection to today",
+      "It should be forgotten",
+      "It only concerns other countries"
+    ],
+    "correct_index": 0,
+    "solution": "The study of this thousand years is important because it SHAPED the LANGUAGES, CULTURES, RELIGIONS, and INSTITUTIONS of MODERN INDIA — the roots of much of present-day Indian life lie here. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main groups of people whose histories are studied for this period include:",
+    "options": [
+      "Rulers, but also peasants, artisans, traders, women and various communities",
+      "Only kings",
+      "Only soldiers",
+      "No one"
+    ],
+    "correct_index": 0,
+    "solution": "The histories studied for this period include not only RULERS but also PEASANTS, ARTISANS, TRADERS, WOMEN, and various COMMUNITIES — giving a fuller picture of society. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Historians reconstruct social and economic life partly from:",
+    "options": [
+      "Records of taxes, land grants, trade, and descriptions in texts",
+      "Only palace gossip",
+      "Only weather reports",
+      "Nothing"
+    ],
+    "correct_index": 0,
+    "solution": "Historians reconstruct social and economic life from RECORDS of TAXES, LAND GRANTS, TRADE, and DESCRIPTIONS in TEXTS — evidence of how people lived and worked. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that India's history should NOT be divided simply by the rulers' religion is important because:",
+    "options": [
+      "People of different faiths lived together and shared in the making of India's culture",
+      "Religion is the only thing that matters",
+      "Rulers had no religion",
+      "History has no periods"
+    ],
+    "correct_index": 0,
+    "solution": "It is important because PEOPLE of DIFFERENT FAITHS LIVED TOGETHER and SHARED in the making of India's culture — so labelling whole periods by the rulers' religion misrepresents this rich, shared history. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'chronicle' is a type of source that:",
+    "options": [
+      "Records events in the order in which they happened, often written for a ruler",
+      "Is a kind of coin",
+      "Is a map",
+      "Is a building"
+    ],
+    "correct_index": 0,
+    "solution": "A CHRONICLE is a written source that RECORDS EVENTS in the ORDER in which they HAPPENED, often composed by a court historian for a RULER — an important source for medieval history. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following developments in agriculture increased food production in this period?",
+    "options": [
+      "New irrigation devices and the spread of crop cultivation to new areas",
+      "The end of all farming",
+      "Only hunting",
+      "No change in agriculture"
+    ],
+    "correct_index": 0,
+    "solution": "AGRICULTURE grew through NEW IRRIGATION devices (like the Persian wheel) and the SPREAD of CROP CULTIVATION to NEW AREAS as forests were cleared — increasing food production. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The interaction of Persian, Arabic and Indian languages in this period contributed to the growth of:",
+    "options": [
+      "New languages and vocabulary (such as Urdu)",
+      "The end of all languages",
+      "Only Latin",
+      "No linguistic change"
+    ],
+    "correct_index": 0,
+    "solution": "The INTERACTION of PERSIAN, ARABIC, and INDIAN languages contributed to NEW LANGUAGES and VOCABULARY, including the growth of URDU — a sign of cultural blending. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Studying multiple sources together is important because:",
+    "options": [
+      "Each source is partial, so comparing them gives a fuller and more balanced picture",
+      "One source is always enough",
+      "Sources should never be compared",
+      "It confuses history"
+    ],
+    "correct_index": 0,
+    "solution": "Studying MULTIPLE SOURCES together is important because each source is PARTIAL and has a point of view, so COMPARING them gives a FULLER and more BALANCED picture of the past. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Tracing Changes Through a Thousand Years' is that:",
+    "options": [
+      "Nothing changed in India over a thousand years",
+      "The MEDIEVAL period (roughly 700–1750 CE) was a time of GREAT and varied CHANGE in politics, economy, society, religion, technology (the Persian wheel, spinning wheel, firearms) and culture (new foods, regional languages, Bhakti and Sufi movements); the meanings of terms like 'Hindustan' and 'foreigner' were different from today; historians study this age using coins, inscriptions, architecture, chronicles and hand-copied manuscripts (which must be read critically), and they reject simplistic divisions like James Mill's 'Hindu–Muslim–British' scheme, recognising instead a complex, shared history shaped by many communities",
+      "History cannot be studied",
+      "Only kings mattered"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that the MEDIEVAL period (roughly 700–1750 CE) was a time of GREAT and VARIED CHANGE — in POLITICS (many new dynasties and kingdoms), ECONOMY (growth of trade, towns, and crafts), SOCIETY (new communities and the jati system), RELIGION (the BHAKTI and SUFI movements, interaction of faiths), TECHNOLOGY (the PERSIAN WHEEL, SPINNING WHEEL, and FIREARMS), and CULTURE (new FOODS, REGIONAL LANGUAGES and literatures). The MEANINGS of terms like 'HINDUSTAN' and 'FOREIGNER' were DIFFERENT from their modern senses. Historians study this age using SOURCES like COINS, INSCRIPTIONS, ARCHITECTURE, CHRONICLES, and hand-copied MANUSCRIPTS (which vary and must be read CRITICALLY), and they REJECT simplistic divisions such as JAMES MILL's 'HINDU–MUSLIM–BRITISH' periodisation, recognising instead a COMPLEX, SHARED history shaped by MANY COMMUNITIES. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The medieval period of Indian history broadly covers roughly which span?",
+    "options": [
+      "3000 BCE–500 BCE",
+      "c. 700 CE–1750 CE (about a thousand years)",
+      "1947–2000",
+      "500 BCE–0 CE"
+    ],
+    "correct_index": 1,
+    "solution": "The medieval period of Indian history covers roughly a thousand years, from about the 8th century CE to the mid-18th century, between the ancient and modern periods.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Over these thousand years, the term 'Hindustan' came to mean:",
+    "options": [
+      "Only a small village",
+      "The regions of the subcontinent (its meaning shifting over time)",
+      "A foreign country",
+      "An ocean"
+    ],
+    "correct_index": 1,
+    "solution": "The meaning of 'Hindustan' changed over time, at various points referring to the Punjab/Indus region, the areas under the Delhi Sultans, or the subcontinent more broadly.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Historians study this period using sources like coins, inscriptions, architecture and:",
+    "options": [
+      "Only films",
+      "Chronicles and manuscripts (written texts)",
+      "Only oral rumours",
+      "Modern newspapers"
+    ],
+    "correct_index": 1,
+    "solution": "For the medieval period, historians rely on coins, inscriptions, monuments, and especially chronicles and manuscripts written by court historians and scholars.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During this period, the number of manuscripts increased, but they had to be:",
+    "options": [
+      "Printed",
+      "Copied by hand (leading to variations)",
+      "Ignored",
+      "Destroyed"
+    ],
+    "correct_index": 1,
+    "solution": "Before printing, manuscripts were copied by hand by scribes; this often introduced variations and errors, which historians must account for when using them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A major technological change that arrived in India during this period was the:",
+    "options": [
+      "Steam engine",
+      "Persian wheel (for irrigation), spinning wheel and paper",
+      "Internet",
+      "Electricity"
+    ],
+    "correct_index": 1,
+    "solution": "New technologies appeared in this millennium, including the Persian wheel for irrigation, the spinning wheel (charkha) for textiles, and the use of paper.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Over these centuries, many new foods, crops and beverages entered India, such as:",
+    "options": [
+      "Only wheat",
+      "Potatoes, chillies, tea and coffee (over time)",
+      "Nothing new",
+      "Only rice"
+    ],
+    "correct_index": 1,
+    "solution": "New crops and foods entered India over this long period and after — potatoes, chillies, tomatoes (from the Americas via the Columbian exchange), and beverages like tea and coffee.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The social group of dominant landed elites during this period was often referred to as:",
+    "options": [
+      "Peasants only",
+      "Rajputs and other warrior/landed groups",
+      "Only merchants",
+      "Only priests"
+    ],
+    "correct_index": 1,
+    "solution": "Dominant landed and warrior groups (such as Rajputs, and later various zamindars and chiefs) rose to prominence during the medieval period, shaping regional polities.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "'Cartographers' (map-makers) of different periods drew India differently, showing that:",
+    "options": [
+      "Maps never change",
+      "Geographical knowledge and perceptions of regions changed over time",
+      "Maps are useless",
+      "India had no geography"
+    ],
+    "correct_index": 1,
+    "solution": "Historical maps reveal how geographical knowledge and the perception of regions like 'Hindustan' changed over time, reflecting the perspective and knowledge of the period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The medieval period saw the movement of people, which led to:",
+    "options": [
+      "Cultural isolation",
+      "The exchange and blending of ideas, technologies and cultures",
+      "No change",
+      "End of trade"
+    ],
+    "correct_index": 1,
+    "solution": "The movement of peoples, traders, scholars and rulers during this period led to rich exchange and blending of ideas, technologies, religions and cultures across regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Court chroniclers who wrote histories of rulers were often:",
+    "options": [
+      "Independent journalists",
+      "Patronised by rulers (so their accounts could be biased in favour of patrons)",
+      "Foreigners only",
+      "Farmers"
+    ],
+    "correct_index": 1,
+    "solution": "Court historians were usually patronised by rulers and tended to glorify their patrons, so historians read such chronicles critically, cross-checking with other evidence.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "New religious developments during this period included the growth of:",
+    "options": [
+      "Only one sect",
+      "The Bhakti and Sufi movements",
+      "No religion",
+      "Foreign religions only"
+    ],
+    "correct_index": 1,
+    "solution": "The medieval period witnessed the flowering of the Bhakti movement (devotion within Hinduism) and Sufism (Islamic mysticism), which deeply shaped Indian religious and cultural life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A defining feature of the medieval period was the establishment of:",
+    "options": [
+      "The Harappan cities",
+      "New dynasties and states, including the Delhi Sultanate and later the Mughals",
+      "The British Raj",
+      "The Mauryan Empire"
+    ],
+    "correct_index": 1,
+    "solution": "The medieval period saw the rise of new dynasties and states — regional kingdoms, the Delhi Sultanate and eventually the Mughal Empire — reshaping India's political map.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The term 'foreigner' in the medieval context (ajnabi/pardesi) often meant:",
+    "options": [
+      "Someone from another country only",
+      "Any stranger who was not part of one's own village/society (regardless of country)",
+      "A king",
+      "A priest"
+    ],
+    "correct_index": 1,
+    "solution": "In medieval usage, a 'foreigner' (pardesi/ajnabi) often simply meant a stranger — someone who was not part of one's own village or community — not necessarily someone from another country.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Regional languages and literatures flourished during this period, such as:",
+    "options": [
+      "Only Sanskrit",
+      "Tamil, Bengali, Hindi, Marathi and others developing rich literatures",
+      "No languages",
+      "Only English"
+    ],
+    "correct_index": 1,
+    "solution": "The medieval period saw the growth of regional languages and their literatures — such as Tamil, Bengali, Marathi, Hindi and others — often through Bhakti and Sufi poetry.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Historians divide the past into periods (ancient, medieval, modern) mainly to:",
+    "options": [
+      "Confuse students",
+      "Make it easier to study broad patterns and changes over time",
+      "Hide facts",
+      "Avoid evidence"
+    ],
+    "correct_index": 1,
+    "solution": "Periodisation helps historians study broad patterns, continuities and changes over time, though the divisions are approximate and periods overlap.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The changes over this thousand years affected:",
+    "options": [
+      "Only kings",
+      "Political, economic, social, religious and cultural life",
+      "Nothing",
+      "Only architecture"
+    ],
+    "correct_index": 1,
+    "solution": "Over this millennium, India saw profound changes in politics (new states), economy (new technologies, trade), society, religion (Bhakti, Sufism) and culture (art, architecture, languages).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The introduction of paper during this period was important because it:",
+    "options": [
+      "Was decorative only",
+      "Made record-keeping and the copying of texts easier and cheaper",
+      "Had no use",
+      "Replaced coins"
+    ],
+    "correct_index": 1,
+    "solution": "The spread of paper made writing, record-keeping and the copying of manuscripts easier and cheaper than palm leaf or bark, aiding administration and the spread of knowledge.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Zamindars' who emerged as important figures during this period were:",
+    "options": [
+      "Landholders/intermediaries with rights over land and revenue",
+      "Only priests",
+      "Only soldiers",
+      "Foreign traders"
+    ],
+    "correct_index": 0,
+    "solution": "Zamindars were landholders and intermediaries who held rights over land and its revenue, becoming important social and economic figures in the medieval and later periods.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The blending of Persian and Indian traditions during this period influenced:",
+    "options": [
+      "Nothing",
+      "Language (Urdu's roots), music, cuisine, art and architecture",
+      "Only farming",
+      "Only warfare"
+    ],
+    "correct_index": 1,
+    "solution": "The blending of Persian/Central Asian and Indian traditions enriched Indian language (roots of Urdu), music, cuisine, painting and Indo-Islamic architecture, creating a composite culture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a challenge in studying medieval history?",
+    "options": [
+      "Too little happened",
+      "Sources may be biased (court chronicles) or incomplete, requiring careful interpretation",
+      "There are no sources",
+      "History is fixed"
+    ],
+    "correct_index": 1,
+    "solution": "A challenge in studying the period is that sources like court chronicles can be biased or incomplete, so historians must interpret evidence carefully and use multiple sources.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall theme of 'tracing changes through a thousand years' is that:",
+    "options": [
+      "Nothing changed",
+      "Indian society and polity underwent significant continuous change and development",
+      "Only kings mattered",
+      "History is unimportant"
+    ],
+    "correct_index": 1,
+    "solution": "The theme is that over this millennium Indian society, polity, economy and culture underwent significant and continuous change and development, shaped by new peoples, ideas and technologies.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the medieval period is correct? (i) New technologies arrived (ii) Bhakti and Sufi movements grew (iii) New states like the Delhi Sultanate arose",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: new technologies (Persian wheel, paper), the Bhakti and Sufi movements, and new states like the Delhi Sultanate all characterised the medieval period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The value of studying this long period lies in understanding:",
+    "options": [
+      "Only dates",
+      "How present-day Indian society and culture were shaped by past changes",
+      "Nothing useful",
+      "Only foreign history"
+    ],
+    "correct_index": 1,
+    "solution": "Studying these thousand years helps us understand how many features of present-day Indian society, culture and identity were shaped by the political, social and cultural changes of the past.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The changing meaning of the word 'Hindustan' over time illustrates that:",
+    "options": [
+      "Words never change",
+      "Terms and identities evolve with historical context",
+      "Geography is fixed",
+      "History is static"
+    ],
+    "correct_index": 1,
+    "solution": "The shifting meaning of 'Hindustan' over the centuries shows how terms, identities and geographical concepts evolve with changing historical and political contexts.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Historical maps and chronicles together help historians understand both the ______ and the ______ of the medieval period.",
+    "options": [
+      "geography; events/perceptions",
+      "weather; food",
+      "future; past",
+      "stars; oceans"
+    ],
+    "correct_index": 0,
+    "solution": "Historical maps reveal geographical knowledge and perceptions, while chronicles record events and viewpoints — together helping historians reconstruct the geography and history of the period.",
+    "difficulty": "medium"
+  }
 ]

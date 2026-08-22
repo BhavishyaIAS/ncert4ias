@@ -1,52 +1,902 @@
 [
-  { "stem": "In Indian tradition, a place of pilgrimage considered holy and often located near a river or crossing is called a:", "options": ["Tirtha", "Janapada", "Nagaram", "Iqta"], "correct_index": 0, "solution": "A 'tirtha' is a sacred place of pilgrimage, often at a river crossing or holy site, visited by devotees.", "difficulty": "medium" },
-  { "stem": "The set of four principal pilgrimage sites (Badrinath, Dwarka, Puri and Rameswaram) spread across India is known as the:", "options": ["Char Dham", "Sapta Puri", "Panch Kedar", "Ashta Vinayak"], "correct_index": 0, "solution": "The Char Dham comprises Badrinath (north), Dwarka (west), Puri (east) and Rameswaram (south) — spanning the four corners of India.", "difficulty": "hard" },
-  { "stem": "The way sacred sites are spread across the whole subcontinent is often described as India's:", "options": ["Political map", "Sacred geography", "Climate zones", "Trade network"], "correct_index": 1, "solution": "'Sacred geography' refers to how holy rivers, mountains and pilgrimage centres are distributed across the land, giving it a shared sacred identity.", "difficulty": "medium" },
-  { "stem": "Networks of pilgrimage across the subcontinent historically helped to:", "options": ["Divide people permanently", "Foster a sense of cultural unity and encourage travel and exchange", "Stop all trade", "End all festivals"], "correct_index": 1, "solution": "Pilgrimage linked distant regions, encouraging movement, exchange and a shared sense of belonging — reinforcing cultural unity.", "difficulty": "medium" },
-  { "stem": "Rivers such as the Ganga are regarded in Indian tradition as:", "options": ["Ordinary water bodies with no significance", "Sacred and worthy of worship", "Only useful for transport", "Boundaries between enemy states"], "correct_index": 1, "solution": "Many rivers, especially the Ganga, are considered sacred and are worshipped, drawing pilgrims to their banks.", "difficulty": "easy" },
-  { "stem": "The idea that the land itself becomes sacred applies in India to:", "options": ["Only one religion", "Several religious traditions, each with its own sacred sites", "No religion", "Only foreign lands"], "correct_index": 1, "solution": "Different traditions — Hindu, Buddhist, Jain, Sikh and others — each have their own sacred sites across the land, making sacred geography a shared feature.", "difficulty": "medium" },
-  { "stem": "Twelve especially sacred shrines of Shiva, spread across India, are known as the:", "options": ["Jyotirlingas", "Char Dham", "Shakti Peethas", "Ashta Lakshmi"], "correct_index": 0, "solution": "The twelve Jyotirlingas are important Shaiva pilgrimage shrines located in different parts of the country.", "difficulty": "hard" },
-  { "stem": "The word 'tirtha' literally suggests:", "options": ["A ford or crossing point (often at a river)", "A market", "A fort", "A coin"], "correct_index": 0, "solution": "The word TIRTHA literally suggests a FORD or CROSSING POINT (often at a RIVER) — a place where one can 'cross over', both physically and spiritually. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "A person who travels to a sacred place for religious reasons is called a:", "options": ["Pilgrim", "Trader", "Soldier", "Farmer"], "correct_index": 0, "solution": "A person who TRAVELS to a SACRED PLACE for RELIGIOUS reasons is called a PILGRIM, and the journey is called a pilgrimage (tirtha-yatra). So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The Char Dham pilgrimage links sacred sites in the four directions: Badrinath (north), Dwarka (west), Puri (east) and:", "options": ["Rameswaram (south)", "Delhi (centre)", "Kolkata (east)", "Mumbai (west)"], "correct_index": 0, "solution": "The CHAR DHAM links BADRINATH (north), DWARKA (west), PURI (east), and RAMESWARAM (SOUTH) — spanning the four corners of India. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Shakti Peethas are sacred sites associated with the worship of:", "options": ["The Goddess (Devi/Shakti)", "Only Shiva", "Only Vishnu", "The Buddha"], "correct_index": 0, "solution": "The SHAKTI PEETHAS are sacred sites associated with the worship of the GODDESS (DEVI/SHAKTI), spread across the subcontinent and beyond. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Sacred sites in India are associated not only with Hinduism but also with:", "options": ["Buddhism, Jainism, Sikhism and other traditions", "No other religion", "Only foreign religions", "Only one temple"], "correct_index": 0, "solution": "SACRED SITES in India are associated not only with HINDUISM but also with BUDDHISM (Bodh Gaya, Sarnath), JAINISM (Palitana, Shravanabelagola), SIKHISM (Amritsar), and other traditions. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Bodh Gaya is a sacred place especially for followers of:", "options": ["Buddhism (where the Buddha attained enlightenment)", "Only Jainism", "Only Sikhism", "No religion"], "correct_index": 0, "solution": "BODH GAYA is a sacred place especially for BUDDHISM — it is where the BUDDHA attained ENLIGHTENMENT under the Bodhi tree. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The confluence (sangam) of rivers, like the Ganga, Yamuna and the mythical Sarasvati at Prayag, is considered:", "options": ["Especially sacred, drawing great gatherings like the Kumbh Mela", "Ordinary and unimportant", "Only a trade centre", "A battlefield only"], "correct_index": 0, "solution": "The CONFLUENCE (SANGAM) of the GANGA, YAMUNA, and mythical SARASVATI at PRAYAG (Prayagraj) is considered ESPECIALLY SACRED, drawing GREAT GATHERINGS like the KUMBH MELA. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Consider the pairs: 1. Char Dham — four directions 2. Jyotirlingas — Shiva shrines 3. Shakti Peethas — Goddess sites. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: CHAR DHAM → the FOUR DIRECTIONS; JYOTIRLINGAS → SHIVA shrines; SHAKTI PEETHAS → GODDESS sites. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Mountains like the Himalayas and Mount Kailash are regarded in Indian tradition as:", "options": ["Sacred, the abode of gods", "Only obstacles", "Ordinary rocks", "Foreign territory"], "correct_index": 0, "solution": "MOUNTAINS like the HIMALAYAS and MOUNT KAILASH are regarded as SACRED — the ABODE of GODS (Kailash as the home of Shiva) — and are important pilgrimage destinations. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The way sacred sites are linked across the land helped to create:", "options": ["A shared cultural and spiritual bond across India", "Complete division", "Isolation of regions", "The end of travel"], "correct_index": 0, "solution": "The LINKING of SACRED SITES across the land helped create a SHARED CULTURAL and SPIRITUAL BOND across INDIA — a sense that the whole land is one sacred space. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Pilgrimage journeys in the past also contributed to:", "options": ["The spread of ideas, trade and cultural exchange along the routes", "Nothing", "Stopping all movement", "Ending culture"], "correct_index": 0, "solution": "PILGRIMAGE JOURNEYS in the past also contributed to the SPREAD of IDEAS, TRADE, and CULTURAL EXCHANGE along the ROUTES, as pilgrims travelled far and met people from many regions. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The seven sacred cities (Sapta Puri) of Hindu tradition include Varanasi (Kashi), which is regarded as:", "options": ["One of the holiest and oldest living cities", "A modern town", "An unimportant place", "A fort only"], "correct_index": 0, "solution": "The SAPTA PURI (seven sacred cities) include VARANASI (KASHI), regarded as one of the HOLIEST and OLDEST LIVING CITIES in the world, a major centre of pilgrimage. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Amritsar is an important sacred site especially for followers of:", "options": ["Sikhism (the Golden Temple / Harmandir Sahib)", "Only Buddhism", "Only Jainism", "No religion"], "correct_index": 0, "solution": "AMRITSAR is an important sacred site especially for SIKHISM — home of the GOLDEN TEMPLE (Harmandir Sahib), the holiest Sikh shrine. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Pilgrimage fostered a sense of unity in India. Reason (R): Pilgrims travelled across the whole land to sacred sites, linking distant regions. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — pilgrimage fostered unity. R is TRUE and correctly EXPLAINS A: PILGRIMS TRAVELLED across the WHOLE LAND to sacred sites, LINKING DISTANT REGIONS — which is precisely how pilgrimage built a sense of unity. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The idea of 'sacred geography' means that:", "options": ["The whole land is dotted with holy places connected in the minds of people", "Only one place is holy", "No place is holy", "Geography has no meaning"], "correct_index": 0, "solution": "The idea of 'SACRED GEOGRAPHY' means that the WHOLE LAND is DOTTED with HOLY PLACES — rivers, mountains, and shrines — CONNECTED in the MINDS of people into a shared sacred map. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Sacred sites in India often mark:", "options": ["Places linked to gods, saints, events or natural features believed to be holy", "Only markets", "Only forts", "Nothing special"], "correct_index": 0, "solution": "SACRED SITES often mark PLACES LINKED to GODS, SAINTS, important EVENTS, or NATURAL FEATURES (rivers, mountains, groves) BELIEVED to be HOLY. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Kumbh Mela, held at sacred river sites, is significant as:", "options": ["One of the largest religious gatherings in the world", "A small local fair", "A trade fair only", "A modern festival with no roots"], "correct_index": 0, "solution": "The KUMBH MELA, held at sacred river sites (like Prayag, Haridwar, Ujjain, and Nashik), is significant as ONE of the LARGEST RELIGIOUS GATHERINGS in the WORLD, drawing millions of pilgrims. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The custom of visiting sacred sites of many faiths shows India's tradition of:", "options": ["Religious diversity and coexistence", "A single religion", "No religion", "Conflict only"], "correct_index": 0, "solution": "The custom of VISITING SACRED SITES of MANY FAITHS shows India's tradition of RELIGIOUS DIVERSITY and COEXISTENCE — different traditions sharing the same sacred land. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly pairs a sacred site with its tradition?", "options": ["Bodh Gaya → Buddhism; Amritsar → Sikhism; Shravanabelagola → Jainism", "Bodh Gaya → Sikhism; Amritsar → Jainism; Shravanabelagola → Buddhism", "All belong to one religion", "None are sacred"], "correct_index": 0, "solution": "The correct pairings are: BODH GAYA → BUDDHISM; AMRITSAR → SIKHISM; and SHRAVANABELAGOLA → JAINISM. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The sacred rivers of India are important in daily life and ritual because they are seen as:", "options": ["Sources of purity, life and blessings", "Only for washing", "Boundaries only", "Of no importance"], "correct_index": 0, "solution": "The SACRED RIVERS of India are important because they are seen as SOURCES of PURITY, LIFE, and BLESSINGS — bathing in them is believed to cleanse and bring merit. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The linking of the land through sacred sites and pilgrimage is an example of:", "options": ["Cultural unity amid India's diversity", "Political conquest", "Economic decline", "Religious conflict only"], "correct_index": 0, "solution": "The LINKING of the LAND through SACRED SITES and PILGRIMAGE is an example of CULTURAL UNITY amid India's DIVERSITY — a spiritual thread connecting the whole country. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following best explains why sacred sites are spread across the whole country rather than in one place?", "options": ["Different regions, rivers, mountains and events all became holy over time, creating a nationwide sacred map", "Only one region has holy places", "Sacred sites were placed randomly", "There are no sacred sites"], "correct_index": 0, "solution": "SACRED SITES are spread ACROSS the whole country because DIFFERENT REGIONS, RIVERS, MOUNTAINS, and EVENTS all BECAME HOLY over TIME, creating a NATIONWIDE SACRED MAP that ties the land together. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The stories and legends attached to sacred places help to:", "options": ["Give them meaning and connect people to a shared cultural memory", "Confuse people", "Erase history", "Serve no purpose"], "correct_index": 0, "solution": "The STORIES and LEGENDS attached to SACRED PLACES help GIVE them MEANING and CONNECT people to a SHARED CULTURAL MEMORY, passed down through generations. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The practice of pilgrimage is found:", "options": ["Across many religions of India and the world", "Only in India", "In no religion", "Only in one village"], "correct_index": 0, "solution": "The PRACTICE of PILGRIMAGE is found ACROSS MANY RELIGIONS of INDIA and the WORLD — a common human way of seeking the sacred. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The great gatherings at sacred sites like the Kumbh Mela demonstrate:", "options": ["The deep and living tradition of pilgrimage in India", "That no one is religious", "That pilgrimage has ended", "That sites are empty"], "correct_index": 0, "solution": "The great GATHERINGS at sacred sites like the KUMBH MELA demonstrate the DEEP and LIVING TRADITION of PILGRIMAGE in India, continuing to draw millions today. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The idea that mountains, rivers and forests can be sacred reflects a view of nature as:", "options": ["Something to be revered and protected", "Merely a resource to exploit", "Unimportant", "An enemy"], "correct_index": 0, "solution": "The idea that MOUNTAINS, RIVERS, and FORESTS can be SACRED reflects a view of NATURE as something to be REVERED and PROTECTED — a value with meaning for the environment today. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The sacred sites of different faiths across India together show that the land is:", "options": ["A shared sacred space for many communities", "Holy to only one group", "Not holy at all", "Divided into enemy zones"], "correct_index": 0, "solution": "The SACRED SITES of DIFFERENT FAITHS across India show that the land is a SHARED SACRED SPACE for MANY COMMUNITIES — a source of unity in diversity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is TRUE about how the land becomes sacred?", "options": ["Over time, rivers, mountains, cities and events are seen as holy, weaving a sacred geography", "The land was always ordinary", "Sacredness cannot exist", "Only buildings are sacred"], "correct_index": 0, "solution": "It is TRUE that over TIME, RIVERS, MOUNTAINS, CITIES, and EVENTS come to be SEEN as HOLY, WEAVING a SACRED GEOGRAPHY across the land. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Pilgrimage networks connecting north, south, east and west of India reflect the idea of:", "options": ["'Many in the one' — diverse places bound into one sacred land", "Total separation", "One region only", "No connection"], "correct_index": 0, "solution": "PILGRIMAGE NETWORKS connecting NORTH, SOUTH, EAST, and WEST reflect the idea of 'MANY in the ONE' — DIVERSE PLACES bound into ONE SACRED LAND, a theme of India's unity in diversity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The bathing in a sacred river during a festival is believed by devotees to bring:", "options": ["Spiritual merit and purification", "Wealth automatically", "Nothing", "Bad luck"], "correct_index": 0, "solution": "BATHING in a SACRED RIVER during a festival is believed by devotees to bring SPIRITUAL MERIT and PURIFICATION — washing away sins and gaining blessings. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The sacred groves preserved by communities show that:", "options": ["Certain forests and trees were protected as holy", "Forests were always cut down", "Trees had no value", "Nature was ignored"], "correct_index": 0, "solution": "SACRED GROVES preserved by communities show that CERTAIN FORESTS and TREES were PROTECTED as HOLY — an early tradition of conserving nature through reverence. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Ganga is often personified and worshipped as:", "options": ["A goddess (Ganga Ma)", "A demon", "A king", "A merchant"], "correct_index": 0, "solution": "The GANGA is often PERSONIFIED and WORSHIPPED as a GODDESS (GANGA MA / Mother Ganga), regarded as pure and life-giving. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Haridwar, a sacred city, is located where the Ganga:", "options": ["Emerges from the mountains onto the plains", "Meets the sea", "Disappears underground", "Begins at its source only"], "correct_index": 0, "solution": "HARIDWAR is a sacred city located where the GANGA EMERGES from the MOUNTAINS onto the PLAINS — a major pilgrimage centre and Kumbh Mela site. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The tradition of pilgrimage encouraged people to:", "options": ["Travel, meet others and experience the wider land and its cultures", "Stay isolated", "Avoid all travel", "Ignore other regions"], "correct_index": 0, "solution": "The TRADITION of PILGRIMAGE encouraged people to TRAVEL, MEET OTHERS, and EXPERIENCE the WIDER LAND and its CULTURES — broadening their horizons beyond their home region. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The idea that a place is sacred often grew from:", "options": ["A belief that a god, saint or holy event was connected to it", "Its market value only", "Its military use", "Random chance"], "correct_index": 0, "solution": "The idea that a place is SACRED often grew from a BELIEF that a GOD, SAINT, or HOLY EVENT was CONNECTED to it — giving the place spiritual significance. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The sacred sites of India attract pilgrims from:", "options": ["All over the country and even abroad", "Only one village", "Nowhere", "Only foreign countries"], "correct_index": 0, "solution": "The SACRED SITES of India attract PILGRIMS from ALL OVER the COUNTRY and even from ABROAD, showing their wide and enduring appeal. So option 1 is correct.", "difficulty": "easy" },
-  { "stem": "The reverence for rivers as sacred can help modern efforts to:", "options": ["Protect and clean rivers from pollution", "Pollute rivers", "Ignore rivers", "Dry up rivers"], "correct_index": 0, "solution": "The REVERENCE for RIVERS as SACRED can help MODERN efforts to PROTECT and CLEAN RIVERS from POLLUTION — linking traditional values to environmental care (as in the Namami Gange mission). So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The way people of different faiths sometimes share or respect the same sacred sites reflects:", "options": ["India's tradition of tolerance and shared heritage", "Constant conflict", "Total separation", "Religious hatred"], "correct_index": 0, "solution": "The way people of DIFFERENT FAITHS sometimes SHARE or RESPECT the SAME SACRED SITES reflects India's tradition of TOLERANCE and SHARED HERITAGE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following is an example of a sacred mountain in Indian tradition?", "options": ["Mount Kailash", "The Thar Desert", "The Deccan Plateau", "The Rann of Kutch"], "correct_index": 0, "solution": "MOUNT KAILASH is an example of a SACRED MOUNTAIN in Indian tradition — revered as the abode of Shiva and a destination for pilgrims. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The pilgrimage routes of the past often followed:", "options": ["Trade routes and river valleys, linking economy and religion", "No routes at all", "Only the sea", "Only mountain peaks"], "correct_index": 0, "solution": "The PILGRIMAGE ROUTES of the past often FOLLOWED TRADE ROUTES and RIVER VALLEYS, LINKING ECONOMY and RELIGION as pilgrims and traders travelled the same paths. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The concept of the whole land as sacred contributed to Indians feeling that they belonged to:", "options": ["One shared cultural and spiritual homeland", "Many unrelated countries", "No homeland", "A foreign land"], "correct_index": 0, "solution": "The concept of the WHOLE LAND as SACRED contributed to Indians feeling that they BELONGED to ONE SHARED CULTURAL and SPIRITUAL HOMELAND, strengthening a sense of unity. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why is it valuable to study 'sacred geography'?", "options": ["It shows how religion, culture and the land together shaped a sense of shared identity", "It has no value", "It only lists rivers", "It ignores culture"], "correct_index": 0, "solution": "Studying 'SACRED GEOGRAPHY' is valuable because it shows how RELIGION, CULTURE, and the LAND TOGETHER shaped a sense of SHARED IDENTITY across India's diverse regions. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'How the Land Becomes Sacred' is that:", "options": ["No place in India is sacred", "Over the centuries, INDIA developed a rich 'SACRED GEOGRAPHY' — the whole land came to be dotted with HOLY PLACES: sacred RIVERS (like the Ganga), MOUNTAINS (like the Himalayas and Kailash), and PILGRIMAGE sites (TIRTHAS) belonging to many traditions — Hindu (the CHAR DHAM, the twelve JYOTIRLINGAS, the SHAKTI PEETHAS, the Sapta Puri like Varanasi, and the Kumbh Mela), Buddhist (Bodh Gaya), Jain (Shravanabelagola) and Sikh (Amritsar); PILGRIMAGE to these sites linked distant regions, spread ideas and trade, and wove the diverse land into a SHARED SACRED SPACE, fostering a deep sense of cultural unity — 'many in the one'", "Only one river is holy", "Pilgrimage has no importance"], "correct_index": 1, "solution": "The chapter's overall message is that over the centuries, INDIA developed a rich 'SACRED GEOGRAPHY' — the WHOLE LAND came to be dotted with HOLY PLACES. These include sacred RIVERS (especially the GANGA, and confluences like Prayag), MOUNTAINS (the HIMALAYAS, Mount KAILASH), and PILGRIMAGE sites (TIRTHAS, meaning 'crossings') belonging to MANY TRADITIONS: HINDU (the CHAR DHAM in the four directions, the twelve JYOTIRLINGAS of Shiva, the SHAKTI PEETHAS of the Goddess, the SAPTA PURI like VARANASI, and the great KUMBH MELA), BUDDHIST (BODH GAYA), JAIN (SHRAVANABELAGOLA), and SIKH (AMRITSAR's Golden Temple). PILGRIMAGE to these sites LINKED DISTANT REGIONS, SPREAD IDEAS and TRADE, and WOVE the DIVERSE LAND into a SHARED SACRED SPACE — fostering a deep sense of CULTURAL UNITY, 'many in the one'. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "In Indian tradition, a place of pilgrimage considered holy and often located near a river or crossing is called a:",
+    "options": [
+      "Tirtha",
+      "Janapada",
+      "Nagaram",
+      "Iqta"
+    ],
+    "correct_index": 0,
+    "solution": "A 'tirtha' is a sacred place of pilgrimage, often at a river crossing or holy site, visited by devotees.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The set of four principal pilgrimage sites (Badrinath, Dwarka, Puri and Rameswaram) spread across India is known as the:",
+    "options": [
+      "Char Dham",
+      "Sapta Puri",
+      "Panch Kedar",
+      "Ashta Vinayak"
+    ],
+    "correct_index": 0,
+    "solution": "The Char Dham comprises Badrinath (north), Dwarka (west), Puri (east) and Rameswaram (south) — spanning the four corners of India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The way sacred sites are spread across the whole subcontinent is often described as India's:",
+    "options": [
+      "Political map",
+      "Sacred geography",
+      "Climate zones",
+      "Trade network"
+    ],
+    "correct_index": 1,
+    "solution": "'Sacred geography' refers to how holy rivers, mountains and pilgrimage centres are distributed across the land, giving it a shared sacred identity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Networks of pilgrimage across the subcontinent historically helped to:",
+    "options": [
+      "Divide people permanently",
+      "Foster a sense of cultural unity and encourage travel and exchange",
+      "Stop all trade",
+      "End all festivals"
+    ],
+    "correct_index": 1,
+    "solution": "Pilgrimage linked distant regions, encouraging movement, exchange and a shared sense of belonging — reinforcing cultural unity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rivers such as the Ganga are regarded in Indian tradition as:",
+    "options": [
+      "Ordinary water bodies with no significance",
+      "Sacred and worthy of worship",
+      "Only useful for transport",
+      "Boundaries between enemy states"
+    ],
+    "correct_index": 1,
+    "solution": "Many rivers, especially the Ganga, are considered sacred and are worshipped, drawing pilgrims to their banks.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The idea that the land itself becomes sacred applies in India to:",
+    "options": [
+      "Only one religion",
+      "Several religious traditions, each with its own sacred sites",
+      "No religion",
+      "Only foreign lands"
+    ],
+    "correct_index": 1,
+    "solution": "Different traditions — Hindu, Buddhist, Jain, Sikh and others — each have their own sacred sites across the land, making sacred geography a shared feature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Twelve especially sacred shrines of Shiva, spread across India, are known as the:",
+    "options": [
+      "Jyotirlingas",
+      "Char Dham",
+      "Shakti Peethas",
+      "Ashta Lakshmi"
+    ],
+    "correct_index": 0,
+    "solution": "The twelve Jyotirlingas are important Shaiva pilgrimage shrines located in different parts of the country.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The word 'tirtha' literally suggests:",
+    "options": [
+      "A ford or crossing point (often at a river)",
+      "A market",
+      "A fort",
+      "A coin"
+    ],
+    "correct_index": 0,
+    "solution": "The word TIRTHA literally suggests a FORD or CROSSING POINT (often at a RIVER) — a place where one can 'cross over', both physically and spiritually. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A person who travels to a sacred place for religious reasons is called a:",
+    "options": [
+      "Pilgrim",
+      "Trader",
+      "Soldier",
+      "Farmer"
+    ],
+    "correct_index": 0,
+    "solution": "A person who TRAVELS to a SACRED PLACE for RELIGIOUS reasons is called a PILGRIM, and the journey is called a pilgrimage (tirtha-yatra). So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The Char Dham pilgrimage links sacred sites in the four directions: Badrinath (north), Dwarka (west), Puri (east) and:",
+    "options": [
+      "Rameswaram (south)",
+      "Delhi (centre)",
+      "Kolkata (east)",
+      "Mumbai (west)"
+    ],
+    "correct_index": 0,
+    "solution": "The CHAR DHAM links BADRINATH (north), DWARKA (west), PURI (east), and RAMESWARAM (SOUTH) — spanning the four corners of India. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Shakti Peethas are sacred sites associated with the worship of:",
+    "options": [
+      "The Goddess (Devi/Shakti)",
+      "Only Shiva",
+      "Only Vishnu",
+      "The Buddha"
+    ],
+    "correct_index": 0,
+    "solution": "The SHAKTI PEETHAS are sacred sites associated with the worship of the GODDESS (DEVI/SHAKTI), spread across the subcontinent and beyond. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sacred sites in India are associated not only with Hinduism but also with:",
+    "options": [
+      "Buddhism, Jainism, Sikhism and other traditions",
+      "No other religion",
+      "Only foreign religions",
+      "Only one temple"
+    ],
+    "correct_index": 0,
+    "solution": "SACRED SITES in India are associated not only with HINDUISM but also with BUDDHISM (Bodh Gaya, Sarnath), JAINISM (Palitana, Shravanabelagola), SIKHISM (Amritsar), and other traditions. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bodh Gaya is a sacred place especially for followers of:",
+    "options": [
+      "Buddhism (where the Buddha attained enlightenment)",
+      "Only Jainism",
+      "Only Sikhism",
+      "No religion"
+    ],
+    "correct_index": 0,
+    "solution": "BODH GAYA is a sacred place especially for BUDDHISM — it is where the BUDDHA attained ENLIGHTENMENT under the Bodhi tree. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The confluence (sangam) of rivers, like the Ganga, Yamuna and the mythical Sarasvati at Prayag, is considered:",
+    "options": [
+      "Especially sacred, drawing great gatherings like the Kumbh Mela",
+      "Ordinary and unimportant",
+      "Only a trade centre",
+      "A battlefield only"
+    ],
+    "correct_index": 0,
+    "solution": "The CONFLUENCE (SANGAM) of the GANGA, YAMUNA, and mythical SARASVATI at PRAYAG (Prayagraj) is considered ESPECIALLY SACRED, drawing GREAT GATHERINGS like the KUMBH MELA. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Consider the pairs: 1. Char Dham — four directions 2. Jyotirlingas — Shiva shrines 3. Shakti Peethas — Goddess sites. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: CHAR DHAM → the FOUR DIRECTIONS; JYOTIRLINGAS → SHIVA shrines; SHAKTI PEETHAS → GODDESS sites. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mountains like the Himalayas and Mount Kailash are regarded in Indian tradition as:",
+    "options": [
+      "Sacred, the abode of gods",
+      "Only obstacles",
+      "Ordinary rocks",
+      "Foreign territory"
+    ],
+    "correct_index": 0,
+    "solution": "MOUNTAINS like the HIMALAYAS and MOUNT KAILASH are regarded as SACRED — the ABODE of GODS (Kailash as the home of Shiva) — and are important pilgrimage destinations. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The way sacred sites are linked across the land helped to create:",
+    "options": [
+      "A shared cultural and spiritual bond across India",
+      "Complete division",
+      "Isolation of regions",
+      "The end of travel"
+    ],
+    "correct_index": 0,
+    "solution": "The LINKING of SACRED SITES across the land helped create a SHARED CULTURAL and SPIRITUAL BOND across INDIA — a sense that the whole land is one sacred space. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pilgrimage journeys in the past also contributed to:",
+    "options": [
+      "The spread of ideas, trade and cultural exchange along the routes",
+      "Nothing",
+      "Stopping all movement",
+      "Ending culture"
+    ],
+    "correct_index": 0,
+    "solution": "PILGRIMAGE JOURNEYS in the past also contributed to the SPREAD of IDEAS, TRADE, and CULTURAL EXCHANGE along the ROUTES, as pilgrims travelled far and met people from many regions. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The seven sacred cities (Sapta Puri) of Hindu tradition include Varanasi (Kashi), which is regarded as:",
+    "options": [
+      "One of the holiest and oldest living cities",
+      "A modern town",
+      "An unimportant place",
+      "A fort only"
+    ],
+    "correct_index": 0,
+    "solution": "The SAPTA PURI (seven sacred cities) include VARANASI (KASHI), regarded as one of the HOLIEST and OLDEST LIVING CITIES in the world, a major centre of pilgrimage. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Amritsar is an important sacred site especially for followers of:",
+    "options": [
+      "Sikhism (the Golden Temple / Harmandir Sahib)",
+      "Only Buddhism",
+      "Only Jainism",
+      "No religion"
+    ],
+    "correct_index": 0,
+    "solution": "AMRITSAR is an important sacred site especially for SIKHISM — home of the GOLDEN TEMPLE (Harmandir Sahib), the holiest Sikh shrine. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Pilgrimage fostered a sense of unity in India. Reason (R): Pilgrims travelled across the whole land to sacred sites, linking distant regions. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — pilgrimage fostered unity. R is TRUE and correctly EXPLAINS A: PILGRIMS TRAVELLED across the WHOLE LAND to sacred sites, LINKING DISTANT REGIONS — which is precisely how pilgrimage built a sense of unity. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea of 'sacred geography' means that:",
+    "options": [
+      "The whole land is dotted with holy places connected in the minds of people",
+      "Only one place is holy",
+      "No place is holy",
+      "Geography has no meaning"
+    ],
+    "correct_index": 0,
+    "solution": "The idea of 'SACRED GEOGRAPHY' means that the WHOLE LAND is DOTTED with HOLY PLACES — rivers, mountains, and shrines — CONNECTED in the MINDS of people into a shared sacred map. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sacred sites in India often mark:",
+    "options": [
+      "Places linked to gods, saints, events or natural features believed to be holy",
+      "Only markets",
+      "Only forts",
+      "Nothing special"
+    ],
+    "correct_index": 0,
+    "solution": "SACRED SITES often mark PLACES LINKED to GODS, SAINTS, important EVENTS, or NATURAL FEATURES (rivers, mountains, groves) BELIEVED to be HOLY. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Kumbh Mela, held at sacred river sites, is significant as:",
+    "options": [
+      "One of the largest religious gatherings in the world",
+      "A small local fair",
+      "A trade fair only",
+      "A modern festival with no roots"
+    ],
+    "correct_index": 0,
+    "solution": "The KUMBH MELA, held at sacred river sites (like Prayag, Haridwar, Ujjain, and Nashik), is significant as ONE of the LARGEST RELIGIOUS GATHERINGS in the WORLD, drawing millions of pilgrims. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The custom of visiting sacred sites of many faiths shows India's tradition of:",
+    "options": [
+      "Religious diversity and coexistence",
+      "A single religion",
+      "No religion",
+      "Conflict only"
+    ],
+    "correct_index": 0,
+    "solution": "The custom of VISITING SACRED SITES of MANY FAITHS shows India's tradition of RELIGIOUS DIVERSITY and COEXISTENCE — different traditions sharing the same sacred land. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs a sacred site with its tradition?",
+    "options": [
+      "Bodh Gaya → Buddhism; Amritsar → Sikhism; Shravanabelagola → Jainism",
+      "Bodh Gaya → Sikhism; Amritsar → Jainism; Shravanabelagola → Buddhism",
+      "All belong to one religion",
+      "None are sacred"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: BODH GAYA → BUDDHISM; AMRITSAR → SIKHISM; and SHRAVANABELAGOLA → JAINISM. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The sacred rivers of India are important in daily life and ritual because they are seen as:",
+    "options": [
+      "Sources of purity, life and blessings",
+      "Only for washing",
+      "Boundaries only",
+      "Of no importance"
+    ],
+    "correct_index": 0,
+    "solution": "The SACRED RIVERS of India are important because they are seen as SOURCES of PURITY, LIFE, and BLESSINGS — bathing in them is believed to cleanse and bring merit. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The linking of the land through sacred sites and pilgrimage is an example of:",
+    "options": [
+      "Cultural unity amid India's diversity",
+      "Political conquest",
+      "Economic decline",
+      "Religious conflict only"
+    ],
+    "correct_index": 0,
+    "solution": "The LINKING of the LAND through SACRED SITES and PILGRIMAGE is an example of CULTURAL UNITY amid India's DIVERSITY — a spiritual thread connecting the whole country. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best explains why sacred sites are spread across the whole country rather than in one place?",
+    "options": [
+      "Different regions, rivers, mountains and events all became holy over time, creating a nationwide sacred map",
+      "Only one region has holy places",
+      "Sacred sites were placed randomly",
+      "There are no sacred sites"
+    ],
+    "correct_index": 0,
+    "solution": "SACRED SITES are spread ACROSS the whole country because DIFFERENT REGIONS, RIVERS, MOUNTAINS, and EVENTS all BECAME HOLY over TIME, creating a NATIONWIDE SACRED MAP that ties the land together. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The stories and legends attached to sacred places help to:",
+    "options": [
+      "Give them meaning and connect people to a shared cultural memory",
+      "Confuse people",
+      "Erase history",
+      "Serve no purpose"
+    ],
+    "correct_index": 0,
+    "solution": "The STORIES and LEGENDS attached to SACRED PLACES help GIVE them MEANING and CONNECT people to a SHARED CULTURAL MEMORY, passed down through generations. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The practice of pilgrimage is found:",
+    "options": [
+      "Across many religions of India and the world",
+      "Only in India",
+      "In no religion",
+      "Only in one village"
+    ],
+    "correct_index": 0,
+    "solution": "The PRACTICE of PILGRIMAGE is found ACROSS MANY RELIGIONS of INDIA and the WORLD — a common human way of seeking the sacred. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The great gatherings at sacred sites like the Kumbh Mela demonstrate:",
+    "options": [
+      "The deep and living tradition of pilgrimage in India",
+      "That no one is religious",
+      "That pilgrimage has ended",
+      "That sites are empty"
+    ],
+    "correct_index": 0,
+    "solution": "The great GATHERINGS at sacred sites like the KUMBH MELA demonstrate the DEEP and LIVING TRADITION of PILGRIMAGE in India, continuing to draw millions today. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that mountains, rivers and forests can be sacred reflects a view of nature as:",
+    "options": [
+      "Something to be revered and protected",
+      "Merely a resource to exploit",
+      "Unimportant",
+      "An enemy"
+    ],
+    "correct_index": 0,
+    "solution": "The idea that MOUNTAINS, RIVERS, and FORESTS can be SACRED reflects a view of NATURE as something to be REVERED and PROTECTED — a value with meaning for the environment today. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sacred sites of different faiths across India together show that the land is:",
+    "options": [
+      "A shared sacred space for many communities",
+      "Holy to only one group",
+      "Not holy at all",
+      "Divided into enemy zones"
+    ],
+    "correct_index": 0,
+    "solution": "The SACRED SITES of DIFFERENT FAITHS across India show that the land is a SHARED SACRED SPACE for MANY COMMUNITIES — a source of unity in diversity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is TRUE about how the land becomes sacred?",
+    "options": [
+      "Over time, rivers, mountains, cities and events are seen as holy, weaving a sacred geography",
+      "The land was always ordinary",
+      "Sacredness cannot exist",
+      "Only buildings are sacred"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that over TIME, RIVERS, MOUNTAINS, CITIES, and EVENTS come to be SEEN as HOLY, WEAVING a SACRED GEOGRAPHY across the land. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pilgrimage networks connecting north, south, east and west of India reflect the idea of:",
+    "options": [
+      "'Many in the one' — diverse places bound into one sacred land",
+      "Total separation",
+      "One region only",
+      "No connection"
+    ],
+    "correct_index": 0,
+    "solution": "PILGRIMAGE NETWORKS connecting NORTH, SOUTH, EAST, and WEST reflect the idea of 'MANY in the ONE' — DIVERSE PLACES bound into ONE SACRED LAND, a theme of India's unity in diversity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bathing in a sacred river during a festival is believed by devotees to bring:",
+    "options": [
+      "Spiritual merit and purification",
+      "Wealth automatically",
+      "Nothing",
+      "Bad luck"
+    ],
+    "correct_index": 0,
+    "solution": "BATHING in a SACRED RIVER during a festival is believed by devotees to bring SPIRITUAL MERIT and PURIFICATION — washing away sins and gaining blessings. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sacred groves preserved by communities show that:",
+    "options": [
+      "Certain forests and trees were protected as holy",
+      "Forests were always cut down",
+      "Trees had no value",
+      "Nature was ignored"
+    ],
+    "correct_index": 0,
+    "solution": "SACRED GROVES preserved by communities show that CERTAIN FORESTS and TREES were PROTECTED as HOLY — an early tradition of conserving nature through reverence. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Ganga is often personified and worshipped as:",
+    "options": [
+      "A goddess (Ganga Ma)",
+      "A demon",
+      "A king",
+      "A merchant"
+    ],
+    "correct_index": 0,
+    "solution": "The GANGA is often PERSONIFIED and WORSHIPPED as a GODDESS (GANGA MA / Mother Ganga), regarded as pure and life-giving. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Haridwar, a sacred city, is located where the Ganga:",
+    "options": [
+      "Emerges from the mountains onto the plains",
+      "Meets the sea",
+      "Disappears underground",
+      "Begins at its source only"
+    ],
+    "correct_index": 0,
+    "solution": "HARIDWAR is a sacred city located where the GANGA EMERGES from the MOUNTAINS onto the PLAINS — a major pilgrimage centre and Kumbh Mela site. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The tradition of pilgrimage encouraged people to:",
+    "options": [
+      "Travel, meet others and experience the wider land and its cultures",
+      "Stay isolated",
+      "Avoid all travel",
+      "Ignore other regions"
+    ],
+    "correct_index": 0,
+    "solution": "The TRADITION of PILGRIMAGE encouraged people to TRAVEL, MEET OTHERS, and EXPERIENCE the WIDER LAND and its CULTURES — broadening their horizons beyond their home region. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The idea that a place is sacred often grew from:",
+    "options": [
+      "A belief that a god, saint or holy event was connected to it",
+      "Its market value only",
+      "Its military use",
+      "Random chance"
+    ],
+    "correct_index": 0,
+    "solution": "The idea that a place is SACRED often grew from a BELIEF that a GOD, SAINT, or HOLY EVENT was CONNECTED to it — giving the place spiritual significance. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sacred sites of India attract pilgrims from:",
+    "options": [
+      "All over the country and even abroad",
+      "Only one village",
+      "Nowhere",
+      "Only foreign countries"
+    ],
+    "correct_index": 0,
+    "solution": "The SACRED SITES of India attract PILGRIMS from ALL OVER the COUNTRY and even from ABROAD, showing their wide and enduring appeal. So option 1 is correct.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The reverence for rivers as sacred can help modern efforts to:",
+    "options": [
+      "Protect and clean rivers from pollution",
+      "Pollute rivers",
+      "Ignore rivers",
+      "Dry up rivers"
+    ],
+    "correct_index": 0,
+    "solution": "The REVERENCE for RIVERS as SACRED can help MODERN efforts to PROTECT and CLEAN RIVERS from POLLUTION — linking traditional values to environmental care (as in the Namami Gange mission). So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The way people of different faiths sometimes share or respect the same sacred sites reflects:",
+    "options": [
+      "India's tradition of tolerance and shared heritage",
+      "Constant conflict",
+      "Total separation",
+      "Religious hatred"
+    ],
+    "correct_index": 0,
+    "solution": "The way people of DIFFERENT FAITHS sometimes SHARE or RESPECT the SAME SACRED SITES reflects India's tradition of TOLERANCE and SHARED HERITAGE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an example of a sacred mountain in Indian tradition?",
+    "options": [
+      "Mount Kailash",
+      "The Thar Desert",
+      "The Deccan Plateau",
+      "The Rann of Kutch"
+    ],
+    "correct_index": 0,
+    "solution": "MOUNT KAILASH is an example of a SACRED MOUNTAIN in Indian tradition — revered as the abode of Shiva and a destination for pilgrims. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The pilgrimage routes of the past often followed:",
+    "options": [
+      "Trade routes and river valleys, linking economy and religion",
+      "No routes at all",
+      "Only the sea",
+      "Only mountain peaks"
+    ],
+    "correct_index": 0,
+    "solution": "The PILGRIMAGE ROUTES of the past often FOLLOWED TRADE ROUTES and RIVER VALLEYS, LINKING ECONOMY and RELIGION as pilgrims and traders travelled the same paths. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The concept of the whole land as sacred contributed to Indians feeling that they belonged to:",
+    "options": [
+      "One shared cultural and spiritual homeland",
+      "Many unrelated countries",
+      "No homeland",
+      "A foreign land"
+    ],
+    "correct_index": 0,
+    "solution": "The concept of the WHOLE LAND as SACRED contributed to Indians feeling that they BELONGED to ONE SHARED CULTURAL and SPIRITUAL HOMELAND, strengthening a sense of unity. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is it valuable to study 'sacred geography'?",
+    "options": [
+      "It shows how religion, culture and the land together shaped a sense of shared identity",
+      "It has no value",
+      "It only lists rivers",
+      "It ignores culture"
+    ],
+    "correct_index": 0,
+    "solution": "Studying 'SACRED GEOGRAPHY' is valuable because it shows how RELIGION, CULTURE, and the LAND TOGETHER shaped a sense of SHARED IDENTITY across India's diverse regions. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'How the Land Becomes Sacred' is that:",
+    "options": [
+      "No place in India is sacred",
+      "Over the centuries, INDIA developed a rich 'SACRED GEOGRAPHY' — the whole land came to be dotted with HOLY PLACES: sacred RIVERS (like the Ganga), MOUNTAINS (like the Himalayas and Kailash), and PILGRIMAGE sites (TIRTHAS) belonging to many traditions — Hindu (the CHAR DHAM, the twelve JYOTIRLINGAS, the SHAKTI PEETHAS, the Sapta Puri like Varanasi, and the Kumbh Mela), Buddhist (Bodh Gaya), Jain (Shravanabelagola) and Sikh (Amritsar); PILGRIMAGE to these sites linked distant regions, spread ideas and trade, and wove the diverse land into a SHARED SACRED SPACE, fostering a deep sense of cultural unity — 'many in the one'",
+      "Only one river is holy",
+      "Pilgrimage has no importance"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that over the centuries, INDIA developed a rich 'SACRED GEOGRAPHY' — the WHOLE LAND came to be dotted with HOLY PLACES. These include sacred RIVERS (especially the GANGA, and confluences like Prayag), MOUNTAINS (the HIMALAYAS, Mount KAILASH), and PILGRIMAGE sites (TIRTHAS, meaning 'crossings') belonging to MANY TRADITIONS: HINDU (the CHAR DHAM in the four directions, the twelve JYOTIRLINGAS of Shiva, the SHAKTI PEETHAS of the Goddess, the SAPTA PURI like VARANASI, and the great KUMBH MELA), BUDDHIST (BODH GAYA), JAIN (SHRAVANABELAGOLA), and SIKH (AMRITSAR's Golden Temple). PILGRIMAGE to these sites LINKED DISTANT REGIONS, SPREAD IDEAS and TRADE, and WOVE the DIVERSE LAND into a SHARED SACRED SPACE — fostering a deep sense of CULTURAL UNITY, 'many in the one'. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The theme 'how the land becomes sacred' explores how certain places in India came to be regarded as:",
+    "options": [
+      "Ordinary",
+      "Holy/sacred through religion, pilgrimage and tradition",
+      "Foreign",
+      "Uninhabited"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter explores how rivers, mountains, forests and towns across India came to be regarded as sacred through religious belief, myth, pilgrimage and long tradition.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A journey to a holy place for religious reasons is called a:",
+    "options": [
+      "Trade trip",
+      "Pilgrimage (yatra/tirtha-yatra)",
+      "Migration",
+      "War expedition"
+    ],
+    "correct_index": 1,
+    "solution": "A pilgrimage (tirtha-yatra) is a journey undertaken to a sacred place (tirtha) for religious merit and devotion, an important tradition across Indian religions.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A sacred site or 'crossing place' in Hindu tradition, often by a river, is called a:",
+    "options": [
+      "Bazaar",
+      "Tirtha",
+      "Fort",
+      "Sarai"
+    ],
+    "correct_index": 1,
+    "solution": "A 'tirtha' is a sacred crossing place or pilgrimage site, often located by rivers or water bodies, considered a threshold between the earthly and the divine.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Rivers like the Ganga are considered sacred in India and are often personified as:",
+    "options": [
+      "Enemies",
+      "Goddesses (e.g. Ganga as a goddess)",
+      "Kings",
+      "Merchants"
+    ],
+    "correct_index": 1,
+    "solution": "Rivers like the Ganga are revered as sacred and personified as goddesses; bathing in the Ganga is believed to cleanse sins, and its banks host major pilgrimage sites.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'Char Dham' pilgrimage circuit spans the four directions of India, including Badrinath, Dwarka, Puri and:",
+    "options": [
+      "Rameswaram",
+      "Delhi",
+      "Mumbai",
+      "Kolkata"
+    ],
+    "correct_index": 0,
+    "solution": "The Char Dham — Badrinath (north), Dwarka (west), Puri (east) and Rameswaram (south) — is a major pilgrimage circuit linking the four corners of India, reflecting sacred geography.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The concept of pilgrimage circuits spanning all of India reflects a sense of:",
+    "options": [
+      "Regional isolation",
+      "Cultural and spiritual unity of the land",
+      "Foreign influence",
+      "Conflict"
+    ],
+    "correct_index": 1,
+    "solution": "Pan-Indian pilgrimage circuits (like the Char Dham and the twelve Jyotirlingas) reflect and reinforce a sense of the cultural and spiritual unity of the Indian land.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The twelve 'Jyotirlingas' are sacred shrines dedicated to:",
+    "options": [
+      "Vishnu",
+      "Shiva",
+      "Durga",
+      "Surya"
+    ],
+    "correct_index": 1,
+    "solution": "The twelve Jyotirlingas are important shrines of Lord Shiva spread across India (e.g. Somnath, Kashi Vishwanath, Kedarnath), forming a major Shaivite pilgrimage network.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Shakti Peethas' are sacred sites associated with the worship of:",
+    "options": [
+      "Shiva",
+      "The Goddess (Devi/Shakti)",
+      "Vishnu",
+      "Ganesha"
+    ],
+    "correct_index": 1,
+    "solution": "The Shakti Peethas are sacred sites of the Goddess (Shakti), spread across the subcontinent, linked by the myth of Sati; they form an important circuit of Goddess worship.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sacred sites in India are associated with multiple religions; Bodh Gaya is sacred to:",
+    "options": [
+      "Buddhists (where the Buddha attained enlightenment)",
+      "Only Hindus",
+      "Only Jains",
+      "Only Sikhs"
+    ],
+    "correct_index": 0,
+    "solution": "Bodh Gaya, where the Buddha attained enlightenment, is one of the holiest sites for Buddhists worldwide and a major pilgrimage centre.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The holy city of Varanasi (Kashi), on the Ganga, is especially sacred to:",
+    "options": [
+      "Hindus",
+      "Only Christians",
+      "Only Muslims",
+      "No one"
+    ],
+    "correct_index": 0,
+    "solution": "Varanasi (Kashi/Banaras), one of the oldest living cities, on the banks of the Ganga, is among the holiest cities for Hindus and a major pilgrimage centre.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mountains are often considered sacred in India; Mount Kailash is revered by:",
+    "options": [
+      "Hindus, Buddhists, Jains and others",
+      "No one",
+      "Only foreigners",
+      "Only traders"
+    ],
+    "correct_index": 0,
+    "solution": "Mount Kailash (in Tibet) is revered as sacred by Hindus (abode of Shiva), Buddhists, Jains and Bon followers, a striking example of a shared sacred site.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Sufi shrines (dargahs), like that of Moinuddin Chishti at Ajmer, are:",
+    "options": [
+      "Only for one community",
+      "Sacred sites visited by people of many faiths",
+      "Forts",
+      "Markets"
+    ],
+    "correct_index": 1,
+    "solution": "Sufi dargahs, such as the shrine of Khwaja Moinuddin Chishti at Ajmer, are sacred sites that attract devotees of many faiths, reflecting India's composite spiritual culture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Golden Temple (Harmandir Sahib) at Amritsar is the holiest shrine of:",
+    "options": [
+      "Sikhism",
+      "Jainism",
+      "Buddhism",
+      "Christianity"
+    ],
+    "correct_index": 0,
+    "solution": "The Golden Temple (Harmandir Sahib) in Amritsar is the holiest gurudwara and central place of worship in Sikhism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Places become sacred over time through factors such as:",
+    "options": [
+      "Only geography",
+      "Association with deities, saints or events, and the practice of pilgrimage",
+      "Only trade",
+      "Only warfare"
+    ],
+    "correct_index": 1,
+    "solution": "Places become sacred through association with deities, saints, myths or important religious events, and are sanctified further by the tradition of pilgrimage and worship.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sacred geography of India helped foster:",
+    "options": [
+      "Regional division",
+      "A sense of connectedness and shared identity across the subcontinent",
+      "Isolation",
+      "Conflict only"
+    ],
+    "correct_index": 1,
+    "solution": "India's sacred geography — networks of pilgrimage sites across the land — helped foster a sense of connectedness and shared cultural identity among people from different regions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Kumbh Mela, a massive religious gathering, is held by rotation at Prayagraj, Haridwar, Ujjain and:",
+    "options": [
+      "Nashik",
+      "Puri",
+      "Madurai",
+      "Amritsar"
+    ],
+    "correct_index": 0,
+    "solution": "The Kumbh Mela rotates among four sacred river sites — Prayagraj, Haridwar, Ujjain and Nashik — drawing millions of pilgrims; it is inscribed on UNESCO's Intangible Cultural Heritage list.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sacred groves and sacred trees (like the peepal and banyan) show that Indians often regarded ______ as sacred.",
+    "options": [
+      "Only buildings",
+      "Nature (trees, forests, rivers)",
+      "Only foreign lands",
+      "Only cities"
+    ],
+    "correct_index": 1,
+    "solution": "Sacred groves, and reverence for trees (peepal, banyan), rivers and mountains, reflect a tradition of regarding nature itself as sacred — with spiritual and ecological significance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Temple towns and pilgrimage centres often grew into important:",
+    "options": [
+      "Empty places",
+      "Centres of settlement, economy and culture (attracting pilgrims, priests and traders)",
+      "Deserts",
+      "Forts only"
+    ],
+    "correct_index": 1,
+    "solution": "Pilgrimage centres and temple towns attracted pilgrims, priests, artisans and traders, growing into important centres of settlement, economy and culture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The pilgrimage traditions of India were recorded and encouraged in texts called the:",
+    "options": [
+      "Puranas (which describe tirthas and their glories)",
+      "Arthashastra",
+      "Only foreign books",
+      "Trade manuals"
+    ],
+    "correct_index": 0,
+    "solution": "The Puranas and 'mahatmya' texts describe the glory of various tirthas (pilgrimage sites) and encouraged pilgrimage, helping to establish and spread India's sacred geography.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The fact that a single site can be sacred to multiple religions illustrates India's:",
+    "options": [
+      "Religious conflict",
+      "Tradition of shared sacred spaces and pluralism",
+      "Isolation",
+      "Uniformity"
+    ],
+    "correct_index": 1,
+    "solution": "Sites sacred to multiple religions (like Mount Kailash, or shrines visited by people of different faiths) illustrate India's tradition of shared sacred spaces and religious pluralism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sacredness attached to rivers has, in modern times, also inspired efforts to:",
+    "options": [
+      "Pollute them",
+      "Clean and conserve them (e.g. Namami Gange for the Ganga)",
+      "Ignore them",
+      "Dry them up"
+    ],
+    "correct_index": 1,
+    "solution": "The deep sacredness of rivers like the Ganga has inspired modern conservation efforts, such as the Namami Gange programme, linking cultural reverence with environmental protection.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a sacred site with its tradition? (i) Bodh Gaya – Buddhism (ii) Golden Temple – Sikhism (iii) Ajmer Sharif – Sufi Islam",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Bodh Gaya (Buddhism), the Golden Temple (Sikhism) and Ajmer Sharif (Sufi Islam) are major sacred sites of their respective traditions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pilgrimage in India often involves visiting sacred sites located near:",
+    "options": [
+      "Only cities",
+      "Rivers, mountains, and confluences (sangam) considered holy",
+      "Only deserts",
+      "Only forests"
+    ],
+    "correct_index": 1,
+    "solution": "Many Indian pilgrimage sites are located by sacred rivers, mountains and confluences (sangam, like Prayag) — natural features regarded as especially holy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall significance of India's sacred geography is that it:",
+    "options": [
+      "Divided the country",
+      "Wove diverse regions and communities into a shared cultural and spiritual fabric",
+      "Had no effect",
+      "Isolated regions"
+    ],
+    "correct_index": 1,
+    "solution": "India's sacred geography — a web of pilgrimage sites and holy places across the land — wove diverse regions and communities together into a shared cultural and spiritual fabric.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tradition of pilgrimage contributed to unity by:",
+    "options": [
+      "Keeping people apart",
+      "Encouraging people from different regions to travel, meet and share culture",
+      "Ending travel",
+      "Promoting isolation"
+    ],
+    "correct_index": 1,
+    "solution": "Pilgrimage brought people from different regions and backgrounds together at shared sacred sites, encouraging travel, cultural exchange and a sense of belonging to a common civilisation.",
+    "difficulty": "medium"
+  }
 ]

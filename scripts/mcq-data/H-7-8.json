@@ -1,52 +1,962 @@
 [
-  { "stem": "The Mughal emperor whose death in 1707 is often taken to mark the beginning of the empire's decline was:", "options": ["Akbar", "Jahangir", "Aurangzeb", "Bahadur Shah Zafar"], "correct_index": 2, "solution": "Aurangzeb died in 1707; the weakening of central Mughal authority accelerated after his reign.", "difficulty": "medium" },
-  { "stem": "The Persian ruler who invaded India and sacked Delhi in 1739, carrying away the Peacock Throne and the Kohinoor, was:", "options": ["Ahmad Shah Abdali", "Nadir Shah", "Timur", "Mahmud of Ghazni"], "correct_index": 1, "solution": "Nadir Shah of Persia plundered Delhi in 1739, taking away treasures including the Peacock Throne and the Kohinoor diamond.", "difficulty": "medium" },
-  { "stem": "Match the successor state with its founder: 1. Hyderabad — Nizam-ul-Mulk Asaf Jah 2. Awadh — Saadat Khan 3. Bengal — Murshid Quli Khan. Which pairs are correct?", "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"], "correct_index": 3, "solution": "All three are correct: Hyderabad was founded by Nizam-ul-Mulk Asaf Jah, Awadh by Saadat Khan (Burhan-ul-Mulk), and independent Bengal by Murshid Quli Khan.", "difficulty": "hard" },
-  { "stem": "The Third Battle of Panipat (1761) was fought between the Marathas and:", "options": ["Nadir Shah", "Ahmad Shah Abdali (Durrani)", "The British", "Ibrahim Lodi"], "correct_index": 1, "solution": "In 1761 the Marathas were defeated by Ahmad Shah Abdali (Durrani) of Afghanistan at the Third Battle of Panipat.", "difficulty": "medium" },
-  { "stem": "In the 18th-century Maratha state, the effective head of administration who often overshadowed the king (Chhatrapati) was the:", "options": ["Peshwa", "Nizam", "Nawab", "Subadar"], "correct_index": 0, "solution": "The Peshwa (chief minister) became the real power in the Maratha confederacy, especially from Baji Rao I onwards.", "difficulty": "medium" },
-  { "stem": "The Sikh community was organised into a collective body called the Khalsa by:", "options": ["Guru Nanak", "Guru Gobind Singh", "Banda Bahadur", "Ranjit Singh"], "correct_index": 1, "solution": "Guru Gobind Singh, the tenth Sikh Guru, founded the Khalsa in 1699.", "difficulty": "medium" },
-  { "stem": "Suraj Mal is associated with the rise of which power in the 18th century?", "options": ["The Jats", "The Sikhs", "The Rajputs of Amber", "The Rohillas"], "correct_index": 0, "solution": "Under leaders like Suraj Mal, the Jats consolidated their power around the Delhi–Agra region in the 18th century.", "difficulty": "hard" },
-  { "stem": "The independent kingdom in Punjab in the early 19th century was built by which Sikh ruler?", "options": ["Banda Bahadur", "Maharaja Ranjit Singh", "Guru Tegh Bahadur", "Jassa Singh"], "correct_index": 1, "solution": "Maharaja Ranjit Singh united the Sikh misls and established a powerful kingdom in Punjab with Lahore as its capital.", "difficulty": "medium" },
-  { "stem": "The many regional states that emerged in the 18th century broadly fell into which categories?", "options": ["Old Mughal provinces, watan jagirs of zamindars, and states set up by rebels", "Only European colonies", "Only tribal republics", "Only city-states"], "correct_index": 0, "solution": "The 18th-century states are grouped as former Mughal provinces (Hyderabad, Awadh, Bengal), states ruled by old zamindar/warrior lineages (Rajputs), and new states carved out by rebels (Marathas, Sikhs, Jats).", "difficulty": "hard" },
-  { "stem": "The main reason for the decline of the Mughal Empire in the 18th century was:", "options": ["Weak later rulers, over-extension, financial crisis and rising regional powers", "Too much unity", "A single strong emperor", "The absence of any enemies"], "correct_index": 0, "solution": "The MUGHAL DECLINE was caused by WEAK LATER RULERS, OVER-EXTENSION (especially in the Deccan), a FINANCIAL and administrative CRISIS, invasions, and the RISE of REGIONAL POWERS. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Hyderabad was founded as an independent state by Nizam-ul-Mulk Asaf Jah, who was originally a:", "options": ["Mughal governor of the Deccan", "European trader", "Sikh guru", "Maratha peshwa"], "correct_index": 0, "solution": "HYDERABAD was founded by NIZAM-UL-MULK ASAF JAH, originally a MUGHAL GOVERNOR of the DECCAN, who effectively became independent while nominally acknowledging the emperor. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Bengal became virtually independent of Mughal control under:", "options": ["Murshid Quli Khan", "Saadat Khan", "Baji Rao", "Ranjit Singh"], "correct_index": 0, "solution": "BENGAL became virtually INDEPENDENT under MURSHID QULI KHAN, who as governor stopped sending revenue to Delhi and ran Bengal as an autonomous state. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Awadh, another successor state, was founded by:", "options": ["Saadat Khan (Burhan-ul-Mulk)", "Murshid Quli Khan", "Nizam-ul-Mulk", "Guru Gobind Singh"], "correct_index": 0, "solution": "AWADH was founded by SAADAT KHAN (Burhan-ul-Mulk), a Mughal governor who made it an autonomous state with its capital at Lucknow/Faizabad. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Although the successor states became independent, they usually:", "options": ["Still acknowledged the Mughal emperor's nominal authority", "Declared war on the emperor at once", "Left India", "Abolished all administration"], "correct_index": 0, "solution": "The SUCCESSOR STATES, though effectively independent, usually still ACKNOWLEDGED the MUGHAL EMPEROR's NOMINAL AUTHORITY (using his name for legitimacy) even as they ran their own affairs. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Marathas rose to power in the 17th century under the leadership of:", "options": ["Shivaji", "Baji Rao", "Nadir Shah", "Murshid Quli Khan"], "correct_index": 0, "solution": "The MARATHAS rose in the 17th century under SHIVAJI, who built a strong kingdom and inspired later Maratha expansion across much of India. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Under the Peshwas, the Maratha power expanded into a:", "options": ["Wide confederacy controlling much of India", "Single small village", "Foreign colony", "Tribal republic only"], "correct_index": 0, "solution": "Under the PESHWAS, Maratha power expanded into a WIDE CONFEDERACY of chiefs (like the Scindias, Holkars, Gaekwads, and Bhonsles) controlling MUCH of INDIA. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Maratha tax called 'chauth' was:", "options": ["About one-fourth of the revenue, collected from territories under their influence", "A religious offering", "A tax only on the sea", "A gift to the Mughals"], "correct_index": 0, "solution": "CHAUTH was a tax of about ONE-FOURTH (chatur = four) of the REVENUE, collected by the Marathas from territories under their INFLUENCE as a form of tribute/protection money. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Maratha tax 'sardeshmukhi' was:", "options": ["An additional levy of about one-tenth of the revenue", "A tax on temples", "A trade duty only", "A land grant"], "correct_index": 0, "solution": "SARDESHMUKHI was an ADDITIONAL levy of about ONE-TENTH of the REVENUE, claimed by the Marathas as the hereditary 'chief headmen' (sardeshmukhs) of a region. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Third Battle of Panipat (1761) was a major setback for the Marathas because it:", "options": ["Halted their northward expansion after a heavy defeat", "Gave them all of India", "Was a great victory", "Had no effect"], "correct_index": 0, "solution": "The THIRD BATTLE of PANIPAT (1761), a HEAVY DEFEAT by Ahmad Shah Abdali, HALTED the Marathas' NORTHWARD EXPANSION and weakened their bid for supremacy over India. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Khalsa, founded by Guru Gobind Singh in 1699, was:", "options": ["A collective community of committed Sikhs, later a military and political force", "A trade guild", "A tax", "A Mughal army"], "correct_index": 0, "solution": "The KHALSA, founded by GURU GOBIND SINGH in 1699, was a COLLECTIVE COMMUNITY of committed SIKHS that later became a strong MILITARY and POLITICAL FORCE. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "In the 18th century, the Sikhs were organised into military bands/confederacies called:", "options": ["Misls", "Iqtas", "Subas", "Tandas"], "correct_index": 0, "solution": "In the 18th century, the SIKHS were organised into MISLS — military bands/confederacies that controlled different areas of Punjab before being united by Ranjit Singh. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Maharaja Ranjit Singh united the Sikh misls and built a kingdom with its capital at:", "options": ["Lahore", "Delhi", "Amritsar", "Multan"], "correct_index": 0, "solution": "MAHARAJA RANJIT SINGH united the SIKH MISLS into a powerful kingdom in Punjab with its capital at LAHORE in the early 19th century. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Jats, under leaders like Suraj Mal, established their power around which region?", "options": ["The Delhi–Agra region", "Bengal", "The far south", "Kashmir"], "correct_index": 0, "solution": "The JATS, under leaders like SURAJ MAL, established their power around the DELHI–AGRA region, building forts (like Bharatpur) and a prosperous state. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Consider the pairs: 1. Hyderabad — Nizam-ul-Mulk 2. Awadh — Saadat Khan 3. Bengal — Murshid Quli Khan. How many are correctly matched?", "options": ["All three", "Only one", "Only two", "None"], "correct_index": 0, "solution": "ALL THREE are correct: HYDERABAD → NIZAM-UL-MULK Asaf Jah; AWADH → SAADAT KHAN; BENGAL → MURSHID QULI KHAN. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Nadir Shah's invasion of 1739 and Ahmad Shah Abdali's repeated invasions:", "options": ["Further weakened the Mughals and drained the empire's wealth", "Strengthened the Mughals", "Had no effect", "Founded the Mughal empire"], "correct_index": 0, "solution": "NADIR SHAH's (1739) and AHMAD SHAH ABDALI's repeated INVASIONS FURTHER WEAKENED the MUGHALS, DRAINED the empire's WEALTH (Nadir Shah took the Peacock Throne and Kohinoor), and exposed its military weakness. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The successor states of the 18th century were generally marked by:", "options": ["Strong provincial administration, revenue systems and their own armies", "No administration", "Complete chaos everywhere", "The absence of any rulers"], "correct_index": 0, "solution": "The SUCCESSOR STATES were generally marked by STRONG PROVINCIAL ADMINISTRATION, efficient REVENUE SYSTEMS, and their OWN ARMIES — showing that regional governance often remained effective even as central Mughal power collapsed. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Assertion (A): Many regional states arose in 18th-century India. Reason (R): As Mughal central authority weakened, governors, warrior chiefs and rebels established independent power. Choose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "correct_index": 0, "solution": "A is TRUE — many regional states arose. R is TRUE and correctly EXPLAINS A: as MUGHAL CENTRAL AUTHORITY WEAKENED, GOVERNORS, WARRIOR CHIEFS, and REBELS ESTABLISHED INDEPENDENT POWER — which is exactly why the new states emerged. So R is the correct explanation of A. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The three broad types of 18th-century states can be described as:", "options": ["Former Mughal provinces, old warrior/zamindar states, and new rebel states", "Only European colonies", "Only ancient kingdoms", "Only tribal groups"], "correct_index": 0, "solution": "The THREE BROAD TYPES of 18th-century states were: FORMER MUGHAL PROVINCES (Hyderabad, Awadh, Bengal); OLD WARRIOR/ZAMINDAR states (like the Rajputs); and NEW REBEL states (Marathas, Sikhs, Jats). So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Rajput states of this period, like Amber and Jodhpur, sought to:", "options": ["Extend their autonomy and territory as Mughal power declined", "Abolish kingship", "Leave India", "Serve only the Marathas"], "correct_index": 0, "solution": "The RAJPUT STATES (like AMBER and JODHPUR) sought to EXTEND their AUTONOMY and TERRITORY as Mughal power DECLINED, taking advantage of the changing political landscape. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Which of the following is TRUE about 18th-century India?", "options": ["It was a period of political fragmentation but also of vigorous regional states", "It was completely peaceful and united", "It had no states at all", "It was ruled entirely by Europeans"], "correct_index": 0, "solution": "It is TRUE that 18th-century India was a period of POLITICAL FRAGMENTATION (as the Mughal empire broke up) but ALSO of VIGOROUS REGIONAL STATES that governed effectively and competed for power. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Peshwa Baji Rao I is remembered for:", "options": ["Expanding Maratha power rapidly across north and central India", "Founding the Mughal empire", "Building the Taj Mahal", "Serving the British"], "correct_index": 0, "solution": "The PESHWA BAJI RAO I is remembered for RAPIDLY EXPANDING MARATHA POWER across NORTH and CENTRAL India through swift military campaigns. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The Marathas raised money for their expansion largely through:", "options": ["Chauth and sardeshmukhi collected from other regions", "Foreign aid only", "The sale of temples", "Printing currency"], "correct_index": 0, "solution": "The MARATHAS raised money largely through CHAUTH (about one-fourth of revenue) and SARDESHMUKHI (about one-tenth), collected from regions under their influence to fund their armies and expansion. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The political changes of the 18th century eventually opened the way for the rise of which foreign power?", "options": ["The British (East India Company)", "The Portuguese only", "The Chinese", "The Romans"], "correct_index": 0, "solution": "The political FRAGMENTATION and rivalry of the 18th century eventually OPENED the WAY for the rise of the BRITISH (EAST INDIA COMPANY), which exploited the divisions to gain control. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following correctly pairs a power with its region?", "options": ["Marathas → Deccan/western India; Sikhs → Punjab; Jats → Delhi–Agra region", "Marathas → Punjab; Sikhs → Bengal; Jats → Kashmir", "All ruled the same area", "None had a region"], "correct_index": 0, "solution": "The correct pairings are: MARATHAS → DECCAN/WESTERN India (expanding widely); SIKHS → PUNJAB; and JATS → the DELHI–AGRA region. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Nawabs of Bengal, Awadh and the Nizam of Hyderabad are examples of:", "options": ["Rulers of former Mughal provinces that became autonomous states", "European governors", "Tribal chiefs", "Maratha peshwas"], "correct_index": 0, "solution": "The NAWABS of BENGAL and AWADH and the NIZAM of HYDERABAD are examples of RULERS of FORMER MUGHAL PROVINCES that became AUTONOMOUS STATES in the 18th century. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Why did the successor states keep using the Mughal emperor's name even after becoming independent?", "options": ["The emperor's name still carried prestige and gave their rule legitimacy", "They loved the emperor", "They were forced by Europeans", "For no reason"], "correct_index": 0, "solution": "The successor states kept using the MUGHAL EMPEROR's NAME because it still carried PRESTIGE and gave their rule LEGITIMACY in the eyes of the people, even though they were effectively independent. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 18th century is best described in Indian history as an age of:", "options": ["Political reorganisation and the rise of regional powers", "Total peace", "No political change", "European rule only"], "correct_index": 0, "solution": "The 18TH CENTURY is best described as an age of POLITICAL REORGANISATION and the RISE of REGIONAL POWERS, as the Mughal empire declined and new states filled the vacuum. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Sikh state under Ranjit Singh was notable for its:", "options": ["Strong, well-organised army and administration in Punjab", "Weak army", "Lack of any government", "Foreign rule"], "correct_index": 0, "solution": "The SIKH STATE under RANJIT SINGH was notable for its STRONG, WELL-ORGANISED ARMY (modernised with European help) and effective ADMINISTRATION in PUNJAB. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The rise of so many regional states shows that, even in decline, the Mughal system had:", "options": ["Created strong administrative and revenue structures that the new states inherited", "No effect on later states", "Left nothing behind", "Prevented all new states"], "correct_index": 0, "solution": "The rise of the regional states shows that the MUGHAL SYSTEM had CREATED STRONG ADMINISTRATIVE and REVENUE STRUCTURES that the NEW STATES INHERITED and adapted — so the legacy of Mughal governance lived on. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The 'Chhatrapati' in the Maratha state was the:", "options": ["King (the title held by Shivaji and his successors)", "Chief minister", "Tax collector", "Foreign envoy"], "correct_index": 0, "solution": "The CHHATRAPATI was the KING of the Marathas — the title held by SHIVAJI and his successors — though real power later shifted to the Peshwa. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The Maratha confederacy included powerful chiefs such as the:", "options": ["Scindias, Holkars, Gaekwads and Bhonsles", "Nawabs of Bengal only", "Sikh gurus", "Rajput kings only"], "correct_index": 0, "solution": "The MARATHA CONFEDERACY included powerful chiefs — the SCINDIAS (Gwalior), HOLKARS (Indore), GAEKWADS (Baroda), and BHONSLES (Nagpur) — who controlled different regions under the Peshwa's leadership. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "Nadir Shah carried away which famous throne from Delhi in 1739?", "options": ["The Peacock Throne", "The Lion Throne", "The Golden Chair", "The Marble Seat"], "correct_index": 0, "solution": "NADIR SHAH carried away the famous PEACOCK THRONE (and the KOHINOOR diamond) from DELHI in 1739 — a symbol of Mughal wealth and its plundering. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The decline of central Mughal power did NOT mean the end of good governance because:", "options": ["Strong regional states maintained order, revenue and administration", "There was total chaos everywhere", "No one governed", "All states collapsed immediately"], "correct_index": 0, "solution": "The decline of CENTRAL Mughal power did NOT mean the end of good governance because STRONG REGIONAL STATES (Hyderabad, Awadh, Bengal, the Marathas) MAINTAINED ORDER, REVENUE, and ADMINISTRATION in their territories. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The state of Mysore rose to prominence in the 18th century under:", "options": ["Haidar Ali and Tipu Sultan", "Murshid Quli Khan", "Ranjit Singh", "Suraj Mal"], "correct_index": 0, "solution": "The state of MYSORE rose to prominence under HAIDAR ALI and his son TIPU SULTAN, who built a strong army and resisted the British. So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The rise of regional powers in the 18th century reflects the general truth that:", "options": ["When central authority weakens, regional forces rise to fill the gap", "Central authority never weakens", "Regions never gain power", "Nothing changes politically"], "correct_index": 0, "solution": "The rise of regional powers reflects the truth that when CENTRAL AUTHORITY WEAKENS, REGIONAL FORCES RISE to FILL the GAP — a recurring pattern in history. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following was a new state carved out by a religious community turned political-military force?", "options": ["The Sikh kingdom (from the Khalsa)", "Hyderabad", "Awadh", "Bengal"], "correct_index": 0, "solution": "The SIKH KINGDOM was a new state carved out by a RELIGIOUS COMMUNITY turned POLITICAL-MILITARY force — the KHALSA, organised into misls and united by Ranjit Singh. (Hyderabad, Awadh, and Bengal were former Mughal provinces.) So option 1 is correct.", "difficulty": "hard" },
-  { "stem": "The competition among the regional powers (Marathas, Nizam, Awadh, Mysore, etc.) meant that:", "options": ["They often fought each other, which the British later exploited", "They were always united", "They ignored each other", "They shared one ruler"], "correct_index": 0, "solution": "The COMPETITION among regional powers meant they OFTEN FOUGHT EACH OTHER, and this DISUNITY was later EXPLOITED by the BRITISH to gain control through alliances and conquest. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The 18th-century states generally financed themselves through:", "options": ["Efficient land-revenue collection and taxes on trade", "Foreign aid only", "No taxes", "Gifts alone"], "correct_index": 0, "solution": "The 18th-century STATES generally financed themselves through EFFICIENT LAND-REVENUE COLLECTION and TAXES on TRADE, inheriting and adapting Mughal revenue methods. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "Which of the following best summarises 18th-century India before British dominance?", "options": ["A patchwork of competing regional states that had emerged from the declining Mughal empire", "A single unified empire", "An empty land with no rulers", "A European colony throughout"], "correct_index": 0, "solution": "Before British dominance, 18th-century India was a PATCHWORK of COMPETING REGIONAL STATES that had emerged from the DECLINING MUGHAL EMPIRE — dynamic, divided, and soon to face European expansion. So option 1 is correct.", "difficulty": "medium" },
-  { "stem": "The overall message of the chapter 'Eighteenth-Century Political Formations' is that:", "options": ["Nothing happened in the 18th century", "As the MUGHAL EMPIRE declined after Aurangzeb (1707) — weakened by succession struggles, financial crisis and invasions by NADIR SHAH (1739) and AHMAD SHAH ABDALI — many new REGIONAL STATES arose, of three broad types: former Mughal PROVINCES that became autonomous (HYDERABAD under the Nizam, AWADH under Saadat Khan, BENGAL under Murshid Quli Khan), old WARRIOR/ZAMINDAR states (the Rajputs), and new REBEL states (the MARATHAS under the Peshwas, funded by chauth and sardeshmukhi; the SIKHS organised in misls and united by Ranjit Singh; and the JATS under Suraj Mal); this was an age of political reorganisation that eventually opened the way for British power", "The Mughal empire grew stronger", "India had only one ruler"], "correct_index": 1, "solution": "The chapter's overall message is that as the MUGHAL EMPIRE DECLINED after AURANGZEB's death (1707) — weakened by SUCCESSION STRUGGLES, FINANCIAL and administrative CRISIS, and devastating INVASIONS by NADIR SHAH (1739, who took the Peacock Throne and Kohinoor) and AHMAD SHAH ABDALI — many new REGIONAL STATES arose. These fell into THREE BROAD TYPES: FORMER MUGHAL PROVINCES that became autonomous (HYDERABAD under NIZAM-UL-MULK, AWADH under SAADAT KHAN, BENGAL under MURSHID QULI KHAN — which still used the emperor's name for legitimacy); OLD WARRIOR/ZAMINDAR states (the RAJPUTS); and new REBEL states — the MARATHAS (rising under Shivaji, expanding under the PESHWAS into a wide confederacy funded by CHAUTH and SARDESHMUKHI, but checked at the THIRD BATTLE of PANIPAT in 1761), the SIKHS (the KHALSA, organised into MISLS and united by MAHARAJA RANJIT SINGH in Punjab), and the JATS (under SURAJ MAL near Delhi–Agra). This age of POLITICAL REORGANISATION and vigorous regional states eventually OPENED the WAY for the rise of BRITISH power. So the overall message is option 2.", "difficulty": "medium" }
+  {
+    "stem": "The Mughal emperor whose death in 1707 is often taken to mark the beginning of the empire's decline was:",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Aurangzeb",
+      "Bahadur Shah Zafar"
+    ],
+    "correct_index": 2,
+    "solution": "Aurangzeb died in 1707; the weakening of central Mughal authority accelerated after his reign.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Persian ruler who invaded India and sacked Delhi in 1739, carrying away the Peacock Throne and the Kohinoor, was:",
+    "options": [
+      "Ahmad Shah Abdali",
+      "Nadir Shah",
+      "Timur",
+      "Mahmud of Ghazni"
+    ],
+    "correct_index": 1,
+    "solution": "Nadir Shah of Persia plundered Delhi in 1739, taking away treasures including the Peacock Throne and the Kohinoor diamond.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Match the successor state with its founder: 1. Hyderabad — Nizam-ul-Mulk Asaf Jah 2. Awadh — Saadat Khan 3. Bengal — Murshid Quli Khan. Which pairs are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_index": 3,
+    "solution": "All three are correct: Hyderabad was founded by Nizam-ul-Mulk Asaf Jah, Awadh by Saadat Khan (Burhan-ul-Mulk), and independent Bengal by Murshid Quli Khan.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Third Battle of Panipat (1761) was fought between the Marathas and:",
+    "options": [
+      "Nadir Shah",
+      "Ahmad Shah Abdali (Durrani)",
+      "The British",
+      "Ibrahim Lodi"
+    ],
+    "correct_index": 1,
+    "solution": "In 1761 the Marathas were defeated by Ahmad Shah Abdali (Durrani) of Afghanistan at the Third Battle of Panipat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the 18th-century Maratha state, the effective head of administration who often overshadowed the king (Chhatrapati) was the:",
+    "options": [
+      "Peshwa",
+      "Nizam",
+      "Nawab",
+      "Subadar"
+    ],
+    "correct_index": 0,
+    "solution": "The Peshwa (chief minister) became the real power in the Maratha confederacy, especially from Baji Rao I onwards.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sikh community was organised into a collective body called the Khalsa by:",
+    "options": [
+      "Guru Nanak",
+      "Guru Gobind Singh",
+      "Banda Bahadur",
+      "Ranjit Singh"
+    ],
+    "correct_index": 1,
+    "solution": "Guru Gobind Singh, the tenth Sikh Guru, founded the Khalsa in 1699.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Suraj Mal is associated with the rise of which power in the 18th century?",
+    "options": [
+      "The Jats",
+      "The Sikhs",
+      "The Rajputs of Amber",
+      "The Rohillas"
+    ],
+    "correct_index": 0,
+    "solution": "Under leaders like Suraj Mal, the Jats consolidated their power around the Delhi–Agra region in the 18th century.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The independent kingdom in Punjab in the early 19th century was built by which Sikh ruler?",
+    "options": [
+      "Banda Bahadur",
+      "Maharaja Ranjit Singh",
+      "Guru Tegh Bahadur",
+      "Jassa Singh"
+    ],
+    "correct_index": 1,
+    "solution": "Maharaja Ranjit Singh united the Sikh misls and established a powerful kingdom in Punjab with Lahore as its capital.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The many regional states that emerged in the 18th century broadly fell into which categories?",
+    "options": [
+      "Old Mughal provinces, watan jagirs of zamindars, and states set up by rebels",
+      "Only European colonies",
+      "Only tribal republics",
+      "Only city-states"
+    ],
+    "correct_index": 0,
+    "solution": "The 18th-century states are grouped as former Mughal provinces (Hyderabad, Awadh, Bengal), states ruled by old zamindar/warrior lineages (Rajputs), and new states carved out by rebels (Marathas, Sikhs, Jats).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main reason for the decline of the Mughal Empire in the 18th century was:",
+    "options": [
+      "Weak later rulers, over-extension, financial crisis and rising regional powers",
+      "Too much unity",
+      "A single strong emperor",
+      "The absence of any enemies"
+    ],
+    "correct_index": 0,
+    "solution": "The MUGHAL DECLINE was caused by WEAK LATER RULERS, OVER-EXTENSION (especially in the Deccan), a FINANCIAL and administrative CRISIS, invasions, and the RISE of REGIONAL POWERS. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hyderabad was founded as an independent state by Nizam-ul-Mulk Asaf Jah, who was originally a:",
+    "options": [
+      "Mughal governor of the Deccan",
+      "European trader",
+      "Sikh guru",
+      "Maratha peshwa"
+    ],
+    "correct_index": 0,
+    "solution": "HYDERABAD was founded by NIZAM-UL-MULK ASAF JAH, originally a MUGHAL GOVERNOR of the DECCAN, who effectively became independent while nominally acknowledging the emperor. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bengal became virtually independent of Mughal control under:",
+    "options": [
+      "Murshid Quli Khan",
+      "Saadat Khan",
+      "Baji Rao",
+      "Ranjit Singh"
+    ],
+    "correct_index": 0,
+    "solution": "BENGAL became virtually INDEPENDENT under MURSHID QULI KHAN, who as governor stopped sending revenue to Delhi and ran Bengal as an autonomous state. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Awadh, another successor state, was founded by:",
+    "options": [
+      "Saadat Khan (Burhan-ul-Mulk)",
+      "Murshid Quli Khan",
+      "Nizam-ul-Mulk",
+      "Guru Gobind Singh"
+    ],
+    "correct_index": 0,
+    "solution": "AWADH was founded by SAADAT KHAN (Burhan-ul-Mulk), a Mughal governor who made it an autonomous state with its capital at Lucknow/Faizabad. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Although the successor states became independent, they usually:",
+    "options": [
+      "Still acknowledged the Mughal emperor's nominal authority",
+      "Declared war on the emperor at once",
+      "Left India",
+      "Abolished all administration"
+    ],
+    "correct_index": 0,
+    "solution": "The SUCCESSOR STATES, though effectively independent, usually still ACKNOWLEDGED the MUGHAL EMPEROR's NOMINAL AUTHORITY (using his name for legitimacy) even as they ran their own affairs. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Marathas rose to power in the 17th century under the leadership of:",
+    "options": [
+      "Shivaji",
+      "Baji Rao",
+      "Nadir Shah",
+      "Murshid Quli Khan"
+    ],
+    "correct_index": 0,
+    "solution": "The MARATHAS rose in the 17th century under SHIVAJI, who built a strong kingdom and inspired later Maratha expansion across much of India. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Under the Peshwas, the Maratha power expanded into a:",
+    "options": [
+      "Wide confederacy controlling much of India",
+      "Single small village",
+      "Foreign colony",
+      "Tribal republic only"
+    ],
+    "correct_index": 0,
+    "solution": "Under the PESHWAS, Maratha power expanded into a WIDE CONFEDERACY of chiefs (like the Scindias, Holkars, Gaekwads, and Bhonsles) controlling MUCH of INDIA. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Maratha tax called 'chauth' was:",
+    "options": [
+      "About one-fourth of the revenue, collected from territories under their influence",
+      "A religious offering",
+      "A tax only on the sea",
+      "A gift to the Mughals"
+    ],
+    "correct_index": 0,
+    "solution": "CHAUTH was a tax of about ONE-FOURTH (chatur = four) of the REVENUE, collected by the Marathas from territories under their INFLUENCE as a form of tribute/protection money. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Maratha tax 'sardeshmukhi' was:",
+    "options": [
+      "An additional levy of about one-tenth of the revenue",
+      "A tax on temples",
+      "A trade duty only",
+      "A land grant"
+    ],
+    "correct_index": 0,
+    "solution": "SARDESHMUKHI was an ADDITIONAL levy of about ONE-TENTH of the REVENUE, claimed by the Marathas as the hereditary 'chief headmen' (sardeshmukhs) of a region. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Third Battle of Panipat (1761) was a major setback for the Marathas because it:",
+    "options": [
+      "Halted their northward expansion after a heavy defeat",
+      "Gave them all of India",
+      "Was a great victory",
+      "Had no effect"
+    ],
+    "correct_index": 0,
+    "solution": "The THIRD BATTLE of PANIPAT (1761), a HEAVY DEFEAT by Ahmad Shah Abdali, HALTED the Marathas' NORTHWARD EXPANSION and weakened their bid for supremacy over India. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Khalsa, founded by Guru Gobind Singh in 1699, was:",
+    "options": [
+      "A collective community of committed Sikhs, later a military and political force",
+      "A trade guild",
+      "A tax",
+      "A Mughal army"
+    ],
+    "correct_index": 0,
+    "solution": "The KHALSA, founded by GURU GOBIND SINGH in 1699, was a COLLECTIVE COMMUNITY of committed SIKHS that later became a strong MILITARY and POLITICAL FORCE. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the 18th century, the Sikhs were organised into military bands/confederacies called:",
+    "options": [
+      "Misls",
+      "Iqtas",
+      "Subas",
+      "Tandas"
+    ],
+    "correct_index": 0,
+    "solution": "In the 18th century, the SIKHS were organised into MISLS — military bands/confederacies that controlled different areas of Punjab before being united by Ranjit Singh. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Maharaja Ranjit Singh united the Sikh misls and built a kingdom with its capital at:",
+    "options": [
+      "Lahore",
+      "Delhi",
+      "Amritsar",
+      "Multan"
+    ],
+    "correct_index": 0,
+    "solution": "MAHARAJA RANJIT SINGH united the SIKH MISLS into a powerful kingdom in Punjab with its capital at LAHORE in the early 19th century. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Jats, under leaders like Suraj Mal, established their power around which region?",
+    "options": [
+      "The Delhi–Agra region",
+      "Bengal",
+      "The far south",
+      "Kashmir"
+    ],
+    "correct_index": 0,
+    "solution": "The JATS, under leaders like SURAJ MAL, established their power around the DELHI–AGRA region, building forts (like Bharatpur) and a prosperous state. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Consider the pairs: 1. Hyderabad — Nizam-ul-Mulk 2. Awadh — Saadat Khan 3. Bengal — Murshid Quli Khan. How many are correctly matched?",
+    "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "ALL THREE are correct: HYDERABAD → NIZAM-UL-MULK Asaf Jah; AWADH → SAADAT KHAN; BENGAL → MURSHID QULI KHAN. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Nadir Shah's invasion of 1739 and Ahmad Shah Abdali's repeated invasions:",
+    "options": [
+      "Further weakened the Mughals and drained the empire's wealth",
+      "Strengthened the Mughals",
+      "Had no effect",
+      "Founded the Mughal empire"
+    ],
+    "correct_index": 0,
+    "solution": "NADIR SHAH's (1739) and AHMAD SHAH ABDALI's repeated INVASIONS FURTHER WEAKENED the MUGHALS, DRAINED the empire's WEALTH (Nadir Shah took the Peacock Throne and Kohinoor), and exposed its military weakness. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The successor states of the 18th century were generally marked by:",
+    "options": [
+      "Strong provincial administration, revenue systems and their own armies",
+      "No administration",
+      "Complete chaos everywhere",
+      "The absence of any rulers"
+    ],
+    "correct_index": 0,
+    "solution": "The SUCCESSOR STATES were generally marked by STRONG PROVINCIAL ADMINISTRATION, efficient REVENUE SYSTEMS, and their OWN ARMIES — showing that regional governance often remained effective even as central Mughal power collapsed. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Assertion (A): Many regional states arose in 18th-century India. Reason (R): As Mughal central authority weakened, governors, warrior chiefs and rebels established independent power. Choose the correct option.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correct_index": 0,
+    "solution": "A is TRUE — many regional states arose. R is TRUE and correctly EXPLAINS A: as MUGHAL CENTRAL AUTHORITY WEAKENED, GOVERNORS, WARRIOR CHIEFS, and REBELS ESTABLISHED INDEPENDENT POWER — which is exactly why the new states emerged. So R is the correct explanation of A. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The three broad types of 18th-century states can be described as:",
+    "options": [
+      "Former Mughal provinces, old warrior/zamindar states, and new rebel states",
+      "Only European colonies",
+      "Only ancient kingdoms",
+      "Only tribal groups"
+    ],
+    "correct_index": 0,
+    "solution": "The THREE BROAD TYPES of 18th-century states were: FORMER MUGHAL PROVINCES (Hyderabad, Awadh, Bengal); OLD WARRIOR/ZAMINDAR states (like the Rajputs); and NEW REBEL states (Marathas, Sikhs, Jats). So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Rajput states of this period, like Amber and Jodhpur, sought to:",
+    "options": [
+      "Extend their autonomy and territory as Mughal power declined",
+      "Abolish kingship",
+      "Leave India",
+      "Serve only the Marathas"
+    ],
+    "correct_index": 0,
+    "solution": "The RAJPUT STATES (like AMBER and JODHPUR) sought to EXTEND their AUTONOMY and TERRITORY as Mughal power DECLINED, taking advantage of the changing political landscape. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is TRUE about 18th-century India?",
+    "options": [
+      "It was a period of political fragmentation but also of vigorous regional states",
+      "It was completely peaceful and united",
+      "It had no states at all",
+      "It was ruled entirely by Europeans"
+    ],
+    "correct_index": 0,
+    "solution": "It is TRUE that 18th-century India was a period of POLITICAL FRAGMENTATION (as the Mughal empire broke up) but ALSO of VIGOROUS REGIONAL STATES that governed effectively and competed for power. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Peshwa Baji Rao I is remembered for:",
+    "options": [
+      "Expanding Maratha power rapidly across north and central India",
+      "Founding the Mughal empire",
+      "Building the Taj Mahal",
+      "Serving the British"
+    ],
+    "correct_index": 0,
+    "solution": "The PESHWA BAJI RAO I is remembered for RAPIDLY EXPANDING MARATHA POWER across NORTH and CENTRAL India through swift military campaigns. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Marathas raised money for their expansion largely through:",
+    "options": [
+      "Chauth and sardeshmukhi collected from other regions",
+      "Foreign aid only",
+      "The sale of temples",
+      "Printing currency"
+    ],
+    "correct_index": 0,
+    "solution": "The MARATHAS raised money largely through CHAUTH (about one-fourth of revenue) and SARDESHMUKHI (about one-tenth), collected from regions under their influence to fund their armies and expansion. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The political changes of the 18th century eventually opened the way for the rise of which foreign power?",
+    "options": [
+      "The British (East India Company)",
+      "The Portuguese only",
+      "The Chinese",
+      "The Romans"
+    ],
+    "correct_index": 0,
+    "solution": "The political FRAGMENTATION and rivalry of the 18th century eventually OPENED the WAY for the rise of the BRITISH (EAST INDIA COMPANY), which exploited the divisions to gain control. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly pairs a power with its region?",
+    "options": [
+      "Marathas → Deccan/western India; Sikhs → Punjab; Jats → Delhi–Agra region",
+      "Marathas → Punjab; Sikhs → Bengal; Jats → Kashmir",
+      "All ruled the same area",
+      "None had a region"
+    ],
+    "correct_index": 0,
+    "solution": "The correct pairings are: MARATHAS → DECCAN/WESTERN India (expanding widely); SIKHS → PUNJAB; and JATS → the DELHI–AGRA region. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Nawabs of Bengal, Awadh and the Nizam of Hyderabad are examples of:",
+    "options": [
+      "Rulers of former Mughal provinces that became autonomous states",
+      "European governors",
+      "Tribal chiefs",
+      "Maratha peshwas"
+    ],
+    "correct_index": 0,
+    "solution": "The NAWABS of BENGAL and AWADH and the NIZAM of HYDERABAD are examples of RULERS of FORMER MUGHAL PROVINCES that became AUTONOMOUS STATES in the 18th century. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why did the successor states keep using the Mughal emperor's name even after becoming independent?",
+    "options": [
+      "The emperor's name still carried prestige and gave their rule legitimacy",
+      "They loved the emperor",
+      "They were forced by Europeans",
+      "For no reason"
+    ],
+    "correct_index": 0,
+    "solution": "The successor states kept using the MUGHAL EMPEROR's NAME because it still carried PRESTIGE and gave their rule LEGITIMACY in the eyes of the people, even though they were effectively independent. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 18th century is best described in Indian history as an age of:",
+    "options": [
+      "Political reorganisation and the rise of regional powers",
+      "Total peace",
+      "No political change",
+      "European rule only"
+    ],
+    "correct_index": 0,
+    "solution": "The 18TH CENTURY is best described as an age of POLITICAL REORGANISATION and the RISE of REGIONAL POWERS, as the Mughal empire declined and new states filled the vacuum. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sikh state under Ranjit Singh was notable for its:",
+    "options": [
+      "Strong, well-organised army and administration in Punjab",
+      "Weak army",
+      "Lack of any government",
+      "Foreign rule"
+    ],
+    "correct_index": 0,
+    "solution": "The SIKH STATE under RANJIT SINGH was notable for its STRONG, WELL-ORGANISED ARMY (modernised with European help) and effective ADMINISTRATION in PUNJAB. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rise of so many regional states shows that, even in decline, the Mughal system had:",
+    "options": [
+      "Created strong administrative and revenue structures that the new states inherited",
+      "No effect on later states",
+      "Left nothing behind",
+      "Prevented all new states"
+    ],
+    "correct_index": 0,
+    "solution": "The rise of the regional states shows that the MUGHAL SYSTEM had CREATED STRONG ADMINISTRATIVE and REVENUE STRUCTURES that the NEW STATES INHERITED and adapted — so the legacy of Mughal governance lived on. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The 'Chhatrapati' in the Maratha state was the:",
+    "options": [
+      "King (the title held by Shivaji and his successors)",
+      "Chief minister",
+      "Tax collector",
+      "Foreign envoy"
+    ],
+    "correct_index": 0,
+    "solution": "The CHHATRAPATI was the KING of the Marathas — the title held by SHIVAJI and his successors — though real power later shifted to the Peshwa. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Maratha confederacy included powerful chiefs such as the:",
+    "options": [
+      "Scindias, Holkars, Gaekwads and Bhonsles",
+      "Nawabs of Bengal only",
+      "Sikh gurus",
+      "Rajput kings only"
+    ],
+    "correct_index": 0,
+    "solution": "The MARATHA CONFEDERACY included powerful chiefs — the SCINDIAS (Gwalior), HOLKARS (Indore), GAEKWADS (Baroda), and BHONSLES (Nagpur) — who controlled different regions under the Peshwa's leadership. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nadir Shah carried away which famous throne from Delhi in 1739?",
+    "options": [
+      "The Peacock Throne",
+      "The Lion Throne",
+      "The Golden Chair",
+      "The Marble Seat"
+    ],
+    "correct_index": 0,
+    "solution": "NADIR SHAH carried away the famous PEACOCK THRONE (and the KOHINOOR diamond) from DELHI in 1739 — a symbol of Mughal wealth and its plundering. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The decline of central Mughal power did NOT mean the end of good governance because:",
+    "options": [
+      "Strong regional states maintained order, revenue and administration",
+      "There was total chaos everywhere",
+      "No one governed",
+      "All states collapsed immediately"
+    ],
+    "correct_index": 0,
+    "solution": "The decline of CENTRAL Mughal power did NOT mean the end of good governance because STRONG REGIONAL STATES (Hyderabad, Awadh, Bengal, the Marathas) MAINTAINED ORDER, REVENUE, and ADMINISTRATION in their territories. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The state of Mysore rose to prominence in the 18th century under:",
+    "options": [
+      "Haidar Ali and Tipu Sultan",
+      "Murshid Quli Khan",
+      "Ranjit Singh",
+      "Suraj Mal"
+    ],
+    "correct_index": 0,
+    "solution": "The state of MYSORE rose to prominence under HAIDAR ALI and his son TIPU SULTAN, who built a strong army and resisted the British. So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rise of regional powers in the 18th century reflects the general truth that:",
+    "options": [
+      "When central authority weakens, regional forces rise to fill the gap",
+      "Central authority never weakens",
+      "Regions never gain power",
+      "Nothing changes politically"
+    ],
+    "correct_index": 0,
+    "solution": "The rise of regional powers reflects the truth that when CENTRAL AUTHORITY WEAKENS, REGIONAL FORCES RISE to FILL the GAP — a recurring pattern in history. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following was a new state carved out by a religious community turned political-military force?",
+    "options": [
+      "The Sikh kingdom (from the Khalsa)",
+      "Hyderabad",
+      "Awadh",
+      "Bengal"
+    ],
+    "correct_index": 0,
+    "solution": "The SIKH KINGDOM was a new state carved out by a RELIGIOUS COMMUNITY turned POLITICAL-MILITARY force — the KHALSA, organised into misls and united by Ranjit Singh. (Hyderabad, Awadh, and Bengal were former Mughal provinces.) So option 1 is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The competition among the regional powers (Marathas, Nizam, Awadh, Mysore, etc.) meant that:",
+    "options": [
+      "They often fought each other, which the British later exploited",
+      "They were always united",
+      "They ignored each other",
+      "They shared one ruler"
+    ],
+    "correct_index": 0,
+    "solution": "The COMPETITION among regional powers meant they OFTEN FOUGHT EACH OTHER, and this DISUNITY was later EXPLOITED by the BRITISH to gain control through alliances and conquest. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 18th-century states generally financed themselves through:",
+    "options": [
+      "Efficient land-revenue collection and taxes on trade",
+      "Foreign aid only",
+      "No taxes",
+      "Gifts alone"
+    ],
+    "correct_index": 0,
+    "solution": "The 18th-century STATES generally financed themselves through EFFICIENT LAND-REVENUE COLLECTION and TAXES on TRADE, inheriting and adapting Mughal revenue methods. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best summarises 18th-century India before British dominance?",
+    "options": [
+      "A patchwork of competing regional states that had emerged from the declining Mughal empire",
+      "A single unified empire",
+      "An empty land with no rulers",
+      "A European colony throughout"
+    ],
+    "correct_index": 0,
+    "solution": "Before British dominance, 18th-century India was a PATCHWORK of COMPETING REGIONAL STATES that had emerged from the DECLINING MUGHAL EMPIRE — dynamic, divided, and soon to face European expansion. So option 1 is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Eighteenth-Century Political Formations' is that:",
+    "options": [
+      "Nothing happened in the 18th century",
+      "As the MUGHAL EMPIRE declined after Aurangzeb (1707) — weakened by succession struggles, financial crisis and invasions by NADIR SHAH (1739) and AHMAD SHAH ABDALI — many new REGIONAL STATES arose, of three broad types: former Mughal PROVINCES that became autonomous (HYDERABAD under the Nizam, AWADH under Saadat Khan, BENGAL under Murshid Quli Khan), old WARRIOR/ZAMINDAR states (the Rajputs), and new REBEL states (the MARATHAS under the Peshwas, funded by chauth and sardeshmukhi; the SIKHS organised in misls and united by Ranjit Singh; and the JATS under Suraj Mal); this was an age of political reorganisation that eventually opened the way for British power",
+      "The Mughal empire grew stronger",
+      "India had only one ruler"
+    ],
+    "correct_index": 1,
+    "solution": "The chapter's overall message is that as the MUGHAL EMPIRE DECLINED after AURANGZEB's death (1707) — weakened by SUCCESSION STRUGGLES, FINANCIAL and administrative CRISIS, and devastating INVASIONS by NADIR SHAH (1739, who took the Peacock Throne and Kohinoor) and AHMAD SHAH ABDALI — many new REGIONAL STATES arose. These fell into THREE BROAD TYPES: FORMER MUGHAL PROVINCES that became autonomous (HYDERABAD under NIZAM-UL-MULK, AWADH under SAADAT KHAN, BENGAL under MURSHID QULI KHAN — which still used the emperor's name for legitimacy); OLD WARRIOR/ZAMINDAR states (the RAJPUTS); and new REBEL states — the MARATHAS (rising under Shivaji, expanding under the PESHWAS into a wide confederacy funded by CHAUTH and SARDESHMUKHI, but checked at the THIRD BATTLE of PANIPAT in 1761), the SIKHS (the KHALSA, organised into MISLS and united by MAHARAJA RANJIT SINGH in Punjab), and the JATS (under SURAJ MAL near Delhi–Agra). This age of POLITICAL REORGANISATION and vigorous regional states eventually OPENED the WAY for the rise of BRITISH power. So the overall message is option 2.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 18th century in India is often described as a period of:",
+    "options": [
+      "A single strong empire",
+      "The decline of the Mughal Empire and the rise of regional/successor states",
+      "No political change",
+      "Foreign peace"
+    ],
+    "correct_index": 1,
+    "solution": "The 18th century saw the decline of the Mughal Empire after Aurangzeb and the emergence of numerous regional and successor states, along with growing European (especially British) influence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'successor states' that broke away or gained autonomy from the Mughals included Hyderabad, Awadh and:",
+    "options": [
+      "Bengal",
+      "England",
+      "Persia",
+      "Tibet"
+    ],
+    "correct_index": 0,
+    "solution": "The successor states — Hyderabad (under the Nizam), Awadh, and Bengal — were provinces whose governors became effectively independent as Mughal authority weakened.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hyderabad in the 18th century was founded/consolidated as an autonomous state by:",
+    "options": [
+      "Nizam-ul-Mulk Asaf Jah",
+      "Shivaji",
+      "Haidar Ali",
+      "Alivardi Khan"
+    ],
+    "correct_index": 0,
+    "solution": "Nizam-ul-Mulk Asaf Jah, the Mughal governor of the Deccan, founded the autonomous state of Hyderabad, becoming its first Nizam.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Awadh emerged as an autonomous state under its Mughal governor:",
+    "options": [
+      "Saadat Khan (Burhan-ul-Mulk)",
+      "Murshid Quli Khan",
+      "Nizam-ul-Mulk",
+      "Haidar Ali"
+    ],
+    "correct_index": 0,
+    "solution": "Saadat Khan (Burhan-ul-Mulk) founded the autonomous state of Awadh (Oudh), with its capital eventually at Lucknow.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Bengal became autonomous under the governor:",
+    "options": [
+      "Murshid Quli Khan",
+      "Saadat Khan",
+      "Nizam-ul-Mulk",
+      "Shivaji"
+    ],
+    "correct_index": 0,
+    "solution": "Murshid Quli Khan made Bengal effectively independent of Mughal control, shifting the capital to Murshidabad; his successors ruled a prosperous Bengal.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Marathas rose to become a major power in the 18th century under the leadership of the:",
+    "options": [
+      "Nizams",
+      "Peshwas",
+      "Nawabs",
+      "Nizam-ul-Mulk"
+    ],
+    "correct_index": 1,
+    "solution": "After Shivaji, the Maratha state expanded greatly under the Peshwas (hereditary prime ministers), becoming the dominant Indian power for much of the 18th century.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Maratha administrative/office of the prime minister who effectively led the state was the:",
+    "options": [
+      "Nawab",
+      "Peshwa",
+      "Nizam",
+      "Diwan"
+    ],
+    "correct_index": 1,
+    "solution": "The Peshwa was the prime minister of the Maratha state; under Peshwas like Baji Rao I, the Marathas expanded across large parts of India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Maratha confederacy included powerful families like the Scindias, Holkars, Gaekwads and:",
+    "options": [
+      "Bhonsles",
+      "Mughals",
+      "Nizams",
+      "Lodis"
+    ],
+    "correct_index": 0,
+    "solution": "The Maratha confederacy comprised chiefs like the Scindias (Gwalior), Holkars (Indore), Gaekwads (Baroda) and Bhonsles (Nagpur), loosely under the Peshwa.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The Maratha expansion was checked by their defeat at the Third Battle of Panipat (1761) by:",
+    "options": [
+      "Ahmad Shah Abdali",
+      "The British",
+      "The Mughals",
+      "The Portuguese"
+    ],
+    "correct_index": 0,
+    "solution": "The Marathas suffered a major defeat at the Third Battle of Panipat (1761) against Ahmad Shah Abdali (Durrani), which temporarily checked their northward expansion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Sikhs organised themselves into military bands called 'misls' and were later united into a kingdom by:",
+    "options": [
+      "Maharaja Ranjit Singh",
+      "Guru Nanak",
+      "Banda Bahadur",
+      "Haidar Ali"
+    ],
+    "correct_index": 0,
+    "solution": "Maharaja Ranjit Singh united the Sikh misls into a powerful kingdom in Punjab in the early 19th century, with Lahore as his capital.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The 'misls' among the Sikhs were:",
+    "options": [
+      "Types of coins",
+      "Confederate military bands/units",
+      "Temples",
+      "Trade guilds"
+    ],
+    "correct_index": 1,
+    "solution": "The misls were confederate Sikh military bands that controlled different territories in Punjab in the 18th century before being unified by Ranjit Singh.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Mysore rose as a strong power in the south under Haidar Ali and his son:",
+    "options": [
+      "Tipu Sultan",
+      "Nizam-ul-Mulk",
+      "Shivaji",
+      "Ranjit Singh"
+    ],
+    "correct_index": 0,
+    "solution": "Mysore became a formidable power under Haidar Ali and especially his son Tipu Sultan, who fiercely resisted British expansion in the Anglo-Mysore Wars.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tipu Sultan, the ruler of Mysore, was known as the:",
+    "options": [
+      "'Tiger of Mysore'",
+      "'Lion of Punjab'",
+      "'Nizam'",
+      "'Peshwa'"
+    ],
+    "correct_index": 0,
+    "solution": "Tipu Sultan was called the 'Tiger of Mysore' for his valour and determined resistance to the British; he died defending Srirangapatna in 1799.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Rajput states in the 18th century were characterised by:",
+    "options": [
+      "A single unified kingdom",
+      "Several independent/autonomous kingdoms often in conflict",
+      "Republican rule",
+      "No monarchy"
+    ],
+    "correct_index": 1,
+    "solution": "The Rajput states (Jaipur, Jodhpur, Udaipur, etc.) were several autonomous kingdoms in western India, often engaged in mutual conflicts and shifting alliances during this period.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Jat peasants under leaders like Churaman and Suraj Mal established a state centred at:",
+    "options": [
+      "Bharatpur",
+      "Delhi",
+      "Lucknow",
+      "Pune"
+    ],
+    "correct_index": 0,
+    "solution": "The Jats established a strong state centred at Bharatpur under leaders like Churaman and Suraj Mal, asserting power in the region around Delhi and Agra in the 18th century.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A common feature of many 18th-century states was that they:",
+    "options": [
+      "Rejected all Mughal practices",
+      "Continued Mughal administrative practices (like revenue systems) while asserting autonomy",
+      "Had no administration",
+      "Were ruled by Europeans"
+    ],
+    "correct_index": 1,
+    "solution": "Many successor and regional states retained Mughal administrative and revenue practices, and often nominally acknowledged the Mughal emperor, even as they became effectively independent.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The weakening of the Mughal Empire provided an opportunity for which European power to expand its control?",
+    "options": [
+      "Portugal",
+      "The British East India Company",
+      "Russia",
+      "Spain"
+    ],
+    "correct_index": 1,
+    "solution": "The political fragmentation and conflicts of the 18th century gave the British East India Company the opportunity to expand from a trading company into a territorial power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Battle of Plassey (1757), which gave the British control over Bengal, was fought against Nawab:",
+    "options": [
+      "Siraj-ud-Daulah",
+      "Mir Jafar",
+      "Alivardi Khan",
+      "Murshid Quli Khan"
+    ],
+    "correct_index": 0,
+    "solution": "At the Battle of Plassey (1757), Robert Clive of the East India Company defeated Nawab Siraj-ud-Daulah of Bengal (aided by the betrayal of Mir Jafar), a turning point for British power in India.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Battle of Buxar (1764) established British dominance by defeating the combined forces of the Nawab of Awadh, the Mughal emperor and the Nawab of:",
+    "options": [
+      "Bengal (Mir Qasim)",
+      "Mysore",
+      "Hyderabad",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "solution": "At Buxar (1764), the British defeated the combined armies of Mir Qasim (Bengal), Shuja-ud-Daula (Awadh) and the Mughal emperor Shah Alam II, cementing their hold over eastern India.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "After Buxar, the East India Company obtained the 'Diwani' (right to collect revenue) of Bengal, Bihar and Orissa in 1765 from:",
+    "options": [
+      "The Marathas",
+      "The Mughal emperor Shah Alam II",
+      "The Nizam",
+      "Tipu Sultan"
+    ],
+    "correct_index": 1,
+    "solution": "In 1765, the Mughal emperor Shah Alam II granted the East India Company the Diwani (revenue-collecting rights) of Bengal, Bihar and Orissa, giving it vast financial resources.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The general trend of 18th-century Indian polity was:",
+    "options": [
+      "Political unity",
+      "Political fragmentation and the rise of many regional powers",
+      "Democracy",
+      "Foreign peace"
+    ],
+    "correct_index": 1,
+    "solution": "The 18th century was marked by political fragmentation — the decline of central Mughal authority and the rise of numerous regional and successor states competing for power.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Chauth' and 'sardeshmukhi' were taxes levied by the:",
+    "options": [
+      "Mughals",
+      "Marathas",
+      "British",
+      "Sikhs"
+    ],
+    "correct_index": 1,
+    "solution": "Chauth (one-fourth of revenue) and sardeshmukhi (an additional levy) were taxes the Marathas collected from territories, a key source of their revenue and expansion.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The autonomous Nawabs and Nizams often continued to:",
+    "options": [
+      "Reject the Mughal emperor entirely",
+      "Nominally acknowledge the Mughal emperor while ruling independently",
+      "Rule as Europeans",
+      "Abolish taxes"
+    ],
+    "correct_index": 1,
+    "solution": "Many regional rulers continued to nominally recognise the Mughal emperor's suzerainty (using his name in coins and prayers) even while exercising full independent authority.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rise of regional states in the 18th century contributed to the growth of:",
+    "options": [
+      "Only warfare",
+      "Regional cultures, languages, art and administration",
+      "Cultural decline",
+      "Isolation"
+    ],
+    "correct_index": 1,
+    "solution": "The regional states became centres of vibrant regional cultures, patronising art, architecture, literature and languages (e.g. Lucknow under Awadh), enriching India's cultural landscape.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The Anglo-Maratha and Anglo-Mysore Wars of this period were fought between Indian powers and the:",
+    "options": [
+      "Portuguese",
+      "British East India Company",
+      "Dutch",
+      "French"
+    ],
+    "correct_index": 1,
+    "solution": "The Anglo-Maratha Wars and Anglo-Mysore Wars were fought between the British East India Company and the Marathas and Mysore respectively, as the Company expanded its territorial control.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The French and the British rivalry in 18th-century India was contested notably through the:",
+    "options": [
+      "Carnatic Wars",
+      "Battle of Panipat",
+      "Chola wars",
+      "Kalinga war"
+    ],
+    "correct_index": 0,
+    "solution": "The Carnatic Wars in southern India were a series of conflicts reflecting the Anglo-French rivalry for supremacy in India; the British ultimately prevailed.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The state of Travancore in the south under Marthanda Varma is notable for:",
+    "options": [
+      "Having no army",
+      "Building a strong state and defeating the Dutch at the Battle of Colachel",
+      "Being a Mughal province",
+      "Being ruled by the British"
+    ],
+    "correct_index": 1,
+    "solution": "Marthanda Varma built a powerful Travancore state and famously defeated the Dutch at the Battle of Colachel (1741), a rare Indian victory over a European naval power.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly matches a state with its leader? (i) Mysore – Tipu Sultan (ii) Punjab – Ranjit Singh (iii) Hyderabad – Nizam-ul-Mulk",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: Mysore under Tipu Sultan, Punjab under Maharaja Ranjit Singh, and Hyderabad under Nizam-ul-Mulk Asaf Jah.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall significance of the 18th-century political formations is that they:",
+    "options": [
+      "Had no impact",
+      "Shaped the transition from Mughal India to British colonial rule",
+      "Ended all trade",
+      "Restored the Mauryas"
+    ],
+    "correct_index": 1,
+    "solution": "The 18th-century regional states shaped the transition from the Mughal era to British colonial rule, as their rivalries and fragmentation enabled the East India Company's rise to dominance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason the British could gradually dominate 18th-century India was:",
+    "options": [
+      "Their large population in India",
+      "Indian political fragmentation, superior military-financial organisation and diplomacy (divide and rule)",
+      "Their farming skills",
+      "Their temples"
+    ],
+    "correct_index": 1,
+    "solution": "The British exploited India's political fragmentation, used superior military organisation and financial resources (from Bengal's revenue), and employed diplomacy and 'divide and rule' to expand their control.",
+    "difficulty": "medium"
+  }
 ]
