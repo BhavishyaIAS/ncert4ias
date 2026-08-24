@@ -4,8 +4,10 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { LADDER_RUNGS } from "@/lib/config/taxonomy";
 import { ENABLED_SUBJECTS } from "@/lib/config/subjects";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaHome } from "@/components/bhavishya/home";
 
-export default function Home() {
+function ClassicHome() {
   return (
     <main className="flex-1">
       {/* Hero */}
@@ -78,5 +80,11 @@ export default function Home() {
         </p>
       </section>
     </main>
+  );
+}
+
+export default function Home() {
+  return (
+    <ThemedPage classic={<ClassicHome />} bhavishya={<BhavishyaHome />} />
   );
 }

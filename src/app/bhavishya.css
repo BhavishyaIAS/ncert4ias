@@ -1,0 +1,453 @@
+/* ===========================================================================
+   Bhavishya — the redesign layer.
+
+   EVERY selector in this file is scoped under [data-theme="bhavishya"].
+   Nothing here can reach the classic UI. If you add a rule, scope it too.
+
+   Palette rationale and the contrast maths live in
+   docs/redesign/phase-1-design-plan.md. Re-derive with:
+       node scripts/check-palette.mjs
+   =========================================================================== */
+
+[data-theme="bhavishya"] {
+  /* ── the six ──────────────────────────────────────────────────────────── */
+  --bh-red: #e31e24;      /* brand. LARGE text (>=24px), surfaces, rules, the arc */
+  --bh-oxblood: #9e1b1e;  /* small red text on light grounds */
+  --bh-flare: #f0453f;    /* small red text on dark grounds */
+  --bh-ink: #141110;      /* body text */
+  --bh-paper: #fbf9f6;    /* page ground */
+  --bh-slate: #6b6560;    /* metadata, captions, codes */
+  --bh-white: #ffffff;    /* the ONLY value that clears AA on a red fill */
+
+  /* ── roles ────────────────────────────────────────────────────────────── */
+  --bh-ground: var(--bh-paper);
+  --bh-body: var(--bh-ink);
+  --bh-card: var(--bh-white);
+  --bh-edge: #e6e0d9;
+  --bh-hair: rgb(20 17 16 / 10%);
+  --bh-sunk: rgb(20 17 16 / 3.5%);
+  --bh-redtext: var(--bh-oxblood); /* red at small sizes — never --bh-red */
+
+  /* ── type ─────────────────────────────────────────────────────────────── */
+  --bh-display: var(--font-fraunces), Georgia, "Times New Roman", serif;
+  --bh-sans: var(--font-plex-sans), var(--font-plex-deva), ui-sans-serif,
+    system-ui, -apple-system, "Segoe UI", sans-serif;
+  --bh-mono: var(--font-plex-mono), ui-monospace, "SF Mono", Menlo, monospace;
+
+  /* ── motion ───────────────────────────────────────────────────────────── */
+  --bh-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --bh-quick: 120ms;
+  --bh-draw: 620ms;
+}
+
+/* --------------------------------------------------------------------------
+   Base
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] body {
+  background: var(--bh-ground);
+  color: var(--bh-body);
+  font-family: var(--bh-sans);
+  font-size: 17px;
+  line-height: 1.72;
+  -webkit-font-smoothing: antialiased;
+}
+
+[data-theme="bhavishya"] ::selection {
+  background: var(--bh-red);
+  color: var(--bh-white);
+}
+
+/* Focus is never invisible. 3px so it clears AA as a UI edge at any size. */
+[data-theme="bhavishya"] :focus-visible {
+  outline: 3px solid var(--bh-red);
+  outline-offset: 2px;
+  border-radius: 1px;
+}
+
+/* --------------------------------------------------------------------------
+   Type scale — the table in the Phase 1 plan, verbatim
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-hero {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 144, "WONK" 1;
+  font-weight: 900;
+  font-size: clamp(2.6rem, 1.6rem + 4.2vw, 4.6rem);
+  line-height: 0.94;
+  letter-spacing: -0.025em;
+  text-wrap: balance;
+}
+
+[data-theme="bhavishya"] .bh-h2 {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 96, "WONK" 1;
+  font-weight: 600;
+  font-size: clamp(1.75rem, 1.3rem + 1.7vw, 2.5rem);
+  line-height: 1.05;
+  letter-spacing: -0.018em;
+  text-wrap: balance;
+}
+
+[data-theme="bhavishya"] .bh-h3 {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 48;
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+[data-theme="bhavishya"] .bh-eyebrow {
+  font-family: var(--bh-mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--bh-slate);
+}
+
+[data-theme="bhavishya"] .bh-mono {
+  font-family: var(--bh-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.02em;
+  font-variant-numeric: tabular-nums;
+}
+
+[data-theme="bhavishya"] .bh-lede {
+  font-size: 1.16rem;
+  line-height: 1.6;
+  color: var(--bh-slate);
+  text-wrap: pretty;
+}
+
+[data-theme="bhavishya"] .bh-muted {
+  color: var(--bh-slate);
+}
+
+[data-theme="bhavishya"] .bh-note {
+  font-size: 0.9rem;
+  color: var(--bh-slate);
+}
+
+/* --------------------------------------------------------------------------
+   Rules. A 3px red rule is a surface, not text — it clears AA as a UI edge.
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-rule {
+  height: 3px;
+  background: var(--bh-red);
+  border: 0;
+}
+
+[data-theme="bhavishya"] .bh-hairline {
+  height: 1px;
+  background: var(--bh-hair);
+  border: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Header
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-header {
+  background: var(--bh-ground);
+  border-bottom: 1px solid var(--bh-hair);
+}
+
+[data-theme="bhavishya"] .bh-wordmark {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 48, "WONK" 1;
+  font-weight: 900;
+  font-size: 1.32rem;
+  letter-spacing: -0.02em;
+  color: var(--bh-body);
+  text-decoration: none;
+}
+
+/* The seal — one of only two places the arrow appears in the whole product. */
+[data-theme="bhavishya"] .bh-seal {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--bh-red);
+  display: grid;
+  place-items: center;
+  flex: none;
+}
+
+[data-theme="bhavishya"] .bh-navlink {
+  font-size: 0.94rem;
+  color: var(--bh-slate);
+  text-decoration: none;
+  padding: 4px 0;
+  border-bottom: 2px solid transparent;
+  transition: color var(--bh-quick) ease, border-color var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-navlink:hover {
+  color: var(--bh-body);
+  border-bottom-color: var(--bh-hair);
+}
+
+/* Red marks where you are. This is the rule the whole palette rests on. */
+[data-theme="bhavishya"] .bh-navlink[aria-current="page"] {
+  color: var(--bh-redtext);
+  border-bottom-color: var(--bh-red);
+}
+
+/* --------------------------------------------------------------------------
+   Buttons
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-family: var(--bh-sans);
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1;
+  padding: 13px 22px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform var(--bh-quick) ease, background var(--bh-quick) ease,
+    border-color var(--bh-quick) ease, color var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-btn:active {
+  transform: translateY(1px);
+}
+
+/* White on red measures 4.69:1 — the reason this is #fff and not --bh-paper. */
+[data-theme="bhavishya"] .bh-btn-primary {
+  background: var(--bh-red);
+  color: var(--bh-white);
+}
+
+[data-theme="bhavishya"] .bh-btn-primary:hover {
+  background: var(--bh-oxblood);
+}
+
+[data-theme="bhavishya"] .bh-btn-quiet {
+  background: transparent;
+  color: var(--bh-body);
+  border-color: var(--bh-edge);
+}
+
+[data-theme="bhavishya"] .bh-btn-quiet:hover {
+  border-color: var(--bh-red);
+  color: var(--bh-redtext);
+}
+
+[data-theme="bhavishya"] .bh-btn-bare {
+  background: transparent;
+  color: var(--bh-slate);
+  padding: 8px 10px;
+  font-size: 0.9rem;
+}
+
+[data-theme="bhavishya"] .bh-btn-bare:hover {
+  color: var(--bh-body);
+}
+
+/* --------------------------------------------------------------------------
+   The five-rung explainer. Numbering is information here — LADDER_RUNGS is a
+   genuine ordered sequence — so 01..05 appears here and nowhere else.
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-rungs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1px;
+}
+
+[data-theme="bhavishya"] .bh-rung {
+  background: var(--bh-card);
+  /* Cell hairlines are drawn by each cell, so a short final row leaves page
+     ground behind it rather than an orphaned grey block. */
+  box-shadow: 0 0 0 1px var(--bh-hair);
+  padding: 22px 20px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+}
+
+[data-theme="bhavishya"] .bh-rung-n {
+  font-family: var(--bh-mono);
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  color: var(--bh-slate);
+}
+
+[data-theme="bhavishya"] .bh-rung-label {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 36;
+  font-weight: 600;
+  font-size: 1.2rem;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+}
+
+[data-theme="bhavishya"] .bh-rung-tag {
+  font-size: 0.88rem;
+  color: var(--bh-slate);
+  line-height: 1.5;
+}
+
+[data-theme="bhavishya"] .bh-rung-who {
+  font-family: var(--bh-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--bh-slate);
+  margin-top: auto;
+  padding-top: 12px;
+}
+
+/* --------------------------------------------------------------------------
+   Subject grid. Phase 2 keeps these quiet — the textures land in Phase 3.
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(216px, 1fr));
+  gap: 1px;
+}
+
+[data-theme="bhavishya"] .bh-tile {
+  background: var(--bh-card);
+  box-shadow: 0 0 0 1px var(--bh-hair);
+  padding: 22px 20px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 0;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  transition: background var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] a.bh-tile::after {
+  content: "";
+  position: absolute;
+  inset-inline-start: 0;
+  inset-block: 0;
+  width: 3px;
+  background: var(--bh-red);
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: transform 220ms var(--bh-ease);
+}
+
+[data-theme="bhavishya"] a.bh-tile:hover::after,
+[data-theme="bhavishya"] a.bh-tile:focus-visible::after {
+  transform: scaleY(1);
+}
+
+[data-theme="bhavishya"] .bh-tile-name {
+  text-wrap: balance;
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 36;
+  font-weight: 600;
+  font-size: 1.14rem;
+  letter-spacing: -0.01em;
+}
+
+[data-theme="bhavishya"] .bh-tile-blurb {
+  font-size: 0.88rem;
+  color: var(--bh-slate);
+  line-height: 1.5;
+}
+
+/* --------------------------------------------------------------------------
+   Footer, and the switch that makes all of this revertible
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-footer {
+  border-top: 1px solid var(--bh-hair);
+  background: var(--bh-ground);
+}
+
+[data-theme="bhavishya"] .bh-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0;
+  border: 1px solid var(--bh-edge);
+  padding: 2px;
+}
+
+[data-theme="bhavishya"] .bh-switch button {
+  font-family: var(--bh-sans);
+  font-size: 0.78rem;
+  padding: 6px 12px;
+  border: 0;
+  background: transparent;
+  color: var(--bh-slate);
+  cursor: pointer;
+  transition: background var(--bh-quick) ease, color var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-switch button:hover {
+  color: var(--bh-body);
+}
+
+[data-theme="bhavishya"] .bh-switch button[aria-pressed="true"] {
+  background: var(--bh-red);
+  color: var(--bh-white);
+}
+
+/* --------------------------------------------------------------------------
+   Prose — the Revise rung and model answers render authored HTML.
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-prose {
+  max-width: 62ch;
+}
+
+[data-theme="bhavishya"] .bh-prose :is(h1, h2, h3, h4) {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 48;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+  margin: 1.6em 0 0.5em;
+}
+
+[data-theme="bhavishya"] .bh-prose p {
+  margin: 0 0 1.1em;
+}
+
+[data-theme="bhavishya"] .bh-prose :is(ul, ol) {
+  margin: 0 0 1.1em;
+  padding-inline-start: 1.3em;
+}
+
+[data-theme="bhavishya"] .bh-prose li {
+  margin-bottom: 0.4em;
+}
+
+[data-theme="bhavishya"] .bh-prose li::marker {
+  color: var(--bh-red);
+}
+
+[data-theme="bhavishya"] .bh-prose strong {
+  font-weight: 600;
+}
+
+[data-theme="bhavishya"] .bh-prose code {
+  font-family: var(--bh-mono);
+  font-size: 0.88em;
+  background: var(--bh-sunk);
+  padding: 0.1em 0.35em;
+}
+
+/* --------------------------------------------------------------------------
+   Motion: reduced-motion removes duration, never the state change itself.
+   -------------------------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  [data-theme="bhavishya"] *,
+  [data-theme="bhavishya"] *::before,
+  [data-theme="bhavishya"] *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
