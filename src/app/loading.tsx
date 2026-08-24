@@ -1,4 +1,7 @@
-export default function Loading() {
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaLoading } from "@/components/bhavishya/states";
+
+function ClassicLoading() {
   return (
     <div className="flex flex-1 items-center justify-center py-24">
       <div className="flex items-center gap-2 text-sm text-muted-foreground">
@@ -6,5 +9,11 @@ export default function Loading() {
         Loading…
       </div>
     </div>
+  );
+}
+
+export default function Loading() {
+  return (
+    <ThemedPage classic={<ClassicLoading />} bhavishya={<BhavishyaLoading />} />
   );
 }

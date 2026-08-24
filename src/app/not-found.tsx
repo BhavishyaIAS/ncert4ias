@@ -1,7 +1,9 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaNotFound } from "@/components/bhavishya/states";
 
-export default function NotFound() {
+function ClassicNotFound() {
   return (
     <main className="flex flex-1 items-center justify-center px-6 py-24">
       <div className="text-center">
@@ -17,5 +19,11 @@ export default function NotFound() {
         </Button>
       </div>
     </main>
+  );
+}
+
+export default function NotFound() {
+  return (
+    <ThemedPage classic={<ClassicNotFound />} bhavishya={<BhavishyaNotFound />} />
   );
 }

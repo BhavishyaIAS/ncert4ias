@@ -4,8 +4,8 @@ The Bhavishya visual redesign ships as a **layer that can be switched off**, not
 replacement. The original UI is still in the repo, still working, and still reachable by
 anyone at any time.
 
-**Status: Phase 4 of 5 complete** (foundation, layout, homepage, subject system, browse,
-search, and the chapter experience). Phase 5 — responsive/a11y/perf polish — is not done yet.
+**Status: complete.** All five phases are done — foundation, subject system, chapter
+experience, and the polish pass.
 
 ---
 
@@ -87,6 +87,8 @@ the footer and the theme plumbing.
 | `src/components/bhavishya/chapter/prelims.tsx` | MCQ practice and answer reveal. |
 | `src/components/bhavishya/chapter/mains.tsx` | Mains questions and model answers. |
 | `src/components/bhavishya/chapter/index.tsx` | The chapter shell — header, ladder, rung panels. |
+| `src/components/bhavishya/states.tsx` | Loading skeleton and the 404. |
+| `src/components/bhavishya/auth.tsx` | Sign in / sign up, using the existing server actions unchanged. |
 | `scripts/check-palette.mjs` | Re-derives every contrast decision from the red token. Exits non-zero on failure. |
 | `docs/redesign/phase-1-design-plan.md` | Palette, type, motion and subject rationale. |
 
@@ -138,9 +140,15 @@ export default function Thing(props) {
 }
 ```
 
-Routes still on classic in both themes: `/login`, `/signup`, the root
-`error`/`loading`/`not-found` states, and all of `/admin`. Admin is intentionally staying
-classic; the auth and root-state screens are Phase 5.
+Every student-facing route is themed. Only `/admin/*` stays classic in both themes, which is
+deliberate — it is an internal authoring tool, not part of the product being redesigned.
+
+`error.tsx` is the one exception to the switch pattern: it is a client component and the
+framework renders it with only `error` and `reset`, so it cannot await the theme. Both
+variants are rendered and one is hidden by a theme-scoped CSS rule. Those two rules are the
+only ones in `bhavishya.css` that take effect under `classic`, and they can only ever hide an
+element that exists because of the redesign. `display: none` also keeps the hidden copy out
+of the tab order and the accessibility tree.
 
 ## The chapter experience
 
@@ -193,6 +201,39 @@ pattern needs no new code at all. Anything missing from the map falls back to
 
 ---
 
+## Performance
+
+Lighthouse, mobile emulation, 4× CPU throttle, homepage:
+
+| Build | Perf | A11y | Best practices | SEO | FCP | LCP | TBT | CLS |
+| ----- | ---- | ---- | -------------- | --- | --- | --- | --- | --- |
+| pre-redesign | 94 | 100 | 100 | 100 | 0.8s | 3.1s | 80ms | 0 |
+| post, classic | **99** | 100 | 100 | 100 | 0.9s | **2.0s** | 40ms | 0 |
+| post, bhavishya | **99** | 100 | 100 | 100 | 0.9s | **2.1s** | 50ms | 0.014 |
+
+### A correction, and the font decision behind it
+
+An earlier note in this file claimed the browser "only fetches a font file when a glyph needs
+it, so classic pays nothing for these being declared". **That was wrong.** `next/font` emits
+its `<link rel="preload">` hints from the *module import*, not from whichever `className` a
+render actually uses. Declaring four extra families made **classic download 399KB of fonts it
+never renders**, and dropped Lighthouse from 94 to 84 with LCP going 3.1s → 4.5s.
+
+Gating the className did not fix it — the preload is import-driven. `preload: false` on the
+four bhavishya families is what fixed it: the `@font-face` rules stay in the CSS and a file is
+fetched only when a glyph needs that family.
+
+| | font files | bytes |
+| --- | --- | --- |
+| pre-redesign | 2 | 52,396 |
+| post, classic | 2 | 52,396 — identical |
+| post, bhavishya | 6 | 233,548, fetched on demand |
+
+The trade: bhavishya's faces arrive via normal CSS discovery instead of a preload hint, which
+`display: "swap"` already covers — text is readable immediately in the fallback and swaps when
+the face lands. That is what the 0.014 CLS is, and it is well inside the 0.1 "good" threshold.
+Classic pays nothing at all.
+
 ## What was verified
 
 - `next build` succeeds; all 22 routes present and typechecking clean.
@@ -206,7 +247,20 @@ pattern needs no new code at all. Anything missing from the map falls back to
 - The switch round-trips, and after a reload the server-rendered HTML already carries the
   chosen theme, so there is no flash.
 - `FORCE_THEME` and `DEFAULT_THEME` behave as described above, without a rebuild.
-- No horizontal overflow at 360px in either theme.
+- No horizontal overflow at **320px, 360px or 414px**, in either theme, on every route.
+- **axe-core (WCAG 2.0/2.1 A and AA): zero violations** across `/`, `/browse`, `/browse/8`,
+  `/gs`, `/search`, `/login`, `/signup`, `/nope` in BOTH themes, plus the chapter page both
+  before and after interacting with an MCQ and opening a model answer.
+- **Contrast measured at rendered sizes, not asserted:** every text node walked, its real
+  computed foreground and inherited background read, and compared against 4.5:1 or 3.0:1
+  according to its actual pixel size and weight. **Zero failures.**
+- Tab order is logical on every screen, and every focused control shows a ring. One real
+  regression was caught and fixed here: `.bh-input:focus { outline: none }` had replaced the
+  3px focus ring with a faint 18%-alpha shadow.
+- `prefers-reduced-motion`: transition durations collapse to ~0 while the state still
+  changes — the arc jumps to its new length and the mark fills. Motion removed, not the
+  change.
+- Lighthouse: **no regression; a 5-point improvement** (see above).
 
 ## Known issues
 

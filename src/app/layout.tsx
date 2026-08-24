@@ -28,14 +28,22 @@ const geistMono = Geist_Mono({
 });
 
 /* Bhavishya. Self-hosted by next/font — downloaded at build, served from our
-   own origin, so no render-blocking call to Google and no layout shift. The
-   browser only fetches a file when a glyph actually needs it, so classic pays
-   nothing for these being declared. */
+   own origin, so no render-blocking call to Google and no layout shift.
+
+   next/font emits its preload links from the MODULE IMPORT, not from whichever
+   className a render happens to use — so declaring these made classic download
+   399KB of fonts it never renders, and gating the className did not help.
+   preload:false is what actually stops it: the @font-face stays in the CSS and
+   the browser fetches a file only when a glyph needs that family. Classic then
+   fetches none of them. Bhavishya fetches them on first paint instead of via a
+   preload hint, which display:"swap" already covers — text is readable
+   immediately in the fallback and swaps when the face lands. */
 const fraunces = Fraunces({
   variable: "--font-fraunces",
   subsets: ["latin"],
   axes: ["SOFT", "WONK", "opsz"],
   display: "swap",
+  preload: false,
 });
 
 const plexSans = IBM_Plex_Sans({
@@ -43,13 +51,15 @@ const plexSans = IBM_Plex_Sans({
   subsets: ["latin"],
   weight: ["400", "500", "600"],
   display: "swap",
+  preload: false,
 });
 
 const plexDevanagari = IBM_Plex_Sans_Devanagari({
   variable: "--font-plex-deva",
   subsets: ["devanagari"],
-  weight: ["400", "500", "600"],
+  weight: ["400", "600"],
   display: "swap",
+  preload: false,
 });
 
 const plexMono = IBM_Plex_Mono({
@@ -57,6 +67,7 @@ const plexMono = IBM_Plex_Mono({
   subsets: ["latin"],
   weight: ["400", "500"],
   display: "swap",
+  preload: false,
 });
 
 export const metadata: Metadata = {
@@ -88,6 +99,13 @@ const THEME_BOOTSTRAP = `
 }catch(e){}})();
 `;
 
+/** Only the active theme's families, so neither theme pays for the other's. */
+function themeFonts(theme: string) {
+  return theme === "bhavishya"
+    ? `${fraunces.variable} ${plexSans.variable} ${plexDevanagari.variable} ${plexMono.variable}`
+    : `${geistSans.variable} ${geistMono.variable}`;
+}
+
 export default async function RootLayout({
   children,
 }: Readonly<{
@@ -99,7 +117,7 @@ export default async function RootLayout({
     <html
       lang="en"
       data-theme={theme}
-      className={`${geistSans.variable} ${geistMono.variable} ${fraunces.variable} ${plexSans.variable} ${plexDevanagari.variable} ${plexMono.variable} h-full antialiased`}
+      className={`${themeFonts(theme)} h-full antialiased`}
     >
       <head>
         <script dangerouslySetInnerHTML={{ __html: THEME_BOOTSTRAP }} />

@@ -722,13 +722,14 @@
   color: var(--bh-slate);
 }
 
-[data-theme="bhavishya"] .bh-searchbar input:focus {
-  outline: none;
-}
-
 [data-theme="bhavishya"] .bh-searchbar:focus-within {
   border-color: var(--bh-red);
-  box-shadow: 0 0 0 2px rgb(227 30 36 / 18%);
+}
+
+/* The outline is inset here so a 3px ring on an input that fills its container
+   is not clipped by the container's own border. */
+[data-theme="bhavishya"] .bh-searchbar input:focus-visible {
+  outline-offset: -3px;
 }
 
 [data-theme="bhavishya"] .bh-result {
@@ -1202,4 +1203,108 @@
   padding: 16px 18px 18px;
   font-size: 0.98rem;
   line-height: 1.6;
+}
+
+/* ==========================================================================
+   PHASE 5 — states, auth, and the responsive floor
+   ========================================================================== */
+
+/* Loading skeleton. The shimmer is opacity-only and is removed entirely under
+   prefers-reduced-motion by the global rule at the top of this file. */
+[data-theme="bhavishya"] .bh-skel {
+  background: var(--bh-hair);
+  animation: bh-pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes bh-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.45;
+  }
+}
+
+/* error.tsx is a client component and cannot await the theme, so both variants
+   are rendered and one is hidden. These are the ONLY rules in this file that
+   take effect under `classic`, and they can only ever hide an element that
+   exists because of the redesign — no pre-existing markup carries these
+   classes. `display: none` also removes the hidden copy from the tab order and
+   the accessibility tree, so there are no duplicate controls. */
+[data-theme="classic"] .bh-when-new {
+  display: none;
+}
+
+[data-theme="bhavishya"] .bh-when-classic {
+  display: none;
+}
+
+/* --------------------------------------------------------------------------
+   Auth
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+[data-theme="bhavishya"] .bh-label {
+  font-family: var(--bh-mono);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--bh-slate);
+}
+
+[data-theme="bhavishya"] .bh-input {
+  width: 100%;
+  min-width: 0;
+  padding: 12px 14px;
+  border: 1px solid var(--bh-edge);
+  background: var(--bh-card);
+  color: var(--bh-body);
+  font-family: var(--bh-sans);
+  font-size: 1rem;
+}
+
+[data-theme="bhavishya"] .bh-input:focus {
+  border-color: var(--bh-red);
+}
+
+/* Errors are stated in words and marked with a rule, never by colour alone. */
+[data-theme="bhavishya"] .bh-formerror {
+  border-inline-start: 3px solid var(--bh-red);
+  background: var(--bh-sunk);
+  padding: 10px 14px;
+  font-size: 0.92rem;
+  color: var(--bh-body);
+}
+
+/* --------------------------------------------------------------------------
+   The 320px floor. Below 360 the seal and some padding give way before the
+   text does — reading never gets squeezed to buy back chrome.
+   -------------------------------------------------------------------------- */
+@media (max-width: 359px) {
+  [data-theme="bhavishya"] .bh-seal {
+    display: none;
+  }
+
+  [data-theme="bhavishya"] .bh-wordmark {
+    font-size: 1.15rem;
+  }
+
+  [data-theme="bhavishya"] .bh-rung-list {
+    padding-inline-start: 42px;
+  }
+
+  [data-theme="bhavishya"] .bh-q,
+  [data-theme="bhavishya"] .bh-pyq {
+    padding-inline: 14px;
+  }
+
+  [data-theme="bhavishya"] .bh-subject-band {
+    padding-inline: 18px !important;
+  }
 }

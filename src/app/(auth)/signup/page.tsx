@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import { SignupForm } from "./SignupForm";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaAuthForm } from "@/components/bhavishya/auth";
 
 export const metadata: Metadata = { title: "Create account" };
 
-export default function SignupPage() {
+function ClassicSignupPage() {
   return (
     <div className="space-y-6">
       <div className="space-y-1">
@@ -14,5 +16,14 @@ export default function SignupPage() {
       </div>
       <SignupForm />
     </div>
+  );
+}
+
+export default function SignupPage() {
+  return (
+    <ThemedPage
+      classic={<ClassicSignupPage />}
+      bhavishya={<BhavishyaAuthForm mode="signup" next="/" />}
+    />
   );
 }
