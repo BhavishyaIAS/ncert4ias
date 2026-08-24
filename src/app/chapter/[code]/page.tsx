@@ -15,6 +15,8 @@ import { Button } from "@/components/ui/button";
 import { GistView } from "@/components/gist-view";
 import { PrelimsPractice } from "@/components/prelims-practice";
 import { MainsPractice } from "@/components/mains-practice";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaChapter } from "@/components/bhavishya/chapter";
 
 export async function generateMetadata({
   params,
@@ -37,7 +39,7 @@ function RungComingSoon({ rung }: { rung: string }) {
   );
 }
 
-export default async function ChapterPage({
+async function ClassicChapterPage({
   params,
 }: {
   params: Promise<{ code: string }>;
@@ -189,5 +191,50 @@ export default async function ChapterPage({
         </TabsContent>
       </Tabs>
     </main>
+  );
+}
+
+async function BhavishyaChapterPage({
+  params,
+}: {
+  params: Promise<{ code: string }>;
+}) {
+  const { code } = await params;
+  const chapter = await getChapterByCode(code);
+  if (!chapter) notFound();
+
+  const [gist, mcqs, mains, pyqs] = await Promise.all([
+    getGist(chapter.id),
+    getMcqs(chapter.id),
+    getMains(chapter.id),
+    getPyqsForChapter(chapter.id),
+  ]);
+
+  return (
+    <BhavishyaChapter
+      chapterCode={chapter.chapter_code}
+      chapterNumber={chapter.chapter_number}
+      title={chapter.title}
+      bookTitle={chapter.book.title}
+      classNo={chapter.book.class.number}
+      subjectSlug={chapter.book.subject.slug}
+      subjectName={chapter.book.subject.name}
+      pdfUrl={chapter.official_pdf_url}
+      gistHtml={gist?.content_html ?? null}
+      mcqs={mcqs}
+      mains={mains}
+      pyqs={pyqs}
+    />
+  );
+}
+
+export default function ChapterPage(props: {
+  params: Promise<{ code: string }>;
+}) {
+  return (
+    <ThemedPage
+      classic={<ClassicChapterPage {...props} />}
+      bhavishya={<BhavishyaChapterPage {...props} />}
+    />
   );
 }

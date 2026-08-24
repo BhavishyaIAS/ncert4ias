@@ -774,6 +774,11 @@
   border-color: var(--bh-red);
   color: var(--bh-white);
   background: var(--bh-red);
+  /* This one carries a sentence, not a label, so it must wrap rather than be
+     clipped by the band on a narrow screen. */
+  white-space: normal;
+  line-height: 1.5;
+  padding: 5px 10px;
 }
 
 /* --------------------------------------------------------------------------
@@ -787,4 +792,414 @@
   align-items: flex-start;
   gap: 12px;
   background: var(--bh-card);
+}
+
+/* ==========================================================================
+   PHASE 4 — the chapter experience
+   ========================================================================== */
+
+[data-theme="bhavishya"] .bh-chapter-title {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 144, "WONK" 1;
+  font-weight: 900;
+  font-size: clamp(1.9rem, 1.2rem + 2.6vw, 3.1rem);
+  line-height: 0.99;
+  letter-spacing: -0.028em;
+  text-wrap: balance;
+}
+
+[data-theme="bhavishya"] .bh-chapter-kicker {
+  display: block;
+  font-family: var(--bh-mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  color: var(--bh-redtext);
+  margin-bottom: 12px;
+}
+
+/* --------------------------------------------------------------------------
+   Ladder layout. One vertical spine at every width: on a phone it sits above
+   the panel, on a wide screen it becomes a sticky rail beside it. Same DOM,
+   same arc, no duplicated controls.
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-ladder {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+}
+
+@media (min-width: 900px) {
+  [data-theme="bhavishya"] .bh-ladder {
+    grid-template-columns: 248px minmax(0, 1fr);
+    gap: 40px;
+    align-items: start;
+  }
+
+  [data-theme="bhavishya"] .bh-ladder-rail {
+    position: sticky;
+    top: 24px;
+  }
+}
+
+[data-theme="bhavishya"] .bh-ladder-panel {
+  min-width: 0;
+}
+
+/* --------------------------------------------------------------------------
+   The spine: arc behind, rung buttons in front, marks aligned by construction
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-spine {
+  /* One knob controls the whole spine. Mark positions stay aligned with rung
+     rows at any height, because a mark sits at rowH*(i+0.5) either way. */
+  --bh-row-h: 56px;
+  --bh-spine-h: calc(var(--bh-row-h) * 5);
+  position: relative;
+  display: flex;
+}
+
+@media (min-width: 900px) {
+  [data-theme="bhavishya"] .bh-spine {
+    --bh-row-h: 88px;
+  }
+}
+
+[data-theme="bhavishya"] .bh-spine-arc {
+  position: absolute;
+  inset-block-start: 0;
+  inset-inline-start: 0;
+  width: 48px;
+  height: var(--bh-spine-h);
+  overflow: visible;
+  pointer-events: none;
+}
+
+[data-theme="bhavishya"] .bh-arc-track {
+  fill: none;
+  stroke: var(--bh-hair);
+  stroke-width: 2;
+}
+
+[data-theme="bhavishya"] .bh-arc-live {
+  fill: none;
+  stroke: var(--bh-red);
+  stroke-width: 2.5;
+  stroke-linecap: round;
+  stroke-dasharray: 1;
+  transition: stroke-dashoffset var(--bh-draw) var(--bh-ease);
+}
+
+[data-theme="bhavishya"] .bh-arc-mark {
+  fill: var(--bh-ground);
+  stroke: var(--bh-hair);
+  stroke-width: 2;
+  transition: fill 200ms ease, stroke 200ms ease, r 200ms var(--bh-ease);
+}
+
+[data-theme="bhavishya"] .bh-arc-mark.is-active {
+  stroke: var(--bh-red);
+}
+
+[data-theme="bhavishya"] .bh-arc-mark.is-done {
+  fill: var(--bh-red);
+  stroke: var(--bh-red);
+}
+
+/* The landing. Scales in once, on the fifth rung, and never repeats. */
+[data-theme="bhavishya"] .bh-arc-target {
+  opacity: 0;
+  transform: scale(0.4);
+  transform-origin: 24px 440px;
+  transition:
+    opacity 300ms ease 120ms,
+    transform 460ms cubic-bezier(0.34, 1.56, 0.64, 1) 120ms;
+}
+
+[data-theme="bhavishya"] .bh-arc-target.is-landed {
+  opacity: 1;
+  transform: scale(1);
+}
+
+[data-theme="bhavishya"] .bh-target-ring {
+  fill: none;
+  stroke: var(--bh-red);
+  stroke-width: 1.5;
+}
+
+[data-theme="bhavishya"] .bh-target-eye {
+  fill: var(--bh-red);
+}
+
+/* --------------------------------------------------------------------------
+   Rung buttons
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-rung-list {
+  height: var(--bh-spine-h);
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  padding-inline-start: 48px;
+  flex: 1;
+  min-width: 0;
+}
+
+[data-theme="bhavishya"] .bh-rung-list > li {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  height: var(--bh-row-h);
+}
+
+[data-theme="bhavishya"] .bh-rung-btn {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: flex-start;
+  width: 100%;
+  min-width: 0;
+  padding: 8px 12px;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  text-align: start;
+  color: var(--bh-slate);
+  transition: color var(--bh-quick) ease, background var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-rung-btn:hover {
+  color: var(--bh-body);
+  background: var(--bh-sunk);
+}
+
+[data-theme="bhavishya"] .bh-rung-btn.is-active {
+  color: var(--bh-body);
+}
+
+[data-theme="bhavishya"] .bh-rung-btn.is-empty {
+  opacity: 0.55;
+}
+
+[data-theme="bhavishya"] .bh-rung-btn-n {
+  font-family: var(--bh-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.16em;
+}
+
+[data-theme="bhavishya"] .bh-rung-btn.is-active .bh-rung-btn-n,
+[data-theme="bhavishya"] .bh-rung-btn.is-done .bh-rung-btn-n {
+  color: var(--bh-redtext);
+}
+
+[data-theme="bhavishya"] .bh-rung-btn-l {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 36;
+  font-weight: 600;
+  font-size: 1.2rem;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  color: var(--bh-body);
+}
+
+[data-theme="bhavishya"] .bh-rung-btn.is-empty .bh-rung-btn-l {
+  color: var(--bh-slate);
+}
+
+[data-theme="bhavishya"] .bh-rung-btn-s {
+  font-family: var(--bh-mono);
+  font-size: 0.64rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--bh-slate);
+}
+
+[data-theme="bhavishya"] .bh-progress-note {
+  font-family: var(--bh-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--bh-slate);
+  padding-inline-start: 60px;
+  margin-top: 14px;
+}
+
+/* --------------------------------------------------------------------------
+   Panel
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-panel-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 14px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--bh-hair);
+}
+
+[data-theme="bhavishya"] .bh-mark {
+  font-family: var(--bh-sans);
+  font-size: 0.85rem;
+  padding: 9px 16px;
+  border: 1px solid var(--bh-edge);
+  background: transparent;
+  color: var(--bh-body);
+  cursor: pointer;
+  transition: transform var(--bh-quick) ease, background var(--bh-quick) ease,
+    border-color var(--bh-quick) ease, color var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-mark:hover {
+  border-color: var(--bh-red);
+  color: var(--bh-redtext);
+}
+
+[data-theme="bhavishya"] .bh-mark:active {
+  transform: translateY(1px);
+}
+
+[data-theme="bhavishya"] .bh-mark.is-done {
+  background: var(--bh-red);
+  border-color: var(--bh-red);
+  color: var(--bh-white);
+}
+
+[data-theme="bhavishya"] .bh-pdf {
+  width: 100%;
+  height: min(78vh, 900px);
+  border: 1px solid var(--bh-hair);
+  background: var(--bh-card);
+}
+
+/* --------------------------------------------------------------------------
+   Questions — Prelims and Mains share the card
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-q {
+  background: var(--bh-card);
+  box-shadow: 0 0 0 1px var(--bh-hair);
+  padding: 20px 20px 22px;
+}
+
+[data-theme="bhavishya"] .bh-q-n {
+  font-family: var(--bh-mono);
+  font-size: 0.74rem;
+  color: var(--bh-slate);
+  flex: none;
+  padding-top: 3px;
+}
+
+[data-theme="bhavishya"] .bh-q-stem {
+  flex: 1;
+  min-width: 0;
+  font-size: 1.02rem;
+  font-weight: 500;
+  line-height: 1.55;
+}
+
+[data-theme="bhavishya"] .bh-opt {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  width: 100%;
+  text-align: start;
+  padding: 11px 14px;
+  border: 1px solid var(--bh-hair);
+  background: var(--bh-card);
+  color: var(--bh-body);
+  font-family: var(--bh-sans);
+  font-size: 0.96rem;
+  line-height: 1.5;
+  cursor: pointer;
+  transition: border-color var(--bh-quick) ease, background var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-opt:not(:disabled):hover {
+  border-color: var(--bh-red);
+  background: var(--bh-sunk);
+}
+
+[data-theme="bhavishya"] .bh-opt:disabled {
+  cursor: default;
+}
+
+/* Red marks the correct answer — red is "the thing that matters" everywhere
+   else in this product, and the answer is what matters here. */
+[data-theme="bhavishya"] .bh-opt.is-correct {
+  border-color: var(--bh-red);
+  border-width: 2px;
+  background: rgb(227 30 36 / 6%);
+}
+
+/* A wrong pick is marked in ink, never in a second hue. The "Your answer"
+   label carries the meaning, so nothing depends on colour alone. */
+[data-theme="bhavishya"] .bh-opt.is-wrong {
+  border-color: var(--bh-ink);
+  border-style: dashed;
+}
+
+[data-theme="bhavishya"] .bh-opt.is-wrong .bh-opt-t {
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+  opacity: 0.65;
+}
+
+[data-theme="bhavishya"] .bh-opt-k {
+  font-family: var(--bh-mono);
+  font-size: 0.74rem;
+  color: var(--bh-slate);
+  flex: none;
+}
+
+[data-theme="bhavishya"] .bh-opt-t {
+  flex: 1;
+  min-width: 0;
+}
+
+[data-theme="bhavishya"] .bh-opt-tag {
+  font-family: var(--bh-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--bh-slate);
+  flex: none;
+}
+
+[data-theme="bhavishya"] .bh-opt.is-correct .bh-opt-tag {
+  color: var(--bh-redtext);
+}
+
+[data-theme="bhavishya"] .bh-solution {
+  margin-top: 14px;
+  padding: 14px 16px;
+  background: var(--bh-sunk);
+  border-inline-start: 3px solid var(--bh-red);
+}
+
+[data-theme="bhavishya"] .bh-solution-verdict {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+[data-theme="bhavishya"] .bh-solution-body {
+  margin-top: 6px;
+  font-size: 0.93rem;
+  color: var(--bh-slate);
+  line-height: 1.6;
+}
+
+[data-theme="bhavishya"] .bh-model {
+  margin-top: 14px;
+  padding: 16px 18px 18px;
+  background: var(--bh-sunk);
+  border-inline-start: 3px solid var(--bh-red);
+}
+
+[data-theme="bhavishya"] .bh-pyq {
+  background: var(--bh-card);
+  box-shadow: 0 0 0 1px var(--bh-hair);
+  padding: 16px 18px 18px;
+  font-size: 0.98rem;
+  line-height: 1.6;
 }

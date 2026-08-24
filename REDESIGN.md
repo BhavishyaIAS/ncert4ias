@@ -4,8 +4,8 @@ The Bhavishya visual redesign ships as a **layer that can be switched off**, not
 replacement. The original UI is still in the repo, still working, and still reachable by
 anyone at any time.
 
-**Status: Phase 3 of 5 complete** (foundation, layout, homepage, subject system, browse and
-search). Phases 4–5 — the chapter experience and polish — are not built yet.
+**Status: Phase 4 of 5 complete** (foundation, layout, homepage, subject system, browse,
+search, and the chapter experience). Phase 5 — responsive/a11y/perf polish — is not done yet.
 
 ---
 
@@ -81,6 +81,12 @@ the footer and the theme plumbing.
 | `src/components/bhavishya/search.tsx` | Search. |
 | `src/components/bhavishya/gs.tsx` | GS index and GS paper pages. |
 | `src/components/bhavishya/crumbs.tsx` | Breadcrumb trail. |
+| `src/components/bhavishya/chapter/spine-geometry.ts` | The arc's maths. Control points chosen so mark positions are exact. |
+| `src/components/bhavishya/chapter/spine.tsx` | The trajectory spine: arc, rung marks, the landing. |
+| `src/components/bhavishya/chapter/use-progress.ts` | Rung completion in `localStorage`, keyed by `chapter_code`. |
+| `src/components/bhavishya/chapter/prelims.tsx` | MCQ practice and answer reveal. |
+| `src/components/bhavishya/chapter/mains.tsx` | Mains questions and model answers. |
+| `src/components/bhavishya/chapter/index.tsx` | The chapter shell — header, ladder, rung panels. |
 | `scripts/check-palette.mjs` | Re-derives every contrast decision from the red token. Exits non-zero on failure. |
 | `docs/redesign/phase-1-design-plan.md` | Palette, type, motion and subject rationale. |
 
@@ -92,7 +98,7 @@ Three, all additive — nothing was deleted or rewritten.
 | ---- | ------ |
 | `src/app/layout.tsx` | Stamps `data-theme` on `<html>`; declares the four new fonts alongside the two existing ones; picks the header; renders the footer; adds the no-flash bootstrap script. |
 | `src/app/page.tsx` | The existing component was **renamed in place** to `ClassicHome` — its body is untouched — and a two-line default export chooses between it and `BhavishyaHome`. |
-| `src/app/browse/page.tsx`, `browse/[classNo]/page.tsx`, `browse/[classNo]/[subject]/page.tsx`, `search/page.tsx`, `gs/page.tsx`, `gs/[code]/page.tsx` | Same pattern: existing component renamed in place, new default export switches. No existing body was edited. |
+| `src/app/browse/page.tsx`, `browse/[classNo]/page.tsx`, `browse/[classNo]/[subject]/page.tsx`, `search/page.tsx`, `gs/page.tsx`, `gs/[code]/page.tsx`, `chapter/[code]/page.tsx` | Same pattern: existing component renamed in place, new default export switches. No existing body was edited. |
 | `REDESIGN.md`, `docs/`, `scripts/` | New files, listed above. |
 
 **`src/app/globals.css` and `src/components/ui/` were not touched.** Verified with
@@ -132,9 +138,35 @@ export default function Thing(props) {
 }
 ```
 
-Routes still on classic in both themes: `/chapter/*`, `/login`, `/signup`, the root
+Routes still on classic in both themes: `/login`, `/signup`, the root
 `error`/`loading`/`not-found` states, and all of `/admin`. Admin is intentionally staying
-classic.
+classic; the auth and root-state screens are Phase 5.
+
+## The chapter experience
+
+The trajectory spine is the one place this interface raises its voice. A red arc runs beside
+the five rungs; completing a rung draws it forward, and the fifth lands the arrow in a
+target.
+
+**The geometry is exact, not approximate.** The arc is a cubic Bézier whose control points
+have y-values `0, H/3, 2H/3, H`, which collapses the Bernstein form to `y(t) = H·t`. A rung
+mark at `t = (i + 0.5)/5` therefore lands precisely on the centre of rung row `i` — no
+measuring, no layout reads, no drift when the font, zoom or spine height changes. Verified:
+**0.00px drift** between mark centres and row centres at both the 440px desktop spine and the
+280px mobile one. `pathLength="1"` normalises the arc so the progress dash is just `n/5`,
+correct on the first paint with no DOM measurement.
+
+Progress lives in `localStorage`, keyed by `chapter_code` — there is no progress model in the
+schema and the brief puts schema changes off-limits. The first paint is always "nothing
+done", then the real state arrives; the arc animating from empty to where you left off is the
+deliberate consequence, so you see your position before you have to think about it.
+**Progress does not follow a reader between devices.** That needs a table and an RLS policy.
+
+**Correctness without a second hue.** The palette is red, black and white, so green-for-right
+is not available. Red marks the *correct* option — red means "the thing that matters"
+everywhere else in the product — and a wrong pick is marked in ink: dashed border, struck
+through, labelled "Your answer". Every state is stated in words as well as form, so nothing
+depends on colour alone.
 
 ## The subject system
 
