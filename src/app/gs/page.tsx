@@ -2,10 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getGsTags } from "@/lib/queries";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaGsIndex } from "@/components/bhavishya/gs";
 
 export const metadata: Metadata = { title: "Browse by GS subject" };
 
-export default async function GsIndexPage() {
+async function ClassicGsIndexPage() {
   const tags = await getGsTags();
 
   return (
@@ -33,5 +35,19 @@ export default async function GsIndexPage() {
         ))}
       </div>
     </main>
+  );
+}
+
+async function BhavishyaGsIndexPage() {
+  const tags = await getGsTags();
+  return <BhavishyaGsIndex tags={tags} />;
+}
+
+export default function GsIndexPage() {
+  return (
+    <ThemedPage
+      classic={<ClassicGsIndexPage />}
+      bhavishya={<BhavishyaGsIndexPage />}
+    />
   );
 }

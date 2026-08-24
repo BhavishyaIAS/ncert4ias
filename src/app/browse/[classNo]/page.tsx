@@ -4,6 +4,8 @@ import { notFound } from "next/navigation";
 import { CLASSES } from "@/lib/config/taxonomy";
 import { getSubjectsForClass } from "@/lib/queries";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaClass } from "@/components/bhavishya/browse";
 
 export const metadata: Metadata = { title: "Browse subjects" };
 
@@ -12,7 +14,7 @@ function parseClassNo(value: string): number | null {
   return (CLASSES as readonly number[]).includes(n) ? n : null;
 }
 
-export default async function ClassPage({
+async function ClassicClassPage({
   params,
 }: {
   params: Promise<{ classNo: string }>;
@@ -58,5 +60,28 @@ export default async function ClassPage({
         </div>
       )}
     </main>
+  );
+}
+
+async function BhavishyaClassPage({
+  params,
+}: {
+  params: Promise<{ classNo: string }>;
+}) {
+  const { classNo } = await params;
+  const n = parseClassNo(classNo);
+  if (n === null) notFound();
+  const subjects = await getSubjectsForClass(n);
+  return <BhavishyaClass classNo={n} subjects={subjects} />;
+}
+
+export default function ClassPage(props: {
+  params: Promise<{ classNo: string }>;
+}) {
+  return (
+    <ThemedPage
+      classic={<ClassicClassPage {...props} />}
+      bhavishya={<BhavishyaClassPage {...props} />}
+    />
   );
 }

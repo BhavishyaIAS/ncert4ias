@@ -451,3 +451,340 @@
     scroll-behavior: auto !important;
   }
 }
+
+/* ==========================================================================
+   PHASE 3 — the subject system, browse flow, and search
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Subject texture. Decorative, quiet, and never in front of text.
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-texture {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  color: var(--bh-ink);
+  opacity: 0.45;
+  pointer-events: none;
+}
+
+/* The subject header band: texture behind, a red rule under, text on top. */
+[data-theme="bhavishya"] .bh-subject-band {
+  position: relative;
+  overflow: hidden;
+  border-bottom: 3px solid var(--bh-red);
+  background: var(--bh-card);
+  box-shadow: 0 0 0 1px var(--bh-hair);
+}
+
+/* Lift the text above the wash — but NOT the texture, which must stay
+   absolutely positioned or it takes up flow and inflates the band. */
+[data-theme="bhavishya"] .bh-subject-band > :not(.bh-texture) {
+  position: relative;
+  z-index: 1;
+}
+
+[data-theme="bhavishya"] .bh-motif {
+  font-family: var(--bh-mono);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--bh-redtext);
+}
+
+/* --------------------------------------------------------------------------
+   Breadcrumb
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-crumbs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--bh-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--bh-slate);
+}
+
+[data-theme="bhavishya"] .bh-crumbs a {
+  color: var(--bh-slate);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color var(--bh-quick) ease, border-color var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-crumbs a:hover {
+  color: var(--bh-body);
+  border-bottom-color: var(--bh-hair);
+}
+
+[data-theme="bhavishya"] .bh-crumbs .bh-sep {
+  color: var(--bh-hair);
+}
+
+/* --------------------------------------------------------------------------
+   Class picker — the numeral is the whole design
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-classes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(104px, 1fr));
+  gap: 1px;
+}
+
+[data-theme="bhavishya"] .bh-class {
+  position: relative;
+  background: var(--bh-card);
+  box-shadow: 0 0 0 1px var(--bh-hair);
+  padding: 26px 16px 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  text-decoration: none;
+  color: inherit;
+  transition: background var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-class:hover {
+  background: var(--bh-sunk);
+}
+
+[data-theme="bhavishya"] .bh-class-n {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 96, "WONK" 1;
+  font-weight: 900;
+  font-size: 2.6rem;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  font-variant-numeric: tabular-nums;
+  transition: color var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-class:hover .bh-class-n,
+[data-theme="bhavishya"] .bh-class:focus-visible .bh-class-n {
+  color: var(--bh-redtext);
+}
+
+[data-theme="bhavishya"] .bh-class-l {
+  font-family: var(--bh-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--bh-slate);
+}
+
+/* --------------------------------------------------------------------------
+   Subject tiles — the texture previews the subject's character
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-subject-tile {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  background: var(--bh-card);
+  box-shadow: 0 0 0 1px var(--bh-hair);
+  text-decoration: none;
+  color: inherit;
+  overflow: hidden;
+}
+
+[data-theme="bhavishya"] .bh-subject-tile-tex {
+  position: relative;
+  height: 84px;
+  overflow: hidden;
+  border-bottom: 1px solid var(--bh-hair);
+}
+
+[data-theme="bhavishya"] .bh-subject-tile-body {
+  padding: 16px 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* The red rule under the texture grows on hover — red marks what you're about
+   to touch. */
+[data-theme="bhavishya"] .bh-subject-tile-tex::after {
+  content: "";
+  position: absolute;
+  inset-inline: 0;
+  bottom: 0;
+  height: 3px;
+  background: var(--bh-red);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 260ms var(--bh-ease);
+}
+
+[data-theme="bhavishya"] .bh-subject-tile:hover .bh-subject-tile-tex::after,
+[data-theme="bhavishya"] .bh-subject-tile:focus-visible .bh-subject-tile-tex::after {
+  transform: scaleX(1);
+}
+
+/* --------------------------------------------------------------------------
+   Chapter list
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-booktitle {
+  font-family: var(--bh-display);
+  font-variation-settings: "opsz" 48;
+  font-weight: 600;
+  font-size: 1.16rem;
+  letter-spacing: -0.012em;
+}
+
+[data-theme="bhavishya"] .bh-chapters {
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid var(--bh-hair);
+}
+
+[data-theme="bhavishya"] .bh-chapter {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 13px 16px 13px 14px;
+  border-bottom: 1px solid var(--bh-hair);
+  text-decoration: none;
+  color: inherit;
+  transition: background var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-chapter::before {
+  content: "";
+  position: absolute;
+  inset-block: 0;
+  inset-inline-start: 0;
+  width: 3px;
+  background: var(--bh-red);
+  transform: scaleY(0);
+  transition: transform 180ms var(--bh-ease);
+}
+
+[data-theme="bhavishya"] .bh-chapter:hover,
+[data-theme="bhavishya"] .bh-chapter:focus-visible {
+  background: var(--bh-sunk);
+}
+
+[data-theme="bhavishya"] .bh-chapter:hover::before,
+[data-theme="bhavishya"] .bh-chapter:focus-visible::before {
+  transform: scaleY(1);
+}
+
+[data-theme="bhavishya"] .bh-chapter-n {
+  font-family: var(--bh-mono);
+  font-size: 0.78rem;
+  color: var(--bh-slate);
+  font-variant-numeric: tabular-nums;
+  flex: none;
+  min-width: 1.8em;
+}
+
+[data-theme="bhavishya"] .bh-chapter-t {
+  flex: 1;
+  font-size: 1rem;
+  font-weight: 500;
+  min-width: 0;
+}
+
+[data-theme="bhavishya"] .bh-chapter-c {
+  font-family: var(--bh-mono);
+  font-size: 0.72rem;
+  color: var(--bh-slate);
+  flex: none;
+}
+
+/* --------------------------------------------------------------------------
+   Search
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-searchbar {
+  display: flex;
+  gap: 0;
+  border: 1px solid var(--bh-edge);
+  background: var(--bh-card);
+}
+
+[data-theme="bhavishya"] .bh-searchbar input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  background: transparent;
+  padding: 14px 16px;
+  font-family: var(--bh-sans);
+  font-size: 1rem;
+  color: var(--bh-body);
+}
+
+[data-theme="bhavishya"] .bh-searchbar input::placeholder {
+  color: var(--bh-slate);
+}
+
+[data-theme="bhavishya"] .bh-searchbar input:focus {
+  outline: none;
+}
+
+[data-theme="bhavishya"] .bh-searchbar:focus-within {
+  border-color: var(--bh-red);
+  box-shadow: 0 0 0 2px rgb(227 30 36 / 18%);
+}
+
+[data-theme="bhavishya"] .bh-result {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 13px 16px 13px 14px;
+  border-bottom: 1px solid var(--bh-hair);
+  text-decoration: none;
+  color: inherit;
+  transition: background var(--bh-quick) ease;
+}
+
+[data-theme="bhavishya"] .bh-result:hover {
+  background: var(--bh-sunk);
+}
+
+[data-theme="bhavishya"] .bh-result-t {
+  flex: 1;
+  min-width: 0;
+  font-size: 0.98rem;
+}
+
+/* --------------------------------------------------------------------------
+   Tags. Red only where it means "active" — a count of real UPSC questions
+   qualifies; a year or a paper label does not.
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-tag {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--bh-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border: 1px solid var(--bh-hair);
+  color: var(--bh-slate);
+  white-space: nowrap;
+}
+
+[data-theme="bhavishya"] .bh-tag-live {
+  border-color: var(--bh-red);
+  color: var(--bh-white);
+  background: var(--bh-red);
+}
+
+/* --------------------------------------------------------------------------
+   Empty states. An empty screen should invite an action, not just apologise.
+   -------------------------------------------------------------------------- */
+[data-theme="bhavishya"] .bh-empty {
+  border: 1px dashed var(--bh-edge);
+  padding: 40px 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  background: var(--bh-card);
+}

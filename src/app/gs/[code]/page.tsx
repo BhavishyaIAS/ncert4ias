@@ -3,10 +3,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getChaptersForGsTag } from "@/lib/queries";
 import { Badge } from "@/components/ui/badge";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaGsTag } from "@/components/bhavishya/gs";
 
 export const metadata: Metadata = { title: "GS chapters" };
 
-export default async function GsTagPage({
+async function ClassicGsTagPage({
   params,
 }: {
   params: Promise<{ code: string }>;
@@ -55,5 +57,27 @@ export default async function GsTagPage({
         </ul>
       )}
     </main>
+  );
+}
+
+async function BhavishyaGsTagPage({
+  params,
+}: {
+  params: Promise<{ code: string }>;
+}) {
+  const { code } = await params;
+  const { tag, chapters } = await getChaptersForGsTag(code.toUpperCase());
+  if (!tag) notFound();
+  return <BhavishyaGsTag tag={tag} chapters={chapters} />;
+}
+
+export default function GsTagPage(props: {
+  params: Promise<{ code: string }>;
+}) {
+  return (
+    <ThemedPage
+      classic={<ClassicGsTagPage {...props} />}
+      bhavishya={<BhavishyaGsTagPage {...props} />}
+    />
   );
 }

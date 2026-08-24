@@ -4,8 +4,8 @@ The Bhavishya visual redesign ships as a **layer that can be switched off**, not
 replacement. The original UI is still in the repo, still working, and still reachable by
 anyone at any time.
 
-**Status: Phase 2 of 5 complete** (foundation, layout, homepage). Phases 3–5 — the subject
-system, the chapter experience, and polish — are not built yet.
+**Status: Phase 3 of 5 complete** (foundation, layout, homepage, subject system, browse and
+search). Phases 4–5 — the chapter experience and polish — are not built yet.
 
 ---
 
@@ -75,6 +75,12 @@ the footer and the theme plumbing.
 | `src/components/bhavishya/nav-links.tsx` | Nav, with the current section marked in red. |
 | `src/components/bhavishya/seal.tsx` | The bow-and-arrow mark. |
 | `src/components/bhavishya/home.tsx` | Homepage for the new theme. |
+| `src/lib/config/subject-themes.ts` | Per-subject token sets: pattern, motif, rationale. |
+| `src/components/bhavishya/subject-texture.tsx` | The seven textures. Server-rendered SVG, no client JS. |
+| `src/components/bhavishya/browse.tsx` | Class picker, subject picker, subject landing page. |
+| `src/components/bhavishya/search.tsx` | Search. |
+| `src/components/bhavishya/gs.tsx` | GS index and GS paper pages. |
+| `src/components/bhavishya/crumbs.tsx` | Breadcrumb trail. |
 | `scripts/check-palette.mjs` | Re-derives every contrast decision from the red token. Exits non-zero on failure. |
 | `docs/redesign/phase-1-design-plan.md` | Palette, type, motion and subject rationale. |
 
@@ -86,6 +92,7 @@ Three, all additive — nothing was deleted or rewritten.
 | ---- | ------ |
 | `src/app/layout.tsx` | Stamps `data-theme` on `<html>`; declares the four new fonts alongside the two existing ones; picks the header; renders the footer; adds the no-flash bootstrap script. |
 | `src/app/page.tsx` | The existing component was **renamed in place** to `ClassicHome` — its body is untouched — and a two-line default export chooses between it and `BhavishyaHome`. |
+| `src/app/browse/page.tsx`, `browse/[classNo]/page.tsx`, `browse/[classNo]/[subject]/page.tsx`, `search/page.tsx`, `gs/page.tsx`, `gs/[code]/page.tsx` | Same pattern: existing component renamed in place, new default export switches. No existing body was edited. |
 | `REDESIGN.md`, `docs/`, `scripts/` | New files, listed above. |
 
 **`src/app/globals.css` and `src/components/ui/` were not touched.** Verified with
@@ -125,8 +132,32 @@ export default function Thing(props) {
 }
 ```
 
-Routes still on classic in both themes: `/browse/*`, `/chapter/*`, `/gs/*`, `/search`,
-`/login`, `/signup`, and all of `/admin`. Admin is intentionally staying classic.
+Routes still on classic in both themes: `/chapter/*`, `/login`, `/signup`, the root
+`error`/`loading`/`not-found` states, and all of `/admin`. Admin is intentionally staying
+classic.
+
+## The subject system
+
+Seven subjects, one palette. No subject gets its own hue — identity comes from pattern, line
+quality and motif label. Each texture carries **exactly one** red mark, because red means
+"the active thing" everywhere else in the product and decoration does not get to break that.
+
+| Subject | Motif | Pattern |
+| ------- | ----- | ------- |
+| History | Inscription | Chiselled rules, red margin spine |
+| Polity | Blueprint | Construction grid, red dimension mark |
+| Geography | Contour | Strata, one contour promoted |
+| Economy | Ledger | Graph ruling, column gutter, red plot |
+| Science | Orbital | Concentric shells, red nucleus |
+| Art & Culture | Jaali | Pierced lattice, red rosette |
+| Ecology & Environment | Venation | Branching veins, red midrib |
+
+**Adding an eighth subject is config only.** Verified by enabling Sociology: two changed
+lines in `subjects.ts` and a five-line entry in `subject-themes.ts` — **seven lines total**,
+no component touched — and it rendered with its own motif. Then reverted. A subject that
+wants a brand-new pattern adds one function to `subject-texture.tsx`; reusing an existing
+pattern needs no new code at all. Anything missing from the map falls back to
+`DEFAULT_SUBJECT_THEME` rather than breaking.
 
 ---
 

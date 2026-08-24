@@ -2,10 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { CLASSES } from "@/lib/config/taxonomy";
 import { Card, CardContent } from "@/components/ui/card";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaBrowse } from "@/components/bhavishya/browse";
 
 export const metadata: Metadata = { title: "Browse by class" };
 
-export default function BrowsePage() {
+function ClassicBrowsePage() {
   return (
     <main className="mx-auto w-full max-w-5xl flex-1 px-6 py-12">
       <h1 className="text-2xl font-semibold tracking-tight">Browse by class</h1>
@@ -28,5 +30,11 @@ export default function BrowsePage() {
         ))}
       </div>
     </main>
+  );
+}
+
+export default function BrowsePage() {
+  return (
+    <ThemedPage classic={<ClassicBrowsePage />} bhavishya={<BhavishyaBrowse />} />
   );
 }

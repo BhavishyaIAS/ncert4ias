@@ -4,6 +4,8 @@ import { notFound } from "next/navigation";
 import { CLASSES } from "@/lib/config/taxonomy";
 import { getBooksWithChapters, getSubjectBySlug } from "@/lib/queries";
 import { Badge } from "@/components/ui/badge";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaSubject } from "@/components/bhavishya/browse";
 
 export const metadata: Metadata = { title: "Browse chapters" };
 
@@ -12,7 +14,7 @@ function parseClassNo(value: string): number | null {
   return (CLASSES as readonly number[]).includes(n) ? n : null;
 }
 
-export default async function SubjectPage({
+async function ClassicSubjectPage({
   params,
 }: {
   params: Promise<{ classNo: string; subject: string }>;
@@ -85,5 +87,30 @@ export default async function SubjectPage({
         </div>
       )}
     </main>
+  );
+}
+
+async function BhavishyaSubjectPage({
+  params,
+}: {
+  params: Promise<{ classNo: string; subject: string }>;
+}) {
+  const { classNo, subject: subjectSlug } = await params;
+  const n = parseClassNo(classNo);
+  if (n === null) notFound();
+  const subject = await getSubjectBySlug(subjectSlug);
+  if (!subject) notFound();
+  const books = await getBooksWithChapters(n, subjectSlug);
+  return <BhavishyaSubject classNo={n} subject={subject} books={books} />;
+}
+
+export default function SubjectPage(props: {
+  params: Promise<{ classNo: string; subject: string }>;
+}) {
+  return (
+    <ThemedPage
+      classic={<ClassicSubjectPage {...props} />}
+      bhavishya={<BhavishyaSubjectPage {...props} />}
+    />
   );
 }

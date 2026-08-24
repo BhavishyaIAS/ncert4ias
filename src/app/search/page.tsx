@@ -4,10 +4,12 @@ import { search } from "@/lib/queries";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import { ThemedPage } from "@/components/themed-page";
+import { BhavishyaSearch } from "@/components/bhavishya/search";
 
 export const metadata: Metadata = { title: "Search" };
 
-export default async function SearchPage({
+async function ClassicSearchPage({
   searchParams,
 }: {
   searchParams: Promise<{ q?: string }>;
@@ -162,5 +164,26 @@ function ResultRow({
         <span className="font-mono text-xs text-muted-foreground">{code}</span>
       </Link>
     </li>
+  );
+}
+
+async function BhavishyaSearchPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ q?: string }>;
+}) {
+  const { q = "" } = await searchParams;
+  const results = q.trim() ? await search(q) : null;
+  return <BhavishyaSearch q={q} results={results} />;
+}
+
+export default function SearchPage(props: {
+  searchParams: Promise<{ q?: string }>;
+}) {
+  return (
+    <ThemedPage
+      classic={<ClassicSearchPage {...props} />}
+      bhavishya={<BhavishyaSearchPage {...props} />}
+    />
   );
 }
