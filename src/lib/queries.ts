@@ -240,6 +240,103 @@ export async function getChaptersForGsTag(code: string): Promise<{
 }
 
 // ---------------------------------------------------------------------------
+// Subject lens — the same published chapters (and their Prelims MCQs), browsed
+// by subject across every class instead of class-first. RLS-scoped, so students
+// only ever see published chapters here too.
+// ---------------------------------------------------------------------------
+
+/**
+ * Aspirant-facing order for the subject-wise lens. Anything not listed falls to
+ * the end (then by the subject's own `order`).
+ */
+const SUBJECT_LENS_ORDER: string[] = [
+  "history",
+  "art-culture",
+  "geography",
+  "polity",
+  "economy",
+  "science",
+  "ecology-environment",
+];
+
+/** Display label override for the lens (DB "Science" reads as "General Science"). */
+export function subjectLensLabel(subject: Pick<SubjectRow, "slug" | "name">) {
+  return subject.slug === "science" ? "General Science" : subject.name;
+}
+
+export type SubjectWithCount = SubjectRow & { chapterCount: number };
+
+/** Enabled subjects that have at least one published chapter, in lens order. */
+export async function getSubjectsForLens(): Promise<SubjectWithCount[]> {
+  const s = await createClient();
+  const [{ data: subjects }, { data: chapterRows }] = await Promise.all([
+    s.from("subjects").select("*").eq("enabled", true),
+    s.from("chapters").select("book:books(subject_id)"),
+  ]);
+
+  const counts = new Map<string, number>();
+  for (const row of chapterRows ?? []) {
+    const book = row.book as unknown as { subject_id: string } | null;
+    if (book?.subject_id) {
+      counts.set(book.subject_id, (counts.get(book.subject_id) ?? 0) + 1);
+    }
+  }
+
+  const orderIndex = (slug: string) => {
+    const i = SUBJECT_LENS_ORDER.indexOf(slug);
+    return i === -1 ? SUBJECT_LENS_ORDER.length : i;
+  };
+
+  return (subjects ?? [])
+    .map((sub) => ({ ...sub, chapterCount: counts.get(sub.id) ?? 0 }))
+    .filter((sub) => sub.chapterCount > 0)
+    .sort(
+      (a, b) => orderIndex(a.slug) - orderIndex(b.slug) || a.order - b.order,
+    );
+}
+
+export type SubjectLensChapter = ChapterRow & {
+  book: BookRow & { class: ClassRow };
+};
+
+/** Published chapters for one subject, across all classes, with class context. */
+export async function getChaptersForSubject(slug: string): Promise<{
+  subject: SubjectRow | null;
+  chapters: SubjectLensChapter[];
+}> {
+  const s = await createClient();
+  const { data: subject } = await s
+    .from("subjects")
+    .select("*")
+    .eq("slug", slug)
+    .maybeSingle();
+  if (!subject) return { subject: null, chapters: [] };
+
+  // Two-step (book ids first, then chapters) to keep the embedded filter simple
+  // and RLS-friendly.
+  const { data: books } = await s
+    .from("books")
+    .select("id")
+    .eq("subject_id", subject.id);
+  const bookIds = (books ?? []).map((b) => b.id);
+  if (bookIds.length === 0) return { subject, chapters: [] };
+
+  const { data } = await s
+    .from("chapters")
+    .select("*, book:books(*, class:classes(*))")
+    .in("book_id", bookIds);
+
+  const chapters = (data ?? []) as unknown as SubjectLensChapter[];
+  chapters.sort(
+    (a, b) =>
+      a.book.class.number - b.book.class.number ||
+      a.book.order - b.book.order ||
+      a.order - b.order,
+  );
+  return { subject, chapters };
+}
+
+// ---------------------------------------------------------------------------
 // Global search (RLS-scoped: students match only published content)
 // ---------------------------------------------------------------------------
 

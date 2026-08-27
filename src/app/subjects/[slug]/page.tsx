@@ -1,38 +1,40 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getChaptersForGsTag } from "@/lib/queries";
+import { getChaptersForSubject, subjectLensLabel } from "@/lib/queries";
 import { Badge } from "@/components/ui/badge";
 import { ThemedPage } from "@/components/themed-page";
-import { BhavishyaGsTag } from "@/components/bhavishya/gs";
+import { BhavishyaSubjectChapters } from "@/components/bhavishya/subjects";
 
-export const metadata: Metadata = { title: "GS chapters" };
+export const metadata: Metadata = { title: "Subject chapters" };
 
-async function ClassicGsTagPage({
+async function ClassicSubjectPage({
   params,
 }: {
-  params: Promise<{ code: string }>;
+  params: Promise<{ slug: string }>;
 }) {
-  const { code } = await params;
-  const { tag, chapters } = await getChaptersForGsTag(code.toUpperCase());
-  if (!tag) notFound();
+  const { slug } = await params;
+  const { subject, chapters } = await getChaptersForSubject(slug);
+  if (!subject) notFound();
+  const label = subjectLensLabel(subject);
 
   return (
     <main className="mx-auto w-full max-w-3xl flex-1 px-6 py-12">
       <nav className="text-sm text-muted-foreground">
-        <Link href="/gs" className="underline-offset-4 hover:underline">
-          GS subjects
+        <Link href="/subjects" className="underline-offset-4 hover:underline">
+          Subjects
         </Link>{" "}
-        / {tag.label}
+        / {label}
       </nav>
-      <h1 className="mt-2 text-2xl font-semibold tracking-tight">{tag.label}</h1>
-      {tag.note && (
-        <p className="mt-1 text-sm text-muted-foreground">{tag.note}</p>
-      )}
+      <h1 className="mt-2 text-2xl font-semibold tracking-tight">{label}</h1>
+      <p className="mt-1 text-sm text-muted-foreground">
+        {chapters.length} chapter{chapters.length === 1 ? "" : "s"} across all
+        classes.
+      </p>
 
       {chapters.length === 0 ? (
         <p className="mt-8 rounded-lg border border-dashed p-10 text-center text-sm text-muted-foreground">
-          No published chapters mapped to {tag.label} yet.
+          No published chapters for {label} yet.
         </p>
       ) : (
         <ul className="mt-8 divide-y rounded-lg border">
@@ -45,7 +47,7 @@ async function ClassicGsTagPage({
                 <span className="font-medium">{ch.title}</span>
                 <span className="ml-auto flex items-center gap-2">
                   <Badge variant="secondary">
-                    Class {ch.book.class.number} · {ch.book.subject.name}
+                    Class {ch.book.class.number}
                   </Badge>
                   <span className="font-mono text-xs text-muted-foreground">
                     {ch.chapter_code}
@@ -60,24 +62,24 @@ async function ClassicGsTagPage({
   );
 }
 
-async function BhavishyaGsTagPage({
+async function BhavishyaSubjectPage({
   params,
 }: {
-  params: Promise<{ code: string }>;
+  params: Promise<{ slug: string }>;
 }) {
-  const { code } = await params;
-  const { tag, chapters } = await getChaptersForGsTag(code.toUpperCase());
-  if (!tag) notFound();
-  return <BhavishyaGsTag tag={tag} chapters={chapters} />;
+  const { slug } = await params;
+  const { subject, chapters } = await getChaptersForSubject(slug);
+  if (!subject) notFound();
+  return <BhavishyaSubjectChapters subject={subject} chapters={chapters} />;
 }
 
-export default function GsTagPage(props: {
-  params: Promise<{ code: string }>;
+export default function SubjectPage(props: {
+  params: Promise<{ slug: string }>;
 }) {
   return (
     <ThemedPage
-      classic={<ClassicGsTagPage {...props} />}
-      bhavishya={<BhavishyaGsTagPage {...props} />}
+      classic={<ClassicSubjectPage {...props} />}
+      bhavishya={<BhavishyaSubjectPage {...props} />}
     />
   );
 }

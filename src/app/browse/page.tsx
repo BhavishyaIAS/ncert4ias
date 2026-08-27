@@ -5,12 +5,12 @@ import { Card, CardContent } from "@/components/ui/card";
 import { ThemedPage } from "@/components/themed-page";
 import { BhavishyaBrowse } from "@/components/bhavishya/browse";
 
-export const metadata: Metadata = { title: "Browse by class" };
+export const metadata: Metadata = { title: "Browse class-wise" };
 
 function ClassicBrowsePage() {
   return (
     <main className="mx-auto w-full max-w-5xl flex-1 px-6 py-12">
-      <h1 className="text-2xl font-semibold tracking-tight">Browse by class</h1>
+      <h1 className="text-2xl font-semibold tracking-tight">Browse class-wise</h1>
       <p className="mt-1 text-sm text-muted-foreground">
         Pick a class, then a subject, then a chapter.
       </p>

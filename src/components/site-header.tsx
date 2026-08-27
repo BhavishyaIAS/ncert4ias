@@ -17,13 +17,13 @@ export async function SiteHeader() {
             href="/browse"
             className="text-sm text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
           >
-            Browse
+            Class-wise
           </Link>
           <Link
-            href="/gs"
+            href="/subjects"
             className="text-sm text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
           >
-            GS
+            Subject-wise
           </Link>
           <Link
             href="/search"

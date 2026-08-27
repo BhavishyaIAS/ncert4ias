@@ -10,8 +10,8 @@ import type { SubjectRow, BookWithChapters } from "@/lib/queries";
 export function BhavishyaBrowse() {
   return (
     <main className="mx-auto w-full max-w-5xl flex-1 px-6 py-12">
-      <Crumbs trail={[{ label: "Browse" }]} />
-      <h1 className="bh-h2 mt-4">Browse by class</h1>
+      <Crumbs trail={[{ label: "Class-wise" }]} />
+      <h1 className="bh-h2 mt-4">Browse class-wise</h1>
       <p className="bh-lede mt-3 max-w-md">
         Pick a class, then a subject, then a chapter.
       </p>
@@ -42,7 +42,7 @@ export function BhavishyaClass({
     <main className="mx-auto w-full max-w-5xl flex-1 px-6 py-12">
       <Crumbs
         trail={[
-          { label: "Browse", href: "/browse" },
+          { label: "Class-wise", href: "/browse" },
           { label: `Class ${classNo}` },
         ]}
       />
@@ -109,7 +109,7 @@ export function BhavishyaSubject({
       <div className="mx-auto w-full max-w-4xl px-6 pt-10">
         <Crumbs
           trail={[
-            { label: "Browse", href: "/browse" },
+            { label: "Class-wise", href: "/browse" },
             { label: `Class ${classNo}`, href: `/browse/${classNo}` },
             { label: subject.name },
           ]}
