@@ -1,0 +1,36 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "Describe the solar system and the order of its planets.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "The solar system consists of the Sun and all the bodies that orbit it, including planets, moons, asteroids and comets.",
+        { "lead": "The Sun.", "text": "The Sun is a star at the centre, giving out its own light and heat; the planets shine only by reflecting its light." },
+        { "lead": "The eight planets.", "text": "In order of distance from the Sun they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune." },
+        { "lead": "Inner and outer planets.", "text": "The first four — Mercury, Venus, Earth and Mars — are small rocky planets. The next four — Jupiter, Saturn, Uranus and Neptune — are large gas giants. Jupiter is the largest planet and Mercury the smallest and nearest the Sun, with an asteroid belt between Mars and Jupiter." }
+      ]
+    },
+    {
+      "q": "Why is the Earth unique, and how do day, night and seasons occur?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "A unique planet.", "text": "Earth is the only planet known to support life, because it has the right temperature, liquid water and oxygen. Seen from space it looks blue, so it is called the Blue Planet." },
+        { "lead": "Day and night.", "text": "The Earth spins on its axis once in about 24 hours. This rotation means one half faces the Sun and has day, while the other half faces away and has night." },
+        { "lead": "Seasons.", "text": "The Earth also revolves around the Sun once in about 365¼ days. Because its axis is tilted, different parts receive the Sun's rays more directly at different times of the year, producing the seasons." }
+      ]
+    },
+    {
+      "q": "Distinguish between stars and planets, and describe the Moon.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Stars.", "text": "Stars are huge, very hot celestial bodies that give out their own light. The Sun is our nearest star. Groups of stars form patterns called constellations, such as Ursa Major (Saptarshi) and Orion." },
+        { "lead": "Planets.", "text": "Planets do not produce their own light; they shine by reflecting the light of the Sun, around which they orbit." },
+        { "lead": "The Moon.", "text": "The Moon is Earth's natural satellite. It has no light of its own and reflects sunlight, and its changing shapes through the month are called the phases of the Moon. It has no air or water, so footprints left on it remain undisturbed." }
+      ]
+    }
+  ]
+}

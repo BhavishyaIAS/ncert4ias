@@ -1,0 +1,39 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "What is a balanced diet, and what are the main components of food?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "A balanced diet is one that contains all the nutrients the body needs, in the right amounts, along with roughage and water.",
+        { "lead": "The nutrients.", "text": "Food provides carbohydrates, proteins, fats, vitamins and minerals. Carbohydrates and fats give energy; proteins build and repair the body; vitamins and minerals protect it from disease." },
+        { "lead": "Roughage and water.", "text": "Dietary fibre, or roughage, is not digested but helps remove waste, while water aids digestion and controls body temperature." },
+        { "lead": "Mindful eating.", "text": "Eating the right amount — neither too much nor too little — keeps the body healthy; over-eating leads to obesity." }
+      ]
+    },
+    {
+      "q": "List the main deficiency diseases and the nutrients whose lack causes them.",
+      "directive": "List",
+      "word_limit": 150,
+      "answer": [
+        "When the diet lacks a particular nutrient for a long time, a deficiency disease results.",
+        { "lead": "Vitamin deficiencies.", "text": "Lack of Vitamin A causes night blindness; Vitamin B1, beriberi; Vitamin C, scurvy (bleeding gums); and Vitamin D, rickets (weak, bent bones)." },
+        { "lead": "Mineral deficiencies.", "text": "Lack of iron causes anaemia, lack of iodine causes goitre, and lack of calcium leads to weak bones and teeth." },
+        { "lead": "Prevention.", "text": "These diseases can be prevented by eating a balanced diet rich in fruits, vegetables, pulses, milk and, where needed, iodised salt." }
+      ]
+    },
+    {
+      "q": "Describe the simple tests used to detect starch, protein and fat in food.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Simple chemical tests reveal which nutrients a food contains.",
+        { "lead": "Test for starch.", "text": "A few drops of iodine solution are added to the food. If starch is present, the food turns blue-black." },
+        { "lead": "Test for protein.", "text": "A solution of copper sulphate and caustic soda is added to the food. If protein is present, a violet colour appears." },
+        { "lead": "Test for fat.", "text": "The food item is rubbed on a piece of paper. If fat is present, it leaves a translucent, oily (grease) spot that lets light through." },
+        "These tests let us check the main components of everyday foods."
+      ]
+    }
+  ]
+}

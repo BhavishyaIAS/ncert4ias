@@ -1,0 +1,39 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "Describe the three states of water and the changes of state between them.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Water exists in three states — solid ice, liquid water and gaseous water vapour — and the state depends on temperature.",
+        { "lead": "Melting and freezing.", "text": "On heating, ice melts into water at 0°C; on cooling, water freezes back into ice at the same 0°C." },
+        { "lead": "Evaporation and boiling.", "text": "A liquid changes to vapour by evaporation, which is slow and happens from the surface at any temperature, or by boiling, which is rapid and occurs at the boiling point of 100°C." },
+        { "lead": "Condensation.", "text": "When vapour is cooled it turns back into liquid, as seen in the droplets that form on a cold glass." },
+        "These changes let the same water move endlessly between its three states."
+      ]
+    },
+    {
+      "q": "Explain the water cycle and why it is important.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "The water cycle is the continuous movement of water between the Earth's surface and the sky.",
+        { "lead": "Evaporation.", "text": "The Sun heats water in oceans, rivers and lakes, turning it into vapour that rises; plants add vapour through transpiration." },
+        { "lead": "Condensation.", "text": "High in the sky the vapour cools into tiny droplets that gather as clouds." },
+        { "lead": "Precipitation and collection.", "text": "The droplets grow and fall as rain, snow or hail, and the water flows back into rivers, lakes and oceans, where the cycle begins again." },
+        { "lead": "Importance.", "text": "The cycle keeps renewing the supply of fresh water on which all life depends, which is why water must be conserved." }
+      ]
+    },
+    {
+      "q": "How does evaporation differ from boiling, and why does evaporation cause cooling?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "The difference.", "text": "Evaporation is slow, occurs only at the surface of a liquid, and takes place at any temperature. Boiling is rapid, occurs throughout the liquid, and happens only at a fixed temperature — 100°C for water." },
+        { "lead": "Cooling effect.", "text": "During evaporation, the escaping molecules carry away heat from the liquid and its surroundings, so the surface left behind becomes cooler. This is why sweating cools our body and why water stored in earthen pots stays cool." },
+        { "lead": "Conditions.", "text": "Evaporation is faster when the temperature is higher, the surface area is larger, there is wind, and the air is dry." }
+      ]
+    }
+  ]
+}

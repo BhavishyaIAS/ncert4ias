@@ -1,0 +1,29 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "What is science, and how is it different from technology?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "Science is a systematic way of studying the natural world through observation, questioning and experiment. It grows out of curiosity — the urge to ask what, why and how about the things around us.",
+        { "lead": "Science.", "text": "It builds reliable knowledge about nature, from why the sky is blue to how plants make food, by testing ideas against evidence." },
+        { "lead": "Technology.", "text": "Technology applies that knowledge to solve practical problems and make useful tools — medicines, vehicles, phones and machines." },
+        { "lead": "The link.", "text": "The two are closely related: science provides understanding, and technology puts it to work. Advances in one often drive the other." }
+      ]
+    },
+    {
+      "q": "Describe the main steps of the scientific method.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "The scientific method is the careful, step-by-step way in which scientists investigate a question.",
+        { "lead": "Observe and question.", "text": "It begins with observing something in nature and asking a clear question about it." },
+        { "lead": "Hypothesise.", "text": "The scientist makes a reasonable guess, called a hypothesis, that might answer the question." },
+        { "lead": "Experiment and record.", "text": "The guess is tested through experiments, and the results are carefully measured and recorded." },
+        { "lead": "Analyse and conclude.", "text": "The results are analysed to see whether they support the hypothesis, and a conclusion is drawn. Tests are repeated to be sure." },
+        "Throughout, science relies on evidence rather than opinion."
+      ]
+    }
+  ]
+}
