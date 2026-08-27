@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getChaptersForSubject, subjectLensLabel } from "@/lib/queries";
+import { getChaptersForSubject, subjectDisplayLabel } from "@/lib/queries";
 import { Badge } from "@/components/ui/badge";
 import { ThemedPage } from "@/components/themed-page";
 import { BhavishyaSubjectChapters } from "@/components/bhavishya/subjects";
@@ -16,7 +16,7 @@ async function ClassicSubjectPage({
   const { slug } = await params;
   const { subject, chapters } = await getChaptersForSubject(slug);
   if (!subject) notFound();
-  const label = subjectLensLabel(subject);
+  const label = subjectDisplayLabel(subject);
 
   return (
     <main className="mx-auto w-full max-w-3xl flex-1 px-6 py-12">

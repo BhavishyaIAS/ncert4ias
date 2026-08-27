@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getSubjectsForLens, subjectLensLabel } from "@/lib/queries";
+import { getSubjectsForLens, subjectDisplayLabel } from "@/lib/queries";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ThemedPage } from "@/components/themed-page";
 import { BhavishyaSubjectsIndex } from "@/components/bhavishya/subjects";
@@ -23,7 +23,7 @@ async function ClassicSubjectsIndexPage() {
           <Link key={s.id} href={`/subjects/${s.slug}`}>
             <Card className="h-full transition-colors hover:border-foreground/30">
               <CardHeader>
-                <CardTitle className="text-lg">{subjectLensLabel(s)}</CardTitle>
+                <CardTitle className="text-lg">{subjectDisplayLabel(s)}</CardTitle>
               </CardHeader>
               <CardContent className="text-sm text-muted-foreground">
                 {s.chapterCount} chapter{s.chapterCount === 1 ? "" : "s"}

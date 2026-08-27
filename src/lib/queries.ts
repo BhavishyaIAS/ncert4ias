@@ -259,8 +259,13 @@ const SUBJECT_LENS_ORDER: string[] = [
   "ecology-environment",
 ];
 
-/** Display label override for the lens (DB "Science" reads as "General Science"). */
-export function subjectLensLabel(subject: Pick<SubjectRow, "slug" | "name">) {
+/**
+ * Student-facing subject label, used everywhere subjects are shown (class-wise
+ * and subject-wise alike). The DB stores "Science"; students read it as
+ * "General Science". All other subjects show their plain name — no NCERT
+ * alias suffix (e.g. Polity is never "Political Science / Civics").
+ */
+export function subjectDisplayLabel(subject: Pick<SubjectRow, "slug" | "name">) {
   return subject.slug === "science" ? "General Science" : subject.name;
 }
 

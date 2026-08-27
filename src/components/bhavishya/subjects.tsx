@@ -2,7 +2,7 @@ import Link from "next/link";
 import { Crumbs } from "@/components/bhavishya/crumbs";
 import { getSubjectTheme } from "@/lib/config/subject-themes";
 import { SubjectTexture } from "@/components/bhavishya/subject-texture";
-import { subjectLensLabel } from "@/lib/queries";
+import { subjectDisplayLabel } from "@/lib/queries";
 import type { SubjectRow, SubjectWithCount, SubjectLensChapter } from "@/lib/queries";
 
 /**
@@ -46,7 +46,7 @@ export function BhavishyaSubjectsIndex({
                 </div>
                 <div className="bh-subject-tile-body">
                   <span className="bh-motif">{theme.motif}</span>
-                  <h2 className="bh-tile-name">{subjectLensLabel(s)}</h2>
+                  <h2 className="bh-tile-name">{subjectDisplayLabel(s)}</h2>
                   <p className="bh-tile-blurb">
                     {s.chapterCount} chapter{s.chapterCount === 1 ? "" : "s"}
                   </p>
@@ -68,7 +68,7 @@ export function BhavishyaSubjectChapters({
   chapters: SubjectLensChapter[];
 }) {
   const theme = getSubjectTheme(subject.slug);
-  const label = subjectLensLabel(subject);
+  const label = subjectDisplayLabel(subject);
 
   return (
     <main className="flex-1" data-subject={subject.slug}>

@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CLASSES } from "@/lib/config/taxonomy";
-import { getSubjectsForClass } from "@/lib/queries";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { getSubjectsForClass, subjectDisplayLabel } from "@/lib/queries";
+import { Card, CardHeader, CardTitle } from "@/components/ui/card";
 import { ThemedPage } from "@/components/themed-page";
 import { BhavishyaClass } from "@/components/bhavishya/browse";
 
@@ -47,13 +47,10 @@ async function ClassicClassPage({
             <Link key={s.id} href={`/browse/${n}/${s.slug}`}>
               <Card className="h-full transition-colors hover:border-foreground/30">
                 <CardHeader>
-                  <CardTitle className="text-lg">{s.name}</CardTitle>
+                  <CardTitle className="text-lg">
+                    {subjectDisplayLabel(s)}
+                  </CardTitle>
                 </CardHeader>
-                {s.ncert_name && (
-                  <CardContent className="text-sm text-muted-foreground">
-                    {s.ncert_name}
-                  </CardContent>
-                )}
               </Card>
             </Link>
           ))}

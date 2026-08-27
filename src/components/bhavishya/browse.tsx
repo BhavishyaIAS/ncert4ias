@@ -3,6 +3,7 @@ import { CLASSES } from "@/lib/config/taxonomy";
 import { getSubjectTheme } from "@/lib/config/subject-themes";
 import { SubjectTexture } from "@/components/bhavishya/subject-texture";
 import { Crumbs } from "@/components/bhavishya/crumbs";
+import { subjectDisplayLabel } from "@/lib/queries";
 import type { SubjectRow, BookWithChapters } from "@/lib/queries";
 
 /* ── /browse — pick a class ────────────────────────────────────────────────
@@ -74,10 +75,7 @@ export function BhavishyaClass({
                 </div>
                 <div className="bh-subject-tile-body">
                   <span className="bh-motif">{theme.motif}</span>
-                  <h2 className="bh-tile-name">{s.name}</h2>
-                  {s.ncert_name && (
-                    <p className="bh-tile-blurb">{s.ncert_name}</p>
-                  )}
+                  <h2 className="bh-tile-name">{subjectDisplayLabel(s)}</h2>
                 </div>
               </Link>
             );
@@ -101,6 +99,7 @@ export function BhavishyaSubject({
   books: BookWithChapters[];
 }) {
   const theme = getSubjectTheme(subject.slug);
+  const label = subjectDisplayLabel(subject);
   const withChapters = books.filter((b) => b.chapters.length > 0);
   const total = withChapters.reduce((n, b) => n + b.chapters.length, 0);
 
@@ -111,7 +110,7 @@ export function BhavishyaSubject({
           trail={[
             { label: "Class-wise", href: "/browse" },
             { label: `Class ${classNo}`, href: `/browse/${classNo}` },
-            { label: subject.name },
+            { label },
           ]}
         />
       </div>
@@ -121,7 +120,7 @@ export function BhavishyaSubject({
           <SubjectTexture slug={subject.slug} />
           <span className="bh-motif">{theme.motif}</span>
           <h1 className="bh-h2 mt-2">
-            Class {classNo} · {subject.name}
+            Class {classNo} · {label}
           </h1>
         </div>
       </div>
@@ -131,7 +130,7 @@ export function BhavishyaSubject({
           <div className="bh-empty">
             <p className="bh-h3">No chapters published here yet</p>
             <p className="bh-note max-w-sm">
-              {subject.name} is live for other classes. Try one of those, or
+              {label} is live for other classes. Try one of those, or
               search for a topic directly.
             </p>
             <div className="mt-1 flex flex-wrap gap-2">

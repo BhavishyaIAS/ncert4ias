@@ -2,7 +2,11 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CLASSES } from "@/lib/config/taxonomy";
-import { getBooksWithChapters, getSubjectBySlug } from "@/lib/queries";
+import {
+  getBooksWithChapters,
+  getSubjectBySlug,
+  subjectDisplayLabel,
+} from "@/lib/queries";
 import { Badge } from "@/components/ui/badge";
 import { ThemedPage } from "@/components/themed-page";
 import { BhavishyaSubject } from "@/components/bhavishya/browse";
@@ -27,6 +31,7 @@ async function ClassicSubjectPage({
   if (!subject) notFound();
 
   const books = await getBooksWithChapters(n, subjectSlug);
+  const label = subjectDisplayLabel(subject);
 
   return (
     <main className="mx-auto w-full max-w-3xl flex-1 px-6 py-12">
@@ -41,10 +46,10 @@ async function ClassicSubjectPage({
         >
           Class {n}
         </Link>{" "}
-        / {subject.name}
+        / {label}
       </nav>
       <h1 className="mt-2 text-2xl font-semibold tracking-tight">
-        Class {n} · {subject.name}
+        Class {n} · {label}
       </h1>
 
       {books.every((b) => b.chapters.length === 0) ? (
