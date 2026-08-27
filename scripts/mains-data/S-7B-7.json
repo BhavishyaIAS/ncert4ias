@@ -1,0 +1,27 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "Describe the three modes of heat transfer, noting where each occurs.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Heat always flows from a hotter body to a colder one, and it can be transferred in three ways.",
+        { "lead": "Conduction.", "text": "In conduction, heat passes through a solid from particle to particle by direct contact, without the material itself moving, as when a metal spoon in hot tea becomes hot along its length. Metals conduct well, while wood and plastic are poor conductors." },
+        { "lead": "Convection.", "text": "In convection, heat is carried by the actual movement of a liquid or gas: heated fluid rises and cooler fluid sinks, setting up convection currents, as in boiling water." },
+        { "lead": "Radiation.", "text": "In radiation, heat travels as rays without needing any medium, which is how the Sun's heat reaches the Earth across empty space." }
+      ]
+    },
+    {
+      "q": "Explain how sea and land breezes are produced by convection.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "Sea and land breezes are everyday examples of convection, arising because land and water heat and cool at different rates.",
+        { "lead": "Sea breeze.", "text": "During the day, the land heats up faster than the sea. The warm air over the land rises, and cooler air from over the sea moves in to take its place, giving a sea breeze that blows from sea to land." },
+        { "lead": "Land breeze.", "text": "At night, the land cools faster than the sea. Now the air over the sea is warmer and rises, and cooler air from the land moves out towards the sea, giving a land breeze that blows from land to sea." },
+        "In both cases, moving air carries heat, which is the essence of convection."
+      ]
+    }
+  ]
+}

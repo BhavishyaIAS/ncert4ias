@@ -1,0 +1,25 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "What is an electric circuit, and what are its main components?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "An electric circuit is a closed path along which electric current can flow. Current flows only when the path is complete; if there is a break anywhere, the current stops.",
+        { "lead": "Main components.", "text": "A simple circuit has a source of electricity — an electric cell or a battery of cells, each with a positive and a negative terminal; connecting wires; a switch, or key, that completes or breaks the path; and a device such as a bulb." },
+        { "lead": "Circuit diagrams.", "text": "Circuits are drawn using standard symbols for the cell, battery, switch, bulb and wires, so that they can be understood easily." },
+        { "lead": "Working.", "text": "When the switch is closed, the circuit is complete and the bulb glows; when it is open, the circuit is broken and the bulb goes off." }
+      ]
+    },
+    {
+      "q": "Distinguish between conductors and insulators, and state the safety rules for electricity.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Conductors and insulators.", "text": "Conductors allow electric current to pass through them; these include metals such as copper and aluminium, and graphite. Insulators do not allow current to pass; these include plastic, rubber, wood and glass. This is why wires are made of a metal conductor covered with a plastic insulator for safety." },
+        { "lead": "Safety.", "text": "Electricity must be handled with care. One should never touch switches or appliances with wet hands, since a wet body conducts electricity, and should never experiment with the high-voltage mains supply, which can be fatal. Fuses and switches help protect circuits from short circuits and overloads that could cause fire." }
+      ]
+    }
+  ]
+}
