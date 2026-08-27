@@ -83,19 +83,15 @@ export const metadata: Metadata = {
 };
 
 /**
- * Reconciles localStorage with the cookie. The server has already stamped the
- * correct theme from the cookie, so this does nothing in the normal case — it
- * only matters when the cookie was cleared but localStorage still remembers.
- * Runs before paint, so that recovery is also flash-free.
+ * The redesign has been retired, so this migrates anyone still carrying a saved
+ * "bhavishya" preference back to classic — before first paint, so a returning
+ * reader never sees a flash of the old theme applied over classic markup.
  */
 const THEME_BOOTSTRAP = `
 (function(){try{
-  var c=document.cookie.match(/(?:^|; )${THEME_COOKIE}=([^;]*)/);
-  if(c)return;
-  var s=localStorage.getItem("${THEME_COOKIE}");
-  if(s!=="classic"&&s!=="bhavishya")return;
-  document.documentElement.dataset.theme=s;
-  document.cookie="${THEME_COOKIE}="+s+";path=/;max-age=${THEME_COOKIE_MAX_AGE};samesite=lax";
+  document.documentElement.dataset.theme="classic";
+  localStorage.setItem("${THEME_COOKIE}","classic");
+  document.cookie="${THEME_COOKIE}=classic;path=/;max-age=${THEME_COOKIE_MAX_AGE};samesite=lax";
 }catch(e){}})();
 `;
 

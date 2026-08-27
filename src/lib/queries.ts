@@ -53,7 +53,9 @@ export async function getSubjectsForClass(
     const subject = row.subject as unknown as SubjectRow | null;
     if (subject) map.set(subject.id, subject);
   }
-  return [...map.values()].sort((a, b) => a.order - b.order);
+  return [...map.values()].sort(
+    (a, b) => subjectOrderIndex(a.slug) - subjectOrderIndex(b.slug) || a.order - b.order,
+  );
 }
 
 export async function getSubjectBySlug(
@@ -246,10 +248,11 @@ export async function getChaptersForGsTag(code: string): Promise<{
 // ---------------------------------------------------------------------------
 
 /**
- * Aspirant-facing order for the subject-wise lens. Anything not listed falls to
- * the end (then by the subject's own `order`).
+ * Aspirant-facing subject order, used for BOTH lenses (class-wise browse and
+ * subject-wise) so the two always agree. Anything not listed falls to the end
+ * (then by the subject's own `order`).
  */
-const SUBJECT_LENS_ORDER: string[] = [
+const SUBJECT_DISPLAY_ORDER: string[] = [
   "history",
   "art-culture",
   "geography",
@@ -258,6 +261,12 @@ const SUBJECT_LENS_ORDER: string[] = [
   "science",
   "ecology-environment",
 ];
+
+/** Position of a subject in the aspirant-facing order; unlisted sorts last. */
+function subjectOrderIndex(slug: string): number {
+  const i = SUBJECT_DISPLAY_ORDER.indexOf(slug);
+  return i === -1 ? SUBJECT_DISPLAY_ORDER.length : i;
+}
 
 /**
  * Student-facing subject label, used everywhere subjects are shown (class-wise
@@ -287,16 +296,13 @@ export async function getSubjectsForLens(): Promise<SubjectWithCount[]> {
     }
   }
 
-  const orderIndex = (slug: string) => {
-    const i = SUBJECT_LENS_ORDER.indexOf(slug);
-    return i === -1 ? SUBJECT_LENS_ORDER.length : i;
-  };
-
   return (subjects ?? [])
     .map((sub) => ({ ...sub, chapterCount: counts.get(sub.id) ?? 0 }))
     .filter((sub) => sub.chapterCount > 0)
     .sort(
-      (a, b) => orderIndex(a.slug) - orderIndex(b.slug) || a.order - b.order,
+      (a, b) =>
+        subjectOrderIndex(a.slug) - subjectOrderIndex(b.slug) ||
+        a.order - b.order,
     );
 }
 
