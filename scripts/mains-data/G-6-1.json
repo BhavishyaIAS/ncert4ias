@@ -1,0 +1,38 @@
+{
+  "gs_paper": "GS-I",
+  "questions": [
+    {
+      "q": "Distinguish between latitudes and longitudes and explain how they help us locate places.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "Latitudes and longitudes form the grid used to locate any point on the Earth's surface.",
+        { "lead": "Latitudes (parallels).", "text": "These are imaginary lines running east–west, parallel to the Equator. They are measured from 0° at the Equator to 90° at each pole, and tell us how far north or south a place is." },
+        { "lead": "Longitudes (meridians).", "text": "These run north–south from pole to pole. They are measured from the Prime Meridian (0°) at Greenwich up to 180° east and west, and tell us how far east or west a place is." },
+        { "lead": "Locating a place.", "text": "Where a latitude and a longitude cross gives the exact position of a place — its coordinates — allowing any spot on Earth to be found precisely." }
+      ]
+    },
+    {
+      "q": "Describe the important parallels of latitude and the heat zones they mark.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Some latitudes are especially important because they mark the Earth's heat zones.",
+        { "lead": "Key parallels.", "text": "The Equator is 0°; the Tropic of Cancer lies at 23½° N (passing through India) and the Tropic of Capricorn at 23½° S; the Arctic Circle is at 66½° N and the Antarctic Circle at 66½° S; the North and South Poles are at 90°." },
+        { "lead": "The three heat zones.", "text": "The Torrid Zone, between the two Tropics, gets the most direct sunlight and is the hottest. The two Temperate Zones, between the Tropics and the polar circles, are moderate. The two Frigid Zones, between the polar circles and the poles, are the coldest." },
+        "Thus latitude largely decides how much heat a place receives from the Sun."
+      ]
+    },
+    {
+      "q": "Explain the relationship between longitude and time, and how Indian Standard Time is fixed.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "Longitude is closely linked to time because of the Earth's rotation.",
+        { "lead": "The rule.", "text": "The Earth turns 360° in 24 hours, so it rotates 15° in one hour — that is, four minutes for every degree of longitude. Places to the east see the Sun earlier and are ahead in time; places to the west are behind." },
+        { "lead": "Reference time.", "text": "Time at the Prime Meridian (0°, Greenwich) is Greenwich Mean Time (GMT), used as the world's reference." },
+        { "lead": "Indian Standard Time.", "text": "India is a wide country, so a single standard time is fixed on the longitude of 82½° E. This makes Indian Standard Time (IST) five and a half hours ahead of GMT." }
+      ]
+    }
+  ]
+}
