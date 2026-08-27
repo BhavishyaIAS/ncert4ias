@@ -1,0 +1,27 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "Trace the chain of people involved in making and selling a cotton shirt.",
+      "directive": "Trace",
+      "word_limit": 150,
+      "answer": [
+        "A cotton shirt passes through many hands between the field and the shop.",
+        { "lead": "From field to cloth.", "text": "It begins with the cotton farmer, who sells raw cotton to a local trader. The trader sells it on to spinning mills, which make yarn, and the yarn is given to weavers who make cloth, often under the putting-out system." },
+        { "lead": "From cloth to consumer.", "text": "The cloth goes to garment-making factories, where workers stitch shirts; exporters then sell these to foreign businesses and brand shops, from which the consumer finally buys the shirt." },
+        { "lead": "The point.", "text": "At each step value is added, but the rewards are shared very unequally — those who do the hardest work earn the least." }
+      ]
+    },
+    {
+      "q": "Why do the cotton farmer and the weaver earn so little, while others gain more?",
+      "directive": "Examine",
+      "word_limit": 150,
+      "answer": [
+        "The people who do the most work in making a shirt earn the least because they have the least power in the market.",
+        { "lead": "The farmer.", "text": "The cotton farmer often borrows money for seeds and fertiliser and must sell to the local trader he owes, at a low price, leaving him with little bargaining power and small earnings." },
+        { "lead": "The weaver.", "text": "Under the putting-out system, merchants supply the yarn and collect the finished cloth, so the weaver, working at home, depends on them entirely and receives only low wages." },
+        { "lead": "Those who gain.", "text": "The garment exporters and foreign brands make the largest profits by keeping the wages of farmers, weavers and factory workers low. The result is an unequal and unfair sharing of the market's gains." }
+      ]
+    }
+  ]
+}
