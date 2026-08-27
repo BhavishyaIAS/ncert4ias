@@ -1,0 +1,27 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "Describe the human circulatory system.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "The circulatory system transports materials around the body and is made up of the heart, the blood and the blood vessels.",
+        { "lead": "Blood.", "text": "Blood carries digested food, oxygen and wastes. Its red colour comes from haemoglobin in the red blood cells, which carries oxygen. White blood cells fight infection, platelets help clotting, and all float in a fluid called plasma." },
+        { "lead": "The heart.", "text": "The heart is a muscular pump with four chambers that beats about seventy-two times a minute at rest, pushing blood through the body." },
+        { "lead": "Blood vessels.", "text": "Arteries carry blood away from the heart under high pressure, veins carry blood back to the heart and have valves, and tiny capillaries allow the exchange of materials with the cells." }
+      ]
+    },
+    {
+      "q": "How are water and food transported in plants?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "Plants have special conducting tissues that carry water and food to all their parts.",
+        { "lead": "Xylem.", "text": "The xylem carries water and dissolved minerals absorbed by the roots upward through the stem to the leaves." },
+        { "lead": "Phloem.", "text": "The phloem carries the food made in the leaves during photosynthesis to all other parts of the plant, including the roots." },
+        { "lead": "Transpiration.", "text": "Leaves lose water as vapour through their stomata in a process called transpiration. This creates a pull, the transpiration pull, that helps draw water up from the roots, and along with root pressure moves water to great heights. Transpiration also cools the plant." }
+      ]
+    }
+  ]
+}

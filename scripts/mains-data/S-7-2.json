@@ -1,0 +1,26 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "Describe the human digestive system and the journey of food through it.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Human nutrition involves five steps — ingestion, digestion, absorption, assimilation and egestion — carried out by the digestive system.",
+        { "lead": "The journey.", "text": "Food is taken in through the mouth, where the teeth chew it and saliva begins to digest starch. It passes down the oesophagus to the stomach, which churns it and secretes acid and juices that digest proteins and kill germs." },
+        { "lead": "Absorption.", "text": "In the small intestine, digestion is completed with the help of bile from the liver and pancreatic juice, and nutrients are absorbed through finger-like villi into the blood." },
+        { "lead": "The end.", "text": "The large intestine absorbs water, and undigested waste is stored in the rectum and removed as faeces through the anus. The liver is the largest gland in the body." }
+      ]
+    },
+    {
+      "q": "How do ruminants and the amoeba obtain and digest their food?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Ruminants.", "text": "Animals such as cows, buffaloes and deer are ruminants. They quickly swallow grass into a part of the stomach called the rumen, where it is partly digested and stored as cud. Later they bring the cud back to the mouth and chew it slowly, a process called rumination. With the help of microbes, ruminants can digest cellulose, the tough material in grass, which humans cannot." },
+        { "lead": "Amoeba.", "text": "The amoeba is a tiny single-celled organism. It uses finger-like extensions called pseudopodia, or false feet, to surround and engulf its food, forming a food vacuole inside the cell where the food is digested." },
+        "Thus even very different animals have their own ways of taking in and breaking down food."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "Explain the heating effect of electric current and its uses.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "When an electric current flows through a wire, the wire becomes hot. This is called the heating effect of current.",
+        { "lead": "How it works.", "text": "The greater the resistance of the wire, the more heat is produced for a given current. Appliances that need to produce heat use a special high-resistance wire, often made of nichrome." },
+        { "lead": "Uses.", "text": "The heating effect is used in electric heaters, irons, geysers and toasters. In an electric bulb, current heats a thin tungsten filament until it glows and gives light." },
+        { "lead": "The fuse.", "text": "The same effect makes the electric fuse a safety device: a thin wire in the fuse melts and breaks the circuit if too much current flows, preventing wires from overheating and causing fire." }
+      ]
+    },
+    {
+      "q": "What is the magnetic effect of current, and how does an electromagnet work?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "A wire carrying an electric current behaves like a magnet; this is called the magnetic effect of current, first shown by Oersted, who saw a compass needle deflect near a current-carrying wire.",
+        { "lead": "The electromagnet.", "text": "An electromagnet is made by winding a coil of insulated wire around a piece of iron, called the core. When current flows through the coil, the iron becomes a strong magnet, and when the current is switched off, it loses its magnetism." },
+        { "lead": "Advantages and uses.", "text": "Because it can be switched on and off and made very strong, the electromagnet is used in cranes to lift iron, and in electric bells, motors and loudspeakers." },
+        "Thus electricity and magnetism are closely linked."
+      ]
+    }
+  ]
+}
