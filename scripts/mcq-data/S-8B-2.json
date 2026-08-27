@@ -1,52 +1,962 @@
 [
-  {"stem": "Organisms too small to be seen with the naked eye are called __________.", "options": ["microorganisms", "vertebrates", "mammals", "insects"], "correct_index": 0, "solution": "Microorganisms are tiny living things visible only under a microscope.", "difficulty": "easy"},
-  {"stem": "The instrument used to observe microorganisms is the __________.", "options": ["microscope", "telescope", "periscope", "barometer"], "correct_index": 0, "solution": "A microscope magnifies tiny objects, allowing microorganisms to be seen.", "difficulty": "easy"},
-  {"stem": "Which of the following is NOT a major group of microorganisms?", "options": ["Mammals", "Bacteria", "Fungi", "Protozoa"], "correct_index": 0, "solution": "Bacteria, fungi, protozoa (and algae) are microorganisms; mammals are large animals.", "difficulty": "easy"},
-  {"stem": "The microorganisms that lie on the borderline of living and non-living and reproduce only inside a host are __________.", "options": ["viruses", "bacteria", "algae", "fungi"], "correct_index": 0, "solution": "Viruses reproduce only inside a living host and are considered on the border of living and non-living.", "difficulty": "medium"},
-  {"stem": "Curd is formed from milk by the action of __________.", "options": ["bacteria", "viruses", "algae", "protozoa"], "correct_index": 0, "solution": "Bacteria (Lactobacillus) convert milk into curd by fermentation.", "difficulty": "easy"},
-  {"stem": "The rising of bread dough is caused by __________, which releases carbon dioxide.", "options": ["yeast", "bacteria only", "a virus", "an alga"], "correct_index": 0, "solution": "Yeast, a fungus, ferments sugar producing CO₂ that makes the dough rise.", "difficulty": "medium"},
-  {"stem": "The process by which microorganisms break down sugars to produce alcohol or acids is called __________.", "options": ["fermentation", "respiration only", "photosynthesis", "digestion"], "correct_index": 0, "solution": "Fermentation is the breakdown of sugars by microorganisms, yielding products like alcohol and acids.", "difficulty": "medium"},
-  {"stem": "Diseases caused by microorganisms are called __________ diseases.", "options": ["infectious (communicable)", "genetic", "deficiency", "degenerative"], "correct_index": 0, "solution": "Infectious (communicable) diseases are caused by microorganisms and can spread.", "difficulty": "medium"},
-  {"stem": "Malaria is caused by a __________ transmitted by the Anopheles mosquito.", "options": ["protozoan (Plasmodium)", "bacterium", "virus", "fungus"], "correct_index": 0, "solution": "Malaria is caused by the protozoan Plasmodium, spread by the female Anopheles mosquito.", "difficulty": "medium"},
-  {"stem": "Which of these diseases is caused by a virus?", "options": ["Common cold", "Tuberculosis", "Typhoid", "Cholera"], "correct_index": 0, "solution": "The common cold is viral; tuberculosis, typhoid and cholera are bacterial.", "difficulty": "medium"},
-  {"stem": "Tuberculosis is caused by a __________.", "options": ["bacterium", "virus", "protozoan", "fungus"], "correct_index": 0, "solution": "Tuberculosis is a bacterial disease affecting mainly the lungs.", "difficulty": "medium"},
-  {"stem": "An organism that carries a disease-causing microbe from one host to another is called a __________.", "options": ["vector (carrier)", "host", "producer", "decomposer"], "correct_index": 0, "solution": "A vector, such as a mosquito, carries pathogens from one host to another.", "difficulty": "medium"},
-  {"stem": "A substance that provides immunity against a disease by preparing the body's defence is a __________.", "options": ["vaccine", "vitamin", "antibiotic", "hormone"], "correct_index": 0, "solution": "A vaccine trains the body's immune system to fight a particular disease.", "difficulty": "medium"},
-  {"stem": "Medicines that kill or stop the growth of disease-causing bacteria are called __________.", "options": ["antibiotics", "vaccines", "vitamins", "antacids"], "correct_index": 0, "solution": "Antibiotics are medicines that destroy or inhibit bacteria.", "difficulty": "medium"},
-  {"stem": "Antibiotics are NOT effective against __________.", "options": ["viruses", "bacteria", "some fungi", "certain protozoa"], "correct_index": 0, "solution": "Antibiotics act against bacteria (and some other microbes) but not against viruses.", "difficulty": "hard"},
-  {"stem": "Nitrogen-fixing bacteria found in the root nodules of leguminous plants convert atmospheric nitrogen into __________.", "options": ["nitrogen compounds usable by plants", "oxygen", "carbon dioxide", "water"], "correct_index": 0, "solution": "These bacteria fix free nitrogen into compounds that plants can absorb and use.", "difficulty": "hard"},
-  {"stem": "Microorganisms that break down dead plants and animals, returning nutrients to the soil, are called __________.", "options": ["decomposers", "producers", "predators", "vectors"], "correct_index": 0, "solution": "Decomposers recycle nutrients by breaking down dead organic matter.", "difficulty": "medium"},
-  {"stem": "The process of heating milk to a high temperature briefly and then cooling it quickly to kill harmful microbes is called __________.", "options": ["pasteurisation", "fermentation", "distillation", "filtration"], "correct_index": 0, "solution": "Pasteurisation heats and rapidly cools milk to destroy harmful microorganisms.", "difficulty": "medium"},
-  {"stem": "Adding salt or sugar in large amounts preserves food because it __________.", "options": ["draws out water and checks microbial growth", "adds vitamins", "kills all viruses instantly", "cools the food"], "correct_index": 0, "solution": "High salt or sugar removes water by osmosis, preventing microbes from growing.", "difficulty": "medium"},
-  {"stem": "Storing food at low temperature in a refrigerator preserves it by __________.", "options": ["slowing down the growth of microbes", "killing all microbes", "adding preservatives", "removing water"], "correct_index": 0, "solution": "Cold temperatures slow microbial growth, delaying food spoilage.", "difficulty": "easy"},
-  {"stem": "Chemicals added to food to prevent spoilage by microbes are called __________.", "options": ["preservatives", "fertilisers", "pesticides", "vaccines"], "correct_index": 0, "solution": "Preservatives such as salt, sugar and certain chemicals stop microbial spoilage of food.", "difficulty": "easy"},
-  {"stem": "Which microorganism is used to make antibiotics like penicillin?", "options": ["A fungus (mould)", "A virus", "An alga", "A protozoan"], "correct_index": 0, "solution": "Penicillin is produced from the mould Penicillium, a fungus.", "difficulty": "hard"},
-  {"stem": "Some algae are microscopic and, being green, can carry out __________.", "options": ["photosynthesis", "nitrogen fixation only", "fermentation", "decomposition"], "correct_index": 0, "solution": "Green algae contain chlorophyll and make food by photosynthesis.", "difficulty": "medium"},
-  {"stem": "Food poisoning can result from eating food in which harmful __________ have grown.", "options": ["microorganisms", "vitamins", "minerals", "fibres"], "correct_index": 0, "solution": "Harmful microbes multiplying in food can produce toxins causing food poisoning.", "difficulty": "medium"},
-  {"stem": "A disease that spreads from an infected person to a healthy person is said to be __________.", "options": ["communicable", "hereditary", "deficiency-related", "non-infectious"], "correct_index": 0, "solution": "Communicable diseases spread from person to person through various means.", "difficulty": "easy"},
-  {"stem": "The spread of disease can be reduced by maintaining __________.", "options": ["cleanliness and hygiene", "crowded conditions", "open sewage", "stagnant water"], "correct_index": 0, "solution": "Good hygiene and sanitation limit the spread of disease-causing microbes.", "difficulty": "easy"},
-  {"stem": "Mosquitoes breed in __________, so removing it helps control mosquito-borne diseases.", "options": ["stagnant water", "dry sand", "moving rivers", "sealed containers"], "correct_index": 0, "solution": "Stagnant water is a breeding site for mosquitoes; removing it reduces their numbers.", "difficulty": "medium"},
-  {"stem": "The body's natural defence system that fights infections is the __________ system.", "options": ["immune", "digestive", "nervous", "muscular"], "correct_index": 0, "solution": "The immune system defends the body against invading microorganisms.", "difficulty": "medium"},
-  {"stem": "Which of the following is a beneficial role of microorganisms?", "options": ["Making curd and bread", "Causing malaria", "Spoiling food", "Spreading cholera"], "correct_index": 0, "solution": "Microorganisms are beneficial in making curd, bread and other foods, among other uses.", "difficulty": "easy"},
-  {"stem": "Cholera and typhoid spread mainly through __________.", "options": ["contaminated water and food", "clean air", "sunlight", "touch of healthy skin"], "correct_index": 0, "solution": "Cholera and typhoid are water- and food-borne bacterial diseases.", "difficulty": "medium"},
-  {"stem": "The first vaccine, against smallpox, was developed by __________.", "options": ["Edward Jenner", "Louis Pasteur", "Alexander Fleming", "Robert Koch"], "correct_index": 0, "solution": "Edward Jenner developed the smallpox vaccine, pioneering vaccination.", "difficulty": "hard"},
-  {"stem": "Penicillin, the first antibiotic, was discovered by __________.", "options": ["Alexander Fleming", "Edward Jenner", "Charles Darwin", "Isaac Newton"], "correct_index": 0, "solution": "Alexander Fleming discovered penicillin from the Penicillium mould.", "difficulty": "hard"},
-  {"stem": "Microorganisms are used in sewage treatment to __________.", "options": ["break down organic waste", "add colour to water", "increase pollution", "purify air only"], "correct_index": 0, "solution": "Decomposer microbes break down organic matter in sewage during treatment.", "difficulty": "medium"},
-  {"stem": "The nitrogen cycle depends on microorganisms that __________.", "options": ["fix nitrogen and recycle nitrogen compounds", "produce oxygen only", "remove all nitrogen", "make plastics"], "correct_index": 0, "solution": "Microbes fix atmospheric nitrogen and recycle nitrogen compounds, maintaining the nitrogen cycle.", "difficulty": "hard"},
-  {"stem": "A microorganism that lives in or on another organism and causes it harm is called a __________.", "options": ["pathogen", "host", "producer", "decomposer"], "correct_index": 0, "solution": "A pathogen is a disease-causing microorganism.", "difficulty": "medium"},
-  {"stem": "Boiling drinking water helps make it safe because it __________.", "options": ["kills most disease-causing microbes", "adds minerals", "increases microbes", "removes colour only"], "correct_index": 0, "solution": "Boiling kills most harmful microorganisms, making water safer to drink.", "difficulty": "easy"},
-  {"stem": "Which of these is used in the large-scale production of alcohol?", "options": ["Yeast", "Plasmodium", "A virus", "Blue-green scum only"], "correct_index": 0, "solution": "Yeast ferments sugars to produce alcohol on an industrial scale.", "difficulty": "medium"},
-  {"stem": "The tiny, single-celled animals grouped as protozoa include the causative agent of __________.", "options": ["malaria", "the common cold", "tetanus", "measles"], "correct_index": 0, "solution": "The malaria parasite Plasmodium is a protozoan.", "difficulty": "medium"},
-  {"stem": "Covering the nose and mouth while sneezing helps prevent the spread of __________ diseases.", "options": ["airborne", "water-borne", "soil-borne", "genetic"], "correct_index": 0, "solution": "Airborne diseases spread through droplets; covering the mouth limits their spread.", "difficulty": "easy"},
-  {"stem": "Fungi such as bread mould grow well in conditions that are __________.", "options": ["warm and moist", "cold and dry", "very hot and dry", "salty and dry"], "correct_index": 0, "solution": "Warm, moist conditions favour the growth of fungi like bread mould.", "difficulty": "medium"},
-  {"stem": "Which practice does NOT help prevent food spoilage by microbes?", "options": ["Leaving cooked food uncovered in the open", "Refrigeration", "Adding preservatives", "Drying"], "correct_index": 0, "solution": "Leaving food uncovered exposes it to microbes and hastens spoilage.", "difficulty": "easy"},
-  {"stem": "Blue-green algae in fields are useful because they can __________.", "options": ["fix atmospheric nitrogen", "spread malaria", "spoil grain", "cause the cold"], "correct_index": 0, "solution": "Certain blue-green algae fix nitrogen, enriching the soil naturally.", "difficulty": "hard"},
-  {"stem": "The reason viruses are considered different from other microorganisms is that they __________.", "options": ["can reproduce only inside a living host cell", "make their own food", "are the largest microbes", "are visible to the naked eye"], "correct_index": 0, "solution": "Viruses cannot reproduce on their own; they need a living host cell to multiply.", "difficulty": "hard"},
-  {"stem": "Which of the following is an example of a fungal skin disease?", "options": ["Ringworm", "Malaria", "Typhoid", "Polio"], "correct_index": 0, "solution": "Ringworm is caused by a fungus and affects the skin.", "difficulty": "medium"},
-  {"stem": "Vaccination programmes have helped to __________ certain diseases like smallpox.", "options": ["eradicate (wipe out)", "spread", "worsen", "hide"], "correct_index": 0, "solution": "Widespread vaccination eradicated smallpox and controls many diseases.", "difficulty": "medium"},
-  {"stem": "The main reason we cannot see bacteria with the naked eye is that they are __________.", "options": ["extremely small", "transparent only", "always moving", "coloured like the background"], "correct_index": 0, "solution": "Bacteria are far too small to be seen without a microscope.", "difficulty": "easy"},
-  {"stem": "Which of the following helps to increase soil fertility naturally?", "options": ["Nitrogen-fixing bacteria", "Disease-causing viruses", "Food-spoiling fungi", "Malarial protozoa"], "correct_index": 0, "solution": "Nitrogen-fixing bacteria enrich the soil with usable nitrogen compounds.", "difficulty": "medium"},
-  {"stem": "Personal hygiene such as washing hands before eating helps prevent __________.", "options": ["entry of harmful microbes into the body", "loss of vitamins", "growth of nails", "the common cold entirely"], "correct_index": 0, "solution": "Washing hands removes microbes, reducing the chance of infection through food.", "difficulty": "easy"},
-  {"stem": "A community that is largely protected because most of its members are vaccinated shows __________.", "options": ["herd immunity", "food spoilage", "fermentation", "decomposition"], "correct_index": 0, "solution": "Herd immunity protects a population when a large fraction is immune, limiting disease spread.", "difficulty": "hard"},
-  {"stem": "Overall, microorganisms are best described as __________.", "options": ["both useful and harmful depending on the type", "always harmful", "always useful", "never important"], "correct_index": 0, "solution": "Microorganisms play both beneficial and harmful roles depending on the species and situation.", "difficulty": "easy"}
+  {
+    "stem": "Organisms too small to be seen with the naked eye are called __________.",
+    "options": [
+      "microorganisms",
+      "vertebrates",
+      "mammals",
+      "insects"
+    ],
+    "correct_index": 0,
+    "solution": "Microorganisms are tiny living things visible only under a microscope.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The instrument used to observe microorganisms is the __________.",
+    "options": [
+      "microscope",
+      "telescope",
+      "periscope",
+      "barometer"
+    ],
+    "correct_index": 0,
+    "solution": "A microscope magnifies tiny objects, allowing microorganisms to be seen.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is NOT a major group of microorganisms?",
+    "options": [
+      "Mammals",
+      "Bacteria",
+      "Fungi",
+      "Protozoa"
+    ],
+    "correct_index": 0,
+    "solution": "Bacteria, fungi, protozoa (and algae) are microorganisms; mammals are large animals.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The microorganisms that lie on the borderline of living and non-living and reproduce only inside a host are __________.",
+    "options": [
+      "viruses",
+      "bacteria",
+      "algae",
+      "fungi"
+    ],
+    "correct_index": 0,
+    "solution": "Viruses reproduce only inside a living host and are considered on the border of living and non-living.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Curd is formed from milk by the action of __________.",
+    "options": [
+      "bacteria",
+      "viruses",
+      "algae",
+      "protozoa"
+    ],
+    "correct_index": 0,
+    "solution": "Bacteria (Lactobacillus) convert milk into curd by fermentation.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The rising of bread dough is caused by __________, which releases carbon dioxide.",
+    "options": [
+      "yeast",
+      "bacteria only",
+      "a virus",
+      "an alga"
+    ],
+    "correct_index": 0,
+    "solution": "Yeast, a fungus, ferments sugar producing CO₂ that makes the dough rise.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The process by which microorganisms break down sugars to produce alcohol or acids is called __________.",
+    "options": [
+      "fermentation",
+      "respiration only",
+      "photosynthesis",
+      "digestion"
+    ],
+    "correct_index": 0,
+    "solution": "Fermentation is the breakdown of sugars by microorganisms, yielding products like alcohol and acids.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Diseases caused by microorganisms are called __________ diseases.",
+    "options": [
+      "infectious (communicable)",
+      "genetic",
+      "deficiency",
+      "degenerative"
+    ],
+    "correct_index": 0,
+    "solution": "Infectious (communicable) diseases are caused by microorganisms and can spread.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Malaria is caused by a __________ transmitted by the Anopheles mosquito.",
+    "options": [
+      "protozoan (Plasmodium)",
+      "bacterium",
+      "virus",
+      "fungus"
+    ],
+    "correct_index": 0,
+    "solution": "Malaria is caused by the protozoan Plasmodium, spread by the female Anopheles mosquito.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of these diseases is caused by a virus?",
+    "options": [
+      "Common cold",
+      "Tuberculosis",
+      "Typhoid",
+      "Cholera"
+    ],
+    "correct_index": 0,
+    "solution": "The common cold is viral; tuberculosis, typhoid and cholera are bacterial.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tuberculosis is caused by a __________.",
+    "options": [
+      "bacterium",
+      "virus",
+      "protozoan",
+      "fungus"
+    ],
+    "correct_index": 0,
+    "solution": "Tuberculosis is a bacterial disease affecting mainly the lungs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An organism that carries a disease-causing microbe from one host to another is called a __________.",
+    "options": [
+      "vector (carrier)",
+      "host",
+      "producer",
+      "decomposer"
+    ],
+    "correct_index": 0,
+    "solution": "A vector, such as a mosquito, carries pathogens from one host to another.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A substance that provides immunity against a disease by preparing the body's defence is a __________.",
+    "options": [
+      "vaccine",
+      "vitamin",
+      "antibiotic",
+      "hormone"
+    ],
+    "correct_index": 0,
+    "solution": "A vaccine trains the body's immune system to fight a particular disease.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Medicines that kill or stop the growth of disease-causing bacteria are called __________.",
+    "options": [
+      "antibiotics",
+      "vaccines",
+      "vitamins",
+      "antacids"
+    ],
+    "correct_index": 0,
+    "solution": "Antibiotics are medicines that destroy or inhibit bacteria.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Antibiotics are NOT effective against __________.",
+    "options": [
+      "viruses",
+      "bacteria",
+      "some fungi",
+      "certain protozoa"
+    ],
+    "correct_index": 0,
+    "solution": "Antibiotics act against bacteria (and some other microbes) but not against viruses.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nitrogen-fixing bacteria found in the root nodules of leguminous plants convert atmospheric nitrogen into __________.",
+    "options": [
+      "nitrogen compounds usable by plants",
+      "oxygen",
+      "carbon dioxide",
+      "water"
+    ],
+    "correct_index": 0,
+    "solution": "These bacteria fix free nitrogen into compounds that plants can absorb and use.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Microorganisms that break down dead plants and animals, returning nutrients to the soil, are called __________.",
+    "options": [
+      "decomposers",
+      "producers",
+      "predators",
+      "vectors"
+    ],
+    "correct_index": 0,
+    "solution": "Decomposers recycle nutrients by breaking down dead organic matter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The process of heating milk to a high temperature briefly and then cooling it quickly to kill harmful microbes is called __________.",
+    "options": [
+      "pasteurisation",
+      "fermentation",
+      "distillation",
+      "filtration"
+    ],
+    "correct_index": 0,
+    "solution": "Pasteurisation heats and rapidly cools milk to destroy harmful microorganisms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Adding salt or sugar in large amounts preserves food because it __________.",
+    "options": [
+      "draws out water and checks microbial growth",
+      "adds vitamins",
+      "kills all viruses instantly",
+      "cools the food"
+    ],
+    "correct_index": 0,
+    "solution": "High salt or sugar removes water by osmosis, preventing microbes from growing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Storing food at low temperature in a refrigerator preserves it by __________.",
+    "options": [
+      "slowing down the growth of microbes",
+      "killing all microbes",
+      "adding preservatives",
+      "removing water"
+    ],
+    "correct_index": 0,
+    "solution": "Cold temperatures slow microbial growth, delaying food spoilage.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Chemicals added to food to prevent spoilage by microbes are called __________.",
+    "options": [
+      "preservatives",
+      "fertilisers",
+      "pesticides",
+      "vaccines"
+    ],
+    "correct_index": 0,
+    "solution": "Preservatives such as salt, sugar and certain chemicals stop microbial spoilage of food.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which microorganism is used to make antibiotics like penicillin?",
+    "options": [
+      "A fungus (mould)",
+      "A virus",
+      "An alga",
+      "A protozoan"
+    ],
+    "correct_index": 0,
+    "solution": "Penicillin is produced from the mould Penicillium, a fungus.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Some algae are microscopic and, being green, can carry out __________.",
+    "options": [
+      "photosynthesis",
+      "nitrogen fixation only",
+      "fermentation",
+      "decomposition"
+    ],
+    "correct_index": 0,
+    "solution": "Green algae contain chlorophyll and make food by photosynthesis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Food poisoning can result from eating food in which harmful __________ have grown.",
+    "options": [
+      "microorganisms",
+      "vitamins",
+      "minerals",
+      "fibres"
+    ],
+    "correct_index": 0,
+    "solution": "Harmful microbes multiplying in food can produce toxins causing food poisoning.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A disease that spreads from an infected person to a healthy person is said to be __________.",
+    "options": [
+      "communicable",
+      "hereditary",
+      "deficiency-related",
+      "non-infectious"
+    ],
+    "correct_index": 0,
+    "solution": "Communicable diseases spread from person to person through various means.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The spread of disease can be reduced by maintaining __________.",
+    "options": [
+      "cleanliness and hygiene",
+      "crowded conditions",
+      "open sewage",
+      "stagnant water"
+    ],
+    "correct_index": 0,
+    "solution": "Good hygiene and sanitation limit the spread of disease-causing microbes.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Mosquitoes breed in __________, so removing it helps control mosquito-borne diseases.",
+    "options": [
+      "stagnant water",
+      "dry sand",
+      "moving rivers",
+      "sealed containers"
+    ],
+    "correct_index": 0,
+    "solution": "Stagnant water is a breeding site for mosquitoes; removing it reduces their numbers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The body's natural defence system that fights infections is the __________ system.",
+    "options": [
+      "immune",
+      "digestive",
+      "nervous",
+      "muscular"
+    ],
+    "correct_index": 0,
+    "solution": "The immune system defends the body against invading microorganisms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a beneficial role of microorganisms?",
+    "options": [
+      "Making curd and bread",
+      "Causing malaria",
+      "Spoiling food",
+      "Spreading cholera"
+    ],
+    "correct_index": 0,
+    "solution": "Microorganisms are beneficial in making curd, bread and other foods, among other uses.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Cholera and typhoid spread mainly through __________.",
+    "options": [
+      "contaminated water and food",
+      "clean air",
+      "sunlight",
+      "touch of healthy skin"
+    ],
+    "correct_index": 0,
+    "solution": "Cholera and typhoid are water- and food-borne bacterial diseases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first vaccine, against smallpox, was developed by __________.",
+    "options": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch"
+    ],
+    "correct_index": 0,
+    "solution": "Edward Jenner developed the smallpox vaccine, pioneering vaccination.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Penicillin, the first antibiotic, was discovered by __________.",
+    "options": [
+      "Alexander Fleming",
+      "Edward Jenner",
+      "Charles Darwin",
+      "Isaac Newton"
+    ],
+    "correct_index": 0,
+    "solution": "Alexander Fleming discovered penicillin from the Penicillium mould.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Microorganisms are used in sewage treatment to __________.",
+    "options": [
+      "break down organic waste",
+      "add colour to water",
+      "increase pollution",
+      "purify air only"
+    ],
+    "correct_index": 0,
+    "solution": "Decomposer microbes break down organic matter in sewage during treatment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The nitrogen cycle depends on microorganisms that __________.",
+    "options": [
+      "fix nitrogen and recycle nitrogen compounds",
+      "produce oxygen only",
+      "remove all nitrogen",
+      "make plastics"
+    ],
+    "correct_index": 0,
+    "solution": "Microbes fix atmospheric nitrogen and recycle nitrogen compounds, maintaining the nitrogen cycle.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A microorganism that lives in or on another organism and causes it harm is called a __________.",
+    "options": [
+      "pathogen",
+      "host",
+      "producer",
+      "decomposer"
+    ],
+    "correct_index": 0,
+    "solution": "A pathogen is a disease-causing microorganism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Boiling drinking water helps make it safe because it __________.",
+    "options": [
+      "kills most disease-causing microbes",
+      "adds minerals",
+      "increases microbes",
+      "removes colour only"
+    ],
+    "correct_index": 0,
+    "solution": "Boiling kills most harmful microorganisms, making water safer to drink.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of these is used in the large-scale production of alcohol?",
+    "options": [
+      "Yeast",
+      "Plasmodium",
+      "A virus",
+      "Blue-green scum only"
+    ],
+    "correct_index": 0,
+    "solution": "Yeast ferments sugars to produce alcohol on an industrial scale.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The tiny, single-celled animals grouped as protozoa include the causative agent of __________.",
+    "options": [
+      "malaria",
+      "the common cold",
+      "tetanus",
+      "measles"
+    ],
+    "correct_index": 0,
+    "solution": "The malaria parasite Plasmodium is a protozoan.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Covering the nose and mouth while sneezing helps prevent the spread of __________ diseases.",
+    "options": [
+      "airborne",
+      "water-borne",
+      "soil-borne",
+      "genetic"
+    ],
+    "correct_index": 0,
+    "solution": "Airborne diseases spread through droplets; covering the mouth limits their spread.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Fungi such as bread mould grow well in conditions that are __________.",
+    "options": [
+      "warm and moist",
+      "cold and dry",
+      "very hot and dry",
+      "salty and dry"
+    ],
+    "correct_index": 0,
+    "solution": "Warm, moist conditions favour the growth of fungi like bread mould.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which practice does NOT help prevent food spoilage by microbes?",
+    "options": [
+      "Leaving cooked food uncovered in the open",
+      "Refrigeration",
+      "Adding preservatives",
+      "Drying"
+    ],
+    "correct_index": 0,
+    "solution": "Leaving food uncovered exposes it to microbes and hastens spoilage.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Blue-green algae in fields are useful because they can __________.",
+    "options": [
+      "fix atmospheric nitrogen",
+      "spread malaria",
+      "spoil grain",
+      "cause the cold"
+    ],
+    "correct_index": 0,
+    "solution": "Certain blue-green algae fix nitrogen, enriching the soil naturally.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The reason viruses are considered different from other microorganisms is that they __________.",
+    "options": [
+      "can reproduce only inside a living host cell",
+      "make their own food",
+      "are the largest microbes",
+      "are visible to the naked eye"
+    ],
+    "correct_index": 0,
+    "solution": "Viruses cannot reproduce on their own; they need a living host cell to multiply.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is an example of a fungal skin disease?",
+    "options": [
+      "Ringworm",
+      "Malaria",
+      "Typhoid",
+      "Polio"
+    ],
+    "correct_index": 0,
+    "solution": "Ringworm is caused by a fungus and affects the skin.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Vaccination programmes have helped to __________ certain diseases like smallpox.",
+    "options": [
+      "eradicate (wipe out)",
+      "spread",
+      "worsen",
+      "hide"
+    ],
+    "correct_index": 0,
+    "solution": "Widespread vaccination eradicated smallpox and controls many diseases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason we cannot see bacteria with the naked eye is that they are __________.",
+    "options": [
+      "extremely small",
+      "transparent only",
+      "always moving",
+      "coloured like the background"
+    ],
+    "correct_index": 0,
+    "solution": "Bacteria are far too small to be seen without a microscope.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following helps to increase soil fertility naturally?",
+    "options": [
+      "Nitrogen-fixing bacteria",
+      "Disease-causing viruses",
+      "Food-spoiling fungi",
+      "Malarial protozoa"
+    ],
+    "correct_index": 0,
+    "solution": "Nitrogen-fixing bacteria enrich the soil with usable nitrogen compounds.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Personal hygiene such as washing hands before eating helps prevent __________.",
+    "options": [
+      "entry of harmful microbes into the body",
+      "loss of vitamins",
+      "growth of nails",
+      "the common cold entirely"
+    ],
+    "correct_index": 0,
+    "solution": "Washing hands removes microbes, reducing the chance of infection through food.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A community that is largely protected because most of its members are vaccinated shows __________.",
+    "options": [
+      "herd immunity",
+      "food spoilage",
+      "fermentation",
+      "decomposition"
+    ],
+    "correct_index": 0,
+    "solution": "Herd immunity protects a population when a large fraction is immune, limiting disease spread.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Overall, microorganisms are best described as __________.",
+    "options": [
+      "both useful and harmful depending on the type",
+      "always harmful",
+      "always useful",
+      "never important"
+    ],
+    "correct_index": 0,
+    "solution": "Microorganisms play both beneficial and harmful roles depending on the species and situation.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Microorganisms (microbes) are living organisms that are:",
+    "options": [
+      "Very large",
+      "Too small to be seen with the naked eye (need a microscope)",
+      "Non-living",
+      "Only plants"
+    ],
+    "correct_index": 1,
+    "solution": "Microorganisms are tiny living organisms too small to be seen with the naked eye; they can be observed only under a microscope.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The four main groups of microorganisms are bacteria, fungi, protozoa and:",
+    "options": [
+      "Insects",
+      "Algae",
+      "Mammals",
+      "Trees"
+    ],
+    "correct_index": 1,
+    "solution": "Microorganisms are classified into four major groups — bacteria, fungi, protozoa and algae; viruses are also microscopic but reproduce only inside a host.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Viruses are unusual microbes because they:",
+    "options": [
+      "Are very large",
+      "Reproduce only inside the cells of a host organism",
+      "Make their own food",
+      "Are visible to the eye"
+    ],
+    "correct_index": 1,
+    "solution": "Viruses are microscopic agents that can reproduce only inside the living cells of a host (plant, animal or bacterium); outside a host they are inactive, so they are considered on the border of living and non-living.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Microorganisms that cause diseases are called:",
+    "options": [
+      "Decomposers",
+      "Pathogens",
+      "Producers",
+      "Autotrophs"
+    ],
+    "correct_index": 1,
+    "solution": "Pathogens are disease-causing microorganisms (harmful microbes) that enter the body and cause illnesses such as cold, flu, cholera and tuberculosis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bacterium Lactobacillus is useful because it helps in the formation of:",
+    "options": [
+      "Bread",
+      "Curd (from milk)",
+      "Cheese only",
+      "Vinegar"
+    ],
+    "correct_index": 1,
+    "solution": "Lactobacillus bacteria convert milk into curd (yoghurt) by fermenting the milk sugar; this is a useful application of microorganisms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Yeast, a microorganism used in baking bread, makes the dough rise by producing:",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide (through fermentation)",
+      "Nitrogen",
+      "Water"
+    ],
+    "correct_index": 1,
+    "solution": "Yeast ferments the sugar in dough, producing carbon dioxide gas that gets trapped and makes the bread rise and become soft and spongy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Yeast is also used in the production of alcohol through the process of:",
+    "options": [
+      "Photosynthesis",
+      "Fermentation",
+      "Respiration only",
+      "Digestion"
+    ],
+    "correct_index": 1,
+    "solution": "Yeast is used to produce alcohol (like in wine and beer) through fermentation, in which it converts sugars into alcohol and carbon dioxide in the absence of oxygen.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Medicines that kill or stop the growth of disease-causing bacteria are called:",
+    "options": [
+      "Vaccines",
+      "Antibiotics",
+      "Vitamins",
+      "Hormones"
+    ],
+    "correct_index": 1,
+    "solution": "Antibiotics (like penicillin) are medicines that kill or stop the growth of disease-causing bacteria; they are produced from microorganisms such as fungi and bacteria.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The first antibiotic, penicillin, was discovered by Alexander Fleming from a type of:",
+    "options": [
+      "Bacteria",
+      "Fungus (mould)",
+      "Virus",
+      "Alga"
+    ],
+    "correct_index": 1,
+    "solution": "Alexander Fleming discovered penicillin, the first antibiotic, from the fungus (mould) Penicillium, revolutionising the treatment of bacterial infections.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A substance that protects the body from a disease by triggering the production of antibodies is a:",
+    "options": [
+      "Antibiotic",
+      "Vaccine",
+      "Vitamin",
+      "Hormone"
+    ],
+    "correct_index": 1,
+    "solution": "A vaccine contains dead or weakened microbes; when introduced into the body, it triggers the immune system to produce antibodies, giving protection (immunity) against that disease.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The scientist who developed the vaccine for rabies and pioneered pasteurisation was:",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner",
+      "Alexander Fleming"
+    ],
+    "correct_index": 0,
+    "solution": "Louis Pasteur developed the rabies vaccine and the process of pasteurisation (heating to kill microbes in milk), and disproved spontaneous generation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Edward Jenner is famous for developing the vaccine against:",
+    "options": [
+      "Smallpox",
+      "Polio",
+      "Malaria",
+      "Rabies"
+    ],
+    "correct_index": 0,
+    "solution": "Edward Jenner developed the first vaccine, against smallpox, using cowpox material; smallpox has since been eradicated worldwide through vaccination.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Microorganisms are important in agriculture because some bacteria in the soil fix atmospheric:",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Water"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen-fixing bacteria (like Rhizobium in legume roots) convert atmospheric nitrogen into a form plants can use, enriching soil fertility — a vital role of microbes in agriculture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Microorganisms act as decomposers by:",
+    "options": [
+      "Making food",
+      "Breaking down dead plants, animals and waste into simpler substances",
+      "Producing oxygen only",
+      "Causing pollution"
+    ],
+    "correct_index": 1,
+    "solution": "Decomposer microbes (bacteria and fungi) break down dead organisms and organic waste into simpler substances, recycling nutrients back into the soil and keeping the environment clean.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Food spoilage is caused by microorganisms; to prevent it, food is preserved by methods like:",
+    "options": [
+      "Adding germs",
+      "Salting, drying, refrigeration, boiling and adding preservatives",
+      "Keeping it warm and moist",
+      "Leaving it open"
+    ],
+    "correct_index": 1,
+    "solution": "Food is preserved by methods that stop microbial growth — salting, sugaring, drying (dehydration), refrigeration, boiling/heating, canning and adding chemical preservatives.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pasteurisation is a method of preserving milk by:",
+    "options": [
+      "Freezing it",
+      "Heating it to a certain temperature to kill harmful microbes, then cooling quickly",
+      "Adding salt",
+      "Drying it"
+    ],
+    "correct_index": 1,
+    "solution": "Pasteurisation (developed by Louis Pasteur) involves heating milk to a specific temperature to kill harmful microbes and then rapidly cooling it, making it safe to drink and last longer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Some diseases in humans caused by microorganisms include cholera, tuberculosis and:",
+    "options": [
+      "Fever from cold weather",
+      "Typhoid, malaria and the common cold",
+      "Fractures",
+      "Diabetes"
+    ],
+    "correct_index": 1,
+    "solution": "Microorganisms cause many diseases — cholera and typhoid (bacteria), tuberculosis (bacteria), malaria (protozoa), and the common cold and flu (viruses).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Malaria is caused by a protozoan (Plasmodium) that is spread by the bite of the:",
+    "options": [
+      "Housefly",
+      "Female Anopheles mosquito",
+      "Cockroach",
+      "Ant"
+    ],
+    "correct_index": 1,
+    "solution": "Malaria is caused by the protozoan Plasmodium and is transmitted through the bite of the infected female Anopheles mosquito, which acts as the carrier (vector).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An organism that carries a disease-causing microbe from one host to another is called a:",
+    "options": [
+      "Pathogen",
+      "Vector (carrier)",
+      "Decomposer",
+      "Producer"
+    ],
+    "correct_index": 1,
+    "solution": "A vector (carrier) is an organism, like a mosquito or housefly, that transmits disease-causing microbes from an infected person to a healthy person.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Communicable diseases are those that:",
+    "options": [
+      "Cannot spread",
+      "Spread from an infected person to a healthy person",
+      "Are inherited only",
+      "Are caused by injury"
+    ],
+    "correct_index": 1,
+    "solution": "Communicable (infectious) diseases are caused by microorganisms and can spread from an infected person to a healthy person through air, water, food, contact or vectors.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about microorganisms is correct? (i) Some are harmful (pathogens) (ii) Some are useful (in curd, bread, medicine) (iii) They act as decomposers",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: some microorganisms are harmful pathogens, many are useful (in making curd, bread, antibiotics, etc.), and many act as decomposers recycling nutrients.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Microorganisms are used in the industrial production of:",
+    "options": [
+      "Only plastics",
+      "Alcohol, vinegar, antibiotics and vitamins",
+      "Only metals",
+      "Only glass"
+    ],
+    "correct_index": 1,
+    "solution": "Microorganisms are used industrially to produce alcohol, vinegar (acetic acid), antibiotics, vitamins, enzymes and other useful products through fermentation and biotechnology.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Curd is more nutritious and digestible than milk partly because bacteria in it:",
+    "options": [
+      "Add sugar",
+      "Partially break down (ferment) the milk and add beneficial microbes",
+      "Remove all nutrients",
+      "Add harmful germs"
+    ],
+    "correct_index": 1,
+    "solution": "The Lactobacillus bacteria that turn milk into curd partly break down (ferment) the milk and add beneficial microbes, making curd more easily digestible and nutritious.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The branch of biology dealing with the study of microorganisms is called:",
+    "options": [
+      "Zoology",
+      "Microbiology",
+      "Botany",
+      "Geology"
+    ],
+    "correct_index": 1,
+    "solution": "Microbiology is the branch of biology that deals with the study of microorganisms — bacteria, viruses, fungi, protozoa and algae — and their effects on life and the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall importance of microorganisms is that they:",
+    "options": [
+      "Are only harmful",
+      "Play vital roles in nature (decomposition, nitrogen fixation), in food, medicine and industry, though some cause disease",
+      "Are useless",
+      "Only cause disease"
+    ],
+    "correct_index": 1,
+    "solution": "Microorganisms play vital and mostly beneficial roles — in decomposition, nitrogen fixation, food production (curd, bread), medicine (antibiotics, vaccines) and industry — though some are harmful pathogens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "To observe microorganisms, scientists use an instrument called a:",
+    "options": [
+      "Telescope",
+      "Microscope",
+      "Barometer",
+      "Stethoscope"
+    ],
+    "correct_index": 1,
+    "solution": "A microscope is used to observe microorganisms, which are too small to be seen with the naked eye; it magnifies them so they can be studied.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following correctly matches a microbe with its use? (i) Yeast – bread/alcohol (ii) Lactobacillus – curd (iii) Penicillium – antibiotic",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: yeast is used for bread and alcohol, Lactobacillus for making curd, and Penicillium for producing the antibiotic penicillin.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Antibiotics should be taken:",
+    "options": [
+      "Whenever we wish",
+      "Only on a doctor's advice and completing the full course",
+      "Never",
+      "In double the dose"
+    ],
+    "correct_index": 1,
+    "solution": "Antibiotics should be taken only on a doctor's advice and the full prescribed course completed; misuse or overuse can make bacteria resistant to them (antibiotic resistance).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Antibiotic resistance' develops when:",
+    "options": [
+      "Antibiotics are used correctly",
+      "Bacteria become able to survive antibiotics due to their misuse/overuse",
+      "Antibiotics are never used",
+      "Vaccines are given"
+    ],
+    "correct_index": 1,
+    "solution": "Antibiotic resistance develops when bacteria evolve to survive antibiotics due to their misuse or overuse, making infections harder to treat — a growing global health concern.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nitrogen-fixing and decomposing microbes are essential for maintaining the:",
+    "options": [
+      "Air pressure",
+      "Fertility of soil and the nutrient cycles in nature",
+      "Temperature",
+      "Colour of soil"
+    ],
+    "correct_index": 1,
+    "solution": "Nitrogen-fixing and decomposer microbes are essential for maintaining soil fertility and the natural nutrient cycles (like the nitrogen cycle), supporting plant growth and the whole ecosystem.",
+    "difficulty": "medium"
+  }
 ]

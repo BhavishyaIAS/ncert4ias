@@ -1,52 +1,986 @@
 [
-  {"stem": "The process by which green plants make their own food using sunlight is called __________.", "options": ["photosynthesis", "respiration", "transpiration", "digestion"], "correct_index": 0, "solution": "Photosynthesis is the process by which green plants make food (glucose) using sunlight, carbon dioxide and water.", "difficulty": "easy"},
-  {"stem": "Organisms that make their own food are called __________.", "options": ["autotrophs", "heterotrophs", "parasites", "saprotrophs"], "correct_index": 0, "solution": "Autotrophs, such as green plants, synthesise their own food.", "difficulty": "easy"},
-  {"stem": "Organisms that depend on others for food are called __________.", "options": ["heterotrophs", "autotrophs", "producers", "chlorophyll-bearing"], "correct_index": 0, "solution": "Heterotrophs cannot make their own food and depend on other organisms.", "difficulty": "easy"},
-  {"stem": "The green pigment in leaves essential for photosynthesis is __________.", "options": ["chlorophyll", "haemoglobin", "melanin", "carotene only"], "correct_index": 0, "solution": "Chlorophyll captures sunlight to drive photosynthesis and gives leaves their green colour.", "difficulty": "easy"},
-  {"stem": "The tiny pores on the surface of a leaf through which gases are exchanged are called __________.", "options": ["stomata", "veins", "petals", "roots"], "correct_index": 0, "solution": "Stomata are the tiny pores (mostly on the leaf underside) for exchange of gases and loss of water vapour.", "difficulty": "medium"},
-  {"stem": "During photosynthesis, plants take in the gas __________ from the air.", "options": ["carbon dioxide", "oxygen", "nitrogen", "hydrogen"], "correct_index": 0, "solution": "Plants absorb carbon dioxide from the air (through stomata) for photosynthesis.", "difficulty": "easy"},
-  {"stem": "The gas released by plants during photosynthesis is __________.", "options": ["oxygen", "carbon dioxide", "nitrogen", "hydrogen"], "correct_index": 0, "solution": "Oxygen is released as a by-product of photosynthesis.", "difficulty": "easy"},
-  {"stem": "The food prepared by plants during photosynthesis is initially stored as __________.", "options": ["starch", "protein", "fat", "vitamin"], "correct_index": 0, "solution": "The glucose made in photosynthesis is stored in leaves as starch.", "difficulty": "medium"},
-  {"stem": "Which test is used to show that a leaf has made starch?", "options": ["Iodine test (leaf turns blue-black)", "Litmus test", "Flame test", "Oily-patch test"], "correct_index": 0, "solution": "Iodine turns the starch-containing parts of a leaf blue-black, proving photosynthesis occurred.", "difficulty": "medium"},
-  {"stem": "The raw materials required for photosynthesis are __________.", "options": ["carbon dioxide and water (with sunlight and chlorophyll)", "oxygen and glucose", "nitrogen and starch", "protein and fat"], "correct_index": 0, "solution": "Photosynthesis needs carbon dioxide, water, sunlight and chlorophyll to produce glucose and oxygen.", "difficulty": "medium"},
-  {"stem": "Water and minerals reach the leaves from the roots through the __________.", "options": ["xylem (in the stem)", "stomata", "chlorophyll", "phloem only"], "correct_index": 0, "solution": "Water and minerals absorbed by roots are transported to leaves through vessels (xylem) in the stem.", "difficulty": "medium"},
-  {"stem": "Plants like the pitcher plant that trap and digest insects are called __________.", "options": ["insectivorous plants", "parasitic plants", "saprotrophs", "epiphytes"], "correct_index": 0, "solution": "Insectivorous (carnivorous) plants like the pitcher plant trap insects to get nitrogen, which their soil lacks.", "difficulty": "medium"},
-  {"stem": "Insectivorous plants trap insects mainly to obtain __________.", "options": ["nitrogen (nutrients lacking in their soil)", "sunlight", "water", "carbon dioxide"], "correct_index": 0, "solution": "These plants grow in nitrogen-poor soil and trap insects to obtain the nitrogen they need.", "difficulty": "medium"},
-  {"stem": "A plant that takes food from another living plant and harms it is a __________.", "options": ["parasite (e.g., Cuscuta/amarbel)", "saprotroph", "autotroph", "insectivore"], "correct_index": 0, "solution": "Cuscuta (amarbel) is a parasitic plant that takes nutrients from the host plant, harming it.", "difficulty": "medium"},
-  {"stem": "Organisms that obtain nutrients from dead and decaying matter are called __________.", "options": ["saprotrophs", "parasites", "autotrophs", "insectivores"], "correct_index": 0, "solution": "Saprotrophs, such as many fungi, feed on dead and decaying organic matter.", "difficulty": "medium"},
-  {"stem": "Fungi like mushrooms and bread mould are examples of __________ nutrition.", "options": ["saprotrophic", "autotrophic", "parasitic", "insectivorous"], "correct_index": 0, "solution": "Fungi such as mushrooms and bread mould are saprotrophs, feeding on dead organic matter.", "difficulty": "medium"},
-  {"stem": "The mutually beneficial relationship between two organisms living together is called __________.", "options": ["symbiosis (mutualism)", "parasitism", "predation", "competition"], "correct_index": 0, "solution": "Symbiosis (mutualism) is a relationship where both partners benefit, e.g., lichen (fungus and alga).", "difficulty": "medium"},
-  {"stem": "Lichens are a symbiotic association between a fungus and __________.", "options": ["an alga", "a bacterium only", "a virus", "an insect"], "correct_index": 0, "solution": "In lichens, an alga makes food (photosynthesis) while the fungus provides shelter and absorbs water — a mutualism.", "difficulty": "medium"},
-  {"stem": "Which nutrient element, essential for plant proteins, do farmers replenish using fertilisers?", "options": ["Nitrogen", "Oxygen", "Carbon", "Hydrogen"], "correct_index": 0, "solution": "Nitrogen is essential for proteins; it is replenished by nitrogen-rich fertilisers and by nitrogen-fixing bacteria.", "difficulty": "medium"},
-  {"stem": "The bacterium Rhizobium living in the root nodules of leguminous plants helps by __________.", "options": ["fixing atmospheric nitrogen into a usable form", "producing oxygen", "digesting insects", "absorbing sunlight"], "correct_index": 0, "solution": "Rhizobium in root nodules of legumes fixes atmospheric nitrogen into compounds plants can use, a mutualism.", "difficulty": "hard"},
-  {"stem": "Leguminous plants (like beans and peas) improve soil fertility because they __________.", "options": ["host nitrogen-fixing bacteria in their roots", "remove all nitrogen", "poison the soil", "produce only carbon dioxide"], "correct_index": 0, "solution": "Legumes host Rhizobium, which enriches the soil with nitrogen, improving fertility.", "difficulty": "medium"},
-  {"stem": "Photosynthesis mainly occurs in the __________ of a plant.", "options": ["green leaves", "roots", "flowers", "woody bark"], "correct_index": 0, "solution": "Leaves, rich in chlorophyll, are the main site of photosynthesis; green stems also contribute.", "difficulty": "easy"},
-  {"stem": "The correct word equation for photosynthesis is __________.", "options": ["carbon dioxide + water → (sunlight, chlorophyll) → glucose + oxygen", "glucose + oxygen → carbon dioxide + water", "water → hydrogen + oxygen", "nitrogen + oxygen → protein"], "correct_index": 0, "solution": "In photosynthesis, carbon dioxide and water form glucose and oxygen in the presence of sunlight and chlorophyll.", "difficulty": "medium"},
-  {"stem": "Why do plants that lack chlorophyll (like Cuscuta) depend on other plants?", "options": ["They cannot carry out photosynthesis to make their own food", "They have too many leaves", "They make too much food", "They live in water"], "correct_index": 0, "solution": "Without chlorophyll, such plants cannot photosynthesise, so they parasitise other plants for food.", "difficulty": "medium"},
-  {"stem": "Which part of a variegated (partly green, partly white) leaf makes starch?", "options": ["Only the green parts", "Only the white parts", "The whole leaf equally", "Neither part"], "correct_index": 0, "solution": "Only the green parts contain chlorophyll and can photosynthesise, so only they test positive for starch.", "difficulty": "hard"},
-  {"stem": "Green plants are called 'producers' in an ecosystem because they __________.", "options": ["produce food that supports other organisms", "consume other organisms", "decompose dead matter", "produce only oxygen and no food"], "correct_index": 0, "solution": "Plants produce food (through photosynthesis) that forms the base of food chains, so they are producers.", "difficulty": "medium"},
-  {"stem": "Sunlight is essential for photosynthesis because it provides the __________.", "options": ["energy to convert carbon dioxide and water into food", "carbon dioxide", "water", "chlorophyll"], "correct_index": 0, "solution": "Light supplies the energy that chlorophyll captures to drive the food-making reaction.", "difficulty": "medium"},
-  {"stem": "During the day, the net gas released by a green plant is __________.", "options": ["oxygen (photosynthesis exceeds respiration)", "carbon dioxide", "nitrogen", "no gas at all"], "correct_index": 0, "solution": "In daylight, photosynthesis exceeds respiration, so plants release oxygen overall.", "difficulty": "hard"},
-  {"stem": "Which of the following is a heterotroph?", "options": ["A human being", "A mango tree", "Grass", "An alga"], "correct_index": 0, "solution": "Humans are heterotrophs; mango tree, grass and algae are autotrophs that make their own food.", "difficulty": "easy"},
-  {"stem": "Farmers add manure and fertilisers to fields chiefly to replace __________.", "options": ["minerals like nitrogen used up by crops", "sunlight", "carbon dioxide", "water vapour"], "correct_index": 0, "solution": "Repeated cropping depletes soil minerals (especially nitrogen); manures and fertilisers replenish them.", "difficulty": "medium"},
-  {"stem": "Which of the following is NOT required for photosynthesis?", "options": ["Oxygen from the air", "Carbon dioxide", "Water", "Sunlight"], "correct_index": 0, "solution": "Photosynthesis needs carbon dioxide, water, sunlight and chlorophyll; it releases oxygen rather than needing it.", "difficulty": "medium"},
-  {"stem": "The mode of nutrition in which an organism feeds on a living host, harming it, is called __________.", "options": ["parasitic nutrition", "saprotrophic nutrition", "autotrophic nutrition", "holozoic nutrition"], "correct_index": 0, "solution": "In parasitic nutrition, an organism (parasite) lives on/in a host and takes nutrients, harming it.", "difficulty": "medium"},
-  {"stem": "Which of the following pairs is correctly matched?", "options": ["Cuscuta – parasite", "Mushroom – autotroph", "Pitcher plant – saprotroph", "Rhizobium – parasite of legumes"], "correct_index": 0, "solution": "Cuscuta is a parasite. (Mushroom is a saprotroph, pitcher plant is insectivorous, Rhizobium is a mutualist.)", "difficulty": "medium"},
-  {"stem": "Oxygen released during photosynthesis is important because it __________.", "options": ["is used by living organisms for respiration", "is a food for plants", "makes soil fertile", "traps insects"], "correct_index": 0, "solution": "The oxygen released by plants supports respiration in most living organisms.", "difficulty": "easy"},
-  {"stem": "Plants growing in nitrogen-deficient soil that trap insects show that nutrition can be __________.", "options": ["a mix of autotrophic and insectivorous", "purely parasitic", "purely saprotrophic", "impossible"], "correct_index": 0, "solution": "Insectivorous plants photosynthesise (autotrophic) but also trap insects to obtain nitrogen — a combination.", "difficulty": "hard"},
-  {"stem": "The water needed for photosynthesis is absorbed mainly by the __________.", "options": ["roots", "leaves", "flowers", "stomata"], "correct_index": 0, "solution": "Roots absorb water and minerals from the soil, which travel up to the leaves.", "difficulty": "easy"},
-  {"stem": "Which statement about stomata is correct?", "options": ["They allow gas exchange and are often more numerous on the lower leaf surface", "They absorb water from soil", "They contain chlorophyll only", "They are found only on roots"], "correct_index": 0, "solution": "Stomata are pores mainly on the underside of leaves, allowing gas exchange and transpiration.", "difficulty": "medium"},
-  {"stem": "Algae in ponds appear green and can photosynthesise because they contain __________.", "options": ["chlorophyll", "haemoglobin", "no pigment", "starch only"], "correct_index": 0, "solution": "Algae contain chlorophyll, enabling them to photosynthesise like green plants.", "difficulty": "easy"},
-  {"stem": "The ultimate source of energy for almost all life on Earth is the __________.", "options": ["Sun (captured by plants in photosynthesis)", "soil", "wind", "moon"], "correct_index": 0, "solution": "Solar energy captured by plants in photosynthesis forms the energy base for almost all life.", "difficulty": "medium"},
-  {"stem": "Which of the following do plants NOT obtain from the soil?", "options": ["Carbon dioxide", "Water", "Nitrogen compounds", "Minerals"], "correct_index": 0, "solution": "Carbon dioxide is taken from the air through stomata, not from the soil.", "difficulty": "medium"},
-  {"stem": "The mode of nutrition in green plants is called __________.", "options": ["autotrophic nutrition", "heterotrophic nutrition", "parasitic nutrition", "saprotrophic nutrition"], "correct_index": 0, "solution": "Green plants make their own food and therefore show autotrophic nutrition.", "difficulty": "easy"},
-  {"stem": "A leaf is destarched (kept in the dark) before a photosynthesis experiment so that __________.", "options": ["any new starch formed is only due to the experiment", "the leaf turns white", "it absorbs more water", "it dies"], "correct_index": 0, "solution": "Destarching removes existing starch so that any starch found afterwards must be newly made during the test.", "difficulty": "hard"},
-  {"stem": "Which organisms enrich the soil with nitrogen by converting atmospheric nitrogen?", "options": ["Nitrogen-fixing bacteria", "Green algae", "Insects", "Earthworms only"], "correct_index": 0, "solution": "Nitrogen-fixing bacteria (like Rhizobium) convert atmospheric nitrogen into forms plants can absorb.", "difficulty": "medium"},
-  {"stem": "In the food chain, plants occupy the position of __________.", "options": ["the first level (producers)", "the top predator", "decomposer", "consumer only"], "correct_index": 0, "solution": "Plants are producers at the base (first trophic level) of food chains.", "difficulty": "medium"},
-  {"stem": "A potted plant kept in complete darkness for several days will __________.", "options": ["fail to make food and eventually weaken", "grow faster", "make more starch", "release more oxygen"], "correct_index": 0, "solution": "Without light, photosynthesis stops, so the plant cannot make food and gradually weakens.", "difficulty": "medium"},
-  {"stem": "The main function of the leaf's broad, flat shape is to __________.", "options": ["capture maximum sunlight for photosynthesis", "store water", "anchor the plant", "produce seeds"], "correct_index": 0, "solution": "A broad, flat leaf exposes a large surface to sunlight, maximising photosynthesis.", "difficulty": "medium"},
-  {"stem": "Crop rotation with legumes is practised to __________.", "options": ["restore nitrogen to the soil naturally", "remove all minerals", "reduce yields", "increase pests"], "correct_index": 0, "solution": "Growing legumes in rotation restores soil nitrogen through their nitrogen-fixing bacteria.", "difficulty": "medium"},
-  {"stem": "Which of the following is an autotroph living in water?", "options": ["Phytoplankton/algae", "A fish", "A frog", "A water snail"], "correct_index": 0, "solution": "Aquatic algae/phytoplankton photosynthesise and are autotrophs; the animals are heterotrophs.", "difficulty": "medium"},
-  {"stem": "The oxygen we breathe is largely a product of __________.", "options": ["photosynthesis by plants and algae", "respiration by animals", "the burning of fuels", "volcanic eruptions"], "correct_index": 0, "solution": "Most atmospheric oxygen is produced by photosynthesis in plants and algae.", "difficulty": "medium"},
-  {"stem": "The overall message of the chapter 'Nutrition in Plants' is that:", "options": ["green plants make their own food by photosynthesis, while other organisms depend directly or indirectly on this food", "plants cannot make food", "all organisms make their own food", "nutrition is unimportant for plants"], "correct_index": 0, "solution": "The chapter explains that green plants are autotrophs making food by photosynthesis, supporting all other organisms which are heterotrophs.", "difficulty": "easy"}
+  {
+    "stem": "The process by which green plants make their own food using sunlight is called __________.",
+    "options": [
+      "photosynthesis",
+      "respiration",
+      "transpiration",
+      "digestion"
+    ],
+    "correct_index": 0,
+    "solution": "Photosynthesis is the process by which green plants make food (glucose) using sunlight, carbon dioxide and water.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms that make their own food are called __________.",
+    "options": [
+      "autotrophs",
+      "heterotrophs",
+      "parasites",
+      "saprotrophs"
+    ],
+    "correct_index": 0,
+    "solution": "Autotrophs, such as green plants, synthesise their own food.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms that depend on others for food are called __________.",
+    "options": [
+      "heterotrophs",
+      "autotrophs",
+      "producers",
+      "chlorophyll-bearing"
+    ],
+    "correct_index": 0,
+    "solution": "Heterotrophs cannot make their own food and depend on other organisms.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The green pigment in leaves essential for photosynthesis is __________.",
+    "options": [
+      "chlorophyll",
+      "haemoglobin",
+      "melanin",
+      "carotene only"
+    ],
+    "correct_index": 0,
+    "solution": "Chlorophyll captures sunlight to drive photosynthesis and gives leaves their green colour.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The tiny pores on the surface of a leaf through which gases are exchanged are called __________.",
+    "options": [
+      "stomata",
+      "veins",
+      "petals",
+      "roots"
+    ],
+    "correct_index": 0,
+    "solution": "Stomata are the tiny pores (mostly on the leaf underside) for exchange of gases and loss of water vapour.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During photosynthesis, plants take in the gas __________ from the air.",
+    "options": [
+      "carbon dioxide",
+      "oxygen",
+      "nitrogen",
+      "hydrogen"
+    ],
+    "correct_index": 0,
+    "solution": "Plants absorb carbon dioxide from the air (through stomata) for photosynthesis.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The gas released by plants during photosynthesis is __________.",
+    "options": [
+      "oxygen",
+      "carbon dioxide",
+      "nitrogen",
+      "hydrogen"
+    ],
+    "correct_index": 0,
+    "solution": "Oxygen is released as a by-product of photosynthesis.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The food prepared by plants during photosynthesis is initially stored as __________.",
+    "options": [
+      "starch",
+      "protein",
+      "fat",
+      "vitamin"
+    ],
+    "correct_index": 0,
+    "solution": "The glucose made in photosynthesis is stored in leaves as starch.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which test is used to show that a leaf has made starch?",
+    "options": [
+      "Iodine test (leaf turns blue-black)",
+      "Litmus test",
+      "Flame test",
+      "Oily-patch test"
+    ],
+    "correct_index": 0,
+    "solution": "Iodine turns the starch-containing parts of a leaf blue-black, proving photosynthesis occurred.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The raw materials required for photosynthesis are __________.",
+    "options": [
+      "carbon dioxide and water (with sunlight and chlorophyll)",
+      "oxygen and glucose",
+      "nitrogen and starch",
+      "protein and fat"
+    ],
+    "correct_index": 0,
+    "solution": "Photosynthesis needs carbon dioxide, water, sunlight and chlorophyll to produce glucose and oxygen.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Water and minerals reach the leaves from the roots through the __________.",
+    "options": [
+      "xylem (in the stem)",
+      "stomata",
+      "chlorophyll",
+      "phloem only"
+    ],
+    "correct_index": 0,
+    "solution": "Water and minerals absorbed by roots are transported to leaves through vessels (xylem) in the stem.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Plants like the pitcher plant that trap and digest insects are called __________.",
+    "options": [
+      "insectivorous plants",
+      "parasitic plants",
+      "saprotrophs",
+      "epiphytes"
+    ],
+    "correct_index": 0,
+    "solution": "Insectivorous (carnivorous) plants like the pitcher plant trap insects to get nitrogen, which their soil lacks.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Insectivorous plants trap insects mainly to obtain __________.",
+    "options": [
+      "nitrogen (nutrients lacking in their soil)",
+      "sunlight",
+      "water",
+      "carbon dioxide"
+    ],
+    "correct_index": 0,
+    "solution": "These plants grow in nitrogen-poor soil and trap insects to obtain the nitrogen they need.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A plant that takes food from another living plant and harms it is a __________.",
+    "options": [
+      "parasite (e.g., Cuscuta/amarbel)",
+      "saprotroph",
+      "autotroph",
+      "insectivore"
+    ],
+    "correct_index": 0,
+    "solution": "Cuscuta (amarbel) is a parasitic plant that takes nutrients from the host plant, harming it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Organisms that obtain nutrients from dead and decaying matter are called __________.",
+    "options": [
+      "saprotrophs",
+      "parasites",
+      "autotrophs",
+      "insectivores"
+    ],
+    "correct_index": 0,
+    "solution": "Saprotrophs, such as many fungi, feed on dead and decaying organic matter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fungi like mushrooms and bread mould are examples of __________ nutrition.",
+    "options": [
+      "saprotrophic",
+      "autotrophic",
+      "parasitic",
+      "insectivorous"
+    ],
+    "correct_index": 0,
+    "solution": "Fungi such as mushrooms and bread mould are saprotrophs, feeding on dead organic matter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The mutually beneficial relationship between two organisms living together is called __________.",
+    "options": [
+      "symbiosis (mutualism)",
+      "parasitism",
+      "predation",
+      "competition"
+    ],
+    "correct_index": 0,
+    "solution": "Symbiosis (mutualism) is a relationship where both partners benefit, e.g., lichen (fungus and alga).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Lichens are a symbiotic association between a fungus and __________.",
+    "options": [
+      "an alga",
+      "a bacterium only",
+      "a virus",
+      "an insect"
+    ],
+    "correct_index": 0,
+    "solution": "In lichens, an alga makes food (photosynthesis) while the fungus provides shelter and absorbs water — a mutualism.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which nutrient element, essential for plant proteins, do farmers replenish using fertilisers?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "correct_index": 0,
+    "solution": "Nitrogen is essential for proteins; it is replenished by nitrogen-rich fertilisers and by nitrogen-fixing bacteria.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The bacterium Rhizobium living in the root nodules of leguminous plants helps by __________.",
+    "options": [
+      "fixing atmospheric nitrogen into a usable form",
+      "producing oxygen",
+      "digesting insects",
+      "absorbing sunlight"
+    ],
+    "correct_index": 0,
+    "solution": "Rhizobium in root nodules of legumes fixes atmospheric nitrogen into compounds plants can use, a mutualism.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Leguminous plants (like beans and peas) improve soil fertility because they __________.",
+    "options": [
+      "host nitrogen-fixing bacteria in their roots",
+      "remove all nitrogen",
+      "poison the soil",
+      "produce only carbon dioxide"
+    ],
+    "correct_index": 0,
+    "solution": "Legumes host Rhizobium, which enriches the soil with nitrogen, improving fertility.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Photosynthesis mainly occurs in the __________ of a plant.",
+    "options": [
+      "green leaves",
+      "roots",
+      "flowers",
+      "woody bark"
+    ],
+    "correct_index": 0,
+    "solution": "Leaves, rich in chlorophyll, are the main site of photosynthesis; green stems also contribute.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The correct word equation for photosynthesis is __________.",
+    "options": [
+      "carbon dioxide + water → (sunlight, chlorophyll) → glucose + oxygen",
+      "glucose + oxygen → carbon dioxide + water",
+      "water → hydrogen + oxygen",
+      "nitrogen + oxygen → protein"
+    ],
+    "correct_index": 0,
+    "solution": "In photosynthesis, carbon dioxide and water form glucose and oxygen in the presence of sunlight and chlorophyll.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why do plants that lack chlorophyll (like Cuscuta) depend on other plants?",
+    "options": [
+      "They cannot carry out photosynthesis to make their own food",
+      "They have too many leaves",
+      "They make too much food",
+      "They live in water"
+    ],
+    "correct_index": 0,
+    "solution": "Without chlorophyll, such plants cannot photosynthesise, so they parasitise other plants for food.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which part of a variegated (partly green, partly white) leaf makes starch?",
+    "options": [
+      "Only the green parts",
+      "Only the white parts",
+      "The whole leaf equally",
+      "Neither part"
+    ],
+    "correct_index": 0,
+    "solution": "Only the green parts contain chlorophyll and can photosynthesise, so only they test positive for starch.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Green plants are called 'producers' in an ecosystem because they __________.",
+    "options": [
+      "produce food that supports other organisms",
+      "consume other organisms",
+      "decompose dead matter",
+      "produce only oxygen and no food"
+    ],
+    "correct_index": 0,
+    "solution": "Plants produce food (through photosynthesis) that forms the base of food chains, so they are producers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sunlight is essential for photosynthesis because it provides the __________.",
+    "options": [
+      "energy to convert carbon dioxide and water into food",
+      "carbon dioxide",
+      "water",
+      "chlorophyll"
+    ],
+    "correct_index": 0,
+    "solution": "Light supplies the energy that chlorophyll captures to drive the food-making reaction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "During the day, the net gas released by a green plant is __________.",
+    "options": [
+      "oxygen (photosynthesis exceeds respiration)",
+      "carbon dioxide",
+      "nitrogen",
+      "no gas at all"
+    ],
+    "correct_index": 0,
+    "solution": "In daylight, photosynthesis exceeds respiration, so plants release oxygen overall.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a heterotroph?",
+    "options": [
+      "A human being",
+      "A mango tree",
+      "Grass",
+      "An alga"
+    ],
+    "correct_index": 0,
+    "solution": "Humans are heterotrophs; mango tree, grass and algae are autotrophs that make their own food.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Farmers add manure and fertilisers to fields chiefly to replace __________.",
+    "options": [
+      "minerals like nitrogen used up by crops",
+      "sunlight",
+      "carbon dioxide",
+      "water vapour"
+    ],
+    "correct_index": 0,
+    "solution": "Repeated cropping depletes soil minerals (especially nitrogen); manures and fertilisers replenish them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is NOT required for photosynthesis?",
+    "options": [
+      "Oxygen from the air",
+      "Carbon dioxide",
+      "Water",
+      "Sunlight"
+    ],
+    "correct_index": 0,
+    "solution": "Photosynthesis needs carbon dioxide, water, sunlight and chlorophyll; it releases oxygen rather than needing it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The mode of nutrition in which an organism feeds on a living host, harming it, is called __________.",
+    "options": [
+      "parasitic nutrition",
+      "saprotrophic nutrition",
+      "autotrophic nutrition",
+      "holozoic nutrition"
+    ],
+    "correct_index": 0,
+    "solution": "In parasitic nutrition, an organism (parasite) lives on/in a host and takes nutrients, harming it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Cuscuta – parasite",
+      "Mushroom – autotroph",
+      "Pitcher plant – saprotroph",
+      "Rhizobium – parasite of legumes"
+    ],
+    "correct_index": 0,
+    "solution": "Cuscuta is a parasite. (Mushroom is a saprotroph, pitcher plant is insectivorous, Rhizobium is a mutualist.)",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Oxygen released during photosynthesis is important because it __________.",
+    "options": [
+      "is used by living organisms for respiration",
+      "is a food for plants",
+      "makes soil fertile",
+      "traps insects"
+    ],
+    "correct_index": 0,
+    "solution": "The oxygen released by plants supports respiration in most living organisms.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Plants growing in nitrogen-deficient soil that trap insects show that nutrition can be __________.",
+    "options": [
+      "a mix of autotrophic and insectivorous",
+      "purely parasitic",
+      "purely saprotrophic",
+      "impossible"
+    ],
+    "correct_index": 0,
+    "solution": "Insectivorous plants photosynthesise (autotrophic) but also trap insects to obtain nitrogen — a combination.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The water needed for photosynthesis is absorbed mainly by the __________.",
+    "options": [
+      "roots",
+      "leaves",
+      "flowers",
+      "stomata"
+    ],
+    "correct_index": 0,
+    "solution": "Roots absorb water and minerals from the soil, which travel up to the leaves.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which statement about stomata is correct?",
+    "options": [
+      "They allow gas exchange and are often more numerous on the lower leaf surface",
+      "They absorb water from soil",
+      "They contain chlorophyll only",
+      "They are found only on roots"
+    ],
+    "correct_index": 0,
+    "solution": "Stomata are pores mainly on the underside of leaves, allowing gas exchange and transpiration.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Algae in ponds appear green and can photosynthesise because they contain __________.",
+    "options": [
+      "chlorophyll",
+      "haemoglobin",
+      "no pigment",
+      "starch only"
+    ],
+    "correct_index": 0,
+    "solution": "Algae contain chlorophyll, enabling them to photosynthesise like green plants.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The ultimate source of energy for almost all life on Earth is the __________.",
+    "options": [
+      "Sun (captured by plants in photosynthesis)",
+      "soil",
+      "wind",
+      "moon"
+    ],
+    "correct_index": 0,
+    "solution": "Solar energy captured by plants in photosynthesis forms the energy base for almost all life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following do plants NOT obtain from the soil?",
+    "options": [
+      "Carbon dioxide",
+      "Water",
+      "Nitrogen compounds",
+      "Minerals"
+    ],
+    "correct_index": 0,
+    "solution": "Carbon dioxide is taken from the air through stomata, not from the soil.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The mode of nutrition in green plants is called __________.",
+    "options": [
+      "autotrophic nutrition",
+      "heterotrophic nutrition",
+      "parasitic nutrition",
+      "saprotrophic nutrition"
+    ],
+    "correct_index": 0,
+    "solution": "Green plants make their own food and therefore show autotrophic nutrition.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A leaf is destarched (kept in the dark) before a photosynthesis experiment so that __________.",
+    "options": [
+      "any new starch formed is only due to the experiment",
+      "the leaf turns white",
+      "it absorbs more water",
+      "it dies"
+    ],
+    "correct_index": 0,
+    "solution": "Destarching removes existing starch so that any starch found afterwards must be newly made during the test.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which organisms enrich the soil with nitrogen by converting atmospheric nitrogen?",
+    "options": [
+      "Nitrogen-fixing bacteria",
+      "Green algae",
+      "Insects",
+      "Earthworms only"
+    ],
+    "correct_index": 0,
+    "solution": "Nitrogen-fixing bacteria (like Rhizobium) convert atmospheric nitrogen into forms plants can absorb.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the food chain, plants occupy the position of __________.",
+    "options": [
+      "the first level (producers)",
+      "the top predator",
+      "decomposer",
+      "consumer only"
+    ],
+    "correct_index": 0,
+    "solution": "Plants are producers at the base (first trophic level) of food chains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A potted plant kept in complete darkness for several days will __________.",
+    "options": [
+      "fail to make food and eventually weaken",
+      "grow faster",
+      "make more starch",
+      "release more oxygen"
+    ],
+    "correct_index": 0,
+    "solution": "Without light, photosynthesis stops, so the plant cannot make food and gradually weakens.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main function of the leaf's broad, flat shape is to __________.",
+    "options": [
+      "capture maximum sunlight for photosynthesis",
+      "store water",
+      "anchor the plant",
+      "produce seeds"
+    ],
+    "correct_index": 0,
+    "solution": "A broad, flat leaf exposes a large surface to sunlight, maximising photosynthesis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Crop rotation with legumes is practised to __________.",
+    "options": [
+      "restore nitrogen to the soil naturally",
+      "remove all minerals",
+      "reduce yields",
+      "increase pests"
+    ],
+    "correct_index": 0,
+    "solution": "Growing legumes in rotation restores soil nitrogen through their nitrogen-fixing bacteria.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is an autotroph living in water?",
+    "options": [
+      "Phytoplankton/algae",
+      "A fish",
+      "A frog",
+      "A water snail"
+    ],
+    "correct_index": 0,
+    "solution": "Aquatic algae/phytoplankton photosynthesise and are autotrophs; the animals are heterotrophs.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The oxygen we breathe is largely a product of __________.",
+    "options": [
+      "photosynthesis by plants and algae",
+      "respiration by animals",
+      "the burning of fuels",
+      "volcanic eruptions"
+    ],
+    "correct_index": 0,
+    "solution": "Most atmospheric oxygen is produced by photosynthesis in plants and algae.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of the chapter 'Nutrition in Plants' is that:",
+    "options": [
+      "green plants make their own food by photosynthesis, while other organisms depend directly or indirectly on this food",
+      "plants cannot make food",
+      "all organisms make their own food",
+      "nutrition is unimportant for plants"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains that green plants are autotrophs making food by photosynthesis, supporting all other organisms which are heterotrophs.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The process by which green plants make their own food using sunlight is called:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Digestion",
+      "Transpiration"
+    ],
+    "correct_index": 1,
+    "solution": "Photosynthesis is the process by which green plants synthesise food (glucose) from carbon dioxide and water using sunlight energy, releasing oxygen.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The green pigment in plants that traps sunlight for photosynthesis is:",
+    "options": [
+      "Haemoglobin",
+      "Chlorophyll",
+      "Melanin",
+      "Carotene"
+    ],
+    "correct_index": 1,
+    "solution": "Chlorophyll, the green pigment present in the chloroplasts of leaves, absorbs sunlight energy needed for photosynthesis.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The raw materials required for photosynthesis are carbon dioxide, water and:",
+    "options": [
+      "Oxygen",
+      "Sunlight (energy) and chlorophyll",
+      "Nitrogen",
+      "Glucose"
+    ],
+    "correct_index": 1,
+    "solution": "Photosynthesis needs carbon dioxide (from air), water (from soil), sunlight energy and chlorophyll to produce glucose and oxygen.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gas released during photosynthesis is:",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_index": 1,
+    "solution": "Oxygen is released as a by-product of photosynthesis when water molecules are split; this oxygen is essential for the respiration of most living things.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Plants take in carbon dioxide through tiny pores on their leaves called:",
+    "options": [
+      "Stomata",
+      "Roots",
+      "Veins",
+      "Chloroplasts"
+    ],
+    "correct_index": 0,
+    "solution": "Stomata are tiny pores, mainly on the underside of leaves, through which plants take in carbon dioxide and release oxygen and water vapour.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Organisms that make their own food (like green plants) are called:",
+    "options": [
+      "Heterotrophs",
+      "Autotrophs",
+      "Parasites",
+      "Decomposers"
+    ],
+    "correct_index": 1,
+    "solution": "Autotrophs (self-feeders) like green plants make their own food through photosynthesis; heterotrophs depend on others for food.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Organisms that cannot make their own food and depend on other organisms are called:",
+    "options": [
+      "Autotrophs",
+      "Heterotrophs",
+      "Producers",
+      "Green plants"
+    ],
+    "correct_index": 1,
+    "solution": "Heterotrophs (like animals and fungi) cannot make their own food and depend directly or indirectly on autotrophs (plants) for their food.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The food prepared by plants during photosynthesis is stored in the form of:",
+    "options": [
+      "Protein",
+      "Starch (carbohydrate)",
+      "Fat only",
+      "Vitamins"
+    ],
+    "correct_index": 1,
+    "solution": "The glucose made in photosynthesis is stored in plants mainly as starch, a carbohydrate; the presence of starch in a leaf is a test for photosynthesis (iodine turns it blue-black).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Plants that feed on insects, like the pitcher plant, are called:",
+    "options": [
+      "Autotrophic plants",
+      "Insectivorous (carnivorous) plants",
+      "Parasitic plants",
+      "Saprotrophic plants"
+    ],
+    "correct_index": 1,
+    "solution": "Insectivorous (carnivorous) plants like the pitcher plant and Venus flytrap trap and digest insects to obtain nitrogen, which they lack in the soil they grow in, though they still photosynthesise.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A plant like Cuscuta (Amarbel) that takes food from another plant is a:",
+    "options": [
+      "Autotroph",
+      "Parasite (parasitic plant)",
+      "Insectivore",
+      "Decomposer"
+    ],
+    "correct_index": 1,
+    "solution": "Cuscuta (Amarbel) is a parasitic plant that lacks chlorophyll and takes readymade food from the host plant on which it climbs, harming the host.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Organisms like fungi that obtain nutrition from dead and decaying matter are called:",
+    "options": [
+      "Autotrophs",
+      "Saprotrophs",
+      "Parasites",
+      "Insectivores"
+    ],
+    "correct_index": 1,
+    "solution": "Saprotrophs (like fungi and some bacteria) obtain nutrients by breaking down dead and decaying organic matter, acting as decomposers in nature.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The mode of nutrition in which fungi absorb nutrients from dead matter is called:",
+    "options": [
+      "Autotrophic nutrition",
+      "Saprotrophic nutrition",
+      "Parasitic nutrition",
+      "Holozoic nutrition"
+    ],
+    "correct_index": 1,
+    "solution": "Saprotrophic nutrition is the mode in which organisms secrete digestive juices onto dead organic matter and absorb the digested nutrients — seen in fungi like mushrooms and bread mould.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The symbiotic relationship in which both partners benefit, as in lichens (alga and fungus), is called:",
+    "options": [
+      "Parasitism",
+      "Symbiosis (mutualism)",
+      "Saprotrophism",
+      "Competition"
+    ],
+    "correct_index": 1,
+    "solution": "In symbiosis (mutualism), two organisms live together and both benefit — e.g. in lichens, the alga makes food and the fungus provides shelter and absorbs water/minerals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Leguminous plants (like beans and peas) enrich the soil because their root nodules contain bacteria that fix:",
+    "options": [
+      "Carbon",
+      "Atmospheric nitrogen",
+      "Oxygen",
+      "Water"
+    ],
+    "correct_index": 1,
+    "solution": "Leguminous plants have Rhizobium bacteria in their root nodules that fix atmospheric nitrogen into a usable form, enriching the soil — the basis of crop rotation with legumes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The nitrogen-fixing bacterium found in the root nodules of leguminous plants is:",
+    "options": [
+      "Rhizobium",
+      "Lactobacillus",
+      "Nitrobacter",
+      "E. coli"
+    ],
+    "correct_index": 0,
+    "solution": "Rhizobium is the nitrogen-fixing bacterium living symbiotically in the root nodules of leguminous plants, converting atmospheric nitrogen into a form plants can use.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Photosynthesis mainly takes place in the ______ of the plant.",
+    "options": [
+      "roots",
+      "leaves (the 'food factories')",
+      "flowers",
+      "stem only"
+    ],
+    "correct_index": 1,
+    "solution": "Leaves are the main site of photosynthesis (the 'food factories' of the plant) because they contain the most chlorophyll and have stomata for gas exchange, though green stems can also photosynthesise.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Besides carbohydrates, plants need nutrients like nitrogen, phosphorus and potassium, which they absorb from the:",
+    "options": [
+      "Air",
+      "Soil (through roots)",
+      "Sunlight",
+      "Water vapour"
+    ],
+    "correct_index": 1,
+    "solution": "Plants absorb mineral nutrients like nitrogen, phosphorus and potassium from the soil through their roots; these are needed to make proteins and other substances.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Why is photosynthesis important for almost all life on Earth?",
+    "options": [
+      "It has no importance",
+      "It produces food (energy) and oxygen, forming the base of food chains",
+      "It only helps plants",
+      "It produces carbon dioxide"
+    ],
+    "correct_index": 1,
+    "solution": "Photosynthesis is vital because it produces food (glucose) that forms the base of nearly all food chains and releases the oxygen that most organisms need to breathe.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about photosynthesis is correct? (i) It needs chlorophyll and sunlight (ii) It uses CO2 and water (iii) It releases oxygen",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: photosynthesis needs chlorophyll and sunlight, uses carbon dioxide and water, and releases oxygen as a by-product.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The equation of photosynthesis shows that carbon dioxide and water, in the presence of sunlight and chlorophyll, form glucose and:",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct_index": 1,
+    "solution": "In photosynthesis, carbon dioxide + water → glucose + oxygen (in the presence of sunlight and chlorophyll); glucose is the food and oxygen is released.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Green plants are called ______ in a food chain because they produce food.",
+    "options": [
+      "consumers",
+      "producers",
+      "decomposers",
+      "predators"
+    ],
+    "correct_index": 1,
+    "solution": "Green plants are called producers (autotrophs) in a food chain because they produce food through photosynthesis, forming the first trophic level that supports all consumers.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The tiny openings (stomata) are usually guarded by two bean-shaped cells called:",
+    "options": [
+      "Guard cells",
+      "Root cells",
+      "Xylem cells",
+      "Blood cells"
+    ],
+    "correct_index": 0,
+    "solution": "Each stoma is bordered by two bean-shaped guard cells that control its opening and closing, regulating gas exchange and water loss.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The replenishment of nutrients in the soil can be done naturally by adding manure or by growing:",
+    "options": [
+      "Only cereals",
+      "Leguminous plants (which fix nitrogen)",
+      "Only weeds",
+      "No plants"
+    ],
+    "correct_index": 1,
+    "solution": "Soil nutrients (especially nitrogen) are replenished by adding fertilisers/manure or by growing leguminous plants whose Rhizobium bacteria fix atmospheric nitrogen — the basis of crop rotation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a plant with its mode of nutrition? (i) Pitcher plant – insectivorous (ii) Cuscuta – parasitic (iii) Mushroom – saprotrophic",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: the pitcher plant is insectivorous, Cuscuta (Amarbel) is parasitic, and the mushroom (a fungus) is saprotrophic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ultimate source of energy for photosynthesis, and hence for almost all life, is the:",
+    "options": [
+      "Moon",
+      "Sun",
+      "Earth's core",
+      "Wind"
+    ],
+    "correct_index": 1,
+    "solution": "The Sun is the ultimate source of energy for photosynthesis; plants capture solar energy and convert it into chemical energy (food), which supports nearly all life on Earth.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Nutrition is the process by which organisms:",
+    "options": [
+      "Only breathe",
+      "Obtain and utilise food/nutrients for growth, energy and repair",
+      "Only move",
+      "Only reproduce"
+    ],
+    "correct_index": 1,
+    "solution": "Nutrition is the process by which organisms take in and use food (nutrients) to obtain energy, grow, repair tissues and carry out life processes.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The two main modes of nutrition in living organisms are autotrophic and:",
+    "options": [
+      "heterotrophic",
+      "photographic",
+      "robotic",
+      "aquatic"
+    ],
+    "correct_index": 0,
+    "solution": "The two main modes of nutrition are autotrophic (making one's own food, as in green plants) and heterotrophic (depending on others for food, as in animals and fungi).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The test to confirm that starch (food) is present in a leaf uses:",
+    "options": [
+      "Water",
+      "Iodine solution (which turns blue-black with starch)",
+      "Salt",
+      "Oil"
+    ],
+    "correct_index": 1,
+    "solution": "Iodine solution is used to test for starch; it turns blue-black in the presence of starch, confirming that photosynthesis has occurred in a green leaf.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which part of the plant absorbs water and minerals from the soil for photosynthesis and growth?",
+    "options": [
+      "Leaves",
+      "Roots",
+      "Flowers",
+      "Fruits"
+    ],
+    "correct_index": 1,
+    "solution": "The roots absorb water and dissolved minerals from the soil; these are transported to the leaves where, along with CO2 and sunlight, they are used in photosynthesis.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall importance of nutrition in plants is that it:",
+    "options": [
+      "Is unnecessary",
+      "Provides plants (and the organisms that eat them) with food and energy",
+      "Only affects flowers",
+      "Only affects roots"
+    ],
+    "correct_index": 1,
+    "solution": "Nutrition in plants (mainly photosynthesis) provides plants with the food and energy they need to grow and, being the base of food chains, supplies food and oxygen to nearly all other living things.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A plant deprived of sunlight for a long time will be unable to:",
+    "options": [
+      "Absorb water",
+      "Carry out photosynthesis (make food)",
+      "Grow roots",
+      "Take in minerals"
+    ],
+    "correct_index": 1,
+    "solution": "Without sunlight, a plant cannot carry out photosynthesis and hence cannot make food, which eventually affects its growth and survival — showing sunlight is essential for photosynthesis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Chlorophyll is contained within tiny structures in the leaf cells called:",
+    "options": [
+      "Nuclei",
+      "Chloroplasts",
+      "Vacuoles",
+      "Mitochondria"
+    ],
+    "correct_index": 1,
+    "solution": "Chlorophyll is contained in chloroplasts, tiny green organelles in leaf (and other green) cells, which are the actual sites of photosynthesis.",
+    "difficulty": "medium"
+  }
 ]

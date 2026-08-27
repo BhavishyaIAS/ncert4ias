@@ -1,52 +1,902 @@
 [
-  {"stem": "All the living organisms in an area together with their non-living surroundings form an __________.", "options": ["ecosystem", "atmosphere", "element", "population"], "correct_index": 0, "solution": "An ecosystem is the community of living organisms together with the non-living environment.", "difficulty": "medium"},
-  {"stem": "Organisms that make their own food by photosynthesis are called __________.", "options": ["producers", "consumers", "decomposers", "predators"], "correct_index": 0, "solution": "Producers, mainly green plants, make their own food and form the base of the food chain.", "difficulty": "easy"},
-  {"stem": "Organisms that depend on other organisms for food are called __________.", "options": ["consumers", "producers", "decomposers only", "autotrophs"], "correct_index": 0, "solution": "Consumers cannot make their own food and eat other organisms.", "difficulty": "easy"},
-  {"stem": "Animals that eat only plants are called __________.", "options": ["herbivores", "carnivores", "omnivores", "decomposers"], "correct_index": 0, "solution": "Herbivores feed only on plants.", "difficulty": "easy"},
-  {"stem": "Animals that eat only other animals are called __________.", "options": ["carnivores", "herbivores", "producers", "decomposers"], "correct_index": 0, "solution": "Carnivores feed only on other animals.", "difficulty": "easy"},
-  {"stem": "Animals that eat both plants and animals are called __________.", "options": ["omnivores", "herbivores", "carnivores", "producers"], "correct_index": 0, "solution": "Omnivores eat both plant and animal food.", "difficulty": "easy"},
-  {"stem": "Organisms that break down dead plants and animals are called __________.", "options": ["decomposers", "producers", "herbivores", "carnivores"], "correct_index": 0, "solution": "Decomposers, like bacteria and fungi, break down dead matter and recycle nutrients.", "difficulty": "medium"},
-  {"stem": "The sequence showing who eats whom in a community is called a __________.", "options": ["food chain", "life cycle", "water cycle", "rock cycle"], "correct_index": 0, "solution": "A food chain shows the flow of food and energy from one organism to the next.", "difficulty": "medium"},
-  {"stem": "In the food chain grass → deer → tiger, the grass is a __________.", "options": ["producer", "consumer", "decomposer", "carnivore"], "correct_index": 0, "solution": "Grass makes its own food by photosynthesis and is the producer.", "difficulty": "medium"},
-  {"stem": "In the food chain grass → deer → tiger, the tiger is a __________.", "options": ["carnivore (consumer)", "producer", "herbivore", "decomposer"], "correct_index": 0, "solution": "The tiger eats the deer, so it is a carnivore and a consumer.", "difficulty": "medium"},
-  {"stem": "Several interconnected food chains in an ecosystem form a __________.", "options": ["food web", "single chain", "pyramid of numbers only", "food ladder"], "correct_index": 0, "solution": "A food web is a network of interconnected food chains.", "difficulty": "medium"},
-  {"stem": "The ultimate source of energy for almost all ecosystems is the __________.", "options": ["Sun", "soil", "water", "wind"], "correct_index": 0, "solution": "The Sun's energy, captured by producers, powers nearly all ecosystems.", "difficulty": "easy"},
-  {"stem": "Energy flows through a food chain in __________ direction.", "options": ["one (from producers to consumers)", "both", "no", "a circular"], "correct_index": 0, "solution": "Energy flows one way, from the Sun to producers and then to consumers.", "difficulty": "hard"},
-  {"stem": "At each step of a food chain, the amount of energy available __________.", "options": ["decreases", "increases", "stays the same", "doubles"], "correct_index": 0, "solution": "Energy is lost at each level (as heat and in life processes), so less is available higher up.", "difficulty": "hard"},
-  {"stem": "The circulation of nutrients between the living and non-living parts of an ecosystem is called a __________.", "options": ["nutrient (biogeochemical) cycle", "food chain", "food web", "life span"], "correct_index": 0, "solution": "Nutrient cycles move materials like carbon and nitrogen between organisms and the environment.", "difficulty": "hard"},
-  {"stem": "The process by which plants make food using sunlight, carbon dioxide and water is __________.", "options": ["photosynthesis", "respiration", "decomposition", "transpiration"], "correct_index": 0, "solution": "Photosynthesis is how green plants make food using sunlight, CO₂ and water.", "difficulty": "easy"},
-  {"stem": "Plants take in __________ and release oxygen during photosynthesis.", "options": ["carbon dioxide", "nitrogen", "oxygen", "hydrogen"], "correct_index": 0, "solution": "Plants absorb carbon dioxide and give out oxygen during photosynthesis.", "difficulty": "easy"},
-  {"stem": "In the carbon cycle, carbon dioxide is returned to the air by __________.", "options": ["respiration and burning of fuels", "photosynthesis only", "rainfall", "erosion"], "correct_index": 0, "solution": "Respiration, decomposition and burning fuels release carbon dioxide back into the air.", "difficulty": "hard"},
-  {"stem": "Nitrogen-fixing bacteria help by converting atmospheric nitrogen into __________ usable by plants.", "options": ["nitrogen compounds", "oxygen", "carbon dioxide", "water"], "correct_index": 0, "solution": "Nitrogen-fixing bacteria change free nitrogen into compounds plants can absorb.", "difficulty": "hard"},
-  {"stem": "The variety of living organisms in an area is called its __________.", "options": ["biodiversity", "population", "food web", "habitat"], "correct_index": 0, "solution": "Biodiversity is the variety of life forms in an area.", "difficulty": "medium"},
-  {"stem": "The natural home of an organism, where it lives and finds food, is its __________.", "options": ["habitat", "population", "ecosystem", "niche only"], "correct_index": 0, "solution": "A habitat is the natural environment in which an organism lives.", "difficulty": "medium"},
-  {"stem": "If one species in a food web disappears, the other organisms are __________.", "options": ["affected because they are interdependent", "not affected at all", "always benefited", "unrelated"], "correct_index": 0, "solution": "Organisms in a food web depend on each other, so losing one affects the others.", "difficulty": "hard"},
-  {"stem": "The removal of forests on a large scale is called __________.", "options": ["deforestation", "afforestation", "irrigation", "pollination"], "correct_index": 0, "solution": "Deforestation is the large-scale cutting down of forests.", "difficulty": "medium"},
-  {"stem": "Deforestation can lead to __________.", "options": ["soil erosion and loss of biodiversity", "more rainfall always", "richer soil", "cleaner air only"], "correct_index": 0, "solution": "Cutting forests causes soil erosion, loss of habitats and reduced biodiversity.", "difficulty": "medium"},
-  {"stem": "Planting trees on a large scale is called __________.", "options": ["afforestation", "deforestation", "pollution", "extinction"], "correct_index": 0, "solution": "Afforestation is the planting of trees to create or restore forests.", "difficulty": "medium"},
-  {"stem": "A species that has completely died out and no longer exists is said to be __________.", "options": ["extinct", "endangered", "rare", "common"], "correct_index": 0, "solution": "An extinct species has no living members left anywhere.", "difficulty": "medium"},
-  {"stem": "A species whose numbers have become dangerously low is said to be __________.", "options": ["endangered", "extinct", "abundant", "invasive"], "correct_index": 0, "solution": "Endangered species are at high risk of extinction due to very low numbers.", "difficulty": "medium"},
-  {"stem": "Protected areas set aside to conserve wildlife in their natural habitat are called __________.", "options": ["wildlife sanctuaries and national parks", "farms", "cities", "factories"], "correct_index": 0, "solution": "National parks and wildlife sanctuaries protect wildlife in their natural surroundings.", "difficulty": "medium"},
-  {"stem": "Pollination of flowers by bees is an example of __________ between organisms.", "options": ["interdependence (mutual benefit)", "competition only", "predation", "decomposition"], "correct_index": 0, "solution": "Bees get nectar and plants get pollinated — a mutually beneficial interdependence.", "difficulty": "hard"},
-  {"stem": "Which of the following is a decomposer?", "options": ["Fungi and bacteria", "Deer", "Tiger", "Grass"], "correct_index": 0, "solution": "Fungi and bacteria decompose dead matter, recycling nutrients into the soil.", "difficulty": "medium"},
-  {"stem": "Overuse of chemical pesticides can harm ecosystems because they __________.", "options": ["kill useful organisms and accumulate in food chains", "improve soil", "help all insects", "add nutrients"], "correct_index": 0, "solution": "Pesticides can kill beneficial organisms and build up along food chains, harming wildlife.", "difficulty": "hard"},
-  {"stem": "The building up of harmful substances at higher levels of a food chain is called __________.", "options": ["biomagnification", "photosynthesis", "pollination", "decomposition"], "correct_index": 0, "solution": "Biomagnification is the increase in concentration of toxins at higher levels of a food chain.", "difficulty": "hard"},
-  {"stem": "Green plants are essential to ecosystems because they __________.", "options": ["produce food and oxygen", "eat other organisms", "cause pollution", "decompose matter"], "correct_index": 0, "solution": "Green plants make food and release oxygen, supporting other life.", "difficulty": "easy"},
-  {"stem": "The balance of nature can be disturbed by __________.", "options": ["human activities like pollution and deforestation", "natural photosynthesis", "the water cycle", "normal food chains"], "correct_index": 0, "solution": "Human activities such as pollution and deforestation upset the natural balance.", "difficulty": "medium"},
-  {"stem": "The oxygen we breathe is replenished mainly by __________.", "options": ["photosynthesis in plants and algae", "burning of fuel", "respiration", "decomposition"], "correct_index": 0, "solution": "Plants and algae release oxygen during photosynthesis, replenishing the atmosphere.", "difficulty": "medium"},
-  {"stem": "The role of scavengers like vultures in an ecosystem is to __________.", "options": ["feed on dead animals and clean the environment", "make food", "pollinate flowers", "fix nitrogen"], "correct_index": 0, "solution": "Scavengers eat dead animals, helping clean the environment and recycle matter.", "difficulty": "medium"},
-  {"stem": "The number of organisms usually decreases as we move to __________ levels of a food chain.", "options": ["higher", "lower", "no", "producer"], "correct_index": 0, "solution": "Because energy decreases up the chain, fewer organisms are supported at higher levels.", "difficulty": "hard"},
-  {"stem": "Conserving forests is important because they __________.", "options": ["maintain biodiversity, soil and climate", "cause floods", "reduce oxygen", "waste land"], "correct_index": 0, "solution": "Forests support biodiversity, protect soil, and help regulate climate and rainfall.", "difficulty": "medium"},
-  {"stem": "A relationship in which one organism benefits by living on or in another and harming it is __________.", "options": ["parasitism", "mutualism", "competition", "predation"], "correct_index": 0, "solution": "In parasitism one organism (the parasite) benefits while harming its host.", "difficulty": "hard"},
-  {"stem": "Earthworms are useful to the soil because they __________.", "options": ["improve aeration and mix organic matter", "eat crops", "poison the soil", "remove all nutrients"], "correct_index": 0, "solution": "Earthworms loosen and aerate the soil and enrich it with organic matter.", "difficulty": "medium"},
-  {"stem": "Bees, butterflies and birds help plants by __________.", "options": ["pollinating their flowers", "eating their roots", "cutting their leaves", "blocking sunlight"], "correct_index": 0, "solution": "These animals transfer pollen between flowers, aiding plant reproduction.", "difficulty": "medium"},
-  {"stem": "Reducing, reusing and recycling help the environment by __________.", "options": ["cutting down waste and conserving resources", "increasing pollution", "using more resources", "harming ecosystems"], "correct_index": 0, "solution": "The three R's reduce waste and conserve natural resources.", "difficulty": "easy"},
-  {"stem": "Which of the following disturbs the natural nutrient cycle the least?", "options": ["Composting kitchen waste", "Burning plastic", "Dumping chemicals in rivers", "Cutting forests"], "correct_index": 0, "solution": "Composting returns nutrients naturally to the soil, unlike the harmful options.", "difficulty": "medium"},
-  {"stem": "The interdependence of organisms means that they __________.", "options": ["depend on one another for survival", "live completely alone", "never interact", "are all producers"], "correct_index": 0, "solution": "Organisms in an ecosystem rely on each other for food, shelter and other needs.", "difficulty": "easy"},
-  {"stem": "Which human activity most directly increases carbon dioxide in the atmosphere?", "options": ["Burning fossil fuels", "Planting trees", "Composting", "Rainwater harvesting"], "correct_index": 0, "solution": "Burning fossil fuels releases large amounts of carbon dioxide into the air.", "difficulty": "medium"},
-  {"stem": "A well-balanced ecosystem is able to __________ over time.", "options": ["sustain itself and recover from small disturbances", "collapse instantly", "grow without limit", "stop all cycles"], "correct_index": 0, "solution": "A balanced ecosystem is self-sustaining and can recover from minor disturbances.", "difficulty": "medium"},
-  {"stem": "The main reason to protect endangered species is to __________.", "options": ["preserve biodiversity and ecological balance", "increase pollution", "reduce forests", "remove predators"], "correct_index": 0, "solution": "Protecting endangered species maintains biodiversity and the balance of ecosystems.", "difficulty": "medium"},
-  {"stem": "Which of the following is a producer in a pond ecosystem?", "options": ["Algae", "Small fish", "Frog", "Water beetle"], "correct_index": 0, "solution": "Algae make their own food by photosynthesis and are producers in a pond.", "difficulty": "medium"},
-  {"stem": "The central message of this chapter is that all parts of nature are __________.", "options": ["connected and interdependent", "independent and separate", "unimportant", "identical"], "correct_index": 0, "solution": "Nature works in harmony because all its living and non-living parts are connected and interdependent.", "difficulty": "easy"},
-  {"stem": "Human beings have a responsibility towards nature because our actions can __________ the balance of ecosystems.", "options": ["upset or protect", "never affect", "only improve", "only destroy"], "correct_index": 0, "solution": "Human actions can either harm or protect ecosystems, so we must act responsibly.", "difficulty": "easy"}
+  {
+    "stem": "All the living organisms in an area together with their non-living surroundings form an __________.",
+    "options": [
+      "ecosystem",
+      "atmosphere",
+      "element",
+      "population"
+    ],
+    "correct_index": 0,
+    "solution": "An ecosystem is the community of living organisms together with the non-living environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Organisms that make their own food by photosynthesis are called __________.",
+    "options": [
+      "producers",
+      "consumers",
+      "decomposers",
+      "predators"
+    ],
+    "correct_index": 0,
+    "solution": "Producers, mainly green plants, make their own food and form the base of the food chain.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms that depend on other organisms for food are called __________.",
+    "options": [
+      "consumers",
+      "producers",
+      "decomposers only",
+      "autotrophs"
+    ],
+    "correct_index": 0,
+    "solution": "Consumers cannot make their own food and eat other organisms.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Animals that eat only plants are called __________.",
+    "options": [
+      "herbivores",
+      "carnivores",
+      "omnivores",
+      "decomposers"
+    ],
+    "correct_index": 0,
+    "solution": "Herbivores feed only on plants.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Animals that eat only other animals are called __________.",
+    "options": [
+      "carnivores",
+      "herbivores",
+      "producers",
+      "decomposers"
+    ],
+    "correct_index": 0,
+    "solution": "Carnivores feed only on other animals.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Animals that eat both plants and animals are called __________.",
+    "options": [
+      "omnivores",
+      "herbivores",
+      "carnivores",
+      "producers"
+    ],
+    "correct_index": 0,
+    "solution": "Omnivores eat both plant and animal food.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms that break down dead plants and animals are called __________.",
+    "options": [
+      "decomposers",
+      "producers",
+      "herbivores",
+      "carnivores"
+    ],
+    "correct_index": 0,
+    "solution": "Decomposers, like bacteria and fungi, break down dead matter and recycle nutrients.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sequence showing who eats whom in a community is called a __________.",
+    "options": [
+      "food chain",
+      "life cycle",
+      "water cycle",
+      "rock cycle"
+    ],
+    "correct_index": 0,
+    "solution": "A food chain shows the flow of food and energy from one organism to the next.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the food chain grass → deer → tiger, the grass is a __________.",
+    "options": [
+      "producer",
+      "consumer",
+      "decomposer",
+      "carnivore"
+    ],
+    "correct_index": 0,
+    "solution": "Grass makes its own food by photosynthesis and is the producer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the food chain grass → deer → tiger, the tiger is a __________.",
+    "options": [
+      "carnivore (consumer)",
+      "producer",
+      "herbivore",
+      "decomposer"
+    ],
+    "correct_index": 0,
+    "solution": "The tiger eats the deer, so it is a carnivore and a consumer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Several interconnected food chains in an ecosystem form a __________.",
+    "options": [
+      "food web",
+      "single chain",
+      "pyramid of numbers only",
+      "food ladder"
+    ],
+    "correct_index": 0,
+    "solution": "A food web is a network of interconnected food chains.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ultimate source of energy for almost all ecosystems is the __________.",
+    "options": [
+      "Sun",
+      "soil",
+      "water",
+      "wind"
+    ],
+    "correct_index": 0,
+    "solution": "The Sun's energy, captured by producers, powers nearly all ecosystems.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Energy flows through a food chain in __________ direction.",
+    "options": [
+      "one (from producers to consumers)",
+      "both",
+      "no",
+      "a circular"
+    ],
+    "correct_index": 0,
+    "solution": "Energy flows one way, from the Sun to producers and then to consumers.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "At each step of a food chain, the amount of energy available __________.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "doubles"
+    ],
+    "correct_index": 0,
+    "solution": "Energy is lost at each level (as heat and in life processes), so less is available higher up.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The circulation of nutrients between the living and non-living parts of an ecosystem is called a __________.",
+    "options": [
+      "nutrient (biogeochemical) cycle",
+      "food chain",
+      "food web",
+      "life span"
+    ],
+    "correct_index": 0,
+    "solution": "Nutrient cycles move materials like carbon and nitrogen between organisms and the environment.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The process by which plants make food using sunlight, carbon dioxide and water is __________.",
+    "options": [
+      "photosynthesis",
+      "respiration",
+      "decomposition",
+      "transpiration"
+    ],
+    "correct_index": 0,
+    "solution": "Photosynthesis is how green plants make food using sunlight, CO₂ and water.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Plants take in __________ and release oxygen during photosynthesis.",
+    "options": [
+      "carbon dioxide",
+      "nitrogen",
+      "oxygen",
+      "hydrogen"
+    ],
+    "correct_index": 0,
+    "solution": "Plants absorb carbon dioxide and give out oxygen during photosynthesis.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In the carbon cycle, carbon dioxide is returned to the air by __________.",
+    "options": [
+      "respiration and burning of fuels",
+      "photosynthesis only",
+      "rainfall",
+      "erosion"
+    ],
+    "correct_index": 0,
+    "solution": "Respiration, decomposition and burning fuels release carbon dioxide back into the air.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Nitrogen-fixing bacteria help by converting atmospheric nitrogen into __________ usable by plants.",
+    "options": [
+      "nitrogen compounds",
+      "oxygen",
+      "carbon dioxide",
+      "water"
+    ],
+    "correct_index": 0,
+    "solution": "Nitrogen-fixing bacteria change free nitrogen into compounds plants can absorb.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The variety of living organisms in an area is called its __________.",
+    "options": [
+      "biodiversity",
+      "population",
+      "food web",
+      "habitat"
+    ],
+    "correct_index": 0,
+    "solution": "Biodiversity is the variety of life forms in an area.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The natural home of an organism, where it lives and finds food, is its __________.",
+    "options": [
+      "habitat",
+      "population",
+      "ecosystem",
+      "niche only"
+    ],
+    "correct_index": 0,
+    "solution": "A habitat is the natural environment in which an organism lives.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If one species in a food web disappears, the other organisms are __________.",
+    "options": [
+      "affected because they are interdependent",
+      "not affected at all",
+      "always benefited",
+      "unrelated"
+    ],
+    "correct_index": 0,
+    "solution": "Organisms in a food web depend on each other, so losing one affects the others.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The removal of forests on a large scale is called __________.",
+    "options": [
+      "deforestation",
+      "afforestation",
+      "irrigation",
+      "pollination"
+    ],
+    "correct_index": 0,
+    "solution": "Deforestation is the large-scale cutting down of forests.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Deforestation can lead to __________.",
+    "options": [
+      "soil erosion and loss of biodiversity",
+      "more rainfall always",
+      "richer soil",
+      "cleaner air only"
+    ],
+    "correct_index": 0,
+    "solution": "Cutting forests causes soil erosion, loss of habitats and reduced biodiversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Planting trees on a large scale is called __________.",
+    "options": [
+      "afforestation",
+      "deforestation",
+      "pollution",
+      "extinction"
+    ],
+    "correct_index": 0,
+    "solution": "Afforestation is the planting of trees to create or restore forests.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A species that has completely died out and no longer exists is said to be __________.",
+    "options": [
+      "extinct",
+      "endangered",
+      "rare",
+      "common"
+    ],
+    "correct_index": 0,
+    "solution": "An extinct species has no living members left anywhere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A species whose numbers have become dangerously low is said to be __________.",
+    "options": [
+      "endangered",
+      "extinct",
+      "abundant",
+      "invasive"
+    ],
+    "correct_index": 0,
+    "solution": "Endangered species are at high risk of extinction due to very low numbers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Protected areas set aside to conserve wildlife in their natural habitat are called __________.",
+    "options": [
+      "wildlife sanctuaries and national parks",
+      "farms",
+      "cities",
+      "factories"
+    ],
+    "correct_index": 0,
+    "solution": "National parks and wildlife sanctuaries protect wildlife in their natural surroundings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Pollination of flowers by bees is an example of __________ between organisms.",
+    "options": [
+      "interdependence (mutual benefit)",
+      "competition only",
+      "predation",
+      "decomposition"
+    ],
+    "correct_index": 0,
+    "solution": "Bees get nectar and plants get pollinated — a mutually beneficial interdependence.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a decomposer?",
+    "options": [
+      "Fungi and bacteria",
+      "Deer",
+      "Tiger",
+      "Grass"
+    ],
+    "correct_index": 0,
+    "solution": "Fungi and bacteria decompose dead matter, recycling nutrients into the soil.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Overuse of chemical pesticides can harm ecosystems because they __________.",
+    "options": [
+      "kill useful organisms and accumulate in food chains",
+      "improve soil",
+      "help all insects",
+      "add nutrients"
+    ],
+    "correct_index": 0,
+    "solution": "Pesticides can kill beneficial organisms and build up along food chains, harming wildlife.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The building up of harmful substances at higher levels of a food chain is called __________.",
+    "options": [
+      "biomagnification",
+      "photosynthesis",
+      "pollination",
+      "decomposition"
+    ],
+    "correct_index": 0,
+    "solution": "Biomagnification is the increase in concentration of toxins at higher levels of a food chain.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Green plants are essential to ecosystems because they __________.",
+    "options": [
+      "produce food and oxygen",
+      "eat other organisms",
+      "cause pollution",
+      "decompose matter"
+    ],
+    "correct_index": 0,
+    "solution": "Green plants make food and release oxygen, supporting other life.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The balance of nature can be disturbed by __________.",
+    "options": [
+      "human activities like pollution and deforestation",
+      "natural photosynthesis",
+      "the water cycle",
+      "normal food chains"
+    ],
+    "correct_index": 0,
+    "solution": "Human activities such as pollution and deforestation upset the natural balance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The oxygen we breathe is replenished mainly by __________.",
+    "options": [
+      "photosynthesis in plants and algae",
+      "burning of fuel",
+      "respiration",
+      "decomposition"
+    ],
+    "correct_index": 0,
+    "solution": "Plants and algae release oxygen during photosynthesis, replenishing the atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The role of scavengers like vultures in an ecosystem is to __________.",
+    "options": [
+      "feed on dead animals and clean the environment",
+      "make food",
+      "pollinate flowers",
+      "fix nitrogen"
+    ],
+    "correct_index": 0,
+    "solution": "Scavengers eat dead animals, helping clean the environment and recycle matter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of organisms usually decreases as we move to __________ levels of a food chain.",
+    "options": [
+      "higher",
+      "lower",
+      "no",
+      "producer"
+    ],
+    "correct_index": 0,
+    "solution": "Because energy decreases up the chain, fewer organisms are supported at higher levels.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Conserving forests is important because they __________.",
+    "options": [
+      "maintain biodiversity, soil and climate",
+      "cause floods",
+      "reduce oxygen",
+      "waste land"
+    ],
+    "correct_index": 0,
+    "solution": "Forests support biodiversity, protect soil, and help regulate climate and rainfall.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A relationship in which one organism benefits by living on or in another and harming it is __________.",
+    "options": [
+      "parasitism",
+      "mutualism",
+      "competition",
+      "predation"
+    ],
+    "correct_index": 0,
+    "solution": "In parasitism one organism (the parasite) benefits while harming its host.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Earthworms are useful to the soil because they __________.",
+    "options": [
+      "improve aeration and mix organic matter",
+      "eat crops",
+      "poison the soil",
+      "remove all nutrients"
+    ],
+    "correct_index": 0,
+    "solution": "Earthworms loosen and aerate the soil and enrich it with organic matter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bees, butterflies and birds help plants by __________.",
+    "options": [
+      "pollinating their flowers",
+      "eating their roots",
+      "cutting their leaves",
+      "blocking sunlight"
+    ],
+    "correct_index": 0,
+    "solution": "These animals transfer pollen between flowers, aiding plant reproduction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Reducing, reusing and recycling help the environment by __________.",
+    "options": [
+      "cutting down waste and conserving resources",
+      "increasing pollution",
+      "using more resources",
+      "harming ecosystems"
+    ],
+    "correct_index": 0,
+    "solution": "The three R's reduce waste and conserve natural resources.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following disturbs the natural nutrient cycle the least?",
+    "options": [
+      "Composting kitchen waste",
+      "Burning plastic",
+      "Dumping chemicals in rivers",
+      "Cutting forests"
+    ],
+    "correct_index": 0,
+    "solution": "Composting returns nutrients naturally to the soil, unlike the harmful options.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The interdependence of organisms means that they __________.",
+    "options": [
+      "depend on one another for survival",
+      "live completely alone",
+      "never interact",
+      "are all producers"
+    ],
+    "correct_index": 0,
+    "solution": "Organisms in an ecosystem rely on each other for food, shelter and other needs.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which human activity most directly increases carbon dioxide in the atmosphere?",
+    "options": [
+      "Burning fossil fuels",
+      "Planting trees",
+      "Composting",
+      "Rainwater harvesting"
+    ],
+    "correct_index": 0,
+    "solution": "Burning fossil fuels releases large amounts of carbon dioxide into the air.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A well-balanced ecosystem is able to __________ over time.",
+    "options": [
+      "sustain itself and recover from small disturbances",
+      "collapse instantly",
+      "grow without limit",
+      "stop all cycles"
+    ],
+    "correct_index": 0,
+    "solution": "A balanced ecosystem is self-sustaining and can recover from minor disturbances.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason to protect endangered species is to __________.",
+    "options": [
+      "preserve biodiversity and ecological balance",
+      "increase pollution",
+      "reduce forests",
+      "remove predators"
+    ],
+    "correct_index": 0,
+    "solution": "Protecting endangered species maintains biodiversity and the balance of ecosystems.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a producer in a pond ecosystem?",
+    "options": [
+      "Algae",
+      "Small fish",
+      "Frog",
+      "Water beetle"
+    ],
+    "correct_index": 0,
+    "solution": "Algae make their own food by photosynthesis and are producers in a pond.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The central message of this chapter is that all parts of nature are __________.",
+    "options": [
+      "connected and interdependent",
+      "independent and separate",
+      "unimportant",
+      "identical"
+    ],
+    "correct_index": 0,
+    "solution": "Nature works in harmony because all its living and non-living parts are connected and interdependent.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Human beings have a responsibility towards nature because our actions can __________ the balance of ecosystems.",
+    "options": [
+      "upset or protect",
+      "never affect",
+      "only improve",
+      "only destroy"
+    ],
+    "correct_index": 0,
+    "solution": "Human actions can either harm or protect ecosystems, so we must act responsibly.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The living organisms in an area together with their non-living surroundings form an:",
+    "options": [
+      "Atom",
+      "Ecosystem",
+      "Element",
+      "Compound"
+    ],
+    "correct_index": 1,
+    "solution": "An ecosystem is made up of the living organisms (biotic components) in an area and their non-living surroundings (abiotic components) interacting together as a unit.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The biotic components of an ecosystem are the:",
+    "options": [
+      "Air, water, soil",
+      "Living things (plants, animals, microbes)",
+      "Sunlight, temperature",
+      "Rocks and minerals"
+    ],
+    "correct_index": 1,
+    "solution": "Biotic components are the living parts of an ecosystem — plants, animals and microorganisms; abiotic components are the non-living parts like air, water, soil and sunlight.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Green plants in an ecosystem are called ______ because they make their own food.",
+    "options": [
+      "consumers",
+      "producers",
+      "decomposers",
+      "predators"
+    ],
+    "correct_index": 1,
+    "solution": "Green plants are called producers (autotrophs) because they make their own food through photosynthesis, forming the base of the ecosystem's food chains.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Organisms that eat plants or other animals for food are called:",
+    "options": [
+      "Producers",
+      "Consumers",
+      "Decomposers",
+      "Autotrophs"
+    ],
+    "correct_index": 1,
+    "solution": "Consumers (heterotrophs) depend on other organisms for food — herbivores eat plants, carnivores eat other animals, and omnivores eat both.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Organisms that break down dead plants and animals, recycling nutrients, are called:",
+    "options": [
+      "Producers",
+      "Consumers",
+      "Decomposers",
+      "Herbivores"
+    ],
+    "correct_index": 2,
+    "solution": "Decomposers (like bacteria and fungi) break down dead organisms and waste into simpler substances, returning nutrients to the soil and keeping nutrients cycling through the ecosystem.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'food chain' shows:",
+    "options": [
+      "A random group of animals",
+      "The transfer of food/energy from one organism to another in a sequence",
+      "A type of plant",
+      "A water body"
+    ],
+    "correct_index": 1,
+    "solution": "A food chain shows the sequence in which food (and hence energy) is transferred from one organism to the next — e.g. grass → grasshopper → frog → snake.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The interconnected network of many food chains in an ecosystem is called a:",
+    "options": [
+      "Food chain",
+      "Food web",
+      "Food pyramid only",
+      "Life cycle"
+    ],
+    "correct_index": 1,
+    "solution": "A food web is a network of many interconnected food chains in an ecosystem, showing the complex feeding relationships among the different organisms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "At each step in a food chain, only a small part of the energy is passed on; most is lost as:",
+    "options": [
+      "Food",
+      "Heat (during life processes)",
+      "Water",
+      "Oxygen"
+    ],
+    "correct_index": 1,
+    "solution": "At each trophic level, most of the energy is used up in life processes and lost as heat, so only about 10% is passed to the next level — which is why food chains are short.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Each level in a food chain (producer, herbivore, carnivore) is called a:",
+    "options": [
+      "Habitat",
+      "Trophic level",
+      "Niche",
+      "Population"
+    ],
+    "correct_index": 1,
+    "solution": "Each feeding step in a food chain is called a trophic level — producers form the first level, herbivores the second, and so on.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The continuous circulation of nutrients like carbon and nitrogen between living organisms and the environment is called a:",
+    "options": [
+      "Food chain",
+      "Biogeochemical (nutrient) cycle",
+      "Water fall",
+      "Life span"
+    ],
+    "correct_index": 1,
+    "solution": "Biogeochemical (nutrient) cycles are the continuous movement of nutrients such as carbon, nitrogen and oxygen between the living organisms and the non-living environment, keeping the ecosystem balanced.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In the oxygen-carbon dioxide cycle, plants release oxygen during photosynthesis and all organisms release carbon dioxide during:",
+    "options": [
+      "Digestion",
+      "Respiration",
+      "Excretion",
+      "Reproduction"
+    ],
+    "correct_index": 1,
+    "solution": "Plants release oxygen during photosynthesis, while all living organisms release carbon dioxide during respiration; this maintains the balance of oxygen and carbon dioxide in nature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The balance of nature is maintained by the:",
+    "options": [
+      "Absence of organisms",
+      "Interdependence and interactions among organisms and their environment",
+      "Only plants",
+      "Only animals"
+    ],
+    "correct_index": 1,
+    "solution": "The balance of nature (ecological balance) is maintained by the interdependence and interactions among producers, consumers and decomposers, and their non-living environment, keeping populations and cycles in balance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The removal of top predators from an ecosystem can cause:",
+    "options": [
+      "No change",
+      "An imbalance — the population of prey may increase and disturb the ecosystem",
+      "More predators",
+      "Better balance"
+    ],
+    "correct_index": 1,
+    "solution": "Removing top predators can cause the population of their prey (herbivores) to increase unchecked, which may overgraze plants and disturb the whole ecosystem — showing how interconnected nature is.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Human activities that disturb nature's balance include deforestation, pollution and:",
+    "options": [
+      "Planting trees",
+      "Overexploitation of resources and habitat destruction",
+      "Conservation",
+      "Recycling"
+    ],
+    "correct_index": 1,
+    "solution": "Human activities like deforestation, pollution, overexploitation of resources, hunting and habitat destruction disturb the natural balance and harm ecosystems and biodiversity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Biodiversity' refers to:",
+    "options": [
+      "A single species",
+      "The variety of different living organisms in an area",
+      "Only plants",
+      "Only large animals"
+    ],
+    "correct_index": 1,
+    "solution": "Biodiversity is the variety of different species of plants, animals and microorganisms in an area; high biodiversity makes an ecosystem more stable and healthy.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Conserving biodiversity is important because:",
+    "options": [
+      "It has no value",
+      "It maintains ecological balance and provides resources and ecosystem services",
+      "It wastes land",
+      "Only large animals matter"
+    ],
+    "correct_index": 1,
+    "solution": "Conserving biodiversity is important because it maintains the balance and stability of ecosystems and provides food, medicines, raw materials and essential ecosystem services to humans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An example of a mutually beneficial relationship (symbiosis) in nature is:",
+    "options": [
+      "A tiger hunting a deer",
+      "Bees getting nectar from flowers while pollinating them",
+      "A weed growing alone",
+      "Pollution"
+    ],
+    "correct_index": 1,
+    "solution": "Bees and flowers share a mutually beneficial relationship — bees get nectar (food) while helping the flowers reproduce through pollination — an example of nature's cooperation (symbiosis).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The ultimate source of energy for almost all ecosystems is the:",
+    "options": [
+      "Moon",
+      "Sun",
+      "Wind",
+      "Earth's core"
+    ],
+    "correct_index": 1,
+    "solution": "The Sun is the ultimate source of energy for almost all ecosystems; plants capture solar energy through photosynthesis and pass it along the food chain to other organisms.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Energy flow in an ecosystem is ______, while nutrients are recycled.",
+    "options": [
+      "cyclic",
+      "one-directional (flows through and is lost as heat)",
+      "backward",
+      "stored forever"
+    ],
+    "correct_index": 1,
+    "solution": "Energy flows in one direction through an ecosystem (from the Sun to producers to consumers, being lost as heat), and must be continually supplied, while nutrients are recycled repeatedly.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which statement about nature's balance is correct? (i) Organisms are interdependent (ii) Energy flows through food chains (iii) Nutrients are recycled",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: organisms are interdependent, energy flows through food chains, and nutrients are recycled — together maintaining the balance of nature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The place where an organism lives is called its:",
+    "options": [
+      "Niche",
+      "Habitat",
+      "Food chain",
+      "Population"
+    ],
+    "correct_index": 1,
+    "solution": "A habitat is the natural place where an organism lives, providing it with food, water, shelter and the conditions it needs to survive (e.g. a forest, pond or desert).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "When an ecosystem's balance is disturbed, one possible consequence is:",
+    "options": [
+      "Improvement always",
+      "Loss of species, disruption of food chains and environmental problems",
+      "No change",
+      "More biodiversity automatically"
+    ],
+    "correct_index": 1,
+    "solution": "Disturbing an ecosystem's balance can lead to the loss of species, disruption of food chains and nutrient cycles, and various environmental problems, harming the ecosystem and humans.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Sustainable use' of natural resources means:",
+    "options": [
+      "Using them up quickly",
+      "Using resources wisely so they are available for the future",
+      "Wasting resources",
+      "Ignoring resources"
+    ],
+    "correct_index": 1,
+    "solution": "Sustainable use means using natural resources carefully and wisely so that they are not exhausted and remain available for future generations, helping maintain nature's balance.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The role of decomposers in maintaining nature's harmony is to:",
+    "options": [
+      "Produce food",
+      "Recycle nutrients from dead matter back into the environment",
+      "Hunt animals",
+      "Make oxygen only"
+    ],
+    "correct_index": 1,
+    "solution": "Decomposers recycle nutrients by breaking down dead organisms and waste, returning nutrients to the soil for plants to reuse — an essential role in keeping nature's cycles going.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message of 'how nature works in harmony' is that:",
+    "options": [
+      "Organisms live in isolation",
+      "All parts of nature are interconnected and interdependent, and this balance must be protected",
+      "Only humans matter",
+      "Nature has no balance"
+    ],
+    "correct_index": 1,
+    "solution": "The message is that all parts of nature — living and non-living — are interconnected and interdependent, working together in a delicate balance that humans must respect and protect for the health of the planet.",
+    "difficulty": "medium"
+  }
 ]

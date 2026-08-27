@@ -1,52 +1,962 @@
 [
-  {"stem": "Health is best defined as a state of complete __________ well-being.", "options": ["physical, mental and social", "physical only", "mental only", "financial"], "correct_index": 0, "solution": "Health means overall well-being — physical, mental and social — not merely absence of disease.", "difficulty": "easy"},
-  {"stem": "A diet that contains all nutrients in the right proportions is called a __________ diet.", "options": ["balanced", "junk", "liquid", "single-food"], "correct_index": 0, "solution": "A balanced diet supplies carbohydrates, proteins, fats, vitamins, minerals, water and fibre in proper amounts.", "difficulty": "easy"},
-  {"stem": "Which nutrient is the body's main source of energy?", "options": ["Carbohydrates", "Vitamins", "Minerals", "Water"], "correct_index": 0, "solution": "Carbohydrates are the chief and quickest source of energy for the body.", "difficulty": "easy"},
-  {"stem": "Nutrients needed for the growth and repair of body tissues are __________.", "options": ["proteins", "carbohydrates", "fats", "roughage"], "correct_index": 0, "solution": "Proteins are the body-building nutrients used for growth and repair.", "difficulty": "easy"},
-  {"stem": "Vitamins and minerals are called __________ nutrients because they are needed in small amounts.", "options": ["protective", "energy-giving", "body-building", "storage"], "correct_index": 0, "solution": "Vitamins and minerals protect the body and regulate its functions, needed only in small quantities.", "difficulty": "medium"},
-  {"stem": "The dietary fibre (roughage) in our food helps in __________.", "options": ["the smooth movement of food and prevention of constipation", "supplying energy", "building muscles", "storing fat"], "correct_index": 0, "solution": "Roughage adds bulk and aids the movement of food through the gut, preventing constipation.", "difficulty": "medium"},
-  {"stem": "A disease caused by the lack of a particular nutrient in the diet is called a __________ disease.", "options": ["deficiency", "communicable", "infectious", "hereditary"], "correct_index": 0, "solution": "Deficiency diseases result from a prolonged shortage of a specific nutrient.", "difficulty": "medium"},
-  {"stem": "Scurvy is caused by a deficiency of __________.", "options": ["Vitamin C", "Vitamin A", "Vitamin D", "iron"], "correct_index": 0, "solution": "Scurvy, causing bleeding gums, results from a lack of Vitamin C.", "difficulty": "medium"},
-  {"stem": "Night blindness is caused by the deficiency of __________.", "options": ["Vitamin A", "Vitamin C", "Vitamin K", "calcium"], "correct_index": 0, "solution": "Vitamin A is needed for vision, especially in dim light; its lack causes night blindness.", "difficulty": "medium"},
-  {"stem": "Rickets, causing weak and bent bones in children, is due to a deficiency of __________.", "options": ["Vitamin D", "Vitamin C", "iron", "iodine"], "correct_index": 0, "solution": "Vitamin D (and calcium) is needed for strong bones; its lack causes rickets.", "difficulty": "medium"},
-  {"stem": "Anaemia is commonly caused by a deficiency of __________.", "options": ["iron", "iodine", "calcium", "Vitamin C"], "correct_index": 0, "solution": "Iron is needed to make haemoglobin; its deficiency causes anaemia.", "difficulty": "medium"},
-  {"stem": "Goitre, a swelling of the neck, is caused by a deficiency of __________.", "options": ["iodine", "iron", "calcium", "Vitamin A"], "correct_index": 0, "solution": "Iodine is needed by the thyroid gland; its deficiency causes goitre.", "difficulty": "medium"},
-  {"stem": "Iodine deficiency in the diet is commonly prevented by using __________.", "options": ["iodised salt", "extra sugar", "more oil", "boiled water"], "correct_index": 0, "solution": "Iodised salt supplies the small amount of iodine needed to prevent goitre.", "difficulty": "medium"},
-  {"stem": "The mineral needed for strong bones and teeth is __________.", "options": ["calcium", "iron", "iodine", "sodium"], "correct_index": 0, "solution": "Calcium is essential for the formation and strength of bones and teeth.", "difficulty": "easy"},
-  {"stem": "Regular physical exercise helps to keep the body __________.", "options": ["fit and healthy", "prone to disease", "weak", "overweight always"], "correct_index": 0, "solution": "Exercise keeps muscles, heart and lungs strong and the body fit.", "difficulty": "easy"},
-  {"stem": "Adequate __________ each day is essential for the body and mind to rest and recover.", "options": ["sleep", "junk food", "screen time", "stress"], "correct_index": 0, "solution": "Sufficient sleep allows the body and brain to rest, repair and function well.", "difficulty": "easy"},
-  {"stem": "Personal hygiene such as bathing and brushing teeth helps to prevent __________.", "options": ["infections and diseases", "growth", "digestion", "exercise"], "correct_index": 0, "solution": "Cleanliness removes germs and reduces the risk of infections.", "difficulty": "easy"},
-  {"stem": "Which of the following is a harmful habit for health?", "options": ["Consuming tobacco", "Eating fruits", "Drinking clean water", "Regular exercise"], "correct_index": 0, "solution": "Tobacco is harmful and causes serious diseases; the others are healthy habits.", "difficulty": "easy"},
-  {"stem": "Tobacco consumption is strongly linked to __________.", "options": ["lung cancer and heart disease", "improved lungs", "better eyesight", "stronger bones"], "correct_index": 0, "solution": "Tobacco use causes lung cancer, heart disease and many other health problems.", "difficulty": "medium"},
-  {"stem": "Substances such as alcohol, tobacco and certain drugs that harm the body and can cause dependence are called __________.", "options": ["addictive substances", "nutrients", "vitamins", "vaccines"], "correct_index": 0, "solution": "These are addictive substances that damage health and lead to dependence.", "difficulty": "medium"},
-  {"stem": "Mental health is as important as physical health because it affects our __________.", "options": ["thoughts, feelings and behaviour", "height only", "hair colour", "blood group"], "correct_index": 0, "solution": "Mental health influences how we think, feel and behave, and is vital to overall well-being.", "difficulty": "medium"},
-  {"stem": "A good way to manage stress is to __________.", "options": ["talk to trusted people and stay active", "keep everything bottled up", "skip sleep", "avoid all activity"], "correct_index": 0, "solution": "Sharing feelings and staying active are healthy ways to cope with stress.", "difficulty": "medium"},
-  {"stem": "Clean drinking water is important because contaminated water can spread __________.", "options": ["water-borne diseases like cholera", "night blindness", "rickets", "goitre"], "correct_index": 0, "solution": "Dirty water carries microbes that cause diseases such as cholera and typhoid.", "difficulty": "medium"},
-  {"stem": "The practice of keeping the surroundings clean to prevent disease is called __________.", "options": ["sanitation", "fermentation", "vaccination", "digestion"], "correct_index": 0, "solution": "Sanitation — safe disposal of waste and clean surroundings — prevents the spread of disease.", "difficulty": "easy"},
-  {"stem": "Junk foods are considered unhealthy mainly because they are __________.", "options": ["high in fat, sugar or salt but low in nutrients", "rich in vitamins", "very high in fibre", "free of calories"], "correct_index": 0, "solution": "Junk foods provide excess fat, sugar or salt with little nutritional value.", "difficulty": "medium"},
-  {"stem": "Obesity, an excess of body fat, increases the risk of __________.", "options": ["heart disease and diabetes", "night blindness", "scurvy", "goitre"], "correct_index": 0, "solution": "Being overweight raises the risk of heart disease, diabetes and other conditions.", "difficulty": "medium"},
-  {"stem": "A first-aid measure for a small cut is to __________.", "options": ["clean it and cover with a clean dressing", "leave it dirty", "apply mud", "ignore bleeding"], "correct_index": 0, "solution": "Cleaning the wound and covering it prevents infection and helps healing.", "difficulty": "easy"},
-  {"stem": "Immunity gained after recovering from a disease or after vaccination is called __________.", "options": ["acquired immunity", "instant weakness", "malnutrition", "deficiency"], "correct_index": 0, "solution": "Acquired immunity develops after exposure to a disease or through vaccination.", "difficulty": "hard"},
-  {"stem": "The condition resulting from a long-term lack of enough nutritious food is called __________.", "options": ["malnutrition", "over-nutrition only", "immunity", "hygiene"], "correct_index": 0, "solution": "Malnutrition results from insufficient or unbalanced intake of nutrients.", "difficulty": "medium"},
-  {"stem": "Which of the following is a good source of proteins?", "options": ["Pulses (dal) and eggs", "Sugar", "Butter", "Rice only"], "correct_index": 0, "solution": "Pulses, eggs, milk and meat are rich in proteins.", "difficulty": "easy"},
-  {"stem": "Which food is a rich source of Vitamin C?", "options": ["Citrus fruits like oranges and amla", "White bread", "Refined oil", "Sugar"], "correct_index": 0, "solution": "Citrus fruits and amla are rich in Vitamin C, which prevents scurvy.", "difficulty": "easy"},
-  {"stem": "Washing hands before eating and after using the toilet mainly prevents __________.", "options": ["the spread of germs to food", "loss of appetite", "weight gain", "tooth growth"], "correct_index": 0, "solution": "Handwashing removes germs that could otherwise enter the body through food.", "difficulty": "easy"},
-  {"stem": "The excess energy from food not used by the body is stored mainly as __________.", "options": ["fat", "protein", "vitamins", "water"], "correct_index": 0, "solution": "Surplus energy is stored in the body as fat.", "difficulty": "medium"},
-  {"stem": "Which of the following supports good mental health?", "options": ["Positive relationships and hobbies", "Constant stress", "Isolation", "Lack of sleep"], "correct_index": 0, "solution": "Supportive relationships and enjoyable activities promote good mental health.", "difficulty": "medium"},
-  {"stem": "Drinking plenty of __________ each day helps the body carry nutrients and remove wastes.", "options": ["water", "soft drinks", "coffee", "oil"], "correct_index": 0, "solution": "Water is vital for transport of nutrients and removal of body wastes.", "difficulty": "easy"},
-  {"stem": "Vaccination protects the body by helping it develop __________ against specific diseases.", "options": ["immunity", "deficiency", "allergy", "obesity"], "correct_index": 0, "solution": "Vaccines stimulate the immune system to build immunity against particular diseases.", "difficulty": "medium"},
-  {"stem": "A balanced meal for a growing child should especially include enough __________ for growth.", "options": ["proteins", "sugar", "salt", "fat only"], "correct_index": 0, "solution": "Growing children need adequate proteins to build new body tissues.", "difficulty": "medium"},
-  {"stem": "Regular medical check-ups help in __________.", "options": ["early detection of health problems", "spreading disease", "gaining weight", "avoiding exercise"], "correct_index": 0, "solution": "Check-ups can detect health problems early, when they are easier to treat.", "difficulty": "easy"},
-  {"stem": "The main harm of consuming too much salt over time is that it can raise __________.", "options": ["blood pressure", "eyesight", "bone density", "immunity"], "correct_index": 0, "solution": "Excess salt intake is linked to high blood pressure.", "difficulty": "hard"},
-  {"stem": "Which of the following is a communicable disease that good hygiene helps prevent?", "options": ["Diarrhoea", "Scurvy", "Rickets", "Anaemia"], "correct_index": 0, "solution": "Diarrhoea spreads through germs; hygiene helps prevent it, while the others are deficiency diseases.", "difficulty": "medium"},
-  {"stem": "Physical activity in daily life can be increased by __________.", "options": ["walking or cycling instead of always riding", "sitting all day", "avoiding play", "constant screen use"], "correct_index": 0, "solution": "Choosing to walk, cycle and play increases daily physical activity.", "difficulty": "easy"},
-  {"stem": "Eating a variety of foods is recommended because __________.", "options": ["no single food supplies all nutrients", "variety looks nice", "it wastes food", "one food is always enough"], "correct_index": 0, "solution": "Different foods supply different nutrients, so variety ensures a balanced diet.", "difficulty": "medium"},
-  {"stem": "Second-hand smoke (passive smoking) is harmful because __________.", "options": ["non-smokers nearby also inhale harmful substances", "it is completely safe", "it improves lungs", "only the smoker is affected"], "correct_index": 0, "solution": "People around a smoker breathe in harmful smoke, which damages their health too.", "difficulty": "medium"},
-  {"stem": "The best response if a friend offers a harmful substance like tobacco is to __________.", "options": ["say no and seek help from a trusted adult", "try it once", "keep it secret", "share it with others"], "correct_index": 0, "solution": "Refusing and telling a trusted adult protects one's health and others'.", "difficulty": "easy"},
-  {"stem": "Which of these is a sign of good health?", "options": ["Feeling energetic and free of illness", "Constant tiredness", "Frequent infections", "Poor appetite always"], "correct_index": 0, "solution": "Feeling energetic and rarely falling ill reflects good health.", "difficulty": "easy"},
-  {"stem": "Overuse of screens can affect health by causing __________.", "options": ["eye strain and reduced physical activity", "stronger eyes", "more exercise", "better sleep"], "correct_index": 0, "solution": "Too much screen time strains the eyes and reduces time for physical activity.", "difficulty": "medium"},
-  {"stem": "Fresh fruits and vegetables are important in the diet because they provide __________.", "options": ["vitamins, minerals and fibre", "only fat", "only protein", "no nutrients"], "correct_index": 0, "solution": "Fruits and vegetables are rich sources of vitamins, minerals and fibre.", "difficulty": "easy"},
-  {"stem": "Keeping food covered protects it from __________.", "options": ["flies and contamination", "sunlight only", "cooling", "vitamins"], "correct_index": 0, "solution": "Covering food keeps flies and germs away, preventing contamination.", "difficulty": "easy"},
-  {"stem": "A healthy lifestyle overall is a combination of __________.", "options": ["good diet, exercise, hygiene, rest and avoiding harmful habits", "only eating well", "only exercising", "only sleeping"], "correct_index": 0, "solution": "Health depends on the combination of balanced diet, exercise, hygiene, rest and avoiding harmful habits.", "difficulty": "easy"},
-  {"stem": "The deficiency disease that causes swelling and fluid retention due to severe protein shortage in children is __________.", "options": ["kwashiorkor", "scurvy", "goitre", "rickets"], "correct_index": 0, "solution": "Kwashiorkor is a severe protein-deficiency disease seen in children.", "difficulty": "hard"}
+  {
+    "stem": "Health is best defined as a state of complete __________ well-being.",
+    "options": [
+      "physical, mental and social",
+      "physical only",
+      "mental only",
+      "financial"
+    ],
+    "correct_index": 0,
+    "solution": "Health means overall well-being — physical, mental and social — not merely absence of disease.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A diet that contains all nutrients in the right proportions is called a __________ diet.",
+    "options": [
+      "balanced",
+      "junk",
+      "liquid",
+      "single-food"
+    ],
+    "correct_index": 0,
+    "solution": "A balanced diet supplies carbohydrates, proteins, fats, vitamins, minerals, water and fibre in proper amounts.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which nutrient is the body's main source of energy?",
+    "options": [
+      "Carbohydrates",
+      "Vitamins",
+      "Minerals",
+      "Water"
+    ],
+    "correct_index": 0,
+    "solution": "Carbohydrates are the chief and quickest source of energy for the body.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Nutrients needed for the growth and repair of body tissues are __________.",
+    "options": [
+      "proteins",
+      "carbohydrates",
+      "fats",
+      "roughage"
+    ],
+    "correct_index": 0,
+    "solution": "Proteins are the body-building nutrients used for growth and repair.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Vitamins and minerals are called __________ nutrients because they are needed in small amounts.",
+    "options": [
+      "protective",
+      "energy-giving",
+      "body-building",
+      "storage"
+    ],
+    "correct_index": 0,
+    "solution": "Vitamins and minerals protect the body and regulate its functions, needed only in small quantities.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dietary fibre (roughage) in our food helps in __________.",
+    "options": [
+      "the smooth movement of food and prevention of constipation",
+      "supplying energy",
+      "building muscles",
+      "storing fat"
+    ],
+    "correct_index": 0,
+    "solution": "Roughage adds bulk and aids the movement of food through the gut, preventing constipation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A disease caused by the lack of a particular nutrient in the diet is called a __________ disease.",
+    "options": [
+      "deficiency",
+      "communicable",
+      "infectious",
+      "hereditary"
+    ],
+    "correct_index": 0,
+    "solution": "Deficiency diseases result from a prolonged shortage of a specific nutrient.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Scurvy is caused by a deficiency of __________.",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D",
+      "iron"
+    ],
+    "correct_index": 0,
+    "solution": "Scurvy, causing bleeding gums, results from a lack of Vitamin C.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Night blindness is caused by the deficiency of __________.",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K",
+      "calcium"
+    ],
+    "correct_index": 0,
+    "solution": "Vitamin A is needed for vision, especially in dim light; its lack causes night blindness.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rickets, causing weak and bent bones in children, is due to a deficiency of __________.",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "iron",
+      "iodine"
+    ],
+    "correct_index": 0,
+    "solution": "Vitamin D (and calcium) is needed for strong bones; its lack causes rickets.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Anaemia is commonly caused by a deficiency of __________.",
+    "options": [
+      "iron",
+      "iodine",
+      "calcium",
+      "Vitamin C"
+    ],
+    "correct_index": 0,
+    "solution": "Iron is needed to make haemoglobin; its deficiency causes anaemia.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Goitre, a swelling of the neck, is caused by a deficiency of __________.",
+    "options": [
+      "iodine",
+      "iron",
+      "calcium",
+      "Vitamin A"
+    ],
+    "correct_index": 0,
+    "solution": "Iodine is needed by the thyroid gland; its deficiency causes goitre.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Iodine deficiency in the diet is commonly prevented by using __________.",
+    "options": [
+      "iodised salt",
+      "extra sugar",
+      "more oil",
+      "boiled water"
+    ],
+    "correct_index": 0,
+    "solution": "Iodised salt supplies the small amount of iodine needed to prevent goitre.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The mineral needed for strong bones and teeth is __________.",
+    "options": [
+      "calcium",
+      "iron",
+      "iodine",
+      "sodium"
+    ],
+    "correct_index": 0,
+    "solution": "Calcium is essential for the formation and strength of bones and teeth.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Regular physical exercise helps to keep the body __________.",
+    "options": [
+      "fit and healthy",
+      "prone to disease",
+      "weak",
+      "overweight always"
+    ],
+    "correct_index": 0,
+    "solution": "Exercise keeps muscles, heart and lungs strong and the body fit.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Adequate __________ each day is essential for the body and mind to rest and recover.",
+    "options": [
+      "sleep",
+      "junk food",
+      "screen time",
+      "stress"
+    ],
+    "correct_index": 0,
+    "solution": "Sufficient sleep allows the body and brain to rest, repair and function well.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Personal hygiene such as bathing and brushing teeth helps to prevent __________.",
+    "options": [
+      "infections and diseases",
+      "growth",
+      "digestion",
+      "exercise"
+    ],
+    "correct_index": 0,
+    "solution": "Cleanliness removes germs and reduces the risk of infections.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is a harmful habit for health?",
+    "options": [
+      "Consuming tobacco",
+      "Eating fruits",
+      "Drinking clean water",
+      "Regular exercise"
+    ],
+    "correct_index": 0,
+    "solution": "Tobacco is harmful and causes serious diseases; the others are healthy habits.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Tobacco consumption is strongly linked to __________.",
+    "options": [
+      "lung cancer and heart disease",
+      "improved lungs",
+      "better eyesight",
+      "stronger bones"
+    ],
+    "correct_index": 0,
+    "solution": "Tobacco use causes lung cancer, heart disease and many other health problems.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Substances such as alcohol, tobacco and certain drugs that harm the body and can cause dependence are called __________.",
+    "options": [
+      "addictive substances",
+      "nutrients",
+      "vitamins",
+      "vaccines"
+    ],
+    "correct_index": 0,
+    "solution": "These are addictive substances that damage health and lead to dependence.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mental health is as important as physical health because it affects our __________.",
+    "options": [
+      "thoughts, feelings and behaviour",
+      "height only",
+      "hair colour",
+      "blood group"
+    ],
+    "correct_index": 0,
+    "solution": "Mental health influences how we think, feel and behave, and is vital to overall well-being.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A good way to manage stress is to __________.",
+    "options": [
+      "talk to trusted people and stay active",
+      "keep everything bottled up",
+      "skip sleep",
+      "avoid all activity"
+    ],
+    "correct_index": 0,
+    "solution": "Sharing feelings and staying active are healthy ways to cope with stress.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Clean drinking water is important because contaminated water can spread __________.",
+    "options": [
+      "water-borne diseases like cholera",
+      "night blindness",
+      "rickets",
+      "goitre"
+    ],
+    "correct_index": 0,
+    "solution": "Dirty water carries microbes that cause diseases such as cholera and typhoid.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The practice of keeping the surroundings clean to prevent disease is called __________.",
+    "options": [
+      "sanitation",
+      "fermentation",
+      "vaccination",
+      "digestion"
+    ],
+    "correct_index": 0,
+    "solution": "Sanitation — safe disposal of waste and clean surroundings — prevents the spread of disease.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Junk foods are considered unhealthy mainly because they are __________.",
+    "options": [
+      "high in fat, sugar or salt but low in nutrients",
+      "rich in vitamins",
+      "very high in fibre",
+      "free of calories"
+    ],
+    "correct_index": 0,
+    "solution": "Junk foods provide excess fat, sugar or salt with little nutritional value.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Obesity, an excess of body fat, increases the risk of __________.",
+    "options": [
+      "heart disease and diabetes",
+      "night blindness",
+      "scurvy",
+      "goitre"
+    ],
+    "correct_index": 0,
+    "solution": "Being overweight raises the risk of heart disease, diabetes and other conditions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A first-aid measure for a small cut is to __________.",
+    "options": [
+      "clean it and cover with a clean dressing",
+      "leave it dirty",
+      "apply mud",
+      "ignore bleeding"
+    ],
+    "correct_index": 0,
+    "solution": "Cleaning the wound and covering it prevents infection and helps healing.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Immunity gained after recovering from a disease or after vaccination is called __________.",
+    "options": [
+      "acquired immunity",
+      "instant weakness",
+      "malnutrition",
+      "deficiency"
+    ],
+    "correct_index": 0,
+    "solution": "Acquired immunity develops after exposure to a disease or through vaccination.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The condition resulting from a long-term lack of enough nutritious food is called __________.",
+    "options": [
+      "malnutrition",
+      "over-nutrition only",
+      "immunity",
+      "hygiene"
+    ],
+    "correct_index": 0,
+    "solution": "Malnutrition results from insufficient or unbalanced intake of nutrients.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a good source of proteins?",
+    "options": [
+      "Pulses (dal) and eggs",
+      "Sugar",
+      "Butter",
+      "Rice only"
+    ],
+    "correct_index": 0,
+    "solution": "Pulses, eggs, milk and meat are rich in proteins.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which food is a rich source of Vitamin C?",
+    "options": [
+      "Citrus fruits like oranges and amla",
+      "White bread",
+      "Refined oil",
+      "Sugar"
+    ],
+    "correct_index": 0,
+    "solution": "Citrus fruits and amla are rich in Vitamin C, which prevents scurvy.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Washing hands before eating and after using the toilet mainly prevents __________.",
+    "options": [
+      "the spread of germs to food",
+      "loss of appetite",
+      "weight gain",
+      "tooth growth"
+    ],
+    "correct_index": 0,
+    "solution": "Handwashing removes germs that could otherwise enter the body through food.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The excess energy from food not used by the body is stored mainly as __________.",
+    "options": [
+      "fat",
+      "protein",
+      "vitamins",
+      "water"
+    ],
+    "correct_index": 0,
+    "solution": "Surplus energy is stored in the body as fat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following supports good mental health?",
+    "options": [
+      "Positive relationships and hobbies",
+      "Constant stress",
+      "Isolation",
+      "Lack of sleep"
+    ],
+    "correct_index": 0,
+    "solution": "Supportive relationships and enjoyable activities promote good mental health.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Drinking plenty of __________ each day helps the body carry nutrients and remove wastes.",
+    "options": [
+      "water",
+      "soft drinks",
+      "coffee",
+      "oil"
+    ],
+    "correct_index": 0,
+    "solution": "Water is vital for transport of nutrients and removal of body wastes.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Vaccination protects the body by helping it develop __________ against specific diseases.",
+    "options": [
+      "immunity",
+      "deficiency",
+      "allergy",
+      "obesity"
+    ],
+    "correct_index": 0,
+    "solution": "Vaccines stimulate the immune system to build immunity against particular diseases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A balanced meal for a growing child should especially include enough __________ for growth.",
+    "options": [
+      "proteins",
+      "sugar",
+      "salt",
+      "fat only"
+    ],
+    "correct_index": 0,
+    "solution": "Growing children need adequate proteins to build new body tissues.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Regular medical check-ups help in __________.",
+    "options": [
+      "early detection of health problems",
+      "spreading disease",
+      "gaining weight",
+      "avoiding exercise"
+    ],
+    "correct_index": 0,
+    "solution": "Check-ups can detect health problems early, when they are easier to treat.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The main harm of consuming too much salt over time is that it can raise __________.",
+    "options": [
+      "blood pressure",
+      "eyesight",
+      "bone density",
+      "immunity"
+    ],
+    "correct_index": 0,
+    "solution": "Excess salt intake is linked to high blood pressure.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a communicable disease that good hygiene helps prevent?",
+    "options": [
+      "Diarrhoea",
+      "Scurvy",
+      "Rickets",
+      "Anaemia"
+    ],
+    "correct_index": 0,
+    "solution": "Diarrhoea spreads through germs; hygiene helps prevent it, while the others are deficiency diseases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Physical activity in daily life can be increased by __________.",
+    "options": [
+      "walking or cycling instead of always riding",
+      "sitting all day",
+      "avoiding play",
+      "constant screen use"
+    ],
+    "correct_index": 0,
+    "solution": "Choosing to walk, cycle and play increases daily physical activity.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Eating a variety of foods is recommended because __________.",
+    "options": [
+      "no single food supplies all nutrients",
+      "variety looks nice",
+      "it wastes food",
+      "one food is always enough"
+    ],
+    "correct_index": 0,
+    "solution": "Different foods supply different nutrients, so variety ensures a balanced diet.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Second-hand smoke (passive smoking) is harmful because __________.",
+    "options": [
+      "non-smokers nearby also inhale harmful substances",
+      "it is completely safe",
+      "it improves lungs",
+      "only the smoker is affected"
+    ],
+    "correct_index": 0,
+    "solution": "People around a smoker breathe in harmful smoke, which damages their health too.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The best response if a friend offers a harmful substance like tobacco is to __________.",
+    "options": [
+      "say no and seek help from a trusted adult",
+      "try it once",
+      "keep it secret",
+      "share it with others"
+    ],
+    "correct_index": 0,
+    "solution": "Refusing and telling a trusted adult protects one's health and others'.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of these is a sign of good health?",
+    "options": [
+      "Feeling energetic and free of illness",
+      "Constant tiredness",
+      "Frequent infections",
+      "Poor appetite always"
+    ],
+    "correct_index": 0,
+    "solution": "Feeling energetic and rarely falling ill reflects good health.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Overuse of screens can affect health by causing __________.",
+    "options": [
+      "eye strain and reduced physical activity",
+      "stronger eyes",
+      "more exercise",
+      "better sleep"
+    ],
+    "correct_index": 0,
+    "solution": "Too much screen time strains the eyes and reduces time for physical activity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fresh fruits and vegetables are important in the diet because they provide __________.",
+    "options": [
+      "vitamins, minerals and fibre",
+      "only fat",
+      "only protein",
+      "no nutrients"
+    ],
+    "correct_index": 0,
+    "solution": "Fruits and vegetables are rich sources of vitamins, minerals and fibre.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Keeping food covered protects it from __________.",
+    "options": [
+      "flies and contamination",
+      "sunlight only",
+      "cooling",
+      "vitamins"
+    ],
+    "correct_index": 0,
+    "solution": "Covering food keeps flies and germs away, preventing contamination.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A healthy lifestyle overall is a combination of __________.",
+    "options": [
+      "good diet, exercise, hygiene, rest and avoiding harmful habits",
+      "only eating well",
+      "only exercising",
+      "only sleeping"
+    ],
+    "correct_index": 0,
+    "solution": "Health depends on the combination of balanced diet, exercise, hygiene, rest and avoiding harmful habits.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The deficiency disease that causes swelling and fluid retention due to severe protein shortage in children is __________.",
+    "options": [
+      "kwashiorkor",
+      "scurvy",
+      "goitre",
+      "rickets"
+    ],
+    "correct_index": 0,
+    "solution": "Kwashiorkor is a severe protein-deficiency disease seen in children.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Health is best defined as a state of complete:",
+    "options": [
+      "Absence of disease only",
+      "Physical, mental and social well-being",
+      "Physical fitness only",
+      "Wealth"
+    ],
+    "correct_index": 1,
+    "solution": "According to the WHO, health is a state of complete physical, mental and social well-being, not merely the absence of disease or infirmity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 'balanced diet' is one that contains:",
+    "options": [
+      "Only carbohydrates",
+      "All nutrients (carbohydrates, proteins, fats, vitamins, minerals) plus water and fibre in the right amounts",
+      "Only proteins",
+      "Only fruits"
+    ],
+    "correct_index": 1,
+    "solution": "A balanced diet contains all the necessary nutrients — carbohydrates, proteins, fats, vitamins and minerals — along with water and roughage (fibre), in the right proportions for good health.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Carbohydrates and fats are known as ______ foods because they provide energy.",
+    "options": [
+      "body-building",
+      "energy-giving",
+      "protective",
+      "poisonous"
+    ],
+    "correct_index": 1,
+    "solution": "Carbohydrates and fats are energy-giving foods that provide the body with the energy needed for its activities; fats give more energy per gram than carbohydrates.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Proteins are called ______ foods because they help in growth and repair of the body.",
+    "options": [
+      "energy-giving",
+      "body-building",
+      "protective",
+      "fibre"
+    ],
+    "correct_index": 1,
+    "solution": "Proteins are body-building foods needed for the growth, repair and maintenance of body tissues; sources include pulses, milk, eggs, fish and meat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Vitamins and minerals are called ______ foods because they protect the body from diseases.",
+    "options": [
+      "energy-giving",
+      "body-building",
+      "protective",
+      "fatty"
+    ],
+    "correct_index": 2,
+    "solution": "Vitamins and minerals are protective foods that keep the body healthy and protect it from diseases; they are needed in small amounts but are essential.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A deficiency of Vitamin C causes the disease:",
+    "options": [
+      "Scurvy",
+      "Night blindness",
+      "Rickets",
+      "Goitre"
+    ],
+    "correct_index": 0,
+    "solution": "A deficiency of Vitamin C (found in citrus fruits like oranges and amla) causes scurvy, marked by bleeding gums and weakness.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A deficiency of Vitamin A causes:",
+    "options": [
+      "Scurvy",
+      "Night blindness",
+      "Rickets",
+      "Beri-beri"
+    ],
+    "correct_index": 1,
+    "solution": "A deficiency of Vitamin A (found in carrots, milk, green vegetables) causes night blindness and other eye problems.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A deficiency of Vitamin D (needed for calcium absorption) causes:",
+    "options": [
+      "Scurvy",
+      "Rickets (weak bones) in children",
+      "Night blindness",
+      "Goitre"
+    ],
+    "correct_index": 1,
+    "solution": "A deficiency of Vitamin D causes rickets in children (soft, weak and deformed bones); Vitamin D is made in the skin with sunlight and helps absorb calcium.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A deficiency of iron in the diet causes:",
+    "options": [
+      "Goitre",
+      "Anaemia",
+      "Rickets",
+      "Scurvy"
+    ],
+    "correct_index": 1,
+    "solution": "A deficiency of iron causes anaemia, in which there is a shortage of haemoglobin/red blood cells, leading to weakness and tiredness; iron is found in green leafy vegetables and jaggery.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A deficiency of iodine causes the disease:",
+    "options": [
+      "Anaemia",
+      "Goitre (swelling of the thyroid gland)",
+      "Scurvy",
+      "Rickets"
+    ],
+    "correct_index": 1,
+    "solution": "A deficiency of iodine causes goitre (enlargement of the thyroid gland); iodine is added to common salt ('iodised salt') to prevent this deficiency.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Diseases caused by the deficiency of certain nutrients in the diet are called:",
+    "options": [
+      "Infectious diseases",
+      "Deficiency diseases",
+      "Injuries",
+      "Genetic diseases only"
+    ],
+    "correct_index": 1,
+    "solution": "Deficiency diseases (like scurvy, rickets, anaemia and goitre) are caused by a lack of specific nutrients (vitamins or minerals) in the diet, and can be prevented by a balanced diet.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Roughage' (dietary fibre) in food is important because it:",
+    "options": [
+      "Provides energy",
+      "Helps in digestion and the smooth movement of food through the intestines",
+      "Builds muscles",
+      "Is a vitamin"
+    ],
+    "correct_index": 1,
+    "solution": "Roughage (fibre from fruits, vegetables and whole grains) does not provide nutrients but helps in digestion and prevents constipation by aiding the movement of food through the digestive tract.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Water is essential in the diet because it:",
+    "options": [
+      "Provides energy",
+      "Helps in digestion, transport of nutrients, removal of waste and regulating body temperature",
+      "Builds bones",
+      "Is a protein"
+    ],
+    "correct_index": 1,
+    "solution": "Water, though it provides no energy, is essential for digestion, transport of nutrients and oxygen, removal of waste, and regulating body temperature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Diseases that spread from an infected person to a healthy person are called:",
+    "options": [
+      "Non-communicable diseases",
+      "Communicable (infectious) diseases",
+      "Deficiency diseases",
+      "Genetic diseases"
+    ],
+    "correct_index": 1,
+    "solution": "Communicable (infectious) diseases are caused by microorganisms and spread from person to person through air, water, food, contact or vectors — e.g. cold, flu, cholera and tuberculosis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Diseases that do not spread from one person to another are called:",
+    "options": [
+      "Communicable diseases",
+      "Non-communicable diseases",
+      "Infectious diseases",
+      "Contagious diseases"
+    ],
+    "correct_index": 1,
+    "solution": "Non-communicable diseases (like diabetes, heart disease and cancer) do not spread from person to person; they are caused by factors like lifestyle, diet, genetics and the environment.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Personal hygiene, such as washing hands and bathing regularly, helps to:",
+    "options": [
+      "Spread disease",
+      "Prevent the spread of germs and maintain good health",
+      "Reduce health",
+      "Increase illness"
+    ],
+    "correct_index": 1,
+    "solution": "Good personal hygiene — washing hands before eating, bathing, brushing teeth and keeping clean — helps prevent the entry and spread of germs, protecting health.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Regular physical exercise is important for health because it:",
+    "options": [
+      "Weakens the body",
+      "Keeps muscles and the heart strong, improves fitness and mood",
+      "Causes disease",
+      "Has no benefit"
+    ],
+    "correct_index": 1,
+    "solution": "Regular exercise strengthens muscles and the heart, improves blood circulation and fitness, helps control weight, and improves mood and mental health.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Adequate sleep and rest are important because they:",
+    "options": [
+      "Are a waste of time",
+      "Allow the body and mind to recover, repair and stay healthy",
+      "Reduce health",
+      "Cause illness"
+    ],
+    "correct_index": 1,
+    "solution": "Adequate sleep and rest allow the body to repair tissues, restore energy, and keep the mind alert and healthy; lack of sleep can harm both physical and mental health.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The harmful effects of consuming tobacco, alcohol and drugs include:",
+    "options": [
+      "Better health",
+      "Damage to organs, addiction and serious diseases",
+      "Improved memory",
+      "Longer life"
+    ],
+    "correct_index": 1,
+    "solution": "Tobacco, alcohol and drugs are harmful — they damage organs like the lungs, liver and brain, cause addiction, and lead to serious diseases such as cancer and heart disease.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Mental health is an important part of overall health; ways to maintain it include:",
+    "options": [
+      "Ignoring feelings",
+      "Managing stress, sharing feelings, staying active and seeking help when needed",
+      "Avoiding sleep",
+      "Isolation"
+    ],
+    "correct_index": 1,
+    "solution": "Mental health can be maintained by managing stress, sharing feelings with trusted people, staying physically active, maintaining relationships, and seeking help when needed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Vaccination (immunisation) protects health by:",
+    "options": [
+      "Causing disease",
+      "Building immunity against specific diseases",
+      "Weakening the body",
+      "Spreading infection"
+    ],
+    "correct_index": 1,
+    "solution": "Vaccination introduces weakened or dead microbes (or their parts) to trigger the immune system to build protection (immunity) against specific diseases, preventing illness.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about a healthy lifestyle is correct? (i) Eat a balanced diet (ii) Exercise regularly (iii) Maintain hygiene and adequate sleep",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: a healthy lifestyle includes eating a balanced diet, exercising regularly, and maintaining good hygiene and adequate sleep.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Clean drinking water and proper sanitation are important for health because they prevent:",
+    "options": [
+      "Deficiency diseases",
+      "Water-borne diseases like cholera and typhoid",
+      "Genetic diseases",
+      "Injuries"
+    ],
+    "correct_index": 1,
+    "solution": "Access to clean drinking water and proper sanitation prevents water-borne diseases such as cholera, typhoid and diarrhoea, which spread through contaminated water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Junk foods (high in fat, sugar and salt) are unhealthy because they:",
+    "options": [
+      "Provide balanced nutrition",
+      "Lack essential nutrients and can cause obesity and other health problems",
+      "Are the best food",
+      "Prevent all disease"
+    ],
+    "correct_index": 1,
+    "solution": "Junk foods are high in fat, sugar and salt but low in essential nutrients and fibre; eating too much can lead to obesity, diabetes, heart problems and other health issues.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall message about health is that it depends on:",
+    "options": [
+      "Only medicines",
+      "A balanced diet, exercise, hygiene, rest, and avoiding harmful habits",
+      "Only wealth",
+      "Only good luck"
+    ],
+    "correct_index": 1,
+    "solution": "Good health depends on a combination of a balanced diet, regular exercise, personal and community hygiene, adequate rest, mental well-being, vaccination, and avoiding harmful substances.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "'Iodised salt' is recommended for consumption because it:",
+    "options": [
+      "Tastes better",
+      "Provides iodine and prevents goitre",
+      "Has more energy",
+      "Is cheaper"
+    ],
+    "correct_index": 1,
+    "solution": "Iodised salt has iodine added to it; consuming it prevents iodine-deficiency disorders like goitre, which is why its use is widely promoted.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Community health is improved by measures like:",
+    "options": [
+      "Open drains",
+      "Clean surroundings, safe water, sanitation, vaccination drives and awareness",
+      "Littering",
+      "Ignoring hygiene"
+    ],
+    "correct_index": 1,
+    "solution": "Community health improves through clean surroundings, safe drinking water, proper sanitation, vaccination programmes, control of vectors (like mosquitoes), and health awareness among people.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A person eating only rice and no other food is likely to suffer from:",
+    "options": [
+      "A balanced diet",
+      "Deficiency diseases (due to lack of proteins, vitamins and minerals)",
+      "Excellent health",
+      "No problems"
+    ],
+    "correct_index": 1,
+    "solution": "Eating only rice provides mainly carbohydrates but lacks proteins, vitamins and minerals, leading to deficiency diseases and poor health — showing the need for a balanced diet.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a deficiency with its disease? (i) Vitamin C – scurvy (ii) Iron – anaemia (iii) Iodine – goitre",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: a deficiency of Vitamin C causes scurvy, iron deficiency causes anaemia, and iodine deficiency causes goitre.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason to maintain good health is that it enables a person to:",
+    "options": [
+      "Do nothing",
+      "Live an active, productive and happy life",
+      "Fall ill often",
+      "Stay weak"
+    ],
+    "correct_index": 1,
+    "solution": "Good health enables a person to live an active, productive and happy life, to work and study effectively, and to enjoy life — making health one of our most valuable assets.",
+    "difficulty": "medium"
+  }
 ]
