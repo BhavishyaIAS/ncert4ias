@@ -1,52 +1,902 @@
 [
-  {"stem": "All matter is made up of tiny __________ that are too small to be seen.", "options": ["particles", "cells", "shadows", "waves"], "correct_index": 0, "solution": "Matter is composed of extremely small particles.", "difficulty": "easy"},
-  {"stem": "The three common states of matter are __________.", "options": ["solid, liquid and gas", "hard, soft and liquid", "hot, warm and cold", "big, medium and small"], "correct_index": 0, "solution": "Matter commonly exists as solid, liquid and gas.", "difficulty": "easy"},
-  {"stem": "In a solid, the particles are __________.", "options": ["very closely packed and fixed in position", "far apart and free", "moderately spaced", "absent"], "correct_index": 0, "solution": "Solid particles are tightly packed in fixed positions, giving solids a definite shape and volume.", "difficulty": "medium"},
-  {"stem": "A solid has a __________ shape and a __________ volume.", "options": ["definite; definite", "definite; changing", "changing; definite", "changing; changing"], "correct_index": 0, "solution": "Solids have both a definite shape and a definite volume.", "difficulty": "easy"},
-  {"stem": "In a liquid, the particles are __________ than in a solid.", "options": ["slightly farther apart and can move around", "much closer together", "completely fixed", "absent"], "correct_index": 0, "solution": "Liquid particles are a little farther apart and can slide past one another, so liquids flow.", "difficulty": "medium"},
-  {"stem": "A liquid has a definite __________ but takes the shape of its container.", "options": ["volume", "shape", "colour", "mass only"], "correct_index": 0, "solution": "Liquids have a fixed volume but no fixed shape; they take the container's shape.", "difficulty": "easy"},
-  {"stem": "In a gas, the particles are __________.", "options": ["very far apart and move freely and fast", "closely packed", "fixed in position", "arranged in rows"], "correct_index": 0, "solution": "Gas particles are widely separated and move rapidly and randomly, filling any container.", "difficulty": "medium"},
-  {"stem": "A gas has __________ shape and __________ volume.", "options": ["no definite; no definite", "definite; definite", "definite; no definite", "no definite; definite"], "correct_index": 0, "solution": "A gas has neither a definite shape nor a definite volume; it fills its container.", "difficulty": "medium"},
-  {"stem": "Gases can be compressed easily because their particles __________.", "options": ["have large spaces between them", "are very close together", "are fixed", "do not move"], "correct_index": 0, "solution": "The large gaps between gas particles allow gases to be compressed.", "difficulty": "medium"},
-  {"stem": "Solids and liquids are difficult to compress because their particles are __________.", "options": ["already close together", "very far apart", "not moving at all", "made of gas"], "correct_index": 0, "solution": "In solids and liquids the particles are already close, leaving little space to compress.", "difficulty": "medium"},
-  {"stem": "The spreading of a smell across a room shows that particles of matter __________.", "options": ["are in constant motion", "are motionless", "are visible", "cannot mix"], "correct_index": 0, "solution": "The smell spreads because particles move and mix with the air — evidence of particle motion.", "difficulty": "medium"},
-  {"stem": "The intermixing of particles of two substances on their own is called __________.", "options": ["diffusion", "condensation", "melting", "freezing"], "correct_index": 0, "solution": "Diffusion is the spontaneous mixing of particles due to their constant motion.", "difficulty": "medium"},
-  {"stem": "Diffusion is fastest in __________.", "options": ["gases", "liquids", "solids", "it is the same in all"], "correct_index": 0, "solution": "Because gas particles move fastest and are farthest apart, diffusion is quickest in gases.", "difficulty": "medium"},
-  {"stem": "When a crystal of potassium permanganate is dropped in water, the colour spreads through the water, showing __________.", "options": ["diffusion of particles", "the crystal grew", "water disappeared", "a chemical reaction only"], "correct_index": 0, "solution": "The colour spreads by diffusion, as the particles move and mix through the water.", "difficulty": "medium"},
-  {"stem": "The particles of matter are held together by forces of __________.", "options": ["attraction", "repulsion only", "gravity only", "friction"], "correct_index": 0, "solution": "Forces of attraction between particles hold matter together.", "difficulty": "medium"},
-  {"stem": "The force of attraction between particles is strongest in __________.", "options": ["solids", "liquids", "gases", "vacuum"], "correct_index": 0, "solution": "Solids have the strongest interparticle forces, keeping particles fixed.", "difficulty": "medium"},
-  {"stem": "The force of attraction between particles is weakest in __________.", "options": ["gases", "solids", "liquids", "crystals"], "correct_index": 0, "solution": "Gases have the weakest forces between particles, so their particles move freely.", "difficulty": "medium"},
-  {"stem": "The change of a solid directly into a liquid on heating is called __________.", "options": ["melting", "freezing", "evaporation", "condensation"], "correct_index": 0, "solution": "Melting is the change from solid to liquid on heating.", "difficulty": "easy"},
-  {"stem": "The change of a liquid into a solid on cooling is called __________.", "options": ["freezing", "melting", "boiling", "sublimation"], "correct_index": 0, "solution": "Freezing is the change from liquid to solid on cooling.", "difficulty": "easy"},
-  {"stem": "The change of a liquid into a gas is called __________.", "options": ["evaporation / boiling", "melting", "freezing", "condensation"], "correct_index": 0, "solution": "The change from liquid to gas is called evaporation (or boiling at the boiling point).", "difficulty": "easy"},
-  {"stem": "The change of a gas into a liquid on cooling is called __________.", "options": ["condensation", "evaporation", "melting", "sublimation"], "correct_index": 0, "solution": "Condensation is the change from gas to liquid on cooling.", "difficulty": "easy"},
-  {"stem": "Some solids, like camphor, change directly into vapour on heating without becoming liquid; this is called __________.", "options": ["sublimation", "melting", "freezing", "condensation"], "correct_index": 0, "solution": "Sublimation is the direct change of a solid to gas (and vice versa) without a liquid stage.", "difficulty": "hard"},
-  {"stem": "When matter changes from one state to another, the __________ of the particles changes but the particles remain the same.", "options": ["arrangement and movement", "colour", "chemical identity", "number of atoms only"], "correct_index": 0, "solution": "In a change of state, only the arrangement and motion of particles change; the substance is the same.", "difficulty": "medium"},
-  {"stem": "Heating a substance generally makes its particles move __________.", "options": ["faster", "slower", "stop", "backwards only"], "correct_index": 0, "solution": "Heat increases the kinetic energy of particles, so they move faster.", "difficulty": "medium"},
-  {"stem": "Cooling a substance generally makes its particles move __________.", "options": ["slower", "faster", "in all directions faster", "with no change"], "correct_index": 0, "solution": "Cooling reduces particle energy, so they move more slowly and may come closer together.", "difficulty": "medium"},
-  {"stem": "The temperature at which a solid melts is called its __________.", "options": ["melting point", "boiling point", "freezing point of gas", "dew point"], "correct_index": 0, "solution": "The melting point is the temperature at which a solid turns to liquid.", "difficulty": "medium"},
-  {"stem": "The temperature at which a liquid boils is called its __________.", "options": ["boiling point", "melting point", "freezing point", "sublimation point"], "correct_index": 0, "solution": "The boiling point is the temperature at which a liquid rapidly turns to gas.", "difficulty": "medium"},
-  {"stem": "The melting point of ice at normal pressure is __________.", "options": ["0 °C", "100 °C", "37 °C", "-10 °C"], "correct_index": 0, "solution": "Ice melts at 0 °C under normal atmospheric pressure.", "difficulty": "medium"},
-  {"stem": "The boiling point of water at normal pressure is __________.", "options": ["100 °C", "0 °C", "50 °C", "200 °C"], "correct_index": 0, "solution": "Water boils at 100 °C under normal atmospheric pressure.", "difficulty": "medium"},
-  {"stem": "Wet clothes dry even without boiling because of __________.", "options": ["evaporation at room temperature", "freezing", "condensation", "sublimation"], "correct_index": 0, "solution": "Evaporation occurs at all temperatures from the surface of a liquid, drying wet clothes.", "difficulty": "medium"},
-  {"stem": "Evaporation causes __________.", "options": ["cooling", "heating", "freezing of the surroundings only", "no change"], "correct_index": 0, "solution": "Evaporation absorbs heat from the surroundings, producing a cooling effect.", "difficulty": "medium"},
-  {"stem": "Water kept in an earthen pot (matka) stays cool because of __________.", "options": ["evaporation of water through its pores", "freezing", "condensation", "melting"], "correct_index": 0, "solution": "Water seeping through the pores evaporates, taking heat and cooling the water inside.", "difficulty": "hard"},
-  {"stem": "The rate of evaporation increases when the __________ increases.", "options": ["temperature and surface area", "humidity", "pressure only", "particle size"], "correct_index": 0, "solution": "Higher temperature and larger exposed surface increase the rate of evaporation.", "difficulty": "hard"},
-  {"stem": "Evaporation is slower when the surrounding air has high __________.", "options": ["humidity", "temperature", "wind speed", "surface area"], "correct_index": 0, "solution": "High humidity means the air already holds much water vapour, slowing evaporation.", "difficulty": "hard"},
-  {"stem": "The particles that make up matter have empty __________ between them.", "options": ["spaces", "colours", "sounds", "shadows"], "correct_index": 0, "solution": "There are empty spaces between the particles of matter.", "difficulty": "easy"},
-  {"stem": "Sugar dissolving in water and 'disappearing' shows that particles __________.", "options": ["have spaces into which sugar particles fit", "are destroyed", "become gas", "grow larger"], "correct_index": 0, "solution": "The sugar particles occupy the spaces between the water particles, so the volume hardly changes.", "difficulty": "medium"},
-  {"stem": "Which state of matter has the highest kinetic energy of particles at a given temperature?", "options": ["Gas", "Liquid", "Solid", "All the same"], "correct_index": 0, "solution": "Gas particles move fastest and thus have the highest kinetic energy.", "difficulty": "hard"},
-  {"stem": "Which of the following can flow?", "options": ["Liquids and gases", "Only solids", "Only gases", "Only liquids"], "correct_index": 0, "solution": "Both liquids and gases can flow and are together called fluids.", "difficulty": "easy"},
-  {"stem": "Liquids and gases are together called __________.", "options": ["fluids", "solids", "crystals", "metals"], "correct_index": 0, "solution": "Fluids are substances that can flow — liquids and gases.", "difficulty": "medium"},
-  {"stem": "A gas exerts pressure on the walls of its container because its particles __________.", "options": ["collide with the walls", "are fixed", "stick to each other", "do not move"], "correct_index": 0, "solution": "Fast-moving gas particles constantly strike the container walls, exerting pressure.", "difficulty": "hard"},
-  {"stem": "Steam causes more severe burns than boiling water because steam contains extra __________.", "options": ["heat energy from condensation", "cold", "oxygen", "salt"], "correct_index": 0, "solution": "Steam releases additional heat as it condenses on the skin, causing worse burns.", "difficulty": "hard"},
-  {"stem": "When water is heated, the change from ice to water to steam involves __________ of the particles.", "options": ["increasing spacing and movement", "shrinking particles", "colour change", "loss of particles"], "correct_index": 0, "solution": "As water is heated, particles gain energy, move more and spread apart from solid to liquid to gas.", "difficulty": "medium"},
-  {"stem": "The dew seen on grass in the early morning is formed by __________.", "options": ["condensation of water vapour", "evaporation", "melting of ice", "sublimation"], "correct_index": 0, "solution": "Water vapour in the air condenses on cool surfaces at night, forming dew.", "difficulty": "medium"},
-  {"stem": "Naphthalene balls slowly disappear over time because of __________.", "options": ["sublimation", "melting", "freezing", "condensation"], "correct_index": 0, "solution": "Naphthalene sublimes, changing directly from solid to vapour, so the balls shrink over time.", "difficulty": "hard"},
-  {"stem": "The volume occupied by a fixed mass of gas __________ when it is compressed.", "options": ["decreases", "increases", "stays the same", "becomes zero"], "correct_index": 0, "solution": "Compressing a gas pushes its particles closer, reducing its volume.", "difficulty": "medium"},
-  {"stem": "Which of the following best shows that gases have mass?", "options": ["An inflated balloon weighs more than a deflated one", "Gas has no weight", "Gases float away", "Gases are invisible"], "correct_index": 0, "solution": "The inflated balloon is heavier, showing the enclosed gas has mass.", "difficulty": "hard"},
-  {"stem": "The main idea of the particulate nature of matter is that matter is __________.", "options": ["made of moving particles with spaces between them", "continuous and solid throughout", "made of one big piece", "empty"], "correct_index": 0, "solution": "Matter is made of tiny moving particles with spaces between them and forces of attraction.", "difficulty": "easy"},
-  {"stem": "When a gas is cooled enough, it may change into a liquid; this is used to __________.", "options": ["store gases like LPG in liquid form", "make solids float", "increase pressure only", "produce light"], "correct_index": 0, "solution": "Cooling and compressing gases turns them to liquid, as with LPG stored in cylinders.", "difficulty": "hard"},
-  {"stem": "A block of ice and liquid water are the same substance because both are made of __________.", "options": ["water particles", "different particles", "gas only", "salt"], "correct_index": 0, "solution": "Ice and water are the same substance in different states, made of the same water particles.", "difficulty": "medium"},
-  {"stem": "When a balloon is inflated, the gas inside spreads out to fill it because gas particles __________.", "options": ["move freely and fill all the available space", "stay in one corner", "are fixed in position", "attract strongly"], "correct_index": 0, "solution": "Gas particles move freely and spread to occupy the whole container, filling the balloon.", "difficulty": "medium"}
+  {
+    "stem": "All matter is made up of tiny __________ that are too small to be seen.",
+    "options": [
+      "particles",
+      "cells",
+      "shadows",
+      "waves"
+    ],
+    "correct_index": 0,
+    "solution": "Matter is composed of extremely small particles.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The three common states of matter are __________.",
+    "options": [
+      "solid, liquid and gas",
+      "hard, soft and liquid",
+      "hot, warm and cold",
+      "big, medium and small"
+    ],
+    "correct_index": 0,
+    "solution": "Matter commonly exists as solid, liquid and gas.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In a solid, the particles are __________.",
+    "options": [
+      "very closely packed and fixed in position",
+      "far apart and free",
+      "moderately spaced",
+      "absent"
+    ],
+    "correct_index": 0,
+    "solution": "Solid particles are tightly packed in fixed positions, giving solids a definite shape and volume.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A solid has a __________ shape and a __________ volume.",
+    "options": [
+      "definite; definite",
+      "definite; changing",
+      "changing; definite",
+      "changing; changing"
+    ],
+    "correct_index": 0,
+    "solution": "Solids have both a definite shape and a definite volume.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In a liquid, the particles are __________ than in a solid.",
+    "options": [
+      "slightly farther apart and can move around",
+      "much closer together",
+      "completely fixed",
+      "absent"
+    ],
+    "correct_index": 0,
+    "solution": "Liquid particles are a little farther apart and can slide past one another, so liquids flow.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A liquid has a definite __________ but takes the shape of its container.",
+    "options": [
+      "volume",
+      "shape",
+      "colour",
+      "mass only"
+    ],
+    "correct_index": 0,
+    "solution": "Liquids have a fixed volume but no fixed shape; they take the container's shape.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In a gas, the particles are __________.",
+    "options": [
+      "very far apart and move freely and fast",
+      "closely packed",
+      "fixed in position",
+      "arranged in rows"
+    ],
+    "correct_index": 0,
+    "solution": "Gas particles are widely separated and move rapidly and randomly, filling any container.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A gas has __________ shape and __________ volume.",
+    "options": [
+      "no definite; no definite",
+      "definite; definite",
+      "definite; no definite",
+      "no definite; definite"
+    ],
+    "correct_index": 0,
+    "solution": "A gas has neither a definite shape nor a definite volume; it fills its container.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Gases can be compressed easily because their particles __________.",
+    "options": [
+      "have large spaces between them",
+      "are very close together",
+      "are fixed",
+      "do not move"
+    ],
+    "correct_index": 0,
+    "solution": "The large gaps between gas particles allow gases to be compressed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Solids and liquids are difficult to compress because their particles are __________.",
+    "options": [
+      "already close together",
+      "very far apart",
+      "not moving at all",
+      "made of gas"
+    ],
+    "correct_index": 0,
+    "solution": "In solids and liquids the particles are already close, leaving little space to compress.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The spreading of a smell across a room shows that particles of matter __________.",
+    "options": [
+      "are in constant motion",
+      "are motionless",
+      "are visible",
+      "cannot mix"
+    ],
+    "correct_index": 0,
+    "solution": "The smell spreads because particles move and mix with the air — evidence of particle motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The intermixing of particles of two substances on their own is called __________.",
+    "options": [
+      "diffusion",
+      "condensation",
+      "melting",
+      "freezing"
+    ],
+    "correct_index": 0,
+    "solution": "Diffusion is the spontaneous mixing of particles due to their constant motion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Diffusion is fastest in __________.",
+    "options": [
+      "gases",
+      "liquids",
+      "solids",
+      "it is the same in all"
+    ],
+    "correct_index": 0,
+    "solution": "Because gas particles move fastest and are farthest apart, diffusion is quickest in gases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When a crystal of potassium permanganate is dropped in water, the colour spreads through the water, showing __________.",
+    "options": [
+      "diffusion of particles",
+      "the crystal grew",
+      "water disappeared",
+      "a chemical reaction only"
+    ],
+    "correct_index": 0,
+    "solution": "The colour spreads by diffusion, as the particles move and mix through the water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The particles of matter are held together by forces of __________.",
+    "options": [
+      "attraction",
+      "repulsion only",
+      "gravity only",
+      "friction"
+    ],
+    "correct_index": 0,
+    "solution": "Forces of attraction between particles hold matter together.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The force of attraction between particles is strongest in __________.",
+    "options": [
+      "solids",
+      "liquids",
+      "gases",
+      "vacuum"
+    ],
+    "correct_index": 0,
+    "solution": "Solids have the strongest interparticle forces, keeping particles fixed.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The force of attraction between particles is weakest in __________.",
+    "options": [
+      "gases",
+      "solids",
+      "liquids",
+      "crystals"
+    ],
+    "correct_index": 0,
+    "solution": "Gases have the weakest forces between particles, so their particles move freely.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The change of a solid directly into a liquid on heating is called __________.",
+    "options": [
+      "melting",
+      "freezing",
+      "evaporation",
+      "condensation"
+    ],
+    "correct_index": 0,
+    "solution": "Melting is the change from solid to liquid on heating.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The change of a liquid into a solid on cooling is called __________.",
+    "options": [
+      "freezing",
+      "melting",
+      "boiling",
+      "sublimation"
+    ],
+    "correct_index": 0,
+    "solution": "Freezing is the change from liquid to solid on cooling.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The change of a liquid into a gas is called __________.",
+    "options": [
+      "evaporation / boiling",
+      "melting",
+      "freezing",
+      "condensation"
+    ],
+    "correct_index": 0,
+    "solution": "The change from liquid to gas is called evaporation (or boiling at the boiling point).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The change of a gas into a liquid on cooling is called __________.",
+    "options": [
+      "condensation",
+      "evaporation",
+      "melting",
+      "sublimation"
+    ],
+    "correct_index": 0,
+    "solution": "Condensation is the change from gas to liquid on cooling.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Some solids, like camphor, change directly into vapour on heating without becoming liquid; this is called __________.",
+    "options": [
+      "sublimation",
+      "melting",
+      "freezing",
+      "condensation"
+    ],
+    "correct_index": 0,
+    "solution": "Sublimation is the direct change of a solid to gas (and vice versa) without a liquid stage.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When matter changes from one state to another, the __________ of the particles changes but the particles remain the same.",
+    "options": [
+      "arrangement and movement",
+      "colour",
+      "chemical identity",
+      "number of atoms only"
+    ],
+    "correct_index": 0,
+    "solution": "In a change of state, only the arrangement and motion of particles change; the substance is the same.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Heating a substance generally makes its particles move __________.",
+    "options": [
+      "faster",
+      "slower",
+      "stop",
+      "backwards only"
+    ],
+    "correct_index": 0,
+    "solution": "Heat increases the kinetic energy of particles, so they move faster.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Cooling a substance generally makes its particles move __________.",
+    "options": [
+      "slower",
+      "faster",
+      "in all directions faster",
+      "with no change"
+    ],
+    "correct_index": 0,
+    "solution": "Cooling reduces particle energy, so they move more slowly and may come closer together.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperature at which a solid melts is called its __________.",
+    "options": [
+      "melting point",
+      "boiling point",
+      "freezing point of gas",
+      "dew point"
+    ],
+    "correct_index": 0,
+    "solution": "The melting point is the temperature at which a solid turns to liquid.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperature at which a liquid boils is called its __________.",
+    "options": [
+      "boiling point",
+      "melting point",
+      "freezing point",
+      "sublimation point"
+    ],
+    "correct_index": 0,
+    "solution": "The boiling point is the temperature at which a liquid rapidly turns to gas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The melting point of ice at normal pressure is __________.",
+    "options": [
+      "0 °C",
+      "100 °C",
+      "37 °C",
+      "-10 °C"
+    ],
+    "correct_index": 0,
+    "solution": "Ice melts at 0 °C under normal atmospheric pressure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The boiling point of water at normal pressure is __________.",
+    "options": [
+      "100 °C",
+      "0 °C",
+      "50 °C",
+      "200 °C"
+    ],
+    "correct_index": 0,
+    "solution": "Water boils at 100 °C under normal atmospheric pressure.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wet clothes dry even without boiling because of __________.",
+    "options": [
+      "evaporation at room temperature",
+      "freezing",
+      "condensation",
+      "sublimation"
+    ],
+    "correct_index": 0,
+    "solution": "Evaporation occurs at all temperatures from the surface of a liquid, drying wet clothes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Evaporation causes __________.",
+    "options": [
+      "cooling",
+      "heating",
+      "freezing of the surroundings only",
+      "no change"
+    ],
+    "correct_index": 0,
+    "solution": "Evaporation absorbs heat from the surroundings, producing a cooling effect.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Water kept in an earthen pot (matka) stays cool because of __________.",
+    "options": [
+      "evaporation of water through its pores",
+      "freezing",
+      "condensation",
+      "melting"
+    ],
+    "correct_index": 0,
+    "solution": "Water seeping through the pores evaporates, taking heat and cooling the water inside.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The rate of evaporation increases when the __________ increases.",
+    "options": [
+      "temperature and surface area",
+      "humidity",
+      "pressure only",
+      "particle size"
+    ],
+    "correct_index": 0,
+    "solution": "Higher temperature and larger exposed surface increase the rate of evaporation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Evaporation is slower when the surrounding air has high __________.",
+    "options": [
+      "humidity",
+      "temperature",
+      "wind speed",
+      "surface area"
+    ],
+    "correct_index": 0,
+    "solution": "High humidity means the air already holds much water vapour, slowing evaporation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The particles that make up matter have empty __________ between them.",
+    "options": [
+      "spaces",
+      "colours",
+      "sounds",
+      "shadows"
+    ],
+    "correct_index": 0,
+    "solution": "There are empty spaces between the particles of matter.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Sugar dissolving in water and 'disappearing' shows that particles __________.",
+    "options": [
+      "have spaces into which sugar particles fit",
+      "are destroyed",
+      "become gas",
+      "grow larger"
+    ],
+    "correct_index": 0,
+    "solution": "The sugar particles occupy the spaces between the water particles, so the volume hardly changes.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which state of matter has the highest kinetic energy of particles at a given temperature?",
+    "options": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "All the same"
+    ],
+    "correct_index": 0,
+    "solution": "Gas particles move fastest and thus have the highest kinetic energy.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following can flow?",
+    "options": [
+      "Liquids and gases",
+      "Only solids",
+      "Only gases",
+      "Only liquids"
+    ],
+    "correct_index": 0,
+    "solution": "Both liquids and gases can flow and are together called fluids.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Liquids and gases are together called __________.",
+    "options": [
+      "fluids",
+      "solids",
+      "crystals",
+      "metals"
+    ],
+    "correct_index": 0,
+    "solution": "Fluids are substances that can flow — liquids and gases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A gas exerts pressure on the walls of its container because its particles __________.",
+    "options": [
+      "collide with the walls",
+      "are fixed",
+      "stick to each other",
+      "do not move"
+    ],
+    "correct_index": 0,
+    "solution": "Fast-moving gas particles constantly strike the container walls, exerting pressure.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Steam causes more severe burns than boiling water because steam contains extra __________.",
+    "options": [
+      "heat energy from condensation",
+      "cold",
+      "oxygen",
+      "salt"
+    ],
+    "correct_index": 0,
+    "solution": "Steam releases additional heat as it condenses on the skin, causing worse burns.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When water is heated, the change from ice to water to steam involves __________ of the particles.",
+    "options": [
+      "increasing spacing and movement",
+      "shrinking particles",
+      "colour change",
+      "loss of particles"
+    ],
+    "correct_index": 0,
+    "solution": "As water is heated, particles gain energy, move more and spread apart from solid to liquid to gas.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The dew seen on grass in the early morning is formed by __________.",
+    "options": [
+      "condensation of water vapour",
+      "evaporation",
+      "melting of ice",
+      "sublimation"
+    ],
+    "correct_index": 0,
+    "solution": "Water vapour in the air condenses on cool surfaces at night, forming dew.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Naphthalene balls slowly disappear over time because of __________.",
+    "options": [
+      "sublimation",
+      "melting",
+      "freezing",
+      "condensation"
+    ],
+    "correct_index": 0,
+    "solution": "Naphthalene sublimes, changing directly from solid to vapour, so the balls shrink over time.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The volume occupied by a fixed mass of gas __________ when it is compressed.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "becomes zero"
+    ],
+    "correct_index": 0,
+    "solution": "Compressing a gas pushes its particles closer, reducing its volume.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following best shows that gases have mass?",
+    "options": [
+      "An inflated balloon weighs more than a deflated one",
+      "Gas has no weight",
+      "Gases float away",
+      "Gases are invisible"
+    ],
+    "correct_index": 0,
+    "solution": "The inflated balloon is heavier, showing the enclosed gas has mass.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The main idea of the particulate nature of matter is that matter is __________.",
+    "options": [
+      "made of moving particles with spaces between them",
+      "continuous and solid throughout",
+      "made of one big piece",
+      "empty"
+    ],
+    "correct_index": 0,
+    "solution": "Matter is made of tiny moving particles with spaces between them and forces of attraction.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "When a gas is cooled enough, it may change into a liquid; this is used to __________.",
+    "options": [
+      "store gases like LPG in liquid form",
+      "make solids float",
+      "increase pressure only",
+      "produce light"
+    ],
+    "correct_index": 0,
+    "solution": "Cooling and compressing gases turns them to liquid, as with LPG stored in cylinders.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A block of ice and liquid water are the same substance because both are made of __________.",
+    "options": [
+      "water particles",
+      "different particles",
+      "gas only",
+      "salt"
+    ],
+    "correct_index": 0,
+    "solution": "Ice and water are the same substance in different states, made of the same water particles.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When a balloon is inflated, the gas inside spreads out to fill it because gas particles __________.",
+    "options": [
+      "move freely and fill all the available space",
+      "stay in one corner",
+      "are fixed in position",
+      "attract strongly"
+    ],
+    "correct_index": 0,
+    "solution": "Gas particles move freely and spread to occupy the whole container, filling the balloon.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Everything around us that has mass and occupies space is called:",
+    "options": [
+      "Energy",
+      "Matter",
+      "Force",
+      "Light"
+    ],
+    "correct_index": 1,
+    "solution": "Matter is anything that has mass and occupies space (has volume); everything around us — solids, liquids and gases — is made of matter.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Matter is made up of tiny particles that are too small to be seen; this is the ______ nature of matter.",
+    "options": [
+      "continuous",
+      "particulate",
+      "liquid",
+      "gaseous"
+    ],
+    "correct_index": 1,
+    "solution": "The particulate nature of matter is the idea that all matter is made up of extremely tiny particles (atoms and molecules) that cannot be seen with the naked eye.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three states of matter are solid, liquid and:",
+    "options": [
+      "Plasma only",
+      "Gas",
+      "Energy",
+      "Light"
+    ],
+    "correct_index": 1,
+    "solution": "The three common states of matter are solid, liquid and gas; they differ in the arrangement and movement of their particles.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In a solid, the particles are:",
+    "options": [
+      "Far apart and free to move",
+      "Closely packed in a fixed arrangement, vibrating in place",
+      "Widely spaced",
+      "Non-existent"
+    ],
+    "correct_index": 1,
+    "solution": "In solids, the particles are closely packed in a regular, fixed arrangement with strong forces between them; they can only vibrate about fixed positions, giving solids a definite shape and volume.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a gas, the particles are:",
+    "options": [
+      "Closely packed",
+      "Far apart and move about freely and randomly",
+      "Fixed in place",
+      "Arranged in a pattern"
+    ],
+    "correct_index": 1,
+    "solution": "In gases, the particles are far apart and move about freely and randomly at high speed, with very weak forces between them; gases have no fixed shape or volume.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which state of matter has a definite volume but takes the shape of its container?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "correct_index": 1,
+    "solution": "A liquid has a definite volume but no definite shape — it takes the shape of the container it is poured into, because its particles can move around but stay close together.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The process by which particles of matter intermix on their own is called:",
+    "options": [
+      "Evaporation",
+      "Diffusion",
+      "Condensation",
+      "Freezing"
+    ],
+    "correct_index": 1,
+    "solution": "Diffusion is the process by which the particles of two substances mix with each other on their own due to their constant random movement — e.g. the smell of perfume spreading in a room.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Diffusion is fastest in ______ because their particles move most freely.",
+    "options": [
+      "solids",
+      "liquids",
+      "gases",
+      "crystals"
+    ],
+    "correct_index": 2,
+    "solution": "Diffusion is fastest in gases because their particles are far apart and move very fast and freely; it is slower in liquids and slowest (almost negligible) in solids.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The fact that we can smell food cooking from a distance is evidence of:",
+    "options": [
+      "Matter being continuous",
+      "The particulate nature of matter (particles diffusing through air)",
+      "Matter having no particles",
+      "Light travelling"
+    ],
+    "correct_index": 1,
+    "solution": "Smelling food from a distance shows that tiny particles of matter (from the food) diffuse through the air and reach our nose — evidence of the particulate nature of matter and diffusion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When sugar dissolves in water and disappears from view, but the water tastes sweet, it shows that:",
+    "options": [
+      "Sugar is destroyed",
+      "Matter is made of tiny particles that spread among the water particles",
+      "Water changes to sugar",
+      "Nothing happens"
+    ],
+    "correct_index": 1,
+    "solution": "When sugar dissolves, its tiny particles spread out and fit into the spaces between the water particles, so it becomes invisible but the water tastes sweet — evidence of particles of matter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The particles of matter are constantly:",
+    "options": [
+      "Still",
+      "In motion (they have kinetic energy)",
+      "Frozen",
+      "Disappearing"
+    ],
+    "correct_index": 1,
+    "solution": "The particles of matter are continuously in motion; they possess kinetic energy, which increases with temperature, causing them to move faster.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "On increasing the temperature, the movement (kinetic energy) of the particles of matter:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Stays the same",
+      "Stops"
+    ],
+    "correct_index": 1,
+    "solution": "On heating, the particles of matter gain energy and move faster (their kinetic energy increases); this can cause changes of state, like melting or boiling.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The change of a solid directly into a gas without becoming a liquid is called:",
+    "options": [
+      "Melting",
+      "Sublimation",
+      "Condensation",
+      "Freezing"
+    ],
+    "correct_index": 1,
+    "solution": "Sublimation is the change of a solid directly into a gas (vapour) without passing through the liquid state — e.g. camphor, naphthalene balls and dry ice sublime.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The change of a liquid into a gas (vapour) at any temperature from the surface is called:",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Freezing",
+      "Melting"
+    ],
+    "correct_index": 1,
+    "solution": "Evaporation is the change of a liquid into vapour that occurs from the surface at any temperature (below the boiling point); it causes cooling.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The change of a gas into a liquid on cooling is called:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Melting"
+    ],
+    "correct_index": 1,
+    "solution": "Condensation is the change of a gas (vapour) into a liquid on cooling — e.g. water vapour condensing into dew or the water droplets on a cold glass.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When matter changes from one state to another (e.g. solid to liquid), it is a:",
+    "options": [
+      "Chemical change",
+      "Physical change",
+      "New substance",
+      "Irreversible change"
+    ],
+    "correct_index": 1,
+    "solution": "A change of state (solid ↔ liquid ↔ gas) is a physical change — no new substance is formed, only the arrangement and energy of the particles change, and it is reversible.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The spaces between particles are ______ in solids and ______ in gases.",
+    "options": [
+      "large; small",
+      "very small; large",
+      "the same; the same",
+      "zero; zero"
+    ],
+    "correct_index": 1,
+    "solution": "The spaces (gaps) between particles are very small in solids (tightly packed) and large in gases (particles far apart), with liquids in between.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Solids have a definite shape and volume because their particles are:",
+    "options": [
+      "Far apart",
+      "Held tightly in fixed positions by strong forces",
+      "Freely moving",
+      "Non-existent"
+    ],
+    "correct_index": 1,
+    "solution": "Solids have a definite shape and volume because their tightly packed particles are held in fixed positions by strong intermolecular forces, so they cannot move freely.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Gases can be compressed easily because:",
+    "options": [
+      "Their particles are tightly packed",
+      "There are large spaces between their particles",
+      "They have no particles",
+      "They are solids"
+    ],
+    "correct_index": 1,
+    "solution": "Gases can be compressed easily because there are large spaces between their particles, which can be pushed closer together when pressure is applied.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about the particulate nature of matter is correct? (i) Matter is made of tiny particles (ii) Particles are in constant motion (iii) There are spaces between particles",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct postulates of the particulate nature of matter: matter is made of tiny particles, the particles are in constant motion, and there are spaces between them.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The rate of diffusion increases with:",
+    "options": [
+      "Decreasing temperature",
+      "Increasing temperature",
+      "No relation to temperature",
+      "Freezing"
+    ],
+    "correct_index": 1,
+    "solution": "The rate of diffusion increases with increasing temperature, because the particles gain energy and move faster, mixing more quickly.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A crystal of potassium permanganate placed in water spreads its colour throughout, showing:",
+    "options": [
+      "Water has no particles",
+      "Diffusion and the particulate nature of matter",
+      "The crystal disappears magically",
+      "No mixing"
+    ],
+    "correct_index": 1,
+    "solution": "When potassium permanganate crystals are placed in water, their purple colour spreads throughout — showing that the tiny particles diffuse and mix with the water particles (particulate nature of matter).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reason we can walk through air but not through a wall is that:",
+    "options": [
+      "Air has no particles",
+      "The particles in a gas (air) are far apart, while in a solid (wall) they are tightly packed",
+      "Both have the same particles",
+      "Walls have no particles"
+    ],
+    "correct_index": 1,
+    "solution": "We can move through air because its particles are far apart with large gaps, but not through a wall because the particles in a solid are very tightly packed with strong forces holding them together.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The state of matter in which particles have the highest kinetic energy is:",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "All are equal"
+    ],
+    "correct_index": 2,
+    "solution": "Particles in the gaseous state have the highest kinetic energy — they move fastest and most freely — followed by liquids and then solids (lowest).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall importance of understanding the particulate nature of matter is that it explains:",
+    "options": [
+      "Nothing",
+      "The properties of solids, liquids and gases, and processes like diffusion and changes of state",
+      "Only colours",
+      "Only weight"
+    ],
+    "correct_index": 1,
+    "solution": "The particulate nature of matter explains the properties and behaviour of solids, liquids and gases, and everyday processes like diffusion, dissolving, evaporation and changes of state.",
+    "difficulty": "medium"
+  }
 ]

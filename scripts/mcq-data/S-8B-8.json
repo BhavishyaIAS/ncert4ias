@@ -1,52 +1,878 @@
 [
-  {"stem": "A pure substance made of only one kind of atom is called an __________.", "options": ["element", "compound", "mixture", "solution"], "correct_index": 0, "solution": "An element is a pure substance made up of only one kind of atom.", "difficulty": "easy"},
-  {"stem": "Which of the following is an element?", "options": ["Oxygen", "Water", "Salt solution", "Air"], "correct_index": 0, "solution": "Oxygen is an element; water and salt solution are compounds/mixtures and air is a mixture.", "difficulty": "easy"},
-  {"stem": "Elements are broadly classified as metals, non-metals and __________.", "options": ["metalloids", "compounds", "mixtures", "solutions"], "correct_index": 0, "solution": "Elements are grouped as metals, non-metals and metalloids.", "difficulty": "medium"},
-  {"stem": "A substance formed by the chemical combination of two or more elements in a fixed ratio is a __________.", "options": ["compound", "mixture", "element", "solution"], "correct_index": 0, "solution": "A compound is formed when elements combine chemically in a fixed proportion.", "difficulty": "medium"},
-  {"stem": "Water is a compound made of the elements __________.", "options": ["hydrogen and oxygen", "hydrogen and nitrogen", "oxygen and carbon", "sodium and chlorine"], "correct_index": 0, "solution": "Water (H₂O) is a compound of hydrogen and oxygen.", "difficulty": "easy"},
-  {"stem": "Common salt is a compound of the elements __________.", "options": ["sodium and chlorine", "sodium and oxygen", "carbon and hydrogen", "hydrogen and chlorine"], "correct_index": 0, "solution": "Common salt (sodium chloride, NaCl) is made of sodium and chlorine.", "difficulty": "medium"},
-  {"stem": "The properties of a compound are __________ those of its constituent elements.", "options": ["completely different from", "the same as", "the average of", "unrelated to any element"], "correct_index": 0, "solution": "A compound has new properties, different from those of the elements that formed it.", "difficulty": "medium"},
-  {"stem": "A material made of two or more substances mixed physically, not chemically, is a __________.", "options": ["mixture", "compound", "element", "pure substance"], "correct_index": 0, "solution": "A mixture is a physical combination of substances that keep their own properties.", "difficulty": "easy"},
-  {"stem": "In a mixture, the components __________.", "options": ["retain their own properties", "form a new substance", "combine in a fixed ratio", "cannot be separated"], "correct_index": 0, "solution": "The components of a mixture keep their individual properties and can be separated.", "difficulty": "medium"},
-  {"stem": "A mixture in which the composition is uniform throughout is called a __________ mixture.", "options": ["homogeneous", "heterogeneous", "compound", "pure"], "correct_index": 0, "solution": "A homogeneous mixture has the same composition throughout, like sugar dissolved in water.", "difficulty": "medium"},
-  {"stem": "A mixture in which the components are not uniformly distributed is called a __________ mixture.", "options": ["heterogeneous", "homogeneous", "pure", "compound"], "correct_index": 0, "solution": "A heterogeneous mixture has an uneven composition, like sand mixed with iron filings.", "difficulty": "medium"},
-  {"stem": "Air is an example of a __________.", "options": ["mixture", "compound", "element", "pure substance"], "correct_index": 0, "solution": "Air is a homogeneous mixture of gases such as nitrogen and oxygen.", "difficulty": "easy"},
-  {"stem": "A mixture of iron filings and sulphur can be separated using a __________.", "options": ["magnet", "filter paper", "thermometer", "balance"], "correct_index": 0, "solution": "Iron is magnetic, so a magnet separates the iron filings from the sulphur.", "difficulty": "medium"},
-  {"stem": "A mixture of sand and water can be separated by __________.", "options": ["filtration", "using a magnet", "distillation only", "heating strongly"], "correct_index": 0, "solution": "Filtration separates insoluble sand from water.", "difficulty": "easy"},
-  {"stem": "Salt can be recovered from salt solution by __________.", "options": ["evaporation", "filtration", "using a magnet", "sieving"], "correct_index": 0, "solution": "Evaporating the water leaves the dissolved salt behind.", "difficulty": "medium"},
-  {"stem": "A solution consists of a __________ dissolved in a solvent.", "options": ["solute", "filter", "magnet", "sieve"], "correct_index": 0, "solution": "A solution is made of a solute dissolved in a solvent.", "difficulty": "easy"},
-  {"stem": "In sugar solution, the solvent is __________.", "options": ["water", "sugar", "salt", "air"], "correct_index": 0, "solution": "In sugar solution, water is the solvent and sugar is the solute.", "difficulty": "easy"},
-  {"stem": "The smallest particle of an element that can take part in a chemical reaction is an __________.", "options": ["atom", "molecule of a compound", "mixture", "crystal"], "correct_index": 0, "solution": "An atom is the smallest particle of an element that participates in reactions.", "difficulty": "medium"},
-  {"stem": "Two or more atoms joined together form a __________.", "options": ["molecule", "mixture", "element only", "crystal grain"], "correct_index": 0, "solution": "A molecule is formed when two or more atoms combine.", "difficulty": "medium"},
-  {"stem": "The symbol 'O' stands for the element __________.", "options": ["oxygen", "gold", "osmium only", "carbon"], "correct_index": 0, "solution": "O is the chemical symbol for oxygen.", "difficulty": "easy"},
-  {"stem": "The chemical symbol for the element gold is __________.", "options": ["Au", "Gd", "Go", "Ag"], "correct_index": 0, "solution": "The symbol for gold is Au (from its Latin name aurum).", "difficulty": "hard"},
-  {"stem": "The chemical formula of carbon dioxide is __________.", "options": ["CO₂", "CO", "C₂O", "O₂C"], "correct_index": 0, "solution": "Carbon dioxide has the formula CO₂ — one carbon and two oxygen atoms.", "difficulty": "medium"},
-  {"stem": "Which of the following is a compound?", "options": ["Carbon dioxide", "Oxygen", "Iron", "Copper"], "correct_index": 0, "solution": "Carbon dioxide is a compound; the others are elements.", "difficulty": "easy"},
-  {"stem": "Which of the following is a mixture?", "options": ["Sea water", "Pure water", "Sodium chloride", "Oxygen"], "correct_index": 0, "solution": "Sea water is a mixture of water and dissolved salts; the others are pure substances.", "difficulty": "medium"},
-  {"stem": "The components of a compound can be separated only by __________ methods.", "options": ["chemical", "physical", "magnetic", "sieving"], "correct_index": 0, "solution": "Elements in a compound are chemically bonded and can be separated only by chemical means.", "difficulty": "hard"},
-  {"stem": "The components of a mixture can usually be separated by __________ methods.", "options": ["physical", "chemical", "nuclear", "no"], "correct_index": 0, "solution": "Mixtures can be separated by physical methods like filtration, evaporation and using a magnet.", "difficulty": "medium"},
-  {"stem": "Sublimation can be used to separate a mixture of common salt and __________.", "options": ["ammonium chloride (a subliming solid)", "sand", "iron", "sugar"], "correct_index": 0, "solution": "Ammonium chloride sublimes on heating, separating it from salt that does not.", "difficulty": "hard"},
-  {"stem": "The process used to separate two miscible liquids with different boiling points is __________.", "options": ["distillation", "filtration", "sieving", "using a magnet"], "correct_index": 0, "solution": "Distillation separates miscible liquids by exploiting their different boiling points.", "difficulty": "hard"},
-  {"stem": "The process of separating lighter husk from heavier grain using wind is called __________.", "options": ["winnowing", "filtration", "distillation", "evaporation"], "correct_index": 0, "solution": "Winnowing uses wind to blow away the lighter husk, separating it from grain.", "difficulty": "medium"},
-  {"stem": "Separating cream from milk using a spinning machine uses the process of __________.", "options": ["centrifugation", "filtration", "sublimation", "condensation"], "correct_index": 0, "solution": "Centrifugation spins the mixture so that denser and lighter components separate.", "difficulty": "hard"},
-  {"stem": "The colours in black ink can be separated by __________.", "options": ["chromatography", "filtration", "using a magnet", "sieving"], "correct_index": 0, "solution": "Chromatography separates dissolved substances (like ink dyes) based on how they move on paper.", "difficulty": "hard"},
-  {"stem": "Which of the following is a pure substance?", "options": ["Distilled water", "Muddy water", "Air", "Milk"], "correct_index": 0, "solution": "Distilled water is a pure compound; the others are mixtures.", "difficulty": "medium"},
-  {"stem": "An alloy such as brass is best described as a __________.", "options": ["mixture of metals", "single element", "compound of a fixed ratio", "non-metal"], "correct_index": 0, "solution": "An alloy is a mixture of metals (brass is copper and zinc).", "difficulty": "hard"},
-  {"stem": "A metalloid shows properties of __________.", "options": ["both metals and non-metals", "only metals", "only non-metals", "neither"], "correct_index": 0, "solution": "Metalloids, like silicon, have some properties of metals and some of non-metals.", "difficulty": "hard"},
-  {"stem": "In a compound, the elements are always combined in a __________ ratio by mass.", "options": ["fixed", "variable", "random", "changing"], "correct_index": 0, "solution": "A compound has a fixed ratio of its constituent elements by mass.", "difficulty": "medium"},
-  {"stem": "In a mixture, the substances can be present in __________ proportions.", "options": ["any (variable)", "one fixed", "no", "equal only"], "correct_index": 0, "solution": "Mixtures can have their components in any proportion.", "difficulty": "medium"},
-  {"stem": "Which of the following is a homogeneous mixture?", "options": ["Sugar dissolved in water", "Sand and iron filings", "Oil and water", "Salad"], "correct_index": 0, "solution": "Sugar solution is uniform throughout — a homogeneous mixture.", "difficulty": "medium"},
-  {"stem": "Which of the following is a heterogeneous mixture?", "options": ["A mixture of oil and water", "Salt solution", "Sugar solution", "Air"], "correct_index": 0, "solution": "Oil and water do not mix uniformly, forming a heterogeneous mixture.", "difficulty": "medium"},
-  {"stem": "Rusting of iron forms a new substance (rust), showing it is a __________.", "options": ["chemical change forming a compound", "physical change", "mixture", "an element"], "correct_index": 0, "solution": "Rust (iron oxide) is a new compound formed by a chemical change.", "difficulty": "medium"},
-  {"stem": "The number of naturally occurring elements is a little over __________.", "options": ["90", "10", "500", "1000"], "correct_index": 0, "solution": "There are a little over 90 naturally occurring elements.", "difficulty": "hard"},
-  {"stem": "Which of the following is the correct chemical symbol for sodium?", "options": ["Na", "So", "Sd", "S"], "correct_index": 0, "solution": "Na is the symbol for sodium (from Latin natrium).", "difficulty": "medium"},
-  {"stem": "Milk is best described as a __________.", "options": ["mixture (colloid)", "pure compound", "single element", "metalloid"], "correct_index": 0, "solution": "Milk is a mixture (a colloid) of fat, water, proteins and other substances.", "difficulty": "hard"},
-  {"stem": "The separation of a solid dissolved in a liquid by first heating to vapour and then cooling the vapour is called __________.", "options": ["distillation", "filtration", "winnowing", "sublimation"], "correct_index": 0, "solution": "Distillation vaporises the liquid and condenses it back, leaving the dissolved solid behind.", "difficulty": "hard"},
-  {"stem": "Which of these can be separated using filtration?", "options": ["Chalk powder from water", "Salt from salt solution", "Two miscible liquids", "Nitrogen from air"], "correct_index": 0, "solution": "Insoluble chalk powder can be filtered out of water.", "difficulty": "medium"},
-  {"stem": "A substance that cannot be broken down into simpler substances by any chemical method is an __________.", "options": ["element", "compound", "mixture", "alloy"], "correct_index": 0, "solution": "Elements are the simplest substances and cannot be broken down chemically.", "difficulty": "medium"},
-  {"stem": "The energy change in the formation of a compound from its elements shows that __________.", "options": ["a chemical reaction has taken place", "only mixing occurred", "no change happened", "the elements were destroyed"], "correct_index": 0, "solution": "Energy is often absorbed or released when a compound forms, indicating a chemical reaction.", "difficulty": "hard"},
-  {"stem": "Brass, bronze and steel are examples of __________.", "options": ["alloys (mixtures)", "elements", "pure compounds", "non-metals"], "correct_index": 0, "solution": "These are alloys — mixtures of metals with improved properties.", "difficulty": "medium"},
-  {"stem": "The main difference between a compound and a mixture is that a compound has a __________.", "options": ["fixed composition and new properties", "variable composition", "no properties", "physical bond only"], "correct_index": 0, "solution": "A compound has a fixed composition and new properties, unlike a mixture.", "difficulty": "medium"},
-  {"stem": "Which of the following methods would best separate coloured pigments in a leaf extract?", "options": ["Chromatography", "Filtration", "Magnetic separation", "Winnowing"], "correct_index": 0, "solution": "Chromatography separates the different coloured pigments dissolved in the extract.", "difficulty": "hard"},
-  {"stem": "The most fundamental idea of this chapter is that matter can be classified as __________.", "options": ["elements, compounds and mixtures", "only solids and liquids", "only pure substances", "only mixtures"], "correct_index": 0, "solution": "Matter is classified into elements, compounds and mixtures based on its composition.", "difficulty": "easy"}
+  {
+    "stem": "A pure substance made of only one kind of atom is called an __________.",
+    "options": [
+      "element",
+      "compound",
+      "mixture",
+      "solution"
+    ],
+    "correct_index": 0,
+    "solution": "An element is a pure substance made up of only one kind of atom.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is an element?",
+    "options": [
+      "Oxygen",
+      "Water",
+      "Salt solution",
+      "Air"
+    ],
+    "correct_index": 0,
+    "solution": "Oxygen is an element; water and salt solution are compounds/mixtures and air is a mixture.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Elements are broadly classified as metals, non-metals and __________.",
+    "options": [
+      "metalloids",
+      "compounds",
+      "mixtures",
+      "solutions"
+    ],
+    "correct_index": 0,
+    "solution": "Elements are grouped as metals, non-metals and metalloids.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A substance formed by the chemical combination of two or more elements in a fixed ratio is a __________.",
+    "options": [
+      "compound",
+      "mixture",
+      "element",
+      "solution"
+    ],
+    "correct_index": 0,
+    "solution": "A compound is formed when elements combine chemically in a fixed proportion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Water is a compound made of the elements __________.",
+    "options": [
+      "hydrogen and oxygen",
+      "hydrogen and nitrogen",
+      "oxygen and carbon",
+      "sodium and chlorine"
+    ],
+    "correct_index": 0,
+    "solution": "Water (H₂O) is a compound of hydrogen and oxygen.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Common salt is a compound of the elements __________.",
+    "options": [
+      "sodium and chlorine",
+      "sodium and oxygen",
+      "carbon and hydrogen",
+      "hydrogen and chlorine"
+    ],
+    "correct_index": 0,
+    "solution": "Common salt (sodium chloride, NaCl) is made of sodium and chlorine.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The properties of a compound are __________ those of its constituent elements.",
+    "options": [
+      "completely different from",
+      "the same as",
+      "the average of",
+      "unrelated to any element"
+    ],
+    "correct_index": 0,
+    "solution": "A compound has new properties, different from those of the elements that formed it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A material made of two or more substances mixed physically, not chemically, is a __________.",
+    "options": [
+      "mixture",
+      "compound",
+      "element",
+      "pure substance"
+    ],
+    "correct_index": 0,
+    "solution": "A mixture is a physical combination of substances that keep their own properties.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In a mixture, the components __________.",
+    "options": [
+      "retain their own properties",
+      "form a new substance",
+      "combine in a fixed ratio",
+      "cannot be separated"
+    ],
+    "correct_index": 0,
+    "solution": "The components of a mixture keep their individual properties and can be separated.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A mixture in which the composition is uniform throughout is called a __________ mixture.",
+    "options": [
+      "homogeneous",
+      "heterogeneous",
+      "compound",
+      "pure"
+    ],
+    "correct_index": 0,
+    "solution": "A homogeneous mixture has the same composition throughout, like sugar dissolved in water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A mixture in which the components are not uniformly distributed is called a __________ mixture.",
+    "options": [
+      "heterogeneous",
+      "homogeneous",
+      "pure",
+      "compound"
+    ],
+    "correct_index": 0,
+    "solution": "A heterogeneous mixture has an uneven composition, like sand mixed with iron filings.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Air is an example of a __________.",
+    "options": [
+      "mixture",
+      "compound",
+      "element",
+      "pure substance"
+    ],
+    "correct_index": 0,
+    "solution": "Air is a homogeneous mixture of gases such as nitrogen and oxygen.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A mixture of iron filings and sulphur can be separated using a __________.",
+    "options": [
+      "magnet",
+      "filter paper",
+      "thermometer",
+      "balance"
+    ],
+    "correct_index": 0,
+    "solution": "Iron is magnetic, so a magnet separates the iron filings from the sulphur.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A mixture of sand and water can be separated by __________.",
+    "options": [
+      "filtration",
+      "using a magnet",
+      "distillation only",
+      "heating strongly"
+    ],
+    "correct_index": 0,
+    "solution": "Filtration separates insoluble sand from water.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Salt can be recovered from salt solution by __________.",
+    "options": [
+      "evaporation",
+      "filtration",
+      "using a magnet",
+      "sieving"
+    ],
+    "correct_index": 0,
+    "solution": "Evaporating the water leaves the dissolved salt behind.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A solution consists of a __________ dissolved in a solvent.",
+    "options": [
+      "solute",
+      "filter",
+      "magnet",
+      "sieve"
+    ],
+    "correct_index": 0,
+    "solution": "A solution is made of a solute dissolved in a solvent.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "In sugar solution, the solvent is __________.",
+    "options": [
+      "water",
+      "sugar",
+      "salt",
+      "air"
+    ],
+    "correct_index": 0,
+    "solution": "In sugar solution, water is the solvent and sugar is the solute.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The smallest particle of an element that can take part in a chemical reaction is an __________.",
+    "options": [
+      "atom",
+      "molecule of a compound",
+      "mixture",
+      "crystal"
+    ],
+    "correct_index": 0,
+    "solution": "An atom is the smallest particle of an element that participates in reactions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Two or more atoms joined together form a __________.",
+    "options": [
+      "molecule",
+      "mixture",
+      "element only",
+      "crystal grain"
+    ],
+    "correct_index": 0,
+    "solution": "A molecule is formed when two or more atoms combine.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The symbol 'O' stands for the element __________.",
+    "options": [
+      "oxygen",
+      "gold",
+      "osmium only",
+      "carbon"
+    ],
+    "correct_index": 0,
+    "solution": "O is the chemical symbol for oxygen.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The chemical symbol for the element gold is __________.",
+    "options": [
+      "Au",
+      "Gd",
+      "Go",
+      "Ag"
+    ],
+    "correct_index": 0,
+    "solution": "The symbol for gold is Au (from its Latin name aurum).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The chemical formula of carbon dioxide is __________.",
+    "options": [
+      "CO₂",
+      "CO",
+      "C₂O",
+      "O₂C"
+    ],
+    "correct_index": 0,
+    "solution": "Carbon dioxide has the formula CO₂ — one carbon and two oxygen atoms.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a compound?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Iron",
+      "Copper"
+    ],
+    "correct_index": 0,
+    "solution": "Carbon dioxide is a compound; the others are elements.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is a mixture?",
+    "options": [
+      "Sea water",
+      "Pure water",
+      "Sodium chloride",
+      "Oxygen"
+    ],
+    "correct_index": 0,
+    "solution": "Sea water is a mixture of water and dissolved salts; the others are pure substances.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The components of a compound can be separated only by __________ methods.",
+    "options": [
+      "chemical",
+      "physical",
+      "magnetic",
+      "sieving"
+    ],
+    "correct_index": 0,
+    "solution": "Elements in a compound are chemically bonded and can be separated only by chemical means.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The components of a mixture can usually be separated by __________ methods.",
+    "options": [
+      "physical",
+      "chemical",
+      "nuclear",
+      "no"
+    ],
+    "correct_index": 0,
+    "solution": "Mixtures can be separated by physical methods like filtration, evaporation and using a magnet.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sublimation can be used to separate a mixture of common salt and __________.",
+    "options": [
+      "ammonium chloride (a subliming solid)",
+      "sand",
+      "iron",
+      "sugar"
+    ],
+    "correct_index": 0,
+    "solution": "Ammonium chloride sublimes on heating, separating it from salt that does not.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The process used to separate two miscible liquids with different boiling points is __________.",
+    "options": [
+      "distillation",
+      "filtration",
+      "sieving",
+      "using a magnet"
+    ],
+    "correct_index": 0,
+    "solution": "Distillation separates miscible liquids by exploiting their different boiling points.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The process of separating lighter husk from heavier grain using wind is called __________.",
+    "options": [
+      "winnowing",
+      "filtration",
+      "distillation",
+      "evaporation"
+    ],
+    "correct_index": 0,
+    "solution": "Winnowing uses wind to blow away the lighter husk, separating it from grain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Separating cream from milk using a spinning machine uses the process of __________.",
+    "options": [
+      "centrifugation",
+      "filtration",
+      "sublimation",
+      "condensation"
+    ],
+    "correct_index": 0,
+    "solution": "Centrifugation spins the mixture so that denser and lighter components separate.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The colours in black ink can be separated by __________.",
+    "options": [
+      "chromatography",
+      "filtration",
+      "using a magnet",
+      "sieving"
+    ],
+    "correct_index": 0,
+    "solution": "Chromatography separates dissolved substances (like ink dyes) based on how they move on paper.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a pure substance?",
+    "options": [
+      "Distilled water",
+      "Muddy water",
+      "Air",
+      "Milk"
+    ],
+    "correct_index": 0,
+    "solution": "Distilled water is a pure compound; the others are mixtures.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An alloy such as brass is best described as a __________.",
+    "options": [
+      "mixture of metals",
+      "single element",
+      "compound of a fixed ratio",
+      "non-metal"
+    ],
+    "correct_index": 0,
+    "solution": "An alloy is a mixture of metals (brass is copper and zinc).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A metalloid shows properties of __________.",
+    "options": [
+      "both metals and non-metals",
+      "only metals",
+      "only non-metals",
+      "neither"
+    ],
+    "correct_index": 0,
+    "solution": "Metalloids, like silicon, have some properties of metals and some of non-metals.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In a compound, the elements are always combined in a __________ ratio by mass.",
+    "options": [
+      "fixed",
+      "variable",
+      "random",
+      "changing"
+    ],
+    "correct_index": 0,
+    "solution": "A compound has a fixed ratio of its constituent elements by mass.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a mixture, the substances can be present in __________ proportions.",
+    "options": [
+      "any (variable)",
+      "one fixed",
+      "no",
+      "equal only"
+    ],
+    "correct_index": 0,
+    "solution": "Mixtures can have their components in any proportion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a homogeneous mixture?",
+    "options": [
+      "Sugar dissolved in water",
+      "Sand and iron filings",
+      "Oil and water",
+      "Salad"
+    ],
+    "correct_index": 0,
+    "solution": "Sugar solution is uniform throughout — a homogeneous mixture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a heterogeneous mixture?",
+    "options": [
+      "A mixture of oil and water",
+      "Salt solution",
+      "Sugar solution",
+      "Air"
+    ],
+    "correct_index": 0,
+    "solution": "Oil and water do not mix uniformly, forming a heterogeneous mixture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Rusting of iron forms a new substance (rust), showing it is a __________.",
+    "options": [
+      "chemical change forming a compound",
+      "physical change",
+      "mixture",
+      "an element"
+    ],
+    "correct_index": 0,
+    "solution": "Rust (iron oxide) is a new compound formed by a chemical change.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The number of naturally occurring elements is a little over __________.",
+    "options": [
+      "90",
+      "10",
+      "500",
+      "1000"
+    ],
+    "correct_index": 0,
+    "solution": "There are a little over 90 naturally occurring elements.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is the correct chemical symbol for sodium?",
+    "options": [
+      "Na",
+      "So",
+      "Sd",
+      "S"
+    ],
+    "correct_index": 0,
+    "solution": "Na is the symbol for sodium (from Latin natrium).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Milk is best described as a __________.",
+    "options": [
+      "mixture (colloid)",
+      "pure compound",
+      "single element",
+      "metalloid"
+    ],
+    "correct_index": 0,
+    "solution": "Milk is a mixture (a colloid) of fat, water, proteins and other substances.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The separation of a solid dissolved in a liquid by first heating to vapour and then cooling the vapour is called __________.",
+    "options": [
+      "distillation",
+      "filtration",
+      "winnowing",
+      "sublimation"
+    ],
+    "correct_index": 0,
+    "solution": "Distillation vaporises the liquid and condenses it back, leaving the dissolved solid behind.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of these can be separated using filtration?",
+    "options": [
+      "Chalk powder from water",
+      "Salt from salt solution",
+      "Two miscible liquids",
+      "Nitrogen from air"
+    ],
+    "correct_index": 0,
+    "solution": "Insoluble chalk powder can be filtered out of water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A substance that cannot be broken down into simpler substances by any chemical method is an __________.",
+    "options": [
+      "element",
+      "compound",
+      "mixture",
+      "alloy"
+    ],
+    "correct_index": 0,
+    "solution": "Elements are the simplest substances and cannot be broken down chemically.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The energy change in the formation of a compound from its elements shows that __________.",
+    "options": [
+      "a chemical reaction has taken place",
+      "only mixing occurred",
+      "no change happened",
+      "the elements were destroyed"
+    ],
+    "correct_index": 0,
+    "solution": "Energy is often absorbed or released when a compound forms, indicating a chemical reaction.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Brass, bronze and steel are examples of __________.",
+    "options": [
+      "alloys (mixtures)",
+      "elements",
+      "pure compounds",
+      "non-metals"
+    ],
+    "correct_index": 0,
+    "solution": "These are alloys — mixtures of metals with improved properties.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main difference between a compound and a mixture is that a compound has a __________.",
+    "options": [
+      "fixed composition and new properties",
+      "variable composition",
+      "no properties",
+      "physical bond only"
+    ],
+    "correct_index": 0,
+    "solution": "A compound has a fixed composition and new properties, unlike a mixture.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following methods would best separate coloured pigments in a leaf extract?",
+    "options": [
+      "Chromatography",
+      "Filtration",
+      "Magnetic separation",
+      "Winnowing"
+    ],
+    "correct_index": 0,
+    "solution": "Chromatography separates the different coloured pigments dissolved in the extract.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The most fundamental idea of this chapter is that matter can be classified as __________.",
+    "options": [
+      "elements, compounds and mixtures",
+      "only solids and liquids",
+      "only pure substances",
+      "only mixtures"
+    ],
+    "correct_index": 0,
+    "solution": "Matter is classified into elements, compounds and mixtures based on its composition.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A substance that is made up of only one kind of atom is called an:",
+    "options": [
+      "Compound",
+      "Element",
+      "Mixture",
+      "Solution"
+    ],
+    "correct_index": 1,
+    "solution": "An element is a pure substance made up of only one kind of atom; it cannot be broken down into simpler substances by chemical means (e.g. hydrogen, oxygen, iron, gold).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The smallest particle of an element that can take part in a chemical reaction is an:",
+    "options": [
+      "Molecule",
+      "Atom",
+      "Compound",
+      "Mixture"
+    ],
+    "correct_index": 1,
+    "solution": "An atom is the smallest particle of an element that retains its properties and can take part in a chemical reaction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A substance formed by the chemical combination of two or more elements in a fixed ratio is a:",
+    "options": [
+      "Element",
+      "Compound",
+      "Mixture",
+      "Alloy"
+    ],
+    "correct_index": 1,
+    "solution": "A compound is a pure substance formed by the chemical combination of two or more elements in a fixed proportion (ratio); e.g. water is a compound of hydrogen and oxygen.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Water (H2O) is an example of a(n):",
+    "options": [
+      "Element",
+      "Compound",
+      "Mixture",
+      "Metal"
+    ],
+    "correct_index": 1,
+    "solution": "Water is a compound made of the elements hydrogen and oxygen chemically combined in a fixed ratio (2:1); its properties are different from those of hydrogen and oxygen.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A material made by simply mixing two or more substances in any proportion, without a chemical reaction, is a:",
+    "options": [
+      "Compound",
+      "Element",
+      "Mixture",
+      "Atom"
+    ],
+    "correct_index": 2,
+    "solution": "A mixture is formed by physically mixing two or more substances (elements or compounds) in any proportion, without a chemical reaction; the components retain their properties (e.g. air, saltwater).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a compound, the properties of the substance are ______ those of its constituent elements.",
+    "options": [
+      "the same as",
+      "different from",
+      "a mixture of",
+      "identical to"
+    ],
+    "correct_index": 1,
+    "solution": "In a compound, the properties are entirely different from those of its constituent elements; e.g. water (a liquid that puts out fire) is very different from hydrogen (flammable) and oxygen (supports burning).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a mixture, the components:",
+    "options": [
+      "Lose their properties",
+      "Retain their individual properties and can be separated by physical methods",
+      "Cannot be separated",
+      "Form a new substance"
+    ],
+    "correct_index": 1,
+    "solution": "In a mixture, the components keep their own properties and can be separated by physical methods (like filtration, evaporation), since no chemical reaction has occurred.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A mixture in which the components are uniformly mixed (same throughout) is called a:",
+    "options": [
+      "Heterogeneous mixture",
+      "Homogeneous mixture",
+      "Compound",
+      "Element"
+    ],
+    "correct_index": 1,
+    "solution": "A homogeneous mixture has a uniform composition throughout (the components are evenly mixed and not distinguishable), e.g. salt dissolved in water (a solution).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A mixture in which the components are not uniformly mixed and can be seen separately is called a:",
+    "options": [
+      "Homogeneous mixture",
+      "Heterogeneous mixture",
+      "Compound",
+      "Solution"
+    ],
+    "correct_index": 1,
+    "solution": "A heterogeneous mixture has a non-uniform composition, with the different components visible or distinguishable, e.g. a mixture of sand and iron filings.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A homogeneous mixture of a solute dissolved in a solvent is called a:",
+    "options": [
+      "Suspension",
+      "Solution",
+      "Compound",
+      "Element"
+    ],
+    "correct_index": 1,
+    "solution": "A solution is a homogeneous mixture of a solute (the substance dissolved) in a solvent (the dissolving medium), e.g. sugar or salt dissolved in water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a salt solution, salt is the ______ and water is the ______.",
+    "options": [
+      "solvent; solute",
+      "solute; solvent",
+      "compound; element",
+      "mixture; solution"
+    ],
+    "correct_index": 1,
+    "solution": "In a salt solution, salt is the solute (the dissolved substance) and water is the solvent (the substance that dissolves it).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Elements are represented by short forms called:",
+    "options": [
+      "Numbers",
+      "Symbols",
+      "Names only",
+      "Colours"
+    ],
+    "correct_index": 1,
+    "solution": "Each element is represented by a symbol — usually the first one or two letters of its name (e.g. H for hydrogen, O for oxygen, Fe for iron, Na for sodium).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The symbol for the element iron is:",
+    "options": [
+      "Ir",
+      "Fe",
+      "In",
+      "I"
+    ],
+    "correct_index": 1,
+    "solution": "The symbol for iron is Fe, derived from its Latin name 'Ferrum'. Many elements have symbols based on their Latin names.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The symbol for the element sodium is:",
+    "options": [
+      "So",
+      "Na",
+      "Sd",
+      "S"
+    ],
+    "correct_index": 1,
+    "solution": "The symbol for sodium is Na, derived from its Latin name 'Natrium'.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Elements are broadly classified into metals, non-metals and:",
+    "options": [
+      "Compounds",
+      "Metalloids",
+      "Mixtures",
+      "Solutions"
+    ],
+    "correct_index": 1,
+    "solution": "Elements are classified into metals, non-metals, and metalloids (which show properties of both metals and non-metals, e.g. silicon).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A compound of carbon and oxygen that we breathe out is:",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "correct_index": 1,
+    "solution": "Carbon dioxide (CO2) is a compound of carbon and oxygen; it is produced during respiration and breathed out, and used by plants in photosynthesis.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A chemical formula, like H2O, tells us:",
+    "options": [
+      "Nothing",
+      "The elements present and the number of atoms of each in a compound",
+      "Only the colour",
+      "Only the weight"
+    ],
+    "correct_index": 1,
+    "solution": "A chemical formula shows the elements present in a compound and the number of atoms of each (e.g. H2O means two hydrogen atoms and one oxygen atom).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The components of a mixture can be separated by physical methods such as:",
+    "options": [
+      "Chemical reactions only",
+      "Filtration, evaporation, distillation and magnetic separation",
+      "No methods",
+      "Only heating to very high temperatures"
+    ],
+    "correct_index": 1,
+    "solution": "The components of a mixture can be separated by physical methods like filtration, evaporation, distillation, sieving, magnetic separation and hand-picking, since no chemical bonds need to be broken.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A magnet can be used to separate iron filings from a mixture because iron is:",
+    "options": [
+      "Non-magnetic",
+      "Magnetic (attracted to a magnet)",
+      "A gas",
+      "A liquid"
+    ],
+    "correct_index": 1,
+    "solution": "Iron filings can be separated from a mixture (e.g. with sand) using a magnet, because iron is magnetic and gets attracted to the magnet while the other component does not.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement correctly distinguishes a compound from a mixture? (i) A compound forms by chemical combination in a fixed ratio (ii) A mixture forms by physical mixing in any ratio (iii) A compound has new properties",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: a compound forms by chemical combination in a fixed ratio and has new properties, whereas a mixture forms by physical mixing in any ratio and retains the components' properties.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Common salt (sodium chloride) is a compound of the elements:",
+    "options": [
+      "Sodium and chlorine",
+      "Sodium and oxygen",
+      "Carbon and oxygen",
+      "Hydrogen and oxygen"
+    ],
+    "correct_index": 0,
+    "solution": "Common salt (sodium chloride, NaCl) is a compound of the metal sodium and the non-metal chlorine, chemically combined in a fixed ratio.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "There are about how many naturally occurring elements known?",
+    "options": [
+      "About 20",
+      "About 90 (over 110 known in total)",
+      "About 500",
+      "About 1000"
+    ],
+    "correct_index": 1,
+    "solution": "There are about 90 naturally occurring elements; in total over 110 elements are known (including some made artificially), all arranged in the Periodic Table.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall importance of classifying matter into elements, compounds and mixtures is that it helps us:",
+    "options": [
+      "Do nothing",
+      "Understand the composition of substances and how to separate or combine them",
+      "Only in exams",
+      "Waste materials"
+    ],
+    "correct_index": 1,
+    "solution": "Classifying matter into elements, compounds and mixtures helps us understand the composition and properties of substances, and how they can be separated, combined or used in daily life and industry.",
+    "difficulty": "medium"
+  }
 ]

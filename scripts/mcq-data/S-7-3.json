@@ -1,52 +1,914 @@
 [
-  {"stem": "Heat is a form of __________ that flows from a hotter body to a colder body.", "options": ["energy", "matter", "force", "light only"], "correct_index": 0, "solution": "Heat is a form of energy that flows from a hotter body to a colder one due to a temperature difference.", "difficulty": "easy"},
-  {"stem": "The degree of hotness or coldness of a body is measured by its __________.", "options": ["temperature", "mass", "volume", "density"], "correct_index": 0, "solution": "Temperature is the measure of the hotness or coldness of a body.", "difficulty": "easy"},
-  {"stem": "Heat always flows from a body at __________ temperature to one at __________ temperature.", "options": ["higher; lower", "lower; higher", "equal; equal", "zero; boiling"], "correct_index": 0, "solution": "Heat flows spontaneously from a hotter (higher-temperature) body to a colder (lower-temperature) one.", "difficulty": "medium"},
-  {"stem": "The thermometer used to measure the temperature of the human body is the __________.", "options": ["clinical thermometer", "laboratory thermometer", "maximum–minimum thermometer", "pyrometer"], "correct_index": 0, "solution": "A clinical thermometer is designed to measure human body temperature.", "difficulty": "easy"},
-  {"stem": "The normal temperature of the human body is __________.", "options": ["37 °C", "0 °C", "100 °C", "42 °C"], "correct_index": 0, "solution": "Normal human body temperature is about 37 °C (98.6 °F).", "difficulty": "easy"},
-  {"stem": "The transfer of heat through a solid without the substance itself moving is called __________.", "options": ["conduction", "convection", "radiation", "evaporation"], "correct_index": 0, "solution": "In conduction, heat passes through a material from particle to particle without bulk movement of the material.", "difficulty": "medium"},
-  {"stem": "The transfer of heat in liquids and gases by the actual movement of the heated material is called __________.", "options": ["convection", "conduction", "radiation", "insulation"], "correct_index": 0, "solution": "Convection transfers heat in fluids (liquids and gases) as the warmer, lighter parts rise and cooler parts sink.", "difficulty": "medium"},
-  {"stem": "The transfer of heat without any medium, as heat from the Sun reaches the Earth, is called __________.", "options": ["radiation", "conduction", "convection", "diffusion"], "correct_index": 0, "solution": "Radiation transfers heat as electromagnetic waves and needs no medium — this is how the Sun heats the Earth.", "difficulty": "medium"},
-  {"stem": "Materials that allow heat to pass through them easily are called __________.", "options": ["conductors of heat", "insulators", "radiators only", "reflectors"], "correct_index": 0, "solution": "Good conductors, like metals, allow heat to pass through easily.", "difficulty": "easy"},
-  {"stem": "Materials that do not allow heat to pass through easily are called __________.", "options": ["insulators (poor conductors)", "conductors", "radiators", "metals"], "correct_index": 0, "solution": "Insulators such as wood, plastic and air are poor conductors of heat.", "difficulty": "easy"},
-  {"stem": "Which of the following is the best conductor of heat?", "options": ["Copper", "Wood", "Plastic", "Air"], "correct_index": 0, "solution": "Metals like copper are excellent conductors of heat; wood, plastic and air are insulators.", "difficulty": "easy"},
-  {"stem": "The handles of cooking utensils are made of wood or plastic because these materials are __________.", "options": ["poor conductors of heat (insulators)", "good conductors of heat", "magnetic", "transparent"], "correct_index": 0, "solution": "Insulating handles do not let heat reach the hand, preventing burns.", "difficulty": "medium"},
-  {"stem": "A clinical thermometer has a kink (bend) near its bulb in order to __________.", "options": ["stop the mercury from falling back before the reading is taken", "make it look nice", "measure length", "cool the mercury"], "correct_index": 0, "solution": "The kink prevents the mercury from receding quickly, holding the reading until shaken down.", "difficulty": "medium"},
-  {"stem": "A laboratory thermometer usually reads temperatures from about __________.", "options": ["−10 °C to 110 °C", "35 °C to 42 °C", "0 °C to 42 °C", "100 °C to 1000 °C"], "correct_index": 0, "solution": "A laboratory thermometer covers about −10 °C to 110 °C, wider than the clinical range.", "difficulty": "medium"},
-  {"stem": "Sea breeze (blowing from sea to land during the day) is an example of heat transfer by __________.", "options": ["convection", "conduction", "radiation", "insulation"], "correct_index": 0, "solution": "Sea and land breezes are convection currents caused by uneven heating of land and water.", "difficulty": "hard"},
-  {"stem": "During the day the land heats up faster than the sea; therefore, air moves __________.", "options": ["from the sea to the land (sea breeze)", "from land to sea", "straight up only", "downward into the sea"], "correct_index": 0, "solution": "Warm air over the land rises and cooler air from the sea flows in, producing a sea breeze in the day.", "difficulty": "hard"},
-  {"stem": "Dark-coloured surfaces are __________ absorbers of heat than light-coloured surfaces.", "options": ["better", "worse", "equal", "non-"], "correct_index": 0, "solution": "Dark surfaces absorb more heat (and radiate more) than light-coloured surfaces.", "difficulty": "medium"},
-  {"stem": "We prefer light-coloured clothes in summer because they __________.", "options": ["reflect most of the heat and keep us cooler", "absorb more heat", "are magnetic", "conduct electricity"], "correct_index": 0, "solution": "Light colours reflect much of the Sun's heat, keeping us cooler in summer.", "difficulty": "medium"},
-  {"stem": "We prefer dark-coloured clothes in winter because they __________.", "options": ["absorb more heat and keep us warmer", "reflect all heat", "are cheaper", "conduct less heat"], "correct_index": 0, "solution": "Dark colours absorb more heat, helping keep us warmer in winter.", "difficulty": "medium"},
-  {"stem": "Most substances __________ on heating and __________ on cooling.", "options": ["expand; contract", "contract; expand", "vanish; appear", "freeze; melt"], "correct_index": 0, "solution": "Substances generally expand when heated and contract when cooled — a basis for thermometers.", "difficulty": "medium"},
-  {"stem": "A gap is left between two rails on a railway track to allow for __________.", "options": ["expansion of the rails in hot weather", "water drainage", "electricity", "sound"], "correct_index": 0, "solution": "Rails expand in heat; the gaps prevent the track from bending due to thermal expansion.", "difficulty": "medium"},
-  {"stem": "Woollen clothes keep us warm in winter mainly because __________.", "options": ["wool traps air, which is a poor conductor of heat", "wool produces heat", "wool is a good conductor", "wool reflects cold"], "correct_index": 0, "solution": "Wool traps air, an insulator, which reduces heat loss from the body and keeps us warm.", "difficulty": "hard"},
-  {"stem": "Wearing several thin layers of clothes in winter is warmer than one thick layer because __________.", "options": ["air trapped between layers acts as an insulator", "thin clothes make heat", "layers are magnetic", "air conducts heat well"], "correct_index": 0, "solution": "Air trapped between clothing layers is a good insulator, reducing heat loss.", "difficulty": "hard"},
-  {"stem": "In a room, a heater warms the whole room mainly by __________.", "options": ["convection currents of air", "conduction through the walls", "radiation only", "evaporation"], "correct_index": 0, "solution": "Warm air rises and cooler air sinks, setting up convection currents that circulate heat through the room.", "difficulty": "medium"},
-  {"stem": "The temperature at which pure water boils at normal pressure is __________.", "options": ["100 °C", "0 °C", "37 °C", "50 °C"], "correct_index": 0, "solution": "Water boils at 100 °C at normal atmospheric pressure.", "difficulty": "easy"},
-  {"stem": "Which of the following is NOT a good conductor of heat?", "options": ["Wood", "Iron", "Copper", "Aluminium"], "correct_index": 0, "solution": "Wood is an insulator; iron, copper and aluminium are metals that conduct heat well.", "difficulty": "easy"},
-  {"stem": "The mercury or coloured liquid in a thermometer rises when heated because it __________.", "options": ["expands", "contracts", "evaporates fully", "freezes"], "correct_index": 0, "solution": "The thermometric liquid expands on heating, rising up the thin tube to indicate temperature.", "difficulty": "medium"},
-  {"stem": "Which cooking utensil design uses conduction of heat?", "options": ["A metal pan heating food placed on it", "A microwave using radiation", "A fan cooling by air movement", "A solar cooker using radiation"], "correct_index": 0, "solution": "A metal pan conducts heat from the flame to the food in contact with it.", "difficulty": "medium"},
-  {"stem": "Radiation of heat can travel through __________.", "options": ["empty space (vacuum)", "only solids", "only liquids", "only metals"], "correct_index": 0, "solution": "Radiation needs no medium and can travel through vacuum, as sunlight reaches the Earth through space.", "difficulty": "medium"},
-  {"stem": "A sweater does not give us heat; it only __________.", "options": ["reduces the loss of body heat", "produces heat", "absorbs cold from air", "conducts heat away"], "correct_index": 0, "solution": "A sweater is an insulator that slows the escape of body heat; it does not generate heat.", "difficulty": "medium"},
-  {"stem": "Which of the following correctly matches a mode of heat transfer with an example?", "options": ["Radiation – heat from the Sun", "Conduction – sea breeze", "Convection – heat through a metal rod", "Radiation – warming a spoon in tea"], "correct_index": 0, "solution": "Radiation carries the Sun's heat to Earth. (Sea breeze is convection; a metal rod/spoon warming is conduction.)", "difficulty": "medium"},
-  {"stem": "A cold metal spoon placed in hot tea becomes hot at the top because of __________.", "options": ["conduction along the spoon", "convection in the metal", "radiation from the tea", "evaporation"], "correct_index": 0, "solution": "Heat travels along the metal spoon by conduction, warming the far end.", "difficulty": "medium"},
-  {"stem": "The reading on a clinical thermometer is taken after keeping it under the tongue because __________.", "options": ["it gives a reliable internal body temperature", "the tongue is coldest", "it measures taste", "the mouth is dirty"], "correct_index": 0, "solution": "The area under the tongue reflects internal body temperature reliably.", "difficulty": "medium"},
-  {"stem": "Which of the following will NOT be measured by a clinical thermometer?", "options": ["The temperature of boiling water", "A mild fever of 39 °C", "Normal body temperature 37 °C", "A body temperature of 41 °C"], "correct_index": 0, "solution": "A clinical thermometer reads only up to ~42 °C, so it cannot measure boiling water at 100 °C.", "difficulty": "medium"},
-  {"stem": "The main reason mercury thermometers are being replaced by digital ones is that mercury is __________.", "options": ["toxic if the thermometer breaks", "too expensive", "unable to expand", "invisible"], "correct_index": 0, "solution": "Mercury is toxic, so digital thermometers are safer and increasingly used.", "difficulty": "medium"},
-  {"stem": "Hot air balloons rise because the heated air inside is __________ than the surrounding cooler air.", "options": ["less dense (lighter)", "denser", "heavier", "colder"], "correct_index": 0, "solution": "Heating makes the air inside expand and become less dense, so the balloon rises — a convection effect.", "difficulty": "hard"},
-  {"stem": "A thermos (vacuum) flask keeps drinks hot or cold for long by minimizing heat transfer through __________.", "options": ["conduction, convection and radiation", "only conduction", "only radiation", "only convection"], "correct_index": 0, "solution": "A vacuum flask reduces all three: vacuum stops conduction/convection, and shiny walls reduce radiation.", "difficulty": "hard"},
-  {"stem": "The shiny, silvered walls of a thermos flask reduce heat loss by __________.", "options": ["reflecting radiated heat back", "conducting heat", "convecting heat", "absorbing heat"], "correct_index": 0, "solution": "The silvered surfaces reflect heat radiation, reducing heat transfer by radiation.", "difficulty": "hard"},
-  {"stem": "When a metal ball is heated, it __________.", "options": ["expands and may not pass through a ring it passed before", "shrinks", "becomes lighter", "disappears"], "correct_index": 0, "solution": "Heating expands the metal ball so it may no longer fit through a ring it earlier passed — a demonstration of expansion.", "difficulty": "medium"},
-  {"stem": "Heat received by the Earth from the Sun travels mostly through __________.", "options": ["empty space by radiation", "the air by conduction", "the ground by convection", "water only"], "correct_index": 0, "solution": "The Sun's heat crosses the vacuum of space as radiation before warming the Earth.", "difficulty": "medium"},
-  {"stem": "Which of the following will feel hotter to touch after being left in the Sun for the same time?", "options": ["A black metal plate", "A white metal plate", "A shiny mirror", "A light-coloured cloth"], "correct_index": 0, "solution": "The black surface absorbs the most heat, so it feels hottest.", "difficulty": "medium"},
-  {"stem": "Land and sea breezes occur because __________.", "options": ["land and water heat up and cool down at different rates", "the Moon pulls the air", "of magnetism", "of the Earth's rotation only"], "correct_index": 0, "solution": "Land heats and cools faster than water, setting up convection breezes between them.", "difficulty": "hard"},
-  {"stem": "At night, a land breeze blows __________.", "options": ["from land to sea", "from sea to land", "straight up", "underground"], "correct_index": 0, "solution": "At night the sea stays warmer; warm air over the sea rises and cooler air from the land flows out — a land breeze.", "difficulty": "hard"},
-  {"stem": "Which of the following statements about heat and temperature is correct?", "options": ["Heat is energy in transit; temperature measures hotness", "Heat and temperature are the same", "Temperature is measured in joules", "Heat is measured in degrees"], "correct_index": 0, "solution": "Heat is the energy that flows due to a temperature difference; temperature measures the degree of hotness.", "difficulty": "hard"},
-  {"stem": "Convection currents cannot be set up in __________.", "options": ["solids", "liquids", "gases", "air"], "correct_index": 0, "solution": "Convection needs the material to move freely, so it occurs in fluids (liquids and gases), not in rigid solids.", "difficulty": "medium"},
-  {"stem": "Ventilators are placed near the ceiling of a room because __________.", "options": ["warm, used air rises and escapes through them", "cold air rises", "they look decorative", "heat sinks down"], "correct_index": 0, "solution": "Warm air rises by convection and escapes through high ventilators, letting fresh air enter below.", "difficulty": "hard"},
-  {"stem": "A metal chair kept in the Sun feels hotter than a wooden chair because metal __________.", "options": ["conducts heat to the hand faster", "is at a higher temperature always", "makes its own heat", "reflects heat"], "correct_index": 0, "solution": "Metal conducts heat to (and from) the hand quickly, so it feels hotter in the Sun and colder in the cold.", "difficulty": "medium"},
-  {"stem": "The main function of insulation in a house (like a false ceiling or thick walls) is to __________.", "options": ["reduce heat transfer, keeping the inside comfortable", "increase heat loss", "produce heat", "conduct electricity"], "correct_index": 0, "solution": "Insulation reduces heat flow in or out, keeping indoor temperatures comfortable.", "difficulty": "medium"},
-  {"stem": "Which of the following correctly orders the temperatures from lowest to highest?", "options": ["0 °C < 37 °C < 100 °C", "100 °C < 37 °C < 0 °C", "37 °C < 0 °C < 100 °C", "100 °C < 0 °C < 37 °C"], "correct_index": 0, "solution": "Freezing water (0 °C) < body temperature (37 °C) < boiling water (100 °C).", "difficulty": "easy"},
-  {"stem": "The overall message of the chapter 'Heat' is that:", "options": ["heat is energy that flows from hot to cold by conduction, convection and radiation, and is measured via temperature with thermometers", "heat and temperature are the same thing", "heat flows from cold to hot", "heat has no modes of transfer"], "correct_index": 0, "solution": "The chapter explains heat as energy flowing from hot to cold via conduction, convection and radiation, measured through temperature using thermometers.", "difficulty": "easy"}
+  {
+    "stem": "Heat is a form of __________ that flows from a hotter body to a colder body.",
+    "options": [
+      "energy",
+      "matter",
+      "force",
+      "light only"
+    ],
+    "correct_index": 0,
+    "solution": "Heat is a form of energy that flows from a hotter body to a colder one due to a temperature difference.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The degree of hotness or coldness of a body is measured by its __________.",
+    "options": [
+      "temperature",
+      "mass",
+      "volume",
+      "density"
+    ],
+    "correct_index": 0,
+    "solution": "Temperature is the measure of the hotness or coldness of a body.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Heat always flows from a body at __________ temperature to one at __________ temperature.",
+    "options": [
+      "higher; lower",
+      "lower; higher",
+      "equal; equal",
+      "zero; boiling"
+    ],
+    "correct_index": 0,
+    "solution": "Heat flows spontaneously from a hotter (higher-temperature) body to a colder (lower-temperature) one.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The thermometer used to measure the temperature of the human body is the __________.",
+    "options": [
+      "clinical thermometer",
+      "laboratory thermometer",
+      "maximum–minimum thermometer",
+      "pyrometer"
+    ],
+    "correct_index": 0,
+    "solution": "A clinical thermometer is designed to measure human body temperature.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The normal temperature of the human body is __________.",
+    "options": [
+      "37 °C",
+      "0 °C",
+      "100 °C",
+      "42 °C"
+    ],
+    "correct_index": 0,
+    "solution": "Normal human body temperature is about 37 °C (98.6 °F).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The transfer of heat through a solid without the substance itself moving is called __________.",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "evaporation"
+    ],
+    "correct_index": 0,
+    "solution": "In conduction, heat passes through a material from particle to particle without bulk movement of the material.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The transfer of heat in liquids and gases by the actual movement of the heated material is called __________.",
+    "options": [
+      "convection",
+      "conduction",
+      "radiation",
+      "insulation"
+    ],
+    "correct_index": 0,
+    "solution": "Convection transfers heat in fluids (liquids and gases) as the warmer, lighter parts rise and cooler parts sink.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The transfer of heat without any medium, as heat from the Sun reaches the Earth, is called __________.",
+    "options": [
+      "radiation",
+      "conduction",
+      "convection",
+      "diffusion"
+    ],
+    "correct_index": 0,
+    "solution": "Radiation transfers heat as electromagnetic waves and needs no medium — this is how the Sun heats the Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Materials that allow heat to pass through them easily are called __________.",
+    "options": [
+      "conductors of heat",
+      "insulators",
+      "radiators only",
+      "reflectors"
+    ],
+    "correct_index": 0,
+    "solution": "Good conductors, like metals, allow heat to pass through easily.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Materials that do not allow heat to pass through easily are called __________.",
+    "options": [
+      "insulators (poor conductors)",
+      "conductors",
+      "radiators",
+      "metals"
+    ],
+    "correct_index": 0,
+    "solution": "Insulators such as wood, plastic and air are poor conductors of heat.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is the best conductor of heat?",
+    "options": [
+      "Copper",
+      "Wood",
+      "Plastic",
+      "Air"
+    ],
+    "correct_index": 0,
+    "solution": "Metals like copper are excellent conductors of heat; wood, plastic and air are insulators.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The handles of cooking utensils are made of wood or plastic because these materials are __________.",
+    "options": [
+      "poor conductors of heat (insulators)",
+      "good conductors of heat",
+      "magnetic",
+      "transparent"
+    ],
+    "correct_index": 0,
+    "solution": "Insulating handles do not let heat reach the hand, preventing burns.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A clinical thermometer has a kink (bend) near its bulb in order to __________.",
+    "options": [
+      "stop the mercury from falling back before the reading is taken",
+      "make it look nice",
+      "measure length",
+      "cool the mercury"
+    ],
+    "correct_index": 0,
+    "solution": "The kink prevents the mercury from receding quickly, holding the reading until shaken down.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A laboratory thermometer usually reads temperatures from about __________.",
+    "options": [
+      "−10 °C to 110 °C",
+      "35 °C to 42 °C",
+      "0 °C to 42 °C",
+      "100 °C to 1000 °C"
+    ],
+    "correct_index": 0,
+    "solution": "A laboratory thermometer covers about −10 °C to 110 °C, wider than the clinical range.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sea breeze (blowing from sea to land during the day) is an example of heat transfer by __________.",
+    "options": [
+      "convection",
+      "conduction",
+      "radiation",
+      "insulation"
+    ],
+    "correct_index": 0,
+    "solution": "Sea and land breezes are convection currents caused by uneven heating of land and water.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During the day the land heats up faster than the sea; therefore, air moves __________.",
+    "options": [
+      "from the sea to the land (sea breeze)",
+      "from land to sea",
+      "straight up only",
+      "downward into the sea"
+    ],
+    "correct_index": 0,
+    "solution": "Warm air over the land rises and cooler air from the sea flows in, producing a sea breeze in the day.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Dark-coloured surfaces are __________ absorbers of heat than light-coloured surfaces.",
+    "options": [
+      "better",
+      "worse",
+      "equal",
+      "non-"
+    ],
+    "correct_index": 0,
+    "solution": "Dark surfaces absorb more heat (and radiate more) than light-coloured surfaces.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "We prefer light-coloured clothes in summer because they __________.",
+    "options": [
+      "reflect most of the heat and keep us cooler",
+      "absorb more heat",
+      "are magnetic",
+      "conduct electricity"
+    ],
+    "correct_index": 0,
+    "solution": "Light colours reflect much of the Sun's heat, keeping us cooler in summer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "We prefer dark-coloured clothes in winter because they __________.",
+    "options": [
+      "absorb more heat and keep us warmer",
+      "reflect all heat",
+      "are cheaper",
+      "conduct less heat"
+    ],
+    "correct_index": 0,
+    "solution": "Dark colours absorb more heat, helping keep us warmer in winter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Most substances __________ on heating and __________ on cooling.",
+    "options": [
+      "expand; contract",
+      "contract; expand",
+      "vanish; appear",
+      "freeze; melt"
+    ],
+    "correct_index": 0,
+    "solution": "Substances generally expand when heated and contract when cooled — a basis for thermometers.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A gap is left between two rails on a railway track to allow for __________.",
+    "options": [
+      "expansion of the rails in hot weather",
+      "water drainage",
+      "electricity",
+      "sound"
+    ],
+    "correct_index": 0,
+    "solution": "Rails expand in heat; the gaps prevent the track from bending due to thermal expansion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Woollen clothes keep us warm in winter mainly because __________.",
+    "options": [
+      "wool traps air, which is a poor conductor of heat",
+      "wool produces heat",
+      "wool is a good conductor",
+      "wool reflects cold"
+    ],
+    "correct_index": 0,
+    "solution": "Wool traps air, an insulator, which reduces heat loss from the body and keeps us warm.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Wearing several thin layers of clothes in winter is warmer than one thick layer because __________.",
+    "options": [
+      "air trapped between layers acts as an insulator",
+      "thin clothes make heat",
+      "layers are magnetic",
+      "air conducts heat well"
+    ],
+    "correct_index": 0,
+    "solution": "Air trapped between clothing layers is a good insulator, reducing heat loss.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In a room, a heater warms the whole room mainly by __________.",
+    "options": [
+      "convection currents of air",
+      "conduction through the walls",
+      "radiation only",
+      "evaporation"
+    ],
+    "correct_index": 0,
+    "solution": "Warm air rises and cooler air sinks, setting up convection currents that circulate heat through the room.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The temperature at which pure water boils at normal pressure is __________.",
+    "options": [
+      "100 °C",
+      "0 °C",
+      "37 °C",
+      "50 °C"
+    ],
+    "correct_index": 0,
+    "solution": "Water boils at 100 °C at normal atmospheric pressure.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is NOT a good conductor of heat?",
+    "options": [
+      "Wood",
+      "Iron",
+      "Copper",
+      "Aluminium"
+    ],
+    "correct_index": 0,
+    "solution": "Wood is an insulator; iron, copper and aluminium are metals that conduct heat well.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The mercury or coloured liquid in a thermometer rises when heated because it __________.",
+    "options": [
+      "expands",
+      "contracts",
+      "evaporates fully",
+      "freezes"
+    ],
+    "correct_index": 0,
+    "solution": "The thermometric liquid expands on heating, rising up the thin tube to indicate temperature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which cooking utensil design uses conduction of heat?",
+    "options": [
+      "A metal pan heating food placed on it",
+      "A microwave using radiation",
+      "A fan cooling by air movement",
+      "A solar cooker using radiation"
+    ],
+    "correct_index": 0,
+    "solution": "A metal pan conducts heat from the flame to the food in contact with it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Radiation of heat can travel through __________.",
+    "options": [
+      "empty space (vacuum)",
+      "only solids",
+      "only liquids",
+      "only metals"
+    ],
+    "correct_index": 0,
+    "solution": "Radiation needs no medium and can travel through vacuum, as sunlight reaches the Earth through space.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A sweater does not give us heat; it only __________.",
+    "options": [
+      "reduces the loss of body heat",
+      "produces heat",
+      "absorbs cold from air",
+      "conducts heat away"
+    ],
+    "correct_index": 0,
+    "solution": "A sweater is an insulator that slows the escape of body heat; it does not generate heat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly matches a mode of heat transfer with an example?",
+    "options": [
+      "Radiation – heat from the Sun",
+      "Conduction – sea breeze",
+      "Convection – heat through a metal rod",
+      "Radiation – warming a spoon in tea"
+    ],
+    "correct_index": 0,
+    "solution": "Radiation carries the Sun's heat to Earth. (Sea breeze is convection; a metal rod/spoon warming is conduction.)",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A cold metal spoon placed in hot tea becomes hot at the top because of __________.",
+    "options": [
+      "conduction along the spoon",
+      "convection in the metal",
+      "radiation from the tea",
+      "evaporation"
+    ],
+    "correct_index": 0,
+    "solution": "Heat travels along the metal spoon by conduction, warming the far end.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reading on a clinical thermometer is taken after keeping it under the tongue because __________.",
+    "options": [
+      "it gives a reliable internal body temperature",
+      "the tongue is coldest",
+      "it measures taste",
+      "the mouth is dirty"
+    ],
+    "correct_index": 0,
+    "solution": "The area under the tongue reflects internal body temperature reliably.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following will NOT be measured by a clinical thermometer?",
+    "options": [
+      "The temperature of boiling water",
+      "A mild fever of 39 °C",
+      "Normal body temperature 37 °C",
+      "A body temperature of 41 °C"
+    ],
+    "correct_index": 0,
+    "solution": "A clinical thermometer reads only up to ~42 °C, so it cannot measure boiling water at 100 °C.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main reason mercury thermometers are being replaced by digital ones is that mercury is __________.",
+    "options": [
+      "toxic if the thermometer breaks",
+      "too expensive",
+      "unable to expand",
+      "invisible"
+    ],
+    "correct_index": 0,
+    "solution": "Mercury is toxic, so digital thermometers are safer and increasingly used.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Hot air balloons rise because the heated air inside is __________ than the surrounding cooler air.",
+    "options": [
+      "less dense (lighter)",
+      "denser",
+      "heavier",
+      "colder"
+    ],
+    "correct_index": 0,
+    "solution": "Heating makes the air inside expand and become less dense, so the balloon rises — a convection effect.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A thermos (vacuum) flask keeps drinks hot or cold for long by minimizing heat transfer through __________.",
+    "options": [
+      "conduction, convection and radiation",
+      "only conduction",
+      "only radiation",
+      "only convection"
+    ],
+    "correct_index": 0,
+    "solution": "A vacuum flask reduces all three: vacuum stops conduction/convection, and shiny walls reduce radiation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The shiny, silvered walls of a thermos flask reduce heat loss by __________.",
+    "options": [
+      "reflecting radiated heat back",
+      "conducting heat",
+      "convecting heat",
+      "absorbing heat"
+    ],
+    "correct_index": 0,
+    "solution": "The silvered surfaces reflect heat radiation, reducing heat transfer by radiation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "When a metal ball is heated, it __________.",
+    "options": [
+      "expands and may not pass through a ring it passed before",
+      "shrinks",
+      "becomes lighter",
+      "disappears"
+    ],
+    "correct_index": 0,
+    "solution": "Heating expands the metal ball so it may no longer fit through a ring it earlier passed — a demonstration of expansion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Heat received by the Earth from the Sun travels mostly through __________.",
+    "options": [
+      "empty space by radiation",
+      "the air by conduction",
+      "the ground by convection",
+      "water only"
+    ],
+    "correct_index": 0,
+    "solution": "The Sun's heat crosses the vacuum of space as radiation before warming the Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following will feel hotter to touch after being left in the Sun for the same time?",
+    "options": [
+      "A black metal plate",
+      "A white metal plate",
+      "A shiny mirror",
+      "A light-coloured cloth"
+    ],
+    "correct_index": 0,
+    "solution": "The black surface absorbs the most heat, so it feels hottest.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Land and sea breezes occur because __________.",
+    "options": [
+      "land and water heat up and cool down at different rates",
+      "the Moon pulls the air",
+      "of magnetism",
+      "of the Earth's rotation only"
+    ],
+    "correct_index": 0,
+    "solution": "Land heats and cools faster than water, setting up convection breezes between them.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "At night, a land breeze blows __________.",
+    "options": [
+      "from land to sea",
+      "from sea to land",
+      "straight up",
+      "underground"
+    ],
+    "correct_index": 0,
+    "solution": "At night the sea stays warmer; warm air over the sea rises and cooler air from the land flows out — a land breeze.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following statements about heat and temperature is correct?",
+    "options": [
+      "Heat is energy in transit; temperature measures hotness",
+      "Heat and temperature are the same",
+      "Temperature is measured in joules",
+      "Heat is measured in degrees"
+    ],
+    "correct_index": 0,
+    "solution": "Heat is the energy that flows due to a temperature difference; temperature measures the degree of hotness.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Convection currents cannot be set up in __________.",
+    "options": [
+      "solids",
+      "liquids",
+      "gases",
+      "air"
+    ],
+    "correct_index": 0,
+    "solution": "Convection needs the material to move freely, so it occurs in fluids (liquids and gases), not in rigid solids.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Ventilators are placed near the ceiling of a room because __________.",
+    "options": [
+      "warm, used air rises and escapes through them",
+      "cold air rises",
+      "they look decorative",
+      "heat sinks down"
+    ],
+    "correct_index": 0,
+    "solution": "Warm air rises by convection and escapes through high ventilators, letting fresh air enter below.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A metal chair kept in the Sun feels hotter than a wooden chair because metal __________.",
+    "options": [
+      "conducts heat to the hand faster",
+      "is at a higher temperature always",
+      "makes its own heat",
+      "reflects heat"
+    ],
+    "correct_index": 0,
+    "solution": "Metal conducts heat to (and from) the hand quickly, so it feels hotter in the Sun and colder in the cold.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main function of insulation in a house (like a false ceiling or thick walls) is to __________.",
+    "options": [
+      "reduce heat transfer, keeping the inside comfortable",
+      "increase heat loss",
+      "produce heat",
+      "conduct electricity"
+    ],
+    "correct_index": 0,
+    "solution": "Insulation reduces heat flow in or out, keeping indoor temperatures comfortable.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following correctly orders the temperatures from lowest to highest?",
+    "options": [
+      "0 °C < 37 °C < 100 °C",
+      "100 °C < 37 °C < 0 °C",
+      "37 °C < 0 °C < 100 °C",
+      "100 °C < 0 °C < 37 °C"
+    ],
+    "correct_index": 0,
+    "solution": "Freezing water (0 °C) < body temperature (37 °C) < boiling water (100 °C).",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The overall message of the chapter 'Heat' is that:",
+    "options": [
+      "heat is energy that flows from hot to cold by conduction, convection and radiation, and is measured via temperature with thermometers",
+      "heat and temperature are the same thing",
+      "heat flows from cold to hot",
+      "heat has no modes of transfer"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains heat as energy flowing from hot to cold via conduction, convection and radiation, measured through temperature using thermometers.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Heat is a form of:",
+    "options": [
+      "Matter",
+      "Energy",
+      "Force",
+      "Light only"
+    ],
+    "correct_index": 1,
+    "solution": "Heat is a form of energy that flows from a hotter body to a colder body; it can change the temperature and state of matter.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The degree of hotness or coldness of a body is measured by its:",
+    "options": [
+      "Weight",
+      "Temperature",
+      "Volume",
+      "Mass"
+    ],
+    "correct_index": 1,
+    "solution": "Temperature is the measure of the degree of hotness or coldness of a body; it is measured using a thermometer.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The instrument used to measure temperature is the:",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Anemometer",
+      "Ammeter"
+    ],
+    "correct_index": 1,
+    "solution": "A thermometer is used to measure temperature; a clinical thermometer measures body temperature, and a laboratory thermometer measures other temperatures.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The temperature of a healthy human body is normally about:",
+    "options": [
+      "37°C (98.6°F)",
+      "50°C",
+      "100°C",
+      "0°C"
+    ],
+    "correct_index": 0,
+    "solution": "The normal temperature of a healthy human body is about 37°C (98.6°F); a clinical thermometer is used to measure it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A clinical thermometer has a small ______ near the bulb that prevents the mercury from falling back quickly.",
+    "options": [
+      "scale",
+      "kink (constriction)",
+      "glass tube only",
+      "battery"
+    ],
+    "correct_index": 1,
+    "solution": "A clinical thermometer has a kink (a narrow constriction) near the bulb that stops the mercury from flowing back on its own, so the reading can be taken after removing it from the body.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Heat flows from a body at ______ temperature to a body at ______ temperature.",
+    "options": [
+      "lower; higher",
+      "higher; lower",
+      "equal; equal",
+      "no; some"
+    ],
+    "correct_index": 1,
+    "solution": "Heat always flows on its own from a body at a higher temperature to a body at a lower temperature, until both reach the same temperature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The three ways in which heat is transferred are conduction, convection and:",
+    "options": [
+      "Reflection",
+      "Radiation",
+      "Refraction",
+      "Diffusion"
+    ],
+    "correct_index": 1,
+    "solution": "Heat is transferred by three methods — conduction (through solids), convection (in liquids and gases) and radiation (through empty space, without a medium).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The transfer of heat through a solid, from the hotter end to the colder end, without the particles moving from their places, is called:",
+    "options": [
+      "Convection",
+      "Conduction",
+      "Radiation",
+      "Reflection"
+    ],
+    "correct_index": 1,
+    "solution": "Conduction is the transfer of heat through a solid (or between objects in contact) from the hotter to the colder region, without the particles themselves moving from their positions.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Materials that allow heat to pass through them easily are called:",
+    "options": [
+      "Insulators",
+      "Conductors of heat",
+      "Non-metals",
+      "Gases"
+    ],
+    "correct_index": 1,
+    "solution": "Conductors of heat (like metals — copper, aluminium, iron) allow heat to pass through them easily; that is why cooking utensils are made of metals.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Materials that do not allow heat to pass through them easily are called:",
+    "options": [
+      "Conductors",
+      "Insulators (poor conductors)",
+      "Metals",
+      "Liquids"
+    ],
+    "correct_index": 1,
+    "solution": "Insulators (poor conductors) like wood, plastic, wool and air do not allow heat to pass through easily; they are used to make handles of utensils and warm clothing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The handles of cooking utensils are made of wood or plastic because these are:",
+    "options": [
+      "Good conductors of heat",
+      "Poor conductors (insulators) of heat",
+      "Metals",
+      "Very hot"
+    ],
+    "correct_index": 1,
+    "solution": "Handles of cooking utensils are made of wood or plastic (insulators) so that heat does not reach our hands, allowing us to hold hot utensils safely.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The transfer of heat in liquids and gases, in which the heated particles move and carry heat with them, is called:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Reflection"
+    ],
+    "correct_index": 1,
+    "solution": "Convection is the transfer of heat in liquids and gases, in which the hot, less-dense particles rise and the cooler, denser particles sink, setting up convection currents that carry heat.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Sea breeze and land breeze are examples of heat transfer by:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Reflection"
+    ],
+    "correct_index": 1,
+    "solution": "Sea breeze (blowing from sea to land during the day) and land breeze (from land to sea at night) are caused by convection currents of air due to uneven heating of land and sea.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The transfer of heat that does not require any medium (and by which we receive heat from the Sun) is called:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Diffusion"
+    ],
+    "correct_index": 2,
+    "solution": "Radiation is the transfer of heat without any medium (it can travel through empty space); we receive heat from the Sun by radiation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "We receive heat from the Sun mainly by the process of:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Diffusion"
+    ],
+    "correct_index": 2,
+    "solution": "Heat from the Sun reaches us through the vacuum of space by radiation, since there is no medium (air) between the Sun and the Earth for conduction or convection.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Dark-coloured surfaces are good ______ of heat, while light/shiny surfaces are good reflectors.",
+    "options": [
+      "reflectors",
+      "absorbers",
+      "insulators",
+      "conductors"
+    ],
+    "correct_index": 1,
+    "solution": "Dark-coloured surfaces are good absorbers (and emitters) of heat by radiation, while light-coloured or shiny surfaces reflect heat; this is why we prefer light clothes in summer.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "We wear light-coloured clothes in summer because they:",
+    "options": [
+      "Absorb more heat",
+      "Reflect most of the heat, keeping us cool",
+      "Are heavier",
+      "Conduct heat"
+    ],
+    "correct_index": 1,
+    "solution": "Light-coloured clothes reflect most of the heat radiation falling on them, keeping us cooler in summer; dark clothes absorb heat, so they are preferred in winter.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Most substances ______ on heating and contract on cooling.",
+    "options": [
+      "contract",
+      "expand",
+      "disappear",
+      "freeze"
+    ],
+    "correct_index": 1,
+    "solution": "Most substances expand (increase in size) on heating and contract (decrease in size) on cooling, because their particles move apart when heated.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A gap is left between railway tracks (and in bridges) to allow for:",
+    "options": [
+      "Water flow",
+      "The expansion of the metal in hot weather",
+      "Decoration",
+      "Nothing"
+    ],
+    "correct_index": 1,
+    "solution": "Gaps are left between railway tracks and in bridges to allow the metal to expand in hot weather without bending or breaking — accounting for thermal expansion.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The two common temperature scales are Celsius (°C) and:",
+    "options": [
+      "Metre",
+      "Fahrenheit (°F)",
+      "Kilogram",
+      "Litre"
+    ],
+    "correct_index": 1,
+    "solution": "Temperature is commonly measured on the Celsius (°C) scale and the Fahrenheit (°F) scale; the Kelvin (K) scale is used in science.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Woollen clothes keep us warm in winter because:",
+    "options": [
+      "Wool produces heat",
+      "Wool traps air, which is a poor conductor, preventing heat from escaping the body",
+      "Wool is cold",
+      "Wool reflects heat"
+    ],
+    "correct_index": 1,
+    "solution": "Woollen clothes keep us warm because wool traps air (a poor conductor of heat) between its fibres, preventing our body heat from escaping.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Wearing two thin blankets is warmer than one thick blanket because:",
+    "options": [
+      "Two blankets are heavier",
+      "A layer of insulating air is trapped between the two blankets",
+      "One blanket is cold",
+      "Thin blankets produce heat"
+    ],
+    "correct_index": 1,
+    "solution": "Two thin blankets trap a layer of air between them; this trapped air is a poor conductor of heat, providing extra insulation and keeping us warmer than a single thick blanket.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which statement about heat transfer is correct? (i) Conduction occurs in solids (ii) Convection occurs in liquids/gases (iii) Radiation needs no medium",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: conduction occurs mainly in solids, convection in liquids and gases, and radiation requires no medium (it can travel through vacuum).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When we touch a metal object and a wooden object in a cold room, the metal feels colder because it:",
+    "options": [
+      "Is actually colder",
+      "Conducts heat away from our hand faster (being a good conductor)",
+      "Produces cold",
+      "Is heavier"
+    ],
+    "correct_index": 1,
+    "solution": "Both objects are at the same temperature, but metal feels colder because it is a good conductor and conducts heat away from our hand quickly, while wood (an insulator) does not.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A laboratory thermometer usually measures temperature in the range from about:",
+    "options": [
+      "35°C to 42°C only",
+      "-10°C to 110°C",
+      "0°C to 5°C",
+      "100°C to 500°C"
+    ],
+    "correct_index": 1,
+    "solution": "A laboratory thermometer typically measures temperatures over a wide range (about -10°C to 110°C), unlike a clinical thermometer which measures only around 35°C to 42°C (body temperature range).",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall importance of understanding heat is that it helps us:",
+    "options": [
+      "Do nothing",
+      "Design cooking utensils, clothing, buildings and machines to use or control heat",
+      "Only pass exams",
+      "Waste energy"
+    ],
+    "correct_index": 1,
+    "solution": "Understanding heat and its transfer helps us design better cooking utensils, clothing (for summer and winter), buildings, refrigerators and machines that use or control heat effectively.",
+    "difficulty": "medium"
+  }
 ]

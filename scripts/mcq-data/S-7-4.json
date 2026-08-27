@@ -1,52 +1,986 @@
 [
-  {"stem": "Substances that taste sour and turn blue litmus red are called __________.", "options": ["acids", "bases", "salts", "neutral substances"], "correct_index": 0, "solution": "Acids taste sour and turn blue litmus red.", "difficulty": "easy"},
-  {"stem": "Substances that taste bitter and feel soapy, turning red litmus blue, are called __________.", "options": ["bases", "acids", "salts", "indicators"], "correct_index": 0, "solution": "Bases taste bitter, feel soapy, and turn red litmus blue.", "difficulty": "easy"},
-  {"stem": "A special substance used to test whether a solution is acidic or basic is called an __________.", "options": ["indicator", "acid", "base", "electrolyte"], "correct_index": 0, "solution": "An indicator changes colour to show whether a substance is acidic or basic.", "difficulty": "easy"},
-  {"stem": "The natural indicator obtained from lichens is __________.", "options": ["litmus", "turmeric", "china rose", "phenolphthalein"], "correct_index": 0, "solution": "Litmus is a natural indicator obtained from lichens; it is available as red and blue litmus.", "difficulty": "medium"},
-  {"stem": "Blue litmus turns __________ in an acidic solution.", "options": ["red", "green", "yellow", "black"], "correct_index": 0, "solution": "Acids turn blue litmus red.", "difficulty": "easy"},
-  {"stem": "Red litmus turns __________ in a basic solution.", "options": ["blue", "red", "colourless", "orange"], "correct_index": 0, "solution": "Bases turn red litmus blue.", "difficulty": "easy"},
-  {"stem": "Turmeric is a natural indicator that turns __________ in a basic solution.", "options": ["red (reddish-brown)", "blue", "green", "black"], "correct_index": 0, "solution": "Yellow turmeric turns reddish-brown in a base and returns to yellow when the base is neutralised.", "difficulty": "medium"},
-  {"stem": "The china rose indicator turns __________ with acids.", "options": ["dark pink (magenta)", "green", "blue", "yellow"], "correct_index": 0, "solution": "China rose indicator turns dark pink (magenta) in acids and green in bases.", "difficulty": "medium"},
-  {"stem": "Which of the following is present in lemon and gives it a sour taste?", "options": ["Citric acid", "Acetic acid", "Hydrochloric acid", "Lactic acid"], "correct_index": 0, "solution": "Citric acid gives lemons and other citrus fruits their sour taste.", "difficulty": "medium"},
-  {"stem": "The acid present in vinegar is __________.", "options": ["acetic acid", "citric acid", "tartaric acid", "formic acid"], "correct_index": 0, "solution": "Vinegar contains acetic acid.", "difficulty": "medium"},
-  {"stem": "The acid found in curd and sour milk is __________.", "options": ["lactic acid", "citric acid", "acetic acid", "oxalic acid"], "correct_index": 0, "solution": "Lactic acid is present in curd and sour milk.", "difficulty": "medium"},
-  {"stem": "The acid present in a bee or ant sting that causes pain is __________.", "options": ["formic acid", "citric acid", "acetic acid", "sulphuric acid"], "correct_index": 0, "solution": "Ant and bee stings inject formic acid, causing pain, which can be soothed by a mild base.", "difficulty": "medium"},
-  {"stem": "The acid present in the stomach that aids digestion is __________.", "options": ["hydrochloric acid", "citric acid", "acetic acid", "carbonic acid"], "correct_index": 0, "solution": "The stomach contains hydrochloric acid, which helps in digestion.", "difficulty": "medium"},
-  {"stem": "A common base found in soaps and used in cleaning is __________.", "options": ["sodium hydroxide", "hydrochloric acid", "citric acid", "vinegar"], "correct_index": 0, "solution": "Sodium hydroxide (caustic soda) is a strong base used in soaps and cleaning products.", "difficulty": "medium"},
-  {"stem": "Milk of magnesia, used to treat acidity, is a __________.", "options": ["base (magnesium hydroxide)", "strong acid", "salt only", "neutral substance"], "correct_index": 0, "solution": "Milk of magnesia is a mild base (magnesium hydroxide) that neutralises excess stomach acid.", "difficulty": "medium"},
-  {"stem": "The reaction between an acid and a base to form salt and water is called __________.", "options": ["neutralisation", "oxidation", "combustion", "sublimation"], "correct_index": 0, "solution": "Neutralisation is the reaction of an acid with a base to form a salt and water.", "difficulty": "medium"},
-  {"stem": "In a neutralisation reaction, an acid and a base react to give __________.", "options": ["a salt and water", "two acids", "two bases", "only a gas"], "correct_index": 0, "solution": "Acid + Base → Salt + Water is the general neutralisation reaction.", "difficulty": "medium"},
-  {"stem": "A solution that is neither acidic nor basic is called __________.", "options": ["neutral", "concentrated", "dilute", "saturated"], "correct_index": 0, "solution": "A neutral solution, like pure water, is neither acidic nor basic and does not change litmus colour.", "difficulty": "easy"},
-  {"stem": "Which of the following is a neutral substance?", "options": ["Distilled water", "Lemon juice", "Soap solution", "Vinegar"], "correct_index": 0, "solution": "Distilled water is neutral; lemon juice and vinegar are acidic and soap solution is basic.", "difficulty": "easy"},
-  {"stem": "A farmer treats acidic soil by adding __________ to neutralise the acidity.", "options": ["lime (a base) such as quicklime or slaked lime", "vinegar", "lemon juice", "more acid"], "correct_index": 0, "solution": "Basic substances like lime neutralise excess acid in soil, improving it for crops.", "difficulty": "medium"},
-  {"stem": "If the soil is too basic (alkaline), it can be treated by adding __________.", "options": ["organic matter or acidic material", "more lime", "sodium hydroxide", "soap"], "correct_index": 0, "solution": "Adding organic matter or mild acidic materials reduces excess alkalinity in soil.", "difficulty": "medium"},
-  {"stem": "An antacid tablet relieves acidity in the stomach because it is a mild __________.", "options": ["base that neutralises excess acid", "acid", "salt", "indicator"], "correct_index": 0, "solution": "Antacids are mild bases that neutralise excess stomach acid, relieving acidity.", "difficulty": "medium"},
-  {"stem": "The sting of an ant is best treated by rubbing a mild __________.", "options": ["base like baking soda", "acid like vinegar", "salt solution", "sugar"], "correct_index": 0, "solution": "Ant stings inject formic acid; a mild base like baking soda neutralises it and relieves pain.", "difficulty": "medium"},
-  {"stem": "A bee sting (acidic) can be neutralised using __________.", "options": ["a mild base such as baking soda", "vinegar", "lemon juice", "a strong acid"], "correct_index": 0, "solution": "A bee sting is acidic; applying a mild base like baking soda neutralises it.", "difficulty": "medium"},
-  {"stem": "A wasp sting is alkaline (basic) and can be neutralised using a mild __________.", "options": ["acid such as vinegar", "base", "salt", "water only"], "correct_index": 0, "solution": "Since a wasp sting is basic, a mild acid like vinegar can neutralise it.", "difficulty": "hard"},
-  {"stem": "Which of the following is a strong acid used in laboratories?", "options": ["Hydrochloric acid", "Citric acid", "Acetic acid", "Lactic acid"], "correct_index": 0, "solution": "Hydrochloric acid is a strong mineral acid; the others are weaker organic acids.", "difficulty": "medium"},
-  {"stem": "Phenolphthalein indicator turns __________ in a basic solution.", "options": ["pink", "red", "yellow", "green"], "correct_index": 0, "solution": "Phenolphthalein is colourless in acids and neutral solutions and turns pink in bases.", "difficulty": "medium"},
-  {"stem": "Bases that dissolve in water are called __________.", "options": ["alkalis", "acids", "salts", "indicators"], "correct_index": 0, "solution": "An alkali is a base that is soluble in water, e.g., sodium hydroxide.", "difficulty": "medium"},
-  {"stem": "Common salt (sodium chloride) is formed by the neutralisation of __________.", "options": ["hydrochloric acid and sodium hydroxide", "vinegar and lime", "citric acid and turmeric", "sugar and water"], "correct_index": 0, "solution": "Hydrochloric acid + sodium hydroxide → sodium chloride (common salt) + water.", "difficulty": "medium"},
-  {"stem": "Which of the following would you use to test if a liquid is acidic without tasting it?", "options": ["Litmus paper", "A magnet", "A thermometer", "A ruler"], "correct_index": 0, "solution": "Litmus paper is a safe indicator to test acidity/basicity; one should never taste unknown chemicals.", "difficulty": "easy"},
-  {"stem": "The reddish-brown stain of turmeric on cloth turns red when soap is applied because soap is __________.", "options": ["basic", "acidic", "neutral", "a salt"], "correct_index": 0, "solution": "Soap is basic; turmeric turns red in a base, explaining the stain change.", "difficulty": "medium"},
-  {"stem": "Excess use of a strong acid or base is dangerous because they are __________.", "options": ["corrosive and can harm skin and eyes", "sweet and harmless", "neutral", "edible"], "correct_index": 0, "solution": "Strong acids and bases are corrosive and can cause serious burns, so they must be handled carefully.", "difficulty": "medium"},
-  {"stem": "Which of the following pairs is correctly matched?", "options": ["Curd – lactic acid", "Vinegar – citric acid", "Lemon – acetic acid", "Ant sting – hydrochloric acid"], "correct_index": 0, "solution": "Curd contains lactic acid. (Vinegar–acetic acid, lemon–citric acid, ant sting–formic acid.)", "difficulty": "medium"},
-  {"stem": "When an acid is added drop by drop to a base with an indicator, the point where the solution becomes neutral is shown by a __________.", "options": ["change in indicator colour", "rise in temperature only", "release of light", "formation of gas only"], "correct_index": 0, "solution": "The indicator changes colour at the point of neutralisation, marking the neutral state.", "difficulty": "medium"},
-  {"stem": "Toothpaste is generally __________ in nature to neutralise the acids formed in the mouth.", "options": ["basic (mildly)", "strongly acidic", "neutral only", "a salt"], "correct_index": 0, "solution": "Toothpaste is mildly basic to neutralise the acids produced by bacteria that cause tooth decay.", "difficulty": "medium"},
-  {"stem": "Which household substance is basic?", "options": ["Baking soda solution", "Lemon juice", "Vinegar", "Tamarind"], "correct_index": 0, "solution": "Baking soda solution is basic; lemon, vinegar and tamarind are acidic.", "difficulty": "easy"},
-  {"stem": "Factory wastes are sometimes acidic or basic and are neutralised before disposal to __________.", "options": ["prevent harm to aquatic life and the environment", "increase pollution", "colour the water", "make the water sweet"], "correct_index": 0, "solution": "Neutralising factory effluents before disposal protects water bodies and aquatic life.", "difficulty": "medium"},
-  {"stem": "Which of the following will turn moist red litmus paper blue?", "options": ["A soap solution", "Lemon juice", "Vinegar", "Curd"], "correct_index": 0, "solution": "A base (soap solution) turns red litmus blue; the acidic items do not.", "difficulty": "easy"},
-  {"stem": "The best way to describe common salt is that it is __________.", "options": ["a neutral compound formed from an acid and a base", "an acid", "a base", "an indicator"], "correct_index": 0, "solution": "Common salt (sodium chloride) is a neutral salt formed by neutralisation of an acid and a base.", "difficulty": "medium"},
-  {"stem": "Which of the following is a natural indicator?", "options": ["Red cabbage extract", "Sodium chloride", "Distilled water", "Copper wire"], "correct_index": 0, "solution": "Red cabbage extract is a natural indicator that changes colour with acids and bases.", "difficulty": "medium"},
-  {"stem": "Indigestion caused by too much stomach acid is relieved by taking an antacid, which works by __________.", "options": ["neutralising the excess acid", "adding more acid", "removing water", "cooling the stomach"], "correct_index": 0, "solution": "Antacids are mild bases that neutralise the excess hydrochloric acid in the stomach.", "difficulty": "medium"},
-  {"stem": "A solution turns blue litmus red and phenolphthalein remains colourless. The solution is __________.", "options": ["acidic", "basic", "neutral", "a strong base"], "correct_index": 0, "solution": "Turning blue litmus red and keeping phenolphthalein colourless both indicate an acidic solution.", "difficulty": "hard"},
-  {"stem": "A solution turns red litmus blue and phenolphthalein pink. The solution is __________.", "options": ["basic", "acidic", "neutral", "a salt only"], "correct_index": 0, "solution": "Turning red litmus blue and phenolphthalein pink both indicate a basic solution.", "difficulty": "hard"},
-  {"stem": "Which of the following correctly represents neutralisation?", "options": ["Acid + Base → Salt + Water", "Acid + Acid → Salt + Water", "Base + Base → Salt + Gas", "Salt + Water → Acid + Base"], "correct_index": 0, "solution": "Neutralisation is Acid + Base → Salt + Water.", "difficulty": "easy"},
-  {"stem": "Which of the following is used to treat a bee sting and an ant bite (both acidic)?", "options": ["A mild base like baking soda", "Lemon juice", "Vinegar", "A strong acid"], "correct_index": 0, "solution": "Both acidic stings are relieved by applying a mild base such as baking soda.", "difficulty": "medium"},
-  {"stem": "Which of the following will NOT change the colour of litmus paper?", "options": ["Sugar solution", "Lemon juice", "Soap solution", "Vinegar"], "correct_index": 0, "solution": "Sugar solution is neutral and does not change litmus colour; the others are acidic or basic.", "difficulty": "medium"},
-  {"stem": "The gas released when many acids react with metals is __________.", "options": ["hydrogen", "oxygen", "carbon dioxide", "nitrogen"], "correct_index": 0, "solution": "Acids typically react with reactive metals to release hydrogen gas.", "difficulty": "hard"},
-  {"stem": "A safe rule when handling laboratory acids and bases is to __________.", "options": ["never taste them and add acid to water carefully, not water to acid", "always taste to identify them", "mix them randomly", "pour water into concentrated acid quickly"], "correct_index": 0, "solution": "Never taste chemicals; when diluting, add acid to water slowly to avoid dangerous splashing.", "difficulty": "medium"},
-  {"stem": "Tartaric acid, used in baking, is naturally found in __________.", "options": ["tamarind and grapes", "curd", "vinegar", "ant stings"], "correct_index": 0, "solution": "Tartaric acid occurs naturally in tamarind and grapes.", "difficulty": "hard"},
-  {"stem": "The overall message of the chapter 'Acids, Bases and Salts' is that:", "options": ["acids and bases have characteristic properties tested by indicators, and they neutralise each other to form salts and water", "all substances are acids", "indicators have no use", "acids and bases never react"], "correct_index": 0, "solution": "The chapter explains the properties of acids and bases, their detection using indicators, and the neutralisation reaction that forms salt and water.", "difficulty": "easy"}
+  {
+    "stem": "Substances that taste sour and turn blue litmus red are called __________.",
+    "options": [
+      "acids",
+      "bases",
+      "salts",
+      "neutral substances"
+    ],
+    "correct_index": 0,
+    "solution": "Acids taste sour and turn blue litmus red.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Substances that taste bitter and feel soapy, turning red litmus blue, are called __________.",
+    "options": [
+      "bases",
+      "acids",
+      "salts",
+      "indicators"
+    ],
+    "correct_index": 0,
+    "solution": "Bases taste bitter, feel soapy, and turn red litmus blue.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A special substance used to test whether a solution is acidic or basic is called an __________.",
+    "options": [
+      "indicator",
+      "acid",
+      "base",
+      "electrolyte"
+    ],
+    "correct_index": 0,
+    "solution": "An indicator changes colour to show whether a substance is acidic or basic.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The natural indicator obtained from lichens is __________.",
+    "options": [
+      "litmus",
+      "turmeric",
+      "china rose",
+      "phenolphthalein"
+    ],
+    "correct_index": 0,
+    "solution": "Litmus is a natural indicator obtained from lichens; it is available as red and blue litmus.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Blue litmus turns __________ in an acidic solution.",
+    "options": [
+      "red",
+      "green",
+      "yellow",
+      "black"
+    ],
+    "correct_index": 0,
+    "solution": "Acids turn blue litmus red.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Red litmus turns __________ in a basic solution.",
+    "options": [
+      "blue",
+      "red",
+      "colourless",
+      "orange"
+    ],
+    "correct_index": 0,
+    "solution": "Bases turn red litmus blue.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Turmeric is a natural indicator that turns __________ in a basic solution.",
+    "options": [
+      "red (reddish-brown)",
+      "blue",
+      "green",
+      "black"
+    ],
+    "correct_index": 0,
+    "solution": "Yellow turmeric turns reddish-brown in a base and returns to yellow when the base is neutralised.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The china rose indicator turns __________ with acids.",
+    "options": [
+      "dark pink (magenta)",
+      "green",
+      "blue",
+      "yellow"
+    ],
+    "correct_index": 0,
+    "solution": "China rose indicator turns dark pink (magenta) in acids and green in bases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is present in lemon and gives it a sour taste?",
+    "options": [
+      "Citric acid",
+      "Acetic acid",
+      "Hydrochloric acid",
+      "Lactic acid"
+    ],
+    "correct_index": 0,
+    "solution": "Citric acid gives lemons and other citrus fruits their sour taste.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The acid present in vinegar is __________.",
+    "options": [
+      "acetic acid",
+      "citric acid",
+      "tartaric acid",
+      "formic acid"
+    ],
+    "correct_index": 0,
+    "solution": "Vinegar contains acetic acid.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The acid found in curd and sour milk is __________.",
+    "options": [
+      "lactic acid",
+      "citric acid",
+      "acetic acid",
+      "oxalic acid"
+    ],
+    "correct_index": 0,
+    "solution": "Lactic acid is present in curd and sour milk.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The acid present in a bee or ant sting that causes pain is __________.",
+    "options": [
+      "formic acid",
+      "citric acid",
+      "acetic acid",
+      "sulphuric acid"
+    ],
+    "correct_index": 0,
+    "solution": "Ant and bee stings inject formic acid, causing pain, which can be soothed by a mild base.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The acid present in the stomach that aids digestion is __________.",
+    "options": [
+      "hydrochloric acid",
+      "citric acid",
+      "acetic acid",
+      "carbonic acid"
+    ],
+    "correct_index": 0,
+    "solution": "The stomach contains hydrochloric acid, which helps in digestion.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A common base found in soaps and used in cleaning is __________.",
+    "options": [
+      "sodium hydroxide",
+      "hydrochloric acid",
+      "citric acid",
+      "vinegar"
+    ],
+    "correct_index": 0,
+    "solution": "Sodium hydroxide (caustic soda) is a strong base used in soaps and cleaning products.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Milk of magnesia, used to treat acidity, is a __________.",
+    "options": [
+      "base (magnesium hydroxide)",
+      "strong acid",
+      "salt only",
+      "neutral substance"
+    ],
+    "correct_index": 0,
+    "solution": "Milk of magnesia is a mild base (magnesium hydroxide) that neutralises excess stomach acid.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reaction between an acid and a base to form salt and water is called __________.",
+    "options": [
+      "neutralisation",
+      "oxidation",
+      "combustion",
+      "sublimation"
+    ],
+    "correct_index": 0,
+    "solution": "Neutralisation is the reaction of an acid with a base to form a salt and water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a neutralisation reaction, an acid and a base react to give __________.",
+    "options": [
+      "a salt and water",
+      "two acids",
+      "two bases",
+      "only a gas"
+    ],
+    "correct_index": 0,
+    "solution": "Acid + Base → Salt + Water is the general neutralisation reaction.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A solution that is neither acidic nor basic is called __________.",
+    "options": [
+      "neutral",
+      "concentrated",
+      "dilute",
+      "saturated"
+    ],
+    "correct_index": 0,
+    "solution": "A neutral solution, like pure water, is neither acidic nor basic and does not change litmus colour.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is a neutral substance?",
+    "options": [
+      "Distilled water",
+      "Lemon juice",
+      "Soap solution",
+      "Vinegar"
+    ],
+    "correct_index": 0,
+    "solution": "Distilled water is neutral; lemon juice and vinegar are acidic and soap solution is basic.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A farmer treats acidic soil by adding __________ to neutralise the acidity.",
+    "options": [
+      "lime (a base) such as quicklime or slaked lime",
+      "vinegar",
+      "lemon juice",
+      "more acid"
+    ],
+    "correct_index": 0,
+    "solution": "Basic substances like lime neutralise excess acid in soil, improving it for crops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "If the soil is too basic (alkaline), it can be treated by adding __________.",
+    "options": [
+      "organic matter or acidic material",
+      "more lime",
+      "sodium hydroxide",
+      "soap"
+    ],
+    "correct_index": 0,
+    "solution": "Adding organic matter or mild acidic materials reduces excess alkalinity in soil.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An antacid tablet relieves acidity in the stomach because it is a mild __________.",
+    "options": [
+      "base that neutralises excess acid",
+      "acid",
+      "salt",
+      "indicator"
+    ],
+    "correct_index": 0,
+    "solution": "Antacids are mild bases that neutralise excess stomach acid, relieving acidity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The sting of an ant is best treated by rubbing a mild __________.",
+    "options": [
+      "base like baking soda",
+      "acid like vinegar",
+      "salt solution",
+      "sugar"
+    ],
+    "correct_index": 0,
+    "solution": "Ant stings inject formic acid; a mild base like baking soda neutralises it and relieves pain.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A bee sting (acidic) can be neutralised using __________.",
+    "options": [
+      "a mild base such as baking soda",
+      "vinegar",
+      "lemon juice",
+      "a strong acid"
+    ],
+    "correct_index": 0,
+    "solution": "A bee sting is acidic; applying a mild base like baking soda neutralises it.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A wasp sting is alkaline (basic) and can be neutralised using a mild __________.",
+    "options": [
+      "acid such as vinegar",
+      "base",
+      "salt",
+      "water only"
+    ],
+    "correct_index": 0,
+    "solution": "Since a wasp sting is basic, a mild acid like vinegar can neutralise it.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following is a strong acid used in laboratories?",
+    "options": [
+      "Hydrochloric acid",
+      "Citric acid",
+      "Acetic acid",
+      "Lactic acid"
+    ],
+    "correct_index": 0,
+    "solution": "Hydrochloric acid is a strong mineral acid; the others are weaker organic acids.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Phenolphthalein indicator turns __________ in a basic solution.",
+    "options": [
+      "pink",
+      "red",
+      "yellow",
+      "green"
+    ],
+    "correct_index": 0,
+    "solution": "Phenolphthalein is colourless in acids and neutral solutions and turns pink in bases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bases that dissolve in water are called __________.",
+    "options": [
+      "alkalis",
+      "acids",
+      "salts",
+      "indicators"
+    ],
+    "correct_index": 0,
+    "solution": "An alkali is a base that is soluble in water, e.g., sodium hydroxide.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Common salt (sodium chloride) is formed by the neutralisation of __________.",
+    "options": [
+      "hydrochloric acid and sodium hydroxide",
+      "vinegar and lime",
+      "citric acid and turmeric",
+      "sugar and water"
+    ],
+    "correct_index": 0,
+    "solution": "Hydrochloric acid + sodium hydroxide → sodium chloride (common salt) + water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following would you use to test if a liquid is acidic without tasting it?",
+    "options": [
+      "Litmus paper",
+      "A magnet",
+      "A thermometer",
+      "A ruler"
+    ],
+    "correct_index": 0,
+    "solution": "Litmus paper is a safe indicator to test acidity/basicity; one should never taste unknown chemicals.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The reddish-brown stain of turmeric on cloth turns red when soap is applied because soap is __________.",
+    "options": [
+      "basic",
+      "acidic",
+      "neutral",
+      "a salt"
+    ],
+    "correct_index": 0,
+    "solution": "Soap is basic; turmeric turns red in a base, explaining the stain change.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Excess use of a strong acid or base is dangerous because they are __________.",
+    "options": [
+      "corrosive and can harm skin and eyes",
+      "sweet and harmless",
+      "neutral",
+      "edible"
+    ],
+    "correct_index": 0,
+    "solution": "Strong acids and bases are corrosive and can cause serious burns, so they must be handled carefully.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Curd – lactic acid",
+      "Vinegar – citric acid",
+      "Lemon – acetic acid",
+      "Ant sting – hydrochloric acid"
+    ],
+    "correct_index": 0,
+    "solution": "Curd contains lactic acid. (Vinegar–acetic acid, lemon–citric acid, ant sting–formic acid.)",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When an acid is added drop by drop to a base with an indicator, the point where the solution becomes neutral is shown by a __________.",
+    "options": [
+      "change in indicator colour",
+      "rise in temperature only",
+      "release of light",
+      "formation of gas only"
+    ],
+    "correct_index": 0,
+    "solution": "The indicator changes colour at the point of neutralisation, marking the neutral state.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Toothpaste is generally __________ in nature to neutralise the acids formed in the mouth.",
+    "options": [
+      "basic (mildly)",
+      "strongly acidic",
+      "neutral only",
+      "a salt"
+    ],
+    "correct_index": 0,
+    "solution": "Toothpaste is mildly basic to neutralise the acids produced by bacteria that cause tooth decay.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which household substance is basic?",
+    "options": [
+      "Baking soda solution",
+      "Lemon juice",
+      "Vinegar",
+      "Tamarind"
+    ],
+    "correct_index": 0,
+    "solution": "Baking soda solution is basic; lemon, vinegar and tamarind are acidic.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Factory wastes are sometimes acidic or basic and are neutralised before disposal to __________.",
+    "options": [
+      "prevent harm to aquatic life and the environment",
+      "increase pollution",
+      "colour the water",
+      "make the water sweet"
+    ],
+    "correct_index": 0,
+    "solution": "Neutralising factory effluents before disposal protects water bodies and aquatic life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following will turn moist red litmus paper blue?",
+    "options": [
+      "A soap solution",
+      "Lemon juice",
+      "Vinegar",
+      "Curd"
+    ],
+    "correct_index": 0,
+    "solution": "A base (soap solution) turns red litmus blue; the acidic items do not.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "The best way to describe common salt is that it is __________.",
+    "options": [
+      "a neutral compound formed from an acid and a base",
+      "an acid",
+      "a base",
+      "an indicator"
+    ],
+    "correct_index": 0,
+    "solution": "Common salt (sodium chloride) is a neutral salt formed by neutralisation of an acid and a base.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a natural indicator?",
+    "options": [
+      "Red cabbage extract",
+      "Sodium chloride",
+      "Distilled water",
+      "Copper wire"
+    ],
+    "correct_index": 0,
+    "solution": "Red cabbage extract is a natural indicator that changes colour with acids and bases.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Indigestion caused by too much stomach acid is relieved by taking an antacid, which works by __________.",
+    "options": [
+      "neutralising the excess acid",
+      "adding more acid",
+      "removing water",
+      "cooling the stomach"
+    ],
+    "correct_index": 0,
+    "solution": "Antacids are mild bases that neutralise the excess hydrochloric acid in the stomach.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A solution turns blue litmus red and phenolphthalein remains colourless. The solution is __________.",
+    "options": [
+      "acidic",
+      "basic",
+      "neutral",
+      "a strong base"
+    ],
+    "correct_index": 0,
+    "solution": "Turning blue litmus red and keeping phenolphthalein colourless both indicate an acidic solution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A solution turns red litmus blue and phenolphthalein pink. The solution is __________.",
+    "options": [
+      "basic",
+      "acidic",
+      "neutral",
+      "a salt only"
+    ],
+    "correct_index": 0,
+    "solution": "Turning red litmus blue and phenolphthalein pink both indicate a basic solution.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which of the following correctly represents neutralisation?",
+    "options": [
+      "Acid + Base → Salt + Water",
+      "Acid + Acid → Salt + Water",
+      "Base + Base → Salt + Gas",
+      "Salt + Water → Acid + Base"
+    ],
+    "correct_index": 0,
+    "solution": "Neutralisation is Acid + Base → Salt + Water.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which of the following is used to treat a bee sting and an ant bite (both acidic)?",
+    "options": [
+      "A mild base like baking soda",
+      "Lemon juice",
+      "Vinegar",
+      "A strong acid"
+    ],
+    "correct_index": 0,
+    "solution": "Both acidic stings are relieved by applying a mild base such as baking soda.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following will NOT change the colour of litmus paper?",
+    "options": [
+      "Sugar solution",
+      "Lemon juice",
+      "Soap solution",
+      "Vinegar"
+    ],
+    "correct_index": 0,
+    "solution": "Sugar solution is neutral and does not change litmus colour; the others are acidic or basic.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The gas released when many acids react with metals is __________.",
+    "options": [
+      "hydrogen",
+      "oxygen",
+      "carbon dioxide",
+      "nitrogen"
+    ],
+    "correct_index": 0,
+    "solution": "Acids typically react with reactive metals to release hydrogen gas.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A safe rule when handling laboratory acids and bases is to __________.",
+    "options": [
+      "never taste them and add acid to water carefully, not water to acid",
+      "always taste to identify them",
+      "mix them randomly",
+      "pour water into concentrated acid quickly"
+    ],
+    "correct_index": 0,
+    "solution": "Never taste chemicals; when diluting, add acid to water slowly to avoid dangerous splashing.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Tartaric acid, used in baking, is naturally found in __________.",
+    "options": [
+      "tamarind and grapes",
+      "curd",
+      "vinegar",
+      "ant stings"
+    ],
+    "correct_index": 0,
+    "solution": "Tartaric acid occurs naturally in tamarind and grapes.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The overall message of the chapter 'Acids, Bases and Salts' is that:",
+    "options": [
+      "acids and bases have characteristic properties tested by indicators, and they neutralise each other to form salts and water",
+      "all substances are acids",
+      "indicators have no use",
+      "acids and bases never react"
+    ],
+    "correct_index": 0,
+    "solution": "The chapter explains the properties of acids and bases, their detection using indicators, and the neutralisation reaction that forms salt and water.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Substances that taste sour and turn blue litmus red are called:",
+    "options": [
+      "Bases",
+      "Acids",
+      "Salts",
+      "Neutral substances"
+    ],
+    "correct_index": 1,
+    "solution": "Acids are sour-tasting substances that turn blue litmus paper red; examples include the citric acid in lemons and the acetic acid in vinegar.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Substances that taste bitter, feel soapy and turn red litmus blue are called:",
+    "options": [
+      "Acids",
+      "Bases",
+      "Salts",
+      "Indicators"
+    ],
+    "correct_index": 1,
+    "solution": "Bases are bitter-tasting, soapy-feeling substances that turn red litmus paper blue; examples include baking soda and soap solutions.",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A special substance used to test whether a solution is acidic or basic is called an:",
+    "options": [
+      "Element",
+      "Indicator",
+      "Acid",
+      "Salt"
+    ],
+    "correct_index": 1,
+    "solution": "An indicator is a substance that shows (usually by a change of colour) whether a solution is acidic, basic or neutral; litmus, turmeric and China rose are common indicators.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Litmus is a natural indicator obtained from:",
+    "options": [
+      "Turmeric",
+      "Lichens",
+      "Roses",
+      "Onions"
+    ],
+    "correct_index": 1,
+    "solution": "Litmus is a natural indicator extracted from lichens; it is available as blue and red litmus paper (and as a solution).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An acid turns blue litmus ______, and a base turns red litmus ______.",
+    "options": [
+      "blue; red",
+      "red; blue",
+      "green; yellow",
+      "black; white"
+    ],
+    "correct_index": 1,
+    "solution": "Acids turn blue litmus red, and bases turn red litmus blue; a neutral substance does not change the colour of either litmus.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Turmeric is a natural indicator that turns ______ in a basic solution.",
+    "options": [
+      "red",
+      "reddish-brown",
+      "green",
+      "black"
+    ],
+    "correct_index": 1,
+    "solution": "Turmeric (yellow) turns reddish-brown in a basic solution; this is why a turmeric (yellow) stain on cloth turns red when soap (a base) is applied.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The acid present in lemon and other citrus fruits is:",
+    "options": [
+      "Acetic acid",
+      "Citric acid",
+      "Lactic acid",
+      "Hydrochloric acid"
+    ],
+    "correct_index": 1,
+    "solution": "Citric acid is present in lemons, oranges and other citrus fruits, giving them their sour taste.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The acid present in vinegar is:",
+    "options": [
+      "Citric acid",
+      "Acetic acid",
+      "Formic acid",
+      "Tartaric acid"
+    ],
+    "correct_index": 1,
+    "solution": "Vinegar contains acetic acid, which gives it its sour taste and is used in cooking and food preservation.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The acid present in an ant's sting (and nettle stings) is:",
+    "options": [
+      "Citric acid",
+      "Formic acid",
+      "Acetic acid",
+      "Lactic acid"
+    ],
+    "correct_index": 1,
+    "solution": "Formic acid is present in the sting of ants and nettle plants; it causes the pain and irritation of the sting.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "The acid found in curd and sour milk is:",
+    "options": [
+      "Citric acid",
+      "Lactic acid",
+      "Acetic acid",
+      "Formic acid"
+    ],
+    "correct_index": 1,
+    "solution": "Lactic acid is present in curd and sour milk, produced by bacteria acting on the milk sugar (lactose).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The acid present in the stomach that helps in digestion is:",
+    "options": [
+      "Sulphuric acid",
+      "Hydrochloric acid",
+      "Nitric acid",
+      "Citric acid"
+    ],
+    "correct_index": 1,
+    "solution": "Hydrochloric acid (HCl) is present in the stomach; it helps digest food and kills germs, but its excess causes acidity (indigestion).",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The reaction between an acid and a base, which produces a salt and water, is called:",
+    "options": [
+      "Oxidation",
+      "Neutralisation",
+      "Combustion",
+      "Rusting"
+    ],
+    "correct_index": 1,
+    "solution": "Neutralisation is the reaction between an acid and a base to form a salt and water, in which both the acid and base lose their characteristic properties.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In a neutralisation reaction, the products formed are:",
+    "options": [
+      "Only water",
+      "A salt and water",
+      "Only a gas",
+      "A new acid"
+    ],
+    "correct_index": 1,
+    "solution": "When an acid reacts with a base (neutralisation), the products are a salt and water; the acidic and basic natures are cancelled out.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An 'antacid' relieves acidity in the stomach because it is a mild ______ that neutralises excess acid.",
+    "options": [
+      "acid",
+      "base",
+      "salt",
+      "indicator"
+    ],
+    "correct_index": 1,
+    "solution": "Antacids (like milk of magnesia, containing magnesium hydroxide) are mild bases that neutralise the excess hydrochloric acid in the stomach, relieving acidity.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "When bitten by an ant (formic acid), applying baking soda (a base) relieves the pain because of:",
+    "options": [
+      "Oxidation",
+      "Neutralisation of the acid",
+      "Evaporation",
+      "Combustion"
+    ],
+    "correct_index": 1,
+    "solution": "Applying a mild base like baking soda neutralises the formic acid injected by the ant's sting, relieving the pain — an example of neutralisation in daily life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Farmers add ______ (a base) to neutralise acidic soil.",
+    "options": [
+      "vinegar",
+      "lime/quicklime (calcium compounds)",
+      "lemon juice",
+      "salt"
+    ],
+    "correct_index": 1,
+    "solution": "When soil is too acidic, farmers add bases like lime (quicklime or slaked lime) to neutralise the excess acid and make the soil suitable for crops.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Common salt (sodium chloride) is formed by the neutralisation of hydrochloric acid and:",
+    "options": [
+      "Sulphuric acid",
+      "Sodium hydroxide (a base)",
+      "Nitric acid",
+      "Water"
+    ],
+    "correct_index": 1,
+    "solution": "Common salt (NaCl) is formed when hydrochloric acid (HCl) reacts with the base sodium hydroxide (NaOH), producing salt and water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A solution that is neither acidic nor basic is called:",
+    "options": [
+      "Acidic",
+      "Basic",
+      "Neutral",
+      "Salty"
+    ],
+    "correct_index": 2,
+    "solution": "A neutral solution is neither acidic nor basic; it does not change the colour of litmus. Pure water is neutral.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The China rose (Hibiscus) natural indicator turns acidic solutions ______.",
+    "options": [
+      "dark green",
+      "magenta/dark pink",
+      "black",
+      "yellow"
+    ],
+    "correct_index": 1,
+    "solution": "China rose (Hibiscus) indicator turns acidic solutions dark pink (magenta) and basic solutions green.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Factory waste often contains acids and bases which, if released untreated into water bodies, can:",
+    "options": [
+      "Purify the water",
+      "Harm aquatic life and pollute water",
+      "Have no effect",
+      "Improve fish health"
+    ],
+    "correct_index": 1,
+    "solution": "Untreated factory waste containing acids and bases can harm aquatic organisms and pollute water; such waste is neutralised before being released to make it less harmful.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Acid rain, which damages buildings and plants, is caused by acids formed from gases like:",
+    "options": [
+      "Oxygen and nitrogen",
+      "Sulphur dioxide and nitrogen oxides",
+      "Carbon dioxide only",
+      "Water vapour"
+    ],
+    "correct_index": 1,
+    "solution": "Acid rain forms when gases like sulphur dioxide and nitrogen oxides (from burning fuels) dissolve in rainwater to form acids, damaging buildings, monuments, plants and aquatic life.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Toothpaste is usually ______ in nature to neutralise the acids formed in the mouth.",
+    "options": [
+      "acidic",
+      "basic",
+      "neutral",
+      "salty"
+    ],
+    "correct_index": 1,
+    "solution": "Toothpaste is mildly basic; it neutralises the acids produced by bacteria in the mouth, protecting the teeth from decay.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which of the following is a strong acid?",
+    "options": [
+      "Citric acid",
+      "Sulphuric acid",
+      "Acetic acid",
+      "Lactic acid"
+    ],
+    "correct_index": 1,
+    "solution": "Sulphuric acid (like hydrochloric and nitric acid) is a strong mineral acid; citric, acetic and lactic acids are weak organic acids found in food.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which statement about acids and bases is correct? (i) Acids turn blue litmus red (ii) Bases turn red litmus blue (iii) Neutralisation gives salt and water",
+    "options": [
+      "Only (i)",
+      "Only (i) and (ii)",
+      "(i), (ii) and (iii)",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "All three are correct: acids turn blue litmus red, bases turn red litmus blue, and neutralisation of an acid with a base gives a salt and water.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Baking soda (sodium bicarbonate) is:",
+    "options": [
+      "A strong acid",
+      "A mild base",
+      "A strong acid and base",
+      "Neutral only"
+    ],
+    "correct_index": 1,
+    "solution": "Baking soda (sodium bicarbonate) is a mild base; it is used in cooking, as an antacid, and to neutralise acids.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "We should never taste unknown chemicals to test if they are acids or bases because:",
+    "options": [
+      "It is fun",
+      "Many acids and bases are corrosive and can be harmful/poisonous",
+      "It is the best test",
+      "It is required"
+    ],
+    "correct_index": 1,
+    "solution": "Many acids and bases are corrosive, toxic or dangerous, so we must never taste unknown chemicals; indicators like litmus are used to test them safely.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The overall importance of neutralisation in daily life includes:",
+    "options": [
+      "No uses",
+      "Treating acidity, soothing insect stings, treating soil, and treating factory waste",
+      "Only in laboratories",
+      "Only for taste"
+    ],
+    "correct_index": 1,
+    "solution": "Neutralisation has many everyday uses — antacids for acidity, treating ant/bee stings, correcting soil pH for farming, and neutralising acidic/basic industrial waste before disposal.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A bee sting injects an acid, so it is treated with a mild ______; a wasp sting is alkaline, so it is treated with a mild ______.",
+    "options": [
+      "base; acid",
+      "acid; base",
+      "salt; water",
+      "water; salt"
+    ],
+    "correct_index": 0,
+    "solution": "A bee sting (acidic) is treated with a mild base like baking soda, while a wasp sting (alkaline/basic) is treated with a mild acid like vinegar — both by neutralisation.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A solution turns red litmus blue but does not change blue litmus; the solution is:",
+    "options": [
+      "Acidic",
+      "Basic",
+      "Neutral",
+      "A salt"
+    ],
+    "correct_index": 1,
+    "solution": "A solution that turns red litmus blue (and leaves blue litmus unchanged) is basic in nature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The products of the neutralisation of nitric acid and potassium hydroxide would be:",
+    "options": [
+      "A salt (potassium nitrate) and water",
+      "Only water",
+      "Only a gas",
+      "A new acid"
+    ],
+    "correct_index": 0,
+    "solution": "Neutralisation of nitric acid (HNO3) with the base potassium hydroxide (KOH) produces the salt potassium nitrate (KNO3) and water.",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Turmeric-stained clothes turning red when washed with soap shows that soap is:",
+    "options": [
+      "Acidic",
+      "Basic",
+      "Neutral",
+      "A salt"
+    ],
+    "correct_index": 1,
+    "solution": "Turmeric (a natural indicator) turns red in the presence of a base, so a turmeric stain turning red when soap is applied shows that soap is basic in nature.",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "The main use of indicators in the study of acids and bases is to:",
+    "options": [
+      "Add colour to food",
+      "Safely identify whether a substance is acidic, basic or neutral",
+      "Increase acidity",
+      "Neutralise acids"
+    ],
+    "correct_index": 1,
+    "solution": "Indicators are used to safely identify the nature of a substance (acidic, basic or neutral) by their colour change, without having to taste or touch dangerous chemicals.",
+    "difficulty": "medium"
+  }
 ]
