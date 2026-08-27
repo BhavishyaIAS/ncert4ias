@@ -1,0 +1,26 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "State Newton's three laws of motion and explain the concept of inertia.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Inertia.", "text": "Inertia is the natural tendency of an object to resist any change in its state of rest or of uniform motion. The mass of an object is a measure of its inertia, so a heavier object is harder to start or stop." },
+        { "lead": "First law.", "text": "An object remains at rest or in uniform motion in a straight line unless acted upon by an unbalanced force; this is also called the law of inertia." },
+        { "lead": "Second law.", "text": "The force acting on an object equals its mass times its acceleration, written as F equals m a, and is the rate of change of momentum. The SI unit of force is the newton." },
+        { "lead": "Third law.", "text": "To every action there is an equal and opposite reaction, the two forces acting on different bodies." }
+      ]
+    },
+    {
+      "q": "What is momentum, and state the law of conservation of momentum with an example.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Momentum.", "text": "Momentum is the product of the mass of an object and its velocity. It is a vector quantity, having both magnitude and direction, and its SI unit is the kilogram metre per second. A heavy, fast-moving body has large momentum and is hard to stop." },
+        { "lead": "Conservation of momentum.", "text": "The law of conservation of momentum states that, in the absence of any external force, the total momentum of a system of bodies remains constant." },
+        { "lead": "Example.", "text": "When a gun is fired, the bullet moves forward with a certain momentum, and the gun recoils backward with an equal momentum in the opposite direction, so that the total momentum stays zero. The same principle explains how rockets are propelled." }
+      ]
+    }
+  ]
+}

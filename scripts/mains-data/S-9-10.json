@@ -1,0 +1,23 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "How does sound travel, and what are the characteristics of a sound wave?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "How sound travels.", "text": "Sound is produced by vibrating objects and travels as a longitudinal wave, in which the particles of the medium vibrate back and forth along the direction of travel, forming compressions and rarefactions. Sound needs a material medium and cannot travel through a vacuum; it moves fastest through solids and slowest through gases." },
+        { "lead": "Characteristics.", "text": "The frequency of a wave, measured in hertz, decides the pitch, and the amplitude decides the loudness. The wavelength is the distance between two consecutive compressions, and the speed equals frequency times wavelength. The human ear can hear frequencies from about 20 to 20,000 hertz; below this range is infrasound and above it is ultrasound." }
+      ]
+    },
+    {
+      "q": "What is an echo, and how is SONAR used?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Echo.", "text": "An echo is a sound heard again after it is reflected from a distant surface. For the reflected sound to be heard as a separate echo, the reflecting surface must be at least about 17.2 metres away, so that the reflected sound reaches the ear after one-tenth of a second. Repeated reflections that make a sound persist in a hall are called reverberation." },
+        { "lead": "SONAR.", "text": "SONAR, which stands for Sound Navigation and Ranging, uses ultrasound and the principle of the echo. A device sends ultrasonic waves into the sea, and by timing the echo that returns after striking the sea bed or an object, it can measure the depth of the ocean and locate submarines or shoals of fish. Bats and dolphins use the same idea, called echolocation, to navigate." }
+      ]
+    }
+  ]
+}
