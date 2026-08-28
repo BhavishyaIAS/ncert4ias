@@ -1,0 +1,17 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "Explain the mean, median and mode as measures of central tendency, with their merits and demerits.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "A measure of central tendency is a single value that represents an entire set of data, and the three main measures are the mean, the median and the mode.",
+        { "lead": "Arithmetic mean.", "text": "The mean is found by adding all the values and dividing by their number. It uses every observation and is easy to compute, but it is strongly affected by extreme values, which can distort it." },
+        { "lead": "Median.", "text": "The median is the middle value when the data are arranged in order, so that half the values lie above and half below it. It is a positional average, is not affected by extreme values, and can be located graphically using an ogive." },
+        { "lead": "Mode.", "text": "The mode is the value that occurs most frequently. It is simple to understand and unaffected by extreme values, and is useful for qualitative data, but it may be ill-defined when there is no clear or single most frequent value." },
+        "The three are related by the empirical formula, mode equals three times median minus twice the mean."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "source": "NCERT Class XI, Statistics for Economics, Ch. 5 (Measures of Central Tendency).",
+  "sections": [
+    {
+      "heading": "1. Central Tendency — Meaning",
+      "points": [
+        "A **measure of central tendency** = a single value that represents the whole data (a typical/central value).",
+        "The three main measures: **Mean, Median, Mode**."
+      ]
+    },
+    {
+      "heading": "2. Arithmetic Mean (Average)",
+      "points": [
+        "**Mean = sum of all values ÷ number of values** (ΣX/N).",
+        "For grouped data, use assumed mean / step-deviation methods.",
+        "**Merits:** based on all values, easy to compute; **Demerits:** affected by **extreme values (outliers)**; cannot be found graphically.",
+        "**Weighted mean** — gives different weights to items by importance."
+      ]
+    },
+    {
+      "heading": "3. Median",
+      "points": [
+        "**Median** = the **middle value** when data is arranged in order (positional average); half the values lie below it.",
+        "For N odd = the (N+1)/2 th item; for grouped data, a formula is used.",
+        "**Merits:** not affected by extreme values; can be found graphically (ogive).",
+        "**Related positional measures:** **quartiles, deciles, percentiles**."
+      ]
+    },
+    {
+      "heading": "4. Mode",
+      "points": [
+        "**Mode** = the value that occurs **most frequently** in the data.",
+        "**Merits:** easy to understand, unaffected by extreme values, useful for qualitative data.",
+        "**Demerits:** may not be well-defined (no mode or multiple modes).",
+        "**Relationship (empirical):** **Mode = 3 Median − 2 Mean** (for moderately skewed distributions)."
+      ]
+    },
+    {
+      "heading": "5. High-Yield One-Liners (Last-Minute Recall)",
+      "points": [
+        "Three measures: Mean, Median, Mode.",
+        "Mean = ΣX/N (affected by extreme values).",
+        "Median = middle value (positional; not affected by extremes; found via ogive).",
+        "Mode = most frequently occurring value.",
+        "Empirical relation: Mode = 3 Median − 2 Mean."
+      ]
+    },
+    {
+      "heading": "6. Common Traps (Watch Out)",
+      "points": [
+        "The **mean is affected by extreme values (outliers)**; the **median and mode are not**.",
+        "**Median = middle value**; **Mode = most frequent value**.",
+        "**Empirical relation: Mode = 3 Median − 2 Mean**.",
+        "The **median can be found graphically** using an ogive."
+      ]
+    }
+  ]
+}
