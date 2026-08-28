@@ -1,0 +1,28 @@
+{
+  "gs_paper": "GS-I",
+  "questions": [
+    {
+      "q": "Explain the factors that control the direction and speed of wind.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "Winds are the horizontal movement of air, and their direction and speed are controlled by three main forces.",
+        { "lead": "Pressure gradient force.", "text": "Air moves from areas of high pressure to areas of low pressure. The rate of change of pressure over distance is called the pressure gradient. Where isobars are close together the gradient is steep and winds are strong, while widely spaced isobars mean gentle winds." },
+        { "lead": "The Coriolis force.", "text": "Because the Earth rotates, moving air is deflected from its straight path. This Coriolis force turns winds to the right in the Northern Hemisphere and to the left in the Southern Hemisphere, a rule known as Ferrel's Law. It is strongest at the poles and zero at the equator." },
+        { "lead": "Frictional force.", "text": "Friction with the Earth's surface slows the wind and affects its direction, and is greatest near the ground." },
+        "The balance of these forces decides how winds actually blow."
+      ]
+    },
+    {
+      "q": "Distinguish between tropical and temperate cyclones.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "Cyclones are systems of low pressure with inward-blowing winds, and they are of two main kinds.",
+        { "lead": "Tropical cyclones.", "text": "These form over warm tropical oceans where the sea surface temperature is above about 27 degrees. They are compact but very intense, with a calm central eye surrounded by violent winds and heavy rain. Known as hurricanes, typhoons or cyclones in different regions, they cause great destruction through storm surges but weaken quickly over land." },
+        { "lead": "Temperate cyclones.", "text": "Also called extra-tropical cyclones, these form in the mid-latitudes along the boundary, or front, between warm and cold air masses. They are larger in size but less violent, and bring widespread cloud and steady rainfall over several days." },
+        "Thus tropical cyclones are small and fierce, while temperate cyclones are broad and milder."
+      ]
+    }
+  ]
+}
