@@ -1,0 +1,28 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "What are the common defects of vision, and how are they corrected?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "The eye may develop defects when it can no longer focus images clearly on the retina.",
+        { "lead": "Myopia.", "text": "In myopia, or short-sightedness, a person can see nearby objects clearly but not distant ones, because the image of a far object forms in front of the retina. It is corrected by using a concave lens of suitable power." },
+        { "lead": "Hypermetropia.", "text": "In hypermetropia, or long-sightedness, a person can see distant objects clearly but not near ones, because the image of a near object forms behind the retina. It is corrected by a convex lens." },
+        { "lead": "Presbyopia.", "text": "With age, the power of accommodation decreases and a person finds it hard to see both near and distant objects; this presbyopia is corrected with bifocal lenses that have both concave and convex parts." },
+        "With the right lenses, these defects can be easily corrected."
+      ]
+    },
+    {
+      "q": "Why is the sky blue and the Sun reddish at sunrise and sunset?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Scattering of light.", "text": "When sunlight passes through the atmosphere, the tiny molecules of air scatter it. The amount of scattering depends on the wavelength of light, and shorter wavelengths, such as blue, are scattered much more strongly than longer wavelengths, such as red." },
+        { "lead": "Why the sky is blue.", "text": "Because blue light is scattered in all directions by the air molecules, it reaches our eyes from every part of the sky, making the sky appear blue during the day." },
+        { "lead": "Why the Sun looks red at dawn and dusk.", "text": "At sunrise and sunset, the Sun is near the horizon, so its light travels through a much thicker layer of atmosphere. Most of the blue light is scattered away before it reaches us, and mainly the red light, which is scattered least, gets through, so the Sun appears reddish." },
+        "Thus scattering explains both the blue sky and the red Sun."
+      ]
+    }
+  ]
+}

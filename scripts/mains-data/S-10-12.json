@@ -1,0 +1,27 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "Explain the principle and working of an electric motor.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Principle.", "text": "An electric motor is a device that converts electrical energy into mechanical energy. It works on the principle that a current-carrying conductor placed in a magnetic field experiences a force, whose direction is given by Fleming's left-hand rule." },
+        { "lead": "Working.", "text": "A rectangular coil is placed between the poles of a magnet, and current is passed through it. Because the current in the two opposite arms of the coil flows in opposite directions, the forces on them act in opposite directions, one upward and one downward. This makes the coil rotate." },
+        { "lead": "Role of the commutator.", "text": "After each half rotation, a device called the split-ring commutator reverses the direction of current in the coil. This keeps the force acting in the same rotational sense, so the coil continues to spin in one direction." },
+        "In this way, an electric motor produces continuous rotation used in fans, pumps and many machines."
+      ]
+    },
+    {
+      "q": "What is electromagnetic induction, and how is it used in an electric generator?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Electromagnetic induction.", "text": "Electromagnetic induction is the production of an electric current in a coil when the magnetic field around it changes. Michael Faraday discovered that moving a magnet in and out of a coil, or moving the coil in a magnetic field, sets up an induced current. Its direction is given by Fleming's right-hand rule." },
+        { "lead": "The generator.", "text": "An electric generator uses this principle to convert mechanical energy into electrical energy. A coil is rotated in a magnetic field, usually by turning it with water, steam or an engine. As the coil moves, the magnetic field through it keeps changing, and this induces a current in the coil." },
+        { "lead": "Output.", "text": "By using slip rings the generator produces alternating current, while a split-ring commutator can be used to obtain direct current." },
+        "Generators are the main source of the electricity we use every day."
+      ]
+    }
+  ]
+}

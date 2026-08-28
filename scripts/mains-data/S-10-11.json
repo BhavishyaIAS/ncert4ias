@@ -1,0 +1,27 @@
+{
+  "gs_paper": "GS-III",
+  "questions": [
+    {
+      "q": "State Ohm's law and explain the factors on which the resistance of a conductor depends.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        { "lead": "Ohm's law.", "text": "Ohm's law states that, at constant temperature, the electric current flowing through a conductor is directly proportional to the potential difference across its ends. This is written as V equals I times R, where R is the resistance of the conductor." },
+        { "lead": "Factors affecting resistance.", "text": "The resistance of a conductor depends on several factors. It is directly proportional to the length of the conductor, so a longer wire has more resistance. It is inversely proportional to the area of cross-section, so a thicker wire has less resistance. It also depends on the nature of the material, described by a property called resistivity, and it changes with temperature, usually increasing as the conductor gets hotter." },
+        "This is why alloys like nichrome, which have high resistivity, are used in heating appliances, while copper and aluminium, with low resistance, are used for wires."
+      ]
+    },
+    {
+      "q": "Why are household appliances connected in parallel rather than in series?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "In household wiring all appliances are connected in parallel, and this is done for several important reasons.",
+        { "lead": "Same full voltage.", "text": "In a parallel connection each appliance receives the same full voltage of the supply, usually 220 volts, which it needs to work properly. In a series connection the voltage would be shared, and each appliance would get less than it requires." },
+        { "lead": "Independent operation.", "text": "In parallel, each appliance has its own separate path for current, so it can be switched on or off on its own without affecting the others. If one appliance fails or is switched off, the rest continue to work. In a series circuit, a break anywhere would stop the whole circuit." },
+        { "lead": "Suitable current.", "text": "Parallel connection also allows each appliance to draw the current it needs according to its own resistance." },
+        "For these reasons parallel wiring is used in homes."
+      ]
+    }
+  ]
+}
