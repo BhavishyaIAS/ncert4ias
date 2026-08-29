@@ -6,7 +6,6 @@ import {
   getGist,
   getMcqs,
   getMains,
-  getPyqsForChapter,
 } from "@/lib/queries";
 import { LADDER_RUNGS } from "@/lib/config/taxonomy";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -48,11 +47,10 @@ async function ClassicChapterPage({
   const chapter = await getChapterByCode(code);
   if (!chapter) notFound();
 
-  const [gist, mcqs, mains, pyqs] = await Promise.all([
+  const [gist, mcqs, mains] = await Promise.all([
     getGist(chapter.id),
     getMcqs(chapter.id),
     getMains(chapter.id),
-    getPyqsForChapter(chapter.id),
   ]);
   const { book } = chapter;
   const n = book.class.number;
@@ -87,14 +85,8 @@ async function ClassicChapterPage({
         </Badge>
       </div>
       <p className="mt-1 text-sm text-muted-foreground">{book.title}</p>
-      {pyqs.length > 0 && (
-        <p className="mt-3 inline-flex rounded-full bg-primary/10 px-3 py-1 text-sm font-medium text-primary">
-          {pyqs.length} UPSC question{pyqs.length === 1 ? " has" : "s have"} come
-          from this chapter
-        </p>
-      )}
 
-      {/* The five-rung ladder — fixed order */}
+      {/* The four-rung ladder — fixed order */}
       <Tabs defaultValue="read" className="mt-8">
         <TabsList className="h-auto w-full flex-wrap justify-start">
           {LADDER_RUNGS.map((rung) => (
@@ -141,7 +133,7 @@ async function ClassicChapterPage({
           )}
         </TabsContent>
 
-        {/* Rungs 2–5 — arrive in later milestones */}
+        {/* Rungs 2–4 */}
         <TabsContent value="revise" className="mt-6">
           {gist?.content_html ? (
             <GistView html={gist.content_html} />
@@ -163,32 +155,6 @@ async function ClassicChapterPage({
             <RungComingSoon rung="Mains" />
           )}
         </TabsContent>
-        <TabsContent value="pyqs" className="mt-6">
-          {pyqs.length > 0 ? (
-            <div className="space-y-4">
-              <p className="text-sm text-muted-foreground">
-                Actual UPSC previous-year questions tagged to this chapter — proof
-                that NCERTs matter.
-              </p>
-              <ul className="space-y-3">
-                {pyqs.map((q) => (
-                  <li key={q.id} className="rounded-lg border p-4">
-                    <div className="mb-2 flex flex-wrap items-center gap-2">
-                      <Badge variant="secondary">{q.year}</Badge>
-                      <Badge variant="outline">{q.paper}</Badge>
-                    </div>
-                    <p className="text-sm">{q.question_text}</p>
-                    {q.notes && (
-                      <p className="mt-2 text-xs text-muted-foreground">{q.notes}</p>
-                    )}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ) : (
-            <RungComingSoon rung="PYQs" />
-          )}
-        </TabsContent>
       </Tabs>
     </main>
   );
@@ -203,11 +169,10 @@ async function BhavishyaChapterPage({
   const chapter = await getChapterByCode(code);
   if (!chapter) notFound();
 
-  const [gist, mcqs, mains, pyqs] = await Promise.all([
+  const [gist, mcqs, mains] = await Promise.all([
     getGist(chapter.id),
     getMcqs(chapter.id),
     getMains(chapter.id),
-    getPyqsForChapter(chapter.id),
   ]);
 
   return (
@@ -223,7 +188,6 @@ async function BhavishyaChapterPage({
       gistHtml={gist?.content_html ?? null}
       mcqs={mcqs}
       mains={mains}
-      pyqs={pyqs}
     />
   );
 }

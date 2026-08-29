@@ -111,10 +111,6 @@ export default async function ChapterWorkspace({
           items={mains}
         />
       </section>
-
-      <p className="text-xs text-muted-foreground">
-        PYQ bulk upload arrives in the next milestone.
-      </p>
     </div>
   );
 }

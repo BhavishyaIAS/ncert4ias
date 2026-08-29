@@ -4,7 +4,7 @@ A production web platform that turns the NCERT textbooks (Classes 6–12) into a
 structured **UPSC Civil Services prep engine**.
 
 Every NCERT chapter is one **unit**. Each unit walks an aspirant up a fixed
-**five-rung ladder**:
+**four-rung ladder**:
 
 | Rung | Tab | What it is |
 | ---- | ------- | ---------- |
@@ -12,10 +12,9 @@ Every NCERT chapter is one **unit**. Each unit walks an aspirant up a fixed
 | 2 | **Revise** | A clutter-free key-note gist of the chapter |
 | 3 | **Prelims** | UPSC-style MCQs with answer key + solutions |
 | 4 | **Mains** | UPSC Mains questions with NCERT-grounded model answers |
-| 5 | **PYQs** | Actual UPSC previous-year questions tagged to the chapter |
 
 The chapter page always renders these in order: **Read → Revise → Prelims →
-Mains → PYQs**.
+Mains**.
 
 ## MVP scope
 
@@ -38,8 +37,6 @@ model and content pipeline are structured so that adding a subject later is a
   author. AI-assisted, **human-reviewed** — an admin clicks _"Draft with AI"_
   (a **server-side** Anthropic call), edits in TipTap, then publishes. Students
   only ever see **published, reviewed** content.
-- **PYQs:** bulk-uploaded by admin via Excel (SheetJS), linked to chapters by
-  `chapter_code`.
 
 ## Tech stack
 
@@ -48,7 +45,6 @@ model and content pipeline are structured so that adding a subject later is a
 - **Supabase** — Postgres, Auth, Storage, Row-Level Security
 - **TipTap** rich-text editor for admin authoring (Mermaid + YouTube nodes) —
   _added in M3_
-- **SheetJS** for bulk Excel PYQ parsing — _added in M6_
 - **Anthropic API** via a server-side route for admin content drafting — never
   called from the client
 - **Vercel** for deployment
@@ -114,7 +110,7 @@ src/
 - **M3 — Revise** ✅ gist model, TipTap editor, "Draft with AI", publish, student view
 - **M4 — Prelims** ✅ MCQ authoring + AI-assist, answer-reveal practice
 - **M5 — Mains** ✅ Mains Q + model-answer authoring + AI-assist, student view
-- **M6 — PYQs** ✅ SheetJS bulk upload keyed to `chapter_code`, upload log, payoff stat
+- **M6 — PYQs** ⛔ retired — the PYQ rung was removed; the platform is confined to the four rungs above
 - **M7 — GS lens + search** ✅ GS-tag mapping, browse-by-GS, global search
 - **M8 — Polish + deploy** ✅ empty/loading/error states, mobile responsiveness (deploy pending confirmation)
 

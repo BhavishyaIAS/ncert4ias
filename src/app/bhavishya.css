@@ -771,17 +771,6 @@
   white-space: nowrap;
 }
 
-[data-theme="bhavishya"] .bh-tag-live {
-  border-color: var(--bh-red);
-  color: var(--bh-white);
-  background: var(--bh-red);
-  /* This one carries a sentence, not a label, so it must wrap rather than be
-     clipped by the band on a narrow screen. */
-  white-space: normal;
-  line-height: 1.5;
-  padding: 5px 10px;
-}
-
 /* --------------------------------------------------------------------------
    Empty states. An empty screen should invite an action, not just apologise.
    -------------------------------------------------------------------------- */
@@ -1197,14 +1186,6 @@
   border-inline-start: 3px solid var(--bh-red);
 }
 
-[data-theme="bhavishya"] .bh-pyq {
-  background: var(--bh-card);
-  box-shadow: 0 0 0 1px var(--bh-hair);
-  padding: 16px 18px 18px;
-  font-size: 0.98rem;
-  line-height: 1.6;
-}
-
 /* ==========================================================================
    PHASE 5 — states, auth, and the responsive floor
    ========================================================================== */
@@ -1299,8 +1280,7 @@
     padding-inline-start: 42px;
   }
 
-  [data-theme="bhavishya"] .bh-q,
-  [data-theme="bhavishya"] .bh-pyq {
+  [data-theme="bhavishya"] .bh-q {
     padding-inline: 14px;
   }
 

@@ -4,9 +4,10 @@ The SQL lives in [`migrations/`](./migrations), applied **in order**:
 
 | File | What it does |
 | ---- | ------------ |
-| `0001_init.sql` | Full schema: profiles, taxonomy, content tables, PYQs, triggers, and Row-Level Security. |
+| `0001_init.sql` | Full schema: profiles, taxonomy, content tables, triggers, and Row-Level Security. |
 | `0002_seed_taxonomy.sql` | Seeds Classes 6–12, the four MVP subjects, and the GS-I…GS-IV tags. |
 | `0003_promote_admin.sql` | Template to promote a signed-up user to `admin` (fill in the email). |
+| `0004_drop_pyqs.sql` | Retires the PYQ rung: drops the `pyqs` and `pyq_chapters` tables. |
 
 ## Applying the schema (one-time)
 
@@ -31,6 +32,6 @@ All files are idempotent — safe to re-run.
 ## RLS summary
 
 - **Taxonomy** (classes, subjects, books, gs_tags, junctions): world-readable.
-- **Chapters & authored content** (gists, mcqs, mains, pyqs): readable only when
+- **Chapters & authored content** (gists, mcqs, mains): readable only when
   `status = 'published'`, unless you're an admin.
 - **Writes** on everything: admin only.

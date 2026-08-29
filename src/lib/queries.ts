@@ -354,12 +354,12 @@ export async function getChaptersForSubject(slug: string): Promise<{
 export async function search(q: string) {
   const term = q.trim();
   if (!term) {
-    return { chapters: [], gists: [], mcqs: [], pyqs: [] };
+    return { chapters: [], gists: [], mcqs: [] };
   }
   const like = `%${term}%`;
   const s = await createClient();
 
-  const [chapters, gists, mcqs, pyqs] = await Promise.all([
+  const [chapters, gists, mcqs] = await Promise.all([
     s
       .from("chapters")
       .select("chapter_code, title, book:books(title, subject:subjects(name))")
@@ -375,20 +375,12 @@ export async function search(q: string) {
       .select("stem, chapter:chapters(chapter_code, title)")
       .ilike("stem", like)
       .limit(20),
-    s
-      .from("pyqs")
-      .select(
-        "year, paper, question_text, pyq_chapters(chapter:chapters(chapter_code, title))",
-      )
-      .ilike("question_text", like)
-      .limit(20),
   ]);
 
   return {
     chapters: (chapters.data ?? []) as unknown as SearchChapter[],
     gists: (gists.data ?? []) as unknown as SearchGist[],
     mcqs: (mcqs.data ?? []) as unknown as SearchMcq[],
-    pyqs: (pyqs.data ?? []) as unknown as SearchPyq[],
   };
 }
 
@@ -400,23 +392,6 @@ export type SearchChapter = {
 };
 export type SearchGist = { chapter: ChapterRef };
 export type SearchMcq = { stem: string; chapter: ChapterRef };
-export type SearchPyq = {
-  year: number;
-  paper: string;
-  question_text: string;
-  pyq_chapters: { chapter: ChapterRef }[];
-};
-
-/** Published PYQs tagged to a chapter, newest first (RLS-scoped). */
-export async function getPyqsForChapter(chapterId: string) {
-  const s = await createClient();
-  const { data } = await s
-    .from("pyqs")
-    .select("*, pyq_chapters!inner(chapter_id)")
-    .eq("pyq_chapters.chapter_id", chapterId)
-    .order("year", { ascending: false });
-  return (data ?? []) as unknown as Tables<"pyqs">[];
-}
 
 /** A single chapter by its permanent chapter_code, with class/subject context. */
 export async function getChapterByCode(

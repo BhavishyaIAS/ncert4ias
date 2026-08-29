@@ -23,7 +23,7 @@ export default async function TaxonomyPage() {
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Taxonomy</h1>
           <p className="text-sm text-muted-foreground">
-            Books and chapters. Chapter codes are the permanent key PYQs link to.
+            Books and chapters. Chapter codes are the permanent key all content links to.
           </p>
         </div>
         <Button render={<Link href="/admin/taxonomy/books/new" />} size="sm">

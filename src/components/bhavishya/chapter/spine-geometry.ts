@@ -4,16 +4,20 @@
  * The arc is one cubic Bézier. Its control points are chosen so that the y
  * coordinate is EXACTLY linear in t: with y-values 0, H/3, 2H/3, H the
  * Bernstein form collapses to y(t) = H·t. That matters because it means a rung
- * mark at t = (i + 0.5) / 5 lands exactly on the centre of rung row i, with no
- * measuring, no layout reads, and no drift when the font or zoom changes.
+ * mark at t = (i + 0.5) / RUNG_COUNT lands exactly on the centre of rung row i,
+ * with no measuring, no layout reads, and no drift when the font or zoom
+ * changes.
  *
  * The x coordinates bow the arc leftward and return it to centre, so the line
  * reads as a flight path rather than a progress bar.
  */
 
+import { LADDER_RUNGS } from "@/lib/config/taxonomy";
+
 export const SPINE_W = 48;
 export const SPINE_H = 440;
-export const RUNG_COUNT = 5;
+/** Derived from the ladder so the arc always matches the number of rungs. */
+export const RUNG_COUNT = LADDER_RUNGS.length;
 /** Each rung row is this tall, so row centres are at ROW_H * (i + 0.5). */
 export const ROW_H = SPINE_H / RUNG_COUNT; // 88
 

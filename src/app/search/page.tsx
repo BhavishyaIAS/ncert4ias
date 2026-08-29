@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { search } from "@/lib/queries";
-import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { ThemedPage } from "@/components/themed-page";
@@ -17,10 +16,7 @@ async function ClassicSearchPage({
   const { q = "" } = await searchParams;
   const results = q.trim() ? await search(q) : null;
   const total = results
-    ? results.chapters.length +
-      results.gists.length +
-      results.mcqs.length +
-      results.pyqs.length
+    ? results.chapters.length + results.gists.length + results.mcqs.length
     : 0;
 
   return (
@@ -31,7 +27,7 @@ async function ClassicSearchPage({
         <Input
           name="q"
           defaultValue={q}
-          placeholder="Search chapters, gists, MCQs, PYQs…"
+          placeholder="Search chapters, gists, MCQs…"
           autoFocus
         />
         <Button type="submit">Search</Button>
@@ -95,35 +91,6 @@ async function ClassicSearchPage({
         </Section>
       )}
 
-      {results && results.pyqs.length > 0 && (
-        <Section title="PYQs">
-          {results.pyqs.map((p, i) => {
-            const first = p.pyq_chapters.find((pc) => pc.chapter)?.chapter;
-            const inner = (
-              <div className="flex items-start gap-3 px-4 py-3">
-                <div className="flex-1">
-                  <p className="text-sm">{p.question_text}</p>
-                  <div className="mt-1 flex gap-2">
-                    <Badge variant="secondary">{p.year}</Badge>
-                    <Badge variant="outline">{p.paper}</Badge>
-                  </div>
-                </div>
-              </div>
-            );
-            return first ? (
-              <Link
-                key={i}
-                href={`/chapter/${first.chapter_code}`}
-                className="block hover:bg-muted/40"
-              >
-                {inner}
-              </Link>
-            ) : (
-              <div key={i}>{inner}</div>
-            );
-          })}
-        </Section>
-      )}
     </main>
   );
 }

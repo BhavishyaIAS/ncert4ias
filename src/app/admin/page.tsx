@@ -35,9 +35,6 @@ export default async function AdminDashboard() {
           <Button render={<Link href="/admin/import" />} variant="outline" size="sm">
             Import chapters
           </Button>
-          <Button render={<Link href="/admin/pyqs" />} variant="outline" size="sm">
-            Upload PYQs
-          </Button>
           <Button render={<Link href="/admin/taxonomy" />} size="sm">
             Manage taxonomy
           </Button>

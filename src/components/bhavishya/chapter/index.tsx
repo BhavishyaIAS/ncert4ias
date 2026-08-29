@@ -15,7 +15,6 @@ import type { Tables } from "@/types/database";
 
 type Mcq = Tables<"mcqs">;
 type Mains = Tables<"mains_questions">;
-type Pyq = Tables<"pyqs">;
 
 export function BhavishyaChapter({
   chapterCode,
@@ -29,7 +28,6 @@ export function BhavishyaChapter({
   gistHtml,
   mcqs,
   mains,
-  pyqs,
 }: {
   chapterCode: string;
   chapterNumber: number;
@@ -42,7 +40,6 @@ export function BhavishyaChapter({
   gistHtml: string | null;
   mcqs: Mcq[];
   mains: Mains[];
-  pyqs: Pyq[];
 }) {
   const [active, setActive] = useState<LadderRungKey>("read");
   const { done, toggle } = useChapterProgress(chapterCode);
@@ -53,7 +50,6 @@ export function BhavishyaChapter({
     revise: Boolean(gistHtml),
     prelims: mcqs.length > 0,
     mains: mains.length > 0,
-    pyqs: pyqs.length > 0,
   };
 
   const count = LADDER_RUNGS.filter((r) => done.has(r.key)).length;
@@ -86,14 +82,6 @@ export function BhavishyaChapter({
             {chapterNumber}. {title}
           </h1>
           <p className="bh-note mt-3">{bookTitle}</p>
-          {pyqs.length > 0 && (
-            <p className="mt-4">
-              <span className="bh-tag bh-tag-live">
-                {pyqs.length} UPSC question{pyqs.length === 1 ? "" : "s"} came
-                from this chapter
-              </span>
-            </p>
-          )}
         </div>
       </div>
 
@@ -158,12 +146,6 @@ export function BhavishyaChapter({
                 ) : (
                   <NotReady rung="Mains" chapterCode={chapterCode} />
                 ))}
-              {active === "pyqs" &&
-                (pyqs.length > 0 ? (
-                  <Pyqs pyqs={pyqs} />
-                ) : (
-                  <NotReady rung="PYQs" chapterCode={chapterCode} />
-                ))}
             </div>
           </div>
         </div>
@@ -191,29 +173,6 @@ function Read({ pdfUrl, title }: { pdfUrl: string | null; title: string }) {
         title={`${title} — NCERT chapter PDF`}
         className="bh-pdf"
       />
-    </div>
-  );
-}
-
-function Pyqs({ pyqs }: { pyqs: Pyq[] }) {
-  return (
-    <div className="flex flex-col gap-4">
-      <p className="bh-note">
-        Real UPSC questions traced back to this chapter — the reason the NCERTs
-        are worth the time.
-      </p>
-      <ul className="flex flex-col gap-3">
-        {pyqs.map((q) => (
-          <li key={q.id} className="bh-pyq">
-            <div className="flex flex-wrap gap-1.5">
-              <span className="bh-tag">{q.year}</span>
-              <span className="bh-tag">{q.paper}</span>
-            </div>
-            <p className="mt-2.5">{q.question_text}</p>
-            {q.notes && <p className="bh-note mt-2">{q.notes}</p>}
-          </li>
-        ))}
-      </ul>
     </div>
   );
 }

@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     template: "%s · NCERT4IAS",
   },
   description:
-    "Every NCERT chapter (Classes 6–12) as a five-rung UPSC ladder: Read → Revise → Prelims → Mains → PYQs.",
+    "Every NCERT chapter (Classes 6–12) as a four-rung UPSC ladder: Read → Revise → Prelims → Mains.",
 };
 
 /**

@@ -8,7 +8,6 @@ export type ContentStatus = "draft" | "published";
 export type Role = "student" | "admin";
 export type Difficulty = "easy" | "medium" | "hard";
 export type GsPaper = "GS-I" | "GS-II" | "GS-III" | "GS-IV" | "Essay";
-export type PyqPaper = "Prelims" | GsPaper;
 
 type Timestamps = {
   created_at: string;
@@ -251,41 +250,6 @@ export interface Database {
           author_id: string | null;
           order: number;
         }>;
-        Relationships: [];
-      };
-      pyqs: {
-        Row: {
-          id: string;
-          year: number;
-          paper: PyqPaper;
-          question_text: string;
-          notes: string | null;
-          status: ContentStatus;
-          author_id: string | null;
-        } & Timestamps;
-        Insert: {
-          id?: string;
-          year: number;
-          paper: PyqPaper;
-          question_text: string;
-          notes?: string | null;
-          status?: ContentStatus;
-          author_id?: string | null;
-        };
-        Update: Partial<{
-          year: number;
-          paper: PyqPaper;
-          question_text: string;
-          notes: string | null;
-          status: ContentStatus;
-          author_id: string | null;
-        }>;
-        Relationships: [];
-      };
-      pyq_chapters: {
-        Row: { pyq_id: string; chapter_id: string };
-        Insert: { pyq_id: string; chapter_id: string };
-        Update: Partial<{ pyq_id: string; chapter_id: string }>;
         Relationships: [];
       };
     };

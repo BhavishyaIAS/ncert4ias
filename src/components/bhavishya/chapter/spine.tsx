@@ -14,7 +14,7 @@ import {
  * The trajectory spine — the one place this interface raises its voice.
  *
  * The arc draws forward as rungs complete and the arrow lands in a target on
- * the fifth. Everything else in the redesign is kept quiet so this can land.
+ * the last rung. Everything else in the redesign is kept quiet so this can land.
  *
  * The arc is animated on stroke-dashoffset. Being precise about the brief's
  * "transforms and opacity only": dashoffset is not a transform and is not

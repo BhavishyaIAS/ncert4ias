@@ -1,5 +1,5 @@
 /**
- * Static taxonomy constants that rarely change: classes, the five-rung ladder,
+ * Static taxonomy constants that rarely change: classes, the four-rung ladder,
  * GS lens tags, exam papers, and MCQ difficulty. Kept here so both the student
  * UI and admin tooling share one definition.
  */
@@ -9,7 +9,7 @@ export const CLASSES = [6, 7, 8, 9, 10, 11, 12] as const;
 export type ClassNumber = (typeof CLASSES)[number];
 
 /**
- * The five-rung ladder, in the FIXED order the chapter page must render them.
+ * The four-rung ladder, in the FIXED order the chapter page must render them.
  * `key` is used for tab slugs; order here is authoritative.
  */
 export const LADDER_RUNGS = [
@@ -37,12 +37,6 @@ export const LADDER_RUNGS = [
     tagline: "Mains questions with NCERT-grounded model answers",
     forWho: "Answer-writing practice",
   },
-  {
-    key: "pyqs",
-    label: "PYQs",
-    tagline: "Actual UPSC questions tagged to this chapter",
-    forWho: "See why NCERTs matter",
-  },
 ] as const;
 
 export type LadderRungKey = (typeof LADDER_RUNGS)[number]["key"];
@@ -57,17 +51,6 @@ export const GS_TAGS = [
   { code: "GS-III", label: "GS-III", note: "Economy, Environment, Sci-Tech, Security" },
   { code: "GS-IV", label: "GS-IV", note: "Ethics, Integrity & Aptitude" },
 ] as const;
-
-/** Papers a PYQ can belong to (Prelims uses one paper; Mains splits by GS). */
-export const PYQ_PAPERS = [
-  "Prelims",
-  "GS-I",
-  "GS-II",
-  "GS-III",
-  "GS-IV",
-  "Essay",
-] as const;
-export type PyqPaper = (typeof PYQ_PAPERS)[number];
 
 /** GS papers a Mains question can be authored against. */
 export const MAINS_GS_PAPERS = ["GS-I", "GS-II", "GS-III", "GS-IV", "Essay"] as const;

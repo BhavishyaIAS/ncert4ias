@@ -7,7 +7,7 @@ import type { Database } from "@/types/database";
  *
  * Bypasses Row-Level Security, so it must never be imported into client code.
  * The `server-only` import above makes the build fail if that ever happens.
- * Use for privileged admin operations (bulk PYQ upload, seeding, etc.).
+ * Use for privileged admin operations (bulk content import, seeding, etc.).
  */
 export function createAdminClient() {
   return createClient<Database>(

@@ -1,17 +1,11 @@
 import Link from "next/link";
 import { Crumbs } from "@/components/bhavishya/crumbs";
-import type {
-  SearchChapter,
-  SearchGist,
-  SearchMcq,
-  SearchPyq,
-} from "@/lib/queries";
+import type { SearchChapter, SearchGist, SearchMcq } from "@/lib/queries";
 
 type Results = {
   chapters: SearchChapter[];
   gists: SearchGist[];
   mcqs: SearchMcq[];
-  pyqs: SearchPyq[];
 };
 
 /**
@@ -26,10 +20,7 @@ export function BhavishyaSearch({
   results: Results | null;
 }) {
   const total = results
-    ? results.chapters.length +
-      results.gists.length +
-      results.mcqs.length +
-      results.pyqs.length
+    ? results.chapters.length + results.gists.length + results.mcqs.length
     : 0;
 
   return (
@@ -41,7 +32,7 @@ export function BhavishyaSearch({
         <input
           name="q"
           defaultValue={q}
-          placeholder="Search chapters, gists, MCQs, PYQs…"
+          placeholder="Search chapters, gists, MCQs…"
           aria-label="Search"
           autoFocus
         />
@@ -72,8 +63,7 @@ export function BhavishyaSearch({
 
       {!results && (
         <p className="bh-note mt-5 max-w-md">
-          Search across every published chapter, revision gist, MCQ and
-          previous-year question.
+          Search across every published chapter, revision gist and MCQ.
         </p>
       )}
 
@@ -130,35 +120,6 @@ export function BhavishyaSearch({
         </Group>
       )}
 
-      {results && results.pyqs.length > 0 && (
-        <Group title="Previous-year questions">
-          {results.pyqs.map((p, i) => {
-            const first = p.pyq_chapters.find((pc) => pc.chapter)?.chapter;
-            const inner = (
-              <>
-                <span className="bh-result-t">{p.question_text}</span>
-                <span className="flex flex-none gap-1.5">
-                  <span className="bh-tag">{p.year}</span>
-                  <span className="bh-tag">{p.paper}</span>
-                </span>
-              </>
-            );
-            return first ? (
-              <Link
-                key={i}
-                href={`/chapter/${first.chapter_code}`}
-                className="bh-result"
-              >
-                {inner}
-              </Link>
-            ) : (
-              <div key={i} className="bh-result">
-                {inner}
-              </div>
-            );
-          })}
-        </Group>
-      )}
     </main>
   );
 }

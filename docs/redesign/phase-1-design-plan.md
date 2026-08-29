@@ -67,7 +67,7 @@ our own origin, so no render-blocking Google call and no layout shift.
   so legibility beats character. Large x-height, open apertures, unambiguous `I l 1`. The
   Devanagari sibling is a real family, so transliterated NCERT terms stay in voice instead
   of dropping to a system face mid-sentence.
-- **IBM Plex Mono** — utility. Chapter codes, question numbers, PYQ years, rung numerals.
+- **IBM Plex Mono** — utility. Chapter codes, question numbers, rung numerals.
   Same superfamily as the body face. The site already sets `chapter_code` in mono; this
   makes it deliberate.
 
