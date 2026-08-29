@@ -21,8 +21,8 @@ function ClassicHome() {
           </h1>
           <p className="mt-5 max-w-2xl text-lg text-muted-foreground">
             Every NCERT chapter becomes one unit that walks an aspirant up a
-            five-rung ladder — from reading the source, to seeing the actual UPSC
-            questions that came from it.
+            four-rung ladder — from reading the source, to revising it, to
+            Prelims and Mains practice grounded in it.
           </p>
           <div className="mt-8">
             <Button render={<Link href="/browse" />} size="lg">
@@ -32,12 +32,12 @@ function ClassicHome() {
         </div>
       </section>
 
-      {/* The five-rung ladder */}
+      {/* The four-rung ladder */}
       <section className="mx-auto max-w-5xl px-6 py-16">
         <h2 className="text-sm font-medium uppercase tracking-wide text-muted-foreground">
-          The five-rung ladder
+          The four-rung ladder
         </h2>
-        <ol className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
+        <ol className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {LADDER_RUNGS.map((rung, i) => (
             <li key={rung.key}>
               <Card className="h-full">

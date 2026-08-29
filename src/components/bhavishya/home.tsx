@@ -18,9 +18,9 @@ export function BhavishyaHome() {
           The NCERTs, turned into a prep engine.
         </h1>
         <p className="bh-lede mt-6 max-w-xl">
-          Every chapter becomes one unit that walks you up a five-rung ladder —
-          from reading the source, to the actual UPSC questions that came out of
-          it.
+          Every chapter becomes one unit that walks you up a four-rung ladder —
+          from reading the source, to revising it, to Prelims and Mains practice
+          grounded in it.
         </p>
         <div className="mt-9">
           <Link href="/browse" className="bh-btn bh-btn-primary">
@@ -29,10 +29,10 @@ export function BhavishyaHome() {
         </div>
       </section>
 
-      {/* The five rungs. 01–05 is real information: the order is the product. */}
+      {/* The four rungs. 01–04 is real information: the order is the product. */}
       <section className="mx-auto w-full max-w-5xl px-6 py-14">
         <div className="mb-6 flex items-baseline justify-between gap-4">
-          <h2 className="bh-h2">The five-rung ladder</h2>
+          <h2 className="bh-h2">The four-rung ladder</h2>
           <span className="bh-mono bh-muted hidden sm:block">
             in fixed order
           </span>
