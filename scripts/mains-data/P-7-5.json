@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Media are the means of communicating with a large number of people at once, and mass media include newspapers, radio, television, films and the internet.",
-        { "lead": "Role in democracy.", "text": "In a democracy, media inform citizens about events and issues and help shape public opinion, allowing people to make informed choices. Media also act as a watchdog, exposing wrongdoing and holding the powerful to account." },
-        { "lead": "Why independence matters.", "text": "To play these roles honestly, media must be independent — free from excessive control by the government or by business interests. Since media are funded largely through advertisements, owners and advertisers can influence what is shown, so an independent, balanced media is essential for citizens to receive fair and truthful information." }
+        {
+          "lead": "Role in democracy.",
+          "text": "In a democracy, media inform citizens about events and issues and help shape public opinion, allowing people to make informed choices. Media also act as a watchdog, exposing wrongdoing and holding the powerful to account."
+        },
+        {
+          "lead": "Why independence matters.",
+          "text": "To play these roles honestly, media must be independent — free from excessive control by the government or by business interests. Since media are funded largely through advertisements, owners and advertisers can influence what is shown, so an independent, balanced media is essential for citizens to receive fair and truthful information."
+        }
       ]
     },
     {
@@ -17,9 +23,58 @@
       "word_limit": 150,
       "answer": [
         "Although media inform us, they do not always give a complete or unbiased picture, so they must be approached critically.",
-        { "lead": "Influence of money.", "text": "Media depend on advertisements and on their owners for funds, so business or political interests can shape which stories are covered and how." },
-        { "lead": "One-sided reporting.", "text": "Reporting can sometimes be sensational or one-sided, highlighting only part of a story to attract attention." },
-        { "lead": "Being a careful audience.", "text": "Good reporting should be balanced, factual and fair, showing different sides. Citizens should therefore compare several sources before forming an opinion, and value local and community media that give voice to ordinary people." }
+        {
+          "lead": "Influence of money.",
+          "text": "Media depend on advertisements and on their owners for funds, so business or political interests can shape which stories are covered and how."
+        },
+        {
+          "lead": "One-sided reporting.",
+          "text": "Reporting can sometimes be sensational or one-sided, highlighting only part of a story to attract attention."
+        },
+        {
+          "lead": "Being a careful audience.",
+          "text": "Good reporting should be balanced, factual and fair, showing different sides. Citizens should therefore compare several sources before forming an opinion, and value local and community media that give voice to ordinary people."
+        }
+      ]
+    },
+    {
+      "q": "How do money and advertising influence the media?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The cost of media.",
+          "text": "Running newspapers, television channels and websites is expensive, needing money for equipment, staff and technology. The media earn much of this money from advertisements paid for by companies."
+        },
+        {
+          "lead": "Influence of advertising.",
+          "text": "Because advertisements are a major source of income, the media depend heavily on the businesses that advertise with them. This can influence what the media choose to report, since they may avoid stories that displease big advertisers, and may give more space to news that attracts audiences and thus more advertising."
+        },
+        {
+          "lead": "Effect on the public.",
+          "text": "Advertisements also shape what people wish to buy and how they think, so the media affect our choices as consumers."
+        },
+        "Thus money and advertising strongly influence the media, affecting both what is reported and what audiences are led to want."
+      ]
+    },
+    {
+      "q": "What is meant by balanced and responsible reporting?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Balanced reporting.",
+          "text": "Balanced reporting means giving a fair and complete account of an event, presenting all sides of a story rather than only one point of view. The reporter should gather facts, check them, and let the different persons involved have their say, so that readers or viewers can form their own opinion."
+        },
+        {
+          "lead": "Responsible reporting.",
+          "text": "Responsible reporting means being truthful and careful, not spreading rumours or false news, not exaggerating, and not hurting people or communities by unfair or sensational coverage."
+        },
+        {
+          "lead": "Why it matters.",
+          "text": "Because the media reach and influence millions, biased or careless reporting can mislead people, damage reputations and even cause conflict. Fair and responsible reporting is therefore essential in a democracy."
+        },
+        "Thus balanced and responsible reporting means presenting all sides truthfully and carefully, which is vital for an informed public."
       ]
     }
   ]

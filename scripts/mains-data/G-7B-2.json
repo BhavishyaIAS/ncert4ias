@@ -6,8 +6,14 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Weather and climate.", "text": "Weather is the state of the atmosphere at a place over a short period, changing from day to day or even hour to hour. Climate is the average of the weather taken over many years, and is fairly constant for a region." },
-        { "lead": "Elements of weather.", "text": "The main elements are temperature, the hotness or coldness of the air; air pressure, the weight of the air; humidity, the amount of water vapour present; wind, the movement of air; and precipitation such as rain, snow and hail. Cloud cover and sunshine are also noted." },
+        {
+          "lead": "Weather and climate.",
+          "text": "Weather is the state of the atmosphere at a place over a short period, changing from day to day or even hour to hour. Climate is the average of the weather taken over many years, and is fairly constant for a region."
+        },
+        {
+          "lead": "Elements of weather.",
+          "text": "The main elements are temperature, the hotness or coldness of the air; air pressure, the weight of the air; humidity, the amount of water vapour present; wind, the movement of air; and precipitation such as rain, snow and hail. Cloud cover and sunshine are also noted."
+        },
         "Together these elements describe the condition of the atmosphere at any given time."
       ]
     },
@@ -16,10 +22,56 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Instruments.", "text": "Temperature is measured with a thermometer, air pressure with a barometer, humidity with a hygrometer, wind speed with an anemometer and its direction with a wind vane, and rainfall with a rain gauge." },
-        { "lead": "Observation.", "text": "Readings are taken at weather stations and from satellites; in India the India Meteorological Department records and forecasts the weather." },
-        { "lead": "Usefulness.", "text": "Forecasts help farmers decide when to sow and harvest, guide travel and fishing, and give early warning of cyclones and heavy rain, saving lives and property." },
+        {
+          "lead": "Instruments.",
+          "text": "Temperature is measured with a thermometer, air pressure with a barometer, humidity with a hygrometer, wind speed with an anemometer and its direction with a wind vane, and rainfall with a rain gauge."
+        },
+        {
+          "lead": "Observation.",
+          "text": "Readings are taken at weather stations and from satellites; in India the India Meteorological Department records and forecasts the weather."
+        },
+        {
+          "lead": "Usefulness.",
+          "text": "Forecasts help farmers decide when to sow and harvest, guide travel and fishing, and give early warning of cyclones and heavy rain, saving lives and property."
+        },
         "Accurate weather information is therefore vital for everyday life and safety."
+      ]
+    },
+    {
+      "q": "What factors control the weather of a place?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "The weather of a place is not the same everywhere, because it is controlled by several factors.",
+        {
+          "lead": "Latitude and altitude.",
+          "text": "Places near the equator are hot because they receive the Sun's rays more directly, while places far from it are cooler. Higher places are colder than lower ones, so hill stations are cool even in summer."
+        },
+        {
+          "lead": "Distance from the sea.",
+          "text": "The sea makes the climate of nearby places mild and even, warmer in winter and cooler in summer, while places far inland have greater extremes of heat and cold."
+        },
+        {
+          "lead": "Winds and moisture.",
+          "text": "Winds bring heat or cold and carry moisture that brings clouds and rain, so the direction of the wind strongly affects the weather."
+        },
+        "Thus latitude, altitude, distance from the sea, and the winds together control the weather of a place."
+      ]
+    },
+    {
+      "q": "Why is weather forecasting important, and how is it done?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What forecasting is.",
+          "text": "Weather forecasting is telling in advance what the weather is likely to be. It is done by measuring the elements of weather, temperature, air pressure, humidity, wind and rainfall, using instruments, and now with the help of satellites and computers that track clouds and storms."
+        },
+        {
+          "lead": "Why it is important.",
+          "text": "Forecasting is very useful. Farmers use it to decide when to sow, irrigate or harvest their crops. Fishermen and sailors learn when it is safe to go to sea. Travellers and airlines plan their journeys, and above all, warnings of cyclones, heavy rain or floods help people move to safety and save lives and property."
+        },
+        "Thus weather forecasting, based on measurements and satellites, is important for farming, travel, safety and disaster warning."
       ]
     }
   ]

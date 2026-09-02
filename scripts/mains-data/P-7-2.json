@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "A State government is formed through elections to the State Legislative Assembly.",
-        { "lead": "Constituencies and MLAs.", "text": "Each State is divided into constituencies, and the voters of each constituency elect one representative, called a Member of the Legislative Assembly, or MLA. Together all the MLAs form the Legislative Assembly, or Vidhan Sabha." },
-        { "lead": "Forming the government.", "text": "The political party or coalition that wins a majority of seats forms the government, and its leader becomes the Chief Minister. The Chief Minister then selects other MLAs as ministers to form the Council of Ministers." },
-        { "lead": "Governor.", "text": "The Governor, the constitutional head of the State, formally appoints the Chief Minister, while MLAs outside the government form the Opposition." }
+        {
+          "lead": "Constituencies and MLAs.",
+          "text": "Each State is divided into constituencies, and the voters of each constituency elect one representative, called a Member of the Legislative Assembly, or MLA. Together all the MLAs form the Legislative Assembly, or Vidhan Sabha."
+        },
+        {
+          "lead": "Forming the government.",
+          "text": "The political party or coalition that wins a majority of seats forms the government, and its leader becomes the Chief Minister. The Chief Minister then selects other MLAs as ministers to form the Council of Ministers."
+        },
+        {
+          "lead": "Governor.",
+          "text": "The Governor, the constitutional head of the State, formally appoints the Chief Minister, while MLAs outside the government form the Opposition."
+        }
       ]
     },
     {
@@ -18,9 +27,58 @@
       "word_limit": 150,
       "answer": [
         "The Legislative Assembly is not only where the government is formed but also where it is questioned and held to account.",
-        { "lead": "Debate and law-making.", "text": "MLAs meet to debate and discuss the affairs of the State, ask questions of ministers, and make laws. Through such discussion, decisions are examined from many sides before being taken." },
-        { "lead": "The Opposition.", "text": "The MLAs who are not part of the government form the Opposition. They question the government's actions, expose its failures, and offer alternatives, which keeps the government answerable." },
-        { "lead": "Accountability.", "text": "Because MLAs are elected by the people, they remain accountable to them, and the press and public also help hold the government to account." }
+        {
+          "lead": "Debate and law-making.",
+          "text": "MLAs meet to debate and discuss the affairs of the State, ask questions of ministers, and make laws. Through such discussion, decisions are examined from many sides before being taken."
+        },
+        {
+          "lead": "The Opposition.",
+          "text": "The MLAs who are not part of the government form the Opposition. They question the government's actions, expose its failures, and offer alternatives, which keeps the government answerable."
+        },
+        {
+          "lead": "Accountability.",
+          "text": "Because MLAs are elected by the people, they remain accountable to them, and the press and public also help hold the government to account."
+        }
+      ]
+    },
+    {
+      "q": "What is the difference between an MLA, a minister and the Chief Minister?",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "MLAs.",
+          "text": "For elections, a state is divided into areas called constituencies, and the voters of each constituency elect one representative to the state legislature. This elected representative is called a Member of the Legislative Assembly, or MLA. All the MLAs together form the Legislative Assembly."
+        },
+        {
+          "lead": "The Chief Minister.",
+          "text": "The party or group that wins a majority of seats forms the government, and its leader becomes the Chief Minister, the head of the state government."
+        },
+        {
+          "lead": "Ministers.",
+          "text": "The Chief Minister selects some MLAs to become ministers, each taking charge of a department such as health, education or agriculture. Together they form the Council of Ministers, which runs the government."
+        },
+        "Thus every minister and the Chief Minister is first an MLA, but only some MLAs are chosen as ministers, and their leader is the Chief Minister."
+      ]
+    },
+    {
+      "q": "How does the Legislative Assembly make laws and control the government?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Making laws.",
+          "text": "The Legislative Assembly is the law-making body of the state. A proposed law, or bill, is introduced, debated and discussed by the MLAs, and if the majority vote in its favour it becomes a law that applies to the whole state."
+        },
+        {
+          "lead": "Controlling the government.",
+          "text": "The Assembly also keeps a close watch on the government. MLAs, especially those of the opposition, ask questions, point out mistakes, and demand explanations for the government's decisions and spending. The government must answer to the Assembly."
+        },
+        {
+          "lead": "The power of the majority.",
+          "text": "Because the government stays in power only as long as it has the support of the majority of MLAs, it must remain accountable to the Assembly, or it can be voted out."
+        },
+        "Thus the Legislative Assembly both makes the laws of the state and holds the government answerable for its actions."
       ]
     }
   ]

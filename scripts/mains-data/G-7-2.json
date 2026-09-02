@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The Earth is made up of three concentric layers.",
-        { "lead": "The crust.", "text": "The outermost and thinnest layer, on which we live. It is about 35 km thick under the continents but only about 5 km under the oceans. Continental crust is mainly silica and alumina (SIAL), and oceanic crust mainly silica and magnesium (SIMA)." },
-        { "lead": "The mantle.", "text": "The middle layer, lying just beneath the crust and extending to a depth of about 2900 km." },
-        { "lead": "The core.", "text": "The innermost and hottest layer, made mainly of nickel and iron (NIFE). Its outer part is liquid and its inner part solid." },
+        {
+          "lead": "The crust.",
+          "text": "The outermost and thinnest layer, on which we live. It is about 35 km thick under the continents but only about 5 km under the oceans. Continental crust is mainly silica and alumina (SIAL), and oceanic crust mainly silica and magnesium (SIMA)."
+        },
+        {
+          "lead": "The mantle.",
+          "text": "The middle layer, lying just beneath the crust and extending to a depth of about 2900 km."
+        },
+        {
+          "lead": "The core.",
+          "text": "The innermost and hottest layer, made mainly of nickel and iron (NIFE). Its outer part is liquid and its inner part solid."
+        },
         "Together these layers make up the structure of our planet."
       ]
     },
@@ -19,10 +28,58 @@
       "word_limit": 150,
       "answer": [
         "Rocks are natural masses of minerals, and they are of three kinds.",
-        { "lead": "Igneous rocks.", "text": "Formed when molten magma or lava cools and hardens, such as basalt and granite. They are called primary rocks." },
-        { "lead": "Sedimentary rocks.", "text": "Formed when sediments are pressed together in layers over long periods, such as sandstone; they often contain fossils." },
-        { "lead": "Metamorphic rocks.", "text": "Formed when igneous or sedimentary rocks are changed by great heat and pressure — clay becomes slate, limestone becomes marble." },
-        { "lead": "The rock cycle.", "text": "These rocks keep changing into one another over long ages: rocks weather into sediments, sediments harden, heat and pressure transform them, and deep heat can melt rock back into magma." }
+        {
+          "lead": "Igneous rocks.",
+          "text": "Formed when molten magma or lava cools and hardens, such as basalt and granite. They are called primary rocks."
+        },
+        {
+          "lead": "Sedimentary rocks.",
+          "text": "Formed when sediments are pressed together in layers over long periods, such as sandstone; they often contain fossils."
+        },
+        {
+          "lead": "Metamorphic rocks.",
+          "text": "Formed when igneous or sedimentary rocks are changed by great heat and pressure — clay becomes slate, limestone becomes marble."
+        },
+        {
+          "lead": "The rock cycle.",
+          "text": "These rocks keep changing into one another over long ages: rocks weather into sediments, sediments harden, heat and pressure transform them, and deep heat can melt rock back into magma."
+        }
+      ]
+    },
+    {
+      "q": "What are minerals, and why are rocks and minerals useful to us?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Rocks and minerals.",
+          "text": "The hard mass of which the Earth's crust is made is called rock. Every rock is made up of one or more natural substances called minerals, which have their own colour, hardness and other properties."
+        },
+        {
+          "lead": "Uses of rocks.",
+          "text": "Rocks are very useful. Hard rocks like granite are used for building houses, roads and monuments, and stones are used to make tools and grind grain. Soil, which supports farming, is formed from the breaking down of rocks."
+        },
+        {
+          "lead": "Uses of minerals.",
+          "text": "Minerals are of great value. Metals such as iron, copper, gold and aluminium come from minerals and are used to make tools, machines, wires and ornaments, while minerals like coal and mica have many industrial uses."
+        },
+        "Thus rocks and the minerals within them provide building materials, soil, metals and fuels essential to daily life."
+      ]
+    },
+    {
+      "q": "How are sedimentary rocks and fossils formed?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Formation of sedimentary rocks.",
+          "text": "Rocks on the surface are slowly broken down into small fragments by the action of wind, water and weather. These fragments, called sediments, are carried away by rivers and wind and deposited in layers, usually at the bottom of seas and lakes. Over long periods the layers are pressed and hardened into rock, which is why they are called sedimentary rocks. Sandstone is an example."
+        },
+        {
+          "lead": "Formation of fossils.",
+          "text": "When plants and animals die, their remains sometimes get buried in these layers of sediment. As the sediment hardens into rock, the shapes and imprints of these remains are preserved within it. Such preserved remains of ancient life are called fossils."
+        },
+        "Thus sedimentary rocks form from hardened layers of sediment, and fossils are the remains of living things trapped and preserved within them."
       ]
     }
   ]

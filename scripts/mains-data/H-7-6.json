@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Medieval towns were of several kinds, and a single town was often more than one type at once.",
-        { "lead": "Temple towns.", "text": "These grew around large temples that were endowed with land and money and became centres of craft, trade and pilgrimage — for example Thanjavur, Madurai, Kanchipuram and Tirupati." },
-        { "lead": "Administrative centres.", "text": "These were the seats of rulers and their courts, such as Delhi, with forts, palaces and markets." },
-        { "lead": "Commercial and port towns.", "text": "These were hubs of trade, like Surat, Masulipatnam and Hampi, where goods and merchants gathered." },
+        {
+          "lead": "Temple towns.",
+          "text": "These grew around large temples that were endowed with land and money and became centres of craft, trade and pilgrimage — for example Thanjavur, Madurai, Kanchipuram and Tirupati."
+        },
+        {
+          "lead": "Administrative centres.",
+          "text": "These were the seats of rulers and their courts, such as Delhi, with forts, palaces and markets."
+        },
+        {
+          "lead": "Commercial and port towns.",
+          "text": "These were hubs of trade, like Surat, Masulipatnam and Hampi, where goods and merchants gathered."
+        },
         "Whatever their main role, such towns were densely populated and full of markets, artisans' quarters and places of worship."
       ]
     },
@@ -18,9 +27,58 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Craft production.", "text": "Towns supported specialised, often hereditary crafts — weaving, dyeing, metalwork, jewellery and bronze image-making. Communities such as the Panchalas or Vishwakarma (goldsmiths, bronzesmiths, blacksmiths, carpenters and masons) and weaver groups organised production. A famous example is Bidri work, the inlay of silver and gold on a zinc–copper alloy, made at Bidar." },
-        { "lead": "Trade.", "text": "Goods moved through ports on the Gujarat, Malabar and Coromandel coasts. Surat was the gateway to the West and to Mecca, while Masulipatnam and Hampi thrived on trade." },
-        { "lead": "Guilds and companies.", "text": "Merchant guilds such as the Manigramam and Nanadesi financed long-distance trade, and later European companies set up port factories that reshaped commerce." }
+        {
+          "lead": "Craft production.",
+          "text": "Towns supported specialised, often hereditary crafts — weaving, dyeing, metalwork, jewellery and bronze image-making. Communities such as the Panchalas or Vishwakarma (goldsmiths, bronzesmiths, blacksmiths, carpenters and masons) and weaver groups organised production. A famous example is Bidri work, the inlay of silver and gold on a zinc–copper alloy, made at Bidar."
+        },
+        {
+          "lead": "Trade.",
+          "text": "Goods moved through ports on the Gujarat, Malabar and Coromandel coasts. Surat was the gateway to the West and to Mecca, while Masulipatnam and Hampi thrived on trade."
+        },
+        {
+          "lead": "Guilds and companies.",
+          "text": "Merchant guilds such as the Manigramam and Nanadesi financed long-distance trade, and later European companies set up port factories that reshaped commerce."
+        }
+      ]
+    },
+    {
+      "q": "What were temple towns, and why did they grow?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Towns around temples.",
+          "text": "Temple towns were settlements that grew up around important and wealthy temples. Thanjavur, Madurai, Tirupati and Kanchipuram are examples of such towns."
+        },
+        {
+          "lead": "Why they grew.",
+          "text": "Rulers endowed temples with large grants of land and money, making them very rich. Temples became centres not only of worship but also of activity, employing priests, workers, garland-makers, musicians and many others. Pilgrims came in large numbers, and traders and craftspeople settled to serve them."
+        },
+        {
+          "lead": "Centres of economy.",
+          "text": "The temple's wealth was used to support markets, banking and craft production, so a busy town grew around it."
+        },
+        "Thus temple towns grew because rich temples drew pilgrims, priests, traders and craftspeople, turning centres of worship into thriving towns."
+      ]
+    },
+    {
+      "q": "How were craft production and traders organised in medieval towns?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Skilled craftspeople.",
+          "text": "Medieval towns were centres of fine craft production. Weavers, dyers, potters, goldsmiths, blacksmiths, stonemasons and bronze-workers produced cloth, ornaments, tools and images. The bronze images and rich silks of the south were especially famous."
+        },
+        {
+          "lead": "Craft communities.",
+          "text": "Craftspersons often belonged to particular communities and passed their skills from parent to child. In some regions they were organised into associations, and the Saliya weavers and others contributed to temples."
+        },
+        {
+          "lead": "Traders and guilds.",
+          "text": "Trade was carried on by merchants who often formed guilds to protect their interests and organise long-distance trade. Groups such as the Manigramam and Nanadesi traded within the peninsula and overseas with Southeast Asia and China."
+        },
+        "Thus crafts were made by skilled hereditary communities, while merchant guilds organised the trade that linked towns to distant lands."
       ]
     }
   ]

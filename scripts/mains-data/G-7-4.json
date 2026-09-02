@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "The atmosphere is the blanket of air surrounding the Earth, held in place by gravity.",
-        { "lead": "Composition.", "text": "It is a mixture of gases — about 78 per cent nitrogen and 21 per cent oxygen, with small amounts of carbon dioxide, argon, water vapour and dust. Oxygen supports breathing and burning, carbon dioxide is used by plants and traps heat, and nitrogen helps plant growth." },
-        { "lead": "Layers.", "text": "From bottom to top these are the troposphere, where all weather occurs; the stratosphere, which holds the ozone layer that absorbs harmful ultraviolet rays and where aeroplanes fly; the mesosphere, where meteors burn up; the thermosphere, whose ionosphere reflects radio waves; and the exosphere, the thin outermost layer merging into space." }
+        {
+          "lead": "Composition.",
+          "text": "It is a mixture of gases — about 78 per cent nitrogen and 21 per cent oxygen, with small amounts of carbon dioxide, argon, water vapour and dust. Oxygen supports breathing and burning, carbon dioxide is used by plants and traps heat, and nitrogen helps plant growth."
+        },
+        {
+          "lead": "Layers.",
+          "text": "From bottom to top these are the troposphere, where all weather occurs; the stratosphere, which holds the ozone layer that absorbs harmful ultraviolet rays and where aeroplanes fly; the mesosphere, where meteors burn up; the thermosphere, whose ionosphere reflects radio waves; and the exosphere, the thin outermost layer merging into space."
+        }
       ]
     },
     {
@@ -16,9 +22,55 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Weather and climate.", "text": "Weather is the condition of the atmosphere at a place over a short time, changing from day to day. Climate is the average of the weather taken over a long period of many years." },
-        { "lead": "Winds.", "text": "Wind is moving air, blowing from areas of high pressure to areas of low pressure. Winds are of three kinds: permanent winds, such as the trade winds and westerlies, that blow constantly in the same direction; seasonal winds, such as the monsoon, that change direction with the seasons; and local winds, such as the land and sea breezes and the hot loo, that affect small areas at particular times." },
+        {
+          "lead": "Weather and climate.",
+          "text": "Weather is the condition of the atmosphere at a place over a short time, changing from day to day. Climate is the average of the weather taken over a long period of many years."
+        },
+        {
+          "lead": "Winds.",
+          "text": "Wind is moving air, blowing from areas of high pressure to areas of low pressure. Winds are of three kinds: permanent winds, such as the trade winds and westerlies, that blow constantly in the same direction; seasonal winds, such as the monsoon, that change direction with the seasons; and local winds, such as the land and sea breezes and the hot loo, that affect small areas at particular times."
+        },
         "Air pressure is measured with a barometer and rainfall with a rain gauge."
+      ]
+    },
+    {
+      "q": "What is air pressure, and how is it related to winds?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Air pressure.",
+          "text": "Air has weight and presses on everything around it. The pressure exerted by the weight of air on the Earth's surface is called air pressure. It is highest at sea level and decreases as we go higher, and warm air, being lighter, causes low pressure, while cool air, being heavier, causes high pressure."
+        },
+        {
+          "lead": "How winds are caused.",
+          "text": "Wind is simply moving air. Air always moves from areas of high pressure to areas of low pressure. The greater the difference in pressure, the stronger the wind blows."
+        },
+        {
+          "lead": "Kinds of winds.",
+          "text": "Winds may be permanent, like the trade winds, seasonal, like the monsoon, or local, like the loo."
+        },
+        "Thus air pressure is the weight of air on the surface, and differences in pressure set the air moving as winds."
+      ]
+    },
+    {
+      "q": "How does moisture in the air lead to different forms of precipitation?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Moisture in the air.",
+          "text": "When water evaporates from oceans, rivers and land, it enters the air as water vapour. The amount of water vapour in the air is called humidity."
+        },
+        {
+          "lead": "Condensation and clouds.",
+          "text": "When moist air rises and cools, the vapour it holds condenses into tiny drops of water, which together form clouds. When these drops grow large and heavy, they fall to the ground."
+        },
+        {
+          "lead": "Forms of precipitation.",
+          "text": "Water falling from clouds is called precipitation. It usually falls as rain. In very cold conditions the drops freeze and fall as snow, and sometimes as small lumps of ice called hail. Dew and fog are also formed by the condensation of moisture near the ground."
+        },
+        "Thus moisture in the air, on cooling and condensing, gives clouds and falls as rain, snow or hail."
       ]
     }
   ]

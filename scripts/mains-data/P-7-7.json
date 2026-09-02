@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "A cotton shirt passes through many hands between the field and the shop.",
-        { "lead": "From field to cloth.", "text": "It begins with the cotton farmer, who sells raw cotton to a local trader. The trader sells it on to spinning mills, which make yarn, and the yarn is given to weavers who make cloth, often under the putting-out system." },
-        { "lead": "From cloth to consumer.", "text": "The cloth goes to garment-making factories, where workers stitch shirts; exporters then sell these to foreign businesses and brand shops, from which the consumer finally buys the shirt." },
-        { "lead": "The point.", "text": "At each step value is added, but the rewards are shared very unequally — those who do the hardest work earn the least." }
+        {
+          "lead": "From field to cloth.",
+          "text": "It begins with the cotton farmer, who sells raw cotton to a local trader. The trader sells it on to spinning mills, which make yarn, and the yarn is given to weavers who make cloth, often under the putting-out system."
+        },
+        {
+          "lead": "From cloth to consumer.",
+          "text": "The cloth goes to garment-making factories, where workers stitch shirts; exporters then sell these to foreign businesses and brand shops, from which the consumer finally buys the shirt."
+        },
+        {
+          "lead": "The point.",
+          "text": "At each step value is added, but the rewards are shared very unequally — those who do the hardest work earn the least."
+        }
       ]
     },
     {
@@ -18,9 +27,58 @@
       "word_limit": 150,
       "answer": [
         "The people who do the most work in making a shirt earn the least because they have the least power in the market.",
-        { "lead": "The farmer.", "text": "The cotton farmer often borrows money for seeds and fertiliser and must sell to the local trader he owes, at a low price, leaving him with little bargaining power and small earnings." },
-        { "lead": "The weaver.", "text": "Under the putting-out system, merchants supply the yarn and collect the finished cloth, so the weaver, working at home, depends on them entirely and receives only low wages." },
-        { "lead": "Those who gain.", "text": "The garment exporters and foreign brands make the largest profits by keeping the wages of farmers, weavers and factory workers low. The result is an unequal and unfair sharing of the market's gains." }
+        {
+          "lead": "The farmer.",
+          "text": "The cotton farmer often borrows money for seeds and fertiliser and must sell to the local trader he owes, at a low price, leaving him with little bargaining power and small earnings."
+        },
+        {
+          "lead": "The weaver.",
+          "text": "Under the putting-out system, merchants supply the yarn and collect the finished cloth, so the weaver, working at home, depends on them entirely and receives only low wages."
+        },
+        {
+          "lead": "Those who gain.",
+          "text": "The garment exporters and foreign brands make the largest profits by keeping the wages of farmers, weavers and factory workers low. The result is an unequal and unfair sharing of the market's gains."
+        }
+      ]
+    },
+    {
+      "q": "What is the 'putting-out' system, and how does it affect the weavers?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The putting-out system.",
+          "text": "In the putting-out system, a merchant supplies the weaver with the raw material, such as yarn, and sometimes the loom, and the weaver works at home to produce the cloth, which the merchant then collects and sells."
+        },
+        {
+          "lead": "How it affects weavers.",
+          "text": "At first sight this seems helpful, since the weaver need not buy costly yarn or find buyers. But it leaves the weaver dependent on the merchant, who fixes both the price of the yarn and the price paid for the cloth. The weaver has little bargaining power and must accept low wages."
+        },
+        {
+          "lead": "The result.",
+          "text": "So the weaver works long hours yet earns very little, while the merchant, who takes the cloth to distant markets, makes the larger profit."
+        },
+        "Thus the putting-out system ties weavers to merchants, leaving them dependent and poorly paid despite their skilled labour."
+      ]
+    },
+    {
+      "q": "How could the earnings of small producers like farmers and weavers be made fairer?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The problem.",
+          "text": "In the chain from raw material to finished shirt, the cotton farmer and the weaver do the hardest work yet earn the least, while merchants, exporters and shop owners gain far more."
+        },
+        {
+          "lead": "Forming cooperatives.",
+          "text": "One way to make earnings fairer is for small producers to join together in cooperatives. By buying materials together and selling their produce jointly, they can get better prices and depend less on middlemen."
+        },
+        {
+          "lead": "Support and fair trade.",
+          "text": "The government can help by giving fair prices, easy credit and better market access, and by cutting out unnecessary middlemen. Buyers, too, can choose fair-trade goods that promise a decent return to the producer."
+        },
+        "Thus fairer earnings for farmers and weavers can come from cooperatives, government support, fewer middlemen and fair trade."
       ]
     }
   ]

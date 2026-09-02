@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Natural vegetation depends chiefly on climate, especially temperature and rainfall, which give rise to different forest types.",
-        { "lead": "Tropical evergreen forests.", "text": "Found in hot, very wet regions near the equator, such as the Amazon and the Western Ghats; they are dense and remain green all year." },
-        { "lead": "Tropical deciduous forests.", "text": "Found in monsoon regions with seasonal rain; the trees, such as teak and sal, shed their leaves in the dry season. These are the most useful commercially." },
-        { "lead": "Mediterranean and coniferous forests.", "text": "Mediterranean vegetation grows where summers are dry and winters wet, and coniferous or taiga forests, with needle-like evergreen trees such as pine and fir, grow in cold northern regions and yield softwood." }
+        {
+          "lead": "Tropical evergreen forests.",
+          "text": "Found in hot, very wet regions near the equator, such as the Amazon and the Western Ghats; they are dense and remain green all year."
+        },
+        {
+          "lead": "Tropical deciduous forests.",
+          "text": "Found in monsoon regions with seasonal rain; the trees, such as teak and sal, shed their leaves in the dry season. These are the most useful commercially."
+        },
+        {
+          "lead": "Mediterranean and coniferous forests.",
+          "text": "Mediterranean vegetation grows where summers are dry and winters wet, and coniferous or taiga forests, with needle-like evergreen trees such as pine and fir, grow in cold northern regions and yield softwood."
+        }
       ]
     },
     {
@@ -17,9 +26,58 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Tropical grasslands.", "text": "Found near the equator, they have tall grass and are best represented by the Savanna of Africa, famous for wildlife such as lions, elephants and giraffes." },
-        { "lead": "Temperate grasslands.", "text": "Found in the mid-latitudes, they have shorter grass and are known by different regional names — the Prairies of North America, the Pampas of South America, the Steppes of Central Asia, the Veld of South Africa and the Downs of Australia." },
-        { "lead": "Value.", "text": "Both kinds support grazing and wildlife; the temperate grasslands are among the world's great regions for rearing cattle and growing wheat." }
+        {
+          "lead": "Tropical grasslands.",
+          "text": "Found near the equator, they have tall grass and are best represented by the Savanna of Africa, famous for wildlife such as lions, elephants and giraffes."
+        },
+        {
+          "lead": "Temperate grasslands.",
+          "text": "Found in the mid-latitudes, they have shorter grass and are known by different regional names — the Prairies of North America, the Pampas of South America, the Steppes of Central Asia, the Veld of South Africa and the Downs of Australia."
+        },
+        {
+          "lead": "Value.",
+          "text": "Both kinds support grazing and wildlife; the temperate grasslands are among the world's great regions for rearing cattle and growing wheat."
+        }
+      ]
+    },
+    {
+      "q": "Why is wildlife important, and how can it be conserved?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Importance of wildlife.",
+          "text": "Wildlife, the animals and birds that live in nature, is a valuable part of the environment. It keeps the balance of nature, since plants and animals depend on one another in food chains. Wildlife also provides useful products and adds to the beauty and richness of the natural world."
+        },
+        {
+          "lead": "Threats.",
+          "text": "Many animals and birds are now endangered because of the cutting of forests, which destroys their homes, and because of hunting and poaching."
+        },
+        {
+          "lead": "Conservation.",
+          "text": "Wildlife can be conserved by protecting forests, by setting up national parks, wildlife sanctuaries and biosphere reserves where animals are safe, by banning the hunting of endangered species, and by making people aware of the need to protect nature."
+        },
+        "Thus wildlife is vital for nature's balance and beauty, and it must be conserved through protected areas, laws and public awareness."
+      ]
+    },
+    {
+      "q": "How does natural vegetation change with climate and height above sea level?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Vegetation depends on climate.",
+          "text": "Natural vegetation is the plant life that grows on its own without human help, and its type depends mainly on the climate, especially temperature and rainfall."
+        },
+        {
+          "lead": "Change with rainfall and temperature.",
+          "text": "Areas of heavy rain and warmth have dense evergreen forests, while areas of moderate rain have deciduous forests that shed their leaves. Regions of low rainfall have grasslands, and very dry areas have thorny bushes and cacti, whereas cold regions have coniferous forests."
+        },
+        {
+          "lead": "Change with height.",
+          "text": "On mountains, as we climb higher it becomes colder, so vegetation changes with altitude, from broad-leaved forests at the base to coniferous forests higher up, and finally to grasses and bare rock near the snow line."
+        },
+        "Thus vegetation changes from forests to grasslands to scrub with rainfall, and changes in bands up a mountain with height."
       ]
     }
   ]

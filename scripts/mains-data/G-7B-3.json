@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "India has a tropical monsoon climate, marked by the seasonal reversal of winds, and the year has broadly four seasons.",
-        { "lead": "Winter (December–February).", "text": "Cold and mostly dry, with the northern plains coldest; the north-west gets some rain from western disturbances and the south-east from the retreating monsoon." },
-        { "lead": "Summer (March–May).", "text": "Hot, with dry scorching winds called the loo in the north, and low pressure building over the land." },
-        { "lead": "South-west monsoon (June–September).", "text": "The main rainy season, when moisture-laden winds from the Arabian Sea and Bay of Bengal bring most of India's rainfall." },
-        { "lead": "Retreating monsoon (October–November).", "text": "The monsoon withdraws, giving humid weather and rain to the south-east coast." }
+        {
+          "lead": "Winter (December–February).",
+          "text": "Cold and mostly dry, with the northern plains coldest; the north-west gets some rain from western disturbances and the south-east from the retreating monsoon."
+        },
+        {
+          "lead": "Summer (March–May).",
+          "text": "Hot, with dry scorching winds called the loo in the north, and low pressure building over the land."
+        },
+        {
+          "lead": "South-west monsoon (June–September).",
+          "text": "The main rainy season, when moisture-laden winds from the Arabian Sea and Bay of Bengal bring most of India's rainfall."
+        },
+        {
+          "lead": "Retreating monsoon (October–November).",
+          "text": "The monsoon withdraws, giving humid weather and rain to the south-east coast."
+        }
       ]
     },
     {
@@ -19,10 +31,59 @@
       "word_limit": 150,
       "answer": [
         "Several factors together shape India's climate and cause it to vary from place to place.",
-        { "lead": "Latitude.", "text": "The Tropic of Cancer passes through the middle of the country, so the south is generally hotter and more tropical than the north." },
-        { "lead": "Altitude.", "text": "Higher areas are cooler, and the Himalayas shield the plains by blocking cold winds from Central Asia." },
-        { "lead": "Distance from the sea.", "text": "Coastal areas have a moderate, maritime climate, while the interior has a more extreme, continental climate." },
-        { "lead": "Relief.", "text": "Mountains such as the Western Ghats force moist winds to rise, bringing heavy rain on the windward side and leaving a dry rain shadow on the leeward side." }
+        {
+          "lead": "Latitude.",
+          "text": "The Tropic of Cancer passes through the middle of the country, so the south is generally hotter and more tropical than the north."
+        },
+        {
+          "lead": "Altitude.",
+          "text": "Higher areas are cooler, and the Himalayas shield the plains by blocking cold winds from Central Asia."
+        },
+        {
+          "lead": "Distance from the sea.",
+          "text": "Coastal areas have a moderate, maritime climate, while the interior has a more extreme, continental climate."
+        },
+        {
+          "lead": "Relief.",
+          "text": "Mountains such as the Western Ghats force moist winds to rise, bringing heavy rain on the windward side and leaving a dry rain shadow on the leeward side."
+        }
+      ]
+    },
+    {
+      "q": "What is the monsoon, and why is it so important for India?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The monsoon.",
+          "text": "The word monsoon means season, and it refers to the winds that reverse their direction with the seasons. In summer, moist winds blow from the sea onto the heated land and bring heavy rain, the south-west monsoon, while in winter dry winds blow from the land towards the sea."
+        },
+        {
+          "lead": "Its importance.",
+          "text": "The monsoon is the very life of India. Most of the country's rain falls in the few months of the summer monsoon, and Indian farming largely depends on it. A good monsoon means good harvests, plenty of water and a strong economy, while a weak or late monsoon brings drought, crop failure and hardship."
+        },
+        "Thus the monsoon is the seasonal rain-bearing wind on which India's agriculture, water and prosperity chiefly depend."
+      ]
+    },
+    {
+      "q": "How does the climate of India vary from one region to another?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        "Although India as a whole has a monsoon climate, there are wide variations from region to region.",
+        {
+          "lead": "Variation in temperature.",
+          "text": "In summer the deserts of Rajasthan may be scorching hot, while the hills of the Himalayas remain cool. In winter, the north can be very cold, even freezing, while the south stays warm throughout the year."
+        },
+        {
+          "lead": "Variation in rainfall.",
+          "text": "Rainfall is very uneven. Places like Mawsynram and Cherrapunji in the north-east are among the wettest on Earth, while parts of Rajasthan are dry deserts receiving very little rain. The western coast gets heavy rain, but the interior of the Deccan gets much less."
+        },
+        {
+          "lead": "Causes.",
+          "text": "These differences arise from distance from the sea, height above sea level, latitude and the direction of the monsoon winds."
+        },
+        "Thus India's climate ranges from hot deserts to cold mountains and from very wet to very dry regions."
       ]
     }
   ]

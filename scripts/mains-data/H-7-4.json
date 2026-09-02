@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The mansabdari system, introduced by Akbar, was the framework for organising the Mughal nobility and army.",
-        { "lead": "Ranks.", "text": "Every official was given a rank, or mansab, which had two parts. The zat fixed his personal status and pay, while the sawar fixed the number of horsemen he was required to maintain for the emperor's service." },
-        { "lead": "Payment.", "text": "In place of a cash salary, many mansabdars were assigned a jagir — a territory whose revenue they could collect. Usually they did not live in their jagirs; officials collected the revenue on their behalf while they served elsewhere." },
-        { "lead": "Composition.", "text": "The nobility was deliberately mixed — Turani, Irani, Rajput, Indian Muslim and Deccani — so that no single group could dominate. This bound a diverse elite to the empire." }
+        {
+          "lead": "Ranks.",
+          "text": "Every official was given a rank, or mansab, which had two parts. The zat fixed his personal status and pay, while the sawar fixed the number of horsemen he was required to maintain for the emperor's service."
+        },
+        {
+          "lead": "Payment.",
+          "text": "In place of a cash salary, many mansabdars were assigned a jagir — a territory whose revenue they could collect. Usually they did not live in their jagirs; officials collected the revenue on their behalf while they served elsewhere."
+        },
+        {
+          "lead": "Composition.",
+          "text": "The nobility was deliberately mixed — Turani, Irani, Rajput, Indian Muslim and Deccani — so that no single group could dominate. This bound a diverse elite to the empire."
+        }
       ]
     },
     {
@@ -18,9 +27,18 @@
       "word_limit": 150,
       "answer": [
         "Akbar is remembered for policies that combined efficient administration with religious tolerance.",
-        { "lead": "Sulh-i-kul.", "text": "He followed the ideal of sulh-i-kul, or 'universal peace', treating all religions impartially. He abolished the jizya on non-Muslims and the pilgrimage tax, and drew a small circle of followers to a set of ethical ideals called the Din-i-Ilahi." },
-        { "lead": "Revenue reform.", "text": "With his minister Todar Mal he introduced the zabt system, in which land revenue was fixed as a cash amount for each crop after careful surveys of yields and prices." },
-        { "lead": "Record.", "text": "His reign is documented in the Akbarnama, including the Ain-i-Akbari, written by Abul Fazl, giving a detailed picture of the empire." }
+        {
+          "lead": "Sulh-i-kul.",
+          "text": "He followed the ideal of sulh-i-kul, or 'universal peace', treating all religions impartially. He abolished the jizya on non-Muslims and the pilgrimage tax, and drew a small circle of followers to a set of ethical ideals called the Din-i-Ilahi."
+        },
+        {
+          "lead": "Revenue reform.",
+          "text": "With his minister Todar Mal he introduced the zabt system, in which land revenue was fixed as a cash amount for each crop after careful surveys of yields and prices."
+        },
+        {
+          "lead": "Record.",
+          "text": "His reign is documented in the Akbarnama, including the Ain-i-Akbari, written by Abul Fazl, giving a detailed picture of the empire."
+        }
       ]
     },
     {
@@ -29,10 +47,59 @@
       "word_limit": 150,
       "answer": [
         "The Mughal Empire reached its greatest size under Aurangzeb but declined soon after his death in 1707.",
-        { "lead": "Overstretch.", "text": "Aurangzeb's long and costly campaigns in the Deccan drained the treasury and kept the emperor away from the north for years, weakening central control." },
-        { "lead": "Loss of goodwill.", "text": "His re-imposition of the jizya and conflicts with the Rajputs, Marathas, Sikhs and Jats turned former allies and subjects into rebels." },
-        { "lead": "Rise of new powers.", "text": "After 1707, weak successors could not hold the empire together, and provincial governors and new powers — the Marathas, Sikhs and regional Nawabs — became effectively independent." },
+        {
+          "lead": "Overstretch.",
+          "text": "Aurangzeb's long and costly campaigns in the Deccan drained the treasury and kept the emperor away from the north for years, weakening central control."
+        },
+        {
+          "lead": "Loss of goodwill.",
+          "text": "His re-imposition of the jizya and conflicts with the Rajputs, Marathas, Sikhs and Jats turned former allies and subjects into rebels."
+        },
+        {
+          "lead": "Rise of new powers.",
+          "text": "After 1707, weak successors could not hold the empire together, and provincial governors and new powers — the Marathas, Sikhs and regional Nawabs — became effectively independent."
+        },
         "Thus overstretch, lost alliances and rising regional powers together brought decline."
+      ]
+    },
+    {
+      "q": "Who were the Mughals, and how did they build relations with other rulers such as the Rajputs?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Origins of the Mughals.",
+          "text": "The Mughals were descended from two great warrior lineages, the Mongols of Genghis Khan on the mother's side and the Turks of Timur on the father's side. Babur founded the empire in India by defeating Ibrahim Lodi at Panipat in 1526."
+        },
+        {
+          "lead": "Relations with the Rajputs.",
+          "text": "The Mughals could not rule such a vast land by force alone, so they sought the cooperation of powerful groups, especially the Rajputs. Akbar won them over through marriage alliances, by giving Rajput chiefs high ranks, or mansabs, in his service, and by respecting their honour and religion."
+        },
+        {
+          "lead": "A policy of inclusion.",
+          "text": "Some Rajputs, like the Ranas of Mewar, resisted, but many became loyal pillars of the empire."
+        },
+        "Thus the Mughals, of Mongol and Timurid descent, secured their empire by winning the alliance of the Rajputs and other rulers."
+      ]
+    },
+    {
+      "q": "What were jagirs, and how did the mansabdari and jagir system work together?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The mansabdars.",
+          "text": "The nobles who served the Mughal emperor were given a rank, called a mansab, which fixed their position, their pay, and the number of horsemen they had to maintain for the emperor's army. These officers were the mansabdars."
+        },
+        {
+          "lead": "Jagirs.",
+          "text": "Instead of cash salaries, most mansabdars were assigned revenue from a piece of land, called a jagir, from which they collected the taxes due as their pay. They did not usually live on the jagir but employed officials to collect the revenue."
+        },
+        {
+          "lead": "Working together.",
+          "text": "The two systems were linked, since a mansabdar's rank decided the size of his jagir. Jagirs were frequently transferred, so that no noble grew too rooted in one area."
+        },
+        "Thus mansabs fixed a noble's rank and duties, while jagirs provided his income, binding the nobility to the emperor's service."
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Governments differ mainly in who holds power and how leaders are chosen.",
-        { "lead": "Monarchy.", "text": "Rule by a single person, a king or queen, whose position is usually hereditary. Their power may be absolute or limited by law." },
-        { "lead": "Oligarchy and dictatorship.", "text": "In an oligarchy a small group of powerful people rules; in a dictatorship one person or party holds total power without being chosen by the people." },
-        { "lead": "Democracy and republic.", "text": "In a democracy the people rule by choosing their leaders through elections, while in a republic the head of state is elected rather than being a hereditary monarch." },
+        {
+          "lead": "Monarchy.",
+          "text": "Rule by a single person, a king or queen, whose position is usually hereditary. Their power may be absolute or limited by law."
+        },
+        {
+          "lead": "Oligarchy and dictatorship.",
+          "text": "In an oligarchy a small group of powerful people rules; in a dictatorship one person or party holds total power without being chosen by the people."
+        },
+        {
+          "lead": "Democracy and republic.",
+          "text": "In a democracy the people rule by choosing their leaders through elections, while in a republic the head of state is elected rather than being a hereditary monarch."
+        },
         "India combines both, being a democratic republic."
       ]
     },
@@ -19,9 +28,55 @@
       "word_limit": 150,
       "answer": [
         "Democracy means rule by the people, and it can take two forms.",
-        { "lead": "Direct democracy.", "text": "Here the people themselves gather to take decisions, without going through representatives. This is possible only in small communities — as in the ancient ganas and sanghas, or in the Gram Sabha of a village today, where all adult voters meet." },
-        { "lead": "Representative democracy.", "text": "In large countries it is impossible for everyone to meet and decide, so the people elect representatives to govern on their behalf. India is a representative democracy, in which citizens choose MLAs and MPs to make decisions for them." },
+        {
+          "lead": "Direct democracy.",
+          "text": "Here the people themselves gather to take decisions, without going through representatives. This is possible only in small communities — as in the ancient ganas and sanghas, or in the Gram Sabha of a village today, where all adult voters meet."
+        },
+        {
+          "lead": "Representative democracy.",
+          "text": "In large countries it is impossible for everyone to meet and decide, so the people elect representatives to govern on their behalf. India is a representative democracy, in which citizens choose MLAs and MPs to make decisions for them."
+        },
         "In both forms, ultimate power rests with the people, marking the shift from subjects to citizens."
+      ]
+    },
+    {
+      "q": "Why do we need a government?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The need for a government.",
+          "text": "A government is needed to run a country and to look after the welfare of its people. Without a government there would be disorder, for someone must make and enforce rules by which people live together peacefully."
+        },
+        {
+          "lead": "What a government does.",
+          "text": "The government makes laws and sees that they are obeyed. It maintains order and protects the country from outside attack and internal disturbance. It provides services such as roads, schools, hospitals, water and electricity, and helps the poor and the weak."
+        },
+        {
+          "lead": "Settling disputes.",
+          "text": "The government also settles disputes between people through the courts and takes decisions for the whole society, such as building a dam or fighting a disease."
+        },
+        "Thus a government is needed to make laws, keep order, defend the country, provide services and work for the welfare of all."
+      ]
+    },
+    {
+      "q": "How did societies move from being ruled by kings to being governed by the people?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Rule by kings.",
+          "text": "For most of history, countries were ruled by kings, queens or emperors who inherited their power by birth. Ordinary people had no say in how they were governed, and the ruler's word was law."
+        },
+        {
+          "lead": "The demand for a say.",
+          "text": "Over time, people began to feel that those who are governed should have a voice in choosing their rulers and making the laws. Struggles and movements arose demanding rights, freedom and a share in power."
+        },
+        {
+          "lead": "The rise of democracy.",
+          "text": "Gradually, in many countries, the power of hereditary rulers was limited or ended, and government by the people, or democracy, took its place. Now leaders are chosen by the people through elections and must answer to them."
+        },
+        "Thus, through long struggle, societies shifted from being ruled by hereditary kings to being governed by the people themselves."
       ]
     }
   ]

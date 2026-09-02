@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "We buy goods and services from many kinds of markets, which differ in cost and convenience.",
-        { "lead": "Weekly markets.", "text": "Held on a fixed day of the week, they have no permanent shops, so costs are low and goods are cheaper and open to bargaining." },
-        { "lead": "Neighbourhood shops.", "text": "Permanent shops close to home are convenient, familiar, and often sell on credit." },
-        { "lead": "Shopping complexes and malls.", "text": "These house many shops selling branded goods and are usually more expensive." },
-        { "lead": "Online markets.", "text": "People can now buy from home, with goods delivered to them. Some markets sell directly to consumers (retail) and others in bulk to shopkeepers (wholesale)." }
+        {
+          "lead": "Weekly markets.",
+          "text": "Held on a fixed day of the week, they have no permanent shops, so costs are low and goods are cheaper and open to bargaining."
+        },
+        {
+          "lead": "Neighbourhood shops.",
+          "text": "Permanent shops close to home are convenient, familiar, and often sell on credit."
+        },
+        {
+          "lead": "Shopping complexes and malls.",
+          "text": "These house many shops selling branded goods and are usually more expensive."
+        },
+        {
+          "lead": "Online markets.",
+          "text": "People can now buy from home, with goods delivered to them. Some markets sell directly to consumers (retail) and others in bulk to shopkeepers (wholesale)."
+        }
       ]
     },
     {
@@ -19,10 +31,63 @@
       "word_limit": 150,
       "answer": [
         "Most goods pass through a chain of markets before they reach us.",
-        { "lead": "Wholesale trade.", "text": "A wholesaler buys goods in large quantities directly from producers and sells them to retailers. Buying in bulk allows the wholesaler to get lower prices." },
-        { "lead": "Retail trade.", "text": "A retailer buys smaller quantities from the wholesaler and sells them to the final consumer in the shop or market." },
-        { "lead": "The chain.", "text": "So the usual chain runs from the producer to the wholesaler, then to the retailer, and finally to the consumer, with the price rising at each step." },
-        { "lead": "Unequal gains.", "text": "The gains are shared unequally along this chain — big traders often profit more than the producer or the small seller." }
+        {
+          "lead": "Wholesale trade.",
+          "text": "A wholesaler buys goods in large quantities directly from producers and sells them to retailers. Buying in bulk allows the wholesaler to get lower prices."
+        },
+        {
+          "lead": "Retail trade.",
+          "text": "A retailer buys smaller quantities from the wholesaler and sells them to the final consumer in the shop or market."
+        },
+        {
+          "lead": "The chain.",
+          "text": "So the usual chain runs from the producer to the wholesaler, then to the retailer, and finally to the consumer, with the price rising at each step."
+        },
+        {
+          "lead": "Unequal gains.",
+          "text": "The gains are shared unequally along this chain — big traders often profit more than the producer or the small seller."
+        }
+      ]
+    },
+    {
+      "q": "How does a weekly market differ from shops in a neighbourhood and a shopping mall?",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "We buy goods from many kinds of markets, which differ in where they are held, who sells and what they offer.",
+        {
+          "lead": "The weekly market.",
+          "text": "A weekly market is held on a fixed day of the week in an open space. It has no permanent shops; traders set up stalls in the morning and pack up in the evening. Goods are cheaper because sellers have low costs and bargaining is common, but the choice is limited."
+        },
+        {
+          "lead": "Neighbourhood shops.",
+          "text": "Shops in a neighbourhood are permanent and open on most days, close to where people live, and useful for daily needs, though their prices are usually fixed."
+        },
+        {
+          "lead": "Shopping malls.",
+          "text": "A shopping mall is a large, air-conditioned building with many branded shops selling costly goods, visited mostly by better-off customers."
+        },
+        "Thus weekly markets are cheap and temporary, neighbourhood shops are handy and permanent, and malls are large and expensive."
+      ]
+    },
+    {
+      "q": "Why do markets not offer equal benefits to everyone?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Markets serve different people.",
+          "text": "The many kinds of markets do not treat all people equally, because buyers and sellers differ greatly in their wealth and power."
+        },
+        {
+          "lead": "Unequal buyers.",
+          "text": "A rich person can shop in costly malls and buy branded goods, while a poor person can afford only cheaper goods from a weekly market or a small shop. So people's spending depends on how much money they have."
+        },
+        {
+          "lead": "Unequal sellers.",
+          "text": "Among sellers too there is inequality. A big businessman or factory owner earns large profits, while a small hawker or a weekly-market trader earns very little despite hard work. The small producer and the poor buyer are the weakest in the chain."
+        },
+        "Thus markets favour those with more money and power, so their benefits are not shared equally among buyers and sellers."
       ]
     }
   ]

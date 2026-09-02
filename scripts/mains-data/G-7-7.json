@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "A settlement is a place where people build homes and live, and settlements can be classified in two ways.",
-        { "lead": "By permanence.", "text": "Temporary settlements are occupied for a short time, as by hunter-gatherers, shifting cultivators and nomadic herders. Permanent settlements are lived in for a long time, and include most towns and villages today." },
-        { "lead": "Rural settlements.", "text": "These are villages where people mainly follow primary activities such as farming, fishing and herding. Their houses may be compact, clustered close together, or scattered across the land." },
-        { "lead": "Urban settlements.", "text": "These are towns and cities where people mainly follow secondary and tertiary activities such as industry, trade and services, and where population is dense." }
+        {
+          "lead": "By permanence.",
+          "text": "Temporary settlements are occupied for a short time, as by hunter-gatherers, shifting cultivators and nomadic herders. Permanent settlements are lived in for a long time, and include most towns and villages today."
+        },
+        {
+          "lead": "Rural settlements.",
+          "text": "These are villages where people mainly follow primary activities such as farming, fishing and herding. Their houses may be compact, clustered close together, or scattered across the land."
+        },
+        {
+          "lead": "Urban settlements.",
+          "text": "These are towns and cities where people mainly follow secondary and tertiary activities such as industry, trade and services, and where population is dense."
+        }
       ]
     },
     {
@@ -17,9 +26,55 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Transport.", "text": "Transport carries people and goods from place to place using four main modes. Roadways are the most common and offer door-to-door service; railways move heavy goods and large numbers of people over land; waterways are the cheapest for carrying heavy goods over long distances; and airways are the fastest but the most expensive." },
-        { "lead": "Communication.", "text": "Communication is the passing of information. Personal communication, such as letters, telephone calls and email, reaches one or a few people, while mass communication, such as newspapers, radio, television and the internet, reaches many at once. Satellites and the internet have made communication instant and global." },
+        {
+          "lead": "Transport.",
+          "text": "Transport carries people and goods from place to place using four main modes. Roadways are the most common and offer door-to-door service; railways move heavy goods and large numbers of people over land; waterways are the cheapest for carrying heavy goods over long distances; and airways are the fastest but the most expensive."
+        },
+        {
+          "lead": "Communication.",
+          "text": "Communication is the passing of information. Personal communication, such as letters, telephone calls and email, reaches one or a few people, while mass communication, such as newspapers, radio, television and the internet, reaches many at once. Satellites and the internet have made communication instant and global."
+        },
         "Good transport and communication link distant places and drive development."
+      ]
+    },
+    {
+      "q": "How did human settlements develop, and why did early people settle near rivers?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The first settlements.",
+          "text": "A settlement is a place where people build homes and live. The earliest people were wanderers who moved in search of food. When they learnt farming, they began to settle in one place, giving rise to the first permanent settlements and villages."
+        },
+        {
+          "lead": "Why near rivers.",
+          "text": "Early people settled mostly along the banks of rivers. Rivers gave a steady supply of water for drinking, for their animals and for irrigating crops. The river valleys had flat, fertile land ideal for farming, and the river also provided fish and an easy route for travel and trade."
+        },
+        {
+          "lead": "Growth into towns.",
+          "text": "As farming produced surplus food, some settlements grew into large towns and cities."
+        },
+        "Thus settlements began when people took to farming, and they clustered near rivers for water, fertile land and transport."
+      ]
+    },
+    {
+      "q": "How has communication changed human life?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What communication is.",
+          "text": "Communication is the passing of information, messages and ideas from one person or place to another. It may be personal, as in a letter or a phone call, or mass communication that reaches many people at once, such as newspapers, radio and television."
+        },
+        {
+          "lead": "The change it brought.",
+          "text": "In the past, messages travelled slowly by messengers and letters. Today, with the telephone, mobile phones, the internet, email and satellites, people can send messages across the world in an instant."
+        },
+        {
+          "lead": "Effects on life.",
+          "text": "This has brought people closer, helped trade, education, news and government, and made the world seem smaller, so it is often called a global village."
+        },
+        "Thus rapid modern communication has transformed human life by connecting distant people instantly and speeding the flow of information."
       ]
     }
   ]

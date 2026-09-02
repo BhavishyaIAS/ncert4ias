@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "India's great physical diversity can be grouped into a few major divisions.",
-        { "lead": "The Himalayas.", "text": "Young fold mountains in the north, made of three parallel ranges — the Himadri or Greater Himalayas with permanent snow, the Himachal or Middle Himalayas, and the outer Shivaliks. They give birth to great rivers and act as a climatic and defensive barrier." },
-        { "lead": "The Northern Plains.", "text": "Flat, fertile land formed by the alluvium of the Indus, Ganga and Brahmaputra; densely populated and the agricultural heartland." },
-        { "lead": "Plateau, desert, coasts and islands.", "text": "The old, mineral-rich Peninsular Plateau bordered by the Western and Eastern Ghats; the sandy Thar Desert in the north-west; the eastern and western Coastal Plains; and the Andaman and Nicobar and Lakshadweep islands." }
+        {
+          "lead": "The Himalayas.",
+          "text": "Young fold mountains in the north, made of three parallel ranges — the Himadri or Greater Himalayas with permanent snow, the Himachal or Middle Himalayas, and the outer Shivaliks. They give birth to great rivers and act as a climatic and defensive barrier."
+        },
+        {
+          "lead": "The Northern Plains.",
+          "text": "Flat, fertile land formed by the alluvium of the Indus, Ganga and Brahmaputra; densely populated and the agricultural heartland."
+        },
+        {
+          "lead": "Plateau, desert, coasts and islands.",
+          "text": "The old, mineral-rich Peninsular Plateau bordered by the Western and Eastern Ghats; the sandy Thar Desert in the north-west; the eastern and western Coastal Plains; and the Andaman and Nicobar and Lakshadweep islands."
+        }
       ]
     },
     {
@@ -18,10 +27,55 @@
       "word_limit": 150,
       "answer": [
         "India's varied relief shapes its climate, water, farming and ways of life across regions.",
-        { "lead": "Mountains.", "text": "The Himalayas feed perennial rivers, block cold northern winds, and support tourism, forestry and hardy hill farming, though life there is difficult." },
-        { "lead": "Plains.", "text": "The fertile Northern Plains, watered by great rivers, support intensive agriculture and dense settlement, making them the country's granary." },
-        { "lead": "Plateau and coasts.", "text": "The mineral-rich Peninsular Plateau supports mining and industry, while the coastal plains favour fishing, trade and port cities." },
+        {
+          "lead": "Mountains.",
+          "text": "The Himalayas feed perennial rivers, block cold northern winds, and support tourism, forestry and hardy hill farming, though life there is difficult."
+        },
+        {
+          "lead": "Plains.",
+          "text": "The fertile Northern Plains, watered by great rivers, support intensive agriculture and dense settlement, making them the country's granary."
+        },
+        {
+          "lead": "Plateau and coasts.",
+          "text": "The mineral-rich Peninsular Plateau supports mining and industry, while the coastal plains favour fishing, trade and port cities."
+        },
         "Thus each division offers different resources and livelihoods, and this diversity is one of India's great strengths."
+      ]
+    },
+    {
+      "q": "Describe the Himalayan mountains and their importance to India.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Himalayas.",
+          "text": "The Himalayas are the great young fold mountains that stretch along the northern edge of India. They are the highest mountains in the world and are arranged in three roughly parallel ranges, with lofty snow-covered peaks in the north and lower ranges towards the plains."
+        },
+        {
+          "lead": "Their importance.",
+          "text": "The Himalayas are of enormous value. They act as a natural wall that guards India in the north and blocks the cold winds from Central Asia, keeping the plains warmer. They force the monsoon winds to rise and shed rain, and their snows feed the great perennial rivers such as the Ganga and the Yamuna. They are also rich in forests, and their valleys and hill stations are places of great beauty."
+        },
+        "Thus the Himalayas protect India, influence its climate, feed its rivers and enrich its life, making them vital to the country."
+      ]
+    },
+    {
+      "q": "Describe the Northern Plains of India and explain why they are densely populated.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Northern Plains.",
+          "text": "South of the Himalayas lie the vast Northern Plains, formed over long ages by the soil, or alluvium, brought down and deposited by the great rivers, the Indus, the Ganga and the Brahmaputra, and their tributaries."
+        },
+        {
+          "lead": "Why densely populated.",
+          "text": "These plains are among the most densely populated regions in the world. Their deep alluvial soil is extremely fertile and ideal for farming, and the rivers provide plenty of water for irrigation. The land is level, which makes ploughing easy and the building of roads, railways, villages and cities simple."
+        },
+        {
+          "lead": "A rich region.",
+          "text": "Because of this fertile soil, abundant water and easy movement, the plains support intensive farming and a very large population."
+        },
+        "Thus the fertile, level and well-watered Northern Plains attract dense settlement and intensive agriculture."
       ]
     }
   ]

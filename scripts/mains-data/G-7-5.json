@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Ocean water is never still; it moves in three main ways — waves, tides and currents.",
-        { "lead": "Waves.", "text": "Waves are caused by winds blowing over the surface of the sea. Strong waves erode the coast, while a tsunami is a giant wave caused not by wind but by an undersea earthquake or volcano." },
-        { "lead": "Tides.", "text": "Tides are the regular rise and fall of sea water, usually twice a day, caused mainly by the gravitational pull of the Moon and Sun." },
-        { "lead": "Currents.", "text": "Currents are streams of water flowing continuously in a definite direction — warm currents from the equator towards the poles and cold currents from the poles towards the equator." },
+        {
+          "lead": "Waves.",
+          "text": "Waves are caused by winds blowing over the surface of the sea. Strong waves erode the coast, while a tsunami is a giant wave caused not by wind but by an undersea earthquake or volcano."
+        },
+        {
+          "lead": "Tides.",
+          "text": "Tides are the regular rise and fall of sea water, usually twice a day, caused mainly by the gravitational pull of the Moon and Sun."
+        },
+        {
+          "lead": "Currents.",
+          "text": "Currents are streams of water flowing continuously in a definite direction — warm currents from the equator towards the poles and cold currents from the poles towards the equator."
+        },
         "These movements shape coasts, climate and marine life."
       ]
     },
@@ -18,9 +27,54 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Spring tides.", "text": "When the Sun, Moon and Earth are in a straight line, at full moon and new moon, their combined pull produces the highest tides, called spring tides." },
-        { "lead": "Neap tides.", "text": "When the Sun and Moon are at right angles to the Earth, at the first and last quarter of the Moon, their pulls partly cancel out, giving the lowest tides, called neap tides." },
-        { "lead": "Meeting of currents.", "text": "Where a warm current, such as the Gulf Stream, meets a cold current, such as the Labrador Current, the mixing of waters supports abundant plankton and fish, creating some of the world's richest fishing grounds, though it also causes dense fog." }
+        {
+          "lead": "Spring tides.",
+          "text": "When the Sun, Moon and Earth are in a straight line, at full moon and new moon, their combined pull produces the highest tides, called spring tides."
+        },
+        {
+          "lead": "Neap tides.",
+          "text": "When the Sun and Moon are at right angles to the Earth, at the first and last quarter of the Moon, their pulls partly cancel out, giving the lowest tides, called neap tides."
+        },
+        {
+          "lead": "Meeting of currents.",
+          "text": "Where a warm current, such as the Gulf Stream, meets a cold current, such as the Labrador Current, the mixing of waters supports abundant plankton and fish, creating some of the world's richest fishing grounds, though it also causes dense fog."
+        }
+      ]
+    },
+    {
+      "q": "Why is ocean water important, and how is water distributed on the Earth?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Distribution of water.",
+          "text": "Water covers over two-thirds of the Earth's surface, which is why the Earth is called the blue planet. Most of this water, held in the oceans and seas, is salty. Only a small part is fresh water, found in rivers, lakes, glaciers and underground, and fit for human use."
+        },
+        {
+          "lead": "Importance of the oceans.",
+          "text": "The oceans are of great value. They provide fish and other food, salt and minerals, and routes for ships and trade. Ocean water evaporates to form clouds and rain, feeding the water cycle on which all life depends, and the oceans help control the Earth's climate."
+        },
+        "Thus most of the Earth's water lies in the salty oceans, which are vital for food, trade, rainfall and climate, while only a little is fresh water."
+      ]
+    },
+    {
+      "q": "How do ocean currents affect the climate of coastal areas?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What ocean currents are.",
+          "text": "Ocean currents are streams of water flowing in definite directions over great distances across the oceans. They are of two kinds, warm currents that flow from the equator towards the poles, and cold currents that flow from the poles towards the equator."
+        },
+        {
+          "lead": "Effect on coasts.",
+          "text": "Currents strongly influence the climate of the coasts they wash. A warm current makes the coast it flows past warmer and its winters milder. A cold current makes the neighbouring coast cooler and can make it dry."
+        },
+        {
+          "lead": "Effect on fishing and fog.",
+          "text": "Where warm and cold currents meet, the mixing of waters makes the sea rich in fish, though it also produces thick fog."
+        },
+        "Thus warm currents warm the coasts and cold currents cool them, shaping the climate, fishing and even the fog of coastal areas."
       ]
     }
   ]

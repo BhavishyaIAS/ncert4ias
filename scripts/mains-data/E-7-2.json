@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "A market is any arrangement where buyers and sellers come together to exchange goods and services for money. It need not be a physical place, as online markets show, and it links producers with consumers.",
-        { "lead": "Demand and supply.", "text": "Demand is how much of a good buyers are willing to buy at a given price, and supply is how much sellers are willing to sell." },
-        { "lead": "Setting the price.", "text": "The price is decided by the interaction of demand and supply. When demand rises or supply falls, the price tends to rise; when supply rises or demand falls, the price tends to fall." },
+        {
+          "lead": "Demand and supply.",
+          "text": "Demand is how much of a good buyers are willing to buy at a given price, and supply is how much sellers are willing to sell."
+        },
+        {
+          "lead": "Setting the price.",
+          "text": "The price is decided by the interaction of demand and supply. When demand rises or supply falls, the price tends to rise; when supply rises or demand falls, the price tends to fall."
+        },
         "In this way, the market balances what people want to buy with what sellers are willing to provide."
       ]
     },
@@ -18,9 +24,59 @@
       "word_limit": 150,
       "answer": [
         "Markets are useful because they allocate resources and give consumers choice, but they are not always fair, so government regulation is needed.",
-        { "lead": "Unfairness in markets.", "text": "Small producers, such as farmers and weavers, often earn very little, while large traders profit more. There can also be cheating with weights and prices, or hoarding to push prices up." },
-        { "lead": "Role of the government.", "text": "The government regulates markets by setting standards, checking weights and prices, and protecting consumer rights, so that buyers are not cheated and essential goods remain available and affordable." },
-        { "lead": "Fair trade.", "text": "Ideas like fair trade go further, trying to ensure that producers receive a fair price for their work." }
+        {
+          "lead": "Unfairness in markets.",
+          "text": "Small producers, such as farmers and weavers, often earn very little, while large traders profit more. There can also be cheating with weights and prices, or hoarding to push prices up."
+        },
+        {
+          "lead": "Role of the government.",
+          "text": "The government regulates markets by setting standards, checking weights and prices, and protecting consumer rights, so that buyers are not cheated and essential goods remain available and affordable."
+        },
+        {
+          "lead": "Fair trade.",
+          "text": "Ideas like fair trade go further, trying to ensure that producers receive a fair price for their work."
+        }
+      ]
+    },
+    {
+      "q": "How do demand and supply affect the price of a good in a market?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Demand and supply.",
+          "text": "In a market, demand is the quantity of a good that buyers are willing to buy, and supply is the quantity that sellers are willing to sell. The price is settled by the interaction of the two."
+        },
+        {
+          "lead": "Effect on price.",
+          "text": "When many people want a good but little of it is available, that is, when demand is high and supply is low, the price rises. When a good is plentiful but few want it, that is, when supply is high and demand is low, the price falls."
+        },
+        {
+          "lead": "Everyday examples.",
+          "text": "The price of vegetables rises when a poor harvest makes them scarce, and the price of mangoes falls in the season when they are plentiful."
+        },
+        "Thus prices in a market rise when demand exceeds supply and fall when supply exceeds demand."
+      ]
+    },
+    {
+      "q": "Describe the different types of markets.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Markets are of many kinds, differing in size, in what they sell and in how buyers and sellers meet.",
+        {
+          "lead": "Wholesale and retail markets.",
+          "text": "In a wholesale market goods are bought and sold in large quantities, usually by traders. In a retail market goods are sold in small quantities directly to consumers, as in a local shop."
+        },
+        {
+          "lead": "Weekly markets and permanent shops.",
+          "text": "A weekly market is held on a fixed day in an open space with temporary stalls, while permanent shops and shopping malls are open on most days and sell from fixed premises."
+        },
+        {
+          "lead": "Online markets.",
+          "text": "Today there are also online markets, where goods are bought and sold over the internet and delivered to the home, without buyer and seller meeting face to face."
+        },
+        "Thus markets range from wholesale to retail, from weekly stalls to permanent shops and malls, and now to online markets."
       ]
     }
   ]

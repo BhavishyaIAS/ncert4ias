@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The Gupta era, from about 320 to 550 CE, is called a Golden or Classical Age because of its outstanding achievements in many fields.",
-        { "lead": "Literature.", "text": "Sanskrit literature reached great heights, above all in the works of Kalidasa, such as the play Abhijnana-shakuntalam and the poem Meghaduta." },
-        { "lead": "Science and mathematics.", "text": "This age used the decimal system and the concept of zero. Aryabhata argued that the Earth rotates on its axis and worked on the value of pi and the cause of eclipses, while Varahamihira advanced astronomy and Sushruta and Charaka developed medicine and surgery." },
-        { "lead": "Art.", "text": "Temple architecture developed, and the finest paintings of the age adorn the Ajanta caves. Such wide creativity earns the era its title." }
+        {
+          "lead": "Literature.",
+          "text": "Sanskrit literature reached great heights, above all in the works of Kalidasa, such as the play Abhijnana-shakuntalam and the poem Meghaduta."
+        },
+        {
+          "lead": "Science and mathematics.",
+          "text": "This age used the decimal system and the concept of zero. Aryabhata argued that the Earth rotates on its axis and worked on the value of pi and the cause of eclipses, while Varahamihira advanced astronomy and Sushruta and Charaka developed medicine and surgery."
+        },
+        {
+          "lead": "Art.",
+          "text": "Temple architecture developed, and the finest paintings of the age adorn the Ajanta caves. Such wide creativity earns the era its title."
+        }
       ]
     },
     {
@@ -17,9 +26,59 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Samudragupta.", "text": "Samudragupta was a great conqueror who extended Gupta power over much of India. His campaigns and qualities are recorded in the Prayaga Prashasti, the Allahabad Pillar inscription composed by his court poet Harishena." },
-        { "lead": "Chandragupta II.", "text": "Chandragupta II, who took the title Vikramaditya, defeated the Shakas of western India and brought the empire to its height. The Chinese Buddhist pilgrim Fa-Hien visited India during his reign and left an account of a prosperous, well-governed land." },
-        { "lead": "Together.", "text": "Under these two rulers the Guptas reached their greatest extent and ushered in the cultural flowering of the classical age." }
+        {
+          "lead": "Samudragupta.",
+          "text": "Samudragupta was a great conqueror who extended Gupta power over much of India. His campaigns and qualities are recorded in the Prayaga Prashasti, the Allahabad Pillar inscription composed by his court poet Harishena."
+        },
+        {
+          "lead": "Chandragupta II.",
+          "text": "Chandragupta II, who took the title Vikramaditya, defeated the Shakas of western India and brought the empire to its height. The Chinese Buddhist pilgrim Fa-Hien visited India during his reign and left an account of a prosperous, well-governed land."
+        },
+        {
+          "lead": "Together.",
+          "text": "Under these two rulers the Guptas reached their greatest extent and ushered in the cultural flowering of the classical age."
+        }
+      ]
+    },
+    {
+      "q": "What advances were made in science, mathematics and learning during the Gupta age?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "The Gupta age was a time of remarkable progress in learning, which is one reason it is called a golden age.",
+        {
+          "lead": "Mathematics and astronomy.",
+          "text": "The great scholar Aryabhata explained that the Earth rotates on its axis and worked on the length of the year and the causes of eclipses. Indian mathematicians developed the decimal system and the use of zero, ideas that later spread across the world."
+        },
+        {
+          "lead": "Medicine and other sciences.",
+          "text": "Physicians advanced the knowledge of medicine and surgery recorded in texts like those of Charaka and Sushruta, and metallurgy reached a high level, shown by the rustless iron pillar at Delhi."
+        },
+        {
+          "lead": "Learning and literature.",
+          "text": "Centres of learning flourished, Sanskrit literature reached great heights with Kalidasa, and scholars studied grammar, philosophy and the sciences."
+        },
+        "Thus the Gupta age saw outstanding achievements in mathematics, astronomy, medicine and learning."
+      ]
+    },
+    {
+      "q": "Describe the art and architecture of the Gupta period.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A creative age.",
+          "text": "The Gupta period saw the flowering of Indian art and architecture, marked by grace, balance and refinement."
+        },
+        {
+          "lead": "Temples and sculpture.",
+          "text": "The earliest free-standing Hindu temples were built in this age, simple but elegant, laying the foundation for later temple styles. Sculptors carved beautiful images of gods and of the Buddha, such as those of Sarnath and Mathura, admired for their serene expression and fine finish."
+        },
+        {
+          "lead": "Painting.",
+          "text": "Painting reached great heights in the murals of the Ajanta caves, with their glowing colours and lifelike figures depicting the life of the Buddha and the Jataka tales."
+        },
+        "Thus the Gupta age produced elegant temples, serene sculptures and the celebrated Ajanta paintings, marking a high point of Indian art."
       ]
     }
   ]

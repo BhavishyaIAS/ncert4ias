@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Between 1206 and 1526 the Delhi Sultanate was ruled by five successive dynasties.",
-        { "lead": "The five dynasties.", "text": "The Mamluk or 'Slave' dynasty (1206–1290) included Qutbuddin Aibak, Iltutmish, Raziyya and Balban. It was followed by the Khaljis (1290–1320), whose greatest ruler was Alauddin Khalji, and the Tughluqs (1320–1414), including Muhammad bin Tughluq and Firuz Shah. The Sayyids (1414–1451) came next, and finally the Lodis (1451–1526)." },
-        { "lead": "The end.", "text": "The Sultanate ended in 1526, when Babur defeated Ibrahim Lodi at the First Battle of Panipat, founding the Mughal empire." },
+        {
+          "lead": "The five dynasties.",
+          "text": "The Mamluk or 'Slave' dynasty (1206–1290) included Qutbuddin Aibak, Iltutmish, Raziyya and Balban. It was followed by the Khaljis (1290–1320), whose greatest ruler was Alauddin Khalji, and the Tughluqs (1320–1414), including Muhammad bin Tughluq and Firuz Shah. The Sayyids (1414–1451) came next, and finally the Lodis (1451–1526)."
+        },
+        {
+          "lead": "The end.",
+          "text": "The Sultanate ended in 1526, when Babur defeated Ibrahim Lodi at the First Battle of Panipat, founding the Mughal empire."
+        },
         "Across these dynasties, Delhi grew from a regional capital into the centre of a vast empire."
       ]
     },
@@ -18,9 +24,18 @@
       "word_limit": 150,
       "answer": [
         "To govern a large territory, the Khalji and Tughluq Sultans relied on the iqta system.",
-        { "lead": "What it was.", "text": "Military commanders were appointed as governors of territories called iqtas. The holder of an iqta was called a muqti or iqtadar." },
-        { "lead": "Duties.", "text": "The muqti collected the revenue of his iqta as salary and used it to maintain soldiers, whom he led into battle, and to keep law and order in his area." },
-        { "lead": "Control.", "text": "To stop muqtis from becoming powerful and independent, their accounts were checked and they were transferred from one iqta to another. In this way the Sultans balanced delegation with central control." }
+        {
+          "lead": "What it was.",
+          "text": "Military commanders were appointed as governors of territories called iqtas. The holder of an iqta was called a muqti or iqtadar."
+        },
+        {
+          "lead": "Duties.",
+          "text": "The muqti collected the revenue of his iqta as salary and used it to maintain soldiers, whom he led into battle, and to keep law and order in his area."
+        },
+        {
+          "lead": "Control.",
+          "text": "To stop muqtis from becoming powerful and independent, their accounts were checked and they were transferred from one iqta to another. In this way the Sultans balanced delegation with central control."
+        }
       ]
     },
     {
@@ -28,9 +43,55 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Alauddin Khalji.", "text": "He built a large standing army and, to pay it cheaply, introduced strict control over prices in the Delhi markets, fixing rates for grain, cloth and other goods. He also strengthened defences against repeated Mongol invasions and built the Alai Darwaza." },
-        { "lead": "Muhammad bin Tughluq.", "text": "He attempted two bold but failed experiments. He shifted the capital from Delhi to Daulatabad in the Deccan to control the south, then reversed the move, causing great hardship. He also introduced a 'token' currency of cheap metal declared equal in value to silver coins; because it was easily forged, it had to be withdrawn." },
+        {
+          "lead": "Alauddin Khalji.",
+          "text": "He built a large standing army and, to pay it cheaply, introduced strict control over prices in the Delhi markets, fixing rates for grain, cloth and other goods. He also strengthened defences against repeated Mongol invasions and built the Alai Darwaza."
+        },
+        {
+          "lead": "Muhammad bin Tughluq.",
+          "text": "He attempted two bold but failed experiments. He shifted the capital from Delhi to Daulatabad in the Deccan to control the south, then reversed the move, causing great hardship. He also introduced a 'token' currency of cheap metal declared equal in value to silver coins; because it was easily forged, it had to be withdrawn."
+        },
         "Both rulers were innovative, but their measures show the limits of the Sultanate's control."
+      ]
+    },
+    {
+      "q": "What sources do historians use to study the Delhi Sultanate?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Histories and chronicles.",
+          "text": "The most important sources are the histories, or tarikh, written by learned men of the time, often in Persian. Writers such as Ziyauddin Barani recorded the deeds of the Sultans, though they usually wrote to please their patrons and shared the outlook of the ruling class."
+        },
+        {
+          "lead": "Inscriptions and coins.",
+          "text": "Inscriptions on buildings, tombs and mosques give dates and details of construction, while coins carry the names and titles of rulers and tell us about the economy."
+        },
+        {
+          "lead": "Buildings and other records.",
+          "text": "The forts, palaces and mosques built by the Sultans, along with accounts of travellers like Ibn Battuta, add further evidence."
+        },
+        "Thus historians study the Sultanate through Persian chronicles, inscriptions, coins, buildings and travellers' accounts, reading each critically."
+      ]
+    },
+    {
+      "q": "How far did the Delhi Sultanate extend its reach, and why did it decline?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Expanding reach.",
+          "text": "At first the Sultanate controlled only Delhi and its surroundings. Under rulers like Alauddin Khalji and Muhammad bin Tughluq, its armies marched far into the south, and for a time its authority reached across much of the subcontinent, supported by a strong army and a network of appointed governors."
+        },
+        {
+          "lead": "Reasons for decline.",
+          "text": "The Sultanate found it hard to hold such a vast area. Distant provinces broke away, powerful nobles and governors rebelled, and costly experiments and wars strained the treasury. The Tughluq dynasty weakened, and the invasion of Timur in 1398 dealt a heavy blow."
+        },
+        {
+          "lead": "The end.",
+          "text": "New regional kingdoms arose, and the Sultanate finally fell to Babur in 1526."
+        },
+        "Thus the Sultanate briefly reached across India but declined through overreach, rebellion and invasion."
       ]
     }
   ]

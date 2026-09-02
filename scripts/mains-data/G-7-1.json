@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "The environment is our surroundings — everything, living and non-living, around us that affects life. It has natural, human and human-made components interacting together.",
-        { "lead": "Natural environment.", "text": "This has four domains: the lithosphere, the solid land or crust; the hydrosphere, all the water in oceans, rivers and lakes; the atmosphere, the blanket of air; and the biosphere, the narrow zone where land, water and air meet and support life." },
-        { "lead": "Human and human-made.", "text": "The human environment is people, their activities and society, while the human-made environment is what people build — houses, roads, dams and cities." },
+        {
+          "lead": "Natural environment.",
+          "text": "This has four domains: the lithosphere, the solid land or crust; the hydrosphere, all the water in oceans, rivers and lakes; the atmosphere, the blanket of air; and the biosphere, the narrow zone where land, water and air meet and support life."
+        },
+        {
+          "lead": "Human and human-made.",
+          "text": "The human environment is people, their activities and society, while the human-made environment is what people build — houses, roads, dams and cities."
+        },
         "These components constantly interact, and humans must use and modify the natural environment carefully to keep it healthy."
       ]
     },
@@ -18,9 +24,61 @@
       "word_limit": 150,
       "answer": [
         "An ecosystem is a community of living organisms interacting with the non-living, physical environment around them.",
-        { "lead": "Examples.", "text": "A forest, a pond and a desert are all ecosystems, each with its own plants, animals and physical conditions such as soil, water and climate." },
-        { "lead": "Interdependence.", "text": "The living and non-living parts depend on one another. Plants need sunlight, air, water and soil; animals depend on plants and on one another for food; and when they die, they return nutrients to the soil. Because everything is linked, disturbing one part — for example cutting down trees — affects the whole ecosystem." },
+        {
+          "lead": "Examples.",
+          "text": "A forest, a pond and a desert are all ecosystems, each with its own plants, animals and physical conditions such as soil, water and climate."
+        },
+        {
+          "lead": "Interdependence.",
+          "text": "The living and non-living parts depend on one another. Plants need sunlight, air, water and soil; animals depend on plants and on one another for food; and when they die, they return nutrients to the soil. Because everything is linked, disturbing one part — for example cutting down trees — affects the whole ecosystem."
+        },
         "This is why ecosystems must be protected and used with care."
+      ]
+    },
+    {
+      "q": "Distinguish between the natural and the human-made environment.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "The environment is everything that surrounds us, and it can be divided into the natural and the human-made environment.",
+        {
+          "lead": "The natural environment.",
+          "text": "The natural environment consists of all things given by nature, not made by human beings. It is made up of four domains, the lithosphere or land, the atmosphere or air, the hydrosphere or water, and the biosphere, the world of living things. Mountains, rivers, forests and the air are part of it."
+        },
+        {
+          "lead": "The human-made environment.",
+          "text": "The human-made environment consists of things created by human beings, such as houses, roads, bridges, parks, factories and cities, made by changing the natural surroundings to meet human needs."
+        },
+        {
+          "lead": "Their interaction.",
+          "text": "Humans depend on the natural environment and constantly shape it, so the two are closely linked."
+        },
+        "Thus the natural environment is provided by nature, while the human-made environment is created by people from it."
+      ]
+    },
+    {
+      "q": "What are the four domains of the natural environment?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "The natural environment is made up of four great domains that together support life.",
+        {
+          "lead": "Lithosphere.",
+          "text": "The lithosphere is the solid crust or hard top layer of the Earth. It is made of rocks and soil and provides land, minerals and the base on which we live and grow crops. Its landforms include mountains, plateaus and plains."
+        },
+        {
+          "lead": "Atmosphere.",
+          "text": "The atmosphere is the thin layer of air that surrounds the Earth. It provides the gases we breathe, protects us, and gives us weather and climate."
+        },
+        {
+          "lead": "Hydrosphere.",
+          "text": "The hydrosphere is the domain of water, including oceans, seas, rivers, lakes and groundwater, on which all life depends."
+        },
+        {
+          "lead": "Biosphere.",
+          "text": "The biosphere is the narrow zone where land, water and air meet and where all living things, plants and animals, exist."
+        },
+        "Thus the lithosphere, atmosphere, hydrosphere and biosphere together make up the natural environment."
       ]
     }
   ]
