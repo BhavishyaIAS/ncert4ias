@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The Stone Age is divided into three stages, marked by changing tools and ways of life.",
-        { "lead": "Palaeolithic (Old Stone Age).", "text": "People were hunter-gatherers, moving in search of food, using rough, unpolished stone tools." },
-        { "lead": "Mesolithic (Middle Stone Age).", "text": "Tools became smaller and finer (microliths). The rock shelters of Bhimbetka in Madhya Pradesh preserve paintings of hunting and daily life from this period." },
-        { "lead": "Neolithic (New Stone Age).", "text": "People learned to grow crops and domesticate animals, and used polished tools. This produced the first settled villages, storage of grain and pottery." },
+        {
+          "lead": "Palaeolithic (Old Stone Age).",
+          "text": "People were hunter-gatherers, moving in search of food, using rough, unpolished stone tools."
+        },
+        {
+          "lead": "Mesolithic (Middle Stone Age).",
+          "text": "Tools became smaller and finer (microliths). The rock shelters of Bhimbetka in Madhya Pradesh preserve paintings of hunting and daily life from this period."
+        },
+        {
+          "lead": "Neolithic (New Stone Age).",
+          "text": "People learned to grow crops and domesticate animals, and used polished tools. This produced the first settled villages, storage of grain and pottery."
+        },
         "The move from wandering hunter-gatherers to settled farmers was the decisive change that made later towns and cities possible."
       ]
     },
@@ -19,8 +28,14 @@
       "word_limit": 150,
       "answer": [
         "Mehrgarh, in the Baluchistan region of the subcontinent, is one of the earliest known farming villages in South Asia.",
-        { "lead": "Evidence of early farming.", "text": "Its people grew wheat and barley, domesticated animals such as sheep, goat and cattle, lived in mud-brick houses, and buried their dead with grave goods." },
-        { "lead": "A crucial link.", "text": "Mehrgarh shows the transition from hunting-gathering to settled farming — the way of life that, over centuries, provided the surplus food and permanent settlements on which the Harappan cities were later built." },
+        {
+          "lead": "Evidence of early farming.",
+          "text": "Its people grew wheat and barley, domesticated animals such as sheep, goat and cattle, lived in mud-brick houses, and buried their dead with grave goods."
+        },
+        {
+          "lead": "A crucial link.",
+          "text": "Mehrgarh shows the transition from hunting-gathering to settled farming — the way of life that, over centuries, provided the surplus food and permanent settlements on which the Harappan cities were later built."
+        },
         "It is therefore a foundation stone of the subcontinent's civilisational story."
       ]
     },
@@ -30,9 +45,18 @@
       "word_limit": 150,
       "answer": [
         "The Harappan (Indus–Sarasvati) Civilisation, at its mature phase around 2600–1900 BCE, built India's first cities.",
-        { "lead": "Planning.", "text": "Streets were laid out in a grid meeting at right angles, and a city usually had a raised citadel and a lower town." },
-        { "lead": "Engineering.", "text": "There was a remarkable covered drainage system, standardised baked bricks used everywhere, the Great Bath at Mohenjo-daro, granaries, and large water reservoirs at Dholavira." },
-        { "lead": "Craft and trade.", "text": "Seals of steatite carrying an undeciphered script, standardised weights, beads, pottery and cotton textiles were produced; Lothal had a dockyard, and trade reached Mesopotamia, which called the region Meluhha." },
+        {
+          "lead": "Planning.",
+          "text": "Streets were laid out in a grid meeting at right angles, and a city usually had a raised citadel and a lower town."
+        },
+        {
+          "lead": "Engineering.",
+          "text": "There was a remarkable covered drainage system, standardised baked bricks used everywhere, the Great Bath at Mohenjo-daro, granaries, and large water reservoirs at Dholavira."
+        },
+        {
+          "lead": "Craft and trade.",
+          "text": "Seals of steatite carrying an undeciphered script, standardised weights, beads, pottery and cotton textiles were produced; Lothal had a dockyard, and trade reached Mesopotamia, which called the region Meluhha."
+        },
         "This uniformity across distant sites points to careful organisation and shared standards."
       ]
     },
@@ -42,9 +66,58 @@
       "word_limit": 150,
       "answer": [
         "The mature Harappan cities were gradually abandoned after about 1900 BCE, and no single cause fully explains this.",
-        { "lead": "Environmental changes.", "text": "The drying up or shifting of rivers — especially the Sarasvati — reduced the water and farmland that the cities depended on. Climate change and repeated floods may also have hurt agriculture." },
-        { "lead": "Economic disruption.", "text": "A breakdown of long-distance trade and of the standardised systems of weights, seals and script weakened urban life." },
-        { "lead": "A gradual end.", "text": "Rather than a sudden destruction, people seem to have moved away to smaller villages, and the distinctive urban features faded. Most historians therefore see the decline as the result of several overlapping factors." }
+        {
+          "lead": "Environmental changes.",
+          "text": "The drying up or shifting of rivers — especially the Sarasvati — reduced the water and farmland that the cities depended on. Climate change and repeated floods may also have hurt agriculture."
+        },
+        {
+          "lead": "Economic disruption.",
+          "text": "A breakdown of long-distance trade and of the standardised systems of weights, seals and script weakened urban life."
+        },
+        {
+          "lead": "A gradual end.",
+          "text": "Rather than a sudden destruction, people seem to have moved away to smaller villages, and the distinctive urban features faded. Most historians therefore see the decline as the result of several overlapping factors."
+        }
+      ]
+    },
+    {
+      "q": "Describe the daily life, crafts and trade of the Harappan people.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Occupations.",
+          "text": "Most Harappans were farmers and herders who grew wheat, barley and pulses and reared cattle, sheep and goats. Others living in the cities were traders and skilled craftspersons."
+        },
+        {
+          "lead": "Crafts.",
+          "text": "Harappan artisans were highly skilled. They made fine painted pottery, beads of carnelian and other stones, ornaments of gold and shell, seals of steatite carved with animals, and tools of copper and bronze. The famous bronze Dancing Girl shows their mastery of metal casting."
+        },
+        {
+          "lead": "Trade.",
+          "text": "The Harappans traded within the subcontinent and with distant lands such as Mesopotamia, exchanging goods like beads, cotton and metals. Standardised weights and the use of seals show that trade was well organised."
+        },
+        "Thus the Harappans led a settled, prosperous life based on farming, fine crafts and wide-reaching trade."
+      ]
+    },
+    {
+      "q": "How did the beginning of farming change the life of early humans?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "From food-gathering to food-producing.",
+          "text": "For a very long time early humans lived by hunting animals and gathering wild plants, moving from place to place in search of food. In time they learnt to grow crops and to tame animals, becoming food producers instead of only food gatherers."
+        },
+        {
+          "lead": "A settled life.",
+          "text": "Because crops had to be tended and harvested, people began to stay in one place, giving rise to the first villages, such as Mehrgarh. They built houses, stored grain, and made pots to keep food and water."
+        },
+        {
+          "lead": "New skills and society.",
+          "text": "Settled life led to new crafts like pottery and weaving, to the rearing of animals for milk and wool, and to larger, more organised communities."
+        },
+        "Thus the coming of farming was a turning point that changed humans from wanderers into settled village dwellers."
       ]
     }
   ]

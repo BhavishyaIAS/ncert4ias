@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Measurement means comparing an unknown quantity with a fixed standard, and every measurement has a number and a unit.",
-        { "lead": "Why standard units.", "text": "Long ago people measured length using body parts such as the handspan, cubit and foot. But these differed from person to person, so the same object gave different measurements. To make measurements the same everywhere, standard units were adopted." },
-        { "lead": "Units of length.", "text": "The SI unit of length is the metre (m). One metre equals 100 centimetres, one centimetre equals 10 millimetres, and one kilometre equals 1000 metres. Small lengths are measured in millimetres or centimetres and large distances in kilometres." }
+        {
+          "lead": "Why standard units.",
+          "text": "Long ago people measured length using body parts such as the handspan, cubit and foot. But these differed from person to person, so the same object gave different measurements. To make measurements the same everywhere, standard units were adopted."
+        },
+        {
+          "lead": "Units of length.",
+          "text": "The SI unit of length is the metre (m). One metre equals 100 centimetres, one centimetre equals 10 millimetres, and one kilometre equals 1000 metres. Small lengths are measured in millimetres or centimetres and large distances in kilometres."
+        }
       ]
     },
     {
@@ -17,8 +23,14 @@
       "word_limit": 150,
       "answer": [
         "Measuring length correctly needs the right instrument and careful technique.",
-        { "lead": "Method.", "text": "Use a suitable device — a ruler or measuring tape, and a thread for curved lengths. Place the object along the scale. If the zero mark is worn out, begin from another full mark and subtract that value from the final reading." },
-        { "lead": "Parallax error.", "text": "The eye must be kept directly above the point being read. If the eye is placed at an angle, the reading appears shifted; this wrong reading is called parallax error." },
+        {
+          "lead": "Method.",
+          "text": "Use a suitable device — a ruler or measuring tape, and a thread for curved lengths. Place the object along the scale. If the zero mark is worn out, begin from another full mark and subtract that value from the final reading."
+        },
+        {
+          "lead": "Parallax error.",
+          "text": "The eye must be kept directly above the point being read. If the eye is placed at an angle, the reading appears shifted; this wrong reading is called parallax error."
+        },
         "Careful positioning of the object and the eye gives an accurate measurement."
       ]
     },
@@ -28,10 +40,62 @@
       "word_limit": 150,
       "answer": [
         "Motion is a change in the position of an object with time, measured against a fixed reference point; an object whose position does not change is at rest. Both are relative to the reference chosen.",
-        { "lead": "Rectilinear motion.", "text": "Motion along a straight line, such as a car on a straight road." },
-        { "lead": "Circular motion.", "text": "Motion along a circular path, such as a stone whirled on a string." },
-        { "lead": "Rotational motion.", "text": "Spinning about its own axis, such as a top or a fan." },
-        { "lead": "Periodic motion.", "text": "Motion that repeats at regular intervals, such as a swinging pendulum. An object can show more than one type of motion at once." }
+        {
+          "lead": "Rectilinear motion.",
+          "text": "Motion along a straight line, such as a car on a straight road."
+        },
+        {
+          "lead": "Circular motion.",
+          "text": "Motion along a circular path, such as a stone whirled on a string."
+        },
+        {
+          "lead": "Rotational motion.",
+          "text": "Spinning about its own axis, such as a top or a fan."
+        },
+        {
+          "lead": "Periodic motion.",
+          "text": "Motion that repeats at regular intervals, such as a swinging pendulum. An object can show more than one type of motion at once."
+        }
+      ]
+    },
+    {
+      "q": "How is the length of a curved line measured?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The problem.",
+          "text": "A straight line can be measured directly with a ruler, but a curved line, such as the edge of a leaf or a curved path on a map, cannot be measured by placing a straight scale along it."
+        },
+        {
+          "lead": "Using a thread.",
+          "text": "To measure a curved line, we take a piece of thread and place one end at the start of the curve. We then lay the thread carefully along the whole curved line so that it follows every bend, and mark the point where it reaches the end."
+        },
+        {
+          "lead": "Straightening and measuring.",
+          "text": "The thread is then removed, straightened along a ruler, and the length between the two marks is read off. This gives the length of the curved line."
+        },
+        "Thus a curved line is measured by laying a thread along it, then straightening the thread against a ruler."
+      ]
+    },
+    {
+      "q": "What are rest and motion, and why are they said to be relative?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Rest and motion.",
+          "text": "An object is said to be at rest if its position does not change with time compared with its surroundings. It is said to be in motion if its position keeps changing with time."
+        },
+        {
+          "lead": "Relative to surroundings.",
+          "text": "Whether an object is at rest or in motion depends on what we compare it with. A passenger sitting in a moving train is at rest with respect to the train and the other passengers, but is in motion with respect to the trees and buildings outside."
+        },
+        {
+          "lead": "Why relative.",
+          "text": "Because the same object can be at rest for one observer and in motion for another, rest and motion are said to be relative, always described with respect to some surroundings."
+        },
+        "Thus rest means no change of position and motion means a change of position, and both are relative to the observer."
       ]
     }
   ]

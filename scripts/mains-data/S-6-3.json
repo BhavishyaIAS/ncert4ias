@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "A balanced diet is one that contains all the nutrients the body needs, in the right amounts, along with roughage and water.",
-        { "lead": "The nutrients.", "text": "Food provides carbohydrates, proteins, fats, vitamins and minerals. Carbohydrates and fats give energy; proteins build and repair the body; vitamins and minerals protect it from disease." },
-        { "lead": "Roughage and water.", "text": "Dietary fibre, or roughage, is not digested but helps remove waste, while water aids digestion and controls body temperature." },
-        { "lead": "Mindful eating.", "text": "Eating the right amount — neither too much nor too little — keeps the body healthy; over-eating leads to obesity." }
+        {
+          "lead": "The nutrients.",
+          "text": "Food provides carbohydrates, proteins, fats, vitamins and minerals. Carbohydrates and fats give energy; proteins build and repair the body; vitamins and minerals protect it from disease."
+        },
+        {
+          "lead": "Roughage and water.",
+          "text": "Dietary fibre, or roughage, is not digested but helps remove waste, while water aids digestion and controls body temperature."
+        },
+        {
+          "lead": "Mindful eating.",
+          "text": "Eating the right amount — neither too much nor too little — keeps the body healthy; over-eating leads to obesity."
+        }
       ]
     },
     {
@@ -18,9 +27,18 @@
       "word_limit": 150,
       "answer": [
         "When the diet lacks a particular nutrient for a long time, a deficiency disease results.",
-        { "lead": "Vitamin deficiencies.", "text": "Lack of Vitamin A causes night blindness; Vitamin B1, beriberi; Vitamin C, scurvy (bleeding gums); and Vitamin D, rickets (weak, bent bones)." },
-        { "lead": "Mineral deficiencies.", "text": "Lack of iron causes anaemia, lack of iodine causes goitre, and lack of calcium leads to weak bones and teeth." },
-        { "lead": "Prevention.", "text": "These diseases can be prevented by eating a balanced diet rich in fruits, vegetables, pulses, milk and, where needed, iodised salt." }
+        {
+          "lead": "Vitamin deficiencies.",
+          "text": "Lack of Vitamin A causes night blindness; Vitamin B1, beriberi; Vitamin C, scurvy (bleeding gums); and Vitamin D, rickets (weak, bent bones)."
+        },
+        {
+          "lead": "Mineral deficiencies.",
+          "text": "Lack of iron causes anaemia, lack of iodine causes goitre, and lack of calcium leads to weak bones and teeth."
+        },
+        {
+          "lead": "Prevention.",
+          "text": "These diseases can be prevented by eating a balanced diet rich in fruits, vegetables, pulses, milk and, where needed, iodised salt."
+        }
       ]
     },
     {
@@ -29,10 +47,60 @@
       "word_limit": 150,
       "answer": [
         "Simple chemical tests reveal which nutrients a food contains.",
-        { "lead": "Test for starch.", "text": "A few drops of iodine solution are added to the food. If starch is present, the food turns blue-black." },
-        { "lead": "Test for protein.", "text": "A solution of copper sulphate and caustic soda is added to the food. If protein is present, a violet colour appears." },
-        { "lead": "Test for fat.", "text": "The food item is rubbed on a piece of paper. If fat is present, it leaves a translucent, oily (grease) spot that lets light through." },
+        {
+          "lead": "Test for starch.",
+          "text": "A few drops of iodine solution are added to the food. If starch is present, the food turns blue-black."
+        },
+        {
+          "lead": "Test for protein.",
+          "text": "A solution of copper sulphate and caustic soda is added to the food. If protein is present, a violet colour appears."
+        },
+        {
+          "lead": "Test for fat.",
+          "text": "The food item is rubbed on a piece of paper. If fat is present, it leaves a translucent, oily (grease) spot that lets light through."
+        },
         "These tests let us check the main components of everyday foods."
+      ]
+    },
+    {
+      "q": "What are the main nutrients in food, and what are their sources?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Food contains several nutrients, each doing a special job in the body and each coming from particular sources.",
+        {
+          "lead": "Carbohydrates and fats.",
+          "text": "Carbohydrates give us energy and come from foods like rice, wheat, potato and sugar. Fats give even more energy and are found in oil, butter, ghee and nuts. These are the energy-giving foods."
+        },
+        {
+          "lead": "Proteins.",
+          "text": "Proteins help the body grow and repair itself, and are called body-building foods. They come from pulses, beans, milk, eggs, fish and meat."
+        },
+        {
+          "lead": "Vitamins and minerals.",
+          "text": "Vitamins and minerals protect us from disease and keep the body working well. They come mainly from fruits and vegetables. Roughage and water, though not nutrients, are also needed for digestion and health."
+        },
+        "Thus food supplies carbohydrates, fats, proteins, vitamins and minerals from a variety of sources."
+      ]
+    },
+    {
+      "q": "What are roughage and water, and why are they important in our food?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Roughage.",
+          "text": "Roughage is the fibre in our food that the body cannot digest. It is found in whole grains, fresh fruits and vegetables and pulses. Although it gives no nutrients, roughage adds bulk to the food and helps the body get rid of undigested waste, preventing constipation."
+        },
+        {
+          "lead": "Water.",
+          "text": "Water is not a nutrient either, but it is essential for life. It helps the body absorb nutrients from food, carries substances from one part of the body to another, and removes wastes through urine and sweat."
+        },
+        {
+          "lead": "Part of a balanced diet.",
+          "text": "A balanced diet therefore includes not only carbohydrates, fats, proteins, vitamins and minerals but also plenty of roughage and water."
+        },
+        "Thus roughage and water, though they give no energy, are vital for digestion and the healthy working of the body."
       ]
     }
   ]

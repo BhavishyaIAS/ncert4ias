@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Work is any activity done to produce goods or services, meet needs, or earn a living. It turns human effort and skill into the things and services that people require.",
-        { "lead": "All work contributes.", "text": "A farmer grows food, a teacher educates, a cleaner keeps places healthy, a carpenter builds — each is necessary, and society could not function without any of them." },
-        { "lead": "Dignity of labour.", "text": "Because every kind of work contributes to the common good, no work is 'high' or 'low'; all of it deserves respect. This idea is called the dignity of labour." },
-        { "lead": "Interdependence.", "text": "We depend on one another's work, so respecting every worker is both fair and necessary for society to run." }
+        {
+          "lead": "All work contributes.",
+          "text": "A farmer grows food, a teacher educates, a cleaner keeps places healthy, a carpenter builds — each is necessary, and society could not function without any of them."
+        },
+        {
+          "lead": "Dignity of labour.",
+          "text": "Because every kind of work contributes to the common good, no work is 'high' or 'low'; all of it deserves respect. This idea is called the dignity of labour."
+        },
+        {
+          "lead": "Interdependence.",
+          "text": "We depend on one another's work, so respecting every worker is both fair and necessary for society to run."
+        }
       ]
     },
     {
@@ -18,9 +27,59 @@
       "word_limit": 150,
       "answer": [
         "Work can be classified by whether it is directly paid for.",
-        { "lead": "Paid work.", "text": "Work done in return for wages or income — for example, a shopkeeper selling goods, a driver, or a factory worker. It brings a direct earning." },
-        { "lead": "Unpaid work.", "text": "Work done without direct payment but which is still very valuable — for example, household work, caring for children and the elderly, or farming to feed one's own family." },
-        { "lead": "Why it matters.", "text": "Unpaid work, often done at home and frequently by women, is essential to society even though it earns no wage and is easily overlooked. Recognising its value is important for fairness." }
+        {
+          "lead": "Paid work.",
+          "text": "Work done in return for wages or income — for example, a shopkeeper selling goods, a driver, or a factory worker. It brings a direct earning."
+        },
+        {
+          "lead": "Unpaid work.",
+          "text": "Work done without direct payment but which is still very valuable — for example, household work, caring for children and the elderly, or farming to feed one's own family."
+        },
+        {
+          "lead": "Why it matters.",
+          "text": "Unpaid work, often done at home and frequently by women, is essential to society even though it earns no wage and is easily overlooked. Recognising its value is important for fairness."
+        }
+      ]
+    },
+    {
+      "q": "What are the different types of work that people do?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "People do many kinds of work to meet their needs and to serve society, and this work can be grouped in different ways.",
+        {
+          "lead": "Physical and mental work.",
+          "text": "Some work is mainly physical, using the strength of the body, such as farming, building or carrying loads. Other work is mainly mental, using the mind, such as teaching, designing or planning. Most work uses both to some degree."
+        },
+        {
+          "lead": "Paid and unpaid work.",
+          "text": "Work may be paid, done in return for wages or income, like that of a shopkeeper or a driver. It may also be unpaid, done without payment, such as the household work and care done by family members, which is valuable even though no money is earned."
+        },
+        {
+          "lead": "Work at home and outside.",
+          "text": "Work is also done inside the home and outside it, in fields, shops, offices and factories."
+        },
+        "Thus work takes many forms, physical or mental, paid or unpaid, at home or outside, and all of it is important."
+      ]
+    },
+    {
+      "q": "How is work linked to a person's livelihood?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What livelihood means.",
+          "text": "A livelihood is the means by which a person earns what they need to live, such as food, clothing, shelter and other necessities. Work is the main way in which people earn their livelihood."
+        },
+        {
+          "lead": "Work provides income.",
+          "text": "Through paid work, people earn wages, salaries or profits, which they use to buy the goods and services their families need. A farmer earns from crops, a weaver from cloth, and an office worker from a salary."
+        },
+        {
+          "lead": "Skills and choice of work.",
+          "text": "The kind of work a person can do depends on their education, skills and opportunities, and this in turn shapes the kind of livelihood they can earn."
+        },
+        "Thus work is the source of livelihood, for it is through their work that people earn what they need to live with dignity."
       ]
     }
   ]

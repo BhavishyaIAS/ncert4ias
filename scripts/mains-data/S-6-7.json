@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Temperature is a measure of the degree of hotness or coldness of a body.",
-        { "lead": "Touch is unreliable.", "text": "Our sense of touch can only tell us roughly whether something is hot or cold, and it can be misleading. If one hand is placed in warm water and the other in cold water, then both are dipped in the same lukewarm water, the same water feels cold to one hand and warm to the other." },
-        { "lead": "Need for a thermometer.", "text": "Because touch cannot give a reliable value, temperature is measured with a thermometer in units such as Celsius (°C), Fahrenheit (°F) or Kelvin, giving the same reading for everyone." }
+        {
+          "lead": "Touch is unreliable.",
+          "text": "Our sense of touch can only tell us roughly whether something is hot or cold, and it can be misleading. If one hand is placed in warm water and the other in cold water, then both are dipped in the same lukewarm water, the same water feels cold to one hand and warm to the other."
+        },
+        {
+          "lead": "Need for a thermometer.",
+          "text": "Because touch cannot give a reliable value, temperature is measured with a thermometer in units such as Celsius (°C), Fahrenheit (°F) or Kelvin, giving the same reading for everyone."
+        }
       ]
     },
     {
@@ -17,9 +23,58 @@
       "word_limit": 150,
       "answer": [
         "Both are thermometers, but they are designed for different purposes.",
-        { "lead": "Clinical thermometer.", "text": "It measures human body temperature, over a small range of about 35°C to 42°C. It has a kink (a narrow bend) that stops the reading from falling until the thermometer is shaken, so the temperature can be read after removing it. Normal body temperature is about 37°C (98.6°F)." },
-        { "lead": "Laboratory thermometer.", "text": "It measures a much wider range, roughly -10°C to 110°C, and is used for liquids and the surroundings. It has no kink, so its reading changes at once with temperature." },
-        { "lead": "Safety.", "text": "Mercury thermometers are being replaced by digital ones because mercury is toxic." }
+        {
+          "lead": "Clinical thermometer.",
+          "text": "It measures human body temperature, over a small range of about 35°C to 42°C. It has a kink (a narrow bend) that stops the reading from falling until the thermometer is shaken, so the temperature can be read after removing it. Normal body temperature is about 37°C (98.6°F)."
+        },
+        {
+          "lead": "Laboratory thermometer.",
+          "text": "It measures a much wider range, roughly -10°C to 110°C, and is used for liquids and the surroundings. It has no kink, so its reading changes at once with temperature."
+        },
+        {
+          "lead": "Safety.",
+          "text": "Mercury thermometers are being replaced by digital ones because mercury is toxic."
+        }
+      ]
+    },
+    {
+      "q": "How is a clinical thermometer used correctly and safely?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The clinical thermometer.",
+          "text": "A clinical thermometer is used to measure the temperature of the human body. It has a scale usually from 35 to 42 degrees Celsius, with a normal body temperature of about 37 degrees."
+        },
+        {
+          "lead": "Using it correctly.",
+          "text": "Before use, the thermometer is washed with clean water and given a few jerks so that the mercury or liquid falls below 35 degrees. The bulb is then placed under the tongue, and after about a minute the reading is taken by holding the thermometer level with the eye."
+        },
+        {
+          "lead": "Safety care.",
+          "text": "It should not be held by the bulb, should not be used to measure very hot or very cold things, and must be handled gently, since older mercury thermometers can break and mercury is harmful."
+        },
+        "Thus a clinical thermometer must be cleaned, shaken down, placed under the tongue, and read carefully, with gentle handling."
+      ]
+    },
+    {
+      "q": "In what units is temperature measured, and what is the normal temperature of the human body?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Meaning of temperature.",
+          "text": "Temperature is a measure of how hot or cold a body is. It cannot be judged reliably by touch, so it is measured with a device called a thermometer."
+        },
+        {
+          "lead": "Units of temperature.",
+          "text": "Temperature is commonly measured in degrees Celsius, written as a small circle followed by the letter C. On this scale, pure water freezes at 0 degrees and boils at 100 degrees. Another scale, Fahrenheit, is also sometimes used."
+        },
+        {
+          "lead": "Normal body temperature.",
+          "text": "The normal temperature of a healthy human body is about 37 degrees Celsius, which is the same as 98.6 degrees Fahrenheit. A temperature much above this usually means the person has a fever."
+        },
+        "Thus temperature is measured in degrees Celsius, and the normal human body temperature is around 37 degrees Celsius."
       ]
     }
   ]

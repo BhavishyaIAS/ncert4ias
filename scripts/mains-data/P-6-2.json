@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Governance is the way a society is run — the making of rules and decisions and putting them into practice for the common good — and a government is the body given authority to do this.",
-        { "lead": "Rules and order.", "text": "A government makes and enforces laws so that many different people can live together peacefully and disputes can be settled fairly." },
-        { "lead": "Services.", "text": "It provides public services that individuals cannot arrange alone — roads, water, electricity, schools, hospitals and sanitation." },
-        { "lead": "Security and justice.", "text": "It protects people's safety and ensures justice." },
+        {
+          "lead": "Rules and order.",
+          "text": "A government makes and enforces laws so that many different people can live together peacefully and disputes can be settled fairly."
+        },
+        {
+          "lead": "Services.",
+          "text": "It provides public services that individuals cannot arrange alone — roads, water, electricity, schools, hospitals and sanitation."
+        },
+        {
+          "lead": "Security and justice.",
+          "text": "It protects people's safety and ensures justice."
+        },
         "Because decisions must be taken for the whole community, every society needs some form of government."
       ]
     },
@@ -19,9 +28,18 @@
       "word_limit": 150,
       "answer": [
         "Democracy is a form of government by the people, often described as government \"of the people, by the people, for the people.\"",
-        { "lead": "Elected representatives.", "text": "People choose those who govern them through elections, by casting their votes." },
-        { "lead": "Participation and discussion.", "text": "Decisions are taken through discussion and participation, usually by majority, while the rights of all — including minorities — are respected." },
-        { "lead": "Democratic values.", "text": "It rests on equality, participation and accountability, meaning those in power must answer to the people." },
+        {
+          "lead": "Elected representatives.",
+          "text": "People choose those who govern them through elections, by casting their votes."
+        },
+        {
+          "lead": "Participation and discussion.",
+          "text": "Decisions are taken through discussion and participation, usually by majority, while the rights of all — including minorities — are respected."
+        },
+        {
+          "lead": "Democratic values.",
+          "text": "It rests on equality, participation and accountability, meaning those in power must answer to the people."
+        },
         "These features make ordinary citizens the real source of authority in a democracy."
       ]
     },
@@ -31,10 +49,56 @@
       "word_limit": 150,
       "answer": [
         "India has a three-tier system of government, so that decisions can be taken at the right level.",
-        { "lead": "Local government.", "text": "At the base are panchayats in villages and municipalities in towns and cities. This level is closest to the people and lets them take part directly in local decisions." },
-        { "lead": "State government.", "text": "Each State has its own government, which looks after matters within the State." },
-        { "lead": "Union (central) government.", "text": "The Union government governs the whole country and handles national matters." },
+        {
+          "lead": "Local government.",
+          "text": "At the base are panchayats in villages and municipalities in towns and cities. This level is closest to the people and lets them take part directly in local decisions."
+        },
+        {
+          "lead": "State government.",
+          "text": "Each State has its own government, which looks after matters within the State."
+        },
+        {
+          "lead": "Union (central) government.",
+          "text": "The Union government governs the whole country and handles national matters."
+        },
         "All three levels function within the framework of the Constitution, each with its own responsibilities."
+      ]
+    },
+    {
+      "q": "Distinguish between a democratic and a non-democratic government.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "Governments can be broadly divided into democratic and non-democratic kinds, which differ chiefly in who holds power and how leaders are chosen.",
+        {
+          "lead": "Democratic government.",
+          "text": "In a democracy, the people rule, either directly or through representatives whom they elect. Leaders are chosen in regular, free and fair elections, and the government is answerable to the people. Citizens enjoy rights and freedoms, and everyone is equal before the law."
+        },
+        {
+          "lead": "Non-democratic government.",
+          "text": "In a non-democratic government, such as a monarchy or a dictatorship, power is held by a single ruler or a small group who are not chosen by the people. The rulers are not answerable to the citizens, elections may not be held, and people's rights and freedoms are often restricted."
+        },
+        "Thus the key difference is that in a democracy the people choose and control their rulers, while in a non-democratic system they do not."
+      ]
+    },
+    {
+      "q": "Why is grassroots or local democracy important?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Government close to the people.",
+          "text": "Grassroots democracy means democratic government at the local level, in villages and towns, closest to ordinary people. It allows people to take part directly in running the affairs of their own area."
+        },
+        {
+          "lead": "Solving local problems.",
+          "text": "Local problems, such as water supply, cleanliness, roads, streetlights and schools, are best understood and solved by the local people themselves. Local government lets these be dealt with quickly and suitably."
+        },
+        {
+          "lead": "Participation and training in democracy.",
+          "text": "By taking part in local bodies like the Gram Sabha and panchayats, people learn to discuss, decide and hold leaders accountable, which strengthens democracy as a whole."
+        },
+        "Thus grassroots democracy brings government close to the people, solves local needs, and deepens democratic habits."
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The family is called the first community because it is the smallest group each person is born into and the first to shape our lives.",
-        { "lead": "What it gives.", "text": "The family provides care, security, values and a sense of identity, and it is where a child first learns to live with others." },
-        { "lead": "Main types.", "text": "A nuclear family consists of parents and their children; a joint or extended family has several generations and relatives living together; and a blended family is formed when two families come together, for example through remarriage." },
-        { "lead": "Change.", "text": "Families are changing — nuclear families are becoming more common, especially in cities — but the family remains the basic unit of every community." }
+        {
+          "lead": "What it gives.",
+          "text": "The family provides care, security, values and a sense of identity, and it is where a child first learns to live with others."
+        },
+        {
+          "lead": "Main types.",
+          "text": "A nuclear family consists of parents and their children; a joint or extended family has several generations and relatives living together; and a blended family is formed when two families come together, for example through remarriage."
+        },
+        {
+          "lead": "Change.",
+          "text": "Families are changing — nuclear families are becoming more common, especially in cities — but the family remains the basic unit of every community."
+        }
       ]
     },
     {
@@ -18,8 +27,14 @@
       "word_limit": 150,
       "answer": [
         "A community is a group of people connected by something they share — a place, a language, an occupation, a religion or a common interest.",
-        { "lead": "Many at once.", "text": "Each person belongs to several communities at the same time: a family, a neighbourhood, a school, a linguistic or religious group, a region and, finally, the nation." },
-        { "lead": "Widening circles.", "text": "These communities widen outward — from the local village or town, to the region, to the whole country — so that every Indian is part of one large national community." },
+        {
+          "lead": "Many at once.",
+          "text": "Each person belongs to several communities at the same time: a family, a neighbourhood, a school, a linguistic or religious group, a region and, finally, the nation."
+        },
+        {
+          "lead": "Widening circles.",
+          "text": "These communities widen outward — from the local village or town, to the region, to the whole country — so that every Indian is part of one large national community."
+        },
         "Belonging to many communities gives us multiple identities that together make us who we are."
       ]
     },
@@ -29,10 +44,59 @@
       "word_limit": 150,
       "answer": [
         "Living together in a community depends on shared values that allow different people to get along.",
-        { "lead": "Cooperation and sharing.", "text": "Members must work together and share resources and responsibilities, since no one can meet all their needs alone." },
-        { "lead": "Tolerance and respect.", "text": "People of different religions, languages and customs must respect one another's differences — the spirit of unity in diversity." },
-        { "lead": "Interdependence.", "text": "Communities work because members depend on one another — farmers, teachers, doctors and cleaners all serve the whole." },
+        {
+          "lead": "Cooperation and sharing.",
+          "text": "Members must work together and share resources and responsibilities, since no one can meet all their needs alone."
+        },
+        {
+          "lead": "Tolerance and respect.",
+          "text": "People of different religions, languages and customs must respect one another's differences — the spirit of unity in diversity."
+        },
+        {
+          "lead": "Interdependence.",
+          "text": "Communities work because members depend on one another — farmers, teachers, doctors and cleaners all serve the whole."
+        },
         "With cooperation, tolerance and a sense of duty, a diverse community can live together in harmony."
+      ]
+    },
+    {
+      "q": "How does belonging to a community shape a person's identity and values?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "We belong to communities.",
+          "text": "From birth, every person is part of a community, beginning with the family and widening to the neighbourhood, the village or town, and the nation. We belong to several communities at the same time."
+        },
+        {
+          "lead": "Shaping identity.",
+          "text": "The communities we belong to give us our language, our customs, our festivals and our sense of who we are. A child learns to speak, behave and understand the world from the family and community around them, so much of our identity comes from them."
+        },
+        {
+          "lead": "Shaping values.",
+          "text": "Communities also teach values such as sharing, cooperation, respect for elders and care for others, which are learnt by living and working together."
+        },
+        "Thus belonging to communities shapes both who we are and the values by which we live."
+      ]
+    },
+    {
+      "q": "Why is cooperation important for people living together in a community?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Living together.",
+          "text": "A community is made up of many people with different needs, abilities and views, who live and work close to one another. For such a group to live in peace and get things done, cooperation is essential."
+        },
+        {
+          "lead": "Meeting shared needs.",
+          "text": "Many tasks, such as keeping the surroundings clean, sharing water, running a school or celebrating a festival, cannot be done alone. When people cooperate and share the work, everyone benefits."
+        },
+        {
+          "lead": "Peace and harmony.",
+          "text": "Cooperation, along with tolerance and respect for others' customs and opinions, prevents quarrels and helps people of different backgrounds live together in harmony."
+        },
+        "Thus cooperation binds a community together, allowing its members to meet common needs and live peacefully."
       ]
     }
   ]

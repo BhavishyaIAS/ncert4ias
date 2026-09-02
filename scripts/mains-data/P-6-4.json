@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Towns and cities are governed by urban local bodies, whose type depends on the size and population of the place.",
-        { "lead": "Municipal Corporation.", "text": "Set up for large cities, including the metros, it manages a big population and wide-ranging services." },
-        { "lead": "Municipality (Municipal Council).", "text": "Set up for smaller towns, with functions similar to a corporation but on a smaller scale." },
-        { "lead": "Nagar Panchayat.", "text": "Set up for small or transitional towns — rural areas that are becoming urban." },
+        {
+          "lead": "Municipal Corporation.",
+          "text": "Set up for large cities, including the metros, it manages a big population and wide-ranging services."
+        },
+        {
+          "lead": "Municipality (Municipal Council).",
+          "text": "Set up for smaller towns, with functions similar to a corporation but on a smaller scale."
+        },
+        {
+          "lead": "Nagar Panchayat.",
+          "text": "Set up for small or transitional towns — rural areas that are becoming urban."
+        },
         "All three were given constitutional status by the 74th Constitutional Amendment of 1992, making urban self-government part of the constitutional framework."
       ]
     },
@@ -19,9 +28,18 @@
       "word_limit": 150,
       "answer": [
         "A Municipal Corporation has two key figures with very different roles.",
-        { "lead": "Mayor.", "text": "The Mayor is the elected head of the corporation, chosen by the elected councillors. The role is largely ceremonial and about leadership — presiding over meetings and representing the city — rather than day-to-day administration." },
-        { "lead": "Municipal Commissioner.", "text": "The Commissioner is an appointed official, usually from the civil service, who is the administrative head. This officer actually runs the corporation's day-to-day work and carries out its decisions." },
-        { "lead": "In short.", "text": "The Mayor is elected and gives political leadership; the Commissioner is appointed and provides administrative control — together they run the city government." }
+        {
+          "lead": "Mayor.",
+          "text": "The Mayor is the elected head of the corporation, chosen by the elected councillors. The role is largely ceremonial and about leadership — presiding over meetings and representing the city — rather than day-to-day administration."
+        },
+        {
+          "lead": "Municipal Commissioner.",
+          "text": "The Commissioner is an appointed official, usually from the civil service, who is the administrative head. This officer actually runs the corporation's day-to-day work and carries out its decisions."
+        },
+        {
+          "lead": "In short.",
+          "text": "The Mayor is elected and gives political leadership; the Commissioner is appointed and provides administrative control — together they run the city government."
+        }
       ]
     },
     {
@@ -30,10 +48,63 @@
       "word_limit": 150,
       "answer": [
         "Urban local bodies look after the everyday needs of towns and cities.",
-        { "lead": "Basic services.", "text": "They provide water supply, sanitation and garbage collection, drainage and sewage disposal, street lighting, roads, parks and markets." },
-        { "lead": "Public welfare.", "text": "They safeguard public health, run schools, hospitals and fire services, and register births and deaths." },
-        { "lead": "Regulation.", "text": "They control building and construction and work to keep the city clean, safe and orderly." },
-        { "lead": "Finance.", "text": "To pay for this, they raise property tax, water tax and other local charges, supported by grants from the State and Union governments." }
+        {
+          "lead": "Basic services.",
+          "text": "They provide water supply, sanitation and garbage collection, drainage and sewage disposal, street lighting, roads, parks and markets."
+        },
+        {
+          "lead": "Public welfare.",
+          "text": "They safeguard public health, run schools, hospitals and fire services, and register births and deaths."
+        },
+        {
+          "lead": "Regulation.",
+          "text": "They control building and construction and work to keep the city clean, safe and orderly."
+        },
+        {
+          "lead": "Finance.",
+          "text": "To pay for this, they raise property tax, water tax and other local charges, supported by grants from the State and Union governments."
+        }
+      ]
+    },
+    {
+      "q": "How are urban local bodies formed and their members chosen?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Urban local bodies.",
+          "text": "Towns and cities are governed by urban local bodies. Smaller towns have a Municipal Council, larger cities a Municipal Corporation, and very small towns a Nagar Panchayat."
+        },
+        {
+          "lead": "Wards and councillors.",
+          "text": "For elections, a city is divided into wards. The voters of each ward elect one representative, called a councillor or ward member. Together the elected councillors run the city's affairs."
+        },
+        {
+          "lead": "The head and the officials.",
+          "text": "The councillors choose a head, the Mayor in a corporation or the President in a council, who presides over meetings. The day-to-day administration is carried out by appointed officials headed by the Municipal Commissioner."
+        },
+        "Thus urban local bodies are formed by electing councillors from the wards, who then choose their head, while officials run the administration."
+      ]
+    },
+    {
+      "q": "What are the main sources of funds for urban local bodies?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "Urban local bodies need large amounts of money to provide services like water, sanitation, roads, streetlights and health care, and they raise this from several sources.",
+        {
+          "lead": "Local taxes.",
+          "text": "A major source is local taxation, such as property tax on houses and buildings, taxes on water and other services, and fees and fines. This money is collected from the residents and businesses of the city."
+        },
+        {
+          "lead": "Grants from government.",
+          "text": "Urban bodies also receive grants and funds from the State and Central governments, often for specific projects and welfare schemes."
+        },
+        {
+          "lead": "Other sources.",
+          "text": "They may earn income from renting out municipal property and from charges for various civic services."
+        },
+        "Thus urban local bodies fund their many services mainly through local taxes together with government grants."
       ]
     }
   ]

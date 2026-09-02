@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "A mixture contains two or more substances that are not chemically combined, and we often need to separate them.",
-        { "lead": "To remove impurities.", "text": "We separate out harmful or useless material — for example, picking stones out of rice, or removing husk from grain." },
-        { "lead": "To obtain a useful component.", "text": "We separate to collect something valuable — for example, getting salt from seawater, or cream from milk." },
-        { "lead": "Choosing a method.", "text": "The method depends on the properties of the components — their size, weight, magnetism or solubility. Thus different situations call for handpicking, winnowing, filtration, evaporation and so on." }
+        {
+          "lead": "To remove impurities.",
+          "text": "We separate out harmful or useless material — for example, picking stones out of rice, or removing husk from grain."
+        },
+        {
+          "lead": "To obtain a useful component.",
+          "text": "We separate to collect something valuable — for example, getting salt from seawater, or cream from milk."
+        },
+        {
+          "lead": "Choosing a method.",
+          "text": "The method depends on the properties of the components — their size, weight, magnetism or solubility. Thus different situations call for handpicking, winnowing, filtration, evaporation and so on."
+        }
       ]
     },
     {
@@ -18,9 +27,18 @@
       "word_limit": 150,
       "answer": [
         "Several methods separate solids from liquids, depending on whether the solid is soluble.",
-        { "lead": "Sedimentation and decantation.", "text": "A heavier insoluble solid is allowed to settle at the bottom as sediment; the clear liquid above is then carefully poured off, which is decantation." },
-        { "lead": "Filtration.", "text": "The mixture is passed through a filter, which holds back insoluble solids while the liquid passes through — used to remove tea leaves or to separate sand from water." },
-        { "lead": "Evaporation.", "text": "To recover a soluble solid, the liquid is evaporated by heating, leaving the solid behind — this is how salt is obtained from seawater." }
+        {
+          "lead": "Sedimentation and decantation.",
+          "text": "A heavier insoluble solid is allowed to settle at the bottom as sediment; the clear liquid above is then carefully poured off, which is decantation."
+        },
+        {
+          "lead": "Filtration.",
+          "text": "The mixture is passed through a filter, which holds back insoluble solids while the liquid passes through — used to remove tea leaves or to separate sand from water."
+        },
+        {
+          "lead": "Evaporation.",
+          "text": "To recover a soluble solid, the liquid is evaporated by heating, leaving the solid behind — this is how salt is obtained from seawater."
+        }
       ]
     },
     {
@@ -29,9 +47,56 @@
       "word_limit": 150,
       "answer": [
         "When a soluble solid dissolves evenly in a liquid, the result is a solution, in which the liquid is the solvent.",
-        { "lead": "Saturated solution.", "text": "As more and more solute is added, a point is reached where no more will dissolve at that temperature. Such a solution is said to be saturated." },
-        { "lead": "Dissolving more.", "text": "Heating the solution usually allows more solute to dissolve, because solubility increases with temperature. On cooling or on evaporating the solvent, the extra solute separates out again." },
+        {
+          "lead": "Saturated solution.",
+          "text": "As more and more solute is added, a point is reached where no more will dissolve at that temperature. Such a solution is said to be saturated."
+        },
+        {
+          "lead": "Dissolving more.",
+          "text": "Heating the solution usually allows more solute to dissolve, because solubility increases with temperature. On cooling or on evaporating the solvent, the extra solute separates out again."
+        },
         "This is why warm water dissolves more sugar or salt than cold water."
+      ]
+    },
+    {
+      "q": "Describe the methods used to separate one solid from another in a mixture.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "When a mixture contains two or more solids, they can be separated by methods that make use of the differences in their properties.",
+        {
+          "lead": "Handpicking.",
+          "text": "When the pieces to be removed are large enough to be seen and few in number, such as small stones in rice, they can be picked out by hand."
+        },
+        {
+          "lead": "Winnowing.",
+          "text": "Winnowing separates lighter particles from heavier ones using wind or by dropping the mixture in air. It is used to separate light husk from heavier grain."
+        },
+        {
+          "lead": "Sieving and magnetic separation.",
+          "text": "Sieving separates components of different sizes, as when flour is separated from bran using a sieve. Magnetic separation is used when one component is magnetic, such as removing iron filings from a mixture with a magnet."
+        },
+        "Thus solids are separated by handpicking, winnowing, sieving or magnetic separation, depending on their properties."
+      ]
+    },
+    {
+      "q": "How does the choice of separation method depend on the properties of the components?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Separation uses differences.",
+          "text": "The components of a mixture can be separated only because they differ in some property. The method chosen depends on which property differs between them."
+        },
+        {
+          "lead": "Examples of matching method to property.",
+          "text": "If the components differ in size, sieving is used, as for flour and bran. If one is much lighter, winnowing with wind is used, as for husk and grain. If one is magnetic, a magnet is used to pull it out. If a solid is dissolved in a liquid, evaporation removes the water and leaves the solid, as with salt from sea water, while filtration removes an insoluble solid."
+        },
+        {
+          "lead": "Choosing wisely.",
+          "text": "So we first look at how the components differ, then pick the method that uses that difference."
+        },
+        "Thus the method of separation is always chosen to suit the particular properties in which the components of the mixture differ."
       ]
     }
   ]

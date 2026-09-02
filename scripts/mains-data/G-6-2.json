@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "The Earth is called the Blue Planet because most of its surface is covered by water, which gives it a blue appearance from space.",
-        { "lead": "Water and land.", "text": "About 71 per cent of the Earth's surface is water and only about 29 per cent is land. This dominance of water is unique among the planets we know." },
-        { "lead": "Kinds of water.", "text": "Most of this water is salty ocean water; only a small fraction is fresh water, held in rivers, lakes, glaciers and underground. It is this fresh water that supports life on land." },
+        {
+          "lead": "Water and land.",
+          "text": "About 71 per cent of the Earth's surface is water and only about 29 per cent is land. This dominance of water is unique among the planets we know."
+        },
+        {
+          "lead": "Kinds of water.",
+          "text": "Most of this water is salty ocean water; only a small fraction is fresh water, held in rivers, lakes, glaciers and underground. It is this fresh water that supports life on land."
+        },
         "The vast oceans divide the land into continents and make Earth's surface look mainly blue."
       ]
     },
@@ -18,10 +24,22 @@
       "word_limit": 150,
       "answer": [
         "The world's single body of ocean water is divided into five oceans.",
-        { "lead": "Pacific Ocean.", "text": "The largest and deepest ocean, holding the Mariana Trench, the deepest known point on Earth." },
-        { "lead": "Atlantic Ocean.", "text": "The second largest, roughly 'S'-shaped, and the busiest for world trade." },
-        { "lead": "Indian Ocean.", "text": "The third largest and the only ocean named after a country, India." },
-        { "lead": "Southern and Arctic Oceans.", "text": "The Southern (Antarctic) Ocean surrounds Antarctica, while the Arctic Ocean, around the North Pole, is the smallest and shallowest and is largely covered with ice." }
+        {
+          "lead": "Pacific Ocean.",
+          "text": "The largest and deepest ocean, holding the Mariana Trench, the deepest known point on Earth."
+        },
+        {
+          "lead": "Atlantic Ocean.",
+          "text": "The second largest, roughly 'S'-shaped, and the busiest for world trade."
+        },
+        {
+          "lead": "Indian Ocean.",
+          "text": "The third largest and the only ocean named after a country, India."
+        },
+        {
+          "lead": "Southern and Arctic Oceans.",
+          "text": "The Southern (Antarctic) Ocean surrounds Antarctica, while the Arctic Ocean, around the North Pole, is the smallest and shallowest and is largely covered with ice."
+        }
       ]
     },
     {
@@ -29,11 +47,66 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Asia.", "text": "The largest continent, home to India and to Mount Everest, the world's highest point." },
-        { "lead": "Africa.", "text": "The second largest; the Equator and both Tropics pass through it. It has the Sahara, the largest hot desert, and the Nile, the longest river." },
-        { "lead": "North and South America.", "text": "Two continents of the western hemisphere; South America holds the Amazon river and rainforest." },
-        { "lead": "Antarctica.", "text": "Around the South Pole — the coldest continent, ice-covered, with no permanent human population." },
-        { "lead": "Europe and Australia.", "text": "Europe is joined to Asia to form Eurasia; Australia is the smallest continent and the only one that is also a single country." }
+        {
+          "lead": "Asia.",
+          "text": "The largest continent, home to India and to Mount Everest, the world's highest point."
+        },
+        {
+          "lead": "Africa.",
+          "text": "The second largest; the Equator and both Tropics pass through it. It has the Sahara, the largest hot desert, and the Nile, the longest river."
+        },
+        {
+          "lead": "North and South America.",
+          "text": "Two continents of the western hemisphere; South America holds the Amazon river and rainforest."
+        },
+        {
+          "lead": "Antarctica.",
+          "text": "Around the South Pole — the coldest continent, ice-covered, with no permanent human population."
+        },
+        {
+          "lead": "Europe and Australia.",
+          "text": "Europe is joined to Asia to form Eurasia; Australia is the smallest continent and the only one that is also a single country."
+        }
+      ]
+    },
+    {
+      "q": "How are land and water distributed on the surface of the Earth?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "More water than land.",
+          "text": "The surface of the Earth is made up of land and water, but water covers much more of it than land, about seven-tenths of the surface. This is why the Earth appears blue from space and is called the Blue Planet."
+        },
+        {
+          "lead": "The oceans.",
+          "text": "The vast bodies of water are the five oceans, which are all connected. In order of size they are the Pacific, the Atlantic, the Indian, the Southern and the Arctic oceans."
+        },
+        {
+          "lead": "The continents.",
+          "text": "The land is divided into seven large masses called continents, which are Asia, Africa, North America, South America, Antarctica, Europe and Australia, from largest to smallest. Most of the land lies in the Northern Hemisphere."
+        },
+        "Thus the Earth's surface is mostly water, with seven continents rising among five connected oceans."
+      ]
+    },
+    {
+      "q": "Describe the continent of Asia and its importance.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The largest continent.",
+          "text": "Asia is the largest continent in the world, both in area and in population. It lies mainly in the Northern and Eastern Hemispheres and is separated from Europe by the Ural mountains, the two together forming a single landmass sometimes called Eurasia."
+        },
+        {
+          "lead": "Its features.",
+          "text": "Asia has enormous variety. It contains the highest mountains on Earth, the Himalayas, along with great rivers, vast plains, deserts and plateaus. India lies in the southern part of Asia."
+        },
+        {
+          "lead": "Its importance.",
+          "text": "Asia is home to more than half the world's people and to some of the oldest civilisations, including those of the Indus valley, China and Mesopotamia. Its resources, cultures and trade make it very important in world affairs."
+        },
+        "Thus Asia, the largest and most populous continent, is a land of great diversity and long history."
       ]
     }
   ]

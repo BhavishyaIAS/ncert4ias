@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Plants are grouped by the nature of their stems and their height.",
-        { "lead": "Herbs.", "text": "Short plants with soft, green stems, such as spinach and wheat." },
-        { "lead": "Shrubs.", "text": "Medium, bushy plants with hard, woody stems that branch near the base, such as the rose." },
-        { "lead": "Trees.", "text": "Tall, strong plants with a single thick, woody stem called the trunk, such as mango and neem." },
-        { "lead": "Climbers and creepers.", "text": "Both have weak stems: climbers need support to grow upwards (money plant, grapevine), while creepers spread along the ground (pumpkin, watermelon)." }
+        {
+          "lead": "Herbs.",
+          "text": "Short plants with soft, green stems, such as spinach and wheat."
+        },
+        {
+          "lead": "Shrubs.",
+          "text": "Medium, bushy plants with hard, woody stems that branch near the base, such as the rose."
+        },
+        {
+          "lead": "Trees.",
+          "text": "Tall, strong plants with a single thick, woody stem called the trunk, such as mango and neem."
+        },
+        {
+          "lead": "Climbers and creepers.",
+          "text": "Both have weak stems: climbers need support to grow upwards (money plant, grapevine), while creepers spread along the ground (pumpkin, watermelon)."
+        }
       ]
     },
     {
@@ -19,9 +31,55 @@
       "word_limit": 150,
       "answer": [
         "A habitat is the surroundings in which an organism lives, providing it with food, water, air and shelter.",
-        { "lead": "Types.", "text": "Habitats may be terrestrial — desert, forest, grassland, mountain — or aquatic — freshwater and marine. Each has its own living (biotic) and non-living (abiotic) parts." },
-        { "lead": "Adaptation.", "text": "Adaptation means the special features or habits that help an organism survive in its habitat. A camel has long legs and stores fat in its hump for desert life; a cactus has spines instead of leaves and a thick stem to store water; a fish has a streamlined body, gills and fins for water." },
+        {
+          "lead": "Types.",
+          "text": "Habitats may be terrestrial — desert, forest, grassland, mountain — or aquatic — freshwater and marine. Each has its own living (biotic) and non-living (abiotic) parts."
+        },
+        {
+          "lead": "Adaptation.",
+          "text": "Adaptation means the special features or habits that help an organism survive in its habitat. A camel has long legs and stores fat in its hump for desert life; a cactus has spines instead of leaves and a thick stem to store water; a fish has a streamlined body, gills and fins for water."
+        },
         "Organisms that are not adapted to a habitat cannot survive there."
+      ]
+    },
+    {
+      "q": "What is diversity in the living world, and why is it important?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The variety of life.",
+          "text": "Diversity in the living world means the great variety of plants and animals found around us. They differ in size, shape, colour, where they live and how they feed and move, from tiny insects and grasses to huge trees and elephants."
+        },
+        {
+          "lead": "Grouping the variety.",
+          "text": "Because there are so many kinds, we group living things by their common features, for example plants by their stems and size, or animals by where they live and how they move, which helps us study them."
+        },
+        {
+          "lead": "Why it matters.",
+          "text": "This diversity is important because different living things depend on one another, keep nature in balance, and provide us with food, medicines and other needs. Losing this variety would harm all life."
+        },
+        "Thus the living world is richly diverse, and protecting that diversity is vital for the balance of nature."
+      ]
+    },
+    {
+      "q": "Distinguish between terrestrial and aquatic habitats, with examples of adaptations.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Habitat.",
+          "text": "A habitat is the surrounding in which a plant or animal lives. The two broad kinds are terrestrial habitats, on land, and aquatic habitats, in water."
+        },
+        {
+          "lead": "Terrestrial habitats.",
+          "text": "Terrestrial habitats include forests, grasslands and deserts. Animals here have features suited to land, such as legs for walking and lungs for breathing air. A camel, adapted to the hot desert, has long legs, padded feet and can go long without water."
+        },
+        {
+          "lead": "Aquatic habitats.",
+          "text": "Aquatic habitats include ponds, rivers and the sea. A fish is adapted to water with a streamlined body, fins for swimming and gills for breathing dissolved oxygen."
+        },
+        "Thus terrestrial habitats are on land and aquatic in water, and organisms have special adaptations to survive in each."
       ]
     }
   ]

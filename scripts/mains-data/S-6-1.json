@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Science is a systematic way of studying the natural world through observation, questioning and experiment. It grows out of curiosity — the urge to ask what, why and how about the things around us.",
-        { "lead": "Science.", "text": "It builds reliable knowledge about nature, from why the sky is blue to how plants make food, by testing ideas against evidence." },
-        { "lead": "Technology.", "text": "Technology applies that knowledge to solve practical problems and make useful tools — medicines, vehicles, phones and machines." },
-        { "lead": "The link.", "text": "The two are closely related: science provides understanding, and technology puts it to work. Advances in one often drive the other." }
+        {
+          "lead": "Science.",
+          "text": "It builds reliable knowledge about nature, from why the sky is blue to how plants make food, by testing ideas against evidence."
+        },
+        {
+          "lead": "Technology.",
+          "text": "Technology applies that knowledge to solve practical problems and make useful tools — medicines, vehicles, phones and machines."
+        },
+        {
+          "lead": "The link.",
+          "text": "The two are closely related: science provides understanding, and technology puts it to work. Advances in one often drive the other."
+        }
       ]
     },
     {
@@ -18,11 +27,68 @@
       "word_limit": 150,
       "answer": [
         "The scientific method is the careful, step-by-step way in which scientists investigate a question.",
-        { "lead": "Observe and question.", "text": "It begins with observing something in nature and asking a clear question about it." },
-        { "lead": "Hypothesise.", "text": "The scientist makes a reasonable guess, called a hypothesis, that might answer the question." },
-        { "lead": "Experiment and record.", "text": "The guess is tested through experiments, and the results are carefully measured and recorded." },
-        { "lead": "Analyse and conclude.", "text": "The results are analysed to see whether they support the hypothesis, and a conclusion is drawn. Tests are repeated to be sure." },
+        {
+          "lead": "Observe and question.",
+          "text": "It begins with observing something in nature and asking a clear question about it."
+        },
+        {
+          "lead": "Hypothesise.",
+          "text": "The scientist makes a reasonable guess, called a hypothesis, that might answer the question."
+        },
+        {
+          "lead": "Experiment and record.",
+          "text": "The guess is tested through experiments, and the results are carefully measured and recorded."
+        },
+        {
+          "lead": "Analyse and conclude.",
+          "text": "The results are analysed to see whether they support the hypothesis, and a conclusion is drawn. Tests are repeated to be sure."
+        },
         "Throughout, science relies on evidence rather than opinion."
+      ]
+    },
+    {
+      "q": "What are the main branches of science?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Science is a vast subject, and to study it more easily it is divided into several main branches.",
+        {
+          "lead": "Physics.",
+          "text": "Physics studies matter, energy and the forces of nature, explaining things like motion, light, heat, sound, electricity and magnetism."
+        },
+        {
+          "lead": "Chemistry.",
+          "text": "Chemistry studies the materials that make up the world, what they are made of, their properties, and how they change and combine with one another."
+        },
+        {
+          "lead": "Biology.",
+          "text": "Biology is the study of living things, both plants and animals, including how they live, grow and interact with their surroundings."
+        },
+        {
+          "lead": "Other branches.",
+          "text": "There are also branches such as astronomy, the study of the sky and heavenly bodies, and geology, the study of the Earth, along with many others."
+        },
+        "Thus science is divided into branches like physics, chemistry and biology, each studying a different part of the natural world."
+      ]
+    },
+    {
+      "q": "How is science a part of our everyday life?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Science all around us.",
+          "text": "Science is not only found in laboratories; it is present in everything we do. The food we cook, the clothes we wear, the way we travel and the medicines we take all involve science."
+        },
+        {
+          "lead": "In the home and beyond.",
+          "text": "Cooking uses heat and changes in materials, a mirror uses the reflection of light, a fan and a fridge use electricity, and a bicycle uses forces and motion. Doctors, farmers, engineers and cooks all use science in their work."
+        },
+        {
+          "lead": "Understanding nature.",
+          "text": "Science also helps us understand natural events such as rain, day and night, and why the seasons change, and it teaches us to observe, question and find answers."
+        },
+        "Thus science is woven into daily life, helping us do our work, use tools and understand the world around us."
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Natural resources are the useful things we obtain from nature, and they are of two kinds.",
-        { "lead": "Renewable resources.", "text": "These can be replaced or renewed within a reasonable time, so they are not easily exhausted — for example sunlight, air, water, wind and forests. If used wisely, they keep being available." },
-        { "lead": "Non-renewable resources.", "text": "These are limited and take millions of years to form, so once used up they cannot be replaced in our lifetime — for example coal, petroleum, natural gas and minerals." },
-        { "lead": "Why it matters.", "text": "Because non-renewable resources can run out and their burning pollutes the environment, we must conserve them and shift towards renewable sources of energy." }
+        {
+          "lead": "Renewable resources.",
+          "text": "These can be replaced or renewed within a reasonable time, so they are not easily exhausted — for example sunlight, air, water, wind and forests. If used wisely, they keep being available."
+        },
+        {
+          "lead": "Non-renewable resources.",
+          "text": "These are limited and take millions of years to form, so once used up they cannot be replaced in our lifetime — for example coal, petroleum, natural gas and minerals."
+        },
+        {
+          "lead": "Why it matters.",
+          "text": "Because non-renewable resources can run out and their burning pollutes the environment, we must conserve them and shift towards renewable sources of energy."
+        }
       ]
     },
     {
@@ -18,9 +27,18 @@
       "word_limit": 150,
       "answer": [
         "Air is a mixture of gases that surrounds the Earth and is essential for life.",
-        { "lead": "Composition.", "text": "It is made up of about 78 per cent nitrogen and 21 per cent oxygen, with small amounts of carbon dioxide, argon and water vapour." },
-        { "lead": "Why it is vital.", "text": "Oxygen supports the breathing of living things and the burning of fuels; carbon dioxide is used by green plants to make food during photosynthesis; and moving air, or wind, is a source of clean energy." },
-        { "lead": "Protection.", "text": "Because polluting the air harms health and climate, this precious resource must be kept clean." }
+        {
+          "lead": "Composition.",
+          "text": "It is made up of about 78 per cent nitrogen and 21 per cent oxygen, with small amounts of carbon dioxide, argon and water vapour."
+        },
+        {
+          "lead": "Why it is vital.",
+          "text": "Oxygen supports the breathing of living things and the burning of fuels; carbon dioxide is used by green plants to make food during photosynthesis; and moving air, or wind, is a source of clean energy."
+        },
+        {
+          "lead": "Protection.",
+          "text": "Because polluting the air harms health and climate, this precious resource must be kept clean."
+        }
       ]
     },
     {
@@ -29,9 +47,58 @@
       "word_limit": 150,
       "answer": [
         "Since many resources are limited or exhaustible, conserving them is a shared responsibility.",
-        { "lead": "The three R's.", "text": "The simplest approach is to Reduce the use of resources, Reuse things instead of throwing them away, and Recycle materials such as paper, plastic and metal." },
-        { "lead": "Everyday habits.", "text": "Saving water and electricity, using public transport, and avoiding waste all reduce the pressure on resources." },
-        { "lead": "Wider steps.", "text": "Planting trees, preventing pollution, and shifting to renewable energy such as solar and wind help protect resources for the future, especially as they are unevenly distributed across regions." }
+        {
+          "lead": "The three R's.",
+          "text": "The simplest approach is to Reduce the use of resources, Reuse things instead of throwing them away, and Recycle materials such as paper, plastic and metal."
+        },
+        {
+          "lead": "Everyday habits.",
+          "text": "Saving water and electricity, using public transport, and avoiding waste all reduce the pressure on resources."
+        },
+        {
+          "lead": "Wider steps.",
+          "text": "Planting trees, preventing pollution, and shifting to renewable energy such as solar and wind help protect resources for the future, especially as they are unevenly distributed across regions."
+        }
+      ]
+    },
+    {
+      "q": "Why are water and soil important natural resources, and how are they being harmed?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Importance of water.",
+          "text": "Water is a vital natural resource needed by all living things for drinking, by farmers for crops and by industries for their work. Fresh water fit for use is only a small part of all the water on Earth."
+        },
+        {
+          "lead": "Importance of soil.",
+          "text": "Soil is the thin layer covering the land in which plants grow. It supplies plants with water and nutrients and is the base of farming, so all our food ultimately depends on it."
+        },
+        {
+          "lead": "How they are harmed.",
+          "text": "Water is harmed by pollution from sewage, wastes and chemicals, and by wasteful use. Soil is harmed by erosion when forests are cut, by overuse of chemicals, and by dumping of waste, which lower its fertility."
+        },
+        "Thus water and soil are precious resources, and we must protect them from pollution, waste and erosion."
+      ]
+    },
+    {
+      "q": "What are fossil fuels, and why must they be used carefully?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What fossil fuels are.",
+          "text": "Fossil fuels are natural fuels formed deep in the Earth over millions of years from the buried remains of plants and animals. Coal, petroleum and natural gas are fossil fuels, and they give us most of our energy for cooking, transport and industry."
+        },
+        {
+          "lead": "They are non-renewable.",
+          "text": "Fossil fuels take millions of years to form, so once used up they cannot be replaced within our lifetime. They are therefore non-renewable resources and are limited in amount."
+        },
+        {
+          "lead": "Use with care.",
+          "text": "Because they are limited and their burning causes air pollution and adds to global warming, fossil fuels must be used carefully, saved wherever possible, and increasingly replaced by clean sources like solar and wind energy."
+        },
+        "Thus fossil fuels are precious, non-renewable and polluting, so they must be conserved and used wisely."
       ]
     }
   ]

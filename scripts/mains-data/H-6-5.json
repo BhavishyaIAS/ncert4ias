@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "India's diversity runs through almost every aspect of life.",
-        { "lead": "Language.", "text": "Hundreds of languages belong to four families — Indo-Aryan (Hindi, Bengali, Marathi), Dravidian (Tamil, Telugu, Kannada, Malayalam), Austroasiatic (Santhali) and Tibeto-Burman (spoken in the north-east and Himalayas)." },
-        { "lead": "Religion and custom.", "text": "Many religions, festivals, styles of dress and food traditions exist side by side, varying from region to region." },
-        { "lead": "Geography.", "text": "The land itself is diverse — the Himalayas, long coasts, deserts, fertile plains and dense forests — shaping different livelihoods and cultures." },
+        {
+          "lead": "Language.",
+          "text": "Hundreds of languages belong to four families — Indo-Aryan (Hindi, Bengali, Marathi), Dravidian (Tamil, Telugu, Kannada, Malayalam), Austroasiatic (Santhali) and Tibeto-Burman (spoken in the north-east and Himalayas)."
+        },
+        {
+          "lead": "Religion and custom.",
+          "text": "Many religions, festivals, styles of dress and food traditions exist side by side, varying from region to region."
+        },
+        {
+          "lead": "Geography.",
+          "text": "The land itself is diverse — the Himalayas, long coasts, deserts, fertile plains and dense forests — shaping different livelihoods and cultures."
+        },
         "This variety makes India one of the most diverse societies in the world."
       ]
     },
@@ -19,9 +28,18 @@
       "word_limit": 150,
       "answer": [
         "Beneath India's visible diversity lies a shared sacred geography that has long linked distant regions.",
-        { "lead": "Pilgrimage across the land.", "text": "The tradition of tirtha-yatra (pilgrimage) ties the four corners together — the Char Dham connects Badrinath in the north, Dwarka in the west, Puri in the east and Rameshwaram in the south." },
-        { "lead": "Shrines and rivers.", "text": "Twelve Jyotirlingas and countless shrines are spread across the country, and rivers such as the Ganga, Yamuna and Kaveri are revered; the Kumbh Mela draws pilgrims from every region." },
-        { "lead": "Effect.", "text": "As people travelled to these sites, they carried stories, languages and customs with them, weaving the many regions into a single cultural whole." }
+        {
+          "lead": "Pilgrimage across the land.",
+          "text": "The tradition of tirtha-yatra (pilgrimage) ties the four corners together — the Char Dham connects Badrinath in the north, Dwarka in the west, Puri in the east and Rameshwaram in the south."
+        },
+        {
+          "lead": "Shrines and rivers.",
+          "text": "Twelve Jyotirlingas and countless shrines are spread across the country, and rivers such as the Ganga, Yamuna and Kaveri are revered; the Kumbh Mela draws pilgrims from every region."
+        },
+        {
+          "lead": "Effect.",
+          "text": "As people travelled to these sites, they carried stories, languages and customs with them, weaving the many regions into a single cultural whole."
+        }
       ]
     },
     {
@@ -30,9 +48,59 @@
       "word_limit": 150,
       "answer": [
         "India is often described as a land of \"unity in diversity,\" or \"many in the one\" — countless local forms expressing one civilisation.",
-        { "lead": "The diversity.", "text": "Many languages, religions, foods, festivals and landscapes exist together, each region with its own character." },
-        { "lead": "The unity.", "text": "Holding them together are shared threads: a sacred geography of pilgrimage such as the Char Dham, the epics Ramayana and Mahabharata known everywhere in many languages, common fairs and festivals, and the ancient idea of Bharat as one land." },
-        { "lead": "Diversity as strength.", "text": "This unity does not erase differences but contains them, so that the plural parts together form a single, resilient whole — making diversity a source of strength rather than division." }
+        {
+          "lead": "The diversity.",
+          "text": "Many languages, religions, foods, festivals and landscapes exist together, each region with its own character."
+        },
+        {
+          "lead": "The unity.",
+          "text": "Holding them together are shared threads: a sacred geography of pilgrimage such as the Char Dham, the epics Ramayana and Mahabharata known everywhere in many languages, common fairs and festivals, and the ancient idea of Bharat as one land."
+        },
+        {
+          "lead": "Diversity as strength.",
+          "text": "This unity does not erase differences but contains them, so that the plural parts together form a single, resilient whole — making diversity a source of strength rather than division."
+        }
+      ]
+    },
+    {
+      "q": "How do shared stories, festivals and traditions help unite the people of India?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        "Although India is vast and diverse, shared stories, festivals and traditions weave its people together.",
+        {
+          "lead": "Shared stories.",
+          "text": "The great epics, the Ramayana and the Mahabharata, are known and loved across the country in many languages and forms. Their characters and tales are familiar from Kashmir to Kanyakumari, giving people a common storehouse of memory and values."
+        },
+        {
+          "lead": "Festivals and traditions.",
+          "text": "Festivals such as harvest celebrations are kept in every region, though under different names, and pilgrimages, fairs and folk traditions bring people together. Common ideals of respect for elders, hospitality and reverence for nature run through Indian life."
+        },
+        {
+          "lead": "A shared culture.",
+          "text": "These shared threads mean that people who speak different languages still feel part of one cultural family."
+        },
+        "Thus common stories, festivals and traditions bind India's many peoples into a single civilisation."
+      ]
+    },
+    {
+      "q": "What is meant by the idea of 'many in the one', and how does it describe India?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The idea.",
+          "text": "The phrase many in the one means that a single whole can contain great variety within it. Applied to India, it means that the country is one land and one civilisation, yet it holds within it many languages, religions, foods, dresses and customs."
+        },
+        {
+          "lead": "Unity within diversity.",
+          "text": "India has hundreds of languages, several religions, and countless local traditions, so its diversity is enormous. Yet beneath this variety run common threads, a shared history, sacred geography linking distant places of pilgrimage, shared epics, and shared values, which hold the many together as one."
+        },
+        {
+          "lead": "A strength.",
+          "text": "This diversity is not a weakness but a strength, for it makes Indian culture rich and many-sided while still remaining united."
+        },
+        "Thus 'many in the one' captures how India stays a single civilisation while celebrating endless variety."
       ]
     }
   ]

@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Materials differ in their properties, and these properties are used to group them.",
-        { "lead": "Appearance and hardness.", "text": "Some materials are lustrous (shiny), like metals, while others are dull; some are hard, like iron, and others soft, like cotton." },
-        { "lead": "Behaviour in water.", "text": "Some are soluble and dissolve in water, such as salt and sugar, while others are insoluble, such as sand. Some float, like wood, and others sink, like stone, depending on density." },
-        { "lead": "Transparency.", "text": "Materials may be transparent like glass, translucent like butter paper, or opaque like wood." },
-        { "lead": "Other properties.", "text": "Attraction to magnets and the ability to conduct heat or electricity are also used to group materials." }
+        {
+          "lead": "Appearance and hardness.",
+          "text": "Some materials are lustrous (shiny), like metals, while others are dull; some are hard, like iron, and others soft, like cotton."
+        },
+        {
+          "lead": "Behaviour in water.",
+          "text": "Some are soluble and dissolve in water, such as salt and sugar, while others are insoluble, such as sand. Some float, like wood, and others sink, like stone, depending on density."
+        },
+        {
+          "lead": "Transparency.",
+          "text": "Materials may be transparent like glass, translucent like butter paper, or opaque like wood."
+        },
+        {
+          "lead": "Other properties.",
+          "text": "Attraction to magnets and the ability to conduct heat or electricity are also used to group materials."
+        }
       ]
     },
     {
@@ -18,9 +30,59 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Soluble and insoluble.", "text": "A soluble substance dissolves completely in water, forming a clear solution — for example, salt and sugar. An insoluble substance does not dissolve and can be seen or settles down — for example, sand and chalk powder." },
-        { "lead": "Miscible and immiscible.", "text": "Miscible liquids mix completely with one another to form a single liquid, such as water and milk. Immiscible liquids do not mix and form separate layers, such as oil and water." },
-        { "lead": "Water as solvent.", "text": "Water dissolves so many substances that it is called the universal solvent, which is why it is central to these ideas of solubility and mixing." }
+        {
+          "lead": "Soluble and insoluble.",
+          "text": "A soluble substance dissolves completely in water, forming a clear solution — for example, salt and sugar. An insoluble substance does not dissolve and can be seen or settles down — for example, sand and chalk powder."
+        },
+        {
+          "lead": "Miscible and immiscible.",
+          "text": "Miscible liquids mix completely with one another to form a single liquid, such as water and milk. Immiscible liquids do not mix and form separate layers, such as oil and water."
+        },
+        {
+          "lead": "Water as solvent.",
+          "text": "Water dissolves so many substances that it is called the universal solvent, which is why it is central to these ideas of solubility and mixing."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between transparent, translucent and opaque materials.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "Materials can be grouped by how much light passes through them, into transparent, translucent and opaque.",
+        {
+          "lead": "Transparent materials.",
+          "text": "Transparent materials allow almost all light to pass through them, so we can see clearly through them. Clear glass, clean water and air are transparent, and objects on the other side are seen distinctly."
+        },
+        {
+          "lead": "Translucent materials.",
+          "text": "Translucent materials allow only some light to pass through, so we can see through them only partly and not clearly. Oiled paper, frosted glass and thin cloth are translucent."
+        },
+        {
+          "lead": "Opaque materials.",
+          "text": "Opaque materials do not allow light to pass through them at all, so we cannot see through them. Wood, metal, stone and cardboard are opaque, and they cast clear shadows."
+        },
+        "Thus transparent materials let light through fully, translucent partly, and opaque not at all."
+      ]
+    },
+    {
+      "q": "Why do we group materials, and on what basis is it done?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Why we group materials.",
+          "text": "There are countless materials around us, so grouping them by common properties helps us study them easily, understand their uses, and choose the right material for a particular purpose."
+        },
+        {
+          "lead": "Basis of grouping.",
+          "text": "Materials are grouped on the basis of their properties. These include appearance, such as lustrous or dull, hardness, whether they are soft or hard, and how they behave with light, being transparent, translucent or opaque. They are also grouped by whether they float or sink in water, and whether they dissolve in water or not."
+        },
+        {
+          "lead": "Useful in daily life.",
+          "text": "Such grouping guides our choices; for example, we use hard, strong materials for tools and transparent glass for windows."
+        },
+        "Thus we group materials by their properties so as to understand and use them better."
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Latitudes and longitudes form the grid used to locate any point on the Earth's surface.",
-        { "lead": "Latitudes (parallels).", "text": "These are imaginary lines running east–west, parallel to the Equator. They are measured from 0° at the Equator to 90° at each pole, and tell us how far north or south a place is." },
-        { "lead": "Longitudes (meridians).", "text": "These run north–south from pole to pole. They are measured from the Prime Meridian (0°) at Greenwich up to 180° east and west, and tell us how far east or west a place is." },
-        { "lead": "Locating a place.", "text": "Where a latitude and a longitude cross gives the exact position of a place — its coordinates — allowing any spot on Earth to be found precisely." }
+        {
+          "lead": "Latitudes (parallels).",
+          "text": "These are imaginary lines running east–west, parallel to the Equator. They are measured from 0° at the Equator to 90° at each pole, and tell us how far north or south a place is."
+        },
+        {
+          "lead": "Longitudes (meridians).",
+          "text": "These run north–south from pole to pole. They are measured from the Prime Meridian (0°) at Greenwich up to 180° east and west, and tell us how far east or west a place is."
+        },
+        {
+          "lead": "Locating a place.",
+          "text": "Where a latitude and a longitude cross gives the exact position of a place — its coordinates — allowing any spot on Earth to be found precisely."
+        }
       ]
     },
     {
@@ -18,8 +27,14 @@
       "word_limit": 150,
       "answer": [
         "Some latitudes are especially important because they mark the Earth's heat zones.",
-        { "lead": "Key parallels.", "text": "The Equator is 0°; the Tropic of Cancer lies at 23½° N (passing through India) and the Tropic of Capricorn at 23½° S; the Arctic Circle is at 66½° N and the Antarctic Circle at 66½° S; the North and South Poles are at 90°." },
-        { "lead": "The three heat zones.", "text": "The Torrid Zone, between the two Tropics, gets the most direct sunlight and is the hottest. The two Temperate Zones, between the Tropics and the polar circles, are moderate. The two Frigid Zones, between the polar circles and the poles, are the coldest." },
+        {
+          "lead": "Key parallels.",
+          "text": "The Equator is 0°; the Tropic of Cancer lies at 23½° N (passing through India) and the Tropic of Capricorn at 23½° S; the Arctic Circle is at 66½° N and the Antarctic Circle at 66½° S; the North and South Poles are at 90°."
+        },
+        {
+          "lead": "The three heat zones.",
+          "text": "The Torrid Zone, between the two Tropics, gets the most direct sunlight and is the hottest. The two Temperate Zones, between the Tropics and the polar circles, are moderate. The two Frigid Zones, between the polar circles and the poles, are the coldest."
+        },
         "Thus latitude largely decides how much heat a place receives from the Sun."
       ]
     },
@@ -29,9 +44,58 @@
       "word_limit": 150,
       "answer": [
         "Longitude is closely linked to time because of the Earth's rotation.",
-        { "lead": "The rule.", "text": "The Earth turns 360° in 24 hours, so it rotates 15° in one hour — that is, four minutes for every degree of longitude. Places to the east see the Sun earlier and are ahead in time; places to the west are behind." },
-        { "lead": "Reference time.", "text": "Time at the Prime Meridian (0°, Greenwich) is Greenwich Mean Time (GMT), used as the world's reference." },
-        { "lead": "Indian Standard Time.", "text": "India is a wide country, so a single standard time is fixed on the longitude of 82½° E. This makes Indian Standard Time (IST) five and a half hours ahead of GMT." }
+        {
+          "lead": "The rule.",
+          "text": "The Earth turns 360° in 24 hours, so it rotates 15° in one hour — that is, four minutes for every degree of longitude. Places to the east see the Sun earlier and are ahead in time; places to the west are behind."
+        },
+        {
+          "lead": "Reference time.",
+          "text": "Time at the Prime Meridian (0°, Greenwich) is Greenwich Mean Time (GMT), used as the world's reference."
+        },
+        {
+          "lead": "Indian Standard Time.",
+          "text": "India is a wide country, so a single standard time is fixed on the longitude of 82½° E. This makes Indian Standard Time (IST) five and a half hours ahead of GMT."
+        }
+      ]
+    },
+    {
+      "q": "Why do we need a grid of latitudes and longitudes on the globe?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The problem of locating places.",
+          "text": "The Earth is a huge sphere, and to find the exact position of any place on it we need a system of reference lines. This network of crossing lines, drawn on the globe and on maps, is called the grid."
+        },
+        {
+          "lead": "Latitudes and longitudes.",
+          "text": "The grid is made of two sets of lines. Latitudes, or parallels, run from east to west and tell us how far a place is north or south of the Equator. Longitudes, or meridians, run from the North Pole to the South Pole and tell us how far a place is east or west of the Prime Meridian."
+        },
+        {
+          "lead": "Locating a place.",
+          "text": "By giving the latitude and the longitude of a place, we can pinpoint its exact position on the Earth, just as an address locates a house."
+        },
+        "Thus the grid makes it possible to find and describe the location of any place accurately."
+      ]
+    },
+    {
+      "q": "What is the Prime Meridian, and how does it divide the Earth into hemispheres?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Prime Meridian.",
+          "text": "The Prime Meridian is the longitude marked as zero degrees. Unlike the Equator, which is fixed by the shape of the Earth, the Prime Meridian was chosen by agreement to pass through Greenwich, near London, and it serves as the starting line for measuring longitude."
+        },
+        {
+          "lead": "Eastern and Western Hemispheres.",
+          "text": "The Prime Meridian, together with the 180 degree meridian on the opposite side, divides the Earth into the Eastern Hemisphere and the Western Hemisphere. Places to the east of the Prime Meridian lie in the Eastern Hemisphere, and those to its west in the Western Hemisphere."
+        },
+        {
+          "lead": "Northern and Southern Hemispheres.",
+          "text": "In the same way, the Equator divides the Earth into the Northern and Southern Hemispheres."
+        },
+        "Thus the Prime Meridian is the reference line for longitude and helps divide the globe into hemispheres."
       ]
     }
   ]

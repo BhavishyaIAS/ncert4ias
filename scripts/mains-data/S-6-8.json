@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Water exists in three states — solid ice, liquid water and gaseous water vapour — and the state depends on temperature.",
-        { "lead": "Melting and freezing.", "text": "On heating, ice melts into water at 0°C; on cooling, water freezes back into ice at the same 0°C." },
-        { "lead": "Evaporation and boiling.", "text": "A liquid changes to vapour by evaporation, which is slow and happens from the surface at any temperature, or by boiling, which is rapid and occurs at the boiling point of 100°C." },
-        { "lead": "Condensation.", "text": "When vapour is cooled it turns back into liquid, as seen in the droplets that form on a cold glass." },
+        {
+          "lead": "Melting and freezing.",
+          "text": "On heating, ice melts into water at 0°C; on cooling, water freezes back into ice at the same 0°C."
+        },
+        {
+          "lead": "Evaporation and boiling.",
+          "text": "A liquid changes to vapour by evaporation, which is slow and happens from the surface at any temperature, or by boiling, which is rapid and occurs at the boiling point of 100°C."
+        },
+        {
+          "lead": "Condensation.",
+          "text": "When vapour is cooled it turns back into liquid, as seen in the droplets that form on a cold glass."
+        },
         "These changes let the same water move endlessly between its three states."
       ]
     },
@@ -19,10 +28,22 @@
       "word_limit": 150,
       "answer": [
         "The water cycle is the continuous movement of water between the Earth's surface and the sky.",
-        { "lead": "Evaporation.", "text": "The Sun heats water in oceans, rivers and lakes, turning it into vapour that rises; plants add vapour through transpiration." },
-        { "lead": "Condensation.", "text": "High in the sky the vapour cools into tiny droplets that gather as clouds." },
-        { "lead": "Precipitation and collection.", "text": "The droplets grow and fall as rain, snow or hail, and the water flows back into rivers, lakes and oceans, where the cycle begins again." },
-        { "lead": "Importance.", "text": "The cycle keeps renewing the supply of fresh water on which all life depends, which is why water must be conserved." }
+        {
+          "lead": "Evaporation.",
+          "text": "The Sun heats water in oceans, rivers and lakes, turning it into vapour that rises; plants add vapour through transpiration."
+        },
+        {
+          "lead": "Condensation.",
+          "text": "High in the sky the vapour cools into tiny droplets that gather as clouds."
+        },
+        {
+          "lead": "Precipitation and collection.",
+          "text": "The droplets grow and fall as rain, snow or hail, and the water flows back into rivers, lakes and oceans, where the cycle begins again."
+        },
+        {
+          "lead": "Importance.",
+          "text": "The cycle keeps renewing the supply of fresh water on which all life depends, which is why water must be conserved."
+        }
       ]
     },
     {
@@ -30,9 +51,58 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The difference.", "text": "Evaporation is slow, occurs only at the surface of a liquid, and takes place at any temperature. Boiling is rapid, occurs throughout the liquid, and happens only at a fixed temperature — 100°C for water." },
-        { "lead": "Cooling effect.", "text": "During evaporation, the escaping molecules carry away heat from the liquid and its surroundings, so the surface left behind becomes cooler. This is why sweating cools our body and why water stored in earthen pots stays cool." },
-        { "lead": "Conditions.", "text": "Evaporation is faster when the temperature is higher, the surface area is larger, there is wind, and the air is dry." }
+        {
+          "lead": "The difference.",
+          "text": "Evaporation is slow, occurs only at the surface of a liquid, and takes place at any temperature. Boiling is rapid, occurs throughout the liquid, and happens only at a fixed temperature — 100°C for water."
+        },
+        {
+          "lead": "Cooling effect.",
+          "text": "During evaporation, the escaping molecules carry away heat from the liquid and its surroundings, so the surface left behind becomes cooler. This is why sweating cools our body and why water stored in earthen pots stays cool."
+        },
+        {
+          "lead": "Conditions.",
+          "text": "Evaporation is faster when the temperature is higher, the surface area is larger, there is wind, and the air is dry."
+        }
+      ]
+    },
+    {
+      "q": "What factors affect how fast evaporation takes place?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What evaporation is.",
+          "text": "Evaporation is the slow change of a liquid, such as water, into vapour at any temperature below its boiling point. It takes place from the surface of the liquid."
+        },
+        {
+          "lead": "Factors that speed it up.",
+          "text": "Evaporation is faster when the temperature is higher, because heat gives the liquid particles more energy to escape. It is faster when the surface area is larger, as when water is spread out, and when the air is dry rather than humid, since dry air can hold more vapour."
+        },
+        {
+          "lead": "Effect of wind.",
+          "text": "Wind or a breeze also speeds up evaporation by carrying away the vapour from above the liquid, allowing more to evaporate."
+        },
+        "Thus evaporation is faster with higher temperature, larger surface area, drier air and more wind, which is why wet clothes dry quickly on a hot, windy day."
+      ]
+    },
+    {
+      "q": "Why is water important, and how can we save it?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Why water is important.",
+          "text": "Water is essential for all life. We need it for drinking, cooking, cleaning and bathing, farmers need it to grow crops, and industries need it to make goods. No plant or animal can live without water."
+        },
+        {
+          "lead": "Water is limited.",
+          "text": "Although the Earth has a great deal of water, most of it is salty sea water, and only a small part is fresh water fit for use. Growing population and wasteful use are making fresh water scarce in many places."
+        },
+        {
+          "lead": "How to save it.",
+          "text": "We can save water by closing taps when not in use, mending leaks, reusing water where possible, watering plants carefully, and harvesting rainwater to recharge the ground."
+        },
+        "Thus water is precious and limited, so we must use it wisely and avoid wasting it."
       ]
     }
   ]

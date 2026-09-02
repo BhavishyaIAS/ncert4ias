@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Panchayati Raj is the system of local self-government in rural areas, organised in three tiers so that decisions can be taken at village, block and district levels.",
-        { "lead": "Gram Panchayat.", "text": "At the village level, it is the elected body that looks after the day-to-day needs of one or a few villages." },
-        { "lead": "Panchayat Samiti.", "text": "At the intermediate or block level (also called Mandal), it coordinates the work of several Gram Panchayats." },
-        { "lead": "Zila Parishad.", "text": "At the district level, it oversees and plans development for the whole district." },
+        {
+          "lead": "Gram Panchayat.",
+          "text": "At the village level, it is the elected body that looks after the day-to-day needs of one or a few villages."
+        },
+        {
+          "lead": "Panchayat Samiti.",
+          "text": "At the intermediate or block level (also called Mandal), it coordinates the work of several Gram Panchayats."
+        },
+        {
+          "lead": "Zila Parishad.",
+          "text": "At the district level, it oversees and plans development for the whole district."
+        },
         "The system was given constitutional status by the 73rd Constitutional Amendment of 1992."
       ]
     },
@@ -19,9 +28,18 @@
       "word_limit": 150,
       "answer": [
         "The Gram Sabha is the assembly of all adult voters of a village or panchayat area, and it is the foundation of the Panchayati Raj system.",
-        { "lead": "Direct participation.", "text": "Because every voter can attend and speak, the Gram Sabha allows people to take part directly in decisions about their own village — a form of direct democracy at the grassroots." },
-        { "lead": "Its powers.", "text": "It discusses the village's needs, approves development plans and budgets, and reviews the work of the Gram Panchayat." },
-        { "lead": "Accountability.", "text": "By questioning the elected Gram Panchayat, the Gram Sabha keeps it answerable to the people, which is why it is called the watchdog of grassroots democracy." }
+        {
+          "lead": "Direct participation.",
+          "text": "Because every voter can attend and speak, the Gram Sabha allows people to take part directly in decisions about their own village — a form of direct democracy at the grassroots."
+        },
+        {
+          "lead": "Its powers.",
+          "text": "It discusses the village's needs, approves development plans and budgets, and reviews the work of the Gram Panchayat."
+        },
+        {
+          "lead": "Accountability.",
+          "text": "By questioning the elected Gram Panchayat, the Gram Sabha keeps it answerable to the people, which is why it is called the watchdog of grassroots democracy."
+        }
       ]
     },
     {
@@ -29,9 +47,56 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Structure.", "text": "The Gram Panchayat is the elected executive body of the village. Its head is the Sarpanch (or Pradhan), its members are the Panch elected from different wards, and an appointed Panchayat Secretary keeps records and helps run it. It is elected for a term of five years, with seats reserved for Scheduled Castes, Scheduled Tribes and women." },
-        { "lead": "Functions.", "text": "It provides basic services such as drinking water, village roads, street lighting, drainage and sanitation; maintains records of births and deaths; supports local schools and health work; helps settle local disputes; and carries out development works using local taxes and government grants." },
+        {
+          "lead": "Structure.",
+          "text": "The Gram Panchayat is the elected executive body of the village. Its head is the Sarpanch (or Pradhan), its members are the Panch elected from different wards, and an appointed Panchayat Secretary keeps records and helps run it. It is elected for a term of five years, with seats reserved for Scheduled Castes, Scheduled Tribes and women."
+        },
+        {
+          "lead": "Functions.",
+          "text": "It provides basic services such as drinking water, village roads, street lighting, drainage and sanitation; maintains records of births and deaths; supports local schools and health work; helps settle local disputes; and carries out development works using local taxes and government grants."
+        },
         "In this way the Gram Panchayat turns the decisions of the Gram Sabha into action for the village."
+      ]
+    },
+    {
+      "q": "How are the members of a Gram Panchayat elected?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The ward and its member.",
+          "text": "For elections, a village or group of villages under a Gram Panchayat is divided into smaller areas called wards. The voters of each ward elect one representative, called a ward member or panch."
+        },
+        {
+          "lead": "The Sarpanch.",
+          "text": "All the adult voters of the Gram Panchayat elect the head of the panchayat, called the Sarpanch or Pradhan. The Sarpanch and the ward members together form the Gram Panchayat."
+        },
+        {
+          "lead": "Regular elections and reservation.",
+          "text": "Elections are held regularly, usually every five years, and are conducted by the State Election Commission. Seats are reserved for Scheduled Castes, Scheduled Tribes and women, so that these groups are properly represented."
+        },
+        "Thus the people of the village themselves choose the ward members and the Sarpanch, giving the Gram Panchayat its democratic base."
+      ]
+    },
+    {
+      "q": "What are the main sources of funds for a Gram Panchayat?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "To carry out its work, such as building roads, supplying water and lighting streets, a Gram Panchayat needs money, which comes from several sources.",
+        {
+          "lead": "Local taxes and fees.",
+          "text": "The Gram Panchayat collects certain local taxes and fees, for example on houses, markets and the use of common facilities. This is money raised from within the village itself."
+        },
+        {
+          "lead": "Government grants.",
+          "text": "It receives grants and funds from the State and Central governments, often meant for particular schemes such as sanitation, roads or welfare programmes."
+        },
+        {
+          "lead": "Share of higher-level funds.",
+          "text": "It also gets a share of the funds passed down through the higher tiers of the Panchayati Raj system and, at times, donations for local development."
+        },
+        "Thus a Gram Panchayat funds its work through local taxes and fees together with grants from the government."
       ]
     }
   ]

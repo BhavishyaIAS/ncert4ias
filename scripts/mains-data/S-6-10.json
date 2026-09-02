@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Living things are distinguished from non-living things by showing a set of life processes together.",
-        { "lead": "Nutrition and respiration.", "text": "They need food for energy and growth — plants make their own by photosynthesis, animals depend on others — and they respire to release energy from that food." },
-        { "lead": "Growth and movement.", "text": "They grow in size over time and show movement — animals move from place to place, and even plants move, for example towards light." },
-        { "lead": "Response, excretion and reproduction.", "text": "They respond to stimuli, remove waste by excretion, and reproduce to produce young of their own kind." },
-        { "lead": "Life span.", "text": "Finally, every living thing is born, grows and eventually dies, completing a life cycle." }
+        {
+          "lead": "Nutrition and respiration.",
+          "text": "They need food for energy and growth — plants make their own by photosynthesis, animals depend on others — and they respire to release energy from that food."
+        },
+        {
+          "lead": "Growth and movement.",
+          "text": "They grow in size over time and show movement — animals move from place to place, and even plants move, for example towards light."
+        },
+        {
+          "lead": "Response, excretion and reproduction.",
+          "text": "They respond to stimuli, remove waste by excretion, and reproduce to produce young of their own kind."
+        },
+        {
+          "lead": "Life span.",
+          "text": "Finally, every living thing is born, grows and eventually dies, completing a life cycle."
+        }
       ]
     },
     {
@@ -18,9 +30,56 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Stimulus and response.", "text": "A stimulus is a change in the surroundings that causes a living thing to react, and the reaction itself is the response. For example, the touch-me-not (Mimosa) plant folds its leaves when touched, our pupils narrow in bright light, and roots grow towards water." },
-        { "lead": "Why a car is not living.", "text": "A car moves, but movement is only one feature. Living things must show all the characteristics of life together — nutrition, respiration, growth, response, excretion and reproduction. A car does none of these on its own, so despite moving it is non-living." },
+        {
+          "lead": "Stimulus and response.",
+          "text": "A stimulus is a change in the surroundings that causes a living thing to react, and the reaction itself is the response. For example, the touch-me-not (Mimosa) plant folds its leaves when touched, our pupils narrow in bright light, and roots grow towards water."
+        },
+        {
+          "lead": "Why a car is not living.",
+          "text": "A car moves, but movement is only one feature. Living things must show all the characteristics of life together — nutrition, respiration, growth, response, excretion and reproduction. A car does none of these on its own, so despite moving it is non-living."
+        },
         "This is why a single feature such as motion cannot decide whether something is alive."
+      ]
+    },
+    {
+      "q": "How do living things differ from non-living things?",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "The world around us contains both living and non-living things, and they can be told apart by certain features shown only by living things.",
+        {
+          "lead": "Growth and food.",
+          "text": "Living things grow, increasing in size from within, and they need food to get energy for their life activities. Non-living things do not grow on their own and do not need food."
+        },
+        {
+          "lead": "Movement, respiration and response.",
+          "text": "Living things can move on their own, they breathe, or respire, and they respond to changes in their surroundings, called stimuli. Non-living things move only when an outside force acts on them and do not respire or respond."
+        },
+        {
+          "lead": "Reproduction and excretion.",
+          "text": "Living things reproduce, giving rise to young ones, and remove wastes from their bodies. Non-living things cannot reproduce."
+        },
+        "Thus living things grow, feed, respire, move, respond, reproduce and excrete, while non-living things do not."
+      ]
+    },
+    {
+      "q": "Why do living things need food, and what is meant by growth and reproduction?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Need for food.",
+          "text": "All living things need food to stay alive. Food gives them the energy to carry out their activities, such as moving, breathing and working, and it provides the materials the body needs to grow and to repair itself."
+        },
+        {
+          "lead": "Growth.",
+          "text": "Growth means an increase in the size of a living thing. Unlike a non-living object, a living thing grows from within, as a seed grows into a plant or a child into an adult, using the food it takes in."
+        },
+        {
+          "lead": "Reproduction.",
+          "text": "Reproduction is the process by which living things produce young ones of their own kind. Plants produce seeds that grow into new plants, and animals give birth to or lay eggs that develop into young ones. This keeps their kind from dying out."
+        },
+        "Thus living things need food for energy and growth, and they reproduce to continue their species."
       ]
     }
   ]

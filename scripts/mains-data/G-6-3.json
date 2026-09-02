@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Landforms are the natural features of the Earth's surface — chiefly mountains, plateaus and plains.",
-        { "lead": "Internal forces.", "text": "Forces acting inside the Earth push, fold and fracture the crust, raising mountains and plateaus over very long periods." },
-        { "lead": "External forces.", "text": "Forces acting on the surface — weathering and erosion by rivers, wind, glaciers and waves — wear down the land, while deposition lays material down elsewhere, building features such as plains." },
-        { "lead": "Two processes.", "text": "The wearing away of land is called erosion and the laying down of material is deposition; together, working over thousands of years, they shape and reshape the land." }
+        {
+          "lead": "Internal forces.",
+          "text": "Forces acting inside the Earth push, fold and fracture the crust, raising mountains and plateaus over very long periods."
+        },
+        {
+          "lead": "External forces.",
+          "text": "Forces acting on the surface — weathering and erosion by rivers, wind, glaciers and waves — wear down the land, while deposition lays material down elsewhere, building features such as plains."
+        },
+        {
+          "lead": "Two processes.",
+          "text": "The wearing away of land is called erosion and the laying down of material is deposition; together, working over thousands of years, they shape and reshape the land."
+        }
       ]
     },
     {
@@ -17,9 +26,18 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Mountains.", "text": "High, steep landforms rising well above the surrounding area, such as the Himalayas with Mount Everest, the world's highest peak. They may be fold, block or volcanic in origin and are sources of rivers." },
-        { "lead": "Plateaus.", "text": "Elevated highlands with a flat top — 'tablelands' — higher than the plains around them, such as the Deccan and the mineral-rich Chota Nagpur Plateau. They are storehouses of minerals and often have waterfalls." },
-        { "lead": "Plains.", "text": "Large stretches of flat, low land, usually very fertile, mostly formed by rivers depositing silt, like the Indo-Gangetic plains. They are the most densely populated and productive regions." }
+        {
+          "lead": "Mountains.",
+          "text": "High, steep landforms rising well above the surrounding area, such as the Himalayas with Mount Everest, the world's highest peak. They may be fold, block or volcanic in origin and are sources of rivers."
+        },
+        {
+          "lead": "Plateaus.",
+          "text": "Elevated highlands with a flat top — 'tablelands' — higher than the plains around them, such as the Deccan and the mineral-rich Chota Nagpur Plateau. They are storehouses of minerals and often have waterfalls."
+        },
+        {
+          "lead": "Plains.",
+          "text": "Large stretches of flat, low land, usually very fertile, mostly formed by rivers depositing silt, like the Indo-Gangetic plains. They are the most densely populated and productive regions."
+        }
       ]
     },
     {
@@ -28,10 +46,67 @@
       "word_limit": 150,
       "answer": [
         "Each landform offers different opportunities and challenges, so people live and work differently on each.",
-        { "lead": "Plains.", "text": "Being flat and fertile, plains support intensive farming, dense settlement and easy transport, which is why most people live there." },
-        { "lead": "Mountains.", "text": "Mountains are cold and steep with thin populations, but they supply rivers, forests and biodiversity and support tourism, though life and travel are hard." },
-        { "lead": "Plateaus.", "text": "Rich in minerals, plateaus support mining and industry, and their waterfalls can generate power." },
-        { "lead": "Responsibility.", "text": "People adapt their houses, clothing and livelihoods to each landform, and must use them responsibly, since over-use causes erosion, landslides and loss of forests." }
+        {
+          "lead": "Plains.",
+          "text": "Being flat and fertile, plains support intensive farming, dense settlement and easy transport, which is why most people live there."
+        },
+        {
+          "lead": "Mountains.",
+          "text": "Mountains are cold and steep with thin populations, but they supply rivers, forests and biodiversity and support tourism, though life and travel are hard."
+        },
+        {
+          "lead": "Plateaus.",
+          "text": "Rich in minerals, plateaus support mining and industry, and their waterfalls can generate power."
+        },
+        {
+          "lead": "Responsibility.",
+          "text": "People adapt their houses, clothing and livelihoods to each landform, and must use them responsibly, since over-use causes erosion, landslides and loss of forests."
+        }
+      ]
+    },
+    {
+      "q": "Describe the different types of mountains.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Mountains are landforms that rise high above the surrounding land, and they are of different types depending on how they were formed.",
+        {
+          "lead": "Fold mountains.",
+          "text": "Fold mountains are formed when the crust of the Earth is squeezed and its layers are folded upward into ridges. The Himalayas are young fold mountains, and they are the highest in the world."
+        },
+        {
+          "lead": "Block mountains.",
+          "text": "Block mountains are formed when large blocks of land are raised up or pushed down between cracks, called faults, in the Earth's crust, leaving raised blocks standing as mountains."
+        },
+        {
+          "lead": "Volcanic mountains.",
+          "text": "Volcanic mountains are formed by the piling up of lava and ash thrown out during volcanic eruptions."
+        },
+        "Thus mountains may be fold, block or volcanic, each formed by a different force acting on the Earth's crust."
+      ]
+    },
+    {
+      "q": "Why are plains the most suitable landform for human settlement?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What plains are.",
+          "text": "Plains are large stretches of flat or gently rolling land, usually not more than a couple of hundred metres above sea level. Many great plains, like the northern plains of India, are formed by the soil deposited by rivers."
+        },
+        {
+          "lead": "Fertile and easy to farm.",
+          "text": "Plains have deep, fertile soil that is excellent for growing crops, and their level surface makes ploughing and irrigation easy. This is why plains are the most productive farming regions."
+        },
+        {
+          "lead": "Easy to live and move in.",
+          "text": "The flat land also makes it easy to build houses, roads and railways and to move about. Rivers supply water for drinking and farming."
+        },
+        {
+          "lead": "Dense population.",
+          "text": "For these reasons, plains are the most densely populated parts of the world, with many villages, towns and cities."
+        },
+        "Thus their fertile soil, level surface and water make plains the most suitable landform for human settlement."
       ]
     }
   ]

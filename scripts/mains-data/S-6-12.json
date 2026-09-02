@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The solar system consists of the Sun and all the bodies that orbit it, including planets, moons, asteroids and comets.",
-        { "lead": "The Sun.", "text": "The Sun is a star at the centre, giving out its own light and heat; the planets shine only by reflecting its light." },
-        { "lead": "The eight planets.", "text": "In order of distance from the Sun they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune." },
-        { "lead": "Inner and outer planets.", "text": "The first four — Mercury, Venus, Earth and Mars — are small rocky planets. The next four — Jupiter, Saturn, Uranus and Neptune — are large gas giants. Jupiter is the largest planet and Mercury the smallest and nearest the Sun, with an asteroid belt between Mars and Jupiter." }
+        {
+          "lead": "The Sun.",
+          "text": "The Sun is a star at the centre, giving out its own light and heat; the planets shine only by reflecting its light."
+        },
+        {
+          "lead": "The eight planets.",
+          "text": "In order of distance from the Sun they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune."
+        },
+        {
+          "lead": "Inner and outer planets.",
+          "text": "The first four — Mercury, Venus, Earth and Mars — are small rocky planets. The next four — Jupiter, Saturn, Uranus and Neptune — are large gas giants. Jupiter is the largest planet and Mercury the smallest and nearest the Sun, with an asteroid belt between Mars and Jupiter."
+        }
       ]
     },
     {
@@ -17,9 +26,18 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "A unique planet.", "text": "Earth is the only planet known to support life, because it has the right temperature, liquid water and oxygen. Seen from space it looks blue, so it is called the Blue Planet." },
-        { "lead": "Day and night.", "text": "The Earth spins on its axis once in about 24 hours. This rotation means one half faces the Sun and has day, while the other half faces away and has night." },
-        { "lead": "Seasons.", "text": "The Earth also revolves around the Sun once in about 365¼ days. Because its axis is tilted, different parts receive the Sun's rays more directly at different times of the year, producing the seasons." }
+        {
+          "lead": "A unique planet.",
+          "text": "Earth is the only planet known to support life, because it has the right temperature, liquid water and oxygen. Seen from space it looks blue, so it is called the Blue Planet."
+        },
+        {
+          "lead": "Day and night.",
+          "text": "The Earth spins on its axis once in about 24 hours. This rotation means one half faces the Sun and has day, while the other half faces away and has night."
+        },
+        {
+          "lead": "Seasons.",
+          "text": "The Earth also revolves around the Sun once in about 365¼ days. Because its axis is tilted, different parts receive the Sun's rays more directly at different times of the year, producing the seasons."
+        }
       ]
     },
     {
@@ -27,9 +45,58 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Stars.", "text": "Stars are huge, very hot celestial bodies that give out their own light. The Sun is our nearest star. Groups of stars form patterns called constellations, such as Ursa Major (Saptarshi) and Orion." },
-        { "lead": "Planets.", "text": "Planets do not produce their own light; they shine by reflecting the light of the Sun, around which they orbit." },
-        { "lead": "The Moon.", "text": "The Moon is Earth's natural satellite. It has no light of its own and reflects sunlight, and its changing shapes through the month are called the phases of the Moon. It has no air or water, so footprints left on it remain undisturbed." }
+        {
+          "lead": "Stars.",
+          "text": "Stars are huge, very hot celestial bodies that give out their own light. The Sun is our nearest star. Groups of stars form patterns called constellations, such as Ursa Major (Saptarshi) and Orion."
+        },
+        {
+          "lead": "Planets.",
+          "text": "Planets do not produce their own light; they shine by reflecting the light of the Sun, around which they orbit."
+        },
+        {
+          "lead": "The Moon.",
+          "text": "The Moon is Earth's natural satellite. It has no light of its own and reflects sunlight, and its changing shapes through the month are called the phases of the Moon. It has no air or water, so footprints left on it remain undisturbed."
+        }
+      ]
+    },
+    {
+      "q": "What are constellations, and how have they been useful to people?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What constellations are.",
+          "text": "The night sky holds countless stars, and long ago people noticed that some groups of stars seemed to form patterns or shapes. Such a group of stars forming a recognisable pattern is called a constellation. Well-known examples are the Great Bear, or Saptarishi, and Orion."
+        },
+        {
+          "lead": "Useful for direction.",
+          "text": "Constellations have helped people find directions at night. By locating the Great Bear, one can find the Pole Star, which always lies in the north, and so know the directions, a great help to travellers and sailors before compasses."
+        },
+        {
+          "lead": "Useful for time and seasons.",
+          "text": "The changing positions of constellations through the year also helped people keep track of time and seasons for farming and festivals."
+        },
+        "Thus constellations are star patterns that have long helped people find directions and mark time."
+      ]
+    },
+    {
+      "q": "What is space exploration, and what are artificial satellites used for?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Space exploration.",
+          "text": "Space exploration is the study of outer space using telescopes, rockets, spacecraft and satellites. Rockets carry instruments and sometimes astronauts beyond the Earth to study the Moon, the planets and distant stars."
+        },
+        {
+          "lead": "Artificial satellites.",
+          "text": "An artificial satellite is a human-made object placed in orbit around the Earth. India has launched many such satellites."
+        },
+        {
+          "lead": "Their uses.",
+          "text": "Satellites are used for communication, carrying television, telephone and internet signals; for weather forecasting, by watching clouds and storms; for navigation, helping find locations; and for studying the Earth's resources and for research. They have become very useful in daily life."
+        },
+        "Thus space exploration studies the universe, and artificial satellites serve us through communication, weather forecasting, navigation and research."
       ]
     }
   ]
