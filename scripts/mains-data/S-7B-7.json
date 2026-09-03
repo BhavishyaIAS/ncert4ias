@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Heat always flows from a hotter body to a colder one, and it can be transferred in three ways.",
-        { "lead": "Conduction.", "text": "In conduction, heat passes through a solid from particle to particle by direct contact, without the material itself moving, as when a metal spoon in hot tea becomes hot along its length. Metals conduct well, while wood and plastic are poor conductors." },
-        { "lead": "Convection.", "text": "In convection, heat is carried by the actual movement of a liquid or gas: heated fluid rises and cooler fluid sinks, setting up convection currents, as in boiling water." },
-        { "lead": "Radiation.", "text": "In radiation, heat travels as rays without needing any medium, which is how the Sun's heat reaches the Earth across empty space." }
+        {
+          "lead": "Conduction.",
+          "text": "In conduction, heat passes through a solid from particle to particle by direct contact, without the material itself moving, as when a metal spoon in hot tea becomes hot along its length. Metals conduct well, while wood and plastic are poor conductors."
+        },
+        {
+          "lead": "Convection.",
+          "text": "In convection, heat is carried by the actual movement of a liquid or gas: heated fluid rises and cooler fluid sinks, setting up convection currents, as in boiling water."
+        },
+        {
+          "lead": "Radiation.",
+          "text": "In radiation, heat travels as rays without needing any medium, which is how the Sun's heat reaches the Earth across empty space."
+        }
       ]
     },
     {
@@ -18,9 +27,55 @@
       "word_limit": 150,
       "answer": [
         "Sea and land breezes are everyday examples of convection, arising because land and water heat and cool at different rates.",
-        { "lead": "Sea breeze.", "text": "During the day, the land heats up faster than the sea. The warm air over the land rises, and cooler air from over the sea moves in to take its place, giving a sea breeze that blows from sea to land." },
-        { "lead": "Land breeze.", "text": "At night, the land cools faster than the sea. Now the air over the sea is warmer and rises, and cooler air from the land moves out towards the sea, giving a land breeze that blows from land to sea." },
+        {
+          "lead": "Sea breeze.",
+          "text": "During the day, the land heats up faster than the sea. The warm air over the land rises, and cooler air from over the sea moves in to take its place, giving a sea breeze that blows from sea to land."
+        },
+        {
+          "lead": "Land breeze.",
+          "text": "At night, the land cools faster than the sea. Now the air over the sea is warmer and rises, and cooler air from the land moves out towards the sea, giving a land breeze that blows from land to sea."
+        },
         "In both cases, moving air carries heat, which is the essence of convection."
+      ]
+    },
+    {
+      "q": "Distinguish between conductors and insulators of heat, and give their uses.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Conductors of heat.",
+          "text": "Materials that allow heat to pass through them easily are conductors of heat. Metals such as iron, copper and aluminium are good conductors. They are used to make cooking pots and pans so that heat quickly reaches the food."
+        },
+        {
+          "lead": "Insulators of heat.",
+          "text": "Materials that do not allow heat to pass easily are insulators, or poor conductors. Wood, plastic, rubber, cloth and air are insulators. They are used to make the handles of pans and irons, so that we can hold them without burning our hands."
+        },
+        {
+          "lead": "Everyday examples.",
+          "text": "Woollen clothes keep us warm because wool traps air, a poor conductor, and prevents body heat from escaping."
+        },
+        "Thus conductors like metals pass heat easily and are used in cooking vessels, while insulators like wood and wool block heat and protect us."
+      ]
+    },
+    {
+      "q": "Why do we wear light-coloured clothes in summer and dark or woollen clothes in winter?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Colour and heat.",
+          "text": "Dark colours absorb more heat, while light colours reflect most of the heat that falls on them."
+        },
+        {
+          "lead": "Light clothes in summer.",
+          "text": "In summer we wear light-coloured, thin and loose cotton clothes. Light colours reflect the Sun's heat and keep us cooler, and cotton absorbs sweat, which then evaporates and cools the body, so we feel comfortable in the heat."
+        },
+        {
+          "lead": "Dark, woollen clothes in winter.",
+          "text": "In winter we wear dark-coloured, thick woollen clothes. Dark colours absorb heat and keep us warm. Wool is a poor conductor of heat and traps air between its fibres, which stops the heat of our body from escaping, keeping us warm."
+        },
+        "Thus light, cotton clothes reflect heat and cool us in summer, while dark, woollen clothes absorb and trap heat to keep us warm in winter."
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Human nutrition involves five steps — ingestion, digestion, absorption, assimilation and egestion — carried out by the digestive system.",
-        { "lead": "The journey.", "text": "Food is taken in through the mouth, where the teeth chew it and saliva begins to digest starch. It passes down the oesophagus to the stomach, which churns it and secretes acid and juices that digest proteins and kill germs." },
-        { "lead": "Absorption.", "text": "In the small intestine, digestion is completed with the help of bile from the liver and pancreatic juice, and nutrients are absorbed through finger-like villi into the blood." },
-        { "lead": "The end.", "text": "The large intestine absorbs water, and undigested waste is stored in the rectum and removed as faeces through the anus. The liver is the largest gland in the body." }
+        {
+          "lead": "The journey.",
+          "text": "Food is taken in through the mouth, where the teeth chew it and saliva begins to digest starch. It passes down the oesophagus to the stomach, which churns it and secretes acid and juices that digest proteins and kill germs."
+        },
+        {
+          "lead": "Absorption.",
+          "text": "In the small intestine, digestion is completed with the help of bile from the liver and pancreatic juice, and nutrients are absorbed through finger-like villi into the blood."
+        },
+        {
+          "lead": "The end.",
+          "text": "The large intestine absorbs water, and undigested waste is stored in the rectum and removed as faeces through the anus. The liver is the largest gland in the body."
+        }
       ]
     },
     {
@@ -17,9 +26,65 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Ruminants.", "text": "Animals such as cows, buffaloes and deer are ruminants. They quickly swallow grass into a part of the stomach called the rumen, where it is partly digested and stored as cud. Later they bring the cud back to the mouth and chew it slowly, a process called rumination. With the help of microbes, ruminants can digest cellulose, the tough material in grass, which humans cannot." },
-        { "lead": "Amoeba.", "text": "The amoeba is a tiny single-celled organism. It uses finger-like extensions called pseudopodia, or false feet, to surround and engulf its food, forming a food vacuole inside the cell where the food is digested." },
+        {
+          "lead": "Ruminants.",
+          "text": "Animals such as cows, buffaloes and deer are ruminants. They quickly swallow grass into a part of the stomach called the rumen, where it is partly digested and stored as cud. Later they bring the cud back to the mouth and chew it slowly, a process called rumination. With the help of microbes, ruminants can digest cellulose, the tough material in grass, which humans cannot."
+        },
+        {
+          "lead": "Amoeba.",
+          "text": "The amoeba is a tiny single-celled organism. It uses finger-like extensions called pseudopodia, or false feet, to surround and engulf its food, forming a food vacuole inside the cell where the food is digested."
+        },
         "Thus even very different animals have their own ways of taking in and breaking down food."
+      ]
+    },
+    {
+      "q": "Describe the different types of teeth in humans and their functions.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Human beings have different kinds of teeth, each shaped for a special job in breaking down food.",
+        {
+          "lead": "Incisors.",
+          "text": "The incisors are the sharp, flat teeth at the front of the mouth. They are used for biting and cutting food."
+        },
+        {
+          "lead": "Canines.",
+          "text": "Next to the incisors are the pointed canine teeth, used for tearing and piercing food."
+        },
+        {
+          "lead": "Premolars and molars.",
+          "text": "Behind them lie the premolars and the broad molars at the back, which have flat surfaces used for grinding and chewing the food into a paste."
+        },
+        {
+          "lead": "Milk and permanent teeth.",
+          "text": "In childhood we have a set of twenty milk teeth, which fall out and are replaced by thirty-two permanent teeth. Teeth must be cleaned regularly to prevent decay."
+        },
+        "Thus incisors cut, canines tear, and premolars and molars grind, so that together the teeth prepare food for digestion."
+      ]
+    },
+    {
+      "q": "What are the main steps of nutrition in animals?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        "Nutrition in animals takes place in several steps as food is taken in and used by the body.",
+        {
+          "lead": "Ingestion.",
+          "text": "The first step is ingestion, the taking in of food through the mouth."
+        },
+        {
+          "lead": "Digestion.",
+          "text": "This is followed by digestion, in which the food is broken down into simpler, soluble substances that the body can use, with the help of digestive juices."
+        },
+        {
+          "lead": "Absorption and assimilation.",
+          "text": "Next comes absorption, in which the digested food passes through the walls of the intestine into the blood, and then assimilation, in which the absorbed food is used by the body cells for energy, growth and repair."
+        },
+        {
+          "lead": "Egestion.",
+          "text": "Finally, in egestion, the undigested waste is removed from the body."
+        },
+        "Thus nutrition in animals involves ingestion, digestion, absorption, assimilation and egestion of food."
       ]
     }
   ]

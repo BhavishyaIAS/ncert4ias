@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "An electric circuit is a closed path along which electric current can flow. Current flows only when the path is complete; if there is a break anywhere, the current stops.",
-        { "lead": "Main components.", "text": "A simple circuit has a source of electricity — an electric cell or a battery of cells, each with a positive and a negative terminal; connecting wires; a switch, or key, that completes or breaks the path; and a device such as a bulb." },
-        { "lead": "Circuit diagrams.", "text": "Circuits are drawn using standard symbols for the cell, battery, switch, bulb and wires, so that they can be understood easily." },
-        { "lead": "Working.", "text": "When the switch is closed, the circuit is complete and the bulb glows; when it is open, the circuit is broken and the bulb goes off." }
+        {
+          "lead": "Main components.",
+          "text": "A simple circuit has a source of electricity — an electric cell or a battery of cells, each with a positive and a negative terminal; connecting wires; a switch, or key, that completes or breaks the path; and a device such as a bulb."
+        },
+        {
+          "lead": "Circuit diagrams.",
+          "text": "Circuits are drawn using standard symbols for the cell, battery, switch, bulb and wires, so that they can be understood easily."
+        },
+        {
+          "lead": "Working.",
+          "text": "When the switch is closed, the circuit is complete and the bulb glows; when it is open, the circuit is broken and the bulb goes off."
+        }
       ]
     },
     {
@@ -17,8 +26,50 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Conductors and insulators.", "text": "Conductors allow electric current to pass through them; these include metals such as copper and aluminium, and graphite. Insulators do not allow current to pass; these include plastic, rubber, wood and glass. This is why wires are made of a metal conductor covered with a plastic insulator for safety." },
-        { "lead": "Safety.", "text": "Electricity must be handled with care. One should never touch switches or appliances with wet hands, since a wet body conducts electricity, and should never experiment with the high-voltage mains supply, which can be fatal. Fuses and switches help protect circuits from short circuits and overloads that could cause fire." }
+        {
+          "lead": "Conductors and insulators.",
+          "text": "Conductors allow electric current to pass through them; these include metals such as copper and aluminium, and graphite. Insulators do not allow current to pass; these include plastic, rubber, wood and glass. This is why wires are made of a metal conductor covered with a plastic insulator for safety."
+        },
+        {
+          "lead": "Safety.",
+          "text": "Electricity must be handled with care. One should never touch switches or appliances with wet hands, since a wet body conducts electricity, and should never experiment with the high-voltage mains supply, which can be fatal. Fuses and switches help protect circuits from short circuits and overloads that could cause fire."
+        }
+      ]
+    },
+    {
+      "q": "How does an electric cell provide current, and how is a battery made?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The electric cell.",
+          "text": "An electric cell is a device that supplies electric current. It stores chemical energy and changes it into electrical energy. A cell has two ends, or terminals, a positive terminal and a negative terminal, and current flows when the terminals are connected in a complete circuit."
+        },
+        {
+          "lead": "How the cell drives current.",
+          "text": "The chemicals inside the cell push the current from the positive terminal, through the circuit, and back to the negative terminal, lighting a bulb or running a device. In time the chemicals are used up and the cell stops working."
+        },
+        {
+          "lead": "Making a battery.",
+          "text": "When two or more cells are joined together, positive terminal to negative terminal, they form a battery, which gives a larger current or voltage than a single cell."
+        },
+        "Thus a cell changes chemical energy into electrical energy to drive current, and several cells joined together make a battery."
+      ]
+    },
+    {
+      "q": "What are the heating and magnetic effects of an electric current?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The heating effect.",
+          "text": "When an electric current passes through a wire, the wire becomes hot. This is called the heating effect of current. It is greater in wires that oppose the current strongly. This effect is used in electric heaters, irons, geysers, toasters and the filament of an electric bulb, which glows white-hot and gives light. An electric fuse also works on this effect, melting to break the circuit when the current is too large."
+        },
+        {
+          "lead": "The magnetic effect.",
+          "text": "When current flows through a coil of wire, the coil behaves like a magnet. This is the magnetic effect of current. A coil wound on an iron piece becomes a strong electromagnet when current flows and loses its magnetism when the current stops. This effect is used in electric bells, motors and many machines."
+        },
+        "Thus an electric current produces heat in a wire and turns a coil into a magnet, effects used in many everyday appliances."
       ]
     }
   ]

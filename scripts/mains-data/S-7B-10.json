@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Like animals, plants carry out life processes to stay alive, but as autotrophs they make their own food.",
-        { "lead": "Nutrition.", "text": "In photosynthesis, the leaves combine carbon dioxide and water, using sunlight and the green pigment chlorophyll, to make glucose and release oxygen. Gases pass through tiny pores called stomata, and food is stored as starch." },
-        { "lead": "Transport.", "text": "Roots absorb water and minerals, which the xylem carries upward to the leaves, while the phloem carries the food made in the leaves to all parts of the plant." },
-        { "lead": "Respiration and transpiration.", "text": "Plants respire day and night, taking in oxygen and releasing carbon dioxide, and they lose water vapour from the leaves through transpiration, which cools the plant and helps draw water up." }
+        {
+          "lead": "Nutrition.",
+          "text": "In photosynthesis, the leaves combine carbon dioxide and water, using sunlight and the green pigment chlorophyll, to make glucose and release oxygen. Gases pass through tiny pores called stomata, and food is stored as starch."
+        },
+        {
+          "lead": "Transport.",
+          "text": "Roots absorb water and minerals, which the xylem carries upward to the leaves, while the phloem carries the food made in the leaves to all parts of the plant."
+        },
+        {
+          "lead": "Respiration and transpiration.",
+          "text": "Plants respire day and night, taking in oxygen and releasing carbon dioxide, and they lose water vapour from the leaves through transpiration, which cools the plant and helps draw water up."
+        }
       ]
     },
     {
@@ -18,9 +27,54 @@
       "word_limit": 150,
       "answer": [
         "Plants have two conducting tissues that move water and food to every part.",
-        { "lead": "Water transport.", "text": "Roots, with their fine root hairs, absorb water and dissolved minerals from the soil. The xylem then carries this water and minerals upward through the stem to the leaves." },
-        { "lead": "Food transport.", "text": "The phloem carries the food made in the leaves during photosynthesis to all other parts of the plant, including the roots and growing tips." },
-        { "lead": "Driving force.", "text": "Water rises to great heights through the combined effect of root pressure and the transpiration pull created when water evaporates from the leaves. In this way the plant keeps every cell supplied with water and food." }
+        {
+          "lead": "Water transport.",
+          "text": "Roots, with their fine root hairs, absorb water and dissolved minerals from the soil. The xylem then carries this water and minerals upward through the stem to the leaves."
+        },
+        {
+          "lead": "Food transport.",
+          "text": "The phloem carries the food made in the leaves during photosynthesis to all other parts of the plant, including the roots and growing tips."
+        },
+        {
+          "lead": "Driving force.",
+          "text": "Water rises to great heights through the combined effect of root pressure and the transpiration pull created when water evaporates from the leaves. In this way the plant keeps every cell supplied with water and food."
+        }
+      ]
+    },
+    {
+      "q": "What is photosynthesis, and why is it important for all living things?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What photosynthesis is.",
+          "text": "Photosynthesis is the process by which green plants make their own food. Using carbon dioxide from the air and water from the soil, and with the help of sunlight and the green pigment chlorophyll in their leaves, plants prepare a sugar, which is food, and release oxygen."
+        },
+        {
+          "lead": "Importance for life.",
+          "text": "Photosynthesis is important for all living things for two reasons. First, plants are the producers of food, and all animals depend, directly or indirectly, on plants for their food. Second, photosynthesis releases oxygen into the air, which almost all living things need for breathing, and it uses up carbon dioxide, keeping the air fit to breathe."
+        },
+        "Thus photosynthesis is vital because it makes the food and produces the oxygen on which nearly all life on Earth depends."
+      ]
+    },
+    {
+      "q": "What is transpiration, and how is it useful to a plant?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What transpiration is.",
+          "text": "Transpiration is the loss of water, in the form of water vapour, from the leaves and other aerial parts of a plant. It takes place mainly through tiny pores on the leaves called stomata."
+        },
+        {
+          "lead": "How it helps the plant.",
+          "text": "Transpiration is useful in several ways. It helps to pull water and dissolved minerals upward from the roots to the leaves, creating a suction that draws water up the stem. It also cools the plant on a hot day, much as sweating cools our bodies, by carrying away heat as the water evaporates."
+        },
+        {
+          "lead": "Part of the water cycle.",
+          "text": "The water vapour given out also adds moisture to the air and takes part in the water cycle."
+        },
+        "Thus transpiration is the loss of water vapour from leaves, which helps draw water up the plant and keeps it cool."
       ]
     }
   ]

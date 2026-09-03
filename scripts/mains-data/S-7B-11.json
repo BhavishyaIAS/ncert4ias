@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Light travels in a straight line, and shadows are clear evidence of this.",
-        { "lead": "Forming a shadow.", "text": "A shadow forms when an opaque object comes in the path of light and blocks it. Three things are needed: a source of light, an opaque object, and a screen on which the shadow falls." },
-        { "lead": "Why it proves straight-line travel.", "text": "Because light cannot bend around the object, the region behind it receives no light and appears dark. The shadow always takes the outline, or shape, of the object, not its colour, and its size changes with the object's distance from the source and screen." },
-        { "lead": "Pinhole camera.", "text": "A pinhole camera forms an inverted image of an object for the same reason — light travels straight through the tiny hole." }
+        {
+          "lead": "Forming a shadow.",
+          "text": "A shadow forms when an opaque object comes in the path of light and blocks it. Three things are needed: a source of light, an opaque object, and a screen on which the shadow falls."
+        },
+        {
+          "lead": "Why it proves straight-line travel.",
+          "text": "Because light cannot bend around the object, the region behind it receives no light and appears dark. The shadow always takes the outline, or shape, of the object, not its colour, and its size changes with the object's distance from the source and screen."
+        },
+        {
+          "lead": "Pinhole camera.",
+          "text": "A pinhole camera forms an inverted image of an object for the same reason — light travels straight through the tiny hole."
+        }
       ]
     },
     {
@@ -18,8 +27,55 @@
       "word_limit": 150,
       "answer": [
         "Reflection is the bouncing back of light from a shiny surface, and a plane mirror forms a clear image by reflection.",
-        { "lead": "The image.", "text": "The image in a plane mirror is virtual, meaning it cannot be caught on a screen; it is erect, or the same way up; it is the same size as the object; and it appears as far behind the mirror as the object is in front of it." },
-        { "lead": "Lateral inversion.", "text": "The image is also laterally inverted, which means the left and right sides are exchanged — your right hand appears as the left hand of your image. This is why the word AMBULANCE is written in reverse on the front of the vehicle, so that it reads correctly in the mirror of the vehicle ahead." }
+        {
+          "lead": "The image.",
+          "text": "The image in a plane mirror is virtual, meaning it cannot be caught on a screen; it is erect, or the same way up; it is the same size as the object; and it appears as far behind the mirror as the object is in front of it."
+        },
+        {
+          "lead": "Lateral inversion.",
+          "text": "The image is also laterally inverted, which means the left and right sides are exchanged — your right hand appears as the left hand of your image. This is why the word AMBULANCE is written in reverse on the front of the vehicle, so that it reads correctly in the mirror of the vehicle ahead."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between transparent, translucent and opaque objects, and relate this to shadows.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "Objects can be grouped by how much light passes through them, into transparent, translucent and opaque.",
+        {
+          "lead": "Transparent objects.",
+          "text": "Transparent objects allow almost all light to pass through, so we can see clearly through them, as through clear glass or water. They do not form a distinct shadow."
+        },
+        {
+          "lead": "Translucent objects.",
+          "text": "Translucent objects allow only some light to pass through, so we see through them dimly, as through oiled paper or frosted glass. They cast a faint shadow."
+        },
+        {
+          "lead": "Opaque objects.",
+          "text": "Opaque objects do not allow any light to pass through, such as wood, metal or a book. Because light cannot pass through them, they block it and cast clear, dark shadows."
+        },
+        "Thus opaque objects, which stop light, form clear shadows, while transparent objects let light through and form no shadow, showing that light travels in straight lines."
+      ]
+    },
+    {
+      "q": "How is an image formed in a pinhole camera, and what does it tell us about light?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The pinhole camera.",
+          "text": "A pinhole camera is a simple device made of a box with a tiny hole on one side and a screen of tracing paper on the opposite side."
+        },
+        {
+          "lead": "How the image forms.",
+          "text": "Light coming from the top of a brightly lit object passes in a straight line through the pinhole and reaches the lower part of the screen, while light from the bottom reaches the upper part. As a result, an image of the object is formed on the screen that is upside down, or inverted."
+        },
+        {
+          "lead": "What it shows.",
+          "text": "Because the rays cross over at the pinhole and form an inverted image, the pinhole camera shows clearly that light travels in straight lines."
+        },
+        "Thus a pinhole camera forms an inverted image of an object, proving that light travels in straight lines."
       ]
     }
   ]

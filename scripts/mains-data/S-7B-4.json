@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Materials are grouped into metals and non-metals on the basis of their properties.",
-        { "lead": "Metals.", "text": "Metals are usually lustrous, or shiny, hard, malleable so they can be beaten into sheets, and ductile so they can be drawn into wires. They are good conductors of heat and electricity, are sonorous, giving a ringing sound, and are generally solid — the exception being mercury, which is a liquid." },
-        { "lead": "Non-metals.", "text": "Non-metals are generally dull, brittle so they break or crumble easily, and are neither malleable nor ductile. They are poor conductors of heat and electricity, though graphite is an exception, and they may be solid, liquid or gas." },
+        {
+          "lead": "Metals.",
+          "text": "Metals are usually lustrous, or shiny, hard, malleable so they can be beaten into sheets, and ductile so they can be drawn into wires. They are good conductors of heat and electricity, are sonorous, giving a ringing sound, and are generally solid — the exception being mercury, which is a liquid."
+        },
+        {
+          "lead": "Non-metals.",
+          "text": "Non-metals are generally dull, brittle so they break or crumble easily, and are neither malleable nor ductile. They are poor conductors of heat and electricity, though graphite is an exception, and they may be solid, liquid or gas."
+        },
         "These contrasting properties decide how each is used."
       ]
     },
@@ -17,9 +23,55 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Reaction with oxygen.", "text": "When metals combine with oxygen they form basic oxides, such as magnesium oxide and iron oxide, which turn red litmus blue. When non-metals combine with oxygen they form acidic oxides, such as carbon dioxide and sulphur dioxide, which turn blue litmus red." },
-        { "lead": "Reaction with acids.", "text": "Most metals react with acids to release hydrogen gas, whereas non-metals generally do not react with acids in this way." },
-        { "lead": "Note.", "text": "Some metals also react with water; sodium, for instance, reacts vigorously. These chemical differences, together with their physical properties, mark the clear distinction between metals and non-metals." }
+        {
+          "lead": "Reaction with oxygen.",
+          "text": "When metals combine with oxygen they form basic oxides, such as magnesium oxide and iron oxide, which turn red litmus blue. When non-metals combine with oxygen they form acidic oxides, such as carbon dioxide and sulphur dioxide, which turn blue litmus red."
+        },
+        {
+          "lead": "Reaction with acids.",
+          "text": "Most metals react with acids to release hydrogen gas, whereas non-metals generally do not react with acids in this way."
+        },
+        {
+          "lead": "Note.",
+          "text": "Some metals also react with water; sodium, for instance, reacts vigorously. These chemical differences, together with their physical properties, mark the clear distinction between metals and non-metals."
+        }
+      ]
+    },
+    {
+      "q": "What are the main uses of some common metals and non-metals?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        "Metals and non-metals are used in countless ways because of their special properties.",
+        {
+          "lead": "Uses of metals.",
+          "text": "Iron and its alloy steel, being strong, are used to build bridges, machines, vehicles, tools and buildings. Copper and aluminium, being good conductors, are used for electrical wires and cooking vessels. Gold and silver, being shiny and lasting, are used for ornaments and coins, and aluminium foil is used to wrap food."
+        },
+        {
+          "lead": "Uses of non-metals.",
+          "text": "Oxygen is needed for breathing and burning. Nitrogen is used to make fertilisers. Carbon, as graphite, is used in pencils, and coal is used as fuel. Iodine is used as a medicine, and chlorine is used to purify water."
+        },
+        "Thus metals are used where strength and conductivity are needed, and non-metals for breathing, fuels, fertilisers and medicines, each according to its properties."
+      ]
+    },
+    {
+      "q": "Why do metals conduct heat and electricity and appear shiny, while most non-metals do not?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Properties of metals.",
+          "text": "Metals share several physical properties. They are good conductors of heat and electricity, they have a shine, called metallic lustre, they can be beaten into thin sheets, a property called malleability, and drawn into wires, called ductility, and they make a ringing sound, being sonorous."
+        },
+        {
+          "lead": "Properties of non-metals.",
+          "text": "Most non-metals are the opposite. They are poor conductors of heat and electricity, they are usually dull rather than shiny, and in the solid state they are generally brittle, breaking into pieces when hammered rather than bending."
+        },
+        {
+          "lead": "Some exceptions.",
+          "text": "There are exceptions; for example, graphite, a non-metal, conducts electricity, and iodine has a shine."
+        },
+        "Thus metals conduct, shine and can be shaped, while most non-metals are poor conductors, dull and brittle, though a few exceptions exist."
       ]
     }
   ]

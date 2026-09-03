@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Sewage is the wastewater released from homes, industries and farms. It is a liquid waste that carries contaminants — organic matter, chemicals and disease-causing microbes.",
-        { "lead": "Cleaning the water.", "text": "Sewage is cleaned at a wastewater treatment plant before being returned to rivers or soil. First, bar screens remove large objects such as rags and cans, and grit and sand are allowed to settle out." },
-        { "lead": "Settling and aeration.", "text": "In a sedimentation tank, solids settle to the bottom as sludge, while skimmers remove floating oil and grease. Air is then passed through the water so that helpful bacteria decompose the remaining organic matter." },
-        { "lead": "Disinfection.", "text": "Finally the water is disinfected, often with chlorine or ozone, and released. The sludge can be used as manure or to produce biogas." }
+        {
+          "lead": "Cleaning the water.",
+          "text": "Sewage is cleaned at a wastewater treatment plant before being returned to rivers or soil. First, bar screens remove large objects such as rags and cans, and grit and sand are allowed to settle out."
+        },
+        {
+          "lead": "Settling and aeration.",
+          "text": "In a sedimentation tank, solids settle to the bottom as sludge, while skimmers remove floating oil and grease. Air is then passed through the water so that helpful bacteria decompose the remaining organic matter."
+        },
+        {
+          "lead": "Disinfection.",
+          "text": "Finally the water is disinfected, often with chlorine or ozone, and released. The sludge can be used as manure or to produce biogas."
+        }
       ]
     },
     {
@@ -18,9 +27,58 @@
       "word_limit": 150,
       "answer": [
         "Proper sanitation is vital because untreated sewage and poor hygiene spread serious diseases.",
-        { "lead": "Health risks.", "text": "When sewage mixes with drinking water or is left in the open, disease-causing microbes spread illnesses such as cholera, typhoid, dysentery and hepatitis, which can affect whole communities." },
-        { "lead": "Improving sanitation.", "text": "Sanitation can be improved by building covered drains, toilets and sewage treatment plants. Low-cost options such as twin-pit toilets, septic tanks and biogas plants help in villages, and national programmes like the Swachh Bharat Mission promote clean surroundings." },
-        { "lead": "Our role.", "text": "People should not throw oils, chemicals or solid waste into drains, as these clog pipes and disturb treatment." }
+        {
+          "lead": "Health risks.",
+          "text": "When sewage mixes with drinking water or is left in the open, disease-causing microbes spread illnesses such as cholera, typhoid, dysentery and hepatitis, which can affect whole communities."
+        },
+        {
+          "lead": "Improving sanitation.",
+          "text": "Sanitation can be improved by building covered drains, toilets and sewage treatment plants. Low-cost options such as twin-pit toilets, septic tanks and biogas plants help in villages, and national programmes like the Swachh Bharat Mission promote clean surroundings."
+        },
+        {
+          "lead": "Our role.",
+          "text": "People should not throw oils, chemicals or solid waste into drains, as these clog pipes and disturb treatment."
+        }
+      ]
+    },
+    {
+      "q": "What is wastewater, and what does it contain?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What wastewater is.",
+          "text": "The water that has been used and made dirty in homes, farms and industries is called wastewater. When this used water carries human and household wastes, it is known as sewage."
+        },
+        {
+          "lead": "What it contains.",
+          "text": "Wastewater contains many impurities. There are suspended solids like bits of soil and rubbish, dissolved substances such as salts, and harmful chemicals from soaps, detergents, and industrial and farm wastes. Most importantly, sewage contains organic matter and a large number of disease-causing germs, or pathogens."
+        },
+        {
+          "lead": "Why it must be treated.",
+          "text": "Because of these harmful impurities, wastewater cannot be released into rivers or the ground as it is, for it would pollute them and spread disease. It must first be cleaned in a treatment plant."
+        },
+        "Thus wastewater, or sewage, is used, dirty water containing solids, dissolved substances, chemicals and germs, which must be treated before disposal."
+      ]
+    },
+    {
+      "q": "What good housekeeping practices can reduce wastewater and its harmful effects?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Better habits at home.",
+          "text": "Much can be done at the household level to reduce wastewater and pollution. We should not throw cooking oil and fats down the drain, as they harden and block the pipes; they should be disposed of as solid waste."
+        },
+        {
+          "lead": "Keeping harmful things out of drains.",
+          "text": "Chemicals such as paints, medicines and used oils should not be poured into drains, since they kill the helpful microbes that clean the water and pollute it further. Solid wastes like tea leaves, food scraps, cotton and other rubbish should be thrown in dustbins, not into sinks and drains."
+        },
+        {
+          "lead": "Saving water.",
+          "text": "Using water carefully and mending leaks reduces the amount of wastewater produced."
+        },
+        "Thus simple good housekeeping, keeping oils, chemicals and solids out of drains and saving water, reduces wastewater and helps keep it clean."
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "When an electric current flows through a wire, the wire becomes hot. This is called the heating effect of current.",
-        { "lead": "How it works.", "text": "The greater the resistance of the wire, the more heat is produced for a given current. Appliances that need to produce heat use a special high-resistance wire, often made of nichrome." },
-        { "lead": "Uses.", "text": "The heating effect is used in electric heaters, irons, geysers and toasters. In an electric bulb, current heats a thin tungsten filament until it glows and gives light." },
-        { "lead": "The fuse.", "text": "The same effect makes the electric fuse a safety device: a thin wire in the fuse melts and breaks the circuit if too much current flows, preventing wires from overheating and causing fire." }
+        {
+          "lead": "How it works.",
+          "text": "The greater the resistance of the wire, the more heat is produced for a given current. Appliances that need to produce heat use a special high-resistance wire, often made of nichrome."
+        },
+        {
+          "lead": "Uses.",
+          "text": "The heating effect is used in electric heaters, irons, geysers and toasters. In an electric bulb, current heats a thin tungsten filament until it glows and gives light."
+        },
+        {
+          "lead": "The fuse.",
+          "text": "The same effect makes the electric fuse a safety device: a thin wire in the fuse melts and breaks the circuit if too much current flows, preventing wires from overheating and causing fire."
+        }
       ]
     },
     {
@@ -18,9 +27,55 @@
       "word_limit": 150,
       "answer": [
         "A wire carrying an electric current behaves like a magnet; this is called the magnetic effect of current, first shown by Oersted, who saw a compass needle deflect near a current-carrying wire.",
-        { "lead": "The electromagnet.", "text": "An electromagnet is made by winding a coil of insulated wire around a piece of iron, called the core. When current flows through the coil, the iron becomes a strong magnet, and when the current is switched off, it loses its magnetism." },
-        { "lead": "Advantages and uses.", "text": "Because it can be switched on and off and made very strong, the electromagnet is used in cranes to lift iron, and in electric bells, motors and loudspeakers." },
+        {
+          "lead": "The electromagnet.",
+          "text": "An electromagnet is made by winding a coil of insulated wire around a piece of iron, called the core. When current flows through the coil, the iron becomes a strong magnet, and when the current is switched off, it loses its magnetism."
+        },
+        {
+          "lead": "Advantages and uses.",
+          "text": "Because it can be switched on and off and made very strong, the electromagnet is used in cranes to lift iron, and in electric bells, motors and loudspeakers."
+        },
         "Thus electricity and magnetism are closely linked."
+      ]
+    },
+    {
+      "q": "What is an electric circuit, and what do its common symbols represent?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "An electric circuit.",
+          "text": "An electric circuit is a complete path along which electric current can flow. It usually consists of a cell or battery, connecting wires, a switch and a device such as a bulb. Current flows only when the circuit is complete and the switch is on; if there is a break, the current stops."
+        },
+        {
+          "lead": "Circuit symbols.",
+          "text": "To draw circuits easily, we use standard symbols instead of pictures. A cell is shown by a long and a short line, a battery by two or more cells joined together, a bulb by a small circle with a cross, and a switch by a small gap with a lever that can be open or closed."
+        },
+        {
+          "lead": "Circuit diagrams.",
+          "text": "A drawing made with such symbols is called a circuit diagram."
+        },
+        "Thus an electric circuit is a complete path for current, and standard symbols are used to represent its parts in a circuit diagram."
+      ]
+    },
+    {
+      "q": "How does an electric bell work?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Based on the electromagnet.",
+          "text": "An electric bell works using the magnetic effect of an electric current, that is, using an electromagnet, a coil that becomes a magnet when current flows through it."
+        },
+        {
+          "lead": "How it rings.",
+          "text": "When the circuit is switched on, current flows through the coil and turns it into a magnet. This electromagnet attracts an iron strip, and the hammer fixed to the strip strikes the gong, producing a sound. As the strip moves, it breaks the circuit at a contact point, so the current stops and the electromagnet loses its magnetism."
+        },
+        {
+          "lead": "Repeating action.",
+          "text": "The strip then springs back, the circuit is completed again, and the process repeats rapidly, making the hammer strike the gong again and again, so the bell rings continuously."
+        },
+        "Thus an electric bell rings because an electromagnet repeatedly attracts and releases the hammer, which strikes the gong."
       ]
     }
   ]

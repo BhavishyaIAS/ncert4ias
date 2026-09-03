@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "A forest is a self-sustaining ecosystem of trees, plants, animals and microbes, and it is called our lifeline because life depends on it in many ways.",
-        { "lead": "Air and climate.", "text": "Forests maintain the balance of oxygen and carbon dioxide, releasing oxygen and absorbing carbon dioxide, and so are often called the green lungs of the Earth. They also influence rainfall and climate." },
-        { "lead": "Water and soil.", "text": "Their roots hold the soil and prevent erosion, and the canopy slows the rain, helping to conserve water and prevent floods." },
-        { "lead": "Resources and homes.", "text": "Forests provide oxygen, food, timber, medicines and homes for countless species, making them vital to the balance of nature." }
+        {
+          "lead": "Air and climate.",
+          "text": "Forests maintain the balance of oxygen and carbon dioxide, releasing oxygen and absorbing carbon dioxide, and so are often called the green lungs of the Earth. They also influence rainfall and climate."
+        },
+        {
+          "lead": "Water and soil.",
+          "text": "Their roots hold the soil and prevent erosion, and the canopy slows the rain, helping to conserve water and prevent floods."
+        },
+        {
+          "lead": "Resources and homes.",
+          "text": "Forests provide oxygen, food, timber, medicines and homes for countless species, making them vital to the balance of nature."
+        }
       ]
     },
     {
@@ -18,9 +27,58 @@
       "word_limit": 150,
       "answer": [
         "In a forest, living things are linked together so that energy and nutrients keep flowing and are never wasted.",
-        { "lead": "Food chains.", "text": "Green plants are the producers, making food by photosynthesis. Animals are consumers — herbivores such as deer eat plants, and carnivores such as tigers eat herbivores — forming food chains like grass to deer to tiger, which interlink into a food web." },
-        { "lead": "Decomposers.", "text": "When plants and animals die, decomposers such as fungi and microbes break down their remains into humus, a dark substance that enriches the soil." },
-        { "lead": "Recycling.", "text": "The nutrients returned to the soil are used again by plants, so the forest continuously recycles its materials and renews itself." }
+        {
+          "lead": "Food chains.",
+          "text": "Green plants are the producers, making food by photosynthesis. Animals are consumers — herbivores such as deer eat plants, and carnivores such as tigers eat herbivores — forming food chains like grass to deer to tiger, which interlink into a food web."
+        },
+        {
+          "lead": "Decomposers.",
+          "text": "When plants and animals die, decomposers such as fungi and microbes break down their remains into humus, a dark substance that enriches the soil."
+        },
+        {
+          "lead": "Recycling.",
+          "text": "The nutrients returned to the soil are used again by plants, so the forest continuously recycles its materials and renews itself."
+        }
+      ]
+    },
+    {
+      "q": "How are the plants and animals of a forest interdependent?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A web of life.",
+          "text": "In a forest, plants and animals depend on one another so closely that the forest works as a single system."
+        },
+        {
+          "lead": "Plants support animals.",
+          "text": "The green plants are the producers, making food by photosynthesis. Animals depend on them, since herbivores eat the plants and carnivores eat the herbivores, forming food chains. Plants also give animals shelter, and they release the oxygen that animals breathe."
+        },
+        {
+          "lead": "Animals help plants.",
+          "text": "In turn, animals help the plants. They pollinate flowers and disperse seeds, helping new plants grow. Their droppings and dead bodies, broken down by decomposers such as fungi and bacteria, return nutrients to the soil, which the plants take up again."
+        },
+        "Thus plants feed and shelter animals, while animals help plants reproduce and enrich the soil, so the two are closely interdependent."
+      ]
+    },
+    {
+      "q": "Why must forests be protected, and how can this be done?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Why forests matter.",
+          "text": "Forests are vital because they give out oxygen and absorb carbon dioxide, purify the air, bring rain, and prevent soil erosion and floods. They are the home of countless plants and animals and provide wood, medicines and other products, which is why the forest is called our lifeline."
+        },
+        {
+          "lead": "The threat.",
+          "text": "Forests are being destroyed by the cutting of trees for timber, farming and building, and this harms wildlife, the soil and the climate."
+        },
+        {
+          "lead": "How to protect them.",
+          "text": "Forests can be protected by preventing needless felling, by planting more trees, by setting up protected areas, and by making people aware of their value so that all help to conserve them."
+        },
+        "Thus forests must be protected for the air, water, soil and wildlife they sustain, chiefly by preventing deforestation and by afforestation."
       ]
     }
   ]

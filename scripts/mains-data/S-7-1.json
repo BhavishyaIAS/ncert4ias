@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Photosynthesis is the process by which green plants make their own food, which is why they are called autotrophs.",
-        { "lead": "The process.", "text": "In the leaves, carbon dioxide from the air and water from the soil are combined, using the energy of sunlight captured by the green pigment chlorophyll, to make glucose. Oxygen is released as a by-product. In short: carbon dioxide and water, in the presence of chlorophyll and sunlight, form glucose and oxygen." },
-        { "lead": "Conditions.", "text": "It needs sunlight, chlorophyll, carbon dioxide and water. Gases enter and leave through tiny pores called stomata, and the leaf is often called the food factory of the plant." },
-        { "lead": "Storage.", "text": "Extra food is stored as starch, and leaves also make proteins using nitrogen from the soil." }
+        {
+          "lead": "The process.",
+          "text": "In the leaves, carbon dioxide from the air and water from the soil are combined, using the energy of sunlight captured by the green pigment chlorophyll, to make glucose. Oxygen is released as a by-product. In short: carbon dioxide and water, in the presence of chlorophyll and sunlight, form glucose and oxygen."
+        },
+        {
+          "lead": "Conditions.",
+          "text": "It needs sunlight, chlorophyll, carbon dioxide and water. Gases enter and leave through tiny pores called stomata, and the leaf is often called the food factory of the plant."
+        },
+        {
+          "lead": "Storage.",
+          "text": "Extra food is stored as starch, and leaves also make proteins using nitrogen from the soil."
+        }
       ]
     },
     {
@@ -18,10 +27,59 @@
       "word_limit": 150,
       "answer": [
         "While most plants make their own food, some obtain it in other ways.",
-        { "lead": "Parasitic plants.", "text": "These take food from a host plant. Cuscuta, or amarbel, is a parasite that has no chlorophyll and lives off the plant it climbs on." },
-        { "lead": "Insectivorous plants.", "text": "Plants like the pitcher plant and Venus flytrap trap and digest insects to obtain nitrogen, though they still carry out photosynthesis." },
-        { "lead": "Saprotrophic plants.", "text": "Fungi such as mushrooms and bread mould feed on dead and decaying matter by secreting digestive juices onto it." },
-        { "lead": "Symbiosis.", "text": "In a lichen, an alga and a fungus live together for mutual benefit, and Rhizobium bacteria in the root nodules of legumes fix nitrogen in return for food." }
+        {
+          "lead": "Parasitic plants.",
+          "text": "These take food from a host plant. Cuscuta, or amarbel, is a parasite that has no chlorophyll and lives off the plant it climbs on."
+        },
+        {
+          "lead": "Insectivorous plants.",
+          "text": "Plants like the pitcher plant and Venus flytrap trap and digest insects to obtain nitrogen, though they still carry out photosynthesis."
+        },
+        {
+          "lead": "Saprotrophic plants.",
+          "text": "Fungi such as mushrooms and bread mould feed on dead and decaying matter by secreting digestive juices onto it."
+        },
+        {
+          "lead": "Symbiosis.",
+          "text": "In a lichen, an alga and a fungus live together for mutual benefit, and Rhizobium bacteria in the root nodules of legumes fix nitrogen in return for food."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between autotrophic and heterotrophic modes of nutrition.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "Living things obtain food in two main ways, called the autotrophic and the heterotrophic modes of nutrition.",
+        {
+          "lead": "Autotrophic nutrition.",
+          "text": "In autotrophic nutrition, an organism makes its own food from simple substances. Green plants are autotrophs, for they prepare their food from carbon dioxide and water using sunlight and the green pigment chlorophyll, in the process called photosynthesis."
+        },
+        {
+          "lead": "Heterotrophic nutrition.",
+          "text": "In heterotrophic nutrition, an organism cannot make its own food and depends on others for it. All animals, fungi and some plants are heterotrophs. They may eat plants or other animals, or, like fungi and some plants, feed on dead matter or on living hosts."
+        },
+        "Thus autotrophs like green plants make their own food, while heterotrophs like animals depend on other organisms for food."
+      ]
+    },
+    {
+      "q": "Why do farmers add manure and fertilisers to the soil, and what is the role of Rhizobium bacteria?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Nutrients in the soil.",
+          "text": "Plants take up mineral nutrients, especially nitrogen, from the soil to make proteins and other substances needed for growth. Growing crops again and again uses up these nutrients, so the soil becomes poor."
+        },
+        {
+          "lead": "Manure and fertilisers.",
+          "text": "To restore the lost nutrients, farmers add manure and fertilisers to the soil. These replace nitrogen and other minerals, keeping the soil fertile so that crops grow well."
+        },
+        {
+          "lead": "Role of Rhizobium.",
+          "text": "The air is full of nitrogen, but plants cannot use it directly. Bacteria called Rhizobium, living in the root nodules of leguminous plants like pulses, fix nitrogen from the air into a form plants can use. Growing such crops naturally enriches the soil with nitrogen."
+        },
+        "Thus manure, fertilisers and nitrogen-fixing Rhizobium bacteria all replenish the soil's nutrients for healthy plant growth."
       ]
     }
   ]

@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Life processes are the basic functions that keep an organism alive — nutrition, respiration, transport and excretion.",
-        { "lead": "Nutrition.", "text": "Animals are heterotrophs that take in ready-made food. Nutrition involves ingestion, digestion, absorption, assimilation and egestion. In humans, food passes from the mouth through the oesophagus to the stomach and small intestine, where it is digested and absorbed through villi, before waste leaves through the large intestine and anus." },
-        { "lead": "Respiration.", "text": "Respiration breaks down food in the cells to release energy. Aerobic respiration uses oxygen and releases more energy, while anaerobic respiration works without oxygen and releases less. Humans respire using lungs, fish through gills, and insects through spiracles and tracheae." }
+        {
+          "lead": "Nutrition.",
+          "text": "Animals are heterotrophs that take in ready-made food. Nutrition involves ingestion, digestion, absorption, assimilation and egestion. In humans, food passes from the mouth through the oesophagus to the stomach and small intestine, where it is digested and absorbed through villi, before waste leaves through the large intestine and anus."
+        },
+        {
+          "lead": "Respiration.",
+          "text": "Respiration breaks down food in the cells to release energy. Aerobic respiration uses oxygen and releases more energy, while anaerobic respiration works without oxygen and releases less. Humans respire using lungs, fish through gills, and insects through spiracles and tracheae."
+        }
       ]
     },
     {
@@ -16,9 +22,52 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Circulation.", "text": "The circulatory system transports materials around the body. The heart pumps blood, which carries oxygen bound to haemoglobin in the red blood cells, along with digested food and wastes. Blood travels away from the heart through arteries, returns through veins, and exchanges materials with cells through tiny capillaries." },
-        { "lead": "Excretion.", "text": "Excretion is the removal of wastes produced by the body. The kidneys filter wastes such as urea from the blood to form urine, which passes through the ureters to the urinary bladder and out through the urethra. Sweat from the skin also removes some water and salts." },
+        {
+          "lead": "Circulation.",
+          "text": "The circulatory system transports materials around the body. The heart pumps blood, which carries oxygen bound to haemoglobin in the red blood cells, along with digested food and wastes. Blood travels away from the heart through arteries, returns through veins, and exchanges materials with cells through tiny capillaries."
+        },
+        {
+          "lead": "Excretion.",
+          "text": "Excretion is the removal of wastes produced by the body. The kidneys filter wastes such as urea from the blood to form urine, which passes through the ureters to the urinary bladder and out through the urethra. Sweat from the skin also removes some water and salts."
+        },
         "Together these processes keep the body supplied and clean."
+      ]
+    },
+    {
+      "q": "Distinguish between aerobic and anaerobic respiration.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "Respiration is the breakdown of food to release energy, and it takes place in two ways, aerobic and anaerobic.",
+        {
+          "lead": "Aerobic respiration.",
+          "text": "Aerobic respiration takes place in the presence of oxygen. Food, mainly glucose, is completely broken down into carbon dioxide and water, and a large amount of energy is released. This is the usual form of respiration in humans and most animals."
+        },
+        {
+          "lead": "Anaerobic respiration.",
+          "text": "Anaerobic respiration takes place without oxygen and releases much less energy. In our muscles, during heavy exercise when oxygen is short, glucose breaks down into lactic acid, which causes cramps. In yeast, anaerobic respiration produces alcohol and carbon dioxide, a process used in baking and brewing."
+        },
+        "Thus aerobic respiration uses oxygen and gives much energy, while anaerobic respiration takes place without oxygen and gives little."
+      ]
+    },
+    {
+      "q": "What are the functions of the heart and the blood in the human body?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The heart.",
+          "text": "The heart is a muscular organ in the chest that works like a pump. By contracting and relaxing without rest, it pushes blood to every part of the body and receives it back, keeping the blood in constant circulation."
+        },
+        {
+          "lead": "The blood.",
+          "text": "Blood is the red fluid that flows through the blood vessels. It carries oxygen from the lungs and digested food to all the cells of the body, and carries away carbon dioxide and other wastes to be removed. Its white cells fight disease, and its platelets help the blood to clot at a wound."
+        },
+        {
+          "lead": "Working together.",
+          "text": "The heart and blood, along with the blood vessels, form the circulatory system, which transports materials throughout the body."
+        },
+        "Thus the heart pumps the blood, and the blood carries oxygen, food and wastes and defends the body, keeping every part supplied and healthy."
       ]
     }
   ]

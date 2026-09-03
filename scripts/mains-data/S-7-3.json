@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Heat, a form of energy, always flows from a hotter body to a colder one, and it can travel in three ways.",
-        { "lead": "Conduction.", "text": "Heat passes through a solid by direct contact, from particle to particle, without the material itself moving. A metal spoon left in hot tea becomes hot at the other end by conduction." },
-        { "lead": "Convection.", "text": "Heat is carried by the actual movement of a liquid or gas, as when water boils or warm air rises and cool air sinks, setting up currents." },
-        { "lead": "Radiation.", "text": "Heat travels as rays without needing any medium. This is how the Sun's heat reaches the Earth across empty space, and how we feel warmth from a fire." }
+        {
+          "lead": "Conduction.",
+          "text": "Heat passes through a solid by direct contact, from particle to particle, without the material itself moving. A metal spoon left in hot tea becomes hot at the other end by conduction."
+        },
+        {
+          "lead": "Convection.",
+          "text": "Heat is carried by the actual movement of a liquid or gas, as when water boils or warm air rises and cool air sinks, setting up currents."
+        },
+        {
+          "lead": "Radiation.",
+          "text": "Heat travels as rays without needing any medium. This is how the Sun's heat reaches the Earth across empty space, and how we feel warmth from a fire."
+        }
       ]
     },
     {
@@ -17,8 +26,51 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Sea and land breezes.", "text": "Land and water heat and cool at different rates, setting up convection currents. During the day, land heats faster than the sea, so warm air over the land rises and cooler air blows in from the sea — a sea breeze. At night, the land cools faster, and air moves from land to sea — a land breeze." },
-        { "lead": "Clothing colour.", "text": "Dark-coloured clothes absorb more heat, so they keep us warmer and are preferred in winter, while light-coloured clothes reflect heat and keep us cooler in summer. Woollen clothes keep us warm in winter because wool traps air, which is a poor conductor of heat." }
+        {
+          "lead": "Sea and land breezes.",
+          "text": "Land and water heat and cool at different rates, setting up convection currents. During the day, land heats faster than the sea, so warm air over the land rises and cooler air blows in from the sea — a sea breeze. At night, the land cools faster, and air moves from land to sea — a land breeze."
+        },
+        {
+          "lead": "Clothing colour.",
+          "text": "Dark-coloured clothes absorb more heat, so they keep us warmer and are preferred in winter, while light-coloured clothes reflect heat and keep us cooler in summer. Woollen clothes keep us warm in winter because wool traps air, which is a poor conductor of heat."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between conductors and insulators of heat, with examples.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Conductors of heat.",
+          "text": "Materials that allow heat to pass through them easily are called conductors of heat. Metals such as iron, copper and aluminium are good conductors. This is why cooking vessels are made of metal, so that heat passes quickly to the food."
+        },
+        {
+          "lead": "Insulators of heat.",
+          "text": "Materials that do not allow heat to pass through them easily are called insulators, or poor conductors. Wood, plastic, rubber, air, cloth and water are insulators. This is why the handles of cooking pans are made of wood or plastic, so that we do not burn our hands."
+        },
+        {
+          "lead": "Everyday use.",
+          "text": "Woollen clothes keep us warm in winter because wool traps air, which is a poor conductor and stops body heat from escaping."
+        },
+        "Thus conductors like metals let heat pass easily, while insulators like wood and plastic do not, and both are useful in daily life."
+      ]
+    },
+    {
+      "q": "Distinguish between a clinical thermometer and a laboratory thermometer.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "Temperature is measured with a thermometer, and two common kinds are the clinical and the laboratory thermometer.",
+        {
+          "lead": "Clinical thermometer.",
+          "text": "A clinical thermometer is used to measure the temperature of the human body. Its scale usually reads from about 35 to 42 degrees Celsius, since body temperature stays within this range. It has a kink, or bend, that stops the liquid from falling back at once, so the reading can be taken conveniently."
+        },
+        {
+          "lead": "Laboratory thermometer.",
+          "text": "A laboratory thermometer is used to measure the temperature of other objects and liquids in experiments. It has a wider range, often from below zero to about 110 degrees Celsius, and has no kink, so the reading must be taken while it is in contact with the object."
+        },
+        "Thus a clinical thermometer measures body temperature over a small range, while a laboratory thermometer measures a wide range for scientific use."
       ]
     }
   ]

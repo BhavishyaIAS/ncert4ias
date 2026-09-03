@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "In asexual reproduction a single parent produces new plants that are identical to it, without the formation of seeds.",
-        { "lead": "Vegetative propagation.", "text": "New plants grow from the roots, stems, leaves or buds of the parent — for example from the eyes of a potato, from ginger and onion, from the leaf buds of Bryophyllum, and from stem cuttings of rose and sugarcane." },
-        { "lead": "Budding.", "text": "A small bud grows out of the parent and later separates to form a new individual, as in yeast." },
-        { "lead": "Fragmentation.", "text": "The plant body breaks into pieces, each of which grows into a new plant, as in the alga Spirogyra." },
-        { "lead": "Spore formation.", "text": "Tiny spores are produced that grow into new plants, as in fungi, ferns and mosses." }
+        {
+          "lead": "Vegetative propagation.",
+          "text": "New plants grow from the roots, stems, leaves or buds of the parent — for example from the eyes of a potato, from ginger and onion, from the leaf buds of Bryophyllum, and from stem cuttings of rose and sugarcane."
+        },
+        {
+          "lead": "Budding.",
+          "text": "A small bud grows out of the parent and later separates to form a new individual, as in yeast."
+        },
+        {
+          "lead": "Fragmentation.",
+          "text": "The plant body breaks into pieces, each of which grows into a new plant, as in the alga Spirogyra."
+        },
+        {
+          "lead": "Spore formation.",
+          "text": "Tiny spores are produced that grow into new plants, as in fungi, ferns and mosses."
+        }
       ]
     },
     {
@@ -19,9 +31,58 @@
       "word_limit": 150,
       "answer": [
         "Sexual reproduction in flowering plants takes place in the flower and involves the fusion of male and female gametes.",
-        { "lead": "Parts of the flower.", "text": "The stamen, made of anther and filament, is the male part and produces pollen grains. The pistil, made of stigma, style and ovary, is the female part, and the ovary contains ovules." },
-        { "lead": "Pollination.", "text": "Pollination is the transfer of pollen from the anther to the stigma, carried out by wind, water or insects. It may be self-pollination or cross-pollination." },
-        { "lead": "Fertilisation.", "text": "The male gamete in the pollen fuses with the female gamete in the ovule, forming a zygote. After fertilisation, the ovule becomes the seed and the ovary becomes the fruit, and the seeds are later dispersed." }
+        {
+          "lead": "Parts of the flower.",
+          "text": "The stamen, made of anther and filament, is the male part and produces pollen grains. The pistil, made of stigma, style and ovary, is the female part, and the ovary contains ovules."
+        },
+        {
+          "lead": "Pollination.",
+          "text": "Pollination is the transfer of pollen from the anther to the stigma, carried out by wind, water or insects. It may be self-pollination or cross-pollination."
+        },
+        {
+          "lead": "Fertilisation.",
+          "text": "The male gamete in the pollen fuses with the female gamete in the ovule, forming a zygote. After fertilisation, the ovule becomes the seed and the ovary becomes the fruit, and the seeds are later dispersed."
+        }
+      ]
+    },
+    {
+      "q": "What is pollination, and what are its types?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What pollination is.",
+          "text": "Pollination is the transfer of pollen grains from the anther, the male part of a flower, to the stigma, the female part. It is a necessary step before fertilisation and the forming of seeds."
+        },
+        {
+          "lead": "Self-pollination.",
+          "text": "When the pollen of a flower is transferred to the stigma of the same flower, or of another flower on the same plant, it is called self-pollination."
+        },
+        {
+          "lead": "Cross-pollination.",
+          "text": "When pollen is carried from the flower of one plant to the flower of another plant of the same kind, it is called cross-pollination. This is brought about by agents such as insects, wind, water and birds, which carry the pollen from flower to flower."
+        },
+        "Thus pollination is the transfer of pollen to the stigma, and it may be self-pollination or cross-pollination, often helped by insects and wind."
+      ]
+    },
+    {
+      "q": "How are seeds dispersed, and why is seed dispersal important?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What seed dispersal is.",
+          "text": "Seed dispersal is the scattering of seeds away from the parent plant so that they can grow into new plants in new places."
+        },
+        {
+          "lead": "Ways of dispersal.",
+          "text": "Seeds are dispersed by several agents. Light seeds with wings or hairs, like those of the drumstick and the dandelion, are carried by the wind. Some seeds float and are carried by water. Others, with hooks or spines, cling to the fur of animals or to clothes, and some are eaten by animals and dropped elsewhere. A few fruits burst open and fling their seeds out."
+        },
+        {
+          "lead": "Why it is important.",
+          "text": "Dispersal prevents overcrowding near the parent plant, reduces competition for water, light and nutrients, and helps plants spread to new areas."
+        },
+        "Thus seeds are dispersed by wind, water and animals, which spreads plants and prevents overcrowding."
       ]
     }
   ]

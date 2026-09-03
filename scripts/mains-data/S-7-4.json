@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Indicators are substances that tell us whether a solution is acidic or basic by changing colour.",
-        { "lead": "Litmus.", "text": "Obtained from lichens, litmus is the most common indicator. An acid turns blue litmus red, while a base turns red litmus blue; a neutral solution causes no change." },
-        { "lead": "Natural indicators.", "text": "Turmeric, which is yellow, turns red in a base. The china rose (Gudhal) indicator turns acids magenta or pink and bases green." },
-        { "lead": "Phenolphthalein.", "text": "This is colourless in an acid and turns pink in a base." },
+        {
+          "lead": "Litmus.",
+          "text": "Obtained from lichens, litmus is the most common indicator. An acid turns blue litmus red, while a base turns red litmus blue; a neutral solution causes no change."
+        },
+        {
+          "lead": "Natural indicators.",
+          "text": "Turmeric, which is yellow, turns red in a base. The china rose (Gudhal) indicator turns acids magenta or pink and bases green."
+        },
+        {
+          "lead": "Phenolphthalein.",
+          "text": "This is colourless in an acid and turns pink in a base."
+        },
         "Acids taste sour, like lemon and tamarind, while bases taste bitter and feel soapy, and indicators let us test them safely by colour."
       ]
     },
@@ -19,9 +28,58 @@
       "word_limit": 150,
       "answer": [
         "Neutralisation is the reaction in which an acid reacts with a base to form a salt and water, cancelling out their acidic and basic natures; the reaction usually releases heat.",
-        { "lead": "Indigestion.", "text": "When the stomach produces too much acid, causing acidity, we take an antacid — a mild base such as milk of magnesia — to neutralise it." },
-        { "lead": "Insect stings.", "text": "An ant or bee sting injects formic acid, so applying a base like baking soda relieves the pain." },
-        { "lead": "Soil and factory waste.", "text": "Acidic soil is treated by adding lime, a base, while acidic factory wastes are neutralised with basic chemicals before being released, to prevent harm to living things." }
+        {
+          "lead": "Indigestion.",
+          "text": "When the stomach produces too much acid, causing acidity, we take an antacid — a mild base such as milk of magnesia — to neutralise it."
+        },
+        {
+          "lead": "Insect stings.",
+          "text": "An ant or bee sting injects formic acid, so applying a base like baking soda relieves the pain."
+        },
+        {
+          "lead": "Soil and factory waste.",
+          "text": "Acidic soil is treated by adding lime, a base, while acidic factory wastes are neutralised with basic chemicals before being released, to prevent harm to living things."
+        }
+      ]
+    },
+    {
+      "q": "What are acids and bases, and what are their main properties?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Acids.",
+          "text": "Acids are substances that taste sour. Common examples are the citric acid in lemons and oranges, the acetic acid in vinegar, and the tartaric acid in tamarind. Acids turn blue litmus paper red."
+        },
+        {
+          "lead": "Bases.",
+          "text": "Bases are substances that taste bitter and feel soapy to the touch. Examples are baking soda, lime water and washing soda. Bases turn red litmus paper blue."
+        },
+        {
+          "lead": "Neutral substances.",
+          "text": "Substances that are neither acidic nor basic are called neutral, such as pure water and common salt solution, and they do not change the colour of litmus."
+        },
+        "Thus acids are sour and turn blue litmus red, bases are bitter and soapy and turn red litmus blue, while neutral substances affect neither."
+      ]
+    },
+    {
+      "q": "What are natural indicators, and how do they help identify acids and bases?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What indicators are.",
+          "text": "An indicator is a substance that shows, usually by a change of colour, whether a substance is acidic or basic. Some indicators are obtained from nature and are called natural indicators."
+        },
+        {
+          "lead": "Litmus.",
+          "text": "The most common natural indicator is litmus, obtained from lichens. It is available as blue and red litmus paper. An acid turns blue litmus red, while a base turns red litmus blue."
+        },
+        {
+          "lead": "Turmeric and other indicators.",
+          "text": "Turmeric is another natural indicator; its yellow colour turns red with a base. The petals of the China rose, or hibiscus, give a coloured solution that turns acids and bases different shades."
+        },
+        "Thus natural indicators such as litmus and turmeric change colour with acids and bases, helping us to tell them apart."
       ]
     }
   ]

@@ -6,9 +6,18 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Plane mirror image.", "text": "A flat, or plane, mirror forms an image that is virtual and erect, the same size as the object, as far behind the mirror as the object is in front, and laterally inverted, meaning the left and right sides are exchanged." },
-        { "lead": "Concave mirror.", "text": "Its reflecting surface curves inward and converges light. It can form real or virtual, magnified images and is used in shaving and dentists' mirrors, torch and headlight reflectors, and solar cookers." },
-        { "lead": "Convex mirror.", "text": "Its surface curves outward and diverges light. It always forms a small, virtual, erect image and gives a wide field of view, which is why it is used as a rear-view mirror in vehicles." }
+        {
+          "lead": "Plane mirror image.",
+          "text": "A flat, or plane, mirror forms an image that is virtual and erect, the same size as the object, as far behind the mirror as the object is in front, and laterally inverted, meaning the left and right sides are exchanged."
+        },
+        {
+          "lead": "Concave mirror.",
+          "text": "Its reflecting surface curves inward and converges light. It can form real or virtual, magnified images and is used in shaving and dentists' mirrors, torch and headlight reflectors, and solar cookers."
+        },
+        {
+          "lead": "Convex mirror.",
+          "text": "Its surface curves outward and diverges light. It always forms a small, virtual, erect image and gives a wide field of view, which is why it is used as a rear-view mirror in vehicles."
+        }
       ]
     },
     {
@@ -17,9 +26,52 @@
       "word_limit": 150,
       "answer": [
         "Sunlight, or white light, is not a single colour but a mixture of seven colours.",
-        { "lead": "The seven colours.", "text": "These are violet, indigo, blue, green, yellow, orange and red, remembered by the word VIBGYOR." },
-        { "lead": "Dispersion.", "text": "When white light passes through a glass prism, it splits into these seven colours, a process called dispersion. A rainbow forms in the same way when sunlight passes through tiny water droplets in the sky." },
-        { "lead": "Newton's disc.", "text": "The reverse can also be shown: a disc painted with the seven colours, known as Newton's disc, appears white when spun rapidly, because the colours combine again to give white light." }
+        {
+          "lead": "The seven colours.",
+          "text": "These are violet, indigo, blue, green, yellow, orange and red, remembered by the word VIBGYOR."
+        },
+        {
+          "lead": "Dispersion.",
+          "text": "When white light passes through a glass prism, it splits into these seven colours, a process called dispersion. A rainbow forms in the same way when sunlight passes through tiny water droplets in the sky."
+        },
+        {
+          "lead": "Newton's disc.",
+          "text": "The reverse can also be shown: a disc painted with the seven colours, known as Newton's disc, appears white when spun rapidly, because the colours combine again to give white light."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between concave and convex lenses and the images they form.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "A lens is a transparent piece of glass with curved surfaces, and there are two kinds, the concave and the convex lens.",
+        {
+          "lead": "Convex lens.",
+          "text": "A convex lens is thicker in the middle and thinner at the edges. It converges, or brings together, the rays of light passing through it, so it is called a converging lens. It can form a real, inverted image on a screen, and when an object is held close it acts as a magnifying glass, forming a larger, upright image."
+        },
+        {
+          "lead": "Concave lens.",
+          "text": "A concave lens is thinner in the middle and thicker at the edges. It diverges, or spreads out, the rays of light, so it is called a diverging lens. It always forms an image that is upright, virtual and smaller than the object."
+        },
+        "Thus a convex lens converges light and can magnify, while a concave lens diverges light and forms a smaller, upright image."
+      ]
+    },
+    {
+      "q": "Distinguish between real and virtual images.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        "When light from an object is reflected or refracted, it forms an image, which may be real or virtual.",
+        {
+          "lead": "Real image.",
+          "text": "A real image is formed when the rays of light actually meet at a point after reflection or refraction. Because the rays really come together, a real image can be caught, or projected, on a screen. It is always inverted, or upside down, as in the image formed by a cinema projector or by a concave mirror when the object is far away."
+        },
+        {
+          "lead": "Virtual image.",
+          "text": "A virtual image is formed when the rays of light only appear to meet but do not actually do so. It cannot be caught on a screen and is always upright. The image we see in a plane mirror is a virtual image."
+        },
+        "Thus a real image is formed by rays that actually meet and can be shown on a screen, while a virtual image cannot be caught on a screen and is upright."
       ]
     }
   ]

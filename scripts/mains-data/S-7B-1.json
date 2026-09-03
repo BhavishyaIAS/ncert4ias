@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Science is called ever-evolving because its ideas are not fixed but keep growing and changing as new evidence is found.",
-        { "lead": "Built on evidence.", "text": "Science is a way of knowing built through observation, questioning, experiment and reasoning. Every idea is tested against evidence rather than accepted on authority." },
-        { "lead": "Self-correcting.", "text": "When new observations do not fit an existing idea, scientists revise or replace it. In this way science corrects itself over time, and older explanations give way to better ones." },
-        { "lead": "Driven by curiosity.", "text": "Because there is always more to observe and test, science never stands still. Curiosity and careful investigation keep it advancing, which is why it is described as ever-evolving." }
+        {
+          "lead": "Built on evidence.",
+          "text": "Science is a way of knowing built through observation, questioning, experiment and reasoning. Every idea is tested against evidence rather than accepted on authority."
+        },
+        {
+          "lead": "Self-correcting.",
+          "text": "When new observations do not fit an existing idea, scientists revise or replace it. In this way science corrects itself over time, and older explanations give way to better ones."
+        },
+        {
+          "lead": "Driven by curiosity.",
+          "text": "Because there is always more to observe and test, science never stands still. Curiosity and careful investigation keep it advancing, which is why it is described as ever-evolving."
+        }
       ]
     },
     {
@@ -18,9 +27,55 @@
       "word_limit": 150,
       "answer": [
         "The scientific method is the systematic way scientists investigate a question.",
-        { "lead": "The steps.", "text": "It begins with observing something and asking a question, then forming a hypothesis, a testable guess that might answer it. The hypothesis is tested by experiment, the results are recorded and analysed, and a conclusion is drawn, after which the test is repeated to be sure." },
-        { "lead": "A fair test.", "text": "For an experiment to be fair, only one factor should be changed at a time while all others are kept the same. This way any difference in the result can be linked to that one factor." },
+        {
+          "lead": "The steps.",
+          "text": "It begins with observing something and asking a question, then forming a hypothesis, a testable guess that might answer it. The hypothesis is tested by experiment, the results are recorded and analysed, and a conclusion is drawn, after which the test is repeated to be sure."
+        },
+        {
+          "lead": "A fair test.",
+          "text": "For an experiment to be fair, only one factor should be changed at a time while all others are kept the same. This way any difference in the result can be linked to that one factor."
+        },
         "Throughout, science depends on evidence and measurement rather than opinion."
+      ]
+    },
+    {
+      "q": "How are science, technology and society connected?",
+      "directive": "Discuss",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Science and technology.",
+          "text": "Science is the search for knowledge about the natural world, while technology is the use of that knowledge to make useful things and solve problems. Scientific discoveries lead to new technologies, and technology in turn gives scientists better tools to make fresh discoveries, so the two grow together."
+        },
+        {
+          "lead": "Their effect on society.",
+          "text": "Science and technology have transformed society. Advances in medicine, farming, transport, communication and energy have improved health, food supply and daily life. At the same time, some uses, such as polluting industries or harmful weapons, have created new problems."
+        },
+        {
+          "lead": "Society shapes science.",
+          "text": "Society also shapes science by deciding what problems to study and how to use its results."
+        },
+        "Thus science, technology and society are closely linked, each influencing the others, and their gifts must be used wisely for human welfare."
+      ]
+    },
+    {
+      "q": "What does it mean to do science responsibly?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Honesty in science.",
+          "text": "Doing science responsibly means being honest and truthful. A scientist must record observations exactly as they are, not change results to suit a wished-for answer, and must accept evidence even when it goes against earlier ideas."
+        },
+        {
+          "lead": "Care for people and nature.",
+          "text": "It also means carrying out experiments safely, without harming oneself, others, animals or the environment, and using science for the good of society rather than for harm."
+        },
+        {
+          "lead": "Openness and questioning.",
+          "text": "Responsible science is open; findings are shared so that others can check and test them. A scientist keeps an open mind, questions claims, and is willing to change views when better evidence appears."
+        },
+        "Thus doing science responsibly means being honest, careful, safe and open, and using scientific knowledge for the benefit of all."
       ]
     }
   ]

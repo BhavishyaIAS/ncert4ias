@@ -6,9 +6,18 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Speed.", "text": "Speed is the distance travelled by an object in a unit of time. It is found by dividing the distance travelled by the time taken, and its SI unit is the metre per second, though everyday speeds are often given in kilometres per hour." },
-        { "lead": "Uniform motion.", "text": "When an object covers equal distances in equal intervals of time, its speed does not change, and its motion is said to be uniform. On a distance–time graph, uniform motion appears as a straight line." },
-        { "lead": "Non-uniform motion.", "text": "When an object covers unequal distances in equal intervals of time, its speed keeps changing, and its motion is non-uniform, shown as a curved line on the graph." },
+        {
+          "lead": "Speed.",
+          "text": "Speed is the distance travelled by an object in a unit of time. It is found by dividing the distance travelled by the time taken, and its SI unit is the metre per second, though everyday speeds are often given in kilometres per hour."
+        },
+        {
+          "lead": "Uniform motion.",
+          "text": "When an object covers equal distances in equal intervals of time, its speed does not change, and its motion is said to be uniform. On a distance–time graph, uniform motion appears as a straight line."
+        },
+        {
+          "lead": "Non-uniform motion.",
+          "text": "When an object covers unequal distances in equal intervals of time, its speed keeps changing, and its motion is non-uniform, shown as a curved line on the graph."
+        },
         "A speedometer shows a vehicle's speed and an odometer the distance travelled."
       ]
     },
@@ -18,9 +27,58 @@
       "word_limit": 150,
       "answer": [
         "A simple pendulum is a small metal ball, called the bob, hung by a thread from a fixed support so that it can swing freely.",
-        { "lead": "Oscillation.", "text": "When the bob is released, it swings to and fro. One complete to-and-fro movement of the bob is called one oscillation." },
-        { "lead": "Time period.", "text": "The time taken to complete one oscillation is called the time period of the pendulum. For a given pendulum this time period is constant, which is why pendulums were used to measure time." },
-        { "lead": "History.", "text": "Galileo noticed this steady rhythm, which led to the invention of pendulum clocks. The time period depends on the length of the pendulum, not on the mass of the bob." }
+        {
+          "lead": "Oscillation.",
+          "text": "When the bob is released, it swings to and fro. One complete to-and-fro movement of the bob is called one oscillation."
+        },
+        {
+          "lead": "Time period.",
+          "text": "The time taken to complete one oscillation is called the time period of the pendulum. For a given pendulum this time period is constant, which is why pendulums were used to measure time."
+        },
+        {
+          "lead": "History.",
+          "text": "Galileo noticed this steady rhythm, which led to the invention of pendulum clocks. The time period depends on the length of the pendulum, not on the mass of the bob."
+        }
+      ]
+    },
+    {
+      "q": "How is time measured, and what are the units of time and speed?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Measuring time.",
+          "text": "Time is measured using events that repeat themselves at regular intervals. Long ago, people used the rising and setting of the Sun and the phases of the Moon. Later, devices such as sundials, water clocks and sand clocks were used."
+        },
+        {
+          "lead": "The pendulum and modern clocks.",
+          "text": "The discovery that a simple pendulum takes the same time for each swing led to accurate pendulum clocks. Today we use quartz and electronic clocks and watches, which keep very accurate time."
+        },
+        {
+          "lead": "Units.",
+          "text": "The basic unit of time is the second. Larger units are the minute, which is sixty seconds, and the hour, which is sixty minutes. Speed is the distance travelled in unit time, and its usual unit is metres per second or kilometres per hour."
+        },
+        "Thus time is measured by regularly repeating events, its unit being the second, and speed is measured in metres per second or kilometres per hour."
+      ]
+    },
+    {
+      "q": "What is a distance-time graph, and what does it tell us about the motion of an object?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What the graph is.",
+          "text": "A distance-time graph is a graph drawn to show how the distance travelled by a moving object changes with time. Time is marked along the horizontal line and distance along the vertical line, and the points are joined to give a line."
+        },
+        {
+          "lead": "Reading the graph.",
+          "text": "The shape of the line tells us about the motion. If the line is straight and sloping, the object is moving at a constant, or uniform, speed, covering equal distances in equal times. A steeper line means a greater speed. If the line is curved, the speed is changing, showing non-uniform motion."
+        },
+        {
+          "lead": "A horizontal line.",
+          "text": "A flat, horizontal line means the object is at rest, since its distance does not change with time."
+        },
+        "Thus a distance-time graph shows how distance changes with time and reveals whether an object is at rest, moving uniformly, or changing speed."
       ]
     }
   ]

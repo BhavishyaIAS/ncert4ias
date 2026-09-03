@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The circulatory system transports materials around the body and is made up of the heart, the blood and the blood vessels.",
-        { "lead": "Blood.", "text": "Blood carries digested food, oxygen and wastes. Its red colour comes from haemoglobin in the red blood cells, which carries oxygen. White blood cells fight infection, platelets help clotting, and all float in a fluid called plasma." },
-        { "lead": "The heart.", "text": "The heart is a muscular pump with four chambers that beats about seventy-two times a minute at rest, pushing blood through the body." },
-        { "lead": "Blood vessels.", "text": "Arteries carry blood away from the heart under high pressure, veins carry blood back to the heart and have valves, and tiny capillaries allow the exchange of materials with the cells." }
+        {
+          "lead": "Blood.",
+          "text": "Blood carries digested food, oxygen and wastes. Its red colour comes from haemoglobin in the red blood cells, which carries oxygen. White blood cells fight infection, platelets help clotting, and all float in a fluid called plasma."
+        },
+        {
+          "lead": "The heart.",
+          "text": "The heart is a muscular pump with four chambers that beats about seventy-two times a minute at rest, pushing blood through the body."
+        },
+        {
+          "lead": "Blood vessels.",
+          "text": "Arteries carry blood away from the heart under high pressure, veins carry blood back to the heart and have valves, and tiny capillaries allow the exchange of materials with the cells."
+        }
       ]
     },
     {
@@ -18,9 +27,58 @@
       "word_limit": 150,
       "answer": [
         "Plants have special conducting tissues that carry water and food to all their parts.",
-        { "lead": "Xylem.", "text": "The xylem carries water and dissolved minerals absorbed by the roots upward through the stem to the leaves." },
-        { "lead": "Phloem.", "text": "The phloem carries the food made in the leaves during photosynthesis to all other parts of the plant, including the roots." },
-        { "lead": "Transpiration.", "text": "Leaves lose water as vapour through their stomata in a process called transpiration. This creates a pull, the transpiration pull, that helps draw water up from the roots, and along with root pressure moves water to great heights. Transpiration also cools the plant." }
+        {
+          "lead": "Xylem.",
+          "text": "The xylem carries water and dissolved minerals absorbed by the roots upward through the stem to the leaves."
+        },
+        {
+          "lead": "Phloem.",
+          "text": "The phloem carries the food made in the leaves during photosynthesis to all other parts of the plant, including the roots."
+        },
+        {
+          "lead": "Transpiration.",
+          "text": "Leaves lose water as vapour through their stomata in a process called transpiration. This creates a pull, the transpiration pull, that helps draw water up from the roots, and along with root pressure moves water to great heights. Transpiration also cools the plant."
+        }
+      ]
+    },
+    {
+      "q": "What is blood made of, and what are its functions?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Composition of blood.",
+          "text": "Blood is the red fluid that flows through the body. It is made of a liquid part called plasma, in which float red blood cells, white blood cells and platelets."
+        },
+        {
+          "lead": "The cells and platelets.",
+          "text": "Red blood cells contain the red pigment haemoglobin, which carries oxygen. White blood cells fight germs and protect the body from disease. Platelets help the blood to clot and seal a wound when we are injured."
+        },
+        {
+          "lead": "Functions of blood.",
+          "text": "Blood carries oxygen from the lungs and digested food to all parts of the body, and carries away carbon dioxide and other wastes to be removed. It also helps keep the body warm and defends it against infection."
+        },
+        "Thus blood, made of plasma and cells, transports oxygen, food and wastes, and protects the body from disease."
+      ]
+    },
+    {
+      "q": "What is excretion, and how do animals remove their wastes?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "What excretion is.",
+          "text": "As the body uses food and oxygen, harmful waste substances are produced. The removal of these wastes from the body is called excretion. If wastes were allowed to build up, they would poison the body."
+        },
+        {
+          "lead": "Excretion in humans.",
+          "text": "In human beings, the main organs of excretion are the two kidneys. They filter the blood and remove wastes along with excess water in the form of urine, which is stored in the urinary bladder and passed out through the urinary opening."
+        },
+        {
+          "lead": "Other ways.",
+          "text": "The skin removes wastes and water as sweat, and the lungs remove carbon dioxide during breathing. Different animals have different excretory organs suited to their bodies."
+        },
+        "Thus excretion is the removal of harmful wastes, carried out in humans mainly by the kidneys, and also by the skin and lungs."
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Respiration is the process by which cells break down food, mainly glucose, to release energy, and it occurs in two forms.",
-        { "lead": "Aerobic respiration.", "text": "This takes place in the presence of oxygen. Glucose is broken down completely into carbon dioxide and water, releasing a large amount of energy. Most organisms, including humans, respire aerobically." },
-        { "lead": "Anaerobic respiration.", "text": "This takes place without oxygen. Glucose is only partly broken down into alcohol or lactic acid and carbon dioxide, releasing much less energy. Yeast respires anaerobically to form alcohol, used in baking and brewing." },
-        { "lead": "In our body.", "text": "During heavy exercise, when muscles do not get enough oxygen, they respire anaerobically and form lactic acid, which causes muscle cramps." }
+        {
+          "lead": "Aerobic respiration.",
+          "text": "This takes place in the presence of oxygen. Glucose is broken down completely into carbon dioxide and water, releasing a large amount of energy. Most organisms, including humans, respire aerobically."
+        },
+        {
+          "lead": "Anaerobic respiration.",
+          "text": "This takes place without oxygen. Glucose is only partly broken down into alcohol or lactic acid and carbon dioxide, releasing much less energy. Yeast respires anaerobically to form alcohol, used in baking and brewing."
+        },
+        {
+          "lead": "In our body.",
+          "text": "During heavy exercise, when muscles do not get enough oxygen, they respire anaerobically and form lactic acid, which causes muscle cramps."
+        }
       ]
     },
     {
@@ -18,9 +27,58 @@
       "word_limit": 150,
       "answer": [
         "Different organisms have different structures for taking in oxygen and giving out carbon dioxide.",
-        { "lead": "Humans.", "text": "Air passes through the nostrils and windpipe into the lungs, where oxygen enters the blood and carbon dioxide leaves. The diaphragm and ribs move to breathe in and out, about fifteen to eighteen times a minute at rest." },
-        { "lead": "Other animals.", "text": "Fish breathe through gills that take dissolved oxygen from water; insects such as the cockroach breathe through spiracles connected to air tubes called tracheae; and earthworms and frogs can breathe through their moist skin." },
-        { "lead": "Plants.", "text": "Plants respire through stomata in leaves, lenticels in stems, and their root surfaces, respiring at all times." }
+        {
+          "lead": "Humans.",
+          "text": "Air passes through the nostrils and windpipe into the lungs, where oxygen enters the blood and carbon dioxide leaves. The diaphragm and ribs move to breathe in and out, about fifteen to eighteen times a minute at rest."
+        },
+        {
+          "lead": "Other animals.",
+          "text": "Fish breathe through gills that take dissolved oxygen from water; insects such as the cockroach breathe through spiracles connected to air tubes called tracheae; and earthworms and frogs can breathe through their moist skin."
+        },
+        {
+          "lead": "Plants.",
+          "text": "Plants respire through stomata in leaves, lenticels in stems, and their root surfaces, respiring at all times."
+        }
+      ]
+    },
+    {
+      "q": "Describe how breathing takes place in human beings.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The breathing organs.",
+          "text": "In humans, breathing takes place through the respiratory system. Air is drawn in through the nostrils, passes down the windpipe, and reaches the lungs, which are spongy organs in the chest."
+        },
+        {
+          "lead": "Inhalation.",
+          "text": "During inhalation, or breathing in, the muscles of the chest and the dome-shaped diaphragm below the lungs contract. The chest cavity enlarges, and air rich in oxygen rushes into the lungs, where oxygen passes into the blood."
+        },
+        {
+          "lead": "Exhalation.",
+          "text": "During exhalation, or breathing out, these muscles relax, the chest cavity becomes smaller, and air containing carbon dioxide is pushed out of the lungs."
+        },
+        "Thus breathing in humans is the taking in of oxygen-rich air and the giving out of carbon dioxide, brought about by the movements of the chest and the diaphragm."
+      ]
+    },
+    {
+      "q": "Why do we breathe faster during exercise, and why do we get muscle cramps?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Breathing faster during exercise.",
+          "text": "When we exercise, our muscles work hard and need more energy. This energy comes from the breakdown of food using oxygen, in the process of respiration. To supply the extra oxygen and remove the extra carbon dioxide quickly, we breathe faster and more deeply during and after exercise."
+        },
+        {
+          "lead": "Muscle cramps.",
+          "text": "Sometimes during heavy exercise the muscles do not get enough oxygen. The muscle cells then break down food without oxygen, in anaerobic respiration, producing a substance called lactic acid. The build-up of lactic acid in the muscles causes the painful contraction known as a cramp."
+        },
+        {
+          "lead": "Relief.",
+          "text": "Rest and a hot water bath ease cramps by improving the supply of oxygen to the muscles."
+        },
+        "Thus we breathe faster during exercise to get more oxygen, and cramps arise when a lack of oxygen leads to lactic acid in the muscles."
       ]
     }
   ]

@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "The Earth has two motions that together produce day, night and the seasons.",
-        { "lead": "Day and night.", "text": "The Earth spins on its axis once in about twenty-four hours, a motion called rotation. As it spins, the half facing the Sun has day while the half turned away has night, and these alternate as the Earth turns." },
-        { "lead": "Seasons.", "text": "The Earth also moves around the Sun once in about 365¼ days, a motion called revolution. Because its axis is tilted at about 23.5 degrees, different parts of the Earth receive the Sun's rays more directly at different times of the year. This changing angle of sunlight gives rise to the seasons." },
+        {
+          "lead": "Day and night.",
+          "text": "The Earth spins on its axis once in about twenty-four hours, a motion called rotation. As it spins, the half facing the Sun has day while the half turned away has night, and these alternate as the Earth turns."
+        },
+        {
+          "lead": "Seasons.",
+          "text": "The Earth also moves around the Sun once in about 365¼ days, a motion called revolution. Because its axis is tilted at about 23.5 degrees, different parts of the Earth receive the Sun's rays more directly at different times of the year. This changing angle of sunlight gives rise to the seasons."
+        },
         "Thus rotation explains day and night, while revolution combined with the tilt explains the seasons."
       ]
     },
@@ -18,9 +24,54 @@
       "word_limit": 150,
       "answer": [
         "Eclipses occur because light travels in straight lines, so bodies cast shadows.",
-        { "lead": "Solar eclipse.", "text": "A solar eclipse happens when the Moon comes between the Sun and the Earth, so the Moon's shadow falls on part of the Earth and the Sun is blocked from view. It can occur only on a new moon day." },
-        { "lead": "Lunar eclipse.", "text": "A lunar eclipse happens when the Earth comes between the Sun and the Moon, so the Earth's shadow falls on the Moon and the Moon is darkened. It can occur only on a full moon day." },
-        { "lead": "Key difference.", "text": "In a solar eclipse the Moon's shadow falls on the Earth, while in a lunar eclipse the Earth's shadow falls on the Moon." }
+        {
+          "lead": "Solar eclipse.",
+          "text": "A solar eclipse happens when the Moon comes between the Sun and the Earth, so the Moon's shadow falls on part of the Earth and the Sun is blocked from view. It can occur only on a new moon day."
+        },
+        {
+          "lead": "Lunar eclipse.",
+          "text": "A lunar eclipse happens when the Earth comes between the Sun and the Moon, so the Earth's shadow falls on the Moon and the Moon is darkened. It can occur only on a full moon day."
+        },
+        {
+          "lead": "Key difference.",
+          "text": "In a solar eclipse the Moon's shadow falls on the Earth, while in a lunar eclipse the Earth's shadow falls on the Moon."
+        }
+      ]
+    },
+    {
+      "q": "Describe the Moon and its changing phases.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Moon.",
+          "text": "The Moon is the Earth's only natural satellite, a large ball of rock that moves around the Earth. It has no light of its own; it shines only because it reflects the light of the Sun. Its surface is dry and lifeless, covered with craters and mountains, and has no air or water."
+        },
+        {
+          "lead": "The phases.",
+          "text": "As the Moon goes round the Earth, we see different amounts of its sunlit side, and so its shape appears to change from night to night. These changing shapes are called the phases of the Moon. It grows from a thin crescent to the full moon, then shrinks back to no moon, or new moon, over about a month."
+        },
+        "Thus the Moon is the Earth's satellite that reflects sunlight, and its phases are the changing shapes we see as it orbits the Earth."
+      ]
+    },
+    {
+      "q": "What is the solar system, and what lies beyond it?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The solar system.",
+          "text": "The solar system is the family of the Sun and all the bodies that move around it. At its centre is the Sun, a huge, hot star that gives light and heat. Around it revolve the eight planets, including our Earth, along with their moons, and also smaller bodies such as asteroids, comets and meteoroids."
+        },
+        {
+          "lead": "The planets.",
+          "text": "In order from the Sun, the planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune, each moving in its own path, or orbit."
+        },
+        {
+          "lead": "Beyond the solar system.",
+          "text": "Far beyond the solar system lie countless other stars, many with their own planets. Vast groups of stars form galaxies, and our solar system is a tiny part of one galaxy in an enormous universe."
+        },
+        "Thus the solar system is the Sun with its planets and smaller bodies, and beyond it stretch countless stars and galaxies."
       ]
     }
   ]
