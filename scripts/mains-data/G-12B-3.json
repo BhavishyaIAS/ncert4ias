@@ -7,10 +7,73 @@
       "word_limit": 150,
       "answer": [
         "Human development in India, measured through health, education and income, has improved over the years but remains uneven across the country.",
-        { "lead": "Overall position.", "text": "India falls in the medium human development category. Life expectancy and literacy have risen and per capita income has grown, yet infant mortality, malnutrition and gender inequality remain matters of concern in many areas." },
-        { "lead": "Regional disparities.", "text": "The level of human development varies greatly between states. Kerala stands at the top, with high literacy, good health services, a favourable sex ratio and low infant mortality, showing that investment in education and health raises human development. In contrast, several states in the north and centre lag behind on these indicators." },
-        { "lead": "Persisting gaps.", "text": "Wide gaps also exist between rural and urban areas, between men and women, and between social groups such as the Scheduled Castes and Tribes and the rest." },
+        {
+          "lead": "Overall position.",
+          "text": "India falls in the medium human development category. Life expectancy and literacy have risen and per capita income has grown, yet infant mortality, malnutrition and gender inequality remain matters of concern in many areas."
+        },
+        {
+          "lead": "Regional disparities.",
+          "text": "The level of human development varies greatly between states. Kerala stands at the top, with high literacy, good health services, a favourable sex ratio and low infant mortality, showing that investment in education and health raises human development. In contrast, several states in the north and centre lag behind on these indicators."
+        },
+        {
+          "lead": "Persisting gaps.",
+          "text": "Wide gaps also exist between rural and urban areas, between men and women, and between social groups such as the Scheduled Castes and Tribes and the rest."
+        },
         "Thus, while India has progressed, reducing these disparities is essential for balanced human development."
+      ]
+    },
+    {
+      "q": "Why do wide regional disparities in human development persist across India?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Human development in India",
+          "text": "is very uneven, with some states far ahead of others, for several reasons."
+        },
+        {
+          "list": [
+            "States like Kerala score high because of long investment in education, health and social reform",
+            "Many states lag because of poverty, low literacy, poor health services and weak infrastructure"
+          ]
+        },
+        {
+          "lead": "Historical and social factors",
+          "text": "deepen the gaps."
+        },
+        {
+          "list": [
+            "Uneven development, and inequalities of caste, class and gender, leave some groups and regions behind",
+            "Differences in governance and public spending also matter, so closing the gap needs targeted investment in the lagging regions and groups"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do poverty, health and education indicators reveal the state of human development in India?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Human development",
+          "text": "is best judged not by income alone but by indicators of poverty, health and education, which reveal how people actually live."
+        },
+        {
+          "list": [
+            "Poverty levels show how many lack a decent standard of living",
+            "Health indicators like life expectancy and infant mortality show the quality of life and healthcare"
+          ]
+        },
+        {
+          "lead": "Education completes the picture.",
+          "text": "Knowledge widens choices."
+        },
+        {
+          "list": [
+            "Literacy and school attendance show the spread of opportunity",
+            "India has improved on all these counts but still faces high poverty, gaps in health, and uneven education — so much remains to be done"
+          ]
+        }
       ]
     }
   ]

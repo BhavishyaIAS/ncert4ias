@@ -7,11 +7,81 @@
       "word_limit": 150,
       "answer": [
         "Indian agriculture, though it feeds a huge population, faces several serious problems.",
-        { "lead": "Dependence on the monsoon.", "text": "A large part of Indian farming still depends on the monsoon rains, which are uncertain and uneven. A weak or delayed monsoon can cause drought and crop failure, while excess rain brings floods." },
-        { "lead": "Small holdings and low productivity.", "text": "Landholdings are small and fragmented, which makes the use of machinery and modern methods difficult, and productivity per hectare remains low compared with other countries. Poor irrigation and lack of capital add to the problem." },
-        { "lead": "Indebtedness and degradation.", "text": "Many farmers fall into debt to moneylenders, and the heavy use of water, fertilisers and pesticides since the Green Revolution has degraded the soil and lowered the water table." },
-        { "lead": "Marketing.", "text": "Farmers also suffer from lack of storage and fair markets." },
+        {
+          "lead": "Dependence on the monsoon.",
+          "text": "A large part of Indian farming still depends on the monsoon rains, which are uncertain and uneven. A weak or delayed monsoon can cause drought and crop failure, while excess rain brings floods."
+        },
+        {
+          "lead": "Small holdings and low productivity.",
+          "text": "Landholdings are small and fragmented, which makes the use of machinery and modern methods difficult, and productivity per hectare remains low compared with other countries. Poor irrigation and lack of capital add to the problem."
+        },
+        {
+          "lead": "Indebtedness and degradation.",
+          "text": "Many farmers fall into debt to moneylenders, and the heavy use of water, fertilisers and pesticides since the Green Revolution has degraded the soil and lowered the water table."
+        },
+        {
+          "lead": "Marketing.",
+          "text": "Farmers also suffer from lack of storage and fair markets."
+        },
         "Overcoming these problems needs irrigation, sustainable practices, better credit and marketing, and diversification of agriculture."
+      ]
+    },
+    {
+      "q": "How does the Green Revolution's legacy shape both the strengths and problems of Indian agriculture?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Green Revolution",
+          "text": "transformed Indian agriculture, bringing both great gains and lasting problems."
+        },
+        {
+          "lead": "Its strengths",
+          "text": "were real."
+        },
+        {
+          "list": [
+            "High-yielding seeds, fertilisers and irrigation made India self-sufficient in food grains",
+            "Output of wheat and rice rose sharply, ending the fear of famine"
+          ]
+        },
+        {
+          "lead": "But it left problems.",
+          "text": "The gains were uneven and costly."
+        },
+        {
+          "list": [
+            "It mainly helped well-irrigated regions and larger farmers, widening regional and social inequality",
+            "Heavy use of chemicals and water degraded the soil and lowered the water table, so farming must now become sustainable"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What steps can be taken to make Indian agriculture more productive and sustainable?",
+      "directive": "Evaluate",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Indian agriculture",
+          "text": "must raise productivity while protecting the land and farmers' livelihoods, which calls for several steps."
+        },
+        {
+          "list": [
+            "Better irrigation, quality seeds and soil testing raise yields",
+            "Diversifying into horticulture, dairy and fisheries spreads income and risk"
+          ]
+        },
+        {
+          "lead": "Sustainability is essential.",
+          "text": "Resources must be conserved."
+        },
+        {
+          "list": [
+            "Efficient water use like drip irrigation, organic manures and crop rotation protect soil and water",
+            "Fair prices, cheap credit, crop insurance and good storage and marketing support farmers, making agriculture both productive and lasting"
+          ]
+        }
       ]
     }
   ]

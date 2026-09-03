@@ -6,10 +6,77 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Primary activities.", "text": "Primary activities are those that depend directly on the natural environment, involving the extraction or production of resources from nature. They include hunting and gathering, herding, fishing, forestry, mining and agriculture." },
-        { "lead": "Subsistence agriculture.", "text": "In subsistence agriculture, farmers grow food mainly for their own needs. Primitive subsistence farming is a shifting cultivation, called jhum or milpa, in which a patch of forest is cleared, cultivated and then abandoned. Intensive subsistence farming, common in densely populated monsoon Asia, uses small plots and much labour to grow crops like rice." },
-        { "lead": "Commercial agriculture.", "text": "In commercial agriculture, crops are grown for sale in the market. It includes extensive grain farming on large mechanised farms, mixed farming that combines crops and livestock, dairy farming near cities, and plantation agriculture, where a single cash crop such as tea, coffee or rubber is grown on large estates." },
+        {
+          "lead": "Primary activities.",
+          "text": "Primary activities are those that depend directly on the natural environment, involving the extraction or production of resources from nature. They include hunting and gathering, herding, fishing, forestry, mining and agriculture."
+        },
+        {
+          "lead": "Subsistence agriculture.",
+          "text": "In subsistence agriculture, farmers grow food mainly for their own needs. Primitive subsistence farming is a shifting cultivation, called jhum or milpa, in which a patch of forest is cleared, cultivated and then abandoned. Intensive subsistence farming, common in densely populated monsoon Asia, uses small plots and much labour to grow crops like rice."
+        },
+        {
+          "lead": "Commercial agriculture.",
+          "text": "In commercial agriculture, crops are grown for sale in the market. It includes extensive grain farming on large mechanised farms, mixed farming that combines crops and livestock, dairy farming near cities, and plantation agriculture, where a single cash crop such as tea, coffee or rubber is grown on large estates."
+        },
         "Thus primary activities, above all agriculture, form the base of the economy."
+      ]
+    },
+    {
+      "q": "How do the various primary activities differ in their level of development and use of technology?",
+      "directive": "Compare",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Primary activities",
+          "text": "draw directly on natural resources, and they range from very simple to highly advanced forms."
+        },
+        {
+          "list": [
+            "Gathering and hunting are the most primitive, using little technology and giving low returns",
+            "Subsistence farming and nomadic herding use simple tools and mainly feed the producers"
+          ]
+        },
+        {
+          "lead": "Advanced forms use much technology.",
+          "text": "They produce for the market."
+        },
+        {
+          "list": [
+            "Commercial farming, plantation agriculture and modern mining use machines, capital and science to produce large surpluses",
+            "So primary activities span from bare survival to large-scale, technology-driven production for world markets"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does mining as a primary activity affect the economy and the environment?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Mining",
+          "text": "is a primary activity that extracts minerals from the earth, and it has major effects on both the economy and the environment."
+        },
+        {
+          "lead": "Economically,",
+          "text": "it is very valuable."
+        },
+        {
+          "list": [
+            "It supplies raw materials — coal, iron ore, oil — that power industry and the economy",
+            "It creates jobs and can develop remote regions"
+          ]
+        },
+        {
+          "lead": "Environmentally,",
+          "text": "it is damaging."
+        },
+        {
+          "list": [
+            "It scars the land, causes pollution of air and water, and destroys forests and habitats",
+            "Mining is also dangerous work, so it must be regulated and the land later restored"
+          ]
+        }
       ]
     }
   ]
