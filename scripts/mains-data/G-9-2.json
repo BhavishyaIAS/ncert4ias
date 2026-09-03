@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "India can be divided into six major physiographic divisions.",
-        { "lead": "The Himalayas.", "text": "Young fold mountains in the north, made of three ranges — the Himadri or Great Himalayas with the highest peaks, the Himachal or Middle Himalayas, and the outer Shivaliks with their Dun valleys." },
-        { "lead": "Northern Plains.", "text": "Flat, fertile land formed by the alluvium of the Indus, Ganga and Brahmaputra." },
-        { "lead": "Peninsular Plateau.", "text": "The oldest landmass, made of the Central Highlands and the Deccan Plateau, bordered by the higher, continuous Western Ghats and the lower, broken Eastern Ghats." },
-        { "lead": "Desert, coasts and islands.", "text": "The Thar Desert in the north-west, the western and eastern Coastal Plains, and the coral Lakshadweep and the Andaman and Nicobar Islands." }
+        {
+          "lead": "The Himalayas.",
+          "text": "Young fold mountains in the north, made of three ranges — the Himadri or Great Himalayas with the highest peaks, the Himachal or Middle Himalayas, and the outer Shivaliks with their Dun valleys."
+        },
+        {
+          "lead": "Northern Plains.",
+          "text": "Flat, fertile land formed by the alluvium of the Indus, Ganga and Brahmaputra."
+        },
+        {
+          "lead": "Peninsular Plateau.",
+          "text": "The oldest landmass, made of the Central Highlands and the Deccan Plateau, bordered by the higher, continuous Western Ghats and the lower, broken Eastern Ghats."
+        },
+        {
+          "lead": "Desert, coasts and islands.",
+          "text": "The Thar Desert in the north-west, the western and eastern Coastal Plains, and the coral Lakshadweep and the Andaman and Nicobar Islands."
+        }
       ]
     },
     {
@@ -19,9 +31,74 @@
       "word_limit": 150,
       "answer": [
         "The Peninsular Plateau is bordered by two ranges of hills, the Western and Eastern Ghats, which differ in several ways.",
-        { "lead": "Western Ghats.", "text": "They run continuously along the western edge of the Deccan, are higher, and can be crossed only through passes. Their highest peak is Anai Mudi. They cause heavy rainfall on the western side by forcing the monsoon winds to rise, and are a source of many rivers." },
-        { "lead": "Eastern Ghats.", "text": "They run along the eastern edge, are lower and discontinuous, being broken by the many rivers of the peninsula that flow into the Bay of Bengal." },
-        { "lead": "Meeting point.", "text": "The two ranges meet in the south at the Nilgiri Hills." }
+        {
+          "lead": "Western Ghats.",
+          "text": "They run continuously along the western edge of the Deccan, are higher, and can be crossed only through passes. Their highest peak is Anai Mudi. They cause heavy rainfall on the western side by forcing the monsoon winds to rise, and are a source of many rivers."
+        },
+        {
+          "lead": "Eastern Ghats.",
+          "text": "They run along the eastern edge, are lower and discontinuous, being broken by the many rivers of the peninsula that flow into the Bay of Bengal."
+        },
+        {
+          "lead": "Meeting point.",
+          "text": "The two ranges meet in the south at the Nilgiri Hills."
+        }
+      ]
+    },
+    {
+      "q": "How were the major physiographic divisions of India formed, and how are they interdependent?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "India's physical features",
+          "text": "were formed over millions of years by the movement of tectonic plates and the work of rivers."
+        },
+        {
+          "list": [
+            "The collision of the Indian plate with the Eurasian plate folded up the young Himalayan mountains",
+            "Rivers flowing from the Himalayas and the Peninsula deposited silt to form the Northern Plains",
+            "The Peninsular Plateau is one of the oldest landmasses, and the coastal plains and islands were shaped by the sea"
+          ]
+        },
+        {
+          "lead": "These divisions are interdependent.",
+          "text": "They complement one another."
+        },
+        {
+          "list": [
+            "The mountains feed the rivers that make the fertile plains",
+            "The plateau is rich in minerals, and the coasts support fishing and trade"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why are the Northern Plains of India densely populated and agriculturally important?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Northern Plains",
+          "text": "were formed by the alluvial deposits of the Indus, Ganga and Brahmaputra river systems, and they are among the most productive regions on earth."
+        },
+        {
+          "list": [
+            "The deep, fertile alluvial soil is ideal for growing crops",
+            "A network of perennial rivers provides water for irrigation throughout the year",
+            "The flat land makes farming, building roads and canals, and settlement easy"
+          ]
+        },
+        {
+          "lead": "These advantages",
+          "text": "support a dense population and intensive agriculture."
+        },
+        {
+          "list": [
+            "The plains feed a large part of the country and support many cities",
+            "This is why they are called the granary of India"
+          ]
+        }
       ]
     }
   ]

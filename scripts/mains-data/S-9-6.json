@@ -6,10 +6,22 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Inertia.", "text": "Inertia is the natural tendency of an object to resist any change in its state of rest or of uniform motion. The mass of an object is a measure of its inertia, so a heavier object is harder to start or stop." },
-        { "lead": "First law.", "text": "An object remains at rest or in uniform motion in a straight line unless acted upon by an unbalanced force; this is also called the law of inertia." },
-        { "lead": "Second law.", "text": "The force acting on an object equals its mass times its acceleration, written as F equals m a, and is the rate of change of momentum. The SI unit of force is the newton." },
-        { "lead": "Third law.", "text": "To every action there is an equal and opposite reaction, the two forces acting on different bodies." }
+        {
+          "lead": "Inertia.",
+          "text": "Inertia is the natural tendency of an object to resist any change in its state of rest or of uniform motion. The mass of an object is a measure of its inertia, so a heavier object is harder to start or stop."
+        },
+        {
+          "lead": "First law.",
+          "text": "An object remains at rest or in uniform motion in a straight line unless acted upon by an unbalanced force; this is also called the law of inertia."
+        },
+        {
+          "lead": "Second law.",
+          "text": "The force acting on an object equals its mass times its acceleration, written as F equals m a, and is the rate of change of momentum. The SI unit of force is the newton."
+        },
+        {
+          "lead": "Third law.",
+          "text": "To every action there is an equal and opposite reaction, the two forces acting on different bodies."
+        }
       ]
     },
     {
@@ -17,9 +29,75 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Momentum.", "text": "Momentum is the product of the mass of an object and its velocity. It is a vector quantity, having both magnitude and direction, and its SI unit is the kilogram metre per second. A heavy, fast-moving body has large momentum and is hard to stop." },
-        { "lead": "Conservation of momentum.", "text": "The law of conservation of momentum states that, in the absence of any external force, the total momentum of a system of bodies remains constant." },
-        { "lead": "Example.", "text": "When a gun is fired, the bullet moves forward with a certain momentum, and the gun recoils backward with an equal momentum in the opposite direction, so that the total momentum stays zero. The same principle explains how rockets are propelled." }
+        {
+          "lead": "Momentum.",
+          "text": "Momentum is the product of the mass of an object and its velocity. It is a vector quantity, having both magnitude and direction, and its SI unit is the kilogram metre per second. A heavy, fast-moving body has large momentum and is hard to stop."
+        },
+        {
+          "lead": "Conservation of momentum.",
+          "text": "The law of conservation of momentum states that, in the absence of any external force, the total momentum of a system of bodies remains constant."
+        },
+        {
+          "lead": "Example.",
+          "text": "When a gun is fired, the bullet moves forward with a certain momentum, and the gun recoils backward with an equal momentum in the opposite direction, so that the total momentum stays zero. The same principle explains how rockets are propelled."
+        }
+      ]
+    },
+    {
+      "q": "How does Newton's second law of motion explain everyday experiences of force?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Newton's second law",
+          "text": "states that the rate of change of momentum of a body is proportional to the applied force and takes place in the direction of the force — giving the familiar relation force equals mass times acceleration."
+        },
+        {
+          "list": [
+            "A greater force produces a greater acceleration for the same mass",
+            "A heavier object needs a greater force to gain the same acceleration"
+          ]
+        },
+        {
+          "lead": "It explains common situations.",
+          "text": "The law is at work all around us."
+        },
+        {
+          "list": [
+            "A cricketer pulls back the hands while catching a ball to increase the time and reduce the force felt",
+            "This is why falling on a hard floor hurts more than falling on a mattress"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does Newton's third law of motion apply to the recoil of a gun and the motion of a rocket?",
+      "directive": "Apply",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Newton's third law",
+          "text": "states that to every action there is an equal and opposite reaction, and these forces act on two different bodies."
+        },
+        {
+          "lead": "The recoil of a gun",
+          "text": "shows this clearly."
+        },
+        {
+          "list": [
+            "When the gun pushes the bullet forward (action), the bullet pushes the gun backward (reaction), so the gun recoils",
+            "The gun's larger mass gives it a much smaller backward velocity"
+          ]
+        },
+        {
+          "lead": "A rocket",
+          "text": "moves the same way."
+        },
+        {
+          "list": [
+            "It pushes hot gases downward, and the gases push the rocket upward with an equal and opposite force"
+          ]
+        }
       ]
     }
   ]

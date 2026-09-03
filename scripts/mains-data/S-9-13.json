@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "The Earth is a system of interacting spheres — the land, water, air and the biosphere of living things — through which energy flows and matter cycles.",
-        { "lead": "Flow of energy.", "text": "Energy comes mainly from the Sun and flows in one direction: green plants, the producers, capture it, and it passes to consumers and then to decomposers. Only about ten per cent of the energy passes from one trophic level to the next, which is why food chains are short." },
-        { "lead": "Cycling of matter.", "text": "Unlike energy, matter is recycled through biogeochemical cycles. The water cycle moves water through evaporation and rain, the carbon cycle balances photosynthesis and respiration, the nitrogen cycle passes nitrogen from air to plants and back, and the oxygen cycle links photosynthesis and respiration. These cycles keep the Earth system in balance." }
+        {
+          "lead": "Flow of energy.",
+          "text": "Energy comes mainly from the Sun and flows in one direction: green plants, the producers, capture it, and it passes to consumers and then to decomposers. Only about ten per cent of the energy passes from one trophic level to the next, which is why food chains are short."
+        },
+        {
+          "lead": "Cycling of matter.",
+          "text": "Unlike energy, matter is recycled through biogeochemical cycles. The water cycle moves water through evaporation and rain, the carbon cycle balances photosynthesis and respiration, the nitrogen cycle passes nitrogen from air to plants and back, and the oxygen cycle links photosynthesis and respiration. These cycles keep the Earth system in balance."
+        }
       ]
     },
     {
@@ -16,9 +22,76 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "The ozone layer.", "text": "The ozone layer is a region of ozone gas high in the stratosphere that shields living things by absorbing the Sun's harmful ultraviolet rays. Certain man-made chemicals called CFCs damage this layer, creating the ozone hole and letting through more harmful radiation." },
-        { "lead": "Human impact.", "text": "Human activities are disturbing the balance of the Earth system in many ways. Pollution fouls the air, water and soil; the burning of fossil fuels increases greenhouse gases and causes global warming and climate change; and deforestation and over-exploitation cause a loss of biodiversity." },
-        { "lead": "The need.", "text": "To keep the Earth system healthy, resources must be used sustainably, pollution reduced, and forests and wildlife conserved." }
+        {
+          "lead": "The ozone layer.",
+          "text": "The ozone layer is a region of ozone gas high in the stratosphere that shields living things by absorbing the Sun's harmful ultraviolet rays. Certain man-made chemicals called CFCs damage this layer, creating the ozone hole and letting through more harmful radiation."
+        },
+        {
+          "lead": "Human impact.",
+          "text": "Human activities are disturbing the balance of the Earth system in many ways. Pollution fouls the air, water and soil; the burning of fossil fuels increases greenhouse gases and causes global warming and climate change; and deforestation and over-exploitation cause a loss of biodiversity."
+        },
+        {
+          "lead": "The need.",
+          "text": "To keep the Earth system healthy, resources must be used sustainably, pollution reduced, and forests and wildlife conserved."
+        }
+      ]
+    },
+    {
+      "q": "Describe the water cycle and explain why it is vital for life on Earth.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The water cycle",
+          "text": "is the continuous movement of water between the earth's surface and the atmosphere, driven by the sun's heat."
+        },
+        {
+          "list": [
+            "Heat evaporates water from oceans, rivers and lakes into vapour; plants add vapour by transpiration",
+            "The vapour rises, cools and condenses into clouds, then falls as rain, snow or hail — precipitation",
+            "Water flows back through rivers to the sea, or seeps into the ground, and the cycle repeats"
+          ]
+        },
+        {
+          "lead": "It is vital for life.",
+          "text": "The cycle sustains all living things."
+        },
+        {
+          "list": [
+            "It supplies fresh water for drinking, farming and industry",
+            "It also distributes heat and dissolves and carries nutrients that living things need"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do the carbon and nitrogen cycles keep these elements available to living things?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Carbon and nitrogen",
+          "text": "are essential to life, and natural cycles keep recycling them between the living world and the environment."
+        },
+        {
+          "lead": "The carbon cycle",
+          "text": "moves carbon through living things and the air."
+        },
+        {
+          "list": [
+            "Plants take in carbon dioxide for photosynthesis; respiration, decay and burning of fuels return it to the air"
+          ]
+        },
+        {
+          "lead": "The nitrogen cycle",
+          "text": "makes nitrogen usable."
+        },
+        {
+          "list": [
+            "Nitrogen-fixing bacteria and lightning turn atmospheric nitrogen into compounds plants can use",
+            "Decomposers return nitrogen to the soil, and denitrifying bacteria release it back to the air"
+          ]
+        }
       ]
     }
   ]

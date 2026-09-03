@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Food security means that food is available, accessible and affordable to all people at all times.",
-        { "lead": "Availability.", "text": "There must be enough food, whether produced within the country, imported, or held in government stocks." },
-        { "lead": "Accessibility.", "text": "The food must be within the physical reach of every person, in all regions." },
-        { "lead": "Affordability.", "text": "People must have enough money to buy sufficient, safe and nutritious food to meet their needs." },
-        { "lead": "Why it matters.", "text": "Food security is threatened by calamities such as droughts and floods, by war, and by rising prices, and the poorest — landless labourers and casual workers — are the most vulnerable. A country is truly food-secure only when even the poorest can obtain enough food at all times." }
+        {
+          "lead": "Availability.",
+          "text": "There must be enough food, whether produced within the country, imported, or held in government stocks."
+        },
+        {
+          "lead": "Accessibility.",
+          "text": "The food must be within the physical reach of every person, in all regions."
+        },
+        {
+          "lead": "Affordability.",
+          "text": "People must have enough money to buy sufficient, safe and nutritious food to meet their needs."
+        },
+        {
+          "lead": "Why it matters.",
+          "text": "Food security is threatened by calamities such as droughts and floods, by war, and by rising prices, and the poorest — landless labourers and casual workers — are the most vulnerable. A country is truly food-secure only when even the poorest can obtain enough food at all times."
+        }
       ]
     },
     {
@@ -19,9 +31,73 @@
       "word_limit": 150,
       "answer": [
         "After the Green Revolution made India self-sufficient in foodgrains, the government built a system to ensure food reaches everyone.",
-        { "lead": "Buffer stock.", "text": "The Food Corporation of India buys wheat and rice from farmers at a Minimum Support Price and stores them as a buffer stock. This stock is used to distribute food in deficit areas and to poorer households, and to steady prices in times of shortage." },
-        { "lead": "Public Distribution System.", "text": "The stock is distributed through the Public Distribution System, which supplies foodgrains at low prices through ration shops, or fair price shops, using ration cards such as the Antyodaya cards for the poorest families." },
-        { "lead": "Legal right.", "text": "The National Food Security Act of 2013 made access to food a legal right for about two-thirds of the population." }
+        {
+          "lead": "Buffer stock.",
+          "text": "The Food Corporation of India buys wheat and rice from farmers at a Minimum Support Price and stores them as a buffer stock. This stock is used to distribute food in deficit areas and to poorer households, and to steady prices in times of shortage."
+        },
+        {
+          "lead": "Public Distribution System.",
+          "text": "The stock is distributed through the Public Distribution System, which supplies foodgrains at low prices through ration shops, or fair price shops, using ration cards such as the Antyodaya cards for the poorest families."
+        },
+        {
+          "lead": "Legal right.",
+          "text": "The National Food Security Act of 2013 made access to food a legal right for about two-thirds of the population."
+        }
+      ]
+    },
+    {
+      "q": "Who are the people most affected by food insecurity in India, and when does it become most severe?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Food insecurity",
+          "text": "means not having reliable access to enough safe and nutritious food, and it does not affect everyone equally."
+        },
+        {
+          "list": [
+            "The worst affected are the landless, traditional artisans, casual labourers, and people in low-paid jobs",
+            "Socially disadvantaged groups and destitute households are especially vulnerable",
+            "Pregnant and nursing mothers and children under five suffer most from lack of nutrition"
+          ]
+        },
+        {
+          "lead": "It becomes most severe",
+          "text": "at particular times and in particular conditions."
+        },
+        {
+          "list": [
+            "A famine — as in Bengal in 1943 — brings widespread hunger and death",
+            "Seasonal food insecurity hits when there is no farm work between harvests, and disasters like floods and drought worsen it"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What is the role of cooperatives and government schemes in providing food security in India?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Beyond the buffer stock and PDS,",
+          "text": "cooperatives and other schemes strengthen food security, especially for the poor."
+        },
+        {
+          "list": [
+            "Cooperatives run shops that sell food and goods at low prices to the poor, as in parts of southern and western India",
+            "Mother Dairy and Amul are cooperative successes in supplying milk and vegetables at controlled rates"
+          ]
+        },
+        {
+          "lead": "Government schemes",
+          "text": "support nutrition directly."
+        },
+        {
+          "list": [
+            "The Mid-Day Meal scheme feeds schoolchildren, improving nutrition and attendance",
+            "Programmes like Antyodaya Anna Yojana target the poorest families with heavily subsidised grain"
+          ]
+        }
       ]
     }
   ]

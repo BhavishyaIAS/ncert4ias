@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "A tissue is a group of similar cells that work together to perform a specific function, allowing a division of labour in the body.",
-        { "lead": "Meristematic tissue.", "text": "This is made of cells that keep dividing and are responsible for growth. Apical meristem at the tips of roots and shoots increases length, lateral meristem increases girth, and intercalary meristem is found at the internodes." },
-        { "lead": "Permanent tissue.", "text": "These cells have stopped dividing. Simple permanent tissues include parenchyma for storage, collenchyma for flexibility, and sclerenchyma for hard support. Complex permanent tissues are the xylem, which carries water, and the phloem, which carries food." },
+        {
+          "lead": "Meristematic tissue.",
+          "text": "This is made of cells that keep dividing and are responsible for growth. Apical meristem at the tips of roots and shoots increases length, lateral meristem increases girth, and intercalary meristem is found at the internodes."
+        },
+        {
+          "lead": "Permanent tissue.",
+          "text": "These cells have stopped dividing. Simple permanent tissues include parenchyma for storage, collenchyma for flexibility, and sclerenchyma for hard support. Complex permanent tissues are the xylem, which carries water, and the phloem, which carries food."
+        },
         "The epidermis covers plant parts, with stomata for the exchange of gases."
       ]
     },
@@ -18,10 +24,84 @@
       "word_limit": 150,
       "answer": [
         "Animals have four main types of tissue, each with a distinct role.",
-        { "lead": "Epithelial tissue.", "text": "It covers and lines the surfaces of the body and its organs, giving protection and helping in absorption and secretion." },
-        { "lead": "Connective tissue.", "text": "It binds, supports and connects different parts; examples include blood, bone, cartilage, tendons, ligaments and fat, or adipose tissue." },
-        { "lead": "Muscular tissue.", "text": "It brings about movement and is of three kinds — striated or skeletal muscle, which is voluntary, smooth muscle, which is involuntary, and cardiac muscle, found in the heart." },
-        { "lead": "Nervous tissue.", "text": "Made of nerve cells called neurons, it carries messages as stimuli and responses throughout the body." }
+        {
+          "lead": "Epithelial tissue.",
+          "text": "It covers and lines the surfaces of the body and its organs, giving protection and helping in absorption and secretion."
+        },
+        {
+          "lead": "Connective tissue.",
+          "text": "It binds, supports and connects different parts; examples include blood, bone, cartilage, tendons, ligaments and fat, or adipose tissue."
+        },
+        {
+          "lead": "Muscular tissue.",
+          "text": "It brings about movement and is of three kinds — striated or skeletal muscle, which is voluntary, smooth muscle, which is involuntary, and cardiac muscle, found in the heart."
+        },
+        {
+          "lead": "Nervous tissue.",
+          "text": "Made of nerve cells called neurons, it carries messages as stimuli and responses throughout the body."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between meristematic and permanent tissues in plants, and give their functions.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Plant tissues",
+          "text": "are grouped by whether their cells can still divide."
+        },
+        {
+          "lead": "Meristematic tissue",
+          "text": "is made of actively dividing cells and is responsible for growth."
+        },
+        {
+          "list": [
+            "Apical meristem at the tips increases the length of roots and shoots",
+            "Lateral meristem increases the girth or thickness of the plant"
+          ]
+        },
+        {
+          "lead": "Permanent tissue",
+          "text": "is made of cells that have stopped dividing and taken up specific roles."
+        },
+        {
+          "list": [
+            "Simple tissues like parenchyma store food, collenchyma gives flexibility, and sclerenchyma gives strength",
+            "Complex tissues xylem and phloem conduct water and food through the plant"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do muscular and nervous tissues help the animal body respond and move?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Animal tissues",
+          "text": "include muscular and nervous tissue, which together allow the body to move and respond to its surroundings."
+        },
+        {
+          "lead": "Muscular tissue",
+          "text": "is made of cells that can contract and relax to cause movement."
+        },
+        {
+          "list": [
+            "Skeletal muscles move the bones and are under our control",
+            "Smooth muscles work organs like the stomach involuntarily, and cardiac muscle keeps the heart beating"
+          ]
+        },
+        {
+          "lead": "Nervous tissue",
+          "text": "carries messages rapidly through the body."
+        },
+        {
+          "list": [
+            "Nerve cells (neurons) receive and transmit impulses",
+            "This lets the body sense stimuli and respond quickly by directing the muscles"
+          ]
+        }
       ]
     }
   ]

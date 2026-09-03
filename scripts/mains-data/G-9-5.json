@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "India's natural vegetation varies with relief and climate, giving several distinct types.",
-        { "lead": "Tropical evergreen forests.", "text": "In areas of heavy rainfall, above 200 cm, such as the Western Ghats and the north-east, these dense forests stay green all year and yield rosewood, ebony and mahogany." },
-        { "lead": "Tropical deciduous forests.", "text": "The most widespread type, growing in monsoon regions; the trees, such as teak and sal, shed their leaves in the dry season." },
-        { "lead": "Thorn and montane forests.", "text": "Thorn forests and scrub, with acacia and cactus, grow in arid areas like Rajasthan, while montane forests change with altitude in the mountains." },
-        { "lead": "Mangrove forests.", "text": "In deltas and coastal areas, salt-tolerant mangroves such as the Sundari trees of the Sundarbans flourish." }
+        {
+          "lead": "Tropical evergreen forests.",
+          "text": "In areas of heavy rainfall, above 200 cm, such as the Western Ghats and the north-east, these dense forests stay green all year and yield rosewood, ebony and mahogany."
+        },
+        {
+          "lead": "Tropical deciduous forests.",
+          "text": "The most widespread type, growing in monsoon regions; the trees, such as teak and sal, shed their leaves in the dry season."
+        },
+        {
+          "lead": "Thorn and montane forests.",
+          "text": "Thorn forests and scrub, with acacia and cactus, grow in arid areas like Rajasthan, while montane forests change with altitude in the mountains."
+        },
+        {
+          "lead": "Mangrove forests.",
+          "text": "In deltas and coastal areas, salt-tolerant mangroves such as the Sundari trees of the Sundarbans flourish."
+        }
       ]
     },
     {
@@ -19,9 +31,69 @@
       "word_limit": 150,
       "answer": [
         "India is a mega-biodiversity country with rich flora and fauna, but many species are threatened by hunting, habitat loss and pollution.",
-        { "lead": "Why conserve.", "text": "Wildlife maintains the balance of nature, supports ecosystems, and is part of our natural heritage; the loss of one species can disturb entire food chains." },
-        { "lead": "How India conserves.", "text": "India protects wildlife through national parks, wildlife sanctuaries and biosphere reserves. Special projects such as Project Tiger, launched in 1973, and Project Elephant protect flagship species. Eighteen biosphere reserves, several recognised by UNESCO, conserve whole ecosystems, and the Botanical and Zoological Surveys study and record species." },
+        {
+          "lead": "Why conserve.",
+          "text": "Wildlife maintains the balance of nature, supports ecosystems, and is part of our natural heritage; the loss of one species can disturb entire food chains."
+        },
+        {
+          "lead": "How India conserves.",
+          "text": "India protects wildlife through national parks, wildlife sanctuaries and biosphere reserves. Special projects such as Project Tiger, launched in 1973, and Project Elephant protect flagship species. Eighteen biosphere reserves, several recognised by UNESCO, conserve whole ecosystems, and the Botanical and Zoological Surveys study and record species."
+        },
         "Together these efforts help safeguard India's biodiversity for the future."
+      ]
+    },
+    {
+      "q": "How do climate, soil and relief determine the type of natural vegetation found in a region?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Natural vegetation",
+          "text": "is the plant cover that grows on its own without human help, and its type depends closely on the physical environment."
+        },
+        {
+          "list": [
+            "Rainfall is key — areas of heavy rain grow dense evergreen forests, while dry areas have thorny bushes and scrub",
+            "Temperature and altitude change vegetation up a mountain, from tropical forests to alpine meadows",
+            "Soil decides what grows — mangroves in the deltaic soils, and distinct plants on hills and deserts"
+          ]
+        },
+        {
+          "lead": "So India's varied climate and terrain",
+          "text": "give it varied vegetation."
+        },
+        {
+          "list": [
+            "From the rainforests of the northeast to the deserts of Rajasthan, each belt reflects its climate and soil"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What is biodiversity, and why is India considered a country rich in biodiversity?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Biodiversity",
+          "text": "is the variety of plant and animal life in a region, and India is one of the world's biodiversity-rich countries."
+        },
+        {
+          "list": [
+            "India has a huge range of climates and landforms, from the Himalayas to the coasts and deserts",
+            "This variety supports thousands of species of plants, birds, animals, fishes and insects, many found nowhere else"
+          ]
+        },
+        {
+          "lead": "This richness must be protected.",
+          "text": "Human pressure threatens many species."
+        },
+        {
+          "list": [
+            "National parks, wildlife sanctuaries and biosphere reserves conserve habitats",
+            "Projects like Project Tiger and laws protect endangered species and preserve the balance of nature"
+          ]
+        }
       ]
     }
   ]

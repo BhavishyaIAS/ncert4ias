@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Work.", "text": "In science, work is done only when a force acts on an object and moves it through a distance in the direction of the force. Work equals force multiplied by displacement, and its SI unit is the joule. No work is done if the object does not move, or if the force acts at right angles to the motion, as when a person carries a load while walking on level ground." },
-        { "lead": "Energy.", "text": "Energy is the capacity to do work, also measured in joules. Kinetic energy is the energy an object has because of its motion, given by half its mass times its velocity squared. Potential energy is the energy an object has because of its position or height, given by its mass times gravity times height." }
+        {
+          "lead": "Work.",
+          "text": "In science, work is done only when a force acts on an object and moves it through a distance in the direction of the force. Work equals force multiplied by displacement, and its SI unit is the joule. No work is done if the object does not move, or if the force acts at right angles to the motion, as when a person carries a load while walking on level ground."
+        },
+        {
+          "lead": "Energy.",
+          "text": "Energy is the capacity to do work, also measured in joules. Kinetic energy is the energy an object has because of its motion, given by half its mass times its velocity squared. Potential energy is the energy an object has because of its position or height, given by its mass times gravity times height."
+        }
       ]
     },
     {
@@ -15,8 +21,71 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Conservation of energy.", "text": "The law of conservation of energy states that energy can neither be created nor destroyed; it can only be transformed from one form to another, and the total energy of a system remains constant. For example, when a body falls, its potential energy is steadily converted into kinetic energy, but the sum of the two stays the same throughout the fall." },
-        { "lead": "Power.", "text": "Power is the rate of doing work, that is, the work done divided by the time taken. Its SI unit is the watt, where one watt is one joule per second. In daily life, electrical energy is measured in kilowatt-hours, and one kilowatt-hour is called one unit of electricity." }
+        {
+          "lead": "Conservation of energy.",
+          "text": "The law of conservation of energy states that energy can neither be created nor destroyed; it can only be transformed from one form to another, and the total energy of a system remains constant. For example, when a body falls, its potential energy is steadily converted into kinetic energy, but the sum of the two stays the same throughout the fall."
+        },
+        {
+          "lead": "Power.",
+          "text": "Power is the rate of doing work, that is, the work done divided by the time taken. Its SI unit is the watt, where one watt is one joule per second. In daily life, electrical energy is measured in kilowatt-hours, and one kilowatt-hour is called one unit of electricity."
+        }
+      ]
+    },
+    {
+      "q": "How are different forms of energy transformed from one to another, with examples?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Energy",
+          "text": "exists in many forms and can be changed from one form to another, which is how we make use of it."
+        },
+        {
+          "list": [
+            "In a hydroelectric plant, the potential energy of stored water becomes kinetic energy as it falls, then electrical energy in the turbine",
+            "In an electric bulb, electrical energy changes into light and heat",
+            "In photosynthesis, light energy is stored as chemical energy in food"
+          ]
+        },
+        {
+          "lead": "These transformations",
+          "text": "follow a fundamental rule."
+        },
+        {
+          "list": [
+            "Energy is only converted, never created or destroyed",
+            "Some energy usually turns into a less useful form, such as heat lost to the surroundings"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What is the commercial unit of energy, and how is it different from power?",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Energy and power",
+          "text": "are related but distinct ideas often confused in daily life."
+        },
+        {
+          "lead": "Power",
+          "text": "is the rate of doing work or the rate at which energy is used — its SI unit is the watt, which is one joule per second."
+        },
+        {
+          "lead": "Energy",
+          "text": "is the total work done or used over time."
+        },
+        {
+          "list": [
+            "The commercial unit of energy is the kilowatt-hour (kWh), the 'unit' on an electricity bill",
+            "One kWh is the energy used by a 1000-watt appliance in one hour"
+          ]
+        },
+        {
+          "lead": "So",
+          "text": "power tells how fast energy is used, while energy is the total amount consumed."
+        }
       ]
     }
   ]

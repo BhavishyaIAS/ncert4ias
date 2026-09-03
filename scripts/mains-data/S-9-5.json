@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Mixtures can be classified by the size of their particles into solutions, suspensions and colloids.",
-        { "lead": "Solution.", "text": "A solution is a homogeneous mixture, such as salt in water, in which the particles are so small that they cannot be seen and do not scatter light or settle down." },
-        { "lead": "Suspension.", "text": "A suspension is a heterogeneous mixture, such as chalk in water, whose particles are large, can be seen, scatter light, and settle down on standing." },
-        { "lead": "Colloid.", "text": "A colloid, such as milk or fog, has particles intermediate in size. It appears uniform but scatters a beam of light, showing the Tyndall effect, and its particles do not settle down." },
+        {
+          "lead": "Solution.",
+          "text": "A solution is a homogeneous mixture, such as salt in water, in which the particles are so small that they cannot be seen and do not scatter light or settle down."
+        },
+        {
+          "lead": "Suspension.",
+          "text": "A suspension is a heterogeneous mixture, such as chalk in water, whose particles are large, can be seen, scatter light, and settle down on standing."
+        },
+        {
+          "lead": "Colloid.",
+          "text": "A colloid, such as milk or fog, has particles intermediate in size. It appears uniform but scatters a beam of light, showing the Tyndall effect, and its particles do not settle down."
+        },
         "Thus particle size decides whether a mixture is a solution, a colloid or a suspension."
       ]
     },
@@ -19,9 +28,77 @@
       "word_limit": 150,
       "answer": [
         "Different methods are used to separate mixtures, depending on the properties of their components.",
-        { "lead": "Simple methods.", "text": "Evaporation recovers a dissolved solid such as salt from its solution, filtration separates an insoluble solid from a liquid, and a separating funnel separates two immiscible liquids like oil and water. Centrifugation separates fine suspended particles." },
-        { "lead": "Special methods.", "text": "Sublimation separates substances such as camphor or ammonium chloride that change directly from solid to gas. Chromatography separates dyes and pigments. Distillation separates miscible liquids by their different boiling points, and fractional distillation separates liquids with close boiling points, as in refining petroleum or separating the gases of air." },
-        { "lead": "Purest crystals.", "text": "Crystallisation gives pure crystals of a solid from its solution." }
+        {
+          "lead": "Simple methods.",
+          "text": "Evaporation recovers a dissolved solid such as salt from its solution, filtration separates an insoluble solid from a liquid, and a separating funnel separates two immiscible liquids like oil and water. Centrifugation separates fine suspended particles."
+        },
+        {
+          "lead": "Special methods.",
+          "text": "Sublimation separates substances such as camphor or ammonium chloride that change directly from solid to gas. Chromatography separates dyes and pigments. Distillation separates miscible liquids by their different boiling points, and fractional distillation separates liquids with close boiling points, as in refining petroleum or separating the gases of air."
+        },
+        {
+          "lead": "Purest crystals.",
+          "text": "Crystallisation gives pure crystals of a solid from its solution."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between physical and chemical changes, and explain why they matter.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Matter changes",
+          "text": "in two broad ways — physically and chemically — and the distinction lies in whether a new substance forms."
+        },
+        {
+          "lead": "A physical change",
+          "text": "alters only the form or state of a substance, and no new substance is made."
+        },
+        {
+          "list": [
+            "Melting of ice, boiling of water and dissolving salt are physical changes",
+            "They are usually reversible, and the substance's chemical identity stays the same"
+          ]
+        },
+        {
+          "lead": "A chemical change",
+          "text": "produces one or more new substances with new properties."
+        },
+        {
+          "list": [
+            "Rusting of iron, burning of paper and cooking of food are chemical changes",
+            "They are usually hard to reverse"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How can we tell whether a given sample is an element, a compound or a mixture?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Pure substances and mixtures",
+          "text": "can be told apart by their composition and behaviour."
+        },
+        {
+          "lead": "An element",
+          "text": "is made of only one kind of atom and cannot be broken down by chemical means — like gold, oxygen or copper."
+        },
+        {
+          "lead": "A compound",
+          "text": "is formed by chemically combining elements in a fixed ratio, and has properties different from its elements — like water or common salt."
+        },
+        {
+          "lead": "A mixture",
+          "text": "is a physical blend whose components keep their own properties and can be present in any ratio."
+        },
+        {
+          "list": [
+            "Mixtures can be separated by physical methods, but compounds cannot"
+          ]
+        }
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Several conditions after the First World War helped Hitler and the Nazis come to power.",
-        { "lead": "The Treaty of Versailles.", "text": "Germany's defeat in 1918 was followed by the harsh Treaty of Versailles, which blamed Germany for the war, stripped it of colonies and territory, imposed a huge war indemnity and disarmed it. This caused deep national humiliation and anger against the Weimar Republic that signed it." },
-        { "lead": "The Great Depression.", "text": "The economic crisis of 1929 brought mass unemployment and ruin, and people lost faith in the weak democratic government." },
-        { "lead": "Hitler's appeal.", "text": "Hitler, leading the Nazi Party, promised to restore German pride, undo the Versailles injustice and provide jobs. In 1933 he became Chancellor, and through the Enabling Act soon gained dictatorial power." }
+        {
+          "lead": "The Treaty of Versailles.",
+          "text": "Germany's defeat in 1918 was followed by the harsh Treaty of Versailles, which blamed Germany for the war, stripped it of colonies and territory, imposed a huge war indemnity and disarmed it. This caused deep national humiliation and anger against the Weimar Republic that signed it."
+        },
+        {
+          "lead": "The Great Depression.",
+          "text": "The economic crisis of 1929 brought mass unemployment and ruin, and people lost faith in the weak democratic government."
+        },
+        {
+          "lead": "Hitler's appeal.",
+          "text": "Hitler, leading the Nazi Party, promised to restore German pride, undo the Versailles injustice and provide jobs. In 1933 he became Chancellor, and through the Enabling Act soon gained dictatorial power."
+        }
       ]
     },
     {
@@ -17,8 +26,68 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Nazi ideology.", "text": "Nazism was built on extreme racism. Hitler preached the myth of a superior 'Aryan' race destined to rule, and demanded living space for Germany. He spread hatred of Jews, or anti-Semitism, and of Roma, disabled people and others regarded as inferior. A totalitarian state was built with a secret police, the Gestapo, and powerful propaganda led by Goebbels." },
-        { "lead": "The Holocaust.", "text": "Jews were stripped of rights by the Nuremberg Laws, confined to ghettos, and then to concentration camps. In the Holocaust, about six million Jews and many others were systematically murdered in camps such as Auschwitz — the most horrific crime of the Nazi regime, which ended only with Germany's defeat in 1945." }
+        {
+          "lead": "Nazi ideology.",
+          "text": "Nazism was built on extreme racism. Hitler preached the myth of a superior 'Aryan' race destined to rule, and demanded living space for Germany. He spread hatred of Jews, or anti-Semitism, and of Roma, disabled people and others regarded as inferior. A totalitarian state was built with a secret police, the Gestapo, and powerful propaganda led by Goebbels."
+        },
+        {
+          "lead": "The Holocaust.",
+          "text": "Jews were stripped of rights by the Nuremberg Laws, confined to ghettos, and then to concentration camps. In the Holocaust, about six million Jews and many others were systematically murdered in camps such as Auschwitz — the most horrific crime of the Nazi regime, which ended only with Germany's defeat in 1945."
+        }
+      ]
+    },
+    {
+      "q": "How did the Great Depression and the weaknesses of the Weimar Republic contribute to the rise of Hitler?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Weimar Republic",
+          "text": "set up after Germany's defeat in the First World War was weak and unpopular from the start."
+        },
+        {
+          "list": [
+            "It was blamed for accepting the harsh Treaty of Versailles, which humiliated Germany and demanded heavy reparations",
+            "Its system of proportional representation produced unstable coalition governments"
+          ]
+        },
+        {
+          "lead": "The Great Depression",
+          "text": "then shattered the economy."
+        },
+        {
+          "list": [
+            "From 1929 mass unemployment, falling incomes and ruined businesses spread fear and despair",
+            "Hitler and the Nazis exploited this crisis, promising jobs, national pride and a way out, which won them mass support"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did the Nazi state use propaganda and control over youth to build support?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Nazis",
+          "text": "held on to power not only by force but by shaping how people thought, especially the young."
+        },
+        {
+          "list": [
+            "Propaganda through films, posters, radio and rallies spread Nazi ideas and the cult of Hitler",
+            "The state controlled the press and used slogans and images to blame Jews and others for Germany's troubles"
+          ]
+        },
+        {
+          "lead": "Youth were a special target.",
+          "text": "The Nazis wanted to mould the next generation."
+        },
+        {
+          "list": [
+            "Schools taught Nazi ideology and racial ideas, and 'undesirable' teachers and children were removed",
+            "Boys joined the Hitler Youth, trained for war and loyalty to the Nazi state"
+          ]
+        }
       ]
     }
   ]

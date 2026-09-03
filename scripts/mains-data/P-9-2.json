@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Need for a constitution.", "text": "A constitution is the supreme law that expresses a society's shared ideals, defines how the government is to be formed and what powers it has, sets limits on those powers, and guarantees the rights of citizens. It builds trust and coordination among diverse people, as the example of post-apartheid South Africa shows." },
-        { "lead": "Making the Indian Constitution.", "text": "It was framed by the Constituent Assembly, which worked from 1946 to 1949 and had 299 members. Dr Rajendra Prasad was its President and Dr B.R. Ambedkar chaired the Drafting Committee. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950. It drew on the ideals of the freedom struggle and on the experience of other democracies." }
+        {
+          "lead": "Need for a constitution.",
+          "text": "A constitution is the supreme law that expresses a society's shared ideals, defines how the government is to be formed and what powers it has, sets limits on those powers, and guarantees the rights of citizens. It builds trust and coordination among diverse people, as the example of post-apartheid South Africa shows."
+        },
+        {
+          "lead": "Making the Indian Constitution.",
+          "text": "It was framed by the Constituent Assembly, which worked from 1946 to 1949 and had 299 members. Dr Rajendra Prasad was its President and Dr B.R. Ambedkar chaired the Drafting Committee. The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950. It drew on the ideals of the freedom struggle and on the experience of other democracies."
+        }
       ]
     },
     {
@@ -16,9 +22,73 @@
       "word_limit": 150,
       "answer": [
         "The Preamble is the introduction to the Constitution and sets out the values on which the Republic is founded.",
-        { "lead": "Source of authority.", "text": "It begins with the words 'We, the People of India', declaring that the Constitution draws its authority from the people themselves." },
-        { "lead": "Nature of the state.", "text": "It describes India as a Sovereign, Socialist, Secular, Democratic Republic — sovereign meaning free to decide its own affairs, socialist meaning aiming at social and economic equality, secular meaning equal respect for all religions, democratic meaning ruled by elected representatives, and a republic meaning the head of state is elected." },
-        { "lead": "Objectives.", "text": "It promises to secure for all citizens justice, liberty, equality and fraternity, so that every individual enjoys dignity and unity is maintained." }
+        {
+          "lead": "Source of authority.",
+          "text": "It begins with the words 'We, the People of India', declaring that the Constitution draws its authority from the people themselves."
+        },
+        {
+          "lead": "Nature of the state.",
+          "text": "It describes India as a Sovereign, Socialist, Secular, Democratic Republic — sovereign meaning free to decide its own affairs, socialist meaning aiming at social and economic equality, secular meaning equal respect for all religions, democratic meaning ruled by elected representatives, and a republic meaning the head of state is elected."
+        },
+        {
+          "lead": "Objectives.",
+          "text": "It promises to secure for all citizens justice, liberty, equality and fraternity, so that every individual enjoys dignity and unity is maintained."
+        }
+      ]
+    },
+    {
+      "q": "How was the Constituent Assembly formed, and why is the Indian Constitution regarded as the outcome of a wide consensus?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Constituent Assembly",
+          "text": "drafted India's Constitution between 1946 and 1949, and its composition and methods gave the document broad legitimacy."
+        },
+        {
+          "list": [
+            "Its members were elected largely by the provincial assemblies and represented different regions, communities and viewpoints",
+            "Major decisions were taken after careful discussion, argument and consensus, not by narrow majorities"
+          ]
+        },
+        {
+          "lead": "It drew on wide sources.",
+          "text": "The makers learned from India and the world."
+        },
+        {
+          "list": [
+            "The values of the freedom struggle guided its spirit",
+            "It borrowed useful features from many countries' constitutions and adapted them to Indian conditions, making it a document of consensus"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do the guiding values of the Constitution shape the working of Indian democracy?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Constitution",
+          "text": "is not only a set of rules but an expression of shared values that guide the nation."
+        },
+        {
+          "list": [
+            "Sovereignty means the people are supreme and free to decide their own affairs",
+            "Socialism and secularism aim at social and economic justice and equal respect for all religions",
+            "Democracy and the republic ensure rulers are chosen by the people and there is no hereditary head of state"
+          ]
+        },
+        {
+          "lead": "These values",
+          "text": "are the yardstick for laws and government."
+        },
+        {
+          "list": [
+            "Justice, liberty, equality and fraternity are promised to every citizen",
+            "They inspire and constrain how power is used, keeping democracy true to its ideals"
+          ]
+        }
       ]
     }
   ]

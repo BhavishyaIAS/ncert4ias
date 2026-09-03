@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Every kind of production, including farming in Palampur, requires four factors.",
-        { "lead": "Land.", "text": "The first is land, along with other natural resources such as water and minerals. In Palampur the land under cultivation is fixed and cannot be expanded." },
-        { "lead": "Labour.", "text": "The second is labour — the people who do the work, from landless labourers to farmers themselves." },
-        { "lead": "Physical capital.", "text": "The third is physical capital, which includes fixed capital such as tools, machines and buildings that last many years, and working capital such as raw materials and money in hand." },
-        { "lead": "Human capital.", "text": "The fourth is human capital — the knowledge and enterprise needed to bring the other three together and organise production." }
+        {
+          "lead": "Land.",
+          "text": "The first is land, along with other natural resources such as water and minerals. In Palampur the land under cultivation is fixed and cannot be expanded."
+        },
+        {
+          "lead": "Labour.",
+          "text": "The second is labour — the people who do the work, from landless labourers to farmers themselves."
+        },
+        {
+          "lead": "Physical capital.",
+          "text": "The third is physical capital, which includes fixed capital such as tools, machines and buildings that last many years, and working capital such as raw materials and money in hand."
+        },
+        {
+          "lead": "Human capital.",
+          "text": "The fourth is human capital — the knowledge and enterprise needed to bring the other three together and organise production."
+        }
       ]
     },
     {
@@ -19,9 +31,72 @@
       "word_limit": 150,
       "answer": [
         "Since the land in Palampur is fixed, farmers had to grow more on the same land by improving their methods.",
-        { "lead": "Multiple cropping.", "text": "They practise multiple cropping, growing more than one crop on the same field during the year, which is the most common way of increasing production." },
-        { "lead": "The Green Revolution.", "text": "Farmers also adopted modern farming through the Green Revolution — high-yielding variety seeds combined with assured irrigation from tube wells, chemical fertilisers, pesticides and machinery. This greatly raised yields, especially of wheat." },
-        { "lead": "The cost.", "text": "However, these methods need much more water and capital, and the overuse of chemical fertilisers and groundwater has begun to harm the soil and the environment, showing that such gains must be used sustainably." }
+        {
+          "lead": "Multiple cropping.",
+          "text": "They practise multiple cropping, growing more than one crop on the same field during the year, which is the most common way of increasing production."
+        },
+        {
+          "lead": "The Green Revolution.",
+          "text": "Farmers also adopted modern farming through the Green Revolution — high-yielding variety seeds combined with assured irrigation from tube wells, chemical fertilisers, pesticides and machinery. This greatly raised yields, especially of wheat."
+        },
+        {
+          "lead": "The cost.",
+          "text": "However, these methods need much more water and capital, and the overuse of chemical fertilisers and groundwater has begun to harm the soil and the environment, showing that such gains must be used sustainably."
+        }
+      ]
+    },
+    {
+      "q": "How is farm labour organised in Palampur, and why do many labourers get low wages?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Farming in Palampur",
+          "text": "depends heavily on hired labour drawn from landless families and small farmers who cannot live on their own tiny plots."
+        },
+        {
+          "list": [
+            "Labourers are hired for specific tasks or for the whole year, and may be paid in cash or in kind (crops, meals)",
+            "The minimum wage set by the government is often not paid in practice"
+          ]
+        },
+        {
+          "lead": "Wages stay low",
+          "text": "because there is heavy competition for work."
+        },
+        {
+          "list": [
+            "Many landless workers chase few jobs, so employers can pay less than the minimum wage",
+            "This surplus of labour keeps bargaining power with landowners",
+            "Low wages keep farm labourers among the poorest in the village"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why is capital needed in production, and how do small and large farmers arrange it differently in Palampur?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Capital",
+          "text": "is the money and goods — tools, machines, seeds, fertilisers — needed to start and continue production, apart from land and labour."
+        },
+        {
+          "list": [
+            "Working capital covers raw materials and cash used up in production; fixed capital lasts many years, like tools and machines"
+          ]
+        },
+        {
+          "lead": "Farmers arrange capital differently.",
+          "text": "Their access depends on their means."
+        },
+        {
+          "list": [
+            "Small farmers usually borrow from large farmers, village moneylenders or traders, often at high interest, and can fall into debt",
+            "Medium and large farmers have their own savings from selling surplus crops, which they reinvest in farming"
+          ]
+        }
       ]
     }
   ]

@@ -6,8 +6,14 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Distance and displacement.", "text": "Distance is the total length of the path travelled by an object; it is a scalar quantity, having only magnitude. Displacement is the shortest distance from the starting point to the final position, measured in a straight line with direction; it is a vector quantity. Displacement can even be zero — for example, when an object returns to its starting point — while the distance covered is not." },
-        { "lead": "Speed and velocity.", "text": "Speed is the distance travelled per unit time and is a scalar. Velocity is the displacement per unit time and is a vector, being the speed of an object in a particular direction. Thus speed tells us how fast an object moves, while velocity tells us how fast and in which direction." }
+        {
+          "lead": "Distance and displacement.",
+          "text": "Distance is the total length of the path travelled by an object; it is a scalar quantity, having only magnitude. Displacement is the shortest distance from the starting point to the final position, measured in a straight line with direction; it is a vector quantity. Displacement can even be zero — for example, when an object returns to its starting point — while the distance covered is not."
+        },
+        {
+          "lead": "Speed and velocity.",
+          "text": "Speed is the distance travelled per unit time and is a scalar. Velocity is the displacement per unit time and is a vector, being the speed of an object in a particular direction. Thus speed tells us how fast an object moves, while velocity tells us how fast and in which direction."
+        }
       ]
     },
     {
@@ -15,8 +21,72 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Equations of motion.", "text": "For an object moving with uniform acceleration, three equations relate the initial velocity u, final velocity v, acceleration a, time t and displacement s. They are v equals u plus a t; s equals u t plus half a t squared; and v squared equals u squared plus two a s. Using these, any unknown quantity can be found if the others are known." },
-        { "lead": "Velocity–time graphs.", "text": "In a velocity–time graph, the slope of the line gives the acceleration of the object, and the area under the line gives the distance travelled. A horizontal line means constant velocity, or zero acceleration, while a sloping straight line means uniform acceleration." }
+        {
+          "lead": "Equations of motion.",
+          "text": "For an object moving with uniform acceleration, three equations relate the initial velocity u, final velocity v, acceleration a, time t and displacement s. They are v equals u plus a t; s equals u t plus half a t squared; and v squared equals u squared plus two a s. Using these, any unknown quantity can be found if the others are known."
+        },
+        {
+          "lead": "Velocity–time graphs.",
+          "text": "In a velocity–time graph, the slope of the line gives the acceleration of the object, and the area under the line gives the distance travelled. A horizontal line means constant velocity, or zero acceleration, while a sloping straight line means uniform acceleration."
+        }
+      ]
+    },
+    {
+      "q": "What is uniform circular motion, and why is it called accelerated motion?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Uniform circular motion",
+          "text": "is the motion of an object moving along a circular path at a constant speed."
+        },
+        {
+          "list": [
+            "The distance covered in each unit of time is the same, so the speed does not change",
+            "An athlete on a circular track and the moon around the earth are examples"
+          ]
+        },
+        {
+          "lead": "Yet it is accelerated motion.",
+          "text": "This is because velocity is not the same as speed."
+        },
+        {
+          "list": [
+            "Velocity has both magnitude and direction; in circular motion the direction of motion changes at every point",
+            "A change in the direction of velocity means the velocity is changing, and any change in velocity is acceleration"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do distance–time and velocity–time graphs describe the motion of an object?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Graphs",
+          "text": "give a clear picture of how an object moves over time."
+        },
+        {
+          "lead": "A distance–time graph",
+          "text": "plots distance against time."
+        },
+        {
+          "list": [
+            "A straight line means uniform speed; the slope of the line gives the speed",
+            "A curved line means the speed is changing"
+          ]
+        },
+        {
+          "lead": "A velocity–time graph",
+          "text": "plots velocity against time."
+        },
+        {
+          "list": [
+            "A straight horizontal line means constant velocity; a sloping line means uniform acceleration",
+            "The slope gives acceleration, and the area under the graph gives the distance travelled"
+          ]
+        }
       ]
     }
   ]

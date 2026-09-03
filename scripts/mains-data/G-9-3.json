@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "India's rivers fall into two great groups that differ in their sources and nature.",
-        { "lead": "Himalayan rivers.", "text": "Rising in the snow-covered Himalayas, they are perennial, flowing all year because they are fed by both snow-melt and rain. They carry large volumes of water, do intense erosion, and form meanders, ox-bow lakes and large deltas. The three main systems are the Indus, the Ganga and the Brahmaputra." },
-        { "lead": "Peninsular rivers.", "text": "Rising in the plateau, they are mostly seasonal and depend on rainfall, so they shrink in the dry season. They are shorter and flow through shallow valleys. Most, like the Godavari, Krishna and Kaveri, flow east into the Bay of Bengal, while the Narmada and Tapi flow west into the Arabian Sea." }
+        {
+          "lead": "Himalayan rivers.",
+          "text": "Rising in the snow-covered Himalayas, they are perennial, flowing all year because they are fed by both snow-melt and rain. They carry large volumes of water, do intense erosion, and form meanders, ox-bow lakes and large deltas. The three main systems are the Indus, the Ganga and the Brahmaputra."
+        },
+        {
+          "lead": "Peninsular rivers.",
+          "text": "Rising in the plateau, they are mostly seasonal and depend on rainfall, so they shrink in the dry season. They are shorter and flow through shallow valleys. Most, like the Godavari, Krishna and Kaveri, flow east into the Bay of Bengal, while the Narmada and Tapi flow west into the Arabian Sea."
+        }
       ]
     },
     {
@@ -16,8 +22,69 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "The Ganga system.", "text": "The Ganga rises as the Bhagirathi from the Gangotri glacier and is joined by the Yamuna and by rivers from the Himalayas such as the Ghaghara, Gandak and Kosi, and from the peninsula by the Son. Flowing through the fertile northern plains, it finally joins the Brahmaputra to form the vast Sundarban delta, the largest in the world." },
-        { "lead": "Importance of rivers.", "text": "Rivers are of great value: they provide water for drinking and irrigation, generate hydroelectric power, support navigation and fisheries, and have nourished civilisation along their banks. However, many rivers, especially the Ganga, are badly polluted, which is why programmes like Namami Gange work to clean them." }
+        {
+          "lead": "The Ganga system.",
+          "text": "The Ganga rises as the Bhagirathi from the Gangotri glacier and is joined by the Yamuna and by rivers from the Himalayas such as the Ghaghara, Gandak and Kosi, and from the peninsula by the Son. Flowing through the fertile northern plains, it finally joins the Brahmaputra to form the vast Sundarban delta, the largest in the world."
+        },
+        {
+          "lead": "Importance of rivers.",
+          "text": "Rivers are of great value: they provide water for drinking and irrigation, generate hydroelectric power, support navigation and fisheries, and have nourished civilisation along their banks. However, many rivers, especially the Ganga, are badly polluted, which is why programmes like Namami Gange work to clean them."
+        }
+      ]
+    },
+    {
+      "q": "Why is river pollution a growing problem in India, and what steps are being taken to control it?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "India's rivers",
+          "text": "are lifelines, but rising demand and waste have badly polluted them."
+        },
+        {
+          "list": [
+            "Growing towns and industries dump untreated sewage and effluents into rivers",
+            "Farm chemicals wash into the water, and religious and domestic activities add more waste",
+            "Heavy use of river water for irrigation and industry reduces the flow that could dilute pollution"
+          ]
+        },
+        {
+          "lead": "Efforts to clean them",
+          "text": "are under way."
+        },
+        {
+          "list": [
+            "Action plans such as the Ganga and Yamuna programmes aim to treat sewage before it reaches the rivers",
+            "Laws regulate industrial discharge, but success depends on strict enforcement and public cooperation"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Describe the Brahmaputra river system and explain why it causes heavy floods.",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Brahmaputra",
+          "text": "rises in Tibet beyond the Himalayas, flows east and then bends south into India through Arunachal Pradesh and Assam before joining the Ganga in Bangladesh."
+        },
+        {
+          "list": [
+            "In Tibet it carries less water, but in India heavy rainfall greatly increases its volume",
+            "It carries a very large load of silt and sediment from the young, fast-eroding Himalayas"
+          ]
+        },
+        {
+          "lead": "It causes severe floods",
+          "text": "for several reasons."
+        },
+        {
+          "list": [
+            "Heavy monsoon rain swells the river far beyond its banks",
+            "Deposited silt raises the riverbed, and the river often shifts its channel, flooding wide areas of Assam every year"
+          ]
+        }
       ]
     }
   ]

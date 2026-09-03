@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "How sound travels.", "text": "Sound is produced by vibrating objects and travels as a longitudinal wave, in which the particles of the medium vibrate back and forth along the direction of travel, forming compressions and rarefactions. Sound needs a material medium and cannot travel through a vacuum; it moves fastest through solids and slowest through gases." },
-        { "lead": "Characteristics.", "text": "The frequency of a wave, measured in hertz, decides the pitch, and the amplitude decides the loudness. The wavelength is the distance between two consecutive compressions, and the speed equals frequency times wavelength. The human ear can hear frequencies from about 20 to 20,000 hertz; below this range is infrasound and above it is ultrasound." }
+        {
+          "lead": "How sound travels.",
+          "text": "Sound is produced by vibrating objects and travels as a longitudinal wave, in which the particles of the medium vibrate back and forth along the direction of travel, forming compressions and rarefactions. Sound needs a material medium and cannot travel through a vacuum; it moves fastest through solids and slowest through gases."
+        },
+        {
+          "lead": "Characteristics.",
+          "text": "The frequency of a wave, measured in hertz, decides the pitch, and the amplitude decides the loudness. The wavelength is the distance between two consecutive compressions, and the speed equals frequency times wavelength. The human ear can hear frequencies from about 20 to 20,000 hertz; below this range is infrasound and above it is ultrasound."
+        }
       ]
     },
     {
@@ -15,8 +21,72 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Echo.", "text": "An echo is a sound heard again after it is reflected from a distant surface. For the reflected sound to be heard as a separate echo, the reflecting surface must be at least about 17.2 metres away, so that the reflected sound reaches the ear after one-tenth of a second. Repeated reflections that make a sound persist in a hall are called reverberation." },
-        { "lead": "SONAR.", "text": "SONAR, which stands for Sound Navigation and Ranging, uses ultrasound and the principle of the echo. A device sends ultrasonic waves into the sea, and by timing the echo that returns after striking the sea bed or an object, it can measure the depth of the ocean and locate submarines or shoals of fish. Bats and dolphins use the same idea, called echolocation, to navigate." }
+        {
+          "lead": "Echo.",
+          "text": "An echo is a sound heard again after it is reflected from a distant surface. For the reflected sound to be heard as a separate echo, the reflecting surface must be at least about 17.2 metres away, so that the reflected sound reaches the ear after one-tenth of a second. Repeated reflections that make a sound persist in a hall are called reverberation."
+        },
+        {
+          "lead": "SONAR.",
+          "text": "SONAR, which stands for Sound Navigation and Ranging, uses ultrasound and the principle of the echo. A device sends ultrasonic waves into the sea, and by timing the echo that returns after striking the sea bed or an object, it can measure the depth of the ocean and locate submarines or shoals of fish. Bats and dolphins use the same idea, called echolocation, to navigate."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between the frequency, amplitude and wavelength of a sound wave, and relate them to what we hear.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A sound wave",
+          "text": "is described by several quantities that together decide how it sounds to us."
+        },
+        {
+          "list": [
+            "Frequency is the number of vibrations per second, measured in hertz; it decides the pitch — a high frequency gives a shrill sound",
+            "Amplitude is the size of the vibration; it decides the loudness — a larger amplitude gives a louder sound",
+            "Wavelength is the distance between two consecutive compressions or rarefactions"
+          ]
+        },
+        {
+          "lead": "Speed links them.",
+          "text": "The speed of sound equals frequency times wavelength."
+        },
+        {
+          "list": [
+            "The quality or timbre lets us tell apart two sounds of the same pitch and loudness from different sources"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does the reflection of sound explain echoes, reverberation and the working of instruments like the stethoscope?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Sound reflects",
+          "text": "off hard surfaces, and this reflection has many effects and uses."
+        },
+        {
+          "lead": "An echo",
+          "text": "is a reflected sound heard distinctly after the original."
+        },
+        {
+          "list": [
+            "To hear a separate echo, the reflecting surface must be far enough that the reflected sound returns after about a tenth of a second",
+            "Repeated reflections in a closed hall cause persistence of sound called reverberation"
+          ]
+        },
+        {
+          "lead": "Reflection is put to use.",
+          "text": "Many devices rely on it."
+        },
+        {
+          "list": [
+            "Megaphones and soundboards direct sound towards the listener",
+            "A stethoscope carries the sounds of the heart to the doctor's ears by repeated reflection"
+          ]
+        }
       ]
     }
   ]

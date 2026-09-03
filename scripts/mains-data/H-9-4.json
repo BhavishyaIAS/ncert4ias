@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Causes of deforestation.", "text": "Under British rule, forests were cleared rapidly for several reasons. Land was needed for commercial crops such as jute, sugar and cotton, and to feed a growing population. Huge amounts of timber were required for railway sleepers and for building ships for the Royal Navy, and forests were cleared to set up tea, coffee and rubber plantations." },
-        { "lead": "Scientific forestry.", "text": "The British set up a Forest Department under Dietrich Brandis, the first Inspector-General of Forests, and introduced what they called scientific forestry. Natural forests with many species were cut down and replaced by plantations of a single type of tree, such as teak or sal, planted in straight rows, so as to produce timber for sale — in effect, a monoculture serving colonial commerce." }
+        {
+          "lead": "Causes of deforestation.",
+          "text": "Under British rule, forests were cleared rapidly for several reasons. Land was needed for commercial crops such as jute, sugar and cotton, and to feed a growing population. Huge amounts of timber were required for railway sleepers and for building ships for the Royal Navy, and forests were cleared to set up tea, coffee and rubber plantations."
+        },
+        {
+          "lead": "Scientific forestry.",
+          "text": "The British set up a Forest Department under Dietrich Brandis, the first Inspector-General of Forests, and introduced what they called scientific forestry. Natural forests with many species were cut down and replaced by plantations of a single type of tree, such as teak or sal, planted in straight rows, so as to produce timber for sale — in effect, a monoculture serving colonial commerce."
+        }
       ]
     },
     {
@@ -15,8 +21,68 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Impact of forest laws.", "text": "The Indian Forest Acts classified forests as reserved, protected and village forests and took away villagers' free access to them. Shifting cultivation, or jhum, was banned, and hunting, grazing and the collection of forest produce were restricted, destroying the livelihoods of forest communities. People were also forced to provide cheap or free labour for the Forest Department." },
-        { "lead": "Their response.", "text": "This oppression led to rebellions, such as the Bastar rebellion of 1910 in central India, where forest people rose against the loss of their rights. In Java, under Dutch rule, similar forced-labour systems provoked resistance led by Surontiko Samin. Forest peoples thus fought back against colonial control of their forests." }
+        {
+          "lead": "Impact of forest laws.",
+          "text": "The Indian Forest Acts classified forests as reserved, protected and village forests and took away villagers' free access to them. Shifting cultivation, or jhum, was banned, and hunting, grazing and the collection of forest produce were restricted, destroying the livelihoods of forest communities. People were also forced to provide cheap or free labour for the Forest Department."
+        },
+        {
+          "lead": "Their response.",
+          "text": "This oppression led to rebellions, such as the Bastar rebellion of 1910 in central India, where forest people rose against the loss of their rights. In Java, under Dutch rule, similar forced-labour systems provoked resistance led by Surontiko Samin. Forest peoples thus fought back against colonial control of their forests."
+        }
+      ]
+    },
+    {
+      "q": "How did the rise of commercial farming and the demand for timber transform India's forests under colonial rule?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Colonial rule",
+          "text": "reshaped India's forests to serve commercial and imperial needs."
+        },
+        {
+          "list": [
+            "Forests were cleared to expand cultivation of commercial crops like jute, sugar, wheat and cotton for the market and for revenue",
+            "The colonial state saw natural forests as 'unproductive' and wanted them turned into farmland or managed plantations"
+          ]
+        },
+        {
+          "lead": "Timber was in huge demand.",
+          "text": "Empire building consumed forests."
+        },
+        {
+          "list": [
+            "Ships for the Royal Navy and sleepers for the expanding railways needed vast quantities of durable timber",
+            "Forests were felled recklessly, and 'scientific forestry' then replaced diverse natural forests with single-species plantations of trees like teak and sal"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did forest communities like the people of Bastar resist colonial forest policies?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Colonial forest laws",
+          "text": "cut people off from the forests they depended on, provoking resistance."
+        },
+        {
+          "list": [
+            "Reserving forests banned shifting cultivation, grazing, hunting and the collection of forest produce",
+            "Communities lost their livelihoods and were even required to work for the Forest Department for little or nothing"
+          ]
+        },
+        {
+          "lead": "Anger boiled over into revolt.",
+          "text": "The people of Bastar rose in 1910."
+        },
+        {
+          "list": [
+            "They attacked and looted colonial officials, schools, police stations and markets that symbolised their oppression",
+            "The British crushed the rebellion, but were forced to reduce the size of the reserved forests"
+          ]
+        }
       ]
     }
   ]

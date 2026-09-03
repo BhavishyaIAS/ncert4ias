@@ -6,8 +6,14 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Sub-atomic particles.", "text": "An atom is made of three particles. The electron, discovered by J.J. Thomson, carries a negative charge and is very light. The proton carries a positive charge, and the neutron, discovered by Chadwick, has no charge; both lie in the nucleus, which holds almost all the atom's mass." },
-        { "lead": "Models.", "text": "Thomson pictured the atom as a sphere of positive charge with electrons embedded in it. Rutherford's gold-foil experiment showed instead that the positive charge and mass are concentrated in a tiny central nucleus, with electrons revolving around it and most of the atom being empty space. Bohr refined this, proposing that electrons move in fixed shells or energy levels without losing energy." },
+        {
+          "lead": "Sub-atomic particles.",
+          "text": "An atom is made of three particles. The electron, discovered by J.J. Thomson, carries a negative charge and is very light. The proton carries a positive charge, and the neutron, discovered by Chadwick, has no charge; both lie in the nucleus, which holds almost all the atom's mass."
+        },
+        {
+          "lead": "Models.",
+          "text": "Thomson pictured the atom as a sphere of positive charge with electrons embedded in it. Rutherford's gold-foil experiment showed instead that the positive charge and mass are concentrated in a tiny central nucleus, with electrons revolving around it and most of the atom being empty space. Bohr refined this, proposing that electrons move in fixed shells or energy levels without losing energy."
+        },
         "This step-by-step refinement gave us the modern picture of the atom."
       ]
     },
@@ -16,10 +22,74 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Atomic and mass number.", "text": "The atomic number of an element is the number of protons in its atom, and it defines the element. The mass number is the total number of protons and neutrons in the nucleus." },
-        { "lead": "Isotopes.", "text": "Isotopes are atoms of the same element that have the same atomic number but different mass numbers, because they contain different numbers of neutrons — for example hydrogen's three isotopes, and carbon-12 and carbon-14." },
-        { "lead": "Isobars.", "text": "Isobars are atoms of different elements that have the same mass number but different atomic numbers, such as calcium-40 and argon-40." },
+        {
+          "lead": "Atomic and mass number.",
+          "text": "The atomic number of an element is the number of protons in its atom, and it defines the element. The mass number is the total number of protons and neutrons in the nucleus."
+        },
+        {
+          "lead": "Isotopes.",
+          "text": "Isotopes are atoms of the same element that have the same atomic number but different mass numbers, because they contain different numbers of neutrons — for example hydrogen's three isotopes, and carbon-12 and carbon-14."
+        },
+        {
+          "lead": "Isobars.",
+          "text": "Isobars are atoms of different elements that have the same mass number but different atomic numbers, such as calcium-40 and argon-40."
+        },
         "Thus isotopes share the atomic number, while isobars share the mass number."
+      ]
+    },
+    {
+      "q": "How did Rutherford's alpha-particle scattering experiment change our model of the atom?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Rutherford",
+          "text": "fired fast-moving alpha particles at a very thin gold foil and observed how they were deflected."
+        },
+        {
+          "list": [
+            "Most particles passed straight through, showing that the atom is mostly empty space",
+            "A few were deflected by large angles, and very few bounced straight back"
+          ]
+        },
+        {
+          "lead": "From these results",
+          "text": "he proposed a new model."
+        },
+        {
+          "list": [
+            "The atom has a tiny, dense, positively charged centre — the nucleus — where nearly all its mass is concentrated",
+            "Electrons revolve around the nucleus, and the atom is mostly empty space",
+            "This replaced the earlier 'plum pudding' model of evenly spread charge"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How are electrons arranged in shells, and how does this relate to valency?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Electrons",
+          "text": "are arranged in shells or energy levels around the nucleus, following definite rules."
+        },
+        {
+          "list": [
+            "Shells are filled from the innermost outward, and each shell holds a maximum number of electrons (2n squared)",
+            "The outermost shell can hold at most eight electrons"
+          ]
+        },
+        {
+          "lead": "Valency",
+          "text": "depends on the electrons in the outermost shell."
+        },
+        {
+          "list": [
+            "It is the combining capacity of an atom — the number of electrons it gains, loses or shares to complete its outer shell",
+            "Atoms with a full outer shell, like the noble gases, are stable and unreactive, so their valency is zero"
+          ]
+        }
       ]
     }
   ]

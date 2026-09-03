@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Two basic laws govern the way elements combine to form compounds.",
-        { "lead": "Law of conservation of mass.", "text": "Given by Lavoisier, it states that in a chemical reaction mass is neither created nor destroyed. The total mass of the reactants is always equal to the total mass of the products. For instance, when substances react in a closed vessel, the mass before and after the reaction is the same." },
-        { "lead": "Law of constant proportions.", "text": "Given by Proust, it states that a pure chemical compound always contains the same elements combined in the same fixed proportion by mass. For example, water always contains hydrogen and oxygen in the ratio of one to eight by mass, whatever its source." },
+        {
+          "lead": "Law of conservation of mass.",
+          "text": "Given by Lavoisier, it states that in a chemical reaction mass is neither created nor destroyed. The total mass of the reactants is always equal to the total mass of the products. For instance, when substances react in a closed vessel, the mass before and after the reaction is the same."
+        },
+        {
+          "lead": "Law of constant proportions.",
+          "text": "Given by Proust, it states that a pure chemical compound always contains the same elements combined in the same fixed proportion by mass. For example, water always contains hydrogen and oxygen in the ratio of one to eight by mass, whatever its source."
+        },
         "These laws led John Dalton to propose his atomic theory of matter."
       ]
     },
@@ -18,9 +24,73 @@
       "word_limit": 150,
       "answer": [
         "Because atoms and molecules are extremely small and numerous, chemists count them in a large unit called the mole.",
-        { "lead": "The mole and Avogadro's number.", "text": "The mole is the SI unit for the amount of a substance. One mole of any substance contains 6.022 times ten to the power twenty-three particles — atoms, molecules or ions — a number known as Avogadro's number." },
-        { "lead": "Atomic and molar mass.", "text": "The mass of an atom is expressed in atomic mass units, measured relative to carbon-12, and the molecular mass is the sum of the atomic masses in a molecule." },
-        { "lead": "Molar mass.", "text": "The molar mass is the mass of one mole of a substance, in grams, and is numerically equal to its atomic or molecular mass. This lets chemists convert easily between mass and number of particles." }
+        {
+          "lead": "The mole and Avogadro's number.",
+          "text": "The mole is the SI unit for the amount of a substance. One mole of any substance contains 6.022 times ten to the power twenty-three particles — atoms, molecules or ions — a number known as Avogadro's number."
+        },
+        {
+          "lead": "Atomic and molar mass.",
+          "text": "The mass of an atom is expressed in atomic mass units, measured relative to carbon-12, and the molecular mass is the sum of the atomic masses in a molecule."
+        },
+        {
+          "lead": "Molar mass.",
+          "text": "The molar mass is the mass of one mole of a substance, in grams, and is numerically equal to its atomic or molecular mass. This lets chemists convert easily between mass and number of particles."
+        }
+      ]
+    },
+    {
+      "q": "How do Dalton's atomic theory postulates explain the laws of chemical combination?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Dalton's atomic theory",
+          "text": "proposed that all matter is made of tiny indivisible particles called atoms, and it explained the observed laws of chemical combination."
+        },
+        {
+          "list": [
+            "Atoms of a given element are identical in mass and properties, and atoms of different elements differ",
+            "Atoms combine in small whole-number ratios to form compounds",
+            "Atoms are neither created nor destroyed in a chemical reaction"
+          ]
+        },
+        {
+          "lead": "This explains the laws.",
+          "text": "The postulates account for what chemists observed."
+        },
+        {
+          "list": [
+            "Since atoms are only rearranged, mass is conserved — the law of conservation of mass",
+            "Since a compound always has the same atoms in the same ratio, its elements are always in a fixed proportion by mass"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How are the mass of an atom and the number of particles in a sample expressed and calculated?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Because atoms are extremely small,",
+          "text": "chemists use special quantities to describe their mass and number."
+        },
+        {
+          "list": [
+            "Atomic mass is expressed in atomic mass units (u), comparing an atom's mass with one-twelfth the mass of a carbon-12 atom",
+            "Molecular mass is the sum of the atomic masses of all the atoms in a molecule"
+          ]
+        },
+        {
+          "lead": "The mole",
+          "text": "connects mass to number of particles."
+        },
+        {
+          "list": [
+            "One mole of any substance contains Avogadro's number of particles, about 6.022 × 10²³",
+            "The mass of one mole in grams equals the atomic or molecular mass, which lets chemists weigh out exact numbers of particles"
+          ]
+        }
       ]
     }
   ]

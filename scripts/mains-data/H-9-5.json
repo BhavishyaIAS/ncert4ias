@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Colonial rule made life very difficult for India's nomadic pastoralists, who depended on moving their herds in search of pasture.",
-        { "lead": "Loss of grazing land.", "text": "Under the Waste Land Rules, grazing lands thought to be 'uncultivated' were taken over and handed out for cultivation, and the Forest Acts restricted grazing in reserved and protected forests." },
-        { "lead": "Control and taxes.", "text": "The Criminal Tribes Act of 1871 branded many nomadic communities as criminal and restricted their movement, while a grazing tax was charged for every animal grazed." },
-        { "lead": "The result.", "text": "As pastures shrank and movement was curbed, pastoralists suffered heavily. Some reduced the size of their herds, some settled down, and others searched for new grazing routes to survive." }
+        {
+          "lead": "Loss of grazing land.",
+          "text": "Under the Waste Land Rules, grazing lands thought to be 'uncultivated' were taken over and handed out for cultivation, and the Forest Acts restricted grazing in reserved and protected forests."
+        },
+        {
+          "lead": "Control and taxes.",
+          "text": "The Criminal Tribes Act of 1871 branded many nomadic communities as criminal and restricted their movement, while a grazing tax was charged for every animal grazed."
+        },
+        {
+          "lead": "The result.",
+          "text": "As pastures shrank and movement was curbed, pastoralists suffered heavily. Some reduced the size of their herds, some settled down, and others searched for new grazing routes to survive."
+        }
       ]
     },
     {
@@ -18,9 +27,72 @@
       "word_limit": 150,
       "answer": [
         "The Maasai, cattle herders of Kenya and Tanzania in East Africa, were badly affected by colonial rule.",
-        { "lead": "Loss of land.", "text": "Their best grazing lands were taken away and given to white settlers, and large areas were turned into game reserves such as the Serengeti and Maasai Mara, from which the Maasai were excluded. New colonial borders confined them to a smaller, drier region." },
-        { "lead": "Consequences.", "text": "With their pastures shrinking, the Maasai lost many cattle to drought and disease, and their society changed, with tensions between the elders and the younger warriors. Restrictions also disrupted their traditional trade." },
-        { "lead": "Adaptation.", "text": "Like Indian pastoralists, the Maasai were forced to adapt, changing their movements and livelihoods to survive under colonial pressure." }
+        {
+          "lead": "Loss of land.",
+          "text": "Their best grazing lands were taken away and given to white settlers, and large areas were turned into game reserves such as the Serengeti and Maasai Mara, from which the Maasai were excluded. New colonial borders confined them to a smaller, drier region."
+        },
+        {
+          "lead": "Consequences.",
+          "text": "With their pastures shrinking, the Maasai lost many cattle to drought and disease, and their society changed, with tensions between the elders and the younger warriors. Restrictions also disrupted their traditional trade."
+        },
+        {
+          "lead": "Adaptation.",
+          "text": "Like Indian pastoralists, the Maasai were forced to adapt, changing their movements and livelihoods to survive under colonial pressure."
+        }
+      ]
+    },
+    {
+      "q": "How did pastoralists adapt to seasonal changes, and why is this movement important for the environment?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Pastoralists",
+          "text": "are herders who move with their animals in search of pasture, and their movement is finely tuned to the seasons."
+        },
+        {
+          "list": [
+            "In mountain regions, herders like the Gujjars and Gaddis move up to high pastures in summer and down to the plains in winter",
+            "In the plains and plateaus, groups move between regions as grass and water become available with the rains"
+          ]
+        },
+        {
+          "lead": "This movement is ecologically useful.",
+          "text": "It keeps a balance with nature."
+        },
+        {
+          "list": [
+            "Grazing in a place only for part of the year lets the pasture recover",
+            "The animals' droppings fertilise the fields, and moving prevents the overuse of any single area"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did colonial rule disrupt the lives of pastoralists, and how did they cope with the changes?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Colonial policies",
+          "text": "squeezed pastoralists by restricting their movement and their access to grazing land."
+        },
+        {
+          "list": [
+            "Wasteland and forest laws turned grazing lands into cultivated fields or reserved forests, shrinking pastures",
+            "Grazing taxes were imposed, and criminal tribe laws restricted the movement of many herding groups"
+          ]
+        },
+        {
+          "lead": "Pastoralists coped in several ways.",
+          "text": "They adapted to survive."
+        },
+        {
+          "list": [
+            "Some reduced the number of animals; others discovered new pastures or changed the paths they moved along",
+            "Some took to combining herding with farming or trade, while a few fell into poverty and had to become labourers"
+          ]
+        }
       ]
     }
   ]

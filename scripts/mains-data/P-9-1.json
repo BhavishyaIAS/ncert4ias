@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Democracy is a form of government in which the rulers are elected by the people, famously described by Abraham Lincoln as government of the people, by the people and for the people.",
-        { "lead": "Elected rulers.", "text": "The final decision-making power must rest with those chosen by the people, not with unelected persons." },
-        { "lead": "Free and fair elections.", "text": "Elections must be held regularly, offer a real choice, and allow the ruling party to be voted out of power." },
-        { "lead": "Political equality.", "text": "Each adult must have one vote, and each vote must have equal value — one person, one vote, one value." },
-        { "lead": "Rule of law and rights.", "text": "The elected government must rule within the limits set by the Constitution and the law, and must respect the fundamental rights of citizens." }
+        {
+          "lead": "Elected rulers.",
+          "text": "The final decision-making power must rest with those chosen by the people, not with unelected persons."
+        },
+        {
+          "lead": "Free and fair elections.",
+          "text": "Elections must be held regularly, offer a real choice, and allow the ruling party to be voted out of power."
+        },
+        {
+          "lead": "Political equality.",
+          "text": "Each adult must have one vote, and each vote must have equal value — one person, one vote, one value."
+        },
+        {
+          "lead": "Rule of law and rights.",
+          "text": "The elected government must rule within the limits set by the Constitution and the law, and must respect the fundamental rights of citizens."
+        }
       ]
     },
     {
@@ -18,9 +30,72 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Arguments in favour.", "text": "Democracy is more accountable and responsive to the people, since rulers must answer to voters. It improves the quality of decisions through discussion and consultation, provides a peaceful way to resolve conflicts, and enhances the dignity of citizens by treating them as equals." },
-        { "lead": "Arguments against.", "text": "Critics point out that democracy can be unstable and slow, is marked by constant political competition, and can involve corruption and poor leadership." },
-        { "lead": "Why it is best.", "text": "Despite these weaknesses, democracy is better than the alternatives because it is the only form of government that allows citizens to correct its own mistakes, peacefully change their rulers, and hold power to account." }
+        {
+          "lead": "Arguments in favour.",
+          "text": "Democracy is more accountable and responsive to the people, since rulers must answer to voters. It improves the quality of decisions through discussion and consultation, provides a peaceful way to resolve conflicts, and enhances the dignity of citizens by treating them as equals."
+        },
+        {
+          "lead": "Arguments against.",
+          "text": "Critics point out that democracy can be unstable and slow, is marked by constant political competition, and can involve corruption and poor leadership."
+        },
+        {
+          "lead": "Why it is best.",
+          "text": "Despite these weaknesses, democracy is better than the alternatives because it is the only form of government that allows citizens to correct its own mistakes, peacefully change their rulers, and hold power to account."
+        }
+      ]
+    },
+    {
+      "q": "How does democracy improve the quality of decision-making and help resolve conflicts?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Democracy",
+          "text": "is government by the people, and it is better than other forms partly because of how it takes decisions."
+        },
+        {
+          "list": [
+            "Decisions are made after discussion, consultation and debate, so they are more considered and informed",
+            "This process reduces the chance of rash or wrong decisions"
+          ]
+        },
+        {
+          "lead": "It also handles conflict peacefully.",
+          "text": "Diverse societies have many differences."
+        },
+        {
+          "list": [
+            "Democracy provides a way to resolve differences and conflicts through negotiation rather than force",
+            "By giving everyone a voice and following agreed rules, it accommodates diversity and prevents violent clashes"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does democracy promote the dignity and freedom of citizens?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Democracy",
+          "text": "is founded on the political equality of all citizens, and this upholds human dignity and freedom."
+        },
+        {
+          "list": [
+            "It recognises every individual as equal, giving each one vote of equal value regardless of wealth, caste, religion or sex",
+            "The long struggles of women and disadvantaged groups for equal rights have found their strongest support in democracies"
+          ]
+        },
+        {
+          "lead": "It also protects freedom.",
+          "text": "Citizens can question and change their rulers."
+        },
+        {
+          "list": [
+            "People enjoy rights to speak, form associations and criticise the government",
+            "The ability to correct its own mistakes through elections and public debate is a unique strength of democracy"
+          ]
+        }
       ]
     }
   ]

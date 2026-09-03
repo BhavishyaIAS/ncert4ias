@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The French Revolution of 1789 was the result of many long-standing grievances.",
-        { "lead": "Political and financial.", "text": "France was an absolute monarchy under Louis XVI, and years of costly wars and royal extravagance had brought the state to a deep financial crisis." },
-        { "lead": "Social inequality.", "text": "Society was divided into three estates. The clergy and nobility, the first two estates, enjoyed privileges and paid almost no taxes, while the Third Estate — peasants, workers and the middle class — bore the entire burden of taxation." },
-        { "lead": "New ideas.", "text": "Enlightenment thinkers such as Rousseau, Montesquieu and Voltaire spread ideas of liberty, equality and the separation of powers, which made people question the old order." },
+        {
+          "lead": "Political and financial.",
+          "text": "France was an absolute monarchy under Louis XVI, and years of costly wars and royal extravagance had brought the state to a deep financial crisis."
+        },
+        {
+          "lead": "Social inequality.",
+          "text": "Society was divided into three estates. The clergy and nobility, the first two estates, enjoyed privileges and paid almost no taxes, while the Third Estate — peasants, workers and the middle class — bore the entire burden of taxation."
+        },
+        {
+          "lead": "New ideas.",
+          "text": "Enlightenment thinkers such as Rousseau, Montesquieu and Voltaire spread ideas of liberty, equality and the separation of powers, which made people question the old order."
+        },
         "These political, social and intellectual causes together sparked the Revolution."
       ]
     },
@@ -18,8 +27,68 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Events.", "text": "In 1789 the Third Estate formed the National Assembly and took the Tennis Court Oath. On 14 July 1789 a crowd stormed the Bastille prison. The Declaration of the Rights of Man proclaimed liberty and equality, and a constitutional monarchy was set up in 1791. In 1792 the monarchy was abolished and France became a Republic; Louis XVI was executed in 1793. Under Robespierre and the Jacobins came the Reign of Terror, with mass executions by the guillotine." },
-        { "lead": "Legacy.", "text": "The Revolution spread the motto Liberty, Equality, Fraternity. Napoleon later carried its laws across Europe. It inspired democracy, nationalism and human rights across the world." }
+        {
+          "lead": "Events.",
+          "text": "In 1789 the Third Estate formed the National Assembly and took the Tennis Court Oath. On 14 July 1789 a crowd stormed the Bastille prison. The Declaration of the Rights of Man proclaimed liberty and equality, and a constitutional monarchy was set up in 1791. In 1792 the monarchy was abolished and France became a Republic; Louis XVI was executed in 1793. Under Robespierre and the Jacobins came the Reign of Terror, with mass executions by the guillotine."
+        },
+        {
+          "lead": "Legacy.",
+          "text": "The Revolution spread the motto Liberty, Equality, Fraternity. Napoleon later carried its laws across Europe. It inspired democracy, nationalism and human rights across the world."
+        }
+      ]
+    },
+    {
+      "q": "How did the ideas of philosophers and the growth of a middle class prepare the ground for the French Revolution?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "New ideas and a rising middle class",
+          "text": "challenged the old order of privilege in eighteenth-century France."
+        },
+        {
+          "list": [
+            "Philosophers like Rousseau, Montesquieu and Voltaire argued for liberty, equality and government based on the consent of the people",
+            "Rousseau's idea of the social contract and Montesquieu's separation of powers inspired demands for change"
+          ]
+        },
+        {
+          "lead": "A prosperous middle class",
+          "text": "spread and embraced these ideas."
+        },
+        {
+          "list": [
+            "Educated professionals and merchants resented a society where status came by birth, not merit",
+            "They wanted a society based on freedom and equal laws and opportunities, and led the demand to end the privileges of the clergy and nobility"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did the French Revolution change the position of women and lead to the abolition of slavery?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Revolution",
+          "text": "raised hopes of equality that reached women and enslaved people, though gains came slowly."
+        },
+        {
+          "list": [
+            "Women took an active part in the Revolution and formed political clubs demanding equal rights",
+            "They won some reforms in education and marriage, but were denied the vote and their clubs were later banned; full rights came much later"
+          ]
+        },
+        {
+          "lead": "Slavery too was challenged.",
+          "text": "Revolutionary ideals clashed with the slave trade in the colonies."
+        },
+        {
+          "list": [
+            "The Convention abolished slavery in the French colonies in 1794",
+            "Napoleon later reintroduced it, and it was finally abolished in 1848"
+          ]
+        }
       ]
     }
   ]

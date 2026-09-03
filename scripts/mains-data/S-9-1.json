@@ -7,8 +7,69 @@
       "word_limit": 150,
       "answer": [
         "Science is a systematic way of studying the natural world, and it advances through the scientific method.",
-        { "lead": "The method.", "text": "An investigation begins with observing something and asking a question. A hypothesis, a testable explanation, is then formed and tested through a controlled experiment in which only one variable is changed. Data are collected and analysed, a conclusion is drawn, and the results are communicated and repeated by others, since reproducibility is essential." },
-        { "lead": "Measurement.", "text": "Science depends on accurate measurement, which is the comparison of a quantity with a standard unit; every measurement has a number and a unit. The world uses the SI system, whose base units include the metre for length, the kilogram for mass and the second for time. Accurate, precise measurement makes scientific results reliable and comparable." }
+        {
+          "lead": "The method.",
+          "text": "An investigation begins with observing something and asking a question. A hypothesis, a testable explanation, is then formed and tested through a controlled experiment in which only one variable is changed. Data are collected and analysed, a conclusion is drawn, and the results are communicated and repeated by others, since reproducibility is essential."
+        },
+        {
+          "lead": "Measurement.",
+          "text": "Science depends on accurate measurement, which is the comparison of a quantity with a standard unit; every measurement has a number and a unit. The world uses the SI system, whose base units include the metre for length, the kilogram for mass and the second for time. Accurate, precise measurement makes scientific results reliable and comparable."
+        }
+      ]
+    },
+    {
+      "q": "Why are units and standards essential in scientific measurement, and what is the SI system?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Measurement",
+          "text": "means comparing a quantity with a fixed standard called a unit, and without agreed units, measurements would be meaningless."
+        },
+        {
+          "list": [
+            "A measurement has two parts — a number and a unit; saying '5' means nothing until we say '5 metres'",
+            "Common standard units let scientists everywhere understand and reproduce one another's results"
+          ]
+        },
+        {
+          "lead": "The SI system",
+          "text": "is the internationally agreed set of units."
+        },
+        {
+          "list": [
+            "It defines base units such as the metre for length, kilogram for mass and second for time",
+            "Using one system worldwide avoids confusion and error in science, trade and daily life"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does science progress through observation, hypothesis and experiment?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Science advances",
+          "text": "through a disciplined method of asking questions about nature and testing possible answers."
+        },
+        {
+          "list": [
+            "Careful observation of a phenomenon raises a question",
+            "A hypothesis offers a testable explanation",
+            "Experiments are designed to test the hypothesis and gather evidence"
+          ]
+        },
+        {
+          "lead": "Evidence decides.",
+          "text": "Results are analysed and shared."
+        },
+        {
+          "list": [
+            "If evidence supports the hypothesis, confidence in it grows; if not, it is revised or rejected",
+            "Repeating and checking results by others makes knowledge reliable, so science is self-correcting"
+          ]
+        }
       ]
     }
   ]

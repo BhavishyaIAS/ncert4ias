@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Why classify.", "text": "There is an enormous variety of living things, and classification arranges them into groups on the basis of their similarities and differences. This makes their study systematic and manageable, helps us understand the relationships among organisms, and shows how life has evolved. The science of classification is called taxonomy." },
-        { "lead": "The five kingdoms.", "text": "R.H. Whittaker divided living things into five kingdoms. Monera are prokaryotes without a true nucleus, such as bacteria. Protista are unicellular eukaryotes, such as Amoeba. Fungi are decomposers, such as mushrooms and yeast. Plantae are the plants, which make their own food, and Animalia are the animals, which depend on others for food." }
+        {
+          "lead": "Why classify.",
+          "text": "There is an enormous variety of living things, and classification arranges them into groups on the basis of their similarities and differences. This makes their study systematic and manageable, helps us understand the relationships among organisms, and shows how life has evolved. The science of classification is called taxonomy."
+        },
+        {
+          "lead": "The five kingdoms.",
+          "text": "R.H. Whittaker divided living things into five kingdoms. Monera are prokaryotes without a true nucleus, such as bacteria. Protista are unicellular eukaryotes, such as Amoeba. Fungi are decomposers, such as mushrooms and yeast. Plantae are the plants, which make their own food, and Animalia are the animals, which depend on others for food."
+        }
       ]
     },
     {
@@ -15,8 +21,72 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Binomial nomenclature.", "text": "Introduced by Carolus Linnaeus, binomial nomenclature gives each species a two-word scientific name in Latin, made of the genus name followed by the species name. By rule, the genus is written with a capital letter and the species in small letters, and the whole name is italicised or underlined — for example, human beings are Homo sapiens. This gives every organism a unique, universally understood name." },
-        { "lead": "The hierarchy.", "text": "Organisms are grouped in a hierarchy: kingdom, then phylum or division, class, order, family, genus and species. Species is the basic unit. As we move down the hierarchy, the organisms share more and more features in common." }
+        {
+          "lead": "Binomial nomenclature.",
+          "text": "Introduced by Carolus Linnaeus, binomial nomenclature gives each species a two-word scientific name in Latin, made of the genus name followed by the species name. By rule, the genus is written with a capital letter and the species in small letters, and the whole name is italicised or underlined — for example, human beings are Homo sapiens. This gives every organism a unique, universally understood name."
+        },
+        {
+          "lead": "The hierarchy.",
+          "text": "Organisms are grouped in a hierarchy: kingdom, then phylum or division, class, order, family, genus and species. Species is the basic unit. As we move down the hierarchy, the organisms share more and more features in common."
+        }
+      ]
+    },
+    {
+      "q": "How does the classification of organisms into hierarchical groups reflect their evolutionary relationships?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Classification",
+          "text": "arranges living things into groups based on shared characteristics, and modern classification reflects how organisms are related through evolution."
+        },
+        {
+          "list": [
+            "Organisms are grouped in a hierarchy — kingdom, phylum, class, order, family, genus and species — from broad to specific",
+            "Organisms placed in the same group share more features and a closer common ancestor"
+          ]
+        },
+        {
+          "lead": "This shows evolutionary links.",
+          "text": "Grouping is not arbitrary."
+        },
+        {
+          "list": [
+            "'Primitive' organisms have simpler, older body designs; 'advanced' ones have more complex features that arose later",
+            "So the classification system is like a family tree of life, revealing common descent"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between the plant and animal kingdoms on the basis of their major characteristics.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The plant and animal kingdoms",
+          "text": "are two of the major kingdoms of multicellular life, and they differ in fundamental ways."
+        },
+        {
+          "lead": "Plants (Plantae)",
+          "text": "are the makers of food in nature."
+        },
+        {
+          "list": [
+            "They have cell walls of cellulose and contain chlorophyll, so they make their own food by photosynthesis (autotrophic)",
+            "They are generally fixed in one place and grow throughout life"
+          ]
+        },
+        {
+          "lead": "Animals (Animalia)",
+          "text": "depend on others for food."
+        },
+        {
+          "list": [
+            "They lack cell walls and chlorophyll and take in ready-made food (heterotrophic)",
+            "Most can move about and stop growing on reaching maturity"
+          ]
+        }
       ]
     }
   ]

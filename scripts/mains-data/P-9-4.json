@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "In a democracy the executive branch has two parts that work together but play different roles.",
-        { "lead": "Political executive.", "text": "This is made up of leaders elected by the people for a fixed term — the Prime Minister and the Council of Ministers at the Centre. They take all the major policy decisions and are directly accountable to the people through elections and to Parliament." },
-        { "lead": "Permanent executive.", "text": "This is made up of the civil servants, or bureaucracy, who are appointed on a long-term basis. They work under the political executive and carry out its decisions in the day-to-day administration." },
-        { "lead": "Who is supreme.", "text": "In a democracy the political executive is more powerful, because those who are elected and answerable to the people must have the final say over appointed officials." }
+        {
+          "lead": "Political executive.",
+          "text": "This is made up of leaders elected by the people for a fixed term — the Prime Minister and the Council of Ministers at the Centre. They take all the major policy decisions and are directly accountable to the people through elections and to Parliament."
+        },
+        {
+          "lead": "Permanent executive.",
+          "text": "This is made up of the civil servants, or bureaucracy, who are appointed on a long-term basis. They work under the political executive and carry out its decisions in the day-to-day administration."
+        },
+        {
+          "lead": "Who is supreme.",
+          "text": "In a democracy the political executive is more powerful, because those who are elected and answerable to the people must have the final say over appointed officials."
+        }
       ]
     },
     {
@@ -18,9 +27,72 @@
       "word_limit": 150,
       "answer": [
         "Democracy in India works through three main institutions that share power and check one another.",
-        { "lead": "The Legislature.", "text": "Parliament, made up of the Lok Sabha, the Rajya Sabha and the President, makes the laws, controls the budget and holds the executive accountable. Money bills can be introduced only in the directly elected Lok Sabha." },
-        { "lead": "The Executive.", "text": "Headed by the Prime Minister, with the President as constitutional head, the executive runs the government and implements laws. The Council of Ministers is collectively responsible to the Lok Sabha." },
-        { "lead": "The Judiciary.", "text": "An independent judiciary — the Supreme Court, High Courts and subordinate courts — interprets the Constitution, settles disputes, and through judicial review can strike down unconstitutional laws." }
+        {
+          "lead": "The Legislature.",
+          "text": "Parliament, made up of the Lok Sabha, the Rajya Sabha and the President, makes the laws, controls the budget and holds the executive accountable. Money bills can be introduced only in the directly elected Lok Sabha."
+        },
+        {
+          "lead": "The Executive.",
+          "text": "Headed by the Prime Minister, with the President as constitutional head, the executive runs the government and implements laws. The Council of Ministers is collectively responsible to the Lok Sabha."
+        },
+        {
+          "lead": "The Judiciary.",
+          "text": "An independent judiciary — the Supreme Court, High Courts and subordinate courts — interprets the Constitution, settles disputes, and through judicial review can strike down unconstitutional laws."
+        }
+      ]
+    },
+    {
+      "q": "How is the Prime Minister appointed, and what powers make this office so important?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Prime Minister",
+          "text": "is the head of the government and the most powerful office in India's parliamentary system, though not directly elected as such."
+        },
+        {
+          "list": [
+            "The leader of the majority party or coalition in the Lok Sabha is appointed Prime Minister by the President",
+            "The Prime Minister then chooses the other ministers, who are appointed by the President"
+          ]
+        },
+        {
+          "lead": "The office wields wide powers.",
+          "text": "The Prime Minister leads the executive."
+        },
+        {
+          "list": [
+            "He or she chairs the Council of Ministers, allocates departments and guides policy",
+            "The Prime Minister directs the administration and represents the government, so long as the majority in the Lok Sabha is retained"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does the Indian judiciary function as an independent institution, and why is its independence important?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The judiciary",
+          "text": "interprets the Constitution and laws and settles disputes, and India has an integrated system with the Supreme Court at the top."
+        },
+        {
+          "list": [
+            "Judges are appointed through a process that keeps them free of political control, and they can be removed only by a difficult process of impeachment",
+            "Their salaries and conditions cannot be changed to their disadvantage"
+          ]
+        },
+        {
+          "lead": "This independence is vital.",
+          "text": "It lets the courts act without fear."
+        },
+        {
+          "list": [
+            "An independent judiciary can strike down laws and actions that violate the Constitution",
+            "It protects citizens' rights and checks the misuse of power by the legislature and executive"
+          ]
+        }
       ]
     }
   ]

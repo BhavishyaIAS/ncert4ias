@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "In a large country it is impossible for everyone to govern together, so elections are the means by which people choose their representatives at regular intervals.",
-        { "lead": "Their necessity.", "text": "Elections allow citizens to select those who will make decisions on their behalf, to judge the work of the government, and to change their rulers peacefully if dissatisfied, keeping the government accountable." },
-        { "lead": "A democratic election.", "text": "For an election to be democratic, everyone should be able to choose, through universal adult franchise; there should be a real choice of candidates and parties; elections should be held regularly; the ruling party should have a fair chance of losing; and the whole process must be conducted in a free and fair manner." },
+        {
+          "lead": "Their necessity.",
+          "text": "Elections allow citizens to select those who will make decisions on their behalf, to judge the work of the government, and to change their rulers peacefully if dissatisfied, keeping the government accountable."
+        },
+        {
+          "lead": "A democratic election.",
+          "text": "For an election to be democratic, everyone should be able to choose, through universal adult franchise; there should be a real choice of candidates and parties; elections should be held regularly; the ruling party should have a fair chance of losing; and the whole process must be conducted in a free and fair manner."
+        },
         "Only when these conditions are met do elections truly serve democracy."
       ]
     },
@@ -17,8 +23,69 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "The electoral system.", "text": "India is divided into constituencies, and the voters of each elect one representative under the First-Past-The-Post system, in which the candidate with the most votes wins. Some constituencies are reserved for Scheduled Castes and Scheduled Tribes to ensure their representation. Every citizen aged eighteen and above can vote, and voting is by secret ballot using Electronic Voting Machines with VVPAT." },
-        { "lead": "The Election Commission.", "text": "Elections are conducted by the Election Commission of India, an independent constitutional body headed by the Chief Election Commissioner. It prepares the voter lists, fixes the schedule, enforces the Model Code of Conduct, and oversees the whole process, so that elections are largely free and fair." }
+        {
+          "lead": "The electoral system.",
+          "text": "India is divided into constituencies, and the voters of each elect one representative under the First-Past-The-Post system, in which the candidate with the most votes wins. Some constituencies are reserved for Scheduled Castes and Scheduled Tribes to ensure their representation. Every citizen aged eighteen and above can vote, and voting is by secret ballot using Electronic Voting Machines with VVPAT."
+        },
+        {
+          "lead": "The Election Commission.",
+          "text": "Elections are conducted by the Election Commission of India, an independent constitutional body headed by the Chief Election Commissioner. It prepares the voter lists, fixes the schedule, enforces the Model Code of Conduct, and oversees the whole process, so that elections are largely free and fair."
+        }
+      ]
+    },
+    {
+      "q": "What are the challenges to free and fair elections in India, and how can they be met?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Elections in India",
+          "text": "are broadly free and fair, but they face real challenges that can distort the people's verdict."
+        },
+        {
+          "list": [
+            "Candidates and parties with more money and muscle power can gain unfair advantage",
+            "Some try to use caste and communal appeals or rig the process",
+            "Sitting members can misuse official position, and it is hard for ordinary citizens to contest"
+          ]
+        },
+        {
+          "lead": "Reforms and vigilance",
+          "text": "help meet these challenges."
+        },
+        {
+          "list": [
+            "The independent Election Commission, the Model Code of Conduct and strict rules on spending curb malpractice",
+            "An alert media, watchful citizens and civil society keep the process honest"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why is universal adult franchise important, and how does it make Indian elections democratic?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Universal adult franchise",
+          "text": "gives every citizen above a certain age the right to vote, and it is the foundation of democratic elections."
+        },
+        {
+          "list": [
+            "Every adult has one vote and every vote has equal value, regardless of wealth, education, caste, religion or sex",
+            "This makes political power rest with the people as a whole"
+          ]
+        },
+        {
+          "lead": "It makes elections truly democratic.",
+          "text": "Rulers must answer to all."
+        },
+        {
+          "list": [
+            "Because everyone can vote, leaders must seek the support of ordinary people and address their needs",
+            "It gives the poor and marginalised an equal say in choosing the government"
+          ]
+        }
       ]
     }
   ]
