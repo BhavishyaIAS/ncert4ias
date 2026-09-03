@@ -6,9 +6,69 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Functions.", "text": "The Reserve Bank of India is the central bank of the country. It has the sole right to issue currency notes, acts as banker to the government and to the commercial banks, holds the nation's foreign exchange reserves, and serves as the lender of last resort, helping banks in difficulty. It also controls and regulates the supply of money and credit in the economy." },
-        { "lead": "Controlling credit.", "text": "The RBI controls credit through several instruments of monetary policy. By raising the Cash Reserve Ratio and the Statutory Liquidity Ratio, it reduces the funds banks can lend, tightening credit. Through the repo rate, the rate at which it lends to banks, it makes borrowing costlier or cheaper. In open market operations it buys or sells government securities to inject or absorb money from the economy." },
+        {
+          "lead": "Functions.",
+          "text": "The Reserve Bank of India is the central bank of the country. It has the sole right to issue currency notes, acts as banker to the government and to the commercial banks, holds the nation's foreign exchange reserves, and serves as the lender of last resort, helping banks in difficulty. It also controls and regulates the supply of money and credit in the economy."
+        },
+        {
+          "lead": "Controlling credit.",
+          "text": "The RBI controls credit through several instruments of monetary policy. By raising the Cash Reserve Ratio and the Statutory Liquidity Ratio, it reduces the funds banks can lend, tightening credit. Through the repo rate, the rate at which it lends to banks, it makes borrowing costlier or cheaper. In open market operations it buys or sells government securities to inject or absorb money from the economy."
+        },
         "By using these tools, the RBI can expand credit to fight recession or squeeze credit to control inflation."
+      ]
+    },
+    {
+      "q": "How is money created in the economy through the process of credit creation by commercial banks?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Commercial banks",
+          "text": "create money, called credit or deposit money, by lending out most of the deposits they receive."
+        },
+        {
+          "list": [
+            "Banks must keep only a fraction of deposits as a cash reserve and can lend the rest",
+            "When a bank lends, the borrower's spending returns to the banking system as new deposits"
+          ]
+        },
+        {
+          "lead": "This multiplies deposits.",
+          "text": "The process repeats through the system."
+        },
+        {
+          "list": [
+            "Each new deposit again allows fresh lending after keeping the reserve",
+            "In this way an initial deposit leads to a much larger total of deposits — a multiple expansion of credit — so banks create money"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What are the instruments the Reserve Bank of India uses to control the money supply?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Reserve Bank of India (RBI)",
+          "text": "controls the supply of money and credit through several instruments, both quantitative and qualitative."
+        },
+        {
+          "list": [
+            "The bank rate and the repo rate — the rates at which it lends to banks — influence the cost of borrowing",
+            "The cash reserve ratio and statutory liquidity ratio fix how much banks must keep in reserve, changing how much they can lend"
+          ]
+        },
+        {
+          "lead": "Open market operations",
+          "text": "are another key tool."
+        },
+        {
+          "list": [
+            "By buying or selling government securities, the RBI puts money into or takes it out of the economy",
+            "Raising these rates tightens credit to curb inflation; lowering them eases credit to boost growth"
+          ]
+        }
       ]
     }
   ]

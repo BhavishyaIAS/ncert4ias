@@ -6,10 +6,77 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The law of demand.", "text": "The law of demand states that, other things remaining equal, the quantity of a good that a consumer buys rises when its price falls, and falls when its price rises. There is thus an inverse relationship between the price of a good and the quantity demanded, which is why the demand curve slopes downward from left to right." },
-        { "lead": "Diminishing marginal utility.", "text": "This behaviour is explained by the law of diminishing marginal utility. Marginal utility is the extra satisfaction a consumer gets from consuming one more unit of a good. As a person consumes more and more of a good, the satisfaction from each additional unit becomes smaller. So a consumer is willing to buy extra units only if the price falls to match the lower satisfaction they give." },
-        { "lead": "Consumer equilibrium.", "text": "A consumer buys a good up to the point where its marginal utility equals its price." },
+        {
+          "lead": "The law of demand.",
+          "text": "The law of demand states that, other things remaining equal, the quantity of a good that a consumer buys rises when its price falls, and falls when its price rises. There is thus an inverse relationship between the price of a good and the quantity demanded, which is why the demand curve slopes downward from left to right."
+        },
+        {
+          "lead": "Diminishing marginal utility.",
+          "text": "This behaviour is explained by the law of diminishing marginal utility. Marginal utility is the extra satisfaction a consumer gets from consuming one more unit of a good. As a person consumes more and more of a good, the satisfaction from each additional unit becomes smaller. So a consumer is willing to buy extra units only if the price falls to match the lower satisfaction they give."
+        },
+        {
+          "lead": "Consumer equilibrium.",
+          "text": "A consumer buys a good up to the point where its marginal utility equals its price."
+        },
         "Thus diminishing marginal utility explains why consumers buy more only at lower prices, giving us the law of demand."
+      ]
+    },
+    {
+      "q": "What is price elasticity of demand, and what factors determine it?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Price elasticity of demand",
+          "text": "measures how much the quantity demanded of a good responds to a change in its price."
+        },
+        {
+          "list": [
+            "Demand is elastic if quantity changes a lot when price changes; inelastic if it changes little",
+            "It is calculated as the percentage change in quantity divided by the percentage change in price"
+          ]
+        },
+        {
+          "lead": "Several factors determine it.",
+          "text": "They decide how sensitive buyers are."
+        },
+        {
+          "list": [
+            "Goods with close substitutes have elastic demand; necessities without substitutes have inelastic demand",
+            "The share of income spent on the good and the time available to adjust also affect elasticity"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does a consumer reach equilibrium according to the utility approach?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "A consumer",
+          "text": "is in equilibrium when they get the maximum satisfaction (utility) from spending their limited income, and buy no more or less."
+        },
+        {
+          "lead": "For a single good,",
+          "text": "the rule is simple."
+        },
+        {
+          "list": [
+            "The consumer buys up to the point where the marginal utility of the good equals its price",
+            "Beyond that point, extra units give less satisfaction than they cost"
+          ]
+        },
+        {
+          "lead": "For several goods,",
+          "text": "utility must be balanced."
+        },
+        {
+          "list": [
+            "The consumer arranges spending so that the marginal utility per rupee is equal across all goods",
+            "This equi-marginal principle gives the greatest total satisfaction from the given income"
+          ]
+        }
       ]
     }
   ]

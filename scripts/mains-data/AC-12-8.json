@@ -7,10 +7,73 @@
       "word_limit": 150,
       "answer": [
         "Alongside its classical art, India has a wealth of living folk and tribal traditions, practised by communities in their daily and ritual life and passed down through generations.",
-        { "lead": "Folk painting.", "text": "Among the best known is Madhubani, or Mithila, painting from Bihar, done by women with bright colours to depict gods, nature and weddings. Warli painting of Maharashtra is a tribal art using simple white geometric figures on mud walls to show community life. Pattachitra scrolls of Odisha and Bengal, Kalamkari cloth of Andhra Pradesh, and Phad scrolls of Rajasthan are other rich traditions." },
-        { "lead": "Crafts.", "text": "Living crafts also include floor decorations such as rangoli and kolam, pottery and terracotta, textiles, and tribal metal casting like Dhokra." },
-        { "lead": "Significance.", "text": "These arts preserve cultural identity and oral heritage, and some, like Madhubani and Warli, have won global fame and Geographical Indication tags." },
+        {
+          "lead": "Folk painting.",
+          "text": "Among the best known is Madhubani, or Mithila, painting from Bihar, done by women with bright colours to depict gods, nature and weddings. Warli painting of Maharashtra is a tribal art using simple white geometric figures on mud walls to show community life. Pattachitra scrolls of Odisha and Bengal, Kalamkari cloth of Andhra Pradesh, and Phad scrolls of Rajasthan are other rich traditions."
+        },
+        {
+          "lead": "Crafts.",
+          "text": "Living crafts also include floor decorations such as rangoli and kolam, pottery and terracotta, textiles, and tribal metal casting like Dhokra."
+        },
+        {
+          "lead": "Significance.",
+          "text": "These arts preserve cultural identity and oral heritage, and some, like Madhubani and Warli, have won global fame and Geographical Indication tags."
+        },
         "Thus India's living traditions keep its folk creativity vibrant and rooted in community life."
+      ]
+    },
+    {
+      "q": "How do folk and tribal arts differ from classical art, and why are they valued?",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Folk and tribal arts",
+          "text": "are the living arts of ordinary communities, and they differ in important ways from courtly classical art."
+        },
+        {
+          "list": [
+            "They are created by the community for daily life, festivals and rituals, not for royal patrons",
+            "They are learned by tradition within families rather than in formal schools, and use simple, natural materials"
+          ]
+        },
+        {
+          "lead": "They are greatly valued.",
+          "text": "They carry a community's identity."
+        },
+        {
+          "list": [
+            "They preserve local myths, beliefs, colours and designs passed down over generations",
+            "Their vitality, directness and rootedness in life make them a precious part of India's cultural heritage"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Describe some well-known folk and tribal painting traditions of India.",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "India",
+          "text": "has many rich folk and tribal painting traditions, each tied to a particular region and community."
+        },
+        {
+          "list": [
+            "Madhubani (Mithila) painting of Bihar, done by women, fills the space with gods, nature and bright patterns",
+            "Warli painting of Maharashtra uses simple white figures on a mud background to show village life"
+          ]
+        },
+        {
+          "lead": "Other traditions",
+          "text": "add further variety."
+        },
+        {
+          "list": [
+            "Pattachitra of Odisha and Bengal paints mythological scenes on cloth scrolls",
+            "Phad of Rajasthan depicts the tales of local heroes, and Kalamkari of the south uses natural dyes on cloth"
+          ]
+        }
       ]
     }
   ]

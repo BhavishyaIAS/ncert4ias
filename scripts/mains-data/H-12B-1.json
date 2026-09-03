@@ -7,10 +7,77 @@
       "word_limit": 150,
       "answer": [
         "The writings of foreign travellers are a valuable source for medieval Indian history, because as outsiders they noticed and recorded things that Indians took for granted.",
-        { "lead": "Al-Biruni.", "text": "Al-Biruni, an eleventh-century scholar from Central Asia, wrote the Kitab-ul-Hind in Arabic. He studied Indian religion, philosophy and sciences, and described the caste system and the barriers that, he felt, isolated Indian society, comparing Indian ideas with Greek and Islamic thought." },
-        { "lead": "Ibn Battuta.", "text": "Ibn Battuta, a fourteenth-century traveller from Morocco, recorded his experiences in the Rihla. He described Indian cities, bustling markets, the efficient postal system and unfamiliar things like the coconut and the paan, finding much that was new and exotic." },
-        { "lead": "Bernier.", "text": "Francois Bernier, a seventeenth-century French physician, compared India with Europe, often unfavourably, and wrote on landholding and society, though some of his views were mistaken." },
+        {
+          "lead": "Al-Biruni.",
+          "text": "Al-Biruni, an eleventh-century scholar from Central Asia, wrote the Kitab-ul-Hind in Arabic. He studied Indian religion, philosophy and sciences, and described the caste system and the barriers that, he felt, isolated Indian society, comparing Indian ideas with Greek and Islamic thought."
+        },
+        {
+          "lead": "Ibn Battuta.",
+          "text": "Ibn Battuta, a fourteenth-century traveller from Morocco, recorded his experiences in the Rihla. He described Indian cities, bustling markets, the efficient postal system and unfamiliar things like the coconut and the paan, finding much that was new and exotic."
+        },
+        {
+          "lead": "Bernier.",
+          "text": "Francois Bernier, a seventeenth-century French physician, compared India with Europe, often unfavourably, and wrote on landholding and society, though some of his views were mistaken."
+        },
         "Together their accounts offer rich, if sometimes biased, pictures of medieval India."
+      ]
+    },
+    {
+      "q": "How does Ibn Battuta's account describe the cities and life of fourteenth-century India?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Ibn Battuta,",
+          "text": "a traveller from Morocco who spent years in India, left a vivid account of its cities and society under the Delhi Sultanate."
+        },
+        {
+          "list": [
+            "He described Indian cities as densely populated and prosperous, with crowded markets full of goods",
+            "He admired the wealth of the towns, the gardens, and the efficient postal system that carried news swiftly"
+          ]
+        },
+        {
+          "lead": "He noted many wonders.",
+          "text": "Much struck him as new and strange."
+        },
+        {
+          "list": [
+            "He wrote about Indian crops, the coconut and the betel leaf, which were unfamiliar to him",
+            "His outsider's eye recorded details that Indians took for granted, making his account valuable to historians"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What are the strengths and limitations of using travellers' accounts as historical sources?",
+      "directive": "Evaluate",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Travellers' accounts",
+          "text": "like those of Ibn Battuta, Bernier and Al-Biruni are valuable but must be used with care."
+        },
+        {
+          "lead": "Their strength",
+          "text": "is the fresh, detailed observation of an outsider."
+        },
+        {
+          "list": [
+            "They notice and record everyday things that local writers ignore as too ordinary",
+            "They describe cities, customs, trade and social life vividly"
+          ]
+        },
+        {
+          "lead": "Their limitations",
+          "text": "arise from their viewpoint."
+        },
+        {
+          "list": [
+            "They saw a foreign land through their own assumptions and could misunderstand what they saw",
+            "They often mixed with the elite and may have generalised, or exaggerated wonders, so their accounts need checking against other sources"
+          ]
+        }
       ]
     }
   ]

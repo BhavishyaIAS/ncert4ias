@@ -7,11 +7,81 @@
       "word_limit": 150,
       "answer": [
         "A perfectly competitive market is an ideal form of market that has several defining features.",
-        { "lead": "Many buyers and sellers.", "text": "There are a very large number of buyers and sellers, each so small in relation to the whole market that no single one can influence the price by their own actions. As a result, the individual firm is a price taker, accepting the price set by the market." },
-        { "lead": "Homogeneous product.", "text": "All firms sell an identical, or homogeneous, product, so buyers have no reason to prefer one seller over another, and no firm can charge a higher price." },
-        { "lead": "Free entry and exit.", "text": "Firms are free to enter the industry when there are profits and to leave when there are losses. This ensures that in the long run firms earn only normal profit." },
-        { "lead": "Perfect knowledge and mobility.", "text": "Buyers and sellers have full knowledge of prices and conditions, and factors of production can move freely." },
+        {
+          "lead": "Many buyers and sellers.",
+          "text": "There are a very large number of buyers and sellers, each so small in relation to the whole market that no single one can influence the price by their own actions. As a result, the individual firm is a price taker, accepting the price set by the market."
+        },
+        {
+          "lead": "Homogeneous product.",
+          "text": "All firms sell an identical, or homogeneous, product, so buyers have no reason to prefer one seller over another, and no firm can charge a higher price."
+        },
+        {
+          "lead": "Free entry and exit.",
+          "text": "Firms are free to enter the industry when there are profits and to leave when there are losses. This ensures that in the long run firms earn only normal profit."
+        },
+        {
+          "lead": "Perfect knowledge and mobility.",
+          "text": "Buyers and sellers have full knowledge of prices and conditions, and factors of production can move freely."
+        },
         "Because of these features, a single price prevails and each firm faces a horizontal demand curve."
+      ]
+    },
+    {
+      "q": "How is the price of a good determined under perfect competition?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Under perfect competition",
+          "text": "the price of a good is determined by the interaction of market demand and market supply, not by any single buyer or seller."
+        },
+        {
+          "list": [
+            "There are so many buyers and sellers that no one can influence the price",
+            "Each firm is a price-taker and must accept the price set by the market"
+          ]
+        },
+        {
+          "lead": "Equilibrium sets the price.",
+          "text": "Demand and supply meet."
+        },
+        {
+          "list": [
+            "The price settles where the quantity buyers want to buy equals the quantity sellers want to sell",
+            "If price is above this, a surplus pushes it down; if below, a shortage pushes it up, until the market clears"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does a monopoly market differ from perfect competition?",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Monopoly and perfect competition",
+          "text": "are opposite market forms, differing in the number of sellers and control over price."
+        },
+        {
+          "lead": "Perfect competition",
+          "text": "has many sellers of an identical product."
+        },
+        {
+          "list": [
+            "Each firm is a price-taker, and there is free entry and exit",
+            "Prices tend to be low and output high"
+          ]
+        },
+        {
+          "lead": "A monopoly",
+          "text": "has a single seller of a product with no close substitute."
+        },
+        {
+          "list": [
+            "The monopolist is a price-maker who can set a higher price by restricting output",
+            "Barriers keep new firms out, so the monopolist can earn large profits, often at the cost of consumers"
+          ]
+        }
       ]
     }
   ]

@@ -7,10 +7,73 @@
       "word_limit": 150,
       "answer": [
         "The Mughal school of miniature painting was a court art that blended Persian, Indian and later European styles, and it developed distinctively under three great emperors.",
-        { "lead": "Akbar.", "text": "Though begun under Humayun, who brought Persian masters, the school truly flourished under Akbar. He set up a large imperial atelier where artists like Daswanth and Basawan illustrated great manuscripts such as the Hamzanama, Akbarnama and Razmnama. The style was vigorous, colourful and full of crowded, lively scenes." },
-        { "lead": "Jahangir.", "text": "Jahangir, a keen connoisseur, encouraged fine naturalism and portraiture. Masters like Ustad Mansur painted birds, animals and flowers with great accuracy, and European influence brought shading and allegory." },
-        { "lead": "Shah Jahan.", "text": "Under Shah Jahan painting became more formal, refined and jewel-like, with elegant court scenes and lavish use of gold." },
+        {
+          "lead": "Akbar.",
+          "text": "Though begun under Humayun, who brought Persian masters, the school truly flourished under Akbar. He set up a large imperial atelier where artists like Daswanth and Basawan illustrated great manuscripts such as the Hamzanama, Akbarnama and Razmnama. The style was vigorous, colourful and full of crowded, lively scenes."
+        },
+        {
+          "lead": "Jahangir.",
+          "text": "Jahangir, a keen connoisseur, encouraged fine naturalism and portraiture. Masters like Ustad Mansur painted birds, animals and flowers with great accuracy, and European influence brought shading and allegory."
+        },
+        {
+          "lead": "Shah Jahan.",
+          "text": "Under Shah Jahan painting became more formal, refined and jewel-like, with elegant court scenes and lavish use of gold."
+        },
         "Thus Mughal painting evolved from energetic narrative under Akbar to refined elegance under Shah Jahan."
+      ]
+    },
+    {
+      "q": "What were the defining characteristics of Mughal miniature painting?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Mughal painting",
+          "text": "grew in the imperial workshops and blended Persian, Indian and later European elements into a rich, distinctive style."
+        },
+        {
+          "list": [
+            "It is marked by fine detail, delicate brushwork and a rich use of colour and gold",
+            "It used naturalism and depth, showing figures and landscapes realistically"
+          ]
+        },
+        {
+          "lead": "Its subjects reflected the court.",
+          "text": "It served the emperors' interests."
+        },
+        {
+          "list": [
+            "It depicted court scenes, battles, portraits, and the histories of the emperors in illustrated chronicles",
+            "Under Jahangir it excelled in lifelike portraits and studies of birds, animals and flowers"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did European contact influence Mughal painting?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "From the time of Akbar,",
+          "text": "contact with Europeans, especially through Jesuit missionaries who brought European prints and paintings, influenced Mughal art."
+        },
+        {
+          "list": [
+            "Mughal artists studied and copied European works brought to the court",
+            "They adopted new techniques of shading and perspective to give figures roundness and depth"
+          ]
+        },
+        {
+          "lead": "This enriched the Mughal style.",
+          "text": "Indian and European ideas were fused."
+        },
+        {
+          "list": [
+            "Artists learned to model faces with light and shade and to suggest distance in landscapes",
+            "European motifs like halos and certain poses entered Mughal painting, while the Indian love of colour and detail remained"
+          ]
+        }
       ]
     }
   ]

@@ -6,11 +6,85 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "The balance of payments is a systematic record of all the economic transactions that take place between the residents of a country and the rest of the world during a given period, usually a year. It shows the total inflows and outflows of foreign exchange and tells us whether a country is earning more from the world than it is spending, or the reverse." },
-        { "lead": "Current account.", "text": "The balance of payments has two main accounts. The current account records trade in goods, that is exports and imports, called the trade balance, along with trade in services or invisibles, income from investments, and transfers such as remittances. A country has a current account surplus if it earns more than it spends on these." },
-        { "lead": "Capital account.", "text": "The capital account records flows of capital, such as foreign direct investment, portfolio investment, external borrowings and loans." },
-        { "lead": "Balancing.", "text": "Any overall gap is met by changes in the country's foreign exchange reserves." },
+        {
+          "lead": "Meaning.",
+          "text": "The balance of payments is a systematic record of all the economic transactions that take place between the residents of a country and the rest of the world during a given period, usually a year. It shows the total inflows and outflows of foreign exchange and tells us whether a country is earning more from the world than it is spending, or the reverse."
+        },
+        {
+          "lead": "Current account.",
+          "text": "The balance of payments has two main accounts. The current account records trade in goods, that is exports and imports, called the trade balance, along with trade in services or invisibles, income from investments, and transfers such as remittances. A country has a current account surplus if it earns more than it spends on these."
+        },
+        {
+          "lead": "Capital account.",
+          "text": "The capital account records flows of capital, such as foreign direct investment, portfolio investment, external borrowings and loans."
+        },
+        {
+          "lead": "Balancing.",
+          "text": "Any overall gap is met by changes in the country's foreign exchange reserves."
+        },
         "Thus the balance of payments summarises a nation's economic dealings with the world."
+      ]
+    },
+    {
+      "q": "Distinguish between the current account and the capital account of the balance of payments.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The balance of payments",
+          "text": "records all economic transactions between a country and the rest of the world, and it is divided into two accounts."
+        },
+        {
+          "lead": "The current account",
+          "text": "records flows of goods, services and incomes."
+        },
+        {
+          "list": [
+            "It includes the export and import of goods (the trade balance) and of services",
+            "It also includes incomes and current transfers like remittances"
+          ]
+        },
+        {
+          "lead": "The capital account",
+          "text": "records flows of financial assets."
+        },
+        {
+          "list": [
+            "It includes foreign investment, loans and changes in foreign exchange reserves",
+            "It shows how the country finances any deficit or uses any surplus on the current account"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How is the exchange rate of a currency determined, and what is the difference between fixed and flexible exchange rates?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The exchange rate",
+          "text": "is the price of one currency in terms of another, and it can be determined in different ways."
+        },
+        {
+          "lead": "Under a flexible (floating) rate,",
+          "text": "the market decides."
+        },
+        {
+          "list": [
+            "The rate is set by the demand for and supply of the currency in the foreign exchange market",
+            "It rises or falls freely as these change"
+          ]
+        },
+        {
+          "lead": "Under a fixed rate,",
+          "text": "the government or central bank sets and maintains the rate."
+        },
+        {
+          "list": [
+            "The authorities buy or sell currency to keep the rate at the chosen level",
+            "Many countries, including India, use a managed float — mainly market-determined but with central bank intervention"
+          ]
+        }
       ]
     }
   ]

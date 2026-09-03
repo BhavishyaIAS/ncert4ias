@@ -6,10 +6,82 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Market equilibrium.", "text": "Market equilibrium is reached at the price where the quantity that consumers wish to buy is exactly equal to the quantity that producers wish to sell, that is, where the demand and supply curves intersect. This point fixes both the equilibrium price and the equilibrium quantity. If the price is above equilibrium, there is a surplus that pushes the price down, and if it is below, there is a shortage that pushes the price up, until balance is restored." },
-        { "lead": "Price ceiling.", "text": "A price ceiling is a maximum legal price set below the equilibrium, often to keep essential goods affordable. Since the price is kept low, demand exceeds supply, creating shortages, queues and black markets." },
-        { "lead": "Price floor.", "text": "A price floor is a minimum legal price set above the equilibrium, such as the minimum support price for crops or a minimum wage. Here supply exceeds demand, creating surpluses that the government may have to buy up." },
+        {
+          "lead": "Market equilibrium.",
+          "text": "Market equilibrium is reached at the price where the quantity that consumers wish to buy is exactly equal to the quantity that producers wish to sell, that is, where the demand and supply curves intersect. This point fixes both the equilibrium price and the equilibrium quantity. If the price is above equilibrium, there is a surplus that pushes the price down, and if it is below, there is a shortage that pushes the price up, until balance is restored."
+        },
+        {
+          "lead": "Price ceiling.",
+          "text": "A price ceiling is a maximum legal price set below the equilibrium, often to keep essential goods affordable. Since the price is kept low, demand exceeds supply, creating shortages, queues and black markets."
+        },
+        {
+          "lead": "Price floor.",
+          "text": "A price floor is a minimum legal price set above the equilibrium, such as the minimum support price for crops or a minimum wage. Here supply exceeds demand, creating surpluses that the government may have to buy up."
+        },
         "Thus price controls, though well-meant, disturb the natural balance of the market."
+      ]
+    },
+    {
+      "q": "How does a change in demand or supply shift market equilibrium?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Market equilibrium",
+          "text": "is the price and quantity at which demand equals supply, and it changes when demand or supply shifts."
+        },
+        {
+          "lead": "A change in demand",
+          "text": "moves the whole demand curve."
+        },
+        {
+          "list": [
+            "An increase in demand raises both the equilibrium price and quantity",
+            "A decrease in demand lowers both"
+          ]
+        },
+        {
+          "lead": "A change in supply",
+          "text": "moves the whole supply curve."
+        },
+        {
+          "list": [
+            "An increase in supply lowers the price but raises the quantity",
+            "A decrease in supply raises the price but lowers the quantity",
+            "So shifts in either curve lead the market to a new equilibrium"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What are the effects of a government-imposed price ceiling and price floor?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The government",
+          "text": "sometimes fixes prices away from the market level, through a price ceiling or a price floor, with important effects."
+        },
+        {
+          "lead": "A price ceiling",
+          "text": "is a maximum legal price set below the equilibrium."
+        },
+        {
+          "list": [
+            "It is meant to help buyers, as with rationed food grains",
+            "But at the low price, demand exceeds supply, causing shortages and often rationing or black markets"
+          ]
+        },
+        {
+          "lead": "A price floor",
+          "text": "is a minimum legal price set above the equilibrium."
+        },
+        {
+          "list": [
+            "It is meant to help sellers, as with minimum support prices for crops or a minimum wage",
+            "But it creates a surplus, which the government may have to buy up"
+          ]
+        }
       ]
     }
   ]

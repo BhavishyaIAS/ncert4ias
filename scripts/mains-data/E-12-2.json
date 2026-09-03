@@ -7,10 +7,72 @@
       "word_limit": 150,
       "answer": [
         "Gross Domestic Product measures the total value of final goods and services produced in a country in a year, and it is a useful indicator of the size and growth of an economy. However, it is not an adequate measure of welfare, for several reasons.",
-        { "lead": "Distribution of income.", "text": "GDP tells us the total output but nothing about how it is shared. A rising GDP may go mainly to a few rich people while the majority remain poor, so higher GDP does not always mean better welfare for all." },
-        { "lead": "Non-market activities.", "text": "GDP counts only what is bought and sold in the market. It leaves out valuable non-market work, such as household chores and services done within the family, and much of the informal economy." },
-        { "lead": "Externalities.", "text": "GDP ignores harmful side effects like pollution and environmental damage that lower people's quality of life, and it may even count spending on defence or disasters as output." },
+        {
+          "lead": "Distribution of income.",
+          "text": "GDP tells us the total output but nothing about how it is shared. A rising GDP may go mainly to a few rich people while the majority remain poor, so higher GDP does not always mean better welfare for all."
+        },
+        {
+          "lead": "Non-market activities.",
+          "text": "GDP counts only what is bought and sold in the market. It leaves out valuable non-market work, such as household chores and services done within the family, and much of the informal economy."
+        },
+        {
+          "lead": "Externalities.",
+          "text": "GDP ignores harmful side effects like pollution and environmental damage that lower people's quality of life, and it may even count spending on defence or disasters as output."
+        },
         "For these reasons, a rise in GDP does not necessarily mean a rise in true welfare."
+      ]
+    },
+    {
+      "q": "Distinguish between GDP, GNP and national income, and explain how they are related.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "National income",
+          "text": "is measured by several related aggregates that each capture the country's output or income in a slightly different way."
+        },
+        {
+          "lead": "Gross Domestic Product (GDP)",
+          "text": "is the total value of all final goods and services produced within a country in a year."
+        },
+        {
+          "lead": "Gross National Product (GNP)",
+          "text": "adds to GDP the net income earned by a country's residents from abroad."
+        },
+        {
+          "list": [
+            "GNP equals GDP plus net factor income from abroad",
+            "Subtracting depreciation gives Net National Product, and adjusting for taxes and subsidies gives National Income (NNP at factor cost)"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How are the different methods used to measure national income, and what precautions are needed?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "National income",
+          "text": "can be measured by three methods, which should all give the same result."
+        },
+        {
+          "list": [
+            "The product (value-added) method adds the value added by all producers",
+            "The income method adds all incomes — wages, rent, interest and profit — earned by factors of production",
+            "The expenditure method adds all spending on final goods and services"
+          ]
+        },
+        {
+          "lead": "Care is needed to avoid errors.",
+          "text": "Two mistakes must be avoided."
+        },
+        {
+          "list": [
+            "Double counting — counting the value of intermediate goods along with final goods — must be avoided by counting only final goods or value added",
+            "Transfer payments and second-hand sales, which do not add to current output, must be excluded"
+          ]
+        }
       ]
     }
   ]

@@ -7,9 +7,72 @@
       "word_limit": 150,
       "answer": [
         "The government budget classifies both receipts and expenditure into revenue and capital categories.",
-        { "lead": "Revenue and capital receipts.", "text": "Revenue receipts are those that neither create a liability for the government nor reduce its assets. They include tax revenue, such as income tax and GST, and non-tax revenue, such as interest, fees and dividends. Capital receipts, on the other hand, either create a liability or reduce assets. They include borrowings, which create a liability, and the sale of government assets through disinvestment, or the recovery of loans, which reduce assets." },
-        { "lead": "Revenue and capital expenditure.", "text": "Revenue expenditure is spending that neither creates assets nor reduces liabilities, such as salaries, subsidies and interest payments. Capital expenditure is spending that either creates assets or reduces liabilities, such as building roads and bridges or repaying loans." },
+        {
+          "lead": "Revenue and capital receipts.",
+          "text": "Revenue receipts are those that neither create a liability for the government nor reduce its assets. They include tax revenue, such as income tax and GST, and non-tax revenue, such as interest, fees and dividends. Capital receipts, on the other hand, either create a liability or reduce assets. They include borrowings, which create a liability, and the sale of government assets through disinvestment, or the recovery of loans, which reduce assets."
+        },
+        {
+          "lead": "Revenue and capital expenditure.",
+          "text": "Revenue expenditure is spending that neither creates assets nor reduces liabilities, such as salaries, subsidies and interest payments. Capital expenditure is spending that either creates assets or reduces liabilities, such as building roads and bridges or repaying loans."
+        },
         "Thus the distinction rests on whether the item affects the government's assets and liabilities, which is important for judging the health of public finances."
+      ]
+    },
+    {
+      "q": "What is a government budget, and what are its main objectives?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A government budget",
+          "text": "is an annual statement of the estimated receipts and expenditure of the government over a financial year."
+        },
+        {
+          "list": [
+            "It shows how the government plans to raise money through taxes and other sources",
+            "It shows how it plans to spend on defence, administration, development and welfare"
+          ]
+        },
+        {
+          "lead": "It serves several objectives.",
+          "text": "The budget is a tool of policy."
+        },
+        {
+          "list": [
+            "It redistributes income through taxes and welfare spending to reduce inequality",
+            "It allocates resources to public goods, and stabilises the economy by managing demand to control inflation or unemployment"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between a fiscal deficit and a revenue deficit, and explain their significance.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Budget deficits",
+          "text": "measure the gap between the government's spending and its receipts, and two important measures are the fiscal and revenue deficits."
+        },
+        {
+          "lead": "The revenue deficit",
+          "text": "is the excess of revenue expenditure over revenue receipts."
+        },
+        {
+          "list": [
+            "It shows that the government's day-to-day spending exceeds its regular income, which is a matter of concern"
+          ]
+        },
+        {
+          "lead": "The fiscal deficit",
+          "text": "is the excess of total expenditure over total receipts excluding borrowing."
+        },
+        {
+          "list": [
+            "It shows the total borrowing the government must do",
+            "A large fiscal deficit adds to public debt and future interest burden, so it is watched closely"
+          ]
+        }
       ]
     }
   ]
