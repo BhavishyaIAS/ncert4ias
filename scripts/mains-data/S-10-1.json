@@ -6,9 +6,18 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The law of conservation of mass.", "text": "In any chemical reaction mass can neither be created nor destroyed. This is the law of conservation of mass. It means that the total mass of the reactants must equal the total mass of the products, because atoms are only rearranged, not made or lost." },
-        { "lead": "Need for balancing.", "text": "A chemical equation must therefore be balanced, so that the number of atoms of each element is the same on both sides. An unbalanced equation would suggest that some atoms had appeared or disappeared, which would violate the law." },
-        { "lead": "How it is done.", "text": "Balancing is achieved by putting suitable coefficients before the formulae, without changing the formulae themselves. For example, in the reaction of zinc with sulphuric acid, the atoms of zinc, hydrogen, sulphur and oxygen are made equal on each side." },
+        {
+          "lead": "The law of conservation of mass.",
+          "text": "In any chemical reaction mass can neither be created nor destroyed. This is the law of conservation of mass. It means that the total mass of the reactants must equal the total mass of the products, because atoms are only rearranged, not made or lost."
+        },
+        {
+          "lead": "Need for balancing.",
+          "text": "A chemical equation must therefore be balanced, so that the number of atoms of each element is the same on both sides. An unbalanced equation would suggest that some atoms had appeared or disappeared, which would violate the law."
+        },
+        {
+          "lead": "How it is done.",
+          "text": "Balancing is achieved by putting suitable coefficients before the formulae, without changing the formulae themselves. For example, in the reaction of zinc with sulphuric acid, the atoms of zinc, hydrogen, sulphur and oxygen are made equal on each side."
+        },
         "A balanced equation thus gives a true and quantitative picture of the reaction."
       ]
     },
@@ -17,10 +26,69 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "Corrosion is the slow eating up of metals by the action of air, moisture and chemicals in the surroundings. Iron gets covered with a brown flaky substance called rust, which is hydrated iron oxide; silver turns black and copper develops a green coat." },
-        { "lead": "Why it matters.", "text": "Corrosion damages car bodies, bridges, ships and iron railings, causing great economic loss every year and weakening structures." },
-        { "lead": "Prevention.", "text": "It can be prevented by keeping air and moisture away through painting, oiling and greasing, by coating iron with a layer of zinc in a process called galvanisation, by electroplating, and by making alloys such as stainless steel that do not rust." },
+        {
+          "lead": "Meaning.",
+          "text": "Corrosion is the slow eating up of metals by the action of air, moisture and chemicals in the surroundings. Iron gets covered with a brown flaky substance called rust, which is hydrated iron oxide; silver turns black and copper develops a green coat."
+        },
+        {
+          "lead": "Why it matters.",
+          "text": "Corrosion damages car bodies, bridges, ships and iron railings, causing great economic loss every year and weakening structures."
+        },
+        {
+          "lead": "Prevention.",
+          "text": "It can be prevented by keeping air and moisture away through painting, oiling and greasing, by coating iron with a layer of zinc in a process called galvanisation, by electroplating, and by making alloys such as stainless steel that do not rust."
+        },
         "Protecting metals from corrosion therefore saves both money and materials."
+      ]
+    },
+    {
+      "q": "Classify chemical reactions into their main types, giving one example of each.",
+      "directive": "Classify",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Chemical reactions",
+          "text": "can be grouped into a few main types based on how the reactants change."
+        },
+        {
+          "list": [
+            "Combination — two or more substances join to form one product, as calcium oxide and water form slaked lime",
+            "Decomposition — a single substance breaks into simpler ones, as heating limestone gives quicklime and carbon dioxide",
+            "Displacement — a more reactive element displaces a less reactive one, as iron displaces copper from copper sulphate",
+            "Double displacement — two compounds exchange ions, as in the formation of a precipitate"
+          ]
+        },
+        {
+          "lead": "Reactions",
+          "text": "are also classed as oxidation (gain of oxygen) or reduction (loss of oxygen)."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between oxidation and reduction, and explain redox reactions with an example.",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Oxidation and reduction",
+          "text": "are opposite processes that often happen together in a single reaction."
+        },
+        {
+          "list": [
+            "Oxidation is the gain of oxygen or loss of hydrogen by a substance",
+            "Reduction is the loss of oxygen or gain of hydrogen by a substance"
+          ]
+        },
+        {
+          "lead": "When both occur together,",
+          "text": "it is called a redox (oxidation-reduction) reaction."
+        },
+        {
+          "list": [
+            "When copper oxide reacts with hydrogen, copper oxide is reduced to copper while hydrogen is oxidised to water",
+            "Everyday effects like the rusting of iron and the browning of cut fruit are oxidation reactions"
+          ]
+        }
       ]
     }
   ]

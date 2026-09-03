@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Economic activities are grouped into three sectors according to how goods and services are produced.",
-        { "lead": "Primary sector.", "text": "This sector produces goods by directly using natural resources. Agriculture, dairying, fishing, forestry and mining belong here, since the product, such as crops or minerals, is mostly a natural resource. It is also called the agriculture and related sector." },
-        { "lead": "Secondary sector.", "text": "Here natural products are changed into other forms through manufacturing. Cotton is turned into cloth and sugarcane into sugar in factories, so it is also called the industrial sector." },
-        { "lead": "Tertiary sector.", "text": "This sector produces services rather than goods, such as transport, banking, trade, communication, education and health, which support the primary and secondary sectors. It is also called the service sector." }
+        {
+          "lead": "Primary sector.",
+          "text": "This sector produces goods by directly using natural resources. Agriculture, dairying, fishing, forestry and mining belong here, since the product, such as crops or minerals, is mostly a natural resource. It is also called the agriculture and related sector."
+        },
+        {
+          "lead": "Secondary sector.",
+          "text": "Here natural products are changed into other forms through manufacturing. Cotton is turned into cloth and sugarcane into sugar in factories, so it is also called the industrial sector."
+        },
+        {
+          "lead": "Tertiary sector.",
+          "text": "This sector produces services rather than goods, such as transport, banking, trade, communication, education and health, which support the primary and secondary sectors. It is also called the service sector."
+        }
       ]
     },
     {
@@ -17,9 +26,75 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Disguised unemployment.", "text": "Disguised unemployment is a hidden form of unemployment where more people are engaged in a job than are actually needed. For example, a small farm that needs only three workers may have a whole family of eight working on it. If some of them are removed, output does not fall, showing that their labour is not really required." },
-        { "lead": "The unorganised sector.", "text": "Most Indian workers are in the unorganised sector, made up of small, scattered units outside government control. Here jobs are low-paid and insecure, hours are irregular, and there are no benefits like provident fund, paid leave or pension. Workers can be dismissed without reason." },
+        {
+          "lead": "Disguised unemployment.",
+          "text": "Disguised unemployment is a hidden form of unemployment where more people are engaged in a job than are actually needed. For example, a small farm that needs only three workers may have a whole family of eight working on it. If some of them are removed, output does not fall, showing that their labour is not really required."
+        },
+        {
+          "lead": "The unorganised sector.",
+          "text": "Most Indian workers are in the unorganised sector, made up of small, scattered units outside government control. Here jobs are low-paid and insecure, hours are irregular, and there are no benefits like provident fund, paid leave or pension. Workers can be dismissed without reason."
+        },
         "Because such workers are poor and unprotected, they need registration, minimum wages and social security to safeguard their livelihoods."
+      ]
+    },
+    {
+      "q": "How has the importance of the three sectors changed as economies develop, and why has the tertiary sector grown in India?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "As economies develop",
+          "text": "the relative importance of the sectors changes in a broad pattern."
+        },
+        {
+          "list": [
+            "In early stages the primary sector dominates output and employment",
+            "As farming methods improve and factories grow, the secondary sector rises",
+            "In advanced economies the tertiary or service sector becomes the largest"
+          ]
+        },
+        {
+          "lead": "India's tertiary sector has grown fast.",
+          "text": "Several factors explain this."
+        },
+        {
+          "list": [
+            "Basic services like health, education, banking and transport are needed as the country develops",
+            "Rising incomes create demand for services like tourism, IT and finance",
+            "But this growth has not created enough good jobs for all who need them"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do government schemes like MGNREGA try to create employment and reduce underemployment?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Underemployment",
+          "text": "is common in India, where many people work less than they can, especially on farms — this is disguised unemployment."
+        },
+        {
+          "lead": "The government",
+          "text": "tries to create more work to absorb such labour."
+        },
+        {
+          "list": [
+            "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) guarantees a hundred days of paid work a year to rural households",
+            "It provides income to the poor and builds useful assets like roads, ponds and canals"
+          ]
+        },
+        {
+          "lead": "Its aim is twofold.",
+          "text": "It targets both jobs and development."
+        },
+        {
+          "list": [
+            "It reduces underemployment and distress migration from villages",
+            "By creating rural assets it can raise future productivity, though honest implementation is essential"
+          ]
+        }
       ]
     }
   ]

@@ -6,9 +6,18 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "Photosynthesis is the process by which green plants make their own food. Using carbon dioxide and water, in the presence of sunlight and the green pigment chlorophyll, they prepare glucose and release oxygen as a by-product." },
-        { "lead": "The steps.", "text": "Chlorophyll in the chloroplasts absorbs sunlight and converts light energy into chemical energy. This energy splits water into hydrogen and oxygen, and the carbon dioxide taken in through the stomata is reduced to form glucose. The glucose is stored as starch." },
-        { "lead": "Conditions required.", "text": "The essential conditions are sunlight, chlorophyll, carbon dioxide and water. Carbon dioxide enters through tiny pores called stomata, and water reaches the leaves through the xylem." },
+        {
+          "lead": "Meaning.",
+          "text": "Photosynthesis is the process by which green plants make their own food. Using carbon dioxide and water, in the presence of sunlight and the green pigment chlorophyll, they prepare glucose and release oxygen as a by-product."
+        },
+        {
+          "lead": "The steps.",
+          "text": "Chlorophyll in the chloroplasts absorbs sunlight and converts light energy into chemical energy. This energy splits water into hydrogen and oxygen, and the carbon dioxide taken in through the stomata is reduced to form glucose. The glucose is stored as starch."
+        },
+        {
+          "lead": "Conditions required.",
+          "text": "The essential conditions are sunlight, chlorophyll, carbon dioxide and water. Carbon dioxide enters through tiny pores called stomata, and water reaches the leaves through the xylem."
+        },
         "Photosynthesis thus makes plants the primary producers on which all other life depends."
       ]
     },
@@ -18,9 +27,71 @@
       "word_limit": 150,
       "answer": [
         "Respiration is the breakdown of food to release energy, and it can take place with or without oxygen.",
-        { "lead": "Aerobic respiration.", "text": "Aerobic respiration takes place in the presence of oxygen, mainly in the mitochondria. Glucose is completely broken down into carbon dioxide and water, releasing a large amount of energy stored as ATP. This is the usual form of respiration in most organisms." },
-        { "lead": "Anaerobic respiration.", "text": "Anaerobic respiration occurs in the absence of oxygen and gives much less energy. In yeast, glucose breaks down into ethanol and carbon dioxide, a process used in brewing and baking. In our muscles during heavy exercise, when oxygen runs short, glucose forms lactic acid, which causes cramps." },
+        {
+          "lead": "Aerobic respiration.",
+          "text": "Aerobic respiration takes place in the presence of oxygen, mainly in the mitochondria. Glucose is completely broken down into carbon dioxide and water, releasing a large amount of energy stored as ATP. This is the usual form of respiration in most organisms."
+        },
+        {
+          "lead": "Anaerobic respiration.",
+          "text": "Anaerobic respiration occurs in the absence of oxygen and gives much less energy. In yeast, glucose breaks down into ethanol and carbon dioxide, a process used in brewing and baking. In our muscles during heavy exercise, when oxygen runs short, glucose forms lactic acid, which causes cramps."
+        },
         "Thus aerobic respiration is more efficient, while anaerobic respiration is a fallback when oxygen is scarce."
+      ]
+    },
+    {
+      "q": "How are food and oxygen transported in the human body?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The transport system",
+          "text": "carries digested food, oxygen and other materials to all the cells of the body, mainly through the blood."
+        },
+        {
+          "list": [
+            "The heart pumps blood through arteries, veins and capillaries in a double circulation",
+            "Oxygen taken in by the lungs binds to haemoglobin in red blood cells and is carried to the tissues",
+            "Digested food absorbed in the intestine is carried dissolved in the blood plasma"
+          ]
+        },
+        {
+          "lead": "Plants have their own transport.",
+          "text": "They use two kinds of tissue."
+        },
+        {
+          "list": [
+            "Xylem carries water and minerals up from the roots",
+            "Phloem carries food made in the leaves to all parts of the plant"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do the kidneys carry out excretion, and how is waste removed in plants?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Excretion",
+          "text": "is the removal of harmful waste made during life processes, and in humans the kidneys are the main organs."
+        },
+        {
+          "list": [
+            "The kidneys filter waste like urea from the blood and form urine",
+            "Urine passes through tubes to the bladder and is removed from the body",
+            "An artificial kidney (dialysis) can filter blood when the kidneys fail"
+          ]
+        },
+        {
+          "lead": "Plants excrete differently.",
+          "text": "They have no special organs for it."
+        },
+        {
+          "list": [
+            "They release oxygen and carbon dioxide through pores called stomata",
+            "Extra water leaves as vapour by transpiration, and some waste is stored in leaves or bark that fall off"
+          ]
+        }
       ]
     }
   ]

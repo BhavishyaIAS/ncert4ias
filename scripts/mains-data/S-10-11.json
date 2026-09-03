@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Ohm's law.", "text": "Ohm's law states that, at constant temperature, the electric current flowing through a conductor is directly proportional to the potential difference across its ends. This is written as V equals I times R, where R is the resistance of the conductor." },
-        { "lead": "Factors affecting resistance.", "text": "The resistance of a conductor depends on several factors. It is directly proportional to the length of the conductor, so a longer wire has more resistance. It is inversely proportional to the area of cross-section, so a thicker wire has less resistance. It also depends on the nature of the material, described by a property called resistivity, and it changes with temperature, usually increasing as the conductor gets hotter." },
+        {
+          "lead": "Ohm's law.",
+          "text": "Ohm's law states that, at constant temperature, the electric current flowing through a conductor is directly proportional to the potential difference across its ends. This is written as V equals I times R, where R is the resistance of the conductor."
+        },
+        {
+          "lead": "Factors affecting resistance.",
+          "text": "The resistance of a conductor depends on several factors. It is directly proportional to the length of the conductor, so a longer wire has more resistance. It is inversely proportional to the area of cross-section, so a thicker wire has less resistance. It also depends on the nature of the material, described by a property called resistivity, and it changes with temperature, usually increasing as the conductor gets hotter."
+        },
         "This is why alloys like nichrome, which have high resistivity, are used in heating appliances, while copper and aluminium, with low resistance, are used for wires."
       ]
     },
@@ -17,10 +23,77 @@
       "word_limit": 150,
       "answer": [
         "In household wiring all appliances are connected in parallel, and this is done for several important reasons.",
-        { "lead": "Same full voltage.", "text": "In a parallel connection each appliance receives the same full voltage of the supply, usually 220 volts, which it needs to work properly. In a series connection the voltage would be shared, and each appliance would get less than it requires." },
-        { "lead": "Independent operation.", "text": "In parallel, each appliance has its own separate path for current, so it can be switched on or off on its own without affecting the others. If one appliance fails or is switched off, the rest continue to work. In a series circuit, a break anywhere would stop the whole circuit." },
-        { "lead": "Suitable current.", "text": "Parallel connection also allows each appliance to draw the current it needs according to its own resistance." },
+        {
+          "lead": "Same full voltage.",
+          "text": "In a parallel connection each appliance receives the same full voltage of the supply, usually 220 volts, which it needs to work properly. In a series connection the voltage would be shared, and each appliance would get less than it requires."
+        },
+        {
+          "lead": "Independent operation.",
+          "text": "In parallel, each appliance has its own separate path for current, so it can be switched on or off on its own without affecting the others. If one appliance fails or is switched off, the rest continue to work. In a series circuit, a break anywhere would stop the whole circuit."
+        },
+        {
+          "lead": "Suitable current.",
+          "text": "Parallel connection also allows each appliance to draw the current it needs according to its own resistance."
+        },
         "For these reasons parallel wiring is used in homes."
+      ]
+    },
+    {
+      "q": "How is electric power calculated, and how does it relate to the heating effect of current?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Electric power",
+          "text": "is the rate at which electrical energy is used or supplied, measured in watts."
+        },
+        {
+          "list": [
+            "Power equals voltage times current, and can also be written as current squared times resistance",
+            "Its commercial unit is the kilowatt-hour, the 'unit' on the electricity bill"
+          ]
+        },
+        {
+          "lead": "It links to the heating effect.",
+          "text": "Current flowing through a resistance produces heat."
+        },
+        {
+          "list": [
+            "The heat produced is proportional to the square of the current, the resistance and the time",
+            "This heating effect is used in bulbs, heaters and irons, and is the reason a fuse of thin wire melts when current is too high"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do resistors combine in series and in parallel, and why does it matter in circuits?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Resistors",
+          "text": "can be joined in two basic ways, and each affects the total resistance differently."
+        },
+        {
+          "lead": "In series,",
+          "text": "resistors are joined end to end."
+        },
+        {
+          "list": [
+            "The same current flows through each, and the total resistance is the sum of the individual resistances, so it increases",
+            "If one component fails, the whole circuit breaks"
+          ]
+        },
+        {
+          "lead": "In parallel,",
+          "text": "resistors are joined across the same two points."
+        },
+        {
+          "list": [
+            "Each gets the full voltage, the total resistance is less than the smallest resistor, so more current flows",
+            "Household appliances are wired in parallel so each works independently at full voltage"
+          ]
+        }
       ]
     }
   ]

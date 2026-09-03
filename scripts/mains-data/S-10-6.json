@@ -6,9 +6,18 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Reflex action.", "text": "A reflex action is a sudden, automatic and involuntary response of the body to a stimulus, such as quickly pulling back the hand on touching a hot object or blinking when something approaches the eye. It protects the body from harm before we even think about it." },
-        { "lead": "The reflex arc.", "text": "The pathway taken by the nerve impulse in a reflex action is called the reflex arc. When a receptor in the skin detects the stimulus, a sensory neuron carries the message to the spinal cord. There it is passed on, through a relay neuron, to a motor neuron, which sends the command to the muscle, the effector, which responds at once." },
-        { "lead": "Role of the spinal cord.", "text": "The reflex arc passes through the spinal cord rather than the brain, so the response is very fast, though the brain is informed afterwards." },
+        {
+          "lead": "Reflex action.",
+          "text": "A reflex action is a sudden, automatic and involuntary response of the body to a stimulus, such as quickly pulling back the hand on touching a hot object or blinking when something approaches the eye. It protects the body from harm before we even think about it."
+        },
+        {
+          "lead": "The reflex arc.",
+          "text": "The pathway taken by the nerve impulse in a reflex action is called the reflex arc. When a receptor in the skin detects the stimulus, a sensory neuron carries the message to the spinal cord. There it is passed on, through a relay neuron, to a motor neuron, which sends the command to the muscle, the effector, which responds at once."
+        },
+        {
+          "lead": "Role of the spinal cord.",
+          "text": "The reflex arc passes through the spinal cord rather than the brain, so the response is very fast, though the brain is informed afterwards."
+        },
         "Thus reflex actions allow rapid, life-saving responses."
       ]
     },
@@ -18,10 +27,80 @@
       "word_limit": 150,
       "answer": [
         "Endocrine glands secrete hormones directly into the blood to control and coordinate body functions.",
-        { "lead": "Thyroid gland.", "text": "It secretes thyroxine, which controls the metabolism of carbohydrates, fats and proteins. Iodine is essential for its production, and a lack of iodine causes goitre." },
-        { "lead": "Pancreas.", "text": "It produces insulin, which regulates the level of sugar in the blood. If insulin is not secreted in proper amounts, blood sugar rises, causing diabetes." },
-        { "lead": "Adrenal glands.", "text": "They secrete adrenaline, the fight-or-flight hormone, which prepares the body for emergencies by raising the heartbeat and breathing rate." },
-        { "lead": "Pituitary gland.", "text": "It secretes growth hormone, which controls growth of the body; its deficiency causes dwarfism and its excess gigantism." }
+        {
+          "lead": "Thyroid gland.",
+          "text": "It secretes thyroxine, which controls the metabolism of carbohydrates, fats and proteins. Iodine is essential for its production, and a lack of iodine causes goitre."
+        },
+        {
+          "lead": "Pancreas.",
+          "text": "It produces insulin, which regulates the level of sugar in the blood. If insulin is not secreted in proper amounts, blood sugar rises, causing diabetes."
+        },
+        {
+          "lead": "Adrenal glands.",
+          "text": "They secrete adrenaline, the fight-or-flight hormone, which prepares the body for emergencies by raising the heartbeat and breathing rate."
+        },
+        {
+          "lead": "Pituitary gland.",
+          "text": "It secretes growth hormone, which controls growth of the body; its deficiency causes dwarfism and its excess gigantism."
+        }
+      ]
+    },
+    {
+      "q": "How does the nervous system enable the body to respond to stimuli?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The nervous system",
+          "text": "lets the body detect changes in its surroundings and respond quickly and in a coordinated way."
+        },
+        {
+          "list": [
+            "Receptors in the sense organs detect a stimulus such as light, sound, heat or touch",
+            "Nerve cells (neurons) carry the information as electrical impulses to the spinal cord and brain",
+            "The brain processes it and sends instructions along nerves to the muscles or glands, which act"
+          ]
+        },
+        {
+          "lead": "The brain is the control centre.",
+          "text": "Its parts have distinct roles."
+        },
+        {
+          "list": [
+            "The forebrain thinks and controls voluntary action, the cerebellum controls balance and posture, and the medulla controls involuntary actions like heartbeat"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do plants respond to stimuli and coordinate their activities without a nervous system?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Plants",
+          "text": "have no nervous system, yet they respond to stimuli through movements and chemical messengers."
+        },
+        {
+          "lead": "Movements",
+          "text": "may be directional or not."
+        },
+        {
+          "list": [
+            "Tropic movements are directional growth responses — roots grow towards water and gravity, shoots towards light",
+            "Some quick movements, like the folding of a touch-me-not plant's leaves, are not growth movements"
+          ]
+        },
+        {
+          "lead": "Chemicals coordinate growth.",
+          "text": "Plants use hormones."
+        },
+        {
+          "list": [
+            "Plant hormones like auxin, gibberellin and cytokinin control growth, while abscisic acid slows it",
+            "These hormones move to where they are needed and direct the plant's response"
+          ]
+        }
       ]
     }
   ]

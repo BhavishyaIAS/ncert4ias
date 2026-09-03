@@ -6,10 +6,22 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The reactivity series.", "text": "Metals can be arranged in order of decreasing reactivity, from very reactive metals like potassium, sodium and calcium at the top, through moderately reactive metals like iron and zinc, to unreactive metals like silver and gold at the bottom." },
-        { "lead": "Least reactive metals.", "text": "Metals of low reactivity, such as gold and silver, are often found in a free state and can be obtained by simple heating." },
-        { "lead": "Moderately reactive metals.", "text": "Metals in the middle, such as iron, zinc and lead, are usually found as oxides, sulphides or carbonates. Their oxides are reduced to the metal by heating with carbon, which acts as a reducing agent." },
-        { "lead": "Most reactive metals.", "text": "The most reactive metals, such as sodium, magnesium and aluminium, hold their oxides so strongly that they can be extracted only by the electrolysis of their molten compounds." },
+        {
+          "lead": "The reactivity series.",
+          "text": "Metals can be arranged in order of decreasing reactivity, from very reactive metals like potassium, sodium and calcium at the top, through moderately reactive metals like iron and zinc, to unreactive metals like silver and gold at the bottom."
+        },
+        {
+          "lead": "Least reactive metals.",
+          "text": "Metals of low reactivity, such as gold and silver, are often found in a free state and can be obtained by simple heating."
+        },
+        {
+          "lead": "Moderately reactive metals.",
+          "text": "Metals in the middle, such as iron, zinc and lead, are usually found as oxides, sulphides or carbonates. Their oxides are reduced to the metal by heating with carbon, which acts as a reducing agent."
+        },
+        {
+          "lead": "Most reactive metals.",
+          "text": "The most reactive metals, such as sodium, magnesium and aluminium, hold their oxides so strongly that they can be extracted only by the electrolysis of their molten compounds."
+        },
         "Thus the method chosen depends on the metal's place in the reactivity series."
       ]
     },
@@ -18,9 +30,77 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "An alloy is a homogeneous mixture of two or more metals, or of a metal with a non-metal. For example, steel is an alloy of iron and carbon, brass is made of copper and zinc, and bronze of copper and tin. An alloy of a metal with mercury is called an amalgam." },
-        { "lead": "Improved properties.", "text": "Alloys are preferred because they have better properties than pure metals. Pure iron is soft, but adding carbon makes steel hard and strong. Adding chromium and nickel gives stainless steel, which does not rust. Alloying can also lower the melting point, as in solder, and reduce electrical conductivity." },
+        {
+          "lead": "Meaning.",
+          "text": "An alloy is a homogeneous mixture of two or more metals, or of a metal with a non-metal. For example, steel is an alloy of iron and carbon, brass is made of copper and zinc, and bronze of copper and tin. An alloy of a metal with mercury is called an amalgam."
+        },
+        {
+          "lead": "Improved properties.",
+          "text": "Alloys are preferred because they have better properties than pure metals. Pure iron is soft, but adding carbon makes steel hard and strong. Adding chromium and nickel gives stainless steel, which does not rust. Alloying can also lower the melting point, as in solder, and reduce electrical conductivity."
+        },
         "By combining metals, we obtain materials that are stronger, harder and more resistant to corrosion, suited to many practical uses."
+      ]
+    },
+    {
+      "q": "How do metals and non-metals differ in their chemical properties, with examples?",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Metals and non-metals",
+          "text": "differ in their chemical behaviour, which reflects their tendency to lose or gain electrons."
+        },
+        {
+          "lead": "Metals",
+          "text": "tend to lose electrons and form positive ions."
+        },
+        {
+          "list": [
+            "They react with oxygen to form basic oxides, and many react with water and acids to release hydrogen",
+            "For example, sodium and magnesium form basic oxides"
+          ]
+        },
+        {
+          "lead": "Non-metals",
+          "text": "tend to gain electrons and form negative ions."
+        },
+        {
+          "list": [
+            "They react with oxygen to form acidic or neutral oxides",
+            "For example, sulphur and carbon form acidic oxides, and they do not usually displace hydrogen from acids"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What is corrosion, why is it harmful, and how can metals be protected from it?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Corrosion",
+          "text": "is the slow eating away of a metal by the action of air, moisture and chemicals around it."
+        },
+        {
+          "list": [
+            "Iron rusts to a reddish-brown flaky layer in the presence of oxygen and water",
+            "Silver blackens and copper turns green over time"
+          ]
+        },
+        {
+          "lead": "It is harmful",
+          "text": "because it weakens metal structures and wastes valuable material every year."
+        },
+        {
+          "lead": "Metals can be protected",
+          "text": "in several ways."
+        },
+        {
+          "list": [
+            "Painting, oiling and greasing keep out air and moisture",
+            "Galvanising coats iron with zinc, and alloying (as stainless steel) makes metals corrosion-resistant"
+          ]
+        }
       ]
     }
   ]

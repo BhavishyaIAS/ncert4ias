@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Power-sharing is the very spirit of democracy, and it is desirable for two kinds of reasons.",
-        { "lead": "Prudential reasons.", "text": "These are based on careful calculation of gains and losses. Power-sharing helps reduce the possibility of conflict between social groups, and since social conflict often leads to violence and political instability, sharing power is a good way to ensure the stability of the political order. Imposing the will of the majority over others may look attractive for a while, but in the long run it undermines the unity of the nation." },
-        { "lead": "Moral reasons.", "text": "These call power-sharing valuable in itself. Power-sharing is the very spirit of democracy. A democratic rule involves sharing power with those affected by its exercise and who have to live with its effects. People have a right to be consulted on how they are to be governed. A legitimate government is one where citizens, through participation, acquire a stake in the system." }
+        {
+          "lead": "Prudential reasons.",
+          "text": "These are based on careful calculation of gains and losses. Power-sharing helps reduce the possibility of conflict between social groups, and since social conflict often leads to violence and political instability, sharing power is a good way to ensure the stability of the political order. Imposing the will of the majority over others may look attractive for a while, but in the long run it undermines the unity of the nation."
+        },
+        {
+          "lead": "Moral reasons.",
+          "text": "These call power-sharing valuable in itself. Power-sharing is the very spirit of democracy. A democratic rule involves sharing power with those affected by its exercise and who have to live with its effects. People have a right to be consulted on how they are to be governed. A legitimate government is one where citizens, through participation, acquire a stake in the system."
+        }
       ]
     },
     {
@@ -17,9 +23,69 @@
       "word_limit": 150,
       "answer": [
         "Belgium and Sri Lanka are both democracies, but they dealt with cultural diversity in opposite ways.",
-        { "lead": "Belgium's accommodation.", "text": "Belgium has a complex mix of Dutch, French and German speakers. Its leaders recognised these differences and amended the constitution to give equal representation to different language groups in the central government, gave more powers to state governments, and set up a special community government elected on the basis of language. This accommodation prevented conflict." },
-        { "lead": "Sri Lanka's majoritarianism.", "text": "In Sri Lanka the Sinhala majority sought to dominate the government, made Sinhala the only official language, and favoured Buddhism. The Tamil minority felt alienated, and their demands for autonomy were repeatedly denied, leading to a long and destructive civil war." },
+        {
+          "lead": "Belgium's accommodation.",
+          "text": "Belgium has a complex mix of Dutch, French and German speakers. Its leaders recognised these differences and amended the constitution to give equal representation to different language groups in the central government, gave more powers to state governments, and set up a special community government elected on the basis of language. This accommodation prevented conflict."
+        },
+        {
+          "lead": "Sri Lanka's majoritarianism.",
+          "text": "In Sri Lanka the Sinhala majority sought to dominate the government, made Sinhala the only official language, and favoured Buddhism. The Tamil minority felt alienated, and their demands for autonomy were repeatedly denied, leading to a long and destructive civil war."
+        },
         "Thus Belgium's sharing brought unity, while Sri Lanka's majoritarianism brought conflict."
+      ]
+    },
+    {
+      "q": "What are the different forms in which power is shared in modern democracies?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Power-sharing",
+          "text": "is the spirit of democracy, and in modern democracies power is shared in several ways."
+        },
+        {
+          "list": [
+            "Among different organs of government — the legislature, executive and judiciary — which check and balance one another (horizontal division)",
+            "Among governments at different levels — union, state and local — which is a vertical division of power"
+          ]
+        },
+        {
+          "lead": "Power is also shared",
+          "text": "among social groups and political actors."
+        },
+        {
+          "list": [
+            "Among different social groups, such as linguistic and religious communities, as in community government",
+            "Among political parties, pressure groups and movements, who compete for and share power through elections and coalitions"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did Belgium accommodate its regional and linguistic diversity through power-sharing?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Belgium",
+          "text": "faced sharp tension between its Dutch-speaking and French-speaking communities, and its leaders solved this through skilful power-sharing."
+        },
+        {
+          "list": [
+            "The Constitution ensures equal number of Dutch and French-speaking ministers in the central government",
+            "Many powers were given to the state governments of the two regions, which are not subordinate to the centre"
+          ]
+        },
+        {
+          "lead": "Special arrangements",
+          "text": "protected all communities."
+        },
+        {
+          "list": [
+            "Brussels has a separate government with equal representation for both communities",
+            "A community government, elected by people of each language group, controls cultural and educational matters — peacefully accommodating diversity"
+          ]
+        }
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Minerals occur in a variety of forms depending on the type of rock and the process of formation.",
-        { "lead": "Veins and lodes.", "text": "In igneous and metamorphic rocks, minerals occur in cracks and joints as veins and larger lodes; tin, copper and zinc are found in this form and have to be mined from deep below." },
-        { "lead": "Beds and layers.", "text": "In sedimentary rocks, minerals form in horizontal beds and layers, such as coal, gypsum and potash, laid down over long periods." },
-        { "lead": "Weathering and placer deposits.", "text": "Some minerals like bauxite form by the decomposition of surface rocks, while placer deposits of gold and platinum collect in the sands of valley floors and can be recovered without deep mining." },
+        {
+          "lead": "Veins and lodes.",
+          "text": "In igneous and metamorphic rocks, minerals occur in cracks and joints as veins and larger lodes; tin, copper and zinc are found in this form and have to be mined from deep below."
+        },
+        {
+          "lead": "Beds and layers.",
+          "text": "In sedimentary rocks, minerals form in horizontal beds and layers, such as coal, gypsum and potash, laid down over long periods."
+        },
+        {
+          "lead": "Weathering and placer deposits.",
+          "text": "Some minerals like bauxite form by the decomposition of surface rocks, while placer deposits of gold and platinum collect in the sands of valley floors and can be recovered without deep mining."
+        },
         "Thus the mode of occurrence decides whether minerals are mined, quarried or panned."
       ]
     },
@@ -19,10 +28,76 @@
       "word_limit": 150,
       "answer": [
         "India depends heavily on conventional sources such as coal and petroleum, which makes non-conventional energy increasingly important.",
-        { "lead": "Limits of fossil fuels.", "text": "Coal, petroleum and natural gas are non-renewable and are being rapidly exhausted, and their use causes serious pollution and adds to global warming." },
-        { "lead": "Rising demand and imports.", "text": "A growing population and expanding industry sharply increase energy demand, and India has to import much of its petroleum, which is costly." },
-        { "lead": "Renewable potential.", "text": "India is blessed with abundant sunlight, wind, tides and geothermal heat. Solar energy, wind farms such as those near Jaisalmer, tidal energy in the Gulf of Kachchh and geothermal energy offer clean and renewable alternatives." },
+        {
+          "lead": "Limits of fossil fuels.",
+          "text": "Coal, petroleum and natural gas are non-renewable and are being rapidly exhausted, and their use causes serious pollution and adds to global warming."
+        },
+        {
+          "lead": "Rising demand and imports.",
+          "text": "A growing population and expanding industry sharply increase energy demand, and India has to import much of its petroleum, which is costly."
+        },
+        {
+          "lead": "Renewable potential.",
+          "text": "India is blessed with abundant sunlight, wind, tides and geothermal heat. Solar energy, wind farms such as those near Jaisalmer, tidal energy in the Gulf of Kachchh and geothermal energy offer clean and renewable alternatives."
+        },
         "Developing these sources is essential for energy security and sustainable development."
+      ]
+    },
+    {
+      "q": "Why is the conservation of minerals important, and how can it be achieved?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Minerals",
+          "text": "are a non-renewable resource formed over millions of years, so their stock is limited and must be conserved."
+        },
+        {
+          "list": [
+            "They are being consumed rapidly by industry, and rich deposits are running out",
+            "Extracting the remaining reserves becomes costlier as deposits get deeper and poorer"
+          ]
+        },
+        {
+          "lead": "Conservation",
+          "text": "can be achieved through planned and careful use."
+        },
+        {
+          "list": [
+            "Using minerals efficiently and reducing waste in mining and processing",
+            "Recycling metals like iron, aluminium and copper reduces fresh demand",
+            "Developing substitutes and using low-grade ores with better technology extend the life of reserves"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between conventional and non-conventional sources of energy, and explain why India must develop the latter.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Energy sources",
+          "text": "are grouped into conventional and non-conventional types."
+        },
+        {
+          "lead": "Conventional sources",
+          "text": "have long been used and include coal, petroleum, natural gas and firewood; most are non-renewable and polluting."
+        },
+        {
+          "lead": "Non-conventional sources",
+          "text": "are renewable and clean — solar, wind, tidal, geothermal and biogas."
+        },
+        {
+          "lead": "India must develop them",
+          "text": "for pressing reasons."
+        },
+        {
+          "list": [
+            "Fossil fuels are limited, being exhausted, and largely imported at great cost",
+            "Renewables cut pollution and greenhouse gases, and suit India's abundant sunshine and long coastline"
+          ]
+        }
       ]
     }
   ]

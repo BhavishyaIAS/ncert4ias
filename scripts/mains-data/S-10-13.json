@@ -6,9 +6,18 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Food chain.", "text": "A food chain is a series of organisms in which each feeds on the one before it, showing how food and energy pass through an ecosystem. It begins with producers such as green plants, followed by herbivores that eat them, and then carnivores that eat the herbivores. Each step is called a trophic level." },
-        { "lead": "The ten per cent law.", "text": "When energy passes from one trophic level to the next, only about ten per cent of it is stored as body mass and passed on. The rest is lost as heat and used up in life processes such as respiration and movement." },
-        { "lead": "Short chains.", "text": "Because so much energy is lost at each level, very little is left after three or four steps, and there is not enough to support further levels." },
+        {
+          "lead": "Food chain.",
+          "text": "A food chain is a series of organisms in which each feeds on the one before it, showing how food and energy pass through an ecosystem. It begins with producers such as green plants, followed by herbivores that eat them, and then carnivores that eat the herbivores. Each step is called a trophic level."
+        },
+        {
+          "lead": "The ten per cent law.",
+          "text": "When energy passes from one trophic level to the next, only about ten per cent of it is stored as body mass and passed on. The rest is lost as heat and used up in life processes such as respiration and movement."
+        },
+        {
+          "lead": "Short chains.",
+          "text": "Because so much energy is lost at each level, very little is left after three or four steps, and there is not enough to support further levels."
+        },
         "This is why food chains are usually short, with only a few trophic levels."
       ]
     },
@@ -17,10 +26,80 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Biodegradable substances.", "text": "Biodegradable substances are those that can be broken down into simpler harmless materials by the action of microorganisms such as bacteria and fungi. Examples include vegetable and food waste, paper, cotton and cow dung. They are recycled naturally and do not pile up." },
-        { "lead": "Non-biodegradable substances.", "text": "Non-biodegradable substances cannot be decomposed by microorganisms. Examples include plastics, glass, metals and chemicals like DDT. They remain in the environment for a very long time." },
-        { "lead": "Why they are harmful.", "text": "Because they do not break down, non-biodegradable wastes accumulate, choke drains and soil, and pollute land and water. Harmful chemicals like pesticides also enter food chains and increase in concentration at higher levels through biological magnification, endangering animals and humans." },
+        {
+          "lead": "Biodegradable substances.",
+          "text": "Biodegradable substances are those that can be broken down into simpler harmless materials by the action of microorganisms such as bacteria and fungi. Examples include vegetable and food waste, paper, cotton and cow dung. They are recycled naturally and do not pile up."
+        },
+        {
+          "lead": "Non-biodegradable substances.",
+          "text": "Non-biodegradable substances cannot be decomposed by microorganisms. Examples include plastics, glass, metals and chemicals like DDT. They remain in the environment for a very long time."
+        },
+        {
+          "lead": "Why they are harmful.",
+          "text": "Because they do not break down, non-biodegradable wastes accumulate, choke drains and soil, and pollute land and water. Harmful chemicals like pesticides also enter food chains and increase in concentration at higher levels through biological magnification, endangering animals and humans."
+        },
         "Reducing and safely managing such waste is therefore essential."
+      ]
+    },
+    {
+      "q": "What are the two main components of an ecosystem, and how do they interact?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "An ecosystem",
+          "text": "is a community of living things interacting with one another and with their non-living surroundings, and it has two main components."
+        },
+        {
+          "lead": "The biotic component",
+          "text": "is all the living organisms."
+        },
+        {
+          "list": [
+            "Producers (green plants) make food; consumers (animals) eat plants or other animals; decomposers break down the dead"
+          ]
+        },
+        {
+          "lead": "The abiotic component",
+          "text": "is the non-living environment — air, water, soil, sunlight and temperature."
+        },
+        {
+          "list": [
+            "Producers use abiotic factors like sunlight and water to make food, which flows through the food chain",
+            "Decomposers return nutrients to the soil, so living and non-living parts are constantly linked"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do human activities like the overuse of chemicals and the depletion of the ozone layer damage the environment?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Human activities",
+          "text": "disturb the natural balance in ways that harm the whole environment."
+        },
+        {
+          "lead": "Overuse of chemicals",
+          "text": "spreads harmful substances through food chains."
+        },
+        {
+          "list": [
+            "Pesticides and fertilisers wash into soil and water and enter plants and animals",
+            "As non-biodegradable chemicals pass up the food chain, they concentrate in higher organisms, a process called biological magnification"
+          ]
+        },
+        {
+          "lead": "Ozone depletion",
+          "text": "removes a vital shield."
+        },
+        {
+          "list": [
+            "The ozone layer blocks the sun's harmful ultraviolet rays",
+            "Chemicals like CFCs destroy ozone, so its thinning increases the risk of skin cancer and other harm — hence CFCs are being phased out"
+          ]
+        }
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Farming in India varies with physical environment, technology and social customs.",
-        { "lead": "Primitive subsistence farming.", "text": "Practised on small patches with primitive tools and family labour, it depends on the monsoon and natural soil fertility. It is a slash-and-burn form of farming, called jhumming in north-east India, where land is cleared, cultivated and then left to recover." },
-        { "lead": "Intensive subsistence farming.", "text": "Found in densely populated regions, it is labour-intensive, using high doses of biochemical inputs and irrigation on small holdings to raise output." },
-        { "lead": "Commercial farming.", "text": "Here modern inputs such as high-yielding seeds and fertilisers are used to produce for the market. Plantation farming is a type of commercial farming in which a single crop like tea, coffee or rubber is grown on large estates." },
+        {
+          "lead": "Primitive subsistence farming.",
+          "text": "Practised on small patches with primitive tools and family labour, it depends on the monsoon and natural soil fertility. It is a slash-and-burn form of farming, called jhumming in north-east India, where land is cleared, cultivated and then left to recover."
+        },
+        {
+          "lead": "Intensive subsistence farming.",
+          "text": "Found in densely populated regions, it is labour-intensive, using high doses of biochemical inputs and irrigation on small holdings to raise output."
+        },
+        {
+          "lead": "Commercial farming.",
+          "text": "Here modern inputs such as high-yielding seeds and fertilisers are used to produce for the market. Plantation farming is a type of commercial farming in which a single crop like tea, coffee or rubber is grown on large estates."
+        },
         "Thus Indian agriculture ranges from primitive to highly commercial forms."
       ]
     },
@@ -19,10 +28,77 @@
       "word_limit": 150,
       "answer": [
         "Indian agriculture follows three main cropping seasons, shaped by the monsoon and the annual weather cycle.",
-        { "lead": "Rabi.", "text": "Rabi crops are sown in winter, from October to December, and harvested in summer, from April to June. Important rabi crops are wheat, barley, peas, gram and mustard, grown mainly in the north and north-west." },
-        { "lead": "Kharif.", "text": "Kharif crops are grown with the onset of the monsoon and harvested in September and October. They include rice, maize, jowar, bajra, tur, cotton, jute and groundnut." },
-        { "lead": "Zaid.", "text": "Zaid is a short season between rabi and kharif, in the summer months, producing watermelon, muskmelon, cucumber, vegetables and fodder crops." },
+        {
+          "lead": "Rabi.",
+          "text": "Rabi crops are sown in winter, from October to December, and harvested in summer, from April to June. Important rabi crops are wheat, barley, peas, gram and mustard, grown mainly in the north and north-west."
+        },
+        {
+          "lead": "Kharif.",
+          "text": "Kharif crops are grown with the onset of the monsoon and harvested in September and October. They include rice, maize, jowar, bajra, tur, cotton, jute and groundnut."
+        },
+        {
+          "lead": "Zaid.",
+          "text": "Zaid is a short season between rabi and kharif, in the summer months, producing watermelon, muskmelon, cucumber, vegetables and fodder crops."
+        },
         "These seasons allow different crops to be grown through the year."
+      ]
+    },
+    {
+      "q": "What are the main technological and institutional reforms introduced to improve Indian agriculture?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Indian agriculture",
+          "text": "has been reformed both technologically and institutionally to raise output and protect farmers."
+        },
+        {
+          "lead": "Technological reforms",
+          "text": "improved the methods of farming."
+        },
+        {
+          "list": [
+            "The Green Revolution brought high-yielding seeds, fertilisers, pesticides and irrigation, raising food grain production",
+            "Better tools, machinery and the White Revolution in milk transformed productivity"
+          ]
+        },
+        {
+          "lead": "Institutional reforms",
+          "text": "changed the system around the farmer."
+        },
+        {
+          "list": [
+            "Land reforms like the abolition of zamindari, and consolidation of holdings, gave land to tillers",
+            "Minimum support prices, crop insurance, and Kisan Credit Cards protect and support farmers"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What role does agriculture play in the Indian economy, and what challenges does it face today?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Agriculture",
+          "text": "remains central to India, supporting a majority of the population and supplying food and raw materials."
+        },
+        {
+          "list": [
+            "It employs a large share of the workforce and feeds the nation",
+            "It provides raw materials to industries like textiles and sugar, and food for export earnings"
+          ]
+        },
+        {
+          "lead": "Yet it faces serious challenges.",
+          "text": "Its share in income has fallen while dependence remains high."
+        },
+        {
+          "list": [
+            "Small, fragmented holdings, dependence on the monsoon, and soil degradation limit productivity",
+            "Lack of storage, fair prices and cheap credit hurts farmers, so reforms and investment are needed"
+          ]
+        }
       ]
     }
   ]

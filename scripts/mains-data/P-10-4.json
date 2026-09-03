@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Political parties are essential to democracy and perform several important functions.",
-        { "lead": "Contesting elections and forming government.", "text": "Parties select candidates, contest elections, and the party or alliance that wins a majority forms the government, while those who lose form the opposition and check the ruling party." },
-        { "lead": "Policies and law-making.", "text": "Parties put forward different policies and programmes from which voters choose, and they play a decisive role in making laws, since most laws are debated and passed by party members in the legislature." },
-        { "lead": "Shaping opinion and welfare.", "text": "Parties shape public opinion by raising and highlighting issues, and they give ordinary people access to government machinery and welfare schemes, acting as a link between citizens and the government." },
+        {
+          "lead": "Contesting elections and forming government.",
+          "text": "Parties select candidates, contest elections, and the party or alliance that wins a majority forms the government, while those who lose form the opposition and check the ruling party."
+        },
+        {
+          "lead": "Policies and law-making.",
+          "text": "Parties put forward different policies and programmes from which voters choose, and they play a decisive role in making laws, since most laws are debated and passed by party members in the legislature."
+        },
+        {
+          "lead": "Shaping opinion and welfare.",
+          "text": "Parties shape public opinion by raising and highlighting issues, and they give ordinary people access to government machinery and welfare schemes, acting as a link between citizens and the government."
+        },
         "Without parties, democracies could not function in an organised and accountable way."
       ]
     },
@@ -18,9 +27,73 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Challenges.", "text": "Parties face four main challenges. Many lack internal democracy, with power concentrated in a few top leaders. Dynastic succession keeps important positions within one family. The growing use of money and muscle power, especially during elections, corrupts the process. And parties often fail to offer voters a meaningful choice, since they differ little on basic policies." },
-        { "lead": "Reforms.", "text": "Several steps have been taken. The anti-defection law disqualifies legislators who change parties, checking horse-trading. Candidates must now file an affidavit declaring their assets and any criminal cases. The Election Commission enforces a model code of conduct. It is further suggested that parties maintain registers of members, hold regular internal elections, and give more tickets to women." },
+        {
+          "lead": "Challenges.",
+          "text": "Parties face four main challenges. Many lack internal democracy, with power concentrated in a few top leaders. Dynastic succession keeps important positions within one family. The growing use of money and muscle power, especially during elections, corrupts the process. And parties often fail to offer voters a meaningful choice, since they differ little on basic policies."
+        },
+        {
+          "lead": "Reforms.",
+          "text": "Several steps have been taken. The anti-defection law disqualifies legislators who change parties, checking horse-trading. Candidates must now file an affidavit declaring their assets and any criminal cases. The Election Commission enforces a model code of conduct. It is further suggested that parties maintain registers of members, hold regular internal elections, and give more tickets to women."
+        },
         "Alongside laws, greater public awareness and pressure can push parties to reform."
+      ]
+    },
+    {
+      "q": "Why are political parties necessary in a democracy?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Political parties",
+          "text": "are groups that contest elections and hold power, and democracy cannot function without them."
+        },
+        {
+          "list": [
+            "They contest elections and offer voters a choice of policies and candidates",
+            "The party or alliance that wins a majority forms the government; the losers form the opposition"
+          ]
+        },
+        {
+          "lead": "They perform many vital tasks.",
+          "text": "Parties connect people and government."
+        },
+        {
+          "list": [
+            "They put forward different policies and programmes and shape public opinion",
+            "They make laws, run governments, and give a way for citizens to reach the government and get welfare schemes implemented"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How can political parties be reformed to make them work better for democracy?",
+      "directive": "Evaluate",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Political parties",
+          "text": "face defects like the lack of internal democracy, dynastic succession, the use of money and muscle power, and weak choices for voters."
+        },
+        {
+          "lead": "Reforms have been tried and suggested.",
+          "text": "Some are already law."
+        },
+        {
+          "list": [
+            "A law now bars elected members from switching parties, to curb defection",
+            "Candidates must declare their assets and any criminal cases in an affidavit"
+          ]
+        },
+        {
+          "lead": "Further reforms",
+          "text": "could strengthen parties."
+        },
+        {
+          "list": [
+            "Making internal elections and transparent funding compulsory would reduce the hold of a few leaders and of money",
+            "Public pressure, an alert media and active citizens can push parties to reform"
+          ]
+        }
       ]
     }
   ]

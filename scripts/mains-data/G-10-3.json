@@ -6,9 +6,18 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Purposes.", "text": "Dams are built for many uses at once, which is why such projects are called multi-purpose. They provide irrigation, generate hydroelectric power, supply water to homes and industry, control floods, aid inland navigation and fish breeding, and offer recreation. Nehru called them the temples of modern India." },
-        { "lead": "Objections.", "text": "Big dams submerge vast areas of land and forest, displacing local people, mostly poor villagers and tribals, who lose their homes and livelihoods. Reservoirs suffer sedimentation, aquatic life is harmed, and the intended flood control can fail, even worsening floods." },
-        { "lead": "Movements.", "text": "These concerns led to protests such as the Narmada Bachao Andolan against the Sardar Sarovar dam, and disputes between states over sharing river water." },
+        {
+          "lead": "Purposes.",
+          "text": "Dams are built for many uses at once, which is why such projects are called multi-purpose. They provide irrigation, generate hydroelectric power, supply water to homes and industry, control floods, aid inland navigation and fish breeding, and offer recreation. Nehru called them the temples of modern India."
+        },
+        {
+          "lead": "Objections.",
+          "text": "Big dams submerge vast areas of land and forest, displacing local people, mostly poor villagers and tribals, who lose their homes and livelihoods. Reservoirs suffer sedimentation, aquatic life is harmed, and the intended flood control can fail, even worsening floods."
+        },
+        {
+          "lead": "Movements.",
+          "text": "These concerns led to protests such as the Narmada Bachao Andolan against the Sardar Sarovar dam, and disputes between states over sharing river water."
+        },
         "Thus while dams bring benefits, their social and ecological costs have made them controversial."
       ]
     },
@@ -18,10 +27,74 @@
       "word_limit": 150,
       "answer": [
         "Rainwater harvesting is an old and effective way of conserving water and recharging groundwater, practised in varied forms across India.",
-        { "lead": "Hill and plains channels.", "text": "In the hilly Himalayan regions, people built diversion channels called guls or kuls to carry water for farming, while in the flood plains of Bengal inundation channels were used to irrigate fields." },
-        { "lead": "Arid regions.", "text": "In dry areas such as Rajasthan, khadins and johads store rainwater, and underground tanks called tankas in Bikaner, Phalodi and Barmer collect drinking water from rooftops." },
-        { "lead": "The north-east and south.", "text": "In Meghalaya, bamboo drip irrigation channels stream water, and rooftop rainwater harvesting is common in Shillong and in Gendathur in Karnataka." },
+        {
+          "lead": "Hill and plains channels.",
+          "text": "In the hilly Himalayan regions, people built diversion channels called guls or kuls to carry water for farming, while in the flood plains of Bengal inundation channels were used to irrigate fields."
+        },
+        {
+          "lead": "Arid regions.",
+          "text": "In dry areas such as Rajasthan, khadins and johads store rainwater, and underground tanks called tankas in Bikaner, Phalodi and Barmer collect drinking water from rooftops."
+        },
+        {
+          "lead": "The north-east and south.",
+          "text": "In Meghalaya, bamboo drip irrigation channels stream water, and rooftop rainwater harvesting is common in Shillong and in Gendathur in Karnataka."
+        },
         "Reviving these methods offers a sustainable answer to growing water scarcity."
+      ]
+    },
+    {
+      "q": "Why is water scarcity a growing problem in India, and how can it be addressed?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Water scarcity",
+          "text": "means not having enough usable water for people's needs, and it is worsening in India due to rising demand and misuse."
+        },
+        {
+          "list": [
+            "A growing population and expanding farming and industry demand ever more water",
+            "Over-extraction of groundwater by tube wells lowers the water table",
+            "Pollution of rivers and lakes makes water unfit for use, deepening scarcity"
+          ]
+        },
+        {
+          "lead": "It can be addressed",
+          "text": "by using and storing water better."
+        },
+        {
+          "list": [
+            "Rainwater harvesting and watershed development capture and store water locally",
+            "Efficient irrigation, recycling of water and control of pollution stretch supplies further"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How have traditional water harvesting systems supported communities in different parts of India?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Long before modern dams,",
+          "text": "communities across India built clever systems to harvest and store rainwater suited to their local conditions."
+        },
+        {
+          "list": [
+            "In the hills, people made diversion channels called 'guls' or 'kuls' to carry water to fields",
+            "In Rajasthan, rooftop rainwater was stored in underground tanks called 'tankas' for drinking"
+          ]
+        },
+        {
+          "lead": "Other regions",
+          "text": "developed their own methods."
+        },
+        {
+          "list": [
+            "In Bengal, flood water was channelled to irrigate fields through inundation canals",
+            "In semi-arid areas, fields were bunded to catch rain — showing sustainable, community-led water management"
+          ]
+        }
       ]
     }
   ]

@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Spherical mirrors are of two kinds, concave and convex, which behave very differently.",
-        { "lead": "Concave mirror.", "text": "A concave mirror has its reflecting surface curved inwards and is a converging mirror, because it brings parallel rays of light to a focus. Depending on where the object is placed, it can form a real and inverted image or a magnified virtual image. It is used in torches, vehicle headlights and searchlights to produce parallel beams, in shaving mirrors, by dentists, and in solar furnaces." },
-        { "lead": "Convex mirror.", "text": "A convex mirror has its reflecting surface curved outwards and is a diverging mirror. It always forms a virtual, erect and diminished image, and gives a wide field of view. For this reason it is used as a rear-view mirror in vehicles, allowing the driver to see a large area behind." },
+        {
+          "lead": "Concave mirror.",
+          "text": "A concave mirror has its reflecting surface curved inwards and is a converging mirror, because it brings parallel rays of light to a focus. Depending on where the object is placed, it can form a real and inverted image or a magnified virtual image. It is used in torches, vehicle headlights and searchlights to produce parallel beams, in shaving mirrors, by dentists, and in solar furnaces."
+        },
+        {
+          "lead": "Convex mirror.",
+          "text": "A convex mirror has its reflecting surface curved outwards and is a diverging mirror. It always forms a virtual, erect and diminished image, and gives a wide field of view. For this reason it is used as a rear-view mirror in vehicles, allowing the driver to see a large area behind."
+        },
         "Thus their opposite curvatures give them opposite behaviours and uses."
       ]
     },
@@ -17,10 +23,73 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "Refraction is the bending of a ray of light when it passes from one transparent medium into another, for instance from air into water or glass." },
-        { "lead": "Cause.", "text": "Refraction occurs because light travels at different speeds in different media. When light enters a denser medium such as water, it slows down and bends towards the normal, and when it enters a rarer medium it speeds up and bends away from the normal. The extent of bending depends on the refractive index of the media." },
-        { "lead": "Examples.", "text": "A pencil placed in a glass of water appears bent at the surface, a swimming pool looks shallower than it really is, and letters under a glass slab seem raised. The twinkling of stars is also caused by refraction of light in the atmosphere." },
+        {
+          "lead": "Meaning.",
+          "text": "Refraction is the bending of a ray of light when it passes from one transparent medium into another, for instance from air into water or glass."
+        },
+        {
+          "lead": "Cause.",
+          "text": "Refraction occurs because light travels at different speeds in different media. When light enters a denser medium such as water, it slows down and bends towards the normal, and when it enters a rarer medium it speeds up and bends away from the normal. The extent of bending depends on the refractive index of the media."
+        },
+        {
+          "lead": "Examples.",
+          "text": "A pencil placed in a glass of water appears bent at the surface, a swimming pool looks shallower than it really is, and letters under a glass slab seem raised. The twinkling of stars is also caused by refraction of light in the atmosphere."
+        },
         "Refraction thus explains many common optical effects."
+      ]
+    },
+    {
+      "q": "How does a convex lens form images, and how do these change with the position of the object?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A convex lens",
+          "text": "is a converging lens, and the image it forms depends on how far the object is placed from it."
+        },
+        {
+          "list": [
+            "When the object is very far, a small, real, inverted image forms at the focus",
+            "As the object moves closer, the real image grows larger and moves farther from the lens",
+            "When the object is at twice the focal length, the image is real, inverted and of the same size"
+          ]
+        },
+        {
+          "lead": "Within the focus,",
+          "text": "the behaviour changes."
+        },
+        {
+          "list": [
+            "When the object is between the lens and its focus, the image is virtual, erect and enlarged — as in a magnifying glass"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "State the laws of refraction and explain the role of the refractive index.",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Refraction",
+          "text": "is the bending of light as it passes from one transparent medium into another, and it follows definite laws."
+        },
+        {
+          "list": [
+            "The incident ray, the refracted ray and the normal at the point of incidence all lie in the same plane",
+            "The ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant for a given pair of media (Snell's law)"
+          ]
+        },
+        {
+          "lead": "The refractive index",
+          "text": "measures how much a medium bends light."
+        },
+        {
+          "list": [
+            "It compares the speed of light in a vacuum with its speed in the medium",
+            "A higher refractive index, as in glass or diamond, means the medium bends and slows light more"
+          ]
+        }
       ]
     }
   ]

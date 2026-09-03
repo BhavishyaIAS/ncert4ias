@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The problem of barter.", "text": "In a barter system, where goods are directly exchanged for goods, a transaction can take place only if both persons want to sell and buy each other's goods at the same time. This is called the double coincidence of wants. A shoe-maker who wants to sell shoes and buy wheat must find a wheat-grower who also wants shoes, which is difficult." },
-        { "lead": "Money as a medium of exchange.", "text": "Money removes this difficulty by acting as a medium of exchange. The shoe-maker can sell his shoes to anyone for money, and then use that money to buy wheat from anyone else. Since money is accepted by all as a means of payment, there is no need for wants to match." },
+        {
+          "lead": "The problem of barter.",
+          "text": "In a barter system, where goods are directly exchanged for goods, a transaction can take place only if both persons want to sell and buy each other's goods at the same time. This is called the double coincidence of wants. A shoe-maker who wants to sell shoes and buy wheat must find a wheat-grower who also wants shoes, which is difficult."
+        },
+        {
+          "lead": "Money as a medium of exchange.",
+          "text": "Money removes this difficulty by acting as a medium of exchange. The shoe-maker can sell his shoes to anyone for money, and then use that money to buy wheat from anyone else. Since money is accepted by all as a means of payment, there is no need for wants to match."
+        },
         "By stepping in between buyer and seller, money makes exchange simple and efficient."
       ]
     },
@@ -16,10 +22,74 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Formal sources.", "text": "Formal sources of credit include banks and cooperatives. Their working is supervised by the Reserve Bank of India, which ensures that they lend not just to profit-makers but also to small borrowers, and that they charge reasonable rates of interest." },
-        { "lead": "Informal sources.", "text": "Informal sources include moneylenders, traders, employers and relatives. There is no organisation to supervise them, so they can charge whatever interest they like, often very high, and use unfair means to recover loans, pushing borrowers into a debt-trap." },
-        { "lead": "Why the poor need formal credit.", "text": "The poor depend heavily on informal sources because they lack collateral and papers, and so pay crushing rates. Expanding cheap formal credit and self-help groups would free them from exploitation and help them invest and grow." },
+        {
+          "lead": "Formal sources.",
+          "text": "Formal sources of credit include banks and cooperatives. Their working is supervised by the Reserve Bank of India, which ensures that they lend not just to profit-makers but also to small borrowers, and that they charge reasonable rates of interest."
+        },
+        {
+          "lead": "Informal sources.",
+          "text": "Informal sources include moneylenders, traders, employers and relatives. There is no organisation to supervise them, so they can charge whatever interest they like, often very high, and use unfair means to recover loans, pushing borrowers into a debt-trap."
+        },
+        {
+          "lead": "Why the poor need formal credit.",
+          "text": "The poor depend heavily on informal sources because they lack collateral and papers, and so pay crushing rates. Expanding cheap formal credit and self-help groups would free them from exploitation and help them invest and grow."
+        },
         "Thus wider formal credit is vital for development and for reducing poverty."
+      ]
+    },
+    {
+      "q": "How do banks act as intermediaries between depositors and borrowers, and why is this useful for the economy?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Banks",
+          "text": "link people who have surplus money with those who need it, acting as intermediaries in the economy."
+        },
+        {
+          "list": [
+            "They accept deposits from the public and pay interest on them",
+            "They keep only a small part as cash reserve and lend the rest to borrowers at a higher interest rate",
+            "The difference between the two interest rates is the bank's income"
+          ]
+        },
+        {
+          "lead": "This is useful for the economy.",
+          "text": "It puts idle savings to work."
+        },
+        {
+          "list": [
+            "Savings that would lie unused become available as loans for farming, business and industry",
+            "This credit supports production, investment and growth, and gives savers a safe place for their money"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How can the terms of credit either help a borrower or push them into a debt-trap?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Every loan",
+          "text": "carries terms of credit — the interest rate, collateral, documents required and the mode of repayment — and these decide whether a loan helps or harms."
+        },
+        {
+          "list": [
+            "Reasonable interest and easy terms let a farmer or trader invest, earn and repay comfortably, improving their life",
+            "Harsh terms — very high interest and demanding collateral — can be crushing"
+          ]
+        },
+        {
+          "lead": "This is how debt-traps form.",
+          "text": "Credit turns dangerous when repayment becomes impossible."
+        },
+        {
+          "list": [
+            "If a crop fails, a borrower may have to sell land or take a new loan to repay the old one",
+            "Poor borrowers depending on informal moneylenders are especially at risk, which is why cheap formal credit matters"
+          ]
+        }
       ]
     }
   ]

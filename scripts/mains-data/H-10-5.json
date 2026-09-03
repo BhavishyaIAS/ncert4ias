@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Origins in East Asia.", "text": "The earliest print technology was developed in China, Japan and Korea as a system of hand printing, in which paper was rubbed against inked woodblocks. China was the major producer of printed material, printing books for its civil service examinations, while the oldest Japanese printed book, the Buddhist Diamond Sutra, dates to 868 AD." },
-        { "lead": "The move to Europe.", "text": "Knowledge of woodblock printing reached Europe through Marco Polo, who brought it from China. In the 1430s Johann Gutenberg developed the first printing press, and the Gutenberg Bible became the first printed book. This began a print revolution: books became cheaper and more plentiful, and a new reading public emerged as reading spread beyond the elite." }
+        {
+          "lead": "Origins in East Asia.",
+          "text": "The earliest print technology was developed in China, Japan and Korea as a system of hand printing, in which paper was rubbed against inked woodblocks. China was the major producer of printed material, printing books for its civil service examinations, while the oldest Japanese printed book, the Buddhist Diamond Sutra, dates to 868 AD."
+        },
+        {
+          "lead": "The move to Europe.",
+          "text": "Knowledge of woodblock printing reached Europe through Marco Polo, who brought it from China. In the 1430s Johann Gutenberg developed the first printing press, and the Gutenberg Bible became the first printed book. This began a print revolution: books became cheaper and more plentiful, and a new reading public emerged as reading spread beyond the elite."
+        }
       ]
     },
     {
@@ -16,10 +22,73 @@
       "word_limit": 150,
       "answer": [
         "Print did more than spread information; it created conditions for debate, reform and national feeling in India.",
-        { "lead": "Social and religious reform.", "text": "Print carried arguments on issues such as widow remarriage and women's education. Raja Rammohun Roy published the Sambad Kaumudi, while orthodox Hindus and Muslim ulama used cheap tracts and newspapers to answer him, so that debate reached a wide public." },
-        { "lead": "Reaching women and the poor.", "text": "Cheap publications and libraries brought reading to women, workers and the poor, and women such as Rashsundari Debi wrote about their own lives." },
-        { "lead": "Nationalism and censorship.", "text": "Newspapers spread ideas of freedom and criticised colonial rule. The British responded with the Vernacular Press Act of 1878 to censor Indian-language papers, and the imprisonment of Bal Gangadhar Tilak provoked popular protest." },
+        {
+          "lead": "Social and religious reform.",
+          "text": "Print carried arguments on issues such as widow remarriage and women's education. Raja Rammohun Roy published the Sambad Kaumudi, while orthodox Hindus and Muslim ulama used cheap tracts and newspapers to answer him, so that debate reached a wide public."
+        },
+        {
+          "lead": "Reaching women and the poor.",
+          "text": "Cheap publications and libraries brought reading to women, workers and the poor, and women such as Rashsundari Debi wrote about their own lives."
+        },
+        {
+          "lead": "Nationalism and censorship.",
+          "text": "Newspapers spread ideas of freedom and criticised colonial rule. The British responded with the Vernacular Press Act of 1878 to censor Indian-language papers, and the imprisonment of Bal Gangadhar Tilak provoked popular protest."
+        },
         "Thus print became a powerful tool of reform and of the growing national movement."
+      ]
+    },
+    {
+      "q": "How did the coming of print culture affect the lives of women and the poor?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Print",
+          "text": "spread reading widely and touched the lives of women and the poor, opening new possibilities."
+        },
+        {
+          "list": [
+            "Reading of novels, journals and reform writings among women grew; some wrote about their own lives and experiences",
+            "Liberal families encouraged women's education, though conservatives feared it would corrupt them"
+          ]
+        },
+        {
+          "lead": "The poor too gained.",
+          "text": "Cheap print reached ordinary people."
+        },
+        {
+          "list": [
+            "Cheap small books and public libraries brought reading within reach of workers and poor townspeople",
+            "Some workers wrote about their conditions, and reformers used print to spread ideas of education and caste equality"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why did some people fear the spread of print, and how did states try to control it?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Not everyone welcomed print.",
+          "text": "Rulers, religious authorities and elites feared its power to spread ideas beyond their control."
+        },
+        {
+          "list": [
+            "They worried that critical, rebellious or irreligious thoughts would circulate among common people",
+            "Print could question authority, spread new ideas and undermine established belief"
+          ]
+        },
+        {
+          "lead": "States responded with control.",
+          "text": "They tried to curb the printed word."
+        },
+        {
+          "list": [
+            "Censorship and licensing laws were imposed to check what could be printed",
+            "In colonial India, the Vernacular Press Act allowed the government to censor and suppress nationalist newspapers"
+          ]
+        }
       ]
     }
   ]

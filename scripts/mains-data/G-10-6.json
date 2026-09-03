@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Manufacturing, the production of goods in large quantities from raw materials, is regarded as the backbone of development for several reasons.",
-        { "lead": "Strengthening agriculture.", "text": "It helps modernise agriculture, which forms the base of the economy, and reduces the heavy dependence of people on farming by providing them jobs in secondary and tertiary activities." },
-        { "lead": "Employment and prosperity.", "text": "Industries create large-scale employment, help remove unemployment and poverty, and reduce regional disparities by setting up factories in backward areas." },
-        { "lead": "Trade and self-reliance.", "text": "Exports of manufactured goods bring in valuable foreign exchange, and producing goods at home makes the country self-reliant." },
+        {
+          "lead": "Strengthening agriculture.",
+          "text": "It helps modernise agriculture, which forms the base of the economy, and reduces the heavy dependence of people on farming by providing them jobs in secondary and tertiary activities."
+        },
+        {
+          "lead": "Employment and prosperity.",
+          "text": "Industries create large-scale employment, help remove unemployment and poverty, and reduce regional disparities by setting up factories in backward areas."
+        },
+        {
+          "lead": "Trade and self-reliance.",
+          "text": "Exports of manufactured goods bring in valuable foreign exchange, and producing goods at home makes the country self-reliant."
+        },
         "Thus a strong manufacturing sector is essential for overall economic growth and prosperity."
       ]
     },
@@ -19,10 +28,74 @@
       "word_limit": 150,
       "answer": [
         "The location of an industry is decided by the availability and cost of several factors of production.",
-        { "lead": "Raw materials and power.", "text": "Industries are best located where raw materials and power are cheaply available, which is why iron and steel plants cluster on the Chotanagpur plateau, close to coal and iron ore." },
-        { "lead": "Labour, capital and market.", "text": "Availability of cheap and skilled labour, capital for investment, and a nearby market to sell goods all pull industries to particular sites, often to towns and cities." },
-        { "lead": "Agglomeration economies.", "text": "Industries tend to come together in large urban centres such as Mumbai, Kolkata and Ahmedabad to share the benefits of banking, transport and services, known as agglomeration economies." },
+        {
+          "lead": "Raw materials and power.",
+          "text": "Industries are best located where raw materials and power are cheaply available, which is why iron and steel plants cluster on the Chotanagpur plateau, close to coal and iron ore."
+        },
+        {
+          "lead": "Labour, capital and market.",
+          "text": "Availability of cheap and skilled labour, capital for investment, and a nearby market to sell goods all pull industries to particular sites, often to towns and cities."
+        },
+        {
+          "lead": "Agglomeration economies.",
+          "text": "Industries tend to come together in large urban centres such as Mumbai, Kolkata and Ahmedabad to share the benefits of banking, transport and services, known as agglomeration economies."
+        },
         "Government policy and transport links further shape where industries grow."
+      ]
+    },
+    {
+      "q": "How does industrial pollution harm the environment, and what steps can control it?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Industries",
+          "text": "drive development but also cause serious pollution of air, water, land and noise."
+        },
+        {
+          "list": [
+            "Smoke and gases from factories pollute the air and cause acid rain and health problems",
+            "Untreated effluents and hot water discharged into rivers pollute water and harm aquatic life",
+            "Dumping of solid and hazardous waste degrades the land, and machines create noise pollution"
+          ]
+        },
+        {
+          "lead": "Pollution can be controlled",
+          "text": "with responsible practices."
+        },
+        {
+          "list": [
+            "Treating effluents before release, recycling water, and harvesting rainwater reduce water pollution",
+            "Using cleaner fuels and fitting smokestacks with scrubbers cut air pollution, while proper waste disposal protects land"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How are agriculture and industry interdependent in India?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Agriculture and industry",
+          "text": "are not separate but closely linked, each supporting and depending on the other."
+        },
+        {
+          "list": [
+            "Agro-based industries like cotton textiles, sugar and food processing draw their raw materials from farms",
+            "Farming in turn depends on industry for tractors, pumps, fertilisers, pesticides and tools"
+          ]
+        },
+        {
+          "lead": "This two-way link",
+          "text": "strengthens the whole economy."
+        },
+        {
+          "list": [
+            "Industry provides farmers with inputs and a market for their produce",
+            "Rising farm incomes create demand for industrial goods, so the growth of one boosts the other"
+          ]
+        }
       ]
     }
   ]

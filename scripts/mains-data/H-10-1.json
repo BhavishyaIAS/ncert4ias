@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The French Revolution of 1789 was the first clear expression of nationalism in Europe.",
-        { "lead": "Sovereignty of the people.", "text": "It proclaimed that sovereignty lay with the people, not the king, and created a sense of a shared national identity through ideas of la patrie, the fatherland, and le citoyen, the citizen." },
-        { "lead": "National symbols and laws.", "text": "A new tricolour flag, an anthem, uniform laws and a single system of weights and measures fostered unity among the French people." },
-        { "lead": "Spread by Napoleon.", "text": "Napoleon carried revolutionary ideas across Europe. His Civil Code of 1804 abolished feudal privileges and established equality before the law, inspiring peoples elsewhere to demand nations of their own." },
+        {
+          "lead": "Sovereignty of the people.",
+          "text": "It proclaimed that sovereignty lay with the people, not the king, and created a sense of a shared national identity through ideas of la patrie, the fatherland, and le citoyen, the citizen."
+        },
+        {
+          "lead": "National symbols and laws.",
+          "text": "A new tricolour flag, an anthem, uniform laws and a single system of weights and measures fostered unity among the French people."
+        },
+        {
+          "lead": "Spread by Napoleon.",
+          "text": "Napoleon carried revolutionary ideas across Europe. His Civil Code of 1804 abolished feudal privileges and established equality before the law, inspiring peoples elsewhere to demand nations of their own."
+        },
         "Thus the Revolution transformed subjects into citizens and gave Europe the idea of the nation-state."
       ]
     },
@@ -18,9 +27,69 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Germany.", "text": "Germany was unified between 1866 and 1871 mainly through the efforts of Otto von Bismarck, the chief minister of Prussia, who followed a policy of 'blood and iron', using a series of wars to bring the German states together. In 1871 the Prussian king was proclaimed German Emperor as Kaiser Wilhelm I." },
-        { "lead": "Italy.", "text": "Italy was unified through the combined work of three men. Giuseppe Mazzini inspired the movement through his society Young Italy; Cavour, the minister of Sardinia-Piedmont, led the diplomacy; and Giuseppe Garibaldi, with his Red Shirts, liberated southern Italy. In 1861 Victor Emmanuel II was made king of a united Italy." },
+        {
+          "lead": "Germany.",
+          "text": "Germany was unified between 1866 and 1871 mainly through the efforts of Otto von Bismarck, the chief minister of Prussia, who followed a policy of 'blood and iron', using a series of wars to bring the German states together. In 1871 the Prussian king was proclaimed German Emperor as Kaiser Wilhelm I."
+        },
+        {
+          "lead": "Italy.",
+          "text": "Italy was unified through the combined work of three men. Giuseppe Mazzini inspired the movement through his society Young Italy; Cavour, the minister of Sardinia-Piedmont, led the diplomacy; and Giuseppe Garibaldi, with his Red Shirts, liberated southern Italy. In 1861 Victor Emmanuel II was made king of a united Italy."
+        },
         "In both cases, a strong state used war and diplomacy to forge a nation."
+      ]
+    },
+    {
+      "q": "How did culture, art and poetry help create a sense of nationalism in nineteenth-century Europe?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Nationalism",
+          "text": "grew not only through politics but through culture, which helped people imagine themselves as one nation."
+        },
+        {
+          "list": [
+            "Romantic artists and poets glorified the shared language, folk traditions and history of a people",
+            "The idea of the nation was expressed through a female figure, like Marianne for France and Germania for Germany"
+          ]
+        },
+        {
+          "lead": "Language and folk culture",
+          "text": "united people."
+        },
+        {
+          "list": [
+            "Collecting folk tales and songs in the vernacular gave common people a sense of a shared heritage",
+            "In Poland, when the language was banned, music and the church kept national feeling alive, showing culture's power to bind a nation"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did the ideas of liberalism and the growth of a market help spread nationalism in Europe?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Liberalism",
+          "text": "and economic change gave the rising middle classes both ideals and interests that pushed towards nationalism."
+        },
+        {
+          "list": [
+            "Liberals wanted government by consent, equality before the law, and freedom for the individual",
+            "For the middle class, it also meant freedom of markets and an end to state restrictions on trade"
+          ]
+        },
+        {
+          "lead": "Economic union",
+          "text": "created a base for political union."
+        },
+        {
+          "list": [
+            "The German customs union, the Zollverein, abolished tariffs among states and joined them in a single economic zone",
+            "A network of railways and common trade bound regions together, strengthening the drive for national unity"
+          ]
+        }
       ]
     }
   ]

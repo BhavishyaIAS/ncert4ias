@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Carbon forms an enormous number of compounds, far more than any other element, because of two special properties.",
-        { "lead": "Catenation.", "text": "Carbon atoms have the unique ability to link with one another through strong covalent bonds to form long chains, branched chains and closed rings. This property, called catenation, allows countless carbon skeletons to be built up, each giving a different compound." },
-        { "lead": "Tetravalency.", "text": "Carbon has four electrons in its outermost shell and is tetravalent, so each carbon atom can bond with four other atoms, of carbon or of elements like hydrogen, oxygen, nitrogen and sulphur. It can also form double and triple bonds, adding to the variety." },
-        { "lead": "Stable bonds.", "text": "Because carbon is small, its bonds are strong and stable, so its compounds do not break down easily." },
+        {
+          "lead": "Catenation.",
+          "text": "Carbon atoms have the unique ability to link with one another through strong covalent bonds to form long chains, branched chains and closed rings. This property, called catenation, allows countless carbon skeletons to be built up, each giving a different compound."
+        },
+        {
+          "lead": "Tetravalency.",
+          "text": "Carbon has four electrons in its outermost shell and is tetravalent, so each carbon atom can bond with four other atoms, of carbon or of elements like hydrogen, oxygen, nitrogen and sulphur. It can also form double and triple bonds, adding to the variety."
+        },
+        {
+          "lead": "Stable bonds.",
+          "text": "Because carbon is small, its bonds are strong and stable, so its compounds do not break down easily."
+        },
         "Together these properties account for the vast family of carbon compounds."
       ]
     },
@@ -18,10 +27,75 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Structure of soap.", "text": "A soap molecule has two ends: a long hydrocarbon tail that is hydrophobic, meaning it avoids water but mixes with oil and grease, and an ionic head that is hydrophilic and dissolves in water." },
-        { "lead": "Cleaning action.", "text": "Most dirt is oily and does not dissolve in water. When soap is added, the hydrophobic tails attach to the grease while the hydrophilic heads face the water, forming tiny clusters called micelles that trap the dirt. When the cloth is rinsed and agitated, these micelles are washed away, taking the dirt with them." },
-        { "lead": "Detergents in hard water.", "text": "Hard water contains calcium and magnesium salts that react with soap to form an insoluble scum, wasting soap. Detergents do not form such scum, so they clean effectively even in hard water." },
+        {
+          "lead": "Structure of soap.",
+          "text": "A soap molecule has two ends: a long hydrocarbon tail that is hydrophobic, meaning it avoids water but mixes with oil and grease, and an ionic head that is hydrophilic and dissolves in water."
+        },
+        {
+          "lead": "Cleaning action.",
+          "text": "Most dirt is oily and does not dissolve in water. When soap is added, the hydrophobic tails attach to the grease while the hydrophilic heads face the water, forming tiny clusters called micelles that trap the dirt. When the cloth is rinsed and agitated, these micelles are washed away, taking the dirt with them."
+        },
+        {
+          "lead": "Detergents in hard water.",
+          "text": "Hard water contains calcium and magnesium salts that react with soap to form an insoluble scum, wasting soap. Detergents do not form such scum, so they clean effectively even in hard water."
+        },
         "This is why detergents are preferred where water is hard."
+      ]
+    },
+    {
+      "q": "What are functional groups and homologous series in carbon compounds, and why are they useful?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Carbon compounds",
+          "text": "are organised using functional groups and homologous series, which bring order to their huge number."
+        },
+        {
+          "lead": "A functional group",
+          "text": "is an atom or group of atoms that gives a compound its characteristic properties — such as the alcohol, aldehyde, acid and halogen groups."
+        },
+        {
+          "lead": "A homologous series",
+          "text": "is a family of compounds with the same functional group and similar chemical properties."
+        },
+        {
+          "list": [
+            "Each member differs from the next by a fixed unit (–CH2–), and their physical properties change gradually",
+            "This lets chemists predict the properties of a compound from its group and place in the series"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How are ethanol and ethanoic acid important compounds, and what are their properties?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Ethanol and ethanoic acid",
+          "text": "are two important carbon compounds used widely in daily life."
+        },
+        {
+          "lead": "Ethanol (alcohol)",
+          "text": "is a liquid used in drinks, medicines and as a fuel."
+        },
+        {
+          "list": [
+            "It reacts with sodium to release hydrogen and burns to give carbon dioxide, water and heat",
+            "Its excessive drinking is harmful to health"
+          ]
+        },
+        {
+          "lead": "Ethanoic acid (acetic acid)",
+          "text": "in dilute form is vinegar, used to preserve food."
+        },
+        {
+          "list": [
+            "It is a weak acid that turns blue litmus red and reacts with bases and carbonates",
+            "With ethanol it forms a sweet-smelling ester used in perfumes"
+          ]
+        }
       ]
     }
   ]

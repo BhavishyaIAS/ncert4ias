@@ -6,9 +6,18 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The pH scale.", "text": "The pH scale is a scale from 0 to 14 used to measure how acidic or basic a solution is, based on the concentration of hydrogen ions. A pH below 7 means the solution is acidic, a pH of 7 is neutral, and a pH above 7 means it is basic. The lower the pH, the stronger the acid." },
-        { "lead": "Importance in the body.", "text": "Living beings survive within a narrow pH range of about 7 to 7.8. The stomach produces hydrochloric acid to digest food, and when there is excess acid, we take an antacid, a mild base, to neutralise it." },
-        { "lead": "Other examples.", "text": "Tooth decay begins when the pH in the mouth falls below 5.5, so toothpastes are basic. Soil must have the right pH for crops, and a bee or ant sting, being acidic, is soothed with baking soda." },
+        {
+          "lead": "The pH scale.",
+          "text": "The pH scale is a scale from 0 to 14 used to measure how acidic or basic a solution is, based on the concentration of hydrogen ions. A pH below 7 means the solution is acidic, a pH of 7 is neutral, and a pH above 7 means it is basic. The lower the pH, the stronger the acid."
+        },
+        {
+          "lead": "Importance in the body.",
+          "text": "Living beings survive within a narrow pH range of about 7 to 7.8. The stomach produces hydrochloric acid to digest food, and when there is excess acid, we take an antacid, a mild base, to neutralise it."
+        },
+        {
+          "lead": "Other examples.",
+          "text": "Tooth decay begins when the pH in the mouth falls below 5.5, so toothpastes are basic. Soil must have the right pH for crops, and a bee or ant sting, being acidic, is soothed with baking soda."
+        },
         "Thus pH governs health, farming and daily activities."
       ]
     },
@@ -18,9 +27,77 @@
       "word_limit": 150,
       "answer": [
         "Both baking soda and washing soda are important salts obtained from common salt.",
-        { "lead": "Baking soda.", "text": "Baking soda is sodium hydrogencarbonate, NaHCO3, made by passing carbon dioxide through a solution of sodium chloride and ammonia. It is used as an antacid to relieve acidity, in baking powder where it releases carbon dioxide to make cakes rise, and in soda-acid fire extinguishers." },
-        { "lead": "Washing soda.", "text": "Washing soda is sodium carbonate with ten molecules of water of crystallisation, Na2CO3.10H2O, obtained by heating baking soda and then recrystallising. It is used for cleaning and washing, for removing the permanent hardness of water, and in the manufacture of glass, soap and paper." },
+        {
+          "lead": "Baking soda.",
+          "text": "Baking soda is sodium hydrogencarbonate, NaHCO3, made by passing carbon dioxide through a solution of sodium chloride and ammonia. It is used as an antacid to relieve acidity, in baking powder where it releases carbon dioxide to make cakes rise, and in soda-acid fire extinguishers."
+        },
+        {
+          "lead": "Washing soda.",
+          "text": "Washing soda is sodium carbonate with ten molecules of water of crystallisation, Na2CO3.10H2O, obtained by heating baking soda and then recrystallising. It is used for cleaning and washing, for removing the permanent hardness of water, and in the manufacture of glass, soap and paper."
+        },
         "Thus these two salts, though related, have distinct compositions and everyday uses."
+      ]
+    },
+    {
+      "q": "What are the general properties of acids and bases, and how are they explained?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Acids and bases",
+          "text": "have opposite properties that arise from the ions they release in water."
+        },
+        {
+          "lead": "Acids",
+          "text": "produce hydrogen ions in water."
+        },
+        {
+          "list": [
+            "They taste sour, turn blue litmus red, and react with metals to give hydrogen gas",
+            "They react with bases to form salt and water"
+          ]
+        },
+        {
+          "lead": "Bases",
+          "text": "produce hydroxide ions in water."
+        },
+        {
+          "list": [
+            "They taste bitter, feel soapy, and turn red litmus blue",
+            "Water-soluble bases are called alkalis"
+          ]
+        },
+        {
+          "lead": "Neutralisation",
+          "text": "is the reaction of an acid with a base to give salt and water."
+        }
+      ]
+    },
+    {
+      "q": "How do acids and bases occur in daily life, and why does the pH of our body and soil matter?",
+      "directive": "Apply",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The pH scale",
+          "text": "measures how acidic or basic a solution is, and pH balance matters in many everyday situations."
+        },
+        {
+          "list": [
+            "Our stomach makes hydrochloric acid to digest food; too much causes acidity, cured by a mild base called an antacid",
+            "Tooth decay begins when acids form as mouth bacteria act on sugar, so we use a basic toothpaste"
+          ]
+        },
+        {
+          "lead": "pH matters outside the body too.",
+          "text": "Plants and animals are sensitive to it."
+        },
+        {
+          "list": [
+            "Soil that is too acidic or basic harms crops, so farmers adjust it with lime or manure",
+            "Acid rain lowers the pH of rivers and harms aquatic life; a bee sting's acid is soothed with a mild base"
+          ]
+        }
       ]
     }
   ]

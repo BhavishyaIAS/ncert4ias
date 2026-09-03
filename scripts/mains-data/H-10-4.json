@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Proto-industrialisation.", "text": "Even before factories appeared, there was large-scale industrial production for an international market. This is called proto-industrialisation. Merchants in the towns supplied money and raw material to peasants and artisans in the countryside, who spun and wove cloth in their own homes. This linked town merchants with village producers, though production was not yet based in factories." },
-        { "lead": "The factory system.", "text": "The earliest factories in England came up around the 1730s, and the cotton industry expanded rapidly. Inventions such as the spinning jenny and, above all, James Watt's steam engine allowed machines to be powered and workers to be brought together under one roof, with supervision and discipline. Yet hand labour did not disappear at once, and industrialisation spread slowly and unevenly." }
+        {
+          "lead": "Proto-industrialisation.",
+          "text": "Even before factories appeared, there was large-scale industrial production for an international market. This is called proto-industrialisation. Merchants in the towns supplied money and raw material to peasants and artisans in the countryside, who spun and wove cloth in their own homes. This linked town merchants with village producers, though production was not yet based in factories."
+        },
+        {
+          "lead": "The factory system.",
+          "text": "The earliest factories in England came up around the 1730s, and the cotton industry expanded rapidly. Inventions such as the spinning jenny and, above all, James Watt's steam engine allowed machines to be powered and workers to be brought together under one roof, with supervision and discipline. Yet hand labour did not disappear at once, and industrialisation spread slowly and unevenly."
+        }
       ]
     },
     {
@@ -15,10 +21,73 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "A leading exporter.", "text": "Before British rule, India was the world's leading exporter of cotton textiles, and ports such as Surat and Masulipatnam thrived on this trade." },
-        { "lead": "Deindustrialisation.", "text": "Under British rule, machine-made cloth from Manchester flooded India, and Indian weavers lost their markets and income, so that India's rich handicraft industries declined — a process of deindustrialisation." },
-        { "lead": "Late industrial growth.", "text": "Indian factories rose only from the mid-nineteenth century, with the first cotton mill set up in Bombay in 1854 and jute mills in Bengal. Indian entrepreneurs like the Tatas invested, though they faced stiff competition and controls from the British." },
+        {
+          "lead": "A leading exporter.",
+          "text": "Before British rule, India was the world's leading exporter of cotton textiles, and ports such as Surat and Masulipatnam thrived on this trade."
+        },
+        {
+          "lead": "Deindustrialisation.",
+          "text": "Under British rule, machine-made cloth from Manchester flooded India, and Indian weavers lost their markets and income, so that India's rich handicraft industries declined — a process of deindustrialisation."
+        },
+        {
+          "lead": "Late industrial growth.",
+          "text": "Indian factories rose only from the mid-nineteenth century, with the first cotton mill set up in Bombay in 1854 and jute mills in Bengal. Indian entrepreneurs like the Tatas invested, though they faced stiff competition and controls from the British."
+        },
         "Thus colonial policy first ruined traditional industry and only later allowed a limited modern industry to grow."
+      ]
+    },
+    {
+      "q": "How did life change for workers with the coming of industrialisation in England?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Industrialisation",
+          "text": "transformed the lives of workers, bringing new jobs but also great hardship."
+        },
+        {
+          "list": [
+            "Job seekers crowded into cities faster than jobs were created, so many faced seasonal work and long spells of unemployment",
+            "Wages were low and could not be relied upon, and fear of joblessness was constant"
+          ]
+        },
+        {
+          "lead": "Working and living conditions were harsh.",
+          "text": "The new order was hard on the poor."
+        },
+        {
+          "list": [
+            "Factory hours were long and conditions dangerous, and even children worked",
+            "Housing in the towns was overcrowded and unhealthy, and workers sometimes attacked the new machines they blamed for unemployment"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why did some industrialists in nineteenth-century Europe prefer hand labour over machines?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Despite the new machines,",
+          "text": "many industrialists in Britain continued to prefer hand labour for good reasons."
+        },
+        {
+          "list": [
+            "Machines were costly to buy, maintain and repair, and often broke down",
+            "There was no shortage of labour, so wages were low and workers were readily available"
+          ]
+        },
+        {
+          "lead": "Hand labour suited certain goods.",
+          "text": "It offered flexibility machines lacked."
+        },
+        {
+          "list": [
+            "Where demand was seasonal, it was cheaper to hire workers only when needed than to run costly machines",
+            "The upper classes prized handmade goods for their fine finish and variety of design, which machines could not match"
+          ]
+        }
       ]
     }
   ]

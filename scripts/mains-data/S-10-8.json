@@ -6,9 +6,18 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The experiment.", "text": "Gregor Mendel crossed pure tall pea plants with pure short pea plants. In the first generation, called F1, all the plants were tall, and the short character seemed to disappear." },
-        { "lead": "The second generation.", "text": "When these F1 tall plants were self-pollinated, the second generation, called F2, contained both tall and short plants in the ratio of three tall to one short. The short trait had reappeared." },
-        { "lead": "Conclusions.", "text": "Mendel concluded that traits are controlled by factors, now called genes, which occur in pairs. When two different forms are present, one, the dominant, is expressed while the other, the recessive, is hidden. In F2 the recessive short trait reappeared, showing that it had merely been masked, not lost." },
+        {
+          "lead": "The experiment.",
+          "text": "Gregor Mendel crossed pure tall pea plants with pure short pea plants. In the first generation, called F1, all the plants were tall, and the short character seemed to disappear."
+        },
+        {
+          "lead": "The second generation.",
+          "text": "When these F1 tall plants were self-pollinated, the second generation, called F2, contained both tall and short plants in the ratio of three tall to one short. The short trait had reappeared."
+        },
+        {
+          "lead": "Conclusions.",
+          "text": "Mendel concluded that traits are controlled by factors, now called genes, which occur in pairs. When two different forms are present, one, the dominant, is expressed while the other, the recessive, is hidden. In F2 the recessive short trait reappeared, showing that it had merely been masked, not lost."
+        },
         "These experiments laid the foundation of the science of genetics."
       ]
     },
@@ -17,10 +26,76 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Sex chromosomes.", "text": "Human beings have 23 pairs of chromosomes, of which one pair are the sex chromosomes. Females have two X chromosomes, written as XX, while males have one X and one Y chromosome, written as XY." },
-        { "lead": "Formation of gametes.", "text": "When gametes are formed, every egg produced by the mother carries an X chromosome. The father, however, produces two kinds of sperm, half carrying an X chromosome and half carrying a Y chromosome." },
-        { "lead": "Determination of sex.", "text": "If a sperm carrying X fertilises the egg, the child is XX, a girl. If a sperm carrying Y fertilises the egg, the child is XY, a boy. So it is the type of sperm from the father that decides the sex of the child." },
+        {
+          "lead": "Sex chromosomes.",
+          "text": "Human beings have 23 pairs of chromosomes, of which one pair are the sex chromosomes. Females have two X chromosomes, written as XX, while males have one X and one Y chromosome, written as XY."
+        },
+        {
+          "lead": "Formation of gametes.",
+          "text": "When gametes are formed, every egg produced by the mother carries an X chromosome. The father, however, produces two kinds of sperm, half carrying an X chromosome and half carrying a Y chromosome."
+        },
+        {
+          "lead": "Determination of sex.",
+          "text": "If a sperm carrying X fertilises the egg, the child is XX, a girl. If a sperm carrying Y fertilises the egg, the child is XY, a boy. So it is the type of sperm from the father that decides the sex of the child."
+        },
         "This shows that the father, not the mother, determines the sex of the child."
+      ]
+    },
+    {
+      "q": "How did Mendel's experiments explain the inheritance of traits over generations?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Mendel",
+          "text": "worked with pea plants and studied how single traits, like tall and short height, passed to later generations."
+        },
+        {
+          "list": [
+            "He crossed tall and short plants and found all the first-generation (F1) offspring were tall — the tall trait was dominant, the short one recessive",
+            "When these were self-pollinated, the short trait reappeared in the second generation (F2) in a ratio of about three tall to one short"
+          ]
+        },
+        {
+          "lead": "This revealed the rules of inheritance.",
+          "text": "Traits are controlled by factors (genes)."
+        },
+        {
+          "list": [
+            "Each trait is controlled by a pair of factors, one from each parent",
+            "A recessive factor can be hidden in one generation and reappear in the next"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What is evolution, and how do homologous and analogous organs and fossils provide evidence for it?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Evolution",
+          "text": "is the gradual change in the inherited features of a species over many generations, and several kinds of evidence support it."
+        },
+        {
+          "lead": "Homologous organs",
+          "text": "have a similar basic structure but different functions."
+        },
+        {
+          "list": [
+            "The forelimbs of a human, a bird and a whale share the same design, showing a common ancestor"
+          ]
+        },
+        {
+          "lead": "Analogous organs",
+          "text": "differ in structure but do the same job."
+        },
+        {
+          "list": [
+            "The wings of a bird and an insect show adaptation to a similar need",
+            "Fossils — the preserved remains of past organisms — reveal how life forms changed over time"
+          ]
+        }
       ]
     }
   ]

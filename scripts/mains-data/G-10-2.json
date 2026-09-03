@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "India's rich biodiversity has come under great pressure, mainly from human activity.",
-        { "lead": "Expansion of agriculture and settlement.", "text": "Large areas of forest were cleared for cultivation, especially during colonial rule when railways, plantations and commercial farming spread rapidly, destroying wildlife habitats." },
-        { "lead": "Development projects and mining.", "text": "Large dams, roads and mining have submerged and fragmented forests. Such activity destroys habitats and disturbs animal life." },
-        { "lead": "Overuse and hunting.", "text": "Grazing, fuelwood collection, poaching and the hunting of animals for skin, horns and sport reduced many species drastically, while pollution and forest fires added to the damage." },
+        {
+          "lead": "Expansion of agriculture and settlement.",
+          "text": "Large areas of forest were cleared for cultivation, especially during colonial rule when railways, plantations and commercial farming spread rapidly, destroying wildlife habitats."
+        },
+        {
+          "lead": "Development projects and mining.",
+          "text": "Large dams, roads and mining have submerged and fragmented forests. Such activity destroys habitats and disturbs animal life."
+        },
+        {
+          "lead": "Overuse and hunting.",
+          "text": "Grazing, fuelwood collection, poaching and the hunting of animals for skin, horns and sport reduced many species drastically, while pollution and forest fires added to the damage."
+        },
         "Thus habitat loss, over-exploitation and pollution together threaten India's forests and wildlife."
       ]
     },
@@ -19,10 +28,73 @@
       "word_limit": 150,
       "answer": [
         "Conservation in India has depended not only on the government but strongly on local communities.",
-        { "lead": "Protecting species and trees.", "text": "The Bishnoi community of Rajasthan has for generations protected blackbuck, nilgai and trees as part of its beliefs, even at the cost of their lives." },
-        { "lead": "People's movements.", "text": "The Chipko movement in the Himalayas resisted deforestation and showed that community afforestation with local species can succeed." },
-        { "lead": "Sacred groves and joint management.", "text": "Many tribal communities protect sacred groves as forests of gods and goddesses, and under Joint Forest Management villagers help restore degraded forests in return for a share of the produce." },
+        {
+          "lead": "Protecting species and trees.",
+          "text": "The Bishnoi community of Rajasthan has for generations protected blackbuck, nilgai and trees as part of its beliefs, even at the cost of their lives."
+        },
+        {
+          "lead": "People's movements.",
+          "text": "The Chipko movement in the Himalayas resisted deforestation and showed that community afforestation with local species can succeed."
+        },
+        {
+          "lead": "Sacred groves and joint management.",
+          "text": "Many tribal communities protect sacred groves as forests of gods and goddesses, and under Joint Forest Management villagers help restore degraded forests in return for a share of the produce."
+        },
         "These efforts show that conservation is most effective when local people are involved."
+      ]
+    },
+    {
+      "q": "How does the loss of biodiversity affect human societies, especially forest-dependent communities?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Biodiversity",
+          "text": "sustains ecosystems and the services people draw from them, so its loss has serious human costs."
+        },
+        {
+          "list": [
+            "Forests provide food, fuel, medicine, timber and clean water; their loss removes these directly",
+            "The decline of species disturbs food chains and the natural balance, harming farming and fisheries"
+          ]
+        },
+        {
+          "lead": "Forest communities suffer most.",
+          "text": "They depend on the forest for their lives."
+        },
+        {
+          "list": [
+            "Tribal and forest-dwelling people lose their livelihoods and their traditional way of life when forests vanish",
+            "Women, who gather fuel, fodder and water, have to travel far and work harder as resources shrink"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do government programmes and legislation try to conserve forests and wildlife in India?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "India",
+          "text": "protects its forests and wildlife through law and dedicated programmes."
+        },
+        {
+          "list": [
+            "The Wildlife Protection Act provides for protected species and habitats and bans hunting and trade in endangered animals",
+            "Reserved and protected forests, national parks, wildlife sanctuaries and biosphere reserves shield habitats"
+          ]
+        },
+        {
+          "lead": "Special projects",
+          "text": "target particular species."
+        },
+        {
+          "list": [
+            "Project Tiger and similar efforts protect flagship animals and their ecosystems",
+            "Programmes involving local communities, and Joint Forest Management, give people a stake in protecting nearby forests"
+          ]
+        }
       ]
     }
   ]

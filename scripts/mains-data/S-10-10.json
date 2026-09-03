@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The eye may develop defects when it can no longer focus images clearly on the retina.",
-        { "lead": "Myopia.", "text": "In myopia, or short-sightedness, a person can see nearby objects clearly but not distant ones, because the image of a far object forms in front of the retina. It is corrected by using a concave lens of suitable power." },
-        { "lead": "Hypermetropia.", "text": "In hypermetropia, or long-sightedness, a person can see distant objects clearly but not near ones, because the image of a near object forms behind the retina. It is corrected by a convex lens." },
-        { "lead": "Presbyopia.", "text": "With age, the power of accommodation decreases and a person finds it hard to see both near and distant objects; this presbyopia is corrected with bifocal lenses that have both concave and convex parts." },
+        {
+          "lead": "Myopia.",
+          "text": "In myopia, or short-sightedness, a person can see nearby objects clearly but not distant ones, because the image of a far object forms in front of the retina. It is corrected by using a concave lens of suitable power."
+        },
+        {
+          "lead": "Hypermetropia.",
+          "text": "In hypermetropia, or long-sightedness, a person can see distant objects clearly but not near ones, because the image of a near object forms behind the retina. It is corrected by a convex lens."
+        },
+        {
+          "lead": "Presbyopia.",
+          "text": "With age, the power of accommodation decreases and a person finds it hard to see both near and distant objects; this presbyopia is corrected with bifocal lenses that have both concave and convex parts."
+        },
         "With the right lenses, these defects can be easily corrected."
       ]
     },
@@ -18,10 +27,76 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Scattering of light.", "text": "When sunlight passes through the atmosphere, the tiny molecules of air scatter it. The amount of scattering depends on the wavelength of light, and shorter wavelengths, such as blue, are scattered much more strongly than longer wavelengths, such as red." },
-        { "lead": "Why the sky is blue.", "text": "Because blue light is scattered in all directions by the air molecules, it reaches our eyes from every part of the sky, making the sky appear blue during the day." },
-        { "lead": "Why the Sun looks red at dawn and dusk.", "text": "At sunrise and sunset, the Sun is near the horizon, so its light travels through a much thicker layer of atmosphere. Most of the blue light is scattered away before it reaches us, and mainly the red light, which is scattered least, gets through, so the Sun appears reddish." },
+        {
+          "lead": "Scattering of light.",
+          "text": "When sunlight passes through the atmosphere, the tiny molecules of air scatter it. The amount of scattering depends on the wavelength of light, and shorter wavelengths, such as blue, are scattered much more strongly than longer wavelengths, such as red."
+        },
+        {
+          "lead": "Why the sky is blue.",
+          "text": "Because blue light is scattered in all directions by the air molecules, it reaches our eyes from every part of the sky, making the sky appear blue during the day."
+        },
+        {
+          "lead": "Why the Sun looks red at dawn and dusk.",
+          "text": "At sunrise and sunset, the Sun is near the horizon, so its light travels through a much thicker layer of atmosphere. Most of the blue light is scattered away before it reaches us, and mainly the red light, which is scattered least, gets through, so the Sun appears reddish."
+        },
         "Thus scattering explains both the blue sky and the red Sun."
+      ]
+    },
+    {
+      "q": "How does the dispersion of light through a prism and in raindrops explain the formation of a rainbow?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Dispersion",
+          "text": "is the splitting of white light into its seven colours, and it explains the rainbow."
+        },
+        {
+          "list": [
+            "When white light passes through a glass prism, it bends different colours by different amounts and spreads them into a spectrum",
+            "Violet bends the most and red the least, giving the order violet to red"
+          ]
+        },
+        {
+          "lead": "A rainbow",
+          "text": "forms when sunlight passes through raindrops in the sky."
+        },
+        {
+          "list": [
+            "Each tiny raindrop acts like a prism, refracting, reflecting inside, and refracting the sunlight again",
+            "This disperses the light into a curved band of colours, always seen with the sun behind the observer"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does atmospheric refraction cause the twinkling of stars and the apparent early sunrise?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Atmospheric refraction",
+          "text": "is the bending of light as it passes through layers of air of different densities, and it causes several everyday effects."
+        },
+        {
+          "lead": "Twinkling of stars",
+          "text": "happens because starlight bends as it crosses the changing atmosphere."
+        },
+        {
+          "list": [
+            "The star's apparent position keeps shifting slightly, and the amount of light reaching us varies, so the star seems to twinkle",
+            "Planets are closer and appear as many points of light, so their light averages out and they do not twinkle"
+          ]
+        },
+        {
+          "lead": "The sun",
+          "text": "is seen about two minutes before actual sunrise and after actual sunset."
+        },
+        {
+          "list": [
+            "Its light bends over the horizon, so we see it even when it is just below"
+          ]
+        }
       ]
     }
   ]
