@@ -7,11 +7,77 @@
       "word_limit": 150,
       "answer": [
         "The floor of the ocean is not flat but has varied relief, divided into four major features.",
-        { "lead": "Continental shelf.", "text": "This is the shallow, gently sloping extension of the continent under the sea, up to a depth of about two hundred metres. Being shallow and sunlit, it is the richest zone for fisheries and also holds petroleum and mineral deposits." },
-        { "lead": "Continental slope.", "text": "Beyond the shelf the floor drops steeply. This continental slope marks the true boundary between the continents and the deep ocean." },
-        { "lead": "Deep sea plain.", "text": "At the base of the slope lies the deep sea, or abyssal, plain, a vast and relatively flat area covering most of the ocean floor, mantled with fine sediments." },
-        { "lead": "Oceanic trenches.", "text": "The deepest parts are the long, narrow trenches, such as the Mariana Trench, the deepest point on Earth." },
+        {
+          "lead": "Continental shelf.",
+          "text": "This is the shallow, gently sloping extension of the continent under the sea, up to a depth of about two hundred metres. Being shallow and sunlit, it is the richest zone for fisheries and also holds petroleum and mineral deposits."
+        },
+        {
+          "lead": "Continental slope.",
+          "text": "Beyond the shelf the floor drops steeply. This continental slope marks the true boundary between the continents and the deep ocean."
+        },
+        {
+          "lead": "Deep sea plain.",
+          "text": "At the base of the slope lies the deep sea, or abyssal, plain, a vast and relatively flat area covering most of the ocean floor, mantled with fine sediments."
+        },
+        {
+          "lead": "Oceanic trenches.",
+          "text": "The deepest parts are the long, narrow trenches, such as the Mariana Trench, the deepest point on Earth."
+        },
         "These features together make up the varied topography of the ocean floor."
+      ]
+    },
+    {
+      "q": "How do ocean currents form, and how are warm and cold currents distinguished?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Ocean currents",
+          "text": "are large streams of water moving through the oceans along regular paths, driven mainly by winds and by differences in water density."
+        },
+        {
+          "list": [
+            "Prevailing winds push the surface water along, and the Earth's rotation curves the flow",
+            "Differences in temperature and salinity make water sink or rise, driving deep currents"
+          ]
+        },
+        {
+          "lead": "Currents are warm or cold.",
+          "text": "This depends on where they come from."
+        },
+        {
+          "list": [
+            "Warm currents flow from the equator towards the poles, raising the temperature of the coasts they wash",
+            "Cold currents flow from the poles towards the equator, cooling the coasts they reach"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What are coral reefs, and why are they ecologically important and under threat?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Coral reefs",
+          "text": "are underwater structures built from the skeletons of tiny sea animals called corals, found in warm, shallow tropical seas."
+        },
+        {
+          "list": [
+            "They are among the richest ecosystems on Earth, home to a huge variety of fish and marine life",
+            "They protect coasts from waves and support fishing and tourism"
+          ]
+        },
+        {
+          "lead": "Yet they are threatened.",
+          "text": "They are very sensitive to change."
+        },
+        {
+          "list": [
+            "Warming and more acidic seas cause 'bleaching', in which corals lose their colour and die",
+            "Pollution and destructive fishing add to the damage, so reefs need urgent protection"
+          ]
+        }
       ]
     }
   ]

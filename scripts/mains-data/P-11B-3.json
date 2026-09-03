@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Equality means that all human beings have equal worth and deserve equal consideration, and it has three main dimensions.",
-        { "lead": "Political equality.", "text": "Political equality gives all citizens equal political rights, such as the right to vote, to contest elections and to hold office, and it ensures equality before the law. It is the basis of democracy." },
-        { "lead": "Social equality.", "text": "Social equality means the absence of discrimination on grounds of caste, race, religion or gender, and the granting of equal status and opportunity to all. It requires the removal of social barriers such as untouchability." },
-        { "lead": "Economic equality.", "text": "Economic equality is concerned with reducing the wide gaps of wealth and income and ensuring that everyone has fair access to resources and opportunities. Great economic inequality can make political and social equality meaningless." },
+        {
+          "lead": "Political equality.",
+          "text": "Political equality gives all citizens equal political rights, such as the right to vote, to contest elections and to hold office, and it ensures equality before the law. It is the basis of democracy."
+        },
+        {
+          "lead": "Social equality.",
+          "text": "Social equality means the absence of discrimination on grounds of caste, race, religion or gender, and the granting of equal status and opportunity to all. It requires the removal of social barriers such as untouchability."
+        },
+        {
+          "lead": "Economic equality.",
+          "text": "Economic equality is concerned with reducing the wide gaps of wealth and income and ensuring that everyone has fair access to resources and opportunities. Great economic inequality can make political and social equality meaningless."
+        },
         "Because these three dimensions are closely linked, genuine equality requires progress on all of them together."
       ]
     },
@@ -19,10 +28,77 @@
       "word_limit": 150,
       "answer": [
         "Equality can be promoted in several ways, since simply declaring people equal is not enough when society is deeply unequal.",
-        { "lead": "Formal equality.", "text": "The first step is to establish formal or legal equality by ending old privileges and providing equal laws and rights for all, such as equality before the law and the abolition of untouchability." },
-        { "lead": "Differential treatment.", "text": "Formal equality alone, however, may not help those held back for generations. Sometimes equality requires treating people differently, giving special provisions to disadvantaged groups so that they can compete on fair terms." },
-        { "lead": "Affirmative action.", "text": "Affirmative action, such as the reservation of seats and jobs for backward classes and Scheduled Castes and Tribes, is a positive, corrective measure to help such groups overcome past disadvantages. It is meant to be a temporary step towards real equality." },
+        {
+          "lead": "Formal equality.",
+          "text": "The first step is to establish formal or legal equality by ending old privileges and providing equal laws and rights for all, such as equality before the law and the abolition of untouchability."
+        },
+        {
+          "lead": "Differential treatment.",
+          "text": "Formal equality alone, however, may not help those held back for generations. Sometimes equality requires treating people differently, giving special provisions to disadvantaged groups so that they can compete on fair terms."
+        },
+        {
+          "lead": "Affirmative action.",
+          "text": "Affirmative action, such as the reservation of seats and jobs for backward classes and Scheduled Castes and Tribes, is a positive, corrective measure to help such groups overcome past disadvantages. It is meant to be a temporary step towards real equality."
+        },
         "Through these means, societies move from formal towards substantive equality."
+      ]
+    },
+    {
+      "q": "Why do natural inequalities and social inequalities need to be treated differently?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Equality",
+          "text": "does not mean that all differences are wrong, so it is important to distinguish natural from social inequalities."
+        },
+        {
+          "lead": "Natural inequalities",
+          "text": "arise from differences of talent and ability among people."
+        },
+        {
+          "list": [
+            "These differences in capacity are not created by society and are hard to remove",
+            "They may be respected, and people rewarded for effort and skill"
+          ]
+        },
+        {
+          "lead": "Social inequalities",
+          "text": "are created by society and are unjust."
+        },
+        {
+          "list": [
+            "They arise from the unequal distribution of wealth, opportunity and status, and from discrimination by caste, race or sex",
+            "Because society makes them, society can and should remove them"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does affirmative action help promote real equality, and why is it debated?",
+      "directive": "Evaluate",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Affirmative action",
+          "text": "means positive steps to help disadvantaged groups overcome the effects of past and present discrimination, so that equality becomes real, not just formal."
+        },
+        {
+          "list": [
+            "Measures like reservations in education and jobs give the marginalised a fairer chance to compete",
+            "They aim to correct deep, historic disadvantages that formal equality alone cannot remove"
+          ]
+        },
+        {
+          "lead": "It is debated, however.",
+          "text": "There are arguments on both sides."
+        },
+        {
+          "list": [
+            "Supporters say it is needed to level a badly unequal playing field",
+            "Critics say it may amount to reverse discrimination and should be time-bound and based on need, so its form and limits are much discussed"
+          ]
+        }
       ]
     }
   ]

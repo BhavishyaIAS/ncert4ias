@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Freedom is understood in two related but distinct ways, as negative liberty and positive liberty.",
-        { "lead": "Negative liberty.", "text": "Negative liberty means freedom from external interference. It seeks to define and defend an area of a person's life in which no one, not even the state, may interfere. This minimum, inviolable sphere allows the individual to act as they choose. Here freedom is measured by the absence of constraints imposed by others." },
-        { "lead": "Positive liberty.", "text": "Positive liberty is concerned with the freedom to develop oneself and realise one's full potential. It looks at the conditions, such as a supportive society and community, that enable a person to become the author of their own life. It recognises that an individual can be truly free only within a network of enabling social relationships." },
-        { "lead": "Their relationship.", "text": "The two are complementary, since a person needs both freedom from interference and the conditions that make self-development possible." },
+        {
+          "lead": "Negative liberty.",
+          "text": "Negative liberty means freedom from external interference. It seeks to define and defend an area of a person's life in which no one, not even the state, may interfere. This minimum, inviolable sphere allows the individual to act as they choose. Here freedom is measured by the absence of constraints imposed by others."
+        },
+        {
+          "lead": "Positive liberty.",
+          "text": "Positive liberty is concerned with the freedom to develop oneself and realise one's full potential. It looks at the conditions, such as a supportive society and community, that enable a person to become the author of their own life. It recognises that an individual can be truly free only within a network of enabling social relationships."
+        },
+        {
+          "lead": "Their relationship.",
+          "text": "The two are complementary, since a person needs both freedom from interference and the conditions that make self-development possible."
+        },
         "Thus real freedom combines the absence of constraints with the presence of enabling conditions."
       ]
     },
@@ -18,10 +27,77 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The harm principle.", "text": "The harm principle was put forward by the thinker John Stuart Mill. It holds that the only justification for placing constraints on the freedom of an individual is to prevent harm to other people. So long as a person's actions affect only themselves, no one, including the state, should interfere." },
-        { "lead": "Self-regarding and other-regarding actions.", "text": "Mill distinguished between self-regarding actions, which affect only the person doing them, and other-regarding actions, which affect others. Only other-regarding actions that cause serious harm can rightly be restricted, and even then the harm must be grave enough to justify interference." },
-        { "lead": "Significance.", "text": "This principle protects a wide sphere of individual liberty, including freedom of thought and expression, while allowing minimal, reasonable limits to protect others." },
+        {
+          "lead": "The harm principle.",
+          "text": "The harm principle was put forward by the thinker John Stuart Mill. It holds that the only justification for placing constraints on the freedom of an individual is to prevent harm to other people. So long as a person's actions affect only themselves, no one, including the state, should interfere."
+        },
+        {
+          "lead": "Self-regarding and other-regarding actions.",
+          "text": "Mill distinguished between self-regarding actions, which affect only the person doing them, and other-regarding actions, which affect others. Only other-regarding actions that cause serious harm can rightly be restricted, and even then the harm must be grave enough to justify interference."
+        },
+        {
+          "lead": "Significance.",
+          "text": "This principle protects a wide sphere of individual liberty, including freedom of thought and expression, while allowing minimal, reasonable limits to protect others."
+        },
         "Thus the harm principle balances individual freedom with the well-being of society."
+      ]
+    },
+    {
+      "q": "Why is freedom considered essential for the development of the individual?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Freedom",
+          "text": "is valued because it allows individuals to develop their reason, talents and personality to the full."
+        },
+        {
+          "list": [
+            "It gives people the chance to make their own choices and decisions",
+            "The ability to choose, and to learn from one's choices, is central to being a mature, responsible person"
+          ]
+        },
+        {
+          "lead": "It benefits society too.",
+          "text": "Freedom fosters creativity and progress."
+        },
+        {
+          "list": [
+            "Freedom of thought and expression lets new ideas emerge and be debated, advancing knowledge and reform",
+            "A society that respects freedom allows each person to contribute and grow, so freedom is both a personal and a social good"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What are the reasonable grounds on which the freedom of an individual may be restricted?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "No freedom",
+          "text": "can be unlimited, for one person's unrestrained freedom can harm others, so reasonable restrictions are necessary."
+        },
+        {
+          "lead": "The clearest ground",
+          "text": "is the harm principle."
+        },
+        {
+          "list": [
+            "Freedom may be restricted only to prevent serious harm to others, not merely because others disapprove",
+            "Actions that hurt or endanger others may rightly be limited by law"
+          ]
+        },
+        {
+          "lead": "Other grounds",
+          "text": "flow from the good of society."
+        },
+        {
+          "list": [
+            "Public order, security, health and morality may justify limits",
+            "But such restrictions must be reasonable and by a legitimate authority, not arbitrary, so freedom is not needlessly curbed"
+          ]
+        }
       ]
     }
   ]

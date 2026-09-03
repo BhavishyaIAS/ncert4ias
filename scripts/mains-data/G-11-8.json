@@ -6,10 +6,74 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "The heat budget refers to the balance between the heat the Earth receives from the Sun and the heat it loses back to space. Since the Earth as a whole neither becomes steadily warmer nor colder over the years, the incoming and outgoing amounts of heat must be equal, maintaining a balance." },
-        { "lead": "Incoming and outgoing heat.", "text": "Of the solar radiation reaching the Earth, part is reflected back by clouds, dust and the surface, a quality called albedo, and part is absorbed by the atmosphere. The rest reaches the surface, which absorbs it and then re-radiates it as long-wave terrestrial radiation, eventually escaping to space." },
-        { "lead": "Surplus and deficit.", "text": "The tropics receive more heat than they lose and so have a surplus, while the polar regions lose more than they gain and have a deficit. Winds and ocean currents transfer heat from the surplus tropics to the deficit poles." },
+        {
+          "lead": "Meaning.",
+          "text": "The heat budget refers to the balance between the heat the Earth receives from the Sun and the heat it loses back to space. Since the Earth as a whole neither becomes steadily warmer nor colder over the years, the incoming and outgoing amounts of heat must be equal, maintaining a balance."
+        },
+        {
+          "lead": "Incoming and outgoing heat.",
+          "text": "Of the solar radiation reaching the Earth, part is reflected back by clouds, dust and the surface, a quality called albedo, and part is absorbed by the atmosphere. The rest reaches the surface, which absorbs it and then re-radiates it as long-wave terrestrial radiation, eventually escaping to space."
+        },
+        {
+          "lead": "Surplus and deficit.",
+          "text": "The tropics receive more heat than they lose and so have a surplus, while the polar regions lose more than they gain and have a deficit. Winds and ocean currents transfer heat from the surplus tropics to the deficit poles."
+        },
         "This redistribution keeps the Earth's overall temperature in balance."
+      ]
+    },
+    {
+      "q": "What factors cause the temperature of the air to vary from place to place?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The temperature of the air",
+          "text": "differs from place to place because several factors control how much heat a place receives and retains."
+        },
+        {
+          "list": [
+            "Latitude — places near the equator get more direct sun and are warmer than those near the poles",
+            "Altitude — temperature falls with height, so mountains are cooler than the plains",
+            "Distance from the sea — the sea moderates temperature, so coasts have milder climates than the interior"
+          ]
+        },
+        {
+          "lead": "Other factors",
+          "text": "also play a part."
+        },
+        {
+          "list": [
+            "Ocean currents warm or cool the coasts they wash",
+            "Prevailing winds, cloud cover and the nature of the land surface further affect temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How is heat distributed over the Earth, and why does it stay in balance?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Earth",
+          "text": "receives heat from the Sun (insolation) and loses heat back to space, and over the whole planet these balance in the heat budget."
+        },
+        {
+          "list": [
+            "The tropics receive more heat than they lose, while the polar regions lose more than they receive",
+            "If nothing moved the heat, the tropics would keep heating and the poles keep cooling"
+          ]
+        },
+        {
+          "lead": "Winds and currents",
+          "text": "redistribute the heat."
+        },
+        {
+          "list": [
+            "Global winds and ocean currents carry surplus heat from the tropics towards the poles",
+            "This transfer keeps the overall balance and makes much of the Earth habitable"
+          ]
+        }
       ]
     }
   ]

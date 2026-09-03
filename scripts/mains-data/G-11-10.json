@@ -7,10 +7,84 @@
       "word_limit": 150,
       "answer": [
         "Rainfall is classified into three main types according to the way the moist air is lifted and cooled.",
-        { "lead": "Convectional rainfall.", "text": "When the ground is strongly heated, the air above it warms, expands and rises. As it rises it cools, the water vapour condenses, and heavy rain falls, often with thunder. This type is common in equatorial regions and on summer afternoons." },
-        { "lead": "Orographic rainfall.", "text": "When moist winds are forced to rise over a mountain barrier, they cool and shed their moisture on the windward side, giving heavy rain. The far, leeward side receives little rain and is called the rain-shadow area. Much of India's monsoon rain is of this type." },
-        { "lead": "Cyclonic or frontal rainfall.", "text": "This occurs when a warm air mass is lifted over a cold one along a front in a cyclone, producing widespread and steady rain in the temperate regions." },
+        {
+          "lead": "Convectional rainfall.",
+          "text": "When the ground is strongly heated, the air above it warms, expands and rises. As it rises it cools, the water vapour condenses, and heavy rain falls, often with thunder. This type is common in equatorial regions and on summer afternoons."
+        },
+        {
+          "lead": "Orographic rainfall.",
+          "text": "When moist winds are forced to rise over a mountain barrier, they cool and shed their moisture on the windward side, giving heavy rain. The far, leeward side receives little rain and is called the rain-shadow area. Much of India's monsoon rain is of this type."
+        },
+        {
+          "lead": "Cyclonic or frontal rainfall.",
+          "text": "This occurs when a warm air mass is lifted over a cold one along a front in a cyclone, producing widespread and steady rain in the temperate regions."
+        },
         "These processes explain the varied distribution of rainfall on Earth."
+      ]
+    },
+    {
+      "q": "What is humidity, and how are clouds and precipitation formed?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Humidity",
+          "text": "is the amount of water vapour present in the air, and it is the source of clouds and rain."
+        },
+        {
+          "list": [
+            "Warm air can hold more water vapour than cold air",
+            "When air rises and cools to its dew point, it can no longer hold all its vapour"
+          ]
+        },
+        {
+          "lead": "Condensation then forms clouds.",
+          "text": "The vapour turns to tiny droplets."
+        },
+        {
+          "list": [
+            "The vapour condenses around dust particles to form clouds and fog",
+            "When the droplets grow large and heavy enough, they fall as precipitation — rain, snow or hail, depending on the temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between convectional, orographic and cyclonic rainfall.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Rainfall",
+          "text": "is classified by what causes the air to rise and cool, giving three main types."
+        },
+        {
+          "lead": "Convectional rainfall",
+          "text": "comes from strong heating."
+        },
+        {
+          "list": [
+            "Hot air rises, cools and pours down as heavy afternoon showers, common in the equatorial region"
+          ]
+        },
+        {
+          "lead": "Orographic rainfall",
+          "text": "comes from mountains."
+        },
+        {
+          "list": [
+            "Moist winds are forced up over a mountain, cool and rain on the windward side, leaving a dry rain-shadow behind"
+          ]
+        },
+        {
+          "lead": "Cyclonic rainfall",
+          "text": "comes from meeting air masses."
+        },
+        {
+          "list": [
+            "Warm air rises over cold air along a front, giving steady, widespread rain"
+          ]
+        }
       ]
     }
   ]

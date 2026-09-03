@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The Indian Constitution guarantees six Fundamental Rights in Part III, which are enforceable in the courts.",
-        { "lead": "Equality and freedom.", "text": "The Right to Equality ensures equality before the law, forbids discrimination, and abolishes untouchability and titles. The Right to Freedom gives citizens freedom of speech, assembly, movement and profession, and protects their life and personal liberty." },
-        { "lead": "Against exploitation and religion.", "text": "The Right against Exploitation bans human trafficking, forced labour and child labour. The Right to Freedom of Religion allows every person to freely profess, practise and propagate any religion." },
-        { "lead": "Cultural and remedial rights.", "text": "The Cultural and Educational Rights protect the language, script and institutions of minorities. Finally, the Right to Constitutional Remedies lets a citizen approach the courts to enforce these rights, which Ambedkar called the heart and soul of the Constitution." },
+        {
+          "lead": "Equality and freedom.",
+          "text": "The Right to Equality ensures equality before the law, forbids discrimination, and abolishes untouchability and titles. The Right to Freedom gives citizens freedom of speech, assembly, movement and profession, and protects their life and personal liberty."
+        },
+        {
+          "lead": "Against exploitation and religion.",
+          "text": "The Right against Exploitation bans human trafficking, forced labour and child labour. The Right to Freedom of Religion allows every person to freely profess, practise and propagate any religion."
+        },
+        {
+          "lead": "Cultural and remedial rights.",
+          "text": "The Cultural and Educational Rights protect the language, script and institutions of minorities. Finally, the Right to Constitutional Remedies lets a citizen approach the courts to enforce these rights, which Ambedkar called the heart and soul of the Constitution."
+        },
         "Together these rights safeguard the dignity and liberty of citizens."
       ]
     },
@@ -19,10 +28,73 @@
       "word_limit": 150,
       "answer": [
         "The Constitution contains both Fundamental Rights and Directive Principles, which differ in nature and purpose.",
-        { "lead": "Fundamental Rights.", "text": "Fundamental Rights are contained in Part III and are justiciable, meaning a citizen can go to court if they are violated. They mainly protect the individual against arbitrary state action and are essential for political democracy." },
-        { "lead": "Directive Principles.", "text": "The Directive Principles of State Policy, in Part IV and borrowed from Ireland, are guidelines to the state for creating a just and welfare society. They are non-justiciable, so they cannot be enforced by the courts, but they are held to be fundamental in the governance of the country." },
-        { "lead": "Their relationship.", "text": "The two are meant to be complementary, together aiming at both political and social and economic democracy." },
+        {
+          "lead": "Fundamental Rights.",
+          "text": "Fundamental Rights are contained in Part III and are justiciable, meaning a citizen can go to court if they are violated. They mainly protect the individual against arbitrary state action and are essential for political democracy."
+        },
+        {
+          "lead": "Directive Principles.",
+          "text": "The Directive Principles of State Policy, in Part IV and borrowed from Ireland, are guidelines to the state for creating a just and welfare society. They are non-justiciable, so they cannot be enforced by the courts, but they are held to be fundamental in the governance of the country."
+        },
+        {
+          "lead": "Their relationship.",
+          "text": "The two are meant to be complementary, together aiming at both political and social and economic democracy."
+        },
         "Thus rights protect the individual, while directives guide the state towards social welfare."
+      ]
+    },
+    {
+      "q": "How do the Fundamental Rights protect the individual, and why can they be reasonably restricted?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Fundamental Rights",
+          "text": "protect the individual against the misuse of state power and guarantee the conditions for a life of dignity and freedom."
+        },
+        {
+          "list": [
+            "They include equality before the law, the freedoms of speech and movement, protection against exploitation and freedom of religion",
+            "They can be enforced in the courts if violated"
+          ]
+        },
+        {
+          "lead": "Yet they are not absolute.",
+          "text": "Rights carry responsibilities."
+        },
+        {
+          "list": [
+            "Reasonable restrictions can be placed to protect public order, security, morality and the rights of others",
+            "For example, free speech does not permit incitement to violence, so limits balance individual freedom with the good of society"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why were Directive Principles included, and how do they guide the state?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Directive Principles of State Policy",
+          "text": "were included to set goals for building a just social and economic order, complementing the political rights of citizens."
+        },
+        {
+          "list": [
+            "They direct the state to reduce inequality, provide work, education and a decent standard of living, and protect the weak",
+            "They express the welfare ideals of the freedom struggle"
+          ]
+        },
+        {
+          "lead": "They guide, but do not bind, the courts.",
+          "text": "Their force is moral and political."
+        },
+        {
+          "list": [
+            "They are not enforceable in court like Fundamental Rights",
+            "But they are 'fundamental in the governance of the country', and governments are expected to follow them when making laws and policy"
+          ]
+        }
       ]
     }
   ]

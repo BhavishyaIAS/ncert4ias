@@ -6,10 +6,77 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The basis.", "text": "Koeppen's is the most widely used classification of world climates. It is an empirical system based on measurable data, chiefly the mean monthly and annual values of temperature and precipitation. Koeppen noticed that different climates support different natural vegetation, so he used vegetation as an indirect indicator of climate." },
-        { "lead": "The scheme of letters.", "text": "He grouped climates into five major types, marked by capital letters: A for tropical, B for dry, C for warm temperate, D for cold snow-forest, and E for polar. A separate group H denotes highland climates. Small letters are added to show the seasonal distribution and degree of temperature and rainfall, such as f for no dry season, w for dry winter and s for dry summer." },
-        { "lead": "Examples.", "text": "Thus Af stands for tropical rainforest, BW for desert, Cs for Mediterranean and ET for tundra." },
+        {
+          "lead": "The basis.",
+          "text": "Koeppen's is the most widely used classification of world climates. It is an empirical system based on measurable data, chiefly the mean monthly and annual values of temperature and precipitation. Koeppen noticed that different climates support different natural vegetation, so he used vegetation as an indirect indicator of climate."
+        },
+        {
+          "lead": "The scheme of letters.",
+          "text": "He grouped climates into five major types, marked by capital letters: A for tropical, B for dry, C for warm temperate, D for cold snow-forest, and E for polar. A separate group H denotes highland climates. Small letters are added to show the seasonal distribution and degree of temperature and rainfall, such as f for no dry season, w for dry winter and s for dry summer."
+        },
+        {
+          "lead": "Examples.",
+          "text": "Thus Af stands for tropical rainforest, BW for desert, Cs for Mediterranean and ET for tundra."
+        },
         "This scheme neatly links climate with temperature, rainfall and vegetation."
+      ]
+    },
+    {
+      "q": "How does the composition of ocean water, including its salinity and temperature, vary?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Ocean water",
+          "text": "is salty and its temperature and salinity vary from place to place and with depth."
+        },
+        {
+          "lead": "Temperature",
+          "text": "changes with latitude and depth."
+        },
+        {
+          "list": [
+            "Surface water is warmest near the equator and colder towards the poles",
+            "Temperature falls with depth, sharply in a middle layer and then slowly to the cold deep sea"
+          ]
+        },
+        {
+          "lead": "Salinity",
+          "text": "is the amount of dissolved salt, and it too varies."
+        },
+        {
+          "list": [
+            "It is higher where evaporation is strong and rainfall low, as in enclosed warm seas",
+            "It is lower where fresh water is added by rain, rivers or melting ice"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why are the oceans important as a resource for humankind?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The oceans",
+          "text": "cover most of the Earth and are a vast and vital resource for people."
+        },
+        {
+          "list": [
+            "They provide food — fish and other seafood — for millions of people",
+            "They yield minerals, oil and natural gas from the seabed, and salt from evaporation"
+          ]
+        },
+        {
+          "lead": "They serve in many other ways.",
+          "text": "Their value goes beyond food and minerals."
+        },
+        {
+          "list": [
+            "They are highways for trade, carrying most of the world's goods by ship",
+            "They regulate climate and the water cycle, and offer energy from tides and waves, making their conservation important"
+          ]
+        }
       ]
     }
   ]

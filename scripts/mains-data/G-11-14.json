@@ -6,10 +6,73 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "An ecosystem is a community of living organisms together with their physical environment, interacting as a single functional unit. It exists within the biosphere, the zone where land, water and air meet and support life." },
-        { "lead": "Components.", "text": "An ecosystem has two kinds of components. The biotic, or living, components include producers such as green plants, consumers such as herbivores and carnivores, and decomposers such as bacteria and fungi. The abiotic, or non-living, components include sunlight, temperature, water, air, soil and minerals." },
-        { "lead": "Functioning.", "text": "The ecosystem works through the flow of energy and the cycling of nutrients. Producers capture solar energy to make food, which passes along the food chain to consumers, while decomposers break down dead matter and return nutrients to the soil. Energy flows in one direction with loss at each level, but nutrients are recycled." },
+        {
+          "lead": "Meaning.",
+          "text": "An ecosystem is a community of living organisms together with their physical environment, interacting as a single functional unit. It exists within the biosphere, the zone where land, water and air meet and support life."
+        },
+        {
+          "lead": "Components.",
+          "text": "An ecosystem has two kinds of components. The biotic, or living, components include producers such as green plants, consumers such as herbivores and carnivores, and decomposers such as bacteria and fungi. The abiotic, or non-living, components include sunlight, temperature, water, air, soil and minerals."
+        },
+        {
+          "lead": "Functioning.",
+          "text": "The ecosystem works through the flow of energy and the cycling of nutrients. Producers capture solar energy to make food, which passes along the food chain to consumers, while decomposers break down dead matter and return nutrients to the soil. Energy flows in one direction with loss at each level, but nutrients are recycled."
+        },
         "This constant interaction keeps the ecosystem alive and in balance."
+      ]
+    },
+    {
+      "q": "What are biomes, and how does climate determine their distribution?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A biome",
+          "text": "is a large ecosystem with a characteristic community of plants and animals suited to a particular climate."
+        },
+        {
+          "list": [
+            "Examples include tropical rainforests, deserts, grasslands, temperate forests and tundra",
+            "Each has its own typical vegetation and wildlife"
+          ]
+        },
+        {
+          "lead": "Climate is the key control.",
+          "text": "Temperature and rainfall shape each biome."
+        },
+        {
+          "list": [
+            "Hot, wet regions near the equator support dense rainforests; hot, dry regions form deserts",
+            "Cold polar regions have the treeless tundra, so as climate changes with latitude and altitude, one biome gives way to another"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do the biogeochemical cycles keep nutrients circulating in an ecosystem?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Biogeochemical cycles",
+          "text": "are the pathways by which chemical elements move between living things and the non-living environment, recycling the nutrients life needs."
+        },
+        {
+          "list": [
+            "In the carbon cycle, plants take in carbon dioxide, and respiration, decay and burning return it to the air",
+            "In the nitrogen cycle, bacteria fix nitrogen for plants, and decomposers and other bacteria return it to the soil and air"
+          ]
+        },
+        {
+          "lead": "These cycles are essential.",
+          "text": "They make life self-sustaining."
+        },
+        {
+          "list": [
+            "Because nutrients are limited, they must be used again and again",
+            "The cycles keep water, carbon, nitrogen and other elements available, linking the living and non-living worlds"
+          ]
+        }
       ]
     }
   ]
