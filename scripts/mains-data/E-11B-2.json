@@ -6,9 +6,70 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Primary and secondary data.", "text": "Primary data are those collected first-hand by the investigator directly from the source for a specific enquiry, and so are original. Secondary data are those that have already been collected and processed by someone else, and are obtained from published sources such as the Census reports, government publications or newspapers. Primary data are more reliable and specific but costlier and more time-consuming to gather." },
-        { "lead": "Census and sample.", "text": "In the census, or complete enumeration, method, every single unit of the population is studied, as in the Population Census of India. In the sample method, only a representative part of the population, called a sample, is studied, and its results are used to draw conclusions about the whole. The census gives complete information but is costly and slow, while sampling saves time, money and effort, though it may involve some sampling error." },
+        {
+          "lead": "Primary and secondary data.",
+          "text": "Primary data are those collected first-hand by the investigator directly from the source for a specific enquiry, and so are original. Secondary data are those that have already been collected and processed by someone else, and are obtained from published sources such as the Census reports, government publications or newspapers. Primary data are more reliable and specific but costlier and more time-consuming to gather."
+        },
+        {
+          "lead": "Census and sample.",
+          "text": "In the census, or complete enumeration, method, every single unit of the population is studied, as in the Population Census of India. In the sample method, only a representative part of the population, called a sample, is studied, and its results are used to draw conclusions about the whole. The census gives complete information but is costly and slow, while sampling saves time, money and effort, though it may involve some sampling error."
+        },
         "Thus the choice depends on the purpose, resources and accuracy required."
+      ]
+    },
+    {
+      "q": "What precautions should be taken while collecting data, and what makes a good questionnaire?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The value of any study",
+          "text": "depends on how carefully data are collected, so several precautions are needed."
+        },
+        {
+          "list": [
+            "The purpose and scope of the enquiry must be clearly defined before collection",
+            "The right method — census or sample — and reliable sources must be chosen",
+            "The units and time period should be clearly fixed"
+          ]
+        },
+        {
+          "lead": "A good questionnaire",
+          "text": "is central to primary data collection."
+        },
+        {
+          "list": [
+            "Questions should be few, simple, clear and in a logical order",
+            "They should avoid personal or leading questions, and allow easy, precise answers"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What are the two important sources of secondary data, and what care must be taken in using them?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Secondary data",
+          "text": "are data already collected by someone else, and they come from two broad kinds of sources."
+        },
+        {
+          "list": [
+            "Published sources — government reports, the census, official statistics, journals and reputable websites",
+            "Unpublished sources — records kept by government offices, research bodies and scholars that are not formally published"
+          ]
+        },
+        {
+          "lead": "Care is essential.",
+          "text": "The data were gathered for another purpose."
+        },
+        {
+          "list": [
+            "The user must check that the data are reliable, suitable for the present purpose, and adequate in coverage",
+            "The method and conditions of the original collection should be understood before the data are used"
+          ]
+        }
       ]
     }
   ]

@@ -6,9 +6,70 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Importance.", "text": "Conventional sources of energy such as coal and petroleum are finite, are being rapidly exhausted, and their burning causes pollution and global warming. Renewable sources like solar, wind, hydro and biomass are clean and inexhaustible. Developing them is essential for energy security, for reducing dependence on costly imports, and for cutting greenhouse gas emissions." },
-        { "lead": "India's steps.", "text": "India, blessed with abundant sunshine and wind, has made renewable energy a priority. The Ministry of New and Renewable Energy promotes these sources, and the National Solar Mission has driven large solar parks. India is among the leading producers of wind power. It has set ambitious targets to expand non-fossil capacity and to reach net-zero emissions by 2070. Internationally, India co-founded the International Solar Alliance with France to promote solar energy worldwide." },
+        {
+          "lead": "Importance.",
+          "text": "Conventional sources of energy such as coal and petroleum are finite, are being rapidly exhausted, and their burning causes pollution and global warming. Renewable sources like solar, wind, hydro and biomass are clean and inexhaustible. Developing them is essential for energy security, for reducing dependence on costly imports, and for cutting greenhouse gas emissions."
+        },
+        {
+          "lead": "India's steps.",
+          "text": "India, blessed with abundant sunshine and wind, has made renewable energy a priority. The Ministry of New and Renewable Energy promotes these sources, and the National Solar Mission has driven large solar parks. India is among the leading producers of wind power. It has set ambitious targets to expand non-fossil capacity and to reach net-zero emissions by 2070. Internationally, India co-founded the International Solar Alliance with France to promote solar energy worldwide."
+        },
         "Thus renewable energy is central to India's path towards sustainable development."
+      ]
+    },
+    {
+      "q": "Compare the main sources of renewable energy and their advantages.",
+      "directive": "Compare",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Renewable energy",
+          "text": "comes from sources that are naturally replenished, and India has several to draw on."
+        },
+        {
+          "list": [
+            "Solar energy uses sunlight, which is abundant across most of India, for electricity and heating",
+            "Wind energy uses turbines in windy coastal and open regions",
+            "Hydro energy uses flowing water, and biogas and biomass use organic waste"
+          ]
+        },
+        {
+          "lead": "They share key advantages.",
+          "text": "They are clean and inexhaustible."
+        },
+        {
+          "list": [
+            "They do not run out and cause little pollution or greenhouse gas",
+            "They reduce dependence on imported fossil fuels and can bring power to remote villages off the main grid"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What challenges does India face in expanding renewable energy, and how can they be met?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Despite its promise,",
+          "text": "the growth of renewable energy in India faces several challenges."
+        },
+        {
+          "list": [
+            "The high initial cost of setting up solar and wind plants can deter investment",
+            "Renewable sources are variable — the sun does not always shine nor the wind always blow — so supply can be uneven"
+          ]
+        },
+        {
+          "lead": "These can be overcome.",
+          "text": "Support and technology are key."
+        },
+        {
+          "list": [
+            "Government subsidies, targets and schemes lower costs and encourage adoption",
+            "Better battery storage and a stronger grid can even out supply, and falling technology costs are making renewables ever more competitive"
+          ]
+        }
       ]
     }
   ]

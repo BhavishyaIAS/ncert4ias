@@ -6,10 +6,84 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "The Red List.", "text": "The Red List is prepared by the International Union for Conservation of Nature, or IUCN. It is the world's most comprehensive record of the conservation status of plant and animal species, showing how close each species is to extinction. It guides governments and conservationists in setting priorities for protection." },
-        { "lead": "Main categories.", "text": "The Red List places species in categories of increasing risk. A species of Least Concern is safe, followed by Near Threatened. The three threatened categories are Vulnerable, Endangered and Critically Endangered, the last being at the highest risk of extinction in the wild. Beyond these are Extinct in the Wild, where a species survives only in captivity, and Extinct, where none remain. Species that lack enough information are called Data Deficient." },
-        { "lead": "Indian examples.", "text": "In India, the Great Indian Bustard and the gharial are critically endangered." },
+        {
+          "lead": "The Red List.",
+          "text": "The Red List is prepared by the International Union for Conservation of Nature, or IUCN. It is the world's most comprehensive record of the conservation status of plant and animal species, showing how close each species is to extinction. It guides governments and conservationists in setting priorities for protection."
+        },
+        {
+          "lead": "Main categories.",
+          "text": "The Red List places species in categories of increasing risk. A species of Least Concern is safe, followed by Near Threatened. The three threatened categories are Vulnerable, Endangered and Critically Endangered, the last being at the highest risk of extinction in the wild. Beyond these are Extinct in the Wild, where a species survives only in captivity, and Extinct, where none remain. Species that lack enough information are called Data Deficient."
+        },
+        {
+          "lead": "Indian examples.",
+          "text": "In India, the Great Indian Bustard and the gharial are critically endangered."
+        },
         "Thus the Red List classifies species by their risk of extinction, helping direct conservation efforts."
+      ]
+    },
+    {
+      "q": "How does the IUCN Red List help in the conservation of species?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The IUCN Red List",
+          "text": "is a comprehensive record of the conservation status of species across the world, and it guides conservation efforts."
+        },
+        {
+          "list": [
+            "It assesses species and places them in categories from Least Concern up to Critically Endangered and Extinct",
+            "It is based on data about population size, decline and range"
+          ]
+        },
+        {
+          "lead": "It is a vital tool.",
+          "text": "It tells us where action is most needed."
+        },
+        {
+          "list": [
+            "It draws attention to species at greatest risk so that conservation can be focused on them",
+            "It helps governments and organisations set priorities, frame laws, and track whether conservation is working over time"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between endangered, vulnerable and extinct species, with examples.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Red List",
+          "text": "sorts threatened species into categories according to how close they are to extinction."
+        },
+        {
+          "lead": "Endangered species",
+          "text": "face a very high risk of extinction in the near future."
+        },
+        {
+          "list": [
+            "Their numbers have fallen sharply — for example, the tiger and the Asiatic lion"
+          ]
+        },
+        {
+          "lead": "Vulnerable species",
+          "text": "face a high risk if conditions do not improve."
+        },
+        {
+          "list": [
+            "They are likely to become endangered unless protected"
+          ]
+        },
+        {
+          "lead": "Extinct species",
+          "text": "no longer exist anywhere."
+        },
+        {
+          "list": [
+            "The last individual has died — for example, the dodo and the Indian cheetah, which vanished from the wild"
+          ]
+        }
       ]
     }
   ]

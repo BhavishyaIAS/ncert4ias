@@ -7,10 +7,77 @@
       "word_limit": 150,
       "answer": [
         "Mauryan art, at its height under Ashoka, was monumental and closely linked to the state and to Buddhism.",
-        { "lead": "The pillars.", "text": "The most striking works are the Ashokan pillars, tall monolithic columns of sandstone carrying the emperor's edicts. They are famous for their extraordinary smooth shine, known as the Mauryan polish. Each pillar has a shaft, a capital and an animal figure on top." },
-        { "lead": "The Sarnath capital.", "text": "The finest is the Lion Capital at Sarnath, with four lions standing back to back above a wheel and figures of animals. It has been adopted as the National Emblem of India, and the wheel appears on the National Flag." },
-        { "lead": "Other art.", "text": "Popular art included large yaksha and yakshi statues such as the Didarganj Yakshi, while rock-cut caves like those at Barabar and the core of the Sanchi Stupa also belong to this age." },
+        {
+          "lead": "The pillars.",
+          "text": "The most striking works are the Ashokan pillars, tall monolithic columns of sandstone carrying the emperor's edicts. They are famous for their extraordinary smooth shine, known as the Mauryan polish. Each pillar has a shaft, a capital and an animal figure on top."
+        },
+        {
+          "lead": "The Sarnath capital.",
+          "text": "The finest is the Lion Capital at Sarnath, with four lions standing back to back above a wheel and figures of animals. It has been adopted as the National Emblem of India, and the wheel appears on the National Flag."
+        },
+        {
+          "lead": "Other art.",
+          "text": "Popular art included large yaksha and yakshi statues such as the Didarganj Yakshi, while rock-cut caves like those at Barabar and the core of the Sanchi Stupa also belong to this age."
+        },
         "Thus Mauryan art combined grandeur with fine craftsmanship."
+      ]
+    },
+    {
+      "q": "How does Mauryan art reflect both royal power and the spread of Buddhism?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Mauryan art",
+          "text": "under Ashoka served both the glory of the state and the message of the Buddha."
+        },
+        {
+          "list": [
+            "The tall, polished stone pillars carried Ashoka's edicts across the empire, spreading his moral teaching",
+            "The animal capitals, like the Lion Capital of Sarnath, were royal symbols now adopted as India's national emblem"
+          ]
+        },
+        {
+          "lead": "Buddhism shaped much of it.",
+          "text": "Art carried the faith."
+        },
+        {
+          "list": [
+            "Ashoka built stupas over the relics of the Buddha, which became centres of worship",
+            "Rock-cut caves were donated to monks, beginning a long tradition of Buddhist cave architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between court art and popular art in the Mauryan period.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Mauryan art",
+          "text": "can be divided into court art, sponsored by the emperor, and popular art, made by ordinary craftsmen."
+        },
+        {
+          "lead": "Court art",
+          "text": "was grand and highly finished, made under royal patronage."
+        },
+        {
+          "list": [
+            "The polished sandstone pillars and their animal capitals show refined skill and imperial ideas",
+            "The famous 'Mauryan polish' gave the stone a mirror-like shine"
+          ]
+        },
+        {
+          "lead": "Popular art",
+          "text": "was made by local sculptors for the people and communities."
+        },
+        {
+          "list": [
+            "Large free-standing statues of yakshas and yakshis (nature spirits) were objects of folk worship",
+            "These are simpler and more robust, reflecting popular beliefs rather than court taste"
+          ]
+        }
       ]
     }
   ]

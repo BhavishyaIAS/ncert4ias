@@ -7,10 +7,73 @@
       "word_limit": 150,
       "answer": [
         "India has set up several national institutions to preserve, promote and document its vast cultural heritage.",
-        { "lead": "The three Akademis.", "text": "The Sangeet Natak Akademi looks after music, dance and drama; the Lalit Kala Akademi promotes the visual and fine arts; and the Sahitya Akademi fosters literature in the many Indian languages. They give awards, hold programmes and support artists." },
-        { "lead": "Training and documentation.", "text": "The National School of Drama trains actors and directors, while the Indira Gandhi National Centre for the Arts researches and records the arts. Museums such as the National Museum preserve artefacts." },
-        { "lead": "Protecting monuments.", "text": "The Archaeological Survey of India protects and conserves ancient monuments and archaeological sites across the country." },
+        {
+          "lead": "The three Akademis.",
+          "text": "The Sangeet Natak Akademi looks after music, dance and drama; the Lalit Kala Akademi promotes the visual and fine arts; and the Sahitya Akademi fosters literature in the many Indian languages. They give awards, hold programmes and support artists."
+        },
+        {
+          "lead": "Training and documentation.",
+          "text": "The National School of Drama trains actors and directors, while the Indira Gandhi National Centre for the Arts researches and records the arts. Museums such as the National Museum preserve artefacts."
+        },
+        {
+          "lead": "Protecting monuments.",
+          "text": "The Archaeological Survey of India protects and conserves ancient monuments and archaeological sites across the country."
+        },
         "Through such bodies, the state ensures that India's living and material heritage is safeguarded for future generations."
+      ]
+    },
+    {
+      "q": "What are the main institutions that safeguard India's art and culture, and what do they do?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "India",
+          "text": "has set up national institutions to preserve, promote and pass on its rich artistic heritage."
+        },
+        {
+          "list": [
+            "The Archaeological Survey of India protects and conserves ancient monuments and sites",
+            "The Sangeet Natak Akademi promotes music, dance and drama; the Lalit Kala Akademi promotes the visual arts; and the Sahitya Akademi promotes literature"
+          ]
+        },
+        {
+          "lead": "Other bodies",
+          "text": "support specific fields."
+        },
+        {
+          "list": [
+            "Museums and the National Archives preserve objects, art and records for study",
+            "The Indira Gandhi National Centre for the Arts and various zonal cultural centres support research and living folk traditions"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How can heritage conservation be balanced with the needs of development?",
+      "directive": "Evaluate",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Conservation and development",
+          "text": "can seem to conflict, as growing cities, roads and industry put pressure on heritage sites and traditions."
+        },
+        {
+          "list": [
+            "Construction and pollution can damage monuments, and modernisation can push out traditional crafts and performers",
+            "Yet development is needed for jobs and better living"
+          ]
+        },
+        {
+          "lead": "A balance is possible.",
+          "text": "The two can support each other."
+        },
+        {
+          "list": [
+            "Careful planning can protect monuments while allowing growth around them",
+            "Heritage tourism and support for artisans turn culture into a source of livelihood, so that conserving heritage also aids development"
+          ]
+        }
       ]
     }
   ]

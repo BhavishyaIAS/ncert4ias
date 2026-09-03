@@ -6,9 +6,74 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "Raw data collected in a survey are usually large and disorderly, and by themselves convey little meaning. Classification is the process of arranging this data into groups or classes according to their common characteristics, so that similar items are placed together. It is the first step in organising data and makes it simpler to understand, compare and analyse." },
-        { "lead": "Bases of classification.", "text": "Data can be classified on four main bases. Chronological classification arranges data according to time, such as production year by year. Spatial or geographical classification arranges data according to place, such as by state or region. Qualitative classification groups data by attributes or qualities that cannot be measured, such as gender or literacy. Quantitative classification groups data by measurable numerical values, such as income or height." },
+        {
+          "lead": "Meaning.",
+          "text": "Raw data collected in a survey are usually large and disorderly, and by themselves convey little meaning. Classification is the process of arranging this data into groups or classes according to their common characteristics, so that similar items are placed together. It is the first step in organising data and makes it simpler to understand, compare and analyse."
+        },
+        {
+          "lead": "Bases of classification.",
+          "text": "Data can be classified on four main bases. Chronological classification arranges data according to time, such as production year by year. Spatial or geographical classification arranges data according to place, such as by state or region. Qualitative classification groups data by attributes or qualities that cannot be measured, such as gender or literacy. Quantitative classification groups data by measurable numerical values, such as income or height."
+        },
         "By classifying data in these ways, we turn a mass of figures into meaningful and usable information."
+      ]
+    },
+    {
+      "q": "What is a frequency distribution, and how is it prepared?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A frequency distribution",
+          "text": "is a table that shows how often each value or range of values occurs in a set of data, bringing order to raw figures."
+        },
+        {
+          "list": [
+            "Data are grouped into classes or intervals of equal size",
+            "The number of items falling in each class is its frequency",
+            "Tally marks are used to count the items into each class"
+          ]
+        },
+        {
+          "lead": "It makes data manageable.",
+          "text": "Large data become easy to read."
+        },
+        {
+          "list": [
+            "It condenses a mass of figures into a compact, understandable form",
+            "It shows the pattern of the data — where values cluster — and is the basis for graphs and further analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between exclusive and inclusive methods of forming class intervals.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Class intervals",
+          "text": "in a frequency distribution can be formed in two ways, which differ in how the class limits are treated."
+        },
+        {
+          "lead": "The exclusive method",
+          "text": "excludes the upper limit of each class."
+        },
+        {
+          "list": [
+            "An item equal to the upper limit is counted in the next class — in 0–10 and 10–20, a value of 10 goes into 10–20",
+            "The classes are continuous, with no gap between them"
+          ]
+        },
+        {
+          "lead": "The inclusive method",
+          "text": "includes both limits in the same class."
+        },
+        {
+          "list": [
+            "Classes like 0–9 and 10–19 include all values up to the upper limit",
+            "There is a gap between classes, which must be adjusted for continuous analysis"
+          ]
+        }
       ]
     }
   ]

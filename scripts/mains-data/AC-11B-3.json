@@ -7,11 +7,73 @@
       "word_limit": 150,
       "answer": [
         "Indian tradition, following the ancient Natyashastra, classifies musical instruments into four categories according to how they produce sound.",
-        { "lead": "Tata Vadya.", "text": "These are stringed instruments, or chordophones, in which sound is made by vibrating strings. Examples are the veena, sitar, sarod and sarangi." },
-        { "lead": "Sushira Vadya.", "text": "These are wind instruments, or aerophones, sounded by blowing air. Examples include the bansuri or flute, the shehnai and the nadaswaram." },
-        { "lead": "Avanaddha Vadya.", "text": "These are percussion instruments covered with a stretched skin or membrane. Examples are the tabla, the mridangam and the pakhawaj." },
-        { "lead": "Ghana Vadya.", "text": "These are solid instruments that sound by themselves when struck, called idiophones, such as the ghatam, the jaltarang and the manjira or cymbals." },
+        {
+          "lead": "Tata Vadya.",
+          "text": "These are stringed instruments, or chordophones, in which sound is made by vibrating strings. Examples are the veena, sitar, sarod and sarangi."
+        },
+        {
+          "lead": "Sushira Vadya.",
+          "text": "These are wind instruments, or aerophones, sounded by blowing air. Examples include the bansuri or flute, the shehnai and the nadaswaram."
+        },
+        {
+          "lead": "Avanaddha Vadya.",
+          "text": "These are percussion instruments covered with a stretched skin or membrane. Examples are the tabla, the mridangam and the pakhawaj."
+        },
+        {
+          "lead": "Ghana Vadya.",
+          "text": "These are solid instruments that sound by themselves when struck, called idiophones, such as the ghatam, the jaltarang and the manjira or cymbals."
+        },
         "This scheme neatly covers the whole range of Indian instruments."
+      ]
+    },
+    {
+      "q": "How does each of the four classes of Indian musical instruments produce sound?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Indian tradition",
+          "text": "groups musical instruments into four classes by the way they make sound."
+        },
+        {
+          "list": [
+            "Tata Vadya — stringed instruments where a plucked or bowed string vibrates, like the sitar, veena and sarangi",
+            "Sushira Vadya — wind instruments where blown air vibrates in a tube, like the flute (bansuri) and shehnai",
+            "Avanaddha Vadya — percussion with a stretched skin that is struck, like the tabla, mridangam and dhol",
+            "Ghana Vadya — solid instruments that vibrate as a whole when struck, like cymbals (manjira) and the ghatam"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why are the tabla and the tanpura so important in a classical music performance?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Two instruments",
+          "text": "form the backbone of a Hindustani classical performance — the tabla and the tanpura."
+        },
+        {
+          "lead": "The tabla",
+          "text": "keeps the rhythm."
+        },
+        {
+          "list": [
+            "It is a pair of drums that maintains the tala, the cycle of beats",
+            "The player's intricate patterns support and answer the main artist"
+          ]
+        },
+        {
+          "lead": "The tanpura",
+          "text": "holds the drone."
+        },
+        {
+          "list": [
+            "Its long strings sound a continuous background note (the tonic) throughout the performance",
+            "This drone anchors the raga, giving the singer or soloist a constant reference to stay in tune"
+          ]
+        }
       ]
     }
   ]

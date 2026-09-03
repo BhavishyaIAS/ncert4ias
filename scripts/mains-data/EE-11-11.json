@@ -6,9 +6,69 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Environmental costs.", "text": "Modern agriculture, especially since the Green Revolution, has harmed the environment in several ways. The heavy use of chemical fertilisers and pesticides has polluted soil and water and caused eutrophication of lakes and rivers. Excessive irrigation has lowered water tables and led to waterlogging and salinity. The spread of a single crop, or monoculture, has reduced agricultural biodiversity, and clearing land for farming has caused deforestation and soil erosion." },
-        { "lead": "Sustainable farming.", "text": "Agriculture can be made sustainable by adopting organic farming that avoids harmful chemicals, integrated pest management that reduces pesticide use, and crop rotation that keeps the soil fertile. Efficient methods such as drip irrigation save water, while agroforestry combines trees with crops to protect the soil." },
+        {
+          "lead": "Environmental costs.",
+          "text": "Modern agriculture, especially since the Green Revolution, has harmed the environment in several ways. The heavy use of chemical fertilisers and pesticides has polluted soil and water and caused eutrophication of lakes and rivers. Excessive irrigation has lowered water tables and led to waterlogging and salinity. The spread of a single crop, or monoculture, has reduced agricultural biodiversity, and clearing land for farming has caused deforestation and soil erosion."
+        },
+        {
+          "lead": "Sustainable farming.",
+          "text": "Agriculture can be made sustainable by adopting organic farming that avoids harmful chemicals, integrated pest management that reduces pesticide use, and crop rotation that keeps the soil fertile. Efficient methods such as drip irrigation save water, while agroforestry combines trees with crops to protect the soil."
+        },
         "By such practices, food can be produced without destroying the natural resources on which farming itself depends."
+      ]
+    },
+    {
+      "q": "How does the excessive use of chemical fertilisers and pesticides harm the environment?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Modern intensive farming",
+          "text": "relies heavily on chemical fertilisers and pesticides, which raise yields but damage the environment."
+        },
+        {
+          "list": [
+            "Fertilisers wash into rivers and lakes, causing eutrophication — excess nutrients that choke water bodies",
+            "They also degrade the soil over time, reducing its natural fertility"
+          ]
+        },
+        {
+          "lead": "Pesticides cause further harm.",
+          "text": "They spread beyond their target."
+        },
+        {
+          "list": [
+            "They kill useful insects, birds and soil organisms along with pests",
+            "They enter food chains and accumulate through biomagnification, harming wildlife and human health, and pests develop resistance over time"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What sustainable farming practices can reduce the environmental damage of agriculture?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Sustainable agriculture",
+          "text": "aims to produce food while protecting the soil, water and biodiversity for the future."
+        },
+        {
+          "list": [
+            "Organic farming uses natural manures and compost instead of chemical fertilisers",
+            "Integrated pest management uses natural predators and limited chemicals to control pests"
+          ]
+        },
+        {
+          "lead": "Other practices",
+          "text": "conserve resources."
+        },
+        {
+          "list": [
+            "Crop rotation and mixed cropping keep the soil fertile and reduce pests",
+            "Efficient irrigation like drip and sprinkler saves water, and agroforestry and mulching protect the soil, making farming environmentally sound"
+          ]
+        }
       ]
     }
   ]

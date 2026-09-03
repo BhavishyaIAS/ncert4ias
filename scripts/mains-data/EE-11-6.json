@@ -6,10 +6,74 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Eutrophication.", "text": "Eutrophication is the enrichment of a water body with nutrients, mainly nitrogen and phosphorus, that run off from fertilisers and sewage. These nutrients cause a rapid growth of algae, called an algal bloom, which covers the surface. When the algae die and decompose, bacteria use up the dissolved oxygen in the water. The lack of oxygen kills fish and other aquatic life, and the water body slowly dies." },
-        { "lead": "Biomagnification.", "text": "Biomagnification is the increase in the concentration of a harmful, non-degradable chemical, such as DDT or mercury, at successive levels of a food chain. Small amounts taken in by plants and small animals become more concentrated in the bodies of the animals that eat them, so the top predators, including humans, accumulate the highest and most dangerous levels." },
-        { "lead": "Effects.", "text": "Mercury biomagnification, for example, caused the deadly Minamata disease in Japan." },
+        {
+          "lead": "Eutrophication.",
+          "text": "Eutrophication is the enrichment of a water body with nutrients, mainly nitrogen and phosphorus, that run off from fertilisers and sewage. These nutrients cause a rapid growth of algae, called an algal bloom, which covers the surface. When the algae die and decompose, bacteria use up the dissolved oxygen in the water. The lack of oxygen kills fish and other aquatic life, and the water body slowly dies."
+        },
+        {
+          "lead": "Biomagnification.",
+          "text": "Biomagnification is the increase in the concentration of a harmful, non-degradable chemical, such as DDT or mercury, at successive levels of a food chain. Small amounts taken in by plants and small animals become more concentrated in the bodies of the animals that eat them, so the top predators, including humans, accumulate the highest and most dangerous levels."
+        },
+        {
+          "lead": "Effects.",
+          "text": "Mercury biomagnification, for example, caused the deadly Minamata disease in Japan."
+        },
         "Both processes show how pollution can silently devastate ecosystems and human health."
+      ]
+    },
+    {
+      "q": "What are the major causes and effects of water pollution?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Water pollution",
+          "text": "is the contamination of water bodies that makes water unfit for use, and it has several causes."
+        },
+        {
+          "list": [
+            "Domestic sewage and industrial effluents discharged into rivers and lakes",
+            "Farm run-off carrying fertilisers and pesticides, and dumping of waste"
+          ]
+        },
+        {
+          "lead": "Its effects are serious.",
+          "text": "It harms life and health."
+        },
+        {
+          "list": [
+            "It spreads water-borne diseases like cholera and typhoid",
+            "It kills aquatic life by reducing oxygen and adding toxins",
+            "Excess nutrients cause eutrophication, and toxins build up in food chains through biomagnification"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What is biomagnification, and why is it dangerous for organisms at higher trophic levels?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Biomagnification",
+          "text": "is the increase in the concentration of a harmful, non-degradable substance as it passes up a food chain."
+        },
+        {
+          "list": [
+            "Pollutants like certain pesticides and mercury are not broken down or excreted, so they accumulate in the body",
+            "At each higher trophic level, the concentration builds up because a predator eats many contaminated prey"
+          ]
+        },
+        {
+          "lead": "It is most dangerous at the top.",
+          "text": "Top predators suffer the highest doses."
+        },
+        {
+          "list": [
+            "Organisms at higher levels, including humans, receive the most concentrated poison",
+            "High levels of substances like DDT can damage health and reproduction — for instance, thinning birds' eggshells"
+          ]
+        }
       ]
     }
   ]

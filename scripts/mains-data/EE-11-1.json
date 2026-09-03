@@ -6,9 +6,74 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Components.", "text": "An ecosystem is a community of living organisms together with their physical environment, functioning as a unit. Its abiotic components include sunlight, temperature, water, soil and nutrients. Its biotic components are the producers, mainly green plants that make food, the consumers such as herbivores and carnivores that eat other organisms, and the decomposers such as bacteria and fungi that break down dead matter." },
-        { "lead": "Flow of energy.", "text": "Energy enters the ecosystem as sunlight, which producers capture in photosynthesis. It then flows through the food chain from producers to herbivores and on to carnivores. This flow is one-directional. According to the ten per cent law, only about a tenth of the energy at one trophic level is passed on to the next, the rest being lost as heat and in life processes." },
+        {
+          "lead": "Components.",
+          "text": "An ecosystem is a community of living organisms together with their physical environment, functioning as a unit. Its abiotic components include sunlight, temperature, water, soil and nutrients. Its biotic components are the producers, mainly green plants that make food, the consumers such as herbivores and carnivores that eat other organisms, and the decomposers such as bacteria and fungi that break down dead matter."
+        },
+        {
+          "lead": "Flow of energy.",
+          "text": "Energy enters the ecosystem as sunlight, which producers capture in photosynthesis. It then flows through the food chain from producers to herbivores and on to carnivores. This flow is one-directional. According to the ten per cent law, only about a tenth of the energy at one trophic level is passed on to the next, the rest being lost as heat and in life processes."
+        },
         "Because so much energy is lost at each step, food chains are short and are best shown by an upright pyramid of energy."
+      ]
+    },
+    {
+      "q": "What are ecological pyramids, and why are pyramids of energy always upright?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "An ecological pyramid",
+          "text": "is a graphic showing the relationship between the different trophic (feeding) levels of an ecosystem, such as producers, herbivores and carnivores."
+        },
+        {
+          "list": [
+            "A pyramid of numbers shows how many organisms are at each level",
+            "A pyramid of biomass shows the total living matter at each level",
+            "A pyramid of energy shows the energy flow at each level"
+          ]
+        },
+        {
+          "lead": "The energy pyramid is always upright.",
+          "text": "This follows from how energy flows."
+        },
+        {
+          "list": [
+            "Energy is lost as heat at each transfer, so less energy is available at each higher level",
+            "A level can never contain more energy than the one below it, so the pyramid must taper upward"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What is productivity in an ecosystem, and how do primary and secondary productivity differ?",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Productivity",
+          "text": "is the rate at which organic matter, and hence energy, is produced in an ecosystem."
+        },
+        {
+          "lead": "Primary productivity",
+          "text": "is the rate at which producers make food."
+        },
+        {
+          "list": [
+            "Gross primary productivity is the total organic matter produced by photosynthesis",
+            "Net primary productivity is what remains after the plants use some for their own respiration, and is available to consumers"
+          ]
+        },
+        {
+          "lead": "Secondary productivity",
+          "text": "is the rate at which consumers store energy."
+        },
+        {
+          "list": [
+            "It is the energy fixed by animals as they feed on plants or other animals",
+            "It is far smaller than primary productivity because energy is lost at each transfer"
+          ]
+        }
       ]
     }
   ]

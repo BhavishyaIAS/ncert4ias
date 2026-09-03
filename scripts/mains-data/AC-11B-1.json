@@ -7,9 +7,71 @@
       "word_limit": 150,
       "answer": [
         "India has a rich tradition of classical dance, rooted in the ancient Natyashastra of Bharata Muni, and the Sangeet Natak Akademi recognises eight classical forms.",
-        { "lead": "Southern forms.", "text": "Bharatanatyam comes from the temples of Tamil Nadu and is known for its fire-like poses. Kerala gave two forms, the vigorous dance-drama Kathakali with its elaborate make-up, and the graceful Mohiniyattam. Kuchipudi belongs to Andhra Pradesh and includes dancing on a brass plate." },
-        { "lead": "Eastern and northern forms.", "text": "Odissi is the temple dance of Odisha, marked by the tribhanga posture. Manipuri from Manipur is gentle and devotional, based on the Raslila of Krishna, while Sattriya grew in the Vaishnava monasteries of Assam and was founded by Sankaradeva. In the north, Kathak developed as a storytelling dance under both temple and Mughal court patronage." },
+        {
+          "lead": "Southern forms.",
+          "text": "Bharatanatyam comes from the temples of Tamil Nadu and is known for its fire-like poses. Kerala gave two forms, the vigorous dance-drama Kathakali with its elaborate make-up, and the graceful Mohiniyattam. Kuchipudi belongs to Andhra Pradesh and includes dancing on a brass plate."
+        },
+        {
+          "lead": "Eastern and northern forms.",
+          "text": "Odissi is the temple dance of Odisha, marked by the tribhanga posture. Manipuri from Manipur is gentle and devotional, based on the Raslila of Krishna, while Sattriya grew in the Vaishnava monasteries of Assam and was founded by Sankaradeva. In the north, Kathak developed as a storytelling dance under both temple and Mughal court patronage."
+        },
         "Together these forms express emotion through gesture, rhythm and abhinaya."
+      ]
+    },
+    {
+      "q": "What are the common features that define a classical dance form in India?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "India's classical dances,",
+          "text": "though varied in region and style, share a common grammar rooted in ancient texts like the Natyashastra."
+        },
+        {
+          "list": [
+            "Each has two aspects — nritta, pure rhythmic movement, and abhinaya, the expression of emotion and story",
+            "They use a codified language of hand gestures (mudras), facial expressions and body postures",
+            "They are usually based on themes from mythology and devotion"
+          ]
+        },
+        {
+          "lead": "This shared foundation",
+          "text": "unites them as classical."
+        },
+        {
+          "list": [
+            "All follow strict rules of rhythm (tala) and melody (raga)",
+            "Years of disciplined training are needed to master them, distinguishing them from folk dance"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do the classical dances of India reflect the culture of their regions?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Each classical dance",
+          "text": "grew in a particular region and carries the flavour of its language, music and traditions."
+        },
+        {
+          "list": [
+            "Bharatanatyam of Tamil Nadu grew in the temples of the south and reflects its devotional life",
+            "Kathakali of Kerala uses elaborate costume and make-up to enact epic dramas",
+            "Kathak of the north developed in both temples and Mughal courts, blending Hindu and Persian influences"
+          ]
+        },
+        {
+          "lead": "Others",
+          "text": "carry their own regional stamp."
+        },
+        {
+          "list": [
+            "Odissi of Odisha reflects its temple sculpture, and Manipuri of the northeast its gentle Vaishnava devotion",
+            "So the dances preserve and express the distinct heritage of each region"
+          ]
+        }
       ]
     }
   ]

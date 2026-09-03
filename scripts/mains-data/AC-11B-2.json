@@ -7,9 +7,73 @@
       "word_limit": 150,
       "answer": [
         "Indian classical music has two great systems, Hindustani in the north and Carnatic in the south, both built on the raga and the tala.",
-        { "lead": "Hindustani music.", "text": "The Hindustani system developed in North India and absorbed Persian and Central Asian influences, to which Amir Khusrau contributed. It lays great stress on improvisation, beginning with a slow elaboration of the raga called alap. It is organised into schools or lineages known as gharanas, and its forms include Dhrupad, Khayal and Thumri." },
-        { "lead": "Carnatic music.", "text": "The Carnatic system of the south is more composition-based and devotional, and preserves an older, more unified tradition. Its finest compositions, the kritis, were created by the Trinity of Tyagaraja, Muthuswami Dikshitar and Syama Sastri, while Purandara Dasa is honoured as its father." },
+        {
+          "lead": "Hindustani music.",
+          "text": "The Hindustani system developed in North India and absorbed Persian and Central Asian influences, to which Amir Khusrau contributed. It lays great stress on improvisation, beginning with a slow elaboration of the raga called alap. It is organised into schools or lineages known as gharanas, and its forms include Dhrupad, Khayal and Thumri."
+        },
+        {
+          "lead": "Carnatic music.",
+          "text": "The Carnatic system of the south is more composition-based and devotional, and preserves an older, more unified tradition. Its finest compositions, the kritis, were created by the Trinity of Tyagaraja, Muthuswami Dikshitar and Syama Sastri, while Purandara Dasa is honoured as its father."
+        },
         "Thus Hindustani music emphasises free improvisation, while Carnatic music centres on fixed compositions."
+      ]
+    },
+    {
+      "q": "What is a raga, and what role does it play in Indian classical music?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A raga",
+          "text": "is the melodic framework of Indian classical music — a set of notes with rules that give each raga its distinct mood and character."
+        },
+        {
+          "list": [
+            "It fixes which notes are used and how they are approached, ascending and descending",
+            "Within these rules the musician improvises freely, so no two performances are the same"
+          ]
+        },
+        {
+          "lead": "The raga carries mood and meaning.",
+          "text": "It is more than a scale."
+        },
+        {
+          "list": [
+            "Different ragas are traditionally linked to particular times of day, seasons or emotions",
+            "The rhythm is provided by the tala, a cycle of beats, and together raga and tala are the soul of Indian music"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did the bhakti and Sufi traditions enrich Indian music?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Devotional movements",
+          "text": "gave Indian music some of its most loved and living forms."
+        },
+        {
+          "lead": "The bhakti movement",
+          "text": "expressed devotion through song."
+        },
+        {
+          "list": [
+            "Saint-poets composed hymns and bhajans in the languages of the people, spreading music beyond the court",
+            "Forms like kirtan and abhang carried devotion to God directly to ordinary people"
+          ]
+        },
+        {
+          "lead": "The Sufi tradition",
+          "text": "added its own rich strand."
+        },
+        {
+          "list": [
+            "Qawwali, sung at the shrines of Sufi saints, expresses love and longing for the divine",
+            "This meeting of bhakti and Sufi music deepened India's shared devotional culture"
+          ]
+        }
       ]
     }
   ]

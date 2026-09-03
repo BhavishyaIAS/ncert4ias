@@ -6,10 +6,73 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Greenhouse effect and global warming.", "text": "The greenhouse effect is the trapping of the Sun's heat by certain gases in the atmosphere, such as carbon dioxide, methane and nitrous oxide. This natural effect keeps the Earth warm enough for life. However, human activities like burning fossil fuels and cutting forests have sharply increased these greenhouse gases, trapping more heat and raising the average temperature of the Earth, a process called global warming." },
-        { "lead": "Effects.", "text": "It melts glaciers and raises sea levels, causes more heatwaves, floods and droughts, disturbs the monsoon, and harms crops, coral reefs and biodiversity." },
-        { "lead": "Global efforts.", "text": "Countries have responded through the UN Framework Convention on Climate Change, the Kyoto Protocol, which set binding targets for developed nations, and the Paris Agreement of 2015, which seeks to keep warming well below two degrees. The IPCC assesses the science, and India has its National Action Plan on Climate Change." },
+        {
+          "lead": "Greenhouse effect and global warming.",
+          "text": "The greenhouse effect is the trapping of the Sun's heat by certain gases in the atmosphere, such as carbon dioxide, methane and nitrous oxide. This natural effect keeps the Earth warm enough for life. However, human activities like burning fossil fuels and cutting forests have sharply increased these greenhouse gases, trapping more heat and raising the average temperature of the Earth, a process called global warming."
+        },
+        {
+          "lead": "Effects.",
+          "text": "It melts glaciers and raises sea levels, causes more heatwaves, floods and droughts, disturbs the monsoon, and harms crops, coral reefs and biodiversity."
+        },
+        {
+          "lead": "Global efforts.",
+          "text": "Countries have responded through the UN Framework Convention on Climate Change, the Kyoto Protocol, which set binding targets for developed nations, and the Paris Agreement of 2015, which seeks to keep warming well below two degrees. The IPCC assesses the science, and India has its National Action Plan on Climate Change."
+        },
         "Thus tackling global warming needs both global cooperation and national action."
+      ]
+    },
+    {
+      "q": "What are the major consequences of global warming for the planet?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Global warming",
+          "text": "is the rise in the earth's average temperature caused by the build-up of greenhouse gases, and its consequences are far-reaching."
+        },
+        {
+          "list": [
+            "Melting of glaciers and polar ice raises sea levels, threatening to submerge low-lying coasts and islands",
+            "Changes in rainfall bring more droughts, floods and extreme weather"
+          ]
+        },
+        {
+          "lead": "Life is affected widely.",
+          "text": "Ecosystems and people both suffer."
+        },
+        {
+          "list": [
+            "Shifting climate zones disturb crops, water supply and the survival of many species",
+            "Warming seas and changing habitats threaten biodiversity, food security and human health"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What is ozone depletion, and how have nations acted to control it?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The ozone layer",
+          "text": "in the upper atmosphere shields the earth from the sun's harmful ultraviolet rays, but it is being depleted."
+        },
+        {
+          "list": [
+            "Chemicals called chlorofluorocarbons (CFCs), once used in refrigerators, air conditioners and sprays, break down ozone",
+            "A large 'hole' in the ozone layer was found over Antarctica"
+          ]
+        },
+        {
+          "lead": "Nations acted together.",
+          "text": "It is a rare success of global cooperation."
+        },
+        {
+          "list": [
+            "The Montreal Protocol committed countries to phase out CFCs and other ozone-depleting substances",
+            "As a result, the release of these chemicals has fallen and the ozone layer is slowly recovering"
+          ]
+        }
       ]
     }
   ]

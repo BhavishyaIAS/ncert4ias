@@ -7,10 +7,73 @@
       "word_limit": 150,
       "answer": [
         "Puppetry is an ancient folk art of India that tells stories from the epics and legends, and it exists in four main types.",
-        { "lead": "String puppets.", "text": "These are marionettes worked by strings from above. The best known are the Kathputli of Rajasthan, along with Kundhei of Odisha and Bommalattam of Tamil Nadu." },
-        { "lead": "Shadow puppets.", "text": "These are flat leather figures held against a lit screen, so the audience sees their shadows. Examples are Tholu Bommalata of Andhra Pradesh and Ravanachhaya of Odisha." },
-        { "lead": "Rod and glove puppets.", "text": "Rod puppets, such as the Putul Nautch of Bengal, are supported and moved by rods from below. Glove or hand puppets, worn on the hand like the Pavakoothu of Kerala, are moved by the fingers." },
+        {
+          "lead": "String puppets.",
+          "text": "These are marionettes worked by strings from above. The best known are the Kathputli of Rajasthan, along with Kundhei of Odisha and Bommalattam of Tamil Nadu."
+        },
+        {
+          "lead": "Shadow puppets.",
+          "text": "These are flat leather figures held against a lit screen, so the audience sees their shadows. Examples are Tholu Bommalata of Andhra Pradesh and Ravanachhaya of Odisha."
+        },
+        {
+          "lead": "Rod and glove puppets.",
+          "text": "Rod puppets, such as the Putul Nautch of Bengal, are supported and moved by rods from below. Glove or hand puppets, worn on the hand like the Pavakoothu of Kerala, are moved by the fingers."
+        },
         "Combining craft, music and storytelling, these forms preserve regional folklore."
+      ]
+    },
+    {
+      "q": "How does puppetry serve as both entertainment and a means of storytelling in India?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Puppetry",
+          "text": "is one of India's oldest performing arts, using figures moved by the puppeteer to tell stories."
+        },
+        {
+          "list": [
+            "It entertains audiences of all ages at fairs, festivals and village gatherings",
+            "Its stories are often drawn from epics like the Ramayana and Mahabharata and from local legends"
+          ]
+        },
+        {
+          "lead": "It is also a teacher.",
+          "text": "Puppets carry culture and values."
+        },
+        {
+          "list": [
+            "Through simple, lively performances, it passes on myths, history and moral lessons to the people",
+            "It keeps alive regional tales, music and craft, making it a treasured folk tradition"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Describe the different types of puppets used in India and how they are worked.",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "India",
+          "text": "has four main types of traditional puppets, distinguished by how they are made and moved."
+        },
+        {
+          "list": [
+            "String puppets (marionettes), like the Kathputli of Rajasthan, are jointed dolls worked by strings from above",
+            "Shadow puppets, like Tholu Bommalata of Andhra, are flat leather figures whose shadows fall on a lit screen"
+          ]
+        },
+        {
+          "lead": "Others are worn or held by hand.",
+          "text": "Each has its own skill."
+        },
+        {
+          "list": [
+            "Rod puppets, like those of West Bengal, are supported and moved by rods from below",
+            "Glove puppets fit over the hand and are moved by the fingers, as in Kerala's Pavakathakali"
+          ]
+        }
       ]
     }
   ]

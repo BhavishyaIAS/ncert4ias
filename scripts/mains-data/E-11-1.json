@@ -7,10 +7,77 @@
       "word_limit": 150,
       "answer": [
         "At Independence in 1947 India inherited a weak, backward and stagnant economy, shaped by nearly two centuries of colonial rule that served British rather than Indian interests.",
-        { "lead": "Agriculture.", "text": "Agriculture, on which most people depended, was stagnant and backward, suffering from oppressive land settlements like the zamindari system, low investment and the forced growing of cash crops for export. Productivity was low and famines were common." },
-        { "lead": "Industry and trade.", "text": "British policy had deindustrialised the country, ruining its famous handicrafts through cheap imports, while modern industry remained small and narrow. India exported raw materials and imported finished goods, and its large export surplus drained wealth to Britain." },
-        { "lead": "Society and infrastructure.", "text": "Literacy was only about sixteen per cent, life expectancy around thirty-two years, and infrastructure such as railways had been built mainly to serve colonial needs." },
+        {
+          "lead": "Agriculture.",
+          "text": "Agriculture, on which most people depended, was stagnant and backward, suffering from oppressive land settlements like the zamindari system, low investment and the forced growing of cash crops for export. Productivity was low and famines were common."
+        },
+        {
+          "lead": "Industry and trade.",
+          "text": "British policy had deindustrialised the country, ruining its famous handicrafts through cheap imports, while modern industry remained small and narrow. India exported raw materials and imported finished goods, and its large export surplus drained wealth to Britain."
+        },
+        {
+          "lead": "Society and infrastructure.",
+          "text": "Literacy was only about sixteen per cent, life expectancy around thirty-two years, and infrastructure such as railways had been built mainly to serve colonial needs."
+        },
         "Thus India began its independent journey with a fragile and lopsided economy."
+      ]
+    },
+    {
+      "q": "How did colonial policies affect the agricultural and industrial sectors of India before Independence?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "British colonial rule",
+          "text": "shaped the Indian economy to serve Britain's interests, leaving both farming and industry weak at Independence."
+        },
+        {
+          "lead": "Agriculture",
+          "text": "stagnated under colonial policy."
+        },
+        {
+          "list": [
+            "Heavy land revenue and the zamindari system left peasants poor and unable to invest",
+            "Farmers were pushed to grow commercial crops for export rather than food, and productivity stayed low"
+          ]
+        },
+        {
+          "lead": "Industry was deliberately held back.",
+          "text": "India became a market and a supplier."
+        },
+        {
+          "list": [
+            "British goods ruined India's famous handicrafts, causing de-industrialisation",
+            "Modern industry was limited and controlled by British capital, so India exported raw materials and imported finished goods"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What was the state of India's demographic and occupational structure at Independence?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "At Independence,",
+          "text": "India's population and its pattern of work reflected an underdeveloped, colonial economy."
+        },
+        {
+          "list": [
+            "The birth and death rates were both very high, life expectancy was low (around 32 years), and literacy was under 20 per cent",
+            "Infant mortality was very high, showing poor health and living conditions"
+          ]
+        },
+        {
+          "lead": "The occupational structure",
+          "text": "was heavily lopsided."
+        },
+        {
+          "list": [
+            "The great majority — about 70 to 75 per cent — depended on agriculture, which was low-yielding",
+            "Industry and services employed few, and there was little movement of workers into more productive sectors"
+          ]
+        }
       ]
     }
   ]

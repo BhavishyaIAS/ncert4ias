@@ -6,10 +6,74 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "The technique.", "text": "Indian bronze images were cast by the lost-wax process, known as cire perdue. A model was first made in wax, coated with clay, and then heated so the wax flowed out, leaving a hollow mould into which molten metal was poured. This tradition began as early as the Dancing Girl of the Indus Valley and continued for thousands of years." },
-        { "lead": "Chola achievement.", "text": "The finest Indian bronzes were made under the Cholas of Tamil Nadu. Their images are admired for grace, balance and lifelike modelling, and were carried in temple processions." },
-        { "lead": "The Nataraja.", "text": "The most celebrated is the Nataraja, Shiva as the Lord of Dance, shown in the vigorous ananda tandava pose within a ring of flames, holding a drum and fire, and trampling the dwarf Apasmara, who stands for ignorance. It symbolises the cosmic rhythm of creation and destruction." },
+        {
+          "lead": "The technique.",
+          "text": "Indian bronze images were cast by the lost-wax process, known as cire perdue. A model was first made in wax, coated with clay, and then heated so the wax flowed out, leaving a hollow mould into which molten metal was poured. This tradition began as early as the Dancing Girl of the Indus Valley and continued for thousands of years."
+        },
+        {
+          "lead": "Chola achievement.",
+          "text": "The finest Indian bronzes were made under the Cholas of Tamil Nadu. Their images are admired for grace, balance and lifelike modelling, and were carried in temple processions."
+        },
+        {
+          "lead": "The Nataraja.",
+          "text": "The most celebrated is the Nataraja, Shiva as the Lord of Dance, shown in the vigorous ananda tandava pose within a ring of flames, holding a drum and fire, and trampling the dwarf Apasmara, who stands for ignorance. It symbolises the cosmic rhythm of creation and destruction."
+        },
         "Thus Chola bronzes represent the peak of this art."
+      ]
+    },
+    {
+      "q": "How does the Chola Nataraja bronze express religious ideas through art?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Nataraja",
+          "text": "shows Shiva as the Lord of Dance, and it is a masterpiece in which every element carries meaning."
+        },
+        {
+          "list": [
+            "The dance within a ring of flames represents the cosmos and the endless cycle of creation and destruction",
+            "The drum in one hand stands for the sound of creation; the fire in another for destruction",
+            "One hand is raised in protection, and a foot is lifted to promise release to the devotee"
+          ]
+        },
+        {
+          "lead": "It unites art and philosophy.",
+          "text": "The graceful, balanced figure embodies deep ideas."
+        },
+        {
+          "list": [
+            "The dwarf under Shiva's foot is ignorance being crushed",
+            "The whole image turns a religious idea into perfect, moving sculpture"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How was the lost-wax technique used to cast bronze images in South India?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "South Indian bronzes,",
+          "text": "especially under the Cholas, were made by the difficult and skilful lost-wax (cire perdue) method."
+        },
+        {
+          "list": [
+            "The artist first made a detailed model of the image in wax",
+            "This was covered with clay and left to dry, with small openings left in the mould"
+          ]
+        },
+        {
+          "lead": "Then the metal replaced the wax.",
+          "text": "The process required great care."
+        },
+        {
+          "list": [
+            "The mould was heated so the wax melted and flowed out, leaving a hollow",
+            "Molten bronze was poured in to fill the space; when cool, the clay was broken to reveal the image, which was then finished and polished"
+          ]
+        }
       ]
     }
   ]

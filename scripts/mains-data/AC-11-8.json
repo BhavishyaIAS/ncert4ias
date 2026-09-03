@@ -7,10 +7,73 @@
       "word_limit": 150,
       "answer": [
         "Indo-Islamic architecture, which developed from the thirteenth century, blended Islamic forms with Indian building traditions and craftsmanship.",
-        { "lead": "Structural features.", "text": "Its hallmark features are the true arch and the dome, along with tall minarets. Domes were raised over square halls using devices such as squinches. Gardens laid out in a four-part plan, called the charbagh, often surrounded tombs." },
-        { "lead": "Decoration.", "text": "Since Islamic tradition avoided depicting living beings, decoration relied on calligraphy of Quranic verses, geometric patterns and floral arabesque designs. Craftsmen used marble and sandstone, delicate lattice screens called jaali, and stone inlay known as pietra dura." },
-        { "lead": "Building types.", "text": "The main structures were mosques with a courtyard and a prayer hall, tombs set in gardens, forts, palaces and gateways." },
+        {
+          "lead": "Structural features.",
+          "text": "Its hallmark features are the true arch and the dome, along with tall minarets. Domes were raised over square halls using devices such as squinches. Gardens laid out in a four-part plan, called the charbagh, often surrounded tombs."
+        },
+        {
+          "lead": "Decoration.",
+          "text": "Since Islamic tradition avoided depicting living beings, decoration relied on calligraphy of Quranic verses, geometric patterns and floral arabesque designs. Craftsmen used marble and sandstone, delicate lattice screens called jaali, and stone inlay known as pietra dura."
+        },
+        {
+          "lead": "Building types.",
+          "text": "The main structures were mosques with a courtyard and a prayer hall, tombs set in gardens, forts, palaces and gateways."
+        },
         "The Qutub Minar, Fatehpur Sikri and the Taj Mahal show these features at their finest."
+      ]
+    },
+    {
+      "q": "How did Indo-Islamic architecture blend Persian and Indian traditions?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Indo-Islamic architecture",
+          "text": "grew from the meeting of Persian and Central Asian forms with Indian craftsmanship and materials."
+        },
+        {
+          "list": [
+            "From the Islamic tradition came the arch, the dome, the minaret and the use of calligraphy and geometric and floral designs",
+            "From Indian tradition came skilled stone-carving, local materials, and decorative motifs like the lotus"
+          ]
+        },
+        {
+          "lead": "The blend produced new forms.",
+          "text": "The two traditions enriched each other."
+        },
+        {
+          "list": [
+            "Mosques, tombs, forts and palaces combined the arch and dome with Indian ornament",
+            "Buildings like the Qutb Minar and later Mughal monuments show this fusion, culminating in the Taj Mahal"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What were the main types of buildings in Indo-Islamic architecture, and what purposes did they serve?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Indo-Islamic architecture",
+          "text": "produced several distinct kinds of buildings, each serving a purpose in religious and public life."
+        },
+        {
+          "list": [
+            "Mosques were places of congregational prayer, with a courtyard, a prayer hall and a niche facing Mecca",
+            "Tombs, set in gardens, honoured rulers and saints, and could be grand monuments like Humayun's Tomb"
+          ]
+        },
+        {
+          "lead": "Secular buildings",
+          "text": "served the state and the people."
+        },
+        {
+          "list": [
+            "Forts and palaces housed rulers and defended cities, like the Red Fort and Fatehpur Sikri",
+            "Public works included gateways, stepwells, sarais (rest houses) and gardens laid out in the four-part char-bagh plan"
+          ]
+        }
       ]
     }
   ]

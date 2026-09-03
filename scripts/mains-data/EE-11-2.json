@@ -6,10 +6,77 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "Ecological succession is the gradual and orderly process by which the community of species in an area changes over time, one community replacing another, until a stable and self-sustaining community called the climax community is reached, such as a mature forest." },
-        { "lead": "Primary succession.", "text": "Primary succession begins on a bare, lifeless surface where no soil exists, such as newly cooled lava, bare rock or a new island. It starts with hardy pioneer species like lichens and mosses, which slowly build soil, and it takes a very long time to reach the climax stage." },
-        { "lead": "Secondary succession.", "text": "Secondary succession takes place on land that has been disturbed by fire, flood or clearing, but where soil and some life still remain. Because the soil is already present, it proceeds much faster than primary succession." },
+        {
+          "lead": "Meaning.",
+          "text": "Ecological succession is the gradual and orderly process by which the community of species in an area changes over time, one community replacing another, until a stable and self-sustaining community called the climax community is reached, such as a mature forest."
+        },
+        {
+          "lead": "Primary succession.",
+          "text": "Primary succession begins on a bare, lifeless surface where no soil exists, such as newly cooled lava, bare rock or a new island. It starts with hardy pioneer species like lichens and mosses, which slowly build soil, and it takes a very long time to reach the climax stage."
+        },
+        {
+          "lead": "Secondary succession.",
+          "text": "Secondary succession takes place on land that has been disturbed by fire, flood or clearing, but where soil and some life still remain. Because the soil is already present, it proceeds much faster than primary succession."
+        },
         "Thus both lead to a climax community, but primary succession starts from bare rock and is slow, while secondary succession starts on existing soil and is quicker."
+      ]
+    },
+    {
+      "q": "What is a climax community, and why is it considered a stable stage of succession?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Ecological succession",
+          "text": "is the orderly change of communities in an area over time, and it ends in a climax community."
+        },
+        {
+          "list": [
+            "Succession proceeds through stages (seral stages), each changing the environment for the next",
+            "The final, self-sustaining community that develops is the climax community"
+          ]
+        },
+        {
+          "lead": "It is stable",
+          "text": "because it is in balance with the environment."
+        },
+        {
+          "list": [
+            "The climax community is in equilibrium with the climate and soil of the region and does not change further unless disturbed",
+            "It has a rich diversity of species and complex, stable food webs, making it resistant to change"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does hydrarch succession differ from xerarch succession?",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Succession",
+          "text": "can begin in very different environments, and two contrasting types are named by their starting conditions."
+        },
+        {
+          "lead": "Hydrarch succession",
+          "text": "begins in a water body."
+        },
+        {
+          "list": [
+            "It starts in a pond or lake and moves through stages towards a land (mesic) community",
+            "As sediment and dead matter fill the water, it gradually becomes drier"
+          ]
+        },
+        {
+          "lead": "Xerarch succession",
+          "text": "begins in a very dry area."
+        },
+        {
+          "list": [
+            "It starts on bare rock or in a desert with little water and moves towards a mesic community",
+            "Both hydrarch and xerarch succession tend towards the same balanced, moderate (mesic) climax"
+          ]
+        }
       ]
     }
   ]

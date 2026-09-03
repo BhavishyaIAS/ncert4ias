@@ -7,10 +7,74 @@
       "word_limit": 150,
       "answer": [
         "Prehistoric rock paintings are the earliest surviving art of India, found on the walls of caves and rock shelters.",
-        { "lead": "Themes.", "text": "The paintings mainly depict the life of early people. Common subjects are wild animals such as bison, elephants, tigers and deer, and lively scenes of hunting, dancing, food gathering and riding. Both human and animal figures are shown, often full of movement and energy." },
-        { "lead": "Techniques and colours.", "text": "The artists used natural mineral colours, chiefly red obtained from haematite, along with white, and sometimes green and yellow. Red and white were the most common. Brushes were made from plant fibre, and figures were sometimes drawn one over another over long periods." },
-        { "lead": "Main site.", "text": "The finest examples are at Bhimbetka in Madhya Pradesh, a World Heritage Site with hundreds of painted shelters." },
+        {
+          "lead": "Themes.",
+          "text": "The paintings mainly depict the life of early people. Common subjects are wild animals such as bison, elephants, tigers and deer, and lively scenes of hunting, dancing, food gathering and riding. Both human and animal figures are shown, often full of movement and energy."
+        },
+        {
+          "lead": "Techniques and colours.",
+          "text": "The artists used natural mineral colours, chiefly red obtained from haematite, along with white, and sometimes green and yellow. Red and white were the most common. Brushes were made from plant fibre, and figures were sometimes drawn one over another over long periods."
+        },
+        {
+          "lead": "Main site.",
+          "text": "The finest examples are at Bhimbetka in Madhya Pradesh, a World Heritage Site with hundreds of painted shelters."
+        },
         "These paintings give a vivid picture of early human life."
+      ]
+    },
+    {
+      "q": "What do prehistoric rock paintings tell us about the life and beliefs of early humans?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Rock paintings",
+          "text": "such as those at Bhimbetka are among our earliest records of human life, and they reveal much about prehistoric people."
+        },
+        {
+          "list": [
+            "Scenes of hunting, dancing and gathering show how early humans lived and got their food",
+            "Depictions of animals like bison, deer and elephants show the world around them and their close bond with nature",
+            "Group dances and rituals suggest an early social and possibly religious life"
+          ]
+        },
+        {
+          "lead": "They are valuable evidence",
+          "text": "because these people left no writing."
+        },
+        {
+          "list": [
+            "The paintings are our main window into their activities, imagination and beliefs",
+            "They show that the urge to create art is as old as humanity itself"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How were prehistoric rock paintings made, and why have they survived so long?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Prehistoric artists",
+          "text": "made their paintings with simple, natural materials and great skill."
+        },
+        {
+          "list": [
+            "They used natural colours (ochres) — red from haematite, white from limestone, and green and yellow from other minerals",
+            "Brushes were made from plant fibre, twigs and hair, and colours were mixed with animal fat or plant juice as a binder"
+          ]
+        },
+        {
+          "lead": "They have survived",
+          "text": "for thousands of years for a few reasons."
+        },
+        {
+          "list": [
+            "The paintings were made deep inside rock shelters and caves, protected from sun, wind and rain",
+            "The mineral colours soaked into the rock and are very durable, so the images remain visible even today"
+          ]
+        }
       ]
     }
   ]

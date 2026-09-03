@@ -6,10 +6,74 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "An index number is a statistical device that measures the relative change in a variable, or a group of variables, over time or between places. The value of the variable in a chosen base period is taken as one hundred, and changes are expressed in relation to it. For example, if the price index rises from 100 to 120, prices have gone up by twenty per cent." },
-        { "lead": "Main uses.", "text": "Index numbers have many important uses. The Consumer Price Index and the Wholesale Price Index measure changes in the cost of living and in prices, and so are used to calculate the rate of inflation. They help in adjusting wages, salaries and pensions through dearness allowance. The Index of Industrial Production measures changes in industrial output, and stock indices like the Sensex track share prices." },
-        { "lead": "Importance.", "text": "Because they reveal trends in the economy, index numbers are often called economic barometers, and they guide government policy." },
+        {
+          "lead": "Meaning.",
+          "text": "An index number is a statistical device that measures the relative change in a variable, or a group of variables, over time or between places. The value of the variable in a chosen base period is taken as one hundred, and changes are expressed in relation to it. For example, if the price index rises from 100 to 120, prices have gone up by twenty per cent."
+        },
+        {
+          "lead": "Main uses.",
+          "text": "Index numbers have many important uses. The Consumer Price Index and the Wholesale Price Index measure changes in the cost of living and in prices, and so are used to calculate the rate of inflation. They help in adjusting wages, salaries and pensions through dearness allowance. The Index of Industrial Production measures changes in industrial output, and stock indices like the Sensex track share prices."
+        },
+        {
+          "lead": "Importance.",
+          "text": "Because they reveal trends in the economy, index numbers are often called economic barometers, and they guide government policy."
+        },
         "Thus index numbers are a vital tool for measuring economic change."
+      ]
+    },
+    {
+      "q": "How is a consumer price index constructed, and what does it measure?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The consumer price index (CPI)",
+          "text": "measures the change in the general level of prices of goods and services bought by households over time."
+        },
+        {
+          "list": [
+            "A representative 'basket' of commonly used goods and services is selected",
+            "The prices of these items are collected in a base year and in the current year",
+            "Each item is given a weight according to its importance in spending"
+          ]
+        },
+        {
+          "lead": "It shows the cost of living.",
+          "text": "The index reveals inflation."
+        },
+        {
+          "list": [
+            "A rise in the index means prices, and the cost of living, have gone up",
+            "It is used to measure inflation and to adjust wages, pensions and allowances"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What are the main problems faced in constructing index numbers?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Index numbers",
+          "text": "are very useful but their construction faces several practical difficulties that affect their accuracy."
+        },
+        {
+          "list": [
+            "Choosing the base year is difficult — it should be a normal, stable year, not one of war, boom or slump",
+            "Selecting a representative basket of items is hard, as consumption patterns differ and change over time"
+          ]
+        },
+        {
+          "lead": "Weights and prices",
+          "text": "raise further problems."
+        },
+        {
+          "list": [
+            "Deciding the weight of each item and getting accurate, comparable prices is difficult",
+            "The quality of goods changes over time, and new goods appear, so the index can become out of date and needs revision"
+          ]
+        }
       ]
     }
   ]

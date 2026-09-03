@@ -7,10 +7,77 @@
       "word_limit": 150,
       "answer": [
         "A measure of central tendency is a single value that represents an entire set of data, and the three main measures are the mean, the median and the mode.",
-        { "lead": "Arithmetic mean.", "text": "The mean is found by adding all the values and dividing by their number. It uses every observation and is easy to compute, but it is strongly affected by extreme values, which can distort it." },
-        { "lead": "Median.", "text": "The median is the middle value when the data are arranged in order, so that half the values lie above and half below it. It is a positional average, is not affected by extreme values, and can be located graphically using an ogive." },
-        { "lead": "Mode.", "text": "The mode is the value that occurs most frequently. It is simple to understand and unaffected by extreme values, and is useful for qualitative data, but it may be ill-defined when there is no clear or single most frequent value." },
+        {
+          "lead": "Arithmetic mean.",
+          "text": "The mean is found by adding all the values and dividing by their number. It uses every observation and is easy to compute, but it is strongly affected by extreme values, which can distort it."
+        },
+        {
+          "lead": "Median.",
+          "text": "The median is the middle value when the data are arranged in order, so that half the values lie above and half below it. It is a positional average, is not affected by extreme values, and can be located graphically using an ogive."
+        },
+        {
+          "lead": "Mode.",
+          "text": "The mode is the value that occurs most frequently. It is simple to understand and unaffected by extreme values, and is useful for qualitative data, but it may be ill-defined when there is no clear or single most frequent value."
+        },
         "The three are related by the empirical formula, mode equals three times median minus twice the mean."
+      ]
+    },
+    {
+      "q": "What are the qualities of a good average, and why is no single average best for all situations?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "An average",
+          "text": "represents a whole set of data by a single value, and a good average should meet certain requirements."
+        },
+        {
+          "list": [
+            "It should be simple to understand and calculate",
+            "It should be based on all the observations and rigidly defined",
+            "It should not be unduly affected by extreme values and should be capable of further algebraic treatment"
+          ]
+        },
+        {
+          "lead": "No one average fits every case.",
+          "text": "Each has strengths and weaknesses."
+        },
+        {
+          "list": [
+            "The mean uses all data but is distorted by extreme values",
+            "The median and mode are not affected by extremes but ignore the actual values of most items, so the choice depends on the data and purpose"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "In what situations are the median and the mode more suitable than the mean?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Though the mean",
+          "text": "is the most common average, the median and mode are more suitable in particular situations."
+        },
+        {
+          "lead": "The median",
+          "text": "is better when the data have extreme values."
+        },
+        {
+          "list": [
+            "Because it is the middle value, it is not distorted by a few very large or very small figures — useful for incomes, where a few are very high",
+            "It can also be used for qualities that can be ranked but not measured exactly"
+          ]
+        },
+        {
+          "lead": "The mode",
+          "text": "is better when the most common value is wanted."
+        },
+        {
+          "list": [
+            "It shows the item that occurs most often — useful for a shopkeeper deciding the most-demanded size or brand"
+          ]
+        }
       ]
     }
   ]

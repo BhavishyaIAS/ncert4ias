@@ -7,10 +7,74 @@
       "word_limit": 150,
       "answer": [
         "Folk dances and music are the living arts of ordinary people, and they mirror the vast cultural diversity of India.",
-        { "lead": "Tied to life and season.", "text": "Unlike classical forms, folk arts grow out of the daily life of communities and are linked to seasons, harvests, festivals and rituals. The Bhangra of Punjab celebrates the harvest, the Garba of Gujarat marks Navratri, and the Bihu of Assam welcomes spring." },
-        { "lead": "Regional variety.", "text": "Almost every region has its own forms, such as Ghoomar and Kalbelia in Rajasthan, Lavani in Maharashtra, Chhau in eastern India, and Pandavani ballads in Chhattisgarh. Each uses its own dialect, costume and rhythm." },
-        { "lead": "Heritage value.", "text": "Passed down orally, these arts preserve community memory, and several, like Kalbelia, Chhau and Baul, are recognised by UNESCO as Intangible Cultural Heritage." },
+        {
+          "lead": "Tied to life and season.",
+          "text": "Unlike classical forms, folk arts grow out of the daily life of communities and are linked to seasons, harvests, festivals and rituals. The Bhangra of Punjab celebrates the harvest, the Garba of Gujarat marks Navratri, and the Bihu of Assam welcomes spring."
+        },
+        {
+          "lead": "Regional variety.",
+          "text": "Almost every region has its own forms, such as Ghoomar and Kalbelia in Rajasthan, Lavani in Maharashtra, Chhau in eastern India, and Pandavani ballads in Chhattisgarh. Each uses its own dialect, costume and rhythm."
+        },
+        {
+          "lead": "Heritage value.",
+          "text": "Passed down orally, these arts preserve community memory, and several, like Kalbelia, Chhau and Baul, are recognised by UNESCO as Intangible Cultural Heritage."
+        },
         "Thus folk arts express the plural and rooted identity of India."
+      ]
+    },
+    {
+      "q": "How do folk dances mark the seasons and events of community life in India?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Folk dances",
+          "text": "are the dances of ordinary people, performed at festivals, harvests and life's important occasions."
+        },
+        {
+          "list": [
+            "Bhangra and Giddha of Punjab celebrate the harvest with vigorous, joyful movement",
+            "Garba and Dandiya of Gujarat are danced during the festival of Navratri",
+            "Bihu of Assam marks the spring and the new agricultural season"
+          ]
+        },
+        {
+          "lead": "They bind the community.",
+          "text": "Everyone can take part."
+        },
+        {
+          "list": [
+            "Unlike classical dance, they need no long formal training and are danced in groups",
+            "They express shared joys and beliefs, keeping alive the traditions and identity of each region"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does folk music preserve the language and oral traditions of a region?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Folk music",
+          "text": "is the music of the common people, passed down by ear from one generation to the next, and it is a living store of tradition."
+        },
+        {
+          "list": [
+            "Its songs are in local dialects and languages, keeping them alive and in use",
+            "Ballads and story-songs preserve local history, legends and the memory of heroes"
+          ]
+        },
+        {
+          "lead": "It carries a community's life.",
+          "text": "Every occasion has its song."
+        },
+        {
+          "list": [
+            "There are songs for birth, marriage, harvest, festivals and worship",
+            "Because it is oral, folk music preserves customs, values and knowledge that were never written down"
+          ]
+        }
       ]
     }
   ]

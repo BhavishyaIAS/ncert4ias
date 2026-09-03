@@ -7,10 +7,73 @@
       "word_limit": 150,
       "answer": [
         "The murals of the Ajanta caves in Maharashtra are the finest surviving ancient paintings of India and a milestone in its art.",
-        { "lead": "Subject matter.", "text": "Painted on the walls and ceilings of these Buddhist rock-cut caves, the murals depict the life of the Buddha and the Jataka stories of his previous births. Among the most famous figures are the Bodhisattvas Padmapani and Vajrapani, shown with serene grace." },
-        { "lead": "Technique and style.", "text": "The paintings were done in the tempera technique, using natural colours on a prepared plaster ground. The artists achieved soft shading, volume and lifelike expression, so that the figures seem full of emotion and movement." },
-        { "lead": "Significance.", "text": "Recognised as a World Heritage Site, Ajanta set the standard for later Indian mural painting and influenced art across Asia." },
+        {
+          "lead": "Subject matter.",
+          "text": "Painted on the walls and ceilings of these Buddhist rock-cut caves, the murals depict the life of the Buddha and the Jataka stories of his previous births. Among the most famous figures are the Bodhisattvas Padmapani and Vajrapani, shown with serene grace."
+        },
+        {
+          "lead": "Technique and style.",
+          "text": "The paintings were done in the tempera technique, using natural colours on a prepared plaster ground. The artists achieved soft shading, volume and lifelike expression, so that the figures seem full of emotion and movement."
+        },
+        {
+          "lead": "Significance.",
+          "text": "Recognised as a World Heritage Site, Ajanta set the standard for later Indian mural painting and influenced art across Asia."
+        },
         "Thus Ajanta remains the crowning achievement of early Indian painting."
+      ]
+    },
+    {
+      "q": "What are the themes and techniques of the Ajanta cave paintings?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Ajanta caves",
+          "text": "in Maharashtra hold the finest surviving murals of ancient India, painted over several centuries by Buddhist monks and artists."
+        },
+        {
+          "list": [
+            "The themes are mainly the life of the Buddha and stories of his previous births, the Jataka tales",
+            "The paintings also show courtly life, processions, animals and nature in rich detail"
+          ]
+        },
+        {
+          "lead": "The technique was demanding.",
+          "text": "These are not frescoes on wet plaster."
+        },
+        {
+          "list": [
+            "The rock was coated with plaster, and colours from minerals and plants were applied when it was dry (tempera)",
+            "The artists used shading and line to give figures roundness, emotion and grace"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why are the Ellora caves considered a unique achievement in Indian art?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Ellora caves",
+          "text": "near Ajanta are remarkable for their scale and for bringing three religions together in one place."
+        },
+        {
+          "list": [
+            "They contain Buddhist, Hindu and Jain caves side by side, showing religious harmony and shared patronage",
+            "They were carved over several centuries by different dynasties"
+          ]
+        },
+        {
+          "lead": "The Kailasa temple",
+          "text": "is their crowning glory."
+        },
+        {
+          "list": [
+            "It is a huge temple carved out of a single rock from the top downward, not built with blocks",
+            "This astonishing feat of engineering and sculpture makes Ellora one of the wonders of world art"
+          ]
+        }
       ]
     }
   ]

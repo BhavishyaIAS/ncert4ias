@@ -6,10 +6,84 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "Correlation is a statistical measure of the degree of association or relationship between two variables. It tells us whether, and how closely, the two variables move together, such as price and demand or rainfall and crop yield. It is important to note that correlation shows association, not necessarily cause and effect." },
-        { "lead": "Positive and negative.", "text": "Correlation is positive when the two variables move in the same direction, both rising or both falling together, as with income and consumption. It is negative when they move in opposite directions, one rising as the other falls, as with the price of a good and its demand." },
-        { "lead": "Measurement.", "text": "Correlation can be studied visually through a scatter diagram, which plots pairs of values. It is measured numerically by Karl Pearson's coefficient of correlation, denoted r, which ranges from minus one for perfect negative to plus one for perfect positive, with zero meaning no correlation. For ranked data, Spearman's rank correlation is used." },
+        {
+          "lead": "Meaning.",
+          "text": "Correlation is a statistical measure of the degree of association or relationship between two variables. It tells us whether, and how closely, the two variables move together, such as price and demand or rainfall and crop yield. It is important to note that correlation shows association, not necessarily cause and effect."
+        },
+        {
+          "lead": "Positive and negative.",
+          "text": "Correlation is positive when the two variables move in the same direction, both rising or both falling together, as with income and consumption. It is negative when they move in opposite directions, one rising as the other falls, as with the price of a good and its demand."
+        },
+        {
+          "lead": "Measurement.",
+          "text": "Correlation can be studied visually through a scatter diagram, which plots pairs of values. It is measured numerically by Karl Pearson's coefficient of correlation, denoted r, which ranges from minus one for perfect negative to plus one for perfect positive, with zero meaning no correlation. For ranked data, Spearman's rank correlation is used."
+        },
         "Thus correlation reveals the strength and direction of the link between variables."
+      ]
+    },
+    {
+      "q": "Why is the study of correlation important in economics?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Correlation",
+          "text": "measures the degree to which two variables move together, and it is very useful in economics."
+        },
+        {
+          "list": [
+            "It reveals whether and how strongly two things — like price and demand, or income and consumption — are related",
+            "This helps economists understand relationships that shape the economy"
+          ]
+        },
+        {
+          "lead": "It aids prediction and policy.",
+          "text": "Known relationships can be used."
+        },
+        {
+          "list": [
+            "If two variables are correlated, the value of one can help estimate the other",
+            "It supports decision-making, though correlation only shows association, not that one variable causes the other"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between positive, negative and zero correlation, with examples.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Correlation",
+          "text": "between two variables can be positive, negative or zero, depending on how they move in relation to each other."
+        },
+        {
+          "lead": "Positive correlation",
+          "text": "means they move in the same direction."
+        },
+        {
+          "list": [
+            "As one rises the other rises too — as household income rises, so does consumption"
+          ]
+        },
+        {
+          "lead": "Negative correlation",
+          "text": "means they move in opposite directions."
+        },
+        {
+          "list": [
+            "As one rises the other falls — as the price of a good rises, its demand falls"
+          ]
+        },
+        {
+          "lead": "Zero correlation",
+          "text": "means no relationship."
+        },
+        {
+          "list": [
+            "The two vary independently, with no consistent pattern between them"
+          ]
+        }
       ]
     }
   ]

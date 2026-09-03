@@ -6,10 +6,74 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Meaning.", "text": "Statistics is the study of the collection, organisation, presentation, analysis and interpretation of numerical data. In the plural sense the word refers to the data or numerical facts themselves, while in the singular sense it refers to the methods and science of handling such data." },
-        { "lead": "Use in economics.", "text": "Economics studies how people and societies use their scarce resources to satisfy unlimited wants, through activities such as consumption, production, distribution and exchange. Statistics provides the quantitative facts needed to understand these activities. It helps economists grasp the nature of economic problems such as poverty and unemployment, make comparisons across regions and time, find relationships between variables like price and demand, forecast future trends, and frame sound economic policies." },
-        { "lead": "Limitation.", "text": "It should be remembered that statistics deals only with numerical facts and with aggregates, not with individual cases or qualities." },
+        {
+          "lead": "Meaning.",
+          "text": "Statistics is the study of the collection, organisation, presentation, analysis and interpretation of numerical data. In the plural sense the word refers to the data or numerical facts themselves, while in the singular sense it refers to the methods and science of handling such data."
+        },
+        {
+          "lead": "Use in economics.",
+          "text": "Economics studies how people and societies use their scarce resources to satisfy unlimited wants, through activities such as consumption, production, distribution and exchange. Statistics provides the quantitative facts needed to understand these activities. It helps economists grasp the nature of economic problems such as poverty and unemployment, make comparisons across regions and time, find relationships between variables like price and demand, forecast future trends, and frame sound economic policies."
+        },
+        {
+          "lead": "Limitation.",
+          "text": "It should be remembered that statistics deals only with numerical facts and with aggregates, not with individual cases or qualities."
+        },
         "Thus statistics is an essential tool for studying and solving economic problems."
+      ]
+    },
+    {
+      "q": "What are the main functions of statistics in economics?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Statistics",
+          "text": "is the study of the collection, organisation, analysis and interpretation of numerical data, and it serves several functions in economics."
+        },
+        {
+          "list": [
+            "It presents facts in a definite, measurable form, replacing vague statements with precise figures",
+            "It condenses large masses of data into a few understandable measures like averages",
+            "It helps compare figures across time, regions or groups"
+          ]
+        },
+        {
+          "lead": "It also aids understanding and policy.",
+          "text": "Numbers guide decisions."
+        },
+        {
+          "list": [
+            "It reveals relationships between variables, such as price and demand",
+            "It helps forecast future trends and frame and evaluate economic policy"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What are the limitations of statistics that a student of economics should keep in mind?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Useful as it is,",
+          "text": "statistics has important limitations that must be understood to avoid misuse."
+        },
+        {
+          "list": [
+            "It studies only quantitative facts (numbers); it cannot directly measure qualities like honesty or beauty",
+            "It deals with groups and averages, not with a single individual case"
+          ]
+        },
+        {
+          "lead": "Results can mislead.",
+          "text": "Data must be handled with care."
+        },
+        {
+          "list": [
+            "Statistical conclusions are true only on average and can hide wide variation",
+            "Figures can be manipulated or misinterpreted, so statistics must be collected and used honestly and by those who understand it"
+          ]
+        }
       ]
     }
   ]
