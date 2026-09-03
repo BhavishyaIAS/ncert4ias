@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Colonialism is the control and exploitation of one country by another for the benefit of the ruling nation. Over time the British turned India from a trading partner into a colony run for Britain's gain.",
-        { "lead": "Drain of wealth.", "text": "India's resources flowed to Britain through revenue, trade and the salaries of officials — what Dadabhai Naoroji called the drain of wealth." },
-        { "lead": "De-industrialisation.", "text": "Cheap British machine-made goods, especially textiles, flooded India and ruined its handicrafts, so that India became a supplier of raw materials and a market for British products." },
-        { "lead": "Agriculture and famine.", "text": "Peasants were forced to grow cash crops such as indigo and cotton, and recurring famines killed millions. Railways and ports were built mainly to serve British trade." }
+        {
+          "lead": "Drain of wealth.",
+          "text": "India's resources flowed to Britain through revenue, trade and the salaries of officials — what Dadabhai Naoroji called the drain of wealth."
+        },
+        {
+          "lead": "De-industrialisation.",
+          "text": "Cheap British machine-made goods, especially textiles, flooded India and ruined its handicrafts, so that India became a supplier of raw materials and a market for British products."
+        },
+        {
+          "lead": "Agriculture and famine.",
+          "text": "Peasants were forced to grow cash crops such as indigo and cotton, and recurring famines killed millions. Railways and ports were built mainly to serve British trade."
+        }
       ]
     },
     {
@@ -18,10 +27,41 @@
       "word_limit": 150,
       "answer": [
         "Colonial exploitation provoked resistance that grew over time into a national struggle.",
-        { "lead": "Early revolts.", "text": "Tribal and peasant uprisings, and above all the Revolt of 1857, showed deep discontent, though they were suppressed." },
-        { "lead": "A new leadership.", "text": "Western education, law and administration created a new middle class that became aware of colonial injustice. In 1885 the Indian National Congress was founded to voice Indian demands." },
-        { "lead": "The national movement.", "text": "Under leaders like Gandhi, the movement grew into mass struggles for self-rule, uniting millions across the country. This sustained resistance finally won India its independence in 1947." },
+        {
+          "lead": "Early revolts.",
+          "text": "Tribal and peasant uprisings, and above all the Revolt of 1857, showed deep discontent, though they were suppressed."
+        },
+        {
+          "lead": "A new leadership.",
+          "text": "Western education, law and administration created a new middle class that became aware of colonial injustice. In 1885 the Indian National Congress was founded to voice Indian demands."
+        },
+        {
+          "lead": "The national movement.",
+          "text": "Under leaders like Gandhi, the movement grew into mass struggles for self-rule, uniting millions across the country. This sustained resistance finally won India its independence in 1947."
+        },
         "Thus colonial exploitation itself gave rise to the forces that ended colonial rule."
+      ]
+    },
+    {
+      "q": "How did colonial economic policies affect Indian crafts, trade and agriculture?",
+      "directive": "Analyse",
+      "word_limit": 160,
+      "answer": [
+        {
+          "lead": "Colonialism reordered India's economy",
+          "text": "to serve Britain — India became a supplier of raw materials and a market for British manufactures."
+        },
+        {
+          "list": [
+            "Cheap machine-made British cloth flooded the market, ruining weavers and artisans and 'de-industrialising' towns",
+            "Peasants were pushed to grow commercial crops like indigo, cotton and opium for export rather than food",
+            "Heavy land revenue demands and the drain of wealth to Britain left the countryside impoverished, worsening famines"
+          ]
+        },
+        {
+          "lead": "The overall result",
+          "text": "was that a once self-sufficient economy was reshaped into a dependent, agrarian supplier — enriching Britain while deepening Indian poverty."
+        }
       ]
     }
   ]

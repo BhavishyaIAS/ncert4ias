@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Public facilities are the essential services needed by the whole community, such as water, electricity, sanitation, public transport, schools and healthcare.",
-        { "lead": "Basic to life.", "text": "They are basic to leading a decent life and are needed in large amounts by many people together. Access to safe drinking water, for instance, has been recognised by the courts as part of the Right to Life under Article 21." },
-        { "lead": "Why the government.", "text": "Because private companies work for profit, they may not provide these services to those who cannot pay, leaving out the poor. The government, funded by taxes, is expected to provide public facilities to everyone equally, so that even the poorest have access." },
+        {
+          "lead": "Basic to life.",
+          "text": "They are basic to leading a decent life and are needed in large amounts by many people together. Access to safe drinking water, for instance, has been recognised by the courts as part of the Right to Life under Article 21."
+        },
+        {
+          "lead": "Why the government.",
+          "text": "Because private companies work for profit, they may not provide these services to those who cannot pay, leaving out the poor. The government, funded by taxes, is expected to provide public facilities to everyone equally, so that even the poorest have access."
+        },
         "This makes the government's role in supplying public facilities essential to fairness and dignity."
       ]
     },
@@ -17,9 +23,69 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Unequal access.", "text": "Although public facilities are meant for everyone, access is often unequal in practice. Well-off neighbourhoods usually receive regular piped water, reliable electricity and good sanitation, while poor areas may depend on water tankers, distant taps or have no proper drainage at all." },
-        { "lead": "Concerns about privatisation.", "text": "Some services are being handed over to private companies, which aim to make a profit and therefore charge higher prices. This raises the worry that essential facilities like water may become unaffordable for the poor, defeating the purpose of providing them to all." },
-        { "lead": "The balance.", "text": "The challenge is to ensure that everyone, rich or poor, gets fair and affordable access to these basic services." }
+        {
+          "lead": "Unequal access.",
+          "text": "Although public facilities are meant for everyone, access is often unequal in practice. Well-off neighbourhoods usually receive regular piped water, reliable electricity and good sanitation, while poor areas may depend on water tankers, distant taps or have no proper drainage at all."
+        },
+        {
+          "lead": "Concerns about privatisation.",
+          "text": "Some services are being handed over to private companies, which aim to make a profit and therefore charge higher prices. This raises the worry that essential facilities like water may become unaffordable for the poor, defeating the purpose of providing them to all."
+        },
+        {
+          "lead": "The balance.",
+          "text": "The challenge is to ensure that everyone, rich or poor, gets fair and affordable access to these basic services."
+        }
+      ]
+    },
+    {
+      "q": "Why is water considered a public facility that the government must provide, and what happens when it is scarce?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Water is essential to life,",
+          "text": "and the Constitution recognises the right to water as part of the right to life, so providing safe water is a duty of the government."
+        },
+        {
+          "list": [
+            "As a public facility, water benefits everyone and cannot be left only to those who can pay",
+            "When supply is scarce or unequal, poorer localities often get less and lower-quality water",
+            "The rich can buy bottled water or install private supply, while the poor suffer shortages and disease"
+          ]
+        },
+        {
+          "lead": "Government provision",
+          "text": "aims to ensure that access to a basic necessity does not depend on income, upholding equality."
+        }
+      ]
+    },
+    {
+      "q": "What are the arguments for and against the privatisation of public facilities like water?",
+      "directive": "Evaluate",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Privatisation",
+          "text": "means handing the provision of a public facility to private companies, and it is debated."
+        },
+        {
+          "lead": "Arguments in favour:",
+          "text": "private firms may improve efficiency, reduce waste and expand supply where the government has failed."
+        },
+        {
+          "lead": "Arguments against:",
+          "text": "profit-driven pricing can put facilities beyond the reach of the poor."
+        },
+        {
+          "list": [
+            "Where water supply was privatised and prices rose sharply, people protested and it was reversed",
+            "Basic necessities like water are best kept a public responsibility so that access stays universal"
+          ]
+        },
+        {
+          "lead": "The balance",
+          "text": "usually favours government provision of essential public facilities."
+        }
       ]
     }
   ]

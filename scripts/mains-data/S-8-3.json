@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Fossil fuels — coal, petroleum and natural gas — are formed from the dead remains of ancient plants and animals buried and compressed over millions of years. They are exhaustible and non-renewable.",
-        { "lead": "Coal.", "text": "Coal formed from dead vegetation through a slow process called carbonisation. When processed, it yields several useful products." },
-        { "lead": "Coke.", "text": "A tough, almost pure form of carbon, used in the making of steel and in extracting metals from their ores." },
-        { "lead": "Coal tar.", "text": "A black, thick liquid that is the raw material for dyes, drugs, explosives, paints, plastics and perfumes." },
-        { "lead": "Coal gas.", "text": "Obtained during the processing of coal, it is used as a fuel." }
+        {
+          "lead": "Coal.",
+          "text": "Coal formed from dead vegetation through a slow process called carbonisation. When processed, it yields several useful products."
+        },
+        {
+          "lead": "Coke.",
+          "text": "A tough, almost pure form of carbon, used in the making of steel and in extracting metals from their ores."
+        },
+        {
+          "lead": "Coal tar.",
+          "text": "A black, thick liquid that is the raw material for dyes, drugs, explosives, paints, plastics and perfumes."
+        },
+        {
+          "lead": "Coal gas.",
+          "text": "Obtained during the processing of coal, it is used as a fuel."
+        }
       ]
     },
     {
@@ -18,8 +30,66 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Petroleum and refining.", "text": "Petroleum, formed from the remains of tiny sea organisms and called black gold, is a mixture of many substances. It is separated in a refinery by fractional distillation, which yields petroleum gas or LPG, petrol, diesel, kerosene, lubricating oil, paraffin wax and bitumen for roads. Natural gas, a clean fuel stored as CNG, is also obtained." },
-        { "lead": "Conservation.", "text": "Because fossil fuels are limited and their burning pollutes the air and warms the planet, they must be conserved. The Petroleum Conservation Research Association advises driving at a steady speed, switching off engines at signals, maintaining vehicles and using public transport, while shifting where possible to renewable energy." }
+        {
+          "lead": "Petroleum and refining.",
+          "text": "Petroleum, formed from the remains of tiny sea organisms and called black gold, is a mixture of many substances. It is separated in a refinery by fractional distillation, which yields petroleum gas or LPG, petrol, diesel, kerosene, lubricating oil, paraffin wax and bitumen for roads. Natural gas, a clean fuel stored as CNG, is also obtained."
+        },
+        {
+          "lead": "Conservation.",
+          "text": "Because fossil fuels are limited and their burning pollutes the air and warms the planet, they must be conserved. The Petroleum Conservation Research Association advises driving at a steady speed, switching off engines at signals, maintaining vehicles and using public transport, while shifting where possible to renewable energy."
+        }
+      ]
+    },
+    {
+      "q": "How were coal and petroleum formed, and why are they called exhaustible natural resources?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Coal and petroleum are fossil fuels",
+          "text": "formed from the remains of living organisms buried long ago under heat and pressure over millions of years."
+        },
+        {
+          "list": [
+            "Coal formed from dense forests that were buried and, over ages, slowly turned to carbon under heat and pressure — a process called carbonisation",
+            "Petroleum and natural gas formed from tiny sea organisms whose remains settled and were transformed under layers of sand and clay"
+          ]
+        },
+        {
+          "lead": "They are exhaustible",
+          "text": "because their stock is limited and they take millions of years to form, so once used they cannot be replaced within our lifetime."
+        },
+        {
+          "list": [
+            "Their reserves are being consumed far faster than they form, which is why they must be conserved"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why should we conserve fossil fuels, and how does India's PCRA advise us to save fuel?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Fossil fuels must be conserved",
+          "text": "because they are limited, take ages to form, and burning them pollutes the air and adds to global warming."
+        },
+        {
+          "lead": "The Petroleum Conservation Research Association (PCRA)",
+          "text": "advises practical steps for saving fuel while driving."
+        },
+        {
+          "list": [
+            "Drive at a steady, moderate speed and avoid sudden braking",
+            "Switch off the engine at traffic lights and keep tyres correctly inflated",
+            "Maintain the vehicle and get it serviced regularly"
+          ]
+        },
+        {
+          "lead": "Using public transport,",
+          "text": "car-pooling and renewable energy further reduce our dependence on fossil fuels."
+        }
       ]
     }
   ]

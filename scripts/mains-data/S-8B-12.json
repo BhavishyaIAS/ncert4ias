@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "An ecosystem is a community of living organisms interacting with their non-living surroundings, such as air, water, soil and sunlight, and all its parts are interdependent.",
-        { "lead": "Roles.", "text": "Green plants are producers that make food; animals are consumers, either herbivores or carnivores; and microbes and fungi are decomposers that break down dead matter." },
-        { "lead": "Food chains and webs.", "text": "A food chain shows who eats whom — for example grass to grasshopper to frog to snake. Many such chains interlink to form a food web. Energy flows from the Sun to producers and then to consumers, with only a small part passing to each higher level." },
+        {
+          "lead": "Roles.",
+          "text": "Green plants are producers that make food; animals are consumers, either herbivores or carnivores; and microbes and fungi are decomposers that break down dead matter."
+        },
+        {
+          "lead": "Food chains and webs.",
+          "text": "A food chain shows who eats whom — for example grass to grasshopper to frog to snake. Many such chains interlink to form a food web. Energy flows from the Sun to producers and then to consumers, with only a small part passing to each higher level."
+        },
         "In this way the ecosystem keeps energy and nutrients flowing among its members."
       ]
     },
@@ -17,8 +23,69 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Cycles in nature.", "text": "Nature recycles its materials through cycles. In the water cycle, water moves through evaporation, condensation and precipitation. In the oxygen–carbon dioxide cycle, plants release oxygen during photosynthesis while all organisms release carbon dioxide during respiration. In the nitrogen cycle, nitrogen is fixed by bacteria and lightning, passed through plants and animals, and returned to the air by decomposers." },
-        { "lead": "Balance of nature.", "text": "These cycles keep nature in balance. Human activities such as deforestation, pollution and the overuse of resources disturb this balance, and the loss of even one species can affect many others through the food web. Conservation and sustainable use are therefore essential to keep nature working in harmony." }
+        {
+          "lead": "Cycles in nature.",
+          "text": "Nature recycles its materials through cycles. In the water cycle, water moves through evaporation, condensation and precipitation. In the oxygen–carbon dioxide cycle, plants release oxygen during photosynthesis while all organisms release carbon dioxide during respiration. In the nitrogen cycle, nitrogen is fixed by bacteria and lightning, passed through plants and animals, and returned to the air by decomposers."
+        },
+        {
+          "lead": "Balance of nature.",
+          "text": "These cycles keep nature in balance. Human activities such as deforestation, pollution and the overuse of resources disturb this balance, and the loss of even one species can affect many others through the food web. Conservation and sustainable use are therefore essential to keep nature working in harmony."
+        }
+      ]
+    },
+    {
+      "q": "How does energy flow through a food chain, and why are there few links in it?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A food chain",
+          "text": "shows how energy passes from one organism to the next as one is eaten by another, starting from the Sun."
+        },
+        {
+          "list": [
+            "Green plants (producers) capture solar energy and make food by photosynthesis",
+            "Herbivores (primary consumers) eat plants; carnivores (secondary consumers) eat the herbivores",
+            "Decomposers break down dead matter and return nutrients to the soil"
+          ]
+        },
+        {
+          "lead": "Food chains are short",
+          "text": "because energy is lost at every step."
+        },
+        {
+          "list": [
+            "Only a small part of the energy at one level passes to the next; the rest is used up in life processes or lost as heat",
+            "So there is not enough energy to support many links"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why is maintaining the balance of nature important, and how do human activities disturb it?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The balance of nature",
+          "text": "is the stable relationship among living things and their environment, kept by natural cycles and food webs."
+        },
+        {
+          "list": [
+            "Cycles of water, carbon, oxygen and nitrogen keep supplying what living things need",
+            "Each organism has a role, and food webs link many chains so the loss of one species affects others"
+          ]
+        },
+        {
+          "lead": "Human activities disturb this balance.",
+          "text": "They break cycles and food webs faster than nature can repair them."
+        },
+        {
+          "list": [
+            "Deforestation, pollution and overuse of resources destroy habitats and species",
+            "This threatens ecosystems and, ultimately, human survival — so conservation is vital"
+          ]
+        }
       ]
     }
   ]

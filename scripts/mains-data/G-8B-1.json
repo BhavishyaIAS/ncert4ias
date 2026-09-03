@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Natural resources are the useful materials we obtain from nature — land, soil, water, air, minerals, forests, wildlife and energy — and they form the basis of all human activity.",
-        { "lead": "By exhaustibility.", "text": "Renewable resources can be replenished within a reasonable time, such as solar energy, wind, water, forests and soil. Non-renewable resources are limited and take millions of years to form, such as coal, petroleum, natural gas and minerals." },
-        { "lead": "By origin.", "text": "Biotic resources come from living things, while abiotic resources come from non-living things." },
-        { "lead": "By development.", "text": "Actual resources are those being used now, while potential resources exist but are not yet used. Their distribution across the world and within India is very uneven." }
+        {
+          "lead": "By exhaustibility.",
+          "text": "Renewable resources can be replenished within a reasonable time, such as solar energy, wind, water, forests and soil. Non-renewable resources are limited and take millions of years to form, such as coal, petroleum, natural gas and minerals."
+        },
+        {
+          "lead": "By origin.",
+          "text": "Biotic resources come from living things, while abiotic resources come from non-living things."
+        },
+        {
+          "lead": "By development.",
+          "text": "Actual resources are those being used now, while potential resources exist but are not yet used. Their distribution across the world and within India is very uneven."
+        }
       ]
     },
     {
@@ -17,9 +26,62 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Conventional sources.", "text": "These are the traditional, mostly non-renewable sources — the fossil fuels coal, petroleum and natural gas, along with nuclear energy. They are limited and their burning pollutes the environment." },
-        { "lead": "Non-conventional sources.", "text": "These are the newer, renewable sources — solar, wind, hydro, tidal, geothermal and biomass energy — which are clean and do not run out." },
-        { "lead": "Why India promotes renewables.", "text": "Because fossil fuels are limited and cause pollution and climate change, India is increasingly promoting renewable energy, especially solar and wind, to secure a clean and lasting supply of power and to reduce its dependence on imported fuels." }
+        {
+          "lead": "Conventional sources.",
+          "text": "These are the traditional, mostly non-renewable sources — the fossil fuels coal, petroleum and natural gas, along with nuclear energy. They are limited and their burning pollutes the environment."
+        },
+        {
+          "lead": "Non-conventional sources.",
+          "text": "These are the newer, renewable sources — solar, wind, hydro, tidal, geothermal and biomass energy — which are clean and do not run out."
+        },
+        {
+          "lead": "Why India promotes renewables.",
+          "text": "Because fossil fuels are limited and cause pollution and climate change, India is increasingly promoting renewable energy, especially solar and wind, to secure a clean and lasting supply of power and to reduce its dependence on imported fuels."
+        }
+      ]
+    },
+    {
+      "q": "Why must natural resources be conserved, and what practical steps can individuals and governments take?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Resources are limited",
+          "text": "and unevenly spread, and many are being used faster than they can renew, so conservation ensures they last for present and future generations."
+        },
+        {
+          "list": [
+            "Governments can promote renewable energy, protect forests and water bodies, and enforce laws against pollution and over-extraction",
+            "Industries can recycle materials and adopt clean, efficient technology",
+            "Individuals can save electricity and water, reuse and recycle, use public transport and avoid waste"
+          ]
+        },
+        {
+          "lead": "The guiding idea",
+          "text": "is sustainable development — meeting today's needs without harming the ability of future generations to meet their own."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between conventional and non-conventional sources of energy, and explain why India is promoting renewables.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Conventional sources",
+          "text": "have long been in use and include firewood, coal, petroleum and natural gas. Most are non-renewable fossil fuels that pollute and are running out."
+        },
+        {
+          "lead": "Non-conventional or renewable sources",
+          "text": "are being newly harnessed and include solar, wind, tidal, geothermal and biogas energy. They are clean and inexhaustible."
+        },
+        {
+          "list": [
+            "India is promoting renewables to cut dependence on imported and dwindling fossil fuels",
+            "They reduce air pollution and greenhouse gases that cause climate change",
+            "Solar and wind suit India's climate and can reach remote villages off the main grid"
+          ]
+        }
       ]
     }
   ]

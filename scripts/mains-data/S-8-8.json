@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "A force is a push or a pull on an object, arising from an interaction between objects and measured in newtons.",
-        { "lead": "Effects.", "text": "A force can set a stationary object in motion or stop a moving one, change the speed or direction of its motion, and change its shape." },
-        { "lead": "Contact forces.", "text": "These act only when objects touch. Muscular force is applied by our muscles, and friction is the force that opposes motion between surfaces in contact." },
-        { "lead": "Non-contact forces.", "text": "These act from a distance without touching. Magnetic force acts between magnets, electrostatic force between charged objects, and gravitational force is the pull of the Earth that makes things fall." }
+        {
+          "lead": "Effects.",
+          "text": "A force can set a stationary object in motion or stop a moving one, change the speed or direction of its motion, and change its shape."
+        },
+        {
+          "lead": "Contact forces.",
+          "text": "These act only when objects touch. Muscular force is applied by our muscles, and friction is the force that opposes motion between surfaces in contact."
+        },
+        {
+          "lead": "Non-contact forces.",
+          "text": "These act from a distance without touching. Magnetic force acts between magnets, electrostatic force between charged objects, and gravitational force is the pull of the Earth that makes things fall."
+        }
       ]
     },
     {
@@ -17,8 +26,65 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Pressure.", "text": "Pressure is the force acting on a unit area, found by dividing the force by the area on which it acts, and measured in pascals. For the same force, a smaller area gives greater pressure. This is why knives and nails are made sharp, while broad straps, a camel's wide feet and the foundations of buildings spread force over a large area to reduce pressure." },
-        { "lead": "Atmospheric pressure.", "text": "Liquids and gases exert pressure that increases with depth. The air around us has weight and exerts atmospheric pressure, which is very large. We do not feel crushed because the pressure inside our bodies balances it. Suction cups, drinking through a straw and the barometer all work because of atmospheric pressure." }
+        {
+          "lead": "Pressure.",
+          "text": "Pressure is the force acting on a unit area, found by dividing the force by the area on which it acts, and measured in pascals. For the same force, a smaller area gives greater pressure. This is why knives and nails are made sharp, while broad straps, a camel's wide feet and the foundations of buildings spread force over a large area to reduce pressure."
+        },
+        {
+          "lead": "Atmospheric pressure.",
+          "text": "Liquids and gases exert pressure that increases with depth. The air around us has weight and exerts atmospheric pressure, which is very large. We do not feel crushed because the pressure inside our bodies balances it. Suction cups, drinking through a straw and the barometer all work because of atmospheric pressure."
+        }
+      ]
+    },
+    {
+      "q": "Explain how a force can change the state of motion or the shape of an object, with examples.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A force",
+          "text": "is a push or a pull acting on an object, and when it acts it can produce several effects."
+        },
+        {
+          "list": [
+            "It can set a stationary object in motion — kicking a ball at rest",
+            "It can stop or slow a moving object — applying brakes on a bicycle",
+            "It can change the speed of a moving object — pedalling harder",
+            "It can change the direction of motion — hitting a moving ball sideways",
+            "It can change the shape or size of an object — pressing dough or stretching a spring"
+          ]
+        },
+        {
+          "lead": "When two forces act",
+          "text": "in the same direction they add up; in opposite directions the net force is their difference."
+        }
+      ]
+    },
+    {
+      "q": "How does pressure depend on area, and why do liquids and gases exert pressure?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Pressure",
+          "text": "is the force acting per unit area, so the same force gives more pressure when the area is smaller."
+        },
+        {
+          "list": [
+            "A sharp knife or a pointed nail cuts easily because the small area concentrates the force",
+            "Wide straps and broad foundations spread force over a large area to reduce pressure"
+          ]
+        },
+        {
+          "lead": "Liquids and gases exert pressure",
+          "text": "because their particles move and strike the walls of their container."
+        },
+        {
+          "list": [
+            "Liquid pressure increases with depth and acts in all directions",
+            "Air has weight, so the atmosphere presses on us from all sides — atmospheric pressure"
+          ]
+        }
       ]
     }
   ]

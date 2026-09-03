@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "The resources used to produce goods and services are called the factors of production, and there are four of them.",
-        { "lead": "Land.", "text": "In economics, land means all the natural resources used in production — soil, water, minerals, forests and air." },
-        { "lead": "Labour.", "text": "Labour is the human effort, both physical and mental, used in producing goods and services." },
-        { "lead": "Capital.", "text": "Capital is the man-made goods used to produce more goods, such as tools, machines, buildings and money invested in a business." },
-        { "lead": "Entrepreneurship.", "text": "The entrepreneur organises the other three factors, takes the key decisions and bears the risk of the enterprise. All four factors must work together, since none can produce anything alone." }
+        {
+          "lead": "Land.",
+          "text": "In economics, land means all the natural resources used in production — soil, water, minerals, forests and air."
+        },
+        {
+          "lead": "Labour.",
+          "text": "Labour is the human effort, both physical and mental, used in producing goods and services."
+        },
+        {
+          "lead": "Capital.",
+          "text": "Capital is the man-made goods used to produce more goods, such as tools, machines, buildings and money invested in a business."
+        },
+        {
+          "lead": "Entrepreneurship.",
+          "text": "The entrepreneur organises the other three factors, takes the key decisions and bears the risk of the enterprise. All four factors must work together, since none can produce anything alone."
+        }
       ]
     },
     {
@@ -19,9 +31,66 @@
       "word_limit": 150,
       "answer": [
         "Each factor of production earns a reward for the part it plays in producing goods and services.",
-        { "lead": "Land and labour.", "text": "The owner of land receives rent for its use, and labour is paid wages or a salary for the human effort it provides." },
-        { "lead": "Capital and enterprise.", "text": "Capital earns interest as the return on the money and goods invested, and the entrepreneur earns profit, which is what remains after the other three factors have been paid." },
-        { "lead": "Risk and reward.", "text": "Profit is not guaranteed: because the entrepreneur bears the risk of the business, the result may be a profit or a loss. Improving the quality of these factors, such as more skilled labour and better technology, raises productivity and rewards." }
+        {
+          "lead": "Land and labour.",
+          "text": "The owner of land receives rent for its use, and labour is paid wages or a salary for the human effort it provides."
+        },
+        {
+          "lead": "Capital and enterprise.",
+          "text": "Capital earns interest as the return on the money and goods invested, and the entrepreneur earns profit, which is what remains after the other three factors have been paid."
+        },
+        {
+          "lead": "Risk and reward.",
+          "text": "Profit is not guaranteed: because the entrepreneur bears the risk of the business, the result may be a profit or a loss. Improving the quality of these factors, such as more skilled labour and better technology, raises productivity and rewards."
+        }
+      ]
+    },
+    {
+      "q": "How do the factors of production combine to produce goods and services, and why is each essential?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Production",
+          "text": "requires four factors working together — land, labour, capital and enterprise — and the absence of any one halts production."
+        },
+        {
+          "list": [
+            "Land supplies natural resources and space on which activity takes place",
+            "Labour provides the human physical and mental effort that transforms resources",
+            "Capital — tools, machines, buildings and money — makes labour more productive",
+            "Enterprise (the entrepreneur) organises the other three, takes risks and makes decisions"
+          ]
+        },
+        {
+          "lead": "Only when combined",
+          "text": "do these factors turn raw resources into useful goods and services, which is why each is indispensable to the economy."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between physical capital and human capital, and explain why human capital is important.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Physical capital",
+          "text": "refers to the man-made goods used to produce other goods — tools, machines, buildings and raw materials."
+        },
+        {
+          "lead": "Human capital",
+          "text": "refers to the stock of skill, knowledge, education and good health embodied in people."
+        },
+        {
+          "list": [
+            "Physical capital can be bought and sold in the market; human capital is built through education, training and healthcare",
+            "Machines are worked by people, so skilled and healthy workers make physical capital more productive"
+          ]
+        },
+        {
+          "lead": "Human capital is vital",
+          "text": "because knowledge and skill create new ideas, technologies and higher productivity — driving a nation's growth."
+        }
       ]
     }
   ]

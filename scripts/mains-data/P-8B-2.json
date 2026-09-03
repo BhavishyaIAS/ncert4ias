@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "India follows a parliamentary system of government, in which the executive is drawn from the legislature and remains accountable to it.",
-        { "lead": "The link.", "text": "The government, or executive, must enjoy the confidence, that is the majority support, of the Lok Sabha to stay in power. If it loses that majority, it must resign." },
-        { "lead": "Heads of state and government.", "text": "The President is the constitutional or nominal head of the country, while the Prime Minister, who leads the majority party in the Lok Sabha, is the real head who exercises executive power." },
-        { "lead": "Accountability.", "text": "The Council of Ministers is collectively responsible to the Lok Sabha, and the legislature controls the executive through debates, questions and the Budget. This keeps the government answerable to the people's representatives." }
+        {
+          "lead": "The link.",
+          "text": "The government, or executive, must enjoy the confidence, that is the majority support, of the Lok Sabha to stay in power. If it loses that majority, it must resign."
+        },
+        {
+          "lead": "Heads of state and government.",
+          "text": "The President is the constitutional or nominal head of the country, while the Prime Minister, who leads the majority party in the Lok Sabha, is the real head who exercises executive power."
+        },
+        {
+          "lead": "Accountability.",
+          "text": "The Council of Ministers is collectively responsible to the Lok Sabha, and the legislature controls the executive through debates, questions and the Budget. This keeps the government answerable to the people's representatives."
+        }
       ]
     },
     {
@@ -17,8 +26,63 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "The Union Executive.", "text": "The Union Executive consists of the President, the Vice-President, the Prime Minister and the Council of Ministers. The President is elected and acts on the advice of the Council of Ministers. The Prime Minister leads the majority party in the Lok Sabha, and the Council of Ministers is collectively responsible to it. The permanent executive, the civil services, actually implements government policies." },
-        { "lead": "Separation of powers.", "text": "Power is divided among three organs — the legislature, which makes laws, the executive, which carries them out, and the judiciary, which interprets them. Each checks the others: the executive is answerable to the legislature, and the judiciary can review the actions of both, keeping a balance and preventing misuse of power." }
+        {
+          "lead": "The Union Executive.",
+          "text": "The Union Executive consists of the President, the Vice-President, the Prime Minister and the Council of Ministers. The President is elected and acts on the advice of the Council of Ministers. The Prime Minister leads the majority party in the Lok Sabha, and the Council of Ministers is collectively responsible to it. The permanent executive, the civil services, actually implements government policies."
+        },
+        {
+          "lead": "Separation of powers.",
+          "text": "Power is divided among three organs — the legislature, which makes laws, the executive, which carries them out, and the judiciary, which interprets them. Each checks the others: the executive is answerable to the legislature, and the judiciary can review the actions of both, keeping a balance and preventing misuse of power."
+        }
+      ]
+    },
+    {
+      "q": "How are the legislature and the executive related in a parliamentary system, and what makes the government accountable?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "In a parliamentary system",
+          "text": "the executive is drawn from the legislature and remains answerable to it, unlike a presidential system where the two are separate."
+        },
+        {
+          "list": [
+            "The party or coalition with a majority in the Lok Sabha forms the government, and its leader becomes Prime Minister",
+            "The Council of Ministers is collectively responsible to the Lok Sabha",
+            "The government stays in power only while it holds the confidence of the house"
+          ]
+        },
+        {
+          "lead": "This link",
+          "text": "keeps the executive continuously accountable — through questions, debates and the ultimate power of a no-confidence motion — to the elected representatives of the people."
+        }
+      ]
+    },
+    {
+      "q": "Why is the separation of powers important, and how is it maintained in India?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Separation of powers",
+          "text": "divides government functions among the legislature, executive and judiciary so that power is not concentrated in one place."
+        },
+        {
+          "list": [
+            "The legislature makes laws, the executive implements them, and the judiciary interprets them and settles disputes",
+            "Each organ checks the others: courts can review laws and executive actions, and the legislature controls the executive"
+          ]
+        },
+        {
+          "lead": "In India",
+          "text": "this balance prevents any single organ from becoming all-powerful."
+        },
+        {
+          "list": [
+            "An independent judiciary guards the Constitution and citizens' rights",
+            "This system of checks and balances protects democracy from the abuse of power"
+          ]
+        }
       ]
     }
   ]

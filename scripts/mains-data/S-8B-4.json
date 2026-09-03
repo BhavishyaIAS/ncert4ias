@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "When an electric current flows through a wire, the wire becomes hot; this is called the heating effect of current.",
-        { "lead": "How it works.", "text": "The greater the resistance of the wire, the more heat it produces. Appliances that need heat, such as heaters, irons, toasters and geysers, use a high-resistance wire made of nichrome, while an electric bulb uses a thin tungsten filament that glows to give light." },
-        { "lead": "The fuse.", "text": "The heating effect also makes the electric fuse a safety device. A fuse contains a thin wire that melts and breaks the circuit if the current becomes too large, stopping the flow before wires can overheat and cause a fire." },
+        {
+          "lead": "How it works.",
+          "text": "The greater the resistance of the wire, the more heat it produces. Appliances that need heat, such as heaters, irons, toasters and geysers, use a high-resistance wire made of nichrome, while an electric bulb uses a thin tungsten filament that glows to give light."
+        },
+        {
+          "lead": "The fuse.",
+          "text": "The heating effect also makes the electric fuse a safety device. A fuse contains a thin wire that melts and breaks the circuit if the current becomes too large, stopping the flow before wires can overheat and cause a fire."
+        },
         "Thus the heating effect is both useful and, through the fuse, a means of safety."
       ]
     },
@@ -18,8 +24,69 @@
       "word_limit": 150,
       "answer": [
         "A wire carrying an electric current behaves like a magnet; this is the magnetic effect of current, first shown by Oersted, who observed a compass needle deflect near a current-carrying wire.",
-        { "lead": "The electromagnet.", "text": "An electromagnet is made by winding a coil of insulated wire around an iron core. When current flows through the coil, the iron becomes a strong magnet, and when the current stops, it loses its magnetism." },
-        { "lead": "Uses.", "text": "Because it can be switched on and off and made very powerful, the electromagnet is used in cranes to lift heavy iron, and in electric bells, motors and loudspeakers. The electric bell, for instance, works by the electromagnet repeatedly pulling and releasing an iron strip to strike a gong." }
+        {
+          "lead": "The electromagnet.",
+          "text": "An electromagnet is made by winding a coil of insulated wire around an iron core. When current flows through the coil, the iron becomes a strong magnet, and when the current stops, it loses its magnetism."
+        },
+        {
+          "lead": "Uses.",
+          "text": "Because it can be switched on and off and made very powerful, the electromagnet is used in cranes to lift heavy iron, and in electric bells, motors and loudspeakers. The electric bell, for instance, works by the electromagnet repeatedly pulling and releasing an iron strip to strike a gong."
+        }
+      ]
+    },
+    {
+      "q": "Explain the heating effect of electric current and give examples of appliances that use it.",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The heating effect",
+          "text": "is the production of heat when electric current flows through a wire, because the wire resists the flow of current and this resistance produces heat."
+        },
+        {
+          "list": [
+            "The amount of heat depends on the material, length and thickness of the wire and the current through it",
+            "Wires of high resistance, like nichrome, get very hot and are used as heating elements"
+          ]
+        },
+        {
+          "lead": "Many appliances use this effect.",
+          "text": "Electric energy is converted to heat in them."
+        },
+        {
+          "list": [
+            "Electric heaters, irons, geysers, toasters and kettles use heating coils",
+            "In a bulb, the thin filament gets white-hot and gives light along with heat"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does an electric fuse protect a circuit, and why is it important?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "An electric fuse",
+          "text": "is a safety device made of a thin wire of low melting point placed in a circuit."
+        },
+        {
+          "list": [
+            "When too much current flows — from overloading or a short circuit — the fuse wire heats up and melts",
+            "This breaks the circuit and stops the flow of current"
+          ]
+        },
+        {
+          "lead": "It is important",
+          "text": "because excessive current can cause dangerous heating and fires."
+        },
+        {
+          "list": [
+            "By breaking the circuit in time, the fuse protects appliances and wiring from damage",
+            "It prevents electrical fires and the risk of shock, making it an essential safety device",
+            "Miniature circuit breakers (MCBs) now do the same job and can be reset"
+          ]
+        }
       ]
     }
   ]

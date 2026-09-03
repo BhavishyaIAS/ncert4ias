@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Spherical mirrors are of two kinds, differing in the way their surfaces curve and in the images they form.",
-        { "lead": "Concave mirror.", "text": "Its reflecting surface curves inward and it converges light. It can form real or virtual, magnified images and is used in shaving and dentists' mirrors, in torch and headlight reflectors, and in solar cookers." },
-        { "lead": "Convex mirror.", "text": "Its reflecting surface curves outward and it diverges light. It always forms a small, virtual, erect image and gives a wide field of view, which is why it is used as a rear-view mirror in vehicles." },
+        {
+          "lead": "Concave mirror.",
+          "text": "Its reflecting surface curves inward and it converges light. It can form real or virtual, magnified images and is used in shaving and dentists' mirrors, in torch and headlight reflectors, and in solar cookers."
+        },
+        {
+          "lead": "Convex mirror.",
+          "text": "Its reflecting surface curves outward and it diverges light. It always forms a small, virtual, erect image and gives a wide field of view, which is why it is used as a rear-view mirror in vehicles."
+        },
         "Both obey the laws of reflection, and their different curvatures decide the images they produce."
       ]
     },
@@ -17,9 +23,72 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Convex lens.", "text": "A convex lens is thicker in the middle and converges the light passing through it. It can form real or virtual images and is used as a magnifying glass, in cameras, and in spectacles to correct long sight, or hypermetropia. Focused sunlight from a convex lens can even burn paper." },
-        { "lead": "Concave lens.", "text": "A concave lens is thinner in the middle and diverges light. It always forms a small, virtual, erect image and is used in spectacles to correct short sight, or myopia." },
-        { "lead": "Summary.", "text": "Thus a convex lens converges light and magnifies, while a concave lens diverges light and reduces, each with its own everyday uses." }
+        {
+          "lead": "Convex lens.",
+          "text": "A convex lens is thicker in the middle and converges the light passing through it. It can form real or virtual images and is used as a magnifying glass, in cameras, and in spectacles to correct long sight, or hypermetropia. Focused sunlight from a convex lens can even burn paper."
+        },
+        {
+          "lead": "Concave lens.",
+          "text": "A concave lens is thinner in the middle and diverges light. It always forms a small, virtual, erect image and is used in spectacles to correct short sight, or myopia."
+        },
+        {
+          "lead": "Summary.",
+          "text": "Thus a convex lens converges light and magnifies, while a concave lens diverges light and reduces, each with its own everyday uses."
+        }
+      ]
+    },
+    {
+      "q": "How does a plane mirror form an image, and what are the characteristics of that image?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A plane mirror",
+          "text": "forms an image by reflecting light according to the laws of reflection — the angle of incidence equals the angle of reflection."
+        },
+        {
+          "lead": "The image formed",
+          "text": "has definite characteristics."
+        },
+        {
+          "list": [
+            "It is virtual (cannot be caught on a screen) and erect (upright)",
+            "It is the same size as the object",
+            "It is formed as far behind the mirror as the object is in front",
+            "It is laterally inverted — the left and right sides appear interchanged"
+          ]
+        },
+        {
+          "lead": "Lateral inversion",
+          "text": "is why the word AMBULANCE is written reversed on vehicles so it reads correctly in a driver's mirror."
+        }
+      ]
+    },
+    {
+      "q": "How is white light dispersed into colours, and what does this tell us about sunlight?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Dispersion",
+          "text": "is the splitting of white light into its component colours when it passes through a prism."
+        },
+        {
+          "list": [
+            "A glass prism bends different colours by different amounts, spreading them into a band of seven colours — the spectrum",
+            "The order is violet, indigo, blue, green, yellow, orange and red"
+          ]
+        },
+        {
+          "lead": "This shows",
+          "text": "that white light, such as sunlight, is not a single colour but a mixture of seven colours."
+        },
+        {
+          "list": [
+            "A rainbow forms when raindrops act like tiny prisms and disperse sunlight",
+            "Recombining the seven colours gives back white light"
+          ]
+        }
       ]
     }
   ]

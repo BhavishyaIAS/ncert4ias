@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Industry is a secondary activity that turns raw materials into finished goods, and industries are classified in several ways.",
-        { "lead": "By raw materials.", "text": "Agro-based industries use products of agriculture, such as cotton and sugar; mineral-based industries use minerals, such as iron and steel and cement; there are also marine-based and forest-based industries." },
-        { "lead": "By size.", "text": "By the capital invested and the number of workers, industries may be small-scale or large-scale." },
-        { "lead": "By ownership.", "text": "They may be public, owned by the government; private, owned by individuals; or joint and cooperative." },
-        { "lead": "By role.", "text": "Basic or key industries, such as iron and steel, supply raw materials to other industries, while consumer industries make goods for direct use." }
+        {
+          "lead": "By raw materials.",
+          "text": "Agro-based industries use products of agriculture, such as cotton and sugar; mineral-based industries use minerals, such as iron and steel and cement; there are also marine-based and forest-based industries."
+        },
+        {
+          "lead": "By size.",
+          "text": "By the capital invested and the number of workers, industries may be small-scale or large-scale."
+        },
+        {
+          "lead": "By ownership.",
+          "text": "They may be public, owned by the government; private, owned by individuals; or joint and cooperative."
+        },
+        {
+          "lead": "By role.",
+          "text": "Basic or key industries, such as iron and steel, supply raw materials to other industries, while consumer industries make goods for direct use."
+        }
       ]
     },
     {
@@ -19,10 +31,81 @@
       "word_limit": 150,
       "answer": [
         "The location of an industry is decided by where its needs can best be met at least cost.",
-        { "lead": "Raw materials and power.", "text": "Industries are set up close to their raw materials, especially if these are heavy or perishable, and where a steady supply of power or energy is available." },
-        { "lead": "Labour, capital and water.", "text": "A supply of skilled and unskilled labour, enough capital to invest, and water for many processes are also important." },
-        { "lead": "Transport and market.", "text": "Good transport to bring in materials and carry out goods, and nearness to a market, greatly influence location. Government policy and the availability of land can also matter." },
+        {
+          "lead": "Raw materials and power.",
+          "text": "Industries are set up close to their raw materials, especially if these are heavy or perishable, and where a steady supply of power or energy is available."
+        },
+        {
+          "lead": "Labour, capital and water.",
+          "text": "A supply of skilled and unskilled labour, enough capital to invest, and water for many processes are also important."
+        },
+        {
+          "lead": "Transport and market.",
+          "text": "Good transport to bring in materials and carry out goods, and nearness to a market, greatly influence location. Government policy and the availability of land can also matter."
+        },
         "Where several of these favourable factors come together, industrial regions and towns grow up."
+      ]
+    },
+    {
+      "q": "Compare an agro-based industry with a mineral-based industry, giving examples.",
+      "directive": "Compare",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Industries are classified by raw material",
+          "text": "into agro-based and mineral-based, among other types."
+        },
+        {
+          "lead": "Agro-based industries",
+          "text": "use plant and animal products as raw materials."
+        },
+        {
+          "list": [
+            "Examples: cotton and jute textiles, sugar, vegetable oil and dairy products",
+            "They are usually located near farming regions that supply the raw material"
+          ]
+        },
+        {
+          "lead": "Mineral-based industries",
+          "text": "use minerals and metals as raw materials."
+        },
+        {
+          "list": [
+            "Examples: iron and steel, cement, machinery and heavy engineering",
+            "They tend to be located near mines or sources of coal and power"
+          ]
+        },
+        {
+          "lead": "Thus",
+          "text": "the source of raw material shapes both the product and the location of each industry."
+        }
+      ]
+    },
+    {
+      "q": "Describe the iron and steel industry and explain why it is called a basic industry.",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The iron and steel industry",
+          "text": "smelts iron ore with coke and limestone in blast furnaces to make pig iron, which is then refined into steel."
+        },
+        {
+          "list": [
+            "Its raw materials — iron ore, coal and limestone — are heavy, so plants are located close to these sources to cut transport costs",
+            "Jamshedpur (TISCO), Bhilai, Durgapur and Rourkela are major Indian steel centres"
+          ]
+        },
+        {
+          "lead": "It is a basic or key industry",
+          "text": "because its product, steel, is the raw material for countless other industries."
+        },
+        {
+          "list": [
+            "Machines, tools, vehicles, rails, bridges and buildings all depend on steel",
+            "So the growth of steel drives the growth of the whole economy"
+          ]
+        }
       ]
     }
   ]

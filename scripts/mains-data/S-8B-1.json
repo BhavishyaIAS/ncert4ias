@@ -7,9 +7,71 @@
       "word_limit": 150,
       "answer": [
         "Science is a way of investigating the natural world through observation, evidence and reasoning.",
-        { "lead": "The steps.", "text": "An investigation begins with observing something and asking a question. The scientist then forms a hypothesis, a testable guess, and tests it through an experiment. The results are recorded as data, often in tables or graphs, and analysed, after which a conclusion is drawn and the test is repeated to confirm it." },
-        { "lead": "A fair test.", "text": "For a test to be fair, only one variable, or factor, is changed at a time, while all the others are kept the same. Then any difference in the result can be linked to that one factor." },
+        {
+          "lead": "The steps.",
+          "text": "An investigation begins with observing something and asking a question. The scientist then forms a hypothesis, a testable guess, and tests it through an experiment. The results are recorded as data, often in tables or graphs, and analysed, after which a conclusion is drawn and the test is repeated to confirm it."
+        },
+        {
+          "lead": "A fair test.",
+          "text": "For a test to be fair, only one variable, or factor, is changed at a time, while all the others are kept the same. Then any difference in the result can be linked to that one factor."
+        },
         "Careful measurement, honesty and openness to revising ideas are essential throughout."
+      ]
+    },
+    {
+      "q": "Why is the control of variables important in a scientific experiment, and how does it make a test fair?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A variable",
+          "text": "is any factor that can change in an experiment, and controlling variables is what makes a test fair and its result trustworthy."
+        },
+        {
+          "list": [
+            "The independent variable is the one you deliberately change to see its effect",
+            "The dependent variable is the one you measure as the outcome",
+            "All other variables must be kept the same so they do not affect the result"
+          ]
+        },
+        {
+          "lead": "A fair test",
+          "text": "changes only one thing at a time."
+        },
+        {
+          "list": [
+            "If more than one factor changes, you cannot tell which one caused the result",
+            "Repeating the test and taking averages reduces error and makes conclusions reliable"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do observation, hypothesis and experiment work together in scientific investigation?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Scientific investigation",
+          "text": "moves in orderly steps from a question to a tested answer."
+        },
+        {
+          "list": [
+            "It begins with careful observation of something in nature that raises a question",
+            "A hypothesis is a possible, testable explanation for what is observed",
+            "An experiment is designed to test the hypothesis by collecting evidence"
+          ]
+        },
+        {
+          "lead": "The results decide the outcome.",
+          "text": "Data are recorded, analysed and interpreted."
+        },
+        {
+          "list": [
+            "If the evidence supports the hypothesis, it is strengthened; if not, the hypothesis is revised",
+            "Sharing and repeating results lets others check them, which is central to how science advances"
+          ]
+        }
       ]
     }
   ]

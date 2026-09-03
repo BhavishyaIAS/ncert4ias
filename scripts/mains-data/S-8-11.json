@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Conducting liquids.", "text": "Not all liquids conduct electricity. Solutions of acids, bases and salts, such as salt water and lemon juice, conduct well because they contain charged particles called ions. Distilled water, sugar solution and oil are poor conductors. A simple tester with an LED can show whether a liquid conducts." },
-        { "lead": "Chemical effects.", "text": "When an electric current passes through a conducting liquid, it can cause chemical changes, known as the chemical effect of current. These effects include the formation of gas bubbles at the electrodes, the deposition of a metal on an electrode, and changes in the colour of the solution." },
+        {
+          "lead": "Conducting liquids.",
+          "text": "Not all liquids conduct electricity. Solutions of acids, bases and salts, such as salt water and lemon juice, conduct well because they contain charged particles called ions. Distilled water, sugar solution and oil are poor conductors. A simple tester with an LED can show whether a liquid conducts."
+        },
+        {
+          "lead": "Chemical effects.",
+          "text": "When an electric current passes through a conducting liquid, it can cause chemical changes, known as the chemical effect of current. These effects include the formation of gas bubbles at the electrodes, the deposition of a metal on an electrode, and changes in the colour of the solution."
+        },
         "This chemical effect is the basis of electrolysis and of electroplating."
       ]
     },
@@ -17,9 +23,70 @@
       "word_limit": 150,
       "answer": [
         "Electroplating is the process of depositing a layer of one metal over another metal using the chemical effect of electric current.",
-        { "lead": "How it works.", "text": "The object to be plated is made the cathode, the plating metal forms the anode, and the solution contains a salt of the plating metal. When current flows, the metal is deposited evenly over the object." },
-        { "lead": "Uses.", "text": "Chromium is plated on taps and car parts to make them shiny and rust-resistant. Silver and gold are plated on cheaper metals for jewellery and decoration. Tin is plated on iron cans, as tin is non-toxic, to store food safely, and zinc is coated on iron in galvanisation to prevent rusting." },
+        {
+          "lead": "How it works.",
+          "text": "The object to be plated is made the cathode, the plating metal forms the anode, and the solution contains a salt of the plating metal. When current flows, the metal is deposited evenly over the object."
+        },
+        {
+          "lead": "Uses.",
+          "text": "Chromium is plated on taps and car parts to make them shiny and rust-resistant. Silver and gold are plated on cheaper metals for jewellery and decoration. Tin is plated on iron cans, as tin is non-toxic, to store food safely, and zinc is coated on iron in galvanisation to prevent rusting."
+        },
         "Electroplating thus improves appearance, prevents corrosion and saves costly metals."
+      ]
+    },
+    {
+      "q": "What are the chemical effects of passing electric current through a conducting liquid?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "When electric current passes through a conducting liquid",
+          "text": "(an electrolyte), it can cause chemical changes — this is the chemical effect of current."
+        },
+        {
+          "list": [
+            "Bubbles of gas may form at the electrodes, as when water splits into hydrogen and oxygen",
+            "Deposits of metal may appear on one of the electrodes",
+            "The colour of the solution may change"
+          ]
+        },
+        {
+          "lead": "These effects show",
+          "text": "that the current is doing chemical work in the liquid."
+        },
+        {
+          "list": [
+            "Most liquids that conduct electricity are solutions of acids, bases or salts",
+            "Distilled water is a poor conductor, but adding a little salt makes it conduct"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does electroplating work, and why is it useful?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Electroplating",
+          "text": "is the process of depositing a layer of one metal over another using the chemical effect of electric current."
+        },
+        {
+          "list": [
+            "The object to be plated is made the cathode, the plating metal the anode, and both are dipped in a solution of that metal's salt",
+            "When current flows, metal from the solution deposits on the object, and the anode dissolves to replenish it"
+          ]
+        },
+        {
+          "lead": "It is widely useful.",
+          "text": "A thin coat gives cheaper metals the properties of costlier ones."
+        },
+        {
+          "list": [
+            "Chromium plating gives shine and resists rust and scratches on taps and car parts",
+            "Tin plating protects food cans from corrosion; jewellery is gold- or silver-plated"
+          ]
+        }
       ]
     }
   ]

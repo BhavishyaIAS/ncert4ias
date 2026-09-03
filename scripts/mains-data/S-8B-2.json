@@ -7,9 +7,71 @@
       "word_limit": 150,
       "answer": [
         "Microorganisms are tiny living things, seen only under a microscope, and they affect us in both helpful and harmful ways.",
-        { "lead": "Useful roles.", "text": "Lactobacillus turns milk into curd and yeast is used to make bread and alcohol. Rhizobium and blue-green algae fix nitrogen and enrich the soil. Antibiotics such as penicillin, and vaccines, help fight disease, and decomposers recycle nutrients by breaking down dead matter." },
-        { "lead": "Harmful roles.", "text": "Some microbes, called pathogens, cause diseases — bacteria cause tuberculosis and cholera, viruses cause colds and polio, the protozoan Plasmodium causes malaria spread by the female Anopheles mosquito, and fungi cause skin infections. Others spoil food or cause food poisoning." },
+        {
+          "lead": "Useful roles.",
+          "text": "Lactobacillus turns milk into curd and yeast is used to make bread and alcohol. Rhizobium and blue-green algae fix nitrogen and enrich the soil. Antibiotics such as penicillin, and vaccines, help fight disease, and decomposers recycle nutrients by breaking down dead matter."
+        },
+        {
+          "lead": "Harmful roles.",
+          "text": "Some microbes, called pathogens, cause diseases — bacteria cause tuberculosis and cholera, viruses cause colds and polio, the protozoan Plasmodium causes malaria spread by the female Anopheles mosquito, and fungi cause skin infections. Others spoil food or cause food poisoning."
+        },
         "Good hygiene, clean water, vaccination and food preservation help control the harmful ones."
+      ]
+    },
+    {
+      "q": "How are microorganisms classified, and where are they found?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Microorganisms",
+          "text": "are living things too small to be seen without a microscope, and they are grouped into main types."
+        },
+        {
+          "list": [
+            "Bacteria — single-celled organisms found almost everywhere",
+            "Fungi — such as moulds and yeasts",
+            "Protozoa — such as amoeba and the malarial parasite",
+            "Algae — simple plant-like organisms; and viruses, which act as living only inside a host"
+          ]
+        },
+        {
+          "lead": "They live in every habitat.",
+          "text": "Microbes are found in air, water, soil, inside and on the bodies of plants and animals, and even in extreme places like hot springs and icy regions."
+        },
+        {
+          "list": [
+            "This wide presence is why they play such large roles, both helpful and harmful"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How do microorganisms help in making food and medicines?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Microorganisms are put to work",
+          "text": "in food and medicine, turning them into valuable helpers."
+        },
+        {
+          "list": [
+            "Yeast is used in baking bread and in brewing, where it ferments sugar and releases carbon dioxide that makes dough rise",
+            "Bacteria (Lactobacillus) turn milk into curd",
+            "Microbes are used to make cheese, pickles and other fermented foods"
+          ]
+        },
+        {
+          "lead": "In medicine,",
+          "text": "microbes save lives."
+        },
+        {
+          "list": [
+            "Antibiotics such as penicillin are made from fungi and bacteria and kill disease-causing microbes",
+            "Weakened microbes are used to make vaccines that build immunity against diseases"
+          ]
+        }
       ]
     }
   ]

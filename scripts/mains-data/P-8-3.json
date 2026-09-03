@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The Parliament of India is the country's highest law-making body and consists of two Houses along with the President.",
-        { "lead": "Lok Sabha.", "text": "The Lok Sabha, or House of the People, is made up of members directly elected by the people from constituencies across the country. Its normal term is five years." },
-        { "lead": "Rajya Sabha.", "text": "The Rajya Sabha, or Council of States, represents the States. Its members are mostly elected by the State legislatures, and it is a permanent House, one-third of whose members retire every two years." },
-        { "lead": "Government.", "text": "The President is also part of Parliament. The political party or coalition that wins a majority in the Lok Sabha forms the government, and its leader becomes the Prime Minister, while the rest form the Opposition." }
+        {
+          "lead": "Lok Sabha.",
+          "text": "The Lok Sabha, or House of the People, is made up of members directly elected by the people from constituencies across the country. Its normal term is five years."
+        },
+        {
+          "lead": "Rajya Sabha.",
+          "text": "The Rajya Sabha, or Council of States, represents the States. Its members are mostly elected by the State legislatures, and it is a permanent House, one-third of whose members retire every two years."
+        },
+        {
+          "lead": "Government.",
+          "text": "The President is also part of Parliament. The political party or coalition that wins a majority in the Lok Sabha forms the government, and its leader becomes the Prime Minister, while the rest form the Opposition."
+        }
       ]
     },
     {
@@ -17,9 +26,66 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Roles of Parliament.", "text": "Parliament selects the national government, since the majority party forms the executive. It controls, guides and informs the government through debates and the Question Hour, keeping ministers accountable. And it is the highest law-making body in the country." },
-        { "lead": "Making a law.", "text": "A proposed law is called a Bill. It is introduced, debated and voted upon in both Houses of Parliament. Once both Houses pass it, the Bill is sent to the President, and after receiving the President's assent it becomes an Act, or law." },
-        { "lead": "Public role.", "text": "Citizens, the media and pressure groups can influence this process, as with the Domestic Violence Act of 2005." }
+        {
+          "lead": "Roles of Parliament.",
+          "text": "Parliament selects the national government, since the majority party forms the executive. It controls, guides and informs the government through debates and the Question Hour, keeping ministers accountable. And it is the highest law-making body in the country."
+        },
+        {
+          "lead": "Making a law.",
+          "text": "A proposed law is called a Bill. It is introduced, debated and voted upon in both Houses of Parliament. Once both Houses pass it, the Bill is sent to the President, and after receiving the President's assent it becomes an Act, or law."
+        },
+        {
+          "lead": "Public role.",
+          "text": "Citizens, the media and pressure groups can influence this process, as with the Domestic Violence Act of 2005."
+        }
+      ]
+    },
+    {
+      "q": "How does Parliament exercise control over those who govern, making the government accountable?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Parliament represents the people",
+          "text": "and holds the executive accountable to them, since the government is formed from the party or coalition with a majority in the Lok Sabha."
+        },
+        {
+          "list": [
+            "The Question Hour lets members question ministers on the working of their departments",
+            "Debates, discussions and motions examine government policy",
+            "A government stays in office only while it enjoys the confidence of the Lok Sabha, which can remove it through a no-confidence motion"
+          ]
+        },
+        {
+          "lead": "Through these powers",
+          "text": "elected representatives ensure that the government answers for its actions and works in the public interest."
+        }
+      ]
+    },
+    {
+      "q": "Why is the Rajya Sabha needed, and how does it differ from the Lok Sabha?",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Parliament has two houses",
+          "text": "so that laws are examined carefully and the states have a voice."
+        },
+        {
+          "lead": "The Lok Sabha",
+          "text": "is the House of the People, directly elected by citizens, and it is the more powerful house — governments are made and unmade here."
+        },
+        {
+          "lead": "The Rajya Sabha",
+          "text": "is the Council of States, mostly elected by the elected members of state legislatures."
+        },
+        {
+          "list": [
+            "It gives the states representation in the making of national laws",
+            "It acts as a revising chamber that reviews and improves bills",
+            "It provides continuity, as it is a permanent body that is not dissolved"
+          ]
+        }
       ]
     }
   ]

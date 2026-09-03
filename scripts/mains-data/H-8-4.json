@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Colonial rule disrupted almost every aspect of tribal life.",
-        { "lead": "Loss of authority.", "text": "Tribal chiefs lost their traditional power, were forced to obey British laws, pay tribute and act as agents of the government instead of leading their people." },
-        { "lead": "Forest laws.", "text": "The British declared forests state property and reserved them for timber, banning or restricting jhum, or shifting cultivation, on which many tribes depended, and stopping the free use of forest produce." },
-        { "lead": "Debt and labour.", "text": "Traders and moneylenders, whom tribals called dikus, trapped them in debt at high interest, and many were forced to work for low wages in tea plantations and mines." },
+        {
+          "lead": "Loss of authority.",
+          "text": "Tribal chiefs lost their traditional power, were forced to obey British laws, pay tribute and act as agents of the government instead of leading their people."
+        },
+        {
+          "lead": "Forest laws.",
+          "text": "The British declared forests state property and reserved them for timber, banning or restricting jhum, or shifting cultivation, on which many tribes depended, and stopping the free use of forest produce."
+        },
+        {
+          "lead": "Debt and labour.",
+          "text": "Traders and moneylenders, whom tribals called dikus, trapped them in debt at high interest, and many were forced to work for low wages in tea plantations and mines."
+        },
         "These hardships bred deep resentment and led to a series of tribal revolts."
       ]
     },
@@ -19,9 +28,62 @@
       "word_limit": 150,
       "answer": [
         "Birsa Munda led one of the most important tribal movements against colonial rule in the Chhotanagpur region in the 1890s.",
-        { "lead": "His message.", "text": "Born in the Munda tribe, Birsa urged his people to reform their lives — to give up drinking and keep clean — and to drive out the dikus and the British so as to restore a golden age of Munda self-rule, or satyug." },
-        { "lead": "The movement.", "text": "His movement, called Ulgulan or 'the Great Tumult', rose in 1899 and 1900. Birsa was arrested and died in jail in 1900." },
-        { "lead": "Significance.", "text": "Although suppressed, the movement forced the British to pass laws protecting tribal land, and Birsa became a lasting symbol of tribal resistance and identity." }
+        {
+          "lead": "His message.",
+          "text": "Born in the Munda tribe, Birsa urged his people to reform their lives — to give up drinking and keep clean — and to drive out the dikus and the British so as to restore a golden age of Munda self-rule, or satyug."
+        },
+        {
+          "lead": "The movement.",
+          "text": "His movement, called Ulgulan or 'the Great Tumult', rose in 1899 and 1900. Birsa was arrested and died in jail in 1900."
+        },
+        {
+          "lead": "Significance.",
+          "text": "Although suppressed, the movement forced the British to pass laws protecting tribal land, and Birsa became a lasting symbol of tribal resistance and identity."
+        }
+      ]
+    },
+    {
+      "q": "How did tribal groups practise different ways of life before colonial rule disrupted them?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Tribal livelihoods were diverse.",
+          "text": "Many practised jhum or shifting cultivation on small patches of forest land, clearing and burning vegetation, sowing on the ash-fertilised soil, and moving on when fertility fell."
+        },
+        {
+          "list": [
+            "Some were hunter-gatherers who depended on forest produce — fruits, roots, game — and sold or exchanged it",
+            "Some herded and reared animals, moving with the seasons as pastoralists",
+            "Some had begun settled cultivation with ploughs, holding land across generations"
+          ]
+        },
+        {
+          "lead": "Colonial rule disrupted all this.",
+          "text": "The state declared forests state property, restricted shifting cultivation, and wanted tribals settled as peasants who paid revenue — because settled peasants were easier to control and tax than mobile groups."
+        }
+      ]
+    },
+    {
+      "q": "How did the colonial forest laws and the demand for labour affect tribal communities?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Forest laws squeezed them.",
+          "text": "Reserving forests for timber and state use banned jhum cultivation, grazing and the free collection of produce, cutting off livelihoods and pushing many out of their homes."
+        },
+        {
+          "list": [
+            "The state let some jhum cultivators stay only if they supplied cheap labour to the Forest Department",
+            "Traders and moneylenders advanced loans at high interest for forest produce, trapping tribals in debt and poverty",
+            "Contractors recruited tribals for tea plantations and mines on low wages, and they could not easily return home"
+          ]
+        },
+        {
+          "lead": "The overall effect",
+          "text": "was the loss of land, forest rights and freedom — turning self-sufficient communities into dependent, indebted labourers, which fed the anger that erupted in movements like Birsa Munda's."
+        }
       ]
     }
   ]

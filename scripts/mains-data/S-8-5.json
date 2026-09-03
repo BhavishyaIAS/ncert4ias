@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Deforestation is the clearing of forests and the use of that land for other purposes such as farming, industry, buildings and roads; it can also be caused by natural events like fires and droughts.",
-        { "lead": "Climate and water.", "text": "Fewer trees mean less rainfall and a greater risk of both floods and droughts, since forests regulate water and the climate. Deforestation also raises the level of carbon dioxide in the air, adding to global warming." },
-        { "lead": "Soil and life.", "text": "Without tree roots to hold it, the soil is easily eroded, and fertile land can turn into desert. Deforestation destroys the habitats of countless species, causing loss of wildlife and biodiversity." },
+        {
+          "lead": "Climate and water.",
+          "text": "Fewer trees mean less rainfall and a greater risk of both floods and droughts, since forests regulate water and the climate. Deforestation also raises the level of carbon dioxide in the air, adding to global warming."
+        },
+        {
+          "lead": "Soil and life.",
+          "text": "Without tree roots to hold it, the soil is easily eroded, and fertile land can turn into desert. Deforestation destroys the habitats of countless species, causing loss of wildlife and biodiversity."
+        },
         "For these reasons, forests must be protected and restored."
       ]
     },
@@ -18,10 +24,69 @@
       "word_limit": 150,
       "answer": [
         "Protected areas are set up to conserve wildlife and natural habitats, and they differ in what they protect and how strictly.",
-        { "lead": "Wildlife sanctuary.", "text": "A sanctuary is meant chiefly to protect animals, and some human activity may be allowed within it under regulation." },
-        { "lead": "National park.", "text": "A national park protects the whole ecosystem — its plants, animals and landscape — and no human activity or private rights are permitted." },
-        { "lead": "Biosphere reserve.", "text": "A biosphere reserve is a large protected area meant to conserve the biodiversity and culture of a region, and it may itself contain sanctuaries and national parks, as at Pachmarhi." },
+        {
+          "lead": "Wildlife sanctuary.",
+          "text": "A sanctuary is meant chiefly to protect animals, and some human activity may be allowed within it under regulation."
+        },
+        {
+          "lead": "National park.",
+          "text": "A national park protects the whole ecosystem — its plants, animals and landscape — and no human activity or private rights are permitted."
+        },
+        {
+          "lead": "Biosphere reserve.",
+          "text": "A biosphere reserve is a large protected area meant to conserve the biodiversity and culture of a region, and it may itself contain sanctuaries and national parks, as at Pachmarhi."
+        },
         "Endangered species within them are tracked through the Red Data Book."
+      ]
+    },
+    {
+      "q": "How does deforestation lead to soil erosion, desertification and climate change?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Deforestation",
+          "text": "is the clearing of forests for farming, building and industry, and it disturbs many natural balances at once."
+        },
+        {
+          "list": [
+            "Tree roots bind the soil; without them, rain and wind wash away the fertile topsoil — soil erosion",
+            "As the land loses fertility and moisture, it can slowly turn barren — desertification",
+            "Fewer trees mean less carbon dioxide is absorbed and less oxygen released, raising CO2 levels and global temperatures",
+            "Lower transpiration reduces rainfall and disturbs the water cycle, causing droughts and floods"
+          ]
+        },
+        {
+          "lead": "Thus deforestation",
+          "text": "threatens soil, climate and water together, which is why afforestation and conservation are essential."
+        }
+      ]
+    },
+    {
+      "q": "What is biodiversity, and why are conservation efforts like Reserved Forests and the Red Data Book important?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Biodiversity",
+          "text": "is the variety of plants, animals and microorganisms in an area, and it keeps ecosystems balanced and resilient."
+        },
+        {
+          "list": [
+            "Endemic species are found only in a particular area, and endangered species are at risk of extinction",
+            "The Red Data Book records threatened species so their status can be tracked and protected"
+          ]
+        },
+        {
+          "lead": "Protected areas conserve biodiversity.",
+          "text": "Wildlife sanctuaries, national parks and biosphere reserves shield habitats and species from human interference."
+        },
+        {
+          "list": [
+            "Projects like Project Tiger protect particular endangered animals",
+            "Migratory birds and local species alike depend on such protected habitats"
+          ]
+        }
       ]
     }
   ]

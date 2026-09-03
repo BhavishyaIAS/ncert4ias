@@ -6,9 +6,69 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Solution, solute and solvent.", "text": "A solution is a homogeneous mixture of two or more substances. The solute is the substance that dissolves, usually present in the smaller amount, such as sugar, and the solvent is the substance in which it dissolves, usually the larger amount, such as water. Water dissolves so many substances that it is called the universal solvent." },
-        { "lead": "Solubility.", "text": "Solubility is the maximum amount of a solute that can dissolve in a given solvent at a given temperature." },
-        { "lead": "Saturation.", "text": "An unsaturated solution can dissolve more solute; a saturated solution can dissolve no more at that temperature. Heating usually lets more of a solid dissolve, while gases dissolve better in cold water." }
+        {
+          "lead": "Solution, solute and solvent.",
+          "text": "A solution is a homogeneous mixture of two or more substances. The solute is the substance that dissolves, usually present in the smaller amount, such as sugar, and the solvent is the substance in which it dissolves, usually the larger amount, such as water. Water dissolves so many substances that it is called the universal solvent."
+        },
+        {
+          "lead": "Solubility.",
+          "text": "Solubility is the maximum amount of a solute that can dissolve in a given solvent at a given temperature."
+        },
+        {
+          "lead": "Saturation.",
+          "text": "An unsaturated solution can dissolve more solute; a saturated solution can dissolve no more at that temperature. Heating usually lets more of a solid dissolve, while gases dissolve better in cold water."
+        }
+      ]
+    },
+    {
+      "q": "What factors affect the solubility of a substance, and what is a saturated solution?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Solubility",
+          "text": "is the amount of a solute that can dissolve in a given amount of solvent at a particular temperature."
+        },
+        {
+          "list": [
+            "It depends on the nature of the solute and solvent — sugar dissolves in water but not in oil",
+            "It usually increases with temperature for solids — hot water dissolves more sugar than cold",
+            "For gases, solubility decreases with a rise in temperature and increases with pressure"
+          ]
+        },
+        {
+          "lead": "A saturated solution",
+          "text": "is one in which no more solute can dissolve at that temperature."
+        },
+        {
+          "list": [
+            "Adding more solute then leaves it undissolved at the bottom",
+            "Heating a saturated solution usually lets it dissolve still more solute"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between a solution, a suspension and a colloid, with examples.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Mixtures",
+          "text": "differ in how finely one substance is spread through another."
+        },
+        {
+          "lead": "A solution",
+          "text": "is a homogeneous mixture in which the solute particles are so small they cannot be seen or filtered out — for example, salt or sugar in water."
+        },
+        {
+          "lead": "A suspension",
+          "text": "is a heterogeneous mixture whose particles are large enough to be seen and settle down on standing — for example, chalk powder in water."
+        },
+        {
+          "lead": "A colloid",
+          "text": "lies in between; the particles are too small to see but scatter light — for example, milk and fog."
+        }
       ]
     }
   ]

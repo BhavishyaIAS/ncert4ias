@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Soil is the thin top layer of the earth's crust that supports plant growth, and it is one of our most important natural resources.",
-        { "lead": "Formation.", "text": "Soil is formed by the weathering of rocks over very long periods. Its formation depends on several factors — the parent rock, the climate, the relief of the land, the time available, and the action of living organisms such as plants and animals." },
-        { "lead": "Degradation.", "text": "Soil erosion, the removal of fertile topsoil by wind and water, is worsened by deforestation and overgrazing, and it reduces the land's fertility." },
-        { "lead": "Conservation.", "text": "Soil can be conserved by afforestation, by contour ploughing and terrace farming on slopes, by planting shelter belts of trees, and by mulching to hold moisture and soil in place." }
+        {
+          "lead": "Formation.",
+          "text": "Soil is formed by the weathering of rocks over very long periods. Its formation depends on several factors — the parent rock, the climate, the relief of the land, the time available, and the action of living organisms such as plants and animals."
+        },
+        {
+          "lead": "Degradation.",
+          "text": "Soil erosion, the removal of fertile topsoil by wind and water, is worsened by deforestation and overgrazing, and it reduces the land's fertility."
+        },
+        {
+          "lead": "Conservation.",
+          "text": "Soil can be conserved by afforestation, by contour ploughing and terrace farming on slopes, by planting shelter belts of trees, and by mulching to hold moisture and soil in place."
+        }
       ]
     },
     {
@@ -17,9 +26,73 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Water scarcity.", "text": "Only a tiny fraction of the Earth's water is usable fresh water, yet demand is rising fast because of a growing population, over-use, pollution and uneven distribution. This has led to serious water scarcity in many regions." },
-        { "lead": "Conserving water.", "text": "Water can be conserved by avoiding waste, harvesting rainwater, recycling used water and checking pollution of rivers and lakes." },
-        { "lead": "Conserving wildlife.", "text": "Natural vegetation and wildlife, threatened by deforestation, hunting and habitat loss, are protected through national parks, wildlife sanctuaries and biosphere reserves, while the IUCN Red List identifies species in danger so that special efforts can be made to save them." }
+        {
+          "lead": "Water scarcity.",
+          "text": "Only a tiny fraction of the Earth's water is usable fresh water, yet demand is rising fast because of a growing population, over-use, pollution and uneven distribution. This has led to serious water scarcity in many regions."
+        },
+        {
+          "lead": "Conserving water.",
+          "text": "Water can be conserved by avoiding waste, harvesting rainwater, recycling used water and checking pollution of rivers and lakes."
+        },
+        {
+          "lead": "Conserving wildlife.",
+          "text": "Natural vegetation and wildlife, threatened by deforestation, hunting and habitat loss, are protected through national parks, wildlife sanctuaries and biosphere reserves, while the IUCN Red List identifies species in danger so that special efforts can be made to save them."
+        }
+      ]
+    },
+    {
+      "q": "How do natural and human factors together cause land degradation, and how can land be conserved?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Land is a finite resource,",
+          "text": "and only about thirty per cent of the earth's surface is land, of which much is unfit for use. Growing pressure degrades it."
+        },
+        {
+          "list": [
+            "Natural causes include soil erosion by wind and water, and landslides",
+            "Human causes include deforestation, overgrazing, over-irrigation, mining and the dumping of industrial waste"
+          ]
+        },
+        {
+          "lead": "Conservation measures",
+          "text": "can protect and restore land."
+        },
+        {
+          "list": [
+            "Afforestation and controlled grazing",
+            "Shelter belts of trees to check wind erosion, and stabilising sand dunes",
+            "Proper management of wasteland and control of mining and waste disposal"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Why are grasslands and forests important, and how does the loss of natural vegetation and wildlife affect us?",
+      "directive": "Assess",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Natural vegetation and wildlife",
+          "text": "exist only in the narrow biosphere where land, water and air meet, and they sustain all life."
+        },
+        {
+          "list": [
+            "Forests give timber, oxygen, homes for wildlife, and control climate and the water cycle",
+            "Plants and animals depend on one another in a balanced ecosystem — a food chain"
+          ]
+        },
+        {
+          "lead": "Their loss is serious.",
+          "text": "Deforestation and hunting are driving many species to extinction, breaking food chains and threatening the ecological balance."
+        },
+        {
+          "list": [
+            "Conservation steps include national parks, wildlife sanctuaries and biosphere reserves",
+            "Laws ban the killing of endangered animals and the trade in their products"
+          ]
+        }
       ]
     }
   ]

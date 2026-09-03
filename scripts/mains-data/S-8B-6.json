@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Air exerts pressure in all directions, and differences in this pressure set the air in motion as wind.",
-        { "lead": "Warm and cool air.", "text": "When air is heated it becomes lighter and rises, leaving an area of low pressure below. Cooler, denser air sinks and creates high pressure. Air then moves from the region of high pressure to the region of low pressure, and this moving air is wind." },
-        { "lead": "Uneven heating.", "text": "The Earth is heated unevenly — the equator more than the poles, and land differently from the sea. This uneven heating creates pressure differences that drive winds, including the land and sea breezes and the seasonal monsoon." },
+        {
+          "lead": "Warm and cool air.",
+          "text": "When air is heated it becomes lighter and rises, leaving an area of low pressure below. Cooler, denser air sinks and creates high pressure. Air then moves from the region of high pressure to the region of low pressure, and this moving air is wind."
+        },
+        {
+          "lead": "Uneven heating.",
+          "text": "The Earth is heated unevenly — the equator more than the poles, and land differently from the sea. This uneven heating creates pressure differences that drive winds, including the land and sea breezes and the seasonal monsoon."
+        },
         "The greater the difference in pressure, the stronger the wind that blows."
       ]
     },
@@ -17,8 +23,68 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "What a cyclone is.", "text": "A cyclone is a large, powerful storm that forms over warm seas. It has a region of very low pressure at its centre, called the eye, around which violent winds spin, bringing heavy rain and high waves. Such storms are called hurricanes in the Atlantic and typhoons in the Pacific." },
-        { "lead": "Staying safe.", "text": "The India Meteorological Department tracks cyclones and issues early warnings. On receiving a warning, people in coastal areas move to cyclone shelters or safe buildings, store food and water, and stay away from the sea. Good preparedness — early warnings, sturdy shelters and timely evacuation — has greatly reduced the loss of life from cyclones." }
+        {
+          "lead": "What a cyclone is.",
+          "text": "A cyclone is a large, powerful storm that forms over warm seas. It has a region of very low pressure at its centre, called the eye, around which violent winds spin, bringing heavy rain and high waves. Such storms are called hurricanes in the Atlantic and typhoons in the Pacific."
+        },
+        {
+          "lead": "Staying safe.",
+          "text": "The India Meteorological Department tracks cyclones and issues early warnings. On receiving a warning, people in coastal areas move to cyclone shelters or safe buildings, store food and water, and stay away from the sea. Good preparedness — early warnings, sturdy shelters and timely evacuation — has greatly reduced the loss of life from cyclones."
+        }
+      ]
+    },
+    {
+      "q": "Why does uneven heating of the earth cause winds to blow?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Winds",
+          "text": "are moving air, and they are caused by differences in air pressure produced by the uneven heating of the earth by the sun."
+        },
+        {
+          "list": [
+            "When air is heated it expands, becomes lighter and rises, leaving a region of low pressure",
+            "Cooler, denser air from high-pressure regions rushes in to take its place — this moving air is wind"
+          ]
+        },
+        {
+          "lead": "This happens at many scales.",
+          "text": "Near coasts and across the globe, heating differences drive air movement."
+        },
+        {
+          "list": [
+            "By day, land heats faster than the sea, so cool sea breeze blows towards land; at night the reverse land breeze blows",
+            "Uneven heating of the equator and poles sets up large-scale global winds"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How is a thunderstorm formed, and why can it develop into a cyclone?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "A thunderstorm",
+          "text": "forms when strong rising currents of warm, moist air carry water vapour high up, where it cools, condenses and releases heat."
+        },
+        {
+          "list": [
+            "The rapid rise and fall of air, with rain, lightning and thunder, make a thunderstorm",
+            "Falling water droplets and rising air create the conditions for a storm"
+          ]
+        },
+        {
+          "lead": "A cyclone",
+          "text": "can develop when many thunderstorms combine over warm seas."
+        },
+        {
+          "list": [
+            "Continuous condensation lowers the pressure at the centre and high-speed winds spiral inward around a calm 'eye'",
+            "This large, violent system with strong winds and heavy rain is a cyclone, which can cause great destruction on the coast"
+          ]
+        }
       ]
     }
   ]

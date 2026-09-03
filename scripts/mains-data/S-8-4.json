@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Combustion is a chemical process in which a substance reacts with oxygen to produce heat, and usually light. The substance that burns is called a combustible substance, or fuel.",
-        { "lead": "Conditions.", "text": "Three conditions must be met together for combustion. There must be a fuel, or combustible substance; there must be a supply of air, which provides oxygen; and the fuel must reach its ignition temperature, the lowest temperature at which it catches fire." },
-        { "lead": "Types.", "text": "Combustion may be rapid, as on a gas stove; spontaneous, when a substance catches fire on its own, as with phosphorus; or an explosion, a sudden reaction giving heat, light, sound and gas, as in crackers." },
+        {
+          "lead": "Conditions.",
+          "text": "Three conditions must be met together for combustion. There must be a fuel, or combustible substance; there must be a supply of air, which provides oxygen; and the fuel must reach its ignition temperature, the lowest temperature at which it catches fire."
+        },
+        {
+          "lead": "Types.",
+          "text": "Combustion may be rapid, as on a gas stove; spontaneous, when a substance catches fire on its own, as with phosphorus; or an explosion, a sudden reaction giving heat, light, sound and gas, as in crackers."
+        },
         "Substances with a low ignition temperature are inflammable and must be handled carefully."
       ]
     },
@@ -17,8 +23,63 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Zones of a flame.", "text": "A candle flame has three zones. The innermost dark zone contains unburnt wax vapour and is the coolest. The middle yellow, luminous zone shows partial combustion and gives most of the light. The outermost blue zone shows complete combustion and is the hottest, which is why goldsmiths use it." },
-        { "lead": "Controlling fire.", "text": "Fire is put out by removing one of its three requirements. Water cools the fuel below its ignition temperature, but must never be used on oil or electrical fires. Carbon dioxide cuts off the oxygen supply and is best for oil and electrical fires. Fire extinguishers work on these principles." }
+        {
+          "lead": "Zones of a flame.",
+          "text": "A candle flame has three zones. The innermost dark zone contains unburnt wax vapour and is the coolest. The middle yellow, luminous zone shows partial combustion and gives most of the light. The outermost blue zone shows complete combustion and is the hottest, which is why goldsmiths use it."
+        },
+        {
+          "lead": "Controlling fire.",
+          "text": "Fire is put out by removing one of its three requirements. Water cools the fuel below its ignition temperature, but must never be used on oil or electrical fires. Carbon dioxide cuts off the oxygen supply and is best for oil and electrical fires. Fire extinguishers work on these principles."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between rapid combustion, spontaneous combustion and explosion, with examples.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Combustion",
+          "text": "is a chemical process in which a substance reacts with oxygen to give heat, and sometimes light. It takes different forms."
+        },
+        {
+          "lead": "Rapid combustion",
+          "text": "occurs fast, producing heat and light — for example, a burning matchstick or cooking gas that ignites at once."
+        },
+        {
+          "lead": "Spontaneous combustion",
+          "text": "happens on its own without any external heat — for example, phosphorus catching fire at room temperature, or forest fires from natural heat."
+        },
+        {
+          "lead": "Explosion",
+          "text": "occurs when a sudden reaction gives out heat, light, sound and a large volume of gas — for example, crackers, releasing energy with a bang."
+        }
+      ]
+    },
+    {
+      "q": "What is a fuel, and what makes a good fuel? Compare fuels using calorific value.",
+      "directive": "Evaluate",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "A fuel",
+          "text": "is a substance that burns to release usable heat energy — such as wood, coal, kerosene and LPG."
+        },
+        {
+          "lead": "Calorific value",
+          "text": "is the heat produced by burning one kilogram of a fuel completely, measured in kilojoules per kilogram; a higher value means a better fuel."
+        },
+        {
+          "lead": "An ideal fuel",
+          "text": "should have several qualities."
+        },
+        {
+          "list": [
+            "It should be cheap, readily available and easy to store and transport",
+            "It should have a high calorific value and a moderate ignition temperature",
+            "It should burn without leaving much residue or releasing harmful gases"
+          ]
+        }
       ]
     }
   ]

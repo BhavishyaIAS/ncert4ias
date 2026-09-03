@@ -6,9 +6,77 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Elements.", "text": "An element is a pure substance made of only one kind of atom and cannot be broken into simpler substances by chemical means. Examples are hydrogen, oxygen, carbon and iron, each with its own symbol." },
-        { "lead": "Compounds.", "text": "A compound is a pure substance formed when two or more elements combine chemically in a fixed ratio, and its properties differ from those of its elements — for example water, formed from hydrogen and oxygen, and common salt, from sodium and chlorine." },
-        { "lead": "Mixtures.", "text": "A mixture is formed when two or more substances are simply mixed physically in any ratio, and each keeps its own properties — for example air, a salt solution, or sand mixed with iron filings. Mixtures can be separated by physical methods, while compounds need chemical methods." }
+        {
+          "lead": "Elements.",
+          "text": "An element is a pure substance made of only one kind of atom and cannot be broken into simpler substances by chemical means. Examples are hydrogen, oxygen, carbon and iron, each with its own symbol."
+        },
+        {
+          "lead": "Compounds.",
+          "text": "A compound is a pure substance formed when two or more elements combine chemically in a fixed ratio, and its properties differ from those of its elements — for example water, formed from hydrogen and oxygen, and common salt, from sodium and chlorine."
+        },
+        {
+          "lead": "Mixtures.",
+          "text": "A mixture is formed when two or more substances are simply mixed physically in any ratio, and each keeps its own properties — for example air, a salt solution, or sand mixed with iron filings. Mixtures can be separated by physical methods, while compounds need chemical methods."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between metals and non-metals on the basis of their properties, with examples.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Elements",
+          "text": "are broadly divided into metals and non-metals by their physical and chemical properties."
+        },
+        {
+          "lead": "Metals",
+          "text": "share several typical properties."
+        },
+        {
+          "list": [
+            "They are usually hard, shiny (lustrous), and good conductors of heat and electricity",
+            "They are malleable (can be beaten into sheets) and ductile (drawn into wires) — for example, iron, copper and aluminium"
+          ]
+        },
+        {
+          "lead": "Non-metals",
+          "text": "generally show the opposite properties."
+        },
+        {
+          "list": [
+            "They are dull, poor conductors, and brittle if solid",
+            "They may be solid, liquid or gas — for example, sulphur, carbon and oxygen"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How is a mixture different from a compound? Illustrate with examples.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "A compound",
+          "text": "is a pure substance formed by chemically combining two or more elements in a fixed ratio, so its properties differ from those of its elements."
+        },
+        {
+          "list": [
+            "Water is a compound of hydrogen and oxygen; it cannot be separated by physical means",
+            "The elements combine in a fixed proportion by mass"
+          ]
+        },
+        {
+          "lead": "A mixture",
+          "text": "is made by simply mixing substances without any chemical combination."
+        },
+        {
+          "list": [
+            "Its components keep their own properties and can be present in any proportion",
+            "A mixture of iron filings and sulphur can be separated by a magnet — a physical method",
+            "Air and salt-water are common mixtures"
+          ]
+        }
       ]
     }
   ]

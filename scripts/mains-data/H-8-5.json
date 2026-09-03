@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The Revolt of 1857 grew out of many grievances that had built up under Company rule.",
-        { "lead": "Political causes.", "text": "Annexations under the Doctrine of Lapse, such as Jhansi and Satara, the annexation of Awadh in 1856, and the ending of pensions like that of Nana Saheb, angered rulers and nobles." },
-        { "lead": "Economic and social causes.", "text": "Heavy taxes ruined peasants and artisans, while interference in customs and the fear that the British wished to convert Indians to Christianity alarmed both Hindus and Muslims." },
-        { "lead": "Military cause.", "text": "Sepoys were discontented over pay and prospects, and the immediate spark was the new greased cartridges, rumoured to be coated with cow and pig fat, which offended the religion of both communities." }
+        {
+          "lead": "Political causes.",
+          "text": "Annexations under the Doctrine of Lapse, such as Jhansi and Satara, the annexation of Awadh in 1856, and the ending of pensions like that of Nana Saheb, angered rulers and nobles."
+        },
+        {
+          "lead": "Economic and social causes.",
+          "text": "Heavy taxes ruined peasants and artisans, while interference in customs and the fear that the British wished to convert Indians to Christianity alarmed both Hindus and Muslims."
+        },
+        {
+          "lead": "Military cause.",
+          "text": "Sepoys were discontented over pay and prospects, and the immediate spark was the new greased cartridges, rumoured to be coated with cow and pig fat, which offended the religion of both communities."
+        }
       ]
     },
     {
@@ -17,8 +26,58 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Outbreak.", "text": "Mangal Pandey fired the first shots at Barrackpore, and the revolt proper began at Meerut on 10 May 1857. The rebels marched to Delhi and proclaimed the aged Mughal emperor Bahadur Shah Zafar their leader. It spread across north and central India, led by Nana Saheb and Tantia Tope at Kanpur, Rani Lakshmibai at Jhansi, Begum Hazrat Mahal at Lucknow and Kunwar Singh in Bihar." },
-        { "lead": "Consequences.", "text": "The British crushed the revolt by 1858 and exiled Bahadur Shah Zafar to Rangoon. By the Government of India Act of 1858, the East India Company's rule ended and India came under the direct rule of the British Crown. Queen Victoria's Proclamation promised no further annexations and respect for religion, and the Governor-General became the Viceroy." }
+        {
+          "lead": "Outbreak.",
+          "text": "Mangal Pandey fired the first shots at Barrackpore, and the revolt proper began at Meerut on 10 May 1857. The rebels marched to Delhi and proclaimed the aged Mughal emperor Bahadur Shah Zafar their leader. It spread across north and central India, led by Nana Saheb and Tantia Tope at Kanpur, Rani Lakshmibai at Jhansi, Begum Hazrat Mahal at Lucknow and Kunwar Singh in Bihar."
+        },
+        {
+          "lead": "Consequences.",
+          "text": "The British crushed the revolt by 1858 and exiled Bahadur Shah Zafar to Rangoon. By the Government of India Act of 1858, the East India Company's rule ended and India came under the direct rule of the British Crown. Queen Victoria's Proclamation promised no further annexations and respect for religion, and the Governor-General became the Viceroy."
+        }
+      ]
+    },
+    {
+      "q": "How did different sections of Indian society — sepoys, peasants, zamindars and rulers — come together in the Revolt of 1857?",
+      "directive": "Analyse",
+      "word_limit": 160,
+      "answer": [
+        {
+          "lead": "The revolt drew many groups.",
+          "text": "The sepoys, angered by the greased cartridges rumoured to use cow and pig fat and by low pay and discrimination, mutinied first at Meerut and marched to Delhi to proclaim Bahadur Shah Zafar their leader."
+        },
+        {
+          "list": [
+            "Peasants and artisans joined, hit by heavy revenue, debt and the ruin of handicrafts under colonial policy",
+            "Dispossessed zamindars and taluqdars, stripped of land and status, took up arms to recover them",
+            "Displaced rulers like Rani Lakshmibai of Jhansi, Nana Saheb near Kanpur and Begum Hazrat Mahal of Awadh led resistance after annexations robbed them of power"
+          ]
+        },
+        {
+          "lead": "The Emperor's name",
+          "text": "gave the scattered rebellions a symbol of unity, turning a mutiny into a widespread uprising across north and central India."
+        }
+      ]
+    },
+    {
+      "q": "How did the British suppress the Revolt of 1857, and how did it change the way India was governed?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Suppression was harsh.",
+          "text": "The British poured in reinforcements, passed laws to try and hang rebels, and recaptured Delhi in September 1857; Bahadur Shah Zafar was tried and exiled to Rangoon, ending the Mughal line. By 1859 the revolt was crushed with great brutality."
+        },
+        {
+          "lead": "The changes that followed were sweeping.",
+          "text": "The British realised they had to rule more cautiously."
+        },
+        {
+          "list": [
+            "The 1858 Act ended Company rule and transferred power to the British Crown, with a Viceroy and a Secretary of State",
+            "Rulers were assured their territory would not be annexed and could pass thrones to heirs",
+            "The army was reorganised to reduce the Indian proportion; policies promised non-interference in religion — while land and revenue exploitation continued"
+          ]
+        }
       ]
     }
   ]

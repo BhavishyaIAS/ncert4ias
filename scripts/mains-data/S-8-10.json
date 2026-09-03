@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Sound is produced by vibrating objects, that is, by a rapid to-and-fro motion.",
-        { "lead": "Production.", "text": "When an object vibrates, it makes the particles of the medium around it vibrate too, and this disturbance travels outward as sound. In human beings, sound is produced by the voice box, or larynx, using the vocal cords." },
-        { "lead": "Need for a medium.", "text": "Sound needs a material medium — solid, liquid or gas — to travel through, and it cannot pass through a vacuum. This is why there is no sound in outer space. Sound travels fastest through solids and slowest through gases." },
+        {
+          "lead": "Production.",
+          "text": "When an object vibrates, it makes the particles of the medium around it vibrate too, and this disturbance travels outward as sound. In human beings, sound is produced by the voice box, or larynx, using the vocal cords."
+        },
+        {
+          "lead": "Need for a medium.",
+          "text": "Sound needs a material medium — solid, liquid or gas — to travel through, and it cannot pass through a vacuum. This is why there is no sound in outer space. Sound travels fastest through solids and slowest through gases."
+        },
         "It reaches our ears, which convert the vibrations into signals the brain understands as sound."
       ]
     },
@@ -17,9 +23,71 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Pitch and loudness.", "text": "Pitch, or shrillness, depends on the frequency of the sound, measured in hertz — a higher frequency gives a higher pitch, as in a whistle, and a lower frequency a low pitch, as in a drum. Loudness depends on the amplitude of the vibration, a larger amplitude giving a louder sound, measured in decibels." },
-        { "lead": "Audible range.", "text": "Humans can hear sounds between 20 hertz and 20,000 hertz. Sounds below this are infrasonic and above it ultrasonic, which animals like dogs and bats can hear." },
-        { "lead": "Noise pollution.", "text": "Unpleasant, loud sounds cause noise pollution, which harms health by causing hearing loss, stress and sleeplessness; it can be reduced by planting trees and controlling traffic and loudspeakers." }
+        {
+          "lead": "Pitch and loudness.",
+          "text": "Pitch, or shrillness, depends on the frequency of the sound, measured in hertz — a higher frequency gives a higher pitch, as in a whistle, and a lower frequency a low pitch, as in a drum. Loudness depends on the amplitude of the vibration, a larger amplitude giving a louder sound, measured in decibels."
+        },
+        {
+          "lead": "Audible range.",
+          "text": "Humans can hear sounds between 20 hertz and 20,000 hertz. Sounds below this are infrasonic and above it ultrasonic, which animals like dogs and bats can hear."
+        },
+        {
+          "lead": "Noise pollution.",
+          "text": "Unpleasant, loud sounds cause noise pollution, which harms health by causing hearing loss, stress and sleeplessness; it can be reduced by planting trees and controlling traffic and loudspeakers."
+        }
+      ]
+    },
+    {
+      "q": "How does sound travel through a medium, and why can it not travel through a vacuum?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Sound is produced by vibration",
+          "text": "and travels as a disturbance from particle to particle of a medium — solid, liquid or gas."
+        },
+        {
+          "list": [
+            "A vibrating object makes the particles next to it vibrate, which pass the vibration on, carrying the sound outward",
+            "The particles themselves do not travel; they only oscillate about their positions",
+            "Sound travels fastest in solids, slower in liquids and slowest in gases, because particles are closer in solids"
+          ]
+        },
+        {
+          "lead": "Sound cannot travel through a vacuum",
+          "text": "because there are no particles there to carry the vibrations — which is why no sound reaches us from outer space."
+        }
+      ]
+    },
+    {
+      "q": "What is noise pollution, what are its harmful effects, and how can it be reduced?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Noise pollution",
+          "text": "is the presence of excessive or unpleasant loud sound in the environment, from traffic, machines, loudspeakers and firecrackers."
+        },
+        {
+          "lead": "Its effects",
+          "text": "on health are serious."
+        },
+        {
+          "list": [
+            "It can cause lack of sleep, hypertension, anxiety and even loss of hearing",
+            "Constant loud noise reduces concentration and causes irritation"
+          ]
+        },
+        {
+          "lead": "It can be reduced",
+          "text": "by controlling sound at the source and around us."
+        },
+        {
+          "list": [
+            "Silencing zones near hospitals and schools, and limits on horns and loudspeakers",
+            "Planting trees along roads, which absorb sound, and using quieter machines"
+          ]
+        }
       ]
     }
   ]

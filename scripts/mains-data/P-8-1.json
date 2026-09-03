@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "A Constitution is the fundamental, supreme law of a country, and it is needed for several important reasons.",
-        { "lead": "Rules of governance.", "text": "It lays down the structure and powers of the government and the way it is to be run, so that everyone knows how decisions are made and by whom." },
-        { "lead": "Rights and duties.", "text": "It guarantees the rights of citizens and states their duties, protecting people — especially minorities — from injustice." },
-        { "lead": "Limiting power.", "text": "It sets limits on the powers of the government so that no ruler or majority can become tyrannical." },
-        { "lead": "Shared ideals.", "text": "It expresses the ideals and aspirations of the people, such as justice, liberty, equality and fraternity, giving the nation a common foundation." }
+        {
+          "lead": "Rules of governance.",
+          "text": "It lays down the structure and powers of the government and the way it is to be run, so that everyone knows how decisions are made and by whom."
+        },
+        {
+          "lead": "Rights and duties.",
+          "text": "It guarantees the rights of citizens and states their duties, protecting people — especially minorities — from injustice."
+        },
+        {
+          "lead": "Limiting power.",
+          "text": "It sets limits on the powers of the government so that no ruler or majority can become tyrannical."
+        },
+        {
+          "lead": "Shared ideals.",
+          "text": "It expresses the ideals and aspirations of the people, such as justice, liberty, equality and fraternity, giving the nation a common foundation."
+        }
       ]
     },
     {
@@ -19,10 +31,66 @@
       "word_limit": 150,
       "answer": [
         "The Indian Constitution, framed by the Constituent Assembly and in force from 26 January 1950, has several key features.",
-        { "lead": "Federalism.", "text": "Government exists at more than one level — Union, State and local — each with its own powers." },
-        { "lead": "Parliamentary government.", "text": "The people elect their representatives through universal adult franchise, and the government is answerable to them." },
-        { "lead": "Separation of powers.", "text": "Power is divided among three organs — the legislature, the executive and the judiciary — which check one another." },
-        { "lead": "Rights and secularism.", "text": "Fundamental Rights protect citizens against the misuse of state power, and secularism ensures the state has no official religion and treats all faiths equally." }
+        {
+          "lead": "Federalism.",
+          "text": "Government exists at more than one level — Union, State and local — each with its own powers."
+        },
+        {
+          "lead": "Parliamentary government.",
+          "text": "The people elect their representatives through universal adult franchise, and the government is answerable to them."
+        },
+        {
+          "lead": "Separation of powers.",
+          "text": "Power is divided among three organs — the legislature, the executive and the judiciary — which check one another."
+        },
+        {
+          "lead": "Rights and secularism.",
+          "text": "Fundamental Rights protect citizens against the misuse of state power, and secularism ensures the state has no official religion and treats all faiths equally."
+        }
+      ]
+    },
+    {
+      "q": "How does the Constitution limit the powers of the government and protect citizens?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "A Constitution sets the rules",
+          "text": "by which a country is governed and lays down limits on those in power, so no organ of government can act arbitrarily."
+        },
+        {
+          "list": [
+            "Fundamental Rights protect citizens against the misuse of state power — such as the rights to equality, freedom and against exploitation",
+            "The separation of powers divides authority among the legislature, executive and judiciary so each checks the others",
+            "An independent judiciary can strike down laws and actions that violate the Constitution"
+          ]
+        },
+        {
+          "lead": "By defining the nature of government",
+          "text": "and guaranteeing rights, the Constitution both empowers the state to act for the people and prevents it from becoming tyrannical."
+        }
+      ]
+    },
+    {
+      "q": "What does the Preamble to the Indian Constitution declare, and why is it important?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Preamble",
+          "text": "is the introduction to the Constitution and states the ideals on which the Indian republic is built."
+        },
+        {
+          "list": [
+            "It declares India a sovereign, socialist, secular, democratic republic",
+            "It promises justice, liberty, equality and fraternity to all citizens",
+            "It affirms the dignity of the individual and the unity and integrity of the nation"
+          ]
+        },
+        {
+          "lead": "It is important",
+          "text": "because it is the soul of the Constitution — it reflects the vision of the freedom struggle and guides how every article should be understood and applied."
+        }
       ]
     }
   ]

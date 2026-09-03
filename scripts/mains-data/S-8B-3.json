@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Health is a state of complete physical, mental and social well-being, and not merely the absence of disease.",
-        { "lead": "A balanced diet.", "text": "Good health needs a balanced diet providing carbohydrates, proteins, fats, vitamins and minerals, along with water and roughage; a lack of nutrients causes deficiency diseases such as scurvy, rickets and anaemia." },
-        { "lead": "Hygiene and lifestyle.", "text": "Clean drinking water, personal hygiene such as washing hands, clean surroundings, regular exercise and enough rest are essential, while tobacco, alcohol and drugs must be avoided." },
-        { "lead": "Mental health.", "text": "Mental well-being, supported by rest, positive relationships and managing stress, is as important as physical health. Together these factors keep the body and mind healthy." }
+        {
+          "lead": "A balanced diet.",
+          "text": "Good health needs a balanced diet providing carbohydrates, proteins, fats, vitamins and minerals, along with water and roughage; a lack of nutrients causes deficiency diseases such as scurvy, rickets and anaemia."
+        },
+        {
+          "lead": "Hygiene and lifestyle.",
+          "text": "Clean drinking water, personal hygiene such as washing hands, clean surroundings, regular exercise and enough rest are essential, while tobacco, alcohol and drugs must be avoided."
+        },
+        {
+          "lead": "Mental health.",
+          "text": "Mental well-being, supported by rest, positive relationships and managing stress, is as important as physical health. Together these factors keep the body and mind healthy."
+        }
       ]
     },
     {
@@ -17,9 +26,73 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Communicable diseases.", "text": "These are infectious diseases caused by microbes that spread from one person to another through air, water, food, contact or carriers such as mosquitoes — examples are the common cold, tuberculosis and malaria." },
-        { "lead": "Non-communicable diseases.", "text": "These do not spread from person to person; they arise from lifestyle or other causes, such as diabetes, heart disease and cancer." },
-        { "lead": "Immunity.", "text": "Immunity is the body's ability to fight infection, carried out by white blood cells and antibodies. Vaccination, or immunisation, trains the body in advance to resist specific diseases such as polio and measles, giving lasting protection." }
+        {
+          "lead": "Communicable diseases.",
+          "text": "These are infectious diseases caused by microbes that spread from one person to another through air, water, food, contact or carriers such as mosquitoes — examples are the common cold, tuberculosis and malaria."
+        },
+        {
+          "lead": "Non-communicable diseases.",
+          "text": "These do not spread from person to person; they arise from lifestyle or other causes, such as diabetes, heart disease and cancer."
+        },
+        {
+          "lead": "Immunity.",
+          "text": "Immunity is the body's ability to fight infection, carried out by white blood cells and antibodies. Vaccination, or immunisation, trains the body in advance to resist specific diseases such as polio and measles, giving lasting protection."
+        }
+      ]
+    },
+    {
+      "q": "How does vaccination protect an individual and a community from disease?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Vaccination",
+          "text": "introduces a weakened or dead form of a disease-causing microbe into the body so the immune system learns to fight it without causing the disease."
+        },
+        {
+          "list": [
+            "The body produces antibodies against the microbe and 'remembers' it",
+            "If the real microbe attacks later, the body quickly makes antibodies and prevents the disease"
+          ]
+        },
+        {
+          "lead": "It also protects the community.",
+          "text": "When most people are vaccinated, the disease cannot spread easily, protecting even those not vaccinated."
+        },
+        {
+          "list": [
+            "This is how smallpox was wiped out and polio nearly eliminated",
+            "Programmes immunise children against diseases like measles, tetanus and hepatitis"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What lifestyle choices help maintain good health and prevent non-communicable diseases?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Health",
+          "text": "is a state of complete physical, mental and social well-being, not merely the absence of disease, and it depends greatly on how we live."
+        },
+        {
+          "list": [
+            "A balanced diet with the right proportions of nutrients keeps the body fit and prevents deficiency diseases",
+            "Regular physical exercise strengthens the heart, muscles and mind",
+            "Clean surroundings, safe water and personal hygiene prevent infections"
+          ]
+        },
+        {
+          "lead": "Avoiding harmful habits",
+          "text": "prevents many non-communicable diseases."
+        },
+        {
+          "list": [
+            "Tobacco, alcohol and drug abuse damage the body and must be avoided",
+            "Enough sleep and managing stress protect mental health"
+          ]
+        }
       ]
     }
   ]

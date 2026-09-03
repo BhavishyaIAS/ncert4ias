@@ -6,9 +6,18 @@
       "directive": "Trace",
       "word_limit": 150,
       "answer": [
-        { "lead": "The early Congress.", "text": "The Indian National Congress was founded in 1885, with its first session at Bombay under W.C. Bonnerjee. The early leaders, called Moderates — Dadabhai Naoroji, who put forward the drain of wealth theory, and Gopal Krishna Gokhale — relied on petitions, speeches and appeals to British justice." },
-        { "lead": "The Extremists.", "text": "By the early twentieth century, leaders like Tilak, who declared 'Swaraj is my birthright', along with Lajpat Rai and Bipin Chandra Pal, demanded self-rule and bolder action." },
-        { "lead": "Swadeshi Movement.", "text": "The Partition of Bengal in 1905 by Lord Curzon provoked the Swadeshi Movement, in which people boycotted British goods and promoted Indian, or swadeshi, products, marking a more militant phase of nationalism." }
+        {
+          "lead": "The early Congress.",
+          "text": "The Indian National Congress was founded in 1885, with its first session at Bombay under W.C. Bonnerjee. The early leaders, called Moderates — Dadabhai Naoroji, who put forward the drain of wealth theory, and Gopal Krishna Gokhale — relied on petitions, speeches and appeals to British justice."
+        },
+        {
+          "lead": "The Extremists.",
+          "text": "By the early twentieth century, leaders like Tilak, who declared 'Swaraj is my birthright', along with Lajpat Rai and Bipin Chandra Pal, demanded self-rule and bolder action."
+        },
+        {
+          "lead": "Swadeshi Movement.",
+          "text": "The Partition of Bengal in 1905 by Lord Curzon provoked the Swadeshi Movement, in which people boycotted British goods and promoted Indian, or swadeshi, products, marking a more militant phase of nationalism."
+        }
       ]
     },
     {
@@ -17,10 +26,63 @@
       "word_limit": 150,
       "answer": [
         "After returning from South Africa in 1915, Gandhi led the freedom struggle through satyagraha, or non-violent resistance.",
-        { "lead": "Non-Cooperation Movement.", "text": "Launched in 1920, it called on Indians to boycott British schools, courts, titles and foreign cloth. It was withdrawn in 1922 after the violence at Chauri Chaura." },
-        { "lead": "Civil Disobedience Movement.", "text": "Begun in 1930 with the Dandi Salt March, in which Gandhi broke the salt law, it spread defiance of unjust laws across the country." },
-        { "lead": "Quit India Movement.", "text": "Launched in 1942 with the call to 'Do or Die', it demanded the immediate end of British rule." },
+        {
+          "lead": "Non-Cooperation Movement.",
+          "text": "Launched in 1920, it called on Indians to boycott British schools, courts, titles and foreign cloth. It was withdrawn in 1922 after the violence at Chauri Chaura."
+        },
+        {
+          "lead": "Civil Disobedience Movement.",
+          "text": "Begun in 1930 with the Dandi Salt March, in which Gandhi broke the salt law, it spread defiance of unjust laws across the country."
+        },
+        {
+          "lead": "Quit India Movement.",
+          "text": "Launched in 1942 with the call to 'Do or Die', it demanded the immediate end of British rule."
+        },
         "These mass movements united millions and made independence, achieved in 1947, inevitable."
+      ]
+    },
+    {
+      "q": "Why was the Indian National Congress founded, and how did its methods change between the Moderates and later leaders?",
+      "directive": "Explain",
+      "word_limit": 160,
+      "answer": [
+        {
+          "lead": "The Congress was founded in 1885",
+          "text": "to give educated Indians a platform to voice grievances, demand a share in government and build a sense of national unity against colonial neglect."
+        },
+        {
+          "list": [
+            "Early Moderate leaders like Dadabhai Naoroji and Gopal Krishna Gokhale relied on petitions, resolutions and speeches to press for reforms",
+            "They demanded more Indians in the civil services, an elected legislature, and a lighter economic burden — Naoroji's 'drain of wealth' idea exposed how India's resources flowed to Britain",
+            "Radicals like Bal Gangadhar Tilak argued that petitions were not enough and Indians must depend on their own strength"
+          ]
+        },
+        {
+          "lead": "The 1905 partition of Bengal",
+          "text": "sparked the Swadeshi Movement, which boycotted British goods and promoted Indian industries, marking a shift to mass action."
+        }
+      ]
+    },
+    {
+      "q": "How did Mahatma Gandhi transform the national movement into a mass struggle?",
+      "directive": "Analyse",
+      "word_limit": 160,
+      "answer": [
+        {
+          "lead": "Gandhi brought the masses in.",
+          "text": "Returning from South Africa in 1915, he developed satyagraha — non-violent resistance based on truth — and led local struggles at Champaran, Kheda and Ahmedabad that connected the movement to peasants and workers."
+        },
+        {
+          "list": [
+            "The Non-Cooperation Movement (1920–22) urged Indians to boycott schools, courts, titles and foreign cloth, drawing huge participation",
+            "The Civil Disobedience Movement began with the 1930 Salt March to Dandi, breaking the salt law and defying the state openly",
+            "The Quit India Movement of 1942 demanded an immediate end to British rule with the call 'Do or Die'"
+          ]
+        },
+        {
+          "lead": "By using simple symbols like salt and khadi,",
+          "text": "Gandhi united peasants, women, workers and the educated across regions, turning nationalism into a truly mass movement."
+        }
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The Earth is the only planet known to support life, because of a rare combination of favourable conditions.",
-        { "lead": "Distance and water.", "text": "It lies at just the right distance from the Sun, so that it is neither too hot nor too cold and water can exist as a liquid. This abundant liquid water is essential for all living things." },
-        { "lead": "Atmosphere and ozone.", "text": "Its atmosphere contains oxygen for breathing and carbon dioxide for plants to make food, and a layer of ozone high above shields living things from the Sun's harmful ultraviolet rays." },
-        { "lead": "Interlinked spheres.", "text": "The land, water and air meet in the biosphere, and natural cycles of water, oxygen and nitrogen keep conditions suitable, making Earth a unique home for life." }
+        {
+          "lead": "Distance and water.",
+          "text": "It lies at just the right distance from the Sun, so that it is neither too hot nor too cold and water can exist as a liquid. This abundant liquid water is essential for all living things."
+        },
+        {
+          "lead": "Atmosphere and ozone.",
+          "text": "Its atmosphere contains oxygen for breathing and carbon dioxide for plants to make food, and a layer of ozone high above shields living things from the Sun's harmful ultraviolet rays."
+        },
+        {
+          "lead": "Interlinked spheres.",
+          "text": "The land, water and air meet in the biosphere, and natural cycles of water, oxygen and nitrogen keep conditions suitable, making Earth a unique home for life."
+        }
       ]
     },
     {
@@ -17,9 +26,66 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "The threats.", "text": "Human activities are harming the Earth in many ways. Pollution is fouling the air, water and land; forests are being cut down; and the burning of fossil fuels is increasing greenhouse gases such as carbon dioxide. This causes global warming, which melts glaciers, raises sea levels and brings extreme weather." },
-        { "lead": "Protecting our home.", "text": "To protect the Earth we must reduce pollution, conserve water, soil and energy, plant more trees, and shift to renewable sources of energy such as solar and wind. Following the three R's — reduce, reuse and recycle — also helps." },
+        {
+          "lead": "The threats.",
+          "text": "Human activities are harming the Earth in many ways. Pollution is fouling the air, water and land; forests are being cut down; and the burning of fossil fuels is increasing greenhouse gases such as carbon dioxide. This causes global warming, which melts glaciers, raises sea levels and brings extreme weather."
+        },
+        {
+          "lead": "Protecting our home.",
+          "text": "To protect the Earth we must reduce pollution, conserve water, soil and energy, plant more trees, and shift to renewable sources of energy such as solar and wind. Following the three R's — reduce, reuse and recycle — also helps."
+        },
         "Since Earth is our only home, caring for it is a duty we all share."
+      ]
+    },
+    {
+      "q": "How do the atmosphere, water and the right distance from the Sun make the Earth able to support life?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Earth is unique",
+          "text": "in the solar system because several conditions come together to support life."
+        },
+        {
+          "list": [
+            "It lies at the right distance from the Sun, so it is neither too hot nor too cold and water can exist as liquid",
+            "Its atmosphere has oxygen for breathing and carbon dioxide for photosynthesis, and traps enough heat to keep the planet warm",
+            "The ozone layer shields living things from the Sun's harmful ultraviolet rays",
+            "Abundant liquid water, found nowhere else in such quantity, is essential for all life"
+          ]
+        },
+        {
+          "lead": "Together",
+          "text": "these make the Earth a life-supporting planet, so far the only one known."
+        }
+      ]
+    },
+    {
+      "q": "What are the main threats to the environment from human activity, and how can we reduce them?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Human activity",
+          "text": "is straining the Earth's natural systems in several serious ways."
+        },
+        {
+          "list": [
+            "Air, water and soil pollution from industries, vehicles and waste harm health and ecosystems",
+            "Deforestation and overuse of resources destroy habitats and reduce biodiversity",
+            "Burning fossil fuels adds greenhouse gases that cause global warming and climate change"
+          ]
+        },
+        {
+          "lead": "We can reduce these harms",
+          "text": "through responsible choices."
+        },
+        {
+          "list": [
+            "Reduce, reuse and recycle; save energy and water; and shift to renewable energy",
+            "Plant trees, control pollution, and protect forests and wildlife"
+          ]
+        }
       ]
     }
   ]

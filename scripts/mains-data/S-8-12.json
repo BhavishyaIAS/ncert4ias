@@ -6,8 +6,14 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Charging and lightning.", "text": "When two objects are rubbed together, they become charged, gaining either positive or negative charge; like charges repel and unlike charges attract. In storm clouds, large amounts of charge build up. Lightning is the huge electric discharge that occurs when this charge jumps between clouds, or between a cloud and the ground, as a giant spark accompanied by thunder." },
-        { "lead": "Lightning conductor.", "text": "A lightning conductor is a metal rod fixed on the top of a tall building and connected by a wire to a metal plate buried in the ground. If lightning strikes, it provides an easy path that carries the electric charge safely down into the earth, protecting the building from damage. During lightning one should stay indoors and avoid open fields and tall trees." }
+        {
+          "lead": "Charging and lightning.",
+          "text": "When two objects are rubbed together, they become charged, gaining either positive or negative charge; like charges repel and unlike charges attract. In storm clouds, large amounts of charge build up. Lightning is the huge electric discharge that occurs when this charge jumps between clouds, or between a cloud and the ground, as a giant spark accompanied by thunder."
+        },
+        {
+          "lead": "Lightning conductor.",
+          "text": "A lightning conductor is a metal rod fixed on the top of a tall building and connected by a wire to a metal plate buried in the ground. If lightning strikes, it provides an easy path that carries the electric charge safely down into the earth, protecting the building from damage. During lightning one should stay indoors and avoid open fields and tall trees."
+        }
       ]
     },
     {
@@ -16,9 +22,80 @@
       "word_limit": 150,
       "answer": [
         "An earthquake is a sudden shaking or trembling of the Earth's crust.",
-        { "lead": "Cause.", "text": "The Earth's outer layer is made of large plates that are always moving slowly. When these lithospheric plates move past one another along weak zones called faults, energy is suddenly released, and this energy travels outward as seismic waves, shaking the ground." },
-        { "lead": "Focus and epicentre.", "text": "The point inside the Earth where the earthquake originates is the focus, and the point on the surface directly above it is the epicentre, where shaking is strongest." },
-        { "lead": "Measurement.", "text": "Earthquakes are recorded by a seismograph and their strength expressed on the Richter scale; a reading above about seven can be very destructive." }
+        {
+          "lead": "Cause.",
+          "text": "The Earth's outer layer is made of large plates that are always moving slowly. When these lithospheric plates move past one another along weak zones called faults, energy is suddenly released, and this energy travels outward as seismic waves, shaking the ground."
+        },
+        {
+          "lead": "Focus and epicentre.",
+          "text": "The point inside the Earth where the earthquake originates is the focus, and the point on the surface directly above it is the epicentre, where shaking is strongest."
+        },
+        {
+          "lead": "Measurement.",
+          "text": "Earthquakes are recorded by a seismograph and their strength expressed on the Richter scale; a reading above about seven can be very destructive."
+        }
+      ]
+    },
+    {
+      "q": "How do objects become charged, and how can we detect and transfer electric charge?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Objects become charged",
+          "text": "when they are rubbed together, because rubbing transfers charges from one object to the other — this is charging by friction."
+        },
+        {
+          "list": [
+            "There are two kinds of charge, positive and negative; like charges repel and unlike charges attract",
+            "A charged object can attract small bits of paper, showing it carries charge"
+          ]
+        },
+        {
+          "lead": "An electroscope",
+          "text": "detects charge — its foils spread apart when touched by a charged body."
+        },
+        {
+          "lead": "Charge can be transferred",
+          "text": "to the earth."
+        },
+        {
+          "list": [
+            "When a charged object touches the ground, its charge flows away — this is called earthing",
+            "Earthing is used in buildings to carry away dangerous charges safely"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What precautions should be taken to stay safe during lightning and an earthquake?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Both lightning and earthquakes",
+          "text": "can be deadly, so knowing safety measures saves lives."
+        },
+        {
+          "lead": "During lightning,",
+          "text": "avoid open and high places."
+        },
+        {
+          "list": [
+            "Take shelter in a building or a closed vehicle; do not stand under an isolated tree or use open fields",
+            "Avoid using wired phones, and stay away from metal objects and water"
+          ]
+        },
+        {
+          "lead": "During an earthquake,",
+          "text": "protect yourself from falling objects."
+        },
+        {
+          "list": [
+            "If indoors, take cover under a strong table and hold on; stay away from tall furniture",
+            "If outdoors, move to open ground away from buildings, trees and power lines"
+          ]
+        }
       ]
     }
   ]

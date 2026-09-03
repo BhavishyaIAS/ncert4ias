@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Microorganisms, though tiny, are of great use to us in many ways.",
-        { "lead": "In food.", "text": "Lactobacillus bacteria turn milk into curd and cheese, while yeast, through fermentation of sugar, is used to make bread, idli and alcohol." },
-        { "lead": "In agriculture.", "text": "Nitrogen-fixing microbes such as Rhizobium in the roots of legumes, and blue-green algae, enrich the soil by fixing nitrogen from the air." },
-        { "lead": "In medicine.", "text": "Antibiotics, such as penicillin obtained from a fungus, are used to cure diseases, and vaccines made from microbes protect us by building immunity." },
-        { "lead": "In the environment.", "text": "As decomposers, microbes break down dead plants and animals, cleaning the environment and recycling nutrients." }
+        {
+          "lead": "In food.",
+          "text": "Lactobacillus bacteria turn milk into curd and cheese, while yeast, through fermentation of sugar, is used to make bread, idli and alcohol."
+        },
+        {
+          "lead": "In agriculture.",
+          "text": "Nitrogen-fixing microbes such as Rhizobium in the roots of legumes, and blue-green algae, enrich the soil by fixing nitrogen from the air."
+        },
+        {
+          "lead": "In medicine.",
+          "text": "Antibiotics, such as penicillin obtained from a fungus, are used to cure diseases, and vaccines made from microbes protect us by building immunity."
+        },
+        {
+          "lead": "In the environment.",
+          "text": "As decomposers, microbes break down dead plants and animals, cleaning the environment and recycling nutrients."
+        }
       ]
     },
     {
@@ -18,8 +30,63 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Disease-causing microbes.", "text": "Some microbes, called pathogens, cause communicable diseases that spread through air, water, contact or insect carriers. Bacteria cause tuberculosis, cholera and typhoid; viruses cause colds, influenza and polio; the protozoan Plasmodium causes malaria, spread by the female Anopheles mosquito; and fungi cause skin infections. Some microbes also cause food poisoning and spoilage." },
-        { "lead": "Preserving food.", "text": "Food is preserved by stopping microbes from growing. Common methods are salting, sugaring, drying, boiling, refrigeration, and adding preservatives such as sodium benzoate. Milk is preserved by pasteurisation, in which it is heated and then quickly cooled to kill microbes, a method developed by Louis Pasteur." }
+        {
+          "lead": "Disease-causing microbes.",
+          "text": "Some microbes, called pathogens, cause communicable diseases that spread through air, water, contact or insect carriers. Bacteria cause tuberculosis, cholera and typhoid; viruses cause colds, influenza and polio; the protozoan Plasmodium causes malaria, spread by the female Anopheles mosquito; and fungi cause skin infections. Some microbes also cause food poisoning and spoilage."
+        },
+        {
+          "lead": "Preserving food.",
+          "text": "Food is preserved by stopping microbes from growing. Common methods are salting, sugaring, drying, boiling, refrigeration, and adding preservatives such as sodium benzoate. Milk is preserved by pasteurisation, in which it is heated and then quickly cooled to kill microbes, a method developed by Louis Pasteur."
+        }
+      ]
+    },
+    {
+      "q": "How do microorganisms help in the nitrogen cycle and in agriculture?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Microorganisms keep nitrogen circulating",
+          "text": "so that plants and animals can use it, since they cannot use the abundant nitrogen gas in the air directly."
+        },
+        {
+          "list": [
+            "Nitrogen-fixing bacteria in the soil and in the root nodules of leguminous plants convert atmospheric nitrogen into compounds plants can absorb",
+            "Lightning also fixes some nitrogen, which rain carries to the soil",
+            "Decomposers break down dead plants and animals, returning nitrogen to the soil",
+            "Denitrifying bacteria release nitrogen back into the air, completing the cycle"
+          ]
+        },
+        {
+          "lead": "In agriculture,",
+          "text": "growing legumes and using biofertilisers of such bacteria enriches the soil naturally, reducing the need for chemical fertilisers."
+        }
+      ]
+    },
+    {
+      "q": "What are communicable diseases, and how do carriers and preventive measures affect their spread?",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Communicable diseases",
+          "text": "are caused by microorganisms and spread from an infected person to a healthy one through air, water, food or contact — examples are cholera, tuberculosis and influenza."
+        },
+        {
+          "list": [
+            "Some insects and animals act as carriers that spread disease-causing microbes — the female Anopheles mosquito carries the malarial parasite and the housefly carries cholera and typhoid microbes"
+          ]
+        },
+        {
+          "lead": "Prevention",
+          "text": "breaks the chain of spread."
+        },
+        {
+          "list": [
+            "Vaccination gives immunity against many diseases",
+            "Keeping surroundings clean, safe drinking water and controlling mosquitoes and flies stop transmission"
+          ]
+        }
       ]
     }
   ]

@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "To secure a steady income, the Company introduced three main land-revenue systems.",
-        { "lead": "Permanent Settlement (1793).", "text": "Introduced by Cornwallis in Bengal and Bihar, it made zamindars the owners of land and fixed their revenue permanently. Zamindars often failed to invest and oppressed the peasants." },
-        { "lead": "Ryotwari system.", "text": "Developed by Munro and Read for Madras and Bombay, it settled revenue directly with each ryot, or cultivator, without a zamindar in between." },
-        { "lead": "Mahalwari system.", "text": "Devised by Holt Mackenzie in 1822 for the North-Western Provinces, it settled revenue with the whole village, or mahal, as a unit, and the demand was revised from time to time." },
+        {
+          "lead": "Permanent Settlement (1793).",
+          "text": "Introduced by Cornwallis in Bengal and Bihar, it made zamindars the owners of land and fixed their revenue permanently. Zamindars often failed to invest and oppressed the peasants."
+        },
+        {
+          "lead": "Ryotwari system.",
+          "text": "Developed by Munro and Read for Madras and Bombay, it settled revenue directly with each ryot, or cultivator, without a zamindar in between."
+        },
+        {
+          "lead": "Mahalwari system.",
+          "text": "Devised by Holt Mackenzie in 1822 for the North-Western Provinces, it settled revenue with the whole village, or mahal, as a unit, and the demand was revised from time to time."
+        },
         "All three aimed to maximise revenue, and all pressed heavily on the peasantry."
       ]
     },
@@ -18,9 +27,67 @@
       "directive": "Describe",
       "word_limit": 150,
       "answer": [
-        { "lead": "Background.", "text": "European planters forced Bengal peasants to grow indigo, a blue dye in great demand in Europe, mainly under the ryoti system, in which ryots grew indigo on their own land under oppressive contracts and loans that trapped them in debt, while earning almost nothing." },
-        { "lead": "The rebellion.", "text": "In 1859 the indigo ryots of Bengal refused to grow the crop, attacked indigo factories and boycotted those who worked for planters. They were supported by many zamindars, the local press and some officials." },
-        { "lead": "Outcome.", "text": "The government appointed the Indigo Commission in 1860, which held the planters guilty, and indigo cultivation collapsed in Bengal. It shifted to Bihar, where Gandhi later led the Champaran movement in 1917." }
+        {
+          "lead": "Background.",
+          "text": "European planters forced Bengal peasants to grow indigo, a blue dye in great demand in Europe, mainly under the ryoti system, in which ryots grew indigo on their own land under oppressive contracts and loans that trapped them in debt, while earning almost nothing."
+        },
+        {
+          "lead": "The rebellion.",
+          "text": "In 1859 the indigo ryots of Bengal refused to grow the crop, attacked indigo factories and boycotted those who worked for planters. They were supported by many zamindars, the local press and some officials."
+        },
+        {
+          "lead": "Outcome.",
+          "text": "The government appointed the Indigo Commission in 1860, which held the planters guilty, and indigo cultivation collapsed in Bengal. It shifted to Bihar, where Gandhi later led the Champaran movement in 1917."
+        }
+      ]
+    },
+    {
+      "q": "Why did the Company want to grow indigo, and how was it cultivated under the ryoti and nij systems?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Demand drove it.",
+          "text": "Indigo produced a rich blue dye prized by European cloth manufacturers. As demand soared and other sources dried up, India — especially Bengal and Bihar — became the main supplier, and planters pushed to expand cultivation."
+        },
+        {
+          "lead": "Nij cultivation",
+          "text": "meant the planter grew indigo on land he directly controlled — bought or rented — using hired labourers. It needed large areas, ploughs and bullocks, so it stayed limited."
+        },
+        {
+          "lead": "Ryoti cultivation",
+          "text": "dominated. Planters forced ryots (peasants) to sign contracts and take cash advances (loans) to grow indigo on their own land."
+        },
+        {
+          "list": [
+            "Those who took loans had to plant indigo on the best soils, leaving little for food crops",
+            "Prices paid were low and debts never cleared, trapping peasants in a cycle of loans",
+            "Indigo also exhausted the soil, harming the next crop"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "What was the Permanent Settlement, and what problems did it create for the Company and the peasants?",
+      "directive": "Assess",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Introduced in 1793 in Bengal,",
+          "text": "the Permanent Settlement made rajas and taluqdars into zamindars who collected rent from peasants and paid a fixed revenue to the Company. The amount was fixed permanently, so it would never rise."
+        },
+        {
+          "list": [
+            "The Company hoped a fixed demand would give it steady income and create loyal, investing landlords",
+            "But the demand was set so high that zamindars who failed to pay lost their lands",
+            "As prices and cultivation rose, the Company lost out because its share stayed fixed",
+            "Zamindars had little incentive to improve land; peasants faced high rents and harsh terms"
+          ]
+        },
+        {
+          "lead": "The result",
+          "text": "was hardship for cultivators and dissatisfaction for the Company — leading it to try the Mahalwari and Ryotwari systems elsewhere."
+        }
       ]
     }
   ]

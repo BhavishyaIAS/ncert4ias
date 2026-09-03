@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "The East India Company came to India in 1600 to trade, but in Bengal it gradually seized political power.",
-        { "lead": "Battle of Plassey.", "text": "Conflict with Nawab Siraj-ud-Daulah led to the Battle of Plassey in 1757, where Robert Clive defeated him, helped by the betrayal of his commander Mir Jafar. This was the Company's first great political victory." },
-        { "lead": "Battle of Buxar.", "text": "In 1764 the Company defeated the combined armies of the Nawab of Awadh, the Mughal emperor and Mir Qasim at Buxar, confirming its dominance." },
-        { "lead": "Grant of Diwani.", "text": "In 1765 the Mughal emperor granted the Company the Diwani of Bengal, Bihar and Orissa — the right to collect revenue — turning the trader into the real ruler of the richest province." }
+        {
+          "lead": "Battle of Plassey.",
+          "text": "Conflict with Nawab Siraj-ud-Daulah led to the Battle of Plassey in 1757, where Robert Clive defeated him, helped by the betrayal of his commander Mir Jafar. This was the Company's first great political victory."
+        },
+        {
+          "lead": "Battle of Buxar.",
+          "text": "In 1764 the Company defeated the combined armies of the Nawab of Awadh, the Mughal emperor and Mir Qasim at Buxar, confirming its dominance."
+        },
+        {
+          "lead": "Grant of Diwani.",
+          "text": "In 1765 the Mughal emperor granted the Company the Diwani of Bengal, Bihar and Orissa — the right to collect revenue — turning the trader into the real ruler of the richest province."
+        }
       ]
     },
     {
@@ -17,9 +26,62 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Subsidiary Alliance.", "text": "Introduced by Lord Wellesley, this system required an Indian ruler to keep a British army within his state and pay for it, not to employ other Europeans, and to accept a British Resident at his court. A ruler who could not pay had to give up territory. States such as Awadh and Hyderabad were tied down this way." },
-        { "lead": "Doctrine of Lapse.", "text": "Introduced by Lord Dalhousie, this held that if a ruler died without a natural heir, his kingdom would 'lapse' to the Company. Adopted heirs were not recognised, and states such as Satara, Jhansi and Nagpur were annexed." },
-        { "lead": "Effect.", "text": "Together these policies let the Company absorb one state after another without always fighting wars." }
+        {
+          "lead": "Subsidiary Alliance.",
+          "text": "Introduced by Lord Wellesley, this system required an Indian ruler to keep a British army within his state and pay for it, not to employ other Europeans, and to accept a British Resident at his court. A ruler who could not pay had to give up territory. States such as Awadh and Hyderabad were tied down this way."
+        },
+        {
+          "lead": "Doctrine of Lapse.",
+          "text": "Introduced by Lord Dalhousie, this held that if a ruler died without a natural heir, his kingdom would 'lapse' to the Company. Adopted heirs were not recognised, and states such as Satara, Jhansi and Nagpur were annexed."
+        },
+        {
+          "lead": "Effect.",
+          "text": "Together these policies let the Company absorb one state after another without always fighting wars."
+        }
+      ]
+    },
+    {
+      "q": "How did the Battle of Plassey and the Battle of Buxar change the Company's position in India?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Plassey (1757)",
+          "text": "was won less by fighting than by conspiracy — the Company bribed Mir Jafar, the commander of Nawab Siraj-ud-Daulah's forces, who held back his troops. Victory made the Company the real power behind the Bengal throne, installing puppet Nawabs it could pressure for money and concessions."
+        },
+        {
+          "lead": "Buxar (1764)",
+          "text": "was decisive: the Company defeated the combined armies of the Bengal Nawab, the Awadh Nawab and the Mughal Emperor. In 1765 the Emperor granted it the Diwani of Bengal — the right to collect revenue."
+        },
+        {
+          "list": [
+            "The Diwani gave the Company vast Bengal revenues to finance its trade, army and expansion",
+            "It no longer needed to import gold to buy Indian goods — it bought them with Indian taxes",
+            "The dual system left administration a burden on Indians while the Company took the profits"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did the Company organise and control its expanding territories and administration?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Territory was divided into Presidencies.",
+          "text": "Bengal, Madras and Bombay were each governed by a Governor, with the Governor-General as the head of the whole. Warren Hastings (Governor-General 1773–1785) saw major administrative expansion."
+        },
+        {
+          "list": [
+            "Each district had a Collector to collect revenue and taxes and maintain law and order, aided by judges and the police",
+            "A new justice system was set up in 1772 with a civil court (Diwani Adalat) and a criminal court (Faujdari Adalat) in each district",
+            "The Company army, the sepoy army, was built from Indian soldiers trained in European infantry drill and firepower"
+          ]
+        },
+        {
+          "lead": "The aim",
+          "text": "was tight control over revenue and order — the Collector's office became the centre of Company power in the countryside."
+        }
       ]
     }
   ]

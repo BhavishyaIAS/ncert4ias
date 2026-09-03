@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "In the early nineteenth century the British disagreed sharply over what kind of education to give Indians.",
-        { "lead": "The Orientalists.", "text": "Scholars such as William Jones and Henry Colebrooke admired Indian learning and wished to promote the study of Sanskrit, Persian and Arabic and the ancient classics. They founded institutions like the Calcutta Madrasa and the Sanskrit College at Banaras." },
-        { "lead": "The Anglicists.", "text": "Others, led by Thomas Macaulay, believed Western knowledge was superior and that Indian learning was of little value." },
-        { "lead": "The outcome.", "text": "Macaulay's Minute of 1835 gave victory to the Anglicists, making English the medium and Western knowledge the content of higher education, so as to create a class of Indians useful to the administration." }
+        {
+          "lead": "The Orientalists.",
+          "text": "Scholars such as William Jones and Henry Colebrooke admired Indian learning and wished to promote the study of Sanskrit, Persian and Arabic and the ancient classics. They founded institutions like the Calcutta Madrasa and the Sanskrit College at Banaras."
+        },
+        {
+          "lead": "The Anglicists.",
+          "text": "Others, led by Thomas Macaulay, believed Western knowledge was superior and that Indian learning was of little value."
+        },
+        {
+          "lead": "The outcome.",
+          "text": "Macaulay's Minute of 1835 gave victory to the Anglicists, making English the medium and Western knowledge the content of higher education, so as to create a class of Indians useful to the administration."
+        }
       ]
     },
     {
@@ -18,10 +27,62 @@
       "word_limit": 150,
       "answer": [
         "Both Gandhi and Tagore rejected the colonial system of education and offered Indian alternatives.",
-        { "lead": "The colonial system.", "text": "Shaped by Macaulay's Minute and Wood's Despatch of 1854, it stressed English, bookish learning and Western knowledge, mainly to train clerks for the administration." },
-        { "lead": "Gandhi.", "text": "Gandhi felt this made Indians slaves and valued only reading and writing over practical skill. He urged education through a craft and in the mother tongue, an idea he called Nai Talim or Basic Education." },
-        { "lead": "Tagore.", "text": "Tagore founded Shantiniketan in 1901, where children learned in a natural, joyful and creative setting, free from rigid discipline." },
+        {
+          "lead": "The colonial system.",
+          "text": "Shaped by Macaulay's Minute and Wood's Despatch of 1854, it stressed English, bookish learning and Western knowledge, mainly to train clerks for the administration."
+        },
+        {
+          "lead": "Gandhi.",
+          "text": "Gandhi felt this made Indians slaves and valued only reading and writing over practical skill. He urged education through a craft and in the mother tongue, an idea he called Nai Talim or Basic Education."
+        },
+        {
+          "lead": "Tagore.",
+          "text": "Tagore founded Shantiniketan in 1901, where children learned in a natural, joyful and creative setting, free from rigid discipline."
+        },
         "Both wanted education rooted in Indian culture and self-reliance."
+      ]
+    },
+    {
+      "q": "Why did the British want to control the system of education in India, and how did they try to do it?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Education was a tool of rule.",
+          "text": "The British believed that reshaping what and how Indians learnt would make them useful and loyal subjects, and would spread the European knowledge they saw as superior."
+        },
+        {
+          "list": [
+            "Anglicists like Macaulay argued English education would create a class 'Indian in blood and colour, but English in taste and opinion' to help administer the empire",
+            "English was made the medium of higher education, and European learning promoted over Indian classical knowledge",
+            "Wood's Despatch of 1854 laid out a plan for education from primary schools to universities, stressing practical and economic benefits"
+          ]
+        },
+        {
+          "lead": "The deeper aim",
+          "text": "was to devalue Indian learning, produce clerks and officials for the administration, and open India to European trade and ideas."
+        }
+      ]
+    },
+    {
+      "q": "How did the local system of pathshalas function, and how was it changed under colonial rule?",
+      "directive": "Describe",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Pathshalas were flexible.",
+          "text": "William Adam's report found thousands of these local schools across Bengal and Bihar. They had no fixed fees, printed books, timetable, benches or examinations, and teaching was oral and suited to the local setting."
+        },
+        {
+          "list": [
+            "The teacher (guru) decided lessons to fit the needs of pupils, and classes could pause during harvest when peasant children worked in the fields",
+            "There were no separate school buildings — a corner of a house or a shady tree served"
+          ]
+        },
+        {
+          "lead": "Colonial reform ended this flexibility.",
+          "text": "New rules appointed government pandits to inspect and improve pathshalas, imposed regular timetables, textbooks and examinations, and demanded fixed attendance — making schooling harder for children of the poor who could no longer attend seasonally."
+        }
       ]
     }
   ]

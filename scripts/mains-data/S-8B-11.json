@@ -7,9 +7,73 @@
       "word_limit": 150,
       "answer": [
         "Since ancient times, people have measured time by watching regularly repeating events in the sky.",
-        { "lead": "Day, month and year.", "text": "The day is measured by the rotation of the Earth on its axis, which gives day and night. The month comes from the changing phases of the Moon, one full cycle taking about 29.5 days. The year is measured by the revolution of the Earth around the Sun." },
-        { "lead": "Devices and calendars.", "text": "Early people used the sundial, which tells time from the shadow cast by the Sun, and observed the positions of stars. These observations were organised into calendars — lunar calendars based on the Moon, solar calendars based on the Sun, and luni-solar calendars combining both, such as the traditional Indian calendars." },
+        {
+          "lead": "Day, month and year.",
+          "text": "The day is measured by the rotation of the Earth on its axis, which gives day and night. The month comes from the changing phases of the Moon, one full cycle taking about 29.5 days. The year is measured by the revolution of the Earth around the Sun."
+        },
+        {
+          "lead": "Devices and calendars.",
+          "text": "Early people used the sundial, which tells time from the shadow cast by the Sun, and observed the positions of stars. These observations were organised into calendars — lunar calendars based on the Moon, solar calendars based on the Sun, and luni-solar calendars combining both, such as the traditional Indian calendars."
+        },
         "The widely used Gregorian calendar has 365 days, with 366 in a leap year."
+      ]
+    },
+    {
+      "q": "How do the movements of the Earth cause day and night and the seasons?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "The Earth has two main motions",
+          "text": "that shape our experience of time — rotation and revolution."
+        },
+        {
+          "lead": "Rotation",
+          "text": "is the spinning of the Earth on its axis once in about 24 hours."
+        },
+        {
+          "list": [
+            "The half facing the Sun has day; the half turned away has night",
+            "As the Earth spins, places move from day into night, giving us the daily cycle"
+          ]
+        },
+        {
+          "lead": "Revolution",
+          "text": "is the Earth's yearly journey around the Sun, combined with the tilt of its axis."
+        },
+        {
+          "list": [
+            "The tilt makes the Sun's rays fall more directly on one hemisphere at a time",
+            "This changing angle of sunlight through the year causes the seasons"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How did early people measure time using the Sun, Moon and stars?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Long before clocks,",
+          "text": "people watched regular events in the sky to keep track of time."
+        },
+        {
+          "list": [
+            "The rising and setting of the Sun marked the day; a sundial used the moving shadow of a stick to tell the hour",
+            "The changing phases of the Moon, from new moon to full moon, marked the month"
+          ]
+        },
+        {
+          "lead": "The Sun and stars",
+          "text": "marked longer periods."
+        },
+        {
+          "list": [
+            "The Earth's journey around the Sun and the return of the same star patterns marked the year",
+            "Ancient calendars were built from these sky cycles, and are the basis of our units of time today"
+          ]
+        }
       ]
     }
   ]

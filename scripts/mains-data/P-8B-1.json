@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "Universal adult franchise is the right of every adult citizen to vote, regardless of caste, religion, gender, wealth or education.",
-        { "lead": "In India.", "text": "In India, every citizen aged eighteen or above can vote, the age having been lowered from twenty-one by the 61st Constitutional Amendment in 1988." },
-        { "lead": "Political equality.", "text": "It rests on the principle of political equality — one person, one vote, one value — so that a poor labourer's vote counts exactly as much as that of a wealthy person." },
-        { "lead": "Importance.", "text": "By giving everyone an equal say in choosing the government, universal adult franchise makes the government truly representative and accountable to all the people, which is the very heart of democracy." }
+        {
+          "lead": "In India.",
+          "text": "In India, every citizen aged eighteen or above can vote, the age having been lowered from twenty-one by the 61st Constitutional Amendment in 1988."
+        },
+        {
+          "lead": "Political equality.",
+          "text": "It rests on the principle of political equality — one person, one vote, one value — so that a poor labourer's vote counts exactly as much as that of a wealthy person."
+        },
+        {
+          "lead": "Importance.",
+          "text": "By giving everyone an equal say in choosing the government, universal adult franchise makes the government truly representative and accountable to all the people, which is the very heart of democracy."
+        }
       ]
     },
     {
@@ -18,9 +27,67 @@
       "word_limit": 150,
       "answer": [
         "The Election Commission of India is an independent constitutional body responsible for conducting elections in the country.",
-        { "lead": "Its work.", "text": "It conducts elections to Parliament, the State legislatures and the offices of the President and Vice-President. It prepares and updates the electoral rolls, or voter lists, decides the schedule of elections, and oversees the whole process, now conducted through Electronic Voting Machines with VVPAT." },
-        { "lead": "Ensuring fairness.", "text": "It enforces the Model Code of Conduct, which lays down rules that parties and candidates must follow during campaigns, and takes action against violations." },
-        { "lead": "Independence.", "text": "Its independence from the government is essential, for only an impartial Election Commission can ensure free and fair elections, the foundation of democracy." }
+        {
+          "lead": "Its work.",
+          "text": "It conducts elections to Parliament, the State legislatures and the offices of the President and Vice-President. It prepares and updates the electoral rolls, or voter lists, decides the schedule of elections, and oversees the whole process, now conducted through Electronic Voting Machines with VVPAT."
+        },
+        {
+          "lead": "Ensuring fairness.",
+          "text": "It enforces the Model Code of Conduct, which lays down rules that parties and candidates must follow during campaigns, and takes action against violations."
+        },
+        {
+          "lead": "Independence.",
+          "text": "Its independence from the government is essential, for only an impartial Election Commission can ensure free and fair elections, the foundation of democracy."
+        }
+      ]
+    },
+    {
+      "q": "How does universal adult franchise make democracy inclusive, and why was it significant for India to adopt it at once?",
+      "directive": "Analyse",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Universal adult franchise",
+          "text": "gives every citizen above a fixed age the right to vote, regardless of wealth, education, caste, religion or sex."
+        },
+        {
+          "list": [
+            "It makes every adult an equal participant in choosing the government, embodying political equality",
+            "It gives the poor and marginalised the same voice as the rich and powerful"
+          ]
+        },
+        {
+          "lead": "India's choice was bold.",
+          "text": "Many countries granted the vote only gradually, first to the propertied, then to men, and much later to women."
+        },
+        {
+          "list": [
+            "India adopted universal adult franchise from its very first election despite widespread poverty and illiteracy",
+            "This affirmed faith in the ability of ordinary people to govern themselves"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "How does the Election Commission ensure free and fair elections in India?",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "The Election Commission of India",
+          "text": "is an independent body that conducts and supervises elections to Parliament, state legislatures and the offices of President and Vice-President."
+        },
+        {
+          "list": [
+            "It prepares and updates electoral rolls so every eligible citizen can vote",
+            "It sets the schedule, oversees polling and counting, and uses measures like the Electronic Voting Machine",
+            "It enforces the Model Code of Conduct to keep the contest fair, and can act against parties and candidates that break the rules"
+          ]
+        },
+        {
+          "lead": "Its independence",
+          "text": "from the government of the day is what allows it to hold elections impartially and command public trust."
+        }
       ]
     }
   ]

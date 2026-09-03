@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "Friction is the force that opposes the relative motion between two surfaces in contact, always acting in the direction opposite to motion.",
-        { "lead": "Cause and factors.", "text": "It is caused by the tiny irregularities on the surfaces interlocking with one another. Friction is greater when the surfaces are rougher and when they are pressed together more firmly, for example by a heavier weight." },
-        { "lead": "Types.", "text": "Static friction acts before motion begins and is the largest. Sliding friction acts when one surface slides over another. Rolling friction acts when one body rolls over another and is the smallest. Thus rolling friction is less than sliding friction, which is less than static friction." },
+        {
+          "lead": "Cause and factors.",
+          "text": "It is caused by the tiny irregularities on the surfaces interlocking with one another. Friction is greater when the surfaces are rougher and when they are pressed together more firmly, for example by a heavier weight."
+        },
+        {
+          "lead": "Types.",
+          "text": "Static friction acts before motion begins and is the largest. Sliding friction acts when one surface slides over another. Rolling friction acts when one body rolls over another and is the smallest. Thus rolling friction is less than sliding friction, which is less than static friction."
+        },
         "This is why it is easier to roll a heavy object than to drag it."
       ]
     },
@@ -17,9 +23,73 @@
       "directive": "Discuss",
       "word_limit": 150,
       "answer": [
-        { "lead": "Friction as a friend.", "text": "Friction makes many everyday actions possible. It lets us walk without slipping, write with a pen, hold and grip objects, and stop vehicles using brakes. Without friction we could neither move nor hold anything." },
-        { "lead": "Friction as a foe.", "text": "Friction also causes the wear and tear of machine parts and shoe soles, and produces heat, wasting energy." },
-        { "lead": "Reducing friction.", "text": "Friction can be reduced by using lubricants such as oil and grease, by polishing surfaces, and by using ball bearings, which change sliding into rolling. Objects moving through fluids face fluid friction, or drag, which is reduced by giving them a streamlined shape, as seen in birds, fish and aeroplanes." }
+        {
+          "lead": "Friction as a friend.",
+          "text": "Friction makes many everyday actions possible. It lets us walk without slipping, write with a pen, hold and grip objects, and stop vehicles using brakes. Without friction we could neither move nor hold anything."
+        },
+        {
+          "lead": "Friction as a foe.",
+          "text": "Friction also causes the wear and tear of machine parts and shoe soles, and produces heat, wasting energy."
+        },
+        {
+          "lead": "Reducing friction.",
+          "text": "Friction can be reduced by using lubricants such as oil and grease, by polishing surfaces, and by using ball bearings, which change sliding into rolling. Objects moving through fluids face fluid friction, or drag, which is reduced by giving them a streamlined shape, as seen in birds, fish and aeroplanes."
+        }
+      ]
+    },
+    {
+      "q": "How does friction depend on the surfaces in contact, and why does it produce heat?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Friction",
+          "text": "is the force that opposes the relative motion between two surfaces in contact, and it acts along the surface."
+        },
+        {
+          "list": [
+            "It arises because even smooth-looking surfaces have tiny irregularities that interlock",
+            "Rougher surfaces have more interlocking and so more friction; smoother surfaces have less",
+            "Pressing surfaces together harder increases friction"
+          ]
+        },
+        {
+          "lead": "Friction produces heat",
+          "text": "because the effort spent overcoming the interlocking is converted into heat."
+        },
+        {
+          "list": [
+            "Rubbing our hands warms them; a matchstick lights on striking",
+            "This heat can be useful but also causes wear and tear of moving machine parts"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between static, sliding and rolling friction, and explain how rolling reduces friction.",
+      "directive": "Distinguish",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Friction takes different forms",
+          "text": "depending on how the surfaces move over each other."
+        },
+        {
+          "list": [
+            "Static friction acts when an object is at rest and about to move; it is the strongest",
+            "Sliding friction acts when one surface slides over another; it is less than static friction",
+            "Rolling friction acts when an object rolls over a surface; it is the smallest of the three"
+          ]
+        },
+        {
+          "lead": "Rolling reduces friction",
+          "text": "because a rolling body touches the surface at very few points at a time."
+        },
+        {
+          "list": [
+            "This is why wheels and ball bearings are used in machines and vehicles to move heavy loads easily"
+          ]
+        }
       ]
     }
   ]

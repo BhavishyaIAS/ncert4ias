@@ -7,9 +7,18 @@
       "word_limit": 150,
       "answer": [
         "A resource is anything that has utility and can be used to satisfy human needs; something becomes a resource only when its usefulness is realised and technology allows it to be used.",
-        { "lead": "By origin.", "text": "Biotic resources come from the living world, such as plants and animals, while abiotic resources come from the non-living world, such as rocks, minerals and water." },
-        { "lead": "By exhaustibility.", "text": "Renewable resources can be renewed, like solar energy, wind and water, while non-renewable resources are limited and take very long to form, like coal and petroleum." },
-        { "lead": "By development.", "text": "Actual resources are those whose quantity is known and being used, while potential resources exist but are not yet used. Resources may also be ubiquitous, found everywhere, or localised, found only in some places." }
+        {
+          "lead": "By origin.",
+          "text": "Biotic resources come from the living world, such as plants and animals, while abiotic resources come from the non-living world, such as rocks, minerals and water."
+        },
+        {
+          "lead": "By exhaustibility.",
+          "text": "Renewable resources can be renewed, like solar energy, wind and water, while non-renewable resources are limited and take very long to form, like coal and petroleum."
+        },
+        {
+          "lead": "By development.",
+          "text": "Actual resources are those whose quantity is known and being used, while potential resources exist but are not yet used. Resources may also be ubiquitous, found everywhere, or localised, found only in some places."
+        }
       ]
     },
     {
@@ -18,9 +27,62 @@
       "word_limit": 150,
       "answer": [
         "Because resources are limited and unevenly distributed, using them wisely is essential.",
-        { "lead": "Conservation.", "text": "Conservation means using resources carefully and giving renewable ones enough time to renew themselves, so that they are not exhausted or wasted." },
-        { "lead": "Sustainable development.", "text": "Sustainable development is development that meets the needs of the present generation without harming the ability of future generations to meet their own needs. It balances the use of resources today with their availability tomorrow." },
-        { "lead": "Global effort.", "text": "The world recognised this at the Rio Earth Summit of 1992, which adopted Agenda 21 as a plan of action for sustainable development. Careful use of resources is thus vital for both present and future well-being." }
+        {
+          "lead": "Conservation.",
+          "text": "Conservation means using resources carefully and giving renewable ones enough time to renew themselves, so that they are not exhausted or wasted."
+        },
+        {
+          "lead": "Sustainable development.",
+          "text": "Sustainable development is development that meets the needs of the present generation without harming the ability of future generations to meet their own needs. It balances the use of resources today with their availability tomorrow."
+        },
+        {
+          "lead": "Global effort.",
+          "text": "The world recognised this at the Rio Earth Summit of 1992, which adopted Agenda 21 as a plan of action for sustainable development. Careful use of resources is thus vital for both present and future well-being."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between renewable and non-renewable resources, and explain why the distinction matters for planning.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Renewable resources",
+          "text": "can be renewed or reproduced by natural or human processes — like solar energy, wind, water and forests. Some, such as sunlight, are continuous; others, like forests and water, renew only if used within limits."
+        },
+        {
+          "lead": "Non-renewable resources",
+          "text": "have a fixed stock and take millions of years to form, so they cannot be replaced once used up — such as coal, petroleum and other minerals."
+        },
+        {
+          "list": [
+            "The distinction guides conservation: non-renewables must be used sparingly and substitutes developed",
+            "Renewables must not be over-used beyond their rate of renewal, or they too become exhausted",
+            "Planning for sustainable development depends on knowing which resources can regenerate"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Explain the patterns of resource distribution and the role of human resource development.",
+      "directive": "Explain",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Resources are unevenly distributed",
+          "text": "over the earth because of differences in physical factors like terrain, climate and altitude that people cannot control."
+        },
+        {
+          "list": [
+            "Some regions are rich in minerals or fertile soil while others are resource-poor",
+            "But the value of a resource depends on human ability to use it — technology and knowledge turn 'stuff' into resources",
+            "So human resources — educated, skilled and healthy people — are the most important resource of all"
+          ]
+        },
+        {
+          "lead": "Improving people",
+          "text": "through education, health and skills (human resource development) makes a country able to use its natural resources wisely and create new ones."
+        }
       ]
     }
   ]

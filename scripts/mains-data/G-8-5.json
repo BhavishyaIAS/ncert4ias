@@ -7,8 +7,14 @@
       "word_limit": 150,
       "answer": [
         "People are called human resources because their skills, abilities and knowledge allow them to use all other resources and create wealth, making them the most valuable resource of all.",
-        { "lead": "Uneven distribution.", "text": "Population is very unevenly spread over the Earth: roughly ninety per cent of people live on about ten per cent of the land. Population density, the number of people per square kilometre, is high in South and East Asia, Europe and north-eastern USA, and low in deserts, high mountains, dense forests and polar regions." },
-        { "lead": "Factors.", "text": "Distribution is influenced by physical factors such as topography, climate, soil, and the availability of water and minerals, and by human factors such as industries, transport and job opportunities." }
+        {
+          "lead": "Uneven distribution.",
+          "text": "Population is very unevenly spread over the Earth: roughly ninety per cent of people live on about ten per cent of the land. Population density, the number of people per square kilometre, is high in South and East Asia, Europe and north-eastern USA, and low in deserts, high mountains, dense forests and polar regions."
+        },
+        {
+          "lead": "Factors.",
+          "text": "Distribution is influenced by physical factors such as topography, climate, soil, and the availability of water and minerals, and by human factors such as industries, transport and job opportunities."
+        }
       ]
     },
     {
@@ -16,9 +22,67 @@
       "directive": "Explain",
       "word_limit": 150,
       "answer": [
-        { "lead": "Population change.", "text": "The population of a place changes because of births, deaths and migration. The natural growth rate is the birth rate minus the death rate. Migration adds people through immigration, when they move in, and reduces them through emigration, when they move out; rural-to-urban migration leads to urbanisation." },
-        { "lead": "Population pyramid.", "text": "A population pyramid, or age-sex pyramid, shows the number of males and females in each age group. A broad-based pyramid means there are many children and a high birth rate, while a narrow-based one indicates an ageing population." },
+        {
+          "lead": "Population change.",
+          "text": "The population of a place changes because of births, deaths and migration. The natural growth rate is the birth rate minus the death rate. Migration adds people through immigration, when they move in, and reduces them through emigration, when they move out; rural-to-urban migration leads to urbanisation."
+        },
+        {
+          "lead": "Population pyramid.",
+          "text": "A population pyramid, or age-sex pyramid, shows the number of males and females in each age group. A broad-based pyramid means there are many children and a high birth rate, while a narrow-based one indicates an ageing population."
+        },
         "Studying these helps a country plan for schools, jobs, health care and other needs."
+      ]
+    },
+    {
+      "q": "What is population density, and what factors influence where people live?",
+      "directive": "Explain",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Population density",
+          "text": "is the number of people living in a unit area of the earth's surface, usually per square kilometre. It shows how crowded a place is."
+        },
+        {
+          "lead": "Several factors decide distribution.",
+          "text": "People cluster where conditions favour living and working."
+        },
+        {
+          "list": [
+            "Geographical factors: fertile plains, moderate climate, availability of fresh water and minerals attract people; deserts, high mountains and dense forests repel them",
+            "Social factors: areas with better housing, education and health draw settlers",
+            "Economic and political factors: industrial areas, transport hubs and stable regions have dense populations"
+          ]
+        },
+        {
+          "lead": "This is why",
+          "text": "river valleys and plains are densely peopled while harsh environments stay sparsely settled."
+        }
+      ]
+    },
+    {
+      "q": "How does the composition of a population, shown by a population pyramid, help a country plan?",
+      "directive": "Analyse",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Population composition",
+          "text": "describes the structure of a population — its age, sex ratio, literacy, occupations and health."
+        },
+        {
+          "lead": "A population pyramid",
+          "text": "shows this graphically, splitting the population into age groups and by sex."
+        },
+        {
+          "list": [
+            "A wide base means many children and a young, growing population needing schools and jobs",
+            "A narrow base with a broad middle means an ageing population needing pensions and healthcare",
+            "The sex ratio reveals gender balance"
+          ]
+        },
+        {
+          "lead": "Planners use these patterns",
+          "text": "to provide the right services — education, employment, health and old-age care — for the years ahead."
+        }
       ]
     }
   ]

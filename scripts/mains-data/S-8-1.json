@@ -7,10 +7,22 @@
       "word_limit": 150,
       "answer": [
         "Growing a crop involves a series of steps carried out in order.",
-        { "lead": "Preparing and sowing.", "text": "The soil is first loosened and turned by ploughing, which lets in air and brings nutrients up. Good-quality seeds are then sown, by hand or with a seed drill." },
-        { "lead": "Nourishing and watering.", "text": "Manure and fertilisers are added to replenish soil nutrients, and the field is irrigated using wells, canals, tube wells or modern drip and sprinkler systems." },
-        { "lead": "Weeding and harvesting.", "text": "Unwanted plants called weeds are removed, and when the crop matures it is harvested with a sickle or a harvester, after which threshing separates the grain from the chaff." },
-        { "lead": "Storage.", "text": "Finally, the dried grain is stored safely in silos or granaries, protected from moisture and pests." }
+        {
+          "lead": "Preparing and sowing.",
+          "text": "The soil is first loosened and turned by ploughing, which lets in air and brings nutrients up. Good-quality seeds are then sown, by hand or with a seed drill."
+        },
+        {
+          "lead": "Nourishing and watering.",
+          "text": "Manure and fertilisers are added to replenish soil nutrients, and the field is irrigated using wells, canals, tube wells or modern drip and sprinkler systems."
+        },
+        {
+          "lead": "Weeding and harvesting.",
+          "text": "Unwanted plants called weeds are removed, and when the crop matures it is harvested with a sickle or a harvester, after which threshing separates the grain from the chaff."
+        },
+        {
+          "lead": "Storage.",
+          "text": "Finally, the dried grain is stored safely in silos or granaries, protected from moisture and pests."
+        }
       ]
     },
     {
@@ -18,9 +30,74 @@
       "directive": "Distinguish",
       "word_limit": 150,
       "answer": [
-        { "lead": "Manure.", "text": "Manure is a natural substance obtained by the decomposition of plant and animal wastes, such as compost and vermicompost. It adds nutrients to the soil, improves its texture and its ability to hold water, and does not harm the environment." },
-        { "lead": "Fertiliser.", "text": "A fertiliser is a chemical, manufactured in factories, that is rich in a particular plant nutrient, such as urea or NPK. It gives quick and specific nutrients and raises yields, but its overuse can harm the soil and pollute water." },
-        { "lead": "Natural replenishment.", "text": "Soil fertility can also be restored naturally through crop rotation and by growing leguminous plants, whose root bacteria, Rhizobium, fix nitrogen from the air." }
+        {
+          "lead": "Manure.",
+          "text": "Manure is a natural substance obtained by the decomposition of plant and animal wastes, such as compost and vermicompost. It adds nutrients to the soil, improves its texture and its ability to hold water, and does not harm the environment."
+        },
+        {
+          "lead": "Fertiliser.",
+          "text": "A fertiliser is a chemical, manufactured in factories, that is rich in a particular plant nutrient, such as urea or NPK. It gives quick and specific nutrients and raises yields, but its overuse can harm the soil and pollute water."
+        },
+        {
+          "lead": "Natural replenishment.",
+          "text": "Soil fertility can also be restored naturally through crop rotation and by growing leguminous plants, whose root bacteria, Rhizobium, fix nitrogen from the air."
+        }
+      ]
+    },
+    {
+      "q": "Distinguish between traditional and modern methods of irrigation, and explain why efficient water use matters in farming.",
+      "directive": "Distinguish",
+      "word_limit": 150,
+      "answer": [
+        {
+          "lead": "Irrigation",
+          "text": "is the supply of water to crops at regular intervals, and it can be done by traditional or modern means."
+        },
+        {
+          "lead": "Traditional methods",
+          "text": "use human or animal power and simple devices — moat (pulley system), chain pump, dhekli and rahat — and are cheap but draw less water and need much labour."
+        },
+        {
+          "lead": "Modern methods",
+          "text": "use pumps and save water."
+        },
+        {
+          "list": [
+            "Sprinkler systems spray water like rain and suit uneven land and sandy soils",
+            "Drip irrigation delivers water drop by drop to the roots, wasting almost none"
+          ]
+        },
+        {
+          "lead": "Efficient use matters",
+          "text": "because water is scarce; drip and sprinkler methods conserve it while giving good yields."
+        }
+      ]
+    },
+    {
+      "q": "Describe the steps involved in harvesting and storage of crops, and the losses that can occur.",
+      "directive": "Describe",
+      "word_limit": 140,
+      "answer": [
+        {
+          "lead": "Harvesting",
+          "text": "is the cutting and gathering of a mature crop. It can be done by hand with a sickle or by machines called harvesters."
+        },
+        {
+          "list": [
+            "After cutting, the grain is separated from the chaff by threshing, often using a combine that harvests and threshes together",
+            "Winnowing separates lighter husk from heavier grain using wind"
+          ]
+        },
+        {
+          "lead": "Storage",
+          "text": "protects the produce until it is used or sold."
+        },
+        {
+          "list": [
+            "Grain must be dried to remove moisture, or it is attacked by microbes, insects, rats and mould",
+            "Farmers use dried neem leaves and airtight containers; large stocks are kept in silos and granaries with fumigation"
+          ]
+        }
       ]
     }
   ]
